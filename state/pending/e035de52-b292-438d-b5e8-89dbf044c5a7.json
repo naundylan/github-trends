@@ -1,0 +1,11 @@
+{
+  "id": "e035de52-b292-438d-b5e8-89dbf044c5a7",
+  "repo": "undefined/starship",
+  "url": "https://github.com/starship/starship",
+  "category": "CLI Tool",
+  "summary_vi": "Prompt shell tối ưu tốc độ và tùy biến hoàn toàn, hỗ trợ nhiều nền tảng.",
+  "stars": 58593,
+  "language": "Rust",
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-07-01T04:57:18.422Z"
+}
