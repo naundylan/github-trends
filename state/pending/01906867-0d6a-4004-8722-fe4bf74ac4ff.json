@@ -1,0 +1,11 @@
+{
+  "id": "01906867-0d6a-4004-8722-fe4bf74ac4ff",
+  "repo": "undefined/agent-orchestrator",
+  "url": "https://github.com/AgentWrapper/agent-orchestrator",
+  "category": "AI Agent/Automation",
+  "summary_vi": "Trình điều phối agent hỗ trợ song song để lập kế hoạch việc làm, spawn agent và tự động xử lý CI, xung đột merge, đánh giá mã.",
+  "stars": 7829,
+  "language": "Go",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-01T04:57:01.567Z"
+}
