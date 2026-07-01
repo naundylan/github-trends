@@ -1,0 +1,11 @@
+{
+  "id": "a0eb792f-ac5c-4f1e-9f37-23e799bb226c",
+  "repo": "undefined/trivy",
+  "url": "https://github.com/aquasecurity/trivy",
+  "category": "Security/Pentest",
+  "summary_vi": "Quét lỗi, misconfigurations, secrets trong containers, Kubernetes và mã nguồn.",
+  "stars": 36664,
+  "language": "Go",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-01T14:44:29.437Z"
+}
