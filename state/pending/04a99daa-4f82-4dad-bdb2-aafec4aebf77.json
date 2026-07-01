@@ -1,0 +1,11 @@
+{
+  "id": "04a99daa-4f82-4dad-bdb2-aafec4aebf77",
+  "repo": "undefined/FluidVoice",
+  "url": "https://github.com/altic-dev/FluidVoice",
+  "category": "AI/LLM",
+  "summary_vi": "Ứng dụng dictation trên macOS sử dụng STT on-device và mô hình AI tối ưu hóa, hiện tại chạy trên macOS với các nền tảng khác sắp ra mắt.",
+  "stars": 5038,
+  "language": "Swift",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-01T04:55:56.671Z"
+}
