@@ -1,6 +1,6 @@
 import { promises as fs } from "fs";
 import { randomUUID } from "crypto";
-import { fetchRepositories } from "@huchenme/github-trending";
+import { fetchTrendingRepos } from "./lib/scraper.js";
 import { Octokit } from "@octokit/rest";
 import { loadHistory, saveHistory, diffAgainstHistory } from "./lib/history.js";
 import { categorizeAndSummarize } from "./lib/openrouter.js";
@@ -17,7 +17,7 @@ const TARGET_LANGS = LANGUAGES.length ? LANGUAGES : ["", "javascript", "python",
 async function fetchTrendingAllLangs() {
   const seen = new Map();
   for (const lang of TARGET_LANGS) {
-    const repos = await fetchRepositories({ language: lang, since: "daily" });
+    const repos = await fetchTrendingRepos({ language: lang, since: "daily" });
     for (const r of repos) {
       const fullName = `${r.author}/${r.name}`;
       if (!seen.has(fullName)) {
