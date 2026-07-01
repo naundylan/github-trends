@@ -1,0 +1,31 @@
+name: GitHub Trending Crawl
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # mỗi 6 tiếng
+  workflow_dispatch: {} # cho phép chạy tay để test
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm ci
+
+      - name: Run crawl script
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TRENDING_LANGUAGES: ${{ vars.TRENDING_LANGUAGES }}
+        run: node scripts/crawl.js

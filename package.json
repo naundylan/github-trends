@@ -1,0 +1,14 @@
+{
+  "name": "github-trends",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Crawl GitHub Trending, summarize + categorize via OpenRouter, push to Telegram, save to Obsidian on demand.",
+  "scripts": {
+    "crawl": "node scripts/crawl.js"
+  },
+  "dependencies": {
+    "@huchenme/github-trending": "^2.4.2",
+    "@octokit/rest": "^20.1.1"
+  }
+}
