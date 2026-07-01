@@ -1,0 +1,11 @@
+{
+  "id": "4018bbf4-bdcd-4690-a75e-60486e40e441",
+  "repo": "undefined/wezterm",
+  "url": "https://github.com/wezterm/wezterm",
+  "category": "Developer Tool",
+  "summary_vi": "Terminal emulator đa nền tảng với trọng lượng nhẹ, sử dụng GPU và Rust để tốc độ cao.",
+  "stars": 27157,
+  "language": "Rust",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-01T09:56:33.389Z"
+}
