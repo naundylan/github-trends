@@ -1,0 +1,11 @@
+{
+  "id": "cf8f5425-ffe0-4959-a14c-1f22917b6cca",
+  "repo": "undefined/llmfit",
+  "url": "https://github.com/AlexsJones/llmfit",
+  "category": "AI/LLM",
+  "summary_vi": "Công cụ tìm mô hình LLM phù hợp chạy trên hardware cục bộ bằng một lệnh duy nhất.",
+  "stars": 28925,
+  "language": "Rust",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-01T04:57:20.867Z"
+}
