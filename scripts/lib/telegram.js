@@ -9,11 +9,11 @@ export async function sendTrendingMessage({ repo, category, summary, pendingId }
   const text = [
     `🔥 *${escapeMd(repo.fullName)}*`,
     `📂 Category: ${escapeMd(category)}`,
-    `⭐ ${repo.stars} sao (+${repo.starsToday} hôm nay) | ${escapeMd(repo.language || "?")}`,
+    `⭐ ${escapeMd(String(repo.stars))} sao \\(\\+${escapeMd(String(repo.starsToday))} hôm nay\\) | ${escapeMd(repo.language || "?")}`,
     "",
     escapeMd(summary),
     "",
-    `🔗 ${repo.url}`,
+    `🔗 ${escapeMd(repo.url)}`,
   ].join("\n");
 
   const body = {
@@ -47,5 +47,5 @@ export async function sendTrendingMessage({ repo, category, summary, pendingId }
 }
 
 function escapeMd(text = "") {
-  return String(text).replace(/[_*[\]()~`>#+\-=|{}.!]/g, "\\$&");
+  return String(text).replace(/[_*[\]()~`>#+\-=|{}.!@]/g, "\\$&");
 }
