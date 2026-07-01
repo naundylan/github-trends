@@ -1,0 +1,11 @@
+{
+  "id": "320fc3b7-eac8-435b-b7ee-22bb80baf0f0",
+  "repo": "undefined/vscode-office",
+  "url": "https://github.com/cweijan/vscode-office",
+  "category": "Code Editor/IDE Extension",
+  "summary_vi": "Tiện ích mở rộng VSCode hỗ trợ xem trước tài liệu PDF, Excel, Word và thêm trình soạn thảo WYSIWYG cho Markdown.",
+  "stars": 1488,
+  "language": "TypeScript",
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-07-01T09:55:54.684Z"
+}
