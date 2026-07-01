@@ -1,0 +1,11 @@
+{
+  "id": "4720812d-358c-4a09-9a77-a591e670c0be",
+  "repo": "undefined/tokio",
+  "url": "https://github.com/tokio-rs/tokio",
+  "category": "Backend Framework",
+  "summary_vi": "Runtime không đồng bộ chuyên sâu cho Rust, cung cấp I/O, mạng và lập lịch để xây dựng ứng dụng ổn định và hiệu quả.",
+  "stars": 32415,
+  "language": "Rust",
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-07-01T14:44:54.809Z"
+}
