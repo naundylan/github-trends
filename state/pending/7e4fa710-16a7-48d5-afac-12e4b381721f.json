@@ -1,0 +1,11 @@
+{
+  "id": "7e4fa710-16a7-48d5-afac-12e4b381721f",
+  "repo": "undefined/MasterDnsVPN",
+  "url": "https://github.com/masterking32/MasterDnsVPN",
+  "category": "Networking",
+  "summary_vi": "VPN dùng động lực DNS tunneling tiên tiến để vượt censoring, tối ưu hiệu suất và ổn định ở tải kém.",
+  "stars": 6561,
+  "language": "Go",
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-07-01T14:44:21.262Z"
+}
