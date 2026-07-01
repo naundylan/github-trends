@@ -1,0 +1,11 @@
+{
+  "id": "2a5c37ba-f452-4aaf-9e4b-e2ca808517a4",
+  "repo": "undefined/polars",
+  "url": "https://github.com/pola-rs/polars",
+  "category": "Data Engineering/ETL",
+  "summary_vi": "Engine truy vấn cực kỳ nhanh cho DataFrame được viết bằng Rust, thiết kế để xử lý và phân tích dữ liệu lớn một cách tối ưu.",
+  "stars": 38895,
+  "language": "Rust",
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-07-01T14:44:53.338Z"
+}
