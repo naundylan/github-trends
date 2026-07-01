@@ -1,0 +1,11 @@
+{
+  "id": "c0b23d51-0a23-433a-93ed-0fd972d530a1",
+  "repo": "undefined/rustfs",
+  "url": "https://github.com/rustfs/rustfs",
+  "category": "Infrastructure as Code",
+  "summary_vi": "Hệ thống lưu trữ đối tượng mở nguồn tương thích S3, tốc độ 2.3x nhanh hơn MinIO.",
+  "stars": 29341,
+  "language": "Rust",
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-07-01T04:57:28.889Z"
+}
