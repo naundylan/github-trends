@@ -1,0 +1,11 @@
+{
+  "id": "9df6490e-1144-48ad-8eb6-f9c1120ab273",
+  "repo": "undefined/herdr",
+  "url": "https://github.com/ogulcancelik/herdr",
+  "category": "AI Agent/Automation",
+  "summary_vi": "Trình đa nhiệm agent chạy trong terminal, cho phép quản lý và điều phối nhiều agent một cách linh hoạt.",
+  "stars": 9244,
+  "language": "Rust",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-01T09:55:04.387Z"
+}
