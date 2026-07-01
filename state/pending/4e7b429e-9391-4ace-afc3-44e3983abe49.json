@@ -1,0 +1,11 @@
+{
+  "id": "4e7b429e-9391-4ace-afc3-44e3983abe49",
+  "repo": "undefined/check-if-email-exists",
+  "url": "https://github.com/reacherhq/check-if-email-exists",
+  "category": "CLI Tool",
+  "summary_vi": "Công cụ CLI bằng Rust kiểm tra tính tồn tại của email mà không cần gửi email, đi kèm backend HTTP.",
+  "stars": 9086,
+  "language": "Rust",
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-07-01T09:56:26.821Z"
+}
