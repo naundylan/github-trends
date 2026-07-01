@@ -1,0 +1,11 @@
+{
+  "id": "742ed899-47cb-4302-a822-bdf8c85bdafb",
+  "repo": "undefined/Xray-core",
+  "url": "https://github.com/XTLS/Xray-core",
+  "category": "Networking",
+  "summary_vi": "Nền tảng mạng mở rộng để các ứng dụng điện toán đám phân tán, đặc biệt là phiên bản cải tiến cho v2ray-core với kiến trúc linh hoạt.",
+  "stars": 39999,
+  "language": "Go",
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-07-01T09:56:10.992Z"
+}
