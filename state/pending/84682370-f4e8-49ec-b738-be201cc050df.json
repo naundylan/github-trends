@@ -1,0 +1,11 @@
+{
+  "id": "84682370-f4e8-49ec-b738-be201cc050df",
+  "repo": "undefined/workers-sdk",
+  "url": "https://github.com/cloudflare/workers-sdk",
+  "category": "Serverless",
+  "summary_vi": "Bộ SDK và CLI Wrangler dành cho Cloudflare Workers, giúp phát triển và triển vọn ứng dụng serverless nhanh chóng.",
+  "stars": 4277,
+  "language": "TypeScript",
+  "notePath": "notes/Serverless.md",
+  "createdAt": "2026-07-01T09:55:49.526Z"
+}
