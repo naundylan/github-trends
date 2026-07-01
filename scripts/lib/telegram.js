@@ -1,25 +1,20 @@
 const TELEGRAM_API = `https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}`;
 
-/**
- * Gửi 1 message cho 1 repo, kèm nút "Lưu vào Obsidian".
- * callback_data phải gọn (Telegram giới hạn 64 byte) -> chỉ encode index tham chiếu
- * tới 1 "pending item" mà Worker đã lưu sẵn trên GitHub, KHÔNG nhồi full data vào đây.
- */
 export async function sendTrendingMessage({ repo, category, summary, pendingId }) {
   const text = [
-    `🔥 *${escapeMd(repo.fullName)}*`,
-    `📂 Category: ${escapeMd(category)}`,
-    `⭐ ${escapeMd(String(repo.stars))} sao \\(\\+${escapeMd(String(repo.starsToday))} hôm nay\\) | ${escapeMd(repo.language || "?")}`,
-    "",
-    escapeMd(summary),
-    "",
-    `🔗 ${escapeMd(repo.url)}`,
+    `🔥 <b>${esc(repo.fullName)}</b>`,
+    `📂 Category: ${esc(category)}`,
+    `⭐ ${esc(String(repo.stars))} sao (+${esc(String(repo.starsToday))} hôm nay) | ${esc(repo.language || "?")}`,
+    ``,
+    esc(summary),
+    ``,
+    `🔗 <a href="${esc(repo.url)}">${esc(repo.url)}</a>`,
   ].join("\n");
 
   const body = {
     chat_id: process.env.TELEGRAM_CHAT_ID,
     text,
-    parse_mode: "MarkdownV2",
+    parse_mode: "HTML",
     reply_markup: {
       inline_keyboard: [
         [
@@ -46,6 +41,9 @@ export async function sendTrendingMessage({ repo, category, summary, pendingId }
   return res.json();
 }
 
-function escapeMd(text = "") {
-  return String(text).replace(/[_*[\]()~`>#+\-=|{}.!@]/g, "\\$&");
+function esc(text = "") {
+  return String(text)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
 }
