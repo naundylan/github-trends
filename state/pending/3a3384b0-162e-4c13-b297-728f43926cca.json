@@ -1,0 +1,11 @@
+{
+  "id": "3a3384b0-162e-4c13-b297-728f43926cca",
+  "repo": "undefined/rerun",
+  "url": "https://github.com/rerun-io/rerun",
+  "category": "Data Visualization",
+  "summary_vi": "Nền tảng trực quan hóa và truy vấn dữ liệu đa phương tiện cho robotics, hỗ trợ streaming và đào tạo.",
+  "stars": 11030,
+  "language": "Rust",
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-07-01T04:57:23.114Z"
+}
