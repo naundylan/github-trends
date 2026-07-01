@@ -1,0 +1,11 @@
+{
+  "id": "4489d974-ede9-4c79-b1e9-4eca0ace2f31",
+  "repo": "undefined/agent-orchestrator",
+  "url": "https://github.com/AgentWrapper/agent-orchestrator",
+  "category": "AI Agent/Automation",
+  "summary_vi": "Trình điều phối agent thông minh giúp các agent code làm việc song song, tự động xử lý conflict và đánh giá code.",
+  "stars": 7839,
+  "language": "Go",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-01T09:56:09.723Z"
+}
