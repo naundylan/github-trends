@@ -1,0 +1,11 @@
+{
+  "id": "9be839ac-9a70-4e35-a951-20650682c148",
+  "repo": "undefined/chrome-devtools-mcp",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "category": "Developer Tool",
+  "summary_vi": "Tích hợp Chrome DevTools với các agent code, giúp các AI assistant tương tác trực tiếp với trình duyệt để debug và điều khiển quy trình phát triển.",
+  "stars": 44825,
+  "language": "TypeScript",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-01T09:55:58.509Z"
+}
