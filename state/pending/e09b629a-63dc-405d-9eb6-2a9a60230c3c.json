@@ -1,0 +1,11 @@
+{
+  "id": "e09b629a-63dc-405d-9eb6-2a9a60230c3c",
+  "repo": "undefined/yolov5",
+  "url": "https://github.com/ultralytics/yolov5",
+  "category": "Computer Vision",
+  "summary_vi": "Thư viện nhận dạng đối tượng bằng PyTorch hỗ trợ xuất sang ONNX, CoreML và TFLite cho nhiều nền tảng.",
+  "stars": 57590,
+  "language": "Python",
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-07-01T14:43:58.364Z"
+}
