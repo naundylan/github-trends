@@ -1,0 +1,11 @@
+{
+  "id": "21feb8ea-98cb-4224-a62e-5282d89dbd97",
+  "repo": "undefined/node",
+  "url": "https://github.com/nodejs/node",
+  "category": "Backend Framework",
+  "summary_vi": "Runtime JavaScript Node.js với hiệu suất cao, là nền tảng chính cho phát triển backend và ứng dụng mạng.",
+  "stars": 117947,
+  "language": "JavaScript",
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-07-01T14:43:42.082Z"
+}
