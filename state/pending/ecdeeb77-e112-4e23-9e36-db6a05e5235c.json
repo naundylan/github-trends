@@ -1,0 +1,11 @@
+{
+  "id": "ecdeeb77-e112-4e23-9e36-db6a05e5235c",
+  "repo": "undefined/containerd",
+  "url": "https://github.com/containerd/containerd",
+  "category": "DevOps/CI-CD",
+  "summary_vi": "Container runtime mở và đáng tin cậy, là thành phần cơ bản cho việc chạy container trong hệ sinh thái đám mâu",
+  "stars": 20900,
+  "language": "Go",
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-07-01T04:56:54.504Z"
+}
