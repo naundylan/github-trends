@@ -1,0 +1,11 @@
+{
+  "id": "cb5d02da-6e1e-4582-9753-77c3fbdf25ed",
+  "repo": "undefined/cupp",
+  "url": "https://github.com/Mebus/cupp",
+  "category": "Security/Pentest",
+  "summary_vi": "Công cụ Common User Passwords Profiler (CUPP) giúp tạo danh sách mật khẩu khả thi cho mục đích testing và penetration testing.",
+  "stars": 6131,
+  "language": "Python",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-01T04:56:01.137Z"
+}
