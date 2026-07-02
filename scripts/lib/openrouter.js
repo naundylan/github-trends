@@ -40,7 +40,7 @@ CHỈ trả về JSON thuần (không markdown, không giải thích), dạng:
         { role: "user", content: `Phân tích các repo sau:\n\n${listText}` },
       ],
       temperature: 0.7,
-      max_tokens: 4000,
+      max_tokens: 8000,
     }),
   });
 
