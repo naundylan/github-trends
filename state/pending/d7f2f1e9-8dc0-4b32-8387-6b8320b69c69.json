@@ -1,0 +1,24 @@
+{
+  "id": "d7f2f1e9-8dc0-4b32-8387-6b8320b69c69",
+  "repo": "microsoft/AI-For-Beginners",
+  "url": "https://github.com/microsoft/AI-For-Beginners",
+  "category": "AI/LLM",
+  "summary": "Khóa học AI miễn phí 12 tuần, 24 bài học từ cơ bản đến nâng cao với Jupyter Notebook, bao gồm deep learning, computer vision, NLP và các mô hình GAN. Dự án nhằm đưa AI đến gần hơn với cộng đồng người học và các nhà phát triển cá nhân.",
+  "usecases": [
+    "Giáo viên đại học giảng dạy môn học trò AI cơ bản với nội dung thực hành",
+    "Người mới bắt đầu học AI tự học qua các bài tập code ngay trong notebook",
+    "Nhà phát triển cần nâng kỹ năng cá nhân về machine learning và deep learning",
+    "Tổ chức công cộng sử dụng như nguồn tài liệu đào tạo miễn phí cho đội ngũ kỹ sư"
+  ],
+  "ideas": [
+    "Tích hợp với Trình duyệt thông minh để hệ thống gợi ý bài học dựa trên tiến độ người dùng",
+    "Kết hợp với VR/AR tạo môi trường học tương tác 3D cho các thuật toán AI",
+    "Xây dựng phiên bản mobile app để học AI mọi lúc mọi nơi với chế độ offline",
+    "Tích hợp AI agent cá nhân để đánh giá và phản hồi bài tập lập trình theo thời gian thực"
+  ],
+  "stars": 50656,
+  "starsToday": 1096,
+  "language": "Jupyter Notebook",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-02T04:27:41.818Z"
+}

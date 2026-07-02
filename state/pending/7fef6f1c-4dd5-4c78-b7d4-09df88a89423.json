@@ -1,0 +1,22 @@
+{
+  "id": "7fef6f1c-4dd5-4c78-b7d4-09df88a89423",
+  "repo": "HKUDS/Vibe-Trading",
+  "url": "https://github.com/HKUDS/Vibe-Trading",
+  "category": "AI Agent/Automation",
+  "summary": "Vibe-Trading là một 'trading agent' cá nhân sử dụng trí tuệ nhân tạo để phân tích thị trường và thực thi các chiến lược giao dịch tự động. Dự án kết hợp giữa machine learning và MCP (Multi-Agent Communication Protocol) để tạo ra các cơ quyên giao dịch thông minh.",
+  "usecases": [
+    "Nhà đầu tư cá nhân sử dụng Vibe-Trading để có một 'người quản lý đầu tư' 24/7 phân tích thị trường và thực thi giao dịch dựa trên chiến lược cá nhân hóa",
+    "Quỹ đầu tư sử dụng Vibe-Trading để backtesting các chiến lược giao dịch tự động trên nhiều thị trường cùng lúc",
+    "Nhà nghiên cứu tài chính phát triển các module mới cho Vibe-Trading để thử nghiệm các mô hình dự báo giá bằng AI"
+  ],
+  "ideas": [
+    "Kết hợp Vibe-Trading với hệ thống IoT để các AI agent giao dịch dựa trên dữ liệu thời nguyên trực tiếp từ cảm biến môi trường",
+    "Xây dựng mạng lưới các Trading Agents chia sẻ thông tin và hợp tác giao dịch qua blockchain",
+    "Tích hợp Vibe-Trading vào siêu thị VR để nhà đầu tư 'trải nghiệm' cả portfolio của họ trong không gian 3D với các biểu tượng giao dịch cực động"
+  ],
+  "stars": 16727,
+  "starsToday": 694,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T04:27:41.818Z"
+}
