@@ -1,0 +1,22 @@
+{
+  "id": "43984908-1f4a-4cd6-a44e-dffb6c272780",
+  "repo": "msitarzewski/agency-agents",
+  "url": "https://github.com/msitarzewski/agency-agents",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống đại sứ AI chuyên biệt với tính cách riêng, mỗi agent thực hiện một nhiệm vụ cụ thể từ phát triển frontend đến quản lý cộng đồng Reddit. Giải pháp này biểu diễn sự phát triển mới của AI multi-agent trong tự động hóa quy trình làm việc phức tạp.",
+  "usecases": [
+    "Doanh nhân sử dụng để quản lý toàn bộ hoạt động công ty ảo 24/7 không cần giám sát trực tiếp",
+    "Nhóm marketing tự động hóa việc tạo nội dung và tương tác cộng đồng trên nhiều nền tảng xã hội",
+    "Nhà thiết kế giao diện giao việc cho AI agent thực hiện dựa trên yêu cầu cụ thể"
+  ],
+  "ideas": [
+    "Tạo ra 'doanh nghiệp bệnh viên' sống được hatch để tự mở rộng và làm ăn với vốn điều tiếu",
+    "Xây dựng hệ thống điều phối hàng ngàn AI agent để giải quyết bài toán kinh tế vĩ mô trong thời gian thực",
+    "Phát triển mô hình pháp luật mới với các AI agent đại diện cho các bên trong hợp đồng phức tạp"
+  ],
+  "stars": 123926,
+  "starsToday": 2114,
+  "language": "Shell",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T04:38:19.317Z"
+}
