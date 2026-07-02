@@ -77,7 +77,9 @@ async function main() {
   const { toProcess, history: updatedHistory } = diffAgainstHistory(history, trending, todayISO);
   console.log(`${toProcess.length} repos eligible (new or resurfaced). Processing max ${MAX_PER_RUN} this run.`);
 
-  const limited = toProcess.slice(0, MAX_PER_RUN);
+  const limited = toProcess
+  .sort((a, b) => b.starsToday - a.starsToday)
+  .slice(0, MAX_PER_RUN);
 
   if (limited.length === 0) {
     await saveHistory(updatedHistory);
