@@ -1,0 +1,25 @@
+{
+  "id": "054c5be4-e2e4-4e4a-8bfb-e63fd84e389b",
+  "repo": "TencentCloud/CubeSandbox",
+  "url": "https://github.com/TencentCloud/CubeSandbox",
+  "category": "AI/LLM",
+  "summary": "CubeSandbox là một sandbox mạnh mẽ được xây dựng bằng Rust, cung cấp môi trường cô lập nhanh chóng, đồng thời cho phép nhiều AI agents cùng chạy an toàn và hiệu quả. Dự án giải quyết vấn đề thi execution code một cách an toàn cho các AI agent, đồng thời tối ưu hóa tài nguyên và khử lỗi race conditions.",
+  "usecases": [
+    "Developer sử dụng để chạy các AI agent thực thi code một cách an toàn khi xây dựng hệ thống tự động hóa quy trình",
+    "Data scientist dùng để sandbox các mô hình AI chạy code một cách cô lập trong môi trường production",
+    "DevOps team triển khai để cung cấp môi trường chạy an toàn cho các agent xử lý định kỳ hoặc sự kiện",
+    "Security engineer sử dụng để kiểm tra và giám sát hoạt động của AI agents trước khi chúng tương tác với hệ thống"
+  ],
+  "ideas": [
+    "Kết hợp với các framework như LangChain hoặc AutoGen để tạo sandbox độc lập cho mỗi agent chain để chạy đa nhiệm an toàn",
+    "Tích hợp vào hệ thống serverless như AWS Lambda hoặc Cloudflare Workers để chạy AI code execution với isolation hoàn hảo",
+    "Phát triển thành container runtime riêng để chạy các agent trong Kubernetes với resource quotas tinh vi",
+    "Kết hợp với WebAssembly để tạo môi trường sandbox hybrid giữa container và WASM execution",
+    "Xây dựng hệ thống multi-tenant AI coding assistant với mỗi user có sandbox riêng để chạy code một cách cô lập"
+  ],
+  "stars": 7001,
+  "starsToday": 329,
+  "language": "Rust",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-02T19:15:45.329Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ce5a3a49-487a-4d15-9129-1eda8fdb3855",
+  "repo": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "category": "API/GraphQL",
+  "summary": "Firecrawl cung cấp API mạnh mẽ để tìm kiếm, scrape, và tương tác với web quy mô lớn, chuyển đổi nội dung thành markdown phù hợp với LLM. Đây là giải pháp cuối cùng để truy xuất dữ liệu web một cách có hệ thống, hỗ trợ các tính năng crawl thông minh và trích xuất dữ liệu chính xác. Với khả năng mở rộng cao, Firecrawl phù hợp cho các ứng dụng cần dữ liệu web real-time.",
+  "usecases": [
+    "Chuyên gia nghiên cứu thị trường dùng Firecrawl để crawl 10.000 trang sản phẩm từ 500 website thương mại điện tử, trích xuất giá và đánh giá để phân tích xu hướng",
+    "Nhà phát triển chatbot trường học xây dựng knowledge base từ hàng triệu trang web tài liệu kỹ thuật, sử dụng Firecrawl làm source crawler chính",
+    "Công ty QA phần mềm sử dụng Firecrawl để monitor competitor features bằng cách crawl hàng ngàn trang chủ sản phẩm khác hàng ngày",
+    "Nhà báo điều tra tiếp cận nhanh dữ liệu hạn chế truy cập bằng cách dùng Firecrawl crawl các trang báo thơ giữa với API nhóm nghiên cứu"
+  ],
+  "ideas": [
+    "Kết hợp Firecrawl với autonomous research agent để tự động viết báo cáo thị trường 50 trang dài hàng tháng chỉ cần prompt đơn giản",
+    "Xây dựng 'web memory bank' cho AI assistants - mỗi lần user hỏi vấn đề, system crawl 5 trang web liên quan và tổng hợp câu trả lời chi tiết",
+    "Tạo nền tảng competitive intelligence hoàn chỉnh: Firecrawl crawl đối thủ → Phân tích bằng AI → Đề xuất strategy marketing tự động",
+    "Xây dựng hệ thống cảnh báo thông minh cho ngành finance: crawl tin tức tài chính 24/7 → AI phân tích cảm xúc → Alert giao dịch real-time"
+  ],
+  "stars": 143191,
+  "starsToday": 522,
+  "language": "TypeScript",
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-07-02T19:15:45.329Z"
+}

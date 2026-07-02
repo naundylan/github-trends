@@ -1,0 +1,22 @@
+{
+  "id": "22616d03-5028-427c-9a14-11d1502b80d7",
+  "repo": "NousResearch/hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "category": "AI Agent/Automation",
+  "summary": "Một AI agent thông minh có khả năng 'tăng trưởng' cùng người dùng, có khả năng học hỏi và thích ứng với nhu cầu ngày càng phức tạp. Hermes-agent là công cụ giúp tối ưu hóa trải nghiệm người dùng thông qua việc nhận theo dõi và phản hồi nhanh chóng.",
+  "usecases": [
+    "Khách hàng cá nhân sử dụng để quản lý cuộc sống cá nhân hóa, tự động hóa công việc nhà và lịch trình",
+    "Các doanh nghiệp nhỏ dùng agent này để chăm sóc khách hàng 24/7 mà không cần đội ngũ CS chịu tải áp lực",
+    "Nhà nghiên cứu khoa học dùng để phân tích dữ liệu và đặt câu hỏi tự động cho các thử nghiệm AI tiếp theo"
+  ],
+  "ideas": [
+    "Tích hợp với trí tuệ nhân tạo cảm xúc để tạo ra AI 'đoàn kết' và thấu hiểu cảm xúc con người hơn",
+    "Ứng dụng vào hệ thống điều hành tương lai để AI tự học và tối ưu hóa việc sử dụng tài nguyên máy tính",
+    "Xây dựng một mạng lưới AI sinh sống tự giác, mỗi agent phát triển và chia sẻ tri thức với nhau như một thế giới thật"
+  ],
+  "stars": 207925,
+  "starsToday": 849,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T19:15:45.329Z"
+}

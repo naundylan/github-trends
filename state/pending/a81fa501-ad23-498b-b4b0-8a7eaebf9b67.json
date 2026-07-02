@@ -1,0 +1,22 @@
+{
+  "id": "a81fa501-ad23-498b-b4b0-8a7eaebf9b67",
+  "repo": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "category": "AI Agent/Automation",
+  "summary": "Framework kỹ năng và phương pháp phát triển phần mềm dựa trên AI agent, giúp các nhà phát triển xây dựng và chạy các tác vụ một cách tự động hóa. Hệ sinh thái này tập trung vào việc tạo ra những 'superpower' (siêu năng lực) cho AI để xử lý các vấn đề phức tạp trong phát triển phần mềm một cách hiệu quả.",
+  "usecases": [
+    "Các kỹ sư phần mềm dùng để tự động hóa quy trình debugging và viết code theo yêu cầu phức tạp",
+    "Product manager sử dụng framework này để mô phỏng và thử nghiệm các sprint dự án dựa trên AI trước khi triển khai",
+    "Team lead truyền cảm hứng cho team bằng cách tích hợp AI vào quy trình brainstorming và planning sản phẩm"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Copilot để tạo ra một IDE 'thông minh hoàn hảo' nhận diện ngữ cảnh dự án và gợi ý code tự động",
+    "Ứng dụng vào môi trường IoT để AI tự học và cập nhật firmware cho thiết bị mà không cần can thiệp con người",
+    "Tích hợp với blockchain để tạo ra smart contracts chạy tự động dựa trên sự kiện thế giới thực"
+  ],
+  "stars": 244267,
+  "starsToday": 1047,
+  "language": "Shell",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T19:15:45.329Z"
+}

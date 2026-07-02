@@ -1,0 +1,22 @@
+{
+  "id": "327a135e-7e66-417a-9585-2f3a78c00994",
+  "repo": "JuliusBrussee/caveman",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "category": "AI Agent/Automation",
+  "summary": "Một 'skill' cho Claude Code giúp tiết kiệm tới 65% token bằng cách sử dụng ngôn ngữ đơn giản và trực quan như ngôn ngữ sơ khai. Đây là giải pháp nhẹ nhàng và hiệu quả để tối ưu hóa chi phí xử lý ngôn ngữ tự nhiên trong các tác vụ lập trình.",
+  "usecases": [
+    "Các developer nhỏ dùng để tiết kiệm chi phí API khi làm việc với mô hình ngôn ngữ lớn trong quy trình phát triển hàng ngày",
+    "Công ty SaaS thiết kế hệ thống này để giảm tải tải trọng xử lý cho backend AI khi xử lý yêu cầu người dùng",
+    "Các sinh viên học lập trình dùng Caveman để học hỏi và thực hành code một cách dễ dàng và ít tốn chi phí"
+  ],
+  "ideas": [
+    "Phát triển phiên bản 'Homo sapiens' mode để tương tác phức tạp hơn với AI bằng ngôn ngữ chuyên môn",
+    "Kết hợp với wearable device để người dùng có thể điều khiển máy tính bằng cách chỉ nhìn hoặc thở",
+    "Tạo ra một ngôn ngữ giao diện chung giữa con người và AI trong tương lai, giúp giảm khoảng cách kỹ thuật số"
+  ],
+  "stars": 80468,
+  "starsToday": 866,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T19:15:45.329Z"
+}

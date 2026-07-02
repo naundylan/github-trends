@@ -1,0 +1,24 @@
+{
+  "id": "56922f82-f2ad-43a9-935d-97b1ce58cec3",
+  "repo": "logto-io/logto",
+  "url": "https://github.com/logto-io/logto",
+  "category": "Backend Framework",
+  "summary": "Hệ thống infrastructure giải pháp xác thực và ủy quyền hoàn chỉnh cho SaaS và ứng dụng AI, sử dụng tiêu chuẩn OIDC và OAuth 2.1. Hỗ trợ đa người dùng, đăng nhập đơn (SSO), phân quyền dự án RBAC và bảo mật hiện đại.",
+  "usecases": [
+    "Công ty SaaS xây dựng hệ thống đăng nhập và quản lý người dùng quy mô lớn",
+    "Nhà phát triển ứng dụng AI cần xác thực an toàn cho API và truy cập người dùng",
+    "Doanh nghiệp công nghệ triển khai giải pháp đăng nhập tích hợp với nhiều nền tảng",
+    "Ứng dụng cần triển khai MFA và xác thực mạnh mẽ cho người dùng cuối"
+  ],
+  "ideas": [
+    "Kết hợp Web3 cho xác thực phiân biệt bằng ví điện tử và chữ ký số",
+    "Tích hợp AI agent tự động xử lý quyền truy cập dựa trên hành vi người dùng",
+    "Xây dựng zero-trust authentication framework cho doanh nghiệp",
+    "Phát triển hệ thống xác thực phân tán cho metaverse và VR platform"
+  ],
+  "stars": 13495,
+  "starsToday": 378,
+  "language": "TypeScript",
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-07-02T19:15:45.329Z"
+}

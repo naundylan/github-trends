@@ -1,0 +1,24 @@
+{
+  "id": "2c6506c1-a339-4a1a-98ac-516ddf23b8df",
+  "repo": "ogulcancelik/herdr",
+  "url": "https://github.com/ogulcancelik/herdr",
+  "category": "CLI Tool",
+  "summary": "Herdr là một terminal multiplexer dành riêng cho AI agents, cho phép đa phương tiện điều khiển qua giao diện TUI trong terminal. Nó kết tích hợp với các công cụ như Claude Code và Codex để quản lý nhiều agent đồng thời, tối ưu hóa workflow phát triển bằng AI. Với hội đồng của tmux, Herdr mang đến trải nghiệm điều khiển truy cập trực tiếp vào các agent đang chạy.",
+  "usecases": [
+    "DevOps kỹ thuật số dùng Herdr để chạy đồng thời nhiều AI coding agents trên server production, giám sát logs và điều phối task phức tạp",
+    "CTO công ty startup nhỏ thiết lập môi trường AI pair-programming với nhiều Claude instances, mỗi instance đảm nhận một dự án con khác nhau",
+    "Sinh viên học kỳ thực tập ở công ty IT dùng Herdr để thử nghiệm song song 3 mô hình LLM khác nhau trên cùng một repo code, so sánh hiệu quả từng model",
+    "Team lead mobile app nhóm Flutter dùng Herdr để spawn agent phân tích code từ 3 nguồn khác nhau (GitHub, Stack Overflow, documentation) đồng thời tổng hợp ý kiến trước khi code"
+  ],
+  "ideas": [
+    "Kết hợp Herdr với Kubernetes để tạo AI agent cluster chạy trên đám mây, điều phối qua WebSocket tới terminal người dùng",
+    "Xây dựng hệ thống AI trading bot tự động bằng cách spawn Herdr instances mỗi bot giao dịch trên sàn tiền điện tử khác nhau",
+    "Tích hợp Herdr vào hệ thống điều phối drone hàng không, mỗi agent điều khiển một drone với vai trò khác nhau trong công việc giám sát",
+    "Tạo ra 'AI consciousness simulator' để nghiên cứu hội thoại giữa các agent có personality khác nhau qua Herdr multiplexer"
+  ],
+  "stars": 10062,
+  "starsToday": 588,
+  "language": "Rust",
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-07-02T19:15:45.329Z"
+}

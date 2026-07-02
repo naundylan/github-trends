@@ -1,0 +1,24 @@
+{
+  "id": "7cb0f226-a34f-493d-9188-621549edc0ee",
+  "repo": "tt-a1i/archify",
+  "url": "https://github.com/tt-a1i/archify",
+  "category": "AI/LLM",
+  "summary": "Archify giúp sinh ra sơ đồ kiến trúc đẹp mắt từ mô tả của agent, hỗ trợ dark/light theme và xuất file PNG/JPEG/WebP/SVG. Là skill chuyên dành cho Claude để tạo diagram hệ thống một cách trực quan. Với khả năng chuyển đổi mã mermaid thành hình ảnh chất lượng cao, Archify là công cụ lý tưởng cho việc tài liệu hóa kiến trúc phần mềm và system design trong các dự án phức tạp.",
+  "usecases": [
+    "Kiến trúc viên dự án microservices dùng Archify để tạo sơ đồ tức thì khi client yêu cầu thay đổi thiết kế hệ thống sau cuộc họp",
+    "Giảng viên giảng lý môn Distributed Systems sinh viên đại học in đề bài tập thành SVG đẹp để trình bày trên bảng",
+    "Technical lead dự án fintech thiết kế sơ đồ giao dịch ngân hàng sử dụng Archify để trình bày với stakeholders không chuyên về technical",
+    "Freelance architect nhận project từ startup nhỏ, dùng Archify tạo documentation minh họa kiến trúc trước khi báo giá chính thức"
+  ],
+  "ideas": [
+    "Xây dựng hệ thống kiến trúc tự động cho AI-generated code: mỗi khi AI sinh code new feature → Archify tự động update sơ đồ hệ thống chi tiết",
+    "Tích hợp Archify vào hệ thống simulation quân đội tương lai: mỗi chiến thuật không gian không gian mới → AI sinh sơ đồ tác động → Human commander review",
+    "Tạo ra 'architecture DNA' - series hình ảnh minh họa tiến trình evolution của hệ thống từ đơn giản đến phức tạp qua nhiều giai đoạn phát triển",
+    "Kết hợp Archify với digital twin hệ thống: mỗi thay đổi thực tế → AI sinh sơ đồ mới → So sánh với model kỳ vọng để đo lường độ chính xác"
+  ],
+  "stars": 2222,
+  "starsToday": 487,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-02T19:15:45.329Z"
+}
