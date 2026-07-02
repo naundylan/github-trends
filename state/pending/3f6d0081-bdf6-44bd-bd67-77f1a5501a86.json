@@ -1,0 +1,24 @@
+{
+  "id": "3f6d0081-bdf6-44bd-bd67-77f1a5501a86",
+  "repo": "microsoft/AI-For-Beginners",
+  "url": "https://github.com/microsoft/AI-For-Beginners",
+  "category": "AI/LLM",
+  "summary": "Một khóa học miễn phí 12 tuần với 24 bài giảng về trí tuệ nhân tạo dành cho người mới bắt đầu, bao gồm deep learning, machine learning, computer vision và NLP. Đây là tài liệu giáo dục toàn diện giúp người học nắm bắt kiến thức AI một cách có hệ thống.",
+  "usecases": [
+    "Sinh viên đại học muốn học AI lập trình để phát triển nghề nghiệp trong tương lai",
+    "Developer trẻ chưa có kinh nghiệm muốn nhanh chóng làm quen với các thuật toán AI cơ bản",
+    "Giảng viên cần tài liệu bài giảng miễn phí để dạy học phần AI cho học sinh, sinh viên",
+    "Doanh nghiệp nhỏ muốn đào tạo nhân viên về AI mà không cần đầu tư xuất khẩu khóa học đắt tiền"
+  ],
+  "ideas": [
+    "Kết hợp với các platform học trực tuyến như Coursera, Udemy để tạo khóa học hybrid với chứng chỉ được công nhận",
+    "Tích hợp các mô hình AI thực tế như ChatGPT, Gemini vào các bài tập thực hành để học sinh được trải nghiệm ngay",
+    "Phát triển phiên bản VR/AR để học sinh có thể tương tác trực quan với không gian dữ liệu và mô hình AI",
+    "Tạo hệ thống AI mentoring cá nhân hóa bằng tiếng Việt để hỗ trợ học trò trong quá trình học tập"
+  ],
+  "stars": 50635,
+  "starsToday": 1096,
+  "language": "Jupyter Notebook",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-02T04:03:40.793Z"
+}

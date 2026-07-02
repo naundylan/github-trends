@@ -1,0 +1,24 @@
+{
+  "id": "831552b6-7951-4fd7-821f-57bcbf94fb48",
+  "repo": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống tối ưu hiệu suất cho AI agents với các thành phần như kỹ năng, thái văn, bộ nhớ và bảo mật. Hỗ trợ phát triển dựa trên nghiên cứu cho Claude Code, Codex, Cursor và các nền tảng AI tương lai, giúp agents hoạt động hiệu quả hơn trong môi trường production.",
+  "usecases": [
+    "Agent developers xây dựng hệ thống tự động hóa phức tạp cần tối ưu hiệu suất và quản lý bảo mật",
+    "Công ty phần mềm phát triển sản phẩm AI cần tích hợp vào hệ thống CI/CD với khả năng tự học và cải thiện liên tục",
+    "Cypherpunks và security researchers muốn xây dựng AI agents có khả năng tự bảo mật và chống tấn công",
+    "Research lab nghiên cứu về multi-agent systems cần framework hỗ trợ quản lý trí nhớ và trao đổi thông tin giữa các agents"
+  ],
+  "ideas": [
+    "Tạo môi trường mô phỏng thế giới thực ảo (metaverse) để các AI agents thực hành và phát triển kỹ năng giao tiếp và hợp tác",
+    "Phát triển hệ thống AI agents chạy trên blockchain với khả năng tự quyền sở hữu và trao đổi dịch vụ bằng token",
+    "Xây dựng AI agents phối hợp với quantum computing để giải quyết các vấn đề tối ưu hóa phi tang rỗng như traveling salesman hay logistics",
+    "Tích hợp với IoT để tạo ra army của những AI agents nhỏ chạy trên các thiết bị cảm biến nhau, tự học và điều phối môi trường thông minh"
+  ],
+  "stars": 224725,
+  "starsToday": 721,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T04:03:47.548Z"
+}

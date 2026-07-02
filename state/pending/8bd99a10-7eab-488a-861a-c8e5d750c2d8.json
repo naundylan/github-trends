@@ -1,0 +1,24 @@
+{
+  "id": "8bd99a10-7eab-488a-861a-c8e5d750c2d8",
+  "repo": "hasaneyldrm/exercises-dataset",
+  "url": "https://github.com/hasaneyldrm/exercises-dataset",
+  "category": "Documentation/Learning Resource",
+  "summary": "Tập dữ liệu đầy đủ 433 bài tập thể dục với thông tin chi tiết bao gồm tên, danh mục, nhóm cơ tiêu chảy, thiết bị, hướng dẫn thực hiện, hình ảnh thumbnail và video animation. Tài nguyên này cung cấp nền tảng dữ liệu chuẩn để xây dựng ứng dụng fitness đa năng.",
+  "usecases": [
+    "Developer sử dụng để xây dựng app fitness cá nhân với đầy đủ hình ảnh và video hướng dẫn",
+    "Giảng viên các trường thể dục thể thao tiếp cận tài liệu bài tập chuẩn hóa",
+    "Nghiên cứu viên nghiên cứu độc lập về hiệu quả tập luyện cơ bản",
+    "Bot thể dục cá nhân hóa phân phát bài tập dựa trên mục tiêu người dùng"
+  ],
+  "ideas": [
+    "Kết hợp với OpenAI để tạo hệ thống gợi ý bài tập thông minh dựa trên sức khỏe cá nhân",
+    "Tích hợp AR để người dùng thực hành song song với video hướng dẫn",
+    "Xây dựng dataset phức hợp hơn bằng cách thêm dữ liệu cảm biến từ máy đo cơ học",
+    "Tạo tiếng Anh phiên bản đa ngôn ngữ để phục vụ thị trường quốc tế"
+  ],
+  "stars": 8560,
+  "starsToday": 2470,
+  "language": "HTML",
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-07-02T04:03:30.989Z"
+}
