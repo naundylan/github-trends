@@ -11,27 +11,25 @@ const octokit = new Octokit({ auth: process.env.GH_TOKEN });
 const [OWNER, REPO] = process.env.GITHUB_REPOSITORY.split("/");
 
 const LANGUAGES = (process.env.TRENDING_LANGUAGES || "").split(",").filter(Boolean);
-// Để trống TRENDING_LANGUAGES -> crawl "All languages" + một vài ngôn ngữ phổ biến.
 const TARGET_LANGS = LANGUAGES.length ? LANGUAGES : ["", "javascript", "python", "typescript", "go", "rust"];
+
+// Giới hạn số repo xử lý mỗi lần chạy — tránh spam Telegram và token OpenRouter
+const MAX_PER_RUN = 10;
+// Delay giữa mỗi tin nhắn Telegram (ms)
+const MSG_DELAY_MS = 2000;
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function fetchTrendingAllLangs() {
   const seen = new Map();
   for (const lang of TARGET_LANGS) {
-    const repos = await fetchTrendingRepos({ language: lang, since: "daily" });
-    for (const r of repos) {
-      const fullName = `${r.author}/${r.name}`;
-      if (!seen.has(fullName)) {
-        seen.set(fullName, {
-          fullName,
-          owner: r.author,
-          name: r.name,
-          description: r.description,
-          language: r.language,
-          stars: r.stars,
-          starsToday: r.currentPeriodStars,
-          url: r.url || `https://github.com/${fullName}`,
-        });
+    try {
+      const repos = await fetchTrendingRepos({ language: lang, since: "daily" });
+      for (const r of repos) {
+        if (!seen.has(r.fullName)) seen.set(r.fullName, r);
       }
+    } catch (err) {
+      console.warn(`Crawl lang "${lang}" failed: ${err.message}`);
     }
   }
   return [...seen.values()];
@@ -41,10 +39,7 @@ async function enrichWithTopics(repos) {
   const out = [];
   for (const repo of repos) {
     try {
-      const { data } = await octokit.repos.getAllTopics({
-        owner: repo.owner,
-        repo: repo.name,
-      });
+      const { data } = await octokit.repos.getAllTopics({ owner: repo.owner, repo: repo.name });
       out.push({ ...repo, topics: data.names || [] });
     } catch {
       out.push({ ...repo, topics: [] });
@@ -80,26 +75,28 @@ async function main() {
 
   const history = await loadHistory();
   const { toProcess, history: updatedHistory } = diffAgainstHistory(history, trending, todayISO);
-  console.log(`${toProcess.length} repos to process (new or resurfaced).`);
+  console.log(`${toProcess.length} repos eligible (new or resurfaced). Processing max ${MAX_PER_RUN} this run.`);
 
-  if (toProcess.length === 0) {
+  const limited = toProcess.slice(0, MAX_PER_RUN);
+
+  if (limited.length === 0) {
     await saveHistory(updatedHistory);
     console.log("Nothing new. Done.");
     return;
   }
 
-  const enriched = await enrichWithTopics(toProcess);
+  const enriched = await enrichWithTopics(limited);
 
-  // Gọi OpenRouter theo batch (vd 10 repo/lần) để tránh prompt quá dài.
-  const BATCH_SIZE = 10;
+  // Gọi OpenRouter theo batch 5 repo/lần (prompt giờ dài hơn)
+  const BATCH_SIZE = 5;
   const results = [];
   for (let i = 0; i < enriched.length; i += BATCH_SIZE) {
     const batch = enriched.slice(i, i + BATCH_SIZE);
+    console.log(`Calling OpenRouter for batch ${Math.floor(i / BATCH_SIZE) + 1}...`);
     const res = await categorizeAndSummarize(batch);
     results.push(...res);
   }
 
-  // Map kết quả phân loại lại với data gốc của repo
   const byName = new Map(enriched.map((r) => [r.fullName, r]));
 
   for (const item of results) {
@@ -115,7 +112,9 @@ async function main() {
       repo: repo.fullName,
       url: repo.url,
       category: item.category,
-      summary_vi: item.summary_vi,
+      summary: item.summary,
+      usecases: item.usecases,
+      ideas: item.ideas,
       stars: repo.stars,
       starsToday: repo.starsToday,
       language: repo.language,
@@ -132,15 +131,18 @@ async function main() {
     await sendTrendingMessage({
       repo,
       category: item.category,
-      summary: item.summary_vi,
+      summary: item.summary,
+      usecases: item.usecases,
+      ideas: item.ideas,
       pendingId,
     });
 
-    console.log(`Queued + sent Telegram message for ${repo.fullName}`);
+    console.log(`✓ Sent: ${repo.fullName} [${item.category}]`);
+    await sleep(MSG_DELAY_MS);
   }
 
   await saveHistory(updatedHistory);
-  console.log("Done.");
+  console.log(`Done. Sent ${results.length} messages.`);
 }
 
 main().catch((err) => {

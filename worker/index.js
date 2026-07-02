@@ -104,13 +104,27 @@ async function appendToNote(env, pending) {
   const { content, sha } = await getFileRaw(env, pending.notePath);
   const date = pending.createdAt?.slice(0, 10) || new Date().toISOString().slice(0, 10);
 
+  const usecaseLines = (pending.usecases || []).map((u) => `- ${u}`).join("\n") || "- (không có)";
+  const ideaLines = (pending.ideas || []).map((d) => `- ${d}`).join("\n") || "- (không có)";
+
   const section = [
     `## ${pending.repo} (${date})`,
     "",
-    `- ⭐ ${pending.stars} sao (+${pending.starsToday} hôm nay) | ${pending.language || "?"}`,
-    `- 🔗 ${pending.url}`,
+    `| Field | Value |`,
+    `|---|---|`,
+    `| ⭐ Stars | ${pending.stars} (+${pending.starsToday} hôm nay) |`,
+    `| 💻 Language | ${pending.language || "?"} |`,
+    `| 📂 Category | ${pending.category} |`,
+    `| 🔗 URL | ${pending.url} |`,
     "",
-    pending.summary_vi,
+    `### 📌 Tóm tắt`,
+    pending.summary || pending.summary_vi || "",
+    "",
+    `### 🎯 Use cases thực tế`,
+    usecaseLines,
+    "",
+    `### 💡 Ý tưởng sáng tạo`,
+    ideaLines,
     "",
     "---",
     "",
