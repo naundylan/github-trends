@@ -1,0 +1,24 @@
+{
+  "id": "b67d1448-2dc1-4f4e-b2c6-16c318ddc258",
+  "repo": "diegosouzapw/OmniRoute",
+  "url": "https://github.com/diegosouzapw/OmniRoute",
+  "category": "AI/LLM",
+  "summary": "OmniRoute là cổng AI miễn phí giúp kết nối Claude Code, Cursor, Cline và Copilot với nhiều nhà cung cấp LLM khác nhau chỉ với một endpoint duy nhất. Với công nghệ nén token tiết kiệm 15-95% chi phí, tự động chuyển đổi fallback và hỗ trợ đa phương thức API, dự án phá vỡ giới hạn truy cập AI đắt tiền.",
+  "usecases": [
+    "Developer chạy Claude Code trên Cursor nhưng chỉ có API miễn phí từ DeepSeek để tiết kiệm chi phí",
+    "Team phát triển muốn dùng song song OpenAI, Claude và Gemini cho các tính năng khác nhau trong sản phẩm",
+    "Người dùng cá nhân truy cập Claude 3.5 Sonnet miễn phí thông qua proxy để viết code hàng ngày",
+    "Công ty nhỏ xây dựng hệ thống AI tổng hợp từ nhiều provider mà không cần đăng ký nhiều tài khoản trả phí"
+  ],
+  "ideas": [
+    "Kết hợp OmniRoute với CrewAI tạo nên 'động lực học sinh' tự học code từ nhiều nguồn miễn phí",
+    "Xây dựng hệ thống AI Agent chạy trên Raspberry Pi sử dụng kết nối OmniRoute để tương tác đa phương thức mà không cần internet ổn định",
+    "Tích hợp vào Notion để tự động hóa việc truy xuất tri thức từ nhiều LLM khác nhau khi viết tài liệu",
+    "Tạo môi trường học máy hoàn chỉnh chỉ với một API key miễn phí nhờ OmniRoute làm trung tâm điều phối"
+  ],
+  "stars": 9657,
+  "starsToday": 1010,
+  "language": "TypeScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-02T03:44:00.246Z"
+}

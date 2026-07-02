@@ -1,0 +1,22 @@
+{
+  "id": "6e53a06a-f7bb-4002-8d4f-2e8a1323af30",
+  "repo": "Mebus/cupp",
+  "url": "https://github.com/Mebus/cupp",
+  "category": "Security/Pentest",
+  "summary": "CUPP (Common User Passwords Profiler) là công cụ giúp tạo danh sách từ mật khẩu và từ điển cho mục đích penetration testing và đánh giá tính bảo mật. Công cụ hữu ích cho các chuyên gia bảo mật trong việc kiểm tra các hệ thống có phải làm mạnh yếu mật khẩu nào",
+  "usecases": [
+    "Các nhà kiểm tra bảo mật muốn đánh giá các chiến lược mật khẩu do doanh nghiệp thiết lập",
+    "Lập trình viên cần kiểm chứng các chính sách mật khẩu mạnh mẽ cho ứng dụng của họ",
+    "Các tổ chức giáo dục muốn đào tạo sinh viên về an ninh mạng thông qua các cuộc tấn công mô phỏng"
+  ],
+  "ideas": [
+    "Tích hợp vào hệ thống giám sát an ninh thời gian thực để phát hiện các cố nhượng đăng nhập sử dụng mật khẩu yếu ngay lập tức",
+    "Kết hợp với AI sinh sinh mật khẩu mới dựa trên thói quen cá nhân hóa của người dùng để tạo danh sách từ cá nhân hoá",
+    "Xây dựng tiện ích CLI cho phép các nhà bảo mật chạy hàng ngàn phiên bản kiểm tra mật khẩu khác nhau trên nhiều hệ thống trong quá trình assessments"
+  ],
+  "stars": 6264,
+  "starsToday": 184,
+  "language": "Python",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-02T03:35:19.262Z"
+}

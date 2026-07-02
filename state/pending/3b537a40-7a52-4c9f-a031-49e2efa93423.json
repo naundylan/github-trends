@@ -1,0 +1,22 @@
+{
+  "id": "3b537a40-7a52-4c9f-a031-49e2efa93423",
+  "repo": "allenai/olmocr",
+  "url": "https://github.com/allenai/olmocr",
+  "category": "Data Engineering/ETL",
+  "summary": "OLMoCR là bộ công cụ giúp chuyển đổi tài liệu PDF thành định dạng văn bản phù hợp cho việc đào tạo mô hình ngôn ngữ lớn. Dự án đặc biệt hữu ích cho các nhà nghiên cứu và công ty cần xây dựng bộ dữ liệu tài liệu lớn từ PDF",
+  "usecases": [
+    "Các nhà nghiên cứu khoa học muốn xây dựng bộ dữ liệu đào tạo từ tài liệu học thuật PDF",
+    "Công ty công nghệ muốn trích xuất và lập chỉ mục nội dung từ hồ sơ pháp lý hoặc tài liệu doanh nghiệp",
+    "Hệ thống quản lý tri thức cần tự động hóa quá trình chuyển đổi tài liệu PDF thành định dạng có thể tìm kiếm và phân tích"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống OCR hiện đại để xử lý các tài liệu PDF chất lượng thấp hoặc các trang giấy cũ cần trích xuất thông tin chính xác hơn",
+    "Tích hợp vào nền tảng lưu trữ đám mây để tự động xử lý hàng triệu tài liệu PDF khi người dùng tải lên",
+    "Xây dựng tiện ích trình duyệt cho phép người dùng chọn và xuất bản trực tiếp các đoạn văn bản từ PDF vào không gian làm việc cộng tác"
+  ],
+  "stars": 18332,
+  "starsToday": 334,
+  "language": "Python",
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-07-02T03:35:09.128Z"
+}
