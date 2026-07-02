@@ -1,0 +1,24 @@
+{
+  "id": "6d1871c4-5882-4e9b-b9f4-402b3e75ef6d",
+  "repo": "hasaneyldrm/exercises-dataset",
+  "url": "https://github.com/hasaneyldrm/exercises-dataset",
+  "category": "Data Engineering/ETL",
+  "summary": "Tập dữ liệu toàn diện với 433 bài tập thể dục bao gồm thông tin chi tiết về danh mục, nhóm cơ bản, thiết bị và hướng dẫn thực hành. Đây là nguồn tài nguyên quý giá cho các nhà phát triển ứng dụng fitness và nghiên cứu khoa học thể chất.",
+  "usecases": [
+    "Developer ứng dụng fitness cần dữ liệu để tạo thư viện bài tập có hệ thống",
+    "Machine learning researchers muốn đào tạo mô hình nhận dạng động tác từ video",
+    "Trường đại học thể dục cần tài liệu tham khảo cho giảng dạy và nghiên cứu",
+    "Ứng dụng web cá nhân hóa hóa luyện tập dựa trên cơ bản và thiết bị có sẵn"
+  ],
+  "ideas": [
+    "Tích hợp với AR workout apps để hiển thị hướng dẫn thực hành trực tiếp trên thân hình người dùng",
+    "Kết hợp vào nutrition tracking apps để tạo gói tập luyện hoàn chỉnh kết hợp với chế độ ăn uống",
+    "Sử dụng cho gesture recognition systems trong thiết bị IoT như tập thiết bị thông thường",
+    "Phát triển thành một hệ thống AI nhận dạng form tập luyện và đưa ra phản hồi sửa lỗi"
+  ],
+  "stars": 8549,
+  "starsToday": 2470,
+  "language": "HTML",
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-07-02T03:43:53.976Z"
+}
