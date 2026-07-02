@@ -1,0 +1,24 @@
+{
+  "id": "c746562f-5b26-4655-8f01-d0acdff295da",
+  "repo": "diegosouzapw/OmniRoute",
+  "url": "https://github.com/diegosouzapw/OmniRoute",
+  "category": "AI Agent/Automation",
+  "summary": "Gateway AI miễn phí cho phép kết nối đến 231+ nhà cung cấp API AI (trong đó có 50+ miễn phí) thông qua một endpoint duy nhất. Sử dụng công nghệ nén token RTK+Caveman giúp tiết kiệm 15-95% chi phí, đi kèm tính năng fallback thông minh và hỗ trợ MCP/A2A.",
+  "usecases": [
+    "Developer nhỏ xây dựng MVP sản phẩm AI mà không muốn đầu tư phát triển tích hợp nhiều API đắt tiền",
+    "Công ty tiếp cận API Claude/GPT/Gemini với chi phí thấp nhờ khối lượng token được tiết kiệm",
+    "Ứng dụng cần chạy thử nghiệm với nhiều mô hình AI khác nhau mà không cần đăng ký nhiều tài khoản",
+    "Hệ thống cần fallback tự động khi API chính gặp vấn đề hoặc vượt quá quota"
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống CDN như Cloudflare để tạo distributed AI gateway với độ trễ thấp toàn cầu",
+    "Xây dựng marketplace plugin để các nhà phát triển dễ dàng tìm và sử dụng các connector AI tùy chỉnh",
+    "Kết hợp với các dự án mây như AWS Lambda hoặc Google Cloud Functions để tạo AI Gateway hoàn toàn serverless",
+    "Phát triển tính năng routing thông minh dựa trên đặc thế của từng model để tối ưu chi phí và chất lượng câu trả lời"
+  ],
+  "stars": 9678,
+  "starsToday": 1010,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T04:13:04.830Z"
+}
