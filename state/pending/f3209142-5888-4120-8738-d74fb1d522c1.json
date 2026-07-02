@@ -1,0 +1,11 @@
+{
+  "id": "f3209142-5888-4120-8738-d74fb1d522c1",
+  "repo": "undefined/containerd",
+  "url": "https://github.com/containerd/containerd",
+  "category": "Infrastructure as Code",
+  "summary_vi": "Container runtime mở và đáng tin cậy, đóng vai trò nền tảng quan trọng trong việc quản lý container trên các hệ thống production.",
+  "stars": 20902,
+  "language": "Go",
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-07-01T09:56:02.303Z"
+}

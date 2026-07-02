@@ -1,0 +1,11 @@
+{
+  "id": "399d5a28-3bb0-4576-b4da-da6e34ea872a",
+  "repo": "undefined/dbx",
+  "url": "https://github.com/t8y2/dbx",
+  "category": "Database",
+  "summary_vi": "Client database nhẹ 15MB đa nền tảng hỗ trợ nhiều loại database như MySQL, PostgreSQL, Redis, MongoDB, giúp quản lý và truy vấn dữ liệu đơn giản.",
+  "stars": 8016,
+  "language": "Rust",
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-07-01T14:44:49.273Z"
+}

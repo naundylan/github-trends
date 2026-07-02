@@ -1,0 +1,11 @@
+{
+  "id": "b7648cc7-3e3f-4b57-a162-d92d13f37f27",
+  "repo": "undefined/fluentui",
+  "url": "https://github.com/microsoft/fluentui",
+  "category": "UI/Component Library",
+  "summary_vi": "Bộ thư viện React components và web components từ Microsoft để xây dựng ứng dụng web hiện đại.",
+  "stars": 20100,
+  "language": "TypeScript",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-01T14:44:10.583Z"
+}

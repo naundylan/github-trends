@@ -1,0 +1,11 @@
+{
+  "id": "cc3cc69d-5fc9-4d4c-9dac-0667bd01e3d9",
+  "repo": "undefined/cupy",
+  "url": "https://github.com/cupy/cupy",
+  "category": "Machine Learning",
+  "summary_vi": "Triển khai NumPy & SciPy chạy trên GPU, tăng tốc tính toán khoa học và học máy lên hàng chục lần so với CPU.",
+  "stars": 11979,
+  "language": "Python",
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-07-01T04:56:32.977Z"
+}

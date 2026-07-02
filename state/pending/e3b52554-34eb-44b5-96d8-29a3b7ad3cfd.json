@@ -1,0 +1,11 @@
+{
+  "id": "e3b52554-34eb-44b5-96d8-29a3b7ad3cfd",
+  "repo": "undefined/testify",
+  "url": "https://github.com/stretchr/testify",
+  "category": "Testing/QA",
+  "summary_vi": "Bộ công cụ đánh giá và mock phổ biến cho Go, tích hợp tốt với thư viện chuẩn và giúp viết test đơn giản hơn.",
+  "stars": 26049,
+  "language": "Go",
+  "notePath": "notes/Testing-QA.md",
+  "createdAt": "2026-07-01T09:56:12.383Z"
+}

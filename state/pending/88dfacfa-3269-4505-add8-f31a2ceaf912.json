@@ -1,0 +1,11 @@
+{
+  "id": "88dfacfa-3269-4505-add8-f31a2ceaf912",
+  "repo": "undefined/servo",
+  "url": "https://github.com/servo/servo",
+  "category": "Web Framework",
+  "summary_vi": "Framework web nhẹ và hiệu suất cao giúp nhúng công nghệ web vào các ứng dụng một cách đơn giản.",
+  "stars": 37263,
+  "language": "Rust",
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-07-01T14:44:43.684Z"
+}

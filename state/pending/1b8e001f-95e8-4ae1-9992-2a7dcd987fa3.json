@@ -1,0 +1,11 @@
+{
+  "id": "1b8e001f-95e8-4ae1-9992-2a7dcd987fa3",
+  "repo": "undefined/cocoindex",
+  "url": "https://github.com/cocoindex-io/cocoindex",
+  "category": "AI Agent/Automation",
+  "summary_vi": "Engine tăng tốc cho các AI agent với khả năng incremental, giúp các agent xử lý dữ liệu và học tập hiệu quả hơn trên thời gian dài.",
+  "stars": 10564,
+  "language": "Rust",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-01T14:44:52.064Z"
+}

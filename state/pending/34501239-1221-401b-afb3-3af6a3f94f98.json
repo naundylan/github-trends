@@ -1,0 +1,11 @@
+{
+  "id": "34501239-1221-401b-afb3-3af6a3f94f98",
+  "repo": "undefined/olmocr",
+  "url": "https://github.com/allenai/olmocr",
+  "category": "Data Engineering/ETL",
+  "summary_vi": "Bộ công cụ giành cho việc chuyển đổi PDF thành dữ liệu phù hợp với huấn luyện LLM.",
+  "stars": 18121,
+  "language": "Python",
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-07-01T14:43:06.854Z"
+}

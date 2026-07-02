@@ -1,0 +1,11 @@
+{
+  "id": "bead9916-c4af-48a0-b53c-f53136d2d538",
+  "repo": "undefined/cli",
+  "url": "https://github.com/npm/cli",
+  "category": "Package Manager",
+  "summary_vi": "Trình quản lý gói chính thức của JavaScript (npm), là nền tảng quản lý thư viện phân phối rộng rãi nhất thế giới.",
+  "stars": 9900,
+  "language": "JavaScript",
+  "notePath": "notes/Package-Manager.md",
+  "createdAt": "2026-07-01T14:43:28.301Z"
+}

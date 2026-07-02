@@ -1,0 +1,11 @@
+{
+  "id": "0f931ccc-ded8-4177-9d50-d7a5a54aa39d",
+  "repo": "undefined/moby",
+  "url": "https://github.com/moby/moby",
+  "category": "DevOps/CI-CD",
+  "summary_vi": "Dự án container ecosystem từ Docker giúp xây dựng hệ thống container theo module một cách dễ dàng.",
+  "stars": 71759,
+  "language": "Go",
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-07-01T14:44:15.757Z"
+}

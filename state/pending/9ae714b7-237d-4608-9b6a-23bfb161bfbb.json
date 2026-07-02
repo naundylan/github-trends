@@ -1,0 +1,11 @@
+{
+  "id": "9ae714b7-237d-4608-9b6a-23bfb161bfbb",
+  "repo": "undefined/chi",
+  "url": "https://github.com/go-chi/chi",
+  "category": "Web Framework",
+  "summary_vi": "Router nhẹ và idiom ngôn ngữ Go cho xây dựng dịch vụ HTTP, hỗ trợ composable và hiệu suất cao.",
+  "stars": 22464,
+  "language": "Go",
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-07-01T09:56:13.668Z"
+}

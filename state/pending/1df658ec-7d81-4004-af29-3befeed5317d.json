@@ -1,0 +1,11 @@
+{
+  "id": "1df658ec-7d81-4004-af29-3befeed5317d",
+  "repo": "undefined/claude-bug-bounty",
+  "url": "https://github.com/shuvonsec/claude-bug-bounty",
+  "category": "Security/Pentest",
+  "summary_vi": "Công cụ thám hiểm lỗi bảo mật dùng AI chạy trong terminal, tự động thực hiện recon và phát hiện 20 loại lỗi, sinh báo cáo xuất phát.",
+  "stars": 3790,
+  "language": "Python",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-01T04:56:30.760Z"
+}

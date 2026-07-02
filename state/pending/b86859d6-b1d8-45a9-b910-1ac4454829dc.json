@@ -1,0 +1,11 @@
+{
+  "id": "b86859d6-b1d8-45a9-b910-1ac4454829dc",
+  "repo": "undefined/herdr",
+  "url": "https://github.com/ogulcancelik/herdr",
+  "category": "CLI Tool",
+  "summary_vi": "Công cụ đa năng truyền xuất (multiplexer) chạy trong terminal, cho phép điều phối và quản lý nhiều AI agent thông qua giao diện dòng lệnh.",
+  "stars": 9394,
+  "language": "Rust",
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-07-01T14:43:16.162Z"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "d9f28b13-012d-4c21-8dbb-ad8c817ca781",
+  "repo": "undefined/quiche",
+  "url": "https://github.com/cloudflare/quiche",
+  "category": "Networking",
+  "summary_vi": "Triển vọng QUIC và HTTP/3 hoàn chỉnh bằng ngôn ngữ Rust.",
+  "stars": 11624,
+  "language": "Rust",
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-07-01T04:57:30.141Z"
+}

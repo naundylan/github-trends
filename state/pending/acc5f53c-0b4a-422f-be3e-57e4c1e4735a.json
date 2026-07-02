@@ -1,0 +1,11 @@
+{
+  "id": "acc5f53c-0b4a-422f-be3e-57e4c1e4735a",
+  "repo": "undefined/abtop",
+  "url": "https://github.com/graykode/abtop",
+  "category": "CLI Tool",
+  "summary_vi": "Công cụ giám sát real-time các session agent mã hóa AI như Claude Code và Codex CLI với thông tin tokens và rate limits.",
+  "stars": 3216,
+  "language": "Rust",
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-07-01T14:44:42.285Z"
+}

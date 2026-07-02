@@ -1,0 +1,11 @@
+{
+  "id": "fb85e999-9c9e-476b-8e36-e87dffdaa06a",
+  "repo": "undefined/codex-plugin-cc",
+  "url": "https://github.com/openai/codex-plugin-cc",
+  "category": "AI Agent/Automation",
+  "summary_vi": "Plugin cho phép sử dụng Codex từ Claude Code để duyệt code hoặc giao nhiệm vụ, tăng cường khả năng tự động hóa.",
+  "stars": 21971,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-01T14:43:40.481Z"
+}

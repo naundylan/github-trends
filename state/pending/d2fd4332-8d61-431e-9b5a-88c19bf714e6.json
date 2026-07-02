@@ -1,0 +1,11 @@
+{
+  "id": "d2fd4332-8d61-431e-9b5a-88c19bf714e6",
+  "repo": "undefined/openinterpreter",
+  "url": "https://github.com/openinterpreter/openinterpreter",
+  "category": "AI Agent/Automation",
+  "summary_vi": "Agent mã hóa nhẹ để làm việc với các mô hình open như Deepseek, Kimi, và Qwen.",
+  "stars": 64212,
+  "language": "Rust",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-01T04:57:27.742Z"
+}

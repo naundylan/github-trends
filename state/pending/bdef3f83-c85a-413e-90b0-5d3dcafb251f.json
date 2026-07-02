@@ -1,0 +1,11 @@
+{
+  "id": "bdef3f83-c85a-413e-90b0-5d3dcafb251f",
+  "repo": "undefined/microsandbox",
+  "url": "https://github.com/superradcompany/microsandbox",
+  "category": "Serverless",
+  "summary_vi": "Runtime microVM địa phương nhanh chóng và dễ sử dụng, giúp chạy các container và dịch vụ một cách cực kỳ nhẹ nhàng.",
+  "stars": 6781,
+  "language": "Rust",
+  "notePath": "notes/Serverless.md",
+  "createdAt": "2026-07-01T14:44:57.540Z"
+}

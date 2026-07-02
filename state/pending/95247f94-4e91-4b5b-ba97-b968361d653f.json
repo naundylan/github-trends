@@ -1,0 +1,11 @@
+{
+  "id": "95247f94-4e91-4b5b-ba97-b968361d653f",
+  "repo": "undefined/chunkr",
+  "url": "https://github.com/lumina-ai-inc/chunkr",
+  "category": "AI/LLM",
+  "summary_vi": "Công cụ chuyển đổi tài liệu phức tạp thành dữ liệu phù hợp cho RAG/LLM sử dụng Rust.",
+  "stars": 3887,
+  "language": "Rust",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-01T09:56:28.180Z"
+}

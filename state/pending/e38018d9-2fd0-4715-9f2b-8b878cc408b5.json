@@ -1,0 +1,11 @@
+{
+  "id": "e38018d9-2fd0-4715-9f2b-8b878cc408b5",
+  "repo": "undefined/karukan",
+  "url": "https://github.com/togatoga/karukan",
+  "category": "Operating System/Kernel",
+  "summary_vi": "Hệ thống nhập tiếng Nhật cho Linux/macOS với công nghệ chuyển đổi ngôn ngữ thần kinh.",
+  "stars": 544,
+  "language": "Rust",
+  "notePath": "notes/Operating-System-Kernel.md",
+  "createdAt": "2026-07-01T14:43:09.586Z"
+}

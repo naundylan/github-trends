@@ -1,0 +1,11 @@
+{
+  "id": "0d5541e1-6f82-4495-9d86-28f11758c419",
+  "repo": "undefined/lingbot-map",
+  "url": "https://github.com/Robbyant/lingbot-map",
+  "category": "Computer Vision",
+  "summary_vi": "Mô hình nền 3D foundation dùng feed-forward để tái tạo cảnh từ dữ liệu streaming, phù hợp cho robotics và AR/VR.",
+  "stars": 8936,
+  "language": "Python",
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-07-01T04:56:13.431Z"
+}

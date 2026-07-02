@@ -1,0 +1,11 @@
+{
+  "id": "257c5979-c557-4588-a093-3ee5a3ca94f4",
+  "repo": "undefined/surrealdb",
+  "url": "https://github.com/surrealdb/surrealdb",
+  "category": "Database",
+  "summary_vi": "Cơ sở dữ liệu phân tán, phối hợp và tài liệu đồ thị hiệu quả cho web thời gian thực.",
+  "stars": 32565,
+  "language": "Rust",
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-07-01T04:57:26.585Z"
+}

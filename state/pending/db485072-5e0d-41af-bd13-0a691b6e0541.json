@@ -1,0 +1,11 @@
+{
+  "id": "db485072-5e0d-41af-bd13-0a691b6e0541",
+  "repo": "undefined/claude-token-optimizer",
+  "url": "https://github.com/nadimtuhin/claude-token-optimizer",
+  "category": "Developer Tool",
+  "summary_vi": "Công cụ tối ưu hóa việc sử dụng token trong các cuộc gọi API Claude, giúp tiết kiệm chi phí.",
+  "stars": 498,
+  "language": "JavaScript",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-01T14:43:47.528Z"
+}

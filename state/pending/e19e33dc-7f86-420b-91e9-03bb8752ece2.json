@@ -1,0 +1,11 @@
+{
+  "id": "e19e33dc-7f86-420b-91e9-03bb8752ece2",
+  "repo": "undefined/go-whatsapp-web-multidevice",
+  "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+  "category": "API/GraphQL",
+  "summary_vi": "API WhatsApp dựa trên Go hỗ trợ nhiều tài khoản, webhook và tích hợp Chatwoot, dùng cho ứng dụng nhắn tin.",
+  "stars": 4173,
+  "language": "Go",
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-07-01T09:56:25.479Z"
+}
