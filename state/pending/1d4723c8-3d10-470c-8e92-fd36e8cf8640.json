@@ -1,0 +1,24 @@
+{
+  "id": "1d4723c8-3d10-470c-8e92-fd36e8cf8640",
+  "repo": "usestrix/strix",
+  "url": "https://github.com/usestrix/strix",
+  "category": "Security/Pentest",
+  "summary": "Công cụ thử thách an năng dựa trên AI giúp phát hiện và sửa lỗi lỗi hệ vấn đề ứng dụng. Sử dụng trí tuệ nhân tạo để tự động hóa quy trình penetration testing, phù hợp cho bảo mật hiện đại và các cuộc thi CTF.",
+  "usecases": [
+    "Công ty cybersecurity dùng để tự động hóa việc thử thách ứng dụng web hàng ngàn lần/ngày",
+    "Bug bounty hunter triển khai để tìm lỗi ứng dụng nhanh chóng mà không cần kỹ năng hacking thủ công",
+    "Developer cá nhân kiểm tra mã nguồn trước khi triển khai production",
+    "Trường đại học giảng dạy cho học sinh về an năng trong thế giới AI"
+  ],
+  "ideas": [
+    "Kết hợp với autonomous drone để thực hiện penetration testing trên mạng lưới WiFi công cộng",
+    "Phát triển hệ thống đua thủ AI - các bot hack phía trước các lỗi bảo mật AI-generated",
+    "Tích hợp vào quantum computing để phát hiện mã hóa kỳ ứng ngay cả trên hệ thống post-quantum",
+    "Tạo môi trường thử thách ảo hoàn chỉnh để các agent AI huấn luyện bằng chính lỗi thật tế giới"
+  ],
+  "stars": 29961,
+  "starsToday": 1211,
+  "language": "Python",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-02T04:03:37.646Z"
+}
