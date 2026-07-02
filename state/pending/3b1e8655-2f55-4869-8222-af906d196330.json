@@ -1,0 +1,22 @@
+{
+  "id": "3b1e8655-2f55-4869-8222-af906d196330",
+  "repo": "facebook/astryx",
+  "url": "https://github.com/facebook/astryx",
+  "category": "UI/Component Library",
+  "summary": "Astryx là hệ thống thiết kế nguồn mở hoàn toàn có thể tùy chỉnh với kiến trúc sẵn sàng tích hợp AI agents. Hệ thống cung cấp các component độc lập và có thể kết hợp, giúp các nhà phát triển xây dựng giao diện người dùng một cách nhanh chóng và nhất quán.",
+  "usecases": [
+    "Designer nhận diện thiết kế giao diện và yêu cầu AI tạo component tương ứng trong Astryx để tích hợp vào dự án web",
+    "Team phát triển sử dụng Astryx để xây dựng design system duy nhất cho sản phẩm của công ty, đồng thời cho phép AI agents tự động tạo code component",
+    "Nhà phát triển cá nhân sử dụng Astryx để tạo prototype nhanh các ứng dụng web với sự trợ giúp của AI coding assistants"
+  ],
+  "ideas": [
+    "Kết hợp Astryx với các AI model để tạo ra các component thiết kế động theo thời gian thực dựa trên dữ liệu người dùng",
+    "Xây dựng hệ thống AI agent có khả năng đọc ý tưởng thiết kế từ sketch và tự động sinh code component tương ứng trong Astryx",
+    "Tích hợp Astryx vào môi trường VR cho phép designer tạo giao diện 3D bằng hành động tay thật được chuyển đổi thành code components"
+  ],
+  "stars": 2806,
+  "starsToday": 708,
+  "language": "TypeScript",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-02T04:27:41.818Z"
+}
