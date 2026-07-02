@@ -90,7 +90,7 @@ async function main() {
   const enriched = await enrichWithTopics(limited);
 
   // Gọi OpenRouter theo batch 5 repo/lần (prompt giờ dài hơn)
-  const BATCH_SIZE = 5;
+  const BATCH_SIZE = 3;
   const results = [];
   for (let i = 0; i < enriched.length; i += BATCH_SIZE) {
     const batch = enriched.slice(i, i + BATCH_SIZE);

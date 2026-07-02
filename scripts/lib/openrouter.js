@@ -53,17 +53,38 @@ CHỈ trả về JSON thuần (không markdown, không giải thích), dạng:
   const content = data.choices?.[0]?.message?.content || "[]";
   const cleaned = content.replace(/```json|```/g, "").trim();
 
-  let parsed;
+  // Thử parse cả mảng trước
   try {
-    parsed = JSON.parse(cleaned);
+    const parsed = JSON.parse(cleaned);
+    return parsed.map((item) => ({
+      ...item,
+      category: CATEGORIES.includes(item.category) ? item.category : "Other",
+      usecases: Array.isArray(item.usecases) ? item.usecases : [],
+      ideas: Array.isArray(item.ideas) ? item.ideas : [],
+    }));
   } catch {
-    throw new Error(`Không parse được JSON từ OpenRouter: ${cleaned.slice(0, 200)}`);
+    // JSON bị cắt giữa chừng -> extract từng object hoàn chỉnh bằng regex
+    console.warn("Full JSON parse failed, attempting partial extraction...");
+    const objects = [];
+    const regex = /\{\s*"repo"\s*:.*?"ideas"\s*:\s*\[.*?\]\s*\}/gs;
+    const matches = cleaned.match(regex) || [];
+    for (const match of matches) {
+      try {
+        const obj = JSON.parse(match);
+        objects.push({
+          ...obj,
+          category: CATEGORIES.includes(obj.category) ? obj.category : "Other",
+          usecases: Array.isArray(obj.usecases) ? obj.usecases : [],
+          ideas: Array.isArray(obj.ideas) ? obj.ideas : [],
+        });
+      } catch {
+        // object này bị lỗi thì bỏ qua
+      }
+    }
+    if (objects.length === 0) {
+      throw new Error(`Không parse được JSON từ OpenRouter: ${cleaned.slice(0, 200)}`);
+    }
+    console.warn(`Extracted ${objects.length} objects from partial JSON.`);
+    return objects;
   }
-
-  return parsed.map((item) => ({
-    ...item,
-    category: CATEGORIES.includes(item.category) ? item.category : "Other",
-    usecases: Array.isArray(item.usecases) ? item.usecases : [],
-    ideas: Array.isArray(item.ideas) ? item.ideas : [],
-  }));
 }

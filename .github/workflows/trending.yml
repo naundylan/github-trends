@@ -2,7 +2,7 @@ name: GitHub Trending Crawl
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # mỗi 6 tiếng
+    - cron: "0 */3 * * *" # mỗi 6 tiếng
   workflow_dispatch: {} # cho phép chạy tay để test
 
 permissions:
