@@ -1,0 +1,22 @@
+{
+  "id": "d31e190e-17bb-4aa6-ab10-59a8caefd5bb",
+  "repo": "google/agents-cli",
+  "url": "https://github.com/google/agents-cli",
+  "category": "AI Agent/Automation",
+  "summary": "Agents CLI là bộ công cụ CLI của Google giúp chuyển bất kỳ assistant nào thành chuyên gia tạo, đánh giá và triển khai AI agents trên Google Cloud. Tích hợp sẵn với Gemini và ADK (Agent Development Kit) để xây dựng hệ sinh thái agent phức tạp với khả năng triển vọng cao trên nền tảng đám mây.",
+  "usecases": [
+    "Enterprise developer dùng agents-cli để xây dựng agent chuyên vụ quản trữ trữ liệu doanh nghiệp tối ưu hóa truy vấn BigQuery",
+    "Startup founder triển khai agent marketing tự động tạo content và chạy campaign trên Google Ads thông qua agents-cli",
+    "Data scientist dùng agents-cli để tạo agent phân tích dữ liệu real-time nhận định ngân hàng số cảnh báo rủi ro giao dịch"
+  ],
+  "ideas": [
+    "Phát triển 'Agent Economy Marketplace' - các agent được xây dựng bằng agents-cli có thể bán và kết nối với nhau thành chuỗi giá trị tự động trên Google Cloud Marketplace",
+    "Tạo 'Agents CLI Metaverse' - môi trường ảo nơi hàng ngàn agent có thể tương tác thực thể trong không gian 3D để giải quyết vấn đề phức tạp",
+    "Xây dựng 'Agent Neural Network Simulator' - mô phỏng các agent như neurons kết nối với nhau, học tập và điều chỉnh behavior dựa trên gradient descent"
+  ],
+  "stars": 4618,
+  "starsToday": 586,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T11:30:49.905Z"
+}

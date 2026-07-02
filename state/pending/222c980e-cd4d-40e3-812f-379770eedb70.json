@@ -1,0 +1,22 @@
+{
+  "id": "222c980e-cd4d-40e3-812f-379770eedb70",
+  "repo": "NousResearch/hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "category": "AI Agent/Automation",
+  "summary": "AI agent tự phát triển (growth agent) tích hợp với nhiều nền tảng như Claude, ChatGPT, OpenAI - cho phép người dùng định nghĩ và huấu luyện agent theo cách cá nhân hóa. Được xây dựng trên kiến trúc mở rộng cho phép kết nối nhiều LLM provider.",
+  "usecases": [
+    "Người dùng muốn có một AI assistant cá nhân chuyên về lĩnh vực cá nhân (ví dụ: chỉ số thể chất, lịch trình làm việc)",
+    "Team marketing cần agent hiểu biết về thương hiệu và tạo content phù hợp với giọng điệu công ty",
+    "Nhà giáo dục tạo AI tutor chuyên về môn học cụ thể với khả năng thích nghi với từng học sinh"
+  ],
+  "ideas": [
+    "Kết hợp Hermes với Tesla AI để tạo 'tai xe thông minh' cá nhân hoá dựa trên hành trình đường xá",
+    "Ứng dụng vào trường học - AI agent tự học ngôn ngữ của từng học sinh rồi đáp lại bằng cách hiểu giọng điệu",
+    "Tích hợp vào phần mềm quản lý bệnh viện - AI agent chữa là bác sĩ cá nhân dựa trên tiểu sử bệnh nhân"
+  ],
+  "stars": 207682,
+  "starsToday": 849,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T11:30:49.905Z"
+}

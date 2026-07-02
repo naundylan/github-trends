@@ -1,0 +1,23 @@
+{
+  "id": "a1c0dfe6-6468-4437-8e3e-96ea56e3839b",
+  "repo": "tt-a1i/archify",
+  "url": "https://github.com/tt-a1i/archify",
+  "category": "AI Agent/Automation",
+  "summary": "Archify là một kỹ năng (skill) cho Claude AI giúp người dùng tạo sơ đồ kiến trúc đẹp với tính năng chuyển đổi chế độ sáng/tối và xuất file dưới nhiều định dạng như PNG, JPEG, WebP, SVG. Dự án cung cấp giải pháp thay thế Mermaid cho việc thiết kế hệ thống một cách trực quan và chuyên nghiệp.",
+  "usecases": [
+    "Kiến trúc viên dùng Claude AI để tạo sơ đồ hệ thống phức tạp một cách nhanh chóng",
+    "Nhà phát triển sử dụng skill này trong quy trình thiết kế hệ thống để tài liệu hóa cấu trúc",
+    "Công ty công nghệ nhỏ muốn tạo tài liệu kỹ thuật chuyên nghiệp mà không cần thiết kế viên"
+  ],
+  "ideas": [
+    "Tích hợp với các AI agent khác như GitHub Copilot để tạo sơ đồ tự động khi viết code",
+    "Kết hợp với hệ thống monitoring để tạo sơ đồ trực quan thời gian thực các dịch vụ",
+    "Phát triển phiên bản Chrome extension để bạn học sơ đồ trực tiếp trên trình duyệt",
+    "Tích hợp với Miro/Mural để đồng bộ hóa sơ đồ giữa AI và bảng thiết kế hệ thống"
+  ],
+  "stars": 2133,
+  "starsToday": 487,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T11:30:49.905Z"
+}

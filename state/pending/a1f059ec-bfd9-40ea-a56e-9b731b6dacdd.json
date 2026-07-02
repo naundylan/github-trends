@@ -1,0 +1,23 @@
+{
+  "id": "a1f059ec-bfd9-40ea-a56e-9b731b6dacdd",
+  "repo": "public-apis/public-apis",
+  "url": "https://github.com/public-apis/public-apis",
+  "category": "API/GraphQL",
+  "summary": "Đây là danh sách tập hợp các API miễn phí phục vụ cho các nhà phát triển và do dự án nguồn mở cung cấp bởi cộng đồng. Danh sách bao gồm hàng ngàn API miễn phí trong nhiều lĩnh vực khác nhau, giúp giảm thời gian tìm kiếm và tích hợp API cho các dự án.",
+  "usecases": [
+    "Sinh viên học phát triển web dùng danh sách này để tìm API miễn phí thử nghiệm",
+    "Nhà phát triển ứng dụng cá nhân xây dựng nhanh các tính năng bằng API miễn phí",
+    "Doanh nghiệp nhỏ muốn prototype sản phẩm mới nhanh chóng mà không cần đầu tư phát triển API"
+  ],
+  "ideas": [
+    "Tạo AI-powered API recommendation engine dựa trên use case và ngữ cảnh dự án",
+    "Xây dựng platform kết hợp với danh sách này để rate và đánh giá API tự động",
+    "Phát triển CLI tool duy duyệt API mới nhất từ danh sách này hàng ngày",
+    "Tích hợp với Postman để auto-generate collection từ API được chọn"
+  ],
+  "stars": 445956,
+  "starsToday": 392,
+  "language": "Python",
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-07-02T11:30:49.905Z"
+}

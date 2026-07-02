@@ -1,0 +1,24 @@
+{
+  "id": "8069dd45-ce52-4c82-b666-d8570a78dfd9",
+  "repo": "santifer/career-ops",
+  "url": "https://github.com/santifer/career-ops",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống tìm việc làm điều hành bởi AI được xây dựng trên nền tảng Claude Code, cung cấp 14 chế độ kỹ năng chuyên biệt, dashboard bằng Go, tạo PDF và xử lý hàng loạt để tối ưu hóa quy trình tìm việc làm.",
+  "usecases": [
+    "Ồn ào tìm việc làm sử dụng các chế độ kỹ năng khác nhau để phỏng vấn và tạo hồ sơ cá nhân hóa",
+    "Công ty tuyển dụng áp dụng hệ thống để xử lý hàng loạt các đơn xin tuyển dụng và tạo danh sách ứng viên tiềm năng",
+    "Người hưởng ứng tiếp cận nhiều cơ hội việc làm thông qua việc tự động hóa quy trình phát triển sự nghiệp"
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống CRM Doanh nghiệp để tự động đề xuất chiến lược tìm việc dựa trên dữ liệu khách hàng ti potency",
+    "Kết hợp với công nghệ Augmented Reality để tạo môi trường phỏng vấn ảo thực tế tuyệt vời",
+    "Phát triển phiên bản blockchain để lưu trữ và chứng thực không đối xứng hồ sơ cá nhân và kinh nghiệm làm việc",
+    "Tích hợp với trí tuệ nhân tạo lớn khác nhau như Gemini hay GPT để so sánh và tối ưu hóa chiến lược tìm việc làm",
+    "Sử dụng làm nền tảng cho việc đào tạo siêu nhân nhân tạo về nghề nghiệp và kỹ năng mềm"
+  ],
+  "stars": 57289,
+  "starsToday": 322,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T11:30:49.905Z"
+}

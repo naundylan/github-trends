@@ -1,0 +1,23 @@
+{
+  "id": "0d6cad65-bed5-4e21-84e7-b65c32fa11c2",
+  "repo": "OpenCut-app/OpenCut",
+  "url": "https://github.com/OpenCut-app/OpenCut",
+  "category": "Web Frontend",
+  "summary": "OpenCut là một trình chỉnh sửa video mã nguồn mở và miễn phí, được xây dựng như một thay thế mở cho CapCut. Với công nghệ TypeScript và hi tech web hiện đại, ứng dụng cung cấp các tính năng chỉnh sửa video chuyên nghiệp chạy hoàn toàn trên trình duyệt mà không cần cài đặt.",
+  "usecases": [
+    "Người sáng tạo nội dung cần công cụ chỉnh sửa video miễn phí và không đăng ký tài khoản",
+    "Giáo viên sử dụng để tạo tài liệu giảng dạy video một cách nhanh chóng",
+    "Công ty văn phòng nhỏ muốn tạo video quảng bá sản phẩm mà không đầu tư phần mềm cao cấp"
+  ],
+  "ideas": [
+    "Phát triển version AI-powered editing với gợi ý cắt video tự động dựa trên nội dung",
+    "Tích hợp real-time collaboration như Figma cho nhóm thiết kế đa vị trí",
+    "Tạo mobile app version với WebAssembly để chạy local hoàn toàn không cần internet",
+    "Kết nối với các nền tảng như TikTok/Twitch để xuất video trực tiếp tới streaming"
+  ],
+  "stars": 61252,
+  "starsToday": 348,
+  "language": "TypeScript",
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-07-02T11:30:49.905Z"
+}

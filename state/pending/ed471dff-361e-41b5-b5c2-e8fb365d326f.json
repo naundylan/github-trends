@@ -1,0 +1,22 @@
+{
+  "id": "ed471dff-361e-41b5-b5c2-e8fb365d326f",
+  "repo": "JuliusBrussee/caveman",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "category": "AI Agent/Automation",
+  "summary": "Claude Code skill giúp giảm 65% chi phí token bằng cách biến LLM thành 'người thôn gian' chỉ sử dụng từ đơn giản thô thiệt. Đây là giải pháp tiết kiệm chi phí sử dụng API khi cần xử lý lượng lớn prompt hoặc làm việc trong môi trường cost-sensitive.",
+  "usecases": [
+    "Developer làm việc trong startup nhỏ với budget API thapsy không thể tốn quá nhiều chi phí token",
+    "Người dùng cần xử lý 1000+ câu hỏi hàng ngày mà không muốn đầu tư server AI tốn kém",
+    "Hệ thống cần truy vấn nhanh các câu hỏi đơn giản mà không cần đến LLM hiện đại đầy token"
+  ],
+  "ideas": [
+    "Tích hợp vào hệ thống nhà thông minh - AI chỉ sử dung 10 từ để điều khiển bật/tắt đèn thay vì câu lệnh phức tạp",
+    "Áp dụng cho robot tiếp xúc người dùng - 'xin chào' hay 'tắt máy' để tiết kiệm bandwidth truyền tín hiệu",
+    "Kết hợp với IoT sensors để AI chỉ cần 50 từ xác định trạng thái môi trường thay vì paragraph đầy thông tin"
+  ],
+  "stars": 79443,
+  "starsToday": 866,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T11:30:49.904Z"
+}

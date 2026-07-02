@@ -1,0 +1,22 @@
+{
+  "id": "06fcdbdc-3b69-45cd-a54c-4af4bbc17832",
+  "repo": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "category": "AI/LLM",
+  "summary": "Firecrawl là API mạnh mẽ để tìm kiếm, scrape và tương tác với web quy mô lớn, đặc biệt tối ưu cho LLM với khả năng chuyển đổi HTML thành markdown chất lượng cao. Đây là công cụ sống để AI agents thu thập tri thông tin thế giới một cách có hệ thống và hiệu quả.",
+  "usecases": [
+    "AI research assistant dùng Firecrawl để liên tục cập nhật kiến thức mới nhất từ academic papers và news sources cho công thức nghiên cứu",
+    " Competitive intelligence tool sử dụng Firecrawl để scrape competitor websites hàng ngày tạo báo cáo thị trường tự động",
+    "Legal AI startup dùng Firecrawl để crawl và phân tích hàng triệu trường hợp tại án liên quan để đào tạo model dự đoán phán quyết"
+  ],
+  "ideas": [
+    "Tích hợp Firecrawl vào 'AI Time Machine' - crawl web theo lịch sử phát triển để AI có thể 'nhìn vào quá khứ' và học hỏi từng giai đoạn",
+    "Xây dựng 'Firecrawl Web3 Oracle' - kết nối Firecrawl với blockchain để tự động cập nhật thông tin dự án crypto từ web về on-chain data",
+    "Tạo 'Firecrawl Neural Index' - sử dụng transformer để tạo vector embedding của toàn bộ web, cho phép AI query bằng ngôn ngữ tự nhiên chính xác như tìm kiếm trong Google nhưng cho truy vấn phức tạp"
+  ],
+  "stars": 142986,
+  "starsToday": 522,
+  "language": "TypeScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-02T11:30:49.905Z"
+}
