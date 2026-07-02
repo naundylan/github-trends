@@ -99,13 +99,22 @@ async function main() {
   const { toProcess, history: updatedHistory } = diffAgainstHistory(history, trending, todayISO);
   console.log(`${toProcess.length} repos eligible. Processing max ${MAX_PER_RUN} this run.`);
 
-  const limited = toProcess
+    const limited = toProcess
     .sort((a, b) => b.starsToday - a.starsToday)
     .slice(0, MAX_PER_RUN);
 
   if (limited.length === 0) {
     console.log("Nothing new. Done.");
     return;
+  }
+
+  const limitedNames = new Set(limited.map((r) => r.fullName));
+  for (const key of Object.keys(updatedHistory)) {
+    const entry = updatedHistory[key];
+    const wasAddedToday = entry.first_seen === todayISO && entry.last_seen === todayISO;
+    if (wasAddedToday && !limitedNames.has(key)) {
+      delete updatedHistory[key];
+    }
   }
 
   const enriched = await enrichWithTopics(limited);
