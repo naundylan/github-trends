@@ -1,7 +1,17 @@
 import { promises as fs } from "fs";
+import { Octokit } from "@octokit/rest";
 
 const HISTORY_PATH = "state/trending-history.json";
-const RESURFACE_DAYS = 21; // 3 tuần
+const RESURFACE_DAYS = 21;
+
+function getOctokit() {
+  return new Octokit({ auth: process.env.GH_TOKEN });
+}
+
+function getOwnerRepo() {
+  const [OWNER, REPO] = process.env.GITHUB_REPOSITORY.split("/");
+  return { OWNER, REPO };
+}
 
 export async function loadHistory() {
   try {
@@ -14,20 +24,41 @@ export async function loadHistory() {
 }
 
 export async function saveHistory(history) {
+  const octokit = getOctokit();
+  const { OWNER, REPO } = getOwnerRepo();
+  const content = JSON.stringify(history, null, 2) + "\n";
+
+  // Lấy SHA hiện tại của file (cần để update)
+  let sha;
+  try {
+    const { data } = await octokit.repos.getContent({
+      owner: OWNER, repo: REPO, path: HISTORY_PATH,
+    });
+    sha = data.sha;
+  } catch (err) {
+    if (err.status !== 404) throw err;
+  }
+
+  await octokit.repos.createOrUpdateFileContents({
+    owner: OWNER,
+    repo: REPO,
+    path: HISTORY_PATH,
+    message: `chore: update trending history (${new Date().toISOString().slice(0, 10)})`,
+    content: Buffer.from(content, "utf-8").toString("base64"),
+    sha,
+  });
+
+  // Vẫn ghi local để các bước sau trong cùng run có thể đọc
   await fs.mkdir("state", { recursive: true });
-  await fs.writeFile(HISTORY_PATH, JSON.stringify(history, null, 2) + "\n", "utf-8");
+  await fs.writeFile(HISTORY_PATH, content, "utf-8");
 }
 
-/**
- * Trả về danh sách repo cần xử lý (mới hoặc mới nổi lại sau >= 21 ngày),
- * đồng thời update lastSeen cho toàn bộ repo crawl được hôm nay.
- */
 export function diffAgainstHistory(history, trendingRepos, todayISO) {
   const toProcess = [];
   const today = new Date(todayISO);
 
   for (const repo of trendingRepos) {
-    const key = repo.fullName; // "owner/name"
+    const key = repo.fullName;
     const entry = history[key];
 
     if (!entry) {
