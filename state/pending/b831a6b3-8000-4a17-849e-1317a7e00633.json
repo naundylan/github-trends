@@ -1,0 +1,24 @@
+{
+  "id": "b831a6b3-8000-4a17-849e-1317a7e00633",
+  "repo": "msitarzewski/agency-agents",
+  "url": "https://github.com/msitarzewski/agency-agents",
+  "category": "AI Agent/Automation",
+  "summary": "Một nền tảng AI agency hoàn chỉnh với các agent chuyên biệt từ frontend đến community management, mỗi agent đều có tính cách, quy trình và đầu ra định lăng. Dự án giúp người dùng truy cập vào các chuyên gia AI được đào tạo riêng cho từng lĩnh vực cụ thể.",
+  "usecases": [
+    "Content creators cần tạo nội dung đa kênh nhanh chóng với các chuyên gia AI chuyên về từng lĩnh vực",
+    "Công ty nhỏ muốn triển khai hệ thống hỗ trợ khách hàng 24/7 mà không cần đội ngũ lớn",
+    "Nhà phát triển cần tích hợp các tính năng AI như SEO optimization hay social media management vào sản phẩm",
+    "Các freelancer muốn mở rộng khả năng cạnh tranh bằng cách sử dụng nhiều chuyên gia ảo"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống CRM để tự động hóa quy trình chăm sóc khách hàng theo từng giai đoạn",
+    "Tích hợp vào nền tảng e-commerce để cá nhân hóa trải nghiệm người mua và quản lý bán hàng thông minh",
+    "Tích chập vào môi trường làm việc nhóm (như Slack/Teams) để các agent tham gia hỗ trợ và đề xuất dự án",
+    "Sử dụng làm hệ thống đề xuất ý tưởng sáng tạo cho các phòng design và marketing thông qua các agent 'whimsy injector'"
+  ],
+  "stars": 123814,
+  "starsToday": 2114,
+  "language": "Shell",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T03:43:44.267Z"
+}
