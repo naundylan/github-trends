@@ -1,0 +1,24 @@
+{
+  "id": "dd567de3-cbcc-4f17-8b8a-f356d4f02078",
+  "repo": "usestrix/strix",
+  "url": "https://github.com/usestrix/strix",
+  "category": "Security/Pentest",
+  "summary": "Công cụ thử xâm nhập AI mã nguồn mở giúp phát hiện và sửa lỗi yếu tống ứng dụng. Kết hợp AI và pentesting để tự động hóa việc tìm lỗi bảo mật và thực hành hacking đạo đức.",
+  "usecases": [
+    "Công ty fintech kiểm tra ứng dụng ngân hàng trước khi ra mắt",
+    "Team bảo mật chạy CTF competitions với các cuộc tấn công thông minh",
+    "Nhà phát triển API tự động scan và fix lỗi OWASP Top 10",
+    "Bug bounty hunter tìm lỗi ẩn trong ứng dụng web phức tạp"
+  ],
+  "ideas": [
+    "Tích hợp vào CI/CD pipeline để auto-block những code có nguy cơ bảo mật",
+    "Kết hợp với blockchain scanner để phát hiện lỗi thông minh trong smart contracts",
+    "Tạo môi trường giả lập phức tạp với các cuộc tấn công AI sinh ra từ LLM",
+    "Phát triển hệ thống đe dọa mời dịch bằng agent chuyên về an ninh mạng"
+  ],
+  "stars": 29985,
+  "starsToday": 1211,
+  "language": "Python",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-02T04:13:57.656Z"
+}

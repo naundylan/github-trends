@@ -1,0 +1,25 @@
+{
+  "id": "228a5a20-67a5-4aa4-b689-5fe937b3597c",
+  "repo": "Leonxlnx/taste-skill",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "category": "AI Agent/Automation",
+  "summary": "Taste-Skill là một hệ thống kỹ năng giúp AI có 'vị giác' hơn, ngăn chặn AI tạo ra nội dung phôi thảo, chung chung. Dự án cung cấp các skill template để đánh giá và cải thiện chất lượng output của AI agents, đặc biệt hữu ích trong lập trình và thiết kế frontend.",
+  "usecases": [
+    "Developer dùng Claude Code để lập trình web, muốn đội mới code quality hơn và ít duplicate solution",
+    "Designer với vibecoding muốn AI tạo component có style độc đáo thay vì template chung",
+    "Team no-code app builders cần AI tạo logic phức tạp mà không lặp lại patterns đơn giản",
+    "Người học frontend muốn luyện tập với AI nhưng không muốn bị AI 'lườm' với cách giải thích thừa tiếng"
+  ],
+  "ideas": [
+    "Kết hợp với Stable Diffusion để AI tạo UI mockups có taste cao hơn, tránh 'uncanny valley' design",
+    "Tích hợp vào GitHub Copilot để ranking các gợi ý code theo mức độ sáng tạo và relevance",
+    "Tạo 'taste profile' cá nhân hóa cho từng developer, AI học vị ưu tiên của người dùng",
+    "Ứng dụng vào AI game dev để tạo character/dialogue không overfit với tropes phổ biến",
+    "Kết hợp với RAG systems để đánh giá output dựa trên knowledge base chuyên sâu của doanh nghiệp"
+  ],
+  "stars": 54520,
+  "starsToday": 638,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T04:13:57.656Z"
+}
