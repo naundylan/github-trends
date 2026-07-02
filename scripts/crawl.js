@@ -57,12 +57,55 @@ async function putFileOnGithub(path, content, message) {
     if (err.status !== 404) throw err;
   }
   await octokit.repos.createOrUpdateFileContents({
-    owner: OWNER,
-    repo: REPO,
-    path,
-    message,
+    owner: OWNER, repo: REPO, path, message,
     content: Buffer.from(content, "utf-8").toString("base64"),
     sha,
+  });
+}
+
+async function commitBatch(files) {
+  // files: [{ path, content }]
+  // Dùng Git Tree API để commit tất cả trong 1 lần
+  const { data: refData } = await octokit.git.getRef({
+    owner: OWNER, repo: REPO, ref: "heads/main",
+  });
+  const latestSha = refData.object.sha;
+
+  const { data: commitData } = await octokit.git.getCommit({
+    owner: OWNER, repo: REPO, commit_sha: latestSha,
+  });
+  const treeSha = commitData.tree.sha;
+
+  // Tạo blobs cho từng file
+  const treeItems = await Promise.all(files.map(async ({ path, content }) => {
+    const { data: blob } = await octokit.git.createBlob({
+      owner: OWNER, repo: REPO,
+      content: Buffer.from(content, "utf-8").toString("base64"),
+      encoding: "base64",
+    });
+    return { path, mode: "100644", type: "blob", sha: blob.sha };
+  }));
+
+  // Tạo tree mới
+  const { data: newTree } = await octokit.git.createTree({
+    owner: OWNER, repo: REPO,
+    base_tree: treeSha,
+    tree: treeItems,
+  });
+
+  // Tạo commit
+  const { data: newCommit } = await octokit.git.createCommit({
+    owner: OWNER, repo: REPO,
+    message: `chore: queue ${files.length} pending notes`,
+    tree: newTree.sha,
+    parents: [latestSha],
+  });
+
+  // Update ref
+  await octokit.git.updateRef({
+    owner: OWNER, repo: REPO,
+    ref: "heads/main",
+    sha: newCommit.sha,
   });
 }
 
@@ -78,8 +121,8 @@ async function main() {
   console.log(`${toProcess.length} repos eligible (new or resurfaced). Processing max ${MAX_PER_RUN} this run.`);
 
   const limited = toProcess
-  .sort((a, b) => b.starsToday - a.starsToday)
-  .slice(0, MAX_PER_RUN);
+    .sort((a, b) => b.starsToday - a.starsToday)
+    .slice(0, MAX_PER_RUN);
 
   if (limited.length === 0) {
     await saveHistory(updatedHistory);
@@ -102,49 +145,62 @@ async function main() {
   const byName = new Map(enriched.map((r) => [r.fullName, r]));
 
   for (const item of results) {
-    const repo = byName.get(item.repo);
-    if (!repo) continue;
+    const byName = new Map(enriched.map((r) => [r.fullName, r]));
+    const pendingFiles = [];
+    const toSend = [];
 
-    const pendingId = randomUUID();
-    const pendingPath = `state/pending/${pendingId}.json`;
-    const notePath = `notes/${categoryToFilename(item.category)}`;
+    for (const item of results) {
+      const repo = byName.get(item.repo);
+      if (!repo) continue;
 
-    const pendingPayload = {
-      id: pendingId,
-      repo: repo.fullName,
-      url: repo.url,
-      category: item.category,
-      summary: item.summary,
-      usecases: item.usecases,
-      ideas: item.ideas,
-      stars: repo.stars,
-      starsToday: repo.starsToday,
-      language: repo.language,
-      notePath,
-      createdAt: new Date().toISOString(),
-    };
+      const pendingId = randomUUID();
+      const notePath = `notes/${categoryToFilename(item.category)}`;
 
-    await putFileOnGithub(
-      pendingPath,
-      JSON.stringify(pendingPayload, null, 2),
-      `chore: queue pending note for ${repo.fullName}`
-    );
+      const pendingPayload = {
+        id: pendingId,
+        repo: repo.fullName,
+        url: repo.url,
+        category: item.category,
+        summary: item.summary,
+        usecases: item.usecases,
+        ideas: item.ideas,
+        stars: repo.stars,
+        starsToday: repo.starsToday,
+        language: repo.language,
+        notePath,
+        createdAt: new Date().toISOString(),
+      };
 
-    await sendTrendingMessage({
-      repo,
-      category: item.category,
-      summary: item.summary,
-      usecases: item.usecases,
-      ideas: item.ideas,
-      pendingId,
-    });
+      pendingFiles.push({
+        path: `state/pending/${pendingId}.json`,
+        content: JSON.stringify(pendingPayload, null, 2),
+      });
+      toSend.push({ repo, item, pendingId });
+    }
 
-    console.log(`✓ Sent: ${repo.fullName} [${item.category}]`);
-    await sleep(MSG_DELAY_MS);
+    // 1 commit duy nhất cho toàn bộ pending files
+    if (pendingFiles.length > 0) {
+      console.log(`Committing ${pendingFiles.length} pending files in 1 commit...`);
+      await commitBatch(pendingFiles);
+    }
+
+    // Gửi Telegram từng cái, delay giữa các message
+    for (const { repo, item, pendingId } of toSend) {
+      await sendTrendingMessage({
+        repo,
+        category: item.category,
+        summary: item.summary,
+        usecases: item.usecases,
+        ideas: item.ideas,
+        pendingId,
+      });
+      console.log(`✓ Sent: ${repo.fullName} [${item.category}]`);
+      await sleep(MSG_DELAY_MS);
+    }
+
+    await saveHistory(updatedHistory);
+    console.log(`Done. Sent ${toSend.length} messages.`);
   }
-
-  await saveHistory(updatedHistory);
-  console.log(`Done. Sent ${results.length} messages.`);
 }
 
 main().catch((err) => {
