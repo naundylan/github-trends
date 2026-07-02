@@ -1,0 +1,25 @@
+{
+  "id": "c8c09ac7-c244-42ec-8410-a074c6384e80",
+  "repo": "yikart/AiToEarn",
+  "url": "https://github.com/yikart/AiToEarn",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng sử dụng AI để tự động sinh nội dung và đăng lên các nền tảng mạng xã hội như Douyin, Kuaishou, Xiaohongshu để kiếm tiền. Kết hợp Electron + React tạo giao diện desktop, tích hợp API của các nền tảng social media. Đây là công cụ 'chạy bot' thông minh cho Marketing số.",
+  "usecases": [
+    "Creator nội dung số kiếm tiền qua AI content generation",
+    "Marketing agency tạo và phân phối nội dung hàng ngàn video",
+    "Freelancer làm việc với tốc độ cao mà không cần can thiết thủ công",
+    "Doanh nghiệp làm chiến dịch viral trên nhiều nền tảng cùng lúc"
+  ],
+  "ideas": [
+    "Tạo 'AI influencer factory' - sinh ra hàng ngàn micro-influencer ảo",
+    "Kết hợp với DeFi để AI tự động giao dịch và kiếm token",
+    "Hệ thống 'content evolution' dựa trên phân tích user behavior real-time",
+    "Agent chạy trên blockchain tự động tạo và phát triển thương hiệu NFT",
+    "Kết hợp với Web3 social để AI và human cùng kiếm tiền trên nền tảng decentralized"
+  ],
+  "stars": 22871,
+  "starsToday": 498,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T16:46:45.419Z"
+}

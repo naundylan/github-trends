@@ -1,0 +1,24 @@
+{
+  "id": "f2f48646-ca74-449a-8c6a-c8bd32f18212",
+  "repo": "msitarzewski/agency-agents",
+  "url": "https://github.com/msitarzewski/agency-agents",
+  "category": "AI Agent/Automation",
+  "summary": "Một nền tảng AI agency hoàn chỉnh với hàng chục agent chuyên biệt, mỗi agent có tính cách, quy trình làm việc và đầu ra cụ thể. Dự án giúp người dùng dễ dàng triển khai các quy trình AI tự động hóa từ thiết kế đến phát triển web và kiểm duyệt nội dung.",
+  "usecases": [
+    "Nhà phát triển sử dụng để tự động hóa quy trình làm việc nhóm với các agent chuyên về frontend, backend và QA",
+    "Doanh nghiệp nhỏ muốn tạo MVP nhanh chóng mà không cần đội ngũ đầy đủ kỹ sư",
+    "Nhà thiết kế cần tạo prototype nhanh với sự trợ giúp của AI Designer và UI Specialist",
+    "Kiểm duyệt viên nội dung muốn tối ưu hóa việc tạo và phản hồi trên các subreddit một cách tự động"
+  ],
+  "ideas": [
+    "Kết hợp với Astrax (design system) để tạo pipeline từ ý tưởng đến giao diện người dùng hoàn chỉnh một cách tự động",
+    "Tích hợp vào hệ thống CI/CD để các agent tự động code và deploy ứng dụng mỗi khi có thay đổi yêu cầu",
+    "Phát triển thành nền tảng 'Agency-as-a-Service' cho các công ty không có đội ngũ kỹ thuật",
+    "Tạo môi trường thử nghiệm để các agent cạnh tranh với nhau trong việc giải quyết bài toán phức tạp"
+  ],
+  "stars": 125242,
+  "starsToday": 2925,
+  "language": "Shell",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T16:46:45.419Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "942646bb-bdb6-447b-8af1-6b4c29ce13fb",
+  "repo": "usestrix/strix",
+  "url": "https://github.com/usestrix/strix",
+  "category": "Security/Pentest",
+  "summary": "Công cụ pentesting dựa trên AI giúp phát hiện và sửa chữa các lỗi vulnerabilities trong ứng dụng. Hỗ trợ các kỹ thuật thử nghiệm đạo độc, bug bounty và bảo mật cho các ứng dụng hiện đại.",
+  "usecases": [
+    "Công ty phần mềm muốn tự động hóa việc kiểm tra bảo mật trước khi release sản phẩm",
+    "White hat hacker tham gia CTF hay bug bounty một cách hiệu quả hơn với sự hỗ trợ của AI",
+    "DevOps team tích hợp vào pipeline để scan automated security trước khi deploy",
+    "Chuyên gia bảo mật cần khám phá các lỗi phức tạp trong hệ thống phức tạp"
+  ],
+  "ideas": [
+    "Kết hợp với các agent từ Agency Agents để tự động sửa chữa lỗi security sau khi phát hiện",
+    "Phát triển thành hệ thống 'Red Team AI' tấn công vào môi trường cloud như một công cụ huấn luyện AI",
+    "Tích hợp vào môi trường serverless để chạy scan bảo mật động quan sát thời gian thực",
+    "Tạo môi trường giả lập attack để đào tạo nhân viên về an ninh mạng"
+  ],
+  "stars": 31452,
+  "starsToday": 2167,
+  "language": "Python",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-02T16:46:45.419Z"
+}

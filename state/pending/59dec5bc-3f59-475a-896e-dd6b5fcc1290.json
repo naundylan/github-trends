@@ -1,0 +1,24 @@
+{
+  "id": "59dec5bc-3f59-475a-896e-dd6b5fcc1290",
+  "repo": "diegosouzapw/OmniRoute",
+  "url": "https://github.com/diegosouzapw/OmniRoute",
+  "category": "AI/LLM",
+  "summary": "Cổng AI miễn phí kết nối 231+ nhà cung cấp LLM thông qua một endpoint duy nhất. Sử dụng công nghệ nén RTK+Caveman giảm 15-95% token và thông minh auto-fallback. Hỗ trợ MCP/A2A, API đa phương thức, phù hợp cho các nhà phát triển ứng dụng AI cần tối ưu chi phí và độ tin cậy.",
+  "usecases": [
+    "Developer xây dựng ứng dụng AI cần kết nối đa LLM mà không quan tâm đến provider nào",
+    "Startup AI tiết kiệm chi phí API khi dùng nhiều dịch vụ LLM khác nhau",
+    "Enterprise cần hệ thống backup LLM tự động khi service chính gặp sự cố",
+    "Research team thử nghiệm nhiều mô hình LLM khác nhau trong cùng một pipeline"
+  ],
+  "ideas": [
+    "Kết hợp với autonomous AI agents chạy trên edge devices cho tiết kiệm latency",
+    "Tạo nền tảng AI gateway phân phối cho làng chơi indie với token savings chia sẻ",
+    "Ứng dụng trong hệ thống y tế thông minh với multi-LLM consensus cho đặt chẩn đoán",
+    "Kết hợp với Web3 smart contracts để tự động trao đổi dịch vụ AI bằng cryptocurrency"
+  ],
+  "stars": 10130,
+  "starsToday": 915,
+  "language": "TypeScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-02T16:46:45.419Z"
+}

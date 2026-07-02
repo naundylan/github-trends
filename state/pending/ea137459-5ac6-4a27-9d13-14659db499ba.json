@@ -1,0 +1,25 @@
+{
+  "id": "ea137459-5ac6-4a27-9d13-14659db499ba",
+  "repo": "openai/codex-plugin-cc",
+  "url": "https://github.com/openai/codex-plugin-cc",
+  "category": "AI/LLM",
+  "summary": "Đây là plugin cho phép Claude Code sử dụng mô hình Codex từ OpenAI để review code hoặc giao task. Plugin kết nối hai công nghệ AI, giúp người dùng tận dụng sức mạnh xử lý ngôn ngữ tự nhiên và code generation từ Codex ngay trong môi trường lập trình của Claude Code.",
+  "usecases": [
+    "Developer thường xuyên sử dụng Claude Code để coding muốn nhận phân tích nhanh chóng từ Codex về khả năng bug hoặc cách cải thiện code",
+    "Team lead cần giao việc cho AI xử lý trong quy trình CI/CD pipeline mà không cần rời khỏi môi trường Claude Code",
+    "Code reviewer muốn nhận feedback chi tiết về chất lượng mã nguồn từ góc độ của AI khi thực hiện peer review",
+    "QA engineer tích hợp AI vào quy trình testing để xác định potencial issues trong code trước khi deploy"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Copilot để tạo ra một hệ thống AI đa tầng - Codex xử lý complex logic, Copilot gợi ý code real-time trong editor",
+    "Phát triển thành Claude Agent độc lập có khả năng tự học hỏi từ các feedback của Codex để cải thiện khả năng understanding ngôn ngữ trong các tương tác tiếp theo",
+    "Tích hợp với môi trường cloud như AWS CodeWhisperer để tạo ra một workflow AI hybrid đa nền tảng - local AI models kết hợp với cloud AI services",
+    "Ứng dụng vào lĩnh vực embedded systems/IoT để AI xuất code tối ưu cho resource-constrained devices thông qua Codex, sau đó Claude Code quản lý việc triển vọng",
+    "Kết hợp với các công cụ như Sentry hoặc Datadog để AI tự động phân tích error logs, generate fixes và submit qua Claude Code như một autonomous debugging agent"
+  ],
+  "stars": 22447,
+  "starsToday": 448,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-02T16:46:45.419Z"
+}

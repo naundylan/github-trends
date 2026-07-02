@@ -1,0 +1,25 @@
+{
+  "id": "59415cc1-08c7-4d5a-b962-ef14e756cb59",
+  "repo": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống tối ưu hóa hiệu suất AI agents với kiến trúc modular bao gồm memory, security, research và skills. Hỗ trợ các nền tảng như Claude Code, Cursor, Codex cho phép agent thông minh hơn trong việc làm việc với codebase. Đây là framework để xây dựng các agent chuyên sâu theo domain.",
+  "usecases": [
+    "Developer dùng để tạo custom AI coding agents chuyên về backend/frontend",
+    "Team phát triển phần mềm tích hợp agent vào quy trình code review",
+    "Nghiên cứu viên nghiên cứu hành vi của AI agents trong môi trường thực",
+    "Doanh nghiệp triển khai agent assistant cho hỗ trợ kỹ thuật viên 24/7"
+  ],
+  "ideas": [
+    "Tạo 'AI agent marketplace' để chia sẻ memory patterns và skills modules",
+    "Kết hợp với Kubernetes để chạy agent clusters trên cloud",
+    "Xây dựng hệ thống 'agent evolution' với genetic algorithm tự động cải thiện",
+    "Intelligence pool chung cho nhiều agent sử dụng memory chung",
+    "Agent collective solving bài toán phức tạp như hệ thống distributed computing"
+  ],
+  "stars": 225012,
+  "starsToday": 508,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T16:46:45.419Z"
+}
