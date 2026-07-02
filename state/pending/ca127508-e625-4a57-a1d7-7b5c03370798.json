@@ -1,0 +1,24 @@
+{
+  "id": "ca127508-e625-4a57-a1d7-7b5c03370798",
+  "repo": "msitarzewski/agency-agents",
+  "url": "https://github.com/msitarzewski/agency-agents",
+  "category": "AI Agent/Automation",
+  "summary": "Đại sứ quyền AI hoàn chỉnh với nhiều chuyên gia chuyên sâu từ frontend đến community management. Mỗi agent có tính cách, quy trình và đầu ra chứng minh được, giúp tự động hóa các nhiệm vụ phức tạp.",
+  "usecases": [
+    "Công ty startup nhỏ tự xây dự trình làm website và quảng bá social media",
+    "Nhà sáng tạo nội dung cá nhân phát triển chiến lược content dài hạn",
+    "Team marketing nghiên cứu thị trường và tạo campaign quảng bá nhanh chóng",
+    "Freelancer đa lĩnh vực quản lý dự án mệnh để tối ưu hóa thời gian"
+  ],
+  "ideas": [
+    "Tích hợp vào nền tảng SaaS để tự động hóa toàn bộ vòng đời sản phẩm",
+    "Tạo môi trường đa ngôn ngữ với các agent đại diện cho văn hóa quốc tế",
+    "Kết nối với hệ thống CRM để cá nhân hóa trải nghiệm khách hàng theo từng giai đoạn",
+    "Xây dựng hệ thống agent swarm để phân tích thị trường và ra quyết định chiến lược"
+  ],
+  "stars": 123887,
+  "starsToday": 2114,
+  "language": "Shell",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T04:14:50.431Z"
+}
