@@ -1,0 +1,25 @@
+{
+  "id": "c4f9c04f-b258-456d-99ca-1593ed507f21",
+  "repo": "Leonxlnx/taste-skill",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "category": "AI/LLM",
+  "summary": "Taste-Skill là một framework giúp AI có 'vị giác' tốt hơn, ngăn chặn AI tạo ra nội dung phí như băng, chung chung. Dự án xây dựng trên các kỹ thuật đánh giá chất lượng và prompt engineering để AI luôn tạo ra những gì tinh tế, phù hợp ngữ cảnh hơn.",
+  "usecases": [
+    "Lập trình viên sử dụng kèm Claude Code để AI tạo code chất lượng cao, tránh được những đoạn code phí như băng hoặc không tối ưu",
+    "Thiết kế viên dùng để Claude hay Codex tạo design giao diện tinh tế hơn, không bị giống nhau hoặc lép vế",
+    "Nhà phát triển ứng dụng no-code/low-code tích hợp vào workflow AI helper, giúp tạo template hoặc component có chất lượng cao hơn",
+    "Nghiên cứu sinh dùng trong nghiên cứu UI/UX để AI sinh ra các thiết kế có tính thẩm mỹ và tính năng vượt trội"
+  ],
+  "ideas": [
+    "Kết hợp với Stable Diffusion để tạo ra hệ thống AI sinh hình ảnh có 'taste' cao nhất, không bị phô phío hoặc lặp lại",
+    "Ứng dụng vào thế giới metaverse để AI tạo content ảo giác trong trò chơi với chất lượng nghệ thuật hài hước, không lặp đi lặp lại",
+    "Tích hợp vào hệ thống giáo dục thông minh để AI tutor có khả năng 'taste' trong việc đánh giá bài làm của học sinh",
+    "Kết hợp với blockchain để tạo ra chứng thực chất lượng AI-generated content với hệ thống điểm taste trên chain",
+    "Sử dụng trong phát triển phần mềm tương lai để AI agent có khả năng tự học và cải thiện 'taste' qua mỗi tương tác"
+  ],
+  "stars": 54527,
+  "starsToday": 638,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-02T04:38:19.317Z"
+}
