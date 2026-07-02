@@ -1,0 +1,23 @@
+{
+  "id": "53720a4a-b260-42d1-89e9-93cd9c4a24b5",
+  "repo": "facebook/astryx",
+  "url": "https://github.com/facebook/astryx",
+  "category": "UI/Component Library",
+  "summary": "Thư viện thiết kế đầu mở hoàn toàn có thể tùy chỉnh và sẵn sàng tích hợp trí tuệ nhân tạo, cho phép các nhà phát triển xây dựng giao diện người dùng nhất quyết với hệ thống design tokens và component có thể điều khiển bằng AI.",
+  "usecases": [
+    "Designer dùng để tạo hệ thống component nhất quyết cho dự án web app với khả năng tùy chỉnh hoàn toàn",
+    "Developer tích hợp vào product của công ty để AI agent có thể generate UI components theo yêu cầu",
+    "Team lead dùng làm nền tảng design system để đảm bảo tính nhất quyết và khả năng mở rộng cho ứng dụng lớn"
+  ],
+  "ideas": [
+    "Kết hợp với AI code generator như GitHub Copilot để AI tự động generate hoàn chỉnh component từ mô tả text",
+    "Tích hợp vào no-code platform cho phép người dùng cuối tạo giao diện bằng giọng nói",
+    "Sử dụng với AR/VR interface để AI tạo metaverse UI theo thời gian thực",
+    "Kết nối với wearable devices để điều khiển UI bằng nước mắt hoặc lời nói"
+  ],
+  "stars": 2822,
+  "starsToday": 708,
+  "language": "TypeScript",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-02T04:54:38.021Z"
+}

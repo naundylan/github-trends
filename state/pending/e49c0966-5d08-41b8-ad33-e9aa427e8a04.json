@@ -1,0 +1,24 @@
+{
+  "id": "e49c0966-5d08-41b8-ad33-e9aa427e8a04",
+  "repo": "usestrix/strix",
+  "url": "https://github.com/usestrix/strix",
+  "category": "Security/Pentest",
+  "summary": "Công cụ penetration testing sử dụng AI giúp phát hiện và sửa chữa các lỗ hổng bảo mật ứng dụng. STrix kết hợp khả năng của LLM với các kỹ thuật ethical hacking để tự động hóa quá trình kiểm tra bảo mật.",
+  "usecases": [
+    "Công ty phần mềm cần kiểm tra bảo mật trước khi release sản phẩm lên marketplace",
+    "Sinh viên học kỹ thuật an ninh muốn luyện tập trên các scenario CTF thực tế",
+    "Team bug bounty nhận diện nhanh các lỗ hổng ở dạng lỗi chương trình chạy trên server production",
+    "Doanh nghiệp thiếu nhân sự an ninh cần tự đánh giá rủi ro bảo mật hàng tháng"
+  ],
+  "ideas": [
+    "Kết hợp với mạng lưỡng không gian để AI agent xuyên tường làm việc cùng nhau tìm lỗ hổng trong hệ thống phức tạp",
+    "Phát triển hệ thống giáo dục an ninh 3D tương tác nơi học sinh 'sống' trong môi trường bị tấn công ảo",
+    "Tạo nên mạng lưỡng an ninh phiên bản di động giúp người dùng quét mã QR siêu thị để kiểm tra ứng dụng bị hack",
+    "Xây dựng hệ thống cảnh báo an ninh thời gian thực dạng hive mind nơi nhiều AI chuyên gia chia sẻ thông tin tấn công"
+  ],
+  "stars": 30040,
+  "starsToday": 1211,
+  "language": "Python",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-02T04:54:38.021Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c2315015-1263-4b2f-9319-9059cd02169d",
+  "repo": "microsoft/AI-For-Beginners",
+  "url": "https://github.com/microsoft/AI-For-Beginners",
+  "category": "AI/LLM",
+  "summary": "Khóa học 12 tuần, 24 bài leson miễn phí giới thiệu về trí tuệ nhân tạo dành cho người mới bắt đầu. Bao gồm các chủ đề deep learning, machine learning, computer vision và NLP với các ví dụ thực tế sử dụng CNN, RNN, GAN. Đây là tài liệu giáo dục có cấu trúc hoàn chỉnh từ Microsoft dành cho cộng đồng người học AI.",
+  "usecases": [
+    "Giáo viên đại học giảng dạy môn học về AI cơ bản cho sinh viên mới",
+    "Nhà phát triển muốn tự học trí tuệ nhân tạo từ nền tảng đến nâng cao",
+    "Công ty cần đào tạo nhân viên về các thuật toán AI tiếp cận dễ dàng",
+    "Người học ngoài lề muốn làm quen với deep learning và machine learning"
+  ],
+  "ideas": [
+    "Tích hợp với nền tảng học trực tuyến như Coursera hoặc Udemy để tạo khóa học tương tác",
+    "Phát triển phiên bản VR cho phép học AI qua mô phỏng 3D các mô hình neural",
+    "Kết hợp với GitHub Copilot để tạo môi trường học lập tức kết quả code",
+    "Xây dựng AI tutor cá nhân hóa lộ trình học dựa trên khung này"
+  ],
+  "stars": 50676,
+  "starsToday": 1096,
+  "language": "Jupyter Notebook",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-02T04:54:38.021Z"
+}

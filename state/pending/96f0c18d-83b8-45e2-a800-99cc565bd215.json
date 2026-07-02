@@ -1,0 +1,25 @@
+{
+  "id": "96f0c18d-83b8-45e2-a800-99cc565bd215",
+  "repo": "Leonxlnx/taste-skill",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "category": "AI/LLM",
+  "summary": "Taste-Skill là một framework giúp AI có 'taste' (phong cách) cao hơn, giảm thiểu việc tạo ra nội dung chung chung, không có bản sắc. Nó định nghĩa các tiêu chuẩn về chất lượng và phong cách cho AI sử dụng, từ đó nâng cao chất lượng đầu ra trong lập trình và thiết kế.",
+  "usecases": [
+    "Developer dùng để định hướng Claude/GitHub Copilot sinh mã theo phong cách dự án hoặc thư viện yêu thích",
+    "Designer dùng với AI tool để tạo UI/UX có consistency cao hơn so với giao diện chung",
+    "Team leader thiết lập 'taste profile' chung cho cả nhóm làm việc với AI tools",
+    "Codebase maintainer định nghĩa style guide tự động áp dụng khi AI gợi ý code"
+  ],
+  "ideas": [
+    "Kết hợp với Figma để AI tạo component theo design system đã có",
+    "Tích hợp vào VS Code như extension, tự động phân tích codebase và áp dụng taste profile",
+    "Tạo 'taste marketplace' nơi cộng đồng chia sẻ taste profiles cho từng lĩnh vực",
+    "Kết hợp với AI agent để tự học phong cách từ code mẫu xuất sắc trên GitHub",
+    "Ứng dụng vào game dev: AI tạo character design/code theo phong cách game đã có"
+  ],
+  "stars": 54534,
+  "starsToday": 638,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-02T04:54:38.021Z"
+}

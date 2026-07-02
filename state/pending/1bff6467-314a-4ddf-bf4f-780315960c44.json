@@ -1,0 +1,24 @@
+{
+  "id": "1bff6467-314a-4ddf-bf4f-780315960c44",
+  "repo": "HKUDS/Vibe-Trading",
+  "url": "https://github.com/HKUDS/Vibe-Trading",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng agent giao dịch cá nhân hóa sử dụng AI để phân tích thị trường và thực hiện giao dịch tự động, kết hợp multi-agent system với quantitative finance để tối ưu hóa chiến lược đầu tư.",
+  "usecases": [
+    "Individual trader nhỏ lẻ dùng để tự động giao dịch cổ phiếu không cần theo dõi thị trường 24/7",
+    "Hedge fund nhỏ dùng như sandbox để thử nghiệm các chiến lược trading dựa trên LLM",
+    "Quant researcher phát triển các multi-agent strategy cho các thị trường khác nhau",
+    "Portfolio manager dùng làm công cụ backtesting nhanh chóng cho các AI trading bot"
+  ],
+  "ideas": [
+    "Kết hợp với drone trading để các AI agent giao dịch dựa trên cảm biến thời tiết và kinh tế thực",
+    "Tích hợp vào metaverse finance để AI trading trên multiple parallel universes simulation",
+    "Sử dụng với quantum computing để tính toán portfolio tối ưu trong thời gian thực",
+    "Agent giao dịch dựa trên trí tuệ nhân tạo đi vào các thị trường mới được phát triển bởi AI"
+  ],
+  "stars": 16742,
+  "starsToday": 694,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T04:54:38.021Z"
+}

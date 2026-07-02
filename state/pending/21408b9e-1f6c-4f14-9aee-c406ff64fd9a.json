@@ -1,0 +1,24 @@
+{
+  "id": "21408b9e-1f6c-4f14-9aee-c406ff64fd9a",
+  "repo": "msitarzewski/agency-agents",
+  "url": "https://github.com/msitarzewski/agency-agents",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ agent AI đa chuyên môn với tính cách riêng, từ chuyên gia frontend đến người quản lý cộng đồng Reddit. Mỗi agent đều có quy trình làm việc chuyên biệt và khả năng sản xuất kết quả thực tế, tạo nên một công ty AI hoàn chỉnh.",
+  "usecases": [
+    "Doanh nghiệp nhỏ thiếu nhân sự thiết kế website triển khai hoệc xây dựng landing page chỉ với vài câu lệnh",
+    "Quản trị viên nội bộ trong công ty cần xử lý tin tức cộng đồng Reddit nhanh chóng mà không có thời gian theo dõi",
+    "Sáng tạo nội dung marketing cần ideation và viết bài nhanh chóng cho các chiến dịch sắp tới",
+    "Nhà sáng lập startup muốn tạo MVP hoàn chỉnh chỉ với prompt đơn giản mà không cần đội ngũ phát triển"
+  ],
+  "ideas": [
+    "Kết hợp với môi trường làm việc như Notion hay Slack để các agent tự động xử lý ticket và generate report hàng ngày",
+    "Tạo nên văn phòng làm việc kỹ thuật số nơi các agent AI cùng nhau thảo luận và đề xuất ý tưởng mới lạ",
+    "Phát triển hệ thống công ty hoàn chỉnh chạy trên blockchain với mỗi agent là một smart contract tự thực thi",
+    "Xây dựng mô hình thị trường lao động tương lai nơi người dân thuê 'gia đình AI' để quản lý cuộc sống cá nhân"
+  ],
+  "stars": 123956,
+  "starsToday": 2114,
+  "language": "Shell",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T04:54:38.021Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "f52fb67d-a77c-45a6-abef-2590694602f4",
+  "repo": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống tối ưu hiệu suất cho agent harness, bao gồm các thành phần skills, instincts, memory, security và research-first development. Hỗ trợ Claude Code, Codex, Cursor và các công cụ lập trình tương tự. Đây là framework giúp tăng cường khả năng làm việc của các AI agent trong môi trường phát triển phần mềm.",
+  "usecases": [
+    "Kỹ sư phần mềm sử dụng Claude Code với khả năng tối ưu hiệu suất hơn",
+    "Công ty phần mềm phát triển muốn tích hợp AI agent vào quy trình CI/CD",
+    "Nhà nghiên cứu nghiên cứu về khả năng của AI agent trong code generation",
+    "Team lead quản lý dự án muốn giám sát và tối ưu hóa workflow AI"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống blockchain để tạo ra bằng chứng nguồn gốc mã học được",
+    "Xây dựng mô hình phát triển phần mềm hoàn toàn tự động bởi AI agent độc lập",
+    "Tạo nên 'thư viện nhớ' chung cho hàng ngàn AI agent chia sẻ kinh nghiệm",
+    "Phát triển hệ thống công thông tin thông minh điều phối cảnh quan nhà nước bằng AI agent"
+  ],
+  "stars": 224742,
+  "starsToday": 721,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-02T04:54:38.021Z"
+}
