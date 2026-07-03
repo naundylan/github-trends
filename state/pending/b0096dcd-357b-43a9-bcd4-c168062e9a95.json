@@ -1,0 +1,25 @@
+{
+  "id": "b0096dcd-357b-43a9-bcd4-c168062e9a95",
+  "repo": "Alishahryar1/free-claude-code",
+  "url": "https://github.com/Alishahryar1/free-claude-code",
+  "category": "AI/LLM",
+  "summary": "Free Claude Code là công cụ cho phép sử dụng Claude Code và Codex một cách miễn phí thông qua terminal, tiện ích VSCode extension và Discord. Dự án khai thác các API thông minh để cung cấp trải nghiệm lập trình bằng AI tương tự như Claude Code nhưng không tốn phí, phù hợp cho cộng đồng developer muốn thử nghiệm hoặc học tập về công nghệ AI coding.",
+  "usecases": [
+    "Lập trình viên muốn thử nghiệm Claude Code và Codex mà không cần đăng ký tài khoản trả phí",
+    "Sinh viên học lập trình muốn truy cập AI assistant để hỗ trợ trả lời câu hỏi và code học tập",
+    "Open source contributor sử dụng để tối ưu hóa quy trình viết và debug code nhanh chóng",
+    "Team nhỏ muốn tích hợp AI coding vào quy trình phát triển mà không cần bỏ tiền mua subscription"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Copilot để tạo hybrid AI coding assistant đa năng",
+    "Phát triển browser extension tích hợp trực tiếp vào trình duyệt để code trên mọi website",
+    "Tích hợp với CI/CD pipeline để AI tự động review code và fix bug",
+    "Tạo môi trường sandbox chạy code an toàn để AI thử nghiệm và kiểm chứng ý tưởng",
+    "Kết nối với Jupyter Notebook để AI hỗ trợ học kỹ thuật số và phân tích dữ liệu"
+  ],
+  "stars": 38350,
+  "starsToday": 234,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-03T11:30:59.542Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3e615f32-5b4e-4fe3-aec1-e7fefeee0108",
+  "repo": "decolua/9router",
+  "url": "https://github.com/decolua/9router",
+  "category": "AI/LLM",
+  "summary": "9router là một AI gateway miễn phí giúp kết nối các AI coding agents (Claude Code, Cursor, Cline, Copilot, Codex) với 40+ nhà cung cấp AI như Claude, GPT, Gemini thông qua các provider miễn phí. Dự án tích hợp tính năng auto-fallback và RTK (Reduced Thinking Tokens) giúp tiết kiệm tới 40% chi phí token, ngăn người dùng bị giới hạn API quota.",
+  "usecases": [
+    "Developer sử dụng Cursor hoặc VS Code muốn truy cập Claude/GPT/Gemini miễn phí thay vì trả phí qua OpenAI hoặc Anthropic trực tiếp",
+    "Các team nhỏ hoặc cá nhân cần thử nghiệm nhiều mô hình AI mạnh mẽ như DeepSeek, Qwen mà không cần đăng ký tài khoản trả phí",
+    "Người học và nghiên cứu AI muốn khám phá các tính năng mới nhất từ OpenAI, Google, Anthropic mà không bị giới hạn do quota API giới hạn",
+    "Công ty phần mềm nhỏ muốn tích hợp khả năng AI vào sản phẩm nhưng ngân sách hạn chế cho việc sử dụng các dịch vụ AI đền khử"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Copilot CLI để tạo hệ thống AI coding assistant hoàn chỉnh với khả năng chọn lọc model tối ưu nhất cho từng loại task",
+    "Tích hợp với hệ thống CI/CD như GitHub Actions để tự động hóa việc review code và generate documentation bằng nhiều mô hình AI khác nhau",
+    "Phát triển thành một nền tảng chia sẻ quota AI decentralized giúp nhiều người dùng cùng đóng góp và sử dụng chung tài khoản API miễn phí",
+    "Tạo plugin trình duyệt thông minh interception tất cả HTTP requests đến AI APIs và route qua 9router để tối ưu chi phí và tính sẵn sàng",
+    "Kết hợp với các framework như Next.js hay SvelteKit để tạo AI SDK đa nền tảng cho phép developers dễ dàng switch giữa các AI providers chỉ với một dòng code"
+  ],
+  "stars": 19594,
+  "starsToday": 231,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-03T11:30:59.543Z"
+}

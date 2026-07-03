@@ -1,0 +1,22 @@
+{
+  "id": "005b9a10-471d-4a27-a815-bf1031d40aa0",
+  "repo": "chthollyphile/folia-major",
+  "url": "https://github.com/chthollyphile/folia-major",
+  "category": "Web Frontend",
+  "summary": "Một ứng dụng web hiện đại sử dụng React và PWA cho phép nghe nhạc cục bộ và tích hợp với Navidrome, đi kèm theo hiệu ứng lyric animation 3D cực đẹp và tích hợp AI. ứng dụng tối ưu cho trình duyệt di động và hỗ trợ triển vọng trên Vercel.",
+  "usecases": [
+    "Người dùng muốn nghe nhạc cục bộ hoặc từ máy chủ Navidrome với giao diện web hiện đại và lyric animation động",
+    "Người sử dụng NetEase Cloud Music chuyển sang giải pháp mở nhưng vẫn muốn trải nghiệm lyric cục kỷ lục",
+    "Developer muốn nghiên cứu hoặc tùy chỉnh giao diện nghe nhạc với tích hợp PWA và hiệu ứng 3D"
+  ],
+  "ideas": [
+    "Kết hợp với AI tạo lyric animation tự động dựa trên phân tích cảm xúc và nhịp tim bài hát",
+    "Kết nối với hệ sinh thái XR (AR/VR) để tạo môi trường nghe nhạc phi thường trên thiết bị di động",
+    "Phát triển thành nền tảng lyric NFT marketplace nơi người dùng có thể mua/bán lyric animation cực độc"
+  ],
+  "stars": 739,
+  "starsToday": 353,
+  "language": "TypeScript",
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-07-03T11:30:59.542Z"
+}

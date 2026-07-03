@@ -1,0 +1,22 @@
+{
+  "id": "f04909d4-b5e2-4753-97a2-4c1b06c41984",
+  "repo": "openai/codex-plugin-cc",
+  "url": "https://github.com/openai/codex-plugin-cc",
+  "category": "AI/LLM",
+  "summary": "Một plugin mở rộng cho khứng nghiệp Claude Code cho phép người dùng tích hợp mô hình AI Codex từ OpenAI vào quy trình làm việc, với khả năng xem xét mã nguồn và giao việc tự động cho Codex thực hiện.",
+  "usecases": [
+    "Developer muốn nhận đánh giá code tức thì từ AI Codex trong khi đang sử dụng Claude Code",
+    "Team nhỏ muốn tự động hóa quy trình code review và giao việc bằng tiếng cho AI assistants",
+    "Các dự án cần thiết lập hệ thống AI agent chuyên sâu để xử lý các tác vụ lập trình phức tạp"
+  ],
+  "ideas": [
+    "Tích hợp song cùng GitHub Copilot để tạo thành một 'đội ngũ' hai AI phát triển phần mềm",
+    "Tự động tạo và chạy test suites hoàn chỉnh mỗi khi Claude Code gen code mới",
+    "Xây dựng hệ thống multi-agent coding nơi Codex, Claude, và Copilot cùng nhau giải quyết ticket phần mềm"
+  ],
+  "stars": 22908,
+  "starsToday": 352,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-03T11:30:59.542Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "212b22af-850c-4abc-8a38-fcbbc48a272f",
+  "repo": "alibaba/page-agent",
+  "url": "https://github.com/alibaba/page-agent",
+  "category": "AI Agent/Automation",
+  "summary": "PageAgent là một agent GUI chạy trên trình duyệt cho phép điều khiển giao diện web thông qua ngôn ngữ tự nhiên. Nó biến bất kỳ trang web nào thành một công cụ điều khiển bằng lệnh giản dị, giải quyết vấn đề tương tác phức tạp với các ứng dụng web một cách trực quan.",
+  "usecases": [
+    "Nhà phát triển sử dụng để kiểm thử UI tự động bằng tiếng nói với các ứng dụng web phức tạp",
+    "Biologist nghiên cứu dữ liệu sử dụng page agent để điều hướng hàng trăm trang web khác nhau một cách đồng thời",
+    "Quyền viên QA dùng để tạo kịch bản thử nghiệm linh hoạt cho các ứng dụng SaaS mà không cần viết mã",
+    "Researcher truy xuất dữ liệu từ nhiều nguồn khác nhau bằng lệnh tiếng Anh đơn giản"
+  ],
+  "ideas": [
+    "Kết hợp với Microsoft Power Platform để biến page agent thành trợ lý điều khiển doanh nghiệp hoàn chỉnh qua giọng nói",
+    "Tích hợp vào môi trường phát triển phần mềm để AI tự động fix bug bằng cách điều hướng UI và can thiệp trực tiếp",
+    "ứng dụng trong thế hệ Metaverse để điều khiển avatar bằng ngôn ngữ tự nhiên thông qua giao diện VR",
+    "Kết hợp với AR glasses tạo trợ nói thị giác cho người khuyết tật sử dụng web"
+  ],
+  "stars": 21950,
+  "starsToday": 949,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T11:30:59.542Z"
+}

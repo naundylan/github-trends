@@ -1,0 +1,24 @@
+{
+  "id": "e6ba8f9a-7438-4d70-ad6f-729cc49c547b",
+  "repo": "stablyai/orca",
+  "url": "https://github.com/stablyai/orca",
+  "category": "AI Agent/Automation",
+  "summary": "Orca là môi trường phát triển agent (ADE) cho phép chạy cùng lúc nhiều agent lập trình song song với subscription cá nhân. Nó kết tếp các agent như Claude Code, Cursor, OpenCode vào một nền tảng đơn giản, giúp người dùng tận dụng tối đa các mô hình AI một cách hiệu quả.",
+  "usecases": [
+    "Freelancer chạy đồng thời 3-5 agent khác nhau để xử lý các dự án con khác nhau trong giai đoạn sprint",
+    "Startup developer nhỏ dùng hoặc để tối ưu hóa workflow dev bằng cách chia task cho các agent chuyên sâu",
+    "DevOps team triển khai hay test multiple AI agents trên cùng một infrastructure một cách quản lý",
+    "Mobile developer sử dụng orca trên điện thoại để code và fix bug khi di chuyển"
+  ],
+  "ideas": [
+    "Tích hợp vào CI/CD pipeline để tự động chạy agent test và deployment song song",
+    "Kết hợp với Kubernetes tạo hệ thống agent orchestration trong đám mây",
+    "Xây dựng hệ thống AI trading tự động chạy hàng trăm chiến lược khác nhau đồng thời",
+    "Tạo môi trường học tập cho agent bằng cách chạy các variant khác nhau và so sánh hiệu quả"
+  ],
+  "stars": 11408,
+  "starsToday": 736,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T11:30:59.542Z"
+}

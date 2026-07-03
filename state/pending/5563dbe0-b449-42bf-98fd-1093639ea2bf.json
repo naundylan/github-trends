@@ -1,0 +1,25 @@
+{
+  "id": "5563dbe0-b449-42bf-98fd-1093639ea2bf",
+  "repo": "yorukot/superfile",
+  "url": "https://github.com/yorukot/superfile",
+  "category": "CLI Tool",
+  "summary": "Superfile là một file manager terminal hiện đại với giao diện người dùng trực quan, giúp người dùng duyệt và quản lý tệp tin một cách hiệu quả trong môi trường dòng lệnh. Ứng dụng sử dụng thư viện Bubble Tea (TUI framework) để tạo giao diện đồ họa trong terminal, kết hợp với khả năng đa năng tính năng như so sánh file, chia sẻ màn hình và tích hợp sẵn các lệnh tiện ích.",
+  "usecases": [
+    "Developer quản lý tệp trên máy chủ Linux/Mac thông qua giao diện đồ họa trong terminal",
+    "Người dùng truy cập FTP/SFTP nhanh chóng thông qua giao diện client-server tích hợp",
+    "Sysadmin thực hiện các thao tác file phức tạp như nén, sao chép, di chuyển với shortcut phím bàn phím",
+    "Người dùng mới học terminal muốn tiếp cận với giao diện thân thiện thay vì các lệnh CLI thô sơ"
+  ],
+  "ideas": [
+    "Kết hợp với MCP (Model Context Protocol) để AI assistant có thể truy cập và thao tác file hệ thống",
+    "Tích hợp với Docker để tạo container quản lý file độc lập với máy host",
+    "Phát triển phiên bản hỗ trợ cloud storage như S3, Google Drive thông qua giao diện đơn giản",
+    "Kết nối với GitHub CLI để quản lý repository trực tiếp trong terminal",
+    "Tích hợp với AI-powered search để tìm file thông minh dựa trên nội dung hoặc metadata"
+  ],
+  "stars": 18214,
+  "starsToday": 252,
+  "language": "Go",
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-07-03T11:30:59.542Z"
+}

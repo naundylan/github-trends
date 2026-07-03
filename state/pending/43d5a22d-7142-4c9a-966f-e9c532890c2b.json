@@ -1,0 +1,22 @@
+{
+  "id": "43d5a22d-7142-4c9a-966f-e9c532890c2b",
+  "repo": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "category": "UI/Component Library",
+  "summary": "Một hệ thống ngôn ngữ thiết kế tiên tiến giúp các AI harness (bộ xử lý/dashbard AI) tạo ra giao diện người dùng nhất quán và chuyên nghiệp hơn, đặc biệt cho các tương tác thiết kế phức tạp.",
+  "usecases": [
+    "UX Designer muốn có bộ hướng dẫn thiết kế chuẩn để AI tạo components UI đồng nhất",
+    "Product team cần thiết kế system để AI agents có thể tạo giao diện phức tạp một cách có hệ thống",
+    "Frontend team hợp tác với AI tools như GitHub Copilot nhưng muốn đảm bảo tính chuyên nghiệp của output"
+  ],
+  "ideas": [
+    "Kết hợp trực tiếp với Figma để AI tự động sinh design tokens và style guides từ files thiết kế",
+    "Xây dựng design system 'sống' nơi Impeccable cung cấp feedback liên tục cho nhiều AI agents đang học tập",
+    "Phát triển Nguyên mẫu giao diện điện thoại thiết kế bằng AI (AI-VRT - AI Visual Reality Toolkit) cho metaverse"
+  ],
+  "stars": 43171,
+  "starsToday": 303,
+  "language": "JavaScript",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-03T11:30:59.542Z"
+}

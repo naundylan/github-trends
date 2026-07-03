@@ -1,0 +1,24 @@
+{
+  "id": "ef762350-fe5b-478e-9d1c-d014bddda47a",
+  "repo": "safishamsi/graphify",
+  "url": "https://github.com/safishamsi/graphify",
+  "category": "AI/LLM",
+  "summary": "Graphify biến bất kỳ thư mục code hay tài liệu nào thành một đồ thị kiến thức queryable bằng trí tuệ nhân tạo. Nó kết hợp cả mã nguồn, schema database và tài liệu hạ xuống một graph đơn để cho phép truy vấn liên quan phức tạp một cách trực quan.",
+  "usecases": [
+    "Kiến trúc viên sử dụng graphify để hiểu kiến trúc hệ thống cũ trong dự án legacy một cách nhanh chóng",
+    "Data scientist truy vấn mối quan hệ giữa các hàm trong codebase để tìm điểm tắc nghẽn",
+    "Team lead tạo knowledge graph từ tài liệu dự án để onboarding developer mới nhanh chóng",
+    "Security researcher phân tích lỗ hổng bằng cách truy vấn mối liên kết giữa code và infrastructure"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Copilot để tạo AI code review dựa trên context toàn bộ dự án",
+    "Xây dựng hệ thống AI mentor cho sinh viên IT bằng cách query graph kiến thức tương ứng",
+    "ứng dụng vào việc tự động thiết kế kiến trúc microserviced dựa trên patterns đã biết",
+    "Kết hợp với Digital Twin để tạo mô phỏng hệ thống số phức tạp trong đó có AI agents tương tác"
+  ],
+  "stars": 76559,
+  "starsToday": 937,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-03T11:30:59.542Z"
+}
