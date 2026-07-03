@@ -1,0 +1,22 @@
+{
+  "id": "646e8df4-9090-4e8f-b202-d91b41b5716a",
+  "repo": "msitarzewski/agency-agents",
+  "url": "https://github.com/msitarzewski/agency-agents",
+  "category": "AI Agent/Automation",
+  "summary": "Một nền tảng AI agency hoàn chỉnh với hàng chục agent chuyên môn chuyên sâu, mỗi agent có personality, quy trình và đầu ra cụ thể. Dự án giúp người dùng dễ dàng triển khai và quản lý các quy trình AI tự động hóa phức tạp thành các thành phần modular.",
+  "usecases": [
+    "Các nhà phát triển AI muốn xây dựng hệ thống tự động hóa quy trình bằng nhiều chuyên gia ảo",
+    "Công ty công nghệ nhỏ cần triển khai nhanh các dịch vụ AI mà không cần đội ngũ phức tạp",
+    "Luật sư hoặc chuyên gia pháp luật muốn sử dụng AI để phân tích và hỗ trợ công việc nghiên cứu pháp luật"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống blockchain để tạo ra các agent có chữ ký số và khẩu chính xác",
+    "Tích hợp vào nền kinh tế viễn thông để tự động hóa việc quản lý mạng 5G bằng AI agents",
+    "Ứng dụng trong không gian hàng không để các agent điều phối tàu vũ trụ hoặc nghiên cứu thiên văn"
+  ],
+  "stars": 125825,
+  "starsToday": 3032,
+  "language": "Shell",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T06:25:56.122Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9d4642d1-17e2-4ea7-bea9-a2cc0053d1dd",
+  "repo": "diegosouzapw/OmniRoute",
+  "url": "https://github.com/diegosouzapw/OmniRoute",
+  "category": "API/GraphQL",
+  "summary": "OmniRoute là một AI gateway miễn phí giúp kết nối Claude Code, Cursor, Cline, Copilot với nhiều nhà cung cấp LLM khác nhau thông qua một endpoint duy nhất. Với công nghệ nén RTK+Caveman tiết kiệm 15-95% token và tính năng fallback thông minh, đây là giải pháp quan trọng cho các nhà phát triển muốn tối ưu chi phí và tính sẵn sàng.",
+  "usecases": [
+    "Developer sử dụng Cursor hoặc VSCode để truy cập Claude và GPT miễn phí thông qua một cấu hình duy nhất",
+    "Team phát triển muốn giảm chi phí API LLM bằng cách sử dụng nhiều provider miễn phí với khả năng chịu tải cao",
+    "Researcher nghiên cứu các mô hình ngôn ngữ khác nhau mà không cần đăng ký nhiều tài khoản API riêng biệt"
+  ],
+  "ideas": [
+    "Kết hợp OmniRoute với hệ thống phân phát mã nguồn để tạo ra nền tảng AI agents chạy hoàn toàn trên môi trường decentralized",
+    "Tích hợp vào nền tảng smart city để các trung tâm y tế sử dụng OmniRoute kết nối nhiều LLM cho tư vấn y tế cá nhân hóa",
+    "Kết nối với robotics để robot sử dụng OmniRoute làm ngôn ngữ mô hình để hiểu và thực thi các lệnh công việc phức tạp"
+  ],
+  "stars": 10389,
+  "starsToday": 837,
+  "language": "TypeScript",
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-07-03T06:25:56.122Z"
+}

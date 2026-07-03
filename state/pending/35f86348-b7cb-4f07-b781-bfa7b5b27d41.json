@@ -1,0 +1,22 @@
+{
+  "id": "35f86348-b7cb-4f07-b781-bfa7b5b27d41",
+  "repo": "usestrix/strix",
+  "url": "https://github.com/usestrix/strix",
+  "category": "Security/Pentest",
+  "summary": "Công cụ thử thách an ninh mã nguồn mở dựa trên AI, giúp phát hiện và sửa chữa các lỗi phần mềm. Strix sử dụng trí tuệ nhân tạo để tự động hóa quy trình penetration testing và cung cấp các báo cáo lỗi chi tiết.",
+  "usecases": [
+    "Các nhà làm bảo mật muốn thực hành ethical hacking một cách tự động hóa",
+    "Công ty phần mềm cần kiểm tra ứng dụng của họ trước khi triển khai production",
+    "Người tham gia CTF (Capture The Flag) cần công cụ hỗ trợ phân tích lỗi nhanh chóng"
+  ],
+  "ideas": [
+    "Kết hợp với các hệ thống cloud-native để thực hiện pentest trên Kubernetes clusters theo thời gian thực",
+    "Tích hợp vào môi trường DevOps để tự động chạy security tests trong CI/CD pipeline",
+    "Ứng dụng AI để dự đoán và ngăn chặn các cuộc tấn công mạng tiềm năng dựa trên hành vi thông thường"
+  ],
+  "stars": 32820,
+  "starsToday": 2137,
+  "language": "Python",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-03T06:25:56.122Z"
+}

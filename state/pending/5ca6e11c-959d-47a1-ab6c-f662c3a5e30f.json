@@ -1,0 +1,24 @@
+{
+  "id": "5ca6e11c-959d-47a1-ab6c-f662c3a5e30f",
+  "repo": "browser-use/video-use",
+  "url": "https://github.com/browser-use/video-use",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án cho phép chỉnh sửa và tạo nội dung video thông qua các AI agent. Người dùng chỉ cần mô tả ý tưởng bằng ngôn ngữ tự nhiên, AI sẽ thực hiện các thao tác chỉnh sửa, thêm hiệu ứng, hay kết hợp clip một cách tự động. Giải pháp này đơn giản hóa quy trình sản xuất video truyền thống phức tạp, phù hợp với cá nhân và doanh nghiệp nhỏ.",
+  "usecases": [
+    "Maker nội dung TikTok/TikTok cá nhân dùng AI agent để biến script thành video chỉnh sẵn với hình ảnh, nhạc và lời thoại phù hợp",
+    "Quảng cáo công ty nhỏ chạy campaign trên Facebook Ads dùng mô tả ngắn để AI tạo video quảng bá tự động trong 5 phút",
+    "Giáo viên tạo video bài giảng tự động từ sổ ghi chép markdown với hình ảnh minh họa và lịch trình cắt video theo timeline",
+    "Nhà sản xuất nội dung YouTube dùng AI để xử lý hàng trăm clip thành video hoàn chỉnh với phương pháp chọn cảnh nhanh"
+  ],
+  "ideas": [
+    "Kết hợp với Stable Diffusion để AI tạo hình ảnh hoàn chỉnh rồi xuất thành video hoạt động như anime hoặc mô phỏng 3D",
+    "Tích hợp vào nền tảng learning platform như Coursera để học viên nhập bài tập bằng giọng nói, AI tạo video hướng dẫn minh họa",
+    "Tích hợp với MCP để AI agent truy xuất dữ liệu thời tiết, tin tức trực tiếp và tạo video báo cáo cập nhật hàng giờ",
+    "Phát triển thành extension Chrome cho phép người dùng bấm phím cách để AI tạo video chụp màn hình trình duyệt tự động"
+  ],
+  "stars": 13974,
+  "starsToday": 554,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T06:25:56.122Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a854fb9d-a9f2-4ce8-8f5f-b57881fc789d",
+  "repo": "santifer/career-ops",
+  "url": "https://github.com/santifer/career-ops",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống tìm việc làm được hỗ trợ bởi AI được xây dựng trên nền tảng Claude Code, bao gồm 14 chế độ kỹ năng, bảng điều khiển Go, tạo PDF và xử lý hàng loạt. Đây là công cụ mạnh mẽ giúp người tìm việc tối ưu hóa quy trình ứng tuyển và chuẩn bị cho cuộc phỏng vấn một cách tự động hóa.",
+  "usecases": [
+    "Job seeker sử dụng AI để tạo resume và cover letter cá nhân hóa cho từng vị trí công việc",
+    "Sinh viên chuẩn bị cho cuộc phỏng vấn bằng cách luyện tập với các câu hỏi phỏng vấn được AI tạo ra",
+    "Chuyên viên HR tối ưu hóa quy trình tuyển dụng bằng cách xử lý hàng loạt hồ sơ ứng viên",
+    "Người thân thiện chủ trì các buổi workshop career cho cộng đồng bằng cách sử dụng tool này để hỗ trợ người participants"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Copilot để tự động tạo code mẫu trong quy trình ứng tuyển dự án tech",
+    "Tích hợp với LinkedIn API để đọc và phân tích hồ sơ cá nhân và đề xuất cập nhật",
+    "Sử dụng AR để thực hành phỏng vấn với avatar AI trong môi trường ảo thực tế",
+    "Kết nối với blockchain để xác thực kỹ năng và kinh nghiệm làm việc một cách vô cùng chính xác",
+    "Tích hợp với hệ thống ERP doanh nghiệp để đề xuất ứng viên phù hợp nhất với vị trí open roles"
+  ],
+  "stars": 58093,
+  "starsToday": 372,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T06:25:56.122Z"
+}

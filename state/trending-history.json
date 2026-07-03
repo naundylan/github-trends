@@ -1,52 +1,102 @@
 {
   "JuliusBrussee/caveman": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "last_saved": "2026-07-02"
   },
   "obra/superpowers": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "last_saved": "2026-07-02"
   },
   "tt-a1i/archify": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "last_saved": "2026-07-02"
   },
   "public-apis/public-apis": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "last_saved": "2026-07-02"
   },
   "NousResearch/hermes-agent": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "last_saved": "2026-07-02"
   },
   "OpenCut-app/OpenCut": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "last_saved": "2026-07-02"
   },
   "firecrawl/firecrawl": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "last_saved": "2026-07-02"
   },
   "logto-io/logto": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "last_saved": "2026-07-02"
   },
   "TencentCloud/CubeSandbox": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "last_saved": "2026-07-02"
   },
   "ogulcancelik/herdr": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "last_saved": "2026-07-02"
+  },
+  "usestrix/strix": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "last_saved": "2026-07-03"
+  },
+  "msitarzewski/agency-agents": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "last_saved": "2026-07-03"
+  },
+  "hasaneyldrm/exercises-dataset": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "last_saved": "2026-07-03"
+  },
+  "santifer/career-ops": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "last_saved": "2026-07-03"
+  },
+  "browser-use/video-use": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "last_saved": "2026-07-03"
+  },
+  "affaan-m/ECC": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "last_saved": "2026-07-03"
+  },
+  "HKUDS/Vibe-Trading": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "last_saved": "2026-07-03"
+  },
+  "yikart/AiToEarn": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "last_saved": "2026-07-03"
+  },
+  "facebook/astryx": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "last_saved": "2026-07-03"
+  },
+  "diegosouzapw/OmniRoute": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "last_saved": "2026-07-03"
   }
 }

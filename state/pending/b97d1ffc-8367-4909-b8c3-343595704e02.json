@@ -1,0 +1,24 @@
+{
+  "id": "b97d1ffc-8367-4909-b8c3-343595704e02",
+  "repo": "yikart/AiToEarn",
+  "url": "https://github.com/yikart/AiToEarn",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng sử dụng AI để tối ưu hóa việc kiếm tiền trực tuyến, đặc biệt là các nền tảng như Douyin, Kuaishou, Xiaohongshu. Tích hợp với electron để hoạt động trên cả desktop lẫn mobile, hỗ trợ xuất bản tự động (auto-publish) và quản lý nội dung. Giúp người dùng xây dựng chiến lược nội dung, lập lịch đăng bài và phân tích hiệu quả kiếm tiền một cách thông minh.",
+  "usecases": [
+    "Influencer Douyin cá nhân dùng AI tạo nội dung viral hàng ngày, lên lịch đăng đồng thời lên plan cho 30 ngày",
+    "Doanh nhân khởi nghiệp bán hàng online trên Xiaohongshu dùng AI-generated content để tiết kiệm chi phí marketing và tăng tương tác",
+    "Công ty dịch vụ số đi kèm các nhà sáng tạo nội dung dùng AIToEarn để phân tích algorithm và gợi ý chủ đề có khả năng convert cao",
+    "Sinh viên truyền thông dùng tool này để học cách viết bài chuẩn SEO, tối ưu hashtag và lên lịch đăng đơn giản nhất"
+  ],
+  "ideas": [
+    "Kết hợp với AR/VR để AI tạo virtual influencer đăng video tự động lên các nền tảng mạng xã hội mà không cần người thật",
+    "Tích hợp vào DeFi platform để AI tự động tạo nội dung giới thiệu coin/token và chạy campaign kiếm crypto bằng tiếng Tôi nguyên",
+    "Phát triển thành công cụ chạy trên drone để quay video quảng cáo tự động, AI xử lý và đăng lên Douyin khi drone hạ cánh",
+    "Tích hợp với neural link cá nhân hóa hoàn toàn bằng cách đọc tâm trí người dùng và tạo nội dung phù hợp với tâm trạng"
+  ],
+  "stars": 22932,
+  "starsToday": 462,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T06:25:56.122Z"
+}
