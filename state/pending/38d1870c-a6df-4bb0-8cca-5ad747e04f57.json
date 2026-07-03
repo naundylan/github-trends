@@ -1,0 +1,25 @@
+{
+  "id": "38d1870c-a6df-4bb0-8cca-5ad747e04f57",
+  "repo": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "category": "UI/Component Library",
+  "summary": "Impeccable là ngôn ngữ thiết kế giúp tăng cường khả năng thiết kế của AI, đặc biệt là trong việc tạo ra giao diện người dùng chất lượng cao. Dự án giúp các nhà phát triển và AI dễ dàng xây dựng được những sản phẩm đồ họa nhất quyết và nhất quả. Với kiến trúc component-based, Impeccable cung cấp các primitives và system design để chuẩn hóa quy trình làm việc của AI với design systems.",
+  "usecases": [
+    "Designer dùng để định nghĩ thêm hệ thống component cho Figma trước khi triển khai sang code",
+    "AI engineer xây dựng UI generator model mạnh mẽ hơn bằng cách fine-tune trên dataset Impeccable",
+    "Product manager soạn thuyết tả yêu cầu giao diện bằng ngôn ngữ chuẩn để team dev dễ dàng triển khai",
+    "UI/UX researcher nghiên cứu tốnh cảm xử lý thiết kế từ AI models với khung lề chuẩn impeccable"
+  ],
+  "ideas": [
+    "Kết hợp Impeccable với Figma cho AI tự động generate design tokens và CSS variables từ file thiết kế",
+    "Xây dựng Impeccable-to-React compiler giúp biến design specs thành component code hoàn chỉnh trong 1 click",
+    "Tích hợp Impeccable vào GitHub Copilot để AI gợi ý component structure khi lập trình giao diện",
+    "Tạo ra Impeccable Design System Marketplace giống npm nhưng dành riêng cho design tokens và components",
+    "Phát triển Impeccable AI Assistant chạy trên IDE để phân tích code và đề xuất refactor theo design system"
+  ],
+  "stars": 43251,
+  "starsToday": 303,
+  "language": "JavaScript",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-03T19:07:55.388Z"
+}

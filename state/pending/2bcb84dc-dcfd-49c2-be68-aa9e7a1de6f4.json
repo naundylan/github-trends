@@ -1,0 +1,23 @@
+{
+  "id": "2bcb84dc-dcfd-49c2-be68-aa9e7a1de6f4",
+  "repo": "ChromeDevTools/chrome-devtools-mcp",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "category": "AI Agent/Automation",
+  "summary": "Mở rộng Chrome DevTools để các AI coding agent có thể tương tác và điều khiển trình duyệt một cách đầy đủ. Cho phép AI debug, test và tương tác với web applications như con người thực hiện, đặc biệt hữu ích cho việc tự động hóa testing và phát triển web.",
+  "usecases": [
+    "Frontend developer dùng để AI tự động chạy test UI và báo cáo lỗi responsive trên nhiều trình duyệt",
+    "QA automation engineer thiết lập pipeline AI chạy hàng ngàn test case trên Chrome mà không cần human can thiệp",
+    "Performance engineer dùng MCP này để AI phân tích network bottlenecks và tối ưu loading time tự động"
+  ],
+  "ideas": [
+    "Xây dựng hệ thống AI đọc hiểu mã JavaScript và tự động sửa lỗi frontend trong Chrome trước khi deploy",
+    "Tạo AI pair-programmer không đời hạn chỉ cần Chrome + DevTools để cùng bạn code real-time trên bất kỳ trang web nào",
+    "Phát triển AI security scanner quét hàng triệu website để phát hiện vulnerabilities trong DOM và XSS tự động",
+    "Thiết kế AI web architect có khả năng duyệt web toàn cầu, học hỏi patterns tốt nhất và tạo website mẫu tự động"
+  ],
+  "stars": 45436,
+  "starsToday": 404,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T19:07:55.388Z"
+}

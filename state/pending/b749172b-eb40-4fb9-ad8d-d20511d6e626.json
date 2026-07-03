@@ -1,0 +1,25 @@
+{
+  "id": "b749172b-eb40-4fb9-ad8d-d20511d6e626",
+  "repo": "rommapp/romm",
+  "url": "https://github.com/rommapp/romm",
+  "category": "Web Frontend",
+  "summary": "Romm là một ứng dụng web self-hosted mạnh mẽ và trực quan để quản lý, lưu trữ và chơi game retro. Dự án tích hợp trình duyệt và trình giả lập, cho phép người dùng tổ chức thư viện game cá nhân một cách chuyên nghiệp với tính nén và tối ưu hóa hiệu suất.",
+  "usecases": [
+    "Người yêu thích game retro chơi đơn lẻ muốn tổ chức thư viện game cá nhân với giao diện hiện đại và dễ điều hướng",
+    "Chủ phòng server nhà hoặc NAS triển khai hệ thống chia sẻ game retro cho cả gia đình hoặc cộng đồng local",
+    "Giáo viên hoặc nhà nghiên cứu chuyên về lịch sử trò chơi sử dụng như một nền tảng lưu trữ và truy cập an toàn",
+    "Furry furry community tổ chức sự kiện chơi game retro với việc quản lý và phát triển tài nguyên chung"
+  ],
+  "ideas": [
+    "Tích hợp AI phân tích hành vi chơi để tạo danh sách phát tự động và gợi ý game phù hợp dựa trên thời gian và cảm xúc người chơi",
+    "Kết hợp công nghệ streaming cloud để người dùng chơi game retro trên bất kỳ thiết bị nào mà không cần cài đặt sâu",
+    "Mở rộng tính năng quản lý không chỉ giới hạn ở game mà còn bao gồm phim 8mm, nhạc cổ điện và tài liệu lịch sử game",
+    "Sử dụng công nghệ AR để giới thiệu thư viện game như một phòng trưng bày 3D tương tác với hình ảnh và âm thanh sốc",
+    "Tích hợp blockchain để tạo hệ thống danh mục game phiên bản (NFT) cho phép trao đổi và chứng thực tài sản kỹ thuật số"
+  ],
+  "stars": 9726,
+  "starsToday": 236,
+  "language": "Python",
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-07-03T19:07:55.388Z"
+}

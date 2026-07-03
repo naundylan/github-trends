@@ -1,0 +1,25 @@
+{
+  "id": "f6f27ec2-99d9-4e01-a18e-1dff465741fb",
+  "repo": "pytorch/pytorch",
+  "url": "https://github.com/pytorch/pytorch",
+  "category": "Machine Learning",
+  "summary": "PyTorch là framework tiên tiến nhất cho machine learning và deep learning với hệ thống tensor động và tính toán đồ thị tính toán (dynamic computation graphs). Được phát triển bởi Facebook AI Research, PyTorch kết hợp sức mạnh của NumPy với khả năng chạy trên GPU một cách hiệu quả. Framework này là nền tảng của hàng triệu nghiên cứu AI và các ứng dụng sản xuất.",
+  "usecases": [
+    "Machine learning researcher phát triển và thử nghiệm các mô hình deep learning mới nhanh chóng nhờ eager execution",
+    "Data scientist xây dựng pipeline training model phân phối trên cluster GPU sử dụng PyTorch Distributed",
+    "AI startup deploy production models lên cloud với PyTorch Serve để xử lý hàng triệu request mỗi ngày",
+    "Computer vision engineer fine-tune mô hình detection và segmentation sử dụng PyTorch torchvision transforms"
+  ],
+  "ideas": [
+    "Xây dựng PyTorch Quantum - extension cho phép chạy quantum neural networks trên quantum simulators",
+    "Kết hợp PyTorch với WebGPU tạo PyTorch.js phiên bản chạy native trên trình duyệt không cần WebAssembly",
+    "Phát triển PyTorch Edge - compiler tối ưu mô hình để chạy trên IoT devices với dung lượng <100MB",
+    "Tích hợp PyTorch với Blender để AI tự động generate và render 3D scenes từ mô hình học sâu",
+    "Tạo PyTorch Neural Architecture Search platform tự động tìm ra kiến trúc mô hình tối ưu cho từng task cụ thể"
+  ],
+  "stars": 101399,
+  "starsToday": 290,
+  "language": "Python",
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-07-03T19:07:55.388Z"
+}

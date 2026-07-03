@@ -1,0 +1,23 @@
+{
+  "id": "97e948b1-eb6c-4d7b-8e01-72aeca8497e6",
+  "repo": "openai/codex-plugin-cc",
+  "url": "https://github.com/openai/codex-plugin-cc",
+  "category": "AI Agent/Automation",
+  "summary": "Plugin hỗ trợ tích hợp Codex từ Claude Code vào quy trình phát triển, cho phép AI tự động review code và thực hiện các nhiệm vụ lập trình. Đây là công cụ giúp tăng cường năng suất cho developers bằng khả năng trí tuệ nhân tạo.",
+  "usecases": [
+    "Developer dùng để để AI tự động review pull requests trước khi merge vào main branch",
+    "Team lead sử dụng để giao nhiệm vụ refactoring code cho AI thực hiện trong khi họ focus vào thiết kế kiến trúc",
+    "QA engineer dùng plugin này để AI phát hiện bugs trong quá trình code review hàng ngàn dòng code mỗi ngày"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Actions để tạo CI/CD pipeline AI-first, nơi mỗi PR sẽ có AI làm phê duyệt thứ hai",
+    "Tích hợp với IDE như VS Code để AI trình duyệt toàn bộ codebase và tạo documentation tự động",
+    "Xây dựng hệ thống AI swarm làm việc cùng nhau qua Codex plugin để xử lý dự án lớn hàng ngàn module",
+    "Tạo môi trường sandbox nơi AI có thể chạy thử nghiệm code một cách an toàn trước khi human approve"
+  ],
+  "stars": 23091,
+  "starsToday": 629,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T19:07:55.388Z"
+}

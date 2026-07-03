@@ -1,0 +1,24 @@
+{
+  "id": "bf187649-348c-4a0d-99e0-72cbcc07c54d",
+  "repo": "alibaba/page-agent",
+  "url": "https://github.com/alibaba/page-agent",
+  "category": "AI Agent/Automation",
+  "summary": "Page-Agent là một trình duyệt AI điều khiển giao diện web thông qua ngôn ngữ tự nhiên, cho phép người dùng tương tác với trang web chỉ bằng lệnh giản dị. Sử dụng TypeScript và công nghệ automation để thay thế cho các công cụ nhấp nháy thủ công.",
+  "usecases": [
+    "Nhân viên văn phòng không kỹ thuật dùng để truy xuất dữ liệu từ website mà không cần học lập trình",
+    "Nhóm kiểm thử tự động hóa kiểm tra giao diện web trên nhiều trình duyệt",
+    "Nhà nghiên cứu khoa học dùng để thu thập và phân tích dữ liệu thô từ các trang web phức tạp",
+    "Doanh nghiệp sử dụng để chuẩn hóa quy trình xử lý dữ liệu hàng ngàn website hàng ngày"
+  ],
+  "ideas": [
+    "Kết hợp với trình duyệt AR/VR để điều khiển máy tính thông qua gesture + speech tự nhiên",
+    "Tích hợp vào hệ thống nhà thông minh nhận diện người dùng và thực hiện các công việc lặp lại",
+    "Ứng dụng trong giáo dụng tạo trợ lý ảo hướng dẫn học sinh duyệt web một cách an toàn",
+    "Phát triển thành tiện ích browser extension chạy nền tự động hóa công việc repetitive"
+  ],
+  "stars": 22274,
+  "starsToday": 949,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T19:07:55.387Z"
+}
