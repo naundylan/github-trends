@@ -1,0 +1,22 @@
+{
+  "id": "ba67d26d-0c85-4735-bdf0-de02a84ca3eb",
+  "repo": "Zackriya-Solutions/meetily",
+  "url": "https://github.com/Zackriya-Solutions/meetily",
+  "category": "AI/LLM",
+  "summary": "Meetily là trợ lý họp AI hoàn toàn local với công nghệ transkripción speech-to-text sử dụng Whisper và Parakeet chạy 4x tốc độ, kết hợp speaker diarization và tóm tắt bằng Ollama. 100% xử lý nội bộ không cần kết nối cloud, phù hợp cho doanh nghiệp cần bảo mật tuyệt đối.",
+  "usecases": [
+    "Công ty y tế ghi chú cuộc họp bác sĩ và phiên khám bệnh tự động",
+    "Văn phòng luật cần ghi lại và tóm tắt phiên họp pháp lý",
+    "Doanh nghiệp cần lưu trữ ghi chú họp trong môi trường không có internet"
+  ],
+  "ideas": [
+    "Kết hợp Meetily với hệ thống IoT để chuyển đổi phòng họp thành không gian họp thông minh nhận diện kém người",
+    "Tích hợp với brain-computer interface để người dùng 'nói' bằng ý tưởng và AI ghi lại như thoại",
+    "Sử dụng làm hệ thống giám sát an ninh công ty 24/7 dịch chuyển âm thanh thành văn bản và phân tích cảm xúc"
+  ],
+  "stars": 13864,
+  "starsToday": 604,
+  "language": "Rust",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-03T16:22:14.371Z"
+}

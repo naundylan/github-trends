@@ -1,0 +1,22 @@
+{
+  "id": "3fb41cf8-65e8-4f5f-8e21-c2d0ebbd3fd8",
+  "repo": "msitarzewski/agency-agents",
+  "url": "https://github.com/msitarzewski/agency-agents",
+  "category": "AI Agent/Automation",
+  "summary": "Agency Agents là một nền tảng AI agency hoàn chỉnh với nhiều chuyên gia AI có tính cách riêng, mỗi agent đều có quy trình làm việc và đầu ra cụ thể. Dự án này biểu diễn tương lai của công việc tự động hóa nơi các AI agent phối hợp với nhau như một đội ngũ chuyên nghiệp thật.",
+  "usecases": [
+    "Một founder khởi nghiệp muốn tạo nội dung marketing và tương tác cộng đồng Reddit cho sản phẩm mới bằng AI mà không cần thuê nhân viên",
+    "Một nhà thiết kế web cần tạo prototype hoàn chỉnh từ ý tưởng đến code chỉ với vài lời nhắc",
+    "Một giáo viên muốn dùng các AI agent để tạo bài giảng và tài liệu học tập được cá nhân hóa hoàn toàn"
+  ],
+  "ideas": [
+    "Tạo ra các AI agent đặc biệt cho ngành y tế, mỗi agent là một chuyên gia bác sĩ có chuyên môn riêng nhưng phối hợp chung vào một hệ thống chẩn đoán bệnh",
+    "Xây dựng một 'AI agency' cho việc thiết kế trải nghiệm người dùng, nơi mỗi agent là một UX designer có phong cách hoàn toàn khác nhau",
+    "Phát triển hệ thống các AI agent làm việc như một 'tác giả điện ảnh' hoàn chỉnh để viết kịch bản, chọn diễn viên và lên kế hoạch quay phim"
+  ],
+  "stars": 126304,
+  "starsToday": 1202,
+  "language": "Shell",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T16:22:14.370Z"
+}

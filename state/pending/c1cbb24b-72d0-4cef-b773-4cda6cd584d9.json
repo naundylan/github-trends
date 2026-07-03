@@ -1,0 +1,22 @@
+{
+  "id": "c1cbb24b-72d0-4cef-b773-4cda6cd584d9",
+  "repo": "usestrix/strix",
+  "url": "https://github.com/usestrix/strix",
+  "category": "Security/Pentest",
+  "summary": "STRIX là công cụ thử thách an ninh AI mở nguồn, tự động hóa quá trình penetration testing bằng công nghệ AI để phát hiện và sửa chữa các lỗi vulnerabilities trong ứng dụng. Dự án kết hợp giữa khả năng của LLM và các kỹ thuật testing truyền thống, tạo ra một framework linh hoạt cho việc phòng trốn hoạt động hoạt động kiểm tra bảo mật.",
+  "usecases": [
+    "Một kỹ sư bảo mật nhỏ muốn tự động hóa việc quét lỗi ứng dụng web hàng ngày mà không cần can thiệp thủ công",
+    "Một đội ngũ bug bounty tìm kiếm các lỗi logic và prompt injection trong hệ thống AI bằng cách dùng AI agents chuyên sâu",
+    "Một công ty phần mềm muốn tích hợp kiểm tra bảo mật vào pipeline CI/CD một cách tiết kiệm chi phí"
+  ],
+  "ideas": [
+    "Kết hợp STRIX với các mô hình AI đa ngành khác để tạo ra hệ thống pentest toàn diện cho Web3 và blockchain",
+    "Phát triển plugin cho IDE VSCode để các developer thấy ngay lỗi security khi code",
+    "Xây dựng hệ thống AI agent chơi vai trò red team và blue team đối đầu trong môi trường mô phỏng"
+  ],
+  "stars": 34042,
+  "starsToday": 2804,
+  "language": "Python",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-03T16:22:14.370Z"
+}

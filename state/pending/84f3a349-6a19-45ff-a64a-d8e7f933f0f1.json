@@ -1,0 +1,23 @@
+{
+  "id": "84f3a349-6a19-45ff-a64a-d8e7f933f0f1",
+  "repo": "harvard-edge/cs249r_book",
+  "url": "https://github.com/harvard-edge/cs249r_book",
+  "category": "Documentation/Learning Resource",
+  "summary": "Một tài liệu giáo dục nguồn mở về hệ thống machine learning, bao phủ các khái niệm nền tảng đến các ứng dụng thực tế trong môi trường có tài nguyên hạn chế như Edge, Mobile và TinyML.",
+  "usecases": [
+    "Sinh viên và nhà học thuật nghiên cứu về các hệ thống ML tính toán biên giới và thiết bị di động",
+    "Kỹ sư phần mềm thực hành triển khai các giải pháp ML nhẹ cho thiết bị IoT và mobile",
+    "Giảng viên chuẩn bị nội dung khóa học về machine learning systems design"
+  ],
+  "ideas": [
+    "Biến cuốn sách thành nền tảng học tập thông minh bằng cách tích hợp AI assistant cá nhân hóa đường dẫn học",
+    "Tạo phiên bản tương tác dạng game để học các khái niệm ML systems qua mô phỏng thực hành",
+    "Kết nối sách với các hệ thống lab ảo để thực hành code ngay trong trình duyệt",
+    "Phát triển mô hình 'sách sống' cập nhật liên tục các papers mới nhất trong lĩnh vực Edge AI"
+  ],
+  "stars": 26027,
+  "starsToday": 792,
+  "language": "Python",
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-07-03T16:22:14.371Z"
+}

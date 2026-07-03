@@ -1,0 +1,24 @@
+{
+  "id": "88ca3b96-611b-4a66-936d-87a188bc3a37",
+  "repo": "diegosouzapw/OmniRoute",
+  "url": "https://github.com/diegosouzapw/OmniRoute",
+  "category": "AI/LLM",
+  "summary": "OmniRoute là cổng thông tin AI miễn phí kết nối 231+ nhà cung cấp (50+ dịch vụ free), cho phép các nhà phát triển kết nối Claude Code, Cursor, Copilot, Cline và VSCode đến các mô hình miễn phí như Claude, GPT, Gemini. Với công nghệ nén token RTK+Caveman tiết kiệm 15-95% chi phí, hệ thống thông minh tự động chuyển đổi giữa các provider khi cần thiết.",
+  "usecases": [
+    "Lập trình viên muốn sử dụng miễn phí các mô hình AI tiên tiến như Claude-4, GPT-4.5 hoặc Gemini Flash mà không cần tài khoản trả phí",
+    "Nhóm phát triển phần mềm tích hợp AI vào quy trình CI/CD để tự động hóa việc viết và kiểm tra code bằng nhiều mô hình khác nhau",
+    "Giáo dục viên dụng này để cho học sinh và sinh viên khám phá các công nghệ AI mới nhất mà không cần bỏ chi phí đăng ký API",
+    "Doanh nghiệp nhỏ muốn triển khai trợ lý AI nội bộ mà không tốn kém tài chính cho việc sử dụng các dịch vụ AI đắt tiền"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống blockchain để tạo nền tảng AI decentralized où người dùng có thể chia sẻ và thương mại hóa việc sử dụng API miễn phí",
+    "Tích hợp vào trình duyệt để tạo tiện ích mở rộng AI đa nền tảng cho phép người dùng chọn model phù hợp nhất cho từng nhiệm vụ cụ thể trong thời gian thực",
+    "Phát triển thành một nền tảng 'AI Agent Marketplace' nơi các nhà phát triển có thể xây dựng và chia sẻ các agent tự học sử dụng nhiều provider AI khác nhau",
+    "Kết hợp với Web3 để tạo hệ thống AI mining decentralized machine learning giúp người dùng kiếm tiền khi cung cấp compute cho các mô hình AI"
+  ],
+  "stars": 10633,
+  "starsToday": 514,
+  "language": "TypeScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-03T16:22:14.371Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a5796dc0-4b29-492d-b06e-8b80608cc276",
+  "repo": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống tối ưu hiệu suất cho AI agents với các thành phần như kỹ năng (skills), cảm xúc (instincts), bộ nhớ (memory), bảo mật và quy trình phát triển dựa trên nghiên cứu, hỗ trợ phát triển trên nhiều nền tảng như Claude Code, Codex và Cursor.",
+  "usecases": [
+    "Nhà phát triển phần mềm sử dụng ECC để tối ưu hóa workflow tự động hóa bằng AI agents",
+    "Team DevOps tích hợp ECC vào pipeline CI/CD để giảm thiểu thời gian phản hồi và tăng độc lập của agent",
+    "Nghiên cứu viên phát triển các agent có khả năng học và thích ứng trong môi trường phức tạp"
+  ],
+  "ideas": [
+    "Kết hợp ECC với hệ thống robot lao động để tạo ra agent vật lý có khả năng ra quyết định độc lập",
+    "Phát triển môi trường mô phỏng phức tạp nơi các ECC agents phát triển kỹ năng thực hành không giám sát",
+    "Tích hợp ECC vào hệ thống tài chính để tạo ra các agent cảnh báo rủi ro thời gian thực",
+    "Xây dựng mạng lưới các ECC agents hợp tác giải quyết các vấn đề phức tạp như điều phối giao thông thông minh",
+    "Tạo hệ thống phòng thủ bảo mật bằng các ECC agent phát hiện và ứng phó với malware"
+  ],
+  "stars": 225579,
+  "starsToday": 664,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T16:22:14.371Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "37d545ef-2aaf-4079-a113-1c5cfdcd0fc1",
+  "repo": "santifer/career-ops",
+  "url": "https://github.com/santifer/career-ops",
+  "category": "Productivity/Personal Tool",
+  "summary": "Career Ops là hệ thống tìm việc AI-powered hoàn chỉnh dựa trên Claude Code, bao gồm 14 chế độ kỹ năng, dashboard bằng Go, tạo PDF và xử lý hàng loạt. Công cụ này giúp người dùng xây dựng hồ sơ năng lực hoàn hảo và tối ưu hóa quy trình ứng tuyển một cách cá nhân hóa.",
+  "usecases": [
+    "Một sinh viên tốt nghiệp muốn xây dựng hồ sơ chuyên nghiệp và ứng tuyển vào vị trí developer junior một cách nhanh chóng",
+    "Một nhân viên chuyên nghiệp muốn đổi ngành nghề và cần các chế độ luyện tập phỏng vấn theo từng lĩnh vực kỹ năng cụ thể",
+    "Một cựu chiến binh muốn chuyển hướng sự nghiệp vào lĩnh vực công nghệ cần sự hỗ trợ trong việc xây dựng lại hồ sơ cá nhân"
+  ],
+  "ideas": [
+    "Tích hợp Career Ops với các nền tảng việc làm hàng đầu như LinkedIn và Upwork để đề xuất công việc phù hợp nhất tự động",
+    "Phát triển phiên bản AI coach cá nhân hóa, phân tích tâm lý học và đề xuất chiến lược career cá nhân hóa dựa trên mục tiêu",
+    "Tạo một 'career OS' hoàn chỉnh cho doanh nghiệp, nơi mỗi nhân viên có cá nhân hóa hệ thống career path và kế hoạch phát triển bản thân"
+  ],
+  "stars": 58334,
+  "starsToday": 994,
+  "language": "JavaScript",
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-07-03T16:22:14.371Z"
+}
