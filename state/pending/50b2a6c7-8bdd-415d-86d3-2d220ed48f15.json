@@ -1,0 +1,24 @@
+{
+  "id": "50b2a6c7-8bdd-415d-86d3-2d220ed48f15",
+  "repo": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống tối ưu hiệu suất harness cho các AI agents với các tính năng nâng cao như skills, instincts, memory, security và phát triển dựa trên nghiên cứu, hỗ trợ các nền tảng như Claude Code, Codex, Cursor và Opencode.",
+  "usecases": [
+    "Developer sử dụng Claude Code hoặc Cursor để tối ưu workflow làm việc với AI assistants",
+    "Team phát triển muốn quản lý và tối ưu hiệu suất các AI coding agents một cách có hệ thống",
+    "Người dùng MCP (Model Context Protocol) cần cải thiện khả năng phản hồi và chính xác của AI agents",
+    "Công ty cần giảm thiểu độ trễ và tối ưu chi phí sử dụng các AI agents trong quy trình làm việc"
+  ],
+  "ideas": [
+    "Kết hợp ECC với các hệ thống AI agents để tạo ra 'sinh môi trường sống thông minh' tự học tối ưu",
+    "Áp dụng vào các tổng đài CS để AI agents tự học và cải thiện khả năng xử lý ticket dựa trên lịch sử tương tác",
+    "Tích hợp với hệ thống blockchain để tạo ra bộ nhớ phiên không thể xóa (immutable memory) cho AI agents",
+    "Sử dụng trong các hệ thống quản lý tài sản số (DeFi) để AI agents đưa ra quyết định đầu tư dựa trên phân tích thị trường theo thời gian thực"
+  ],
+  "stars": 225666,
+  "starsToday": 664,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T22:00:32.071Z"
+}

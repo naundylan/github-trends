@@ -1,0 +1,25 @@
+{
+  "id": "b4365b56-a1ea-4d22-9446-e8fe7a89c83b",
+  "repo": "diegosouzapw/OmniRoute",
+  "url": "https://github.com/diegosouzapw/OmniRoute",
+  "category": "AI/LLM",
+  "summary": "OmniRoute là một cổng AI miễn phí cho phép kết nối đến hơn 231 nhà cung cấp AI (trong đó 50+ miễn phí) thông qua một endpoint duy nhất. Dự án tích hợp sẵn các công cụ như Claude Code, Cursor, Cline và Copilot, sử dụng thuật nén RTK+Caveman để tiết kiệm 15-95% token và cung cấp tính năng tự động chuyển đổi (fallback) giữa các mô hình khi API gặp lỗi.",
+  "usecases": [
+    "Lập trình viên muốn sử dụng AI miễn phí để hỗ trợ lập code hàng ngày thông qua Cursor, VSCode hay CLI",
+    "Nhóm phát triển muốn tích hợp đa dạng nhà cung cấp AI vào sản phẩm mà không cần quản lý nhiều API key",
+    "Công ty nhỏ muốn tiết kiệm chi phí sử dụng dịch vụ AI bằng cách tối ưu hóa số lượng token sử dụng",
+    "Người dùng muốn thử nghiệm và so sánh hiệu quả các mô hình Claude, GPT, Gemini, DeepSeek và Qwen thông qua giao diện đơn giản"
+  ],
+  "ideas": [
+    "Kết hợp OmniRoute với hệ thống agent tự học để các agent tự động chọn ra mô hình tốt nhất cho từng loại task dựa trên lịch sử sử dụng",
+    "Xây dựng tiện ích IDE extension sử dụng OmniRoute làm backend để sinh mã nguồn, tài liệu và fix bug trực tiếp trong trình duyệt",
+    "Tạo nên một 'sinh mạng AI' phân tán nơi mỗi con agent chuyên về một lĩnh vực và giao tiếp qua giao thức A2A được quản lý bởi OmniRoute",
+    "Phát triển hệ thống RAG phân tán gồm nhiều bộ dữ liệu nhỏ được phân phối trên nhiều nhà cung cấp AI, kết hợp để tạo ra câu trả lời chính xác nhất từ OmniRoute",
+    "Tích hợp OmniRoute vào nền tảng blockchain để tạo thị trường AI decentralized nơi người dùng trả phí bằng token cho việc sử dụng các dịch vụ AI"
+  ],
+  "stars": 10782,
+  "starsToday": 514,
+  "language": "TypeScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-03T22:00:32.071Z"
+}

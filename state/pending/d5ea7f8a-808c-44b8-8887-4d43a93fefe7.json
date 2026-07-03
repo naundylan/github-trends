@@ -1,0 +1,24 @@
+{
+  "id": "d5ea7f8a-808c-44b8-8887-4d43a93fefe7",
+  "repo": "usestrix/strix",
+  "url": "https://github.com/usestrix/strix",
+  "category": "Security/Pentest",
+  "summary": "STRIX là công cụ thử nghiệm xâm nhập AI mã nguồn mở, sử dụng trí tuệ nhân tạo để tự động hóa việc phát hiện và sửa chữa các lỗi vulnerabilities trong ứng dụng web. Dự án kết hợp giữa khả năng của LLM phân tích mã nguồn và các kỹ thuật pentesting truyền thống, giúp giảm thời gian phát hiện lỗi bảo mật cho các nhà phát triển và đội ngũ CTF.",
+  "usecases": [
+    "Các nhà bảo mật ép kiểm tra ứng dụng web một cách tự động trước khi triển khai",
+    "Các nhà phát triển muốn scan source code tìm lỗi security backdoor hoặc injection points",
+    "Các đội bug bounty tham gia CTF competition hoặc hackathon với sự hỗ trợ AI phân tích logic",
+    "Doanh nghiệp cần thực hành red teaming định kỳ mà không cần đầu tư thiết bị phần cứng đắt"
+  ],
+  "ideas": [
+    "Tích hợp Strix với môi trường cloud như AWS Lambda để chạy malware analysis sandbox hoàn toàn không cần server",
+    "Kết hợp Strix với SIEM như Splunk để tạo automated incident response workflow dựa trên AI correlation",
+    "Mở rộng chức năng phân tích mã nguồn cho IoT devices bằng cách training model riêng trên firmware reverse engineering",
+    "Sử dụng Strix như một agent trong hệ thống DevOps CI/CD pipeline để blocking pull request chứa potential exploits"
+  ],
+  "stars": 34481,
+  "starsToday": 2804,
+  "language": "Python",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-03T22:00:32.071Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1b6fc685-233c-4aa3-a4e9-cc127568cccb",
+  "repo": "langflow-ai/langflow",
+  "url": "https://github.com/langflow-ai/langflow",
+  "category": "AI Agent/Automation",
+  "summary": "Langflow là một nền tảng mạnh mẽ để xây dựng và triển khai các tác nhân AI và workflow sử dụng mô hình ngôn ngữ lớn. Nó cung cấp giao diện trực quan dựa trên React Flow giúp người dùng thiết kế các quy trình AI phức tạp một cách dễ dàng, thay vì phải code trực tiếp.",
+  "usecases": [
+    "Nhà phát triển AI xây dựng chatbot nội bộ tích hợp với hệ thống công ty mà không cần kiến thức sâu về backend",
+    "Giảng viên thầy sử dụng để tạo trải nghiệm giáo dục tương tác với sinh viên sử dụng LLM một cách trực quan",
+    "Công ty fintech nghiên cứu các workflow tự động để phân tích dữ liệu thị trường bằng nhiều tác nhân AI độc lập"
+  ],
+  "ideas": [
+    "Kết hợp với Tesla Optimus để tạo ra 'workflow robot' hoàn chỉnh trong nhà máy sản xuất, nơi mỗi bước trong sản xuất là một node AI trong langflow",
+    "Triển khai trên NASA cho phép thiết kế hệ thần kỳ tự động khám phá Mặt Trời với nhiều telescope node phân tâm",
+    "Tích hợp với Neuralink để người dùng có thể 'lập trình' workflow bằng ý thức, điều khiển các hệ thống AI chỉ bằng suy nghĩ"
+  ],
+  "stars": 151059,
+  "starsToday": 634,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T22:00:32.071Z"
+}

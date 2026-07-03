@@ -1,0 +1,22 @@
+{
+  "id": "b5f9c30f-7571-473f-8d5b-ac38cff835fa",
+  "repo": "Zackriya-Solutions/meetily",
+  "url": "https://github.com/Zackriya-Solutions/meetily",
+  "category": "AI/LLM",
+  "summary": "Meetily là trợ lý họp AI hoàn toàn địa phương (local-first) với tốc độ chuyển đổi tiếng nói thành văn bản 4x nhanh nhờ Parakeet/Whisper, nhận biết người nói và tóm tắt bằng Ollama. 100% xử lý trên máy local, không cần internet, đảm bảo quyền riêng tư tuyệt đối cho các cuộc họp nhạy cảm.",
+  "usecases": [
+    "Luật sư sử dụng để ghi lại và tóm tắt các cuộc họp pháp lý nội bộ, đảm bảo thông tin không bị rò rỉ",
+    "Bác sĩ điều trị tâm lý trực tuyến ghi chú các buổi họp với bệnh nhân một cách báo mật tuyệt đối",
+    "Công ty an ninh quốc tế họp hợp đồng lao động tại khách sạn, cần giữ bí mật hoàn toàn nội dung trên cloud"
+  ],
+  "ideas": [
+    "Kết hợp với cảm biến nhịp tim của Apple Watch để Meetily nhận biết cả trạng thái cảm xúc người họp qua đồng bộ tim ngườii",
+    "Tích hợp vào xe Tesla để ghi lại các cuộc trao đổi giữa tài xế và hành khách trong rạch taxi, tạo bảng đối sách tự động",
+    "Sử dụng làm hệ thống giám sát giáo dục ở trường học các em thiếu nhiên, ghi lại và phát hiện các dấu hiệu bất thường trong tiếng nói"
+  ],
+  "stars": 14049,
+  "starsToday": 604,
+  "language": "Rust",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-03T22:00:32.071Z"
+}

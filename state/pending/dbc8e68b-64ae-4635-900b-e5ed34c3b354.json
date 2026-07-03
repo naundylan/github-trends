@@ -1,0 +1,24 @@
+{
+  "id": "dbc8e68b-64ae-4635-900b-e5ed34c3b354",
+  "repo": "msitarzewski/agency-agents",
+  "url": "https://github.com/msitarzewski/agency-agents",
+  "category": "AI Agent/Automation",
+  "summary": "Agency Agents là bộ khung các AI agent chuyên biệt với tính cách riêng, mỗi agent đảm nhiệm một nhiệm vụ cụ thể từ viết code frontend đến quản lý cộng đồng Reddit. Dự án nhằm tạo ra một 'công ty AI' hoàn chỉnh chỉ cần vài dòng lệnh, phù hợp cho cá nhân và doanh nghiệp cần tự động hóa quy trình sáng tạo và marketing.",
+  "usecases": [
+    "Creator nội dung cần sinh ra landing page + bài viết blog + quảng cáo trong 5 phút chỉ với prompt đơn giản",
+    "Các công ty startup nhỏ muốn có đại diện công ty bằng AI để tương tác khách hàng 24/7 mà không cần nhân viên",
+    "Nhà tiếp thị số dùng làm công cụ hỗ trợ học tập cho sinh viên về chiến lược content và growth hacking",
+    "Các freelancer cần tạo portfolio nhanh bằng cách để lại task theo kiểu 'hãy làm designer, viết code, tối ưu SEO'"
+  ],
+  "ideas": [
+    "Tích hợp Agency Agents với môi trường blockchain để tự động sinh thông hạn (NFT) biểu tượng công ty cho mỗi dịch vụ mà agent hoàn thành",
+    "Tạo ra hệ thống agents phối hợp theo phong cách movie 'The Matrix' - mỗi agent là một nhân vật có bản nhạc nền riêng khi chạy",
+    "Sử dụng làm phân tâm AI council cho quyết định tài chính cá nhân thông qua việc đặt các agent với vai trò khác nhau (theo chủ đề: bảo an, lạm phát, danh mục đầu tư)",
+    "Kết hợp với AR headset để các agent xuất hiện như virtual colleagues trong văn phòng trong tương lai gần"
+  ],
+  "stars": 126432,
+  "starsToday": 1202,
+  "language": "Shell",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T22:00:32.071Z"
+}

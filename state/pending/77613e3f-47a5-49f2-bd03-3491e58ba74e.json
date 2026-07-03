@@ -1,0 +1,24 @@
+{
+  "id": "77613e3f-47a5-49f2-bd03-3491e58ba74e",
+  "repo": "santifer/career-ops",
+  "url": "https://github.com/santifer/career-ops",
+  "category": "AI Agent/Automation",
+  "summary": "CareerOps là hệ thống tìm việc cá nhân hóa bằng AI được xây dựng trên nền tảng Claude Code, tích hợp 14 chế độ kỹ năng khác nhau từ phân tích CV đến mô phỏng phỏng vấn. Với giao diện Go dashboard và khả năng xuất PDF hàng loạt, công cụ này biến quá trình tìm việc làm thành một quy trình được tối ưu hóa bằng agent AI, phù hợp cho cá nhân và các trung tâm đào tạo nghề nghiệp.",
+  "usecases": [
+    "Ứng viên mới tốt nghiệp muốn tạo resume mạnh mẽ với templates được cá nhân hóa theo từng vị trí cụ thể",
+    "Các trung tâm đào tạo nghề cần mass generate cover letters và feedback phỏng vấn cho hàng trăm học viên",
+    "Người đang chuyển ngành muốn xây dự trọng tâm kỹ năng mới vào CV một cách có hệ thống",
+    "Các công ty nhỏ tự xây hệ thống gửi hồ sơ ứng viên đến với AI screening trước khi human review"
+  ],
+  "ideas": [
+    "Tích hợp CareerOps với hệ thống blockchain credential để tự động chứng thực bằng cấp và kinh nghiệm một cách phiên bản (verifiable credentials)",
+    "Tạo môi trường thử nghiệm phỏng vấn ảo thực tế bằng cách kết hợp với VR để ứng viên luyện tập trước interview trong môi trường 3D",
+    "Xây dựng hệ thống AI mentorship cross-platform, kết nối ứng viên Việt Nam với mentor tại Silicon Valley thông qua series câu hỏi được agent định sẵn",
+    "Sử dụng làm công cụ đào tạo siêu khó cho LLM bằng cách cho AI đọc hàng triệu CV và học pattern tìm kiếm của HRheadhunter"
+  ],
+  "stars": 58374,
+  "starsToday": 994,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-03T22:00:32.071Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cba6c788-3f15-48fa-9cfa-8f93b899600b",
+  "repo": "harvard-edge/cs249r_book",
+  "url": "https://github.com/harvard-edge/cs249r_book",
+  "category": "Documentation/Learning Resource",
+  "summary": "Cuốn sách giáo khoa về hệ thống machine learning với trọng tâm là triển khai trên edge devices, mobile và các thiết bị có tài nguyên hạn chế, phù hợp cho cả học tập và nghiên cứu thực tế.",
+  "usecases": [
+    "Sinh viên hàng cao đẳng học về machine learning systems và các ứng dụng edge AI",
+    "Kỹ sư nhúng (embedded engineer) cần triển khai mô hình ML trên thiết bị IoT hoặc mobile",
+    "Nhà nghiên cứu muốn nghiên cứu các kỹ thuật tối ưu model cho thiết bị biên (TinyML)",
+    "Giảng viên giảng dạy về hệ thống ML và các ứng dụng thực tế trên nền tảng đa thiết bị"
+  ],
+  "ideas": [
+    "Kết hợp với các framework như TensorFlow Lite và ONNX Runtime để tạo pipeline triển khai tự động",
+    "Xây dựng hệ thống AI agents đọc và tóm tắt nội dung sách giáo khoa này thành video giáo ly",
+    "Tích hợp vào khóa học trực tuyến với AI tutor điều chỉnh nội dung dựa trên trình độ học sinh",
+    "Sử dụng làm tài liệu nền tảng cho các AI coding assistants hỗ trợ viết code triển khai ML trên edge"
+  ],
+  "stars": 26122,
+  "starsToday": 792,
+  "language": "Python",
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-07-03T22:00:32.071Z"
+}
