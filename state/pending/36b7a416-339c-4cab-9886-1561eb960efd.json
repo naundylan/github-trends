@@ -1,0 +1,22 @@
+{
+  "id": "36b7a416-339c-4cab-9886-1561eb960efd",
+  "repo": "chthollyphile/folia-major",
+  "url": "https://github.com/chthollyphile/folia-major",
+  "category": "UI/Component Library",
+  "summary": "Thư viện player nhạc cá nhân với hiệu ứng lyric animation độc đáo, hỗ trợ địa phương và tích hợp với Navidrome. Được xây dựng bằng TypeScript và React với thiết kế hiện đại, đẹp mắt.",
+  "usecases": [
+    "Người dùng muốn nghe nhạc cá nhân trên máy với giao diện lyric chạy cùng bài hát",
+    "Nhà phát triển web tạo trang nghe nhạc cá nhân với hiệu ứng visual độc đáo cho khách hàng",
+    "Người yêu thích âm nhạc tìm kiếm giải pháp player không cần đăng nhập với trải nghiệm aesthetics cao"
+  ],
+  "ideas": [
+    "Kết hợp AI tạo lyric hoặc dịch thuật real-time từ tiếng Anh sang tiếng Việt trong lúc nghe nhạc",
+    "Tích hợp với VR headset để trải nghiệm concert nhạc ảo với lyric bay trong không gian 3D",
+    "Tích xuất âm thanh thành file AI cho phép điều khiển bằng lệnh thoại và cảm xúc cảm xúc người nghe"
+  ],
+  "stars": 946,
+  "starsToday": 319,
+  "language": "TypeScript",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-04T15:57:24.376Z"
+}

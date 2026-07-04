@@ -1,0 +1,24 @@
+{
+  "id": "b72be31e-561a-43fb-aad1-8d2e1905d964",
+  "repo": "ChromeDevTools/chrome-devtools-mcp",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "category": "Developer Tool",
+  "summary": "Một MCP server cho phép các AI agent tương tác và điều khiển Chrome DevTools một cách đầy đủ, giúp thực hiện debugging, tự động hóa kiểm thử và phân tích ứng xứng trình duyệt một cách chính xác. Dự án kết nối giữa AI và hàng ngàn công cụ phát triển web hiện có của Chrome thông qua protocol mới.",
+  "usecases": [
+    "Một frontend developer dùng AI agent để tự động debug lỗi JavaScript trong ứng dụng React khi triển khai trên staging environment",
+    "QA engineer thiết lập pipeline tự động kiểm tra tính tương thích trình duyệt bằng cách chạy AI agent qua các trình duyệt khác nhau",
+    "Một site reliability engineer dùng để monitor và phân tích hiệu suất ứng dụng web theo thời gian thực khi có traffic spikes",
+    "Một UX researcher thu thập dữ liệu hành vi người dùng bằng cách để AI agent điều khiển recording trong DevTools"
+  ],
+  "ideas": [
+    "Kết hợp với vị trí AI agent trên server production để tự động phát hiện và ghi lại browser console errors mỗi khi có người dùng báo lỗi",
+    "Xây dựng hệ thống 'time-travel debugging' cho AI agent, cho phép quay lại các bước đã tương tác trong trình duyệt một cách tự động",
+    "Tạo ra một 'browser fingerprint' AI bằng cách đọc được tất cả network requests và DOM states qua DevTools, để AI học được cách các trang web hoạt động nội bộ",
+    "Cho phép nhiều AI agents cùng chạy trên các tab khác nhau trong Chrome, chia nhau các công việc kiểm thử song song và đồng bộ kết quả"
+  ],
+  "stars": 45687,
+  "starsToday": 303,
+  "language": "TypeScript",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-04T15:57:24.376Z"
+}

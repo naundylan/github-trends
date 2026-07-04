@@ -1,0 +1,22 @@
+{
+  "id": "9876375f-09ad-4ca1-85a0-d82efadd55cc",
+  "repo": "alibaba/page-agent",
+  "url": "https://github.com/alibaba/page-agent",
+  "category": "AI Agent/Automation",
+  "summary": "Một AI agent chạy ngay trên trang web cho phép người dùng điều khiển giao diện bằng ngôn ngữ tự nhiên. Sử dụng TypeScript và có khả năng tương tác trực tiếp với DOM, phù hợp cho việc tự động hóa và truy cập web thông minh.",
+  "usecases": [
+    "Người dùng cuối muốn tự động hóa các thao tác lặp lại trên web như điền form hoặc duyệt trang",
+    "Nhân viên hỗ trợ kỹ thuật sử dụng ngôn ngữ tự nhiên để điều khiển các công cụ web phức tạp",
+    "Nhà nghiên cứu muốn thu thập dữ liệu từ các trang web mà không cần viết script lập trình"
+  ],
+  "ideas": [
+    "Kết hợp với trợ lý điện thoại thông minh để điều khiển ứng dụng web qua giọng nói",
+    "Tích hợp vào hệ thống nhà thông minh cho phép điều khiển thiết bị bằng lệnh tự nhiên",
+    "Tạo môi trường VR cho phép người dùng điều khiển browser 3D bằng tay hoặc bộ điều khiển"
+  ],
+  "stars": 22853,
+  "starsToday": 726,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T15:57:24.376Z"
+}

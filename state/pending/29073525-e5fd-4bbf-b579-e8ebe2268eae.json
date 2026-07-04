@@ -1,0 +1,22 @@
+{
+  "id": "29073525-e5fd-4bbf-b579-e8ebe2268eae",
+  "repo": "agentskills/agentskills",
+  "url": "https://github.com/agentskills/agentskills",
+  "category": "AI Agent/Automation",
+  "summary": "Đặc spéc kỹ thuật và tài liệu chuẩn hóa các kỹ năng (skills) mà AI agents có thể sử dụng, định nghĩa giao diện và tiêu chuẩn tương tác giữa các agent và hệ thống.",
+  "usecases": [
+    "Lập trình viên phát triển hệ thống multi-agent tương tác với nhau thông qua chuẩn skills định sẵn",
+    "Nhà nghiên cứu xây dựng framework robot tự động hóa văn phòng dựa trên khả năng hỗ trợ kỹ năng modules",
+    "Doanh nghiệp triển khai chatbot nội bộ với khả năng thực thi nhiệm vụ theo chuẩn quyền chuẩn hóa"
+  ],
+  "ideas": [
+    "Kết nối với Web3 để tạo kỹ năng lai giao dịch thông minh (decentralized autonomous skills)",
+    "Phát triển hệ sinh thái kỹ năng để AI agent học hỏi và thích ứng trong môi trường thực (real-world adaptive skills)",
+    "Tích hợp với siêu giác nhân (AGI) để làm chủ các kỹ năng siêu cấp chuyên sâu như thiết kế chip, phân tích vũ trụ"
+  ],
+  "stars": 22210,
+  "starsToday": 351,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T15:57:24.376Z"
+}

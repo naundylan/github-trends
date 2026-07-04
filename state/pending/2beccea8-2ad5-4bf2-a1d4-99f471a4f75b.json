@@ -1,0 +1,22 @@
+{
+  "id": "2beccea8-2ad5-4bf2-a1d4-99f471a4f75b",
+  "repo": "asgeirtj/system_prompts_leaks",
+  "url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "category": "Documentation/Learning Resource",
+  "summary": "Tài liệu tham khảo tập hợp các system prompts được trích xuất từ các mô hình AI lớn như Claude, GPT, Gemini và Grok. Dự án cập nhật liên tục các bản nháp hệ thống mới nhất để hỗ trợ nghiên cứu và phát triển ứng dụng AI.",
+  "usecases": [
+    "Nhà phát triển AI nghiên cứu và so sánh các chỉ định hệ thống giữa các mô hình LLM khác nhau",
+    "Giáo viên và học sinh học về kỹ thuật prompt engineering và thiết kế tương tác AI",
+    "Chuyên gia QA thử nghiệm và đánh giá khả năng phản hồi của các mô hình AI dưới các hệ thống prompt khác nhau"
+  ],
+  "ideas": [
+    "Xây dựng AI agent tự động phân tích và trích xuất system prompts từ các API LLM mới khi ra lệnh",
+    "Tích hợp với hệ thống học máy để đào tạo mô hình nhỏ hóa dựa trên pattern prompt từ các mô hình lớn",
+    "Tạo sandbox mô phỏng thử nghiệm các system prompt trên không gian đa trí tuệ thông minh (multi-agent simulation)"
+  ],
+  "stars": 48564,
+  "starsToday": 432,
+  "language": "JavaScript",
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-07-04T15:57:24.376Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "d153b5c5-db5e-4af0-b01a-22054d3583b6",
+  "repo": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "category": "UI/Component Library",
+  "summary": "Một framework ngôn ngữ thiết kế (design language) giúp các AI agent tạo ra giao diện người dùng tài chính và nhất quán hơn, dựa trên các nguyên tắc thiết kế đã được chứng minh. Dự án định nghĩa các token thiết kế và system design dễ dàng cho AI sử dụng trong các workflow tạo UI tự động.",
+  "usecases": [
+    "Một product designer dùng Impeccable để chuẩn hóa các component UI mà các AI agent tạo ra cho dự án công ty",
+    "Một startup founder yêu cầu AI tạo prototype hoàn chỉnh một ứng dụng chỉ với prompt bằng tiếng Việt, với giao diện đẹp như thiết kế chuyên nghiệp",
+    "Một front-end team lead dùng làm tiêu chuẩn cho việc đánh giá xem AI có tạo ra component nào không tuân chính chuẩn thiết kế không",
+    "Một figma designer dùng làm reference để AI gợi ý màu sắc và typography khi làm việc với designer thật"
+  ],
+  "ideas": [
+    "Xây dựng một 'design generator' hoàn chỉnh: khi người dùng nhập prompt 'tôi muốn một landing page bán hàng như Apple', AI tự động tạo toàn bộ design system, components, và even generate code hoàn chỉnh",
+    "Tạo ra một 'design time machine' - AI có khả năng 'du lịch' giữa các design system khác nhau, so sánh và chuyển đổi giữa Material Design và một design system tùy chỉnh",
+    "Cho phép các AI agents 'sinh con' với nhau - khi hai design language kết hợp, chúng tạo ra một hybrid design system hoàn toàn mới",
+    "Xây dựng một 'design immune system' - AI phát hiện ngay khi có element nào vi phạm design system và tự động sửa chữa trong chốc lát"
+  ],
+  "stars": 43432,
+  "starsToday": 218,
+  "language": "JavaScript",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-04T15:57:24.376Z"
+}

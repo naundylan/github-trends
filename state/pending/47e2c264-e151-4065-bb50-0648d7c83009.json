@@ -1,0 +1,25 @@
+{
+  "id": "47e2c264-e151-4065-bb50-0648d7c83009",
+  "repo": "immich-app/immich",
+  "url": "https://github.com/immich-app/immich",
+  "category": "Productivity/Personal Tool",
+  "summary": "Immich là giải pháp quản lý ảnh và video high-performance được host locally, đồng thời là alternative đến Google Photos. Ứng dụng sử dụng NestJS cho backend, Svelte/SvelteKit cho web frontend, và Flutter cho mobile app, đảm bảo trải nghiệm người dùng mượt mẻ trên nhiều nền tảng.",
+  "usecases": [
+    "Người dùng cá nhân hoặc gia đình muốn lưu trữ và chia sẻ thư viện ảnh/video trên máy chủ riêng thay vì phụ thuộc vào dịch vụ đám đông",
+    "Doanh nghiệp nhỏ cần quản lý tài liệu hình ảnh sản phẩm nội bộ với bảo mật cao trước quyền công khai trên internet",
+    "Người dùng chuyển phát triển từ Google Photos tìm giải pháp self-hosted để kiểm soát dữ liệu cá nhân và tiết kiệm chi phí lưu trữ",
+    "Nhà nghiên cứu hoặc nhân viên cần lưu trữ khoảnh khắc nghiên cứu dưới dạng ảnh/video với khả năng truy xuất nhanh chóng và tìm kiếm thông minh"
+  ],
+  "ideas": [
+    "Tích hợp trí tuệ nhân tạo phân tích hình ảnh để tự động gán thẻ và tìm kiếm theo nội dung chính xác hơn trong thư viện ảnh",
+    "Kết nối với hệ thống nhà thong minh để kích hoạt slideshow ảnh tự động khi ánh sáng phù hợp hoặc có người về nhà",
+    "Tích hợp blockchain để tạo chữ ký số cho mỗi tệ ảnh/video, đảm bảo nguồn gốc và bảo mật phiên bản",
+    "Ứng dụng thực tế vào VR/AR để tạo không gian xem ảnh 3D tương tác dựa trên vị trí thời gian",
+    "Kết nối với NAS hoặc cloud tương thích để đồng bộ hóa tự động dữ liệu ảnh/video giữa nhiều thiết bị và nền tảng"
+  ],
+  "stars": 105464,
+  "starsToday": 198,
+  "language": "TypeScript",
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-07-04T15:57:24.376Z"
+}

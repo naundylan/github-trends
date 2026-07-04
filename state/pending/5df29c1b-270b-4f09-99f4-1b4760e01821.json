@@ -1,0 +1,24 @@
+{
+  "id": "5df29c1b-270b-4f09-99f4-1b4760e01821",
+  "repo": "ctxrs/ctx",
+  "url": "https://github.com/ctxrs/ctx",
+  "category": "Developer Tool",
+  "summary": " một công cụ lưu trữ và tìm kiếm lịch sử các AI agent chạy trên máy local, giúp các agent nhớ lại những gì đã làm và ngăn việc lặp lại công việc. Dự án xây dựng hệ thống 'bộ nhớ cho AI' với khả năng truy vấn thông minh dựa trên context và metadata.",
+  "usecases": [
+    "Một backend developer dùng để track các lệnh chạy Claude Code trên máy, giúp nhớ lại các giải pháp đã thử nghiệm khi gặp vấn đề tương tự",
+    "Một team leader quản lý nhiều AI agents chạy trên máy các thành viên, bằng cách xem ai đã làm gì và đề xuất lại các pattern tốt",
+    "Một devops engineer dùng ctx làm kiến thức thống trưởng cho AI agent chạy CI/CD, ghi lại các lỗi build và cách khắc phục",
+    "Một student học lập trình dùng để ghi chép mọi thứ mà Cursor AI gợi ý, sau đó tham khảo lại khi cần"
+  ],
+  "ideas": [
+    "Xây dựng một 'AI therapist' - chương trình nhỏ chạy ngầm trên máy, thường xuyên phân tích lịch sử agent và đề xuất các tác vụ tối ưu dựa trên pattern cũ",
+    "Tích hợp với hệ thống nhớ toàn cục của OS, để khi bật máy lên AI tự động biết 'hôm qua bạn đang làm gì' và tiếp tục từ nơi dừng lại",
+    "Tạo ra một 'digital twin' của người dùng dựa trên cách họ tương tác với AI agents, để AI có thể 'học' phong cách làm việc riêng của từng người",
+    "Cho phép các AI agents 'thảo luận' với nhau qua hệ thống nhớ chung, như một cuộc trò chuyện giữa các chuyên gia trong phòng lab ảo"
+  ],
+  "stars": 602,
+  "starsToday": 244,
+  "language": "Rust",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-04T15:57:24.376Z"
+}

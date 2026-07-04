@@ -1,0 +1,22 @@
+{
+  "id": "7b14692b-890c-4c83-9f3c-f43960895a9a",
+  "repo": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "category": "Developer Tool",
+  "summary": "Một thư viện các kỹ năng và template prompt được sử dụng bởi các kỹ sư thực hành, tổng hợp từ thực nghiệm và .claude directory của Matt Pocock. Bao gồm các mẫu để tương tác với AI, xử lý API, và các pattern phổ biến trong phát triển phần mềm.",
+  "usecases": [
+    "Các kỹ sư junior tham khảo các template prompt chuẩn để tương tác hiệu quả với AI assistants như Claude và Codex",
+    "Lập trình viên cần nhanh chóng áp dụng các best practice đã được chứng minh cho API tích hợp, xử lý lỗi, và tối ưu code",
+    "Nhóm phát triển tìm kiếm các pattern đã được kiểm chứng để xây dựng hệ thống phức tạp một cách nhất quán"
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống LMS để tạo khóa học lập trình thông minh dựa trên từng skill level",
+    "Kết hợp với IDE extension để gợi ý real-time các pattern tương ứng với context hiện tại",
+    "Xây dựng AI coding coach cá nhân hóa, tiếp xúc từng bước skill theo lộ trình cá nhân"
+  ],
+  "stars": 156282,
+  "starsToday": 1289,
+  "language": "Shell",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-04T15:57:24.376Z"
+}
