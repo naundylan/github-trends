@@ -1,0 +1,23 @@
+{
+  "id": "e0ec1bae-661c-409a-b662-7e3f4fb1e2fa",
+  "repo": "ruvnet/RuView",
+  "url": "https://github.com/ruvnet/RuView",
+  "category": "Embedded/IoT",
+  "summary": "π RuView chuyển đổi tín hiệu WiFi thông thường thành trí tuệ không gian thời gian thực, theo dõi nhịp tim và phát hiện hiện diện - tất cả không cần video. Sử dụng ESP32 và học máy để phân tích tín hiệu RF một cách self-learning.",
+  "usecases": [
+    "Người dùng giám sát sức khỏe cá nhân tại nhà thông qua tín hiệu WiFi mà không cần thiết bị cảm biến",
+    "Hệ thống home automation tự động điều chỉnh theo mức độ hiện diện và hoạt động của người dùng",
+    "Bảo mật không gian với khả năng phát hiện xâm nhập và theo dõi chuyểng trình di chuyển"
+  ],
+  "ideas": [
+    "Kết hợp với Tesla để điều chỉnh cabin xe dựa trên tình trạng sức khỏe người lái phát hiện qua tín hiệu WiFi cabin",
+    "Hệ thống làm chủ nhà thông minh điều khiển bằng ánh sáng và chất lượng không khí dựa trên nhịp tim và hô hấp của người ở trong nhà",
+    "Mạng sensor không dây toàn cầu sử dụng tín hiệu WiFi ngõ ra để tạo bản đồ sức khỏe cộng đồng theo thời gian thực",
+    "Robot người giúp việc nhận diện cảm xác cấp bách của chủ nhân thông qua tín hiệu RF và tự động gọi xe cấp cứu"
+  ],
+  "stars": 76413,
+  "starsToday": 129,
+  "language": "Rust",
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-07-04T19:01:28.427Z"
+}

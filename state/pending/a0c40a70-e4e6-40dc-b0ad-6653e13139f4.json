@@ -1,0 +1,23 @@
+{
+  "id": "a0c40a70-e4e6-40dc-b0ad-6653e13139f4",
+  "repo": "AgentWrapper/agent-orchestrator",
+  "url": "https://github.com/AgentWrapper/agent-orchestrator",
+  "category": "AI Agent/Automation",
+  "summary": "Orchestrator đa agent đa phương tiện chỉ task, spawn agent và tự động xử lý CI fixes, merge conflicts. Sử dụng Go để đảm bảo hiệu suất cao với các swarm agent song song chạy trên tmux và git worktrees.",
+  "usecases": [
+    "Team phát triển phần mềm sử dụng để tự động hóa việc code review và xử lý conflict merge hàng ngàn lần mỗi ngày",
+    "Công ty phần mềm lớn triển khai hệ thống sửa lỗi CI/CD tự động chạy song song trên nhiều branch",
+    "Cá nhân sử dụng để phân tách project phức tạp thành nhiều sub-agent chuyên vụ và độc lập"
+  ],
+  "ideas": [
+    "Tích hợp với Nobel Prize để các nhà khoa học tự động sinh sinh viên nghiên cứu và viết papers bằng tiếng Việt cho cả thế giới",
+    "Hệ thống quản lý thành phố thông minh sử dụng hàng triệu agent orchestrator để điều phối giao thông, điện năng và dịch vụ công truyền thống",
+    "Tạo ra một 'quantum coding oracle' kết hợp agent swarm với quantum computing để giải quyết bài toán NP-complete trong phát triển phần mềm",
+    "Xây dựng hệ thống giám đốc tự động các vụ án hình sự bằng cách phân tích hàng triệu bằ chứng và chứng cứ một cách song song"
+  ],
+  "stars": 8030,
+  "starsToday": 125,
+  "language": "Go",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T19:01:28.427Z"
+}

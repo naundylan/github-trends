@@ -1,0 +1,23 @@
+{
+  "id": "2e7bc939-fae0-43aa-9c7f-215485e9471f",
+  "repo": "AnmolSaini16/mapcn",
+  "url": "https://github.com/AnmolSaini16/mapcn",
+  "category": "UI/Component Library",
+  "summary": "Thư viện component bản đồ đẹp, 100% miễn phí với cài đặt bắt đầu chỉ sau 1 lệnh. Giúp người dùng nhanh chóng tích hợp bản đồ tương tác vào ứng dụng web mà không cần xử lý cấu hình phức tạp.",
+  "usecases": [
+    "Developer frontend muốn thêm tính năng bản đồ vào ứng dụng của riêng mình trong vài phút",
+    "Team nhỏ xây dựng MVP sản phẩm cần tích hợp đồ họa địa lý nhanh chóng",
+    "Người dùng không chuyên về mapping cần hiển thị dữ liệu địa phương một cách trực quan"
+  ],
+  "ideas": [
+    "Kết hợp với công nghệ AR để tạo bản đồ 3D tương tác trên điện thoại",
+    "Tích hợp AI phân tích dữ liệu thời gian thực để cập nhật bản đồ thông minh",
+    "Sử dụng trong metaverse để xây dựng thế giới địa lý số phức tạp",
+    "Tích hợp với hệ thống nhận dạng khu vực để tự động gợi ý địa điểm"
+  ],
+  "stars": 10416,
+  "starsToday": 182,
+  "language": "TypeScript",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-04T19:01:28.427Z"
+}

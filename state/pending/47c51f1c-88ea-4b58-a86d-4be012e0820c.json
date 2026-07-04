@@ -1,0 +1,23 @@
+{
+  "id": "47c51f1c-88ea-4b58-a86d-4be012e0820c",
+  "repo": "anthropics/claude-code",
+  "url": "https://github.com/anthropics/claude-code",
+  "category": "AI Agent/Automation",
+  "summary": "Claude Code là công cụ coding dựa trên trí tuệ nhân tạo chạy trong terminal, được thiết kế để hiểu và tương tác với codebase một cách tự nhiên thông qua lệnh ngôn ngữ tự nhiên. Công cụ này tự động thực hiện các tác vụ lặp lại, giải thích mã phức tạp và quản lý workflow git, giúp tăng tốc độ phát triển phần mềm.",
+  "usecases": [
+    "Lập trình viên sử dụng để chỉ sửa đổi code base thông qua lệnh tự nhiên như 'tạo function để xác thực user' mà không cần gõ nhiều lệnh",
+    "Đội ngũ DevOps tích hợp vào CI/CD pipeline để tự động generate migration database hoặc deploy code",
+    "Coder rất ít kinh Experience dùng để học tập và làm quen với codebase phức tạp bằng cách hỏi Claude giải thích từng module"
+  ],
+  "ideas": [
+    "Kết hợp với Visual Studio Code để tạo 'AI Pair Programmer' hiển thị suggestion dạng overlay trực tiếp trên editor",
+    "Tích hợp với hệ thống monitoring như Datadog để Claude Code tự động fix bug khi production có vấn đề",
+    "Xây dựng hệ thống 'Code Review Agent' chạy hoàn toàn local chỉ với instruction bằng tiếng Việt hoặc tiếng Mỹ",
+    "Tạo môi trường học máy khó để Claude Code học từ pull request history và tự động generate best practices riêng cho từng dự án"
+  ],
+  "stars": 136053,
+  "starsToday": 408,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T19:01:28.427Z"
+}

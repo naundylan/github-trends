@@ -1,0 +1,25 @@
+{
+  "id": "69f6348f-0ff7-463e-b592-9aa22fbe5918",
+  "repo": "ruvnet/ruflo",
+  "url": "https://github.com/ruvnet/ruflo",
+  "category": "AI Agent/Automation",
+  "summary": "Framework meta-harness mạnh mẽ để triển vọng và quản lý swarm AI đa người chơi, hỗ trợ các workflow tự học và hệ thống AI trò chuyện. Tích hợp sẵn khả năng làm việc với Claude Code, Codex và nhiều mô hình AI khác.",
+  "usecases": [
+    "Nhà phát triển xây dựng hệ thống AI đa tương tác cho khách hàng",
+    "Doanh nghiệp tự động hóa quy trình nghiệp vụ bằng các agent thông minh",
+    "Nghiên cứu sinh swarm intelligence muốn mô phỏng hệ thống phức tạp",
+    "Công ty phần mềm cần giải pháp quản lý AI scale cho dự án lớn"
+  ],
+  "ideas": [
+    "Kết nối với robot thật để điều khiển đội ngũ swarm robot tự động",
+    "Dùng trong điều hành tàu không gian hoặc xa mặt trăng bằng AI swarm",
+    "Tạo ra các công ty AI hoàn toàn tự chạy không cần nhân viên",
+    "Áp dụng vào hệ thống điều tiết giao thông thành phố thông minh",
+    "Kết hợp với Web3 để tạo các agent độc lập trên blockchain"
+  ],
+  "stars": 62969,
+  "starsToday": 166,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T19:01:28.427Z"
+}

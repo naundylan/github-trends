@@ -1,0 +1,23 @@
+{
+  "id": "1b2e4686-8acf-49c8-ab86-fc40ba6db932",
+  "repo": "huggingface/speech-to-speech",
+  "url": "https://github.com/huggingface/speech-to-speech",
+  "category": "AI/LLM",
+  "summary": "Dự án này cung cấp các công cụ mã nguồn mở để xây dựng các agent thoại chạy local với các model AI tiên tiến. Nó kết hợp speech-to-text, dịch thuật và speech synthesis thành một pipeline liền mạch, giúp người dùng dễ dàng tạo hệ thống chuyển đổi giọng nói giữa các ngôn ngữ và các nhân vật ảo với giọng nói tự nhiên.",
+  "usecases": [
+    "Nhà phát triển sử dụng để xây dựng trợ lý voice chạy trên thiết bị cá nhân cho người tôn giớo khác ngữ",
+    "Nền tảng giáo dục tạo ra các buổi họp ngôn ngữ trực tuyến với giọng nói chất lượng cao giữa các công dân đa quốc gia",
+    "Công ty game phát triển hệ thống NPC với khả năng giao tiếp bằng giọng nói tự nhiên hỗ trợ nhiều ngôn ngữ"
+  ],
+  "ideas": [
+    "Kết hợp với Meta Quest để tạo người bạn VR thật với khả năng trò chuyện bằng giọng nói song ngữ trong không gian 3D",
+    "Tích hợp vào bán hàng tự động trên Shopee để khách hàng hỏi đáp bằng giọng nói với nhân viên ảo multilingual",
+    "Sử dụng trong xe tự lái Tesla để điều hướng bằng giọng nói bằng tiếng Việt cho người Việt tại đảo đảo xa",
+    "Tích hợp vào hệ thống điều dưỡng cho người cao tuổi, giúp bác sĩ truy vấn triệu chứng bằng giọng nói miễng cách tiếng Hoa"
+  ],
+  "stars": 5316,
+  "starsToday": 119,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-04T19:01:28.427Z"
+}

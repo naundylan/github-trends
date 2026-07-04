@@ -1,0 +1,23 @@
+{
+  "id": "e08a37fd-2d5a-435a-a769-4d58c7690a4e",
+  "repo": "alirezarezvani/claude-skills",
+  "url": "https://github.com/alirezarezvani/claude-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện lớn các kỹ năng (skills) và plugin dành cho Claude Code và các AI coding agent khác, bao gồm hơn 300 lệnh tùy chỉnh, 30+ agent chuyên ngành và hàng trăm prompt templates. Gói này mở rộng khả năng của Claude Code để xử lý các tác vụ chuyên sâu từ engineering đến business operations, finance, và sản xuất.",
+  "usecases": [
+    "Kiến trúc viên sử dụng skill 'System Design Agent' để tạo architecture diagram và technical specification tự động cho dự án mới",
+    "Product Manager dùng prompt marketing skills để generate product landing page và sales copy từ spec kỹ thuật",
+    "CTO nhỏ công ty startup dùng Claude Skills để nhờ sinh viết báo cáo tài chính hàng tháng và dự trù budget tăng trưởng"
+  ],
+  "ideas": [
+    "Tạo 'Skill Marketplace' nơi các nhà phát triển có kinh nghiệm chung xếp hệ và chia sẻ custom skills cho cộng đồng",
+    "Xây dựng hệ thống 'AI Internship' để các sinh viên học lập trình thông qua việc làm việc với các chuyên gia AI bằng tiếng Việt",
+    "Tích hợp với Notion API để Claude Skills tự động tạo và cập nhật knowledge base cho công ty",
+    "Phát triển chế độ 'AI Mentor' để mentor trẻ em học lập trình qua đoàn kết với Claude dạng conversation game"
+  ],
+  "stars": 20062,
+  "starsToday": 197,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T19:01:28.427Z"
+}

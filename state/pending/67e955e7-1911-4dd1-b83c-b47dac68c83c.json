@@ -1,0 +1,25 @@
+{
+  "id": "67e955e7-1911-4dd1-b83c-b47dac68c83c",
+  "repo": "openai/codex",
+  "url": "https://github.com/openai/codex",
+  "category": "AI/LLM",
+  "summary": "Coding agent nhẹ chạy trực tiếp trong terminal, giúp lập trình viên tự động hóa quá trình viết và chỉ sửa code. Được thiết kế đơn giản nhưng mạnh mẽ để tích hợp vào workflow làm việc hàng ngày của developer.",
+  "usecases": [
+    "Lập trình viên muốn generate code từ mô tả bằng ngôn ngữ tự nhiên",
+    "Team CI/CD cần chạy động code review và fix bằng AI",
+    "Sinh viên học lập trình muốn nhận gợi ý code từ AI assistant",
+    "Nhà quản lý dự án muốn tự động hóa việc tạo prototype nhanh"
+  ],
+  "ideas": [
+    "Kết hợp với blockchain để tự động thực thi thông minh hợp đồng",
+    "Dùng trong hệ thống điều chỉnh máy bay không người lái bằng tiếng nói",
+    "Tích hợp vào IDE để tạo ra các nhà máy phần mềm hoàn toàn tự chạy",
+    "Sử dụng để xây dựng trợ lý học tập cá nhân hóa bằng AI",
+    "Kết hợp với robot lao động để điều khiển bằng ngôn ngữ tự nhiên"
+  ],
+  "stars": 95494,
+  "starsToday": 159,
+  "language": "Rust",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-04T19:01:28.427Z"
+}

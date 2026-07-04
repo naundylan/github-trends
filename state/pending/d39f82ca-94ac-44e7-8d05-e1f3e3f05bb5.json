@@ -1,0 +1,23 @@
+{
+  "id": "d39f82ca-94ac-44e7-8d05-e1f3e3f05bb5",
+  "repo": "ai-boost/awesome-harness-engineering",
+  "url": "https://github.com/ai-boost/awesome-harness-engineering",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách tuyệt vời về kỹ thuật harness cho AI agents bao gồm tools, patterns, evaluation, memory, MCP, quyền hạn và quan sát. Tập hợp các best practices và framework để xây dựng hệ thống agent đáng tin cậy.",
+  "usecases": [
+    "Kỹ sư AI tham khảo để xây dựng hệ thống agent tự động hóa phức tạp với khả năng giám sát và sửa lỗi",
+    "Nhà phát triển MCP xây dựng pipeline đánh giá và tối ưu hóa agent theo chuẩn đã được curate",
+    "Công ty AI tìm kiếm giải pháp orchestration đa agent đã được chứng minh hiệu quả cho dự án của họ"
+  ],
+  "ideas": [
+    "Tạo nên một 'Kubernetes của AI agents' sử dụng harness patterns từ danh sách này để quản lý cluster agent production",
+    "Xây dựng hệ thống 'AI agent marketplace' nơi các nhà phát triển có thể chia sẻ và kết hợp các harness components như LEGO",
+    "Phát triển một ngôn ngữ lập trình đặc biệt cho việc định nghĩ và chạy các AI agent pipeline dựa trên các pattern đã được chuẩn hóa",
+    "Tạo ra một 'AI agent insurance protocol' trên blockchain để bảo vẽ cho các tài sản sử dụng agent trong môi trường production"
+  ],
+  "stars": 2699,
+  "starsToday": 125,
+  "language": "Python",
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-07-04T19:01:28.427Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4885a833-78cc-4e57-8ed8-d514a28fb0d9",
+  "repo": "rommapp/romm",
+  "url": "https://github.com/rommapp/romm",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Romm là nền tảng quản lý và phát game retro hoàn toàn tự host, giúp người dùng quản lý thư viện ROM game cũ một cách chuyên nghiệp với giao diện đẹp mắt và đầy đủ tính năng. Hệ thống hỗ trợ nhiều định dạng game và có thể tích hợp với các trình giả lập, tạo trải nghiệm người dùng liền mạch cho việc chơi game cổ điển.",
+  "usecases": [
+    "Game thủ collector dùng để tổ chức thư viện ROM game NES, SNES, PS1 cá nhân với hình ảnh bìa và metadata tự động",
+    "Cha mẹ chơi game cổ điển với con trong nhà hàng không dây chỉ cần scan QR code để truy cập game từ điện thoại",
+    "Thuê nhà trọ dùng romm với Raspberry Pi để tạo 'game room' cổ điển cho hàng trăm khách đến chơi"
+  ],
+  "ideas": [
+    "Kết hợp với NVIDIA GeForce NOW để stream game retro từ cloud về chơi trên bất kỳ thiết bị nào",
+    "Tích hợp AI image generation để tự động tạo cover art mới cho ROM cũ khi không còn bìa gốc",
+    "Xây dựng hệ thống AR để xem ROM như một bộ sưu tập thực tế trên bàn tay qua điện thoại",
+    "Tạo chế độ chơi nhóm qua mạng LAN nội địa cho bạn bè trong phòng chơi game cổ điển"
+  ],
+  "stars": 10108,
+  "starsToday": 400,
+  "language": "Python",
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-07-04T19:01:28.427Z"
+}
