@@ -1,0 +1,22 @@
+{
+  "id": "5450363d-3167-4967-92f3-6cc4b82d39bb",
+  "repo": "rommapp/romm",
+  "url": "https://github.com/rommapp/romm",
+  "category": "Desktop App",
+  "summary": "ROMM là một trình quản lý và trình phát ROM tự-hosted, được xây dựng bằng Python với giao diện đẹp mắn và tính năng mạnh mẽ. Dự án hỗ trợ cộng đồng retrogaming bằng cách cung cấp giải pháp quản lý trò chơi cổ điển một cách tiện lợi và mở rộng.",
+  "usecases": [
+    "Người chơi game cổ điển sử dụng ROMM để tổ chức thư viện trò chơi NES/SNES một cách có hệ thống, tiết kiệm không gian và thời gian tìm kiếm.",
+    "Câu lạc bộ retrogaming tại trường đại học triển khai ROMM làm nền tảng chia sẻ và chơi thử các trò chơi tiết kiệm ROM.",
+    "Nhà sưu tập game cổ điển dùng ROMM để lưu trữ và phân loại trò chơi theo năm phát hành, nhà phát triển, và thể loại."
+  ],
+  "ideas": [
+    "Tích hợp ROMM với nền tảng đám mây để người dùng truy cập trò chơi yêu thích từ bất kỳ thiết bị nào, thông qua API đám mây và đăng nhập OAuth.",
+    "Phát triển tiện ích mở rộng cho trình duyệt cho phép người dùng tải ROM trực tiếp từ trang web và thêm vào thư viện ROMM.",
+    "Kết hợp với công nghệ blockchain để tạo hệ thống sở hữu số (NFT) cho các bản ROM độc quyền, hỗ trợ các nhà phát triển game cổ điển."
+  ],
+  "stars": 9821,
+  "starsToday": 239,
+  "language": "Python",
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-07-04T02:09:55.118Z"
+}

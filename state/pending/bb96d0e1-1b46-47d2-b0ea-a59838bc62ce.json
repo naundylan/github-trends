@@ -1,0 +1,22 @@
+{
+  "id": "bb96d0e1-1b46-47d2-b0ea-a59838bc62ce",
+  "repo": "chthollyphile/folia-major",
+  "url": "https://github.com/chthollyphile/folia-major",
+  "category": "Web Frontend",
+  "summary": "Ứng dụng web PWA với hiệu ứng lời hát điện ảnh, hỗ trợ phát nhạc địa phương và tích hợp với Navidrome, sử dụng React và TypeScript để tạo trải nghiệm người dùng tinh tế.",
+  "usecases": [
+    "Người dùng nghe nhạc cá nhân trên thiết bị di động với hình ảnh nền rực rỡ và lời hát động động",
+    "Người yêu thích âm nhạc sử dụng như một trình chơi nhạc cá nhân hóa với giao diện hiện đại",
+    "Nhà phát triển web tích hợp các hiệu ứng animation tiên tiến vào ứng dụng âm nhạc của họ"
+  ],
+  "ideas": [
+    "Kết hợp với Chrome DevTools MCP để AI điều khiển phát nhạc và cập nhật lời hát tự động",
+    "Tích hợp vào hệ thống nhà thông minh để phát nhạc thông minh với không gian ánh sáng động",
+    "Phát triển phiên bản VR để người dùng trải nghiệm concert ảo với lời hát 3D"
+  ],
+  "stars": 864,
+  "starsToday": 319,
+  "language": "TypeScript",
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-07-04T02:09:55.118Z"
+}

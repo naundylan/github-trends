@@ -1,0 +1,25 @@
+{
+  "id": "0c7205c6-9d21-4d61-881f-eaffdd145f6a",
+  "repo": "Chocobozzz/PeerTube",
+  "url": "https://github.com/Chocobozzz/PeerTube",
+  "category": "Backend Framework",
+  "summary": "PeerTube là nền tảng phát video phiên thư (decentralized) sử dụng công nghệ P2P và ActivityPub, cho phép phát trực tiếp và xem video mà không cần qua máy chủ trung tâm. Hệ thống hoạt động qua các instances được federated, mang lại tính dự phòng và kháng thương mại.",
+  "usecases": [
+    "Người dùng cá nhân muốn xem video không bị theo dõi bởi Google/Facebook",
+    "Nhà tự do chạy instance riêng để phân phối nội dung phi commercial",
+    "Nhóm phản ứng cần chia sẻ video bị cấm trên các nền tảng truyền thống",
+    "Giáo viên phổ thông muốn phân phối gilecture video một cách phiến thư"
+  ],
+  "ideas": [
+    "Kết hợp PeerTube với IPFS để lưu trữ video hoàn toàn không-server",
+    "Tích hợp AI tóm tắt nội dung video real-time trên mạng P2P",
+    "Tạo token NFT cho việc sở hữu quyền xem video độc quyền",
+    "Kết nối với IoT camera để tự động upload video giám sát thành feed P2P",
+    "Xây dựng VR space để xem video theo đuổi phong cách cinema trong không gian ảo"
+  ],
+  "stars": 15041,
+  "starsToday": 223,
+  "language": "TypeScript",
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-07-04T02:09:55.118Z"
+}

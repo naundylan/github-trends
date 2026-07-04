@@ -1,0 +1,22 @@
+{
+  "id": "aca8758a-e0e9-45fc-8185-8ac7431fc188",
+  "repo": "openai/codex-plugin-cc",
+  "url": "https://github.com/openai/codex-plugin-cc",
+  "category": "Developer Tool",
+  "summary": "Plugin này cho phép sử dụng Codex trong Claude Code để xem xét mã nguồn hoặc giao thuc các nhiệm vụ lập trình. Đây là công cụ bổ trợ tăng cường khả năng làm việc của Claude Code với các tính năng AI-powered code review và task delegation.",
+  "usecases": [
+    "Kỹ sư phần mềm thực hiện code review nhanh chóng bằng cách để lại comment dạng text cho Codex xử lý",
+    "Project manager giao task cho team bằng ngôn ngữ tự nhiên, Codex sẽ chuyển đổi thành công việc cụ thể",
+    "CTO công ty dùng để tự động hóa quy trình audit code trước khi merge pull request"
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống ticketing như Jira để Codex tự động tạo issue từ yêu cầu dự án",
+    "Kết hợp với GitHub Actions để chạy Codex như một bước CI/CD trong quy trình build",
+    "Phát triển thành extension IDE chung cho phép các developer chạy Codex trên nhiều nền tảng khác nhau"
+  ],
+  "stars": 23247,
+  "starsToday": 634,
+  "language": "JavaScript",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-04T02:09:55.118Z"
+}

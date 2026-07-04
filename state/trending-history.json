@@ -1,17 +1,17 @@
 {
   "JuliusBrussee/caveman": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-02"
   },
   "obra/superpowers": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-02"
   },
   "tt-a1i/archify": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-02"
   },
   "public-apis/public-apis": {
@@ -41,62 +41,112 @@
   },
   "TencentCloud/CubeSandbox": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-02"
   },
   "ogulcancelik/herdr": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-02"
   },
   "usestrix/strix": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-03"
   },
   "facebook/astryx": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-03"
   },
   "harvard-edge/cs249r_book": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-03"
   },
   "msitarzewski/agency-agents": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-03"
   },
   "santifer/career-ops": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-03"
   },
   "affaan-m/ECC": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-03"
   },
   "langflow-ai/langflow": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-03"
   },
   "HKUDS/Vibe-Trading": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-03"
   },
   "diegosouzapw/OmniRoute": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-03"
   },
   "Zackriya-Solutions/meetily": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-04",
     "last_saved": "2026-07-03"
+  },
+  "openai/codex-plugin-cc": {
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "last_saved": "2026-07-04"
+  },
+  "ChromeDevTools/chrome-devtools-mcp": {
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "last_saved": "2026-07-04"
+  },
+  "rommapp/romm": {
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "last_saved": "2026-07-04"
+  },
+  "pytorch/pytorch": {
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "last_saved": "2026-07-04"
+  },
+  "agentskills/agentskills": {
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "last_saved": "2026-07-04"
+  },
+  "pbakaus/impeccable": {
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "last_saved": "2026-07-04"
+  },
+  "alibaba/page-agent": {
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "last_saved": "2026-07-04"
+  },
+  "Chocobozzz/PeerTube": {
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "last_saved": "2026-07-04"
+  },
+  "chthollyphile/folia-major": {
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "last_saved": "2026-07-04"
+  },
+  "stablyai/orca": {
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-04",
+    "last_saved": "2026-07-04"
   }
 }

@@ -1,0 +1,22 @@
+{
+  "id": "27ad4c2a-d86b-490f-b90e-628bb733260a",
+  "repo": "ChromeDevTools/chrome-devtools-mcp",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "category": "AI Agent/Automation",
+  "summary": "Một MCP server cung cấp khả năng truy cập Chrome DevTools cho các AI coding agents, cho phép các agent thao tác, debug và tương tác với trình duyệt một cách động.",
+  "usecases": [
+    "AI coding assistant tự động chạy debug ứng dụng web và sửa lỗi dựa trên phân tích console",
+    "Hệ thống test tự động sử dụng AI để mô phỏng người dùng và kiểm tra tính năng trên trình duyệt",
+    "Nền tảng phát triển web cho phép developers chạy agent để tối ưu hiệu suất và sửa lỗi realtime"
+  ],
+  "ideas": [
+    "Kết hợp với Folia Major để AI điều khiển trình duyệt và đồng bộ hóa hiệu ứng lời hát",
+    "Tích hợp vào IDE để AI agent trực tiếp chỉnh sửa code trong khi debug trên trình duyệt",
+    "Xây dựng hệ thống giám sát web dùng AI phân tích hành vi người dùng thông qua DevTools"
+  ],
+  "stars": 45503,
+  "starsToday": 405,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T02:09:55.118Z"
+}

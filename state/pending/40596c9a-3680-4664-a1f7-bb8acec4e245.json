@@ -1,0 +1,22 @@
+{
+  "id": "40596c9a-3680-4664-a1f7-bb8acec4e245",
+  "repo": "agentskills/agentskills",
+  "url": "https://github.com/agentskills/agentskills",
+  "category": "AI Agent/Automation",
+  "summary": "Tài liệu và đặc spécification cho các kỹ năng của AI agents, cung cấp framework chuẩn để các tác vụ điều khoản được triển khai và tương tác một cách nhất quán giữa các hệ thống AI.",
+  "usecases": [
+    "Nhà phát triển AI xây dựng hệ thống agent tích hợp các kỹ năng chuẩn để xử lý công việc tự động",
+    "Các công ty phần mềm sử dụng làm tiêu chuẩn để agent của họ tuân thủ quy trình làm việc nhất quyên",
+    "Nghiên cứu viên nghiên cứu về hành vi và khả năng của AI agents trong môi trường phức tạp"
+  ],
+  "ideas": [
+    "Kết hợp với Chrome DevTools để agent có khả năng debug và tương tác trực tiếp với trình duyệt",
+    "Tích hợp vào hệ thống nhạc để điều khiển phát nhạc thong minh dựa trên ngữ cảnh sử dụng",
+    "Ứng dụng trong xe tự lái để xử lý các tác vụ điều hướng và giải trí một cách thông minh"
+  ],
+  "stars": 22010,
+  "starsToday": 406,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T02:09:55.118Z"
+}

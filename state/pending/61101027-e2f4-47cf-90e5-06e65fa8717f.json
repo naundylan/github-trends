@@ -1,0 +1,22 @@
+{
+  "id": "61101027-e2f4-47cf-90e5-06e65fa8717f",
+  "repo": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "category": "UI/Component Library",
+  "summary": "Impeccable là ngôn ngữ thiết kế giúp cải thiện khả năng thiết kế giao diện người dùng cho các hệ thống AI, tập trung vào trải nghiệm người dùng và tính nhất quán. Dự án hướng đến việc đơn giản hóa việc xây dựng giao diện tương tác với AI.",
+  "usecases": [
+    "Thiết kế viên dùng Impeccable để tạo giao diện chatbot thân thiện với người dùng, giúp giảm thiểu sự nhầm lẫn trong quá trình tương tác AI.",
+    "Nhóm phát triển ứng dụng mobile áp dụng thư viện này để thiết kế giao diện điều khiển thiết bị thong minh nhất quán với trợ lý AI.",
+    "Công ty phần mềm sử dụng Impeccable để xây dựng hệ thống quản lý dự án tích hợp AI phân tích và đề xuất task dựa trên ngữ cảnh."
+  ],
+  "ideas": [
+    "Kết hợp Impeccable với công nghệ AR để tạo giao diện AI điều khiển bằng cử chỉ tay, phù hợp cho trải nghiệm thực tế tăng cường (AR).",
+    "Phát triển tiêu chuẩn thiết kế cho trợ lý AI nhà thông minh sử dụng Impeccable, giúp người cao tuổi dễ dàng tương tác.",
+    "Ứng dụng vào môi trường y tế để tạo giao diện điều chỉnh thiết bị y tế bằng giọng nói, tích hợp với AI chuyên gia."
+  ],
+  "stars": 43312,
+  "starsToday": 260,
+  "language": "JavaScript",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-04T02:09:55.118Z"
+}
