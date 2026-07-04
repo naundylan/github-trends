@@ -1,0 +1,23 @@
+{
+  "id": "490d4bf2-cc1a-4d54-835d-4527206e4942",
+  "repo": "immich-app/immich",
+  "url": "https://github.com/immich-app/immich",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Một giải pháp quản lý ảnh và video self-hosted hiệu suất cao, được xây dựng với Flutter cho mobile app và NestJS/NodeJS cho backend, nhằm thay thế hoàn toàn Google Photos với khả năng dự phòng và truy cập nội bộ an toàn.",
+  "usecases": [
+    "Gia đình muốn lưu trữ và chia sẻ album ảnh, video trong nhà riêng một cách an toàn không phụ thuộc vào dịch vụ đám mây",
+    " Công ty nhỏ hoặc văn phòng cần hệ thống quản lý media nội bộ (intranet) cho nhân viên",
+    " Người dùng chuyển từ Google Photos tìm giải pháp tương tự nhưng không cần đăng nhập tài khoản Google"
+  ],
+  "ideas": [
+    "Tích hợp AI phân lớp ảnh thông minh (ví dụ: người, động vật, phong cảnh) và gắn tag tự động",
+    "Kết nối với blockchain để lưu trữ bản sao ảnh/video một cách phân tán an toàn",
+    "Tạo nên một 'metaverse gallery' ảo để người dùng duyệt ảnh trong không gian 3D thực tế",
+    "Sử dụng hệ thống để lưu trữ và quản lý dữ liệu LiDAR hay scan 3D từ thiết bị mới"
+  ],
+  "stars": 105357,
+  "starsToday": 308,
+  "language": "TypeScript",
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-07-04T10:52:09.781Z"
+}

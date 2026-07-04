@@ -1,0 +1,25 @@
+{
+  "id": "80d7433f-447c-4163-aa8a-b2a2c72e13a6",
+  "repo": "ctxrs/ctx",
+  "url": "https://github.com/ctxrs/ctx",
+  "category": "CLI Tool",
+  "summary": "Ctx là một công cụ dòng lệnh viết bằng Rust cho phép tìm kiếm và truy xuất lịch sử tương tác từ các AI coding agents như Claude, Codex, và Cursor đã thực hiện trên máy người dùng. Dự án giúp quản lý bộ nhớ và triển vọng của agent thông qua việc lưu trữ, chỉ mục và tái sử dụng các lịch sử làm việc, giải quyết vấn đề mất kiểm soát khi các agent sinh ra nhiều phiên làm việc độc lập.",
+  "usecases": [
+    "Developer làm việc với nhiều AI agents trong quá trình code hàng ngày, cần tìm lại prompt hoặc code snippet đã sử dụng trước đó để tránh lặp lại công việc",
+    "Data scientist muốn theo dõi và tái sử dụng các prompt phân tích dữ liệu đã tạo ra cho các project tương tự",
+    "Technical team cần xây dựng knowledge base nội bộ từ các tương tác AI đã ghi nhận, nhằm chia sẻ kiến thức giữa các thành viên",
+    "QA engineer sử dụng để ghi lại và phân tích các test case đã chạy thông qua AI agents, tạo report chất lượng"
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống IDE (như VS Code hay JetBrains) để hiển thị gợi ý code/context tự động dựa trên lịch sử tương tác AI khi đang làm việc trên file hiện tại",
+    "Kết hợp với vector database để tạo hệ thống RAG (Retrieval-Augmented Generation) nội bộ, nơi AI agents có thể hỏi và truy xuất thông tin từ quá khứ một cách ngữ nghĩ",
+    "Phát triển thành MCP (Model Context Protocol) server để các AI frameworks khác có thể dễ dàng truy xuất và quản lý context từ ctx",
+    "Tích hợp với hệ thống memory của các agent để tự động học hỏi từ các tương tác trước, xây dựng bản nháp hành vi thông minh",
+    "Kết nối với webhook để đồng bộ hóa lịch sử tương tác AI vào hệ thống quản lý dự án như Jira hay Notion, tự động tạo phiên bản ghi chép công việc"
+  ],
+  "stars": 567,
+  "starsToday": 244,
+  "language": "Rust",
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-07-04T10:52:09.781Z"
+}

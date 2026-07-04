@@ -1,0 +1,23 @@
+{
+  "id": "1d54e482-c48b-4651-8aa2-7364f69e95c1",
+  "repo": "chthollyphile/folia-major",
+  "url": "https://github.com/chthollyphile/folia-major",
+  "category": "UI/Component Library",
+  "summary": "Một ứng dụng web hiện đại sử dụng React và TypeScript, tập trung vào các hiệu ứng lyric animation cực đẹp cho trình duyệt nhạc local và Navidrome, đồng thời làm phương tiện third-party để phát nhạc từ Netease Music. ứng dụng hỗ trợ PWA để sử dụng offline và được tối ưu triển vọng bằng Vercel.",
+  "usecases": [
+    "Nhạc sĩ hoặc người yêu nhạc muốn xem lyric cùng hiệu ứng animation độc đáo khi nghe nhạc trên trình duyệt",
+    "Người dùng Navidrome tìm kiếm giao diện web đẹp mắt và trải nghiệm nghe nhạc trực tuyến",
+    " Developers muốn tích hợp player Netease Music vào website cá nhân hoặc dự án của họ"
+  ],
+  "ideas": [
+    "Kết hợp AI tạo ra lyric animation dựa trên cảm xúc hiện tại của người nghe",
+    "Tích hợp AR để hiệu ứng lyric hiện lên trên không gian thực tế",
+    "Biến lyric animation thành NFT để trao đổi trên thị trường blockchain",
+    "Tạo nên một nền tảng cộng đồng chia sẻ và tạo custom lyric animation với AI"
+  ],
+  "stars": 908,
+  "starsToday": 319,
+  "language": "TypeScript",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-04T10:52:09.781Z"
+}

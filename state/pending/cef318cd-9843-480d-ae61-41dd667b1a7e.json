@@ -1,0 +1,23 @@
+{
+  "id": "cef318cd-9843-480d-ae61-41dd667b1a7e",
+  "repo": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "category": "AI/LLM",
+  "summary": "Một 'design language' được xây dựng ra để định hướng cho các AI hiểu và tạo ra các giao diện người dùng chuẩn xác và hiệu quả hơn, giúp các hệ thống AI vận hành tốt hơn trong lĩnh vực thiết kế và giao diện người dùng.",
+  "usecases": [
+    "UI/UX Designer muốn có ngôn ngữ chung để phối hợp với AI trong quá trình tạo layout và component",
+    "Product Manager cần đề xuất ý tưởng giao diện người dùng dựa trên ngôn ngữ thiết kế định chuẩn",
+    " Developer xây dựng giao diện người dùng động bằng AI sử dụng Impeccable làm framework gốc"
+  ],
+  "ideas": [
+    "Xây dựng một 'AI Designer Companion' có khả năng sinh ra hoàn chỉnh các giao diện theo yêu cầu tự nhiên",
+    "Kết hợp với công nghệ AR để AI gợi ý thiết kế trực tiếp lên màn hình thực tế",
+    "Tạo nên một ngôn ngữ thiết kế 'song cùng' giúa con người và AI qua blockchain đảm bảo tính bảo mật",
+    "Ứng dụng vào thiết kế giao diện cho xe tự lái hoặc hệ thống AI siêu nhỏ (edge AI) với tài nguyên hạn chế"
+  ],
+  "stars": 43381,
+  "starsToday": 260,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-04T10:52:09.781Z"
+}

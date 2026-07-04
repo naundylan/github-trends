@@ -1,0 +1,25 @@
+{
+  "id": "67176a98-8bdd-47aa-9925-a2b94be4b24c",
+  "repo": "asgeirtj/system_prompts_leaks",
+  "url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ sưu tập prompt system được trích xuất từ các mô hình AI hàng đầu như Claude, GPT, Gemini và Grok. Tài liệu này cung cấp cái nhìn sâu sắc về cách các hệ thống AI nội bộ thiết lập hướng dẫn và hành vi, phục vụ cho nghiên cứu và phát triển các ứng dụng AI tiên tiến.",
+  "usecases": [
+    "Nhà nghiên cứu AI sử dụng để phân tích hành vi nội bộ của các mô hình ngôn ngữ lớn",
+    "Lập trình viên phát triển prompt tối ưu cho ứng dụng chatbot chuyên nghiệp",
+    "Giáo viên giảng dạy về kỹ thuật lập trình prompt và AI agent",
+    "Công ty phần mềm tham khảo thiết kế hệ thống prompt chuẩn hóa"
+  ],
+  "ideas": [
+    "Xây dựng hệ thống AI agent tự học và cập nhật prompt system từ nguồn công khai",
+    "Tích hợp với mô hình phân tích cảm xúc để tối ưu hóa prompt theo ngữ cảnh người dùng",
+    "Tạo ra một nền tảng so sánh prompt system giữa các nhà cung cấp AI khác nhau",
+    "Phát triển công cụ tự động hóa việc thử nghiệm A/B các prompt system cho hiệu quả tối ưu",
+    "Kết hợp với công nghệ blockchain để tạo ra kho dữ liệu prompt phiên bản công khởng"
+  ],
+  "stars": 48377,
+  "starsToday": 432,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T10:52:09.781Z"
+}

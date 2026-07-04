@@ -1,0 +1,24 @@
+{
+  "id": "add8b2fc-def2-47b3-a8f0-3cb1d413cb2a",
+  "repo": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "category": "Developer Tool",
+  "summary": "Bộ công cụ shell script được các kỹ sư thực phân phát, bao gồm các lệnh và workflow thiết thực từ thực tế sử dụng hàng ngày. Tập hợp các kỹ rěuton lệnh shell tối ưu để tăng tốc độ làm việc cho các kỹ sư backend, DevOps và data scientists.",
+  "usecases": [
+    "DevOps engineers thiết lập môi trường CI/CD nhanh chóng với các script tiền định dạng",
+    "Backend developers quản lý database và deployment thông qua các lệnh shell chuẩn",
+    "Data scientists xử lý dữ liệu và chạy pipeline ETL bằng các công cụ shell đã được chọn lọc",
+    " Freelancers tiết kiệm thời gian setup môi trường mới bằng các template script"
+  ],
+  "ideas": [
+    "Tích hợp với GitHub Copilot để đề xuất script tự động dựa trên context công việc",
+    "Tạo MCP server để các AI agent hiểu và sử dụng các shell command này",
+    "Phát triển thành CLI tool chạy trên browser với sandbox execution",
+    "Kết hợp với Terraform để tạo 'Infrastructure as Code Snippets Library'"
+  ],
+  "stars": 156000,
+  "starsToday": 1289,
+  "language": "Shell",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-04T10:52:09.781Z"
+}

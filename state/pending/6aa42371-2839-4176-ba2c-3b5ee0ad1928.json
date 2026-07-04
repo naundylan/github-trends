@@ -1,0 +1,25 @@
+{
+  "id": "6aa42371-2839-4176-ba2c-3b5ee0ad1928",
+  "repo": "ChromeDevTools/chrome-devtools-mcp",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "category": "AI Agent/Automation",
+  "summary": "Một máy chủ MCP (Model Context Protocol) cho phép các AI agent điều khiển và tương tác với Chrome DevTools một cách đầy đủ. Công cụ này biến Chrome thành một nền tảng lập trình học sức mạnh lớn cho các agent thực hiện debugging, kiểm thử và phân tích mã một cách tự động.",
+  "usecases": [
+    "Kỹ sư kiểm thử tự động hóa việc chạp nhận các ứng dụng web phức tạp",
+    "Nhà phát triển phát triển extension AI trình duyệt tích hợp sẵn các công cụ gỡ lỗi",
+    "Công ty an ninh thông tin thực hiện xâm nhập kiểm tra ứng dụng web một cách có chủ động",
+    "Trường đại học giảng dạy cho sinh viên về hệ thống tự động hóa phân tích mã nguồn"
+  ],
+  "ideas": [
+    "Xây dựng AI agent có khả năng tự sửa lỗi code trong trình duyệt dựa trên phân tích runtime",
+    "Tạo ra hệ thống giám sát thời gian thực các tương tác web và đề xuất tối ưu hóa",
+    "Phát triển công cụ khám phá và ánh xạ hoàn chỉnh cấu trúc DOM và API của trang web",
+    "Kết hợp với AI đa ngôn ngữ tạo ra báo cáo lỗi tự động bằng tiếng Việt, tiếng Anh và các ngôn ngữ khác",
+    "Thiết lập mạng lưới agent chia sẻ quy trình debug và giải pháp giữa các trình duyệt khác nhau"
+  ],
+  "stars": 45605,
+  "starsToday": 405,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T10:52:09.781Z"
+}

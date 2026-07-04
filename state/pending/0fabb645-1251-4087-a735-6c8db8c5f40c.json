@@ -1,0 +1,25 @@
+{
+  "id": "0fabb645-1251-4087-a735-6c8db8c5f40c",
+  "repo": "agentskills/agentskills",
+  "url": "https://github.com/agentskills/agentskills",
+  "category": "AI Agent/Automation",
+  "summary": "Tài liệu chuẩn hóa và đặc spéc cho các kỹ năng của AI agent, định nghĩa cách các agent có thể trao đổi và thực thi các nhiệm vụ phức tạp. Dự án đang phát triển một ngôn ngữ chung giúp các AI agent tương tác như con người một cách thông minh và có cấu trúc.",
+  "usecases": [
+    "Nhà phát triển xây dựng hệ thống AI agent đa nhiệm vụ sử dụng chung thư mục kỹ năng",
+    "Doanh nghiệp quản lý và phân phát kỹ năng AI giữa các phòng ban khác nhau",
+    "Nghiên cứu sinh phát triển các thuật toán học tăng mạnh cho agent tương tác",
+    "Ủy ban nhà nước định nghĩa tiêu chuẩn an toàn cho AI agent trong dịch vụ công"
+  ],
+  "ideas": [
+    "Tạo ra thị trường kỹ năng AI phiếm giáa các agent từ các nhà phát triển khác nhau",
+    "Xây dựng hệ sinh thái kỹ năng được bảo mật bằng cryptography đám mâu thuẫn",
+    "Phát triển AI agent có khả năng tự đóng góp và chia sẻ kỹ năng vào kho chung",
+    "Kết hợp với công nghệ Web3 tạo ra hợp đồng thintel thông minh cho việc giao dịch kỹ năng",
+    "Thiết kế hệ thống AI agent chạy trên điện toán biên vẫn giữ được tính liên tục"
+  ],
+  "stars": 22150,
+  "starsToday": 406,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T10:52:09.781Z"
+}
