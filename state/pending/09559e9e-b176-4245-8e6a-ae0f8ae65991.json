@@ -1,0 +1,24 @@
+{
+  "id": "09559e9e-b176-4245-8e6a-ae0f8ae65991",
+  "repo": "immich-app/immich",
+  "url": "https://github.com/immich-app/immich",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Nền tảng quản lý ảnh và video self-hosted hiệu suất cao, làm thay thế hoàn toàn Google Photos với khả năng đồng bộ đầy đủ trên mobile, web và máy để bàn. Sử dụng Flutter cho mobile và NestJS cho backend.",
+  "usecases": [
+    "Gia đình dùng Immich để lưu trữ ảnh thân thương tư nhân, truy cập từ điện thoại và máy tính bảng",
+    "Doanh nghiệp nhỏ quản lý thư viện hình ảnh sản phẩm để bán hàng online thông qua hệ thống tự host",
+    "Nhiếp ạo sĩ tải và quản lý hàng ngàn ảnh chụp chuyên nghiệp trên máy chủ riêng của cá nhân",
+    "Du lịch tổ chức và chia sẻ album ảnh đi du lịch với bạn bè sử dụng app mobile Offline sync"
+  ],
+  "ideas": [
+    "Tích hợp AI facial recognition để tự động gắn thẻ và tìm kiếm người trong ảnh trên server cá nhân",
+    "Kết nối với drone để tự động download và tổ chức ảnh aerial chụp hàng ngày thành album GIS",
+    "Hệ thống lưu trữ ảnh nông nghiệp với AI phân tích và gắn nhãn tình trạng cây trồng theo mùa",
+    "Tích hợp với smart home để AI camera tự động upload và phân loại ảnh thành các event như 'có người đến cửa'"
+  ],
+  "stars": 105583,
+  "starsToday": 198,
+  "language": "TypeScript",
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-07-04T21:52:02.537Z"
+}

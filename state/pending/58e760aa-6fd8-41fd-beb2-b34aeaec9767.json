@@ -1,0 +1,22 @@
+{
+  "id": "58e760aa-6fd8-41fd-beb2-b34aeaec9767",
+  "repo": "alibaba/page-agent",
+  "url": "https://github.com/alibaba/page-agent",
+  "category": "AI Agent/Automation",
+  "summary": "Agent GUI dùng JavaScript chạy trên trang web, điều khiển giao diện dựa trên ngôn ngữ tự nhiên. Cho phép tương tác và điều khiển trình duyệt chỉ với lệnh văn bản.",
+  "usecases": [
+    "Tester muốn tự động hóa việc kiểm tra UI web bằng tiếng tự nhiên",
+    "Người dùng cần thao tác nhanh trên website mà không cần học selector",
+    "Developer muốn tạo demo interactive chỉ với lệnh thoại"
+  ],
+  "ideas": [
+    "Kết hợp với MCP để agent có thể truy cập vào nhiều website khác nhau một cách đồng nhất",
+    "Xây dựng hệ thống multi-agent chiến lược để các agent phối hợp điều khiển các tab browser khác nhau",
+    "Tích hợp vào môi trường VR để điều khiển web bằng cử chỉ tay hoặc giọng nói"
+  ],
+  "stars": 23039,
+  "starsToday": 726,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T21:52:02.537Z"
+}

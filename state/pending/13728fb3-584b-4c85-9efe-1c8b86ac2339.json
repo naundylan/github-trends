@@ -1,0 +1,24 @@
+{
+  "id": "13728fb3-584b-4c85-9efe-1c8b86ac2339",
+  "repo": "ChromeDevTools/chrome-devtools-mcp",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "category": "Developer Tool",
+  "summary": "MCP server cho phép các AI agent tương tác và điều khiển hoàn toàn Chrome DevTools để thực hiện debugging, tương tác với trang web và thu thập thông tin từ trình duyệt. Dự án kết nối giữa AI và môi trường phát triển thực tế thông qua Puppeteer.",
+  "usecases": [
+    "Developer sử dụng AI agent để debug ứng dụng web bằng cách điều khiển Chrome DevTools qua lệnh tự nhiên",
+    "QA engineer triển khai hệ thống test tự động hóa với AI phân tích hành vi người dùng trên trình duyệt",
+    "Frontend developer nhận diện lỗi UI/UX bằng AI scan và report trực tiếp từ DevTools",
+    "Site reliability engineer monitor hiệu suất web app qua AI phân tích network và performance metrics"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Copilot để AI tự động sửa lỗi dựa trên phân tích console errors và network issues",
+    "Tích hợp AI agent vào CI/CD pipeline để tự động chụp ảnh màn hình và verify UI trước khi deploy",
+    "Tạo hệ thống 'AI pair debugging' - AI đồng hành developer trong phiên debug thời gian thực",
+    "Ứng dụng cho phép AI agent tự học và tối ưu hóa code dựa trên phân tích performance profiling từ DevTools"
+  ],
+  "stars": 45745,
+  "starsToday": 303,
+  "language": "TypeScript",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-04T21:52:02.537Z"
+}

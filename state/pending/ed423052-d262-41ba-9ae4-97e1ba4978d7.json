@@ -1,0 +1,24 @@
+{
+  "id": "ed423052-d262-41ba-9ae4-97e1ba4978d7",
+  "repo": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "category": "UI/Component Library",
+  "summary": "Framework ngôn ngữ thiết kế giúp các hệ thống AI tạo ra giao diện người dùng nhất quán và tối ưu hơn, tương tác tốt với bộ dịch thuật và context hiện tại. Đây là bước đi tiên phong trong việc chuẩn hóa thiết kế cho AI generation.",
+  "usecases": [
+    "UI/UX designer dùng Impeccable để định hướng AI tạo component với hệ số nén và hợp lý tương ứng",
+    "Product manager xây dựng design system cho app thương mại điện tử với AI đảm bảo tính nhất quán",
+    "Mobile app developer tạo giao diện cài đặt (settings) và form đăng nhập bằng AI với Impeccable guidance",
+    "Figma designer làm việc cùng AI để tối ưu hóa bố cục và typography scale cho các thiết kế responsive"
+  ],
+  "ideas": [
+    "Kết hợp với Figma để AI tự động generate design tokens và style guides từ các component đã tạo",
+    "Tạo ra 'design language model' có thể export sang các framework như Material-UI, Ant Design hay Tailwind",
+    "Ứng dụng trong thực tế phức tạp như cockpit máy bay hoặc bảng điều khiển bệnh viện với AI đồng bộ hóa giao diện",
+    "Hệ thống AI agent tự học Impeccable guidelines để thiết kế giao diện cho người cao tuổi hoặc trẻ em"
+  ],
+  "stars": 43472,
+  "starsToday": 218,
+  "language": "JavaScript",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-04T21:52:02.537Z"
+}

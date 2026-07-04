@@ -1,0 +1,22 @@
+{
+  "id": "e60c802f-e135-49d0-b0d7-68dc4604fb38",
+  "repo": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "category": "Developer Tool",
+  "summary": "Bộ kỹ năng shell scripting và commands thực tế từ chính chủ sở hữu Claude Code. Gồm các snippet và tips giúp các engineer tiết kiệm thời gian làm việc với CLI hàng ngày.",
+  "usecases": [
+    "Developer muốn tối ưu hóa workflow làm việc với terminal và shell scripts",
+    "Engineer cần học các lệnh shell thực tế từ kinh nghiệm thực tế",
+    "Người học lập trình cần tham khảo các ví dụ shell phức hợp"
+  ],
+  "ideas": [
+    "Kết tinh những kỹ năng này vào một AI coding assistant để tự động gợi ý lệnh shell dựa trên context hiện tại",
+    "Tích hợp vào IDE như VSCode tạo autocomplete cho shell commands với hình ảnh minh họa",
+    "Xây dựng hệ thống ghi chú cá nhân dùng AI để tóm tắt và tìm kiếm các snippet shell theo thời gian"
+  ],
+  "stars": 156488,
+  "starsToday": 1013,
+  "language": "Shell",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-04T21:52:02.536Z"
+}

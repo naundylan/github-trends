@@ -1,0 +1,25 @@
+{
+  "id": "3fc527a2-4e23-46d5-a27a-3add5db8a550",
+  "repo": "chthollyphile/folia-major",
+  "url": "https://github.com/chthollyphile/folia-major",
+  "category": "UI/Component Library",
+  "summary": "Một trình player nhạc ngoại tuyến đầy thị vision với hiệu ứng lyric hoạt động động, được xây dựng trên nền tảng React và TypeScript. ứng dụng hướng đến việc mang lại trải nghiệm nghe nhạc tương tác và trực quan, kết hợp công nghệ PWA cho khả năng cài đặt trên thiết bị di động.",
+  "usecases": [
+    "Người dùng cá nhân sử dụng để nghe nhạc cá nhân với trải nghiệm lyric hình ảnh đẹp mắt",
+    "Người yêu nhạc truyền thống kết hợp với Navidrome để tạo thư viện âm nhạc cá nhân hóa",
+    "Nhà phát triển web học tập các kỹ thuật animation và thiết kế giao diện người dùng tiên tiến",
+    "Công ty phần mềm âm nhạc tích hợp các thành phần UI linh hoạt vào ứng dụng của họ"
+  ],
+  "ideas": [
+    "Kết hợp AI tạo lyric thời gian thực dựa trên phong cách âm bạc và tâm trạng người dùng",
+    "Phát triển phiên bản AR cho phép lyric bay lượn xung quanh người dùng khi nghe nhạc",
+    "Tích hợp với hệ thống nhạc thông minh để tự động điều chỉnh hiệu ứng lyric phù hợp với từng bài hát",
+    "Tạo nền tảng cộng đồng chia sẻ và thiết kế custom lyric animation với hệ thống đánh giá",
+    "Xây dựng phiên bản phiên bản thông minh với khả năng học hỏi cá nhân hóa từ hành vi người dùng"
+  ],
+  "stars": 975,
+  "starsToday": 319,
+  "language": "TypeScript",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-04T21:52:02.537Z"
+}

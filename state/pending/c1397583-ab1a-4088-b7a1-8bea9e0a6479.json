@@ -1,0 +1,25 @@
+{
+  "id": "c1397583-ab1a-4088-b7a1-8bea9e0a6479",
+  "repo": "asgeirtj/system_prompts_leaks",
+  "url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "category": "AI/LLM",
+  "summary": "Bộ sưu tập các prompt hệ thống (system prompts) được trích xuất từ các mô hình ngôn ngữ lớn như Claude, GPT, Gemini, Grok và các công cụ lập trình. Đây là tài liệu tham khảo quan trọng cho nghiên cứu và phát triển ứng dụng AI, giúp người dùng hiểu cách các hệ thống AI được cấu hình và tối ưu hóa prompt kỹ thuật.",
+  "usecases": [
+    "Nhà nghiên cứu AI sử dụng để phân tích và so sánh các chiến lược prompt giữa các mô hình khác nhau",
+    "Nhà phát triển ứng dụng AI học hỏi cách thiết kế prompt tối ưu cho từng nhiệm vụ cụ thể",
+    "Giáo viên và học sinh học tập về kỹ thuật prompt engineering và các pattern thiết kế hệ thống AI",
+    "Công ty phần mềm tích hợp các prompt mẫu để nâng cao khả năng chuyên môn của chatbot nội bộ"
+  ],
+  "ideas": [
+    "Xây dựng hệ thống AI agent tự động cập nhật và điều chỉnh prompt dựa trên phân tích thời gian thực các xu hướng mới nhất",
+    "Kết hợp với công nghệ RAG để tạo ra prompt động thích ứng với ngữ cảnh người dùng cụ thể",
+    "Phát triển một nền tảng so sánh prompt hiệu quả giữa Claude, GPT và Gemini với trọng trọng số cá nhân hóa",
+    "Tích hợp vào hệ thống giảng dạy trực tuyến để AI tutor tự động chọn prompt phù hợp với từng học sinh",
+    "Tạo mô hình siêu thị trường (super-prompt) kết hợp tối ưu hóa các prompt từ nhiều nguồn để đạt hiệu suất tối đa"
+  ],
+  "stars": 48831,
+  "starsToday": 432,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-04T21:52:02.537Z"
+}

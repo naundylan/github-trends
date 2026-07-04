@@ -1,0 +1,25 @@
+{
+  "id": "c50836fc-ab4f-4dc8-9c04-a8fdef4912c6",
+  "repo": "coreyhaines31/marketingskills",
+  "url": "https://github.com/coreyhaines31/marketingskills",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ kỹ năng marketing chuyên sâu cho AI agents như Claude Code, bao gồm CRO, copywriting, SEO, phân tích và growth engineering. Dự án cung cấp framework để AI thực hiện các chiến lược marketing một cách có chủ đề và hiệu quả.",
+  "usecases": [
+    "Nhà tiếp thị tích hợp AI agents vào campaign quảng bá sản phẩm để tối ưu hóa chi phí và tốc độ",
+    "Các công ty SaaS nhỏ muốn tự động hóa quy trình content marketing và lead generation bằng AI",
+    "Các nhà phát triển xây dựng plugin marketing tự động cho nền tảng AI như Discord bots hoặc CRM integrations",
+    "Các agency marketing muốn đào tạo nhân viên thực hành với các kỹ thuật marketing hiện đại dùng AI"
+  ],
+  "ideas": [
+    "Kết hợp với AI video generation để tạo quảng cáo TikTok/Shorts tự động hóa hoàn chỉnh dựa trên sản phẩm",
+    "Tích hợp với decentralized identity (DID) để AI agents cá nhân hóa marketing campaign cho từng người dân cả trong và ngoài Web3",
+    "Xây hệ thống AI agents chạy trên blockchain với token rewards để tự động trao đổi dịch vụ marketing giữa các công ty",
+    "Tỏa bản đồ marketing skills ra ngoài thành môi trường metaverse 3D để AI agents tương tác marketing trong không gianảng đảo thực tế ảo",
+    "Phát triển mô hình AI agents làm chủ đề marketing cho từng ngành nghề cụ thể, có khả nỡếp thương mại vài phức tạp đa ngành"
+  ],
+  "stars": 36094,
+  "starsToday": 117,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T21:52:02.537Z"
+}
