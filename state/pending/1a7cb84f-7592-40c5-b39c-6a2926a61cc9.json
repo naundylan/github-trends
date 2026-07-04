@@ -1,0 +1,24 @@
+{
+  "id": "1a7cb84f-7592-40c5-b39c-6a2926a61cc9",
+  "repo": "ryanmcdermott/clean-code-javascript",
+  "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+  "category": "Documentation/Learning Resource",
+  "summary": "Tài liệu học về các nguyên tắc Clean Code được điều chỉnh và áp dụng riêng cho ngôn ngữ JavaScript, giúp các nhà phát triển viết mã sạch sẽ và dễ bảo trì hơn.",
+  "usecases": [
+    "Nhà phát triển JavaScript mới học tập và muốn nâng cao kỹ năng viết mã chất lượng",
+    "Các team lead muốn thiết lập coding standards và best practices cho dự án",
+    "Giảng viên giảng dạy lập trình JavaScript tìm tài liệu tham khảo về clean code",
+    "Kỹ sư cần tham khảo để tối ưu hóa và tái sử dụng mã nguồn trong các ứng dụng lớn"
+  ],
+  "ideas": [
+    "Kết hợp với AI-powered code reviewer để tự động phát hiện vi phạm clean code chỉ ra phân tích sâu nhất về mùi mã",
+    "Tích hợp vào nền tảng học trực tuyến với hệ thống bài tập code có feedback tức thì",
+    "Tạo phiên bản tương tác dòng lệnh giúp developers chạy kiểm tra mã nguồn theo các nguyên tắc clean code",
+    "Xây dựng browser extension tự động gợi ý cải thiện mã khi đang viết code trong IDE"
+  ],
+  "stars": 94675,
+  "starsToday": 164,
+  "language": "JavaScript",
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-07-04T13:08:07.841Z"
+}

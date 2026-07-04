@@ -1,0 +1,24 @@
+{
+  "id": "76cd55f4-0210-4616-b85e-185a4493d9e8",
+  "repo": "huggingface/speech-to-speech",
+  "url": "https://github.com/huggingface/speech-to-speech",
+  "category": "AI/LLM",
+  "summary": "Thư viện giúp xây dựng các agent thoại địa phương sử dụng các mô hình mở nguồn, bao gồm các tính năng chuyển đổi giọng nói, tổng hợp giọng nói và dịch thuần thanh thành văn bản hoặc giọng nói khác.",
+  "usecases": [
+    "Nhà phát triển tạo chatbot hỗ trợ qua điện thoại hoặc tin nhắn voice cho khách hàng",
+    "Nghiên cứu viên nghiên cứu xử lý và sinh ra giọng nói tổng tát trong các mô hình AI",
+    "Doanh nghiệp phát triển hệ thống tự động hóa quy trình sử phục vụ khách hàng 24/7",
+    "Giáo dục từ xa tạo công cụ chuyển đổi giọng nói thành văn bản cho học sinh"
+  ],
+  "ideas": [
+    "Kết hợp với công nghệ AR/VR tạo bộ trò chơi tương tác bằng giọng nói trong không gian 3D",
+    "Ứng dụng cho người khuyết tật nghe để biến thành công cụ hỗ trợ giao tiếp thông minh",
+    "Tích hợp vào xe tự lái để hệ thống lắng nghe và phản hồi bằng giọng nói một cách tự nhiên",
+    "Tạo nền tảng podcast tự động sinh ra nội dung từ các trang web dịch thuật giọng nói chuyên nghiệp"
+  ],
+  "stars": 5274,
+  "starsToday": 162,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-04T13:08:07.841Z"
+}

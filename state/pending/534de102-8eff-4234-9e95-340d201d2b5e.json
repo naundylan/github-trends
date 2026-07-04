@@ -1,0 +1,23 @@
+{
+  "id": "534de102-8eff-4234-9e95-340d201d2b5e",
+  "repo": "yorukot/superfile",
+  "url": "https://github.com/yorukot/superfile",
+  "category": "CLI Tool",
+  "summary": "Trình quản lý tệp hiện đại và trực quan chạy trên terminal, mang đến trải nghiệm người dùng thú vị với giao diện TUI hiện đại. Hướng tới việc biến thế quản lý tệp trong terminal thành một trải nghiệm như trong GUI traditional nhưng vẫn giữ được tính năng của command line.",
+  "usecases": [
+    "Developer thường xuyên sử dụng terminal để quản lý dự án mã nguồn trên máy local hoặc server",
+    "Sysadmin cần giao diện trực quan khi thao tác với hệ thống tệp trên server Linux",
+    "Người dùng yêu thích terminal muốn quản lý tệp nhanh chóng mà không cần bật cửa sổ file explorer"
+  ],
+  "ideas": [
+    "Tích hợp trí tuệ nhân tạo để phân lớp tệp thông minh và gợi ý hành động dựa trên thói quen sử dụng",
+    "Kết nối với đám mây như AWS S3 hay Google Drive để quản lý tệp đám mây ngay trong terminal",
+    "Phát triển thành hệ thống file manager phân tán cho phép đồng bộ hóa tệp giữa nhiều thiết bị",
+    "Tích hợp blockchain để tạo hệ thống lưu trữ phiên phiết với khả năng theo vết và bảo mật cao"
+  ],
+  "stars": 18341,
+  "starsToday": 176,
+  "language": "Go",
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-07-04T13:08:07.840Z"
+}

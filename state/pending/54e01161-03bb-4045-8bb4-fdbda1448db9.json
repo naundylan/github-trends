@@ -1,0 +1,22 @@
+{
+  "id": "54e01161-03bb-4045-8bb4-fdbda1448db9",
+  "repo": "Chocobozzz/PeerTube",
+  "url": "https://github.com/Chocobozzz/PeerTube",
+  "category": "Web Framework",
+  "summary": "PeerTube là nền tảng streaming video phi-decentralization sử dụng ActivityPub và P2P để trực tiếp phát video trong trình duyệt mà không cần đăng ký hay quảng cáo. Hệ thống cho phép mọi người có thể chạy node riêng và kết nối với nhau tạo thành mạng lưới video độc lập.",
+  "usecases": [
+    "Nhà giáo dục hosting course videos trên server riêng không lo bị cắt đứt do nền tảng lớn",
+    "NGười ở Myanmar chia sẻ video trong tự do mà không bị kiểm duyệt bởi government firewall",
+    "Community tại địa phương tạo kênh video để lưu trữ và phân phối nội dung địa phương"
+  ],
+  "ideas": [
+    "Kết hợp PeerTube với Web3 identity để tạo ra 'reputation-based content moderation' không cần central authority",
+    "Xây dựng 'time-series video network' phân phát dữ liệu môi trường theo thời gian thực qua P2P",
+    "Tạo 'video DAO' nơi cộng đồng tự quyết về nội dung và kiếm tiền thông qua token reward system"
+  ],
+  "stars": 15055,
+  "starsToday": 223,
+  "language": "TypeScript",
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-07-04T13:08:07.840Z"
+}

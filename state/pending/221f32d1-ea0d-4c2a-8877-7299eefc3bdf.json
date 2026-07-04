@@ -1,0 +1,24 @@
+{
+  "id": "221f32d1-ea0d-4c2a-8877-7299eefc3bdf",
+  "repo": "openai/codex",
+  "url": "https://github.com/openai/codex",
+  "category": "AI Agent/Automation",
+  "summary": " một coding agent nhẹ chạy trực tiếp trong terminal, giúp tự động hóa các tác vụ lập trình và hỗ trợ developers trong việc viết, sửa đổi và tối ưu hóa mã nguồn.",
+  "usecases": [
+    "Developers sử dụng để tự động tạo và chỉnh sửa code dựa trên mô tả bằng ngôn ngữ tự nhiên",
+    "Team DevOps tích hợp vào quy trình CI/CD để tự động hóa việc code review và fix lỗi",
+    "Sinh viên học lập trình nhận sự trợ giúp từ Codex khi giải quyết bài tập",
+    "Các công ty phần mềm sử dụng để giảm thiểu thời gian phát triển và tăng hiệu suất team"
+  ],
+  "ideas": [
+    "Kết hợp với trình duyệt web tạo thành AI pair programmer hoàn chỉnh trong môi trường phát triển",
+    "Ứng dụng trong môi trường blockchain để tự động tạo thông bối hợp tác thông minh giữa các hợp đồng",
+    "Tích hợp vào hệ thống quản lý dự án tự động phân tích yêu cầu và generate code prototype",
+    "Tạo nền tảng mã hóa collaborative nơi nhiều AI agent cùng nhau viết và tối ưu hóa dự án"
+  ],
+  "stars": 95454,
+  "starsToday": 159,
+  "language": "Rust",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T13:08:07.841Z"
+}

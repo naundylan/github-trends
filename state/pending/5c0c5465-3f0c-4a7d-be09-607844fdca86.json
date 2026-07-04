@@ -1,0 +1,25 @@
+{
+  "id": "5c0c5465-3f0c-4a7d-be09-607844fdca86",
+  "repo": "alirezarezvani/claude-skills",
+  "url": "https://github.com/alirezarezvani/claude-skills",
+  "category": "Developer Tool",
+  "summary": "Thư viện lớn các kỹ năng (skills) và plugin được thiết kế riêng cho các AI coding agents như Claude Code, Cursor, Codex, Gemini CLI. Bộ sưu tập này bao gồm hơn 300 lệnh tùy chỉnh và kỹ năng chuyên sâu cho các lĩnh vực kỹ thuật, kinh doanh, marketing và quản lý, giúp tối ưu hóa năng suất làm việc của các nhà phát triển và chuyên gia.",
+  "usecases": [
+    "SaaS developers sử dụng Cursor/Cline để tích hợp các kỹ năng engineering và code review vào workflow hàng ngày",
+    "Technical leaders và product managers dùng Claude Code với các skill tư vấn c-level và phân tích sản phẩm",
+    "Marketing tech teams áp dụng các kỹ năng chuyên sâu cho campaign optimization và content generation",
+    "Data scientists và researchers sử dụng Gemini CLI với các plugin nghiên cứu và phân tích dữ liệu"
+  ],
+  "ideas": [
+    "Kết hợp với các IDE như VS Code hay JetBrains để tạo ra 'smart assistant panel' hiển thị context-aware suggestions trực tiếp trong môi trường làm việc",
+    "Xây dựng hệ thống 'skill chaining' cho phép các AI agent thực hiện workflow phức tạp theo trình tự logic như một chuyên gia nội bộ",
+    "Tích hợp với hàng trăm dự án mở để tạo ra 'AI pair programming platform' đa ngôn ngữ hỗ trợ toàn bộ vòng đời phát triển phần mềm từ design đến deployment",
+    "Phát triển 'skill marketplace' nơi cộng đồng có thể chia sẻ và trao đổi các bộ kỹ năng chuyên ngành như thương hiệu SaaS hay fintech",
+    "Tạo ra môi trường vùng đền đực để các agent chạy hoàn toàn offline với các skill đã được đóng gói sẵn, phù hợp cho doanh nghiệp có nhu cầu bảo mật cao"
+  ],
+  "stars": 19948,
+  "starsToday": 130,
+  "language": "Python",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-04T13:08:07.841Z"
+}
