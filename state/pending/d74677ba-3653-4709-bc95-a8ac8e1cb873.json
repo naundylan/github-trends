@@ -1,0 +1,24 @@
+{
+  "id": "d74677ba-3653-4709-bc95-a8ac8e1cb873",
+  "repo": "freeCodeCamp/freeCodeCamp",
+  "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+  "category": "Documentation/Learning Resource",
+  "summary": "Nền tảng học lập trình mở nguồn miễn phí với curriculum đầy đủ kể từ cơ bản đến nâng cao. Bao gồm các chủ đề math, programming và kỹ thuật số.",
+  "usecases": [
+    "Học sinh trung học muốn học lập trình từ đầu miễn phí",
+    "Người đi làm muốn chuyển đổi nghề nghiệp vào lĩnh vực công nghệ",
+    "Giáo viên muốn tìm tài liệu học tập chất lượng cho lớp học",
+    "Người học từ xa cần chứng chỉ hành chính để phù hợp xin việc"
+  ],
+  "ideas": [
+    "Xây dựng trường đại học không giới hạn sử dụng nội dung từ freeCodeCamp",
+    "Tạo nền tảng đào tạo kỹ năng mềm cho doanh nghiệp sử dụng AI cá nhân hóa",
+    "Phát triển hàng ngàn trung tâm học bổng dự án cục bằng chứng tỪ số",
+    "Xây dựng hệ sinh thái kiến thức không gian VR để học tập tương tác"
+  ],
+  "stars": 451013,
+  "starsToday": 167,
+  "language": "TypeScript",
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-07-04T06:14:13.239Z"
+}

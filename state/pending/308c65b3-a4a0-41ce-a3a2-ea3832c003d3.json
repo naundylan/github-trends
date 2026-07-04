@@ -1,0 +1,25 @@
+{
+  "id": "308c65b3-a4a0-41ce-a3a2-ea3832c003d3",
+  "repo": "huggingface/speech-to-speech",
+  "url": "https://github.com/huggingface/speech-to-speech",
+  "category": "AI/LLM",
+  "summary": "Thư viện mã nguồn mở cho phép xây dựng các agent giọng nói địa phương với các mô hình AI tiên tiến, bao gồm speech recognition, text-to-speech và voice translation. Dự án cung cấp các API và pipelines hoá học để các nhà phát triển dễ dàng tích hợp tính năng speech vào ứng dụng của họ.",
+  "usecases": [
+    "Nhà phát triển ứng dụng healthcare xây dựng hệ thống trợ lý âm thanh cho bệnh nhân gọi đặt thuốc",
+    "Công ty du lịch tạo chatbot tự nói bằng tiếng địa phương cho du khách tham quan",
+    "Nhà nghiên cứu NLP nghiên cứu các mô hình dịch thuật giọng nói chính xác trong môi trường thực",
+    "Công ty fintech phát triển hệ thống nghe nhận lệnh giao dịch bằng giọng nói cho trader chuyên nghiệp"
+  ],
+  "ideas": [
+    "Kết hợp với haptic feedback tạo hệ thống trợ lý hoàn chỉnh cho người mắc tật thị thần",
+    "Xây dựng mô hình siếu nhật ngữ phiên bản nhanh chóng dịch giọng nói realtime giữa các ngôn ngữ",
+    "Tích hợp vào xe tự lái để hệ thống nghe và phản hồi bằng giọng nói của người lái trong tương lai",
+    "Tạo nền tảng social audio AI sinh tạo với hàng ngàn giọng nói khác nhau cho podcast và livestream",
+    "Phát triển hệ thống biên dịch ngôn ngữ cử người thật sang code chạy trên serverless functions"
+  ],
+  "stars": 5256,
+  "starsToday": 162,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-04T06:14:13.239Z"
+}

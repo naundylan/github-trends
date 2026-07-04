@@ -1,0 +1,25 @@
+{
+  "id": "5bb28287-721d-4415-90bc-6bbd9864134c",
+  "repo": "ryanmcdermott/clean-code-javascript",
+  "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+  "category": "Documentation/Learning Resource",
+  "summary": "Tài liệu tham khảo chuyên sâu các nguyên tắc Clean Code được di chuyển vào JavaScript với các ví dụ thực tế và giải thích rõ ràng. Dự án làm sạch hóa và chuẩn hóa các nguyên tắc lập trình sạch cho thế hệ JavaScript developers, bao gồm composition, inheritance và các pattern tốt nhất.",
+  "usecases": [
+    "Lập trình viên JavaScript mới học để nắm bắt các nguyên tắc viết code sạch và dễ bảo trì từ cơ bản",
+    "Các team lead muốn áp dụng coding standards nhất quyết vào dự án frontend và backend Node.js",
+    "Giảng viên giảng dạy về software engineering cần tài liệu tham khảo với ví dụ cụ thể bằng JavaScript",
+    "Nhà quản lý công ty phần mềm đánh giá và cải thiện chất lượng mã nguồn trước khi bàn giao sản phẩm"
+  ],
+  "ideas": [
+    "Tích hợp với ESLint để tạo custom rules tự động kiểm tra các nguyên tắc Clean Code trong quá trình development",
+    "Xây dựng extension VS Code highlight những đoạn code vi phạp các quy tắc và gợi ý sửa ngay lập tức",
+    "Tạo AI coding assistant đọc hiểu repository này để tự động review code khi commit",
+    "Kết hợp với hệ thống CI/CD để blocking merge những PR không tuân thủ clean code standards",
+    "Phát triển mô hình AI fine-tune dựa trên các nguyên tắc này để tự động viết code sạch hơn"
+  ],
+  "stars": 94672,
+  "starsToday": 164,
+  "language": "JavaScript",
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-07-04T06:14:13.239Z"
+}

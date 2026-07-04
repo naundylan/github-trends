@@ -1,0 +1,25 @@
+{
+  "id": "adebe7e4-d9f9-4438-8418-4c1e7ebd6224",
+  "repo": "alirezarezvani/claude-skills",
+  "url": "https://github.com/alirezarezvani/claude-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ sưu tập khổng lồ các kỹ năng, agent và plugin được thiết kế riêng cho Claude Code và các AI coding agents khác, bao gồm hơn 300 kỹ năng cho kỹ thuật, marketing, tài chính và vận hành kinh doanh. Dự án cung cấp framework để tùy biến và mở rộng khả năng của các agent AI trong quy trình phát triển phần mềm.",
+  "usecases": [
+    "Các công ty phần mềm nhỏ muốn tự động hóa toàn bộ quy trình từ code đến deployment mà không cần quản lý trực tiếp",
+    "Các công ty tài chính cần AI agent đánh giá rủi ro thị trường và tạo báo cáo phân tích hàng ngày",
+    "Các nhà sản phẩm cần hệ thống tự động hóa việc thu thập ý kiến người dùng và cập nhật backlog",
+    "Các công ty logistics muốn tối ưu hóa chuỗi cung ứng thông qua AI agent phân tích dữ liệu thời gian thực"
+  ],
+  "ideas": [
+    "Tạo 'CEOBot' tự thân làm CEO chạy công ty hoàn toàn bằng các skills từ dự án này",
+    "Xây dựng hệ thống đa ngôn ngữ AI agent có khả năng trò chuyện và hợp tác như nhóm người thật",
+    "Phát triển mô hình 'Quantum Agent' chạy trên quantum computing tính toán các kỹ năng phức tạp trong tương lai",
+    "Tạo nền tảng 'Agent Swarm' để hàng ngàn AI agent cùng làm việc trên các dự án khác nhau trong song song",
+    "Xây dựng hệ thống AI sinh thái sốc - agent tự copy và tạo ra cháu ong chủ đầu cho từng lĩnh vực cụ thể"
+  ],
+  "stars": 19876,
+  "starsToday": 130,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-04T06:14:13.239Z"
+}

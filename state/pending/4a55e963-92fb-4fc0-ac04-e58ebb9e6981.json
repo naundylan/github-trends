@@ -1,0 +1,23 @@
+{
+  "id": "4a55e963-92fb-4fc0-ac04-e58ebb9e6981",
+  "repo": "Alishahryar1/free-claude-code",
+  "url": "https://github.com/Alishahryar1/free-claude-code",
+  "category": "AI/LLM",
+  "summary": "Đây là phiên bản mở source miễn phí của Claude Code, cho phép người dùng truy cập vào khả năng AI coding mạnh mẽ của Anthropic mà không cần đăng ký API key hay tài khoản trả phí. Hỗ trợ sử dụng trong terminal, VSCode extension và Discord với tính năng hỗ trợ voice.",
+  "usecases": [
+    "Sinh viên học lập trình dùng để thực hành code với sự trợ giúp của AI mà không tốn chi phí",
+    "Người dùng freelance trên toàn thế giới sử dụng để tiết kiệm chi phí API khi phát triển các dự án cá nhân",
+    "Câu lạc bộ lập trình sử dụng trong môi trường học tập để giảng viên và học sinh cùng khám phá AI coding"
+  ],
+  "ideas": [
+    "Phát triển thành nền tảng học trựng cho lập trình viên dùng AI để học tập miễn phí",
+    "Tích hợp với các nền tảng học trự online như Coursera hay Udemy để tạo trải nghiệm học tập thông minh",
+    "Kết nối với hệ thống chatbot Discord để tạo công cụ trợ lý lập trình 24/7 cho cộng đồng",
+    "Mở rộng hệ sinh thái để các nhà phát triển có thể đóng góp vào mô hình AI đều miễn phí"
+  ],
+  "stars": 38458,
+  "starsToday": 212,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-04T06:14:13.239Z"
+}

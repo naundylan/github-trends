@@ -1,0 +1,23 @@
+{
+  "id": "d274f8b7-2358-48a1-8048-9927143dbf0a",
+  "repo": "anthropics/claude-code",
+  "url": "https://github.com/anthropics/claude-code",
+  "category": "AI/LLM",
+  "summary": "Claude Code là công cụ AI thông minh chạy trực tiếp trong terminal, hiểu mã nguồn và giúp lập trình viên xây dựng phần mềm nhanh hơn thông qua các lệnh ngôn ngữ tự nhiên. Công cụ thực hiện các tác vụ lặp lại, giải thích mã phức tạp và quản lý workflow git một cách tự động hóa.",
+  "usecases": [
+    "Lập trình viên sử dụng để tạo và chỉnh sửa mã nguồn nhanh chóng thông qua lệnh giản ngôn ngữ tự nhiên",
+    "Kỹ thuật viên sử dụng để phân tích và tài liệu hóa codebase phức tạp một cách tự động",
+    "Nhóm phát triển sử dụng để quản lý git workflow và resolve conflict một cách hiệu quả"
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống CI/CD để tự động generate và deploy code khi nhận được yêu cầu từ người dùng",
+    "Kết hợp với IDE VSCode tạo thành hệ sinh thái hoàn chỉnh giữa AI và người lập trình",
+    "Ứng dụng trong dự án học máy để AI tự động sửa lỗi mã nguồn dựa trên feedback từ testing",
+    "Mở rộng để hỗ trợ đa ngôn ngữ lập trình trong một công cụ duy nhất"
+  ],
+  "stars": 135920,
+  "starsToday": 221,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-04T06:14:13.239Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "dcb36190-1e58-4c84-97b5-13879e36c5ee",
+  "repo": "decolua/9router",
+  "url": "https://github.com/decolua/9router",
+  "category": "AI/LLM",
+  "summary": "Gateway AI miễn phí kết nối 40+ nhà cung cấp mô hình AI với tính năng auto-fallback và tối ưu token giảm 40%. Cho phép các công cụ coding như Cursor, Copilot truy cập AI miễn phí.",
+  "usecases": [
+    "Lập trình viên dùng Cursor/Cline để code nhanh mà không tốn phí API",
+    "Công ty nhỏ muốn tích hợp AI vào sản phẩm với chi phí tối ưu",
+    "Nghiên cứu sinh sử dụng nhiều mô hình AI để nghiên cứu ngôn ngữ lập trình",
+    "Team phát triển muốn thử nghiệm với nhiều provider mà không bị giới hạn rate limit"
+  ],
+  "ideas": [
+    "Xây dựng trợ lý nội bộ AI chạy hoàn toàn trên máy local với khả năng đa mô hình",
+    "Tạo nền tảng can thiệp tâm lý 24/7 sử dụng kết hợp nhiều mô hình AI chuyên sâu",
+    "Phát triển hệ thống điều phối drone sử dụng AI mỗi lần cần thiết bằng nhiều mô hình khác nhau",
+    "Xây dựng mô hình kinh tế AI công cộng cho cộng đồng tự chạy bằng tiếng Việt"
+  ],
+  "stars": 19704,
+  "starsToday": 169,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-04T06:14:13.239Z"
+}

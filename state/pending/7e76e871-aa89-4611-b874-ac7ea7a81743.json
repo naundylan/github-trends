@@ -1,0 +1,24 @@
+{
+  "id": "7e76e871-aa89-4611-b874-ac7ea7a81743",
+  "repo": "supabase/supabase",
+  "url": "https://github.com/supabase/supabase",
+  "category": "Backend Framework",
+  "summary": "Nền tảng phát triển Postgres cung cấp database dành riêng để xây dựng ứng dụng web, mobile và AI. Tích hợp sẽ realtime, xác thực và các tiện ích như pgvector cho AI embeddings.",
+  "usecases": [
+    "Developer xây dựng ứng dụng mobile cần đồng bộ dữ liệu thời gian thực",
+    "Data scientist sử dụng pgvector để tìm kiếm ngữ pháp trong ứng dụng AI",
+    "Team phát triển cần giải pháp thay thế Firebase với chi phí thấp hơn",
+    "Ứng dụng cần xác thực người dùng và quản lý cơ sở dữ liệu Postgres phức tạp"
+  ],
+  "ideas": [
+    "Kết hợp Supabase với Tesla Optimus để thu thập và phân tích dữ liệu IoT trong thời gian thực",
+    "Xây dựng nền tảng học máy không giới hạn sử dụng Postgres làm hệ cơ sở dữ liệu chính",
+    "Phát triển hệ thống dự báo thời tiết sử dụng pgvector để so sánh mô hình ML",
+    "Tạo nền tảng quản lý tài sản kỹ thuật số với blockchain integration"
+  ],
+  "stars": 105569,
+  "starsToday": 169,
+  "language": "TypeScript",
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-07-04T06:14:13.239Z"
+}
