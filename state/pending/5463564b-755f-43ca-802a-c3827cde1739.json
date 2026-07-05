@@ -1,0 +1,24 @@
+{
+  "id": "5463564b-755f-43ca-802a-c3827cde1739",
+  "repo": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "category": "AI Agent/Automation",
+  "summary": "AI agent skill thực hiện nghiên cứu chủ đề trên nhiều nền tảng như Reddit, X, YouTube, Hacker News, Polymarket trong 30 ngày và tổng hợp thành bản tóm tắt chính xác. Đây là công cụ nghiên cứu thông tin thông thông tin theo thời gian thực từ nhiều nguồn khác nhau. Dự án giúp người dùng nhanh chóng nắm bắt xu hướng và sentiment trên thị trường.",
+  "usecases": [
+    "Nhà đầu tư dùng để nghiên cứu xu hướng thị trường crypto và Polymarket trước khi đầu tư",
+    "Nhà công nghệ thông tin theo dõi công nghệ AI mới nhất từ Hacker News và Twitter",
+    "Marketer nghiên cứu chiến lược marketing trên TikTok và Instagram dựa trên xu hướng gần đây",
+    "Nhà giáo dục tổng hợp kiến thức mới nhất về AI từ nhiều nguồn để phát triển khóa học"
+  ],
+  "ideas": [
+    "Kết hợp với Bloomberg Terminal để tạo AI analyst tự động cập nhật tin tức thị trường real-time",
+    "Tích hợp với Notion để tự động tạo báo cáo hàng ngày về xu hướng ngành",
+    "Xây dự trữ liệu cảm xúc người dân qua các nền tảng xã hội để dự báo biến động thị trường",
+    "Phát triển thành AI research agent chạy trên Slack để cập nhật xu hướng theo chủ đề được subscribe"
+  ],
+  "stars": 49048,
+  "starsToday": 236,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-05T13:15:29.853Z"
+}

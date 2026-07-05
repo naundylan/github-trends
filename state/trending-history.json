@@ -16,7 +16,7 @@
   },
   "public-apis/public-apis": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-03",
+    "last_seen": "2026-07-05",
     "last_saved": "2026-07-02"
   },
   "NousResearch/hermes-agent": {
@@ -91,7 +91,7 @@
   },
   "diegosouzapw/OmniRoute": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-04",
+    "last_seen": "2026-07-05",
     "last_saved": "2026-07-03"
   },
   "Zackriya-Solutions/meetily": {
@@ -149,52 +149,52 @@
     "last_seen": "2026-07-05",
     "last_saved": "2026-07-04"
   },
-  "rommapp/romm": {
+  "Leonxlnx/taste-skill": {
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-05",
     "last_saved": "2026-07-05"
   },
-  "alirezarezvani/claude-skills": {
+  "CoplayDev/unity-mcp": {
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-05",
     "last_saved": "2026-07-05"
   },
-  "hesreallyhim/awesome-claude-code": {
+  "dotnet/skills": {
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-05",
     "last_saved": "2026-07-05"
   },
-  "huggingface/speech-to-speech": {
+  "cheahjs/free-llm-api-resources": {
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-05",
     "last_saved": "2026-07-05"
   },
-  "anthropics/claude-code": {
+  "TauricResearch/TradingAgents": {
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-05",
     "last_saved": "2026-07-05"
   },
-  "AnmolSaini16/mapcn": {
+  "bradautomates/claude-video": {
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-05",
     "last_saved": "2026-07-05"
   },
-  "ruvnet/ruflo": {
+  "karpathy/nanoGPT": {
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-05",
     "last_saved": "2026-07-05"
   },
-  "AgentWrapper/agent-orchestrator": {
+  "mvanhorn/last30days-skill": {
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-05",
     "last_saved": "2026-07-05"
   },
-  "ruvnet/RuView": {
+  "openclaw/openclaw": {
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-05",
     "last_saved": "2026-07-05"
   },
-  "openai/codex": {
+  "supabase/supabase": {
     "first_seen": "2026-07-05",
     "last_seen": "2026-07-05",
     "last_saved": "2026-07-05"

@@ -1,0 +1,25 @@
+{
+  "id": "9afdca70-79ec-4ac6-82b5-a1b3e942ac8a",
+  "repo": "openclaw/openclaw",
+  "url": "https://github.com/openclaw/openclaw",
+  "category": "AI Agent/Automation",
+  "summary": "Một trợ lý AI cá nhân đa nền tảng cho phép người dùng duy trì quyền kiểm soát dữ liệu một cách hoàn toàn. Dự án nhấn mạnh vào việc chạy local, không phụ thuộc vào dịch vụ đám mây, và tích hợp liền mạch với nhiều hệ điều hành.",
+  "usecases": [
+    "Một cá nhân muốn có một trợ lý AI chạy ngôn địa phương trên máy tính, điện thoại và server nhưng không muốn chia sẻ dữ liệu cá nhân ra ngoài",
+    "Nhà nghiên cứu hoặc nhân viên cần truy xuất nhanh thông tin từ nhiều nguồn khác nhau trong workspace một cách tự động",
+    "Người dùng muốn tích hợp trải nghiệm AI vào quy trình làm việc hàng ngày một cách mượt mà mà không bị đăng nhập hoặc quyết định bởi dịch vụ bên thứ ba",
+    "Nhà phát triển muốn xây dựng một hệ thống gọi là \"căn nhà siếu thị\" để quản lý và truy xuất khoản nhớ cá nhân một cách thông minh"
+  ],
+  "ideas": [
+    "Kết hợp với Model Context Protocol (MCP) để mở rộng khả năng chuyên sâu và chính xác của trợ lý trong lĩnh vực kỹ thuật",
+    "Xây dựng hệ thống RAG (Retrieval-Augmented Generation) tích hợp nâng cao với LangChain để cải thiện khả năng trả lời dựa trên ngữ cảnh cá nhân",
+    "Tạo ra một loạt agent đa tiến trình phức tạp, mỗi agent đảm nhiệm một trách nhiệm cụ thể nhưng có khả năng trao đổi và hợp tác thông minh",
+    "Phát triển một microservice architecture riêng biệt cho từng chức năng, cho phép người dùng dễ dàng tùy chỉnh và mở rộng hệ thống theo nhu cầu",
+    "Xây dựng một siêu khủ cơ bản (superintelligence foundation) dùng làm nền tảng để các dự án con khác phát triển trên nền tảng đa nền tảng này"
+  ],
+  "stars": 381798,
+  "starsToday": 196,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-05T13:15:29.854Z"
+}

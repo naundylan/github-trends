@@ -1,0 +1,24 @@
+{
+  "id": "caf4fe1e-8024-4730-a579-39df4af2c7c7",
+  "repo": "karpathy/nanoGPT",
+  "url": "https://github.com/karpathy/nanoGPT",
+  "category": "AI/LLM",
+  "summary": "Repository đơn giản và nhanh chóng để training/finetuning các mô hình GPT cỡ trung. Với codebase gọn gàng, người dùng có thể dễ dàng tìm hiểu và chạy các mô hình language model trên máy cá nhân. Dự án phù hợp cho việc nghiên cứu và triển khai nhanh các mô hình AI. Đây là nền tảng lý tưởng cho các nhà nghiên cứu và developer muốn thử nghiệm ý tưởng AI.",
+  "usecases": [
+    "Sinh viên máy học AI học cách fine-tune mô hình GPT trên dữ liệu riêng",
+    "Developer xây dự ứng dụng chatbot chuyên ngành chỉ cần 1GB GPU",
+    "Nghiên cứu viên AI thử nghiệm các kỹ thuật mới cho việc training mô hình ngôn ngữ",
+    "Doanh nghiệp nhỏ triển khai mô hình AI tối ưu để xử lý tài liệu nội bộ"
+  ],
+  "ideas": [
+    "Kết hợp với Hugging Face để tạo pipeline fine-tune tự động cho bất kỳ mô hình nào",
+    "Xây dự trữ liệu lưu trữ dưới dạng vector để AI agent có thể truy xuất nhanh theo ngữ cảnh",
+    "Tích hợp với WebSocket để tạo máy chát AI chạy hoàn toàn trên edge device",
+    "Phát triển thành framework đào tạo mô hình bằng tiếng Việt với dữ liệu đặc thù Việt Nam"
+  ],
+  "stars": 60707,
+  "starsToday": 200,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-05T13:15:29.854Z"
+}

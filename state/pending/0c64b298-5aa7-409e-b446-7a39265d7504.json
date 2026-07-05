@@ -1,0 +1,25 @@
+{
+  "id": "0c64b298-5aa7-409e-b446-7a39265d7504",
+  "repo": "cheahjs/free-llm-api-resources",
+  "url": "https://github.com/cheahjs/free-llm-api-resources",
+  "category": "AI/LLM",
+  "summary": "Danh sách đường dẫn API miễn phí để gọi các mô hình ngôn ngữ lớn như Claude, Gemini, Llama không cần đăng ký thẻ tín dụng. Bao gồm cả endpoints open-source trên HuggingFace và các nền tảng chạy thử (trial) của các công ty lớn.",
+  "usecases": [
+    "Sinh viên học về LLM nhưng không có ngân sách thuê OpenAI/Anthropic hàng tháng",
+    "Các dự án MVP cần tích hợp chat bot nhưng vận động nội bộ không cần xử lý context dài",
+    "Researcher chạy thử nghiệm song song với nhiều mô hình để so sánh khả năng câu trả lời",
+    "Startup tiết kiệm phí API trong giai đoạn bootstrap bằng cách dùng free tier hợp lý"
+  ],
+  "ideas": [
+    "Xây proxy server tự động chuyển đổi các API free này thành OpenAI-compatible endpoint rồi cài vào LangChain/LlamaIndex",
+    "Tích hợp vào Jupyter Notebook làm mặt nạ giả lập OpenAI để học tập không cần API key",
+    "Chạy làm edge function trên Cloudflare Workers kết hợp với list này để tạo LLM Studio cá nhân không cần backend",
+    "KVM container + Ollama ray serve các model nhỏ vừa free chạy trên VPS $5 để tạo local-open-router",
+    "Bot Telegram /chat-với-nhiều-free-llm đùng free API list này làm backend, chuyển tin nhắn người dùng đến nhiều mô hình rồi vote reward chọn câu trả lời tốt nhất"
+  ],
+  "stars": 25284,
+  "starsToday": 510,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-05T13:15:29.853Z"
+}

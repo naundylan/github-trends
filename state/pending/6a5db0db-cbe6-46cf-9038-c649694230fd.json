@@ -1,0 +1,22 @@
+{
+  "id": "6a5db0db-cbe6-46cf-9038-c649694230fd",
+  "repo": "TauricResearch/TradingAgents",
+  "url": "https://github.com/TauricResearch/TradingAgents",
+  "category": "AI Agent/Automation",
+  "summary": "Framework LLM đa nguyên dùng trí tuệ nhân tạo để tự động hóa giao dịch tài chính. Mô phỏng nhiều vai trò (analyst, trader, risk manager) để ra quyết định giao dịch tự động dựa trên phân tích thị trường và tin tức.",
+  "usecases": [
+    "Quant investor chạy thuật toán giao dịch tự động với nhiều tài sản khác nhau",
+    "Hedge fund thử nghiệm các chiến lược giao dịch dựa trên AI và xử lý tin tức thời gian thực",
+    "Sinh viên học tập về tài chính bằng cách phân tích quyết định của các AI agent"
+  ],
+  "ideas": [
+    "Kết hợp với dự báo thời tiết để xây dựng mô hình giao dịch tài chính phụ thuộc vào chỉ số kinh tế vĩ mô",
+    "Tích hợp vào hệ thống quản lý bảo hiểm để tự động điều chỉnh bảo kê dựa trên rủi ro thị trường",
+    "Xây dựng 'financial ecosystem' với hàng ngàn AI agent đóng vai trò khác nhau tương tác trong môi trường mô phỏng thị trường"
+  ],
+  "stars": 90982,
+  "starsToday": 256,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-05T13:15:29.853Z"
+}

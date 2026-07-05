@@ -1,0 +1,25 @@
+{
+  "id": "5612e19a-9244-4c12-93d3-0d481d647862",
+  "repo": "CoplayDev/unity-mcp",
+  "url": "https://github.com/CoplayDev/unity-mcp",
+  "category": "Game Dev",
+  "summary": "Unity MCP là cầu nối giữa trợ lý AI và Unity Editor, cung cấp khung để LLM thao tác trực tiếp với dự án game: chỉnh sửa script, di chuyển GameObject, thay đổi scene, quản lý asset. Cho phép automation các tác vụ lặp lại và hỗ trợ lập trình viên nhanh chóng prototyping.",
+  "usecases": [
+    "Indie developer dùng Cursor viết script NPC behavior rồi nhờ Unity MCP chạy thử ngay trong editor",
+    "Level designer mô phỏng nhiều variant căn hộa để so sánh thủ cảnh trước khi build phiên bản cuối",
+    "Công ty mobile cần generate 100 loại vật phẩm random cho game idle để test balance gameplay",
+    "Nghệ sĩ 3D muốn AI sinh shader FX xong auto apply vào các prefab đã tạo sẵn trong scene"
+  ],
+  "ideas": [
+    "Kết hợp với Rider/Resharper để AI viết code thì bộ rất nhanh gợi ý refactor tự động theo chuẩn Unity",
+    "Đóng gói thành Unity Package Manager dùng với hàng ngàn team global qua Unity Registry",
+    "Chạy làm Build Pipeline để AI tự động build Android/iOS và đẩy lên TestFlight/App Store Transporter",
+    "Tích hợp Blender MCP để AI coordinate: sinh model low-poly → rig animation → import Unity với mặt nạ tương ứng",
+    "Tạo 'AI Game Director' chạy real-time trên Build & Play mode, liên tục sinh event/campaign cho game sinh tồn thế giới"
+  ],
+  "stars": 11802,
+  "starsToday": 415,
+  "language": "C#",
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-07-05T13:15:29.853Z"
+}

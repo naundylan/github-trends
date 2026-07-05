@@ -1,0 +1,25 @@
+{
+  "id": "462c1135-3572-4b26-b55e-4cb3f2fa7044",
+  "repo": "Leonxlnx/taste-skill",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "category": "AI/LLM",
+  "summary": "Taste-Skill giúp AI có khả năng phân biệt và tạo ra nội dung chất lượng thay vì văn hoa chung chung. Dự án sử dụng các kỹ thuật đánh giá và ranking để định hướng mô hình về phong cách sáng tạo, tránh tạo ra những gì bị co rút giống hệt nhau.",
+  "usecases": [
+    "Developer cần tạo giao diện frontend không đơn điệu, muốn AI sinh ra mã CSS/HTML có chất riêng thẩm mỹ",
+    "Designer dùng Claude-Code tích hợp sẵn Taste-Skill để có ý tưởng thị giác độc đáo cho dự án brand",
+    "Team no-code xây landing page cần tránh mẫu mockup 'tông tay' giống 100+ trang khác",
+    "AI agent sinh game character/detail phải độc nhất để tránh bị cảnh báo bản quyền hoặc tách rời với thế giới"
+  ],
+  "ideas": [
+    "Kết hợp với Framer/Motion để sinh animation viên vẫn giữ được chất riêng chứ không lặp lại preset có sẵn",
+    "Đỗ vào browser extension để người dùng chọn 'taste profile' cá nhân: thẩm tỹ, tối giản, cyberpunk...",
+    "Huấu nhan sau này: sinh ra stock photo/texture 3D có signature riêng cho từng nhà thiết kế",
+    "Đối thoại với GitHub Copilot để yêu cầu 'taste score > 0.8' trước khi đồng ý generate code",
+    "Tích lũy taste dataset từ Dribbble/Pinterest rồi train reward model cho SDEdit hay Stablediffusion"
+  ],
+  "stars": 56947,
+  "starsToday": 850,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-05T13:15:29.853Z"
+}

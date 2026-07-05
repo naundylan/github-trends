@@ -1,0 +1,24 @@
+{
+  "id": "833988c0-5456-4a5b-8e2a-266dc6896297",
+  "repo": "dotnet/skills",
+  "url": "https://github.com/dotnet/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Repository cung cấp các kỹ năng (skills) để hỗ trợ AI coding agents làm việc hiệu quả với .NET và C#. Đây là bộ ngôn ngữ lập trìnhnhồi hỗn hợp giúp các agent hiểu và sử dụng các thư viện, framework .NET một cách chính xác. Dự án giúp giảm thời gian phát triển và tăng độ chính xác của AI trong việc code hệ thống.",
+  "usecases": [
+    "Lập trình viên dùng AI assistant để xây dự trữ liệu cấu trúc dữ liệu trong .NET",
+    "AI agent tự động sinh code C# cho ứng dụng web sử dụng ASP.NET Core",
+    "Hệ thống AI code review codebase C# trên Azure với kiến thức chuyên sâu .NET",
+    "Người mới học C# dùng AI mentor để giải thích mã nguồn phức tạp một cách chính xác"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Copilot để tạo ra AI coding assistant chuyên sâu nhất về thế giới .NET và Azure",
+    "Xây dự trữ liệu ngữ cảnh theo thời thực để AI được cập nhật các phiên bản mới nhất của .NET",
+    "Tích hợp với Visual Studio Code để tạo phiên bản local AI agent chạy offline hoàn toàn",
+    "Phát triển thành plugin architecture để các nhà phát triển tự đóng góp kỹ năng cho ngôn ngữ khác"
+  ],
+  "stars": 3929,
+  "starsToday": 247,
+  "language": "C#",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-05T13:15:29.853Z"
+}
