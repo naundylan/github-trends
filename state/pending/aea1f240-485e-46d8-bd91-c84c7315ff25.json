@@ -1,0 +1,24 @@
+{
+  "id": "aea1f240-485e-46d8-bd91-c84c7315ff25",
+  "repo": "hesreallyhim/awesome-claude-code",
+  "url": "https://github.com/hesreallyhim/awesome-claude-code",
+  "category": "Awesome List/Curated Resource",
+  "summary": "A meticulously curated collection of top-tier resources for Claude Code and AI coding assistants, featuring premium skills, ambidextrous agents, status lines, and developer tooling. It serves as a definitive showcase of the best tools and workflows for AI-powered development.",
+  "usecases": [
+    "Onboarding new developers to AI coding assistants by providing a one-stop shop for the best tools, agents, and skills",
+    "Researching cutting-edge AI development workflows and discovering hidden gems in the Claude Code ecosystem",
+    "Building custom Claude Code configurations by studying and adapting the curated best practices and top-tier tools",
+    "Evaluating which AI coding tools and resources to invest in for enterprise development teams and tech leads"
+  ],
+  "ideas": [
+    "Transform into a living AI curriculum that automatically updates based on trending repositories and emerging Claude Code innovations using machine learning algorithms",
+    "Create an interactive 'skill DNA analyzer' that reverse-engineers the combination of skills used in successful open-source projects to generate personalized learning paths",
+    "Develop a 'parallel universe simulator' that shows how different combinations of curated resources would perform across various development scenarios and project types",
+    "Establish a crowd-sourced annotation system where the community can rate and review each resource's effectiveness in specific coding contexts, creating a wisdom-of-crowds ranking"
+  ],
+  "stars": 48093,
+  "starsToday": 133,
+  "language": "Python",
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-07-05T11:01:44.435Z"
+}

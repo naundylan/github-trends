@@ -1,0 +1,25 @@
+{
+  "id": "85238b0c-93b7-4527-8cd0-36cd68c4bbd7",
+  "repo": "ruvnet/RuView",
+  "url": "https://github.com/ruvnet/RuView",
+  "category": "Other",
+  "summary": "π RuView biến tín hiệu WiFi ngày để hôm thành trí tuệ không gian thời gian thực, theo dõi nhịp tim và phát hiện hiện diện mà hoàn toàn không cần video. Dự án sử dụng ESP32 và học máy để khôi phục thông tin không gian từ tín hiệu RF.",
+  "usecases": [
+    "Người dùng muốn giám sát sức khỏe và mặt bằng trong nhà mà không cần camera",
+    "Nhà thông minh tích hợp để theo dõi người ở đó cho điều khiển thiết bị",
+    "Bệnh viện hoặc ngôi nhà dài người dùng để theo dõi tiêu hóa và động tĩnh",
+    "Công ty IoT phát triển hệ thống cảnh quan không xâm lấn"
+  ],
+  "ideas": [
+    "Kết hợp với Home Assistant để điều khiển ánh sáng và HVAC dựa trên mặt bằng",
+    "Ứng dụng nhận diện bằng chứng cho bảo vệ trước cảnh quan trộn xáo",
+    "Hệ thống giám sát lưu lượng người đi bộ cho thành phố thông minh",
+    "Theo dõi sức khỏe người cao tuổi tại nhà dài ngườii",
+    "Phát hiện và cảnh báo xâm nhập trong không gian bảo vệ"
+  ],
+  "stars": 76507,
+  "starsToday": 133,
+  "language": "Rust",
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-07-05T11:01:44.436Z"
+}

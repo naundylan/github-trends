@@ -1,0 +1,24 @@
+{
+  "id": "cdf26ccc-02b1-4ecb-b223-e0facfdb6d66",
+  "repo": "alirezarezvani/claude-skills",
+  "url": "https://github.com/alirezarezvani/claude-skills",
+  "category": "Developer Tool",
+  "summary": "A comprehensive collection of 337 Claude Code skills, agent skills, and plugins designed for multiple coding agents including Claude Code, Codex, Gemini CLI, and Cursor. It provides specialized expertise across engineering, marketing, product, compliance, and business operations domains.",
+  "usecases": [
+    "Accelerating software development by providing instant access to domain-specific expertise like security compliance or financial modeling within the coding environment",
+    "Enabling non-technical professionals to leverage AI coding assistants through pre-built skills for marketing copy, product analysis, and business strategy",
+    "Streamlining enterprise development workflows by integrating C-level advisory and compliance checking directly into the coding process",
+    "Supporting startup teams with limited resources by providing ready-made agent skills for research, business operations, and commercial/finance tasks"
+  ],
+  "ideas": [
+    "Create a skill marketplace where developers can publish, share, and monetize their custom Claude skills like npm packages for AI agents",
+    "Develop a 'skill genome project' that maps the relationships between different skills and automatically generates new hybrid skills through genetic algorithms",
+    "Build a temporal skill engine that learns from historical code repositories to predict and suggest skills based on project evolution patterns",
+    "Establish a cross-agent skill compatibility layer that allows skills to seamlessly transfer between Claude Code, Cursor, GitHub Copilot, and other AI coding platforms"
+  ],
+  "stars": 20291,
+  "starsToday": 136,
+  "language": "Python",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-05T11:01:44.435Z"
+}

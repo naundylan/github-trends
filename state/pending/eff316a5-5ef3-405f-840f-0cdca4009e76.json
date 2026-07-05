@@ -1,0 +1,24 @@
+{
+  "id": "eff316a5-5ef3-405f-840f-0cdca4009e76",
+  "repo": "ruvnet/ruflo",
+  "url": "https://github.com/ruvnet/ruflo",
+  "category": "AI Agent/Automation",
+  "summary": "Ruflo is a meta-harness framework for deploying intelligent multi-agent swarms with adaptive memory and self-learning capabilities. It enables coordination of autonomous workflows and conversational AI systems while integrating RAG and supporting multiple AI models like Claude Code, Codex, and Hermes.",
+  "usecases": [
+    "Building autonomous development teams where AI agents handle different aspects of software engineering tasks collaboratively",
+    "Creating customer service swarms that can handle complex multi-turn conversations with context-aware responses",
+    "Developing research assistant networks that can coordinate literature reviews and data analysis across multiple domains",
+    "Deploying enterprise workflow automation where specialized AI agents handle compliance, finance, and operations tasks"
+  ],
+  "ideas": [
+    "Integrate with decentralized mesh networks to create truly distributed AI swarms that can operate across multiple cloud providers simultaneously",
+    "Combine with quantum computing simulators to explore how quantum-enhanced agents might solve optimization problems in logistics and supply chain management",
+    "Create a 'digital ecosystem' where ruflo agents can evolve symbiotic relationships, trading skills and resources like biological organisms in a marketplace",
+    "Develop temporal AI agents that can predict and prepare for future scenarios by running parallel swarm simulations across different time horizons"
+  ],
+  "stars": 63063,
+  "starsToday": 145,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-05T11:01:44.435Z"
+}

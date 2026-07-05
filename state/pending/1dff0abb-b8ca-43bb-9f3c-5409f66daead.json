@@ -1,0 +1,25 @@
+{
+  "id": "1dff0abb-b8ca-43bb-9f3c-5409f66daead",
+  "repo": "AgentWrapper/agent-orchestrator",
+  "url": "https://github.com/AgentWrapper/agent-orchestrator",
+  "category": "AI Agent/Automation",
+  "summary": "Trình orchestration đa agent chạy song song cho mã hóa tự động hóa, xử lý conflict merge và code review. Sử dụng Go để quản lý nhiều agent Claude Code/Codex một cách hiệu quả.",
+  "usecases": [
+    "Team phát triển muốn tự động hóa việc sửa lỗi CI/CD",
+    "Nhà phát triển cá nhân xây dựng ứng dụng lớn nhanh hơn",
+    "Công ty cần duyệt mã nhanh chóng trước khi merge",
+    "Hệ thống cần giải quyết xung đột git tự động"
+  ],
+  "ideas": [
+    "Tích hợp với hàng ngàn agent để xây dựng phần mềm hoàn chỉnh từ ý tưởng",
+    "Hệ thống tự làm sạch và tối ưu hóa code cả repo công ty",
+    "Tự động tạo và chạy thử nghiệm cho mỗi pull request",
+    "Xây dựng agent con để hỗ trợ người dùng cá nhân hóa",
+    "Phối hợp với mô hình AI lớn để thiết kế kiến trúc phần mềm tối ưu"
+  ],
+  "stars": 8053,
+  "starsToday": 120,
+  "language": "Go",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-05T11:01:44.436Z"
+}

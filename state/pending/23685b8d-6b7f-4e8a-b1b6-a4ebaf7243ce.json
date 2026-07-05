@@ -1,0 +1,22 @@
+{
+  "id": "23685b8d-6b7f-4e8a-b1b6-a4ebaf7243ce",
+  "repo": "openai/codex",
+  "url": "https://github.com/openai/codex",
+  "category": "AI Agent/Automation",
+  "summary": "Codex là một lightweight coding agent chạy trong terminal, đại diện cho sự tiến hóa của AI assistant trực tiếp trên máy người dùng. Với trọng lượng nhẹ và khả năng chạy đLocally, nó phù hợp cho các tác vụ lập trình nhanh chóng và độc lập. Codex đóng vai trò như một 'trợ lý bên trong' luôn sẵn sàng hỗ trợ các nhà phát triển. Công nghệ của nó đang được áp dụng rộng rãi trong hệ sinh thái OpenAI.",
+  "usecases": [
+    "Freelance developer dùng Codex để tạo mẫu ứng dụng web hoàn chỉnh chỉ sau 5 phút nhập yêu cầu bằng tiếng Việt",
+    "Data scientist cài đặt Codex trên máy local để phân tích dataset nhạy cảm mà không cần đẩy dữ liệu lên cloud",
+    "Student học lập trình thông qua Codex đóng vai trò như mentor cá nhân, giải thích từng dòng code và gợi ý cải thiện"
+  ],
+  "ideas": [
+    "Kết hợp Codex vào chip ASIC cá nhân để mọi thiết bị đều có thể chạy AI coding assistant offline, tạo thành mạng lưới phần mềm phi tập trung",
+    "Sử dụng Codex làm trợ lý cho bệnh nhân ung thư trong phòng chế phẩm dược phẩm tương lai, giúp họ thiết kế phác đồ điều trị bằng giọng nói",
+    "Thảo ngại Codex vào hệ thống nhà thông minh siêu thông minh năm 2045 để biến những ngôn ngữ tự nhiên phức tạp thành công chú ý điện tử hoàn hảo"
+  ],
+  "stars": 95592,
+  "starsToday": 165,
+  "language": "Rust",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-05T11:01:44.435Z"
+}

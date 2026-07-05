@@ -1,0 +1,25 @@
+{
+  "id": "627036ba-9571-4dab-bb47-1f09819ca04d",
+  "repo": "huggingface/speech-to-speech",
+  "url": "https://github.com/huggingface/speech-to-speech",
+  "category": "AI/LLM",
+  "summary": "Dự án này cung cấp các công cụ mở nguồn để xây dựng voice agents cục bựa với khả năng chuyển đổi giọng nói, dịch thuật và tổng hợp giọng nói. Tích hợp các mô hình speech-to-text, text-to-speech và translation mạnh mẽ từ Hugging Face để tạo trải nghiệm tự nhiên nghe được.",
+  "usecases": [
+    "Nhà phát triển phần mềm xây dựng trợ lý giọng nói cá nhân hoặc doanh nghiệp tạo hệ thống chăm sóc khách hàng 24/7 bằng tiếng nói",
+    "Nhà nghiên cứu và giáo dục sử dụng để thử nghiệm các mô hình dịch thuật giọng nói và tạo tài liệu giáo dục bằng giọng nói",
+    "Nhà sản xuất nội dung sử dụng để chuyển đổi video tiếng Anh thành nhiều phiên bản bằng ngôn ngữ khác với giọng nói gốc hoặc giọng được chọn lọc",
+    "Công ty du lịch và dịch vụ quốc tế triển khai hệ thống hỗ trợ khách hàng đa ngôn ngữ tự động bằng giọng nói"
+  ],
+  "ideas": [
+    "Kết hợp với công nghệ thực tế tăng cường (AR) để tạo ra trợ lý kỹ thuật số xuất hiện trong không gian thực với khả năng trò chuyện bằng giọng nói tự nhiên",
+    "Tích hợp vào hệ thống xe tự lái như một trợ lý lái xe bằng giọng nói để điều khiển điều hành và truy vấn thông tin cá nhân ho hoạt động an toàn hơn",
+    "Xây dựng nền tảng live-streaming thông minh tự động tạo phiên bản dịch thuật trực tuyến với nhiều giọng nói mặt tiện cho khán giả quốc tế trong các sự kiện truyền hình trực tuyến",
+    "Phát triển bot robotics hỗ trợ trong nhà bằng chức năng speech-to-speech để thực hiện các công việc hàng ngày và tương tác tự nhiên với con người qua giọng nói",
+    "Ứng dụng trong ngành trò chơi điện tử để tạo NPC (non-player character) sử dụng giọng nói thật sự với khả năng phản hồi linh hoạt dựa trên ngữ cảnh, nâng cao trải nghiệm chơi độc đáo"
+  ],
+  "stars": 5361,
+  "starsToday": 118,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-05T11:01:44.436Z"
+}

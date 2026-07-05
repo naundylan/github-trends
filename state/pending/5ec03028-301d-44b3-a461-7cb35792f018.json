@@ -1,0 +1,22 @@
+{
+  "id": "5ec03028-301d-44b3-a461-7cb35792f018",
+  "repo": "rommapp/romm",
+  "url": "https://github.com/rommapp/romm",
+  "category": "Game Engine",
+  "summary": "Romm là một hệ thống quản lý và chơi game retro mạnh mẽ, tự host với giao diện đẹp mắn. Nó giúp người dùng tổ chức thư viện ROM, quản lý emulator và chơi các trò chơi cổ điện một cách sinh động. Dự án tiết kiệm không gian và tích hợp sẵn các công cụ cần thiết cho trải nghiệm retro.",
+  "usecases": [
+    "Game thủ muộn sương tổ chức thư viện ROM cá nhân để chơi các tựa game NES, SNES trên TV nhà để ngồi xem phim trình diễn",
+    "Cyberpunk 2087: Quản lý hàng ngàn ROM trong bảng điều khiển trung tâm sử dụng tiếng Việt để điều khiển phát trực tuyến cho hàng trăm người chơi song song",
+    "Nhà phát triển AI tích hợp Romm vào trợ lý nhà game để tự động phân lớp ROM theo độ khó và phát triển kế hoạch chơi game dựa trên thói quen người chơi"
+  ],
+  "ideas": [
+    "Kết hợp Romm với Tesla Autopilot để truy cập thư viện game cổ điện khi xe parked, điều khiển qua hệ thống voice assistant của xe",
+    "Sử dụng blockchain để lưu trữ metadata ROM trên decentralized storage, tạo nên thư viện game phi tập trung không server nào chủ quyền",
+    "Intelligence Agent tự làm chủ phát triển ROM tối ưu cho từng thiết bị AR vào năm 2030 bằng công nghệ neural rendering"
+  ],
+  "stars": 10348,
+  "starsToday": 398,
+  "language": "Python",
+  "notePath": "notes/Game-Engine.md",
+  "createdAt": "2026-07-05T11:01:44.435Z"
+}

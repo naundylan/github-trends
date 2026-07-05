@@ -1,0 +1,25 @@
+{
+  "id": "79a3463e-3b92-42bf-86a9-fff6d943f8fa",
+  "repo": "AnmolSaini16/mapcn",
+  "url": "https://github.com/AnmolSaini16/mapcn",
+  "category": "UI/Component Library",
+  "summary": "Thư viện thành phần bản đồ hoàn chỉnh 100% miễn phí với cài đặt chỉ sau 1 lệnh, giúp các nhà phát triển nhanh chóng tích hợp bản đồ đẹp vào ứng dụng web.",
+  "usecases": [
+    "Nhà phát triển web cần thêm bản đồ vào trang web của công ty",
+    "Ứng dụng di động cần bản đồ tính năng cơ bản",
+    "Trang web bán hàng muốn hiển thị vị trí cửa hàng",
+    "Dự án mở nguồn cần thành phần bản đồ không phụ thuộc"
+  ],
+  "ideas": [
+    "Kết hợp với Google Maps để thêm dữ liệu địa phương",
+    "Tích hợp các dịch vụ địa lý như OpenStreetMap tiên tiến",
+    "Tạo bản đồ tương tác cho trò chơi web",
+    "Hệ thống địa chính tự động cho công ty bất động sản",
+    "Bản đồ cảnh quan sống động cho làn trồng thủy sản"
+  ],
+  "stars": 10476,
+  "starsToday": 123,
+  "language": "TypeScript",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-05T11:01:44.436Z"
+}
