@@ -1,0 +1,22 @@
+{
+  "id": "437db918-9a8e-4183-b4ae-80e3a94fb915",
+  "repo": "hesreallyhim/awesome-claude-code",
+  "url": "https://github.com/hesreallyhim/awesome-claude-code",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Đây là bộ sưu tập cẩn trọng các tài nguyên tốt nhất cho Claude Code, được thiết kế như một 'kho báu' cho các agent code tiên tiến. Bao gồm kỹ năng agent, công cụ phát triển, và plugin tạo nên trải nghiệm lập trình viên đa năng với trợ lý AI hàng đầu.",
+  "usecases": [
+    "Lập trình viên muốn tối ưu hóa workflow sử dụng AI để tạo, sửa đổi và test code nhanh chóng",
+    "Team lead cần triển khai hệ thống agent đa năng cho dự án lớn với khả năng tái sử dụng cao",
+    "Student học lập trình muốn khám phá các tính năng nâng cao của Claude Code để xây dựng project cá nhân"
+  ],
+  "ideas": [
+    "Tạo framework để xây dựng custom Claude Agents với khả năng đàm phán tự động giữa các team phân tán",
+    "Kết hợp với RuView để các AI agent có khả năng giám sát không gian vật liệu vật thể",
+    "Hệ thống biểu tượng chức năng (symbolic AI) kết hợp với agent code để giải quyết vấn đề đa trữ thông tin"
+  ],
+  "stars": 48262,
+  "starsToday": 188,
+  "language": "Python",
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-07-05T19:06:03.452Z"
+}

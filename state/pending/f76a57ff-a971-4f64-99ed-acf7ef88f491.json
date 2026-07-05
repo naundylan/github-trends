@@ -1,0 +1,24 @@
+{
+  "id": "f76a57ff-a971-4f64-99ed-acf7ef88f491",
+  "repo": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "category": "AI Agent/Automation",
+  "summary": "Claude Mem là một hệ thống lưu trữ và phục vụ bộ nhớ vĩnh viễn cho các AI agents, giúp duy trì ngữ cảnh giữa các phiên làm việc. Nó thu thập tất cả hoạt động của agent trong suốt quá trình làm việc, nén lại bằng AI và đưa ngữ cảnh phù hợp vào các phiên làm việc tương lai. Hỗ trợ tích hợp với nhiều nền tảng như Claude Code, OpenAI, Gemini và các công cụ lập trình khác.",
+  "usecases": [
+    "Các AI research scientists sử dụng để duy trì context nghiên cứu dài hạn, để khi quay lại sau vài tháng vẫn có thể tiếp tục từ nơi đứng",
+    "Các customer support agents sử dụng trong hệ thống chăm sóc khách hàng để nhớ lịch sử tương tác và đưa ra câu trả lời cá nhân hóa dựa trên tiếng lịch sử",
+    "Các developers cá nhân sử dụng để Claude Mem ghi nhớ phong cách code style, quy ở ưu tiên và sở thích cá nhân từ các dự án trước",
+    "Các team phát triển lớn sử dụng để các agent trong team chia sẻ và học hỏi từ experiences của nhau qua các dự án khác nhau"
+  ],
+  "ideas": [
+    "Kết hợp với neural interfaces để Claude Mem đọc và ghi nhớ trực tiếp từ não bộ con người, tạo ra bộ nhớ kỹ thuật số sinh học",
+    "Ứng dụng trong môi trường metaverse để mỗi NPC đều có bộ nhớ rất dài, cho phép họ phát triển tính cách và ký ức theo thời gian thực",
+    "Tích hợp với hệ thống thời gian để Claude Mem có thể dự báo và gợi ý các hành động dựa trên xu hướng đLONG kín của người dùng",
+    "Kết hợp với mạng lưới blockchain để tạo ra bộ nhớ phiên bản phân tán, nơi mỗi agent có thể học từ cộng đồng mà không cần lưu trữ trung tâm"
+  ],
+  "stars": 85959,
+  "starsToday": 180,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-05T19:06:03.452Z"
+}

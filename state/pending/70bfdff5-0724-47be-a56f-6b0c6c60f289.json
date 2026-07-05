@@ -1,0 +1,19 @@
+{
+  "id": "70bfdff5-0724-47be-a56f-6b0c6c60f289",
+  "repo": "cjpais/Handy",
+  "url": "https://github.com/cjpais/Handy",
+  "category": "AI/LLM",
+  "summary": "Handy là một ứng dụng chuyển giọng nói thành văn bản (speech-to-text) hoàn toàn offline, sử dụng Rust và Tauri v2 để đảm bảo hiệu suất cao và khả năng chạy trên nhiều nền tảng. Dự án tập trung vào tính bảo mật, khả năng tiếp cận và trải nghiệm người dùng đơn giản, phù hợp cho các trường hợp cần xử lý âm thanh mà không yêu cầu kết nối internet.",
+  "usecases": [
+    "Người cao đội sử dụng để ghi chú và điều hướng thiết bị bằng giọng nói trong môi trường cần bảo mật",
+    "Nhà nghiên cứu và giáo viên ghi lại bài giảng hoặc phân tích giọng nói trong phòng thí nghiệm khoa học",
+    "Nhân viên y tế ghi chú bệnh án và chẩn đoán bằng giọng nói mà không làm gián đoạn quy trình điều trị",
+    "Công nhân và kỹ thuật viên sử dụng trong môi trường sản xuất để ghi nhật ký bảo trì và hướng dẫn làm việc tay không"
+  ],
+  "ideas": [],
+  "stars": 25790,
+  "starsToday": 159,
+  "language": "Rust",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-05T19:06:03.452Z"
+}

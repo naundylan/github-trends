@@ -1,0 +1,24 @@
+{
+  "id": "1e0e630c-0f62-4539-a864-cf88d1ea1423",
+  "repo": "anthropics/claude-code",
+  "url": "https://github.com/anthropics/claude-code",
+  "category": "AI Agent/Automation",
+  "summary": "Claude Code là một công cụ lập trình agent sống trong terminal, được thiết kế để hiểu và làm việc với codebase một cách thông minh. Nó giúp các nhà phát triển thực hiện các tác vụ lặp lại, giải thích mã phức tạp và quản lý workflow git thông qua lệnh ngôn ngữ tự nhiên, đăng cao hiệu suất và giảm thiểu thời gian phát triển.",
+  "usecases": [
+    "DevOps kỹ thuật làm việc trong môi trường CI/CD, sử dụng Claude Code để tự động hóa việc viết script, code chỉnh sửa và triển khai ứng dụng thông qua lệnh tự nhiên",
+    "Các kỹ sư backend sử dụng để duyệt codebase lớn, giải thích kiến trúc hệ thống và tạo API mới dựa trên yêu cầu kinh doanh một cách nhanh chóng",
+    "Các team lead quản lý dự án sử dụng để review code, generate documentation và phối hợp với team qua các lệnh tự nhiên thay vì phải trực tiếp viết code",
+    "Các freelancer làm việc với nhiều client khác nhau sử dụng để duy trì context giữa các dự án và tăng tốc độ đáp ứng yêu cầu"
+  ],
+  "ideas": [
+    "Tích hợp với các hệ thống monitoring như Prometheus để Claude Code tự động sửa lỗi runtime errors khi hệ thống phát triển",
+    "Kết hợp với AI agents tạo ra ui/ux prototypes để Claude Code có thể generate full-stack code từ design mockup chiều ngang",
+    "Ứng dụng trong môi trường edge computing để Claude Code chạy trên thiết bị IoT và tự động fix firmware dựa trên sensor data",
+    "Tích hợp với hệ thống blockchain để Claude Code có thể deploy thông thông minh vào các smart contract platform một cách tự động"
+  ],
+  "stars": 136237,
+  "starsToday": 182,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-05T19:06:03.452Z"
+}

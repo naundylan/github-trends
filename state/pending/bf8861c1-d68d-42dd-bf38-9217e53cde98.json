@@ -1,0 +1,22 @@
+{
+  "id": "bf8861c1-d68d-42dd-bf38-9217e53cde98",
+  "repo": "ruvnet/RuView",
+  "url": "https://github.com/ruvnet/RuView",
+  "category": "Other",
+  "summary": "RuView biến tín hiệu WiFi tiêu chuẩn thành trí tuệ không gian theo thời gian thực, giám sát nhịp tim và phát hiện hiện diện mà không cần video. Dự án sử dụng RF sensing kết hợp machine learning để trích xuất dữ liệu người từ tín hiệu xạ hưởng WiFi, phù hợp cho home automation và giám sát không gian.",
+  "usecases": [
+    "Người dùng nhà thông minh muốn giám sát sức hiện diện và hoạt động của người trong nhà mà không cần camera",
+    "Bác sĩ hoặc người chăm sóc sử dụng để theo dõi nhịp tim và chất lượng ngủ của bệnh nhân tại nhà",
+    "Chủ cửa hàng muốn phân tích lưu lượng khách hàng và thời gian dừng chờ tại khách hàng"
+  ],
+  "ideas": [
+    "Kết hợp với Tesla Home Automation để điều khiển HVAC dựa trên số người và vị trí trong nhà",
+    "Tích hợp vào xe tự lái để cảnh báo người lạ ở ghế hành khách phía sau",
+    "Hệ thống giám sát sức khỏe toàn rao trong bệnh viện không cần thiết bị xâm nhập"
+  ],
+  "stars": 76630,
+  "starsToday": 198,
+  "language": "Rust",
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-07-05T19:06:03.452Z"
+}

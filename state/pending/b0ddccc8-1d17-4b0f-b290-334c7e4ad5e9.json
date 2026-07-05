@@ -1,0 +1,24 @@
+{
+  "id": "b0ddccc8-1d17-4b0f-b290-334c7e4ad5e9",
+  "repo": "can1357/oh-my-pi",
+  "url": "https://github.com/can1357/oh-my-pi",
+  "category": "AI Agent/Automation",
+  "summary": "Oh My Pi là một AI coding agent mạnh mẽ dành cho terminal với các tính năng nổi bật như hash-anchored edits (chỉnh sửa được anchored bằng hash), optimized tool harness, hỗ trợ LSP, Python, browser automation và subagents. Hỗ trợ đa nhà cung cấp LLM và được xây dựng trên TypeScript với kiến trúc linh hoạt cho phép mở rộng và tích hợp dễ dàng.",
+  "usecases": [
+    "Các security researchers sử dụng để phân tích và exploit các lỗi bảo mật trong codebase, với khả năng browser automation để test các ứng dụng web",
+    "Các system administrators quản lý server sử dụng để tự động hóa việc giám sát, backup và vá lỗi hệ thống thông qua terminal commands",
+    "Các data scientists xử lý large datasets sử dụng để tích hợp Python scripts với các tools khác nhau một cách chọn lọc và an toàn",
+    "Các mobile developers phát triển app sử dụng subagents để chia nhỏ công việc phức tạp thành các tác vụ nhỏ hơn có thể chạy đồng thời trên multiple platforms"
+  ],
+  "ideas": [
+    "Kết hợp với quantum computing simulators để Oh My Pi có thể chạy các thuật toán optimization trên hệ thống quantum future",
+    "Ứng dụng trong môi trường không gian vũ trụ để các astronaut dùng Oh My Pi trên spacecraft để tự sửa chữa hệ thống và lập trình các mission",
+    "Tích hợp với AR/VR headsets đểOh My Pi trở thành assistant ảo xuất hiện trực tiếp trong không gian 3D, cung cấp hướng dẫn dưới dạng hologram",
+    "Kết hợp với DNA synthesizers để Oh My Pi có thể generate và chuyển đổi ý tưởng thành các phân tử hóa học thực tế thông qua robot lab automation"
+  ],
+  "stars": 16172,
+  "starsToday": 178,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-05T19:06:03.452Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2fa66be8-9acb-4b41-850d-cf392aadf0d7",
+  "repo": "clash-verge-rev/clash-verge-rev",
+  "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+  "category": "Web Frontend",
+  "summary": "Clash-verge-rev là ứng dụng GUI hiện đại được xây dựng trên nền tảng Tauri, cung cấp trải nghiệm đa dịch proxy tối ưu cho Windows, macOS và Linux. Đây là công cụ quản lý traffic mạng với giao diện trực quan, hỗ trợ cấu hình phức tạp và tích hợp với các core như Mihomo.",
+  "usecases": [
+    "Người dùng muốn truy cập nội dung quốc tế một cách ổn định và tốc độ cao trên macOS",
+    "Nhà quyền lực cần kiểm soát và phân phối kết nối mạng an toàn cho đội ngũ làm việc từ xa",
+    "Sinh viên sử dụng để truy cập tài liệu giáo dục quốc tế không bị chặn"
+  ],
+  "ideas": [
+    "Tích hợp với AI để tự động chọn server tối ưu dựa trên độ trễ thực nghiệm và phân phối tải thông minh",
+    "Kết nối với Home Assistant để điều khiển thiết bị IoT thông qua VPN private network",
+    "Hệ thống proxy phân phát cho làn sóng WiFi công cộng với lọc nội dung thông minh"
+  ],
+  "stars": 129731,
+  "starsToday": 189,
+  "language": "TypeScript",
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-07-05T19:06:03.452Z"
+}
