@@ -1,0 +1,24 @@
+{
+  "id": "f4181c15-1aaa-43e8-a6a4-4c80d96ceadf",
+  "repo": "openclaw/openclaw",
+  "url": "https://github.com/openclaw/openclaw",
+  "category": "AI Agent/Automation",
+  "summary": "OpenClaw là trợ lý AI cá nhân đa nền tảng chạy trên mọi hệ điều hành và thiết bị. Dự án nhấn mạnh việc sở hữu dữ liệu hoàn toàn và mang phong cách \"tôm\" (crustacean) với mục tiêu đưa ra trải nghiệm AI không bị vendor lock-in.",
+  "usecases": [
+    "Người dùng muốn có trợ lý AI chạy local hoàn toàn không cần kết nối internet",
+    "Công nhân văn phòng sử dụng assistant để tự động hóa các thủ tục repetitive như xử lý email và lịch họp",
+    "Nhà nghiên cứu bảo mật ứng dụng AI assistant để kiểm tra và cải thiện tính bảo mật dữ liệu cá nhân",
+    "Cha mẹ quản lý thời gian và nhiệm vụ cho con trẻ thông qua AI assistant được cấu hình riêng"
+  ],
+  "ideas": [
+    "Kết hợp với Home Assistant để biến OpenClaw thành trợ lý nhà thông minh chạy trên Raspberry Pi",
+    "Tích hợp với Obsidian để tự động phân tích và tổng hợp kiến thức từ sổ ghi chép cá nhân",
+    "Sử dụng làm agent điều phối drone nhà thông minh hayfarm bot tự động tưới tắc trời",
+    "Kết hợp với Matrix Protocol để OpenClaw trở thành node AI decentralized trong mạng xã hội phi vendor"
+  ],
+  "stars": 381823,
+  "starsToday": 196,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-05T21:55:29.870Z"
+}

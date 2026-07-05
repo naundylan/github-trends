@@ -1,0 +1,24 @@
+{
+  "id": "1a308a83-aa54-4be3-af01-09c26ab63a7d",
+  "repo": "dotnet/skills",
+  "url": "https://github.com/dotnet/skills",
+  "category": "Developer Tool",
+  "summary": "Bộ sưu tập các 'kỹ năng' (skills) được thiết kế riêng để hỗ trợ các AI coding agents làm việc với .NET và C#. Mỗi skill đại diện cho một chức năng cụ thể như xử lý file, gọi API, hoặc tương tác với database, giúp các agent mã hóa hiệu quả hơn khi phát triển ứng dụng .NET. Đây là công cụ quan trọng cho các nhà phát triển tích hợp AI vào quy trình phát triển phần mềm.",
+  "usecases": [
+    "Backend developer dùng để tạo API .NET tự động từ mô tả yêu cầu bằng tiếng tự nhiên",
+    "DevOps engineer thiết lập pipeline CI/CD với các skill giúp AI tương tác với NuGet và package management",
+    "Solution architect thiết kế hệ thống microservices bằng .NET và để AI tạo code mẫu",
+    "Technical lead quản lý dự án .NET giúp AI team code đồng bộ kiến trúc đã định"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Copilot để tạo ra các hàm .NET 'thong minh' hiểu context nghiệp vụ",
+    "Tích hợp vào Visual Studio Code phiên bản AI để các nhà phát triển .NET được trợ lý hoàn chỉnh mã nguồn",
+    "Ứng dụng trong các khoa trường để sinh viên học trực tuyến với trợ lý AI viết code .NET theo yêu cầu",
+    "Kết hợp với mạng xã hội học tập để các cộng đồng .NET có thể chia sẻ và bổ sung skills từ cộng đồng"
+  ],
+  "stars": 4016,
+  "starsToday": 247,
+  "language": "C#",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-05T21:55:29.870Z"
+}

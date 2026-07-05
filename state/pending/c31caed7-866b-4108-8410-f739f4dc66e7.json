@@ -1,0 +1,24 @@
+{
+  "id": "c31caed7-866b-4108-8410-f739f4dc66e7",
+  "repo": "CoplayDev/unity-mcp",
+  "url": "https://github.com/CoplayDev/unity-mcp",
+  "category": "Game Dev",
+  "summary": "Unity MCP là cầu nối giữa trình trợ lý AI và Editor Unity, cung cấp cho LLM khả năng quản lý tài sản, điều khiển cảnh, chỉnh sửa script và tự động hóa các tác vụ phức tạp trong Unity. Dự án hỗ trợ đa dịch vụ AI như Claude, Copilot, Gemini, OpenAI.",
+  "usecases": [
+    "Game developer dùng để tạo và chỉnh sửa prefab, animation nhân vật thông qua lệnh thoại",
+    "Indie game dev muốn xây dựng game 2D nhanh chót bằng AI tạo code và assets",
+    "Nhà thiết kế UI/UX dùng AI tạo giao diện độc đáo cho game mà không cần vẽ hand-drawn",
+    "Scriptwriter game dùng AI generate dialog, quest logic dựa trên narrative design"
+  ],
+  "ideas": [
+    "Kết hợp với công nghệ VR để người chơi dùng giọng nói điều khiển game một cách tự nhiên như đang trò chuyện với AI",
+    "Dùng trong metaverse để AI tạo nội dung sống độngRPG nhân vật phiên bản cá nhân hóa cho mỗi người chơi",
+    "Tích hợp vào nền tảng game streaming cho phép AI tạo level mới liên tục dựa trên phản ứng cộng đồng",
+    "Kết hợp với công nghệ Augmented Reality để AI gợi ý gameplay mechanics phù hợp với môi trường thực tế quanh người"
+  ],
+  "stars": 11898,
+  "starsToday": 415,
+  "language": "C#",
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-07-05T21:55:29.869Z"
+}

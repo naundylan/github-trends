@@ -1,0 +1,25 @@
+{
+  "id": "498b6aa9-b1b1-4a32-8a15-81813d6798a7",
+  "repo": "binwiederhier/ntfy",
+  "url": "https://github.com/binwiederhier/ntfy",
+  "category": "API/GraphQL",
+  "summary": "ntfy là một dịch vụ thông báo đẩy đơn giản cho phép gửi tin nhắn và cảnh báo đến điện thoại hoặc desktop thông qua HTTP PUT/POST. Dự án loại bỏ sự phức tạp của việc thiết lập push notification bằng cách sử dụng REST API cơ bản, phù hợp cho cả phát triển viên và người dùng thông thường. Hệ thống hỗ trợ pubsub model và có thể chạy tại chỗ hoặc sử dụng dịch vụ công khai.",
+  "usecases": [
+    "Developer dùng để nhận thông báo lỗi từ script chạy trên server về nhà, chỉ cần gửi HTTP POST là có ngay",
+    "Hệ thống monitoring dùng để cảnh báo trạng thái dịch vụ khi phát hiện lỗi hoặc tải cao",
+    "Home assistant người dùng nhận thông báo từ sensor nhà thong minh như cảm biến khói, nước tràn",
+    "CI/CD pipeline gửi trạng thái build/deploy tới nhóm dev qua ntfy thay vì dùng email"
+  ],
+  "ideas": [
+    "Kết nối ntfy với IoT Edge devices để tạo hệ thống cảnh báo phi truyền thông truyền trực tiếp đến thiết bị nông nghiệp tại remote farm",
+    "Xây dựng ntfy-bridge làm middleware nhận cảnh báo từ Prometheus, Grafana, PagerDuty và chuyển đổi thành tin nhắn ntfy tùy chỉnh theo từng team",
+    "Tích hợp ntfy vào AI agent system để agent tự động gửi cảnh báo khi phát hiện anomalies trong business metrics hoặc security logs",
+    "Dùng ntfy làm notification bus trong microservices kiến trúc, các service pubsub message đến ntfy which sau đó routing đến kênh thông báo phù hợp (slack, email, SMS)",
+    "Phát triển ntfy-based personal dashboard tại home terminal, nhận thông báo tất cả từ internet-of-things về nhà và hiển thị lịch sử trên màn hình nhỏ"
+  ],
+  "stars": 31282,
+  "starsToday": 138,
+  "language": "Go",
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-07-05T21:55:29.870Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "817ac0bc-0a93-46b0-bb09-1839f6c1e870",
+  "repo": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "category": "AI Agent/Automation",
+  "summary": "Đây là kỹ năng AI agent thu thập thông tin từ nhiều nguồn như Reddit, X, YouTube, Hacker News, Polymarket và web trong 30 ngày, sau đó tổng hợp thành bản tóm tắt chính xác và được cập nhật. Dự án giúp người dùng nhanh chóng nắn nhuộc thông tin mới nhất trên các nền tảng xã hội và tài chính trí tuệ thông minh.",
+  "usecases": [
+    "Nhà đầu tư theo dõi xu hướng thị trường Polymarket và cảm xúc thị trường dalam 30 ngày qua Reddit và X",
+    "Nhà nghiên cứu xã hội học tập hợp dữ liệu cảm xúc và thảo luận từ nhiều nền tảng mạng xã hội",
+    "Content creator nghiên cứu ý tưởng và chủ đề phổ biến trên YouTube và TikTok để tạo nội dung",
+    "Công ty công nghệ theo dõi xu hướng công nghệ mới từ Hacker News và các diễn đàn kỹ thuật"
+  ],
+  "ideas": [
+    "Kết hợp với Notion để tự động tạo báo cáo hàng ngày về xu hướng thị trường và cảm xúc người tiêu dùng",
+    "Tích hợp với Slack bot để gửi cảnh báo khi phát hiện xu hướng mới hoặc scandal liên quan đến công ty",
+    "Sử dụng làm agent nền tảng cho hệ thống gợi ý sản phẩm dựa trên xu hướng thị trường thực-time",
+    "Tích hợp với CRM để salesperson nhận được cảnh báo về nhu cầu thị trường mới nhất của khách hàng ti poten"
+  ],
+  "stars": 49131,
+  "starsToday": 236,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-05T21:55:29.870Z"
+}

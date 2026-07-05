@@ -1,0 +1,24 @@
+{
+  "id": "992fdce7-2050-471d-a883-bf5253394531",
+  "repo": "cheahjs/free-llm-api-resources",
+  "url": "https://github.com/cheahjs/free-llm-api-resources",
+  "category": "AI/LLM",
+  "summary": "Đây là danh sách cập nhật liên tục các tài nguyên API chạy LLM miễn phí, giúp người dùng truy cập vào các mô hình AI mạnh mẽ như Claude, Gemini, Llama không tốn phí. Bao gồm cả API keys public, endpoint thử nghiệm, và các dịch vụ có giới hạn.",
+  "usecases": [
+    "Developer nhỏ dùng để tích hợp tính năng AI vào sản phẩm MVP mà không cần đầu tư ban đầu",
+    "Nhà nghiên cứu muốn thử nghiệm và so sánh đầu ra từ nhiều mô hình LLM khác nhau",
+    "Startup cần xây dựng tính năng chat hay tóm tắt văn bản với ngân sách hạn chế",
+    "Giáo viên/trường đại học dùng để dạy học sinh về khả năng của AI mà không cần bỏ tiền mua API"
+  ],
+  "ideas": [
+    "Xây dựng hệ sinh thái serverless tự động chọn API rẻ nhất cho mỗi request dựa trên trọng lượng và đặc yêu cầu",
+    "Tích hợp vào CI/CD pipeline để test phần mềm với nhiều provider AI khác nhau mỗi lần deploy",
+    "Tạo mạng lưới AI phân tán (distributed AI network) sử dụng thư viện nguồn mở để cộng sức sức mạnh tính toán",
+    "Kết hợp với hệ thống blockchain để quản lý API keys một cách an toàn, phân phát quyền dùng theo smart contract"
+  ],
+  "stars": 25400,
+  "starsToday": 510,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-05T21:55:29.869Z"
+}

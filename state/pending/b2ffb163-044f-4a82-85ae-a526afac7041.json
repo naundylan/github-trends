@@ -1,0 +1,24 @@
+{
+  "id": "b2ffb163-044f-4a82-85ae-a526afac7041",
+  "repo": "TauricResearch/TradingAgents",
+  "url": "https://github.com/TauricResearch/TradingAgents",
+  "category": "AI Agent/Automation",
+  "summary": "Framework đa agent LLM chuyên về giao dịch tài chính với khả năng tự học và ra quyết định. Các agent đảm nhận các chức năng khác nhau như phân tích thị trường, nghiên cứu công ty, và đề xuất giao dịch, tạo nên một hệ thống tư vấn đầu tư hoàn chỉnh. Dự án đang được hàng chục nghìn developer sử dụng để xây dựng bot giao dịch thông minh.",
+  "usecases": [
+    "Quant investor chạy bot tự động giao dịch cổ phiếu dựa trên phân tích tin tức thời sự",
+    "Fintech startup tích hợp vào nền tảng giao dịch để cung cấp dịch vụ tư vấn đầu tư cá nhân hóa",
+    "Sinh viên tài chính nghiên cứu hành vi thị trường bằng cách giả lập các agent khác nhau",
+    "Fund manager sử dụng để phân tích rủi ro đa khía cạnh từ nhiều nguồn dữ liệu khác nhau"
+  ],
+  "ideas": [
+    "Kết hợp với mạng lưới DeFi để Claude tự động market-making và arbitrage trên blockchain",
+    "Tích hợp với siêu khối nhà nước số để phân tích và dự báo kinh tế vĩ mô theo thời gian thực",
+    "Ứng dụng trong tiếng nói nhà đầu tư cá nhân để các agent của Claude đóng vai trò như 'người bạn đầu tư' thân thiện",
+    "Kết hợp với trí tuệ nhân tạo cảm xúc để các agent giao dịch có khả năng điều chỉnh cảm xúc theo thị trường"
+  ],
+  "stars": 91064,
+  "starsToday": 256,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-05T21:55:29.870Z"
+}

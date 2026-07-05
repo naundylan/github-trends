@@ -1,0 +1,24 @@
+{
+  "id": "bed6c0cf-edba-4fcd-9bdc-cb0bb01baa7f",
+  "repo": "Leonxlnx/taste-skill",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "category": "AI/LLM",
+  "summary": "Taste-Skill là công cụ giúp AI có 'khẩu vị' tốt hơn, ngăn chặn việc tạo ra mã hoặc nội dung chung chung, nhàm chán. Dự án sử dụng các kỹ thuật đánh giá chất lượng để đào tạo AI chọn lọc đầu ra tốt hơn dựa trên ngữ cảnh và yêu cầu cụ thể.",
+  "usecases": [
+    "Developer dùng để cải thiện chất lượng code generation từ AI khi xây dựng ứng dụng cá nhân hóa",
+    "Designer frontend muốn AI tạo giao diện độc đáo không bị lặp lại kiểu mẫu",
+    "Người học lập trình dùng nhưng khóa học có ví dụ tốt hơn từ AI assistant",
+    "Content creator dùng AI viết nhưng muốn tránh nội dung generic, gibberish"
+  ],
+  "ideas": [
+    "Kết hợp với IDE VSCode để AI code có phong cách tôi, tự động định dạng theo gu cá nhân khi viết function",
+    "Tích hợp vào hệ thống marketing automation để email campaign không bị coi là spam hay repetitive",
+    "Dùng trong nền giáo dục online để AI tutor tạo bài học tập tểnh, không trùng lặp kiểu template",
+    "Kết hợp với AI video generation để tạo kịch bản quảng cáo không cliché, tăng tính sáng tạo"
+  ],
+  "stars": 57362,
+  "starsToday": 850,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-05T21:55:29.869Z"
+}

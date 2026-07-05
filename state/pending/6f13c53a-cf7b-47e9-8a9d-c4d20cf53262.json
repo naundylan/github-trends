@@ -1,0 +1,24 @@
+{
+  "id": "6f13c53a-cf7b-47e9-8a9d-c4d20cf53262",
+  "repo": "karpathy/nanoGPT",
+  "url": "https://github.com/karpathy/nanoGPT",
+  "category": "AI/LLM",
+  "summary": "Đây là khoảng code đơn giản và nhanh chóng nhất để huấn luyện và fine-tune các mô hình GPT cỡ vừa phù hợp. Repository cung cấp các module giản dịch giúp người mới dễ dàng bắt đầu với việc xây dựng và training LLM mà không cần quá nhiều code phức tạp.",
+  "usecases": [
+    "Sinh viên máy học xây dựng mô hình GPT đầu tiên của họ để học tập và nghiên cứu",
+    "Doanh nghiệp nhỏ muốn tạo chatbot chuyên về ngành riêng với dataset nội bộ",
+    "Researcher nghiên cứu các phương pháp fine-tuning và so sánh hiệu quả giữa các kỹ thuật khác nhau",
+    "Developer muốn triển khai LLM trên edge device hoặc server tài nguyên giới hạn"
+  ],
+  "ideas": [
+    "Kết hợp với LangChain để xây dựng hệ thống RAG (Retrieval-Augmented Generation) hoàn chỉnh chỉ với vài chục dòng code",
+    "Tích hợp với Hugging Face để tự động đăng model đã fine-tune lên leaderboard",
+    "Sử dụng làm foundation cho việc xây dựng các LLM đặc biệt như legal-bot hay medical-diagnosis-assistant",
+    "Kết hợp với WebAssembly biên dịch mô hình xuống trình duyệt cho phép chạy LLM local hoàn toàn"
+  ],
+  "stars": 60779,
+  "starsToday": 200,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-05T21:55:29.870Z"
+}

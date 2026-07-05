@@ -1,0 +1,24 @@
+{
+  "id": "d0add769-93b4-4c06-921a-70d93a10e480",
+  "repo": "bradautomates/claude-video",
+  "url": "https://github.com/bradautomates/claude-video",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện mở rộng khả năng Claude AI để xử lý video một cách tự động. Hệ thống tải về video, trích xuất khung hình, chuyển đổi âm thanh thành văn bản và truyền tất cả dữ liệu cho Claude phân tích. Đây là giải pháp cho phép Claude 'xem' và hiểu nội dung video mà trước đây chỉ có thể xử lý văn bản.",
+  "usecases": [
+    "Nhà nghiên cứu sử dụng để phân tích hàng ngàn video nghiên cứu thị trường một cách tự động",
+    "Nhân viên marketing truy xuất ý tưởng nội dung từ video YouTube để tạo báo cáo",
+    "Giáo viên giảng dạy bằng tiếng khác giọng dịch và phân tích nội dung video học tập",
+    "Luật sư phân tích hội thoại trong video trực tiếp để hỗ trợ việc điều tra"
+  ],
+  "ideas": [
+    "Kết hợp với Tesla Autopilot để Claude xem và phân tích video lái xe thực tế trên đường",
+    "Tích hợp với Google Glass thế hệ tương lai để ghi lại và phân tích môi trường xung quanh người dùng",
+    "Ứng dụng trong siêu thị tự động nhận diện và phân tích hành vi khách hàng qua camera giám sát",
+    "Kết hợp với robot phẫu thuật để Claude xem và hướng dẫn thao tác chính xác dựa trên video hướng dẫn"
+  ],
+  "stars": 3503,
+  "starsToday": 356,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-05T21:55:29.869Z"
+}
