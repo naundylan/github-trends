@@ -1,0 +1,25 @@
+{
+  "id": "3be9deb7-b74f-49c2-98de-462b0331ffda",
+  "repo": "nilbuild/developer-roadmap",
+  "url": "https://github.com/nilbuild/developer-roadmap",
+  "category": "Documentation/Learning Resource",
+  "summary": "Bộ tài liệu định hướng phát triển nghề nghiệp cho các nhà phát triển với các roadmap tương tác và hướng dẫn chi tiết, giúp các developer nâng cao kỹ năng và tiếp cận các công nghệ mới một cách có hệ thống.",
+  "usecases": [
+    "Developer mới bắt đầu muốn có kế hoạch học tập từ frontend đến backend một cách có hệ thống",
+    "Quản lý technical team cần xây dựng chương trình đào tạo hoặc lên kế hoạch phát triển kỹ năng cho cả nhóm",
+    "Cá nhân muốn theo dõi và lập kế hoạch sự nghiệp trong lĩnh vực công nghệ thông tin dài hạn",
+    "Giảng viên hoặc huấn luyện viên cần tài liệu tham khảo để đưa ra chương trình học cho học sinh hoặc người học kỹ năng lập trình"
+  ],
+  "ideas": [
+    "Tích hợp AI tạo ra lộ trình học cá nhân hóa dựa trên trình độ hiện tại và mục tiêu nghề nghiệp của người dùng",
+    "Kết hợp với các nền tảng học trực tuyến như Udemy hoặc Coursera để nhúng link bài học liên quan trực tiếp vào từng mục trên roadmap",
+    "Phát triển thành nền tảng cộng đồng cho phép người dùng chia sẻ kinh nghiệm thực tế và đóng góp vào việc cập nhật các công nghệ mới",
+    "Tích hợp chatbot AI chuyên về tư vấn lộ trình phát triển nghề nghiệp với khả năng trả lời ngắn gọn và cá nhân hóa",
+    "Tạo phiên bản tương tác dưới dạng game du lịch thông tin (info-graphy game) để người học được trải nghiệm học tập một cách thú vị và ghi nhớ lâu dài"
+  ],
+  "stars": 359508,
+  "starsToday": 134,
+  "language": "TypeScript",
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-07-06T19:47:39.230Z"
+}

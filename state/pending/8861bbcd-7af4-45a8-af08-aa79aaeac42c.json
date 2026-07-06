@@ -1,0 +1,24 @@
+{
+  "id": "8861bbcd-7af4-45a8-af08-aa79aaeac42c",
+  "repo": "sindresorhus/awesome",
+  "url": "https://github.com/sindresorhus/awesome",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Bộ sưu tập danh sách 'awesome' được curate chất lượng cao về mọi chủ đề kỹ thuật và phi kỹ thuật. Là nguồn tài nguyên đáng tin cậy để developer khám phá công cụ, thư viện mới nhất và được cộng đồng đánh giá cao.",
+  "usecases": [
+    "Engineer muốn tìm kiếm thư viện UI mới nhất cho dự án frontend",
+    "Researcher cần tài liệu tham khảo về AI/ML trong 6 tháng gần đây",
+    "Tech lead lên kế hoạch đào tạo team về các công nghệ emerging"
+  ],
+  "ideas": [
+    "Kết hợp với ZVec tạo search engine cá nhân hóa dựa trên sở thích người dùng",
+    "Xây dựng phiên bản offline của Awesome Lists dùng trong môi trường không internet",
+    "Tích hợp vào GitHub Copilot để gợi ý tài nguyên khi code",
+    "Tạo AI-powered curator tự động cập nhật danh sách dựa trên trend GitHub",
+    "Phát triển mobile app duyệt Awesome Lists với chế độ bookmark và export"
+  ],
+  "stars": 482173,
+  "starsToday": 393,
+  "language": "",
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-07-06T19:47:39.230Z"
+}

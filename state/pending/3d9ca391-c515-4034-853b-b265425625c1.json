@@ -1,0 +1,22 @@
+{
+  "id": "3d9ca391-c515-4034-853b-b265425625c1",
+  "repo": "Alishahryar1/free-claude-code",
+  "url": "https://github.com/Alishahryar1/free-claude-code",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án mở source cho phép sử dụng Claude Code và Codex miễn phí thông qua giao diện CLI, tiện ích VSCode và Discord với hỗ trợ voice. Đây là giải pháp thay thế các công cụ AI trả phí như GitHub Copilot, tuần tự các agent AI tự động hóa việc lập trình.",
+  "usecases": [
+    "DevOps engineer muốn tích hợp AI assistant vào quy trình CI/CD pipeline để tự động sửa lỗi code",
+    "Sinh viên học lập trình cần truy cập miễn phí các mô hình lớn như Claude 3.5 Sonnet cho bài tập thực hành",
+    "Nhóm phát triển nhỏ muốn triển khai chatbot hỗ trợ kỹ thuật trên kênh Discord của công ty"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Actions để tạo AI-powered code review bot chạy hoàn toàn miễn phí trên mỗi pull request",
+    "Tích hợp với Obsidian hay Notion để AI truy vấn và tổng hợp kiến thức cá nhân thành markdown tự động",
+    "Xây dựng hệ thống AI trò chuyện qua webrtc để các nhà làm phần mềm trao đổi code real-time giống đang ngồi cùng bàn làm việc"
+  ],
+  "stars": 38896,
+  "starsToday": 207,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-06T19:47:39.230Z"
+}

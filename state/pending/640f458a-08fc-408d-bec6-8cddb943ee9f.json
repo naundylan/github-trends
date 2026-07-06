@@ -1,0 +1,22 @@
+{
+  "id": "640f458a-08fc-408d-bec6-8cddb943ee9f",
+  "repo": "karakeep-app/karakeep",
+  "url": "https://github.com/karakeep-app/karakeep",
+  "category": "Productivity/Personal Tool",
+  "summary": "Nền tảng tự cài (self-hosted) quản lý bookmark, ghi chú và hình ảnh thông minh với gán thẻ tự động bằng AI và tìm kiếm toàn văn. Được xây dựng trên Next.js và React Native, phù hợp lưu trữ dữ liệu cá nhân đ decentralized, đồng thời hóa giải vấn đề quản lý thông tin rời rạc trên nhiều nền tảng.",
+  "usecases": [
+    "Nhà nghiên cứu cần lưu trữ hàng ngàn bài báo học thuật với chỉ số hoá học tự động cho phân tích sau này",
+    "Content creator quản lý toàn bộ nội dung được bookmark từ mạng xã hội, viết ghi chú phân tích trước khi xuất bản sách",
+    "Giáo viên dùng làm thư viện tài liệu bài giảng tự xây dựng, chia sẻ với học sinh qua link đăng nhập"
+  ],
+  "ideas": [
+    "Kết hợp với Zotero để tự động đồng bộ hóa đơn vị xuất bản học thuật vào thư viện cá nhân của giáo sư",
+    "Tích hợp AI sinh viên ảo để trò chuyện và truy vấn thông tin từ kho tài liệu đã lưu, tạo chatbot chuyên về chủ đề bạn nghiên cứu",
+    "Xây dựng phiên bản di động dùng AR để gắn ghim trang web vào không gian thực tế khi duyệt web trên điện thoại"
+  ],
+  "stars": 26811,
+  "starsToday": 178,
+  "language": "TypeScript",
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-07-06T19:47:39.230Z"
+}

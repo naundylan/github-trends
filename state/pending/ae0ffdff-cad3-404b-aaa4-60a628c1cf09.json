@@ -1,0 +1,23 @@
+{
+  "id": "ae0ffdff-cad3-404b-aaa4-60a628c1cf09",
+  "repo": "decolua/9router",
+  "url": "https://github.com/decolua/9router",
+  "category": "API/GraphQL",
+  "summary": "9router là một gateway AI miễn phí với giới hạn không giới hạn, kết nối các công cụ lập trình như Claude Code, Cursor, Cline, Copilot đến hàng chục nhà cung cấp AI miễn phí. Tính năng chính là auto-fallback và RTK giúp tiết kiệm 40% token, vượt qua giới hạn rate limit của các dịch vụ AI.",
+  "usecases": [
+    "Lập trình viên dùng để truy cập Claude/GPT/Gemini miễn phí khi không có API key, phát triển ứng dụng AI mà không lo budget",
+    "Team phát triển nhỏ muốn tích hợp AI vào dự án nhưng tiết kiệm chi phí sử dụng API, sử dụng làm gateway đa provider",
+    "Người dùng gặp rate limit trên OpenAI/Cursor bị chặn, dùng 9router để tiếp tục làm việc không gián đoạn"
+  ],
+  "ideas": [
+    "Kết hợp với VS Code tạo extension 'AI Gateway Manager' để chọn provider miễn phí bằng GUI",
+    "Tích hợp với hệ thống CI/CD tự động chọn model rẻ nhất cho từng task trong quy trình build",
+    "Tạo nền tảng mua bán token AI giữa các developer, dùng 9router làm sổ địa chỉ giao dịch",
+    "Phát triển thành dịch vụ chạy trên edge node để giảm latency, kết hợp với Cloudflare Workers"
+  ],
+  "stars": 20277,
+  "starsToday": 305,
+  "language": "JavaScript",
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-07-06T19:47:39.230Z"
+}

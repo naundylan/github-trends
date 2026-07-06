@@ -1,0 +1,24 @@
+{
+  "id": "d6ba7d60-7e09-47a0-bb70-aaea9e1fa2b9",
+  "repo": "alibaba/zvec",
+  "url": "https://github.com/alibaba/zvec",
+  "category": "Database",
+  "summary": "Vector database nhẹ và siêu tốc chạy trong-process, tối ưu cho các ứng dụng cần semantic search và RAG. Sử dụng các thuật toán nâng cao như HNSW và FAISS để đạt hiệu suất cao nhất trong việc so sánh và truy vấn vector similarity.",
+  "usecases": [
+    "Developer xây dự trữ liệu vector tài liệu cho chatbot nội bộ",
+    "Data scientist thực hiện phân tích document retrieval với khối lượng lớn",
+    "ML engineer triển khai RAG pipeline mà không cần setup separate vector DB server"
+  ],
+  "ideas": [
+    "Kết hợp với Agent Skills tạo memory system cho AI agents",
+    "Xây dựng gRPC service bao bọc ZVec để dùng trong microservices",
+    "Tích hợp vào Next.js API routes làm vector storage cho ISR (Incremental Static Regeneration)",
+    "Tạo ra WASM build để dùng trong browser với WebGL acceleration",
+    "Phát triển plugin cho LangChain.js sử dụng ZVec làm vector store"
+  ],
+  "stars": 13369,
+  "starsToday": 355,
+  "language": "C++",
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-07-06T19:47:39.230Z"
+}

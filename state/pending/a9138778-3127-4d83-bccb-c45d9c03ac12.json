@@ -1,0 +1,24 @@
+{
+  "id": "a9138778-3127-4d83-bccb-c45d9c03ac12",
+  "repo": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện các kỹ năng kỹ thuật để AI coding agents vận hành trong môi trường production. Bao gồm các hướng dẫn chi tiết để các agent tích hợp với IDE như Cursor và Claude Code, giúp tăng khả năng tự động hóa và độ chính xác của quy trình phát triển.",
+  "usecases": [
+    "Developer sử dụng Cursor hoặc Claude Code để tích hợp AI agent vào workflow coding hàng ngày",
+    "Team lead định hướng cho AI agent về các best practices kỹ thuật cụ thể",
+    "QA engineer thiết lập prompt để AI thực hiện code review tuân theo tiêu chuẩn production"
+  ],
+  "ideas": [
+    "Kết hợp với ZVec tạo hệ thống AI agent có nhớ trữ trữ ngữ cảnh dài hạn",
+    "Xây dựng MCP (Model Context Protocol) server sử dụng agent-skills làm foundation",
+    "Tích hợp vào hệ thống CI/CD để AI tự động fix bugs dựa trên code quality rules",
+    "Tạo ra knowledge base cho các agent hoạt động trong domain cụ thể như healthcare hay finance",
+    "Phát triển plugin cho VSCode sử dụng skills này làm core engine"
+  ],
+  "stars": 70624,
+  "starsToday": 1114,
+  "language": "Shell",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-06T19:47:39.230Z"
+}

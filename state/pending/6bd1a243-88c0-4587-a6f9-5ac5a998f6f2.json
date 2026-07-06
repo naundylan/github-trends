@@ -1,0 +1,23 @@
+{
+  "id": "6bd1a243-88c0-4587-a6f9-5ac5a998f6f2",
+  "repo": "kenn-io/agentsview",
+  "url": "https://github.com/kenn-io/agentsview",
+  "category": "Developer Tool",
+  "summary": "AgentsView là công cụ theo dõi và phân tích hoạt động của các AI coding agent. Hỗ trợ theo dõi session, thống kê token sử dụng, cung cấp insights về hiệu suất và hành vi của các agent như Claude Code, Codex, và hơn 20 agent khác chạy trên máy local.",
+  "usecases": [
+    "Lập trình viên muốn theo dõi mức sử dụng token, tragetime của từng AI agent để tối ưu workflow",
+    "Team lead cần báo cáo chi phí và năng suất sử dụng AI cho các dự án, phân tích ai agent nào hiệu quả",
+    "Công ty phần mềm quản lý nhiều developer dùng AI agent, dùng AgentsView để audit và tối ưu hóa chi phí"
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống billing tự động tính phí dựa trên số liệu thống kê token từ AgentsView",
+    "Kết hợp với Grafana tạo dashboard real-time theo dõi hàng trăm AI agent chạy trên cluster",
+    "Phát triển thành Chrome Extension để theo dõi token usage ngay trong trình duyệt khi dùng Claude Code",
+    "Tích hợp với hệ thống học máy để dự đoán khối lượng token cần thiết cho từng loại task"
+  ],
+  "stars": 3965,
+  "starsToday": 208,
+  "language": "Go",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-06T19:47:39.230Z"
+}

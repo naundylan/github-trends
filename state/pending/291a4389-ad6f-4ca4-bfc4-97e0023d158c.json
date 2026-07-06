@@ -1,0 +1,22 @@
+{
+  "id": "291a4389-ad6f-4ca4-bfc4-97e0023d158c",
+  "repo": "crynta/terax-ai",
+  "url": "https://github.com/crynta/terax-ai",
+  "category": "AI/LLM",
+  "summary": "Môi trường làm việc phát triển dựa trên terminal chỉ 7MB, tích hợp sẵn AI như một trình soạn code thông minh. Với hệ điều hành đa nền tảng và kernel riêng, Terax-AI biến terminal thành một không gian làm việc hoàn chỉnh để chạy agent, debug và triển khai mã nguồn một cách cực kỳ nhẹ nhàng.",
+  "usecases": [
+    "Lập trình viên Rust chạy agent AI trên server Linux mỏng để tối ưu hóa hệ tiêu thụ tài nguyên",
+    "Data scientist chạy mô hình LLM nhỏ trên máy cá nhân để phân tích dữ liệu không cần đến GPU mạnh",
+    "Nhóm phát triển dùng trong môi trường công cộng (vd: laptop công cộng) muốn giữ toàn bộ môi trường phát triển riêng không ảnh hưởng hệ thống"
+  ],
+  "ideas": [
+    "Kết hợp với Tailscale để tạo không gian làm việc phát triển phía trong điện toán được bảo mật qua VPN, chạy agent từ bất kỳ đâu",
+    "Tích hợp với OBS cho phéo livestream môi trường terminal AI với hiệu ứng âm thanh và hình ảnh động khi agent thực thi lệnh",
+    "Xây dựng phiên bản AI agent chạy trên ESP32 như một 'con robot đi làm' chỉ 7MB nhưng có khả năng lập trình và chạy mô hình số học basic"
+  ],
+  "stars": 8320,
+  "starsToday": 136,
+  "language": "TypeScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-06T19:47:39.230Z"
+}
