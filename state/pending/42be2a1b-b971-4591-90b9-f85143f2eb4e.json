@@ -1,0 +1,25 @@
+{
+  "id": "42be2a1b-b971-4591-90b9-f85143f2eb4e",
+  "repo": "nodejs/node",
+  "url": "https://github.com/nodejs/node",
+  "category": "Backend Framework",
+  "summary": "Node.js là runtime môi trường chạy JavaScript với hiệu suất cao, phù hợp cho việc xây dựng ứng dụng mạng hiện đại nhờ vào kiến trúc không đồng bộ và event-driven. Đây là nền tảng cốt lõi để phát triển API, ứng dụng real-time và dịch vụ web tiếp xúc trực tiếp với client.",
+  "usecases": [
+    "Developer phát triển ứng dụng web real-time như chat, gaming hoặc dashboard cùng WebSocket và Express.js",
+    "Team DevOps xây dựng microservice REST API cho mobile app sử dụng NestJS và Kubernetes",
+    "Startup SaaS xây dựng nền tảng nhận hàng thông minh cần xử lý lượng lớn request với Node.js và MongoDB",
+    "Công ty logistics phát triển hệ thống theo dõi vận chuyển trực tuyến với Node.js và Socket.IO"
+  ],
+  "ideas": [
+    "Kết hội Node.js với WebContainers API để chạy hoàn toàn trên trình duyệt browser mà không cần server backend",
+    "Tích hợp WebAssembly với Node.js để chạy mô hình AI nặng nề trên edge device như Raspberry Pi",
+    "Xây dựng serverless functions runtime tùy chỉnh dựa trên Node.js cho phép người dùng chạy code với quyền chỉ số memory nhỏ gọn",
+    "Ứng dụng Node.js với WebTransport để tạo giao diện người dùng siêu tương tác trong trình duyệt futuristic",
+    "Kết hợp Node.js với Tauri framework để xây dựng desktop apps nhẹ nhưng hiệu suất cao thay vì Electron"
+  ],
+  "stars": 118094,
+  "starsToday": 121,
+  "language": "JavaScript",
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-07-06T22:09:45.904Z"
+}

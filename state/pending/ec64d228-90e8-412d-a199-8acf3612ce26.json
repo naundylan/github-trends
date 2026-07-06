@@ -1,0 +1,23 @@
+{
+  "id": "ec64d228-90e8-412d-a199-8acf3612ce26",
+  "repo": "clash-verge-rev/clash-verge-rev",
+  "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+  "category": "Networking",
+  "summary": "Clash Verge Rev là ứng dụng GUI hiện đại dùng Tauri, hỗ trợ chạy trên Windows, macOS và Linux để cung cấp trải nghiệm proxy được tùy chỉnh. Được xây dựng trên nền tảng Tauri với hiệu suất cao và tích hợp mihomo cho khả năng định tuyến thông minh.",
+  "usecases": [
+    "Người dùng muốn truy cập nội dung bị chặn tại nơi làm việc hoặc trường học một cách dễ dàng",
+    " Quản trị viên mạng muốn triển khai hệ thống proxy trên nhiều nền tảng máy tính",
+    " Người học tập muốn truy cập tài liệu giáo dục quốc tế không bị hạn chế bởi geolocation"
+  ],
+  "ideas": [
+    "Kết hợp clash-verge-rev với hệ thống blockchain để tạo mạng proxy phân tán từ thiện",
+    " Ứng dụng vào mạng lưới Internet của sắt sao để định tuyến thông minh qua các node vệ tinh",
+    "Tích hợp với AI để tự động chọn node proxy tốt nhất dựa trên đặc thù công việc",
+    "Xây dựng hệ thống proxy phân biệt bằng Blockchain để người dùng thanh toán bằng tiền điện tử"
+  ],
+  "stars": 129914,
+  "starsToday": 189,
+  "language": "TypeScript",
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-07-06T22:09:45.904Z"
+}

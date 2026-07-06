@@ -1,0 +1,24 @@
+{
+  "id": "0eeae527-9ac7-49ee-b087-6844266adb26",
+  "repo": "steipete/CodexBar",
+  "url": "https://github.com/steipete/CodexBar",
+  "category": "Developer Tool",
+  "summary": "Tiện ích macOS hiển thị thống kê sử dụng OpenAI Codex và Claude Code real-time mà không cần đăng nhập, giúp các nhà phát triển theo dõi xuất xứng và hiệu suất các trình mã hóa AI yêu thích một cách dễ dàng.",
+  "usecases": [
+    "Freelancer theo dõi API costs khi sử dụng Codex và Claude để tối ưu chi phí dịch vụ AI hàng tháng",
+    "Team lead quản lý năng suất đội ngũ phát triển bằng cách so sánh tốc độ và chất lượng output từ các AI coding agents",
+    "Giảng viên đo lường hiệu quả giảng dạy bằng cách theo dõi học sinh sử dụng AI coding tools như thế nào trong bài tập",
+    "QA engineer đánh giá xuất xứ của các AI agents để đưa ra quyết định chọn công cụ phù hợp cho từng dự án"
+  ],
+  "ideas": [
+    "Phát triển thành extension trình duyệt để theo dõi usage stats trên bất kỳ nền tảng nào như Replit hay GitHub Codespaces",
+    "Tích hợp với hệ thống blockchain để ghi lại khối lượng công việc đã hoàn thành trên chain như một bằng chứng công khai",
+    "Tạo dashboard phân tích tâm lý học sinh dựa trên hành vi sử dụng AI tools để cá nhân hóa phương pháp giảng dạy",
+    "Kết nối với VR workspace để hiển thị usage stats ngay trong không gian làm việc ảo của nhà phát triển"
+  ],
+  "stars": 16701,
+  "starsToday": 598,
+  "language": "Swift",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-06T22:09:45.904Z"
+}

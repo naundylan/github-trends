@@ -1,0 +1,25 @@
+{
+  "id": "07cb55a6-b383-4471-9f7f-4ecb23675e62",
+  "repo": "avelino/awesome-go",
+  "url": "https://github.com/avelino/awesome-go",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Awesome Go là danh sách được chọn lọc đầy đủ các framework, thư viện và phần mềm Go tuyệt vời dành cho cộng đồng phát triển. Đây là tài nguyên tham khảo quý giá để developers nhanh chóng tìm kiếm các giải pháp đã được chứng minh cho các use case phổ biến như web development, concurrency, và system programming.",
+  "usecases": [
+    "Developer mới học Go tham khảo các thư viện đề xuất để xây dựng web service nhanh chóng",
+    "Team backend xây dựng microservice high-performance cần reference các framework như Gin, Echo, và gRPC",
+    "System architect lên kế hoạch cho dự án distributed system tìm các giải pháp concurrency và messaging",
+    "Sinh viên công ty phần mềm thực hành tìm codebase mẫu bằng Go cho các dự án thực tế"
+  ],
+  "ideas": [
+    "Tích hợp AI code assistant vào Awesome Go để đề xuất thư viện phù hợp dựa trên use case cụ thể của developer",
+    "Kết hợp với GitHub Copilot để tạo mẫu code mẫu bằng Go với các thư viện được liệt kê trong danh sách",
+    "Xây dựng phiên bản tương tác được các bài toán concurrent programming với các giải pháp mẫu từ danh sách",
+    "Ứng dụng Awesome Go vào trường đại học để tạo khóa học thực hành với các dự án nhỏ từ danh sách liệt kê",
+    "Kết hợp với Go modules mời gọi tự động để tạo project starter template dựa trên loại ứng dụng mong muốn"
+  ],
+  "stars": 177374,
+  "starsToday": 121,
+  "language": "Go",
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-07-06T22:09:45.904Z"
+}

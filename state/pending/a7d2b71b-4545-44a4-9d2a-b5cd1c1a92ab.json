@@ -1,0 +1,25 @@
+{
+  "id": "a7d2b71b-4545-44a4-9d2a-b5cd1c1a92ab",
+  "repo": "microsoft/qlib",
+  "url": "https://github.com/microsoft/qlib",
+  "category": "AI/LLM",
+  "summary": "Qlib là một nền tảng đầu tư số (Quant) hướng AI, sử dụng công nghệ học máy để làm chủ nghiên cứu đầu tư và triển khai giao dịch thuật toán. Nó hỗ trợ nhiều phương pháp mô hình ML bao gồm học giám sát, mô hình động lực thị trường và reinforcement learning, đồng thời tích hợp với RD-Agent để tự động hóa quy trình R&D.",
+  "usecases": [
+    "Nhà nghiên cứu tài chính dùng để thử nghiệm và so sánh các mô hình dự báo giá cổ phiếu bằng trí tuệ nhân tạo",
+    "Trader algo ứng dụng mô hình RL từ Qlib để tối ưu hóa chiến lược giao dịch tự động",
+    "Fintech company phát triển nền tảng phân tích thị trường sử dụng dữ liệu lịch sử và ticker real-time",
+    "Giảng viên đại học dùng làm tài liệu giảng dạy về ứng dụng AI trong tài chính số"
+  ],
+  "ideas": [
+    "Kết hợp Qlib với blockchain DeFi để tạo ra các chiến lược giao dịch token thông minh tự thực thi qua smart contract",
+    "Tích hợp mô hình ngôn ngữ lớn từ Microsoft với Qlib để phân tích cả dữ liệu thị trường và tin tức tài chính bằng ngôn ngữ tự nhiên",
+    "Xây dựng hệ thống multi-agent trading assistants sử dụng Qlib và AutoGen để các AI agent tự học và đồng hợp tác giao dịch",
+    "Ứng dụng Qlib trong metaverse tài chính để mô phỏng thị trường trong không gian ảo 3D với VR trading interfaces",
+    "Kết hợp với Microsoft Fabric và Synapse để tạo nền tảng phân tích dữ liệu tài chính lai giữa AI và big data"
+  ],
+  "stars": 45824,
+  "starsToday": 127,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-06T22:09:45.904Z"
+}
