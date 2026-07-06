@@ -1,0 +1,23 @@
+{
+  "id": "b83ab39a-b35c-49ee-ab79-5b2b031ea1e9",
+  "repo": "microsoft/qlib",
+  "url": "https://github.com/microsoft/qlib",
+  "category": "AI/LLM",
+  "summary": "Qlib là nền tảng đầu tư số (Quant) do Microsoft phát triển, sử dụng công nghệ AI để nâng cao nghiên cứu định lượng và triển khai các mô hình giao dịch tự động. Nền tảng hỗ trợ đa dạng các phương pháp học máy bao gồm học có giám sát, mô hình động lực thị trường và Reinforcement Learning.",
+  "usecases": [
+    "Nhà đầu tư số (quant) nghiên cứu và phát triển các chiến lược giao dịch dựa trên dữ liệu",
+    "Công ty tài chính phát triển và triển khai hệ thống giao dịch tự động quy mô lớn",
+    "Nhà nghiên cứu học sâu áp dụng machine learning vào phân tích thị trường tài chính",
+    "Công ty fintech cần hệ thống để dữ liệu và mô hình hóa dự báo giá cổ phiếu"
+  ],
+  "ideas": [
+    "Kết hợp với blockchain để tạo nền tảng giao dịch minh bạch và phi cansel vào kết quả dự báo",
+    "Tích hợp AI agent tự động hóa quá trình nghiên cứu và tìm kiếm các công thức mới",
+    "Phát triển ứng dụng mobile cho phép theo dõi danh mục đầu tư và cảnh báo giao dịch real-time"
+  ],
+  "stars": 45813,
+  "starsToday": 127,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-06T17:37:44.269Z"
+}

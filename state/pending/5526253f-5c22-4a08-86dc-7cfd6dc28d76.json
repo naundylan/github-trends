@@ -1,0 +1,23 @@
+{
+  "id": "5526253f-5c22-4a08-86dc-7cfd6dc28d76",
+  "repo": "avelino/awesome-go",
+  "url": "https://github.com/avelino/awesome-go",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Đây là danh sách được curate các framework, thư viện và phần mềm Go tuyệt vời nhất. Dự án giúp các nhà phát triển Go dễ dàng tìm kiếm và lựa chọn các công cụ phù hợp cho dự án của họ, tiết kiệm thời gian trong việc duyệt tìm tài nguyên.",
+  "usecases": [
+    "Nhà phát triển Go mới bắt đầu muốn tìm hiểu các thư viện và framework tốt nhất cho dự án",
+    "Các công ty cần chọn lựa giải pháp phù hợp nhanh chóng cho dự án phát triển bằng Go",
+    "Người đang học Go cần tài nguyên được curate để học tập và thực hành",
+    "Cộng đồng Go muốn duyệt tất cả các dự án tiêu chuẩn ngành trong một nơi"
+  ],
+  "ideas": [
+    "Tích hợp trí tuệ nhân tạo để đề xuất các thư viện Go dựa trên nhu cầu cụ thể của dự án",
+    "Tạo phiên bản desktop offline để duyệt danh sách không cần kết nối internet",
+    "Kết hợp với hệ thống quản lý package để theo dõi và cảnh báo các bản cập nhật mới"
+  ],
+  "stars": 177362,
+  "starsToday": 128,
+  "language": "Go",
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-07-06T17:37:44.269Z"
+}

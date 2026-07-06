@@ -1,0 +1,22 @@
+{
+  "id": "eaa594fe-7d57-47be-9a6a-9391e4a09fd3",
+  "repo": "steipete/CodexBar",
+  "url": "https://github.com/steipete/CodexBar",
+  "category": "Developer Tool",
+  "summary": "Tiện ích hiển thị thống kê sử dụng API OpenAI Codex và Claude Code trực tiếp trên thanh toolbar macOS, cho phép theo dõi mức sử dụng mà không cần đăng nhập vào tài khoản OpenAI. Công cụ này giúp người dùng quan sát real-time khối lượng token và chi phí sử dụng AI models.",
+  "usecases": [
+    "Developer cá nhân theo dõi giới hạn API hàng ngày khi chạy các script xử lý ngôn ngữ tự nhiên",
+    "Team lead quản lý chi phí dự án bằng cách giám sát mức sử dụng API của các thành viên trong nhóm",
+    "DevOps engineer tích hợp vào CI/CD pipeline để đo lường và tối ưu hóa chi phí xử lý dữ liệu lớn"
+  ],
+  "ideas": [
+    "Phát triển phiên bản cross-platform cho Windows và Linux với tích hợp vào hệ thống tray",
+    "Tạo dashboard phân tích xu hướng sử dụng API hàng tháng và đề xuất kế hoạch sử dụng tối ưu chi phí",
+    "Kết hợp với các công cụ billing tự động để bot thông báo khi sử dụng vượt ngưỡng hoặc gần giới hạn"
+  ],
+  "stars": 16653,
+  "starsToday": 598,
+  "language": "Swift",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-06T17:37:44.269Z"
+}

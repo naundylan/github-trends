@@ -1,0 +1,22 @@
+{
+  "id": "56a309d3-2a43-41f1-8b16-63d60c3b31b5",
+  "repo": "alirezarezvani/claude-skills",
+  "url": "https://github.com/alirezarezvani/claude-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện lớn các kỹ năng (skills) và agent được đói tên cho Claude Code, Codex, Gemini CLI và 8 trình mã hóa AI khác, bao gồm hơn 300 kỹ năng tùy chỉnh cho kỹ thuật, marketing, sản phẩm, tuân thủ và tư vấn cấp cao. Dự án cung cấp hệ thống lệnh và plugin có thể tùy chỉnh để tối ưu hóa workflow làm việc với các AI coding agent.",
+  "usecases": [
+    "Developer sử dụng các kỹ năng được chọn lọc để tăng tốc độ code và giảm thiểu thời gian debug trong dự án cá nhân",
+    "Technical team lead áp dụng các agent chuyên về compliance và security để tự động hóa kiểm tra quyền an toàn mã nguồn",
+    "Product manager và business analyst tích hợp các kỹ năng tư vấn cấp cao và nghiên cứu thị trường vào quy trình ra quyết định sản phẩm"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống robotics automation để tạo ra 'digital twin' nhân viên văn phòng hoàn chỉnh với khả năng đọc hiểu và thực thi công việc theo yêu cầu",
+    "Ứng dụng vào healthcare bằng cách tạo ra các agent chuyên sâu cho từng lĩnh vực như chẩn đoán bằng hình ảnh, quản lý dược phẩm và hỗ trợ bệnh nhân",
+    "Phát triển thành nền tảng 'AI Skills Marketplace' cho phép người dùng xây dựng và chia sẻ các kỹ năng tùy chỉnh trên toàn thế giới"
+  ],
+  "stars": 21035,
+  "starsToday": 611,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-06T17:37:44.269Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4ce0eda9-692a-490f-8821-ecb1ad5e1572",
+  "repo": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "category": "AI Agent/Automation",
+  "summary": "Claude Mem cung cấp bộ nhớ vĩnh viễn cho các AI agent, ghi lại tất cả hoạt động trong phiên làm việc và đưa ngữ cảnh relevant vào các phiên tương lai. Hỗ trợ đa nền tảng từ Claude Code đến OpenAI Codex.",
+  "usecases": [
+    "Lập trình viên sử dụng với Claude Code để duy trì ngữ cảnh dự án qua nhiều phiên làm việc",
+    "Nhà nghiên cứu AI tích tập kiến thức dài hạn cho các agent phức tạp trong thời gian dài",
+    "Doanh nhân cá nhân hóa trợ lý kinh doanh nhận được gợ ý dựa trên lịch sử tương tác chi tiết"
+  ],
+  "ideas": [
+    "Kết hợp với nhạc cá nhân hóa để tạo playlist dựa trên không khí và phổ biến người nghe",
+    "Tích hợp vào hệ thống điều hành nhà thông minh nhận diện thói quen sinh hoạt cá nhân",
+    "Ứng dụng làm trợ lý nghiên cứu khoa học tự động xuất phát câu hỏi tiếp theo dựa trên kết quả thử nghiệm"
+  ],
+  "stars": 86138,
+  "starsToday": 210,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-06T17:37:44.269Z"
+}

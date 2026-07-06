@@ -1,0 +1,22 @@
+{
+  "id": "20b0511f-3804-4dc3-b103-b182256ffe07",
+  "repo": "hesreallyhim/awesome-claude-code",
+  "url": "https://github.com/hesreallyhim/awesome-claude-code",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Bộ sưu tập được chọn lọc kỹ lưỡng các tài nguyên, skills, agent và công cụ developer hàng đầu dành cho Claude Code và các AI coding assistant. Đây là nguồn lý tưởng để khám phá các workflow tối ưu, plugin mạnh mẽ và trải nghiệm làm việc chuyên nghiệp với Anthropic Claude.",
+  "usecases": [
+    "New developer học tiếp với Claude Code bằng cách tham khảo các ví dụ và template đã được chứng minh",
+    "Technical lead lựa chọn các công cụ phù hợp cho dự án enterprise như code review automation và documentation generation",
+    "AI researcher nghiên cứu các phương pháp mới nhất trong việc tích hợp AI vào quy trình phát triển phần mềm"
+  ],
+  "ideas": [
+    "Biến thành nền tảng học trực tuyến với các khóa học theo chuyên ngành như 'AI-Powered DevOps' và 'Automated Testing with Claude'",
+    "Xây dựng AI-powered recommendation engine để gợi ý resources dựa trên profile dự án và kỹ rõng lập trình",
+    "Tạo phiên bản offline bundle để developers trong môi trường nội bộ hoặc không có internet có thể tiếp cận đầy đủ tài nguyên"
+  ],
+  "stars": 48697,
+  "starsToday": 562,
+  "language": "Python",
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-07-06T17:37:44.269Z"
+}

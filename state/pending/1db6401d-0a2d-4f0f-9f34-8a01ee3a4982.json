@@ -1,0 +1,22 @@
+{
+  "id": "1db6401d-0a2d-4f0f-9f34-8a01ee3a4982",
+  "repo": "ruvnet/RuView",
+  "url": "https://github.com/ruvnet/RuView",
+  "category": "Other",
+  "summary": "RuView biến tín hiệu WiFi thông thường thành trí tuệ không gian thời gian thực, theo dõi nhịp tim và phát hiện hiện diện - tất cả đều không cần video. Hệ thống sử dụng RF và machine learning để phân tích tín hiệu sống động.",
+  "usecases": [
+    "Bác sĩ sử dụng để theo dõi tình trạng sức khỏe người cao tuổi tại nhà không cần thiết bị xăm",
+    "Chủ tài xế kiểm tra sự hiện diện của hành khách trong xe để tối ưu hóa tuyến đường",
+    "Quản lý công ty giám sát không gian làm việc và năng suất nhân viên qua WiFi hiện có"
+  ],
+  "ideas": [
+    "Kết hợp với robot hành chính để phát hiện va chạm và định vị không gian trong môi trường mờ đục",
+    "Tích hợp vào hệ thống làm chủ nhà thông minh nhận diện người ủy thác cho trợ lý AI cá nhân",
+    "Ứng dụng trong nông nghiệp thông minh để theo dõi sức khỏe và hành vi động vật nuôi"
+  ],
+  "stars": 77261,
+  "starsToday": 471,
+  "language": "Rust",
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-07-06T17:37:44.269Z"
+}

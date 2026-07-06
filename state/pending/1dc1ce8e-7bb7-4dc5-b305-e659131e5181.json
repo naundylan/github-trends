@@ -1,0 +1,25 @@
+{
+  "id": "1dc1ce8e-7bb7-4dc5-b305-e659131e5181",
+  "repo": "rust-lang/rust",
+  "url": "https://github.com/rust-lang/rust",
+  "category": "Web Framework",
+  "summary": "Rust là ngôn ngữ lập trình system-safe được thiết kế để xây dựng phần mềm đáng tin cậy và hiệu quả. Với hệ thống ownership và borrowing tại thời gian biên dịch, Rust loại bỏ các lỗi memory safety phổ biến như dangling pointer, buffer overflow, và data race, đồng thời cung cấp hiệu suất gần bằng C/C++.",
+  "usecases": [
+    "Phát triển trình duyệt web Firefox và các trình duyệt khác yêu cầu kiểm soát tài nguyên chính xác",
+    "Xây dựng hệ thống backend high-performance với framework như Actix hay Rocket cho ứng dụng thư viện lớn",
+    "Tạo phần mềm nhúng và firmware cho thiết bị IoT với dung lượng bộ nhớ hạn chế",
+    "Phát triển công cụ phân tích mạng xã hội và dịch vụ cloud cần tính bảo mật tuyệt đối"
+  ],
+  "ideas": [
+    "Kết hợp Rust với WebAssembly để biến các thư viện tính toán nặng thành client-side modules chạy Native",
+    "Sử dụng Rust để xây dựng smart contract blockchain có khả năng chống khai thác memory",
+    "Áp dụng Rust vào hệ thống AI edge computing với framework Burn để chạy mô hình trên thiết bị",
+    "Phát triển hệ thống robotics real-time sử dụng Rust với giao diện phần cứng trực tiếp",
+    "Tích hợp Rust vào môi trường container sandboxing để tăng cường khả năng chống lỗi OWASP"
+  ],
+  "stars": 114409,
+  "starsToday": 115,
+  "language": "Rust",
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-07-06T17:37:44.269Z"
+}

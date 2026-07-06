@@ -1,0 +1,23 @@
+{
+  "id": "2e751e62-e7d9-47cd-900f-273d54b7f769",
+  "repo": "nodejs/node",
+  "url": "https://github.com/nodejs/node",
+  "category": "Web Framework",
+  "summary": "Node.js là runtime JavaScript chạy trên server, cho phép các nhà phát triển xây dựng các ứng dụng phía máy chủ sử dụng ngôn ngữ JavaScript quen thuộc. Đây là nền tảng cơ bản để xây dựng các ứng dụng web hiện đại với khả năng mở rộng cao và xử lý nhanh các hoạt động không đồng bộ.",
+  "usecases": [
+    "Nhà phát triển web xây dựng API backend và server-side application nhanh chóng",
+    "Công ty phát triển ứng dụng real-time như hệ thống chat, gaming trực tuyến",
+    "Các công ty startup cần môi trường chạy JavaScript đơn giản để triển khai nhanh",
+    "Người làm việc từ xa (remote workers) cần môi trường consistent chạy JavaScript trên cả local và production"
+  ],
+  "ideas": [
+    "Tích hợp AI để tự động tạo mã và gợi ý tối ưu hóa code dựa trên pattern sử dụng",
+    "Kết hợp với WebAssembly (WASM) để chạy các ứng dụng high performance như game hoặc AI models",
+    "Phát triển phiên bản Node.js tối ưu cho edge computing nhằm giảm latency tại thị trường thiên tai"
+  ],
+  "stars": 118092,
+  "starsToday": 121,
+  "language": "JavaScript",
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-07-06T17:37:44.269Z"
+}
