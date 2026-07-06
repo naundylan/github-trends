@@ -1,0 +1,23 @@
+{
+  "id": "1f772a27-27b1-4462-9706-5058469f08a9",
+  "repo": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện quản lý bộ nhớ với AI cho các agent, tự động ghi lại, nén và làm mới ngữ cảnh từ các phiên làm việc trước. Tích hợp với nhiều nền tảng như Claude Code, GitHub Copilot và OpenAI Codex thông qua ChromaDB và SQLite.",
+  "usecases": [
+    "Nhà phát triển sử dụng Claude Code hàng ngày để duy trì ngữ cảnh dự án qua nhiều phiên làm việc",
+    "Team AI agent cần xây dựng hệ thống nhớ liên tục cho các tác vụ phức tạp dài hạn",
+    "Nghiên cứu viên nghiên cứu cách cải thiện khả năng ghi nhớ của các mô hình ngôn ngữ lớn"
+  ],
+  "ideas": [
+    "Kết hợp với RuView để tạo hệ thống AI nhớ dự based trên chính tín hiệu WiFi và hành vi không gian",
+    "Integrating Handy speech-to-text để tạo agent nhớ hoàn toàn offline chỉ bằng giọng nói",
+    "Xây dựng hệ thống siêu nhớ phân tán giữa nhiều agent độc lập sử dụng Redis và Kafka",
+    "Tạo mô hình nhớ thời gian thực dự đoán bằng LSTM để dự trữ ngữ cảnh trước khi xuất hiện"
+  ],
+  "stars": 86041,
+  "starsToday": 167,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-06T07:06:25.907Z"
+}

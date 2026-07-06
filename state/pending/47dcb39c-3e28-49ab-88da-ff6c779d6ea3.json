@@ -1,0 +1,22 @@
+{
+  "id": "47dcb39c-3e28-49ab-88da-ff6c779d6ea3",
+  "repo": "clash-verge-rev/clash-verge-rev",
+  "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+  "category": "Web Frontend",
+  "summary": "Clash Verge Rev là ứng dụng GUI hiện đại được xây dựng trên Tauri, hỗ trợ Windows, macOS và Linux để quản lý proxy mạng một cách tiện lợi. ứng dụng kết tương tác trực quan với backend mihomo giúp người dùng điều chỉnh cài đặt mạng một cách chính xác và dễ dàng. Đây là công cụ quan trọng cho người cần truy cập vào nội dung quốc tế hoặc bảo mật kết nối.",
+  "usecases": [
+    "Người Việt Nam dùng để truy cập dịch vụ bị chặn bởi firewall quốc gia một cách an toàn",
+    "Nhà nghiên cứu bảo mật sử dụng để kiểm tra lưu lượng mạng và phân tích giao thông mạng một cách chi tiết",
+    "Du lịch quốc tế cấu hình proxy nhanh chóng để duyệt web không giới hạn khi ở quốc cao du"
+  ],
+  "ideas": [
+    "Tích hợp AI phân tích thói quen duyệt web và tự động chọn server tối ưu cho từng nội dung",
+    "Tạo chế mạo 'mặt trốn' kỹ thuật số cho nhà hoạt động dân sự trong các quốc gia với kiểm duyệt mạnh",
+    "Kết nối với Web3 tạo ra mạng lưới proxy phi tập trung chạy trên blockchain như mây"
+  ],
+  "stars": 129810,
+  "starsToday": 184,
+  "language": "TypeScript",
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-07-06T07:06:25.907Z"
+}

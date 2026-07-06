@@ -1,0 +1,22 @@
+{
+  "id": "008a7d5e-4484-4e25-9ad4-dbef894d0373",
+  "repo": "rommapp/romm",
+  "url": "https://github.com/rommapp/romm",
+  "category": "Desktop App",
+  "summary": "Romm là một hệ quản lý và trình chơi game retro self-hosted hoàn chỉnh với giao diện đẹp mắt và mạnh mẽ. Dự án giúp người dùng tổ chức thư viện trò chơi cổ điện của riêng mình và chơi trực tiếp trên trình duyệt hoặc ứng dụng desktop. Điểm nổi bật là hỗ trợ nhiều nền tảng và thiết bị, với khả năng tự động quét và tải siêu dữ liệu trò chơi.",
+  "usecases": [
+    "Game thủ muộn đời quản lý và chơi hàng ngàn trò chơi NES, SNES, Arcade từ thư viện cá nhân",
+    "Nhà phát triển muội không gian đề xuất cho khách hàng thử nghiệm trải nghiệm chơi game retro trên web",
+    "Giáo viên dùng để tạo môi trường học tập tương tác với lịch sử trò chơi điện tử"
+  ],
+  "ideas": [
+    "Kết hợp với AI tạo hình ảnh để tạo nhân vật chơi game hoàn toàn mới từ phong cách pixel art",
+    "Tích hợp vào nền tảng metaverse cho phép chơi game cổ điện trong không gian 3Dảo",
+    "Sử dụng blockchain để lưu trữ và chứng thực giấy phép sở hữu kỷ vật điện tử"
+  ],
+  "stars": 10656,
+  "starsToday": 410,
+  "language": "Python",
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-07-06T07:06:25.907Z"
+}

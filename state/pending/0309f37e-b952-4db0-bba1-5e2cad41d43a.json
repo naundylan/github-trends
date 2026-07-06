@@ -1,0 +1,23 @@
+{
+  "id": "0309f37e-b952-4db0-bba1-5e2cad41d43a",
+  "repo": "can1357/oh-my-pi",
+  "url": "https://github.com/can1357/oh-my-pi",
+  "category": "AI Agent/Automation",
+  "summary": "Oh My Pi là công cụ AI coding agent chạy trong terminal với tính năng nổi bật là hash-anchored edits (chỉnh sửa dựa trên hash) và hỗ trợ đa provider như OpenAI, Anthropic, Rust. Công cụ tối ưu hóa toolchain cho lập trình viên với LSP, browser integration và subagents.",
+  "usecases": [
+    "Developer muốn sử dụng đa dịch vụ LLM (OpenAI, Claude, Rust) trong một giao diện nhất nhất",
+    "Cần thực hiện chỉnh sửa chính xác vào đoạn code cụ thể mà không ảnh hưởng đến phần khác",
+    "Lập trình viên muốn tích hợp AI vào workflow tự động hóa tasks hàng ngày"
+  ],
+  "ideas": [
+    "Tạo hệ sinh thái plugin cho Oh My Pi để các nhà phát triển tự viết agent tùy chỉnh",
+    "Kết nối với blockchain để lưu trữ hash của từng lần chỉnh sửa tạo audit trail",
+    "Xây dựng môi trường sandbox để AI thử nghiệm code trên nhiều phiên bản khác nhau một cách an toàn",
+    "Tích hợp với hệ thống cân nhắc chi phí sử dụng nhiều provider LLM khác nhau"
+  ],
+  "stars": 16257,
+  "starsToday": 155,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-06T07:06:25.907Z"
+}

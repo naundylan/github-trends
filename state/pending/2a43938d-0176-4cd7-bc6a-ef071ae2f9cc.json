@@ -1,0 +1,24 @@
+{
+  "id": "2a43938d-0176-4cd7-bc6a-ef071ae2f9cc",
+  "repo": "hesreallyhim/awesome-claude-code",
+  "url": "https://github.com/hesreallyhim/awesome-claude-code",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Một bộ sưu tập tài nguyên được chọn lọc tinh tế dành cho Claude Code - trợ lý lập trình AI xuất sắc từ Anthropic. Bộ sưu tập bao gồm kỹ năng của các agent đa năng, công cụ phát triển hàng đầu, plugin và workflow tối ưu hóa việc sử dụng mã hóa agentic, giúp người dùng khai thác tối đa khả năng của Claude Code trong các dự án phần mềm.",
+  "usecases": [
+    "Các kỹ sư phần mềm muốn tìm tài nguyên chất lượng cao để tối ưu hóa workflow làm việc với Claude Code",
+    "Nhà phát triển cần hướng dẫn triển khai các agent có khả năng tự chủ trong quy trình phát triển phần mềm",
+    "Các nhóm lập trình muốn áp dụng các plugin và công cụ mới nhất để nâng cao năng suất làm việc với AI",
+    "Người học lĩnh học về agentic coding tìm tài liệu tham khảo từ các ví dụ thực tế và best practices"
+  ],
+  "ideas": [
+    "Kết hợp Claude Code với hệ thống CI/CD để tự động tạo và review pull requests dựa trên ngữ cảnh dự án",
+    "Xây dựng một 'agent marketplace' nơi người dùng có thể chia sẻ và tải về các plugin agent tùy chỉnh cho từng loại công việc cụ thể",
+    "Tích hợp Claude Code vào môi trường phát triển thành kỳ 'siêu trợ lý' có khả năng nhớ lịch sử tương tác và đề xuất optimization tự động",
+    "Ứng dụng các pattern từ danh sách này để tạo ra 'developer persona' cá nhân hóa cho từng nhóm dự án, tối ưu hóa phong cách làm việc"
+  ],
+  "stars": 48557,
+  "starsToday": 148,
+  "language": "Python",
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-07-06T07:06:25.908Z"
+}

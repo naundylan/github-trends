@@ -1,0 +1,22 @@
+{
+  "id": "3affa73b-afb3-4b6b-80c3-d5b8d92d6aad",
+  "repo": "alirezarezvani/claude-skills",
+  "url": "https://github.com/alirezarezvani/claude-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Claude Skills là bộ thư viện kh skills và plugin đa dạng dành cho các AI coding agent như Claude Code, Cursor, và Gemini CLI. Gói gồm hơn 300 kỹ năng chuyên ngành từ engineering đến finance, giúp tự động hóa quy trình làm việc và tăng cường năng suất cho các nhà phát triển. Dự án cung cấp framework để tùy biến và mở rộng dễ dàng.",
+  "usecases": [
+    "Lập trình viên dùng Claude Code với skills để tạo mã nhanh hơn và giảm thiểu lỗi syntax",
+    "Quản lý dự án sử dụng agent để tự động hóa việc tạo báo cáo tháng và phân tích dữ liệu",
+    "Doanh nhân cấp C chạy agent với skills tư vấn chiến lược công ty hàng ngày"
+  ],
+  "ideas": [
+    "Tạo môi trường làm việc thông minh hoàn hảo nơi các agent chạy Claude Skills tự học và cải thiện skills của bản thân",
+    "Kết nối các skills tạo nên 'sinh mệnh số' cho doanh nghiệp nhỏ chạy hoàn toàn trên nền tảng AI",
+    "Phát triển hệ thống gọi là 'Skill DNA' để các công ty clone và tùy biến skills văn hóa công ty"
+  ],
+  "stars": 20778,
+  "starsToday": 392,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-06T07:06:25.907Z"
+}

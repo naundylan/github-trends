@@ -1,0 +1,23 @@
+{
+  "id": "5b476aed-8014-4221-8948-247c898ce635",
+  "repo": "cjpais/Handy",
+  "url": "https://github.com/cjpais/Handy",
+  "category": "AI/LLM",
+  "summary": "Ứng dụng chuyển giọng nói thành văn bản hoạt động hoàn toàn offline với hiệu suất cao. Sử dụng Rust và Tauri V2 để đảm bảo bảo mật tối đa và khả năng chống thám dò.",
+  "usecases": [
+    "Người khuyết tật sử dụng để tương tác với máy tính và ứng dụng mà không cần bàn phím",
+    "Nhà nghiên cứu bảo mật muốn xử lý âm thanh mà không cần gửi dữ liệu ra ngoài cloud",
+    "Phiên dịch viên làm việc trong môi trường cần bảo mật cao như thư viện hoặc rạp hòa nhạc"
+  ],
+  "ideas": [
+    "Kết hợp RuView để tạo trình duyệt mặt tiếp xúc hoàn toàn bằng giọng nói và cảm biến không gian",
+    "Integrater với claude-mem để xây dựng trợ lý voice assistant nhớ hoàn toàn local",
+    "Phát triển hệ thống dịch thuật song ngữ thời gian thực sử dụng âm thanh và siêu nhỏ xuất bản",
+    "Tạo assistant y tế offline chuyên phân tích triệu chứng qua hỏi chọc giọng nói"
+  ],
+  "stars": 25820,
+  "starsToday": 161,
+  "language": "Rust",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-06T07:06:25.907Z"
+}

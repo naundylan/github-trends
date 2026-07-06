@@ -1,0 +1,23 @@
+{
+  "id": "95668a10-561d-4d85-aae3-79b7543b4ee2",
+  "repo": "ruvnet/RuView",
+  "url": "https://github.com/ruvnet/RuView",
+  "category": "Other",
+  "summary": "Hệ thống sử dụng tín hiệu WiFi để biến đổi thành trí tuệ không gian và theo dõi nhịp tim, không cần camera. Sử dụng firmware ESP32 và tích hợp với Home Assistant cho tự động hóa nhà thông minh.",
+  "usecases": [
+    "Chủ nhà muốn theo dõi hiện diện và hoạt động của thành viên gia đình mà không cần camera",
+    "Kỹ thuật viên IoT tích hợp hệ thống giám sát vào trung tâm điều khiển nhà thong minh",
+    "Bác sĩ hoặc người chăm sóc cần theo dõi của sống của bệnh nhân tại nhà"
+  ],
+  "ideas": [
+    "Kết hợp với claude-mem để tạo hệ thống nhớ hành vi không gian cho AI agent",
+    "Tích hợp Handy để cho phép điều khiển bằng giọng nói mà không cần camera hay bàn phím",
+    "Phát triển mô hình phân tích không gian 3D bằng RF để dự báo cử động người",
+    "Xây dựng mạng lưới cảm biến WiFi phiần mềm cho làng công nghiệp"
+  ],
+  "stars": 76842,
+  "starsToday": 161,
+  "language": "Rust",
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-07-06T07:06:25.907Z"
+}
