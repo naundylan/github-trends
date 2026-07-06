@@ -1,0 +1,23 @@
+{
+  "id": "3d96b1b2-02d4-4272-8607-676032f6bbba",
+  "repo": "karakeep-app/karakeep",
+  "url": "https://github.com/karakeep-app/karakeep",
+  "category": "Productivity/Personal Tool",
+  "summary": "Một ứng dụng web tự chạy (self-hosted) giúp người dùng lưu trữ, tổ chức và tìm kiếm liên kết, ghi chú, hình ảnh với khả năng gán thẻ tự động bằng trí tuệ nhân tạo và tìm kiếm toàn văn bản chính xác.",
+  "usecases": [
+    "Cá nhân lưu trữ tài liệu quan trọng, bài học tập hoặc tài nguyên cá nhân vào một nơi tập trung để truy xuất nhanh chóng",
+    "Nghiên cứu sinh hoặc nhà nghiên cứu cần tổ chức tài liệu nguồn một cách thông minh với gán thẻ và phân loại thông minh",
+    "Content creator hoặc biên tập viên quản lý nội dung đã đọc, đánh dấu và lập kế hoạch nội dung một cách hiệu quả"
+  ],
+  "ideas": [
+    "Tích hợp trực tiếp vào trình duyệt để đọc vào khi đang duyệt web, kèm countdown reading time và highlight tự động",
+    "Kết nối với Notion, Obsidian hay Miro để đồng bộ hóa tri thông tin và tạo knowledge graph liên kết",
+    "AI-powered personal research assistant với khả năng đề xuất tài liệu liên quan dựa trên hành vi đọc và nhu cầu cá nhân",
+    "Hệ thống collaborative bookmarking giữa các thành viên trong cùng một dự án hoặc công ty"
+  ],
+  "stars": 26688,
+  "starsToday": 178,
+  "language": "TypeScript",
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-07-06T12:41:47.135Z"
+}

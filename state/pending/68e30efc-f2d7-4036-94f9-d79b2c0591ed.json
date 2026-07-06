@@ -1,0 +1,23 @@
+{
+  "id": "68e30efc-f2d7-4036-94f9-d79b2c0591ed",
+  "repo": "Alishahryar1/free-claude-code",
+  "url": "https://github.com/Alishahryar1/free-claude-code",
+  "category": "AI/LLM",
+  "summary": "Dự án cung cấp giải pháp miễn phí để sử dụng Claude Code và Codex thông qua giao diện dòng lệnh, tiện ích VSCode và tích hợp Discord với hỗ trợ voice, giống như OpenClaw nhưng không đòn bẩy API credits.",
+  "usecases": [
+    "Lập trình viên cá nhân muốn truy cập Claude Code miễn phí cho các dự án cá nhân hoặc học tập mà không cần đăng ký thẻ tín dụng",
+    "Các team nhỏ hoặc cộng đồng muốn tương tác với AI assistant thông qua Discord trong quy trình phát triển phần mềm hàng ngày",
+    "Người dùng VSCode cần thiết kế giải pháp AI coding assistant linh hoạt không bị giới hạn dung lượng API"
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống CI/CD để tự động hóa việc code review và fix bằng AI trên mỗi pull request",
+    "Kết nối với MCP (Model Context Protocol) để cung cấp ngữ cảnh dự án một cách động cho AI assistant",
+    "Phát triển thành một nền tảng AI coding chia sẻ cross-team với voice command và natural language processing nâng cao",
+    "Tích hợp với các IDE phổ biến khác như Jetbrains hoặc Vim để mở rộng phạm vi sử dụng"
+  ],
+  "stars": 38836,
+  "starsToday": 207,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-06T12:41:47.135Z"
+}

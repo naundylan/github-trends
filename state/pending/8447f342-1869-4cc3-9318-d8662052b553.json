@@ -1,0 +1,23 @@
+{
+  "id": "8447f342-1869-4cc3-9318-d8662052b553",
+  "repo": "crynta/terax-ai",
+  "url": "https://github.com/crynta/terax-ai",
+  "category": "AI/LLM",
+  "summary": "Một môi trường làm việc phát triển dựa trên terminal với kích thước nhỏ chỉ 7MB, tích chủng tối ưu cho việc chạy các agent AI và môi trường phát triển đầu vào-rai (I/O) trên Linux, macOS và Windows.",
+  "usecases": [
+    "Developer muốn có một không gian làm việc AI tối ưu cho terminal với hiệu suất cao và tài nguyên nhẹ nhàng",
+    "Data scientist hoặc AI engineer chạy các mô hình AI và agent trên máy cá nhân hoặc server cục bộ mà không cần đầu vào phức tạp",
+    "DevOps team triển khai workspace AI linh hoạt cho cả team với khả năng chạy đa nền tảng và tích hợp dễ dàng"
+  ],
+  "ideas": [
+    "Kết nối với Kubernetes để chạy các LLM lớn và multi-agent systems trên quy mô DOCKER cluster",
+    "Tích hợp WebAssembly để chạy AI models trực tiếp trên trình duyệt thông qua terminal interface",
+    "Hệ thống multi-agent collaboration workspace với real-time streaming và visualization trên web dashboard",
+    "Tích hợp với Ollama hay LM Studio để quản lý local models một cách đơn giản và hiệu quả"
+  ],
+  "stars": 8302,
+  "starsToday": 136,
+  "language": "TypeScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-06T12:41:47.135Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "e183345e-e02a-4913-8073-38c741acb367",
+  "repo": "alibaba/zvec",
+  "url": "https://github.com/alibaba/zvec",
+  "category": "Database",
+  "summary": "Một vector database nhẹ và nhanh chóng chạy trong quy trình (in-process), được xây dựng với C++ tối ưu hóa cho hiệu suất cao. Dự án giải quyết vấn đề cần lưu trữ và tìm kiếm ngữ nghĩa trong các ứng dụng AI một cách hiệu quả mà không cần đầu ra hệ thống phức tạp.",
+  "usecases": [
+    "Nhà phát triển ứng dụng cục bộ dùng để triển khai semantic search trong các sản phẩm công cụ hỗ trợ lập trình",
+    "Các team AI sử dụng trong quá trình phát triển RAG applications để lưu trữ embeddings mà không cần setup server riêng",
+    "Ứng dụng di động nhúng vector database vào thiết bị để thực hiện tìm kiếm ngữ kết nối offline"
+  ],
+  "ideas": [
+    "Kết hợp với WebAssembly để chạy vector search trực tiếp trong trình duyệt, tạo nên một loại 'database as a library' hoàn toàn client-side",
+    "Tích hợp vào các thiết bị IoT nhúng để thực hiện edge AI inference với knowledge base nhỏ gọn",
+    "Phát triển thành một framework cho phép multiple zvec instances giao tiếp qua gRPC để tạo distributed vector search network",
+    "Ứng dụng vào trí tuệ nhân tạo nhân tạo trong môi trường an toàn quyền lửng nơi dữ liệu không được phép truyền đi server"
+  ],
+  "stars": 13179,
+  "starsToday": 355,
+  "language": "C++",
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-07-06T12:41:47.135Z"
+}

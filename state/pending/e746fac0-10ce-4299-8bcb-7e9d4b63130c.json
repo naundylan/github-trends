@@ -1,0 +1,23 @@
+{
+  "id": "e746fac0-10ce-4299-8bcb-7e9d4b63130c",
+  "repo": "gastownhall/gastown",
+  "url": "https://github.com/gastownhall/gastown",
+  "category": "AI Agent/Automation",
+  "summary": "Gas Town là một workspace manager dành cho đa agent, giúp quản lý, điều phối và tối ưu hóa các agent AI độc lập hoạt động trong môi trường làm việc. Dự án giúp các nhà phát triển và tổ chức tạo môi trường làm việc có cấu trúc để nhiều AI agent cộng tác hiệu quả, từ đó nâng cao năng suất và khả năng xử lý phức tạp của các hệ thống tự động hóa.",
+  "usecases": [
+    "Enterprise sử dụng để xây dựng hệ thống chăm sóc khách hàng tự động với nhiều AI agent chuyên về từng kênh (email, chat, phone) phối hợp với nhau",
+    "Nền tảng fintech triển khai các agent phân tích rủng roi, đề xuất giao dịch và quản lý danh mục đầu tư thông qua việc điều phối các agent chuyên sâu",
+    "Công ty logistics sử dụng để tối ưu hóa chuỗng hàng vận đến bằng cách điều phối agent phân tích nhu cầu, dự báo và xếp lịch giao hàng"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống trí tuệ nhân tạo trong nhà máy 4.0 để các robot công thông thường được điều phối bởi nhiều AI agent chuyên về khác nhau (production, quality control, logistics)",
+    "Ứng dụng vào quản lý trường học thông minh với các agent phụ trách từng vai trò (giáo viên, giác định, tài chính) tự động hóa quy trình quản lý",
+    "Xây dựng hệ thống y tế tại chỗ trên chuyến xe cấp cứu sử dụng các agent chuyên về chẩn đoán, điều trị và vận chuyển bệnh nhân",
+    "Tạo nên một 'vệ tinh AI' với nhiều satellite agent chuyên về giám sát môi trường, khí hậu và an ninh, điều phối thông qua Gas Town để đưa ra quyết sạch thống nhất"
+  ],
+  "stars": 16538,
+  "starsToday": 293,
+  "language": "Go",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-06T12:41:47.135Z"
+}

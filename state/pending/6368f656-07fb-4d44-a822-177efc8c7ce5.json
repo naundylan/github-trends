@@ -1,0 +1,23 @@
+{
+  "id": "6368f656-07fb-4d44-a822-177efc8c7ce5",
+  "repo": "sindresorhus/awesome",
+  "url": "https://github.com/sindresorhus/awesome",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách cổng thông tin tuyệt vời về các chủ đề công nghệ thông tin đa dạng, được quản lý và cập nhật liên tục bởi cộng đồng. Đây là nguồn lưu trữ tài nguyên được người dùng uy tín đóng góp và tổ chức theo chủ đề một cách có hệ thống.",
+  "usecases": [
+    "Sinh viên công nghệ thông tin tham khảo để học tập các công nghệ mới nhất trong từng lĩnh vực",
+    "Nhà quản lý dự án sử dụng như công cụ đánh giá thị trường và tìm kiếm giải pháp cho các vấn đề cụ thể",
+    "Giảng viên giáo dục tin học dùng làm tài liệu tham khảo cho khóa học và đề xuất dự án tốt nghiệp"
+  ],
+  "ideas": [
+    "Tích hợp trí tuệ nhân tạo để tạo ra phiên bản cá nhân hóa những danh mục awesome phù hợp với sở thích và kinh nghiệm của mỗi người dùng",
+    "Biến thành một nền tảng wiki mở nơi bất kỳ ai có thể đóng góp và đánh giá các tài nguyên một cách đa chiều",
+    "Phát triển mobile app cho phép duyệt danh sách awesome offline và nhận được các cập nhật mới nhất dưới dạng thông báo đẩy",
+    "Tích hợp với các hệ thống learning path tạo ra các khóa học có thứ hạng từ các danh mục awesome tương ứng"
+  ],
+  "stars": 482004,
+  "starsToday": 352,
+  "language": "",
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-07-06T12:41:47.135Z"
+}

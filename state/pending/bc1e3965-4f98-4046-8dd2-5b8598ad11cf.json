@@ -1,0 +1,25 @@
+{
+  "id": "bc1e3965-4f98-4046-8dd2-5b8598ad11cf",
+  "repo": "nilbuild/developer-roadmap",
+  "url": "https://github.com/nilbuild/developer-roadmap",
+  "category": "Documentation/Learning Resource",
+  "summary": "Nền tảng đào tạo và lộ trình phát triển nghề nghiệp cho các nhà phát triển, cung cấp các roadmap tương tác chi tiết từ cơ bản đến nâng cao trên nhiều lĩnh vực như frontend, backend, DevOps, và các ngôn ngữ lập trình. Đây là tài liệu tham khảo thiết kế dựa trên thực hành giúp giảm thời gian học tập và tập trung vào các kỹ năng thực sự cần thiết trong ngành.",
+  "usecases": [
+    "Sinh viên kỹ thuật dùng để xây dựn kế hoạch học tập có hướng về lĩnh vực phát triển phần mềm",
+    "Nhà phát triển mới sử dụng roadmap để định hướng phát triển sự nghiệp từng bước",
+    "Các công ty IT tham khảo để xây dựn chương trình đào tạo nội bộ cho nhân viên",
+    "Người quản lý dự án dùng làm tiêu chuẩn đánh giá và lên kế hoạch kỹ năng cho đội ngũ"
+  ],
+  "ideas": [
+    "Tích hợp AI cá nhân hóa lộ trình học tập dựa trên trình độ hiện tại và mục tiêu nghề nghiệp",
+    "Kết hợp với các nền tảng coding practice như LeetCode để tạo chuỗi học lội liên tục từ lý thuyết đến thực hành",
+    "Phát triển thành ứng dụng mobile cho phép theo dõi tiến trình học tập mọi lúc mọi nơi",
+    "Tạo nền tảng cộng đồng để người học trao đổi kinh nghiệm và hỗ trợ lẫn nhau",
+    "Xây dựng hệ thống xếp hạng kỹ năng dựa trên portfolio thực tế để đo lường tiến bộ"
+  ],
+  "stars": 359473,
+  "starsToday": 134,
+  "language": "TypeScript",
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-07-06T12:41:47.135Z"
+}

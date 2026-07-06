@@ -1,0 +1,23 @@
+{
+  "id": "d56d9f11-d87e-403e-8a06-eb0919c2dd6c",
+  "repo": "decolua/9router",
+  "url": "https://github.com/decolua/9router",
+  "category": "AI/LLM",
+  "summary": "9router là một AI gateway mở rộng cho phép kết nối các công cụ lập trình AI như Claude Code, Cursor, Cline, Copilot với hơn 40 nhà cung cấp LLM miễn phí. Dự án sử dụng công nghệ RTK (Recursive Token Compression) giúp tiết kiệm tới 40% token và tự động chuyển đổi giữa các nhà cung cấp khi gặp giới hạn, giúp người dùng thoát khỏi các giới hạn rate limit của các dịch vụ AI.",
+  "usecases": [
+    "DevOps kỹ thuật số dùng để tích hợp nhiều dịch vụ AI miễn phí vào pipeline làm việc hàng ngày mà không lo bị rate limit",
+    "Game developer phát triển NPC bằng AI sử dụng nhiều provider khác nhau để đảm bảo luôn có khối lượng xử lý không giới hạn",
+    "Researcher nghiên cứu sử dụng các mô hình miễn phí như DeepSeek, Qwen để thực hiện các tác vụ phân tích dữ liệu lớn với chi phí tối thiểu"
+  ],
+  "ideas": [
+    "Kết hợp với các hệ thống robotic lao động để tạo thành một 'AI brain' có khả năng chọn lọc và điều phối tài nguyên AI tối ưu nhất cho từng tác vụ cụ thể",
+    "Ứng dụng vào môi trường IoT để các thiết bị nhúng sử dụng AI mà không cần kết nối trực tiếp đến API độc lập, thông qua gateway độc lập này",
+    "Xây dựng hệ thống biên dịch mã nguồn phần mềm sử dụng song song nhiều mô hình AI khác nhau để tối ưu hóa chất lượng và tốc độ biên dịch",
+    "Tích hợp vào nền tảng giáo dục thông minh để học sinh có thể truy cập vào nhiều trợ lý AI miễn phí để hỗ trợ học tập mà không bị giới hạn"
+  ],
+  "stars": 20169,
+  "starsToday": 305,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-06T12:41:47.135Z"
+}
