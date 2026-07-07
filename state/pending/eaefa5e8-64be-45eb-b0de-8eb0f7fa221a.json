@@ -1,0 +1,24 @@
+{
+  "id": "eaefa5e8-64be-45eb-b0de-8eb0f7fa221a",
+  "repo": "earthtojake/text-to-cad",
+  "url": "https://github.com/earthtojake/text-to-cad",
+  "category": "AI/LLM",
+  "summary": "Text-to-CAD là bộ sưu tập các kỹ năng Agent dành cho thiết kế CAD, robotics và kỹ thuật. Hỗ trợ nhiều định dạng file như STEP, STL, DXF và tích hợp với các thư viện như OpenCascade và Build123D để chuyển đổi văn bản thành mô hình 3D chính xác.",
+  "usecases": [
+    "Mechanical engineer sử dụng để nhanh chóng tạo khung cơ khí dựa trên yêu cầu text từ khách hàng",
+    "Robotics developer generate URDF/SRDF model cho robot tự động hóa mới",
+    "Fabrication team biến ý tưởng sản phẩm thành file làm việc cho máy CNC",
+    "Product designer prototype nhanh các thiết kế mà không cần khối lượng CAD phức tạp"
+  ],
+  "ideas": [
+    "Tích hợp Text-to-CAD với 3D printing service để AI tự động in thiết kế khi nhận được yêu cầu",
+    "Xây dựng hệ thống AI thiết kế nội thất tự động cho ngôi nhà dựa trên sở thích cá nhân",
+    "Kết hợp với AR để người dùng có thể chỉ định thiết kế bằng giọng nói và thấy kết quả ngay lập tức",
+    "Phát triển AI architect tạo ra floor plan và 3D model toà nhà hoàn chỉnh từ prompt text"
+  ],
+  "stars": 7777,
+  "starsToday": 101,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-07T19:45:46.994Z"
+}

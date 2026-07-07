@@ -1,0 +1,24 @@
+{
+  "id": "c4faf495-4f6f-4860-9829-e86aa7cf25b7",
+  "repo": "ComposioHQ/awesome-claude-skills",
+  "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Đây là danh sách được tổ chức các Claude Skills, tài nguyên và công cụ để tùy chỉnh workflow làm việc của Claude AI. Bao gồm các công cụ hỗ trợ tích hợp và tự động hóa các tác vụ khác nhau trong ecosystem Antigravity và các framework AI khác.",
+  "usecases": [
+    "Content creator sử dụng danh sách này để tìm Claude Skills phù hợp cho việc tạo nội dung marketing tự động",
+    "Data analyst áp dụng các skills để kéo dữ liệu từ nhiều nguồn khác nhau và tạo báo cáo tự động",
+    "Researcher khám phá các công cụ mới nhất để xây dựng workflow nghiên cứu bằng AI",
+    "Startup team sử dụng danh sách để đánh giá và chọn đúng tools cho dự án AI của họ"
+  ],
+  "ideas": [
+    "Tạo ra một Claude Skills marketplace nơi người dùng có thể share và download skills miễn phí",
+    "Xây dựng hệ thống recommendation engine dựa trên usage patterns để gợi ý skills phù hợp",
+    "Phát triển mobile app để quản lý và trigger Claude Skills từ điện thoại",
+    "Kết hợp các skills thành workflow AI tự học tiếp để tối ưu hóa bản thân"
+  ],
+  "stars": 67083,
+  "starsToday": 111,
+  "language": "Python",
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-07-07T19:45:46.994Z"
+}

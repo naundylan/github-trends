@@ -1,0 +1,24 @@
+{
+  "id": "282b55cb-e7f1-407e-b563-7c95e3166ee7",
+  "repo": "lessweb/deepcode-cli",
+  "url": "https://github.com/lessweb/deepcode-cli",
+  "category": "AI Agent/Automation",
+  "summary": "DeepCode CLI là một trình trợ lý lập trình AI trong terminal, được tối ưu hóa cho mô hình DeepSeek-V4 với khả năng suy nghĩ sâu và điều khiển độ suy nghĩ. Dự án cung cấp các kỹ năng Agent giúp developer tương tác trực tiếp với AI để viết, sửa và tối ưu mã nguồn.",
+  "usecases": [
+    "Developer sử dụng DeepCode CLI để xây dựng tính năng mới trong dự án một cách nhanh chóng thông qua lệnh AI",
+    "Kỹ sư debugging áp dụng tính năng suy nghĩ sâu để phát hiện lỗi phức tạp trong hệ thống",
+    "Nhà phát triển sử dụng CLI khi làm việc từ xa trên server Linux không có IDE đồ họa",
+    "Team lead triển khai DeepCode làm code reviewer tự động trong quy trình CI/CD"
+  ],
+  "ideas": [
+    "Tích hợp DeepCode với hệ thống robot công xưởng để AI tự động viết firmware điều khiển máy móc",
+    "Kết hợp DeepCode với Docker để tạo môi trường lập trình cloud-native mọi lúc mọi nơi",
+    "Phát triển plugin cho VS Code allowing AI generate hoàn chỉnh mã dựa trên context file hiện tại",
+    "Xây dựng hệ thống AI pair-programming với nhiều developer đang code đồng thời trên cùng một dự án"
+  ],
+  "stars": 1666,
+  "starsToday": 128,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-07T19:45:46.994Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "3a913a6a-7a52-4121-9643-d502a617555f",
+  "repo": "maziyarpanahi/openmed",
+  "url": "https://github.com/maziyarpanahi/openmed",
+  "category": "AI/LLM",
+  "summary": "OpenMed là nền tảng AI y tế chạy hoàn toàn local-first với khả năng nhận dạng NER và phát hiện PII tuân thủ HIPAA. Với hơn 1,000 model y tế, hỗ trợ 12 ngôn ngữ và chạy trên Apple MLX + Python, dự án đảm bảo dữ liệu bệnh nhân không rời khỏi mạng nội bộ, phù hợp cho môi trường được phép pháp luật nghiêm ngặt.",
+  "usecases": [
+    "Bệnh viện sử dụng để xử lý và ẩn danh dữ liệu patient trước khi lưu trữ hoặc phân tích",
+    "Healthcare startup phát triển ứng dụng iOS/SwiftUI với khả năng AI y tế trên thiết bị",
+    "Nghiên cứu viên y tế chạy mô hình NLP trên dữ liệu lâm sàng mà không cần cloud services",
+    "Công ty dược phẩm phân tích tài liệu lâm sàng để khám phá insights cho nghiên cứu mới"
+  ],
+  "ideas": [
+    "Kết hợp với telemedicine platforms để xử lý patient data real-time trong các cuộc gọi video",
+    "Tích hợp vào Electronic Health Records (EHR) systems để tự động hóa việc coding bệnh án",
+    "Tạo federated learning network cho các bệnh viện chia sẻ mô hình AI mà không chia sẻ dữ liệu",
+    "Phát triển phiên bản mobile app với khả năng xử lý hình ảnh y tế sử dụng MLX trên device"
+  ],
+  "stars": 4277,
+  "starsToday": 128,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-07T19:45:46.994Z"
+}
