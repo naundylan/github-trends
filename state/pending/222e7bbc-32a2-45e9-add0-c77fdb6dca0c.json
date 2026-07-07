@@ -1,0 +1,22 @@
+{
+  "id": "222e7bbc-32a2-45e9-add0-c77fdb6dca0c",
+  "repo": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Repository công khai chứa các kỹ năng (skills) dành cho AI agents, cho phép các agent có thể sử dụng và chia sẻ chức năng một cách có cấu trúc. Đây là nền tảng để các AI agent mở rộng khả năng hành động thông qua các kỹ năng được đóng gói riêng, thay vì phải tích hợp trực tiếp vào mã nguồn agent.",
+  "usecases": [
+    "Nhà phát triển phần mềm sử dụng các skills có sẵn để xây dựng AI coding assistant có khả năng thực thi lệnh shell, quản lý file và gọi API",
+    "Doanh nghiệp triển khai hệ thống AI agent tự động hóa quy trình với khả năng sử dụng skills chuẩn để xử lý công việc lặp lại",
+    "Nghiên cứu viên nghiên cứu về multi-agent systems tích hợp các skills từ community để tăng khả năng tương tác thông minh"
+  ],
+  "ideas": [
+    "Kết hợp skills với hệ thống blockchain để tạo ra marketplace trao đổi kỹ năng giữa các AI agents dưới dạng smart contracts",
+    "Xây dựng hệ thống skills phân tán trên Web3 vào các AI agent chạy trên IPFS để đảm bảo tính bất kỳ và khử ràng buộc",
+    "Tích hợp skills vào metaverse VR để tạo AI companions có khả năng thao tác vật lý trong không gian 3D"
+  ],
+  "stars": 159136,
+  "starsToday": 426,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-07T17:08:44.736Z"
+}

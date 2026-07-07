@@ -1,0 +1,24 @@
+{
+  "id": "bb042247-c819-4476-886a-4566d6ee2451",
+  "repo": "n8n-io/n8n",
+  "url": "https://github.com/n8n-io/n8n",
+  "category": "Backend Framework",
+  "summary": "Nền tảng tự động hóa workflow nguồn mở với khả năng tích hợp AI, kết hợp giữa xây dựng trực quan và code tùy chỉnh. Hỗ trợ hơn 400 integrations và có thể triển khai tự-hosted hoặc dùng dịch vụ cloud, phù hợp cho cả công ty và cá nhân xây dựng hệ thống tích hợp phức tạp.",
+  "usecases": [
+    "Doanh nghiệp nhỏ muốn tự động hóa quy trình xử lý đơn hàng từ website về lưu trữ trong Google Sheets và gửi email xác nhận",
+    "Developer cá nhân xây dựng hệ thống cập nhật dữ liệu thời gian thực từ nhiều nguồn API khác nhau về dashboard cá nhân",
+    "Redactor nội dung tự động thu thập bài viết từ RSS, biên tập và đăng lên WordPress/các nền tảng CMS",
+    "Team marketing tự động thu thập lead từ các nền tảng CRM, gửi email chào mừng và cập nhật vào hệ thống phân bố khách hàng"
+  ],
+  "ideas": [
+    "Kết hợp với Quantum Computing để tối ưu hóa workflow phức tạp với hàng triệu biến thể dữ liệu đầu vào",
+    "Xây dựng hệ thống AI Agent chạy trên n8n để tự động học và thử nghiệm các workflow mới dựa trên kết quả thực hiện",
+    "Ứng dụng trong metaverse - tự động tạo và cập nhật nội dung ảo cho các sự kiện trò chơi theo lịch thời gian thực",
+    "Hệ thống tự động hóa chuỗi cung ứng bằng blockchain - mỗi workflow đều được ghi lại nhật ký trên blockchain để đảm bảo tính minh bạch"
+  ],
+  "stars": 195541,
+  "starsToday": 148,
+  "language": "TypeScript",
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-07-07T17:08:44.736Z"
+}

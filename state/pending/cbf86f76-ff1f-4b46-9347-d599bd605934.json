@@ -1,0 +1,24 @@
+{
+  "id": "cbf86f76-ff1f-4b46-9347-d599bd605934",
+  "repo": "tonhowtf/omniget",
+  "url": "https://github.com/tonhowtf/omniget",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop mã nguồn mở được xây dựng với công nghệ Tauri + Rust + Svelte, chuyên cung cấp khả năng tải về, tổ chức và học tập nội dung media từ hơn 1800 trang web. Tích hợp đọc PDF/EPUB với chế độ tập trung, ghi chú có thời gian và hệ thống lặp lại khoảng cách Spaced Repetition System (SRS).",
+  "usecases": [
+    "Sinh viên cần lưu trữ khóa học trực tuyến Udemy/Bilibili để học tập ngoài không gian mạng không cần internet",
+    " Người học tiếng ngoại ngữ muốn tải về phim/video từ YouTube/TikTok kèm ghi chú tương ứng thời gian để luyện nghe",
+    "Nhà sư phẩm nghiên cứu nội dung mạng xã hội bằng cách thu thập và phân tích dữ liệu từ Reddit/Twitter một cách tổ chức",
+    "Người cao tuổi muốn xem nội dung y tế/báo chí offline trong điều kiện mạng yếu, với khả năng đánh dấu và trao đổi ghi chú"
+  ],
+  "ideas": [
+    "Kết hợp với Google Glass/Meta Quest để người dùng xem video và chạm vào thời điểm cụ thể để thêm ghi chú bằng thoại",
+    "Hệ thống AI chuyên sâu phân tích cảm xúc người xem từ video đã tải về và đề xuất nội dung cải thiện khả năng ghi nhớ",
+    "Ứng dụng blockchain lưu trữ ghi chú cá nhân và chia sẻ với cộng đồng học tập, tạo rương ngân hàng tri thức vì cá nhân",
+    "Tích hợp với máy học thông minh IoT như Robot giáo viên cá nhân hóa việc phát triển video theo lịch học tập SRS"
+  ],
+  "stars": 6460,
+  "starsToday": 154,
+  "language": "Rust",
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-07-07T17:08:44.736Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aa5f46ba-4aa3-43e0-930a-b93aeaed3456",
+  "repo": "TencentCloud/TencentDB-Agent-Memory",
+  "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+  "category": "AI Agent/Automation",
+  "summary": "TencentDB Agent Memory cung cấp hệ thống nhớ dài hạn hoàn toàn local cho AI Agents thông qua pipeline 4 tầng tiến bộ, không phụ thuộc API bên ngoài. Giải pháp này đảm bảo khả năng ghi nhớ và liên tục học hỏi của các AI agent trong môi trường sản xuất.",
+  "usecases": [
+    "AI agent developers tạo trải nghiệm cá nhân hóa cho người dùng cuối",
+    "Hệ thống chatbot cần nhớ lịch sử tương tác để đề xuất relevant hơn",
+    "Nghiên cứu sinh phát triển assistant cá nhân học tập không cần cloud",
+    "Doanh nghiệp thiết lập AI systems với quyền riêng tư tuyệt đối"
+  ],
+  "ideas": [
+    "Kết hợp với local LLMs như Llama để tạo AI companions hoàn chỉnh offline",
+    "Phát triển smart home AI với khả năng nhớ thói quen người dùng qua nhiều năm",
+    "Tích hợp vào metaverse avatars có khả năng phát triển quan hệ với người dùng",
+    "Sử dụng làm trung tâm nhớ cho swarm intelligence networks của nhiều AI agents",
+    "Kết hợp với federated learning để các AI agents chia sẻ nhớ mà không chia sẻ dữ liệu"
+  ],
+  "stars": 7117,
+  "starsToday": 567,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-07T17:08:44.736Z"
+}

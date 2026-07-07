@@ -1,0 +1,22 @@
+{
+  "id": "44ce0ce7-54d6-4505-9c17-5ba75408dc8a",
+  "repo": "Wei-Shaw/sub2api",
+  "url": "https://github.com/Wei-Shaw/sub2api",
+  "category": "API/GraphQL",
+  "summary": "Dịch vụ chuyển đổi API (proxy) mã nguồn mở giúp người dùng đăng ký và sử dụng các dịch vụ AI như Claude, OpenAI, Gemini, Grok thông qua một interface thống nhất. Hệ thống hỗ trợ chia sẻ subscription (shared pool) giúp người dùng tiết kiệm chi phí khi cùng sử dụng gói đăng ký của nhà cung cấp dịch vụ AI.",
+  "usecases": [
+    "Sinh viên sử dụng API để làm việc từ xa truy cập các mô hình ngôn ngữ lớn mà không cần đăng ký tài khoản cá nhân tốn chi phí",
+    "Doanh nghiệp nhỏ muốn tích hợp AI vào sản phẩm nhưng ngân sách hạn chế dùng shared API pool thay vì mua subscription riêng",
+    "Nhà phát triển xây dựng ứng dụng cá nhân cần truy cập nhiều LLM nhưng chỉ có một số lượng yêu cầu nhỏ mỗi ngày"
+  ],
+  "ideas": [
+    "Kết hợp sub2api với hệ thống DAO để tạo decentralized API pool where members vote on resource allocation và chia sẻ chi phí bằng token",
+    "Tích hợp vào nền tảng AI agents chạy trên Kubernetes để tự động scale API usage dựa trên nhu cầu thực thời",
+    "Xây dựng sub2api như một MCP (Model Context Protocol) server để các AI coding tools như Cursor, Windsurf sử dụng làm backend LLM chung"
+  ],
+  "stars": 30671,
+  "starsToday": 183,
+  "language": "Go",
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-07-07T17:08:44.736Z"
+}

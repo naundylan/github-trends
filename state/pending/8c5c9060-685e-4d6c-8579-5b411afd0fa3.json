@@ -1,0 +1,24 @@
+{
+  "id": "8c5c9060-685e-4d6c-8579-5b411afd0fa3",
+  "repo": "AhmadIbrahiim/Website-downloader",
+  "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+  "category": "Web Frontend",
+  "summary": "Công cụ sử dụng Node.js để tải về hoàn chỉnh source code của bất kỳ website nào, bao gồm tất cả tài nguyên tĩnh như JavaScripts, Stylesheets và Images. Đây là giải pháp giúp lưu trữ website để xem offline hoặc nghiên cứu cấu trúc frontend một cách đầy đủ.",
+  "usecases": [
+    "Nhà phát triển muốn nghiên cứu và học từ mã nguồn frontend của các website tiên phong để học hỏi kỹ thuật mới",
+    "Người dùng cần lưu trữ bản sao lưu website quan trọng để tham khảo khi không có kết nối internet",
+    "Nhóm marketing muốn phân tích thị trường bằng cách tải về trang web đối thủ và phân tích thiết kế và nội dung",
+    "Giáo viên muốn tạo tài liệu học tập về HTML/CSS/JS bằng cách tải về trang web thực tế"
+  ],
+  "ideas": [
+    "Kết hợp với AI phân tích tự động để trích xuất và tóm tắt kiến trúc CSS/Grid/Flexbox từ website đownloaded",
+    "Tích hợp vào tiện ích trình duyệt để một nháy đã tải về toàn bộ trang web hiện đang xem",
+    "Ứng dụng AR cho phép người dùng 'thả' website đã tải về lên không gian 3D để duyệt điều hướng tự nhiên",
+    "Hệ thống AI tự động tạo phiên bản mobile/responsive từ code website desktop đã tải về"
+  ],
+  "stars": 3799,
+  "starsToday": 173,
+  "language": "HTML",
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-07-07T17:08:44.736Z"
+}

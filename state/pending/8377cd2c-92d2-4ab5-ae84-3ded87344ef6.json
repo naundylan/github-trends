@@ -1,0 +1,25 @@
+{
+  "id": "8377cd2c-92d2-4ab5-ae84-3ded87344ef6",
+  "repo": "iOfficeAI/OfficeCLI",
+  "url": "https://github.com/iOfficeAI/OfficeCLI",
+  "category": "AI/LLM",
+  "summary": "OfficeCLI là bộ công cụ Office đầu tiên được xây dựng riêng cho AI agents, cho phép đọc, chỉnh sửa và tự động hóa tài liệu Word, Excel và PowerPoint. Với binary đơn file, cài đặt miễn phí và mở nguồn, nó loại bỏ sự phụ thuộc vào Microsoft Office installation.",
+  "usecases": [
+    "Nhà phát triển AI xây dựng workflow tự động hóa tài liệu doanh nghiệp",
+    "AI agents trong môi trường nội bộ cần xử lý và tạo báo cáo công thức",
+    "Nghiên cứu sinh phát triển công cụ nghiên cứu dựa trên AI đọc hiểu tài liệu",
+    "Hệ thống customer service AI tự động tạo hóa đơn và mẫu email"
+  ],
+  "ideas": [
+    "Kết hợp với autonomous research agents để tự động tạo báo cáo phân tích thị trường hàng ngày",
+    "Tích hợp vào hệ thống AI coding assistant sinh mã và tạo tài liệu hướng dẫn động",
+    "Phát triển AI legal advisor tự động soạn thảo và chỉnh sửa hợp đồng phức tạp",
+    "Tạo nên nhóm AI agents hợp tác chỉnh sửa tài liệu đa phiên làm việc qua internet",
+    "Kết hợp với blockchain để tạo ra bằng chứng thời gian tài liệu đã được AI xử lý"
+  ],
+  "stars": 9617,
+  "starsToday": 802,
+  "language": "C#",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-07T17:08:44.736Z"
+}

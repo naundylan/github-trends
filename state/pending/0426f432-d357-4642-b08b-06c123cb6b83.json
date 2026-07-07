@@ -1,0 +1,22 @@
+{
+  "id": "0426f432-d357-4642-b08b-06c123cb6b83",
+  "repo": "t8y2/dbx",
+  "url": "https://github.com/t8y2/dbx",
+  "category": "Database",
+  "summary": "Client quản lý database nhẹ chỉ 20MB được xây dựng bằng Rust và Tauri, hỗ trợ đa nền tảng và kết nối với hơn 10 loại cơ sở dữ liệu bao gồm MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server. Giao diện đơn giản nhưng đầy đủ tính năng, phù hợp cho cả người dùng thông thường và chuyên gia cần truy vấn nhanh chóng không cần cài đặt nhiều công cụ.",
+  "usecases": [
+    "Nhà phát triển web cần kiểm tra dữ liệu từ nhiều loại database khác nhau nhưng không muốn cài đặt hàng chục công cụ khác",
+    "Quản trị viên hệ thống muốn truy cập nhanh vào Redis, MySQL và PostgreSQL để monitor performance và troubleshoot issues",
+    "Học sinh hoặc người mới học database cần một công cụ đơn giản để thực hành truy vấn mà không cần thiết lập môi trường phức tạp"
+  ],
+  "ideas": [
+    "Tích hợp dbx vào DataGrip hay các IDE như IntelliJ để truy cập database trực tiếp trong môi trường phát triển",
+    "Kết hợp dbx với hệ thống MCP servers để các AI coding assistants có thể đọc ghi trực tiếp vào database khi làm việc với codebase",
+    "Biến dbx thành một database proxy server chạy trên cloud để truy cập database từ xa mà không cần mở port hay cài đặt client"
+  ],
+  "stars": 9071,
+  "starsToday": 182,
+  "language": "Rust",
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-07-07T17:08:44.736Z"
+}

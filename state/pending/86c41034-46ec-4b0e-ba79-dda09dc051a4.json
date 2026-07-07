@@ -1,0 +1,24 @@
+{
+  "id": "86c41034-46ec-4b0e-ba79-dda09dc051a4",
+  "repo": "code-yeongyu/oh-my-openagent",
+  "url": "https://github.com/code-yeongyu/oh-my-openagent",
+  "category": "AI Agent/Automation",
+  "summary": "Một framework TypeScript giúp xây dựng và quản lý các AI agents phức tạp thông qua việc orchestrating nhiều LLM providers (Claude, GPT, Gemini) với các 'skills' được định nghĩa sẵn và giao diện TUI để tương tác trực quan.",
+  "usecases": [
+    "Developer xây dựng hệ thống AI tự động hóa việc code review và refactor mã nguồn phức tạp trong dự án lớn",
+    "Team lead muốn giảm thiểu việc sử dụng token LLM bằng cách tối ưu hóa prompt và chọn model phù hợp cho từng task cụ thể",
+    "Data scientist cần triển vọng agent chuyên phân tích và trả lời câu hỏi tự động trên tập dữ liệu lớn 24/7"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Copilot để tạo IDE agent chạy độc lập hiểu toàn bộ codebase và gợi ý code context-aware",
+    "Xây dựng hệ thống agents phân tán chạy trên Kubernetes với mỗi agent chuyên vụ trì một domain (frontend/backend/security)",
+    "Tích hợp với Smart Contract trên blockchain để tạo AI agents có khả năng ký số và thực thi tự động các giao dịch thông minh",
+    "Phát triển phiên bản chạy trên edge devices như NVIDIA Jetson để tạo AI coding assistant offline hoạt động hoàn chỉh",
+    "Kết hợp với AR Glasses (như Ray-Ban Meta) tạo hệ thống agent đeo trên đầu giúp lập trình viên debug mã nguồn trong không gian 3D"
+  ],
+  "stars": 65161,
+  "starsToday": 145,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-07T17:08:44.736Z"
+}

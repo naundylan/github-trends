@@ -1,0 +1,25 @@
+{
+  "id": "1ea0f1fb-8c52-4826-bee9-24fc670c1d66",
+  "repo": "kyutai-labs/pocket-tts",
+  "url": "https://github.com/kyutai-labs/pocket-tts",
+  "category": "AI/LLM",
+  "summary": "Pocket-tts là giải pháp Text-to-Speech nhẹ cho khối lượng CPU, chạy hoàn toàn local và tối ưu hiệu suất. Với kích thước nhỏ gọn, nó cho phép triển khai TTS trên thiết bị biên và môi trường cần thiết thiực.",
+  "usecases": [
+    "Mobile app developers tích hợp TTS không cần kết nối internet",
+    "Accessibility tools cho người khuyết tật thị sử dùng offline",
+    "AI voice assistants chạy trên edge devices như Raspberry Pi",
+    "Gaming studios tạo NPC voices dynamic trong game offline"
+  ],
+  "ideas": [
+    "Kết hợp với computer vision để tạo mô tả thị giác thành giọng nói tự nhiên",
+    "Phát triển hệ thống đọc sách cho thiết bị điện thoại với giọng đọc cá nhân hóa",
+    "Tích hợp vào xe tự lái để thông báo đường đi bằng giọng nói lúc lái xe",
+    "Tạo nên podcast tự động từ bài báo với giọng đọc cảm xúc thích hợp",
+    "Kết hợp với AR glasses để đọc bảng nhãn và hướng dẫn du lịch thực địa"
+  ],
+  "stars": 5939,
+  "starsToday": 510,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-07T17:08:44.736Z"
+}
