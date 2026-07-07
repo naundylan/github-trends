@@ -1,0 +1,24 @@
+{
+  "id": "018477ff-be47-42a4-a1b9-232fd46c363d",
+  "repo": "nilbuild/developer-roadmap",
+  "url": "https://github.com/nilbuild/developer-roadmap",
+  "category": "Documentation/Learning Resource",
+  "summary": "Bộ tài liệu định hướng học tập tương tác với các roadmap, hướng dẫn chi tiết giúp các nhà phát triển phát triển sự nghiệp. Bao gồm nhiều lĩnh vực từ frontend đến backend, DevOps đến kiến trúc phần mềm.",
+  "usecases": [
+    "Sinh viên mới bắt đầu học lập trình dùng làm guide định hướng học tập theo từng năm năm",
+    "Người quản lý dự án lên kế hoạch đào tạo kỹ năng cho đội ngũ phát triển",
+    "Công ty khởi nghiệp cần xây dựng lộ trình đào tạo nội bộ với mức độ chi tiết",
+    "Mentor kỹ thuật dùng nhưm tài liệu tham khảo cho việc đánh giá trình độ học viên"
+  ],
+  "ideas": [
+    "Phát triển thành nền tảng cá nhân hóa với AI đề xuất lộ trình học phù hợp mỗi người",
+    "Kết hợp với LinkedIn để đề xuất kỹ năng cần học dựa trên thị trường việc làm",
+    "Tích hợp với hệ thống LMS để trường đại học có thể sử dụng làm sách báo cáo giáo viên",
+    "Tạo phiên bản AR/VR để học tập tương tác với sơ đồ khóa học như trò chơi"
+  ],
+  "stars": 359532,
+  "starsToday": 145,
+  "language": "TypeScript",
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-07-07T02:25:20.833Z"
+}

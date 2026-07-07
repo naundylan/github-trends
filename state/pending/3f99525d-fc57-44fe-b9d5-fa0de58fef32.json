@@ -1,0 +1,22 @@
+{
+  "id": "3f99525d-fc57-44fe-b9d5-fa0de58fef32",
+  "repo": "kenn-io/agentsview",
+  "url": "https://github.com/kenn-io/agentsview",
+  "category": "Developer Tool",
+  "summary": "AgentsView là công cụ theo dõi và phân tích hoạt động của các AI coding agent với khả năng lưu trữ local-first. Hỗ trợ theo dõi thống kê token sử dụng, phân tích hiệu suất và cung cấp insights chi tiết cho hơn 20 loại agent khác nhau như Claude Code, Codex, và Cline.",
+  "usecases": [
+    "Lập trình viên quản lý và tối ưu hóa chi phí sử dụng AI agent trong quy trình phát triển hàng ngày",
+    "Team lead theo dõi năng suất và hiệu quả làm việc của các thành viên sử dụng AI coding tools",
+    "Doanh nghiệp cần báo cáo và phân tích việc sử dụng tài nguyên AI trong các dự án cụ thể"
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống quản thư mục cá nhân (personal knowledge management) để ghi lại quy trình làm việc thông minh",
+    "Kết hợp với AI model nhỏ để tạo assistant cá nhân phân tích thói quen sử dụng AI theo thời gian thực",
+    "Xây dựng hệ thống học máy tự điều chỉnh workflow dựa trên pattern sử dụng AI agent của người dùng"
+  ],
+  "stars": 3999,
+  "starsToday": 247,
+  "language": "Go",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-07T02:25:20.833Z"
+}

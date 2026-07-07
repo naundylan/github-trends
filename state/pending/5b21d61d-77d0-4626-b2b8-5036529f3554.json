@@ -1,0 +1,22 @@
+{
+  "id": "5b21d61d-77d0-4626-b2b8-5036529f3554",
+  "repo": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện cung cấp các kỹ năng kỹ thuật chất lượng sản xuất cho các AI agent chương trình, giúp các trợ lý AI thực thi các nhiệm vụ lập trình một cách chuyên nghiệp và hiệu quả.",
+  "usecases": [
+    "Developer sử dụng để định nghĩ prompt cho Cursor/Claude Code tối ưu hóa việc sinh mã nguồn",
+    "Team AI training sử dụng làm dataset để fine-tune mô hình lập trình tính năng",
+    "QA engineer tích hợp vào pipeline tự động hóa kiểm thử mã nguồn generated bởi AI"
+  ],
+  "ideas": [
+    "Kết hợp với Zvec tạo hệ thống AI agent nhớ context dài hạn qua vector embedding",
+    "Xây dựng mô hình skill tree động cho Claude Code tự học kỹ năng mới dựa trên feedback",
+    "Tích hợp vào IDE extension để AI đề xuất refactoring pattern theo thời gian thực"
+  ],
+  "stars": 70911,
+  "starsToday": 1112,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-07T02:25:20.833Z"
+}

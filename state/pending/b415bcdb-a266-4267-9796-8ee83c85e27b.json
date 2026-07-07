@@ -1,0 +1,22 @@
+{
+  "id": "b415bcdb-a266-4267-9796-8ee83c85e27b",
+  "repo": "gastownhall/gastown",
+  "url": "https://github.com/gastownhall/gastown",
+  "category": "AI Agent/Automation",
+  "summary": "Gas Town là một workspace quản lý đa agent cho phép người dùng cấu hình, chạy và quản lý nhiều AI agent độc lập hoặc phối hợp với nhau. Dự án giúp đơn giản hóa việc xây dựng hệ thống tự động hóa phức tạp bằng cách cung cấp giao diện thống nhất cho việc điều phối các agent.",
+  "usecases": [
+    "Nhà làm phần mềm dùng để tự động hóa quy trình code review và testing bằng nhiều AI agent chuyên vụ này",
+    "Team DevOps cần xây dựng hệ thống giám sát hệ thống sử dụng nhiều loại AI agent phân tích log, cảnh báo lỗi",
+    "Nghiên cứu viên nhân tạo muốon thử nghiệm các chiến lược phối hợp giữa các agent trong môi trường điều nghiệp"
+  ],
+  "ideas": [
+    "Kết hợp với Kubernetes để triển vọng các AI agent như microservices trên cloud",
+    "Tích hợp với hệ thống blockchain để tạo AI agent có Khả năng tự thực thi thông minh dựa trên thông tin công khai",
+    "Xây dựng môi trường làm việc kết hợp AI agent với con người (human-agent collaboration) cho văn phòng tương lai"
+  ],
+  "stars": 16716,
+  "starsToday": 291,
+  "language": "Go",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-07T02:25:20.833Z"
+}

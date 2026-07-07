@@ -1,0 +1,25 @@
+{
+  "id": "f3e9001d-88a5-49d7-8d7f-57db42c996af",
+  "repo": "crynta/terax-ai",
+  "url": "https://github.com/crynta/terax-ai",
+  "category": "AI/LLM",
+  "summary": "Terax AI là một không gian làm việc phát triển tích hợp AI nhẹ (chỉ 7MB) chạy trên terminal, kết hợp trình soạn code, tương tác AI và hệ sinh thái Tauri+Rust để cung cấp trải nghiệm nhanh chóng trên Linux, macOS và Windows. Dự án nhắm đến việc mang công nghệ AI trực tiếp vào môi trường CLI, giúp người dùng tương tác với mô hình ngôn ngữ lớn thông qua giao diện terminal truyền thống một cách trực quan và hiệu quả.",
+  "usecases": [
+    "Developer cần triển khai ứng dụng AI trên server hoặc máy tính cá nhân mà không muốn cài đặt trình duyệt hoặc IDE nặng",
+    "Người dùng muốn trải nghiệm các tính năng AI như code gợi ý, tài liệu hóa mã nguồn và tương tác tự nhiên thông qua terminal",
+    "Nhà nghiên cứu hoặc kỹ sư muốn nghiên cứu và kiểm thử các agent AI trong môi trường được kiểm soát, tái tạo và tự động hóa",
+    "Đội ngũ DevOps cần tích hợp AI vào quy trình CI/CD hoặc triển khai mô hình LLM trên thiết bị biên (edge devices)"
+  ],
+  "ideas": [
+    "Kết hợp hoàn toàn với các mô hình LLM chạy locally như Llama.cpp, Phi-2 hoặc Mistral để tạo môi trường AI 100% offline không cần kết nối internet",
+    "Tích lấy thông tin context từ các hệ thống quản lý mã nguồn như GitHub/GitLab để AI tự động phân tích issue, tạo pull request và tối ưu hóa codebase",
+    "Phát triển module plugin cho phép kết nối với các dịch vụ AI khác nhau (OpenAI, Anthropic, Google Gemini) thông qua chung một giao diện đơn giản",
+    "Tích hợp với các công cụ container như Docker hay Kubernetes để triển khai các agent AI quy mô lớn trên cloud hoặc on-premise một cách dễ dàng",
+    "Xây dựng chế độ chơi game text-based với AI nhân vật không phải là chatbot, cho phép người dùng tương tác với các nhân vật được đào tạo sẵn trong terminal"
+  ],
+  "stars": 8326,
+  "starsToday": 110,
+  "language": "TypeScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-07T02:25:20.833Z"
+}

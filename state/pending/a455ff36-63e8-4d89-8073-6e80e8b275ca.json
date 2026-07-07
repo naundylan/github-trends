@@ -1,0 +1,22 @@
+{
+  "id": "a455ff36-63e8-4d89-8073-6e80e8b275ca",
+  "repo": "sindresorhus/awesome",
+  "url": "https://github.com/sindresorhus/awesome",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách tài nguyên 'awesome' được curate chất lượng cao về mọi chủ đề có liên quan, tổng hợp các công cụ, thư viện và tài liệu đáng chú ý nhất cho các nhà phát triển và học sinh.",
+  "usecases": [
+    "Student học lập trình dùng làm danh mục tài nguyên học tập được chọn lọc kỹ lưỡng",
+    "Tech lead tham khảo để chọn thư viện/phức kết trong dự án theo domain",
+    "Technical blogger sử dụng làm nguồn cảm hứng và liệt kê resources cho bài viết"
+  ],
+  "ideas": [
+    "Tích hợp với GitHub Trending API tự động tạo danh sách 'awesome' hàng ngày cho từng domain",
+    "Xây dựng AI-powered resource recommender dựa trên sở thích cá nhân hóa",
+    "Tạo phiên bản offline bundle để developer duyệt tài nguyên trong chế độ không mạng"
+  ],
+  "stars": 482332,
+  "starsToday": 345,
+  "language": "",
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-07-07T02:25:20.833Z"
+}

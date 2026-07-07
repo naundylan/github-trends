@@ -1,0 +1,22 @@
+{
+  "id": "07b1018a-c76b-4d61-aa39-97f51f73e38f",
+  "repo": "decolua/9router",
+  "url": "https://github.com/decolua/9router",
+  "category": "AI/LLM",
+  "summary": "9router là một gateway AI miễn phí cung cấp kết nối không giới hạn đến các mô hình Claude, GPT, Gemini và hàng chục nhà cung cấp khác thông qua việc sử dụng 40+ provider. Dự án tích hợp hệ thống fallback tự động và công nghệ giảm thiểu token (RTK) giúp người dùng tiết kiệm 40% chi phí sử dụng API.",
+  "usecases": [
+    "Lập trình viên sử dụng Cursor, VSCode, hay CLI để truy cập API AI miễn phí thay vì trả phí trực tiếp với OpenAI/Anthropic",
+    "Team phát triển cần tối ưu chi phí sử dụng mô hình ngôn ngữ lớn trong quy trình CI/CD pipeline",
+    "Nhà phân tích dữ liệu muốn thử nghiệm nhiều mô hình AI khác nhau mà không cần đăng ký tài khoản ở mỗi nền tảng"
+  ],
+  "ideas": [
+    "Tích hợp với GitHub Copilot để tạo hệ thống gợi ý code thông minh sử dụng nhiều mô hình AI miễn phí",
+    "Kết hợp với Docker để triển vọng môi trường local-first AI gateway cho offline development",
+    "Xây dựng hệ thống AI agent tự học hỏi từ nhiều nguồn dữ liệu khác nhau thông qua gateway này"
+  ],
+  "stars": 20356,
+  "starsToday": 312,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-07T02:25:20.833Z"
+}

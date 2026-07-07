@@ -1,0 +1,24 @@
+{
+  "id": "b1077b41-158d-4d9c-bf1c-fdd308b28adb",
+  "repo": "karakeep-app/karakeep",
+  "url": "https://github.com/karakeep-app/karakeep",
+  "category": "Web Frontend",
+  "summary": "Một ứng dụng quản lý bookmark tự host hoàn chỉnh với khả năng AI tự động gán thẻ và tìm kiếm toàn bộ văn bản. Ứng dụng kết hợp links, notes và hình ảnh vào một nền tảng duy nhất, giúp người dùng quản lý thông tin một cách thông minh và hiệu quả.",
+  "usecases": [
+    "Nhà phát triển cá nhân dùng để lưu trữ và tổ chức các liên kết, tài liệu quan trọng hàng ngàn với khả năng tìm kiếm nhanh chóng",
+    "Người học tập dùng nhưng sổ ghi chú số với tính năng OCR tự động nhận diện văn bản trong hình ảnh",
+    "Đội ngũ nghiên cứu khoa học tự host giải pháp quản lý tri thức cá nhân với bảo mật dữ liệu tuyệt đối",
+    "Người dùng muốn chuyển đổi trình duyệt web thành hệ thống ghi chú th intelligent với phân lớp thông minh bằng AI"
+  ],
+  "ideas": [
+    "Kết hợp với Notion để tự động đồng bộ các trang web đọc sau vào workspace cá nhân",
+    "Tích hợp với trợ lý AI như ChatGPT để truy vấn nội dung bookmark bằng ngôn ngữ tự nhiên",
+    "Phát triển phiên bản mobile với tính năng 'đọc later' khi đi du lịch không mạng",
+    "Tích hợp với trình duyệt để đóng vai trò là kho dữ liệu trí tuệ nhân cuối cho công việc nghiên cứu khoa học"
+  ],
+  "stars": 26925,
+  "starsToday": 199,
+  "language": "TypeScript",
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-07-07T02:25:20.833Z"
+}
