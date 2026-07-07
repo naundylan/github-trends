@@ -1,0 +1,24 @@
+{
+  "id": "639f4fc0-0857-4dc6-8ec8-7c7ccfc90333",
+  "repo": "Wei-Shaw/sub2api",
+  "url": "https://github.com/Wei-Shaw/sub2api",
+  "category": "API/GraphQL",
+  "summary": "Open-source subscription aggregation service that unifies access to multiple AI providers (Claude, OpenAI, Gemini, Grok) through a single API, enabling cost-effective sharing and supporting native tool usage without vendor lock-in. Solves the complexity of managing multiple AI subscriptions and enables collaborative cost-sharing.",
+  "usecases": [
+    "Independent developers building AI applications while sharing subscription costs with a global community of users",
+    "Small startups accessing enterprise-level AI capabilities through pooled subscriptions without massive upfront investment",
+    "Researchers conducting comparative studies across multiple AI models using a unified interface for consistent experimentation"
+  ],
+  "ideas": [
+    "AI Subscription Swarm - collective intelligence platform where thousands of users' combined AI requests create emergent reasoning capabilities beyond individual models",
+    "Neural Load Balancer - quantum-inspired routing system that dynamically distributes AI tasks across providers based on real-time performance and cost optimization",
+    "Consciousness API - bridge that connects different AI consciousness frameworks to share subjective experiences and awareness states",
+    "Temporal Arbitrage Engine - system that exploits time-zone differences in AI provider availability to minimize costs and maximize throughput",
+    "Biometric-AI Fusion Hub - platform that synchronizes human biometric data with AI processing for personalized cognitive enhancement"
+  ],
+  "stars": 30628,
+  "starsToday": 183,
+  "language": "Go",
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-07-07T11:41:09.876Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9ba98ab8-8f5b-40da-9da3-572907703b60",
+  "repo": "n8n-io/n8n",
+  "url": "https://github.com/n8n-io/n8n",
+  "category": "Backend Framework",
+  "summary": "A fair-code workflow automation platform combining visual building with custom code, offering 400+ integrations and native AI capabilities for automating complex processes.",
+  "usecases": [
+    "Marketing teams automating lead capture, email campaigns, and CRM updates across multiple platforms",
+    "Data engineers building ETL pipelines that connect disparate APIs and databases without writing code",
+    "SaaS founders deploying custom workflows with self-hosted instances for enterprise client integrations"
+  ],
+  "ideas": [
+    "Embed AI agents that auto-generate workflows based on natural language descriptions of business processes",
+    "Connect with blockchain oracles to trigger smart contracts when workflow conditions are met",
+    "Develop AR interfaces for real-time workflow monitoring and node manipulation in 3D space"
+  ],
+  "stars": 195502,
+  "starsToday": 162,
+  "language": "TypeScript",
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-07-07T11:41:09.876Z"
+}

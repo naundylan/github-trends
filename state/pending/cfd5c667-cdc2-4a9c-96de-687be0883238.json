@@ -1,0 +1,22 @@
+{
+  "id": "cfd5c667-cdc2-4a9c-96de-687be0883238",
+  "repo": "AhmadIbrahiim/Website-downloader",
+  "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+  "category": "CLI Tool",
+  "summary": "A Node.js-based tool that downloads complete website source code, including HTML, JavaScripts, stylesheets, and assets, enabling offline access or archival of web content.",
+  "usecases": [
+    "Web developers archiving competitor websites for analysis or backup purposes",
+    "Educators creating offline copies of online courses or tutorials for classroom use",
+    "Digital preservationists saving historical websites before they become inaccessible"
+  ],
+  "ideas": [
+    "Integrate with browser extensions to download entire tabs with a single click",
+    "Add AI-powered asset optimization to reduce storage size of downloaded websites",
+    "Create a decentralized version that uses IPFS for sharing archived websites peer-to-peer"
+  ],
+  "stars": 3581,
+  "starsToday": 173,
+  "language": "HTML",
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-07-07T11:41:09.876Z"
+}

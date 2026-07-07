@@ -1,0 +1,22 @@
+{
+  "id": "1f1deaff-4a31-4b4f-8ca8-75f7f740e616",
+  "repo": "code-yeongyu/oh-my-openagent",
+  "url": "https://github.com/code-yeongyu/oh-my-openagent",
+  "category": "AI Agent/Automation",
+  "summary": "A coding agent harness for complex codebases that supports multiple AI models (Claude, GPT, Gemini) and integrates with IDEs like Cursor and VSCode for autonomous code generation.",
+  "usecases": [
+    "Senior developers delegating routine code refactoring or bug fixes to AI agents while focusing on architecture",
+    "Startup teams accelerating MVP development by having agents handle boilerplate code across microservices",
+    "Technical educators teaching students advanced coding patterns through interactive AI-driven pair programming"
+  ],
+  "ideas": [
+    "Build a multi-agent swarm where specialized agents collaborate on different parts of a distributed system",
+    "Integrate with quantum computing simulators to optimize algorithm generation for future-proof code",
+    "Create a neural interface that translates brainwaves into code suggestions, enabling thought-to-code workflows"
+  ],
+  "stars": 65135,
+  "starsToday": 145,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-07T11:41:09.876Z"
+}

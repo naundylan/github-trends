@@ -1,0 +1,24 @@
+{
+  "id": "7cef3532-4ad8-4d9f-825b-daa1b1de414c",
+  "repo": "iOfficeAI/OfficeCLI",
+  "url": "https://github.com/iOfficeAI/OfficeCLI",
+  "category": "CLI Tool",
+  "summary": "OfficeCLI là bộ công cụ CLI đầu tiên và tốt nhất dành cho AI agents, giúp đọc, chỉnh sửa và tự động hóa các tệp Word, Excel, PowerPoint mà không cần cài đặt Office. Với kích thước nhỏ gọn và không phụ thuộc bên ngoài, đây là giải pháp lý tưởng cho việc xử lý tài liệu văn phòng trong môi trường AI.",
+  "usecases": [
+    "AI developers xây dựng workflow xử lý hàng triệu tài liệu Word/Excel/PPT",
+    "Automation engineers tự động hóa việc tạo báo cáo tài chính từ dữ liệu thô",
+    "Data analysts trích xuất và phân tích nội dung các tệp báo cáo công ty",
+    "QA teams kiểm tra tính chính xác của các tài liệu được tạo tự động"
+  ],
+  "ideas": [
+    "Kết hợp với các agent framework như LangChain để tạo pipeline xử lý tài liệu hoàn chỉnh",
+    "Ứng dụng trong hệ thống quản lý tài liệu thông minh phân lớp theo mức độ nhạy cảm",
+    "Tích hợp vào IDE để AI trình duyệt và sửa đổi mã nguồn trực tiếp trong tài liệu kỹ thuật",
+    "Biến tài liệu Office thành interface điều khiển cho các AI system trong môi trường doanh nghiệp"
+  ],
+  "stars": 9214,
+  "starsToday": 802,
+  "language": "C#",
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-07-07T11:41:09.876Z"
+}
