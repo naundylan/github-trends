@@ -1,0 +1,24 @@
+{
+  "id": "737a73ab-f6e3-41f5-a253-11ffc5dc0c85",
+  "repo": "karakeep-app/karakeep",
+  "url": "https://github.com/karakeep-app/karakeep",
+  "category": "Productivity/Personal Tool",
+  "summary": "Ứng dụng lưu trữ và quản lý thông tin cá nhân chạy locally với khả năng AI tự động gán thẻ và tìm kiếm toàn văn, giúp người dùng tổ chức và truy xuất nhanh chóng các liên kết, ghi chú và hình ảnh. Với kiến trúc đa nền tảng (NextJS + React Native), sản phẩm phù hợp cho việc lưu trữ thông tin cá nhân hoặc nhóm nhỏ trong môi trường tự host.",
+  "usecases": [
+    "Nhà nghiên cứu cần quản lý và truy xuất nhanh bài báo, tài liệu nghiên cứu",
+    "Content creator lưu trữ ý tưởng, liên kết và tài nguyên cho các dự án",
+    "Student ghi lại các tài liệu học tập và tích lũy tri thức cá nhân",
+    "Team nhỏ muốn xây dựng thư viện chung không cần đăng nhập qua dịch vụ bên thứ ba"
+  ],
+  "ideas": [
+    "Kết hợp với trình duyệt để bật tính năng lưu trang web một cách mượt mà",
+    "Tích hợp với Notion hoặc Obsidian để đồng bộ hóa kiến thức một cách tự động",
+    "Phát triển thành nền tảng CRM cá nhân để quản lý mối quan hệ chuyên gia",
+    "Tích hợp AI phân tích hành vi người dùng để đề xuất nội dung cá nhân hóa"
+  ],
+  "stars": 27128,
+  "starsToday": 457,
+  "language": "TypeScript",
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-07-07T14:13:45.135Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "25d7236e-ea48-42c8-a0c2-5e577f0ea4f7",
+  "repo": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện cung cấp các kỹ năng kỹ thuật chất lượng sản xuất để đào tạo cho AI coding agents, bao gồm khả năng viết mã, tối ưu hóa và làm việc theo quy trình phát triển phần mềm. Gói này giúp các AI agent hoạt động hiệu quả hơn trong môi trường production với việc đảm bảo chất lượng mã nguồn và tuân thủ các nguyên tắc kỹ ing chuyên nghiệp.",
+  "usecases": [
+    "Lập trình viên sử dụng Cursor hoặc Claude Code để tăng tốc độ phát triển",
+    "Team lead muốn thiết lập tiêu chuẩn mã nguồn cho AI-assisted development",
+    "Công ty phần mềm muốn triển khai AI coding assistants trong quy trình CI/CD",
+    "Nhà hàng hoạt động phần mềm cần hỗ trợ sửa lỗi và tối ưu mã nguồn tự động"
+  ],
+  "ideas": [
+    "Tích hợp với GitHub Copilot để tạo ra hệ thống AI agent chuyên về frontend, backend độc lập",
+    "Xây dựng platform chia sẻ kỹ năng AI giữa các team phát triển khác nhau",
+    "Ứng dụng vào DevOps để tự động generate deployment scripts và monitoring configs",
+    "Kết hợp với mô hình language model để tạo ra code review agent chuyên sâu theo từng domain"
+  ],
+  "stars": 71685,
+  "starsToday": 1311,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-07T14:13:45.135Z"
+}

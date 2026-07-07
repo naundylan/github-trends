@@ -1,0 +1,24 @@
+{
+  "id": "4eafdeaf-52c8-4b7a-979d-cf54bb126fff",
+  "repo": "MadsLorentzen/ai-job-search",
+  "url": "https://github.com/MadsLorentzen/ai-job-search",
+  "category": "AI/LLM",
+  "summary": "Khung làm việc AI giúp ứng viên tìm và ứng tuyển việc làm một cách thông minh, tích hợp sâu với Claude Code để tự động hóa quy trình tìm kiếm, chỉnh sửa CV, viết thư giới thiệu và phát triển kỹ năng phỏng vấn. Dự án giúp người dùng chỉ cần cung cấp hồ sơ cá nhân là có thể nhận được gợi ý việc làm phù hợp và được hỗ trợ trực tiếp trong suốt quá trình xin việc.",
+  "usecases": [
+    "Cá nhân đang tìm kiếm việc làm mới trong lĩnh vực công nghệ thông tin",
+    "Freelancer muốn chuyển đổi sang làm việc với công ty và cần hỗ trợ ứng tuyển",
+    "Người đi làm lại với mục tiêu thăng chức hoặc thay đổi ngành nghề",
+    "Sinh viên mới tốt nghiệp muốn xây dựng hồ sơ ứng viên mạnh mẽ"
+  ],
+  "ideas": [
+    "Kết hợp với LinkedIn API để tự động crawl và phân tích job posting từ mạng xã hội chuyên nghiệp",
+    "Phát triển thành ứng dụng di động với tính năng đẩy thông báo khi có cơ hội việc làm phù hợp",
+    "Tích hợp với hệ thống lương và phúc lợi để so sánh gói đề xuất tuyển dụng",
+    "Tạo ra mô hình AI dự báo xu hướng thị trường việc làm theo từng lĩnh vực kỹ thuật"
+  ],
+  "stars": 8899,
+  "starsToday": 2402,
+  "language": "TypeScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-07T14:13:45.135Z"
+}

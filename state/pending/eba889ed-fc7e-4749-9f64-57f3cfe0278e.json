@@ -1,0 +1,23 @@
+{
+  "id": "eba889ed-fc7e-4749-9f64-57f3cfe0278e",
+  "repo": "kenn-io/agentsview",
+  "url": "https://github.com/kenn-io/agentsview",
+  "category": "Developer Tool",
+  "summary": "AgentsView là công cụ theo dõi và phân tích session của các AI coding agents với chế độ local-first. Nó cung cấp thống kê token sử dụng, insights và xu hướng sử dụng, hỗ trợ Claude Code, Codex và hơn 20 agents khác. Công cụ giúp các nhà phát triển hiểu rõ hơn về hiệu suất và chi phí sử dụng AI trong quy trình làm việc.",
+  "usecases": [
+    "Data scientist theo dõi mức tiêu thụ API tokens hàng tháng để đề xuất ngân sách cho công ty",
+    "Team lead xuất báo cáo sử dụng AI bởi mỗi thành viên cho việc phân bổ công việc và tối ưu hóa workflow",
+    "Freelancer lưu trữ local các session AI để phục vụ hồ sơ dự án và đàm phán với khách hàng về thời gian"
+  ],
+  "ideas": [
+    "Kết hợp với 9router để AgentsView truy vấn thống kê từng provider nào tốn nhiều token nhất trong session",
+    "Tích hợp vào Gas Town dashboard để hiển thị real-time token usage của tất cả agents trong workspace",
+    "Tạo môi trường mô phỏng (sandbox) để chạy thử prompt với dự báo token trước khi thực thi thực tế",
+    "Phát triển extension VSCode để hiển thị usage stats ngay trong editor khi các agent đang chạy"
+  ],
+  "stars": 4058,
+  "starsToday": 247,
+  "language": "Go",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-07T14:13:45.136Z"
+}

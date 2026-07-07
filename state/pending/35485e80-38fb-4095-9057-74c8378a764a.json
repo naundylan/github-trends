@@ -1,0 +1,23 @@
+{
+  "id": "35485e80-38fb-4095-9057-74c8378a764a",
+  "repo": "earthtojake/text-to-cad",
+  "url": "https://github.com/earthtojake/text-to-cad",
+  "category": "AI Agent/Automation",
+  "summary": "Đây là một bộ các kỹ năng agent (agent skills) dành cho thiết kế CAD, robotics và phần cứng. Dự án cho phép chuyển đổi văn bản thành các mô hình 3D và thiết kế kỹ thuật thông qua các trình duyệt web, tích hợp với OpenCascade và hỗ trợ nhiều định dạng như STL, STEP, DXF cho ngành mechanical và robotics.",
+  "usecases": [
+    "Kỹ sư thiết kế mechanical sử dụng để tạo nhanh các bộ phận trong xe hoặc máy móc từ mô tả yêu cầu bằng văn bản",
+    "Nhà thiết kế robot tích hợp vào quy trình thiết kế hệ thống robot dựa trên mô hình URDF/SRDF từ lệnh text",
+    "Sinh viên đại học ngành công nghiệp nhẹ để học tập và thực hành tạo mô hình 3D phức tạp một cách nhanh chóng"
+  ],
+  "ideas": [
+    "Kết hợp với AI coding assistant để tự động tạo mã điều khiển robot hoặc phần mềm giả lập dựa trên thiết kế CAD từ text",
+    "Tích hợp vào nền tảng thiết kế đám cloud cho phép nhiều kỹ sư cùng hợp tác tạo và chỉnh sửa mô hình qua AI agent",
+    "Ứng dụng trong sản xuất không gian (additive manufacturing) để AI tự động tạo thiết kế tối ưu cho in 3D dựa trên yêu cầu vật liệu và chức năng",
+    "Kết hợp với công nghệ AR/VR tạo mô hình 3D tương tác trực tiếp trong không gian ảo, sau đó xuất ngay sang định dạng CAD cho sản xuất"
+  ],
+  "stars": 7770,
+  "starsToday": 101,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-07T14:13:45.136Z"
+}

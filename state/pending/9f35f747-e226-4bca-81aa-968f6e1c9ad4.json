@@ -1,0 +1,24 @@
+{
+  "id": "9f35f747-e226-4bca-81aa-968f6e1c9ad4",
+  "repo": "maziyarpanahi/openmed",
+  "url": "https://github.com/maziyarpanahi/openmed",
+  "category": "AI/LLM",
+  "summary": "OpenMed là một nền tảng AI y tế chạy hoàn toàn nội bộ (local-first) với khả năng trích xuất thông tin lâm sàng (clinical NER) và xóa dữ liệu nhân phẩm HIPAA một cách an toàn. Dự án tích hợp hơn 1.000 mô hình y tế, hỗ trợ 12 ngôn ngữ và sử dụng Apple MLX cùng Python để đảm bảo dữ liệu bệnh nhân không rời khỏi mạng nội bộ.",
+  "usecases": [
+    "Bác sĩ và nhân viên y tế sử dụng để phát hiện và loại bỏ thông tin nhạy cảm trước khi xử lý hoặc chia sẻ dữ liệu bệnh án",
+    "Công ty phần mềm y tế nhận được giải pháp PII de-identification nội bộ để đảm bảo tuân thủ quy định HIPAA",
+    "Nghiên cứu viên y tế muốn phân tích dữ liệu lâm sàng trên thiết bị cá nhân mà không cần kết nối internet",
+    "Trung tâm y tế nhỏ hoặc private clinic cần triển khai AI mà không đầu tư hạ tầng đám mây"
+  ],
+  "ideas": [
+    "Kết hợp với blockchain để tạo chữ ký số của quy trình xử lý dữ liệu y tế, đảm bảo tính bảo mật và vết tích",
+    "Phát triển phiên bản mobile app sử dụng OpenMed để bác sĩ thực hiện mở dữ liệu trên bảng điều trị ngay trong phòng khám",
+    "Tích hợp với wearable devices để phân tích dữ liệu sinh học số theo thời gian thực mà không cần gửi về server",
+    "Tạo môi trường mô phỏng y tế hoàn chỉnh cho sinh viên y học học tập với dữ liệu giả lập an toàn"
+  ],
+  "stars": 4265,
+  "starsToday": 128,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-07T14:13:45.136Z"
+}

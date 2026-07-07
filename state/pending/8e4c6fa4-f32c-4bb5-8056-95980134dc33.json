@@ -1,0 +1,23 @@
+{
+  "id": "8e4c6fa4-f32c-4bb5-8056-95980134dc33",
+  "repo": "decolua/9router",
+  "url": "https://github.com/decolua/9router",
+  "category": "AI/LLM",
+  "summary": "9router là một cổng (gateway) AI miễn phí hỗ trợ kết nối 40+ nhà cung cấp AI như Claude, GPT, Gemini đến các AI coding agents như Cursor, Cline, Copilot. Với tính năng auto-fallback và tiết kiệm token lên đến 40%, nó giúp người dùng thoát khỏi giới hạn rate limit và chi phí sử dụng AI.",
+  "usecases": [
+    "Lập trình viên học sinh dùng để truy cập API Claude/GPT miễn phí khi làm dự án cá nhân không có API key",
+    "Công ty phần mềm nhỏ muốn tối ưu chi phí sử dụng AI bằng cách kết hợp nhiều provider với khả năng dự phòng",
+    "R&D engineer sử dụng trong môi trường CI/CD để các agent code tự động không bị gián đoạn do hết quota API"
+  ],
+  "ideas": [
+    "Kết hợp với Gas Town để mỗi agent có thể sử dụng 9router với balance provider tối ưu dựa trên cache và token usage",
+    "Tích hợp với AgentsView để phân tích xu hướng sử dụng token qua từng provider và tối ưu hóa chi phí",
+    "Xây dựng farmer bot tự động xoay API free từ các dịch vụ như HuggingFace, OpenRouter để làm mới token",
+    "Tạo chế độ offline mode với cache cục bộ các response phổ biến để giảm độc lập vào mạng"
+  ],
+  "stars": 20545,
+  "starsToday": 312,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-07T14:13:45.136Z"
+}
