@@ -1,0 +1,22 @@
+{
+  "id": "d4e0fbb6-21d7-489c-a59b-30b7bcaa9b8e",
+  "repo": "kyutai-labs/pocket-tts",
+  "url": "https://github.com/kyutai-labs/pocket-tts",
+  "category": "AI/LLM",
+  "summary": "Một hệ thống Text-to-Speech (TTS) siêu nhẹ chỉ khoảng 1.5GB, có thể chạy hoàn toàn trên CPU mà không cần GPU, phù hợp cho thiết bị di động và môi trường có tài nguyên giới hạn. Dự án đóng góp cho việc làm phong phú tiếng nói tự nhiên trong các ứng dụng AI đặt biệt chế trên thiết bị.",
+  "usecases": [
+    "Nhà phát triển ứng dụng mobile tích hợp TTS không cần kết nối internet cho chức năng đọc văn bản bằng giọng nói tự nhiên",
+    "Người dùng truy cập giới hạn dung lượng RAM muốn sử dụng chức năng chuyển đổi văn bản thành giọng nói trong thiết bị của mình",
+    "Bảo mật dữ liệu khi các tổ chức cần xử lý văn bản thành giọng nói nội bộ mà không gửi dữ liệu ra ngoài cloud"
+  ],
+  "ideas": [
+    "Kết hợp với WebAssembly để chạy trực tiếp trong trình duyệt, tạo trải nghiệm TTS cục địa hoàn toàn không cần server",
+    "Tích hợp vào trợ lý AI tiếng Việt trên thiết bị để hỗ trợ người cao tuổi sống trong ngôn ngữ mother tongue",
+    "Ứng dụng trong thực tế ảo VR để tạo giọng đọc chân thực cho nhân vật NPC trong trò chơi không cần kết nối mạng"
+  ],
+  "stars": 6099,
+  "starsToday": 510,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-07T22:07:34.418Z"
+}

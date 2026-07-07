@@ -1,0 +1,22 @@
+{
+  "id": "33b48764-7a71-4be5-8afd-8691e731901d",
+  "repo": "AhmadIbrahiim/Website-downloader",
+  "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+  "category": "CLI Tool",
+  "summary": "Công cụ sử dụng Node.js để tải về hoàn chỉnh mã nguồn trang web, bao gồm tất cả tài sản như JavaScript, CSS, hình ảnh, phục vụ cho việc lưu trữ trang web để xem offline hoặc phân tích nội dung.",
+  "usecases": [
+    "Nhà phát triển muốn sao lưu trang web tĩnh để phân tích cấu trúc hoặc làm tài liệu tham khảo.",
+    "Người dùng cần xem trang web trong chế độ ngoại tuyến mà không cần kết nối internet.",
+    "Công ty bảo mật sử dụng để kiểm tra các tài nguyên tiPotENTIAL bị lộ trên trang web."
+  ],
+  "ideas": [
+    "Tích hợp với trình duyệt để tải trang web hiện tại bằng một cú nhấp chuột, tạo bản lưu trữ HTML hoàn chỉnh.",
+    "Phát triển plugin cho các công cụ SEO để tải trang web và phân tích khả năng tìm kiếm.",
+    "Kết hợp với AI để tự động trích xuất và lưu trữ nội dung chính từ trang web với định dạng markdown."
+  ],
+  "stars": 3925,
+  "starsToday": 173,
+  "language": "HTML",
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-07-07T22:07:34.418Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "e28c2f6b-af52-4360-b942-cf259aea2f5f",
+  "repo": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện các 'Agent Skills' (kỹ năng của tác nhân AI) từ Anthropic, cung cấp các module có thể tái sử dụng để tăng khả năng tương tác và xử lý công việc của Claude AI Assistant. Đây là framework mở cho phép các nhà phát triển xây dựng và chia sẻ các hành vi thông minh cho AI agents.",
+  "usecases": [
+    "Nhà phát triển tích hợp khả năng tìm kiếm và truy xuất thông tin vào trợ lý AI nội bộ của công ty",
+    "Team DevOps tự động hóa quy trình triển khai bằng cách cho phép AI agent thực thi các câu lệnh shell và API một cách an toàn",
+    "Nhà nghiên cứu muốn thử nghiệm các kỹ thuật mới cho việc AI đọc và phân tích tài liệu một cách có cấu trúc"
+  ],
+  "ideas": [
+    "Tạo 'Skill marketplace' Việt Nam với các kỹ năng đặc thù cho ngôn ngữ và văn hóa địa phương",
+    "Kết hợp với hệ thống ERP nội bộ để AI agent có thể thực thi các quy trình kinh doanh phức tạp một cách tự động",
+    "Phát triển hệ sinh thái skills cho quản lý tài sản số trong quỹ mua bảo hiểm bằng blockchain"
+  ],
+  "stars": 159168,
+  "starsToday": 426,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-07T22:07:34.418Z"
+}

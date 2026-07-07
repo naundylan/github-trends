@@ -1,0 +1,25 @@
+{
+  "id": "defc143e-0787-4bd9-aace-76dd9d4167ce",
+  "repo": "n8n-io/n8n",
+  "url": "https://github.com/n8n-io/n8n",
+  "category": "AI Agent/Automation",
+  "summary": "n8n là nền tảng tự động hóa workflow mã nguồn mở với khả năng AI bản native, cho phép kết hợp xây dựng trực quan (visual) với mã tùy chỉnh, hỗ trợ tự host hoặc dịch vụ cloud, tích tế 400+ integrations. Nó giải quyết nhu cầu tự động hóa quy trình doanh nghiệp phức tạp và kết nối liên system một cách linh hoạt.",
+  "usecases": [
+    "Doanh nghiệp sử dụng n8n để tự động hóa quy trình đăng ký khách hàng từ website qua CRM và gửi email chào mừng mà không cần code trực tiếp",
+    "Developer dùng n8n để xây dựng CI/CD pipeline tích hợp GitHub, Docker và Slack thông báo trạng thái deploy",
+    "Marketing team tạo workflow tự động thu thập dữ liệu social media, phân tích bằng AI và đẩy tin tức đến email subscribers hàng ngày",
+    "Công ty dịch vụ kết nối n8n với MCP servers để cung cấp workflow AI động cho khách hàng trong thiết kế website"
+  ],
+  "ideas": [
+    "Kết hợp n8n với MCP hosts để tạo workflow AI sinh động dựa trên context người dùng thời gian thực, ví dụ: tự động tạo báo cáo khi có dữ liệu mới từ nhiều nguồn",
+    "Xây dựng hệ thống multi-tenant workflow management với Kubernetes, cho phép doanh nghiệp chạy hàng ngàn workflow độc lập trên một nền tảng duy nhất",
+    "Tích hợp blockchain để lưu trữ workflow definitions như một smart contract, đảm bảo tính bất biến và khử trung gian cho các quy trình thiết yếu",
+    "Kết hợp AR/VR vào n8n workflow builder để tạo giao diện 3D tương tác, giúp người khó hiểu code dễ dàng xây dựng workflow phức tạp",
+    "Sử dụng n8n như workflow engine cho các AI agent độc lập chạy trên edge devices, tự động hóa việc gọi LLM và xử lý dữ liệu trên thiết bị không cần kết nối internet"
+  ],
+  "stars": 195557,
+  "starsToday": 148,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-07T22:07:34.418Z"
+}

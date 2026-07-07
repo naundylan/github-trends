@@ -1,0 +1,22 @@
+{
+  "id": "02adb716-fca7-4f2d-a54c-663f16ab6491",
+  "repo": "tonhowtf/omniget",
+  "url": "https://github.com/tonhowtf/omniget",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop mở nguồn sử dụng Tauri, Rust và Svelte để tải về, tổ chức và học tập phương tiện trực tuyến. Hỗ trợ đọc PDF/EPUB với chế độ tập trung, ghi chú thời gian và lặp lại khoảng cách. Tính năng chính là tải nội dung từ hơn 1.800 trang web như YouTube, TikTok, Udemy thông qua yt-dlp.",
+  "usecases": [
+    "Sinh viên sử dụng để tải về khóa học trực tuyến từ Udemy hoặc YouTube và học tập offline với hệ thống ghi chú và lặp lại khoảng cách.",
+    "Người sáng tạo nội dung muốn lưu trữ hình ảnh, video từ các nền tảng mạng xã hội như Instagram và Reddit để phân tích hoặc chỉnh sửa.",
+    "Nhà nghiên cứu muốn thu thập phương tiện từ nhiều nguồn khác nhau để phân tích dữ liệu trong các dự án nghiên cứu."
+  ],
+  "ideas": [
+    "Tích hợp AI để tạo tóm tắt tự động các video hoặc tài liệu PDF dựa trên nội dung ghi chú của người dùng.",
+    "Phát triển chế độ hợp tác cho phép nhiều người dùng chia sẻ phương tiện và ghi chú trong dự án học tập hoặc nghiên cứu.",
+    "Kết nối với trợ lý AI cá nhân hóa để đề xuất phương tiện dựa trên sở thích và tiến độ học tập của người dùng."
+  ],
+  "stars": 6468,
+  "starsToday": 154,
+  "language": "Rust",
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-07-07T22:07:34.418Z"
+}

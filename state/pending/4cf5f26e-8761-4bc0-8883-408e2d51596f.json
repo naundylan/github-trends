@@ -1,0 +1,22 @@
+{
+  "id": "4cf5f26e-8761-4bc0-8883-408e2d51596f",
+  "repo": "t8y2/dbx",
+  "url": "https://github.com/t8y2/dbx",
+  "category": "Database",
+  "summary": "Đây là một client cơ sở dữ liệu nhẹ 20MB, chạy trên nhiều nền tảng với giao diện đồ họa, hỗ trợ đa dạng các loại cơ sở dữ liệu như MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server. Dự án sử dụng Rust và Tauri để đảm bảo hiệu suất và khả năng di động.",
+  "usecases": [
+    "Nhà phát triển sử dụng để quản lý và truy vấn nhiều loại cơ sở dữ liệu từ một giao diện thống nhất trong quy trình phát triển ứng dụng di động hoặc web.",
+    "Kỹ thuật viên cần truy cập nhanh vào cơ sở dữ liệu cục bộ hoặc qua mạng trong môi trường làm việc không có quyền truy cập internet.",
+    "Người dùng muốn thử nghiệm và so sánh hiệu suất các cơ sở dữ liệu khác nhau mà không cần cài đặt phần mềm phức tạp."
+  ],
+  "ideas": [
+    "Tích hợp trí tuệ nhân tạo để tự động gợi ý truy vấn SQL dựa trên mô tả bảng hoặc dữ liệu mẫu.",
+    "Kết nối với dịch vụ đám mây như AWS RDS hoặc Google Cloud SQL để quản lý cơ sở dữ liệu trên điện toán đám mây trực tiếp từ ứng dụng.",
+    "Phát triển tiện ích mở rộng cho trình duyệt để truy cập nhanh các cơ sở dữ liệu đang hoạt động trên localhost."
+  ],
+  "stars": 9091,
+  "starsToday": 182,
+  "language": "Rust",
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-07-07T22:07:34.418Z"
+}

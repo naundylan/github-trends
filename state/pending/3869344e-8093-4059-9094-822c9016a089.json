@@ -1,0 +1,22 @@
+{
+  "id": "3869344e-8093-4059-9094-822c9016a089",
+  "repo": "iOfficeAI/OfficeCLI",
+  "url": "https://github.com/iOfficeAI/OfficeCLI",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ công cụ CLI đầu tiên được thiết kế riêng để AI agents có thể đọc, chỉnh sửa và tự động hóa tài liệu Word, Excel, PowerPoint mà không cần cài đặt Microsoft Office. Đây là giải pháp mã nguồn mở, chỉ cần một binary để triển khai.",
+  "usecases": [
+    "Các nhà phát triển AI và automation engineers có thể tích hợp khả năng xử lý tài liệu office vào các hệ thống chatbot hoặc workflow tự động hóa",
+    "Data scientists và analysts có thể tự động hóa việc tạo báo cáo bằng Excel và PowerPoint từ dữ liệu thô",
+    "Công ty dịch vụ kỹ thuật số có thể sử dụng để xây dựng các giải pháp xử lý tài liệu hàng loạt cho khách hàng doanh nghiệp"
+  ],
+  "ideas": [
+    "Kết hợp với các AI agent framework như LangChain hoặc AutoGen để tạo ra trợ lý văn phòng hoàn chỉnh có khả năng đọc và tạo nội dung chuyên sâu",
+    "Phát triển thành một 'Document Intelligence Platform' để các doanh nghiệp có thể cài đặt một lần là sử dụng được trên mọi hệ thống",
+    "Tích hợp với hệ thống ERP để tự động tạo hóa đơn, hợp đồng và tài liệu pháp lý dựa trên dữ liệu gốc"
+  ],
+  "stars": 9821,
+  "starsToday": 802,
+  "language": "C#",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-07T22:07:34.418Z"
+}

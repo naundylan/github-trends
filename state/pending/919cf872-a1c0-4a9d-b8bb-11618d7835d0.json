@@ -1,0 +1,22 @@
+{
+  "id": "919cf872-a1c0-4a9d-b8bb-11618d7835d0",
+  "repo": "Wei-Shaw/sub2api",
+  "url": "https://github.com/Wei-Shaw/sub2api",
+  "category": "API/GraphQL",
+  "summary": "Một dịch vụ cả tiếng Trung 'one-stop open source relay service' cho phép kết nối đơn giản đến các mô hình AI như Claude, OpenAI, Gemini, Grok thông qua API duy nhất. Hỗ trợ chia sẻ và chia sẻ chi phí các subscription, giúp người dùng tiết kiệm chi phí khi sử dụng nhiều dịch vụ AI.",
+  "usecases": [
+    "Doanh nghiệp nhỏ muốn truy cập nhiều mô hình AI khác nhau mà không cần đăng ký và quản lý nhiều tài khoản riêng",
+    "Nhà nghiên cứu muốn thử nghiệm và so sánh kết quả từ nhiều mô hình ngôn ngữ lớn trong các dự án của mình",
+    "Người dùng cá nhân chia sẻ chi phí subscription AI model với bạn bè để sử dụng các tính năng cao cấp tiết kiệm"
+  ],
+  "ideas": [
+    "Xây dựng nền tảng chia sẻ subscription cho cả Việt Nam, kết hợp với thanh toán crypto An toàn để bảo vệ quyền riêng tư",
+    "Tích hợp vào hệ thống giáo dục online để hỗ trợ giảng viên và học sinh sử dụng nhiều mô hình AI khác nhau cho tiết học tập",
+    "Tạo lưu trữ lệnh bằng chữ Việt để các AI agent có thể thực thi trên hệ thống phức tạp bằng ngôn ngữ trực quan hơn"
+  ],
+  "stars": 30681,
+  "starsToday": 183,
+  "language": "Go",
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-07-07T22:07:34.418Z"
+}
