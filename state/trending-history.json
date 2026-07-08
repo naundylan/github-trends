@@ -21,7 +21,7 @@
   },
   "NousResearch/hermes-agent": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-02"
   },
   "OpenCut-app/OpenCut": {
@@ -41,12 +41,12 @@
   },
   "TencentCloud/CubeSandbox": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-02"
   },
   "ogulcancelik/herdr": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-02"
   },
   "usestrix/strix": {
@@ -91,22 +91,22 @@
   },
   "diegosouzapw/OmniRoute": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-03"
   },
   "Zackriya-Solutions/meetily": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-03"
   },
   "openai/codex-plugin-cc": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-04"
   },
   "alibaba/page-agent": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-04"
   },
   "ChromeDevTools/chrome-devtools-mcp": {
@@ -116,7 +116,7 @@
   },
   "asgeirtj/system_prompts_leaks": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-04"
   },
   "agentskills/agentskills": {
@@ -126,7 +126,7 @@
   },
   "immich-app/immich": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-04"
   },
   "chthollyphile/folia-major": {
@@ -146,12 +146,12 @@
   },
   "coreyhaines31/marketingskills": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-04"
   },
   "Leonxlnx/taste-skill": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-05"
   },
   "CoplayDev/unity-mcp": {
@@ -161,12 +161,12 @@
   },
   "dotnet/skills": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-05"
   },
   "cheahjs/free-llm-api-resources": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-05"
   },
   "TauricResearch/TradingAgents": {
@@ -176,7 +176,7 @@
   },
   "bradautomates/claude-video": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-05"
   },
   "karpathy/nanoGPT": {
@@ -186,7 +186,7 @@
   },
   "mvanhorn/last30days-skill": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-05"
   },
   "openclaw/openclaw": {
@@ -196,22 +196,22 @@
   },
   "binwiederhier/ntfy": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-05"
   },
   "ruvnet/RuView": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-06"
   },
   "alirezarezvani/claude-skills": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-06"
   },
   "steipete/CodexBar": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-06"
   },
   "nodejs/node": {
@@ -226,7 +226,7 @@
   },
   "hesreallyhim/awesome-claude-code": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-06"
   },
   "microsoft/qlib": {
@@ -251,52 +251,102 @@
   },
   "MadsLorentzen/ai-job-search": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-07"
   },
   "AhmadIbrahiim/Website-downloader": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-07"
   },
   "iOfficeAI/OfficeCLI": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-07"
   },
   "kyutai-labs/pocket-tts": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-07"
   },
   "anthropics/skills": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-07"
   },
   "TencentCloud/TencentDB-Agent-Memory": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-07"
   },
   "n8n-io/n8n": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-07"
   },
   "Wei-Shaw/sub2api": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-07"
   },
   "tonhowtf/omniget": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-07"
   },
   "t8y2/dbx": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-07",
+    "last_seen": "2026-07-08",
     "last_saved": "2026-07-07"
+  },
+  "addyosmani/agent-skills": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "last_saved": "2026-07-08"
+  },
+  "decolua/9router": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "last_saved": "2026-07-08"
+  },
+  "ComposioHQ/awesome-claude-skills": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "last_saved": "2026-07-08"
+  },
+  "karakeep-app/karakeep": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "last_saved": "2026-07-08"
+  },
+  "lessweb/deepcode-cli": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "last_saved": "2026-07-08"
+  },
+  "code-yeongyu/oh-my-openagent": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "last_saved": "2026-07-08"
+  },
+  "kenn-io/agentsview": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "last_saved": "2026-07-08"
+  },
+  "gastownhall/gastown": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "last_saved": "2026-07-08"
+  },
+  "jesseduffield/lazydocker": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "last_saved": "2026-07-08"
+  },
+  "tinyhumansai/openhuman": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-08",
+    "last_saved": "2026-07-08"
   }
 }

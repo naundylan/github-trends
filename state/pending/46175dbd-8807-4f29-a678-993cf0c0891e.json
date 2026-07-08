@@ -1,0 +1,24 @@
+{
+  "id": "46175dbd-8807-4f29-a678-993cf0c0891e",
+  "repo": "kenn-io/agentsview",
+  "url": "https://github.com/kenn-io/agentsview",
+  "category": "Developer Tool",
+  "summary": "AgentsView là công cụ phân tích và giám sát session của các coding agent với trọng tâm vào dữ liệu local-first. Hỗ trợ theo dõi thống kê token, phân tích hiệu suất và cung cấp insights cho các nhà phát triển và nghiên cứu viên.",
+  "usecases": [
+    "ML engineers theo dõi và tối ưu hóa chi phí sử dụng API text model trong quy trình phát triển",
+    "Platform engineers quản lý và báo cáo sử dụng tài nguyên AI cho các dự án nội bộ",
+    "Nghiên cứu viên AI phân tích hành vi và hiệu quả của các mô hình AI trong môi trường thực nghiệm",
+    "CTO nhóm nhỏ muốn đánh giá ROI của việc sử dụng AI agents trong quy trình sản xuất"
+  ],
+  "ideas": [
+    "Tích hợp với Google BigQuery để lưu trữ và phân tích dữ liệu usage trên quy mô doanh nghiệp",
+    "Kết nối với hệ thống nhắc cảnh thông minh (like Grafana) để trực quan hóa dòng token theo thời gian thực",
+    "Phát triển API cho phép các tổ chức can thiệp vào khi có ngưỡng token vượt quá quy định",
+    "Tích hợp với hệ thống quản lý chi phí như OpenCost để tính toán chi phí thực cho từng dự án AI"
+  ],
+  "stars": 4089,
+  "starsToday": 123,
+  "language": "Go",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-08T05:44:51.796Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f3084582-2075-44d3-b7dc-70a8ff55d698",
+  "repo": "tinyhumansai/openhuman",
+  "url": "https://github.com/tinyhumansai/openhuman",
+  "category": "AI Agent/Automation",
+  "summary": "OpenHuman là một siêu trí tuệ AI cá nhân cục quyển, xây dựng hệ thống nhớ local-first ghi lại cuộc sống người dùng, đồng thời điều phối các cục robot và workflow phức tạp, cùng với khả năng nghiên cứu sâu. Dự án sử dụng Rust để đảm bảo hiệu suất và bảo mật, tạo nền tảng cho một trí tuệ nhân tạo cá nhân hóa hoàn chỉnh.",
+  "usecases": [
+    "Cá nhân dùng để xây dựng hệ trí tuệ nhân tạo cá nhân ghi nhớ mọi tương tác và tài liệu, tự động hóa công việc hàng ngày dựa trên ngữ cảnh",
+    "Nghiên cứu viên sử dụng như nền tảng nghiên cứu tự động hóa phân tích dữ liệu và tạo hypothesis từ ký ức cá nhân",
+    "Nhà phát triển tích hợp vào hệ thống nhớ cá nhân để điều phối các microservice và môi trường làm việc một cách thông minh",
+    "Người dùng cuối kết hợp với thiết bị thong minh nhà để AI nhớ và dự đoán nhu cầu dựa trên thói quen cá nhân"
+  ],
+  "ideas": [
+    "Kết hợp OpenHuman với điện thoại thông minh để ghi âm và phân tích tất cả cuộc trò chuyện thành các ký ức ngữ cảnh trong brain cá nhân",
+    "Tích hợp với hệ thống blockchain để lưu trữ bảo mật các ký ức cá nhân trên đám mây, đồng thời cho phép người dùng kiểm soát quyền truy cập bằng mã hóa",
+    "Kết nối với robot phục vụ cá nhân ( như robot pha coffee, dọn nhà) để AI brain điều phối các nhiệm vụ dựa trên kế hoạch và ký ức cá nhân hóa",
+    "Ứng dụng trong metaverse để tạo ra phiên bản số của cá nhân với khả năng nhớ và học hỏi từ các tương tác thực tế",
+    "Kết hợp với công nghệ nhìn thấy và xử lý ngôn ngữ tự nhiên để AI tự động ghi lại các sự kiện quan trọng từ video và hình ảnh hàng ngày"
+  ],
+  "stars": 34415,
+  "starsToday": 101,
+  "language": "Rust",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T05:44:51.796Z"
+}

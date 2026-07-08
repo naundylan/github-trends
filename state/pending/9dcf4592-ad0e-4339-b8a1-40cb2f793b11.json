@@ -1,0 +1,22 @@
+{
+  "id": "9dcf4592-ad0e-4339-b8a1-40cb2f793b11",
+  "repo": "ComposioHQ/awesome-claude-skills",
+  "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách được curate các Claude Skills, tài nguyên và công cụ để tùy chỉnh workflow làm việc của Claude AI. Bao gồm các công cụ tích hợp MCP, automate quy trình phát triển và kết nối với nhiều nền tảng như Cursor, VS Code.",
+  "usecases": [
+    "AI engineer khám phá và tích hợp các skills mới để mở rộng khả năng Claude trong dự án",
+    "Product manager sử dụng danh sách để lựa chọn workflow tối ưu cho team phát triển",
+    "Developer học cách tạo custom skills để tự động hóa quy trình code hàng ngày"
+  ],
+  "ideas": [
+    "Xây dựng marketplace để trao đổi và bán các Claude Skills giữa cộng đồng",
+    "Tích hợp với hệ thống learning management để đào tạo AI skills cho doanh nghiệp",
+    "Tạo môi trường mô phỏng để thử nghiệm skills trên nhiều phiên bản Claude khác nhau"
+  ],
+  "stars": 67119,
+  "starsToday": 110,
+  "language": "Python",
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-07-08T05:44:51.796Z"
+}

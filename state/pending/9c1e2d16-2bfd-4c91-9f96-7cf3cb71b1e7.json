@@ -1,0 +1,24 @@
+{
+  "id": "9c1e2d16-2bfd-4c91-9f96-7cf3cb71b1e7",
+  "repo": "code-yeongyu/oh-my-openagent",
+  "url": "https://github.com/code-yeongyu/oh-my-openagent",
+  "category": "AI Agent/Automation",
+  "summary": "Oh My Open Agent là framework harness mạnh mẽ để xây dựng và chạy các coding agent phức tạp, hỗ trợ đa dạng các mô hình AI như Claude, Codex, Gemini. Dự án giúp tối ưu hóa việc sử dụng token và quản lý workflow các agent một cách hiệu quả.",
+  "usecases": [
+    "Lập trình viên sử dụng với IDE như Cursor hoặc VSCode để tự động hóa việc code hàng ngày",
+    "Team phát triển lớn triển khai hệ thống hỗ trợ code review và generate code tự động",
+    "Data scientists dùng để xây dựng pipeline xử lý dữ liệu và tạo mã phân tích bằng AI",
+    "QA engineers thiết lập hệ thống test generation tự động cho các dự án phần mềm"
+  ],
+  "ideas": [
+    "Kết nối với hệ thống CI/CD như GitHub Actions để tự động generate và merge pull request",
+    "Tích hợp vào môi trường làm việc không gian phân tán như Kubernetes để chạy agent trên nhiều node",
+    "Phát triển chế độ offline mode cho phép chạy agent hoàn toàn trên máy local không cần kết nối internet",
+    "Tích hợp với hệ thống quản lý API GraphQL để agent có khả năng truy vấn dữ liệu phức tạp"
+  ],
+  "stars": 65211,
+  "starsToday": 134,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T05:44:51.796Z"
+}

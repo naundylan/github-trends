@@ -1,0 +1,23 @@
+{
+  "id": "8f27f886-a4d9-47bf-ac57-badc95ab673f",
+  "repo": "gastownhall/gastown",
+  "url": "https://github.com/gastownhall/gastown",
+  "category": "AI Agent/Automation",
+  "summary": "Gas Town là trình quản lý không gian làm việc đa trò chơi (multi-agent) giúp điều phối và quản lý các agent AI trong môi trường phát triển. Dự án giúp các nhà phát triển dễ dàng xây dựng và chạy các hệ thống đa tiến trình phức tạp một cách có tổ chức.",
+  "usecases": [
+    "Nhà phát triển phần mềm dùng để quản lý nhiều agent AI cùng thực thi các nhiệm vụ khác nhau trong quy trình phát triển",
+    "Công ty phần mềm sử dụng để triển khai hệ thống hỗ trợ lập trình tự động với nhiều agent chuyên vụ",
+    "Nghiên cứu viên AI áp dụng để nghiên cứu hữu tính của các hệ thống đa tiến trình"
+  ],
+  "ideas": [
+    "Tích hợp với nền tảng điện toán đám trời như AWS SageMaker để phân bố agent trên nhiều vùng chủ",
+    "Kết nối với hệ thống IoT để biến Gas Town thành trung tâm điều phối trí thông minh cho các thiết bị nhúng",
+    "Phát triển plugin hỗ trợ song sinh biểu tượng trong môi trường VR cho người dùng xem trực quan các luồng công việc của agent",
+    "Tích hợp với blockchain để tạo hệ thống đánh giá bằng chứng thực của khả năng công việc từng agent"
+  ],
+  "stars": 16870,
+  "starsToday": 274,
+  "language": "Go",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T05:44:51.796Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ea59e50d-aefd-4e28-ad87-b7b483966281",
+  "repo": "decolua/9router",
+  "url": "https://github.com/decolua/9router",
+  "category": "AI/LLM",
+  "summary": "Router AI miễn phí kết nối Claude Code, Codex, Cursor, Cline, Copilot với 40+ nhà cung cấp AI (Claude, GPT, Gemini...) thông qua việc dùng nhiều provider khác nhau. Hệ thống có tính năng fallback tự động và sử dụng RTK giảm 40% token, giúp người dùng không bị giới hạn API. Đây là gateway giúp các công cụ lập trình AI có thể hoạt động liên tục mà không cần quan tâm đến việc provider nào đang có giới hạn.",
+  "usecases": [
+    "Các developer dùng Cursor hoặc VSCode để code hàng ngàn dòng mỗi ngày mà không cần lo việc đổi token OpenAI hay chạm giới hạn API giới hạn",
+    "Công ty phần mềm nhỏ muốn triển khai các agent AI vào sản phẩm nhưng không có ngân sách cho API đắt tiền",
+    "Giáo viên đại học dùng để dạy học sinh về lập trình AI mà không cần bỏ tiền mua subscription đắt vì dùng 9router để access miễn phí qua các provider khác"
+  ],
+  "ideas": [
+    "Kết hợp với karakeep để tạo một 'learning router' nơi mỗi lần đọc một bài viết về AI, system sẽ tự động chọn provider tốt nhất để làm tóm tắt và gắn vào bookmark với tagging thông minh",
+    "Xây dự một 'cost-aware agent' sử dụng 9router làm gateway nhưng luôn chọn model rẻ nhất để xử lý các task không quan trọng, chỉ dùng model cao cấp khi thực sự cần thiết",
+    "Tích hợp vào hệ thống training mô hình AI nội bộ nơi mỗi lần cần data labeling hay fine-tuning, hệ thống tự động rotate giữa các provider free để không bị downtime",
+    "Tạo một 'router marketplace' nơi người dùng có thể chia sẻ các configuration optimal cho từng loại task (code, research, creative) và cộng đồng tự cộng khóa nhau chọn provider tốt nhất"
+  ],
+  "stars": 20820,
+  "starsToday": 382,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-08T05:44:51.796Z"
+}

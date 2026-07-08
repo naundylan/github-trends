@@ -1,0 +1,23 @@
+{
+  "id": "5fb7f4fb-fd5f-44ca-bd3a-4c633e02bbeb",
+  "repo": "karakeep-app/karakeep",
+  "url": "https://github.com/karakeep-app/karakeep",
+  "category": "Productivity/Personal Tool",
+  "summary": "Ứng dụng self-hostable quản lý bookmark hoàn chỉnh với khả năng lưu trữ links, notes và hình ảnh, sử dụng AI để tự động gán thẻ và tìm kiếm toàn văn. Hệ thống cung cấp giải pháp tích hợp để quản lý thông tin cá nhân với khả năng chống lại việc mất dữ liệu khi các nguồn cung cấp link đổ vỡ.",
+  "usecases": [
+    "Nghiên cứu sinh dùng để lưu trữ và tổ chức hàng ngàn tài liệu nghiên cứu với tagging tự động dựa trên nội dung thực tế",
+    "Product manager nhóm sử dụng làm knowledge base tích hợp để theo dõi các link quan trọng và ghi chú chiến lược một cách có hệ thống",
+    "Content creator duyệt web và lưu trữ các cảm hứng design, công thức toán học cần thiết kế sau này với khả năng tìm kiếm bằng tiếng tự nhiên"
+  ],
+  "ideas": [
+    "Kết hợp với agent-skills để tạo một 'research assistant' chuyên sâng: khi bookmark một paper, agent tự động đánh giá tính nén và đề xuất các paper liên quan dựa trên skill phân tích tài liệu học thuật",
+    "Tích hợp vào môi trường làm việc song song với Cursor để khi lập trình, bookmark các đoạn code mẫu và nhận recommendation các pattern tương tự đang được sử dụng trong dự án",
+    "Xây dự một 'memory palace' kỹ thuật số nơi mỗi lần bookmark một đoạn mã, hệ thống tự sinh ra các câu hỏi kiểm tra kiến thức để người dùng luyện tập sau này",
+    "Tạo phiên bản collaborative học tập nơi cả nhóm có thể chia sẻ bookmark nhưng AI sẽ làm sạch các trùng lặp và gợi ý các nguồn chưa được khám phá"
+  ],
+  "stars": 27172,
+  "starsToday": 420,
+  "language": "TypeScript",
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-07-08T05:44:51.796Z"
+}

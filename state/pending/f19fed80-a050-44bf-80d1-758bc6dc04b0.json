@@ -1,0 +1,23 @@
+{
+  "id": "f19fed80-a050-44bf-80d1-758bc6dc04b0",
+  "repo": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện kỹ năng kỹ thuật chất lượng cao dành cho AI coding agents, cung cấp các hướng dẫn có thể được agent sử dụng để thực hiện các nhiệm vụ engineering như code, test, debug và tối ưu hóa một cách có hệ thống. Dự án tập hợp các best practices và patterns được chứng minh để nâng cao khả năng làm việc tự động của các agent AI.",
+  "usecases": [
+    "Lập trình viên dùng để định nghĩ các agent AI (Claude Code, Cursor, Codex) với kiến thức chuyên sâu về engineering practices khi xây dự trữ liệu hoặc tự động hóa quy trình code review",
+    "Team lead sử dụng làm framework chuẩn để đào tạo các agent nội bộ về coding standards và architectural patterns trong dự án lớn",
+    "Researcher phát triển sử dụng như dataset để fine-tune model agent với các hướng dẫn kỹ thuật có cấu trúc"
+  ],
+  "ideas": [
+    "Kết hợp với 9router để tạo pipeline agent có khả năng chọn đúng skill set cho từng task dựa trên provider AI đang hoạt động",
+    "Tích hợp vào hệ thống CI/CD để agent tự động sinh ra các review checklist dựa trên skill library khi merge code",
+    "Xây dự trữ liệu học sinh tự động bằng cách gán mỗi skill một mã hóa vector và huấu mã hóa trải nghiệm thực tế từ các agent đã đi qua",
+    "Tạo môi trường sandbox nơi agent có thể luôn được đánh giá skill performance dựa trên kết quả thực tế các task đã hoàn thành"
+  ],
+  "stars": 72404,
+  "starsToday": 1317,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T05:44:51.796Z"
+}
