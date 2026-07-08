@@ -1,0 +1,23 @@
+{
+  "id": "4fb40cfb-54e5-48a0-b16a-06ec9350e659",
+  "repo": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện kỹ năng kỹ thuật production-grade dành riêng cho AI coding agents, cung cấp các hệ thống skills có kiến trúc vững chắc để các agent như Claude Code, Cursor và Codex thực hiện các nhiệm vụ phức tạp một cách đáng tin cậy. Dự án giúp tăng cường khả năng tự làm việc và giảm thiểu sai sót trong quy trình phát triển bằng AI.",
+  "usecases": [
+    "DevOps kỹ thuật số tích hợp AI sử dụng để định nghĩ và tự động hóa các workflow phức tạp trong quy trình CI/CD",
+    "Các kỹ sư phần mềm rất đáng tin cậy được trang bị bộ kỹ năng để AI agent hỗ trợ họ trong việc code, test và triển khai nhanh chóng",
+    "Các công ty phần mềm nhỏ muốn triển khai AI coding assistants mà không cần xây dựng từ đầu các hệ thống skills phức tạp"
+  ],
+  "ideas": [
+    "Kết hợp với Kubernetes để tạo ra AI agent clusters có khả năng chia sẻ và phối hợp kỹ năng across distributed systems",
+    "Ứng dụng vào môi trường blockchain để tạo thông minh các smart contract tự động với khả năng kiểm chứng bằng chứng pháp lý tự động",
+    "Tích hợp với hệ thống IoT để biến các thiết bị nhúng thành AI developers độc lập có khả năng học tập và sửa chữa chính mình",
+    "Xây dựng nên hệ thống 'digital twins' của các phần mềm tiendoàn, trong đó mỗi digital twin là một AI agent với bộ kỹ năng chuyên biệt"
+  ],
+  "stars": 72718,
+  "starsToday": 1317,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T10:58:13.212Z"
+}

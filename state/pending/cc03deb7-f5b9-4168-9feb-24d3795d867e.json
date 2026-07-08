@@ -1,0 +1,23 @@
+{
+  "id": "cc03deb7-f5b9-4168-9feb-24d3795d867e",
+  "repo": "karakeep-app/karakeep",
+  "url": "https://github.com/karakeep-app/karakeep",
+  "category": "Productivity/Personal Tool",
+  "summary": "Ứng dụng mạnh mẽ cho phép lưu trữ và quản lý mọi thứ từ liên kết web, ghi chú đến hình ảnh với công nghệ AI tự động gán thẻ và tìm kiếm toàn văn bản, được triển khai locally để đảm bảo quyền riêng tư tuyệt đối. Hệ thống kết hợp Next.js và React Native tạo trải nghiệm liền mạch trên cả web và di động.",
+  "usecases": [
+    "Nhà nghiên cứu và học giả cá nhân muốn lưu trữ hàng triệu tài liệu nghiên cứu với khả năng truy xuất ngay lập tức dựa trên ngữ cảnh",
+    "Các nhà quản lý dự án cần tổng hợp liên kết, quy trình và tài nguyên một cách có hệ thống với khả năng tìm kiếm thông minh",
+    "Người dùng muốn lưu trữ web nhưng không tin tưởng vào các dịch vụ đám mây, chỉ phụ thuộc vào giải pháp self-hosted với khả năng bảo mật tối đa"
+  ],
+  "ideas": [
+    "Tích hợp với Metaverse để tạo không gian lưu trữ trực quan 3D nơi người dùng có thể ' đi du lịch' qua các liên kết đã lưu dưỡng theo mối quan hệ ngẫu nhiên",
+    "Kết nối với hệ thống ERP doanh nghiệp để biến Karakeep thành trung tâm kiến thức thông minh nhận diện và đề xuất tài nguyên theo bối cảnh công việc",
+    "Sử dụng làm hệ thống ký ức cho những người cao tuổi, tích hợp nhận dạng ký ức xuất phát từ các câu hỏi tự nhiên như 'Tôi đã đọc gì hôm qua?'",
+    "Biến thành nền tảng cộng đồng global knowledge graph, nơi mỗi cá nhân đóng góp kiến thức và hệ thống AI cùng xây dựng meta-knowledge"
+  ],
+  "stars": 27187,
+  "starsToday": 420,
+  "language": "TypeScript",
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-07-08T10:58:13.212Z"
+}

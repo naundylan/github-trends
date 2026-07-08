@@ -1,0 +1,22 @@
+{
+  "id": "902a16c7-decb-4af8-b52f-2972d1a695b7",
+  "repo": "gastownhall/gastown",
+  "url": "https://github.com/gastownhall/gastown",
+  "category": "AI Agent/Automation",
+  "summary": "Gas Town là trình quản lý không gian làm việc đa trò chuyên về các agent AI. Dự án giúp các nhà phát triển quản lý và điều phối nhiều agent AI độc lập trong một không gian làm việc tập trung, tối ưu hóa quy trình phát triển bằng AI.",
+  "usecases": [
+    "Nhà phát triển sử dụng để quản lý nhiều agent AI phân tâm khác nhau như Claude Code, Codex, và các agent tùy customized trong dự án lớn",
+    "Team lead dùng để theo dõi và điều phối các agent AI thực hiện các tác vụ khác nhau như code generation, bug fixing, và testing",
+    "Công ty phần mềm nhỏ muốn triển khai hệ thống AI assistant đa tác nghiệp mà không cần xây dựng từ đầu"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống CI/CD để tự động hóa quy trình deploy khi các agent hoàn thành công việc",
+    "Tích hợp với các mô hình LLM tương lai để tạo ra 'sinh đông' agent chuyên về các lĩnh vực khác nhau như debugging, documentation, và performance optimization",
+    "Ứng dụng trong môi trường edge computing để chạy các agent nhẹ trên thiết bị di động"
+  ],
+  "stars": 16876,
+  "starsToday": 274,
+  "language": "Go",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T10:58:13.213Z"
+}

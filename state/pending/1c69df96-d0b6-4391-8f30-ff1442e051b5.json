@@ -1,0 +1,23 @@
+{
+  "id": "1c69df96-d0b6-4391-8f30-ff1442e051b5",
+  "repo": "jesseduffield/lazydocker",
+  "url": "https://github.com/jesseduffield/lazydocker",
+  "category": "DevOps/CI-CD",
+  "summary": "LazyDocker là công cụ quản lý Docker trong terminal với giao diện trực quan, giúp người dùng dễ dàng theo dõi và quản lý các container, volume và service. Công cụ này tối ưu hóa trải nghiệm phát triển và vận hành hệ thống bằng cách đơn giản hóa các thao tác phức tạp.",
+  "usecases": [
+    "DevOps engineer quản lý và theo dõi các container Docker trong quy trình triển khai",
+    "Lập trình viên phát triển local với khả năng kiểm tra logs và trạng thái container nhanh chóng",
+    "Team lead giám sát tài nguyên hệ thống và xử lý sự cố mà không cần truy cập vào server"
+  ],
+  "ideas": [
+    "Tích hợp với Kubernetes để quản lý cụm cluster từ giao diện unified",
+    "Phát triển phiên bản web để truy cập từ xa và chia sẻ trạng thái container giữa các thành viên",
+    "Kết hợp với mô hình AI dự báo tình trạng container và đề xuất tối ưu hóa tài nguyên",
+    "Tạo ra các workflow tự động hóa dựa trên rule engine để xử lý container theo tiêu chuẩn"
+  ],
+  "stars": 51908,
+  "starsToday": 104,
+  "language": "Go",
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-07-08T10:58:13.213Z"
+}

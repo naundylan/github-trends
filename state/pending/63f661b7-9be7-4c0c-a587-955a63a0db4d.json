@@ -1,0 +1,25 @@
+{
+  "id": "63f661b7-9be7-4c0c-a587-955a63a0db4d",
+  "repo": "tinyhumansai/openhuman",
+  "url": "https://github.com/tinyhumansai/openhuman",
+  "category": "AI/LLM",
+  "summary": "OpenHuman là một AI siêu trí tuệ cá nhân với kiến trúc local-first, xây dựng ký ức cục địa của cuộc sống người dùng và điều phối các AI agent phức tạp. Dự án kết hợp giữa nghiên cứu sâu và orchestration workflows để tạo ra một trí tuệ nhân tạo cá nhân hóa hoàn toàn trên thiết bị người dùng.",
+  "usecases": [
+    "Cá nhân nghiên cứu và tổng hợp thông tin từ nhiều nguồn trên internet một cách tự động, tích tụ thành kiến thức cá nhân chuẩn bị cho quyết định",
+    "Người dùng thiết lập các workflow tự động hóa công việc hàng ngày như lập kế hoạch, tìm kiếm tài liệu và tổng hợp báo cáo",
+    "Nhà nghiên cứu tạo môi trường AI agent độc lập trên thiết bị để phân tích dữ liệu cá nhân không cần kết nối internet",
+    "Người học tập xây dựng hệ thống ghi chép thông minh tích tụ kiến thức từ sách, video, bài báo thành một trí tuệ cá nhân"
+  ],
+  "ideas": [
+    "Kết hợp với khả năng đo nhịp tim, huyết áp từ thiết bị wearables để AI phân tích tâm trạng và đề xuất hoạt động can thiệp tâm lý",
+    "Tích hợp vào hệ thống nhà thông minh nhận diện ngữ cảnh sử dụng để tự động điều chỉnh môi trường sốc và ánh sáng phù hợp",
+    "Tạo môi trường làm việc thông minh nhận diện trạng thái tập trung của người dùng qua camera và âm thanh, điều phối các tiện ích tương ứng",
+    "Ứng dụng trong quản lý sức khỏe tinh thần bằng cách phân tích hành vi, ngủ nướng và tạo kế hoạch chăm sóc cá nhân hóa",
+    "Mở rộng thành nền tảng cộng đồng chia sẻ trí tuệ cá nhân được bảo mật, cho phép mượn/mượn ý tưởng giữa các cá nhân khác nhau"
+  ],
+  "stars": 34437,
+  "starsToday": 101,
+  "language": "Rust",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-08T10:58:13.213Z"
+}

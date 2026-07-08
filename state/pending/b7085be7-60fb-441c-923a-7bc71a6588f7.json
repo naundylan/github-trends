@@ -1,0 +1,23 @@
+{
+  "id": "b7085be7-60fb-441c-923a-7bc71a6588f7",
+  "repo": "decolua/9router",
+  "url": "https://github.com/decolua/9router",
+  "category": "AI/LLM",
+  "summary": "Nền tảng gateway AI miễn phí vượt qua giới hạn bằng cách kết nối Claude Code, Cursor, Codex, Copilot và các AI agents với 40+ nhà cung cấp LLM như Claude, GPT, Gemini qua các provider miễn phí, tích hợp hệ thống auto-fallback và RTK giúp tiết kiệm 40% token, giúp người dùng thoát khỏi các giới hạn API truy cập.",
+  "usecases": [
+    "Các nhà phát triển cá nhân và team nhỏ muốn truy cập không giới hạn vào các mô hình AI tiên tiến mà không cần đăng ký hoặc trả phí",
+    "Các công ty startup cần tối ưu chi phí khi triển khai AI coding assistants cho toàn bộ team phát triển sản phẩm",
+    "Các nhà giáo dục và học sinh cần truy cập mạnh mẽ vào AI tools để học lập trình và xây dự trữ liệu phân tích mà không bị giới hạn API"
+  ],
+  "ideas": [
+    "Tạo nên một 'internet phần mềm' phi decentralized, nơi mỗi API endpoint là một thông tin cả tin cậy và được bảo vệ bởi mã thông báo thông minh",
+    "Kết hợp với Web3 để biến 9router thành một dịch vụ AI phi độc lập, nơi người dùng có thể đóng phí bằng cryptocurrency và chia sẻ kiến thức AI trên blockchain",
+    "Xây dựng hệ thống AI router thời gian mở rộng cho phép dự báo và lên kế hoạch sử dụng tài nguyên AI dựa trên xu hướng sử dụng thực dự trữ văn bản",
+    "Biến thành nền tảng 'AI democracy' nơi cộng đồng cùng bình chọn và cấu hình các model mặt để ưu tiên cho các nhiệm vụ cụ thể"
+  ],
+  "stars": 20942,
+  "starsToday": 382,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-08T10:58:13.212Z"
+}
