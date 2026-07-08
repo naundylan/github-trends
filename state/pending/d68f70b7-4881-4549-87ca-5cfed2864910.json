@@ -1,0 +1,24 @@
+{
+  "id": "d68f70b7-4881-4549-87ca-5cfed2864910",
+  "repo": "Augani/openreel-video",
+  "url": "https://github.com/Augani/openreel-video",
+  "category": "Web Frontend",
+  "summary": "OpenReel Video là trình chỉnh sửa video dựa trên trình duyệt 100%, không cần cài đặt hay đám mây. Đây là một alternative mở source thay thế CapCut, cho phép người dùng chỉnh sửa video trực tiếp trong trình duyệt một cách chuyên nghiệp.",
+  "usecases": [
+    "Nghệ sĩ và nhà sáng tạo nội dung cần chỉnh sửa video nhanh chóng mà không cần cài đặt phần mềm nặng",
+    "Giáo viên và nhà giáo dục muốon xây dựng nội dung giáo lí trực tuyến mà không cần thiết bị mạnh",
+    "Công ty nhỏ muốn tạo video quảng bá mặt hàng sản phẩm mà không đầu tư vào phần mềm chuyên nghiệp",
+    "Người hạn chế băng thông muốn xử lý video cục bộ mà không tải lên đám mây"
+  ],
+  "ideas": [
+    "Kết hợp với WebAssembly để chạy các bộ lọc và hiệu ứng AI real-time trong trình duyệt",
+    "Tích hợp WebRTC để cho phép nhiều người cùng chỉnh sửa video theo thời gian thực như Google Docs",
+    "Tạo plugin hệ thống cho phép người dùng mở rộng chức năng bằng các thư viện JavaScript third-party",
+    "Phát triển phiên bản mobile-first với giao diện cảm biến cục bộ cho điện thoại di động"
+  ],
+  "stars": 3852,
+  "starsToday": 85,
+  "language": "TypeScript",
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-07-08T08:13:51.750Z"
+}

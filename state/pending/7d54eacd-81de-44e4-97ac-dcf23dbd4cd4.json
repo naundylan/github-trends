@@ -1,0 +1,24 @@
+{
+  "id": "7d54eacd-81de-44e4-97ac-dcf23dbd4cd4",
+  "repo": "OthmanAdi/planning-with-files",
+  "url": "https://github.com/OthmanAdi/planning-with-files",
+  "category": "Other",
+  "summary": "Planning-with-files cung cấp hệ thống quản lý tác vụ dựa trên file cho AI agents, giúp duy trì trạng thái và kế hoạch dài hạn. Thư mục markdown crash-proof này cho phép các agent AI như Claude Code, Cursor, và Kiro duy trì kiến thức và tiến độ dự án qua nhiều phiên làm việc.",
+  "usecases": [
+    "Kỹ sư phần mềm làm việc với AI agents như Claude Code để xây dựng phần mềm phức tạp dài hạn mà không mất context giữa các phiên làm việc",
+    "Các nhóm phát triển muốn chia sẻ trạng thái dự án và tiến độ giữa nhiều AI agents khác nhau",
+    "Người dùng cần quản lý kế hoạch dự án một cách có hệ thống với các mục tiêu rõ ràng và theo dõi tiến trình",
+    "Hệ thống CI/CD muốn tích hợp AI agents để tự động hóa quy trình phát triển và kiểm tra code"
+  ],
+  "ideas": [
+    "Kết hợp với Git để tạo hệ thống version control tự động cho các kế hoạch và trạng thái AI agents",
+    "Xây dựng hệ thống reward-based learning cho AI agents để tối ưu hóa kế hoạch dựa trên kết quả thực tế",
+    "Tích hợp với Notion hay Obsidian để biến chúng thành knowledge base sống cho các dự án dài hạn",
+    "Phát triển hệ thống multi-agent orchestration với AI agents được phép tự học và thay đổi kế hoạch dựa trên feedback từ môi trường"
+  ],
+  "stars": 25031,
+  "starsToday": 79,
+  "language": "Python",
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-07-08T08:13:51.750Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2ec65dd2-8e43-4e27-8ead-93da610f3842",
+  "repo": "NdoleStudio/httpsms",
+  "url": "https://github.com/NdoleStudio/httpsms",
+  "category": "Other",
+  "summary": "HTTPSMS là framework backend cho phép gửi và nhận tin nhắn SMS thông qua API HTTP từ điện thoại Android. Người dùng có thể điều khiển SMS một cách lập trình mà không cần dịch vụ bên thứ ba hay phí trả tiền.",
+  "usecases": [
+    "Nhà phát triển ứng dụng cần tích hợp chức năng SMS một cách local và miễn phí cho khách hàng",
+    "Doanh nghiệp nhỏ muốn gửi SMS marketing vào thời điệm khuyến mãi mà không sử dụng dịch vụ trả phí",
+    "Ứng dụng IoT/cảnh báo khẩn cấp cần gửi thông báo qua SMS khi mạng internet không ổn định",
+    "Bảo mật và quyền riêng tư khi các công ty không muốn chia sẻ số điện thoại qua dịch vụ bên thứ ba"
+  ],
+  "ideas": [
+    "Kết hợp với MQTT broker để tạo hệ thống SMS gateway cho IoT devices truy cập vào cloud",
+    "Xây dựng hệ thống multilingual SMS với hỗ trợ Unicode và chuyển đổi ngôn ngữ tự động",
+    "Tích hợp blockchain để lưu trữ lịch sử SMS một cách không thể chỉnh sửa cho mục đích pháp lý",
+    "Phát triển REST API wrapper tự động để deploy lên serverless platform như Vercel hoặc Cloudflare Workers"
+  ],
+  "stars": 3265,
+  "starsToday": 81,
+  "language": "Go",
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-07-08T08:13:51.750Z"
+}

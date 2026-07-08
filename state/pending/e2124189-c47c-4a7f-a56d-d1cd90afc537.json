@@ -1,0 +1,22 @@
+{
+  "id": "e2124189-c47c-4a7f-a56d-d1cd90afc537",
+  "repo": "vxcontrol/pentagi",
+  "url": "https://github.com/vxcontrol/pentagi",
+  "category": "Security/Pentest",
+  "summary": "Hệ thống AI tự làm việc hoàn chỉnh thực hiện các nhiệm vụ thử xuyên tường (penetration testing) phức tạp bằng AI, tích hợp GraphQL và đa trợ lý để tự động hóa quy trình kiểm tra bảo mật. Dự án kết hợp mô hình OpenAI/Anthropic để các agent thực hiện điều tra và khai thác lỗi một cách độc lập.",
+  "usecases": [
+    "Ớc tinh hành trên máy chủ hoặc mạng nội bộ để phát hiện lỗi bảo mật mà không cần can thiệp thủ công",
+    "Tích hợp vào hệ thống DevOps để thực hiện kiểm tra bảo mật tự động trước khi triển khai ứng dụng",
+    "Đào tạo sinh viên an toàn thông tin về các kỹ thuật thử xuyên tường thông qua các tình huống thực tế được mô phỏng bởi AI"
+  ],
+  "ideas": [
+    "Kết hợp với Kubernetes để triển khai hàng ngàn agent thử xuyên tường trên cloud như một dịch vụ bảo mật như một dịch vụ",
+    "Tích hợp với hệ thống blockchain để ghi lại các cuộc thử nghiệm bảo mật một cách bảo mật và không thể chỉnh sửa",
+    "Phát triển thành một nền tảng crowdsourced nơi người dùng thêm các kỹ thuật thử xuyên tường mới và AI tự học từ các cuộc thử nghiệm"
+  ],
+  "stars": 18437,
+  "starsToday": 78,
+  "language": "Go",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-08T08:13:51.750Z"
+}

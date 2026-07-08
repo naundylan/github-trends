@@ -1,0 +1,22 @@
+{
+  "id": "4e3fb939-7403-4576-881d-4acc3bc3835b",
+  "repo": "vercel-labs/agent-browser",
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ CLI bằng Rust cho phép các AI agent điều khiển trình duyệt web một cách đầy đủ, giúp các hệ thống AI tương tác với các trang web như con người. Ý tưởng được xây dựng trên khả năng mạnh mẽ của Rust trong việc xử lý đa luồng và tối ưu hóa tài nguyên.",
+  "usecases": [
+    "Các nhà phát triển kiểm thử tự động hóa các tình huống người dùng trên trang web bằng AI",
+    "Hệ thống AI cần truy cập hoặc phân tích dữ liệu từ các trang web một cách thần tốc",
+    "Ợm vào việc tích hợp vào các workflow AI tự làm việc để xử lý công việc lặp lại trên web"
+  ],
+  "ideas": [
+    "Kết hợp với WebAssembly để chạy các script điều khiển trình duyệt trực tiếp trong không gian đám mây",
+    "Tích hợp với AI vision models để phân tích hình ảnh và video trực tiếp từ trình duyệt",
+    "Tạo thành một nền tảng 'browser-as-a-service' cho phép các nhà phát triển gọi API để điều khiển hàng ngàn trình duyệt đồng thời"
+  ],
+  "stars": 38058,
+  "starsToday": 73,
+  "language": "Rust",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T08:13:51.750Z"
+}

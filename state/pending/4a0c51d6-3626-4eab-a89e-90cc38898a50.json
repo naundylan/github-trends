@@ -1,0 +1,24 @@
+{
+  "id": "4a0c51d6-3626-4eab-a89e-90cc38898a50",
+  "repo": "anthropics/claude-plugins-official",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "category": "Developer Tool",
+  "summary": "Thư mục chính thức do Anthropic quản lý, liệt kê các plugin chất lượng cao cho Claude Code (trình soạn code của Anthropic), mở rộng khả năng tích hợp và tự động hóa cho developer workflow thông qua Model Context Protocol (MCP).",
+  "usecases": [
+    "Lập trình viên sử dụng Claude Code để tích hợp các plugin mở rộng chức năng như debug, deploy, hay quản lý version control",
+    "Team lead quản lý các plugin standardized để toàn bộ đội phát triển đồng bộ hóa công cụ",
+    "DevOps engineer thiết lập automated CI/CD pipelines thông qua Claude Code plugins",
+    "Sinh viên học lập trình nhanh chóng tích hợp các plugin giúp code hiệu quả hơn"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Copilot để tạo hybrid AI coding assistant đa nền tảng",
+    "Phát triển plugin marketplace decentralized để cộng đồng tự xây dựng và chia sẻ plugins",
+    "Tích hợp vào IDE như VS Code để Claude Code trở thành extension cài đặt được",
+    "Tạo workflow AI agent tự động fix bug và submit pull requests mà không cần can thiệp con người"
+  ],
+  "stars": 31775,
+  "starsToday": 86,
+  "language": "Python",
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-07-08T08:13:51.750Z"
+}

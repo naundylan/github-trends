@@ -1,0 +1,26 @@
+{
+  "id": "ce75a7be-36fc-44a0-9441-0b259be3d82e",
+  "repo": "Tencent/WeKnora",
+  "url": "https://github.com/Tencent/WeKnora",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng kiến thức LLM mở nguồn mở cho phép biến tài liệu thô thành hệ thống RAG (Retrieval-Augmented Generation) có khả năng truy vấn, tạo ra agent lý tưởng suy luận tự động và xây dựng Wiki tự duy trì. Dự án nổi bật với khả nỡ đa phương thức, hỗ trợ nhiều tenant, và các tính năng tiên tiến như reranking, semantic search, và đánh giá chất lượng.",
+  "usecases": [
+    "Nhân viên công ty sử dụng để truy vấn thông tin nội bộ từ hàng ngàn tài liệu một cách tự nhiên thông qua chatbot",
+    "Giảng viên đại học xây dựng trợ chủ nhiệm ảo dựa trên tài liệu giảng dạy và tài liệu nghiên cứu",
+    "Nhà phát triển phần mềm triển khai hệ thống câu hỏi-đáp nội bộ tự động cập nhật từ mã nguồn và tài liệu kỹ thuật",
+    "Luật sư sử dụng như một công cụ phân tích và truy xuất nhanh thông tin pháp luật từ thư viện pháp liệu lớn"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống blockchain để tạo ra lịch sử chứng thực thay đổi của kiến thức, giúp theo dõi nguồn gốc và tính xác thực của thông tin",
+    "Tích hợp với công nghệ thực tế ảo (AR) trong phòng họp, biến chữ bàn giao thành siêu liên kết có thể truy vấn trực tiếp trên màn hình",
+    "Ứng dụng trong hệ thống điều hành nhà hàng tự động, nơi agent có thể truy vấn công thức nấu ăn, kế hoạch nhập nguyên liệu và quy trình dịch vụ",
+    "Kết hợp với trí tuệ nhân tạo cảnh quan để tạo môi trường học tập 3D phiên bản tương tác từ tài liệu học phần",
+    "Phát triển thành một nền tảng 'kiến thức số chặt' cho quyền chính phủ, nơi mỗi cơ quan có agent riêng để phân tích và cross-reference thông tin",
+    "Tích hợp với robot phục vụ trong bệnh viện, giúp nurse và bác sĩ truy xuất nhanh thông tin bệnh nhân và phác đồ điều trị"
+  ],
+  "stars": 17940,
+  "starsToday": 62,
+  "language": "Go",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T08:13:51.750Z"
+}

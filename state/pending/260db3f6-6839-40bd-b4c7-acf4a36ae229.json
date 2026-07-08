@@ -1,0 +1,24 @@
+{
+  "id": "260db3f6-6839-40bd-b4c7-acf4a36ae229",
+  "repo": "maziyarpanahi/openmed",
+  "url": "https://github.com/maziyarpanahi/openmed",
+  "category": "AI/LLM",
+  "summary": "Nền tảng AI y tế địa phương (local-first) với khả năng trích xuất thông tin lâm sàng (clinical NER) và loại bỏ dữ liệu nhạy cảm HIPAA PII 100% trên thiết bị, sử dụng 1000+ model y tế đa ngôn ngữ trên Apple MLX và Python, không cần đám mây hay để dữ liệu bệnh nhân đi xa.",
+  "usecases": [
+    "Bệnh viện địa phương chạy phân tích hồ sơ bệnh án mà không cần gửi dữ liệu ra ngoài cloud",
+    "Nhà phát triển ứng dụng healthcare tạo phiên bản không cần internet cho bác sĩ ngoài đồng quê",
+    "Công ty phần mềm quản lý bệnh viện triển khai hệ thống xử lý tiếp xúc trực tiếp với quy định HIPAA",
+    "Nghiên cứu viên nghiên cứu dữ liệu lâm sàng trong lab thử nghiệm môi trường an toàn"
+  ],
+  "ideas": [
+    "Kết hợp với wearable health monitors để AI phân tích dữ liệu sinh học thời gian thực trên thiết bị",
+    "Tích hợp vào hệ thống điều trị tự động để gợi ý điều phối thuốc dựa trên hồ sơ cá nhân",
+    "Sử dụng làm nền tảng cho decentralized medical research networks chia sẻ pattern mà không cần chia sẻ data",
+    "Kết nối với blockchain để tạo chữ ký số cho giấy tờ y tế đã được xử lý an toàn"
+  ],
+  "stars": 4301,
+  "starsToday": 88,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-08T08:13:51.750Z"
+}

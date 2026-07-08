@@ -1,0 +1,22 @@
+{
+  "id": "23a0cf71-19c3-464f-a9eb-4bbdbbb77fef",
+  "repo": "jnMetaCode/superpowers-zh",
+  "url": "https://github.com/jnMetaCode/superpowers-zh",
+  "category": "AI/LLM",
+  "summary": "Bản dịch và mở rộng hoàn chỉnh của dự án superpowers, cung cấp các kỹ năng (skills) mới dành riêng cho người dùng tiếng Trung, giúp các công cụ lập trình AI như Claude Code, Cursor, và Kiro thực sự 'hiệu quả' hơn. Bao gồm cả các tính năng kiểm tra code và TDD được tối ưu hóa cho môi trường phát triển phức tạp.",
+  "usecases": [
+    "Lập trình viên trung quốc sử dụng các công cụ AI như Cursor hoặc Trae để viết mã nhanh hơn với các kỹ thuật được tối ưu hóa cho ngôn ngữ học",
+    "Các team quốc tế hợp tác với đội ngũ Trung quốc, cần các kỹ thuật chung để đảm bảo chất lượng code và thống nhất quy trình",
+    "Giáo dục sinh viên về phát triển phần mềm bằng AI, với trọng tâm vào kiểm tra và thử nghiệm tự động"
+  ],
+  "ideas": [
+    "Mở rộng thành một nền tảng đa ngôn ngữ với các kỹ thuật tương ứng cho tiếng Nhật, Hàn và các ngôn ngữ khác",
+    "Tích hợp với hệ thống công thông tin quốc gia để tạo ra các tiêu chuẩn an ninh phần mềm mới",
+    "Kết hợp với metaverse để tạo môi trường học lập trình trực tuyến 3D, nơi người học có thể tương tác với AI theo cách thị giác và đa cảm xúc"
+  ],
+  "stars": 6567,
+  "starsToday": 65,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-08T08:13:51.750Z"
+}
