@@ -1,0 +1,22 @@
+{
+  "id": "7597b51e-af77-4594-a325-35cc33fe32f2",
+  "repo": "vxcontrol/pentagi",
+  "url": "https://github.com/vxcontrol/pentagi",
+  "category": "Security/Pentest",
+  "summary": "Hệ thống AI tự động hoàn chỉnh có khả năng thực hiện các nhiệm vụ thử xâm nhập phức tạp, kết hợp giữa các AI agent đa tác nhiệm với công cụ penetration testing chuyên sâu. Dự án hướng đến việc làm tự động hóa quy trình đánh giá bảo mật một cách tiếp cận mới.",
+  "usecases": [
+    "Chuyên gia bảo mật sử dụng làm công cụ hỗ trợ để mở rộng khả năng thử xâm nhập hàng ngàn hệ thống",
+    "Doanh nghiệp nhỏ muốn có giải pháp pentest chuyên sâu mà không cần đầu tư vào đội ngũ chuyên sâu",
+    "Công ty phần mềm tích hợp vào vòng đời phát triển để tự động hóa việc kiểm tra lỗi bảo mật trước khi release"
+  ],
+  "ideas": [
+    "Kết hợp với blockchain để tạo hệ thống smart contract security auditor tự động",
+    "Ứng dụng vào hệ thống phân tâm để phát hiện và ứng phó với cuộc tấn công P2P trong thời gian thực",
+    "Phát triển thành nền tảng AI red-team simulation để tập luyện đội ngũ bảo mật thông qua các cuộc tấn đối chọi thực tế"
+  ],
+  "stars": 18750,
+  "starsToday": 421,
+  "language": "Go",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-08T22:01:15.648Z"
+}

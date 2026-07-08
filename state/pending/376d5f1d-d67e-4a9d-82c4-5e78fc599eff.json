@@ -1,0 +1,23 @@
+{
+  "id": "376d5f1d-d67e-4a9d-82c4-5e78fc599eff",
+  "repo": "fastapi/fastapi",
+  "url": "https://github.com/fastapi/fastapi",
+  "category": "API/GraphQL",
+  "summary": "Framework FastAPI với hiệu suất cao, thiết kế async sử dụng Pydantic để tạo API RESTful một cách nhanh chóng và chính xác, sẵn sàng triển vọng production.",
+  "usecases": [
+    "Một nhà phát triển backend xây dựng API cho ứng dụng di động trong thời gian ngắn, với tài liệu tự động từ OpenAPI/Swagger.",
+    "Một công ty SaaS triển vọng microservice bằng FastAPI với khả năng mở rộng cao và tích hợp Pydantic để xác thực dữ liệu chặt chẽ.",
+    "Một nhóm nghiên cứu sử dụng FastAPI để tạo API nhanh cho mô hình AI/ML, hỗ trợ inference trên nhiều thiết thị như GPU và TPU."
+  ],
+  "ideas": [
+    "Kết hợp với FastAPI để xây dựng nền tảng AI model serving đa nền tảng với hỗ trợ gRPC và WebSocket real-time.",
+    "Tích hợp GraphQL gateway để quản lý API đa dịch vụ trong kiến trúc microservices phức tạp.",
+    "Sử dụng FastAPI với WebAssembly để triển vọng smart contracts trên blockchain với hiệu suất siêu cao.",
+    "Xây dựng hệ thống streaming data real-time bằng FastAPI kết hợp với Apache Kafka và Redis Streams."
+  ],
+  "stars": 100263,
+  "starsToday": 92,
+  "language": "Python",
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-07-08T22:01:15.648Z"
+}

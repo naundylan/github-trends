@@ -1,0 +1,23 @@
+{
+  "id": "7dbf3c1f-a926-4b8a-b3f6-4b76e371f308",
+  "repo": "rustdesk/rustdesk",
+  "url": "https://github.com/rustdesk/rustdesk",
+  "category": "Web Frontend",
+  "summary": "Ứng dụng điều khiển từ xa mã nguồn mở thay thế TeamViewer, hỗ trợ đa nền tảng P2P và có giao diện Flutter, phù hợp self-hosting.",
+  "usecases": [
+    "Một kỹ thuật viên từ xa hỗ trợ sửa chữa máy tính cho khách hàng thông qua kết nối P2P không cần cài đặt server.",
+    "Một doanh nghiệp nhỏ triển vọng hệ thống điều khiển từ xa nội bộ để quản lý nhiều thiết bị máy tính một cách đơn giản.",
+    "Một giáo viên dùng để hướng dẫn học sinh trực tuyến qua việc chia sẻ màn hình và điều khiển máy học tập từ xa."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động phát hiện và sửa chữa lỗi hệ thống dựa trên phân tích màn hình và log hệ điều hành.",
+    "Phát triển phiên bản AR trực tuyến cho phép hai người cùng xem và chỉnh sửa môi trường thực thể 3D từ xa.",
+    "Tích hợp với hệ thống IoT để từ xa điều khiển và giám sát các thiết bị như cam truy cập, hệ thống an ninh.",
+    "Xây dựng nền tảng hợp tác làm việc từ xa với AI assistant tích hợp để hỗ trợ hội thoại và ghi chú trong quá trình điều khiển chung màn hình."
+  ],
+  "stars": 117885,
+  "starsToday": 87,
+  "language": "Rust",
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-07-08T22:01:15.648Z"
+}

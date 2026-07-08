@@ -1,0 +1,22 @@
+{
+  "id": "3364af14-ce5b-44b1-82ec-cc49842318f2",
+  "repo": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện cung cấp các kỹ năng kỹ thuật chuẩn để các AI coding agent thực hiện công việc lập trình production-ready một cách nhất quán. Dự án định nghĩa các habilities để agent hiểu và áp dụng các nguyên tắc kỹ thuật thiết thực trong phát triển phần mềm.",
+  "usecases": [
+    "Lập trình viên sử dụng làm framework để xây dựng AI coding assistant có khả năng viết code chất lượng cao",
+    "Team lead áp dụng vào quy trình CI/CD để các AI agent tự động review và fix code theo tiêu chuẩn team",
+    "Nhà phát triển dùng để định hướng các AI agent tuân theo best practices khi làm việc với codebase lớn"
+  ],
+  "ideas": [
+    "Kết hợp với các IDE extension để tạo assistant AI tự động áp dụng design patterns và coding standards",
+    "Tích hợp vào hệ thống cloud native để AI tự động generate infrastructure code theo chuẩn DevOps",
+    "Ứng dụng vào game AI để NPC sử dụng kỹ thuật lập trình để tạo nội dung động một cách thông minh"
+  ],
+  "stars": 73850,
+  "starsToday": 1322,
+  "language": "JavaScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T22:01:15.648Z"
+}

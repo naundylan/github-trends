@@ -1,0 +1,22 @@
+{
+  "id": "6b9e63c0-cd2e-4440-81ec-d9eaa6622c0e",
+  "repo": "decolua/9router",
+  "url": "https://github.com/decolua/9router",
+  "category": "AI/LLM",
+  "summary": "Nền tảng gateway AI miễn phí cho phép kết nối các công cụ coding AI như Claude Code, Cursor, Codex với 40+ nhà cung cấp AI khác nhau một cách đa dạng. Hệ thống tự động fallback và tối ưu tiêu thụ token giúp người dùng tiết kiệm 40% chi phí sử dụng AI.",
+  "usecases": [
+    "Lập trình viên sử dụng để truy cập các mô hình AI mạnh mẽ miễn phí thay vì trả phí các API đắt",
+    "Công ty khởi nghiệp nhỏ muốn tích tế hệ thống AI coding mà không cần đầu tư ban đầu lớn",
+    "Team phát triển dùng làm môi trường thử nghiệm nhiều model AI khác nhau trong quy trình làm việc"
+  ],
+  "ideas": [
+    "Kết hợp với các blockchain project để tạo hệ thống AI minning bằng token đa mô hình",
+    "Ứng dụng vào IoT để các thiết bị thông minh xử lý ngôn ngữ tự nhiên mà không cần kết nối internet",
+    "Phát triển thành nền tảng AI social network nơi mọi người dùng được chia sẻ model AI cá nhân"
+  ],
+  "stars": 21120,
+  "starsToday": 482,
+  "language": "JavaScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-08T22:01:15.648Z"
+}

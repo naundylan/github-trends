@@ -1,0 +1,24 @@
+{
+  "id": "90165edb-3864-41d8-b966-a3b0bfe8cf09",
+  "repo": "byoungd/up",
+  "url": "https://github.com/byoungd/up",
+  "category": "Documentation/Learning Resource",
+  "summary": "Up là hướng dẫn trực tuyến bao gồm nhiều chủ đề từ kiến thức sống, học tiếng Anh đến các hướng dẫn pratic chất lượng cao. Tài liệu này được thiết kế để người học tiếng Anh và phát triển bản thân hiệu quả.",
+  "usecases": [
+    "Học sinh và sinh viên học tiếng Anh với nội dung thực tế",
+    "Người đi du học hoặc làm việc ở nước ngoài cần nâng cao kỹ năng giao tiếp",
+    "Giáo viên tiếng Anh tìm tài liệu bài tập thi pratic",
+    "Người đang tìm kiếm kiến thức sống để xây dựng phương trình tự phát triển bản thân"
+  ],
+  "ideas": [
+    "Phát triển chatbot AI trả lời câu hỏi tiếng Anh dựa trên nội dung hướng dẫn",
+    "Tạo ứng dụng học tiếng VR để luyện nghe và giao tiếp trong môi trường ảo",
+    "Kết hợp với hệ thống xác thực tiếng Anh như TOEFL/IELTS để có bài tập cá nhân hóa",
+    "Xây dựng khóa học trực tuyến với video hóa nội dung từ cuốn sách"
+  ],
+  "stars": 55533,
+  "starsToday": 131,
+  "language": "JavaScript",
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-07-08T22:01:15.648Z"
+}

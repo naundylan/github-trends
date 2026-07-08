@@ -1,0 +1,23 @@
+{
+  "id": "4f076427-d4dc-41a9-9163-65bf68b9f1e8",
+  "repo": "tinyhumansai/openhuman",
+  "url": "https://github.com/tinyhumansai/openhuman",
+  "category": "AI/LLM",
+  "summary": "Một trí tuệ nhân tạo cá nhân đầy thế giới, xây dựng bộ nhớ local-first để ghi lại cuộc sống cá nhân, đồng thời điều phối quân agent và workflow phức tạp, cùng với khả năng nghiên cứu sâu thông tin.",
+  "usecases": [
+    "Một cá nhân dùng để xây dựng hệ thống ghi chép trải nghiệm và kiến thức cá nhân local-first, đảm bảo quyền riêng tư tuyệt đối.",
+    "Một nhà nghiên cứu sử dụng làm trợ lý tự động phân tích và tổng hợp thông tin từ nhiều nguồn để hỗ trợ nghiên cứu khoa học.",
+    "Một doanh nhân dùng để tối ưu hóa workflow kinh doanh bằng cách để AI tự động xử lý email, lên lịch họp và phân tích dữ liệu hàng ngày."
+  ],
+  "ideas": [
+    "Kết hợp với khủng long đeo thông thông minh (AR glasses) để AI ghi lại và phân tích trải nghiệm thị giác thực time thức.",
+    "Ứng dụng trong điều trị tâm lý với AI làm đối tượng chăm sóc tâm trạng cá nhân hoá, dựa trên hành vi và cảm xúc người dùng.",
+    "Hệ thống nhắc nhở thông minh tích hợp vào nhà thông minh, tự động điều chỉnh môi trường sống dựa trên ký ức và thói quen cá nhân.",
+    "Kết nối với blockchain để tạo ra hồ sơ cá nhân phi giấy cho phép kiểm soát quyền truy cập dữ liệu một cách phiến mã."
+  ],
+  "stars": 34469,
+  "starsToday": 112,
+  "language": "Rust",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-08T22:01:15.648Z"
+}

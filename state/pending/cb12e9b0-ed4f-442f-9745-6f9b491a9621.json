@@ -1,0 +1,25 @@
+{
+  "id": "cb12e9b0-ed4f-442f-9745-6f9b491a9621",
+  "repo": "charmbracelet/crush",
+  "url": "https://github.com/charmbracelet/crush",
+  "category": "AI Agent/Automation",
+  "summary": "Crush là một framework lập trình agentic AI được xây dựng bằng Go, giúp các nhà phát triển dễ dàng tích hợp khả năng AI vào quy trình làm việc. Dự án nổi bật với giao diện thân thiện và khả năng mở rộng mạnh mẽ, hỗ trợ các mô hình ngôn ngữ lớn (LLM) để tự động hóa các tác vụ lập trình. Với hơn 26K sao, đây là công cụ được cộng đồng ưa chuộng trong việc xây dựng trợ lý AI.",
+  "usecases": [
+    "Nhà phát triển phần mềm dùng để tự động hóa việc viết mã và sửa lỗi dựa trên yêu cầu tự nhiên ngôn ngữ",
+    "Các team QA sử dụng để tạo test case và chạy kiểm thử tự động trong quy trình CI/CD",
+    "Giảng viên giáo dục sử dụng trong các khóa học lập trình để sinh viên học tập trò chơi với AI đồng cùng",
+    "Nhà xây dựng MVP dùng để nhanh chóng tạo bản nháp ứng dụng từ ý tưởng ban đầu"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Copilot để tạo workflow AI song cùng nhau xử lý complex refactoring",
+    "Tích hợp vào môi trường phát triển không cục cho IoT devices để AI tự học và cập nhật firmware",
+    "Sử dụng làm trung gian trong các game indie để NPC có khả năng thực sự thông minh thông qua LLM",
+    "Phát triển phiên bản phân tán để chạy trên các container serverless như AWS Lambda cho mulpiple agents cùng hoạt động",
+    "Tích hợp với các công cụ như Docker và Kubernetes để tạo ra những deployment agents tự động hóa hoàn chỉnh"
+  ],
+  "stars": 26254,
+  "starsToday": 75,
+  "language": "Go",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T22:01:15.648Z"
+}

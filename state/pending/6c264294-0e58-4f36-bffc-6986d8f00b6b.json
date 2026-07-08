@@ -1,0 +1,24 @@
+{
+  "id": "6c264294-0e58-4f36-bffc-6986d8f00b6b",
+  "repo": "dream-num/univer",
+  "url": "https://github.com/dream-num/univer",
+  "category": "Web Framework",
+  "summary": "Univer là framework đa năng cho phép tạo và chỉnh sửa tài liệu như bảng tính, văn bản và trình chiếu trên cả web và server. Dự án hỗ trợ hợp tác trực tuyến và cung cấp SDK để xây dựng ứng dụng văn phòng hoá phát triển.",
+  "usecases": [
+    "Nhà phát triển phần mềm xây dựng ứng dụng soạn thảo trực tuyến giống Excel/Google Docs",
+    "Công ty công nghệ phát triển hệ thống quản lý tài liệu doanh nghiệp",
+    "Các nhà làm phần mềm tạo công cụ hợp tác trực tuyến cho đội ngũ",
+    "Nhà thiết kế giao diện người dùng xây dựng chế chế soạn thảo tài liệu linh hoạt"
+  ],
+  "ideas": [
+    "Kết hợp với AI để tạo tài liệu tự động từ mô tả bằng ngôn ngữ tự nhiên",
+    "Phát triển phiên bản di động dùng React Native để truy cập trên thiết bị di động",
+    "Tích hợp với blockchain để lưu trữ phiên bản tài liệu một cách an toàn",
+    "Tạo môi trường phát triển no-code dành cho người không chuyên về lập trình"
+  ],
+  "stars": 13721,
+  "starsToday": 160,
+  "language": "TypeScript",
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-07-08T22:01:15.648Z"
+}

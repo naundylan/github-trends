@@ -1,0 +1,24 @@
+{
+  "id": "cb310e0d-0007-4438-b19e-41086c106428",
+  "repo": "NVIDIA/SkillSpector",
+  "url": "https://github.com/NVIDIA/SkillSpector",
+  "category": "Security/Pentest",
+  "summary": "SkillSpector là công cụ quét mã nguồn AI nhằm phát hiện lỗi bảo mật, mẫu mã độc hại và rủi ro trong kỹ năng AI. Dự án giúp bảo vệ hệ thống trước các cuộc tấn công thông qua việc phân tích sâu các thành phần AI được triển khai.",
+  "usecases": [
+    "Các nhà phát triển AI sử dụng để kiểm tra mã nguồn trước khi triển khai",
+    "Công ty bảo mật sử dụng để đánh giá rủi ro của các hệ thống AI",
+    "Kỹ sư an ninh mạng phân tích các mô hình AI có nguy cơ tiềm ẩn",
+    "Các tổ chức giáo dục AI đào tạo sinh viên về an ninh trong phát triển AI"
+  ],
+  "ideas": [
+    "Tích hợp với GitHub Actions để tự động quét mã nguồn AI trong pipeline CI/CD",
+    "Kết hợp với mô hệ thống đánh giá chất lượng mã nguồn như SonarQube để tạo báo cáo toàn diện",
+    "Phát triển phiên bản dịch vụ cloud để quét mã nguồn AI theo kiểu Software-as-a-Service",
+    "Tích hợp với các framework AI như LangChain để giám sát thời gian chạy"
+  ],
+  "stars": 12475,
+  "starsToday": 169,
+  "language": "Python",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-08T22:01:15.648Z"
+}
