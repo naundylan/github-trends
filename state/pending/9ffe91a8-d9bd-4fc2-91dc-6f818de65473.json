@@ -1,0 +1,25 @@
+{
+  "id": "9ffe91a8-d9bd-4fc2-91dc-6f818de65473",
+  "repo": "SigNoz/signoz",
+  "url": "https://github.com/SigNoz/signoz",
+  "category": "DevOps/CI-CD",
+  "summary": "SigNoz là một nền tảng quan sát mở native với OpenTelemetry, tích hợp logs, traces và metrics trong một ứng dụng duy nhất. Đây là giải pháp thay thế mở cho các công cụ thương mại như DataDog và NewRelic, giúp các đội ngũ giám sát và gỡ lỗi hệ thống phức tạp.",
+  "usecases": [
+    "DevOps engineers triển khai để giám sát hiệu suất microservices trong môi trường production",
+    "SREs sử dụng distributed tracing để debug vấn đề truy vấn phức tạp trong hệ thống phân tán",
+    "Các công ty nhỏ muốn migration từ các công cụ APM tính phí sang giải pháp mở-source",
+    "Teams phát triển ứng dụng cloud-native cần integrated observability mà không cần đầu tư hạ tầng lớn"
+  ],
+  "ideas": [
+    "Kết hợp với AI agents để tự động phát hiện và giảm cân các yếu tố làm chậm hệ thống dựa trên patterns trong OpenTelemetry data",
+    "Tích hợp vào service mesh làm Istio/Addon để cung cấp observability tự động mà không cần thay đổi code ứng dụng",
+    "Sử dụng làm nền tảng cho 'observability-as-a-service' trong các cửa hàng đám mây edge computing như Cloudflare Workers hoặc Vercel Edge Functions",
+    "Phát triển tính năng dự báo sự cố bằng cách huấu thuẫn mô hình máy học vào metrics time-series",
+    "Tích chịu với Web3 protocols để tạo ra 'decentralized observability network' cho các ứng dụng blockchain"
+  ],
+  "stars": 28506,
+  "starsToday": 174,
+  "language": "TypeScript",
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-07-08T19:12:48.037Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "517ed517-f9e9-41a8-848a-5a892d8a754c",
+  "repo": "anthropics/claude-code",
+  "url": "https://github.com/anthropics/claude-code",
+  "category": "CLI Tool",
+  "summary": "Claude Code là một coding agent tích hợp trực tiếp trong terminal, hiểu sâu codebase và giúp các nhà phát triển lập trình nhanh hơn thông qua việc thực thi các tác vụ hàng ngày, giải thích code phức tạp và quản lý workflow git chỉ với lệnh ngôn ngữ tự nhiên.",
+  "usecases": [
+    "Lập trình viên hàng ngày sử dụng terminal để xử lý các tác vụ code thủ công phức tạp",
+    "Team lead quản lý code review và merge conflicts thông qua lệnh tự nhiên",
+    "Backend developer xây dựng và test API endpoints nhanh chóng trong quy trình CI/CD"
+  ],
+  "ideas": [
+    "Tích hợp Claude Code vào các IDE như VS Code để tạo workflow đồng bộ giữa terminal và editor",
+    "Kết hợp với hệ thống monitoring tạo auto-refactor agent chạy liên tục trên production code",
+    "Phát triển phiên bản hỗ trợ đa ngôn ngữ lập trình với khả năng hiểu context qua các file config phức tạp"
+  ],
+  "stars": 136876,
+  "starsToday": 202,
+  "language": "Python",
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-07-08T19:12:48.037Z"
+}

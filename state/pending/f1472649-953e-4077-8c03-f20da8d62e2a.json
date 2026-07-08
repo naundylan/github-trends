@@ -1,0 +1,22 @@
+{
+  "id": "f1472649-953e-4077-8c03-f20da8d62e2a",
+  "repo": "Diolinux/PhotoGIMP",
+  "url": "https://github.com/Diolinux/PhotoGIMP",
+  "category": "UI/Component Library",
+  "summary": "Đây là gói patch CSS tùy chỉnh giao diện GIMP 3+ để mô phỏng trình bày và chức năng của Adobe Photoshop, giúp người dùng chuyển đổi dễ dàng. Giao diện được thiết kế lại menu, toolbar và bố cục để phù hợp với người quen thuộc với Photoshop.",
+  "usecases": [
+    "Nghệ sĩ và designer muốn chuyển từ Photoshop sang GIMP mà không cần học lại giao diện",
+    "Giáo viên dùng để giảng dạy sử dụng phần mềm chỉnh sửa hình ảnh miễn phí",
+    "Công ty nhỏ muốn tiết kiệm chi phí Photoshop nhưng giữ nguyên workflow làm việc"
+  ],
+  "ideas": [
+    "Kết hợp với AI để tạo theme tự động dựa trên phong cách thiết kế yêu thích của người dùng",
+    "Phát triển phiên bản hỗ trợ hoàn toàn bằng voice command cho người khuyết tật",
+    "Tích hợp với các plugin GIMP khác để tạo giao diện mô-đun linh hoạt"
+  ],
+  "stars": 14922,
+  "starsToday": 2031,
+  "language": "CSS",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-08T19:12:48.037Z"
+}

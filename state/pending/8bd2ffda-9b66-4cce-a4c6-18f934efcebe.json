@@ -1,0 +1,22 @@
+{
+  "id": "8bd2ffda-9b66-4cce-a4c6-18f934efcebe",
+  "repo": "alibaba/zvec",
+  "url": "https://github.com/alibaba/zvec",
+  "category": "Database",
+  "summary": "ZVec là thư viện C++ nhẹ và nhanh chóng để lưu trữ, chèn, xóa và truy vấn các vector nhúng (embedding) trong không gian vector. Nó cung cấp các tính năng như chỉ mục HNSW, FAISS tích hợp sẵn để thực hiện tìm kiếm gần đúng (similarity search) và tìm kiếm ngữ nghĩ (semantic search) với độ trễ thấp, phù hợp triển khai các hệ thống RAG (Retrieval-Augmented Generation) hoặc agent memory nhỏ gọn.",
+  "usecases": [
+    "Developer nhúng vào ứng dụng để thực hiện tìm kiếm ngữ nghĩ trên dữ liệu văn bản hoặc hình ảnh mà không cần kết nối database external",
+    "Data scientist xây dựng hệ thống nhớ (memory) cho LLM agent sử dụng trong môi trường cần tính toán nhanh và giảm độ trễ",
+    "Machine learning engineer thử nghiệm các thuật toán so sánh vector hoặc xây dựng pipeline RAG nhỏ trên edge device"
+  ],
+  "ideas": [
+    "Kết hợp với LLM nhỏ NPU trên thiết bị IoT để tạo hệ thống AI nhớ độc lập hoàn toàn không cần cloud",
+    "Tích hợp vào game engines như Unity để quản lý tri thức NPC trong thời gian thực với hàng ngàn nhân vật",
+    "Dùng làm memory layer cho autonomous drones thực hiện mission tìm kiếm trong môi trường phiến trùng lặp"
+  ],
+  "stars": 14325,
+  "starsToday": 370,
+  "language": "C++",
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-07-08T19:12:48.037Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "32c70418-815c-4247-a4db-9e0793f59f15",
+  "repo": "jingyaogong/minimind",
+  "url": "https://github.com/jingyaogong/minimind",
+  "category": "Machine Learning",
+  "summary": "MiniMind là dự án mô phỏng quá trình đào tạo mô hình LLM 64 triệu tham số chỉ trong 2 tiếng đồng hồ, phù hợp cho việc giáo dục và nghiên cứu. Dự án giúp người dùng hiểu rõ quy trình training LLM mà không cần tài nguyên tính toán khổng lồ.",
+  "usecases": [
+    "Giáo viên đại học giảng dạy khóa học về trí tuệ nhân tạo và machine learning",
+    "Sinh viên nghiên cứu muốn thử nghiệm các ý tưởng mô hình ngôn ngữ trên hardware cá nhân",
+    "Nhà phát triển ứng dụng cần prototype nhanh các tính năng AI trong sản phẩm"
+  ],
+  "ideas": [
+    "Mở rộng MiniMind để hỗ trợ các variant khác nhau như MoE, sparse attention models",
+    "Tích hợp với TensorFlow.js để chạy mô hình nhỏ trên trình duyệt hoàn chỉnh",
+    "Tạo một hệ sinh thái mô phỏng giống MiniMind cho các kích thước model khác (10M, 100M, 1B parameters)"
+  ],
+  "stars": 53001,
+  "starsToday": 176,
+  "language": "Python",
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-07-08T19:12:48.037Z"
+}

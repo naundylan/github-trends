@@ -1,0 +1,22 @@
+{
+  "id": "f5bb880e-26f3-4cb6-91ba-89f9cadbffb9",
+  "repo": "huxingyi/autoremesher",
+  "url": "https://github.com/huxingyi/autoremesher",
+  "category": "Other",
+  "summary": "AutoRemesher là công cụ tự động thực hiện quá trình remeshing (tạo lưới mới) cho mô hình 3D, đặc biệt là chuyển đổi mesh về dạng lưỡi gô cxn (quad-dominant). Công cụ giúp cải thiện chất lượng geometry cho mô hình 3D, hỗ trợ các hoạt động như retopology, làm sạch mô hình trước khi xuất cho game, animation hoặc in 3D.",
+  "usecases": [
+    "Game artist cần làm sạch và chuẩn hóa mô hình 3D từ nguồn mixamo hay character creator trước khi import vào engine",
+    "CAD designer muốn chuẩn hóa các model từ CAD software để tối ưu hóa cho simulation hay finite element analysis",
+    "3D printing specialist cần tạo lưới phù hợp với các kỹ thuật in khối có hạn chế về số lượng face"
+  ],
+  "ideas": [
+    "Kết hợp với AI tạo mô hình 3D như Shap-E hay MeshCraft để tự động tối ưu hóa mesh sau khi sinh",
+    "Tích hợp vào pipeline animation 3D để tạo các morph targets từ các trạng thái geometry cơ bản",
+    "Dùng cho hệ thống VR sculpting real-time, giúp người dùng tạo nội tại geometry mượt mà trong không gian 3D"
+  ],
+  "stars": 1929,
+  "starsToday": 292,
+  "language": "C++",
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-07-08T19:12:48.037Z"
+}

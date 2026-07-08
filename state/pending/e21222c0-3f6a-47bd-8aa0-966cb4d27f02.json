@@ -1,0 +1,22 @@
+{
+  "id": "e21222c0-3f6a-47bd-8aa0-966cb4d27f02",
+  "repo": "Graphify-Labs/graphify",
+  "url": "https://github.com/Graphify-Labs/graphify",
+  "category": "AI/LLM",
+  "summary": "Công cụ truy xuất tri thức thông minh sử dụng AI để biến mọi thư mục mã nguồn, tài liệu và dữ liệu thành đồ thị tri thức queryable. Hỗ trợ đa dạng nguồn dữ liệu bao gồm code, SQL schema, tài liệu, hình ảnh và video với khả năng phân tích toàn bộ hệ thống theo dõi mối quan hệ.",
+  "usecases": [
+    "Kỹ sư lâm sàng cần hiểu hệ thống phức tạp với hàng ngàn file mã nguồn",
+    "Nhà nghiên cứu muốn phân tích và truy xuất thông tin từ tài liệu nghiên cứu phức hợp",
+    "Doanh nghiệp muốn xây dựng hệ thống quản lý kiến thức tự động cho dự án lớn"
+  ],
+  "ideas": [
+    "Kết nối với mô hình AI agent để tự động sửa lỗi code dựa trên phân tích đồ thị tri thức",
+    "Tích hợp vào môi trường làm việc phân tán như Kubernetes để giám sát hệ thống theo thời gian thực",
+    "Phát triển API để các AI agent khác truy vấn và cập nhật tri thức một cách liên tục"
+  ],
+  "stars": 80265,
+  "starsToday": 885,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-08T19:12:48.037Z"
+}

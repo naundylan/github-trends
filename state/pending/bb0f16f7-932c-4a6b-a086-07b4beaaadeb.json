@@ -1,0 +1,22 @@
+{
+  "id": "bb0f16f7-932c-4a6b-a086-07b4beaaadeb",
+  "repo": "yt-dlp/yt-dlp",
+  "url": "https://github.com/yt-dlp/yt-dlp",
+  "category": "CLI Tool",
+  "summary": "Công cụ tải về audio/video dòng lệnh đầy đủ tính năng hỗ trợ hàng trăm nền tảng giải trí trực tuyến. Là fork nâng cao của youtube-dl với khả năng xử lý video chất lượng cao, subtitle và tích hợp SponsorBlock để bỏ qua quảng cáo tự động.",
+  "usecases": [
+    "Người dùng muốn lưu trữ video YouTube cho offline viewing trong thư viện cá nhân",
+    "Nhà phân phối nội dung cần tải về để xuất bản lại trên nền tảng khác",
+    "Nhà nghiên cứu muốn thu thập dữ liệu video để phân tích dữ liệu truyền thông"
+  ],
+  "ideas": [
+    "Tích hợp với trình duyệt AI để tự động tải về các video được đề xuất dựa trên lịch sử xem",
+    "Kết hợp với blockchain để tạo bản ghi chứng tỪ số cho quyền sử dụng nội dung",
+    "Phát triển phiên bản phân tán để tải về video từ nhiều nguồn đồng thời giảm tải server"
+  ],
+  "stars": 176404,
+  "starsToday": 497,
+  "language": "Python",
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-07-08T19:12:48.037Z"
+}
