@@ -1,0 +1,22 @@
+{
+  "id": "8cf40d1d-6616-4f23-9a38-70d35a5519d9",
+  "repo": "NVIDIA/SkillSpector",
+  "url": "https://github.com/NVIDIA/SkillSpector",
+  "category": "Security/Pentest",
+  "summary": "Security scanner chuyên phát hiện lỗi và rủi ro bảo mật trong kỹ năng AI agent. Công cụ giúp ngăn ngừơ malware và pattern độc hại trong hệ thống AI phức tạp.",
+  "usecases": [
+    "Nhà phát triển AI agent kiểm tra mã nguồn trước khi triển vọng",
+    "Công ty an ninh mạng quét gộp các tiện ích mở rộng AI",
+    "Quản trị viên hệ thống AI đánh giá tính an toàn của model"
+  ],
+  "ideas": [
+    "Tích hợp với mô hình AI sinh mã để phát hiện backdoors ngay trong quá trình training",
+    "Kết hợp blockchain để ghi lại chuỗi bảo mật của từng kỹ năng AI",
+    "Ứng dụng trong nhà để thông minh sử dụng AI agent an toàn mà không cần can thiệp thủ công"
+  ],
+  "stars": 12424,
+  "starsToday": 169,
+  "language": "Python",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-08T16:27:17.259Z"
+}

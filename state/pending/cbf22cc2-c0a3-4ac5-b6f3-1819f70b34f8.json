@@ -1,0 +1,23 @@
+{
+  "id": "cbf22cc2-c0a3-4ac5-b6f3-1819f70b34f8",
+  "repo": "charmbracelet/crush",
+  "url": "https://github.com/charmbracelet/crush",
+  "category": "AI Agent/Automation",
+  "summary": "Crush là công cụ lập trình tích hợp AI cực kỳ thu hút, kết hợp khả năng của các LLM để biến đổi quy trình phát triển phần mềm. Với trọng tâm là 'agentic AI', Crush giúp các nhà phát triển tương tác với AI như với một đồng đội lập trình viên, thực hiện các tác vụ phức tạp một cách tự động hóa",
+  "usecases": [
+    "Một kỹ sư backend tại Viettel sử dụng Crush để tự động tạo unit tests cho 500 endpoint API, tiết kiệm 2 tuần công việc thủ công",
+    "Một team open-source nhỏ chỉ 2 người dùng Crush để cùng nhau xây dựng một dự án hoàn chỉnh chỉ trong 1 buổi sáng, từ ý tưởng đến code chạy được",
+    "Một freelancer Việt Nam viết extension VS Code bằng Crush, tích hợp luôn vibe coding và chạy debug hoàn toàn bằng tiếng Việt thông qua LLM local"
+  ],
+  "ideas": [
+    "Kết hợp Crush với NVIDIA Omniverse tạo 'Virtual Coding Collab' nơi hàng chục lập trình viên trên toàn cầu cùng AI agent xây dựng một dự án trong không gian 3D",
+    "Phát triển 'AI Swarm Coding' với Crush điều phối hàng ngàn agent cùng làm việc song song để xây dựng siêu dự án mã nguồn mở lớn nhất thế giới chỉ trong ít giờ",
+    "Tích hợp với SpaceX Starship tạo 'Orbital Development Platform' nơi Crush chạy trên thiết bị vệ tinh, tự động sửa lỗi hệ thống nhận dữ liệu từ Trái Đất",
+    "Xây dựng 'Recursive AI Developer' Crush tự copy vào trong chính mình để thành một AGI hoàn chỉnh, có khả năng tự cải tiến mã code mọi ngày"
+  ],
+  "stars": 26244,
+  "starsToday": 75,
+  "language": "Go",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T16:27:17.259Z"
+}

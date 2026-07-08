@@ -1,0 +1,25 @@
+{
+  "id": "663c381a-fea2-4d02-b735-49cc4b4c5e13",
+  "repo": "vxcontrol/pentagi",
+  "url": "https://github.com/vxcontrol/pentagi",
+  "category": "Security/Pentest",
+  "summary": "Hệ thống AI tự động hoàn chỉnh có khả năng thực hiện các nhiệm vụ penetration testing phức tạp, sử dụng GraphQL và multi-agent system để phát hiện lỗi bảo mật một cách có hệ thống. Dự án là open-source giúp tự động hóa quy trình kiểm thử an ninh mạng.",
+  "usecases": [
+    "Chuyên gia an ninh sử dụng để thực hiện penetration testing trên môi trường production một cách có kiểm soát",
+    "Công ty phần mềm nhỏ dùng làm công cụ kiểm tra bảo mật tự động trước khi release sản phẩm",
+    "Nhà quản trị hệ thống dùng để định kỳ quét lỗi bảo mật trên infrastructure đang chạy",
+    "Giảng viên giáo dục đào tạo sinh viên về offensive security và automated penetration testing techniques"
+  ],
+  "ideas": [
+    "Kết hợp với blockchain để tạo ra hệ thống thông báo bảo mật decentralize khi phát hiện vulnerability",
+    "Xây dựng hệ thống red-team AI simulation chạy trong không gian ảo hoàn chỉnh để mô phỏng cuộc tấn công thực tế",
+    "Phát triển AI penetration testing agent chạy trên Kubernetes với khả nỡ scale vào các hệ thống lớn",
+    "Tích hợp vào hệ thống bug bounty platform để tự động submit các lỗi đã phát hiện dưới dạng reports chuẩn",
+    "Tạo ra môi trường lab ảo để các AI agent luyện tập penetration testing trên các hệ thống giả lập phức tạp"
+  ],
+  "stars": 18685,
+  "starsToday": 421,
+  "language": "Go",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-08T16:27:17.259Z"
+}

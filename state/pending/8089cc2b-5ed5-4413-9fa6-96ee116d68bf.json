@@ -1,0 +1,25 @@
+{
+  "id": "8089cc2b-5ed5-4413-9fa6-96ee116d68bf",
+  "repo": "IceWhaleTech/CasaOS",
+  "url": "https://github.com/IceWhaleTech/CasaOS",
+  "category": "Infrastructure as Code",
+  "summary": "CasaOS là một hệ thống Personal Cloud mở, đơn giản và trực quan, được thiết kế để triển khai trên home server và thiết bị IoT như Raspberry Pi. Hệ thống tích hợp sẵn Docker và giao diện Vue.js, giúp người dùng dễ dàng quản lý các dịch vụ tự lưu trữ và tự động hóa nhà thông minh cá nhân.",
+  "usecases": [
+    "Người dùng muốn thiết lập một không gian lưu trữ cá nhân (Nextcloud, media server) trên Raspberry Pi mà không cần kiến thức kỹ thuật phức tạp",
+    "Chủ nhà thông minh triển khai các dịch vụ như Home Assistant, Mosquitto MQTT broker để điều khiển thiết bị thông minh tại nhà",
+    "Developer hoặc sysadmin cần môi trường self-hosted để thử nghiệm các ứng dụng containerized một cách nhanh chóng và nhất quán",
+    "Người dùng muốn xây dựng hệ thống backup và lưu trữ dữ liệu riêng tại nhà thay vì phụ thuộc vào dịch vụ đám mây"
+  ],
+  "ideas": [
+    "Kết hợp CasaOS với các AI agent như AutoGPT hay BabyAGI để tự động hóa việc phân tách tải và triển khai dịch vụ dựa trên nhu cầu sử dụng thực-time",
+    "Phát triển phiên bản hybrid edge-cloud vào năm 2025, kết hợp CasaOS với các dịch vụ serverless như Cloudflare Workers để xử lý tải cao và đồng bộ hóa dữ liệu giữa local và cloud",
+    "Tích hợp CasaOS với các thiết bị biến tần IoT biên giới (edge devices) như NVIDIA Jetson Nano hay Google Coral để tạo thành mạng lưới tính toán phân tán cho AI inference tại gốc",
+    "Xây dựng hệ sinh thái marketplace các ứng dụng có kiểm soát hoàn toàn bởi người dùng (no vendor lock-in), tích hợp với IPFS và Filecoin để lưu trữ phiên bản nâng cao của decentralized storage",
+    "Phát triển tiêu chuẩn 'Home Cloud Stack' sử dụng CasaOS làm nền tảng, hỗ trợ orchestration multi-region với mô hình microservices độc lập cho các nhà phát triển ứng dụng cá nhân"
+  ],
+  "stars": 36333,
+  "starsToday": 72,
+  "language": "Go",
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-07-08T16:27:17.259Z"
+}

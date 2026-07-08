@@ -1,0 +1,22 @@
+{
+  "id": "0cc7998e-d99d-46fb-a385-69384f921473",
+  "repo": "byoungd/up",
+  "url": "https://github.com/byoungd/up",
+  "category": "Documentation/Learning Resource",
+  "summary": "Hướng dẫn nâng cao và tài liệu học tiếng Anh chất lượng cao, bao gồm chiến lược học hiệu quả và tài nguyên trao đổi ngôn ngữ.",
+  "usecases": [
+    "Học sinh hoặc người đi làm cần nâng cao kỹ năng tiếng Anh chuyên sâu",
+    "Giáo viên tiếng Anh tìm tài liệu bài tập thực hành",
+    "Du học sinh chuẩn bị cho kỳ thi IELTS hay TOEFL"
+  ],
+  "ideas": [
+    "Phát triển chatbot AI cá nhân hóa lộ trình học tiếng dựa trên thói quen",
+    "Tích hợp công nghệ AR để học từ vựng qua trải nghiệm thực tế",
+    "Tạo nền tảng học tiếng cộng đồng với blockchain để trao đổi học bổng"
+  ],
+  "stars": 55519,
+  "starsToday": 131,
+  "language": "JavaScript",
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-07-08T16:27:17.259Z"
+}

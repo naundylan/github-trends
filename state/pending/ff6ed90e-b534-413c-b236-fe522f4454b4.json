@@ -1,0 +1,23 @@
+{
+  "id": "ff6ed90e-b534-413c-b236-fe522f4454b4",
+  "repo": "tinyhumansai/openhuman",
+  "url": "https://github.com/tinyhumansai/openhuman",
+  "category": "AI Agent/Automation",
+  "summary": "OpenHuman là một nền tảng AI cá nhân cực kỳ thông minh, xây dựng bộ nhớ local-first về cuộc sống người dùng, cùng với khả năng điều phối các đội ngũ agent và workflow phức tạp, đồng thời thực hiện nghiên cứu sâu. Với kernel chính là Rust, dự án tập trung vào việc tạo ra một 'trí tuệ nhân tạo cá nhân' như một phần mềm kiến trúc số trên thiết bị người dùng.",
+  "usecases": [
+    "Một nhà nghiên cứu học thuật sử dụng OpenHuman để tự động hóa việc thu thập và phân tích dữ liệu nghiên cứu từ nhiều nguồn trực tuyến, xây dựng bộ dữ liệu cá nhân hóa cho từng dự án",
+    "Một công nhân văn phòng nhận xét khách hàng hàng ngày, OpenHuman ghi lại tương tác, tạo knowledge base cá nhân và đề xuất chiến lược tương tác tối ưu cho khách hàng tương tự",
+    "Một học sinh sử dụng OpenHuman như trợ giảng cá nhân, nơi lưu trữ kế hoạch học tập, ghi chú bài học và đề xuất lịch trình ôn tập dựa trên thói quen cá nhân"
+  ],
+  "ideas": [
+    "Kết hợp OpenHuman với Tesla Autopilot để tạo hệ thống 'AI ô tô thông minh' nhớ lại hành trình từng đi, gợi ý lộ trình đi du lịch dựa trên sở thích cá nhân",
+    "Tích hợp với Apple Vision Pro tạo thành 'Neural Interface AI' điều khiển bằng suy nghĩ, nơi OpenHuman biến đổi ý tưởng thành hành động thực thi trong thế giới AR",
+    "Phát triển mô-đun kết nối với Oura Ring và Whoop để tạo 'AI Trainer Cá nhân' điều chỉnh luyện tập và dinh dưỡng dựa trên trạng thái sinh học thời gian thực",
+    "Xây dựng hệ sinh thái với Neuralink để OpenHuman trở thành 'Trí Tuệ Não Bán Dẫn' ghi lại mọi suy nghĩ, ký ức và tương tác trong thế giới thực"
+  ],
+  "stars": 34452,
+  "starsToday": 112,
+  "language": "Rust",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T16:27:17.259Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3416944b-bafd-44fd-9ded-7972b1254993",
+  "repo": "decolua/9router",
+  "url": "https://github.com/decolua/9router",
+  "category": "API/GraphQL",
+  "summary": "Nền tảng router AI miễn phí kết nối với 40+ nhà cung cấp AI thông qua Claude Code, Codex, Cursor, Cline, Copilot với tính năng auto-fallback và tiết kiệm token lên đến 40%. Giải pháp giúp người dùng truy cập AI mà không bị giới hạn API quota hay chi phí cao.",
+  "usecases": [
+    "Developer nhỏ dùng để truy cập Claude và GPT miễn phí cho các dự án cá nhân và prototype nhanh",
+    "Startup cung cấp dịch vụ AI dùng làm gateway để quản lý và phân phối tải giữa các mô hình AI tốt nhất cho từng use case",
+    "Team phần mềm đa dự án dùng để chống rate limiting khi đang phát triển các tính năng AI-intensive",
+    "Nghiên cứu viên AI truy cập nhiều mô hình miễn phí để thử nghiệm và so sánh khả năng của các model"
+  ],
+  "ideas": [
+    "Xây dựng hệ thống AI router thông minh phân phối request dựa trên đặc thành của từng model để tối ưu chi phí",
+    "Kết hợp với distributed computing để chạy các AI model locally nhưng vẫn duy trì khả năng fallback qua internet",
+    "Tạo ra marketplace các kỹRouter config để người dùng chia sẻ và duyệt các preset tối ưu cho từng lĩnh vực",
+    "Phát triển hệ thống predictive routing tự học để dự đoán model nào tốt nhất cho prompt cụ thể",
+    "Ứng dụng vào môi trường edge computing để chạy AI gateway trên thiết bị IoT với khả năng gọi API đa nền tảng"
+  ],
+  "stars": 21057,
+  "starsToday": 482,
+  "language": "JavaScript",
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-07-08T16:27:17.259Z"
+}

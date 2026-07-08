@@ -1,0 +1,23 @@
+{
+  "id": "7d086f13-cd98-4a70-ad83-e30c853ffaf1",
+  "repo": "fastapi/fastapi",
+  "url": "https://github.com/fastapi/fastapi",
+  "category": "Backend Framework",
+  "summary": "FastAPI là một framework backend hiệu suất cao của Python, được thiết kế để học dễ dàng và code nhanh, sẵn sàng cho sản phẩm production. Hỗ trợ async/await, tích hợp OpenAPI/Swagger tự động và sử dụng Pydantic cho validation mạnh mẽ, giúp các nhà phát triển xây dựng API hiện đại một cách nhanh chóng",
+  "usecases": [
+    "Một startup fintech nhỏ xây dựng API thanh toán nhanh chóng với FastAPI, sử dụng Pydantic để đảm bảo tính chính xác dữ liệu giao dịch và tích hợp Swagger UI cho team phát triển",
+    "Một công ty logistics sử dụng FastAPI để tạo microservices điều phối vận chuyển hàng, với hàng ngàn request/giây và cần độ trễ thấp để theo dõi vị trí xe real-time",
+    "Một nhà phát triển cá nhân xây dựng RESTful API cho ứng dụng mobile cá nhân, tận dụng tính năng auto-generated documentation tiết kiệm 40% thời gian viết tài liệu"
+  ],
+  "ideas": [
+    "Kết hợp FastAPI với WebAssembly để tạo 'Edge API Gateway' chạy trực tiếp trên CDN, cho phép API chạy trên thiết bị khách hàng mà không cần server",
+    "Phát triển 'Quantum API Framework' sử dụng FastAPI với Qiskit để xây dựng API quantum computing, công khai các thuật toán quantum qua REST endpoints",
+    "Tích hợp với Starlink và Raspberry Pi tạo 'Decentralized API Network' - hàng ngàn node API chạy trên toàn thế giới không cần data center truyền thống",
+    "Xây dựng hệ thống 'AI API Architect' tự động phân tích yêu cầu kỹ thuật và sinh ra hoàn chỉnh API hoàn chỉnh với FastAPI chỉ sau 30 giây mô tả bằng ngôn ngữ tự nhiên"
+  ],
+  "stars": 100252,
+  "starsToday": 92,
+  "language": "Python",
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-07-08T16:27:17.259Z"
+}

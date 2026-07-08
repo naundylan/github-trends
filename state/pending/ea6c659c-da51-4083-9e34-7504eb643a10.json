@@ -1,0 +1,22 @@
+{
+  "id": "ea6c659c-da51-4083-9e34-7504eb643a10",
+  "repo": "dream-num/univer",
+  "url": "https://github.com/dream-num/univer",
+  "category": "Web Framework",
+  "summary": "Framework đa phương tiện cho phép tạo và chỉnh sửa spreadsheet, bảng điện tử, giới thiệu trình chiếu trên web và server. Hỗ trợ hợp tác trực tuyến và API mở.",
+  "usecases": [
+    "Developer xây dựng ứng dụng văn phòng trực tuyến giống Excel nhưng tích hợp AI",
+    "Doanh nghiệp cung cấp công cụ tính toán phức tạp cho nhân viên",
+    "Team nhóm hợp tác trên tài liệu một cách đồng thời như Google Docs"
+  ],
+  "ideas": [
+    "Kết hợp với AI để tạo báo cáo tự động từ dữ liệu thô",
+    "Phát triển rao vặt trực tuyến với khả năng cộng tác thời gian thực trên nền tảng metaverse",
+    "Tích hợp blockchain để lưu trữ và xác thực quyền sở hữu tài liệu"
+  ],
+  "stars": 13705,
+  "starsToday": 160,
+  "language": "TypeScript",
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-07-08T16:27:17.259Z"
+}
