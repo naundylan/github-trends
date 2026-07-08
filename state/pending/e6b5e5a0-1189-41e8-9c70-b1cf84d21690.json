@@ -1,0 +1,22 @@
+{
+  "id": "e6b5e5a0-1189-41e8-9c70-b1cf84d21690",
+  "repo": "Diolinux/PhotoGIMP",
+  "url": "https://github.com/Diolinux/PhotoGIMP",
+  "category": "UI/Component Library",
+  "summary": "PhotoGIMP là một bản vá giao diện người dùng cho GIMP 3+, thiết kế để giả lập trải nghiệm phù hợp với người dùng Photoshop. Dự án giúp người chuyển đổi từ Photoshop sang GIMP giảm thiểu đường cong học tập và tăng tính quen thuộc.",
+  "usecases": [
+    "Nhiếp ảnh gia chuyển từ Photoshop sang GIMP muốn duy trì workflow quen thuộc",
+    "Thiết kế đồ họa cần mở rộng khả năng chỉnh sửa ảnh với giao diện familiar",
+    "E-learning với học sinh học Photoshop cần thực hành trên nền GIMP miễn phí"
+  ],
+  "ideas": [
+    "Kết hợp với AI image generation để tạo Photoshop-style UI cho Stable Diffusion interfaces",
+    "Áp dụng vào mobile app thiết kế với giao diện cài đặt tương tự Photoshop trên tablet",
+    "Tích hợp với Figma plugins để đồng bộ design system giữa web và desktop"
+  ],
+  "stars": 14746,
+  "starsToday": 2031,
+  "language": "CSS",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-08T13:47:33.742Z"
+}

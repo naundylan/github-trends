@@ -1,0 +1,25 @@
+{
+  "id": "81a39214-5ecb-4cd1-a8fa-166d661a8bee",
+  "repo": "jingyaogong/minimind",
+  "url": "https://github.com/jingyaogong/minimind",
+  "category": "Machine Learning",
+  "summary": "MiniMind là một dự án đào tạo mô hình ngôn ngữ lớn 64 triệu tham số chỉ trong vòng 2 tiếng đồng hồ, phù hợp cho người mới học về AI và nghiên cứu. Dự án cung cấp quy trình huấn luyện đơn giản và tài nguyên để các nhà nghiên cứu thử nghiệm nhanh các ý tưởng mô hình mà không cần tài nguyên tính toán khổng lồ.",
+  "usecases": [
+    "Giảng viên đại học sử dụng MiniMind để dạy học sinh cấp 1 và 2 về cơ bản về trí tuệ nhân tạo trong thực tập",
+    "Sinh viên nông trường muốn nghiên cứu ứng dụng AI vào quản lý cây trồng bằng cách fine-tune mô hình nhỏ này trên thiết bị edge",
+    "Doanh nghiệp nhỏ thiết kế chatbot dịch vụ khách hàng sử dụng MiniMind làm nền tảng cơ bản trước khi mở rộng",
+    "Nhà phát triển IoT tạo ra các thiết bị thong minh chỉ cần 64MB bộ nhớ để chạy mô hình NLP cơ bản"
+  ],
+  "ideas": [
+    "Kết hợp MiniMind với Raspberry Pi để tạo ra các thiết bị thông minh chạy hoàn toàn offline trong ngôi nhà thong minh",
+    "Ứng dụng vào ngành nông nghiệp biển để phân tích dữ liệu thời tiết và tự động điều chỉnh hệ thống tưới tiêu bằng ngôn ngữ tự nhiên",
+    "Tích hợp với các công cụ GIS để MiniMind có khả năng phân tích và sinh báo cáo không gian",
+    "Phát triển phiên bản 'MiniMind for Good' hướng tới các dự án phát triển bền vững và phục vụ cộng đồng",
+    "Tạo ra dòng sản phẩm máy in 3D nhúng sẵn mô hình MiniMind để các nhà khoa học học thuật có thể mang theo đi nghiên cứu"
+  ],
+  "stars": 52982,
+  "starsToday": 176,
+  "language": "Python",
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-07-08T13:47:33.743Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "d5e8559e-dd75-49fb-963f-0a2b1b07cda3",
+  "repo": "alibaba/zvec",
+  "url": "https://github.com/alibaba/zvec",
+  "category": "AI/LLM",
+  "summary": "ZVec là cơ sở dữ liệu vector in-process nhẹ và nhanh, hỗ trợ similarity search và semantic search với công nghệ HNSW. Dự án được xây dựng bằng C++ với mục tiêu cung cấp giải pháp lưu trữ vector độc lập, không cần bước kết nối mạng giữa LLM và database.",
+  "usecases": [
+    "LLM application cần memory vector store mà không muốn latency network",
+    "Edge AI deployment trên mobile hoặc IoT device cần local vector operations",
+    "RAG systems nhỏ muốn tối ưu performance bằng in-process database"
+  ],
+  "ideas": [
+    "Kết hợp với brain-computer interfaces để lưu trữ và query ý tưởng người dùng dưới dạng vector",
+    "Áp dụng vào DNA sequence analysis với semantic search gen thông tin di truyền",
+    "Tích hợp vào AR/VR systems để lưu trữ không gian 3D embeddings cho virtual objects"
+  ],
+  "stars": 14238,
+  "starsToday": 685,
+  "language": "C++",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-08T13:47:33.743Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a190804c-4503-4ea7-8eb2-06593a48d085",
+  "repo": "Egonex-AI/Understand-Anything",
+  "url": "https://github.com/Egonex-AI/Understand-Anything",
+  "category": "AI/LLM",
+  "summary": "Understand-Anything biến mọi mã nguồn thành đồ thị kiến thức tương tác, cho phép duyệt tìm và trò chuyện trực tiếp với Claude Code, Codex, Cursor và các trình duyệt AI khác. Công cụ xây dựng cơ sở tri thức động từ codebase, hữu ích cho việc phân tích và quản lý nhân kiến thức trong dự án phần mềm.",
+  "usecases": [
+    "Developer sử dụng để tạo cơ sở dữ liệu tri thức từ mã nguồn dự án lớn, giúp team hiểu hệ thống phức tạp nhanh chóng",
+    "Kiểm tra và truy vấn logic xử lý đặc thù trong hệ thống bằng ngôn ngữ tự nhiên qua giao diện đồ thị",
+    "Tích hợp vào quy trình CI/CD để tự động cập nhật sơ đồ phụ thuộc khi code thay đổi"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý ticket Jira để tự động sinh documentation từ issue giải pháp",
+    "Ứng dụng trong điều hướng robot lai kết nối API qua đồ thị kiến thức",
+    "Tích hợp vào môi trường học máy để AI sinh mã tốt hơn dựa trên patterns nghiệp vụ đã học được"
+  ],
+  "stars": 71952,
+  "starsToday": 346,
+  "language": "TypeScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-08T13:47:33.743Z"
+}

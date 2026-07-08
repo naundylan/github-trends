@@ -1,0 +1,25 @@
+{
+  "id": "b509193b-397e-4575-8c5a-4252e1b3d661",
+  "repo": "SigNoz/signoz",
+  "url": "https://github.com/SigNoz/signoz",
+  "category": "Backend Framework",
+  "summary": "SigNoz là nền tảng quan sát (observability) mã nguồn mở native với OpenTelemetry, tích hợp logs, traces và metrics trong một ứng dụng duy nhất. Đây là giải pháp thay thế mã nguồn mở cho các công cụ như DataDog, NewRelic với khả năng hỗ trợ distributed tracing, tích hợp Prometheus và Jaeger.",
+  "usecases": [
+    "Các team DevOps triển khai hệ thống cloud-native cần giám sát hiệu suất ứng dụng theo thời gian thực",
+    "Công ty phần mềm nhỏ muốn thay thế các công cụ monitoring đắt tiền bằng giải pháp mã nguồn mở",
+    "Kỹ sư phần mềm cần debug và tối ưu hệ thống phức tạp với distributed tracing và correlation dữ liệu",
+    "Doanh nghiệp quan tâm self-hosted monitoring solution để kiểm soát dữ liệu và chi phí vận hành"
+  ],
+  "ideas": [
+    "Kết hợp AI/ML để dự đoán các sự cố hệ thống dựa trên phân tích xu hướng metrics và logs",
+    "Tích hợp với môi trường DevOps CI/CD để tự động hóa việc cảnh báo và gợi ý sửa lỗi theo thời gian thực",
+    "Ứng dụng công nghệ Augmented Reality cho phép kỹ sư trực quan hóa dữ liệu monitoring trên màn hình thực tế",
+    "Kết hợp blockchain để tạo distributed tracing bảo mật cho các giao dịch tài chính hoặc healthcare",
+    "Tích hợp với IoT platforms để giám sát quy mô hàng triệu thiết bị ở xa với độ trễ thấp"
+  ],
+  "stars": 28474,
+  "starsToday": 174,
+  "language": "TypeScript",
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-07-08T13:47:33.743Z"
+}

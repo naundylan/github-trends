@@ -1,0 +1,22 @@
+{
+  "id": "fa51eaf8-18d8-4822-859c-f494ca1d6129",
+  "repo": "Graphify-Labs/graphify",
+  "url": "https://github.com/Graphify-Labs/graphify",
+  "category": "AI Agent/Automation",
+  "summary": "Graphify là trợ lý AI tạo knowledge graph từ bất kỳ thư mục code nào, biến code, schema database, tài liệu thành đồ thị truy vấn được. Dự án kết hợp nhiều AI coding assistant như Claude Code, Cursor để phân tích toàn bộ hệ thống theo dõi liên quan.",
+  "usecases": [
+    "Kiến trúc viên phân tích hệ thống lớn với nhiều microservices cần mapping quan hệ",
+    "DevOps team quản lý infrastructure code và cấu hình hệ thống dưới dạng đồ thị",
+    "Nghiên cứu khoa học dữ liệu phức tạp cần truy vấn mối quan hệ giữa các biến nghiên cứu"
+  ],
+  "ideas": [
+    "Kết hợp với autonomous agents chạy continuously monitor và update knowledge graph tự động",
+    "Tích hợp vào môi trường quantum computing simulation để visualize quantum state relationships",
+    "Áp dụng vào smart city infrastructure với IoT sensors tạo real-time urban knowledge graphs"
+  ],
+  "stars": 80056,
+  "starsToday": 885,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T13:47:33.743Z"
+}

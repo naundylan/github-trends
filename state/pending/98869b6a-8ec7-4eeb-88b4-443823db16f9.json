@@ -1,0 +1,25 @@
+{
+  "id": "98869b6a-8ec7-4eeb-88b4-443823db16f9",
+  "repo": "anthropics/claude-code",
+  "url": "https://github.com/anthropics/claude-code",
+  "category": "AI Agent/Automation",
+  "summary": "Claude Code là một công cụ lập mã đa năng chạy trực tiếp trong terminal, hiểu mã nguồn và giúp người developers code nhanh hơn thông qua các lệnh ngôn ngữ tự nhiên. Công cụ này xử lý các tác vụ lặp lại, giải thích mã phức tạp và quản lý workflow git chỉ với vài câu lệnh.",
+  "usecases": [
+    "Lập trình viên muốn kiểm tra và sửa lỗi code nhanh chóng mà không cần mở IDE nặng nề",
+    "Team leader quản lý dự án lớn bằng cách sử dụng Claude Code để tạo các pull request tự động với mô tả chi tiết",
+    "Sinh viên học lập trình nhận được sự trợ giúp chi tiết về cách giải thích từng đoạn code một cách tinh vi",
+    "Nhà phát triển API sử dụng Claude Code để tự động tạo và chỉnh sửa tài liệu OpenAPI theo thời gian thực"
+  ],
+  "ideas": [
+    "Tích hợp Claude Code vào các môi trường CI/CD như GitHub Actions để tự động review và merge code",
+    "Tạo ra phiên bản CLI 'Claude CLI Pro' dành cho các nhà phát triển hệ thống chuyên sâu cần kiểm soát tài nguyên",
+    "Kết hợp với các công cụ như Docker và Kubernetes để Claude Code có khả năng triển khai ứng dụng theo yêu cầu",
+    "Phát triển chế độ 'imposter mode' cho phép người dùng điều khiển nhiều instances của Claude Code đồng thời",
+    "Ứng dụng vào mục làm chủ nhà bán hàng số bằng cách tích hợp với các nền tảng như Shopify để quản lý cửa hàng tự động"
+  ],
+  "stars": 136839,
+  "starsToday": 202,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T13:47:33.743Z"
+}

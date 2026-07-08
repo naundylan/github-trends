@@ -1,0 +1,24 @@
+{
+  "id": "76ee6fe9-907d-42f1-9bac-3ce2240700c1",
+  "repo": "microsoft/SkillOpt",
+  "url": "https://github.com/microsoft/SkillOpt",
+  "category": "AI Agent/Automation",
+  "summary": "SkillOpt là công cụ tối ưu hóa kỹ năng tự học cho LLM agents, sử dụng kỹ thuật chỉnh sửa theo quy trình (trajectory-driven edits) và cập nhật được xác thực để tạo ra các kỹ năng tái sử dụng. Dự án giúp các agent phát triển và tinh chỉnh bản thân qua các tương tác thực tế, đồng thời xuất phát các tài liệu kỹ năng tốt nhất dưới dạng tệp best_skill.md.",
+  "usecases": [
+    "Nhà phát triển phần mềm sử dụng SkillOpt để đào tạo các AI agent tự học những quy trình code phức tạp trong dự án của công ty",
+    "Công ty phần mềm nhỏ muốn triển khai hệ thống hỗ trợ lập trình viên dựa trên AI mà không cần can thiệp thủ công nhiều",
+    "Nghiên cứu viên áp dụng SkillOpt để nghiên cứu sự phát triển ngang của các agent AI trong môi trường đa nhiệm",
+    "Team DevOps sử dụng các kỹ năng được SkillOpt tạo ra để tự động hóa các quy trình triển khai và quản lý hạ tầng"
+  ],
+  "ideas": [
+    "Kết hợp SkillOpt với các IDE như VS Code để tạo ra các 'kỹ năng' biến dịch trực tiếp thành macro khi code",
+    "Ứng dụng vào thị trường NFT để tạo ra các 'kỹ năng thông minh' cho các bot giao dịch tự động trên blockchain",
+    "Tích hợp với hệ thống ERP để các AI agent tự học và tối ưu hóa các quy trình kinh doanh nội bộ",
+    "Phát triển mô hình 'cộng đồng các kỹ năng' nơi các agent chia sẻ và hợp tác các kỹ năng đã học được"
+  ],
+  "stars": 11587,
+  "starsToday": 261,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-08T13:47:33.743Z"
+}
