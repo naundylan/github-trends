@@ -1,0 +1,24 @@
+{
+  "id": "f1e2b59f-5961-4c6f-984c-16b9f8ec9f37",
+  "repo": "stablyai/orca",
+  "url": "https://github.com/stablyai/orca",
+  "category": "AI Agent/Automation",
+  "summary": "Môi trường phát triển và chạy agent đa phương thức (ADE - Agent Development Environment) cho phép điều phối hàng trăm AI agents song song với subscription cá nhân. Hỗ trợ chạy trên cả desktop và mobile với khả năng orchestration phức tạp cho công việc lập trình và nghiên cứu.",
+  "usecases": [
+    "Software engineer chạy đồng thời hàng chục agent để làm nhiệm vụ code review, bug fix, và tối ưu hóa",
+    "Research team điều phối agent phân tích dữ liệu lớn từ nhiều nguồn khác nhau cùng lúc",
+    "DevOps team triển khai agent monitoring hệ thống chạy 24/7 trên cloud infrastructure",
+    "Product manager sử dụng agent swarm để thu thập và phân tích ý kiến khách hàng từ nhiều kênh"
+  ],
+  "ideas": [
+    "Tạo môi trường enterprise agent orchestra dùng chung cho toàn công ty",
+    "Kết hợp với quantum computing simulation chạy agent tìm solution tối ưu",
+    "Xây dựng AI government assistant điều phối hàng ngàn chính sách tự động dựa trên dữ liệu thời gian thực",
+    "Tích hợp vào mỗi nhà máy sản xuất robot lao động tự học tối ưu hóa quy trình sản xuất"
+  ],
+  "stars": 14699,
+  "starsToday": 804,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-09T11:51:03.358Z"
+}

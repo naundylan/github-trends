@@ -1,0 +1,24 @@
+{
+  "id": "213302a0-9a31-4f0d-b7d1-cec165f76031",
+  "repo": "openai/codex",
+  "url": "https://github.com/openai/codex",
+  "category": "AI Agent/Automation",
+  "summary": "Agent coding nhẹ biết chạy trực tiếp trong terminal, nhận lệnh từ người dùng để tạo và sửa code. Được xây dựng trên nền tảng Rust với hiệu suất cao, hỗ trợ nhiều ngôn ngữ lập trình. Codex đặc biệt hữu ích cho việc tự động hóa quy trình phát triển phần mềm.",
+  "usecases": [
+    "Lập trình viên nhanh chóng tạo prototype từ ý tưởng để demo khách hàng",
+    "Team QA tự động generate test cases từ đặc điều khoản chức năng",
+    "Ủy ban phần mềm tự động fix bug dựa trên log hệ thống",
+    "Giáo dục lập trình tiếng Việt với trợ lý AI hiểu ngôn ngữ con người"
+  ],
+  "ideas": [
+    "Kết nối với hệ thống CI/CD để triển khai tự động hoá hoàn chỉnh",
+    "Tích hợp phân tâm blockchain để lưu trữ và chia sẻ mã nguồn minh bạch",
+    "Sử dụng quantum computing để tối ưu thuật toán machine learning",
+    "Phát triển hệ thống AI agent chuyên sâu theo ngành nghề cụ thể"
+  ],
+  "stars": 96505,
+  "starsToday": 287,
+  "language": "Rust",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-09T11:51:03.358Z"
+}

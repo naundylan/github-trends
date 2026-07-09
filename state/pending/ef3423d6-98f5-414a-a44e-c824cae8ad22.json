@@ -1,0 +1,24 @@
+{
+  "id": "ef3423d6-98f5-414a-a44e-c824cae8ad22",
+  "repo": "SmartlyDressedGames/U3-SDK",
+  "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+  "category": "Game Engine",
+  "summary": "SDK nguồn mở cho game Unturned - một tựa game sống sót zombie thế giới mở miễn phí. Dự án cung cấp các công cụ phát triển và API cho người chơi và nhà phát triển tạo mod, server tùy chỉnh. Điểm nổi bật là kiến trúc plugin mở rộng cho phép cộng đồng dễ dàng thêm tính năng mới.",
+  "usecases": [
+    "Nhà phát triển game tạo mod mới cho Unturned như xe hơi, vũ khí mở rộng",
+    "Quản trị server tạo game với các tính năng tùy chỉnh như thử nghiệm PvP/PvE",
+    "Sinh viên học về kiến trúc game và phát triển hệ thống multiplayer",
+    "Cộng đồng game xây dựng server riêng với nội dung độc đáo"
+  ],
+  "ideas": [
+    "Kết hợp với AI để tạo NPC săn mồi thông minh trong game",
+    "Tích hợp blockchain cho phép trao đổi vũ khí và tài sản trong game",
+    "Sử dụng AR/VR để tạo trải nghiệm sống sót thực tế hơn",
+    "Phát triển hệ thống server tự động cân bằng tải cho hàng ngàn người chơi"
+  ],
+  "stars": 1739,
+  "starsToday": 541,
+  "language": "C#",
+  "notePath": "notes/Game-Engine.md",
+  "createdAt": "2026-07-09T11:51:03.358Z"
+}

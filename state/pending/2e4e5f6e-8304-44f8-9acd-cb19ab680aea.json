@@ -1,0 +1,23 @@
+{
+  "id": "2e4e5f6e-8304-44f8-9acd-cb19ab680aea",
+  "repo": "wealthfolio/wealthfolio",
+  "url": "https://github.com/wealthfolio/wealthfolio",
+  "category": "Desktop App",
+  "summary": "Ứng dụng theo dõi tài chính cá nhân hoàn toàn local-first chạy trên macOS với hiệu suất cao nhờ Rust. Cho phép theo dõi đầu tư, tính lại tài sản ròng và mô phỏng các kế hoạch tài chính cá nhân.",
+  "usecases": [
+    "Cá nhân cá nhân theo dõi tài chính cá nhân riêng tư mà không cần đăng nhập cloud",
+    "Nhà đầu tư muốn quản lý danh mục đầu tư và tính toán lợi nhuận một cách chính xác",
+    "Gia đình cùng nhau quản lý chi tiêu và mục tiêu tài chính dài hạn"
+  ],
+  "ideas": [
+    "Kết hợp với các ứng dụng budgeting khác để đồng bộ hóa dữ liệu chi tiêu tự động",
+    "Thêm tính năng theo dõi đầu tư crypto và NFT trong cùng giao diện",
+    "Tích hợp AI planning tài chính cá nhân hóa dựa trên thói quen chi tiêu",
+    "Mở rộng sang ứng dụng mobile để theo dõi tài chính mọi lúc mọi nơi"
+  ],
+  "stars": 8031,
+  "starsToday": 201,
+  "language": "Rust",
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-07-09T11:51:03.359Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "1785cc51-db2d-4135-90f2-d729ee94b932",
+  "repo": "imthenachoman/How-To-Secure-A-Linux-Server",
+  "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+  "category": "Security/Pentest",
+  "summary": "Hướng dẫn thực hành chi tiết về việc bảo mật server Linux với các bước khửng khích cụ thể. Tài liệu hướng dẫn từng bước giúp sysadmin và developer tự tin triển khai hệ thống an toàn. Cập nhật liên tục với các phương pháp bảo mật mới nhất.",
+  "usecases": [
+    "Doanh nghiệp triển khai server production cần bảo mật cao tại Việt Nam",
+    "Nhà phát triển freelance thiết lập máy chủ cá nhân an toàn cho khách hàng",
+    "Giảng viên đại học giảng dạy môn bảo mật hệ thống thông tin",
+    "Công ty hosting cung cấp dịch vụ căn cứm server theo tiêu chuẩn an toàn"
+  ],
+  "ideas": [
+    "Tích hợp AI phát hiện xuất phát báo động an năng thời gian thực",
+    "Kết hợp zero-trust architecture cho người dùng di động",
+    "Sử dụng homomorphic encryption cho phép truy vấn dữ liệu đã mã hóa",
+    "Phát triển container security mesh tích hợp với Kubernetes"
+  ],
+  "stars": 28814,
+  "starsToday": 399,
+  "language": "",
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-07-09T11:51:03.358Z"
+}

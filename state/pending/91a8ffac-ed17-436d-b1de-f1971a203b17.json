@@ -1,0 +1,23 @@
+{
+  "id": "91a8ffac-ed17-436d-b1de-f1971a203b17",
+  "repo": "roboflow/supervision",
+  "url": "https://github.com/roboflow/supervision",
+  "category": "Computer Vision",
+  "summary": "Thư viện công cụ computer vision được ghi nhận quốc tế với API đơn giản cho phép phát hiện, phân đoạn và theo dõi đối tượng. Hỗ trợ đầu vào/output từ nhiều framework như PyTorch, TensorFlow và các định dạng dữ liệu chuẩn.",
+  "usecases": [
+    "Data scientist và machine learning engineer xây dự trữ các mô hình object detection và segmentation",
+    "Developer tích hợp các tính năng computer vision vào ứng dụng web/mobile một cách nhanh chóng",
+    "Nghiên cứu viên làm việc với video analytics và đo lường hiệu suất các mô hình CV"
+  ],
+  "ideas": [
+    "Kết hợp với công nghệ AR/VR để tạo trải nghiệm thực tế tăng cường (AR) với dữ liệu vision",
+    "Ứng dụng trong giám sát an ninh thông minh với khả năng phân tích video trực tuyến theo thời thật",
+    "Tích hợp vào drone để thực hiện các nhiệm vụ giám sát môi trường và khảo cổ học",
+    "Sử dụng cho hệ thống chẩn đoán y tế dựa trên hình ảnh với độ chính xác cao"
+  ],
+  "stars": 47488,
+  "starsToday": 209,
+  "language": "Python",
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-07-09T11:51:03.359Z"
+}

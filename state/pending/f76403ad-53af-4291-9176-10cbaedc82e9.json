@@ -1,0 +1,24 @@
+{
+  "id": "f76403ad-53af-4291-9176-10cbaedc82e9",
+  "repo": "jamiepine/voicebox",
+  "url": "https://github.com/jamiepine/voicebox",
+  "category": "AI/LLM",
+  "summary": "Nền tảng studio clone và tạo giọng nói AI hoàn toàn mở nguồn sử dụng công nghệ TTS tiên tiến. Cho phép người dùng clone giọng nói cá nhân, tạo voice mới từ văn bản, và xây dựng hệ thống voice agent cho các ứng dụng từ podcast đến trợ lý thông minh.",
+  "usecases": [
+    "Podcaster cá nhân hóa giọng đọc sách/tin tức cho khách hàng nói riêng với voice riêng",
+    "Game developer tạo lời thoại cho NPC trong game với nhiều tông giọng khác nhau",
+    "Content creator sản xuất video kết hợp voiceover chuyên nghiệp mà không cần diễn giả",
+    "Accessibility team tạo giọng đọc cho ứng dụng đọc blind text với tinh thần cảm động"
+  ],
+  "ideas": [
+    "Kết hợp với AI video generation để tạo hoàn chỉnh phim trường từ script viết bằng tiếng Việt",
+    "Xây dựng hệ thống voice marketplace nơi người dùng bank giọng nói chất lượng cao",
+    "Tích hợp vào xe tự lái tạo giọng đọc giao thông thông minh phản ứng thời gian thực",
+    "Tạo AI companion có khả năng điều chỉnh tông điệu giọng nói dựa trên mood và context trò chuyện"
+  ],
+  "stars": 39605,
+  "starsToday": 993,
+  "language": "TypeScript",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-09T11:51:03.358Z"
+}

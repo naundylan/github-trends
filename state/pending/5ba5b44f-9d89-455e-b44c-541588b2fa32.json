@@ -1,0 +1,23 @@
+{
+  "id": "5ba5b44f-9d89-455e-b44c-541588b2fa32",
+  "repo": "can1357/oh-my-pi",
+  "url": "https://github.com/can1357/oh-my-pi",
+  "category": "AI Agent/Automation",
+  "summary": "Một agent AI coding tích hợp trong terminal với khả năng chỉnh sửa mã dựa trên hash, hỗ trợ hoàn chỉnh mã (LSP), đa ngôn ngữ lập trình và tích hợp trình duyệt. Dự án sử dụng Rust cho hiệu suất cao và hỗ trợ nhiều nhà cung cấp LLM như OpenAI và Claude.",
+  "usecases": [
+    "Developer sử dụng để tự động hóa việc viết và sửa code trong quy trình phát triển hàng ngày",
+    "Team nhỏ muốn tích hợp AI assistant vào workflow coding mà không cần thiết lập môi trường phức tạp",
+    "Người học lập trình dùng để nhận trợ giúp trực tiếp trong terminal khi gặp vấn đề code"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống CI/CD để AI tự động review và sửa lỗi code trước khi merge",
+    "Tích hợp vào trình soạn thảo mã nguồn như VS Code để AI thao tác trực quan trên codebase",
+    "Mở rộng thành hệ thống AI assistant chuyên sâu cho từng ngôn ngữ lập trình riêng biệt",
+    "Ứng dụng cho quản lý và vận hành hệ thống production qua terminal bằng AI"
+  ],
+  "stars": 16913,
+  "starsToday": 246,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-09T11:51:03.358Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "fe3c0bc6-9311-4975-a139-2b926eb13b2c",
+  "repo": "stablyai/orca",
+  "url": "https://github.com/stablyai/orca",
+  "category": "AI Agent/Automation",
+  "summary": "Môi trường phát triển agent đa phương thức cho phép chạy nhiều AI agents song song với khả năng orchestration phức tạp. Hỗ trợ chạy trên cả desktop và mobile với các subscription plan linh hoạt cho công việc lập trình và nghiên cứu.",
+  "usecases": [
+    "CTO chạy agent swarm xây dựng sản phẩm mới từ ý tưởng đến code hoàn chỉnh",
+    "Data scientist điều phối agent phân tích big data từ nhiều nguồn API cùng lúc",
+    "Security team dùng agent săn tìm vulnerability trên hệ thống 24/7",
+    "Academic researcher nhân bản experiment nghiên cứu với hàng ngàn config khác nhau"
+  ],
+  "ideas": [
+    "Tạo AI CEO tự điều phối công ty chạy bằng hàng ngàn agent chuyên nghiệm",
+    "Kết hợp với satellite AI xuất phát lệnh canh giới biển bằng agent swarm",
+    "Xây dựng hệ thống agent giám sát thành phố thông minh điều phối giao thông thời gian thực",
+    "Tích hợp vào robot quân sự tự học hệ thống và điều phối chiến thuật hoàn toàn AI"
+  ],
+  "stars": 14699,
+  "starsToday": 804,
+  "language": "TypeScript",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-09T11:51:03.358Z"
+}

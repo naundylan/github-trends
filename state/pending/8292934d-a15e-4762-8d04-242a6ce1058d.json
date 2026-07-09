@@ -1,0 +1,24 @@
+{
+  "id": "8292934d-a15e-4762-8d04-242a6ce1058d",
+  "repo": "VoltAgent/awesome-design-md",
+  "url": "https://github.com/VoltAgent/awesome-design-md",
+  "category": "UI/Component Library",
+  "summary": "Một bộ sưu tập các file DESIGN.md phân tích chi tiết từ các hệ thống thiết kế nổi tiếng của thương hiệu. Người dùng có thể copy trực vào dự án để AI agents tạo giao diện phù hợp với design system của brand, đơn giản hóa việc duy trì tính nhất quán và tăng tốc độ phát triển giao diện người dùng.",
+  "usecases": [
+    "UI/UX designer muốn tham khảo thiết kế chuẩn từ Google, Apple, hay Microsoft để tạo giao diện đồng nhất bối cảnh",
+    "Frontend developer dùng AI coding tool generate components theo design system đã có sẵn từ brand",
+    "Team product phát triển landing page cần match với brand guidelines một cách nhanh chóng và chính xác",
+    "QA engineer kiểm tra giao diện có tuân thủ design tokens và system design nhất quán không"
+  ],
+  "ideas": [
+    "Tích hợp trực tiếp vào GitHub Copilot và các AI coding assistant để tự động suggest design tokens khi viết code",
+    "Kết hợp với Figma API để động bộ hóa design system từ file thiết kế thành code components",
+    "Tạo AI agent chuyên phân tích competitor design và đề xuất improvements dựa trên design patterns hiện tại",
+    "Xây dựng hệ thống generate hoàn chỉnh landing page từ DESIGN.md chỉ với 1 câu lệnh prompt"
+  ],
+  "stars": 99003,
+  "starsToday": 1569,
+  "language": "",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-09T11:51:03.358Z"
+}

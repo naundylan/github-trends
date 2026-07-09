@@ -1,0 +1,25 @@
+{
+  "id": "38fd9f41-e60e-42d5-8294-4e22d4944246",
+  "repo": "unclecode/crawl4ai",
+  "url": "https://github.com/unclecode/crawl4ai",
+  "category": "Data Engineering/ETL",
+  "summary": "Crawl4AI là một crawler và scraper mã nguồn mở, được thiết kế đặc biệt thân thiện với các mô hình ngôn ngữ lớn (LLM). Dự án giúp việc thu thập và xử lý dữ liệu web trở nên đơn giản và hiệu quả hơn, đặc biệt là cho các ứng dụng trí tuệ nhân tạo. Với khả năng xử lý phức tạp và tích hợp tốt, Crawl4AI là công cụ thiết yếu trong hệ sinh thái dữ liệu hiện đại.",
+  "usecases": [
+    "Nhà phân tích dữ liệu sử dụng để thu thập dữ liệu từ web cho mục đích phân tích và báo cáo.",
+    "Nhà phát triển AI và kỹ sư dữ liệu dùng để xây dựng hệ thống crawl dữ liệu cho huấn luyện mô hình ngôn ngữ lớn.",
+    "Các công ty thương mại điện tử áp dụng để theo dõi và thu thập dữ liệu giá cả sản phẩm từ các trang web cạnh tranh.",
+    "Nghiên cứu sinh và nhà nghiên cứu sử dụng để thu thập tài liệu nghiên cứu từ các trang web chuyên ngành."
+  ],
+  "ideas": [
+    "Kết hợp với Model Context Protocol (MCP) để tạo thành một hệ sinh thái crawl mô-đun và dễ mở rộng.",
+    "Tích hợp với các agent AI để xây dựng hệ thống tự động crawl và trả lời câu hỏi dựa trên dữ liệu thực vào.",
+    "Ứng dụng trong hệ thống theo dõi thông tin thời sự theo thời thực để cập nhật tin tức một cách liên tục và thông minh.",
+    "Kết hợp với công nghệ RAG (Retrieval-Augmented Generation) để xây dựng chatbot kiến thông với khả năng truy xuất thông tin từ web.",
+    "Sử dụng trong giám sát thị trường tài chính để phát hiện và phân tích xu hướng thay đổi giá cả và thông tin thị trường một cách tự động."
+  ],
+  "stars": 71602,
+  "starsToday": 195,
+  "language": "Python",
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-07-09T11:51:03.359Z"
+}
