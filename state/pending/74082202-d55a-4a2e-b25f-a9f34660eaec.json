@@ -1,0 +1,22 @@
+{
+  "id": "74082202-d55a-4a2e-b25f-a9f34660eaec",
+  "repo": "jingyaogong/minimind",
+  "url": "https://github.com/jingyaogong/minimind",
+  "category": "AI/LLM",
+  "summary": "Minismind là một dự án mô phỏng hoàn toàn từ đầu để đào tạo mô hình LLM 64M tham số chỉ trong 2 tiếng đồng hồ. Mô hình này chứng minh khả năng xây dựng một LLM hoàn chỉnh với dung lượng nhỏ nhưng vẫn giữ được khả năng hiểu và tạo văn bản chất lượng cao, phù hợp cho các thiết bị cá nhân và môi trường có tài nguyên giới hạn.",
+  "usecases": [
+    "Giáo viên dùng để giảng dạy về cơ bản của AI và machine learning",
+    "Nhà phát triển ứng dụng di động cần model nhỏ để chạy trên thiết bị",
+    "Nghiên cứu viên muốn nghiên cứu các phương pháp đào tạo mô hình hiệu quả"
+  ],
+  "ideas": [
+    "Kết hợp với TensorFlow Lite để chạy trên smartphone",
+    "Ứng dụng vào các thiết bị IoT như camera thông minh nhận diện",
+    "Tích hợp với các hệ thống edge AI để tạo mạng lưới machine learning phân tán"
+  ],
+  "stars": 53042,
+  "starsToday": 149,
+  "language": "Python",
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-07-09T06:38:16.279Z"
+}

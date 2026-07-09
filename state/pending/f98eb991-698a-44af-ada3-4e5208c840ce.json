@@ -1,0 +1,22 @@
+{
+  "id": "f98eb991-698a-44af-ada3-4e5208c840ce",
+  "repo": "huxingyi/autoremesher",
+  "url": "https://github.com/huxingyi/autoremesher",
+  "category": "Game Dev",
+  "summary": "Autoremesher là công cụ tự động hóa quá trình tạo lưới bề mặt (quad remeshing) cho mô hình 3D, giúp chuyển đổi các mô hình sạch nhưng không phù hợp cho game (ví dụ: mô hình scan từ máy ảnh 3D) thành lưới quad nhất quán, tối ưu cho án phát sáng và animation. Công cụ giúp tiết kiệm thời gian cho nghệ sĩ 3D trong việc xây dựng nội dung game.",
+  "usecases": [
+    "Nghệ sĩ 3D trong studio game cần làm sạch hàng ngàn mô hình Scan để tích hợp vào trò chơi",
+    "Nhà phát triển indie muốon có mô hình 3D nhưng không có kỹ năng chỉnh sửa lưới phức tạp",
+    "Công ty kiến trúc muốn tạo hệ thống tự động làm sạch mô hình 3D thiết kế để xuất ra file dùng được cho visualization"
+  ],
+  "ideas": [
+    "Tích hợp vào pipeline AI generate 3D như DreamShape hoặc Magic3D để tự động tạo lưới chất lượng cao sau khi sinh mô hình",
+    "Kết hợp với Unreal Engine để tạo plugin cho phép importer bất kỳ file nào và tự động remesh trước khi render",
+    "Phát triển thành dịch vụ web cho người chơi game không chuyên về 3D, giúp họ dễ dàng custom nhân vật bằng hình ảnh cá nhân"
+  ],
+  "stars": 2103,
+  "starsToday": 296,
+  "language": "C++",
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-07-09T06:38:16.279Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f5eecec9-8e5e-4f2f-b433-d4234d259eca",
+  "repo": "SigNoz/signoz",
+  "url": "https://github.com/SigNoz/signoz",
+  "category": "DevOps/CI-CD",
+  "summary": "SigNoz là nền tảng quan sát (observability) mã nguồn mở native OpenTelemetry, tích hợp logs, traces và metrics vào một ứng dụng duy nhất. Đây là giải pháp thay thế hoàn toàn cho DataDog và NewRelic, hỗ trợ triển khai tự lưu (self-hosted) và phù hợp với kiến trúc phân tán.",
+  "usecases": [
+    "Sử dụng bởi các nhà phát triển phần mềm để giám sát ứng dụng web microservices, giúp xác định và sửa lỗi sự cố trong hệ thống phân tán",
+    "Triển khai cho doanh nghiệp self-hosted nhằm theo dõi hiệu suất hệ thống một cách tích hợp, thay vì sử dụng dịch vụ cloud độc lập nhiều nền tảng",
+    "Ứng dụng trong môi trường DevOps pipeline để đo lường và tối ưu hóa quy trình triển khai ứng dụng một cách tự động",
+    "Sử dụng bởi team SRE (Site Reliability Engineering) để duy trì tính sẵn sàng và hiệu suất hệ thống theo thời gian thực"
+  ],
+  "ideas": [
+    "Kết hợp AI/ML để dự đoán các sự cố hệ thống dựa trên phân tích tiêu chuẩn và hành vi lịch sử từ logs, metrics",
+    "Tích hợp vào môi trường quantum computing để theo dõi trạng thái và hiệu quả của các thuật toán quantum chạy trên cloud",
+    "Ứng dụng trong hệ thống nhúng IoT để giám sát hoạt động của hàng tỷ thiết bị với độ trễ thấp bằng công nghệ edge computing",
+    "Kết hợp blockchain để lưu trữ và chứng thực logs một cách bảo mật, tạo ra chuỗi khung (audit trail) không thể chỉnh sửa cho quy trình tuân thủ",
+    "Sử dụng làm nền tảng giám sát trong metaverse, theo dõi hiệu suất hệ thống VR/AR toàn cầu với hàng ngàn người dùng đồng thời"
+  ],
+  "stars": 28530,
+  "starsToday": 107,
+  "language": "TypeScript",
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-07-09T06:38:16.279Z"
+}

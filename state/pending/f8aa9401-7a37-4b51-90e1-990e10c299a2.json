@@ -1,0 +1,24 @@
+{
+  "id": "f8aa9401-7a37-4b51-90e1-990e10c299a2",
+  "repo": "yt-dlp/yt-dlp",
+  "url": "https://github.com/yt-dlp/yt-dlp",
+  "category": "CLI Tool",
+  "summary": "yt-dlp là một công cụ tải về command-line đa năng để tải âm thanh và video từ hàng trăm trang web khác nhau. Với khả năng hỗ trợ các tính năng nâng cao như SponsorBlock, subtitle extraction và format selection linh hoạt, yt-dlp vượt trội so với các công cụ tải video thông thường nhờ khả năng cập nhật liên tục và kiến trúc plugin mở rộng.",
+  "usecases": [
+    "Giáo viên tải video YouTube để xem offline trong phòng có mạng yếu",
+    "Người sáng tạo nội dung cần backup video gốc trước khi chỉnh sửa",
+    "Nhà nghiên cứu khoa học muốn tải loạt video thuyết trình để phân tích nội dung",
+    "Ứng dụng mobile cần chức năng tải trước video để xem trong chuyến đi du lịch"
+  ],
+  "ideas": [
+    "Kết hợp với AI transcription để tạo file văn bản tự động đi kèm video",
+    "Tích hợp vào smart mirror system để hiển thị video được đề xuất dựa trên thời gian và ngày",
+    "Xây dựng hệ thống archive tự động cho podcast bằng cách tải về và chuyển đổi sang định dạng chuẩn",
+    "Phát triển chế độ offline-first với khả năng đồng bộ nội dung khi có mạng"
+  ],
+  "stars": 176550,
+  "starsToday": 488,
+  "language": "Python",
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-07-09T06:38:16.279Z"
+}

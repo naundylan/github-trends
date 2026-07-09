@@ -6,7 +6,7 @@
   },
   "obra/superpowers": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-02"
   },
   "tt-a1i/archify": {
@@ -41,12 +41,12 @@
   },
   "TencentCloud/CubeSandbox": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-02"
   },
   "ogulcancelik/herdr": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-02"
   },
   "usestrix/strix": {
@@ -96,7 +96,7 @@
   },
   "Zackriya-Solutions/meetily": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-03"
   },
   "openai/codex-plugin-cc": {
@@ -116,7 +116,7 @@
   },
   "asgeirtj/system_prompts_leaks": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-04"
   },
   "agentskills/agentskills": {
@@ -141,17 +141,17 @@
   },
   "pbakaus/impeccable": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-04"
   },
   "coreyhaines31/marketingskills": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-04"
   },
   "Leonxlnx/taste-skill": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-05"
   },
   "CoplayDev/unity-mcp": {
@@ -176,7 +176,7 @@
   },
   "bradautomates/claude-video": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-05"
   },
   "karpathy/nanoGPT": {
@@ -186,7 +186,7 @@
   },
   "mvanhorn/last30days-skill": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-05"
   },
   "openclaw/openclaw": {
@@ -201,12 +201,12 @@
   },
   "ruvnet/RuView": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-06"
   },
   "alirezarezvani/claude-skills": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-06"
   },
   "steipete/CodexBar": {
@@ -261,12 +261,12 @@
   },
   "iOfficeAI/OfficeCLI": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-07"
   },
   "kyutai-labs/pocket-tts": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-07"
   },
   "anthropics/skills": {
@@ -276,7 +276,7 @@
   },
   "TencentCloud/TencentDB-Agent-Memory": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-07"
   },
   "n8n-io/n8n": {
@@ -291,7 +291,7 @@
   },
   "tonhowtf/omniget": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-07"
   },
   "t8y2/dbx": {
@@ -301,52 +301,102 @@
   },
   "addyosmani/agent-skills": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-08"
   },
   "decolua/9router": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-08"
   },
   "byoungd/up": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-08"
   },
   "fastapi/fastapi": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-08"
   },
   "NVIDIA/SkillSpector": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-08"
   },
   "dream-num/univer": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-08"
   },
   "charmbracelet/crush": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-08"
   },
   "vxcontrol/pentagi": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-08"
   },
   "tinyhumansai/openhuman": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-08"
   },
   "rustdesk/rustdesk": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
     "last_saved": "2026-07-08"
+  },
+  "alibaba/zvec": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "last_saved": "2026-07-09"
+  },
+  "Diolinux/PhotoGIMP": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "last_saved": "2026-07-09"
+  },
+  "huxingyi/autoremesher": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "last_saved": "2026-07-09"
+  },
+  "jingyaogong/minimind": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "last_saved": "2026-07-09"
+  },
+  "microsoft/SkillOpt": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "last_saved": "2026-07-09"
+  },
+  "anthropics/claude-code": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "last_saved": "2026-07-09"
+  },
+  "Graphify-Labs/graphify": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "last_saved": "2026-07-09"
+  },
+  "yt-dlp/yt-dlp": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "last_saved": "2026-07-09"
+  },
+  "SigNoz/signoz": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "last_saved": "2026-07-09"
+  },
+  "Egonex-AI/Understand-Anything": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "last_saved": "2026-07-09"
   }
 }

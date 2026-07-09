@@ -1,0 +1,24 @@
+{
+  "id": "e1723632-8f5b-4bde-95dc-53370eedeee9",
+  "repo": "Graphify-Labs/graphify",
+  "url": "https://github.com/Graphify-Labs/graphify",
+  "category": "AI Agent/Automation",
+  "summary": "Graphify là một trợ lý lập code AI biến mọi thư mục code, schema cơ sở dữ liệu và tài liệu thành một đồ thị tri thức queryable. Dự án kết hợp nhiều công nghệ như Claude Code, Codex, và tree-sitter để phân tích cấu trúc mã nguồn, schema CSDL và tài liệu, tạo thành một hệ thống truy vấn thông minh phục vụ cho việc hiểu và quản lý kiến thức phức tạp trong dự án.",
+  "usecases": [
+    "Kỹ sư dịch vụ cần hiểu nhanh kiến trúc hệ thống lớn với hàng triệu dòng code",
+    "Nhà phân tích dữ liệu muốn truy vấn mối quan hệ giữa các bảng CSDL và stored procedures",
+    "AI researcher cần tài liểm tấn nghiên cứu với các paper và mã nguồn liên quan",
+    "Team lead muốn tạo knowledge base tự động cho dự án mã nguồn mở hàng ngàn module"
+  ],
+  "ideas": [
+    "Kết hợp với autonomous coding agents để tự động sửa lỗi dựa trên phân tích đồ thị lỗi phát sinh",
+    "Tích hợp vào môi trường DevOps để tạo impact analysis tự động khi code thay đổi",
+    "Xây dựng hệ thống AI agent chuyên sâu từng domain (finance, healthcare, gaming) với knowledge graph riêng",
+    "Phát triển khả năng dự đoán technical debt dựa trên phân tích mối quan hệ module trong đồ thị"
+  ],
+  "stars": 80645,
+  "starsToday": 856,
+  "language": "Python",
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-07-09T06:38:16.279Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "267368e2-3309-404b-aafc-de135ca4f6e2",
+  "repo": "alibaba/zvec",
+  "url": "https://github.com/alibaba/zvec",
+  "category": "Database",
+  "summary": "ZVec là một cơ sở dữ liệu vector nhẹ và nhanh chạy ngay trong tiến trình, sử dụng các thuật toán FAISS và HNSW để thực hiện tìm kiếm gần đúng (approximate nearest neighbor) với độ trễ thấp. Dự án giải quyết vấn đề cần lưu trữ và truy vấn vector nhúng từ LLM mà không cần triển khai server riêng, phù hợp cho các ứng dụng RAG đặt trong một tiến trình.",
+  "usecases": [
+    "Nhà phát triển tích hợp tính năng semantic search vào ứng dụng desktop hay mobile bằng ngôn ngữ C++, không cần setup server vector database",
+    "Kỹ sư phát triển hệ thống agent AI cần lưu trữ và truy xuất ký ức ngữ cảnh (LLM memory) một cách nhanh chóng trong quá trình chạy",
+    "Công ty phần mềm nhỏ muốn triển khai hệ thống Q&A nội bộ dựa trên tài liệu đã biết mà không tốn chi phí vận duyệt server"
+  ],
+  "ideas": [
+    "Kết hợp ZVec với Ollama để tạo hệ thống RAG chạy hoàn toàn ngoại tuyến trên thiết bị người dùng cuối",
+    "Sử dụng ZVec làm memory layer cho các agent tự học tiếp trong môi trường công việc (workspace memory for AI agents)",
+    "Áp dụng vào trò chơi indie để lưu trữ và tìm kiếm nội dung thoại không vào sẵn dựa trên ngữ cảnh player"
+  ],
+  "stars": 14528,
+  "starsToday": 395,
+  "language": "C++",
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-07-09T06:38:16.279Z"
+}

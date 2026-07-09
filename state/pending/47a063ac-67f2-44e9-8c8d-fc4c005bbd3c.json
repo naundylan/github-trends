@@ -1,0 +1,24 @@
+{
+  "id": "47a063ac-67f2-44e9-8c8d-fc4c005bbd3c",
+  "repo": "Diolinux/PhotoGIMP",
+  "url": "https://github.com/Diolinux/PhotoGIMP",
+  "category": "UI/Component Library",
+  "summary": "PhotoGIMP là một bộ mod giao diện và công cụ giúp người dùng chuyển đổi dễ dàng từ Photoshop sang GIMP. Gói này thay đổi giao diện, bàn tay công cụ và sửa đổi các tính năng chính để phản áp hành vi quen thuộc của người dùng Photoshop, đơn giản hóa quá trình học tập và sử dụng GIMP cho những ai đã quen thuộc với Photoshop.",
+  "usecases": [
+    "Nhiếp ảnh gia chuyển từ Photoshop sang GIMP để tiết kiệm chi phí sử dụng",
+    "Sinh viên học thiết kế đồ họa muốn thử nghiệm GIMP mà không cần học lại từ đầu",
+    "Công ty nhỏ tìm giải pháp thay thế Photoshop với chi phí thấp hơn",
+    "Người dùng Linux muốn có trải nghiệm chỉnh sửa ảnh tương tự Photoshop trên nền tảng mở"
+  ],
+  "ideas": [
+    "Kết hợp với các plugin AI như Stable Diffusion để tạo khung công cụ chỉnh sửa ảnh hoàn chỉnh miễn phí",
+    "Phát triển phiên bản tương ứng cho Krita và Paint.NET nhằm tạo tiết môi trường chuyển đổi liền mạch",
+    "Tích hợp smarthome control để điều chỉnh giao diện dựa trên thiết lập màu sắc phòng trên điện thoại",
+    "Xây dựng hệ thống cá nhân hóa giao diện dựa trên hành vi sử dụng hàng ngàn người dùng"
+  ],
+  "stars": 15169,
+  "starsToday": 1125,
+  "language": "CSS",
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-07-09T06:38:16.278Z"
+}
