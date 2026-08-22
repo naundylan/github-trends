@@ -1,0 +1,39 @@
+{
+  "id": "10368ac2-66c2-4921-b019-428a0899eaa1",
+  "repo": "PostHog/posthog",
+  "url": "https://github.com/PostHog/posthog",
+  "category": "Developer Tool",
+  "summary": "PostHog là nền tảng developer tools toàn diện cho phép theo dõi sản phẩm, phân tích hành vi người dùng, và xây dựng tính năng tự động như feature flags, session replay và AI observability.",
+  "usecases": [
+    "Theo dõi và phân tích tương tác người dùng trên web/app để tối ưu hóa sản phẩm và trải nghiệm user.",
+    "Triển khai và quản lý feature flags để rollout các tính năng mới theo từng nhóm user hoặc môi trường.",
+    "Sử dụng session replay và error tracking để debug nhanh và cải thiện chất lượng sản phẩm."
+  ],
+  "ideas": [
+    "Kết hợp AI observability với tự động sửa lỗi (self-healing) dựa trên insights từ PostHog.",
+    "Tạo dashboard cá nhân hóa trong Slack để team nhận báo cáo sản phẩm và metrics hàng ngày.",
+    "Sử dụng dữ liệu product-analytics để training các ML models predicting user churn hoặc adoption feature."
+  ],
+  "stars": 38481,
+  "starsToday": 288,
+  "language": "Python",
+  "topics": [
+    "analytics",
+    "python",
+    "react",
+    "javascript",
+    "typescript",
+    "ab-testing",
+    "experiments",
+    "feature-flags",
+    "session-replay",
+    "ai-analytics",
+    "cdp",
+    "data-warehouse",
+    "product-analytics",
+    "surveys",
+    "web-analytics"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-22T15:24:07.642Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "350a323b-6246-4e93-a7a7-37ddc4544a5a",
+  "repo": "Graphify-Labs/graphify",
+  "url": "https://github.com/Graphify-Labs/graphify",
+  "category": "Developer Tool",
+  "summary": "Chuyển codebase, docs, SQL schemas và PDFs thành knowledge graph truy vấn, sử dụng AST xác định địa phương và LLM mà không cần vector store.",
+  "usecases": [
+    "Tìm kiếm và hiểu code qua LLM trên các repository lớn",
+    "Tạo tài liệu tự động từ code và cấu hình",
+    "Tích hợp với agent AI để reasoning về code và debugging"
+  ],
+  "ideas": [
+    "Phát triển extension VS Code để truy vấn knowledge graph theo thời gian thực",
+    "Kết hợp với local LLMs để đảm bảo quyền riêng tư cho code doanh nghiệp",
+    "Xây dựng hệ thống Q&A kỹ thuật tự động dựa trên codebase và docs"
+  ],
+  "stars": 109442,
+  "starsToday": 480,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "graphrag",
+    "knowledge-graph",
+    "codex",
+    "openclaw",
+    "skills",
+    "antigravity",
+    "gemini",
+    "leiden",
+    "rag",
+    "tree-sitter",
+    "ai-agents",
+    "ast",
+    "code-analysis",
+    "code-search",
+    "cursor",
+    "developer-tools",
+    "llm",
+    "mcp"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-22T15:24:07.641Z"
+}

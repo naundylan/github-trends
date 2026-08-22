@@ -1,0 +1,37 @@
+{
+  "id": "248d8655-6da0-4643-b763-84cdf1694eba",
+  "repo": "NousResearch/hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "category": "AI Agent/Automation",
+  "summary": "Agent AI phát triển cùng người dùng, cung cấp tương tác thông minh và hỗ trợ tự động hóa tác vụ.",
+  "usecases": [
+    "Hỗ trợ viết code và review tự động trong phát triển phần mềm",
+    "Tự động hóa quy trình làm việc lặp lại dựa trên ý cầu của người dùng",
+    "Tương tác làm trợ lý nghiên cứu cho các tác vụ khoa học và sáng tạo"
+  ],
+  "ideas": [
+    "Tạo agent cá nhân hóa theo phong cách làm việc của từng người dùng",
+    "Kết hợp nhiều LLM để chọn mô hình phù hợp cho từng tác vụ cụ thể",
+    "Triển khai agent làm trợ lý riêng tư quản lý dự án và tác vụ"
+  ],
+  "stars": 234260,
+  "starsToday": 443,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "llm",
+    "anthropic",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "codex",
+    "hermes",
+    "hermes-agent",
+    "nous-research",
+    "openai"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-22T15:24:07.642Z"
+}

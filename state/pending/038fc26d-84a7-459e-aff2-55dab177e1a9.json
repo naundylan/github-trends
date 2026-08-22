@@ -1,0 +1,23 @@
+{
+  "id": "038fc26d-84a7-459e-aff2-55dab177e1a9",
+  "repo": "multica-ai/andrej-karpathy-skills",
+  "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+  "category": "AI/LLM",
+  "summary": "A CLAUDE.md file improving Claude Code behavior based on Andrej Karpathy's observations of LLM coding pitfalls.",
+  "usecases": [
+    "Improving code generation quality when using Claude Code.",
+    "Reducing manual prompt engineering for common development tasks.",
+    "Serving as a baseline template for teams adopting LLM-assisted coding."
+  ],
+  "ideas": [
+    "Merging with other LLM prompt optimization libraries for a unified framework.",
+    "Adapting the format for other code LLMs like Copilot or Cursor.",
+    "Automating updates as new LLM coding pitfalls are identified."
+  ],
+  "stars": 205099,
+  "starsToday": 589,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-22T15:24:07.641Z"
+}

@@ -21,8 +21,8 @@
   },
   "NousResearch/hermes-agent": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-08",
-    "last_saved": "2026-07-02"
+    "last_seen": "2026-08-22",
+    "last_saved": "2026-08-22"
   },
   "OpenCut-app/OpenCut": {
     "first_seen": "2026-07-02",
@@ -181,8 +181,8 @@
   },
   "karpathy/nanoGPT": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-07",
-    "last_saved": "2026-07-05"
+    "last_seen": "2026-08-22",
+    "last_saved": "2026-08-22"
   },
   "mvanhorn/last30days-skill": {
     "first_seen": "2026-07-05",
@@ -306,8 +306,8 @@
   },
   "decolua/9router": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-09",
-    "last_saved": "2026-07-08"
+    "last_seen": "2026-08-22",
+    "last_saved": "2026-08-22"
   },
   "byoungd/up": {
     "first_seen": "2026-07-08",
@@ -381,8 +381,8 @@
   },
   "can1357/oh-my-pi": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-07-09",
-    "last_saved": "2026-07-09"
+    "last_seen": "2026-08-22",
+    "last_saved": "2026-08-22"
   },
   "stablyai/orca": {
     "first_seen": "2026-07-09",
@@ -399,52 +399,47 @@
     "last_seen": "2026-08-22",
     "last_saved": "2026-08-22"
   },
-  "mahlernim/google-timeline-visualizer": {
+  "multica-ai/andrej-karpathy-skills": {
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
     "last_saved": "2026-08-22"
   },
-  "harry0703/MoneyPrinterTurbo": {
+  "ripienaar/free-for-dev": {
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
     "last_saved": "2026-08-22"
   },
-  "AprilNEA/OpenLogi": {
+  "PostHog/posthog": {
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
     "last_saved": "2026-08-22"
   },
-  "modular/modular": {
+  "freestylefly/awesome-gpt-image-2": {
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
     "last_saved": "2026-08-22"
   },
-  "apache/maka": {
+  "Graphify-Labs/graphify": {
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
     "last_saved": "2026-08-22"
   },
-  "DietrichGebert/ponytail": {
+  "Panniantong/Agent-Reach": {
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
     "last_saved": "2026-08-22"
   },
-  "anthropics/claude-code": {
+  "anomalyco/opencode": {
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
     "last_saved": "2026-08-22"
   },
-  "Alishahryar1/free-claude-code": {
+  "nautechsystems/nautilus_trader": {
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
     "last_saved": "2026-08-22"
   },
-  "D4Vinci/Scrapling": {
-    "first_seen": "2026-08-22",
-    "last_seen": "2026-08-22",
-    "last_saved": "2026-08-22"
-  },
-  "garrytan/gstack": {
+  "block/buzz": {
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
     "last_saved": "2026-08-22"

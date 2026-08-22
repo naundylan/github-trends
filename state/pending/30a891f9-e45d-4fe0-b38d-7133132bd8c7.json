@@ -1,0 +1,34 @@
+{
+  "id": "30a891f9-e45d-4fe0-b38d-7133132bd8c7",
+  "repo": "freestylefly/awesome-gpt-image-2",
+  "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Dự án là một bộ sưu tập các prompt và mẫu template cho việc tạo ảnh bằng AI, với hơn 470 case study và 20 bộ template công nghiệp, tập trung vào kỹ thuật prompt-as-code và tự động hóa workflow.",
+  "usecases": [
+    "Dùng để học cách viết prompt hiệu quả cho các model hình ảnh.",
+    "Tạo ra các template chuẩn cho các dự án thiết kế đồ họa.",
+    "Tự động hóa quá trình sinh prompt cho hàng loạt ảnh."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ quản lý dự án để áp dụng prompt vào các task thiết kế.",
+    "Sử dụng làm cơ sở để đào tạo AI agent chuyên về hình ảnh.",
+    "Phân tích các prompt để trích xuất pattern và tạo ra prompt mới bằng AI."
+  ],
+  "stars": 12090,
+  "starsToday": 521,
+  "language": "JavaScript",
+  "topics": [
+    "agents",
+    "ai-image-generation",
+    "gpt-image-2",
+    "image-prompts",
+    "prompt-as-code",
+    "prompt-engineering",
+    "workflow-automation",
+    "chatgpt",
+    "skills",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-08-22T15:24:07.641Z"
+}

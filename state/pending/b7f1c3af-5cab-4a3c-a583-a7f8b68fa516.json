@@ -1,0 +1,26 @@
+{
+  "id": "b7f1c3af-5cab-4a3c-a583-a7f8b68fa516",
+  "repo": "ripienaar/free-for-dev",
+  "url": "https://github.com/ripienaar/free-for-dev",
+  "category": "Awesome List/Curated Resource",
+  "summary": "A curated list of SaaS, PaaS and IaaS offerings with free tiers, targeted at DevOps and infrastructure engineers.",
+  "usecases": [
+    "Discovering free-tier cloud services for infrastructure and DevOps projects.",
+    "Comparing SaaS, PaaS and IaaS offerings for cost planning and evaluation.",
+    "Finding tools for personal or startup projects with limited budgets."
+  ],
+  "ideas": [
+    "Building a searchable web interface or API for the list.",
+    "Creating domain-specific subsets (e.g., AI/ML tools, security tools).",
+    "Integrating into CI/CD pipelines for automatic cost estimation."
+  ],
+  "stars": 133693,
+  "starsToday": 915,
+  "language": "HTML",
+  "topics": [
+    "free-for-developers",
+    "awesome-list"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-08-22T15:24:07.641Z"
+}

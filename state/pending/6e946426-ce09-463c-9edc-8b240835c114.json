@@ -1,0 +1,23 @@
+{
+  "id": "6e946426-ce09-463c-9edc-8b240835c114",
+  "repo": "block/buzz",
+  "url": "https://github.com/block/buzz",
+  "category": "Backend Framework",
+  "summary": "Một nền tảng truyền thông dạng hive mind, có thể là hệ thống phi tập trung cho việc giao tiếp tập thể, được viết bằng Rust.",
+  "usecases": [
+    "Tạo ra một mạng lưới giao tiếp cho các cộng đồng decentralized.",
+    "Sử dụng cho các dự án cần hợp tác nhóm phân tán.",
+    "Có thể làm nền tảng cho các ứng dụng social network phi tập trung."
+  ],
+  "ideas": [
+    "Kết hợp với blockchain để tạo ra một mạng xã hội phi tập trung.",
+    "Ứng dụng trong các dự án IoT cho việc giao tiếp giữa các thiết bị.",
+    "Sử dụng làm công cụ cho các nhóm làm việc từ xa với cơ chế đồng bộ hóa thông tin."
+  ],
+  "stars": 29596,
+  "starsToday": 495,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-08-22T15:24:07.641Z"
+}

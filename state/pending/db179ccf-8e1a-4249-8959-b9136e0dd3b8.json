@@ -1,0 +1,23 @@
+{
+  "id": "db179ccf-8e1a-4249-8959-b9136e0dd3b8",
+  "repo": "anomalyco/opencode",
+  "url": "https://github.com/anomalyco/opencode",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án mã nguồn mở cung cấp một agent coding có thể tự viết, sửa lỗi và quản lý các tác vụ phát triển phần mềm, tích hợp trực tiếp với môi trường phát triển.",
+  "usecases": [
+    "Tự động hoàn thành code và sinh function dựa trên yêu cầu tự nhiên.",
+    "Debug và sửa lỗi code tự động bằng cách phân tích traceback và context.",
+    "Tạo boilerplate project hoặc cấu hình CI/CD từ prompt."
+  ],
+  "ideas": [
+    "Kết hợp với VS Code extension để làm pair programmer trực tiếp trong editor.",
+    "Triển khai làm agent tự quản lý dự án end-to-end từ spec đến deployment.",
+    "Sử dụng cho pair programming tự động giữa nhiều agent khác nhau."
+  ],
+  "stars": 200224,
+  "starsToday": 443,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-22T15:24:07.642Z"
+}

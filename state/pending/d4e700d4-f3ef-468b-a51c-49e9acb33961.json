@@ -1,0 +1,37 @@
+{
+  "id": "d4e700d4-f3ef-468b-a51c-49e9acb33961",
+  "repo": "nautechsystems/nautilus_trader",
+  "url": "https://github.com/nautechsystems/nautilus_trader",
+  "category": "Backend Framework",
+  "summary": "Nautilus Trader là một engine giao dịch sản xuất-grade viết bằng Rust, cung cấp kiến trúc sự kiện xác định và cao hiệu suất cho các hệ thống giao dịch tự động và crypto.",
+  "usecases": [
+    "Triển khai giao dịch tự động cho các cặp crypto và equity với độ trễ thấp.",
+    "Phát triển và backtest các chiến thuật algorithmic trading dựa trên dữ liệu thị trường thời thực.",
+    "Xây dựng nền tảng giao dịch cá nhân hoặc doanh nghiệp với khả năng execution và quản lý rủi ro."
+  ],
+  "ideas": [
+    "Kết hợp AI agents với Nautilus Trader để thực thi giao dịch dựa trên phân tích sentiment và tin tức.",
+    "Triển khai giao dịch đa sàn (multi-exchange) với đồng bộ trạng thái phân tán và fault tolerance.",
+    "Sử dụng tính xác định (deterministic) của engine để audit và reproduce hoàn toàn các luồng giao dịch trong nghiên cứu."
+  ],
+  "stars": 27247,
+  "starsToday": 302,
+  "language": "Rust",
+  "topics": [
+    "algorithmic-trading-engine",
+    "trading-platform",
+    "crypto-trading",
+    "artificial-intelligence",
+    "machine-learning",
+    "trading",
+    "python",
+    "equity-trading",
+    "forex",
+    "futures-trading",
+    "sports-betting",
+    "rust",
+    "options-trading"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-08-22T15:24:07.642Z"
+}
