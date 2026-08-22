@@ -1,0 +1,39 @@
+{
+  "id": "466bfaf8-8663-4e62-abd9-f3d7f3974f85",
+  "repo": "PostHog/posthog",
+  "url": "https://github.com/PostHog/posthog",
+  "category": "Big Data/Analytics",
+  "summary": "Nền tảng analytics tích hợp session replay, feature flags và AI observability để theo dõi và tối ưu hóa trải nghiệm sản phẩm theo thời gian thực.",
+  "usecases": [
+    "Theo dõi hành vi người dùng và đo lường hiệu quả sản phẩm cho các đội sản phẩm.",
+    "Triển khai và kiểm tra tính năng feature flags A/B testing trên web và mobile.",
+    "Phân tích lỗi và tái tạo session để debug vấn đề UX dựa trên dữ liệu session replay."
+  ],
+  "ideas": [
+    "Kết hợp với Slack bot để cảnh báo real-time về các metric quan trọng của sản phẩm.",
+    "Sử dụng AI observability để tự động phát hiện anomaly và đề xuất cải thiện UX.",
+    "Tích hợp dữ liệu product analytics vào warehouse để báo cáo toàn diện cho các cấp quản lý."
+  ],
+  "stars": 38324,
+  "starsToday": 335,
+  "language": "Python",
+  "topics": [
+    "analytics",
+    "python",
+    "react",
+    "javascript",
+    "typescript",
+    "ab-testing",
+    "experiments",
+    "feature-flags",
+    "session-replay",
+    "ai-analytics",
+    "cdp",
+    "data-warehouse",
+    "product-analytics",
+    "surveys",
+    "web-analytics"
+  ],
+  "notePath": "notes/Big-Data-Analytics.md",
+  "createdAt": "2026-08-22T03:40:33.336Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "33a29ebd-7458-4d5d-b306-53caa638123f",
+  "repo": "nautechsystems/nautilus_trader",
+  "url": "https://github.com/nautechsystems/nautilus_trader",
+  "category": "AI Agent/Automation",
+  "summary": "Engine giao dịch algo-native bằng Rust với kiến trúc sự kiện định hướng xác định, cho phép triển khai các chiến thuật giao dịch cao tần trên nhiều lớp tài sản.",
+  "usecases": [
+    "Triển khai các chiến thuật giao dịch tự động cho thị trường crypto với tốc độ thấp latency.",
+    "Phân tích và thực thi giao dịch trên nhiều sổ lệnh (multi-exchange) cho equity và forex.",
+    "Xây dựng hệ thống backtesting và tối ưu hóa chiến thuật dựa trên dữ liệu lịch sử."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tạo tự động chiến lược giao dịch từ các tin tức tài chính.",
+    "Triển khai hệ thống market-making tự động trên nhiều sổ lệnh đồng thời.",
+    "Sử dụng Rust + WebAssembly để chạy engine giao dịch trực tiếp trong trình duyệt cho demo real-time."
+  ],
+  "stars": 27132,
+  "starsToday": 300,
+  "language": "Rust",
+  "topics": [
+    "algorithmic-trading-engine",
+    "trading-platform",
+    "crypto-trading",
+    "artificial-intelligence",
+    "machine-learning",
+    "trading",
+    "python",
+    "equity-trading",
+    "forex",
+    "futures-trading",
+    "sports-betting",
+    "rust",
+    "options-trading"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-22T03:40:33.336Z"
+}

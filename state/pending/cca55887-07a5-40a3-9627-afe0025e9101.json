@@ -1,0 +1,23 @@
+{
+  "id": "cca55887-07a5-40a3-9627-afe0025e9101",
+  "repo": "akitaonrails/ai-memory",
+  "url": "https://github.com/akitaonrails/ai-memory",
+  "category": "AI Agent/Automation",
+  "summary": "Giải pháp lưu trữ dài hạn cho CLI của các agent coding, giúp chuyển giao trạng thái giữa các nền tảng agent khác nhau.",
+  "usecases": [
+    "Giữ lại context xuyên suốt giữa các phiên làm việc cho các trợ lý AI",
+    "Cho phép chuyển giao trạng thái agent giữa các nền tảng LLM khác",
+    "Phát triển bộ nhớ bền vững cho công cụ tạo code CLI cục bộ"
+  ],
+  "ideas": [
+    "Kết hợp với extension VS Code để ghi nhớ ngữ cảnh dự án qua các lần khởi động",
+    "Xây dựng dashboard xuyên suốt provider cho agent nhớ across OpenAI, Anthropic, etc.",
+    "Sử dụng làm lớp memory nền tảng cho các agent tựCoductive phân tán"
+  ],
+  "stars": 3960,
+  "starsToday": 467,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-22T03:40:33.336Z"
+}
