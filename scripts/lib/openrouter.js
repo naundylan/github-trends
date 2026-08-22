@@ -1,7 +1,7 @@
 import { CATEGORIES } from "./categories.js";
 
 const OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions";
-const MODEL = process.env.OPENROUTER_MODEL || "poolside/laguna-xs-2.1:free";
+const MODEL = process.env.OPENROUTER_MODEL || "nvidia/nemotron-3-ultra-550b-a55b:free";
 
 export async function categorizeAndSummarize(repos) {
   const listText = repos
