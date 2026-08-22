@@ -1,0 +1,43 @@
+{
+  "id": "08a8ee7a-4f15-4c7d-9f4b-fe50ccacab21",
+  "repo": "Tencent/AI-Infra-Guard",
+  "url": "https://github.com/Tencent/AI-Infra-Guard",
+  "category": "Security/Pentest",
+  "summary": "Nền tảng full-stack AI Red Teaming bảo mật hệ sinh thái AI qua quét agent, skills, MCP, infra và đánh giá jailbreak LLM.",
+  "usecases": [
+    "Quét và phát hiện lỗ hổng bảo mật trong hệ thống AI/LLM",
+    "Đánh giá khả năng jailbreak và injection prompt của model",
+    "Giám sát và đánh giá an toàn các skill/agent trước khi triển khai"
+  ],
+  "ideas": [
+    "Sử dụng trong pipeline CI/CD để scan bảo mật tự động trước deployment",
+    "Tích hợp với các platform LLM management để monitor an toàn",
+    "Phát triển báo cáo compliance cho các doanh nghiệp sử dụng AI"
+  ],
+  "stars": 5348,
+  "starsToday": 434,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "llm",
+    "scanner",
+    "security",
+    "vulnerability",
+    "agent-security",
+    "ai-red-teaming",
+    "ai-security",
+    "llm-jailbreak",
+    "llm-security",
+    "ai-infra",
+    "mcp-scan",
+    "skill-scanner",
+    "llm-evaluation",
+    "openclaw-security",
+    "prompt-security",
+    "prompt-injection",
+    "skills-security",
+    "security-tools"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-08-22T09:28:18.981Z"
+}

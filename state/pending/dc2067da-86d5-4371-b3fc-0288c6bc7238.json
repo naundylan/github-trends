@@ -1,0 +1,39 @@
+{
+  "id": "dc2067da-86d5-4371-b3fc-0288c6bc7238",
+  "repo": "PostHog/posthog",
+  "url": "https://github.com/PostHog/posthog",
+  "category": "Developer Tool",
+  "summary": "PostHog là một nền tảng sản phẩm cung cấp các công cụ phân tích, theo dõi phiên, quản lý tính năng và quan sát AI, giúp đội ngũ phát triển hiểu hành vi người dùng và tối ưu hóa sản phẩm dựa trên dữ liệu.",
+  "usecases": [
+    "Theo dõi tương tác người dùng và phân tích luồng sản phẩm trong thời gian thực.",
+    "Triển khai và đo lường các thử nghiệm A/B để cải thiện tỷ lệ chuyển đổi.",
+    "Tích hợp báo cáo sản phẩm tự động qua Slack cho đội ngũ phát triển."
+  ],
+  "ideas": [
+    "Kết hợp AI observability với Slack bot để cảnh báo dự đoán thoát người dùng.",
+    "Sử dụng dữ liệu session replay để tự động tạo issue trong GitHub khi phát hiện lỗi UX.",
+    "Tích hợp với pipeline CI/CD để tự động bật/tắt tính năng dựa trên KPIs sản phẩm."
+  ],
+  "stars": 38389,
+  "starsToday": 335,
+  "language": "Python",
+  "topics": [
+    "analytics",
+    "python",
+    "react",
+    "javascript",
+    "typescript",
+    "ab-testing",
+    "experiments",
+    "feature-flags",
+    "session-replay",
+    "ai-analytics",
+    "cdp",
+    "data-warehouse",
+    "product-analytics",
+    "surveys",
+    "web-analytics"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-22T09:28:18.981Z"
+}

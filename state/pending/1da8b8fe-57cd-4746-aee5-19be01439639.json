@@ -1,0 +1,42 @@
+{
+  "id": "1da8b8fe-57cd-4746-aee5-19be01439639",
+  "repo": "makeplane/plane",
+  "url": "https://github.com/makeplane/plane",
+  "category": "Other",
+  "summary": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+  "usecases": [
+    "Khám phá và đánh giá makeplane/plane cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 57012,
+  "starsToday": 579,
+  "language": "TypeScript",
+  "topics": [
+    "django",
+    "docker",
+    "kanban",
+    "project-management",
+    "python",
+    "react",
+    "jira",
+    "jira-alternative",
+    "linear",
+    "postgresql",
+    "redis",
+    "issue-tracker",
+    "product-management",
+    "work-management",
+    "vite",
+    "boards",
+    "bug-tracker",
+    "gantt",
+    "project-planning",
+    "typescipt"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-22T09:28:18.981Z"
+}

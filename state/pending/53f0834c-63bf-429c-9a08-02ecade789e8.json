@@ -1,0 +1,23 @@
+{
+  "id": "53f0834c-63bf-429c-9a08-02ecade789e8",
+  "repo": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "category": "Code Editor/IDE Extension",
+  "summary": "A collection of official and specification-driven plugins for the Cursor AI code editor, extending its functionality for AI-assisted development.",
+  "usecases": [
+    "Enhancing AI code completion with custom language support",
+    "Integrating external tools and APIs directly into the Cursor workflow",
+    "Building custom debugging or refactoring extensions for AI-generated code"
+  ],
+  "ideas": [
+    "Plugin that auto-generates unit tests from AI-edited code",
+    "Integration with private codebases for context-aware suggestions",
+    "Multi-language support extension for non-standard programming languages"
+  ],
+  "stars": 4498,
+  "starsToday": 388,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-08-22T09:28:18.981Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "46b20bc8-4489-41d3-931f-6ad6dc5982c2",
+  "repo": "volcengine/OpenViking",
+  "url": "https://github.com/volcengine/OpenViking",
+  "category": "Other",
+  "summary": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "usecases": [
+    "Khám phá và đánh giá volcengine/OpenViking cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 31808,
+  "starsToday": 654,
+  "language": "Python",
+  "topics": [
+    "context-database",
+    "agentic-rag",
+    "agent-memory",
+    "self-evolving",
+    "agent-plugins",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-22T09:28:18.981Z"
+}
