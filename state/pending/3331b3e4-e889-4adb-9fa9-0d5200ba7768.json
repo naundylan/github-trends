@@ -1,0 +1,38 @@
+{
+  "id": "3331b3e4-e889-4adb-9fa9-0d5200ba7768",
+  "repo": "apache/maka",
+  "url": "https://github.com/apache/maka",
+  "category": "Desktop App",
+  "summary": "Apache Maka là một workspace AI agent local-first, ghi lại các tin nhắn model, gọi tool, kết quả tool, quyết định quyền và sự kiện kết thúc dưới dạng log append-only, cung cấp môi trường desktop để tương tác với LLM.",
+  "usecases": [
+    "Phát triển và triển khai AI agent chạy local mà không phụ thuộc cloud",
+    "Quản lý luồng công việc tool-use với khả năng audit log hoàn chỉnh",
+    "Tạo môi trường phát triển desktop cho các ứng dụng AI có kiểm soát dữ liệu riêng"
+  ],
+  "ideas": [
+    "Kết hợp với các framework local-first khác như Obsidian hoặc Notebooks để tạo knowledge graph cá nhân",
+    "Phát triển plugin cho code editor để trực tiếp tương tác với Maka workspace",
+    "Sử dụng làm nền tảng cho các AI assistant cá nhân có khả năng offline và dữ liệu riêng"
+  ],
+  "stars": 2165,
+  "starsToday": 181,
+  "language": "TypeScript",
+  "topics": [
+    "agent-runtime",
+    "ai",
+    "ai-agent",
+    "apache",
+    "cli",
+    "desktop",
+    "electron",
+    "event-sourcing",
+    "llm",
+    "local-first",
+    "maka",
+    "tool-use",
+    "typescript",
+    "incubator"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-08-22T18:23:54.333Z"
+}

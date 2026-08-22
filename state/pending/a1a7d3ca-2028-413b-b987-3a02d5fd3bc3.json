@@ -1,0 +1,30 @@
+{
+  "id": "a1a7d3ca-2028-413b-b987-3a02d5fd3bc3",
+  "repo": "react/react",
+  "url": "https://github.com/react/react",
+  "category": "UI/Component Library",
+  "summary": "React là thư viện JavaScript để xây dựng giao diện người dùng cho web và native dựa trên kiến trúc component-based.",
+  "usecases": [
+    "Xây dựng giao diện web động và tương tác cao cho ứng dụng thương mại điện tử.",
+    "Tạo reusable UI components cho design system thống nhất across dự án.",
+    "Phát triển ứng dụng native mobile qua React Native với cùng codebase."
+  ],
+  "ideas": [
+    "Xây dựng hệ thống design system modular với component library được share giữa nhiều dự án.",
+    "Tích hợp với CMS headless để render dynamic content vào giao diện nhanh.",
+    "Phát triển PWA (Progressive Web App) với hiệu suất cao và trải nghiệm app-like."
+  ],
+  "stars": 247630,
+  "starsToday": 141,
+  "language": "JavaScript",
+  "topics": [
+    "javascript",
+    "react",
+    "frontend",
+    "declarative",
+    "ui",
+    "library"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-08-22T18:23:54.333Z"
+}

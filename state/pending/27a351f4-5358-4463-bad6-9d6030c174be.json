@@ -1,0 +1,34 @@
+{
+  "id": "27a351f4-5358-4463-bad6-9d6030c174be",
+  "repo": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "category": "AI Agent/Automation",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "...",
+    "..."
+  ],
+  "stars": 108068,
+  "starsToday": 771,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "cursor-rules",
+    "developer-tools",
+    "llm",
+    "prompt-engineering",
+    "yagni"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-22T18:23:54.333Z"
+}
