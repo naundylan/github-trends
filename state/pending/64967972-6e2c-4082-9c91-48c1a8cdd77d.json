@@ -1,0 +1,31 @@
+{
+  "id": "64967972-6e2c-4082-9c91-48c1a8cdd77d",
+  "repo": "modular/modular",
+  "url": "https://github.com/modular/modular",
+  "category": "AI/LLM",
+  "summary": "Nền tảng Modular cung cấp ngôn ngữ Mojo và MAX, tối ưu hóa hiệu suất cho phát triển AI/ML trên nền MLIR, kết hợp ngôn ngữ lập trình với infrastructure compiler.",
+  "usecases": [
+    "Phát triển mô hình AI với tốc độ gần như bằng hardware thông qua ngôn ngữ Mojo.",
+    "Tích hợp compiler MLIR vào các quy trình AI hiện có để tối ưu hóa hiệu suất.",
+    "Nghiên cứu và triển khai ngôn ngữ mới cho machine learning ở cấp độ low-level và high-performance."
+  ],
+  "ideas": [
+    "Sử dụng Mojo để viết các kernel tối ưu cho các framework AI hiện có như TensorFlow hoặc PyTorch.",
+    "Kết hợp MAX với edge devices để chạy inference với latency thấp hơn.",
+    "Tạo DSL cá nhân hóa cho các dự án AI cụ thể dựa trên Mojo."
+  ],
+  "stars": 28770,
+  "starsToday": 395,
+  "language": "Mojo",
+  "topics": [
+    "ai",
+    "language",
+    "machine-learning",
+    "mojo",
+    "modular",
+    "programming-language",
+    "max"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-22T12:27:51.424Z"
+}

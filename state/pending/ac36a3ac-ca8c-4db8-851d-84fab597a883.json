@@ -1,0 +1,23 @@
+{
+  "id": "ac36a3ac-ca8c-4db8-851d-84fab597a883",
+  "repo": "garrytan/gstack",
+  "url": "https://github.com/garrytan/gstack",
+  "category": "AI Agent/Automation",
+  "summary": "Gstack cung cấp 23 công cụ có ý kiến cố định để tự động hóa các vai trò phát triển phần mềm, từ CEO đến QA, sử dụng Claude Code để tối ưu quy trình làm việc.",
+  "usecases": [
+    "Tự động hóa các vai trò quản lý dự án và tài liệu trong team phát triển phần mềm.",
+    "Giúp CEO/Designer/Eng Manager tạo code và tài liệu nhanh hơn thông qua Claude Code.",
+    "Thiết lập môi trường phát triển có cấu hình sẵn cho các tác vụ QA, release và doc generation."
+  ],
+  "ideas": [
+    "Tự động hóa quy trình code review và génération tài liệu cho repository lớn.",
+    "Tạo ra một 'AI CEO' cá nhân hóa cho startup, quản lý roadmap và phân bổ tác vụ.",
+    "Kết hợp gstack với các công cụ CI/CD để tự động deploy và generate release notes."
+  ],
+  "stars": 129147,
+  "starsToday": 192,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-22T12:27:51.424Z"
+}

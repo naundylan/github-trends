@@ -1,0 +1,23 @@
+{
+  "id": "0d6e79db-7835-42a6-96e6-59642da338f0",
+  "repo": "anthropics/claude-code",
+  "url": "https://github.com/anthropics/claude-code",
+  "category": "Developer Tool",
+  "summary": "Claude Code là một công cụ coding dựa trên AI chạy trong terminal, giúp tự động hóa tác vụ lập trình, giải mã phức tạp và quản lý git thông qua lệnh tự nhiên, nâng cao hiệu suất cho lập trình viên.",
+  "usecases": [
+    "Tự động viết và review code trong quy trình phát triển phần mềm",
+    "Giải thích và refactor code legacy nhanh chóng",
+    "Quản lý git workflow và tạo commit messages tự động"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động sửa lỗi trên Pull Request",
+    "Sử dụng làm assistant cho người không lập trình tạo ứng dụng qua terminal",
+    "Tích hợp voice command để code hands-free trên thiết bị di động"
+  ],
+  "stars": 142354,
+  "starsToday": 170,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-22T12:27:51.424Z"
+}
