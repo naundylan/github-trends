@@ -1,0 +1,23 @@
+{
+  "id": "0056a52a-d43a-425b-897c-ce6387842313",
+  "repo": "block/buzz",
+  "url": "https://github.com/block/buzz",
+  "category": "AI Agent/Automation",
+  "summary": "Một nền tảng giao tiếp phân tán cho phép các AI agent hoặc người dùng kết nối và chia sẻ ý thức như một hệ thống 'hive mind'.",
+  "usecases": [
+    "Tối ưu hóa phối hợp giữa nhiều AI agent trong hệ thống đa-agent",
+    "Giao thức truyền thông real-time cho ứng dụng phân tán và robot",
+    "Chia sẻ dữ liệu giữa các node trong mạng lưới"
+  ],
+  "ideas": [
+    "Kết hợp với blockchain để tạo hệ thống tin cậy không trung tâm",
+    "Phát triển trò chơi đa-player dựa trên ý thức群体",
+    "Sử dụng làm lớp giao tiếp cho swarm robot trong nghiên cứu AI"
+  ],
+  "stars": 29732,
+  "starsToday": 495,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-22T21:20:42.646Z"
+}

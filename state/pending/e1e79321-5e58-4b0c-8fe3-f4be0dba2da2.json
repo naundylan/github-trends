@@ -1,0 +1,39 @@
+{
+  "id": "e1e79321-5e58-4b0c-8fe3-f4be0dba2da2",
+  "repo": "PostHog/posthog",
+  "url": "https://github.com/PostHog/posthog",
+  "category": "Big Data/Analytics",
+  "summary": "PostHog là một nền tảng analytics và sản phẩm toàn diện, cung cấp các công cụ như theo dõi sự kiện, replay phiên bản, feature flags và AI observability để giúp đội ngũ phát triển hiểu hành vi người dùng và tối ưu sản phẩm.",
+  "usecases": [
+    "Theo dõi hành vi người dùng và phân tích funnel cho sản phẩm web/app.",
+    "Quản lý feature flags để bật/tắt tính năng mà không cần deploy.",
+    "Replay phiên bản lỗi để debug và hiểu ngữ cảnh vấn đề."
+  ],
+  "ideas": [
+    "Kết hợp với Slack bot để báo cáo analytics real-time cho đội ngũ.",
+    "Sử dụng AI observability để tự động phát hiện anomaly trong hiệu năng sản phẩm.",
+    "Tạo dashboard cá nhân hóa cho từng stakeholder (dev, product, marketing)."
+  ],
+  "stars": 38568,
+  "starsToday": 288,
+  "language": "Python",
+  "topics": [
+    "analytics",
+    "python",
+    "react",
+    "javascript",
+    "typescript",
+    "ab-testing",
+    "experiments",
+    "feature-flags",
+    "session-replay",
+    "ai-analytics",
+    "cdp",
+    "data-warehouse",
+    "product-analytics",
+    "surveys",
+    "web-analytics"
+  ],
+  "notePath": "notes/Big-Data-Analytics.md",
+  "createdAt": "2026-08-22T21:20:42.646Z"
+}

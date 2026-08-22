@@ -1,0 +1,34 @@
+{
+  "id": "11b949c3-dbb6-4806-b975-54fc6232bfdf",
+  "repo": "freestylefly/awesome-gpt-image-2",
+  "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+  "category": "AI/LLM",
+  "summary": "Một thư viện prompt-as-code và mẫu industrial cho GPT-Image2, tổng hợp 470+ trường hợp và 20+ kỹ năng để tạo hình ảnh AI chất lượng cao.",
+  "usecases": [
+    "Thiết kế prompt có cấu trúc cho sản xuất hình ảnh thương mại và thiết kế sản phẩm.",
+    "Tự động hóa quy trình tạo ảnh cho marketing nội dung bằng cách sử dụng template library.",
+    "Trích xuất kỹ năng và phong cách từ prompt để huấn luyện hoặc tùy chỉnh model cá nhân."
+  ],
+  "ideas": [
+    "Xây dựng một web app cho phép người dùng browse và remix các prompt industrial theo chủ đề.",
+    "Kết hợp với API GPT-Image2 để tạo một công cụ generate batch ảnh từ CSV prompt.",
+    "Phát triển plugin cho VS Code hoặc Figma để chèn prompt và generate ảnh ngay trên thiết kế."
+  ],
+  "stars": 12201,
+  "starsToday": 521,
+  "language": "JavaScript",
+  "topics": [
+    "agents",
+    "ai-image-generation",
+    "gpt-image-2",
+    "image-prompts",
+    "prompt-as-code",
+    "prompt-engineering",
+    "workflow-automation",
+    "chatgpt",
+    "skills",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-22T21:20:42.646Z"
+}

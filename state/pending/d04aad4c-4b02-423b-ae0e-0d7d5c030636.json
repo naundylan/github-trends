@@ -1,0 +1,37 @@
+{
+  "id": "d04aad4c-4b02-423b-ae0e-0d7d5c030636",
+  "repo": "nautechsystems/nautilus_trader",
+  "url": "https://github.com/nautechsystems/nautilus_trader",
+  "category": "Developer Tool",
+  "summary": "Trình thực thi giao dịch sản xuất-grade viết bằng Rust, cung cấp kiến trúc sự kiện định hướng cho các chiến thuật giao dịch tự động trên nhiều sàn crypto.",
+  "usecases": [
+    "Triển khai các chiến thuật giao dịch tự động cho crypto và cổ phiếu với tốc độ cao",
+    "Phát triển nền tảng giao dịch cá nhân hoặc doanh nghiệp với kiến trúc có thể mở rộng",
+    "Nghiên cứu và backtest các chiến thuật giao dịch với sự kiện định hướng"
+  ],
+  "ideas": [
+    "Tích hợp vào bot giao dịch cá nhân để thực thi các chiến thuật scalping hoặc arbitrage",
+    "Sử dụng làm engine nền tảng cho các sàn giao dịch phi tập trung (DEX) cần matching engine tùy chỉnh",
+    "Phát triển hệ thống backtest tự động cho các chiến thuật đa lớp (multi-asset)"
+  ],
+  "stars": 27294,
+  "starsToday": 302,
+  "language": "Rust",
+  "topics": [
+    "algorithmic-trading-engine",
+    "trading-platform",
+    "crypto-trading",
+    "artificial-intelligence",
+    "machine-learning",
+    "trading",
+    "python",
+    "equity-trading",
+    "forex",
+    "futures-trading",
+    "sports-betting",
+    "rust",
+    "options-trading"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-22T21:20:42.646Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "24b2d683-640b-493c-91a3-6295529c5dee",
+  "repo": "Graphify-Labs/graphify",
+  "url": "https://github.com/Graphify-Labs/graphify",
+  "category": "Developer Tool",
+  "summary": "Chuyển codebase, docs, SQL schemas và PDFs thành knowledge graph có thể truy vấn, tích hợp với Claude Code, Cursor, Codex và Gemini CLI.",
+  "usecases": [
+    "Phân tích và tìm hiểu codebase lớn nhanh qua truy vấn ngôn ngữ tự nhiên",
+    "Tự động tạo tài liệu kỹ thuật từ code và schemas",
+    "Hỗ trợ dev debugging bằng truy vấn cấu trúc code và mối quan hệ"
+  ],
+  "ideas": [
+    "Tích hợp với IDE để autocomplete dựa trên knowledge graph",
+    "Tạo chatbot hỗ trợ review code tự động",
+    "Kết hợp với RAG system trả lời câu hỏi về architecture hệ thống"
+  ],
+  "stars": 109532,
+  "starsToday": 480,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "graphrag",
+    "knowledge-graph",
+    "codex",
+    "openclaw",
+    "skills",
+    "antigravity",
+    "gemini",
+    "leiden",
+    "rag",
+    "tree-sitter",
+    "ai-agents",
+    "ast",
+    "code-analysis",
+    "code-search",
+    "cursor",
+    "developer-tools",
+    "llm",
+    "mcp"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-22T21:20:42.646Z"
+}

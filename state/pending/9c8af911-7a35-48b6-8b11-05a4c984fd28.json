@@ -1,0 +1,23 @@
+{
+  "id": "9c8af911-7a35-48b6-8b11-05a4c984fd28",
+  "repo": "multica-ai/andrej-karpathy-skills",
+  "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+  "category": "Developer Tool",
+  "summary": "Một file CLAUDE.md tập trung cải thiện hành vi viết code của Claude Code dựa trên quan sát lỗi của LLM theo Andrej Karpathy.",
+  "usecases": [
+    "Cấu hình Claude Code để tránh các lỗi phổ biến khi sinh code",
+    "Hướng dẫn best practices cho việc dùng LLM trong phát triển phần mềm",
+    "Đoạt đồng tiêu chuẩn code khi dùng AI coding tools trong team"
+  ],
+  "ideas": [
+    "Áp dụng observation này vào các coding agent khác như Cursor hoặc GitHub Copilot",
+    "Tạo dashboard giám sát chất lượng code do AI sinh ra",
+    "Phát triển plugin VS Code tự động inject CLAUDE.md conventions"
+  ],
+  "stars": 205250,
+  "starsToday": 379,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-22T21:20:42.646Z"
+}

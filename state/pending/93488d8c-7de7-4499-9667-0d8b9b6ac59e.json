@@ -1,0 +1,26 @@
+{
+  "id": "93488d8c-7de7-4499-9667-0d8b9b6ac59e",
+  "repo": "ripienaar/free-for-dev",
+  "url": "https://github.com/ripienaar/free-for-dev",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Một danh sách tổng hợp các dịch vụ SaaS, PaaS và IaaS có cấp free tier, dành cho DevOps và InfraDev để tham khảo dùng thử chi phí.",
+  "usecases": [
+    "Tìm kiếm các dịch vụ cloud miễn phí để triển khai ứng dụng và cơ sở dữ liệu.",
+    "So sánh các giải pháp PaaS/IaaS cho dự án cá nhân hoặc startup không có ngân sách ban đầu.",
+    "Học hỏi cấu hình và giới hạn free tier của các nền tảng cloud chính."
+  ],
+  "ideas": [
+    "Tạo một dashboard cá nhân theo dõi mức sử dụng free tier của các dịch vụ trong danh sách.",
+    "Kết hợp với Terraform để tự động triển khai các tài nguyên có free tier.",
+    "Phát triển một extension tìm kiếm free tier trực tiếp từ VS Code."
+  ],
+  "stars": 133842,
+  "starsToday": 915,
+  "language": "HTML",
+  "topics": [
+    "free-for-developers",
+    "awesome-list"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-08-22T21:20:42.646Z"
+}

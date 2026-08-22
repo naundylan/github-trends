@@ -1,0 +1,23 @@
+{
+  "id": "ebf779d7-96ac-4e1e-9230-90c206d6b962",
+  "repo": "anthropics/claude-plugins-community",
+  "url": "https://github.com/anthropics/claude-plugins-community",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Đây là kho tàng plugin cộng đồng cho Claude Cowork và Claude Code, hoạt động như một thư mục đọc-only để chia sẻ và khám phá các plugin mở rộng khả năng của AI.",
+  "usecases": [
+    "Mở rộng khả năng xử lý ngôn ngữ tự nhiên cho Claude với các plugin chuyên biệt.",
+    "Tự động hóa tác vụ lặp đi lặp lại trong công việc phát triển phần mềm.",
+    "Tích hợp các dịch vụ bên thứ ba (API, database) trực tiếp vào luồng làm việc của Claude."
+  ],
+  "ideas": [
+    "Tạo plugin tự động sinh code dựa trên yêu cầu tiếng tự nhiên.",
+    "Kết hợp plugin truy xuất dữ liệu công ty để Claude có context nội bộ.",
+    "Phát triển plugin bảo mật để quét mã nguồn và báo cáo lỗ hổng khi dùng Claude Code."
+  ],
+  "stars": 585,
+  "starsToday": 141,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-08-22T21:20:42.646Z"
+}

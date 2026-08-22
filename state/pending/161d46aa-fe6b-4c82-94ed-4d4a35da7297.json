@@ -1,0 +1,41 @@
+{
+  "id": "161d46aa-fe6b-4c82-94ed-4d4a35da7297",
+  "repo": "Panniantong/Agent-Reach",
+  "url": "https://github.com/Panniantong/Agent-Reach",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ CLI cho phép agent AI truy cập và tìm kiếm Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu mà không cần phí API.",
+  "usecases": [
+    "Tự động thu thập tin tức và xu hướng từ mạng xã hội cho agent AI",
+    "Giám sát và phân tích nội dung trên nhiều nền tảng trong một dòng lệnh",
+    "Hỗ trợ nghiên cứu thị trường và phân tích cảm xúc không cần chi phí API"
+  ],
+  "ideas": [
+    "Kết hợp với Claude Code hoặc Cursor để tạo agent tự hành toàn bộ vòng đời tìm kiếm->phân tích->báo cáo",
+    "Phát triển plugin cho các nền tảng AI khác để hỗ trợ truy cập real-time web dữ liệu",
+    "Sử dụng cho monitoring xu hướng thị trường thời thực cho các dự án DeFi"
+  ],
+  "stars": 74129,
+  "starsToday": 307,
+  "language": "Python",
+  "topics": [
+    "agent-infrastructure",
+    "ai-agent",
+    "ai-search",
+    "automation",
+    "bilibili",
+    "claude-code",
+    "cli",
+    "cursor",
+    "free-api",
+    "llm-tools",
+    "mcp",
+    "python",
+    "reddit-scraper",
+    "twitter-scraper",
+    "web-scraper",
+    "xiaohongshu",
+    "youtube-transcript"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-22T21:20:42.646Z"
+}
