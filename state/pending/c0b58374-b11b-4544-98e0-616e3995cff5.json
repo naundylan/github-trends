@@ -1,0 +1,31 @@
+{
+  "id": "c0b58374-b11b-4544-98e0-616e3995cff5",
+  "repo": "modular/modular",
+  "url": "https://github.com/modular/modular",
+  "category": "AI/LLM",
+  "summary": "Nền tảng Modular cung cấp ngôn ngữ lập trình Mojo và MAX để tăng tốc hóa công việc AI/ML, cho phép phát triển mô hình hiệu suất cao trên phần cứng đa dạng.",
+  "usecases": [
+    "Develop and deploy high-performance AI models using Mojo's Python-like syntax and MAX's acceleration",
+    "Researchers can prototype models faster with seamless integration between CPU and GPU/TPU",
+    "Companies can build custom AI infrastructure without vendor lock-in"
+  ],
+  "ideas": [
+    "Create a beginner-friendly AI coding course using Mojo's easy learning curve",
+    "Build a cross-platform AI inference engine that runs on edge devices via MAX",
+    "Combine Mojo with existing Python AI libraries to create hybrid performance pipelines"
+  ],
+  "stars": 28733,
+  "starsToday": 913,
+  "language": "Mojo",
+  "topics": [
+    "ai",
+    "language",
+    "machine-learning",
+    "mojo",
+    "modular",
+    "programming-language",
+    "max"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-22T06:32:01.368Z"
+}

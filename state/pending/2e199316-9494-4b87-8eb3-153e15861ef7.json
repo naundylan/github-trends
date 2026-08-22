@@ -1,0 +1,37 @@
+{
+  "id": "2e199316-9494-4b87-8eb3-153e15861ef7",
+  "repo": "apache/maka",
+  "url": "https://github.com/apache/maka",
+  "category": "AI Agent/Automation",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "...",
+    "..."
+  ],
+  "stars": 2078,
+  "starsToday": 148,
+  "language": "TypeScript",
+  "topics": [
+    "agent-runtime",
+    "ai",
+    "ai-agent",
+    "apache",
+    "cli",
+    "desktop",
+    "electron",
+    "event-sourcing",
+    "llm",
+    "local-first",
+    "maka",
+    "tool-use",
+    "typescript"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-22T06:32:01.368Z"
+}

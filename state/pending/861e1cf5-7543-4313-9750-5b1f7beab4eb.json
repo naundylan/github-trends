@@ -1,0 +1,23 @@
+{
+  "id": "861e1cf5-7543-4313-9750-5b1f7beab4eb",
+  "repo": "garrytan/gstack",
+  "url": "https://github.com/garrytan/gstack",
+  "category": "Developer Tool",
+  "summary": "Cấu hình 23 công cụ có ý kiến riêng của Garry Tan cho Claude Code, đóng vai CEO, Thiết kế, Quản lý kỹ sư, Quản lý phát hành, Kỹ sư tài liệu và QA cho quy trình phát triển.",
+  "usecases": [
+    "Thiết lập môi trường Claude Code có thể thay thế đội ngũ nhỏ với các role được định nghĩa sẵn.",
+    "Tự động hóa việc tạo tài liệu dự án và quản lý quy trình phát hành.",
+    "Giúp định hình vai trò quản lý và QA trong luồng làm việc AI-assisted development."
+  ],
+  "ideas": [
+    "Sử dụng gstack làm foundation cho platform nội bộ quản lý các role AI trong công ty.",
+    "Tích hợp với ticketing system để AI tự động cập nhật trạng thái và tạo báo cáo tiến độ.",
+    "Tạo phiên bản tùy chỉnh cho từng dự án, thay thế các role bằng các specialization khác."
+  ],
+  "stars": 129111,
+  "starsToday": 192,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-22T06:32:01.368Z"
+}

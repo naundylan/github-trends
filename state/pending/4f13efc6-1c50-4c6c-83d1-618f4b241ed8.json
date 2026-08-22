@@ -1,0 +1,23 @@
+{
+  "id": "4f13efc6-1c50-4c6c-83d1-618f4b241ed8",
+  "repo": "mahlernim/google-timeline-visualizer",
+  "url": "https://github.com/mahlernim/google-timeline-visualizer",
+  "category": "Data Visualization",
+  "summary": "Dự án trực quan hóa dữ liệu lịch sử vị trí Google Timeline, giúp người dùng xem và phân tích hành trình di chuyển qua năm qua bằng đồ họa trực quan.",
+  "usecases": [
+    "Visualize personal travel patterns and total distance moved over a year",
+    "Identify frequently visited locations and stay durations",
+    "Integrate with personal health or fitness apps to correlate location with activity"
+  ],
+  "ideas": [
+    "Build a web dashboard to share timeline highlights with friends",
+    "Add AI-powered insights on travel habits and suggest optimal routes",
+    "Export visualizations to PDF or interactive web pages for presentations"
+  ],
+  "stars": 2317,
+  "starsToday": 1053,
+  "language": "Kotlin",
+  "topics": [],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-08-22T06:32:01.368Z"
+}

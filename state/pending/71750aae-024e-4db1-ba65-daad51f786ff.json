@@ -1,0 +1,38 @@
+{
+  "id": "71750aae-024e-4db1-ba65-daad51f786ff",
+  "repo": "harry0703/MoneyPrinterTurbo",
+  "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "category": "AI/LLM",
+  "summary": "Sử dụng mô hình AI lớn và quy trình tự động hóa để tạo tự động video ngắn HD từ chủ đề hoặc từ khóa, hỗ trợ phụ đề, đọc văn bản thành giọng nói và xuất cho các nền tảng như TikTok, Instagram Reels, YouTube Shorts.",
+  "usecases": [
+    "Tạo tự động video ngắn không cần mặt cho TikTok hoặc YouTube Shorts dựa trên từ khóa hoặc chủ đề đang trending.",
+    "Sản xuất video quảng cáo hoặc promotional cho doanh nghiệp với chi phí thấp, không cần đội ngũ biên tập.",
+    "Tạo video đa ngôn ngữ tự động với phụ đề và giọng đọc văn bản cho thị trường quốc tế."
+  ],
+  "ideas": [
+    "Kết hợp nhận diện chủ đề thời thực từ Twitter/Reddit để tự động sinh video theo xu hướng.",
+    "Cho phép tùy chỉnh avatar AI, phong cách hoạt hình hoặc nhạc nền thông qua prompt văn bản.",
+    "Xây dựng nền tảng backend phân phối video để creator agencies thuê công việc sinh video hàng loạt."
+  ],
+  "stars": 114120,
+  "starsToday": 1201,
+  "language": "Python",
+  "topics": [
+    "python",
+    "tiktok",
+    "ai-video-generator",
+    "content-creation",
+    "ffmpeg",
+    "instagram-reels",
+    "llm",
+    "short-video",
+    "subtitles",
+    "text-to-speech",
+    "video-automation",
+    "video-workflow",
+    "workflow-automation",
+    "youtube-shorts"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-22T06:32:01.368Z"
+}
