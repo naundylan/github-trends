@@ -1,0 +1,44 @@
+{
+  "id": "6b221ca2-c189-407f-a826-0920f048344f",
+  "repo": "diegosouzapw/OmniRoute",
+  "url": "https://github.com/diegosouzapw/OmniRoute",
+  "category": "AI/LLM",
+  "summary": "AI gateway miễn phí kết nối một endpoint với 340 provider và 1200 mô hình LLM, hỗ trợ tự động fallback, nén token và quản lý quota.",
+  "usecases": [
+    "Route requests đến nhiều LLM provider qua một endpoint duy nhất",
+    "Tự động fallback khi provider hết quota hoặc gặp lỗi",
+    "Tiết kiệm chi phí token thông qua nén RTK+Caveman"
+  ],
+  "ideas": [
+    "Kết hợp với desktop app để local AI routing",
+    "Phát triển plugin IDE để tự động chọn provider tốt nhất",
+    "Tạo dashboard theo dõi token usage và chi phí real-time"
+  ],
+  "stars": 52736,
+  "starsToday": 768,
+  "language": "TypeScript",
+  "topics": [
+    "a2a",
+    "ai-agents",
+    "ai-gateway",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "cline",
+    "codex",
+    "copilot",
+    "cursor",
+    "deepseek",
+    "free-ai",
+    "gemini",
+    "llm-gateway",
+    "mcp",
+    "openai",
+    "openai-proxy",
+    "qwen",
+    "token-saver",
+    "kimi"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-22T02:38:01.840Z"
+}

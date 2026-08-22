@@ -1,0 +1,44 @@
+{
+  "id": "17484042-4599-43ce-8af1-85de7ba13e1e",
+  "repo": "santifer/career-ops",
+  "url": "https://github.com/santifer/career-ops",
+  "category": "AI Agent/Automation",
+  "summary": "công cụ AI tự động tìm kiếm việc làm, đánh giá tuyển dụng với thang điểm A-F, tự tùy chỉnh CV và theo dõi trạng thái ứng tuyển chạy trên CLI",
+  "usecases": [
+    "Tự động hóa quy trình tìm kiếm việc làm và lọc các công việc phù hợp với kỹ năng",
+    "Giúp ứng viên tự đánh giá và cải thiện CV dựa trên điểm số tự động",
+    "Theo dõi và quản lý nhiều ứng tuyển vào một nơi tập trung trên môi trường CLI"
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng mạng xã hội như LinkedIn để tự động nộp đơn",
+    "Phát triển tính năng so sánh nhiều ứng tuyển cạnh bên nhau theo các tiêu chí kỹ thuật",
+    "Kết hợp với các model LLM để tạo lời giới thiệu cá nhân tùy theo mô tả công việc"
+  ],
+  "stars": 67479,
+  "starsToday": 921,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agent",
+    "anthropic",
+    "automation",
+    "career",
+    "claude",
+    "claude-code",
+    "cli",
+    "golang",
+    "interview-prep",
+    "job-search",
+    "open-source",
+    "resume",
+    "careerops",
+    "beginner-friendly",
+    "first-timers-only",
+    "good-first-issue",
+    "ai",
+    "ats",
+    "job-application",
+    "job-hunting"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-22T02:38:01.840Z"
+}

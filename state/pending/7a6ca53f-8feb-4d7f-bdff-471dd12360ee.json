@@ -1,0 +1,23 @@
+{
+  "id": "7a6ca53f-8feb-4d7f-bdff-471dd12360ee",
+  "repo": "mahlernim/google-timeline-visualizer",
+  "url": "https://github.com/mahlernim/google-timeline-visualizer",
+  "category": "Data Visualization",
+  "summary": "một ứng dụng Kotlin trực quan hóa năm du lịch của bạn bằng dữ liệu Timeline từ Google Location History",
+  "usecases": [
+    "Phân tích các lộ trình di chuyển và thời gian ở các địa điểm trong năm",
+    "Hiển thị bản đồ đường đi và thống kê thời gian lưu trú theo tháng/ngày",
+    "Export dữ liệu vị trí để theo dõi thói quen di chuyển cá nhân"
+  ],
+  "ideas": [
+    "Kết hợp với Google Maps để hiển thị các điểm tham quan nổi bật",
+    "Tạo báo cáo định kỳ về mức độ di động cho doanh nghiệp hoặc chính sách di cư",
+    "Phát triển widget hiển thị trên thiết bị đeo hoặc ứng dụng di động"
+  ],
+  "stars": 2251,
+  "starsToday": 1053,
+  "language": "Kotlin",
+  "topics": [],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-08-22T02:38:01.840Z"
+}

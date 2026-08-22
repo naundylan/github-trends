@@ -1,0 +1,23 @@
+{
+  "id": "cee00d54-5087-404b-92a2-823dc9f8af1e",
+  "repo": "openai/codex",
+  "url": "https://github.com/openai/codex",
+  "category": "AI Agent/Automation",
+  "summary": "Agent AI nhẹ chạy trong terminal, giúp tự động hóa tác vụ lập trình và viết code.",
+  "usecases": [
+    "Tự động hoàn thành code và sửa bug trong terminal.",
+    "Giúp review code và sinh tài liệu dự án.",
+    "Tích hợp với workflow CI/CD để tự động hóa phát triển."
+  ],
+  "ideas": [
+    "Kết hợp với các model LLM riêng để tạo ra coding assistant cá nhân.",
+    "Phát triển plugin cho IDE sử dụng cùng logic agent của codex.",
+    "Sử dụng để tự động hóa migration code giữa các framework."
+  ],
+  "stars": 111435,
+  "starsToday": 4159,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-22T02:38:01.839Z"
+}

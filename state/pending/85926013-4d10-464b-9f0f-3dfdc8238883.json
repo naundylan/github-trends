@@ -1,0 +1,23 @@
+{
+  "id": "85926013-4d10-464b-9f0f-3dfdc8238883",
+  "repo": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "category": "CLI Tool",
+  "summary": "Bộ tiện ích shell tập hợp các kỹ năng và lệnh hữu ích cho kỹ sư, trực tiếp từ thư mục .agents.",
+  "usecases": [
+    "Tìm nhanh và thực thi các lệnh hệ thống quản lý dự án.",
+    "Tự động hóa các tác vụ lặp đi lặp lại cho DevOps.",
+    "Chia sẻ và tái sử dụng các kỹ năng shell giữa các dự án."
+  ],
+  "ideas": [
+    "Tạo bộ script tùy chỉnh cho môi trường phát triển cụ thể.",
+    "Kết hợp với làm việc đa terminal để quản lý nhiều session.",
+    "Xuất bản dưới dạng package manager để cộng đồng sử dụng."
+  ],
+  "stars": 229659,
+  "starsToday": 3362,
+  "language": "Shell",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-22T02:38:01.839Z"
+}
