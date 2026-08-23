@@ -1,0 +1,30 @@
+{
+  "id": "cfbfa7ef-d2b6-4ec4-b5e5-5497a6172e8c",
+  "repo": "react/react",
+  "url": "https://github.com/react/react",
+  "category": "Web Frontend",
+  "summary": "Thư viện React chính thức cho phép xây dựng giao diện người dùng cho web và native dựa trên kiến trúc component-based, là nền tảng cho các ứng dụng frontend hiện đại.",
+  "usecases": [
+    "Xây dựng ứng dụng web động và phản ứng với UI phức tạp sử dụng React component và state management.",
+    "Phát triển ứng dụng native trên iOS/Android thông qua React Native dựa trên cùng một codebase.",
+    "Tích hợp với các thư viện UI/Component Library khác để tạo giao diện doanh nghiệp nhanh chóng."
+  ],
+  "ideas": [
+    "Tích hợp AI-powered component generation để tự động tạo React components từ thiết kế Figma hoặc prompt.",
+    "Xây dựng hệ thống design system tự động đồng bộ giữa Figma và code React.",
+    "Sử dụng React Server Components để tối ưu hiệu suất cho các ứng dụng heavy data."
+  ],
+  "stars": 247669,
+  "starsToday": 144,
+  "language": "JavaScript",
+  "topics": [
+    "javascript",
+    "react",
+    "frontend",
+    "declarative",
+    "ui",
+    "library"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-08-23T06:29:27.841Z"
+}

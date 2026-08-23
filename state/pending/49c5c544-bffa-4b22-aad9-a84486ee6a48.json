@@ -1,0 +1,32 @@
+{
+  "id": "49c5c544-bffa-4b22-aad9-a84486ee6a48",
+  "repo": "TryGhost/Ghost",
+  "url": "https://github.com/TryGhost/Ghost",
+  "category": "Web Frontend",
+  "summary": "Ghost là nền tảng publishing mã nguồn mở hiện đại cho phép tạo blog, quản lý thành viên, newsletter và bán nội dung, với giao diện dựa trên Handlebars và backend Node.js.",
+  "usecases": [
+    "Phát triển blog doanh nghiệp với hệ thống thành viên và nội dung độc quyền",
+    "Quản lý newsletter trả phí và theo dõi tương tác độc giả",
+    "Xây dựng CMS nội dung tích hợp khả năng bán hàng trực tiếp"
+  ],
+  "ideas": [
+    "Kết hợp Ghost với AI để tự động tạo nội dung bài viết và tối ưu SEO",
+    "Tích hợp Ghost với nền tảng e-learning để bán khóa học online",
+    "Xây dựng ứng dụng di động đồng bộ và quản lý bài viết Ghost qua API"
+  ],
+  "stars": 55041,
+  "starsToday": 184,
+  "language": "JavaScript",
+  "topics": [
+    "journalism",
+    "publishing",
+    "blogging",
+    "javascript",
+    "web-application",
+    "cms",
+    "nodejs",
+    "ghost"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-08-23T06:29:27.841Z"
+}
