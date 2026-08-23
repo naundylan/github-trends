@@ -1,0 +1,32 @@
+{
+  "id": "6a803dfb-7f97-489f-a384-dbf7fd2e9a24",
+  "repo": "TryGhost/Ghost",
+  "url": "https://github.com/TryGhost/Ghost",
+  "category": "Backend Framework",
+  "summary": "Ghost là nền tảng xuất bản hiện đại mã nguồn mở cho blogging, thành viên và newsletter, xây dựng trên Node.js và cung cấp API mạnh mẽ để tùy chỉnh.",
+  "usecases": [
+    "Phát triển blog cá nhân hoặc doanh nghiệp với quản lý thành viên.",
+    "Tạo và phân phối newsletter trả phí.",
+    "Xây dựng nền tảng nội dung đa nền tảng với API tùy chỉnh."
+  ],
+  "ideas": [
+    "Kết hợp Ghost với AI để tạo nội dung tự động cho bài viết blog.",
+    "Sử dụng Ghost làm nền tảng cho hệ thống đăng ký nội dung đa ngôn ngữ.",
+    "Tích hợp Ghost với các nền tảng phân tích để theo dõi tương tác độc giả."
+  ],
+  "stars": 55039,
+  "starsToday": 184,
+  "language": "JavaScript",
+  "topics": [
+    "journalism",
+    "publishing",
+    "blogging",
+    "javascript",
+    "web-application",
+    "cms",
+    "nodejs",
+    "ghost"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-08-23T00:58:53.776Z"
+}

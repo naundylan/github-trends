@@ -1,0 +1,30 @@
+{
+  "id": "801ae203-206d-40fd-b5da-c2e0c43fdf3d",
+  "repo": "react/react",
+  "url": "https://github.com/react/react",
+  "category": "Web Frontend",
+  "summary": "Thư viện JavaScript cho giao diện web và native, cho phép xây dựng UIs khai báo và tương tác.",
+  "usecases": [
+    "Xây dựng ứng dụng web động với rendering hiệu suất cao trên trình duyệt.",
+    "Phát triển ứng dụng mobile cross-platform thông qua React Native.",
+    "Tạo hệ thống thiết kế component reusable cho sản phẩm lớn."
+  ],
+  "ideas": [
+    "Kết hợp với TypeScript và Tailwind CSS để tạo bộ UI component hiện đại.",
+    "Sử dụng React Server Components để tối ưu hiệu suất tải trang.",
+    "Xây dựng plugin mở rộng cho Code Editor dựa trên React."
+  ],
+  "stars": 247639,
+  "starsToday": 144,
+  "language": "JavaScript",
+  "topics": [
+    "javascript",
+    "react",
+    "frontend",
+    "declarative",
+    "ui",
+    "library"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-08-23T00:58:53.776Z"
+}

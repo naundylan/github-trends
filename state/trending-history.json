@@ -1,12 +1,12 @@
 {
   "JuliusBrussee/caveman": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "obra/superpowers": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "tt-a1i/archify": {
@@ -21,7 +21,7 @@
   },
   "NousResearch/hermes-agent": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "OpenCut-app/OpenCut": {
@@ -71,12 +71,12 @@
   },
   "santifer/career-ops": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "affaan-m/ECC": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "langflow-ai/langflow": {
@@ -91,7 +91,7 @@
   },
   "diegosouzapw/OmniRoute": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "Zackriya-Solutions/meetily": {
@@ -136,7 +136,7 @@
   },
   "mattpocock/skills": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "pbakaus/impeccable": {
@@ -181,7 +181,7 @@
   },
   "karpathy/nanoGPT": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "mvanhorn/last30days-skill": {
@@ -281,12 +281,12 @@
   },
   "n8n-io/n8n": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "Wei-Shaw/sub2api": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "tonhowtf/omniget": {
@@ -306,7 +306,7 @@
   },
   "decolua/9router": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "byoungd/up": {
@@ -341,7 +341,7 @@
   },
   "tinyhumansai/openhuman": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "rustdesk/rustdesk": {
@@ -381,7 +381,7 @@
   },
   "can1357/oh-my-pi": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "stablyai/orca": {
@@ -396,57 +396,107 @@
   },
   "openai/codex": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "multica-ai/andrej-karpathy-skills": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "ripienaar/free-for-dev": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "PostHog/posthog": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "freestylefly/awesome-gpt-image-2": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "Graphify-Labs/graphify": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "anthropics/claude-plugins-community": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "Panniantong/Agent-Reach": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "anomalyco/opencode": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "nautechsystems/nautilus_trader": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
   },
   "block/buzz": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
     "last_saved": "2026-08-22"
+  },
+  "makeplane/plane": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "last_saved": "2026-08-23"
+  },
+  "AprilNEA/OpenLogi": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "last_saved": "2026-08-23"
+  },
+  "modular/modular": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "last_saved": "2026-08-23"
+  },
+  "mahlernim/google-timeline-visualizer": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "last_saved": "2026-08-23"
+  },
+  "cursor/plugins": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "last_saved": "2026-08-23"
+  },
+  "Tencent/AI-Infra-Guard": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "last_saved": "2026-08-23"
+  },
+  "TryGhost/Ghost": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "last_saved": "2026-08-23"
+  },
+  "DietrichGebert/ponytail": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "last_saved": "2026-08-23"
+  },
+  "react/react": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "last_saved": "2026-08-23"
+  },
+  "apache/maka": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "last_saved": "2026-08-23"
   }
 }

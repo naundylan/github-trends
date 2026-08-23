@@ -1,0 +1,34 @@
+{
+  "id": "5dfc150d-0078-4850-b79c-3553d5193cd1",
+  "repo": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "category": "AI/LLM",
+  "summary": "Thư viện giúp AI agent tư duy như một lập trình viên senior lười biếng, ưu tiên giải quyết vấn đề bằng cách viết ít code nhất (YAGNI).",
+  "usecases": [
+    "Tăng tốc độ phát triển bằng cách tự động tạo prompt tối ưu cho AI coding assistants như Claude hay Cursor.",
+    "Giúp team lead giảm thời gian review code bằng cách làm nổi bật logic không cần thiết sẽ bị bỏ qua.",
+    "Dùng cho các dự án nhỏ muốn áp dụng nguyên tắc YAGNI trong quy trình code với AI."
+  ],
+  "ideas": [
+    "Tích hợp vào CI/CD pipeline để tự động review code và đánh giá 'laziness' score.",
+    "Sử dụng làm foundation cho personal AI assistant tập trung vào productivity hơn là code generation.",
+    "Kết hợp với prompt engineering để tạo ra 'laziest dev' workflow cho các tác vụ quản lý dự án."
+  ],
+  "stars": 108201,
+  "starsToday": 789,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "cursor-rules",
+    "developer-tools",
+    "llm",
+    "prompt-engineering",
+    "yagni"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-23T00:58:53.776Z"
+}

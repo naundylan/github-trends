@@ -1,0 +1,37 @@
+{
+  "id": "9b6a8eba-d83b-4afc-be26-6f5227806ce4",
+  "repo": "AprilNEA/OpenLogi",
+  "url": "https://github.com/AprilNEA/OpenLogi",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop native local-first để tùy chỉnh nút bấm, DPI và SmartShift cho chuột Logitech mà không cần tài khoản hay telemetry.",
+  "usecases": [
+    "Tùy chỉnh phím nhanh và DPI cho chuột gaming MX Master trên nhiều máy tính không cần driver chính thức.",
+    "Sử dụng trên các máy tính công việc cần bảo mật cao do chế độ local-first, dữ liệu không gửi đi ngoài.",
+    "Hoạt động như một thay thế nhẹ và riêng tư cho Logitech Options+ trên Linux/macOS/Windows."
+  ],
+  "ideas": [
+    "Kết hợp với autohotkey/steamdeck để tạo bộ điều khiển di động cho các trò chơi.",
+    "Phát triển plugin cho VS Code để hiển thị cấu hình DPI/phím bấm đang hoạt động.",
+    "Tạo phiên bản multi-device sync cho người dùng di chuyển giữa nhiều workstation."
+  ],
+  "stars": 13942,
+  "starsToday": 959,
+  "language": "Rust",
+  "topics": [
+    "dpi",
+    "gpui",
+    "hid",
+    "hidpp",
+    "local-first",
+    "logitech",
+    "logitech-options",
+    "mouse-remapping",
+    "mx-master",
+    "privacy",
+    "rust",
+    "smartshift",
+    "logitech-mouse"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-08-23T00:58:53.775Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4a91b21c-fd19-47bd-8325-3bfd21648bf5",
+  "repo": "mahlernim/google-timeline-visualizer",
+  "url": "https://github.com/mahlernim/google-timeline-visualizer",
+  "category": "Data Visualization",
+  "summary": "Ứng dụng trực quan hóa dữ liệu lịch sử vị trí Google để xem bản đồ hành trình du lịch trong năm.",
+  "usecases": [
+    "Xem bản đồ tổng hợp các điểm đã ghé qua trong năm.",
+    "Phân tích các mẫu di chuyển và thời gian ở các địa điểm.",
+    "Tích hợp với các ứng dụng sức khỏe hoặc du lịch để theo dõi lịch sử vị trí."
+  ],
+  "ideas": [
+    "Kết hợp với Google Maps để hiển thị lộ trình thực thời.",
+    "Xuất dữ liệu ra định dạng KML/GPX để dùng trong các phần mềm địa lý.",
+    "Thêm tính năng cảnh báo khi đến các địa điểm đã lưu."
+  ],
+  "stars": 2566,
+  "starsToday": 441,
+  "language": "Kotlin",
+  "topics": [],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-08-23T00:58:53.776Z"
+}
