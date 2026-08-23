@@ -1,0 +1,35 @@
+{
+  "id": "e1531987-0c54-4c24-89d9-1111b045d8f5",
+  "repo": "heygen-com/hyperframes",
+  "url": "https://github.com/heygen-com/hyperframes",
+  "category": "Web Framework",
+  "summary": "Hyperframes là một framework cho phép viết HTML và render video, được thiết kế cho các agent AI để tạo và xử lý nội dung video động.",
+  "usecases": [
+    "Tự động tạo video promotional hoặc explanatory videos cho các ứng dụng AI.",
+    "Render animation và video trong web apps dựa trên agent mà không cần canvas thủ công.",
+    "Kết hợp với Puppeteer/FFmpeg để xử lý pipeline video programmatic."
+  ],
+  "ideas": [
+    "Sử dụng Hyperframes làm engine render video cho các AI agent tạo nội dung sáng tạo (ví dụ: storyboarding tự động).",
+    "Kết hợp với WebGPU hoặc Three.js để render 3D video trong browser thông qua HTML markup.",
+    "Xây dựng một platform SaaS tạo video tự động dựa trên input text, sử dụng Hyperframes làm backend render."
+  ],
+  "stars": 42295,
+  "starsToday": 149,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "animation",
+    "ffmpeg",
+    "framework",
+    "gsap",
+    "html",
+    "mcp",
+    "puppeteer",
+    "rendering",
+    "typescript",
+    "video"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-08-23T21:18:33.619Z"
+}

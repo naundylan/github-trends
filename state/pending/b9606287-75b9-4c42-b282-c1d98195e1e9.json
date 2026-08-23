@@ -1,0 +1,29 @@
+{
+  "id": "b9606287-75b9-4c42-b282-c1d98195e1e9",
+  "repo": "google/sam",
+  "url": "https://github.com/google/sam",
+  "category": "AI Agent/Automation",
+  "summary": "SAM là một framework phân tán cho mạng lưới AI agent, cho phép phối hợp peer-to-peer với bảo mật mạng lưới và tích hợp MCP để xây dựng hệ thống multi-agent quy mô lớn.",
+  "usecases": [
+    "Decentralized AI swarms for edge computing environments.",
+    "Secure multi-agent collaboration in sensitive industries like finance or healthcare.",
+    "Interoperable agent networks using MCP protocol across cloud and on-premise."
+  ],
+  "ideas": [
+    "Combine with blockchain for agent reputation and trust mechanisms.",
+    "Deploy as a local-first P2P AI assistant network without central servers.",
+    "Use for autonomous drone swarm coordination with real-time decision mesh."
+  ],
+  "stars": 598,
+  "starsToday": 136,
+  "language": "Go",
+  "topics": [
+    "agentic-ai",
+    "p2p-network",
+    "network-security",
+    "networking-ai",
+    "mcp"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-23T21:18:33.619Z"
+}

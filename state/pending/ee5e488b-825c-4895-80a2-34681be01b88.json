@@ -1,0 +1,28 @@
+{
+  "id": "ee5e488b-825c-4895-80a2-34681be01b88",
+  "repo": "microsoft/TypeScript",
+  "url": "https://github.com/microsoft/TypeScript",
+  "category": "Developer Tool",
+  "summary": "TypeScript là một ngôn ngữ lập trình mở rộng JavaScript, thêm tính kiểm tra kiểu tĩnh và biên dịch thành JavaScript thuần túy, giúp phát triển ứng dụng lớn hơn với độ tin cậy cao hơn.",
+  "usecases": [
+    "Phát triển ứng dụng web lớn scale với TypeScript cho frontend (React, Angular, Vue).",
+    "Xây dựng backend Node.js services với type safety.",
+    "Chuẩn hóa và bảo trì codebase đa developer với định nghĩa kiểu rõ ràng."
+  ],
+  "ideas": [
+    "Kết hợp TypeScript với AI code generators (như GitHub Copilot) để tạo ra các hàm có type an toàn tự động.",
+    "Phát triển một DSL (Domain Specific Language) riêng dựa trên TypeScript cho domain của dự án.",
+    "Sử dụng TypeScript cho phát triển cross-platform mobile với React Native hoặc NativeScript."
+  ],
+  "stars": 110628,
+  "starsToday": 168,
+  "language": "Go",
+  "topics": [
+    "typescript",
+    "javascript",
+    "language",
+    "typechecker"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-23T21:18:33.619Z"
+}

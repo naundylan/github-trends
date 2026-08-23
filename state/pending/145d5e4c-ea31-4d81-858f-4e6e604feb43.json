@@ -1,0 +1,30 @@
+{
+  "id": "145d5e4c-ea31-4d81-858f-4e6e604feb43",
+  "repo": "dani-garcia/vaultwarden",
+  "url": "https://github.com/dani-garcia/vaultwarden",
+  "category": "Backend Framework",
+  "summary": "Vaultwarden là một server mật khẩu mã nguồn mở tương thích Bitwarden, viết bằng Rust và có thể triển khai qua Docker, cung cấp dịch vụ quản lý bí mật tự-hosted với hiệu suất cao.",
+  "usecases": [
+    "Self-hosted password manager for individuals/organizations wanting full data control.",
+    "Alternative to Bitwarden cloud for users in restricted networks or requiring custom integration.",
+    "Secure credential storage and sync across devices via Bitwarden client compatibility."
+  ],
+  "ideas": [
+    "Integrate with enterprise SSO systems for unified access control.",
+    "Deploy as a lightweight password vault in offline/air-gapped environments.",
+    "Extend with custom plugins for specialized secret types (e.g., API keys, certificates)."
+  ],
+  "stars": 65940,
+  "starsToday": 95,
+  "language": "Rust",
+  "topics": [
+    "vaultwarden",
+    "bitwarden",
+    "rust",
+    "docker",
+    "rocket",
+    "bitwarden-rs"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-08-23T21:18:33.619Z"
+}

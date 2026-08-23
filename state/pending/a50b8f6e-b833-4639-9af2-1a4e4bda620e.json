@@ -1,0 +1,42 @@
+{
+  "id": "a50b8f6e-b833-4639-9af2-1a4e4bda620e",
+  "repo": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "category": "Other",
+  "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "usecases": [
+    "Khám phá và đánh giá debpalash/VoiceStudio cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 11394,
+  "starsToday": 195,
+  "language": "Python",
+  "topics": [
+    "tts",
+    "voice-cloning",
+    "voice-generation",
+    "voice-ai",
+    "ai",
+    "cuda",
+    "mlx",
+    "huggingface",
+    "transcription",
+    "translate",
+    "workflow",
+    "omnivoice-studio",
+    "dubbing",
+    "audiobook",
+    "elevenlabs-alternative",
+    "local-first",
+    "speech-to-text",
+    "tauri",
+    "text-to-speech",
+    "voicestudio"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-23T21:18:33.619Z"
+}

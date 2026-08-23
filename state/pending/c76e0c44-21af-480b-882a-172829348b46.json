@@ -1,0 +1,44 @@
+{
+  "id": "c76e0c44-21af-480b-882a-172829348b46",
+  "repo": "ruvnet/ruflo",
+  "url": "https://github.com/ruvnet/ruflo",
+  "category": "AI Agent/Automation",
+  "summary": "Ruflo là meta-harness cho agent TypeScript, cho phép triển khai swarm thông minh với bộ nhớ thích nghi, tích hợp RAG và hỗ trợ native Claude Code, Codex, Hermes cho các workflow tự động.",
+  "usecases": [
+    "Autonomous code review and PR generation using agent swarms.",
+    "Multi-agent research assistants with shared memory and tool usage.",
+    "Conversational AI systems with dynamic skill composition and RAG."
+  ],
+  "ideas": [
+    "Integrate with local LLMs for fully offline swarm intelligence.",
+    "Build a skill marketplace where agents dynamically load and swap capabilities.",
+    "Use as orchestration layer for AI-powered CI/CD pipeline automation."
+  ],
+  "stars": 69035,
+  "starsToday": 134,
+  "language": "TypeScript",
+  "topics": [
+    "claude-code",
+    "swarm",
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "autonomous-agents",
+    "codex",
+    "mcp-server",
+    "multi-agent",
+    "ai-assistant",
+    "multi-agent-systems",
+    "swarm-intelligence",
+    "agents",
+    "ai-skills",
+    "skills",
+    "npm",
+    "typescript",
+    "ai-agents",
+    "harness",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-23T21:18:33.619Z"
+}
