@@ -1,0 +1,37 @@
+{
+  "id": "d6265312-6767-41d7-b714-d2a864b364ad",
+  "repo": "virgiliojr94/book-to-skill",
+  "url": "https://github.com/virgiliojr94/book-to-skill",
+  "category": "AI/LLM",
+  "summary": "Dự án chuyển PDF sách kỹ thuật thành kỹ năng Claude Code có thể sử dụng ngay, tận dụng RAG và xử lý tài liệu để hỗ trợ tự học và tham khảo code.",
+  "usecases": [
+    "Tự học từ sách kỹ thuật bằng cách tạo ra các skill Claude Code cá nhân hóa.",
+    "Tích hợp vào workflow làm việc để tham khảo mã và kiến thức tức thời.",
+    "Xây dựng cơ sở kiến thức nội bộ từ tài liệu PDF đã có cho team."
+  ],
+  "ideas": [
+    "Kết hợp với voice assistant để đọc và giải thích sách khi lái xe hoặc nghỉ ngơi.",
+    "Tạo ra hệ thống flashcards tự động từ nội dung sách để review hàng ngày.",
+    "Phát triển plugin cho IDE để truy cập trực tiếp knowledge base sách khi code."
+  ],
+  "stars": 24503,
+  "starsToday": 423,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "context-engineering",
+    "document-processing",
+    "edtech",
+    "knowledge-base",
+    "knowledge-management",
+    "llm",
+    "pdf-to-markdown",
+    "rag",
+    "self-study",
+    "study-tools",
+    "book-to-skill"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-23T18:22:11.191Z"
+}

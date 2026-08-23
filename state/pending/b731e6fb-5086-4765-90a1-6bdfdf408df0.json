@@ -1,0 +1,30 @@
+{
+  "id": "b731e6fb-5086-4765-90a1-6bdfdf408df0",
+  "repo": "Comfy-Org/ComfyUI",
+  "url": "https://github.com/Comfy-Org/ComfyUI",
+  "category": "AI/LLM",
+  "summary": "GUI mạnh mẽ và mô-đun cho các mô hình diffusion, cung cấp API và backend qua giao đồ thị nút/đường, dành cho tạo hình ảnh AI.",
+  "usecases": [
+    "Tạo hình ảnh từ văn bản (text-to-image) cho các dự án sáng tạo nghệ thuật.",
+    "Hỗ trợ nghiên cứu và phát triển mô hình AI với giao đồ thị linh hoạt và mở rộng.",
+    "Tích hợp vào sản phẩm thương mại để tự động tạo nội hình và đồ họa."
+  ],
+  "ideas": [
+    "Kết hợp với lệnh giọng nói để tạo ảnh bằng giọng nói.",
+    "Sử dụng trong pipeline E-commerce để tự động tạo ảnh sản phẩm theo yêu cầu.",
+    "Phát triển agent AI tự động điều chỉnh tham số tạo hình dựa trên feedback người dùng."
+  ],
+  "stars": 129280,
+  "starsToday": 179,
+  "language": "Python",
+  "topics": [
+    "stable-diffusion",
+    "pytorch",
+    "ai",
+    "python",
+    "comfy",
+    "comfyui"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-23T18:22:11.191Z"
+}

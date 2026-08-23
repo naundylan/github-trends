@@ -1,0 +1,34 @@
+{
+  "id": "40b00f93-2066-4232-bcc0-92f67f41a7c7",
+  "repo": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "category": "AI Agent/Automation",
+  "summary": "Ponytail là một công cụ JavaScript giúp agent AI tư duy theo phong cách 'lười biếng' của senior dev, tối ưu hóa phát triển bằng cách giảm thiểu code thừa.",
+  "usecases": [
+    "Tự động viết code cho các tác vụ lặp lại, giảm tải cho developer.",
+    "Tích hợp trong pipeline CI/CD để review và tối ưu code tự động.",
+    "Hoạt động như trợ lý code trong IDE để đề xuất hoặc viết đoạn code ngắn."
+  ],
+  "ideas": [
+    "Kết hợp với các framework LLM khác tạo ra pipeline automation 'lazy dev' hoàn toàn.",
+    "Sử dụng để tự động refactor code legacy thành các mẫu hiện đại.",
+    "Triển khai làm hệ thống tự động sinh document cho codebase dựa trên phong cách viết 'lazy'."
+  ],
+  "stars": 108701,
+  "starsToday": 664,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "cursor-rules",
+    "developer-tools",
+    "llm",
+    "prompt-engineering",
+    "yagni"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-23T18:22:11.191Z"
+}

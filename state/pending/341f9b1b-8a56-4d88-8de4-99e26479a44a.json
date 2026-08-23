@@ -1,0 +1,23 @@
+{
+  "id": "341f9b1b-8a56-4d88-8de4-99e26479a44a",
+  "repo": "Alishahryar1/free-claude-code",
+  "url": "https://github.com/Alishahryar1/free-claude-code",
+  "category": "AI/LLM",
+  "summary": "Giúp người dùng truy cập miễn phí các mô hình AI viết code như Claude Code, Codex, Pi và OpenCode từ terminal, ứng dụng, IDE hoặc điện thoại, với hơn 1.3 tỷ token miễn phí và hỗ trợ giọng nói.",
+  "usecases": [
+    "Viết code nhanh mà không cần trả phí API",
+    "Tích hợp với terminal/IDE làm việc linh hoạt",
+    "Hỗ trợ voice command để điều khiển code bằng giọng nói"
+  ],
+  "ideas": [
+    "Kết hợp với các lệnh shell để tự động hóa quy trình phát triển",
+    "Phát triển extension IDE sử dụng các mô hình AI miễn phí này",
+    "Tạo ứng dụng mobile giao diện voice-controlled để review code"
+  ],
+  "stars": 47800,
+  "starsToday": 1040,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-23T18:22:11.191Z"
+}

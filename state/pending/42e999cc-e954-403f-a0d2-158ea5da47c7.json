@@ -1,0 +1,36 @@
+{
+  "id": "42e999cc-e954-403f-a0d2-158ea5da47c7",
+  "repo": "VoltAgent/awesome-agent-skills",
+  "url": "https://github.com/VoltAgent/awesome-agent-skills",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách tổng hợp hơn 1000 kỹ năng agent tương thích với Claude Code, Codex, Gemini CLI và Cursor để tối ưu hóa quy trình phát triển AI.",
+  "usecases": [
+    "Tìm kiếm và triển khai kỹ năng cho agent tự viết code",
+    "Tích hợp vào pipeline CI/CD cho phát triển AI",
+    "Soạn thảo prompt và tác vụ tự động cho các mô hình LLM"
+  ],
+  "ideas": [
+    "Phát triển giao diện web tương tác để duyệt kỹ năng",
+    "Tạo plugin cho IDE hiển thị kỹ năng phù hợp",
+    "Mở rộng danh sách cho các framework AI mới nổi"
+  ],
+  "stars": 31155,
+  "starsToday": 223,
+  "language": "",
+  "topics": [
+    "awesome-list",
+    "claude-code",
+    "claude-skills",
+    "ai-agents",
+    "skills",
+    "agent-skills",
+    "claude-code-skills",
+    "codex-skills",
+    "cursor-skills",
+    "gemini-skills",
+    "opencode-skills",
+    "awesome"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-08-23T18:22:11.191Z"
+}
