@@ -1,0 +1,30 @@
+{
+  "id": "dbb25274-9014-448d-ae06-90902c845b99",
+  "repo": "Comfy-Org/ComfyUI",
+  "url": "https://github.com/Comfy-Org/ComfyUI",
+  "category": "AI/LLM",
+  "summary": "Một giao diện GUI, API và backend mạnh mẽ và modular cho các mô hình diffusion, sử dụng graph/nodes để tạo và quản lý hình ảnh AI.",
+  "usecases": [
+    "Tạo và tùy chỉnh hình ảnh AI (text-to-image) với các mô hình diffusion.",
+    "Xây dựng pipeline tạo ảnh tự động cho các dự án sáng tạo hoặc thương mại.",
+    "Nghiên cứu và triển khai các architecture AI mới với giao diện đồ họa linh hoạt."
+  ],
+  "ideas": [
+    "Kết hợp với các agent AI để tự động tạo nội dung hình ảnh theo yêu cầu.",
+    "Triển khai trên cloud (AWS/GCP) để generate bulk images.",
+    "Sử dụng làm nền tảng cho các trò chơi AI hoặc các ứng trí tương tác thời thực."
+  ],
+  "stars": 129123,
+  "starsToday": 179,
+  "language": "Python",
+  "topics": [
+    "stable-diffusion",
+    "pytorch",
+    "ai",
+    "python",
+    "comfy",
+    "comfyui"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-23T12:28:12.581Z"
+}

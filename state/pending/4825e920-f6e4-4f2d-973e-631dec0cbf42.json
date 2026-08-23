@@ -1,0 +1,23 @@
+{
+  "id": "4825e920-f6e4-4f2d-973e-631dec0cbf42",
+  "repo": "AnmolSaini16/mapcn",
+  "url": "https://github.com/AnmolSaini16/mapcn",
+  "category": "UI/Component Library",
+  "summary": "Các thành phần bản đồ đẹp mắt, miễn phí hoàn toàn, cài đặt bằng một lệnh, phù hợp cho các dự án cần hiển thị bản đồ nhanh.",
+  "usecases": [
+    "Hiển thị bản đồ tương tác trong web apps mà không cần cấu hình phức tạp.",
+    "Tích hợp bản đồ vào dashboard hoặc landing page với zero setup.",
+    "Tạo bản đồ động cho các dự án giáo dục hoặc giao thông."
+  ],
+  "ideas": [
+    "Kết hợp với React framework để tạo component map có thể tùy chỉnh theme.",
+    "Sử dụng làm基础 (base) cho các ứng dụng định vị địa lý hoặc tracking.",
+    "Phát triển plugin cho các trình soạn thảo code hoặc CMS."
+  ],
+  "stars": 11756,
+  "starsToday": 184,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-08-23T12:28:12.581Z"
+}

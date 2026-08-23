@@ -1,0 +1,35 @@
+{
+  "id": "8dea6dad-c6ea-4ae3-b5fa-b7116965a7d9",
+  "repo": "bookorbit/bookorbit",
+  "url": "https://github.com/bookorbit/bookorbit",
+  "category": "Web Frontend",
+  "summary": "BookOrbit là ứng dụng đọc sách self-hosted cho phép quản lý thư viện số, audiobook và ebook. Giao diện hiện đại được xây dựng trên Vue và NestJS.",
+  "usecases": [
+    "Quản lý và đọc tập hợp ebook/audiobook cá nhân trên máy chủ riêng.",
+    "Truy cập thư viện sách từ nhiều thiết bị thông qua giao diện web responsive.",
+    "Tích hợp xác thực đơn nhất (SSO) và quản lý metadata sách tự động."
+  ],
+  "ideas": [
+    "Kết hợp với các dịch vụ nghe sách như Audible thông qua API mở để mở rộng thư viện.",
+    "Thêm tính năng gợi ý sách dựa trên lịch sử đọc và AI.",
+    "Triển khai ứng dụng PWA để đọc offline trên tablet và điện thoại."
+  ],
+  "stars": 2992,
+  "starsToday": 296,
+  "language": "TypeScript",
+  "topics": [
+    "library-management",
+    "audiobook-player",
+    "digital-library",
+    "docker",
+    "ebook-reader",
+    "metadata-management",
+    "nestjs",
+    "oidc-single-sign-on",
+    "opds",
+    "self-hosted",
+    "vue"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-08-23T12:28:12.581Z"
+}

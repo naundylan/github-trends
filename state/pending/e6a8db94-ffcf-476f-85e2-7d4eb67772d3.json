@@ -1,0 +1,44 @@
+{
+  "id": "e6a8db94-ffcf-476f-85e2-7d4eb67772d3",
+  "repo": "makeplane/plane",
+  "url": "https://github.com/makeplane/plane",
+  "category": "Developer Tool",
+  "summary": "Nền tảng quản lý dự án mã nguồn mở hiện đại, hoạt động như một thay thế cho Jira, Linear, Monday và ClickUp, giúp quản lý tác vụ, sprints, docs và triage.",
+  "usecases": [
+    "Quản lý dự án và theo dõi tiến độ cho các đội ngũ phát triển phần mềm.",
+    "Theo dõi lỗi (issue tracking) và lập kế hoạch phát triển (gantt/kanban) cho dự án.",
+    "Thay thế các công cụ thương mại như Jira/Linear với chi phí thấp hơn và khả năng tùy chỉnh."
+  ],
+  "ideas": [
+    "Triển khai riêng tư cho các công ty muốn kiểm soát dữ liệu hoàn toàn nội bộ.",
+    "Tích hợp với các công cụ DevOps khác để tự động hóa quy trình CI/CD.",
+    "Tạo giao diện riêng cho các dự án nguồn mở hoặc cộng đồng phát triển."
+  ],
+  "stars": 57428,
+  "starsToday": 404,
+  "language": "TypeScript",
+  "topics": [
+    "django",
+    "docker",
+    "kanban",
+    "project-management",
+    "python",
+    "react",
+    "jira",
+    "jira-alternative",
+    "linear",
+    "postgresql",
+    "redis",
+    "issue-tracker",
+    "product-management",
+    "work-management",
+    "vite",
+    "boards",
+    "bug-tracker",
+    "gantt",
+    "project-planning",
+    "typescipt"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-23T12:28:12.581Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "dcf38148-a230-4565-9ecf-7e08f5fbf218",
+  "repo": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "category": "AI Agent/Automation",
+  "summary": "Một công cụ JavaScript hướng dẫn AI agent áp dụng tư duy phát triển lười, ưu tiên ít code nhất và tránh các triển khai không cần thiết.",
+  "usecases": [
+    "Tăng tốc prototyping bằng cách cho AI tạo chỉ code cần thiết, giảm boilerplate.",
+    "Dùng như assistant review code để đánh giá các giải pháp quá phức tạp và đề xuất các phương án đơn giản hơn.",
+    "Tích hợp vào pipelines CI để áp đặt tiêu chuẩn code-minimal trên pull requests."
+  ],
+  "ideas": [
+    "Kết hợp với prompt engineering để tạo 'lazy dev mode' cho bất kỳ LLM coding assistant nào.",
+    "Phát triển extension VS Code gợi ý thay đổi tuân theo yagni theo thời gian thực.",
+    "Xây dashboard theo dõi chỉ số 'code không cần thiết' qua toàn bộ codebase theo thời gian."
+  ],
+  "stars": 108523,
+  "starsToday": 789,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "cursor-rules",
+    "developer-tools",
+    "llm",
+    "prompt-engineering",
+    "yagni"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-23T12:28:12.581Z"
+}
