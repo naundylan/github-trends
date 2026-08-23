@@ -1,0 +1,35 @@
+{
+  "id": "908dc841-daac-47af-a18e-1c988125f3da",
+  "repo": "heygen-com/hyperframes",
+  "url": "https://github.com/heygen-com/hyperframes",
+  "category": "AI Agent/Automation",
+  "summary": "Hyperframes là một framework TypeScript cho phép viết HTML và render video, được thiết kế đặc biệt cho các AI agent để tự động tạo và xử lý nội dung video động.",
+  "usecases": [
+    "AI agents tự động tạo video promotional hoặc demo bằng cách viết HTML/CSS/JS",
+    "Render animation và visual effects cho các ứng dụng web dựa trên agent",
+    "Tích hợp với Puppeteer/FFmpeg để xử lý pipeline video tự động"
+  ],
+  "ideas": [
+    "Sử dụng Hyperframes để generate video cho các AI tutor hoặc chatbot avatar",
+    "Kết hợp với MCP (Multi-Agent Protocol) để các agent cùng render video chung nhau",
+    "Export video kết quả thành định dạng web-optimized cho các landing page động"
+  ],
+  "stars": 42247,
+  "starsToday": 149,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "animation",
+    "ffmpeg",
+    "framework",
+    "gsap",
+    "html",
+    "mcp",
+    "puppeteer",
+    "rendering",
+    "typescript",
+    "video"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-23T15:25:40.206Z"
+}

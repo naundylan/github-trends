@@ -1,0 +1,28 @@
+{
+  "id": "84279d87-19f3-42ba-a017-c7951b20cf74",
+  "repo": "microsoft/TypeScript",
+  "url": "https://github.com/microsoft/TypeScript",
+  "category": "Web Frontend",
+  "summary": "Statically-typed superset of JavaScript that compiles to clean JS, enabling scalable development and error prevention for large web applications.",
+  "usecases": [
+    "Add type safety to JavaScript projects to catch errors early during development.",
+    "Enable scalable maintenance of large frontend codebases with interfaces, generics, and tooling.",
+    "Share type definitions across frontend and backend (Node.js) for consistent API contracts."
+  ],
+  "ideas": [
+    "Develop a custom DSL or domain-specific language that compiles to TS for specialized applications.",
+    "Build a type-safe configuration layer for microservices that validates env vars and API specs at compile time.",
+    "Create an interactive learning platform that teaches JS concepts through live TypeScript compilation and type error visualization."
+  ],
+  "stars": 110612,
+  "starsToday": 168,
+  "language": "Go",
+  "topics": [
+    "typescript",
+    "javascript",
+    "language",
+    "typechecker"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-08-23T15:25:40.206Z"
+}

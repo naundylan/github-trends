@@ -1,0 +1,44 @@
+{
+  "id": "988aa751-9c75-4ea9-b391-cf4d70d3ee1f",
+  "repo": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "category": "AI/LLM",
+  "summary": "VoiceStudio là thay thế cục bộ toàn diện cho ElevenLabs, cung cấp cloning giọng, thiết kế giọng, đọc đè video, bản dịch và tạo sách nghe bằng 646 ngôn ngữ, chạy hoàn toàn trên thiết bị local.",
+  "usecases": [
+    "Tạo nội dung sách nghe với giọng nói tùy chỉnh và cloning giọng",
+    "Bản dịch video và dubbing đa ngôn ngữ cho nội dung truyền thông",
+    "Triển khai TTS và speech-to-text cho ứng dụng trong môi trường có hạn chế kết nối"
+  ],
+  "ideas": [
+    "Kết hợp VoiceStudio với mô hình LLM để tạo hệ thống trợ lý thoại tự động",
+    "Phát triển plugin cho phần mềm dựng phim để tự động tạo lời bình và dubbing",
+    "Sử dụng cho ứng dụng giáo dục tạo giọng đọc đa ngôn ngữ cho sách giáo khoa"
+  ],
+  "stars": 11366,
+  "starsToday": 119,
+  "language": "Python",
+  "topics": [
+    "tts",
+    "voice-cloning",
+    "voice-generation",
+    "voice-ai",
+    "ai",
+    "cuda",
+    "mlx",
+    "huggingface",
+    "transcription",
+    "translate",
+    "workflow",
+    "omnivoice-studio",
+    "dubbing",
+    "audiobook",
+    "elevenlabs-alternative",
+    "local-first",
+    "speech-to-text",
+    "tauri",
+    "text-to-speech",
+    "voicestudio"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-23T15:25:40.206Z"
+}

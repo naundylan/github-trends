@@ -1,0 +1,23 @@
+{
+  "id": "3467061c-62fc-46ae-b2e8-77a157122984",
+  "repo": "anthropics/claude-code",
+  "url": "https://github.com/anthropics/claude-code",
+  "category": "AI Agent/Automation",
+  "summary": "Agentic terminal-based AI coding assistant that automates routine development tasks, explains code, and manages git workflows via natural language commands.",
+  "usecases": [
+    "Automate repetitive coding tasks like boilerplate generation and refactoring across a codebase.",
+    "Quickly understand and navigate unfamiliar codebases by having the agent explain functions and architecture.",
+    "Streamline git workflows: commit, branch management, and PR creation via natural language prompts."
+  ],
+  "ideas": [
+    "Integrate with project management tools to auto-generate tickets from code changes.",
+    "Build a 'coding coach' that reviews PRs and suggests improvements before merge.",
+    "Create a multi-language codebase orchestrator that understands and migrates code between Python, JS, and Go."
+  ],
+  "stars": 142724,
+  "starsToday": 377,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-23T15:25:40.206Z"
+}

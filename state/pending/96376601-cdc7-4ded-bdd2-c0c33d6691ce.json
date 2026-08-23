@@ -1,0 +1,29 @@
+{
+  "id": "96376601-cdc7-4ded-bdd2-c0c33d6691ce",
+  "repo": "google/sam",
+  "url": "https://github.com/google/sam",
+  "category": "AI Agent/Automation",
+  "summary": "SAM (Sovereign Agent Mesh) là một mạng lưới agent phân tán (P2P) dùng để kết nối và quản lý các AI agent an toàn qua mạng, tập trung vào giao thức an toàn và giao tiếp giữa agent.",
+  "usecases": [
+    "Triển khai các agent AI phân tán có thể giao tiếp an toàn mà không cần trung tâm",
+    "Xây dựng mạng lưới agent cho các ứng dụng AI edge computing",
+    "Tích hợp an ninh mạng cho các hệ thống agentic AI trong môi trường doanh nghiệp"
+  ],
+  "ideas": [
+    "Sử dụng SAM làm nền tảng cho các hệ thống tự trị trong các môi trường không có kết nối liên tục",
+    "Kết hợp với các framework AI khác để tạo nên các hệ thống multi-agent hợp tác giải quyết bài toán phức tạp",
+    "Áp dụng cho các ứng dụng Web3 hoặc decentralized AI nơi agent cần giao tiếp P2P mà không có server trung tâm"
+  ],
+  "stars": 562,
+  "starsToday": 136,
+  "language": "Go",
+  "topics": [
+    "agentic-ai",
+    "p2p-network",
+    "network-security",
+    "networking-ai",
+    "mcp"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-23T15:25:40.206Z"
+}

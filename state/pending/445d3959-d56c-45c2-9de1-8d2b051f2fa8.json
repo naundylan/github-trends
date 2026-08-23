@@ -1,0 +1,26 @@
+{
+  "id": "445d3959-d56c-45c2-9de1-8d2b051f2fa8",
+  "repo": "ibelick/ui-skills",
+  "url": "https://github.com/ibelick/ui-skills",
+  "category": "UI/Component Library",
+  "summary": "ui-skills là một bộ tài liệu và kỹ năng dành cho Design Engineers, cung cấp hướng dẫn hệ thống các kỹ năng cần thiết để xây dựng và nâng cao chất lượng giao diện người dùng.",
+  "usecases": [
+    "Design engineers nhanh chóng tra cứu và đánh giá các kỹ năng UI cần thiết cho dự án của mình.",
+    "Các team chuẩn hóa yêu cầu và tiêu chí đánh giá kỹ năng giao diện trong quy trình phát triển.",
+    "Học viên tự học xây dựng lộ trình phát triển chuyên sâu về UI/UX dựa trên taxonomy kỹ năng được cung cấp."
+  ],
+  "ideas": [
+    "Tích hợp với Figma Plugin để gợi ý kỹ năng UI tự động dựa trên thiết kế.",
+    "Xây dựng generator lộ trình học tập cá nhân sử dụng taxonomy kỹ năng.",
+    "Phát triển extension VS Code hiển thị ui-skills liên quan theo ngữ cảnh cursor."
+  ],
+  "stars": 7497,
+  "starsToday": 110,
+  "language": "TypeScript",
+  "topics": [
+    "skills",
+    "ui-skills"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-08-23T15:25:40.206Z"
+}
