@@ -1,0 +1,30 @@
+{
+  "id": "3ec464b5-8750-4b34-a3a1-be48b47dab31",
+  "repo": "dani-garcia/vaultwarden",
+  "url": "https://github.com/dani-garcia/vaultwarden",
+  "category": "Developer Tool",
+  "summary": "Server mật khẩu mã nguồn mở tương thích Bitwarden, viết bằng Rust và thường được triển khai qua Docker, cung cấp giải pháp quản lý bí mật self-hosted an toàn.",
+  "usecases": [
+    "Self-hosted quản lý mật khẩu cho cá nhân và doanh nghiệp tránh phụ thuộc cloud",
+    "Đồng bộ credential giữa nhiều thiết bị với độ an toàn cao",
+    "Tích hợp với domain cá nhân và SSO trong mạng nội bộ"
+  ],
+  "ideas": [
+    "Thêm tính năng TOTP và quản lý 2FA tích hợp sẵn",
+    "Phát triển extension trình duyệt tự động điền mật khẩu và đồng bộ",
+    "Xây dựng phiên bản multi-tenant cho cung cấp dịch vụ quản lý mật khẩu SaaS"
+  ],
+  "stars": 65846,
+  "starsToday": 68,
+  "language": "Rust",
+  "topics": [
+    "vaultwarden",
+    "bitwarden",
+    "rust",
+    "docker",
+    "rocket",
+    "bitwarden-rs"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-23T03:47:04.460Z"
+}

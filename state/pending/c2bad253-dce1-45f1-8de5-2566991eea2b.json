@@ -1,0 +1,28 @@
+{
+  "id": "c2bad253-dce1-45f1-8de5-2566991eea2b",
+  "repo": "microsoft/TypeScript",
+  "url": "https://github.com/microsoft/TypeScript",
+  "category": "Developer Tool",
+  "summary": "TypeScript là superset của JavaScript, biên dịch sang JS thuần túy, cung cấp hệ thống kiểu tĩnh và công cụ phát triển nâng cao cho các dự án quy mô lớn.",
+  "usecases": [
+    "Phát triển ứng dụng JavaScript lớn với an toàn kiểu dữ liệu",
+    "Tích hợp vào CI/CD để catch lỗi sớm",
+    "Chia sẻ type definitions giữa frontend và backend"
+  ],
+  "ideas": [
+    "Tạo custom plugin compiler cho quy tắc doanh nghiệp",
+    "Phát triển hệ thống type-safe cho microservices",
+    "Kết hợp AI để tự động generate type definitions"
+  ],
+  "stars": 110556,
+  "starsToday": 104,
+  "language": "Go",
+  "topics": [
+    "typescript",
+    "javascript",
+    "language",
+    "typechecker"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-23T03:47:04.460Z"
+}

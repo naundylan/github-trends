@@ -1,0 +1,30 @@
+{
+  "id": "705ed3fc-be26-4b40-84c8-10da7884a750",
+  "repo": "alibaba/open-code-review",
+  "url": "https://github.com/alibaba/open-code-review",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ review code nhanh và hiệu quả tại quy mô Alibaba, kết hợp pipeline xác định với Agent LLM để bình luận chính xác từng dòng, kèm quy tắc đa ngôn ngữ chống lỗ hiểm như NPE, thread-safety, XSS, SQL injection.",
+  "usecases": [
+    "Tự động hóa review code trong CI/CD cho các team lớn",
+    "Cung cấp feedback bảo mật và chất lượng code dựa trên AI tại từng dòng",
+    "Tích hợp với OpenAI/Anthropic để tùy chỉnh quy tắc review"
+  ],
+  "ideas": [
+    "Kết hợp LLM cá nhân hóa với chính sách code nội bộ để tự động sửa lỗi",
+    "Phát triển module triage PR tự động gán reviewer và đánh giá rủi ro",
+    "Triển khai self-hosted code review platform an toàn cho doanh nghiệp"
+  ],
+  "stars": 21152,
+  "starsToday": 71,
+  "language": "Go",
+  "topics": [
+    "agent",
+    "code-review",
+    "code-review-assistant",
+    "harness",
+    "repository-level-context",
+    "agent-skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-23T03:47:04.460Z"
+}

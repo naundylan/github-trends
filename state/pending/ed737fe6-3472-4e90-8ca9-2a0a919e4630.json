@@ -1,0 +1,23 @@
+{
+  "id": "ed737fe6-3472-4e90-8ca9-2a0a919e4630",
+  "repo": "tashfeenahmed/freellmapi",
+  "url": "https://github.com/tashfeenahmed/freellmapi",
+  "category": "AI/LLM",
+  "summary": "Proxy OpenAI-compatible kết hợp free tiers của 28 nhà cung cấp LLM (~4B tokens/tháng) qua endpoint /v1 duy nhất, hỗ trợ routing thông minh và failover tự động.",
+  "usecases": [
+    "Experiment với nhiều LLM provider không cần chi phí",
+    "Provide unified API cho ứng dụng gọi nhiều model",
+    "Tự động failover khi provider nào đó unavailable"
+  ],
+  "ideas": [
+    "Tích hợp caching để tối ưu chi phí token",
+    "Phát triển dashboard theo dõi sử dụng tokens",
+    "Tạo template dự án AI đa-model sẵn dùng"
+  ],
+  "stars": 19377,
+  "starsToday": 107,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-23T03:47:04.460Z"
+}

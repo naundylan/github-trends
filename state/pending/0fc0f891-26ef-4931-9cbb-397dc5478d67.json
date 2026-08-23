@@ -1,0 +1,44 @@
+{
+  "id": "0fc0f891-26ef-4931-9cbb-397dc5478d67",
+  "repo": "shy3130/tickflow-stock-panel",
+  "url": "https://github.com/shy3130/tickflow-stock-panel",
+  "category": "Other",
+  "summary": "TSP là bảng điều khiển tự hosting cho phân tích A-stock, kết hợp backtest, screener và hỗ trợ LLM tùy chỉnh chiến lược, cùng khả năng kết nối dữ liệu tài chính bên ngoài.",
+  "usecases": [
+    "Phân tích và lọc mã A-stock dựa trên chiến lược tùy chỉnh với hỗ trợ LLM.",
+    "Thực hiện backtest dữ liệu lịch sử và theo dõi hiệu suất đầu tư trên môi trường tự hosting.",
+    "Kết nối và tích hợp dữ liệu tài chính bên thứ ba để mở rộng khả năng phân tích."
+  ],
+  "ideas": [
+    "Tích hợp báo cáo tài chính thời gian thực từ nhiều nguồn để tạo dashboard cá nhân hóa.",
+    "Phát triển module phân tích cảm xúc thị trường sử dụng LLM kết hợp dữ liệu lịch sử.",
+    "Cho phép xuất chiến lược thành giao dịch tự động cho các nền tảng broker tương thích."
+  ],
+  "stars": 3468,
+  "starsToday": 82,
+  "language": "Python",
+  "topics": [
+    "a-stock",
+    "ai-agent",
+    "aigc",
+    "backtesting",
+    "duckdb",
+    "fastapi",
+    "llm",
+    "polars",
+    "quant",
+    "quantitative-finance",
+    "quantitative-trading",
+    "react",
+    "screener",
+    "self-hosted",
+    "stock-analysis",
+    "tickflow",
+    "tdx",
+    "daily",
+    "stock",
+    "tsp"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-23T03:47:04.460Z"
+}
