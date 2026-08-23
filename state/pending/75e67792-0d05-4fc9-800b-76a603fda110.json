@@ -1,0 +1,44 @@
+{
+  "id": "75e67792-0d05-4fc9-800b-76a603fda110",
+  "repo": "vllm-project/vllm",
+  "url": "https://github.com/vllm-project/vllm",
+  "category": "AI/LLM",
+  "summary": "Một engine inference và serving cao throughput và tiết kiệm memory cho LLMs, tối ưu hóa hiệu suất triển khai và phục vụ mô hình ngôn ngữ lớn.",
+  "usecases": [
+    "Triển khai serving LLM với throughput cao cho ứng dụng sản xuất cần phản hồi nhanh.",
+    "Giảm memory consumption khi chạy inference các mô hình lớn trên hardware tiêu chuẩn hoặc GPU.",
+    "Hỗ trợ inference và serving cho các nghiên cứu mô hình MoE, quantized models, và đa dạng architecture."
+  ],
+  "ideas": [
+    "Triển khai serving LLM trên edge devices hoặc cloud với latency thấp.",
+    "Tích hợp vào pipeline RAG (Retrieval-Augmented Generation) cho tốc độ truy xuất và tạo nội dung.",
+    "Sử dụng cho inference MoE models với chi phí tính toán giảm đáng kể so với PyTorch gốc."
+  ],
+  "stars": 89757,
+  "starsToday": 71,
+  "language": "Python",
+  "topics": [
+    "gpt",
+    "llm",
+    "pytorch",
+    "model-serving",
+    "transformer",
+    "llm-serving",
+    "inference",
+    "llama",
+    "amd",
+    "cuda",
+    "tpu",
+    "deepseek",
+    "qwen",
+    "blackwell",
+    "deepseek-v3",
+    "gpt-oss",
+    "kimi",
+    "moe",
+    "openai",
+    "qwen3"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-23T09:26:27.214Z"
+}

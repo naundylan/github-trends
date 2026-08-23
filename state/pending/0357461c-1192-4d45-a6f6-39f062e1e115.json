@@ -1,0 +1,28 @@
+{
+  "id": "0357461c-1192-4d45-a6f6-39f062e1e115",
+  "repo": "dani-garcia/vaultwarden",
+  "url": "https://github.com/dani-garcia/vaultwarden",
+  "category": "Security/Pentest",
+  "summary": "Server mật khẩu không chính thức tương thích Bitwarden, viết bằng Rust và triển khai qua Docker để lưu trữ bí mật trên máy chủ riêng.",
+  "usecases": [
+    "Lưu trữ và quản lý bí mật cá nhân trên server riêng thay vì dùng đám mây bên thứ ba.",
+    "Triển khai trong doanh nghiệp cần tuân thủ chính sách bảo mật dữ liệu cứng."
+  ],
+  "ideas": [
+    "Tích hợp plugin tự động sao lưu và khôi phục dữ liệu vault.",
+    "Phát triển hệ thống xác thực đa yếu tố tùy chỉnh dựa trên vault."
+  ],
+  "stars": 65858,
+  "starsToday": 68,
+  "language": "Rust",
+  "topics": [
+    "vaultwarden",
+    "bitwarden",
+    "rust",
+    "docker",
+    "rocket",
+    "bitwarden-rs"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-08-23T09:26:27.214Z"
+}

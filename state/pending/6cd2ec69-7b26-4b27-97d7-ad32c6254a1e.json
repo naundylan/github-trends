@@ -1,0 +1,26 @@
+{
+  "id": "6cd2ec69-7b26-4b27-97d7-ad32c6254a1e",
+  "repo": "aaif-goose/goose",
+  "url": "https://github.com/aaif-goose/goose",
+  "category": "Other",
+  "summary": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+  "usecases": [
+    "Khám phá và đánh giá aaif-goose/goose cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 53277,
+  "starsToday": 81,
+  "language": "Rust",
+  "topics": [
+    "mcp",
+    "acp",
+    "ai",
+    "ai-agents"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-23T09:26:27.214Z"
+}
