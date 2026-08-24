@@ -1,0 +1,21 @@
+{
+  "id": "8d7132f5-3dc6-40ad-86d6-155a7e91eb74",
+  "repo": "garrytan/gstack",
+  "url": "https://github.com/garrytan/gstack",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ công cụ Claude Code có 23 thiết lập có tính cách, đóng vai trò CEO, Thiết kế, Trưởng nhóm kỹ thuật, Quản lý phát hành, Kỹ sư tài liệu và QA để tự động hóa quy trình phát triển phần mềm.",
+  "usecases": [
+    "Tự động hóa review code và quy trình CI/CD",
+    "Giúp tạo tài liệu dự án và quản lý release"
+  ],
+  "ideas": [
+    "Kết hợp với CI pipeline để tự động test và deploy",
+    "Sử dụng làm AI assistant cho team remote để track progress"
+  ],
+  "stars": 129429,
+  "starsToday": 151,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-24T15:41:42.339Z"
+}

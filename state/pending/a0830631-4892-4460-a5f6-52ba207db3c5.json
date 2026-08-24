@@ -1,0 +1,23 @@
+{
+  "id": "a0830631-4892-4460-a5f6-52ba207db3c5",
+  "repo": "marin-community/marin",
+  "url": "https://github.com/marin-community/marin",
+  "category": "AI/LLM",
+  "summary": "Marin là framework mã nguồn mở nổi bật cho nghiên cứu và phát triển các mô hình foundation AI.",
+  "usecases": [
+    "Nghiên cứu và tạo prototyping cho các ứng dụng AI lớn",
+    "Tùy chỉnh và fine-tuning các model foundation quy mô lớn",
+    "Xây dựng pipeline training mô hình ngôn ngữ"
+  ],
+  "ideas": [
+    "Kết hợp với RAG cá nhân để tạo trợ lý AI cá nhân",
+    "Phát triển platform phân tán training foundation models",
+    "Sử dụng làm nền tảng cho các ứng dụng AI doanh nghiệp nội bộ"
+  ],
+  "stars": 1706,
+  "starsToday": 225,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-24T15:41:42.339Z"
+}

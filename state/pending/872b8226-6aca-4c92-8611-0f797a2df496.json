@@ -1,0 +1,38 @@
+{
+  "id": "872b8226-6aca-4c92-8611-0f797a2df496",
+  "repo": "apache/maka",
+  "url": "https://github.com/apache/maka",
+  "category": "AI/LLM",
+  "summary": "Apache Maka là một workspace AI agent local-first, ghi lại tin nhắn, cuộc gọi công cụ, kết quả công cụ, quyết định quyền hạn và sự kiện kết thúc như một log append-only. Dùng TypeScript.",
+  "usecases": [
+    "Xây dựng hệ thống AI agent có thể lưu trữ dữ liệu locally với khả năng truy cập nhanh.",
+    "Quản lý các tác vụ đa nhiệm bằng cách ghi lại lịch sử tương tác của AI.",
+    "Tích hợp với Electron để tạo ứng dụng desktop cho AI agent."
+  ],
+  "ideas": [
+    "Kết hợp với Electron để tạo ứng dụng desktop cho AI agent.",
+    "Sử dụng event-sourcing để xây dựng hệ thống state management cho agent.",
+    "Tích hợp với CLI tool để chạy agent trên máy tính cá nhân."
+  ],
+  "stars": 2725,
+  "starsToday": 408,
+  "language": "TypeScript",
+  "topics": [
+    "agent-runtime",
+    "ai",
+    "ai-agent",
+    "apache",
+    "cli",
+    "desktop",
+    "electron",
+    "event-sourcing",
+    "llm",
+    "local-first",
+    "maka",
+    "tool-use",
+    "typescript",
+    "incubator"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-24T15:41:42.339Z"
+}

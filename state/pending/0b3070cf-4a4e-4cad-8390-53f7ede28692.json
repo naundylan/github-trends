@@ -1,0 +1,23 @@
+{
+  "id": "0b3070cf-4a4e-4cad-8390-53f7ede28692",
+  "repo": "tashfeenahmed/freellmapi",
+  "url": "https://github.com/tashfeenahmed/freellmapi",
+  "category": "AI/LLM",
+  "summary": "Proxy tương thích OpenAI kết hợp các nhà cung cấp LLM miễn phí, cung cấp endpoint /v1 đơn nhất với định tuyến thông minh và chuyển đổi dự phòng tự động.",
+  "usecases": [
+    "Truy cập nhiều mô hình LLM thông qua một endpoint duy nhất cho mục đích phát triển và test.",
+    "Tối chi phí bằng cách sử dụng các tier miễn phí của nhiều provider LLM khác nhau.",
+    "Triển khai ứng dụng AI với khả năng chuyển đổi dự phòng giữa các provider để đảm bảo độ tin cậy."
+  ],
+  "ideas": [
+    "Thêm hệ thống caching để giảm chi phí token và tăng tốc độ phản hồi cho các yêu cầu lặp lại.",
+    "Mở rộng hỗ trợ để bao gồm các mô hình LLM nội bộ hoặc self-hosted.",
+    "Tạo dashboard quản lý sử dụng và chi phí cho từng provider LLM cho các doanh nghiệp."
+  ],
+  "stars": 19661,
+  "starsToday": 153,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-24T15:41:42.339Z"
+}

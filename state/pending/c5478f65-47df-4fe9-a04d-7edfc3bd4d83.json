@@ -1,0 +1,38 @@
+{
+  "id": "c5478f65-47df-4fe9-a04d-7edfc3bd4d83",
+  "repo": "asciimoo/hister",
+  "url": "https://github.com/asciimoo/hister",
+  "category": "CLI Tool",
+  "summary": "Hister là công cụ search engine Go nổi bật cho phép cá nhân hóa tìm kiếm lịch sử duyệt web.",
+  "usecases": [
+    "Tạo bộ tìm kiếm riêng cho lịch sử duyệt web cá nhân",
+    "Truy xuất và phân tích dữ liệu tương tác nhanh",
+    "Xây dựng công cụ tư duy riêng tư an toàn"
+  ],
+  "ideas": [
+    "Kết hợp với LLM để cung cấp câu trả lời dựa trên lịch sử tìm kiếm",
+    "Phát triển plugin browser hiển thị kết quả trực quan",
+    "Sử dụng làm nền tảng internal search cho tập dữ liệu lớn"
+  ],
+  "stars": 2469,
+  "starsToday": 183,
+  "language": "Go",
+  "topics": [
+    "go",
+    "golang",
+    "history",
+    "index",
+    "search",
+    "search-engine",
+    "web",
+    "mcp",
+    "mcp-server",
+    "privacy",
+    "semantic-search",
+    "browser-history",
+    "personal-search",
+    "personal-search-engine"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-24T15:41:42.339Z"
+}

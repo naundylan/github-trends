@@ -1,0 +1,30 @@
+{
+  "id": "6f7ea7fe-c414-4329-b1a4-8379af773117",
+  "repo": "langchain-ai/deepagents",
+  "url": "https://github.com/langchain-ai/deepagents",
+  "category": "AI/LLM",
+  "summary": "Battery-included agent harness, hỗ trợ deepagents, langgraph, ai, python. Dành cho việc xây dựng các agent AI hoàn chỉnh.",
+  "usecases": [
+    "Phát triển các agent AI có thể thực hiện các tác vụ phức tạp theo cấu trúc graph.",
+    "Tạo pipeline xử lý ngôn ngữ tự nhiên (NLP) với khả năng tự động hóa.",
+    "Sử dụng LangGraph để thiết kế các ứng dụng agent có trạng thái và hành vi phức tạp."
+  ],
+  "ideas": [
+    "Tích hợp với LangChain để tạo các agent có thể chạy trực tiếp trên serverless functions.",
+    "Xây dựng framework cho các agent multi-modal kết hợp hình ảnh và văn bản.",
+    "Sử dụng deepagents để test và debug các model AI trước khi triển khai."
+  ],
+  "stars": 28357,
+  "starsToday": 231,
+  "language": "Python",
+  "topics": [
+    "deepagents",
+    "langchain",
+    "langgraph",
+    "ai",
+    "python",
+    "typescript"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-24T15:41:42.339Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "3f0bc892-ce65-4f4c-be63-feac05415aae",
+  "repo": "iptv-org/iptv",
+  "url": "https://github.com/iptv-org/iptv",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Thư viện kênh IPTV công khai toàn cầu, cung cấp danh sách播放 m3u cho TV và luồng phát trực tuyến.",
+  "usecases": [
+    "Xem TV trực tuyến qua các playlist m3u trên các thiết bị hỗ trợ.",
+    "Phát triển ứng dụng hoặc dịch vụ phát trực tuyến sử dụng các kênh đã cung cấp.",
+    "Tổng hợp và theo dõi các kênh truyền hình toàn cầu theo danh mục."
+  ],
+  "ideas": [
+    "Kết hợp với ứng dụng media player để tạo giao diện TV cá nhân và theo chủ đề.",
+    "Phát triển bot tự động cập nhật và lọc kênh IPTV không hoạt động.",
+    "Sử dụng làm nguồn nội dung cho hệ thống phát video phi tuyến tính hoặc học tập."
+  ],
+  "stars": 136611,
+  "starsToday": 159,
+  "language": "TypeScript",
+  "topics": [
+    "iptv",
+    "m3u",
+    "playlist",
+    "tv",
+    "streams"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-08-24T15:41:42.339Z"
+}
