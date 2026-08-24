@@ -1,0 +1,23 @@
+{
+  "id": "b24cba59-db0f-4d13-ab57-c83f97851989",
+  "repo": "basecamp/omarchy",
+  "url": "https://github.com/basecamp/omarchy",
+  "category": "Operating System/Kernel",
+  "summary": "Một hệ điều hành Linux hiện đại và trực quan, cung cấp giao diện terminal đẹp mắt và các tính năng tùy chỉnh cho nhà phát triển.",
+  "usecases": [
+    "Cung cấp môi trường terminal tùy chỉnh cho phát triển hàng ngày",
+    "Hỗ trợ tùy chỉnh giao diện và workflow cho các nhà phát triển",
+    "Có thể sử dụng làm hệ điều hành chính cho các máy làm việc sáng tạo"
+  ],
+  "ideas": [
+    "Kết hợp với các terminal manager như tmux hoặc oh-my-zsh để tạo môi trường phát triển toàn-in-one",
+    "Phát triển theme và plugin mở rộng cho omarchy",
+    "Tạo bản dựng Docker hoặc VM dựa trên omarchy để phân phối môi trường phát triển"
+  ],
+  "stars": 29677,
+  "starsToday": 1055,
+  "language": "Shell",
+  "topics": [],
+  "notePath": "notes/Operating-System-Kernel.md",
+  "createdAt": "2026-08-24T12:42:20.491Z"
+}

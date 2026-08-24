@@ -1,0 +1,40 @@
+{
+  "id": "7041edad-94a5-4bae-87dd-42dd5e43050d",
+  "repo": "vorssaint/vorssaint-utils",
+  "url": "https://github.com/vorssaint/vorssaint-utils",
+  "category": "Desktop App",
+  "summary": "một bộ công cụ mã nguồn mở cho thanh menu macOS, cung cấp các tính năng như chuyển đổi cửa sổ, theo dõi hệ thống, điều chỉnh âm lượng và quản lý ứng dụng",
+  "usecases": [
+    "thay thế Alt-Tab mặc định của macOS với giao diện tùy chỉnh",
+    "giám sát tài nguyên hệ thống và quản lý âm lượng trực tiếp từ thanh menu",
+    "tự động giữ máy tính thức khi cần và dễ dàng uninstall ứng dụng"
+  ],
+  "ideas": [
+    "kết hợp với shortcuts để tự động hóa workflow giữa các ứng dụng",
+    "phát triển plugin cho phép tùy chỉnh thêm các hành động hệ thống",
+    "đồng bộ cài đặt giữa các thiết bị macOS qua iCloud"
+  ],
+  "stars": 9970,
+  "starsToday": 2530,
+  "language": "Swift",
+  "topics": [
+    "alt-tab",
+    "app-uninstaller",
+    "appkit",
+    "finder",
+    "free",
+    "keep-awake",
+    "mac-os",
+    "menu-bar",
+    "menubar",
+    "open-source",
+    "swift",
+    "swift-ui",
+    "system-monitor",
+    "uninstaller",
+    "volume-mixer",
+    "window-switcher"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-08-24T12:42:20.491Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "d9631b2b-1d08-4a7d-9de2-3177b0a335b0",
+  "repo": "calesthio/OpenMontage",
+  "url": "https://github.com/calesthio/OpenMontage",
+  "category": "AI Agent/Automation",
+  "summary": "OpenMontage là hệ thống sản xuất video agentic mã nguồn mở, kết hợp 12 pipeline và hơn 100 công cụ để tạo video từ AI coding assistant.",
+  "usecases": [
+    "Tự động tạo video tiếp thị từ các prompt văn bản bằng các AI agent.",
+    "Prototyping nhanh nội dung video cho game dev hoặc kể chuyện với pipeline AI hỗ trợ.",
+    "Công cụ giáo dục cho việc học tích hợp AI với quy trình sản xuất video (FFmpeg, TTS, text-to-video)."
+  ],
+  "ideas": [
+    "Kết hợp với clon giọng thời gian thực cho người dẫn dắt video tương tác.",
+    "Phát triển plugin cho Blender hoặc Unreal Engine xuất trực tiếp vào pipeline OpenMontage.",
+    "Tạo AI video studio self-hosted cho tạo nội dung nhạy cảm về quyền riêng tư."
+  ],
+  "stars": 49974,
+  "starsToday": 352,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "claude",
+    "copilot",
+    "cursor",
+    "elevenlabs",
+    "ffmpeg",
+    "flux",
+    "image-generation",
+    "open-source",
+    "openai",
+    "python",
+    "remotion",
+    "stable-diffusion",
+    "text-to-speech",
+    "text-to-video",
+    "video-generation",
+    "video-production"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-24T12:42:20.491Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "e4c89a44-a32e-41f7-b0e5-18a66a737567",
+  "repo": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "category": "AI/LLM",
+  "summary": "Kho tài liệu và dự án hướng dẫn xây dựng hệ thống AI từ con số, bao gồm LLM, agents, computer vision, reinforcement learning và nhiều kỹ thuật liên quan.",
+  "usecases": [
+    "Học và thực hành xây dựng LLM từ con số theo từng bước.",
+    "Tạo và tùy chỉnh AI agents cho các tác vụ cụ thể.",
+    "Nghiên cứu và triển khai computer vision hoặc reinforcement learning trong dự án thực tế."
+  ],
+  "ideas": [
+    "Tích hợp với các framework Rust để tối ưu hiệu năng inference.",
+    "Xây dựng dashboard theo dõi hiệu suất AI agents theo thời gian thực.",
+    "Tạo khóa học tương tác tự động từ nội dung dự án."
+  ],
+  "stars": 48049,
+  "starsToday": 330,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-engineering",
+    "computer-vision",
+    "course",
+    "deep-learning",
+    "from-scratch",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "nlp",
+    "python",
+    "reinforcement-learning",
+    "rust",
+    "swarm-intelligence",
+    "transformers",
+    "tutorial",
+    "typescript"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-24T12:42:20.491Z"
+}

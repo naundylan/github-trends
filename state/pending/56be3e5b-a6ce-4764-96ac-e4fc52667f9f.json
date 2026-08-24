@@ -1,0 +1,30 @@
+{
+  "id": "56be3e5b-a6ce-4764-96ac-e4fc52667f9f",
+  "repo": "Comfy-Org/ComfyUI",
+  "url": "https://github.com/Comfy-Org/ComfyUI",
+  "category": "AI/LLM",
+  "summary": "Một giao diện GUI mạnh mẽ và modular cho các model diffusion, cung cấp nền backend API và giao diện đồ thị/node để tạo và điều chỉnh hình ảnh bằng AI Stable Diffusion.",
+  "usecases": [
+    "Tạo hình ảnh chất lượng cao cho thiết kế đồ họa và marketing bằng cách điều chỉnh các node trong đồ thị.",
+    "Phát triển và thử nghiệm các architecture mới cho generative AI mà không cần viết code phức tạp, chỉ cần kết nối các node.",
+    "Tích hợp vào các ứng dụng web để tạo nội dung hình ảnh động theo yêu cầu người dùng."
+  ],
+  "ideas": [
+    "Sử dụng ComfyUI làm engine tạo ảnh cho một nền tảng social media tự động tạo nội dung.",
+    "Kết hợp với dữ liệu thực tế để tạo ra các hình ảnh mô phỏng cho training các model tự lái.",
+    "Phát triển một dịch vụ tạo ảnh cá nhân hóa dựa trên phong cách người dùng, lưu trữ lịch sử tạo ảnh trong blockchain."
+  ],
+  "stars": 129696,
+  "starsToday": 592,
+  "language": "Python",
+  "topics": [
+    "stable-diffusion",
+    "pytorch",
+    "ai",
+    "python",
+    "comfy",
+    "comfyui"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-24T12:42:20.491Z"
+}

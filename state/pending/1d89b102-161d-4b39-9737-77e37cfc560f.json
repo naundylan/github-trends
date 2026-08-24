@@ -1,0 +1,37 @@
+{
+  "id": "1d89b102-161d-4b39-9737-77e37cfc560f",
+  "repo": "AprilNEA/OpenLogi",
+  "url": "https://github.com/AprilNEA/OpenLogi",
+  "category": "Desktop App",
+  "summary": "một ứng dụng desktop nguồn mở, local-first, thay thế Logitech Options+ để remap nút bấm, DPI và SmartShift cho chuột Logitech mà không cần tài khoản hoặc thu thập dữ liệu",
+  "usecases": [
+    "tùy chỉnh nút bấm chuột cho hiệu suất làm việc hoặc chơi game",
+    "điều chỉnh DPI và cảm độ chuột trên các hệ điều hành Linux/macOS/Windows mà không cần phần mềm chính thức",
+    "sử dụng tính năng SmartShift để chuyển đổi giữa nhiều hồ sơ chuột tùy ứng dụng"
+  ],
+  "ideas": [
+    "tích hợp hỗ trợ đa thiết bị để quản lý các chuột Logitech khác nhau trong cùng một giao diện",
+    "phát triển plugin cho phép tự động áp dụng cấu hình dựa trên ứng dụng đang chạy",
+    "mở API để cộng đồng tạo các hồ sơ cấu hình cho các game hoặc ứng dụng chuyên biệt"
+  ],
+  "stars": 15490,
+  "starsToday": 1102,
+  "language": "Rust",
+  "topics": [
+    "dpi",
+    "gpui",
+    "hid",
+    "hidpp",
+    "local-first",
+    "logitech",
+    "logitech-options",
+    "mouse-remapping",
+    "mx-master",
+    "privacy",
+    "rust",
+    "smartshift",
+    "logitech-mouse"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-08-24T12:42:20.491Z"
+}
