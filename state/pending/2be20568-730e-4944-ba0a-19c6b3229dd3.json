@@ -1,0 +1,44 @@
+{
+  "id": "2be20568-730e-4944-ba0a-19c6b3229dd3",
+  "repo": "makeplane/plane",
+  "url": "https://github.com/makeplane/plane",
+  "category": "Developer Tool",
+  "summary": "Open-source project management platform alternative to Jira/Linear, offering task tracking, sprint management, documentation, and issue tracking with a modern tech stack.",
+  "usecases": [
+    "Replace Jira/Linear in small to medium teams with a self-hosted, customizable project management solution.",
+    "Use as a centralized hub for sprint planning, bug tracking, and product roadmap visualization.",
+    "Integrate with CI/CD pipelines to auto-create issues from deployment failures or monitoring alerts."
+  ],
+  "ideas": [
+    "Build a mobile app companion for real-time sprint updates and task tracking.",
+    "Develop a plugin system for integrating with external tools like Slack, GitHub, or Notion.",
+    "Create a white-label version for agencies to manage multiple client projects under one instance."
+  ],
+  "stars": 57551,
+  "starsToday": 390,
+  "language": "TypeScript",
+  "topics": [
+    "django",
+    "docker",
+    "kanban",
+    "project-management",
+    "python",
+    "react",
+    "jira",
+    "jira-alternative",
+    "linear",
+    "postgresql",
+    "redis",
+    "issue-tracker",
+    "product-management",
+    "work-management",
+    "vite",
+    "boards",
+    "bug-tracker",
+    "gantt",
+    "project-planning",
+    "typescipt"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-24T00:52:47.689Z"
+}

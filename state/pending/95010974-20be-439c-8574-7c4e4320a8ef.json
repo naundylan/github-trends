@@ -1,0 +1,23 @@
+{
+  "id": "95010974-20be-439c-8574-7c4e4320a8ef",
+  "repo": "AnmolSaini16/mapcn",
+  "url": "https://github.com/AnmolSaini16/mapcn",
+  "category": "UI/Component Library",
+  "summary": "Thư viện component bản đồ đẹp, miễn phí 100%, không cần cấu hình phức tạp, cài đặt chỉ với một lệnh.",
+  "usecases": [
+    "Hiển thị bản đồ tương tác trong các web application",
+    "Dashboard hiển thị bản đồ phân phối địa lý",
+    "Ứng dụng logistics cần bản đồ nhanh và nhẹ"
+  ],
+  "ideas": [
+    "Kết hợp dữ liệu thời thực để hiển thị thay đổi trên bản đồ",
+    "Component map responsive cho mobile và desktop",
+    "Custom overlay với dữ liệu cá nhân hoặc doanh nghiệp"
+  ],
+  "stars": 11825,
+  "starsToday": 216,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-08-24T00:52:47.689Z"
+}

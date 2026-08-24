@@ -1,0 +1,37 @@
+{
+  "id": "173ee3b7-dc13-4ee9-8354-fa74edd9a96e",
+  "repo": "virgiliojr94/book-to-skill",
+  "url": "https://github.com/virgiliojr94/book-to-skill",
+  "category": "AI/LLM",
+  "summary": "Convert technical book PDFs into interactive Claude Code skills using LLM context engineering and RAG, enabling study, reference, and on-the-job usage.",
+  "usecases": [
+    "Transform technical textbooks into study-ready AI skills for self-paced learning.",
+    "Enable developers to query and reference book content as code-executable skills during work.",
+    "Build a knowledge base from PDFs for RAG-powered assistants and code-aware tutoring."
+  ],
+  "ideas": [
+    "Integrate with VS Code extension for inline code examples from book content.",
+    "Create a marketplace of book-to-skills for different tech stacks.",
+    "Combine with voice assistants for hands-free learning while coding."
+  ],
+  "stars": 24658,
+  "starsToday": 417,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "context-engineering",
+    "document-processing",
+    "edtech",
+    "knowledge-base",
+    "knowledge-management",
+    "llm",
+    "pdf-to-markdown",
+    "rag",
+    "self-study",
+    "study-tools",
+    "book-to-skill"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-24T00:52:47.689Z"
+}

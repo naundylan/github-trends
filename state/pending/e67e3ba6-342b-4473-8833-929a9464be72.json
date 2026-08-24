@@ -1,0 +1,35 @@
+{
+  "id": "e67e3ba6-342b-4473-8833-929a9464be72",
+  "repo": "bookorbit/bookorbit",
+  "url": "https://github.com/bookorbit/bookorbit",
+  "category": "Productivity/Personal Tool",
+  "summary": "Ức ứng đọc sách self-hosted quản lý thư viện, nghe audiobook và đọc ebook với giao diện hiện đại.",
+  "usecases": [
+    "Quản lý và đọc bộ sách riêng tư trên thiết bị cá nhân",
+    "Phát nghe audiobook với thư viện cá nhân được tổ chức",
+    "Đồng bộ trạng thái đọc sách giữa nhiều thiết bị"
+  ],
+  "ideas": [
+    "Kết hợp AI gợi ý sách dựa trên lịch sử và sở thích đọc",
+    "API công khai cho ứng dụng mobile hoặc thiết bị e-reader",
+    "Tích hợp với đám mây để backup và truy cập từ xa thư viện"
+  ],
+  "stars": 3045,
+  "starsToday": 204,
+  "language": "TypeScript",
+  "topics": [
+    "library-management",
+    "audiobook-player",
+    "digital-library",
+    "docker",
+    "ebook-reader",
+    "metadata-management",
+    "nestjs",
+    "oidc-single-sign-on",
+    "opds",
+    "self-hosted",
+    "vue"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-08-24T00:52:47.689Z"
+}
