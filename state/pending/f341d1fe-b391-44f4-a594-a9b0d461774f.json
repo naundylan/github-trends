@@ -1,0 +1,23 @@
+{
+  "id": "f341d1fe-b391-44f4-a594-a9b0d461774f",
+  "repo": "tashfeenahmed/freellmapi",
+  "url": "https://github.com/tashfeenahmed/freellmapi",
+  "category": "API/GraphQL",
+  "summary": "API trung tâm cung cấp truy cập đến hàng trăm endpoint LLM miễn phí từ nhiều nhà cung cấp, hỗ trợ định tuyến thông minh và chuyển đổi tự động khi có lỗi.",
+  "usecases": [
+    "Nghiên cứu và thử nghiệm nhiều mô hình LLM khác nhau mà không tốn chi phí tài chính.",
+    "Ứng dụng sản xuất cần routing giữa nhiều provider LLM với cơ chế failover tự động.",
+    "Prototyping nhanh cho dự án AI với khả năng chuyển đổi giữa các model trong cùng một request."
+  ],
+  "ideas": [
+    "Xây dựng hệ thống multi-agent nơi mỗi agent sử dụng model phù hợp nhất cho tác vụ của mình.",
+    "Tạo layer chi phí và monitoring cho các cuộc gọi LLM trong ứng dụng doanh nghiệp.",
+    "Phát triển giao diện quản lý provider LLM cho phép người dùng chọn hoặc ưu tiên endpoint theo yêu cầu."
+  ],
+  "stars": 19728,
+  "starsToday": 153,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-08-24T21:28:19.056Z"
+}

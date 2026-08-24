@@ -1,0 +1,44 @@
+{
+  "id": "d76d2309-f8bf-47fc-9630-5dbf80185feb",
+  "repo": "Anil-matcha/Open-Generative-AI",
+  "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+  "category": "AI/LLM",
+  "summary": "Một studio AI hình ảnh & video mã nguồn mở không giới hạn, cung cấp hơn 500 mô hình tạo ảnh/video (Flux, Kling, Sora, Veo) với khả năng self-hosted và không có bộ lọc nội dung.",
+  "usecases": [
+    "Tạo nội hình ảnh và video cho marketing và nội dung truyền thông bằng các mô hình AI đa dạng.",
+    "Nghiên cứu và phát triển các ứng dụng text-to-video/text-to-image tùy chỉnh với các mô hình nguồn mở.",
+    "Triển khai studio AI riêng tư cho doanh nghiệp hoặc cá nhân cần kiểm soát dữ liệu và không giới hạn nội dung."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống tự động hóa workflow tạo nội dung cho các nền tảng xã hội.",
+    "Phát triển giao diện quản lý mô hình và seed control cho các dự án sáng tạo hàng loạt.",
+    "Kết hợp với các công cụ editing video để tạo ra pipeline tạo-edit hoàn chỉnh."
+  ],
+  "stars": 27043,
+  "starsToday": 125,
+  "language": "JavaScript",
+  "topics": [
+    "ai-image-generation",
+    "ai-video-generation",
+    "generative-ai",
+    "muapi",
+    "text-to-video",
+    "creative-tools",
+    "flux-1",
+    "image-to-video",
+    "javascript",
+    "kling-ai",
+    "open-source",
+    "sora-alternative",
+    "wan-video",
+    "ai-art-generator",
+    "midjourney-alternative",
+    "uncensored",
+    "lipsync",
+    "text-to-image",
+    "seedance2",
+    "fal-ai-alternative"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-24T21:28:19.056Z"
+}

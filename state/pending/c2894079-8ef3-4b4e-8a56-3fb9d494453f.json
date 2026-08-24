@@ -1,0 +1,36 @@
+{
+  "id": "c2894079-8ef3-4b4e-8a56-3fb9d494453f",
+  "repo": "asciimoo/hister",
+  "url": "https://github.com/asciimoo/hister",
+  "category": "CLI Tool",
+  "summary": "text",
+  "usecases": [
+    "text",
+    "text"
+  ],
+  "ideas": [
+    "text",
+    "text"
+  ],
+  "stars": 2496,
+  "starsToday": 183,
+  "language": "Go",
+  "topics": [
+    "go",
+    "golang",
+    "history",
+    "index",
+    "search",
+    "search-engine",
+    "web",
+    "mcp",
+    "mcp-server",
+    "privacy",
+    "semantic-search",
+    "browser-history",
+    "personal-search",
+    "personal-search-engine"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-24T21:28:19.056Z"
+}

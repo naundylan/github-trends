@@ -1,0 +1,38 @@
+{
+  "id": "88dfe6b3-23b1-4264-8812-babd99af6d8c",
+  "repo": "apache/maka",
+  "url": "https://github.com/apache/maka",
+  "category": "AI Agent/Automation",
+  "summary": "Maka là workspace AI agent local-first ghi nhận model messages, tool calls, results, permission decisions và termination events dưới dạng append-only log, cung cấp kiểm soát và nguồn gốc cho ứng dụng AI.",
+  "usecases": [
+    "Xây dựng AI agent có khả năng theo dõi lịch sử tương tác đầy đủ để audit và debug.",
+    "Phát triển ứng dụng desktop AI với quản lý trạng thái dựa trên event-sourcing.",
+    "Tích hợp vào workflows đòi hỏi kiểm soát quyền hạn và quyết định có nguồn gốc rõ ràng."
+  ],
+  "ideas": [
+    "Sử dụng log append-only để khôi phục trạng thái agent tự động sau khi crash.",
+    "Kết hợp với cơ sở dữ liệu thời gian thực để theo dõi quyết định agent theo thời gian thực.",
+    "Phát triển plugin IDE sử dụng local-first log hỗ trợ code completion cho AI agents."
+  ],
+  "stars": 2848,
+  "starsToday": 408,
+  "language": "TypeScript",
+  "topics": [
+    "agent-runtime",
+    "ai",
+    "ai-agent",
+    "apache",
+    "cli",
+    "desktop",
+    "electron",
+    "event-sourcing",
+    "llm",
+    "local-first",
+    "maka",
+    "tool-use",
+    "typescript",
+    "incubator"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-24T21:28:19.056Z"
+}

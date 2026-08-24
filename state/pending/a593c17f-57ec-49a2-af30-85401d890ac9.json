@@ -1,0 +1,30 @@
+{
+  "id": "a593c17f-57ec-49a2-af30-85401d890ac9",
+  "repo": "langchain-ai/deepagents",
+  "url": "https://github.com/langchain-ai/deepagents",
+  "category": "AI Agent/Automation",
+  "summary": "Deepagents là framework batteries-included cho AI agent, tích hợp LangChain và LangGraph để xây dựng nhanh agent có reasoning phức tạp và tương tác tool.",
+  "usecases": [
+    "Tạo agent tự động hóa tác vụ với reasoning đa bước thông qua LangGraph.",
+    "Prototyping ứng dụng AI có khả năng tương tác với các tool và API bên ngoài.",
+    "Xây dựng pipeline automation và workflow dựa trên hành vi agent."
+  ],
+  "ideas": [
+    "Kết hợp deepagents với RAG để agent truy cập và reasoning trên tài liệu nội bộ.",
+    "Sử dụng làm nền tảng cho AI assistant cá nhân có trạng thái dài hạn.",
+    "Tích hợp với CI/CD để tự động test và validate các hành vi agent."
+  ],
+  "stars": 28374,
+  "starsToday": 231,
+  "language": "Python",
+  "topics": [
+    "deepagents",
+    "langchain",
+    "langgraph",
+    "ai",
+    "python",
+    "typescript"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-24T21:28:19.056Z"
+}
