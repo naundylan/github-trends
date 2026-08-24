@@ -1,0 +1,43 @@
+{
+  "id": "ec22d486-d2fb-4c26-b12e-778c1003291d",
+  "repo": "bjarneo/cliamp",
+  "url": "https://github.com/bjarneo/cliamp",
+  "category": "CLI Tool",
+  "summary": "cliamp là một player nhạc terminal được cảm hứng từ Winamp, cho phép phát nhạc từ nhiều nguồn như YouTube, Spotify, Soundcloud và streaming radio trực tiếp qua giao diện dòng lệnh.",
+  "usecases": [
+    "Phát nhạc nền khi làm việc hoặc code trong terminal.",
+    "Tạo playlist và phát nhạc từ các nguồn mạng xã hội và streaming.",
+    "Dùng làm trung tâm nghe nhạc cho các hệ thống server không có giao diện đồ họa."
+  ],
+  "ideas": [
+    "Thêm hỗ trợ điều khiển bằng giọng nói để thay đổi bài hát.",
+    "Tích hợp với các dịch vụ Icecast hoặc Navidrome để phát nhạc từ thư viện cá nhân.",
+    "Phát triển plugin cho phép tải nhạc và phát offline trực tiếp từ CLI."
+  ],
+  "stars": 3614,
+  "starsToday": 143,
+  "language": "Go",
+  "topics": [
+    "m3u",
+    "music",
+    "music-player",
+    "stream",
+    "winamp",
+    "yt-dlp",
+    "cliamp",
+    "icecast",
+    "icecast-player",
+    "navidrome-client",
+    "podcast",
+    "radio",
+    "navidrome",
+    "soundcloud",
+    "spotify",
+    "youtube",
+    "plugin-system",
+    "jellyfin-client",
+    "plex-client"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-24T18:35:56.449Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "96a6b395-82a9-4f6e-835a-56339c37a771",
+  "repo": "AgriciDaniel/claude-obsidian",
+  "url": "https://github.com/AgriciDaniel/claude-obsidian",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "Open-source AI second-brain cho Obsidian, sử dụng Claude Code để tự động đọc, liên kết và tổ chức notes Markdown thành đồ thị kiến thức kết nối.",
+  "usecases": [
+    "Personal knowledge management with AI-generated links and summaries between notes.",
+    "Replacing cloud note-taking services with a self-hosted, privacy-respecting markdown graph.",
+    "Assisting research workflow by automatically connecting related concepts across disparate documents."
+  ],
+  "ideas": [
+    "Integrate with local LLMs via Ollama for fully offline, private PKM.",
+    "Develop a visualizer for the Obsidian knowledge graph that exports to interactive web formats.",
+    "Create a plugin that auto-generates meeting notes and action items from recorded discussions."
+  ],
+  "stars": 11721,
+  "starsToday": 272,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "obsidian",
+    "second-brain",
+    "claude-code-skill",
+    "knowledge-management",
+    "open-source",
+    "agent-skills",
+    "ai-second-brain",
+    "claude-plugin",
+    "karpathy-llm-wiki",
+    "knowledge-graph",
+    "obsidian-ai",
+    "obsidian-plugin",
+    "pkm",
+    "ai-note-taking",
+    "claude-memory",
+    "note-taking",
+    "notion-alternative",
+    "obsidian-second-brain",
+    "personal-knowledge-management"
+  ],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-08-24T18:35:56.449Z"
+}

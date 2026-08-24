@@ -1,0 +1,44 @@
+{
+  "id": "523d6ec5-ac91-4e95-9b97-90e231da04ed",
+  "repo": "makeplane/plane",
+  "url": "https://github.com/makeplane/plane",
+  "category": "Web Frontend",
+  "summary": "Plane là một nền tảng quản lý dự án mã nguồn mở thay thế Jira, Linear, Monday và ClickUp, cho phép quản lý tác vụ, sprints, docs, và triage qua giao diện web hiện đại.",
+  "usecases": [
+    "Quản lý dự án và tác vụ cho đội ngũ phát triển phần mềm.",
+    "Theo dõi tiến độ sprint và báo cáo cho các dự án Agile.",
+    "Lưu trữ và chia sẻ tài liệu dự án chung bên trong tổ chức."
+  ],
+  "ideas": [
+    "Tích hợp với các công cụ AI để tự động phân loại và ưu tiên tác vụ.",
+    "Phát triển plugin cho phép kết nối với các nền tảng giao tiếp như Slack hoặc Teams.",
+    "Tạo dashboard cá nhân hóa cho từng thành viên để theo dõi công việc riêng."
+  ],
+  "stars": 57808,
+  "starsToday": 268,
+  "language": "TypeScript",
+  "topics": [
+    "django",
+    "docker",
+    "kanban",
+    "project-management",
+    "python",
+    "react",
+    "jira",
+    "jira-alternative",
+    "linear",
+    "postgresql",
+    "redis",
+    "issue-tracker",
+    "product-management",
+    "work-management",
+    "vite",
+    "boards",
+    "bug-tracker",
+    "gantt",
+    "project-planning",
+    "typescipt"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-08-24T18:35:56.449Z"
+}

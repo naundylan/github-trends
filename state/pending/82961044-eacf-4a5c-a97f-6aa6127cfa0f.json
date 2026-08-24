@@ -1,0 +1,23 @@
+{
+  "id": "82961044-eacf-4a5c-a97f-6aa6127cfa0f",
+  "repo": "basecamp/omarchy",
+  "url": "https://github.com/basecamp/omarchy",
+  "category": "Operating System/Kernel",
+  "summary": "Một bản phân phối Linux hiện đại và có tính cách riêng, cung cấp trải nghiệm desktop mượt mà với các tùy chọn cấu hình sẵn.",
+  "usecases": [
+    "Sử dụng làm hệ điều hành chính cho phát triển phần mềm với môi trường đã tối ưu.",
+    "Triển khai trên máy tính cũ/hardware thấp để phục vụ nhu cầu cơ bản nhẹ.",
+    "Dành cho người dùng muốn thay thế hệ điều hành truyền thống với giao diện mới mẻ."
+  ],
+  "ideas": [
+    "Tạo phiên bản cài đặt tối ưu cho các lĩnh vực cụ thể như an ninh mạng hoặc AI.",
+    "Tích hợp các công cụ container và devops sẵn có trong hệ thống.",
+    "Phát triển hệ thống quản lý themes và plugins trực quan cho người dùng."
+  ],
+  "stars": 29937,
+  "starsToday": 1055,
+  "language": "Shell",
+  "topics": [],
+  "notePath": "notes/Operating-System-Kernel.md",
+  "createdAt": "2026-08-24T18:35:56.449Z"
+}

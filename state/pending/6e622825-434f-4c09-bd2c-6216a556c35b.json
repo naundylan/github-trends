@@ -1,0 +1,23 @@
+{
+  "id": "6e622825-434f-4c09-bd2c-6216a556c35b",
+  "repo": "Alishahryar1/free-claude-code",
+  "url": "https://github.com/Alishahryar1/free-claude-code",
+  "category": "Developer Tool",
+  "summary": "Công cụ cho phép developers sử dụng miễn phí Claude Code, Codex, Pi và OpenCode từ terminal, ứng dụng, IDE hoặc điện thoại, hỗ trợ giọng nói và hơn 1.3 tỷ token miễn phí.",
+  "usecases": [
+    "Developers có thể truy cập các mô hình AI coding mạnh mẽ mà không cần trả phí cao.",
+    "Tích hợp vào quy trình làm việc trên terminal hoặc IDE để tăng tốc độ viết code.",
+    "Sử dụng trên mobile với hỗ trợ giọng nói để code hoặc kiểm tra dự án bất cứ lúc nào."
+  ],
+  "ideas": [
+    "Kết hợp với các bot tự động để thực hiện code review qua lệnh giọng nói.",
+    "Phát triển extension cho IDE mới sử dụng các mô hình AI này với chi phí thấp.",
+    "Sử dụng trong giáo dục để học sinh tiếp cận công cụ AI coding miễn phí."
+  ],
+  "stars": 48757,
+  "starsToday": 889,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-24T18:35:56.449Z"
+}

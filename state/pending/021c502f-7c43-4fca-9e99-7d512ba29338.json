@@ -1,0 +1,37 @@
+{
+  "id": "021c502f-7c43-4fca-9e99-7d512ba29338",
+  "repo": "AprilNEA/OpenLogi",
+  "url": "https://github.com/AprilNEA/OpenLogi",
+  "category": "Desktop App",
+  "summary": "Ứng dụngdesktop native viết bằng Rust, là alternative local-first cho Logitech Options+, cho phép tùy chỉnh nút bấm, DPI và SmartShift qua HID++ mà không cần tài khoản hoặc telemetry.",
+  "usecases": [
+    "Tùy chỉnh phím bấm và cảm độ chuột trên các dòng Logitech MX Master trên nhiều nền tảng.",
+    "Sử dụng trên các máy tính ưu tiên quyền riêng tư, tránh thu thập dữ liệu về bên thứ ba.",
+    "Thay thế phần mềm gốc của Logitech với giao diện nhẹ và mã nguồn mở."
+  ],
+  "ideas": [
+    "Tích hợp với các kịch bản tự động để thay đổi cài đặt theo ứng dụng đang chạy.",
+    "Mở rộng hỗ trợ cho bàn phím và gamepad cùng một nền tiện quản lý.",
+    "Xây dựng dashboard tùy chỉnh để theo dõi trạng thái thiết bị cục bộ."
+  ],
+  "stars": 15710,
+  "starsToday": 1102,
+  "language": "Rust",
+  "topics": [
+    "dpi",
+    "gpui",
+    "hid",
+    "hidpp",
+    "local-first",
+    "logitech",
+    "logitech-options",
+    "mouse-remapping",
+    "mx-master",
+    "privacy",
+    "rust",
+    "smartshift",
+    "logitech-mouse"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-08-24T18:35:56.449Z"
+}

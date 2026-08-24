@@ -1,0 +1,44 @@
+{
+  "id": "a12ea3ae-cfbf-4adf-98b9-efa4d9a19408",
+  "repo": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "category": "AI/LLM",
+  "summary": "Khoá học và repository Python toàn diện hướng dẫn xây dựng AI từ con số, bao gồm LLMs, agents, computer vision và reinforcement learning.",
+  "usecases": [
+    "Rapid prototyping of LLM-powered autonomous agents for task automation.",
+    "Educational resource for mastering end-to-end AI pipeline development with Python.",
+    "Foundation for research experiments in swarm intelligence and multi-agent systems."
+  ],
+  "ideas": [
+    "Deploy a multi-agent system on edge devices using Rust for performance-critical components.",
+    "Build a generative AI coding assistant that integrates with VS Code extensions.",
+    "Create a benchmark suite comparing different LLM agent architectures on real-world tasks."
+  ],
+  "stars": 48167,
+  "starsToday": 330,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-engineering",
+    "computer-vision",
+    "course",
+    "deep-learning",
+    "from-scratch",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "nlp",
+    "python",
+    "reinforcement-learning",
+    "rust",
+    "swarm-intelligence",
+    "transformers",
+    "tutorial",
+    "typescript"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-24T18:35:56.449Z"
+}
