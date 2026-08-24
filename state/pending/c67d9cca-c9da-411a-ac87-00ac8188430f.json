@@ -1,0 +1,44 @@
+{
+  "id": "c67d9cca-c9da-411a-ac87-00ac8188430f",
+  "repo": "shy3130/tick-stock-panel",
+  "url": "https://github.com/shy3130/tick-stock-panel",
+  "category": "AI/LLM",
+  "summary": "Dự án tự-hosted quan sát và phân tích A-stock, tích hợp LLM để tùy chỉnh chiến lược giao dịch, phân tích mã và báo cáo tự động, cùng hỗ trợ kết nối dữ liệu bên thứ ba và mở rộng cá nhân.",
+  "usecases": [
+    "Phân tích và chọn mã A-stock với hỗ trợ LLM cho các chiến lược tùy chỉnh.",
+    "Backtest và theo dõi hiệu suất giao dịch tự động dựa trên dữ liệu lịch sử.",
+    "Truy cập và xử lý dữ liệu tài chính từ nguồn mở hoặc thương mại để báo cáo cá nhân."
+  ],
+  "ideas": [
+    "Kết nối với bot Telegram để cảnh báo tín hiệu giao dịch và thay đổi giá.",
+    "Phát triển module đa ngôn ngữ và đa sàn để hỗ trợ người dùng quốc tế.",
+    "Sử dụng DuckDB/Polars để xử lý dữ liệu lớn hoàn toàn trên client-side mà không cần server."
+  ],
+  "stars": 3550,
+  "starsToday": 79,
+  "language": "Python",
+  "topics": [
+    "a-stock",
+    "ai-agent",
+    "aigc",
+    "backtesting",
+    "duckdb",
+    "fastapi",
+    "llm",
+    "polars",
+    "quant",
+    "quantitative-finance",
+    "quantitative-trading",
+    "react",
+    "screener",
+    "self-hosted",
+    "stock-analysis",
+    "tickflow",
+    "tdx",
+    "daily",
+    "stock",
+    "tsp"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-24T03:54:02.839Z"
+}

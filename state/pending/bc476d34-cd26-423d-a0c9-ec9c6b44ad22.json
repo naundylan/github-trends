@@ -1,0 +1,35 @@
+{
+  "id": "bc476d34-cd26-423d-a0c9-ec9c6b44ad22",
+  "repo": "moeru-ai/airi",
+  "url": "https://github.com/moeru-ai/airi",
+  "category": "AI Agent/Automation",
+  "summary": "Một trợ lý AI tự chủ hỗ trợ trò chơi và giao tiếp real-time, tích hợp live2d và khả năng tương tác đa nền tảng.",
+  "usecases": [
+    "Tạo đồng hành AI trong trò chơi Minecraft/Factorio",
+    "Giao tiếp real-time với người dùng thông qua voice chat",
+    "Phát triển vtuber ảo với tính năng tương tác nhạy cảm"
+  ],
+  "ideas": [
+    "Kết hợp với NLP để tăng cường khả năng hiểu ngôn ngữ tự nhiên",
+    "Phát triển phiên bản mobile để tăng cường khả năng di động",
+    "Tích hợp blockchain để quản lý quyền sở hữu AI companion"
+  ],
+  "stars": 48301,
+  "starsToday": 54,
+  "language": "TypeScript",
+  "topics": [
+    "ai-vtuber",
+    "live2d",
+    "neuro-sama",
+    "neurosama",
+    "vrm",
+    "vtuber",
+    "grok-companion",
+    "ai-companion",
+    "digital-life",
+    "openclaw",
+    "airi"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-24T03:54:02.839Z"
+}

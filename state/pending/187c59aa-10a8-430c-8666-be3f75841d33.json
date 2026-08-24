@@ -1,0 +1,34 @@
+{
+  "id": "187c59aa-10a8-430c-8666-be3f75841d33",
+  "repo": "666ghj/MiroFish",
+  "url": "https://github.com/666ghj/MiroFish",
+  "category": "Machine Learning",
+  "summary": "Mô hình dự đoán dựa trên engine nhóm thông minh, áp dụng cho tài chính, xã hội và dữ liệu phức tạp.",
+  "usecases": [
+    "Dự đoán xu hướng tài chính bằng phân tích nhóm thông minh",
+    "Phân tích ý kiến công chúng qua dữ liệu mạng xã hội",
+    "Tính toán dự đoán tương quan đa yếu tố trong hệ thống phức tạp"
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tăng cường khả năng giải thích dự đoán",
+    "Ứng dụng cho dự đoán thời tiết hoặc biến động thị trường",
+    "Phát triển giao diện trực quan hóa kết quả dự đoán"
+  ],
+  "stars": 71461,
+  "starsToday": 52,
+  "language": "Python",
+  "topics": [
+    "agent-memory",
+    "financial-forecasting",
+    "future-prediction",
+    "knowledge-graph",
+    "llms",
+    "multi-agent-simulation",
+    "public-opinion-analysis",
+    "python3",
+    "social-prediction",
+    "swarm-intelligence"
+  ],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-08-24T03:54:02.839Z"
+}

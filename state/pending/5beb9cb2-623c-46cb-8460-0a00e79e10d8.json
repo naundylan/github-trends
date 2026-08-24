@@ -1,0 +1,44 @@
+{
+  "id": "5beb9cb2-623c-46cb-8460-0a00e79e10d8",
+  "repo": "MHSanaei/3x-ui",
+  "url": "https://github.com/MHSanaei/3x-ui",
+  "category": "Networking",
+  "summary": "Panel quản lý Xray hỗ trợ đa protocol (Vmess, Vless, Trojan, Shadowsocks, Wireguard, Hysteria) với giới hạn expire, traffic và IP, giúp triển khai và quản lý mạng proxy dễ dàng.",
+  "usecases": [
+    "Triển khai và quản lý nhiều tài khoản proxy Vmess/Vless cho dịch vụ mạng riêng.",
+    "Cấu hình proxy cho thiết bị không hỗ trợ natively qua giao thức Hysteria/Wireguard.",
+    "Theo dõi và giới hạn traffic/cho phép IP cho từng user trong môi trường doanh nghiệp hoặc cộng đồng."
+  ],
+  "ideas": [
+    "Kết hợp AI để tự động tối ưu protocol dựa trên điều kiện network của user.",
+    "Tạo dashboard giám sát real-time traffic và hiệu suất proxy cho từng địa lý.",
+    "Phát triển plugin hỗ trợ protocol post-quantum cho các panel quản lý cloud hiện có."
+  ],
+  "stars": 45163,
+  "starsToday": 49,
+  "language": "Go",
+  "topics": [
+    "trojan",
+    "vless",
+    "vmess",
+    "shadowsocks2022",
+    "reality",
+    "http",
+    "shadowsocks",
+    "wireguard",
+    "tls",
+    "post-quantum",
+    "x25519",
+    "mixed",
+    "tunnel",
+    "ech",
+    "hysteria2",
+    "tun",
+    "fail2ban",
+    "xhttp",
+    "nodes",
+    "mtproto"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-08-24T03:54:02.839Z"
+}

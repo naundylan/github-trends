@@ -1,0 +1,34 @@
+{
+  "id": "972ed529-0295-42bd-8530-febb34f03da2",
+  "repo": "louislam/uptime-kuma",
+  "url": "https://github.com/louislam/uptime-kuma",
+  "category": "Other",
+  "summary": "A fancy self-hosted monitoring tool",
+  "usecases": [
+    "Khám phá và đánh giá louislam/uptime-kuma cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 90532,
+  "starsToday": 49,
+  "language": "JavaScript",
+  "topics": [
+    "uptime",
+    "monitoring",
+    "docker",
+    "selfhosted",
+    "self-hosted",
+    "single-page-app",
+    "webapp",
+    "responsive",
+    "websocket",
+    "socket-io",
+    "uptime-monitoring",
+    "monitor"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-24T03:54:02.839Z"
+}

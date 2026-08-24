@@ -1,0 +1,35 @@
+{
+  "id": "4055d4b0-5a1b-48e1-8ac6-bef40d377f12",
+  "repo": "withastro/astro",
+  "url": "https://github.com/withastro/astro",
+  "category": "Web Framework",
+  "summary": "Framework TypeScript cho website nội dung-driven, hỗ trợ static-site-generator và islands architecture để tối ưu hiệu suất cho blog và trang web tĩnh.",
+  "usecases": [
+    "Xây dựng blog cá nhân hoặc trang tin tức với tốc độ tải trang cực nhanh nhờ static generation.",
+    "Phát triển trang web doanh nghiệp nội dung-heavy với architecture Islands để chỉ tải JS cần thiết cho từng phần.",
+    "Tạo landing page hoặc marketing site deploy ngay trên Cloudflare Pages hoặc Vercel mà không cần backend."
+  ],
+  "ideas": [
+    "Kết hợp headless CMS (Contentful/Sanity) để tạo nền tảng blog mạnh mẽ nhưng vẫn nhẹ.",
+    "Sử dụng Islands architecture để xây dựng dashboard admin nội bộ với interactivity chọn lọc.",
+    "Triển khai multi-language site cho thị trường toàn cầu với static generation cho từng locale."
+  ],
+  "stars": 61983,
+  "starsToday": 43,
+  "language": "TypeScript",
+  "topics": [
+    "static-site-generator",
+    "blog",
+    "islands",
+    "components",
+    "node",
+    "browser",
+    "server",
+    "hybrid",
+    "universal",
+    "astro",
+    "static"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-08-24T03:54:02.840Z"
+}
