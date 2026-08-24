@@ -1,0 +1,44 @@
+{
+  "id": "cbe04261-1458-4ae8-9194-b3d064b5891f",
+  "repo": "MHSanaei/3x-ui",
+  "url": "https://github.com/MHSanaei/3x-ui",
+  "category": "Security/Pentest",
+  "summary": "Hệ thống quản lý panel Xray hỗ trợ nhiều giao thức proxy với giới hạn expire, traffic và IP cho nhiều người dùng.",
+  "usecases": [
+    "Quản lý kết nối proxy cho nhiều user trên server own",
+    "Thiết lập và giới hạn traffic cho các thiết bị khách",
+    "Deploy nhanh panel proxy cho mục đích mạng riêng hoặc chia sẻ"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống tự động renewal SSL cho certificate management",
+    "Phát triển dashboard giám sát tốc độ và độ ổn định kết nối",
+    "Tích hợp API với các hệ thống quản lý mạng doanh nghiệp hiện có"
+  ],
+  "stars": 45183,
+  "starsToday": 49,
+  "language": "Go",
+  "topics": [
+    "trojan",
+    "vless",
+    "vmess",
+    "shadowsocks2022",
+    "reality",
+    "http",
+    "shadowsocks",
+    "wireguard",
+    "tls",
+    "post-quantum",
+    "x25519",
+    "mixed",
+    "tunnel",
+    "ech",
+    "hysteria2",
+    "tun",
+    "fail2ban",
+    "xhttp",
+    "nodes",
+    "mtproto"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-08-24T09:54:48.607Z"
+}

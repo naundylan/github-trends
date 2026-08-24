@@ -1,0 +1,36 @@
+{
+  "id": "30d58f97-d5d2-4777-ba08-c7fae2fc3c9b",
+  "repo": "louislam/uptime-kuma",
+  "url": "https://github.com/louislam/uptime-kuma",
+  "category": "Other",
+  "summary": "Công cụ giám sát tự chủ (self-hosted) với giao diện đẹp mắt, hỗ trợ theo dõi uptime của các dịch vụ.",
+  "usecases": [
+    "Giám sát server và API web",
+    "Theo dõi uptime của ứng dụng Docker",
+    "Cảnh báo tự động qua WebSocket"
+  ],
+  "ideas": [
+    "Kết hợp với AI để dự đoán lỗi trước khi xảy ra",
+    "Xây dựng dashboard phân tích trend uptime",
+    "Tạo plugin cho DevOps pipeline tự động"
+  ],
+  "stars": 90545,
+  "starsToday": 49,
+  "language": "JavaScript",
+  "topics": [
+    "uptime",
+    "monitoring",
+    "docker",
+    "selfhosted",
+    "self-hosted",
+    "single-page-app",
+    "webapp",
+    "responsive",
+    "websocket",
+    "socket-io",
+    "uptime-monitoring",
+    "monitor"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-24T09:54:48.607Z"
+}

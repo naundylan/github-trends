@@ -1,0 +1,34 @@
+{
+  "id": "aca27afe-40b7-40f1-be57-750e6f138e95",
+  "repo": "666ghj/MiroFish",
+  "url": "https://github.com/666ghj/MiroFish",
+  "category": "AI Agent/Automation",
+  "summary": "Swarm intelligence engine chung để dự báo tài chính, xu hướng xã hội và mô phỏng đa tác nhân, tích hợp LLMs và đồ thị kiến thức.",
+  "usecases": [
+    "Mô phỏng và dự báo xu hướng tài chính/kinh tế dựa trên hành vi群体",
+    "Phân tích ý kiến công chúng và dự báo tương lai trên mạng xã hội",
+    "Tích hợp vào LLMs để tăng khả năng dự đoán và quyết định"
+  ],
+  "ideas": [
+    "Xây dựng nền tảng dự báo thị trường crypto dựa trên dữ liệu群体",
+    "Tạo công cụ phân tích xu hướng chính trị hoặc xã hội theo thời gian thực",
+    "Sử dụng làm engine cho trò chơi chiến lược dựa trên hành vi群体 và AI"
+  ],
+  "stars": 71472,
+  "starsToday": 52,
+  "language": "Python",
+  "topics": [
+    "agent-memory",
+    "financial-forecasting",
+    "future-prediction",
+    "knowledge-graph",
+    "llms",
+    "multi-agent-simulation",
+    "public-opinion-analysis",
+    "python3",
+    "social-prediction",
+    "swarm-intelligence"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-24T09:54:48.607Z"
+}

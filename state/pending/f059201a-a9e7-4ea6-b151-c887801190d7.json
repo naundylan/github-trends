@@ -1,0 +1,42 @@
+{
+  "id": "f059201a-a9e7-4ea6-b151-c887801190d7",
+  "repo": "shy3130/tick-stock-panel",
+  "url": "https://github.com/shy3130/tick-stock-panel",
+  "category": "Other",
+  "summary": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非第三方官方项目",
+  "usecases": [
+    "Khám phá và đánh giá shy3130/tick-stock-panel cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 3583,
+  "starsToday": 79,
+  "language": "Python",
+  "topics": [
+    "a-stock",
+    "ai-agent",
+    "aigc",
+    "backtesting",
+    "duckdb",
+    "fastapi",
+    "llm",
+    "polars",
+    "quant",
+    "quantitative-finance",
+    "quantitative-trading",
+    "react",
+    "screener",
+    "self-hosted",
+    "stock-analysis",
+    "tickflow",
+    "tdx",
+    "daily",
+    "stock",
+    "tsp"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-24T09:54:48.607Z"
+}

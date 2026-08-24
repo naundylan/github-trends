@@ -1,0 +1,35 @@
+{
+  "id": "267887fd-5a10-4127-b2e8-5bb6017c1e20",
+  "repo": "moeru-ai/airi",
+  "url": "https://github.com/moeru-ai/airi",
+  "category": "AI/LLM",
+  "summary": "Self-hosted AI companion sử dụng Grok LLM, cung cấp chat giọng thời gian thực, chơi game Minecraft/Factorio và avatar VTuber Live2D trên Web/macOS/Windows.",
+  "usecases": [
+    "Chat giọng AI với avatar VTuber trên desktop/web",
+    "Chơi tự động game Minecraft/Factorio với AI companion",
+    "Tạo ra bạn đồng hành số hóa cá nhân hóa với sở thích cá nhân"
+  ],
+  "ideas": [
+    "Kết hợp VR/AR để tạo nhân vật ảo tương tác trong không gian sống",
+    "Sử dụng làm trợ lý AI cho game sandbox với hành vi sinh động",
+    "Phát triển chế độ đa người chơi nhiều AI companion tương tác cùng nhau"
+  ],
+  "stars": 48332,
+  "starsToday": 54,
+  "language": "TypeScript",
+  "topics": [
+    "ai-vtuber",
+    "live2d",
+    "neuro-sama",
+    "neurosama",
+    "vrm",
+    "vtuber",
+    "grok-companion",
+    "ai-companion",
+    "digital-life",
+    "openclaw",
+    "airi"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-24T09:54:48.607Z"
+}

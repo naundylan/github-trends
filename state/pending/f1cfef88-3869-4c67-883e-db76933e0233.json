@@ -1,0 +1,41 @@
+{
+  "id": "f1cfef88-3869-4c67-883e-db76933e0233",
+  "repo": "twentyhq/twenty",
+  "url": "https://github.com/twentyhq/twenty",
+  "category": "Web Framework",
+  "summary": "Twenty là framework CRM mã nguồn mở sử dụng TypeScript, GraphQL và React, làm alternatives hiện đại cho Salesforce.",
+  "usecases": [
+    "Quản lý CRM và pipeline bán hàng cho startup và doanh nghiệp vừa và nhỏ",
+    "Tích hợp hệ thống marketing và sales qua API GraphQL",
+    "Phát triển ứng dụng quản lý nội bộ doanh nghiệp tùy chỉnh"
+  ],
+  "ideas": [
+    "Biến thành nền tảng cho hệ thống quản lý dự án kết hợp AI",
+    "Thêm khả năng phân tích dự đoán hành vi khách hàng",
+    "Dùng làm foundation cho các ứng dụng internal tools doanh nghiệp"
+  ],
+  "stars": 55433,
+  "starsToday": 57,
+  "language": "TypeScript",
+  "topics": [
+    "crm",
+    "customer",
+    "graphql",
+    "marketing",
+    "react",
+    "sales",
+    "typescript",
+    "crm-system",
+    "nestjs",
+    "reactjs",
+    "web",
+    "monorepo",
+    "open-source",
+    "postgresql",
+    "good-first-issue",
+    "hacktoberfest",
+    "javascript"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-08-24T09:54:48.607Z"
+}

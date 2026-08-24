@@ -1,0 +1,35 @@
+{
+  "id": "98e1adde-f35d-4d6b-9d1d-606022052b8d",
+  "repo": "withastro/astro",
+  "url": "https://github.com/withastro/astro",
+  "category": "Web Framework",
+  "summary": "Khung framework web hiện đại cho các website nội dung, tối ưu hóa hiệu suất qua kỹ thuật Static Site Generator và Islands architecture.",
+  "usecases": [
+    "Xây dựng blog cá nhân hoặc trang tin tức với tải trang nhanh",
+    "Tạo trang web marketing với nội dung động và static kết hợp",
+    "Phát triển trang docs hoặc portfolio với bundle nhỏ và SEO tốt"
+  ],
+  "ideas": [
+    "Kết hợp CMS headless như Contentful để quản lý nội dung động",
+    "Sử dụng Islands rendering cho các widget tương tác như comment hoặc live chat",
+    "Tối ưu hóa hình ảnh và tài nguyên cho mobile-first với tích hợp lazy loading"
+  ],
+  "stars": 61991,
+  "starsToday": 43,
+  "language": "TypeScript",
+  "topics": [
+    "static-site-generator",
+    "blog",
+    "islands",
+    "components",
+    "node",
+    "browser",
+    "server",
+    "hybrid",
+    "universal",
+    "astro",
+    "static"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-08-24T09:54:48.607Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "4a4db081-8f69-4dfa-b8e0-6fd806d2225a",
+  "repo": "apache/maka",
+  "url": "https://github.com/apache/maka",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án Apache Maka là một không gian làm việc AI agent theo mô hình local-first, ghi lại mọi hoạt động dưới dạng log theo nguyên tắc append-only.",
+  "usecases": [
+    "Xử lý tự động hóa dựa trên AI trong môi trường cục bộ",
+    "Lưu trữ an toàn các lịch sử hoạt động của AI agent",
+    "Phát triển ứng dụng desktop dựa trên Electron"
+  ],
+  "ideas": [
+    "Kết hợp với blockchain để xác thực log hoạt động",
+    "Tạo marketplace cho AI agent sử dụng event-sourcing",
+    "Xây dựng nền tảng học máy offline với khả năng đồng bộ hóa"
+  ],
+  "stars": 2505,
+  "starsToday": 51,
+  "language": "TypeScript",
+  "topics": [
+    "agent-runtime",
+    "ai",
+    "ai-agent",
+    "apache",
+    "cli",
+    "desktop",
+    "electron",
+    "event-sourcing",
+    "llm",
+    "local-first",
+    "maka",
+    "tool-use",
+    "typescript",
+    "incubator"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-24T09:54:48.607Z"
+}
