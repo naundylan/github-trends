@@ -1,0 +1,23 @@
+{
+  "id": "74b230bc-c887-4921-b7c1-dbc62e519fa1",
+  "repo": "jdx/mise",
+  "url": "https://github.com/jdx/mise",
+  "category": "Developer Tool",
+  "summary": "Công cụ dev viết bằng Rust quản lý biến môi trường, chạy tác vụ và thay thế cho direnv, make hay task.",
+  "usecases": [
+    "Quản lý biến môi trường dự án theo thư mục, load tự động khi cd vào dự án.",
+    "Chạy các script phức tạp và tác vụ phát triển với cú pháp đơn giản.",
+    "Thay thế Makefile cho các tác vụ cross-platform trong development."
+  ],
+  "ideas": [
+    "Tích hợpmise vào Docker images để môi trường development nhất quán giữa team.",
+    "Phát triển plugin VS Code để hiển thị và chỉnh sửa cấu hình task.",
+    "Sử dụngmise để đồng bộ hóa tools và versions giữa các member team."
+  ],
+  "stars": 32995,
+  "starsToday": 62,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-25T18:38:25.178Z"
+}

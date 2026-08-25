@@ -1,0 +1,37 @@
+{
+  "id": "5450c363-c192-40a7-bc08-44c75248d834",
+  "repo": "virgiliojr94/book-to-skill",
+  "url": "https://github.com/virgiliojr94/book-to-skill",
+  "category": "AI/LLM",
+  "summary": "Book-to-skill là một công cụ Python chuyển đổi sách kỹ thuật PDF thành skill pack có thể học và tham khảo, sử dụng RAG và LLM để xử lý tài liệu.",
+  "usecases": [
+    "Chuyển đổi sách giáo khoa hoặc tài liệu kỹ thuật thành các skill pack học tập và tham khảo nhanh thông qua AI",
+    "Tạo knowledge base cá nhân có thể tìm kiếm context khi code hoặc làm việc trên các dự án liên quan",
+    "Hỗ trợ tự học self-study bằng cách tạo bài tập và ví dụ từ nội dung sách đã đọc"
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng LMS để tự động generate course materials từ sách kỹ thuật",
+    "Phát triển chatbot có thể trả lời câu hỏi dựa trên nội dung sách đã xử lý qua LLM",
+    "Kết hợp voice assistant để tạo trải nghiệm nghe và học từ sách kỹ thuật bằng giọng nói"
+  ],
+  "stars": 25485,
+  "starsToday": 375,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "context-engineering",
+    "document-processing",
+    "edtech",
+    "knowledge-base",
+    "knowledge-management",
+    "llm",
+    "pdf-to-markdown",
+    "rag",
+    "self-study",
+    "study-tools",
+    "book-to-skill"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-25T18:38:25.178Z"
+}

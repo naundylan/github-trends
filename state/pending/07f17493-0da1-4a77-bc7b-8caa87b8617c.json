@@ -1,0 +1,23 @@
+{
+  "id": "07f17493-0da1-4a77-bc7b-8caa87b8617c",
+  "repo": "basecamp/omarchy",
+  "url": "https://github.com/basecamp/omarchy",
+  "category": "Operating System/Kernel",
+  "summary": "Một hệ điều hành Linux hiện đại và có ý kiến riêng, cung cấp giao diện đẹp và trải nghiệm mượt mà.",
+  "usecases": [
+    "Thay thế hệ điều hành chính với giao diện giàu tính năng và tối ưu sẵn cho lập trình.",
+    "Tạo môi trường làm việc nhất quán trên nhiều máy khác nhau cho đội ngũ phát triển.",
+    "Dùng cho công việc sáng tạo đồ họa và lập trình với bộ công cụ tích hợp sẵn."
+  ],
+  "ideas": [
+    "Tích hợp các gói DevOps và container management để triển khai nhanh môi trường.",
+    "Phát hành phiên bản Live USB để cài đặt hoặc live boot trên hardware khác.",
+    "Kết hợp với dotfiles management để đồng bộ cấu hình giữa các hệ điều hành."
+  ],
+  "stars": 31031,
+  "starsToday": 1080,
+  "language": "Shell",
+  "topics": [],
+  "notePath": "notes/Operating-System-Kernel.md",
+  "createdAt": "2026-08-25T18:38:25.178Z"
+}
