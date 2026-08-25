@@ -1,0 +1,44 @@
+{
+  "id": "1f7dee81-c255-4067-85cf-a51d0e820145",
+  "repo": "alam00000/bentopdf",
+  "url": "https://github.com/alam00000/bentopdf",
+  "category": "Developer Tool",
+  "summary": "Bộ công cụ PDF tập trung vào quyền riêng tư, cho phép chuyển đổi, chỉnh sửa, OCR và ký PDF mà không cần tải lên máy chủ bên thứ ba.",
+  "usecases": [
+    "Chuyển đổi hình ảnh JPG/PNG sang PDF chất lượng cao",
+    "Thêm ký số và điền biểu mẫu PDF mà không mất dữ liệu cá nhân",
+    "Thực hiện OCR trên PDF quét để tạo văn bản tìm kiếm được"
+  ],
+  "ideas": [
+    "Xây dựng dịch vụ fax PDF tự-hosted sử dụng bentopdf để xử lý tài liệu trước khi gửi",
+    "Tích hợp vào trình soạn thảo Markdown để xuất bản PDF với bảo mật cao",
+    "Phát triển ứng dụng di động gọi API bentopdf để xử lý PDF offline trên thiết bị"
+  ],
+  "stars": 14805,
+  "starsToday": 50,
+  "language": "JavaScript",
+  "topics": [
+    "jpgtopdf",
+    "pdf",
+    "pdf-converter",
+    "pdf-generation",
+    "pdf-viewer",
+    "hacktoberfest",
+    "javascript",
+    "pdffiller",
+    "privacy",
+    "toolkit",
+    "typescript",
+    "adobe-acrobat",
+    "pdf-editor",
+    "pdf-viewer-component",
+    "pdfjs",
+    "self-hosted",
+    "pdf-tools",
+    "docker",
+    "pdf-ocr",
+    "self-hosting"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-25T09:45:57.700Z"
+}

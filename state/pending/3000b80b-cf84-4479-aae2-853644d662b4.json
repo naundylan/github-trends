@@ -1,0 +1,36 @@
+{
+  "id": "3000b80b-cf84-4479-aae2-853644d662b4",
+  "repo": "1jehuang/jcode",
+  "url": "https://github.com/1jehuang/jcode",
+  "category": "AI Agent/Automation",
+  "summary": "Jcode là một harness nhẹ nhàng RAM cho các agent AI và coding assistant, tối ưu hiệu suất terminal và TUI cho các tác vụ lập trình tự động.",
+  "usecases": [
+    "Tự động hoàn thành và sinh code trong môi trường terminal",
+    "Chạy các tác vụ LLM-backed development với tiêu thụ bộ nhớ thấp",
+    "Tích hợp Claude/OpenAI làm agent coding cá nhân"
+  ],
+  "ideas": [
+    "Phát triển chế độ remote agent monitoring qua web dashboard",
+    "Tạo plugin cho VS Code để truy cập jcode capabilities",
+    "Kết hợp với hệ thống tác vụ định thời để tự động refactor codebase"
+  ],
+  "stars": 18501,
+  "starsToday": 112,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "claude",
+    "cli",
+    "coding-agent",
+    "llm",
+    "mcp",
+    "openai",
+    "rust",
+    "terminal",
+    "tui",
+    "ai-agent",
+    "ai-coding-agent"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-25T09:45:57.700Z"
+}

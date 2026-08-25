@@ -1,0 +1,28 @@
+{
+  "id": "1b72e48c-e7d4-4bac-a05b-96cc66065dc7",
+  "repo": "aaif-goose/goose",
+  "url": "https://github.com/aaif-goose/goose",
+  "category": "AI Agent/Automation",
+  "summary": "Goose là một AI agent mở nguồn mở cho phép cài đặt, thực thi, sửa đổi và kiểm thử dự án với bất kỳ LLM nào, vượt qua các gợi ý code truyền thống.",
+  "usecases": [
+    "Tự động hóa việc review và test code bằng LLM",
+    "Giúp phát triển viên cài đặt và cấu hình dự án nhanh chóng thông qua lệnh tự động",
+    "Tích hợp vào quy trình CI/CD để thực thi tự động các tác vụ phức tạp"
+  ],
+  "ideas": [
+    "Xây dựng mạng lưới AI agents phối hợp nhau để giải quyết các vấn đề phức tạp",
+    "Tạo ra nền tảng tự động hóa quy trình phát triển phần mềm (SDLC) hoàn toàn bằng AI",
+    "Kết hợp với giao thức MCP để tạo các AI agents có khả năng giao tiếp và chia sẻ ngữ cảnh"
+  ],
+  "stars": 53417,
+  "starsToday": 71,
+  "language": "Rust",
+  "topics": [
+    "mcp",
+    "acp",
+    "ai",
+    "ai-agents"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-25T09:45:57.700Z"
+}

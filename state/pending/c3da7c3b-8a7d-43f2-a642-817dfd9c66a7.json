@@ -1,0 +1,23 @@
+{
+  "id": "c3da7c3b-8a7d-43f2-a642-817dfd9c66a7",
+  "repo": "jdx/mise",
+  "url": "https://github.com/jdx/mise",
+  "category": "Developer Tool",
+  "summary": "Mise là công cụ dev viết bằng Rust giúp quản lý biến môi trường và chạy tác vụ, thay thế direnv, nvm và make.",
+  "usecases": [
+    "Quản lý biến môi trường đa ngôn ngữ cho dự án",
+    "Chạy scripts tự động hóa build/test/deploy",
+    "Cấu hình nhanh environment cho các nhà phát triển mới gia nhập"
+  ],
+  "ideas": [
+    "Tích hợpmise vào CI/CD để đồng bộ môi trường cho Pull Requests",
+    "Phát triển plugin hiển thị trạng tháimise trong VS Code",
+    "Sử dụngmise quản lý các phiên bản tooling khác nhau cho micro-services"
+  ],
+  "stars": 32970,
+  "starsToday": 69,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-25T09:45:57.700Z"
+}

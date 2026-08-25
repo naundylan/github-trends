@@ -1,0 +1,23 @@
+{
+  "id": "19df86a2-cd03-4907-9382-762b250a6f0a",
+  "repo": "davebcn87/pi-autoresearch",
+  "url": "https://github.com/davebcn87/pi-autoresearch",
+  "category": "AI Agent/Automation",
+  "summary": "Pi-autoresearch là một extension tự động hóa cho phép chạy các vòng lặp thử nghiệm độc lập, thường dùng trong nghiên cứu AI hoặc kiểm soát thiết bị Raspberry Pi.",
+  "usecases": [
+    "Tự động hóa các thí nghiệm lặp lại trong nghiên cứu AI/ML",
+    "Kiểm soát và theo dõi các experiment trên nhiều thiết bị Raspberry Pi",
+    "Tối ưu hóa tham số mô hình với vòng lặp tự động"
+  ],
+  "ideas": [
+    "Tích hợp dashboard theo dõi real-time cho các experiment phân tán",
+    "Tự động lưu trữ kết quả vào database và tạo báo cáo tự động",
+    "Kết hợp với CI/CD để deploy các experiment mới khi có thay đổi code"
+  ],
+  "stars": 7841,
+  "starsToday": 96,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-25T09:45:57.700Z"
+}
