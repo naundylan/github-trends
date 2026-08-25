@@ -1,0 +1,36 @@
+{
+  "id": "f73d377f-dbdd-47ef-b38c-c4b8ce44e33d",
+  "repo": "louislam/uptime-kuma",
+  "url": "https://github.com/louislam/uptime-kuma",
+  "category": "Infrastructure as Code",
+  "summary": "Một công cụ giám sát tự chủ hiện đại sử dụng Docker, hỗ trợ theo dõi thời gian hoạt động và có giao diện web responsive.",
+  "usecases": [
+    "Giám sát thời gian hoạt động (uptime) cho các dịch vụ cloud",
+    "Theo dõi hiệu suất hệ thống tự động hóa",
+    "Cung cấp cảnh báo khi hệ thống gặp sự cố"
+  ],
+  "ideas": [
+    "Tích hợp với các nguồn dữ liệu bên ngoài để giám sát đa nền tảng",
+    "Xây dựng dashboard trực quan hóa các chỉ số hệ thống",
+    "Thêm tính năng tự động hóa cảnh báo qua email hoặc Slack"
+  ],
+  "stars": 90579,
+  "starsToday": 57,
+  "language": "JavaScript",
+  "topics": [
+    "uptime",
+    "monitoring",
+    "docker",
+    "selfhosted",
+    "self-hosted",
+    "single-page-app",
+    "webapp",
+    "responsive",
+    "websocket",
+    "socket-io",
+    "uptime-monitoring",
+    "monitor"
+  ],
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-08-25T03:52:38.381Z"
+}

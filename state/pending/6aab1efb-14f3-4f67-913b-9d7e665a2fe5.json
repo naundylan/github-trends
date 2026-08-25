@@ -1,0 +1,36 @@
+{
+  "id": "6aab1efb-14f3-4f67-913b-9d7e665a2fe5",
+  "repo": "oven-sh/bun",
+  "url": "https://github.com/oven-sh/bun",
+  "category": "Build Tool/Bundler",
+  "summary": "bun là runtime JavaScript siêu nhanh kết hợp bundler, test runner và package manager, viết bằng Rust để thay thế các công cụ truyền thống.",
+  "usecases": [
+    "Chạy ứng dụng Node.js với tốc độ vượt trội thay thế môi trường truyền thống.",
+    "Bundling và build dự án JavaScript/TypeScript nhanh hơn nhiều cho phát triển.",
+    "Thực thi test suite trong CI/CD với latency thấp."
+  ],
+  "ideas": [
+    "Thay thế hoàn toàn Node.js trong các dự án đòi hỏi hiệu suất cao.",
+    "Xây dựng toolchain phát triển frontend/backend đơn lẻ thay thế nhiều gói khác.",
+    "Tạo môi trường chạy script CLI JavaScript siêu nhanh như Python."
+  ],
+  "stars": 95660,
+  "starsToday": 48,
+  "language": "Rust",
+  "topics": [
+    "bun",
+    "bundler",
+    "javascript",
+    "javascriptcore",
+    "jsx",
+    "nodejs",
+    "npm",
+    "react",
+    "transpiler",
+    "typescript",
+    "rust",
+    "rust-lang"
+  ],
+  "notePath": "notes/Build-Tool-Bundler.md",
+  "createdAt": "2026-08-25T03:52:38.381Z"
+}

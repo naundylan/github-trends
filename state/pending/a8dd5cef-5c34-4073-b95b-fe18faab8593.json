@@ -1,0 +1,36 @@
+{
+  "id": "a8dd5cef-5c34-4073-b95b-fe18faab8593",
+  "repo": "1jehuang/jcode",
+  "url": "https://github.com/1jehuang/jcode",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ CLI/TUI nhẹ nhàng tối ưu RAM cho AI coding agent, hỗ trợ tương tác với LLM như Claude và OpenAI trực tiếp trong terminal.",
+  "usecases": [
+    "Tự động hoàn thành và review code trong terminal với mức tiêu thụ RAM thấp",
+    "Chạy các tác vụ LLM như agent cho Claude/OpenAI trong môi trường có tài nguyên hạn chế",
+    "Tích hợp vào pipeline CI/CD để tự động sinh code và review"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý dự án để tự động tạo ticket và code fix",
+    "Phát triển plugin VS Code giao diện đồ họa cho agent",
+    "Sử dụng cho inference LLM trên thiết bị di động/edge nhờ tính hiệu quả RAM"
+  ],
+  "stars": 18473,
+  "starsToday": 112,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "claude",
+    "cli",
+    "coding-agent",
+    "llm",
+    "mcp",
+    "openai",
+    "rust",
+    "terminal",
+    "tui",
+    "ai-agent",
+    "ai-coding-agent"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-25T03:52:38.381Z"
+}

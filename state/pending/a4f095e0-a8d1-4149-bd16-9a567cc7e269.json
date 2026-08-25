@@ -1,0 +1,44 @@
+{
+  "id": "a4f095e0-a8d1-4149-bd16-9a567cc7e269",
+  "repo": "alam00000/bentopdf",
+  "url": "https://github.com/alam00000/bentopdf",
+  "category": "Data Engineering/ETL",
+  "summary": "Bộ công cụ xử lý PDF tập trung vào bảo mật, hỗ trợ chuyển đổi và trích xuất dữ liệu từ tài liệu.",
+  "usecases": [
+    "Chuyển đổi PDF sang định dạng khác (txt, json) một cách riêng tư",
+    "Trích xuất thông tin nhạy cảm từ PDF một cách an toàn",
+    "Tạo công cụ phân tích tài liệu cho các mục đích pháp lý"
+  ],
+  "ideas": [
+    "Kết hợp với AI/LLM để phân tích nội dung PDF tự động",
+    "Xây dựng API để tích hợp vào các hệ thống quản lý tài liệu",
+    "Phát triển plugin cho trình duyệt để đọc và xử lý PDF trực tiếp"
+  ],
+  "stars": 14795,
+  "starsToday": 50,
+  "language": "JavaScript",
+  "topics": [
+    "jpgtopdf",
+    "pdf",
+    "pdf-converter",
+    "pdf-generation",
+    "pdf-viewer",
+    "hacktoberfest",
+    "javascript",
+    "pdffiller",
+    "privacy",
+    "toolkit",
+    "typescript",
+    "adobe-acrobat",
+    "pdf-editor",
+    "pdf-viewer-component",
+    "pdfjs",
+    "self-hosted",
+    "pdf-tools",
+    "docker",
+    "pdf-ocr",
+    "self-hosting"
+  ],
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-08-25T03:52:38.381Z"
+}

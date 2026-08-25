@@ -1,0 +1,23 @@
+{
+  "id": "15e001eb-e6e2-4c74-9383-63827462608f",
+  "repo": "davebcn87/pi-autoresearch",
+  "url": "https://github.com/davebcn87/pi-autoresearch",
+  "category": "AI Agent/Automation",
+  "summary": "Extension tự động hóa cho phép vòng lặp thí nghiệm độc lập trên nền tảng Pi, phù hợp cho nghiên cứu khoa học và tự động hóa tác vụ trên Raspberry Pi.",
+  "usecases": [
+    "Tự động hóa các thí nghiệm khoa học trên Raspberry Pi với vòng lặp lặp lại",
+    "Thu thập và phân tích dữ liệu từ cảm biến mà can thiệp người dùng ít",
+    "Triển khai mô hình AI trên edge devices với tự động hóa vòng lặp"
+  ],
+  "ideas": [
+    "Tạo hệ thống nông trại thông minh Pi tự động điều chỉnh điều kiện thí nghiệm",
+    "Kết nối với nền tảng cloud IoT (AWS/Azure) để so sánh kết quả từ xa",
+    "Phát triển dashboard web theo dõi tiến độ các vòng lặp nghiên cứu tự động"
+  ],
+  "stars": 7837,
+  "starsToday": 96,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-25T03:52:38.381Z"
+}
