@@ -1,0 +1,37 @@
+{
+  "id": "d583d36f-aa5a-45fd-9415-00cb4823ebc5",
+  "repo": "AprilNEA/OpenLogi",
+  "url": "https://github.com/AprilNEA/OpenLogi",
+  "category": "Desktop App",
+  "summary": "OpenLogi là ứng dụng desktop mã nguồn mở, local-first, thay thế Logitech Options+ cho phép tùy chỉnh nút bấm, DPI và SmartShift cho chuột Logitech mà không cần tài khoản hoặc thu thập dữ liệu.",
+  "usecases": [
+    "Tùy chỉnh phím nhanh và DPI cho chuột Logitech trên hệ điều hành Windows, macOS, Linux.",
+    "Sử dụng SmartShift mà không cần cài đặt phần mềm chính thức Logitech, đảm bảo quyền riêng tư.",
+    "Cấu hình chế độ chơi game hoặc làm việc với các kịch bản chuột phức tạp."
+  ],
+  "ideas": [
+    "Kết hợp với automation scripts để tạo các macro chuột tự động theo context.",
+    "Phát triển giao diện cấu hình web để quản lý các thiết lập chuột từ xa.",
+    "Mở rộng 지 지원 thêm các thiết bị nhập khác như bàn phím hoặc trackpad."
+  ],
+  "stars": 15857,
+  "starsToday": 1097,
+  "language": "Rust",
+  "topics": [
+    "dpi",
+    "gpui",
+    "hid",
+    "hidpp",
+    "local-first",
+    "logitech",
+    "logitech-options",
+    "mouse-remapping",
+    "mx-master",
+    "privacy",
+    "rust",
+    "smartshift",
+    "logitech-mouse"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-08-25T00:54:49.459Z"
+}
