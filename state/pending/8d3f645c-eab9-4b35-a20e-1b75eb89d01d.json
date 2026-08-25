@@ -1,0 +1,44 @@
+{
+  "id": "8d3f645c-eab9-4b35-a20e-1b75eb89d01d",
+  "repo": "MHSanaei/3x-ui",
+  "url": "https://github.com/MHSanaei/3x-ui",
+  "category": "Developer Tool",
+  "summary": "bảng điều khiển web để quản lý và cấu hình Xray core, hỗ trợ nhiều giao thức proxy như Vmess, Vless, Trojan, Shadowsocks, Hysteria2, Wireguard và MTProto với giới hạn traffic, expire và IP cho từng user",
+  "usecases": [
+    "quản lý và phân phối các proxy/VPN cho nhiều user trong doanh nghiệp hoặc cộng đồng",
+    "cấu hình các giao thức tiên tiến như Reality và Hysteria2 để tối ưu tốc độ và độ ổn định",
+    "theo dõi và giới hạn sử dụng traffic/cho phép theo thời gian cho từng tài khoản proxy"
+  ],
+  "ideas": [
+    "tích hợp dashboard real-time theo dõi traffic và kết nối qua WebSocket",
+    "tự động tạo cấu hình cho các thiết bị di động thông qua QR code hoặc link one-click",
+    "phát triển module mở rộng cho hỗ trợ các giao thức proxy mới nổi trong tương lai"
+  ],
+  "stars": 45303,
+  "starsToday": 90,
+  "language": "Go",
+  "topics": [
+    "trojan",
+    "vless",
+    "vmess",
+    "shadowsocks2022",
+    "reality",
+    "http",
+    "shadowsocks",
+    "wireguard",
+    "tls",
+    "post-quantum",
+    "x25519",
+    "mixed",
+    "tunnel",
+    "ech",
+    "hysteria2",
+    "tun",
+    "fail2ban",
+    "xhttp",
+    "nodes",
+    "mtproto"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-25T21:24:59.482Z"
+}

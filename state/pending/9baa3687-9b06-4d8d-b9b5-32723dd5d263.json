@@ -1,0 +1,28 @@
+{
+  "id": "9baa3687-9b06-4d8d-b9b5-32723dd5d263",
+  "repo": "oblien/openship",
+  "url": "https://github.com/oblien/openship",
+  "category": "DevOps/CI-CD",
+  "summary": "nền tảng triển khai tự hosting giúp deploy và quản lý dịch vụ trên cơ sở hạ tầng riêng một cách dễ dàng",
+  "usecases": [
+    "triển khai ứng dụng web/API trên server riêng doanh nghiệp",
+    "quản lý deployment microservices trên Kubernetes hoặc VM",
+    "cung cấp môi trường staging/production self-hosted cho dự án nhạy cảm dữ liệu"
+  ],
+  "ideas": [
+    "sử dụng làm internal platform team phát triển tự deploy không cần DevOps bên ngoài",
+    "kết hợp CI/CD tự động hóa deployment lên cluster on-premise",
+    "tạo PaaS nội bộ cho startup kiểm soát chi phí server"
+  ],
+  "stars": 11686,
+  "starsToday": 77,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "ai",
+    "deployments",
+    "self-hosted"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-08-25T21:24:59.482Z"
+}

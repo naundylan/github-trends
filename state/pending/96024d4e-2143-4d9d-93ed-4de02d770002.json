@@ -1,0 +1,31 @@
+{
+  "id": "96024d4e-2143-4d9d-93ed-4de02d770002",
+  "repo": "QuantumNous/new-api",
+  "url": "https://github.com/QuantumNous/new-api",
+  "category": "AI/LLM",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "...",
+    "..."
+  ],
+  "stars": 46253,
+  "starsToday": 136,
+  "language": "Go",
+  "topics": [
+    "claude",
+    "gemini",
+    "openai",
+    "rerank",
+    "ai-gateway",
+    "deepseek",
+    "newapi"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-25T21:24:59.482Z"
+}

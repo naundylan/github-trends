@@ -1,0 +1,30 @@
+{
+  "id": "82b336b3-7390-4b26-b88c-ebc4bd750735",
+  "repo": "pipecat-ai/pipecat",
+  "url": "https://github.com/pipecat-ai/pipecat",
+  "category": "AI Agent/Automation",
+  "summary": "framework mã nguồn mở cho voice agents và ứng dụng AI đa phương thức, hỗ trợ phát triển các ứng dụng AI thời gian thực",
+  "usecases": [
+    "phát triển voice assistant tự nhiên tương tác",
+    "xây dựng ứng dụng AI đa phương thức (text, voice, video) thời gian thực",
+    "tích hợp AI vào hệ thống telephony và call center"
+  ],
+  "ideas": [
+    "tạo voice AI cho thiết bị IoT và nhà thông minh",
+    "phát triển hệ thống gọi điện tự động hỗ trợ khách hàng",
+    "kết hợp LLM cục bộ để voice assistant riêng tư an toàn"
+  ],
+  "stars": 14712,
+  "starsToday": 81,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "real-time",
+    "voice",
+    "voice-assistant",
+    "chatbot-framework",
+    "chatbots"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-25T21:24:59.482Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "8800dac5-6c6c-4241-8bb4-dd899a572e26",
+  "repo": "cjpais/Handy",
+  "url": "https://github.com/cjpais/Handy",
+  "category": "Desktop App",
+  "summary": "Ứng dụng ghi âm giọng nói mã nguồn mở,免费 (free), hoạt động hoàn toàn ngoại tuyến, cung cấp dịch chuyển giọng nói thành văn bản cho nhiều nền tảngdesktop.",
+  "usecases": [
+    "Chuyển đổi giọng nói thành văn bản cho ghi chú nhanh mà không cần internet.",
+    "Ứng dụng cho người khiếm thính hoặc môi trường격리 (isolated).",
+    "Tích hợp vào quy trình làm việc đa nền tảng cho ghi âm cuộc họp."
+  ],
+  "ideas": [
+    "Kết hợp mô hình AI để tóm tắt cuộc hội thoại tự động.",
+    "Sử dụng làm đầu vào cho hệ thống điều khiển IoT bằng giọng nói.",
+    "Phát triển chế độ đa ngôn ngữ ghi âm và dịch ngay trong ứng dụng."
+  ],
+  "stars": 30315,
+  "starsToday": 64,
+  "language": "Rust",
+  "topics": [
+    "speech-to-text",
+    "tauri-v2",
+    "accessibility",
+    "cross-platform"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-08-25T21:24:59.482Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d9b9bb3f-0511-4237-bfa6-f1db89c43490",
+  "repo": "Shubhamsaboo/awesome-llm-apps",
+  "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "category": "AI/LLM",
+  "summary": "Một danh sách mở rộng hơn 100 ứng dụng AI Agents, Skills RAG miễn phí và mã nguồn mở, bao gồm các ứng dụng LLM đa dạng.",
+  "usecases": [
+    "Nghiên cứu và tham khảo nhanh cho các dự án LLM và Agent mới.",
+    "Tích hợp vào các hệ thống tự động hóa để tăng năng suất làm việc.",
+    "Học tập và làm quen với các pattern RAG, Agent skills trong thực tế."
+  ],
+  "ideas": [
+    "Xây dựng một dashboard quản lý Agent riêng biệt kết hợp với cơ sở dữ liệu vector.",
+    "Tạo mẫu starter kit cho việc phát triển Agent skills tùy chỉnh cho ngành y tế.",
+    "Kết hợp với các framework đồ họa để trực quan hóa hành vi của LLM Agents."
+  ],
+  "stars": 134176,
+  "starsToday": 161,
+  "language": "Python",
+  "topics": [
+    "llms",
+    "rag",
+    "python",
+    "agents"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-25T21:24:59.481Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0a71f238-b703-4eab-a811-d66cca0b4a2d",
+  "repo": "shy3130/tick-stock-panel",
+  "url": "https://github.com/shy3130/tick-stock-panel",
+  "category": "AI Agent/Automation",
+  "summary": "Một công台 tự hosting, zero maintenance cho A-stock, kết hợp chọn股票, giám sát và backtesting, được điều khiển bởi LLM để tùy chỉnh chiến lược và phân tích cá nhân.",
+  "usecases": [
+    "Tự động theo dõi và phân tích giá A-stock hàng ngày với các chỉ báo kỹ thuật.",
+    "Tùy chỉnh chiến lược giao dịch bằng cách sử dụng prompts LLM cá nhân hóa.",
+    "Thực hiện backtest lịch sử và báo cáo hiệu suất đầu tư mà không cần can thiệp thủ công."
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu thời tiết hoặc tin tức tài chính để enrich đầu vào cho LLM strategy.",
+    "Phát triển module xuất báo cáo tự động gửi qua email hoặc Slack sau mỗi backtest.",
+    "Tạo giao diện đa nền tảng (desktop) để theo dõi portfolio real-time."
+  ],
+  "stars": 3761,
+  "starsToday": 136,
+  "language": "Python",
+  "topics": [
+    "a-stock",
+    "ai-agent",
+    "aigc",
+    "backtesting",
+    "duckdb",
+    "fastapi",
+    "llm",
+    "polars",
+    "quant",
+    "quantitative-finance",
+    "quantitative-trading",
+    "react",
+    "screener",
+    "self-hosted",
+    "stock-analysis",
+    "tickflow",
+    "tdx",
+    "daily",
+    "stock",
+    "tsp"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-25T21:24:59.481Z"
+}
