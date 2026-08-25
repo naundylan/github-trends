@@ -1,0 +1,23 @@
+{
+  "id": "c9885d40-7092-4a33-8057-4d9fc49e9787",
+  "repo": "cloudflare/cloudflare-os",
+  "url": "https://github.com/cloudflare/cloudflare-os",
+  "category": "AI Agent/Automation",
+  "summary": "Agent workspace trên Cloudflare Workers cho phép tạo tài liệu, ứng dụng và chạy các agent với ngữ cảnh và hệ thống doanh nghiệp của bạn.",
+  "usecases": [
+    "Tạo và quản lý các ứng dụng nội bộ bằng cách sử dụng Workers để xử lý tài liệu và dữ liệu",
+    "Chạy các agent tự động hoá với truy cập vào dữ liệu và dịch vụ của công ty",
+    "Tích hợp các hệ thống nội bộ vào môi trường serverless để tăng tính mở rộng"
+  ],
+  "ideas": [
+    "Kết nối với CRM để tạo agent hỗ trợ bán hàng tự động",
+    "Triển khai công cụ báo cáo tự động và dashboard dựa trên tài liệu",
+    "Kết hợp với LLM để tạo agent hiểu và trả lời câu hỏi dựa trên tài liệu công ty"
+  ],
+  "stars": 9173,
+  "starsToday": 111,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-25T15:49:48.989Z"
+}

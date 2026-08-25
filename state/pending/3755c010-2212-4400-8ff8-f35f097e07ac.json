@@ -1,0 +1,42 @@
+{
+  "id": "3755c010-2212-4400-8ff8-f35f097e07ac",
+  "repo": "MHSanaei/3x-ui",
+  "url": "https://github.com/MHSanaei/3x-ui",
+  "category": "Developer Tool",
+  "summary": "3x-ui là panel quản lý Xray hỗ trợ nhiều giao thức proxy (Vmess, Vless, Trojan, Shadowsocks, Wireguard, Hysteria) với các giới hạn expire, traffic và IP tùy user.",
+  "usecases": [
+    "Quản lý nhiều tài khoản proxy Vmess/Vless với hạn sử dụng traffic và thời gian expire tự động.",
+    "Cấu hình giao thức Trojan/Hysteria cho kết nối an toàn và nhanh trên thiết bị di động."
+  ],
+  "ideas": [
+    "Xây dựng dashboard tự động theo dõi traffic và hiệu suất kết nối cho từng user proxy.",
+    "Tự động tạo cấu hình cho client V2RayNG/XrayNG dựa trên panel 3x-ui thông qua API."
+  ],
+  "stars": 45286,
+  "starsToday": 90,
+  "language": "Go",
+  "topics": [
+    "trojan",
+    "vless",
+    "vmess",
+    "shadowsocks2022",
+    "reality",
+    "http",
+    "shadowsocks",
+    "wireguard",
+    "tls",
+    "post-quantum",
+    "x25519",
+    "mixed",
+    "tunnel",
+    "ech",
+    "hysteria2",
+    "tun",
+    "fail2ban",
+    "xhttp",
+    "nodes",
+    "mtproto"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-25T15:49:48.989Z"
+}

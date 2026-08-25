@@ -1,0 +1,28 @@
+{
+  "id": "144aade6-21e5-4210-99ce-8cce2933511e",
+  "repo": "oblien/openship",
+  "url": "https://github.com/oblien/openship",
+  "category": "DevOps/CI-CD",
+  "summary": "OpenShip là một nền tảng triển khai tự hosting cho phép deploy và quản lý ứng dụng với cấu hình TypeScript, tập trung vào tự động hóa quy trình deployment và vận hành.",
+  "usecases": [
+    "Triển khai tự động các ứng dụng web lên server cá nhân",
+    "Quản lý vòng đời deployment cho microservices tại môi trường nội bộ",
+    "Cấu hình CI/CD cho dự án TypeScript với tự hosting"
+  ],
+  "ideas": [
+    "Tích hợp OpenShip với các công cụ monitoring như Prometheus/Grafana cho observability",
+    "Xây dựng plugin tự động scaling cho các deployment self-hosted",
+    "Sử dụng OpenShip làm nền tảng internal platform cho công ty với các quy tắc deployment tùy chỉnh"
+  ],
+  "stars": 11674,
+  "starsToday": 77,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "ai",
+    "deployments",
+    "self-hosted"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-08-25T15:49:48.989Z"
+}

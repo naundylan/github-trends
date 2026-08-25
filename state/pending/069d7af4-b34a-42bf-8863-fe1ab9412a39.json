@@ -1,0 +1,28 @@
+{
+  "id": "069d7af4-b34a-42bf-8863-fe1ab9412a39",
+  "repo": "Shubhamsaboo/awesome-llm-apps",
+  "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Bộ sưu tập mã nguồn mở gồm hơn 100 ứng dụng AI về LLM, RAG và AI Agents, giúp cộng đồng nhanh chóng tiếp cận và học hỏi các mô hình ngôn ngữ lớn qua ví dụ thực tế.",
+  "usecases": [
+    "Tìm kiếm và tham khảo code mẫu để xây dựng chatbot hoặc AI agent cho dự án cá nhân",
+    "Học tập và nghiên cứu cách kết hợp RAG với các framework LLM phổ biến",
+    "Lấy cảm hứng và khởi đầu nhanh cho hackathon hoặc prototype sản phẩm AI"
+  ],
+  "ideas": [
+    "Kết hợp các ứng dụng trong danh sách để tạo ra một hệ thống AI đa tác vụ cho doanh nghiệp nhỏ",
+    "Phát triển nền tảng no-code cho phép người dùng tùy chỉnh và triển khai các agent từ repo này",
+    "Xây dựng khóa học trực tuyến miễn phí hướng dẫn từng bước dựa trên các ví dụ thực tế trong bộ sưu tập"
+  ],
+  "stars": 134076,
+  "starsToday": 161,
+  "language": "Python",
+  "topics": [
+    "llms",
+    "rag",
+    "python",
+    "agents"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-08-25T15:49:48.989Z"
+}
