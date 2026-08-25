@@ -101,8 +101,8 @@
   },
   "openai/codex-plugin-cc": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-07-08",
-    "last_saved": "2026-07-04"
+    "last_seen": "2026-08-25",
+    "last_saved": "2026-08-25"
   },
   "alibaba/page-agent": {
     "first_seen": "2026-07-04",
@@ -171,8 +171,8 @@
   },
   "TauricResearch/TradingAgents": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-07-07",
-    "last_saved": "2026-07-05"
+    "last_seen": "2026-08-25",
+    "last_saved": "2026-08-25"
   },
   "bradautomates/claude-video": {
     "first_seen": "2026-07-05",
@@ -221,7 +221,7 @@
   },
   "thedotmack/claude-mem": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-25",
     "last_saved": "2026-08-22"
   },
   "hesreallyhim/awesome-claude-code": {
@@ -246,8 +246,8 @@
   },
   "rust-lang/rust": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-07-07",
-    "last_saved": "2026-07-06"
+    "last_seen": "2026-08-25",
+    "last_saved": "2026-08-25"
   },
   "MadsLorentzen/ai-job-search": {
     "first_seen": "2026-07-07",
@@ -301,12 +301,12 @@
   },
   "addyosmani/agent-skills": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-09",
-    "last_saved": "2026-07-08"
+    "last_seen": "2026-08-25",
+    "last_saved": "2026-08-25"
   },
   "decolua/9router": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-08-23",
+    "last_seen": "2026-08-25",
     "last_saved": "2026-08-22"
   },
   "byoungd/up": {
@@ -346,8 +346,8 @@
   },
   "rustdesk/rustdesk": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-09",
-    "last_saved": "2026-07-08"
+    "last_seen": "2026-08-25",
+    "last_saved": "2026-08-25"
   },
   "SmartlyDressedGames/U3-SDK": {
     "first_seen": "2026-07-09",
@@ -446,7 +446,7 @@
   },
   "block/buzz": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-08-25",
     "last_saved": "2026-08-22"
   },
   "ruvnet/ruflo": {
@@ -549,52 +549,42 @@
     "last_seen": "2026-08-25",
     "last_saved": "2026-08-24"
   },
-  "louislam/uptime-kuma": {
+  "AgriciDaniel/claude-obsidian": {
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
     "last_saved": "2026-08-25"
   },
-  "alam00000/bentopdf": {
+  "rohitg00/ai-engineering-from-scratch": {
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
     "last_saved": "2026-08-25"
   },
-  "Significant-Gravitas/AutoGPT": {
+  "basecamp/omarchy": {
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
     "last_saved": "2026-08-25"
   },
-  "davebcn87/pi-autoresearch": {
+  "DietrichGebert/ponytail": {
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
     "last_saved": "2026-08-25"
   },
-  "projectdiscovery/nuclei": {
+  "virgiliojr94/book-to-skill": {
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
     "last_saved": "2026-08-25"
   },
-  "ollama/ollama": {
+  "Alishahryar1/free-claude-code": {
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
     "last_saved": "2026-08-25"
   },
-  "1jehuang/jcode": {
+  "makeplane/plane": {
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
     "last_saved": "2026-08-25"
   },
-  "aaif-goose/goose": {
-    "first_seen": "2026-08-25",
-    "last_seen": "2026-08-25",
-    "last_saved": "2026-08-25"
-  },
-  "jdx/mise": {
-    "first_seen": "2026-08-25",
-    "last_seen": "2026-08-25",
-    "last_saved": "2026-08-25"
-  },
-  "oven-sh/bun": {
+  "AprilNEA/OpenLogi": {
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
     "last_saved": "2026-08-25"

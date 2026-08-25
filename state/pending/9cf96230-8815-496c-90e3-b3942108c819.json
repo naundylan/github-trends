@@ -1,0 +1,27 @@
+{
+  "id": "9cf96230-8815-496c-90e3-b3942108c819",
+  "repo": "rust-lang/rust",
+  "url": "https://github.com/rust-lang/rust",
+  "category": "Developer Tool",
+  "summary": "Ngôn ngữ lập trình Rust, cho phép mọi người xây dựng phần mềm đáng tin cậy và hiệu quả.",
+  "usecases": [
+    "Xây dựng công cụ CLI và utility hệ thống cao hiệu suất nơi an toàn bộ nhớ và đồng thời then chốt.",
+    "Phát triển thành phần OS và firmware nhúng với độ tin cậy được đảm bảo qua kiểm tra biên dịch.",
+    "Tạo dịch vụ backend và công cụ mạng cross-platform khai thác zero-cost abstractions của Rust."
+  ],
+  "ideas": [
+    "Tạo ngôn ngữ script an toàn dựa trên Rust cho các tác vụ quản trị hệ thống và tự động hóa.",
+    "Phát triển ứng dụng mạng real-time hoặc proxy tận dụng async/await và hiệu suất của Rust.",
+    "Biên dịch Rust sang WebAssembly để tạo component web cao performance cho game hoặc ứng dụng đồ họa."
+  ],
+  "stars": 116195,
+  "starsToday": 233,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "compiler",
+    "language"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-25T12:43:39.341Z"
+}

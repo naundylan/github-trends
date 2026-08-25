@@ -1,0 +1,37 @@
+{
+  "id": "9da27577-df3e-4012-8663-60dcc8fd5111",
+  "repo": "virgiliojr94/book-to-skill",
+  "url": "https://github.com/virgiliojr94/book-to-skill",
+  "category": "AI Agent/Automation",
+  "summary": "Chuyển đổi sách kỹ thuật PDF thành kỹ năng Claude Code để nghiên cứu, tham khảo và sử dụng ngay khi làm việc.",
+  "usecases": [
+    "Tạo bộ tài liệu học tập từ sách giáo khoa hoặc sách kỹ thuật PDF cho sinh viên.",
+    "Trích xuất kiến thức từ sách để tạo ra các prompt hoặc skill cho AI coding assistant.",
+    "Xây dựng cơ sở dữ liệu kiến thức nội bộ cho công ty từ các sách kỹ thuật đã mua."
+  ],
+  "ideas": [
+    "Kết hợp RAG cho phép truy vấn nội dung sách bằng ngôn ngữ tự nhiên.",
+    "Tự động tạo bài tập và quiz từ nội dung sách để hỗ trợ tự học.",
+    "Phát triển extension VS Code để import skills trực tiếp vào môi trường làm việc."
+  ],
+  "stars": 25409,
+  "starsToday": 375,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "context-engineering",
+    "document-processing",
+    "edtech",
+    "knowledge-base",
+    "knowledge-management",
+    "llm",
+    "pdf-to-markdown",
+    "rag",
+    "self-study",
+    "study-tools",
+    "book-to-skill"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-25T12:43:39.341Z"
+}

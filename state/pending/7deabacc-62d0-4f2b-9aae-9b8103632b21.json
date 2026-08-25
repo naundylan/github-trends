@@ -1,0 +1,34 @@
+{
+  "id": "7deabacc-62d0-4f2b-9aae-9b8103632b21",
+  "repo": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "category": "Developer Tool",
+  "summary": "Một plugin cho Claude Code/Cursor giúp AI agent áp dụng nguyên tắc YAGNI, tạo ra code tối thiểu và tránh ghi đè không cần thiết.",
+  "usecases": [
+    "Tối ưu hóa quá trình viết code bằng AI, giảm lượng code thừa.",
+    "Giúp developer duy trì phong cách code 'lazy senior' khi dùng AI coding tools.",
+    "Tăng hiệu suất review code bằng cách tự động loại bỏ các đoạn code không cần thiết."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động refactor code trước khi deploy.",
+    "Tạo rule cho Cursor/Claude Code để tự động detect và xóa dead code.",
+    "Mở rộng nguyên tắc YAGNI đến các ngôn ngữ và framework khác."
+  ],
+  "stars": 110312,
+  "starsToday": 944,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "cursor-rules",
+    "developer-tools",
+    "llm",
+    "prompt-engineering",
+    "yagni"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-25T12:43:39.341Z"
+}

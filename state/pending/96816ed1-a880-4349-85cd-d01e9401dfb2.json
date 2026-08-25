@@ -1,0 +1,44 @@
+{
+  "id": "96816ed1-a880-4349-85cd-d01e9401dfb2",
+  "repo": "makeplane/plane",
+  "url": "https://github.com/makeplane/plane",
+  "category": "Productivity/Personal Tool",
+  "summary": "Phần mềm quản lý dự án mã nguồn mở thay thế Jira/Linear, hỗ trợ quản lý tác vụ, sprints, docs và triage.",
+  "usecases": [
+    "Quản lý dự án và theo dõi tiến độ cho đội ngũ phát triển phần mềm.",
+    "Theo dõi bug và quản lý issue cho sản phẩm phần mềm.",
+    "Tạo và tổ chức documentation dự án cùng với quản lý sprint."
+  ],
+  "ideas": [
+    "Tích hợp AI để tự động prioritize và gán tác vụ dựa trên lịch sử dự án.",
+    "Phát triển plugin đồng bộ dữ liệu với Slack hoặc Teams để thông báo tiến độ.",
+    "Sử dụng dữ liệu dự án để tạo báo cáo tự động và dự đoán thời gian hoàn thành."
+  ],
+  "stars": 58196,
+  "starsToday": 546,
+  "language": "TypeScript",
+  "topics": [
+    "django",
+    "docker",
+    "kanban",
+    "project-management",
+    "python",
+    "react",
+    "jira",
+    "jira-alternative",
+    "linear",
+    "postgresql",
+    "redis",
+    "issue-tracker",
+    "product-management",
+    "work-management",
+    "vite",
+    "boards",
+    "bug-tracker",
+    "gantt",
+    "project-planning",
+    "typescipt"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-08-25T12:43:39.341Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "330c4990-8116-44e0-897a-94328c808bcd",
+  "repo": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "category": "AI/LLM",
+  "summary": "Kho tài liệu và dự án thực hành hướng dẫn xây dựng hệ thống AI từ con số zero, bao gồm LLM, agents, computer vision và machine learning.",
+  "usecases": [
+    "Học và triển khai các agent AI tự hành cho các tác vụ cụ thể",
+    "Xây dựng và thử nghiệm các mô hình LLM và computer vision trên dữ liệu cá nhân",
+    "Tạo khóa học nội bộ hoặc tài liệu hướng dẫn về kỹ thuật AI từ con số zero"
+  ],
+  "ideas": [
+    "Tự động hóa quy trình fine-tuning LLM cho các lĩnh vực chuyên ngành sử dụng pipeline trong repo",
+    "Xây dựng dashboard trực quan để theo dõi hiệu suất các agents trong các môi trường khác nhau",
+    "Kết hợp với các công cụ CI/CD để deploy các model AI tự động khi có commit mới"
+  ],
+  "stars": 48606,
+  "starsToday": 572,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-engineering",
+    "computer-vision",
+    "course",
+    "deep-learning",
+    "from-scratch",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "nlp",
+    "python",
+    "reinforcement-learning",
+    "rust",
+    "swarm-intelligence",
+    "transformers",
+    "tutorial",
+    "typescript"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-25T12:43:39.341Z"
+}
