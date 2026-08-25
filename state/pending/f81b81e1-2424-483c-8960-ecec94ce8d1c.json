@@ -1,0 +1,37 @@
+{
+  "id": "f81b81e1-2424-483c-8960-ecec94ce8d1c",
+  "repo": "AprilNEA/OpenLogi",
+  "url": "https://github.com/AprilNEA/OpenLogi",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop native viết bằng Rust thay thế Logitech Options+, cho phép remap nút, DPI và SmartShift qua HID++ với chế độ local-first, không tài khoản cũng như không thu thập dữ liệu.",
+  "usecases": [
+    "Tùy chỉnh phím nhanh và cảm độ nhạy cho chuột gaming trên Linux/macOS/Windows mà không cần phần mềm chủ sở hữu.",
+    "Cấu hình đa thiết bị cho người làm việc văn phòng, đồng bộ cài đặt mà không gửi dữ liệu lên đám mây.",
+    "Phục hồi phần cứng cũ hoặc chuột không được hỗ trợ với hệ điều hành hiện đại thông qua remapping HID++."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ tự động hóa như AutoKey hoặc Scripts để tạo các kịch tự động phím/chuột dựa trên ngữ cảnh.",
+    "Phát triển plugin cho các trình quản lý cửa sổ để thay đổi hành vi chuột theo workspace.",
+    "Mở nguồn API để cộng đồng tạo các profile remapping cho các mẫu chuột Logitech phổ biến."
+  ],
+  "stars": 16050,
+  "starsToday": 1097,
+  "language": "Rust",
+  "topics": [
+    "dpi",
+    "gpui",
+    "hid",
+    "hidpp",
+    "local-first",
+    "logitech",
+    "logitech-options",
+    "mouse-remapping",
+    "mx-master",
+    "privacy",
+    "rust",
+    "smartshift",
+    "logitech-mouse"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-08-25T06:43:50.494Z"
+}

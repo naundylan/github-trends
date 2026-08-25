@@ -1,0 +1,23 @@
+{
+  "id": "3cfafe9e-77d8-4679-8d98-9092927d0f8c",
+  "repo": "basecamp/omarchy",
+  "url": "https://github.com/basecamp/omarchy",
+  "category": "Operating System/Kernel",
+  "summary": "Một bản phân phối Linux hiện đại và có phong cách riêng, tập trung vào trải nghiệm giao diện đẹp và tính năng được ưu tiên sẵn cho hệ điều hành.",
+  "usecases": [
+    "Cung cấp một môi trường làm việc Linux nhanh, ổn định và trực quan cho phát triển phần mềm hàng ngày.",
+    "Tạo ra một hệ điều hành cá nhân hóa cho công việc sáng tạo đa phương tiện với giao diện hiện đại.",
+    "Dùng làm nền tảng cho các máy tính cũ hoặc nhẹ cần giao diện đồ họa nhẹ nhưng hiện đại."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ dotfile management (như Stow hoặc Dotbot) để triển khai nhanh trên nhiều máy.",
+    "Tạo phiên bản 'Core' không có GUI cho các server nhẹ nhưng vẫn giữ lại các script cấu hình.",
+    "Phát triển giao diện web quản lý cấu hình để người dùng tùy chỉnh các setting mà không cần sửa file trực tiếp."
+  ],
+  "stars": 30427,
+  "starsToday": 1056,
+  "language": "Shell",
+  "topics": [],
+  "notePath": "notes/Operating-System-Kernel.md",
+  "createdAt": "2026-08-25T06:43:50.494Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "87b70e67-5335-456f-a3de-73046f7213b6",
+  "repo": "Alishahryar1/free-claude-code",
+  "url": "https://github.com/Alishahryar1/free-claude-code",
+  "category": "CLI Tool",
+  "summary": "Công cụ CLI miễn phí cho phép truy cập Claude Code, Codex, Pi và OpenCode với hơn 1.3 tỷ token, hỗ trợ terminal, IDE và điện thoại.",
+  "usecases": [
+    "Tự động hóa viết code cho nhiều mô hình AI mà không cần trả phí",
+    "Tích hợp vào quy trình phát triển cục bộ để tăng năng suất",
+    "Sử dụng trên di động hoặc qua voice command để tạo code trên go"
+  ],
+  "ideas": [
+    "Kết hợp với automation scripts để tạo dự án code hoàn toàn tự động",
+    "Phát triển plugin IDE sử dụng backend của tool này",
+    "Hỗ trợ học sinh/lập trình viên mới luyện tập code với nhiều model AI khác nhau"
+  ],
+  "stars": 49277,
+  "starsToday": 891,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-25T06:43:50.494Z"
+}
