@@ -1,0 +1,30 @@
+{
+  "id": "9a8f68cf-d980-4a6b-b4d3-ad5aa3d53764",
+  "repo": "MemPalace/mempalace",
+  "url": "https://github.com/MemPalace/mempalace",
+  "category": "AI/LLM",
+  "summary": "Hệ thống mémoire AI open-source benchmarked xuất trội, cung cấp quản lý mémoire miễn phí và khả năng mở rộng cho ứng dụng LLM.",
+  "usecases": [
+    "Cho phép memory dài hạn cho chatbot LLM-powered",
+    "Hỗ trợ memory persistent across nhiều session LLM không cần retraining",
+    "Dễ dàng benchmark architectures AI memory cho nghiên cứu"
+  ],
+  "ideas": [
+    "Kết hợp với vector database để retrieval memory semantic cho enterprise agents",
+    "Gộp với frameworks tool-use để LLMs có skill memory bền vững",
+    "Deploy như service cho multi-agent systems cần memory shared"
+  ],
+  "stars": 58643,
+  "starsToday": 42,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "chromadb",
+    "llm",
+    "mcp",
+    "memory",
+    "python"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-26T03:55:05.205Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "f930e908-1cdd-4875-9fd8-a77911560dd8",
+  "repo": "GitoxideLabs/gitoxide",
+  "url": "https://github.com/GitoxideLabs/gitoxide",
+  "category": "Developer Tool",
+  "summary": "Gitoxide là một thư viện pure Rust thực hiện lại Git theo cách idiomatic, nhẹ và nhanh, cung cấp cách tiếp cận an toàn và hiệu quả để làm việc với repository Git. Nó nổi bật với tốc độ 'blazingly-fast' và thiết kế nhẹ.",
+  "usecases": [
+    "Xử lý nhanh repository Git trong ứng dụng bằng Rust mà không phụ thuộc vào lệnh shell truyền thống.",
+    "Tích hợp khả năng quản lý phiên bản Git vào các công cụ DevOps hoặc hệ thống CI/CD tùy chỉnh.",
+    "Phân tích và sửa đổi lịch sử commit với độ an toàn và hiệu suất cao."
+  ],
+  "ideas": [
+    "Xây dựng một hệ thống backup Git phân tán cực nhanh cho các dự án lớn.",
+    "Kết hợp với AI để tự động sửa đổi commit messages hoặc tái cấu trúc code dựa trên lịch sử Git.",
+    "Tạo một giao diện web nhẹ để xem lịch sử repository trực tiếp từ trình duyệt."
+  ],
+  "stars": 11854,
+  "starsToday": 35,
+  "language": "Rust",
+  "topics": [
+    "git",
+    "cli",
+    "blazingly-fast",
+    "built-with-rust",
+    "version-control"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-26T03:55:05.205Z"
+}

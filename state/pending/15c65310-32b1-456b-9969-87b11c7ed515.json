@@ -1,0 +1,35 @@
+{
+  "id": "15c65310-32b1-456b-9969-87b11c7ed515",
+  "repo": "mastra-ai/mastra",
+  "url": "https://github.com/mastra-ai/mastra",
+  "category": "Other",
+  "summary": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+  "usecases": [
+    "Khám phá và đánh giá mastra-ai/mastra cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 27474,
+  "starsToday": 30,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "ai",
+    "chatbots",
+    "javascript",
+    "llm",
+    "nextjs",
+    "nodejs",
+    "reactjs",
+    "typescript",
+    "workflows",
+    "evals",
+    "mcp",
+    "tts"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-26T03:55:05.205Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "d3176cef-309d-4999-b0ab-4bc260e6e167",
+  "repo": "Armur-Ai/Pentest-Swarm-AI",
+  "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+  "category": "Security/Pentest",
+  "summary": "Framework AI-agent cho penetration testing tự động, phối hợp reconnaissance, khai thác và báo cáo cho bug bounty, monitoring liên tục và CTF.",
+  "usecases": [
+    "Kiểm thử xâm nhập tự động cho web applications",
+    "Giám sát liên tục an ninh và assessment threat trong môi trường enterprise",
+    "Hỗ trợ CTF practice và bug bounty hunting với workflow AI-driven"
+  ],
+  "ideas": [
+    "Kết hợp với SIEM để phản ứng an ninh thời gian thực",
+    "Phát triển exploit modules domain-specific cho bảo mật IoT hoặc cloud",
+    "Tạo chế độ cộng tác nơi analysts humains giám sát và định hướng actions của AI agents"
+  ],
+  "stars": 2367,
+  "starsToday": 37,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "bug-bounty",
+    "cybersecurity",
+    "offensive-security",
+    "penetration-testing",
+    "penetration-testing-framework",
+    "penetration-testing-tools"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-08-26T03:55:05.205Z"
+}

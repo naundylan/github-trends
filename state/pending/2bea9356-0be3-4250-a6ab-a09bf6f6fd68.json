@@ -1,0 +1,29 @@
+{
+  "id": "2bea9356-0be3-4250-a6ab-a09bf6f6fd68",
+  "repo": "gleam-lang/gleam",
+  "url": "https://github.com/gleam-lang/gleam",
+  "category": "Developer Tool",
+  "summary": "Gleam là một ngôn ngữ lập trình functional giúp xây dựng hệ thống type-safe và mở rộng dễ dàng, biên dịch sang JavaScript hoặc Erlang VM.",
+  "usecases": [
+    "Xây dựng backend web type-safe với Erlang VM",
+    "Biên dịch sang JavaScript cho ứng dụng frontend hiện đại",
+    "Phát triển microservices với bảo đảm kiểu mạnh mẽ"
+  ],
+  "ideas": [
+    "Kết hợp Gleam với Docker để tạo môi trường development đồng nhất",
+    "Sử dụng Gleam để viết script command-line an toàn thay thế Bash",
+    "Tạo DSL nội bộ cho công ty sử dụng Gleam làm ngôn ngữ cấu hình"
+  ],
+  "stars": 21819,
+  "starsToday": 31,
+  "language": "Rust",
+  "topics": [
+    "gleam",
+    "programming-language",
+    "compiler",
+    "erlang",
+    "statically-typed"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-26T03:55:05.205Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "5c866038-b163-4f19-a17b-15bdf9c6213d",
+  "repo": "rorkai/App-Store-Connect-CLI",
+  "url": "https://github.com/rorkai/App-Store-Connect-CLI",
+  "category": "CLI Tool",
+  "summary": "CLI nhanh và có thể script để tương tác với App Store Connect API, tự động hóa quản lý TestFlight, builds, submissions, signing, analytics, screenshots và subscriptions.",
+  "usecases": [
+    "Tự động hóa quy trình submit build lên TestFlight và quản lý phiên bản ứng dụng trong CI/CD",
+    "Tích hợp ký code và tạo screenshot tự động cho các dự án iOS",
+    "Quản lý analytics và subscription choices cho ứng dụng iOS thông qua script"
+  ],
+  "ideas": [
+    "Xây dựng CLI đa nền tảng quản lý cả iOS và Android releases từ một lệnh duy nhất",
+    "Tích hợp với monitoring hệ thống để tự động rollback khi phát hiện lỗi trong TestFlight builds",
+    "Tạo GUI bao bọc CLI này để team non-technical quản lý releases qua biểu đồ"
+  ],
+  "stars": 6227,
+  "starsToday": 45,
+  "language": "Go",
+  "topics": [
+    "app-store-connect",
+    "automation",
+    "cicd",
+    "cli",
+    "devops",
+    "golang",
+    "ios",
+    "macos",
+    "testflight",
+    "xcode",
+    "apple",
+    "developer-tools",
+    "command-line-tool",
+    "go",
+    "swift"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-26T03:55:05.205Z"
+}
