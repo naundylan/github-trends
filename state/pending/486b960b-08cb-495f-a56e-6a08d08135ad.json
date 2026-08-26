@@ -1,0 +1,44 @@
+{
+  "id": "486b960b-08cb-495f-a56e-6a08d08135ad",
+  "repo": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "category": "AI/LLM",
+  "summary": "Kho tài liệu hướng dẫn xây dựng AI từ con số, bao gồm LLM agents, computer vision và pipeline machine learning để triển khai dự án.",
+  "usecases": [
+    "Xây dựng agent tự động hóa tìm kiếm và xử lý dữ liệu văn bản.",
+    "Triển khai pipeline computer vision cho nhận diện đối tượng.",
+    "Học và triển khai LLM personal assistant trên dữ liệu riêng."
+  ],
+  "ideas": [
+    "Tích hợp swarm intelligence cho multiple AI agents làm việc cùng nhau.",
+    "Xây dựng platform one-click deployment cho AI agents trên cloud.",
+    "Phát triển educational game hướng dẫn reinforcement learning cơ bản."
+  ],
+  "stars": 49401,
+  "starsToday": 837,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-engineering",
+    "computer-vision",
+    "course",
+    "deep-learning",
+    "from-scratch",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "nlp",
+    "python",
+    "reinforcement-learning",
+    "rust",
+    "swarm-intelligence",
+    "transformers",
+    "tutorial",
+    "typescript"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-26T12:44:37.843Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "20eb6dc6-77e2-4638-9088-a15e954ed3d1",
+  "repo": "tt-a1i/archify",
+  "url": "https://github.com/tt-a1i/archify",
+  "category": "Developer Tool",
+  "summary": "Một skill cho agent tạo ra các sơ đồ kiến trúc đẹp, có thể kiểm tra được, xuất ra HTML đơn lẻ với chuyển động và chất lượng xuất sắc, hỗ trợ viết diagram như code.",
+  "usecases": [
+    "Tự động tạo sơ đồ kiến trúc hệ thống cho báo cáo kỹ thuật hoặc tài liệu dự án.",
+    "Sử dụng trong quy trình làm việc của developer để trực quan hóa luồng dữ liệu và giao diện hệ thống.",
+    "Tích hợp trong pipeline CI/CD để sinh diagram tự động khi có thay đổi code."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để sinh ra các sơ đồ architecture từ mô tả văn bản tự động.",
+    "Xuất diagram thành các định dạng vector (SVG/PNG) cho thiết kế trình chiếu hoặc bài thuyết trình.",
+    "Sử dụng làm công cụ giáo dục để sinh ra sơ đồ luồng hoạt động của hệ thống cho sinh viên."
+  ],
+  "stars": 16859,
+  "starsToday": 1002,
+  "language": "HTML",
+  "topics": [
+    "architecture-diagram",
+    "claude-skill",
+    "developer-tools",
+    "diagram-as-code",
+    "mermaid-alternative",
+    "system-design",
+    "agent-skills",
+    "codex",
+    "data-flow-diagram",
+    "opencode",
+    "sequence-diagram",
+    "deepseek-harness",
+    "dsh-plugin",
+    "architecture-as-code",
+    "code-visualization",
+    "coding-agents",
+    "diagrams",
+    "diagrams-as-code",
+    "software-architecture",
+    "text-to-diagram"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-26T12:44:37.843Z"
+}

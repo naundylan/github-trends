@@ -1,0 +1,44 @@
+{
+  "id": "fba019c3-ed02-4e54-959c-8450639077df",
+  "repo": "makeplane/plane",
+  "url": "https://github.com/makeplane/plane",
+  "category": "Developer Tool",
+  "summary": "Plane là một nền tảng quản lý dự án mã nguồn mở thay thế cho Jira, Linear và ClickUp, cho phép team quản lý nhiệm vụ, sprints, tài liệu và triage một cách hiện đại.",
+  "usecases": [
+    "Quản lý dự án phát triển phần mềm: Theo dõi issues, sprints và release notes cho các team dev.",
+    "Quản lý công việc nội bộ: Tổ chức tasks, meetings và docs cho các department không phải dev.",
+    "Tự động hóa triage: Sử dụng quy định để phân loại và ưu tiên issues tự động."
+  ],
+  "ideas": [
+    "Tích hợp AI để tự động gán label và ưu tiên cho issues.",
+    "Phát triển mobile app riêng cho Plane để theo dõi di động.",
+    "Tạo ecosystem plugin cho phép tích hợp với CI/CD pipelines."
+  ],
+  "stars": 58322,
+  "starsToday": 508,
+  "language": "TypeScript",
+  "topics": [
+    "django",
+    "docker",
+    "kanban",
+    "project-management",
+    "python",
+    "react",
+    "jira",
+    "jira-alternative",
+    "linear",
+    "postgresql",
+    "redis",
+    "issue-tracker",
+    "product-management",
+    "work-management",
+    "vite",
+    "boards",
+    "bug-tracker",
+    "gantt",
+    "project-planning",
+    "typescipt"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-26T12:44:37.843Z"
+}

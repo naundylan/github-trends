@@ -11,8 +11,8 @@
   },
   "tt-a1i/archify": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-05",
-    "last_saved": "2026-07-02"
+    "last_seen": "2026-08-26",
+    "last_saved": "2026-08-26"
   },
   "public-apis/public-apis": {
     "first_seen": "2026-07-02",
@@ -26,8 +26,8 @@
   },
   "OpenCut-app/OpenCut": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-03",
-    "last_saved": "2026-07-02"
+    "last_seen": "2026-08-26",
+    "last_saved": "2026-08-26"
   },
   "firecrawl/firecrawl": {
     "first_seen": "2026-07-02",
@@ -91,7 +91,7 @@
   },
   "diegosouzapw/OmniRoute": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "last_saved": "2026-08-22"
   },
   "Zackriya-Solutions/meetily": {
@@ -146,7 +146,7 @@
   },
   "coreyhaines31/marketingskills": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-08-26",
     "last_saved": "2026-08-22"
   },
   "Leonxlnx/taste-skill": {
@@ -216,7 +216,7 @@
   },
   "nodejs/node": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-08-26",
     "last_saved": "2026-08-23"
   },
   "thedotmack/claude-mem": {
@@ -431,7 +431,7 @@
   },
   "Panniantong/Agent-Reach": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-26",
     "last_saved": "2026-08-22"
   },
   "anomalyco/opencode": {
@@ -476,7 +476,7 @@
   },
   "ibelick/ui-skills": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-08-26",
     "last_saved": "2026-08-23"
   },
   "heygen-com/hyperframes": {
@@ -599,52 +599,42 @@
     "last_seen": "2026-08-26",
     "last_saved": "2026-08-25"
   },
-  "anthropics/claude-plugins-official": {
+  "Alishahryar1/free-claude-code": {
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
     "last_saved": "2026-08-26"
   },
-  "alam00000/bentopdf": {
+  "AgriciDaniel/claude-obsidian": {
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
     "last_saved": "2026-08-26"
   },
-  "igmunv/cryptolayer": {
+  "basecamp/omarchy": {
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
     "last_saved": "2026-08-26"
   },
-  "MemPalace/mempalace": {
+  "rohitg00/ai-engineering-from-scratch": {
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
     "last_saved": "2026-08-26"
   },
-  "mastra-ai/mastra": {
+  "DietrichGebert/ponytail": {
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
     "last_saved": "2026-08-26"
   },
-  "projectdiscovery/nuclei": {
+  "VoltAgent/awesome-agent-skills": {
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
     "last_saved": "2026-08-26"
   },
-  "rorkai/App-Store-Connect-CLI": {
+  "github/spec-kit": {
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
     "last_saved": "2026-08-26"
   },
-  "Armur-Ai/Pentest-Swarm-AI": {
-    "first_seen": "2026-08-26",
-    "last_seen": "2026-08-26",
-    "last_saved": "2026-08-26"
-  },
-  "GitoxideLabs/gitoxide": {
-    "first_seen": "2026-08-26",
-    "last_seen": "2026-08-26",
-    "last_saved": "2026-08-26"
-  },
-  "gleam-lang/gleam": {
+  "makeplane/plane": {
     "first_seen": "2026-08-26",
     "last_seen": "2026-08-26",
     "last_saved": "2026-08-26"
