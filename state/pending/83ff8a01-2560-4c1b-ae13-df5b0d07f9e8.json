@@ -1,0 +1,23 @@
+{
+  "id": "83ff8a01-2560-4c1b-ae13-df5b0d07f9e8",
+  "repo": "tickernelz/opencode-mem",
+  "url": "https://github.com/tickernelz/opencode-mem",
+  "category": "Developer Tool",
+  "summary": "Plugin OpenCode cung cấp bộ nhớ bền vững cho các đại lý lập trình thông qua cơ sở dữ liệu vectơ cục bản. Giúp các agent nhớ kiến thức và ngữ cảnh giữa các phiên làm việc.",
+  "usecases": [
+    "Lưu trữ và truy xuất bộ nhớ dự án cho các đại lý AI trong phát triển phần mềm",
+    "Duy trì ngữ cảnh cuộc trò chuyện và kiến thức người dùng giữa các phiên",
+    "Tích hợp bộ nhớ cá nhân hóa cho các công cụ lập trình dựa trên OpenCode"
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ đa nền tảng lưu trữ vectơ như Pinecone hoặc Weaviate",
+    "Thêm tính năng mã hóa và bảo mật dữ liệu bộ nhớ cá nhân",
+    "Kết hợp với các plugin quản lý dự án để tự động tổ chức bộ nhớ theo ngữ cảnh"
+  ],
+  "stars": 1525,
+  "starsToday": 124,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-26T16:33:31.776Z"
+}

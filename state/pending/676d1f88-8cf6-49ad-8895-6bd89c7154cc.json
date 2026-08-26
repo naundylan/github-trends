@@ -1,0 +1,43 @@
+{
+  "id": "676d1f88-8cf6-49ad-8895-6bd89c7154cc",
+  "repo": "RizRiyz/luvus",
+  "url": "https://github.com/RizRiyz/luvus",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ điều khiển nhiệm vụ cho các agent AI của bạn, cung cấp khả năng đa luồng terminal, quản lý workspace và giao diện người dùng dạng TUI để điều phối nhiều agent mã hóa như Claude và Codex.",
+  "usecases": [
+    "Điều phối nhiều trợ lý mã hóa AI trong một terminal để thực hiện các tác vụ refactoring lớn",
+    "Quản lý các phiên agent đồng thời cho các quy trình tạo mã song song",
+    "Chạy các workflow agent phức tạp cho các dự án phát triển phần mềm quy mô lớn"
+  ],
+  "ideas": [
+    "Thêm khả năng tự động mở rộng dựa trên tải để phân phối workload agent",
+    "Tích hợp với các hook hệ thống kiểm soát phiên bản để kích hoạt agent khi có thay đổi mã",
+    "Nhúng dưới dạng bảng điều khiển bên trong IDE để giám sát và điều khiển agent trực tiếp từ môi trường phát triển"
+  ],
+  "stars": 428,
+  "starsToday": 108,
+  "language": "Rust",
+  "topics": [
+    "agent-orchestration",
+    "multiplexer",
+    "tmux",
+    "agent",
+    "ai",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "coding-agents",
+    "kimi",
+    "mission-control",
+    "rust",
+    "terminal-multiplexer",
+    "terminal-ui",
+    "tui",
+    "workspace-manager",
+    "claude",
+    "codex-skill",
+    "opencode"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-26T16:33:31.776Z"
+}

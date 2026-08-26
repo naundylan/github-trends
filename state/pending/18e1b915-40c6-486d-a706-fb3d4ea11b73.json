@@ -1,0 +1,41 @@
+{
+  "id": "18e1b915-40c6-486d-a706-fb3d4ea11b73",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "category": "AI/LLM",
+  "summary": "Thư viện kỹ năng cho AI chuyển bất kỳ đại lý AI nào thành nhà khoa học, cung cấp 163 kỹ năng đã xác thực và hơn 100 cơ sở dữ liệu khoa học. Hỗ trợ nhiều lĩnh vực như sinh học, hoá học, y học và khám phá thuốc.",
+  "usecases": [
+    "Nghiên cứu sinh học phân tích dữ liệu genom và proteom phức tạp",
+    "Phát triển thuốc mới bằng cách tích hợp dữ liệu hoá học và lâm sàng",
+    "Hỗ trợ giảng dạy và nghiên cứu khoa học máy tính với công cụ trực quan hóa"
+  ],
+  "ideas": [
+    "Kết hợp với công cụ phân tích dữ liệu lớn để xây dựng nền tảng nghiên cứu đa ngành",
+    "Phát triển plugin cho các môi trường lập trình như Jupyter Notebook",
+    "Tích hợp với các mô hình ngôn ngữ lớn chuyên biệt cho từng lĩnh vực khoa học"
+  ],
+  "stars": 34608,
+  "starsToday": 130,
+  "language": "Python",
+  "topics": [
+    "ai-scientist",
+    "bioinformatics",
+    "chemoinformatics",
+    "claude",
+    "claude-skills",
+    "claudecode",
+    "clinical-research",
+    "computational-biology",
+    "data-analysis",
+    "drug-discovery",
+    "genomics",
+    "materials-science",
+    "metabolomics",
+    "proteomics",
+    "scientific-computing",
+    "scientific-visualization",
+    "agent-skills"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-26T16:33:31.776Z"
+}

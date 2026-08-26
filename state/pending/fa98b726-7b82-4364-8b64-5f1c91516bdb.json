@@ -1,0 +1,38 @@
+{
+  "id": "fa98b726-7b82-4364-8b64-5f1c91516bdb",
+  "repo": "chuspeeism/dashi-ppt-skill",
+  "url": "https://github.com/chuspeeism/dashi-ppt-skill",
+  "category": "AI Agent/Automation",
+  "summary": "Một kỹ năng AI-agent tạo các bài thuyết trình có thể chỉnh sửa trên trình duyệt từ nhiều chủ đề trực quan và xuất chúng dưới dạng HTML, PDF hoặc PPTX.",
+  "usecases": [
+    "Tạo slide deck cho các cuộc họp và hội thảo trên web",
+    "Tạo tài liệu đào tạo tương tác và hướng dẫn",
+    "Tạo tài liệu động từ mã nguồn hoặc dữ liệu"
+  ],
+  "ideas": [
+    "Tích hợp với quy trình CI/CD để tự động tạo tài liệu",
+    "Kết hợp các nhận xét đánh giá mã để tạo slide một cách tự động",
+    "Nhúng dưới dạng thành phần web trong các công cụ hợp tác để tạo slide theo thời gian thực"
+  ],
+  "stars": 6370,
+  "starsToday": 109,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skill",
+    "ai-agent",
+    "ai-ppt",
+    "claude",
+    "claude-code",
+    "html-presentation",
+    "ppt",
+    "pptx",
+    "presentation",
+    "presentation-generator",
+    "skill",
+    "slide-generator",
+    "slides",
+    "dashial"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-26T16:33:31.776Z"
+}

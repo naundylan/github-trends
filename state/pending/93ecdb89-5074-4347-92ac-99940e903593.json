@@ -1,0 +1,30 @@
+{
+  "id": "93ecdb89-5074-4347-92ac-99940e903593",
+  "repo": "ConardLi/garden-skills",
+  "url": "https://github.com/ConardLi/garden-skills",
+  "category": "Web Frontend",
+  "summary": "ConardLi's garden-skills là bộ sưu tập open-source các kỹ năng liên quan đến thiết kế web, truy xuất tri thức và tạo ảnh, triển khai bằng CSS.",
+  "usecases": [
+    "Designers can use the CSS skill collection to speed up web design prototyping",
+    "Developers can incorporate knowledge retrieval and image generation modules into AI agents",
+    "Educators can teach web design concepts using the curated skill examples"
+  ],
+  "ideas": [
+    "Combine the skill set with a design system to generate component libraries automatically",
+    "Use the image generation skill as a plugin for AI chatbots to produce visual responses",
+    "Create an educational platform where each skill is a lesson module with interactive examples"
+  ],
+  "stars": 10822,
+  "starsToday": 136,
+  "language": "CSS",
+  "topics": [
+    "agent",
+    "claude",
+    "gpt-image-2",
+    "rag",
+    "skills",
+    "web-design"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-08-26T16:33:31.776Z"
+}

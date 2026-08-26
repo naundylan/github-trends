@@ -1,0 +1,23 @@
+{
+  "id": "1939c7b7-7d24-49ef-b7a2-b2efde73985c",
+  "repo": "piratuks/invoice-builder",
+  "url": "https://github.com/piratuks/invoice-builder",
+  "category": "Desktop App",
+  "summary": "Invoice Builder là ứng dụng desktop dựa trên Electron giúp doanh nghiệp nhỏ và freelancer tạo, quản lý và xuất hóa đơn, báo giá dưới dạng PDF với cơ sở dữ liệu cục bộ.",
+  "usecases": [
+    "Freelancer tạo hóa đơn nhanh chóng sau mỗi dự án và gửi qua email.",
+    "Quản lý danh sách khách hàng và lịch sử giao dịch trong ứng dụng offline.",
+    "Xuất báo cáo tài chính tháng từ các hóa đơn đã lưu."
+  ],
+  "ideas": [
+    "Tích hợp tính năng ghi nhắc tự động khi hóa đơn đến hạn thanh toán.",
+    "Thêm hỗ trợ đa ngôn ngữ và đồng bộ hóa qua cloud cho việc làm việc trên nhiều thiết bị.",
+    "Kết hợp với cổng thanh toán online để khách hàng thanh toán trực tiếp từ PDF."
+  ],
+  "stars": 918,
+  "starsToday": 88,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-08-26T16:33:31.776Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "6bead34c-9f2e-4355-8b72-95979c70d55e",
+  "repo": "every-app/open-seo",
+  "url": "https://github.com/every-app/open-seo",
+  "category": "Developer Tool",
+  "summary": "Một công cụ SEO mã nguồn mở thay thế cho Semrush và Ahrefs, cung cấp phân tích backlink, nghiên cứu từ khóa, kiểm tra trang web và tích hợp Google Search Console.",
+  "usecases": [
+    "Thực hiện kiểm tra sức khỏe trang web nhanh chóng và miễn phí cho các doanh nghiệp nhỏ",
+    "Theo dõi thứ hạng từ khóa và hồ sơ backlink cho nhiều tên miền",
+    "Tích hợp dữ liệu SEO vào các ứng dụng quản lý kỹ thuật số hiện có"
+  ],
+  "ideas": [
+    "Tạo một bảng điều khiển trực quan sử dụng open-seo để trực quan hóa xu hướng backlink theo thời gian",
+    "Phát triển một plugin cho các nền tảng quản lý dự án để tự động đưa ra cảnh báo về các vấn đề SEO",
+    "Kết hợp API của open-seo với các công cụ tiếp thị qua email để tối ưu hóa nội dung chiến dịch dựa trên hiệu suất từ khóa"
+  ],
+  "stars": 13570,
+  "starsToday": 133,
+  "language": "TypeScript",
+  "topics": [
+    "backlink-analysis",
+    "keyword-research",
+    "mcp",
+    "seo",
+    "seo-tools",
+    "site-audit",
+    "google-search-console-mcp"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-26T16:33:31.776Z"
+}

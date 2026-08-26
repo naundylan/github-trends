@@ -1,0 +1,27 @@
+{
+  "id": "05c78c5d-becd-40d8-b66c-67abc30c3ce4",
+  "repo": "anthropics/claude-plugins-official",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "category": "Developer Tool",
+  "summary": "Đây là thư mục chính thức do Anthropic quản lý, cung cấp các plugin chất lượng cao cho Claude Code, được viết bằng Python.",
+  "usecases": [
+    "Developers can integrate custom functionality into Claude Code via plugins",
+    "Teams can share and reuse plugins to standardize AI workflows",
+    "Researchers can extend Claude Code with specialized skills for specific tasks"
+  ],
+  "ideas": [
+    "Create a marketplace for custom Claude plugins",
+    "Integrate plugin system with other AI platforms for cross-model functionality",
+    "Build a CLI tool to auto-generate plugin skeletons"
+  ],
+  "stars": 34286,
+  "starsToday": 307,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "mcp",
+    "skills"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-26T16:33:31.776Z"
+}

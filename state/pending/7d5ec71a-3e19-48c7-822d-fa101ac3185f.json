@@ -1,0 +1,31 @@
+{
+  "id": "7d5ec71a-3e19-48c7-822d-fa101ac3185f",
+  "repo": "browser-use/browser-use",
+  "url": "https://github.com/browser-use/browser-use",
+  "category": "AI Agent/Automation",
+  "summary": "Một thư viện Python giúp các tác nhân AI điều khiển trình duyệt web để tự động hóa các tác vụ trực tuyến, chẳng hạn như duyệt web, nhập liệu và trích xuất dữ liệu.",
+  "usecases": [
+    "Tự động hóa quy trình đăng nhập và tương tác với trang web cho các tác nhân AI",
+    "Thu thập dữ liệu từ các trang web động mà không cần truy cập thủ công",
+    "Kiểm tra chức năng trang web bằng cách sử dụng các tác nhân được hỗ trợ bởi LLM"
+  ],
+  "ideas": [
+    "Tích hợp với các mô hình LLM để tạo ra các tác nhân tự động hóa quy trình làm việc có thể đọc và tương tác với bất kỳ giao diện người dùng web nào",
+    "Xây dựng một nền tảng dịch vụ sử dụng browser-use để cung cấp API tự động hóa tác vụ web theo yêu cầu",
+    "Kết hợp với các công cụ ghi màn hình để tạo các kịch bản tự động hóa có thể tái hiện lại các phiên làm việc của con người"
+  ],
+  "stars": 110739,
+  "starsToday": 135,
+  "language": "Python",
+  "topics": [
+    "llm",
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "python",
+    "browser-use",
+    "playwright"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-26T16:33:31.776Z"
+}

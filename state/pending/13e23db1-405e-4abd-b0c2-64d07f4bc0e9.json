@@ -1,0 +1,23 @@
+{
+  "id": "13e23db1-405e-4abd-b0c2-64d07f4bc0e9",
+  "repo": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "category": "CLI Tool",
+  "summary": "CLI-Anything là một công cụ dòng lệnh giúp biến mọi phần mềm thành có thể tương tác qua AI agent, cung cấp hub thống nhất để gọi và điều khiển các dịch vụ.",
+  "usecases": [
+    "Tích hợp AI agent vào các công cụ DevOps để tự động hóa quy trình triển khai.",
+    "Tạo giao diện dòng lệnh thống nhất để gọi API nội bộ mà không cần viết script riêng.",
+    "Phát triển plugin agent cho các ứng dụng legacy để mở rộng khả năng tự động hóa."
+  ],
+  "ideas": [
+    "Kết hợp với framework LLM để xây dựng trợ lý ảo có thể thực thi lệnh qua CLI-Anything.",
+    "Phát triển marketplace chia sẻ các agent script qua CLI-Anything cho cộng đồng.",
+    "Sử dụng trong môi trường giáo dục để dạy sinh viên cách xây dựng agent-native CLI."
+  ],
+  "stars": 48280,
+  "starsToday": 107,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-26T16:33:31.776Z"
+}
