@@ -1,0 +1,44 @@
+{
+  "id": "1b7cb912-acd7-4cd0-a2aa-859279778c65",
+  "repo": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "category": "Documentation/Learning Resource",
+  "summary": "Một kho học liệu toàn diện hướng dẫn xây dựng hệ thống AI từ con số không, bao gồm LLM, agents, computer vision, deep learning và các kỹ thuật mồi sinh, phù hợp cho nhà phát triển muốn nắm vững cơ bản của AI hiện đại.",
+  "usecases": [
+    "Học và triển khai các agent AI tự hành cho tác vụ quản lý dự án hoặc thu thập dữ liệu.",
+    "Xây dựng hệ thống computer vision cho nhận diện vật thể trong ứng dụng nội bộ.",
+    "Tạo prototyping nhanh cho các mô hình generative AI trong sản phẩm khởi nghiệp."
+  ],
+  "ideas": [
+    "Kết hợp với các framework CLI để tạo ra một 'AI assistant' cá nhân có thể chạy trên terminal.",
+    "Phát triển một hệ thống mồi sinh ảnh dựa trên văn bản và chạy hoàn toàn trên máy local sử dụng Rust backend.",
+    "Xây dựng một platform học tập tương tác nơi người dùng có thể thử nghiệm các architecture LLM khác nhau thông qua một giao diện web đơn giản."
+  ],
+  "stars": 49237,
+  "starsToday": 569,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-engineering",
+    "computer-vision",
+    "course",
+    "deep-learning",
+    "from-scratch",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "nlp",
+    "python",
+    "reinforcement-learning",
+    "rust",
+    "swarm-intelligence",
+    "transformers",
+    "tutorial",
+    "typescript"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-08-26T06:43:01.258Z"
+}

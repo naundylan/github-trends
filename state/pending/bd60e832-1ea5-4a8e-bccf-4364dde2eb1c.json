@@ -1,0 +1,44 @@
+{
+  "id": "bd60e832-1ea5-4a8e-bccf-4364dde2eb1c",
+  "repo": "AgriciDaniel/claude-obsidian",
+  "url": "https://github.com/AgriciDaniel/claude-obsidian",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "Hệ thống AI second brain cho Obsidian tự động đọc, liên kết và tổ chức nguồn tài liệu thành knowledge graph Markdown, hoạt động như alternative cá nhân cho Notion.",
+  "usecases": [
+    "Quản lý kiến thức cá nhân (PKM) với AI tự động tạo liên kết giữa các note.",
+    "Nhập tài liệu nguồn mới, Claude tự phân tích và thêm vào graph kiến thức.",
+    "Thay thế Notion với giải mã nguồn mở, dữ liệu toàn quyền người dùng."
+  ],
+  "ideas": [
+    "Tích hợp với voice input để ghi chép tư duy tức thì và tự động tổ chức vào graph.",
+    "Tạo API để các ứng dụng khác truy cập knowledge graph cá nhân.",
+    "Phát triển chế độ offline-first với sync giữa nhiều thiết bị qua Obsidian."
+  ],
+  "stars": 12927,
+  "starsToday": 813,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "obsidian",
+    "second-brain",
+    "claude-code-skill",
+    "knowledge-management",
+    "open-source",
+    "agent-skills",
+    "ai-second-brain",
+    "claude-plugin",
+    "karpathy-llm-wiki",
+    "knowledge-graph",
+    "obsidian-ai",
+    "obsidian-plugin",
+    "pkm",
+    "ai-note-taking",
+    "claude-memory",
+    "note-taking",
+    "notion-alternative",
+    "obsidian-second-brain",
+    "personal-knowledge-management"
+  ],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-08-26T06:43:01.258Z"
+}
