@@ -1,0 +1,27 @@
+{
+  "id": "304504d6-79a2-4e75-846d-e755e4d5acac",
+  "repo": "anthropics/claude-plugins-official",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "category": "AI/LLM",
+  "summary": "Dự án chính thức của Anthropic cung cấp thư mục các plugin chất lượng cao cho Claude Code, giúp mở rộng khả năng tự động viết code, debug và tác vụ phát triển phần mềm thông qua các plugin tích hợp.",
+  "usecases": [
+    "Tự động hoàn thành code và tái cấu trúc trong IDE cho các dự án Python hay JavaScript.",
+    "Tích hợp kiểm thử tự động và sửa lỗi dựa trên ngữ cảnh dự án.",
+    "Mở rộng Claude Code với các kỹ năng/domain chuyên biệt như xử lý dữ liệu, phát triển web hoặc hệ thống."
+  ],
+  "ideas": [
+    "Tạo plugin kết nối Claude Code với cơ sở dữ liệu để sinh ra migration scripts tự động.",
+    "Kết hợp với MCP (Model Context Protocol) để chia sẻ trạng thái dự án giữa nhiều agent Claude.",
+    "Phát triển marketplace plugin cho phép cộng đồng bán hoặc share các kỹ năng Claude Code tùy chỉnh."
+  ],
+  "stars": 34205,
+  "starsToday": 55,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "mcp",
+    "skills"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-26T09:40:20.922Z"
+}

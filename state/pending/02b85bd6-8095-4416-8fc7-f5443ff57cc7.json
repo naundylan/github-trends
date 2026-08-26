@@ -1,0 +1,42 @@
+{
+  "id": "02b85bd6-8095-4416-8fc7-f5443ff57cc7",
+  "repo": "alam00000/bentopdf",
+  "url": "https://github.com/alam00000/bentopdf",
+  "category": "Other",
+  "summary": "The Privacy First PDF Toolkit",
+  "usecases": [
+    "Khám phá và đánh giá alam00000/bentopdf cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 14830,
+  "starsToday": 30,
+  "language": "JavaScript",
+  "topics": [
+    "jpgtopdf",
+    "pdf",
+    "pdf-converter",
+    "pdf-generation",
+    "pdf-viewer",
+    "hacktoberfest",
+    "javascript",
+    "pdffiller",
+    "privacy",
+    "toolkit",
+    "typescript",
+    "adobe-acrobat",
+    "pdf-editor",
+    "pdf-viewer-component",
+    "pdfjs",
+    "self-hosted",
+    "pdf-tools",
+    "docker",
+    "pdf-ocr",
+    "self-hosting"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-26T09:40:20.923Z"
+}

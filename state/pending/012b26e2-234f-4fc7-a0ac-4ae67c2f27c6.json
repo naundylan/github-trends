@@ -1,0 +1,35 @@
+{
+  "id": "012b26e2-234f-4fc7-a0ac-4ae67c2f27c6",
+  "repo": "projectdiscovery/nuclei",
+  "url": "https://github.com/projectdiscovery/nuclei",
+  "category": "Security/Pentest",
+  "summary": "projectdiscovery/nuclei là một scanner lỗ hổng nhanh và có thể tùy chỉnh, sử dụng DSL YAML để phát hiện lỗ hổng an ninh trên ứng dụng, API, mạng, DNS và cấu hình đám mây, được cộng đồng bảo mật hỗ trợ.",
+  "usecases": [
+    "Quét lỗ hổng CVE trên ứng dụng web và API một cách định kỳ.",
+    "Phát hiện subdomain takeover và các vấn đề cấu hình đám mây không an toàn.",
+    "Tích hợp vào pipeline CI/CD để kiểm tra an ninh tự động."
+  ],
+  "ideas": [
+    "Mở rộng nuclei để quét lỗ hổng trên các môi trường IoT và thiết bị bên ngoài.",
+    "Tự động tạo báo cáo bảo mật tùy chỉnh dựa trên kết quả scan nuclei.",
+    "Kết hợp nuclei với AI để phân tích và prioritize các lỗ hổng tìm được."
+  ],
+  "stars": 30831,
+  "starsToday": 34,
+  "language": "Go",
+  "topics": [
+    "cve-scanner",
+    "subdomain-takeover",
+    "nuclei-engine",
+    "vulnerability-detection",
+    "vulnerability-assessment",
+    "vulnerability-scanner",
+    "security",
+    "attack-surface",
+    "security-scanner",
+    "hacktoberfest",
+    "dast"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-08-26T09:40:20.923Z"
+}

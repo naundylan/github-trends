@@ -1,0 +1,29 @@
+{
+  "id": "fa2703f5-bf0a-4fd5-b7e1-a68ae0afc688",
+  "repo": "GitoxideLabs/gitoxide",
+  "url": "https://github.com/GitoxideLabs/gitoxide",
+  "category": "CLI Tool",
+  "summary": "GitoxideLabs/gitoxide là một thư viện/cli Git viết bằng Rust, cung cấp một triển khai Git nhanh, nhẹ và an toàn hoàn toàn, được thiết kế để thay thế các công cụ Git truyền thống với hiệu suất cao.",
+  "usecases": [
+    "Thay thế git command-line mặc định với tốc độ nhanh hơn trên các repository lớn.",
+    "Tích hợp vào các công cụ tự động hóa workflow version control.",
+    "Phát triển các ứng dụng bên thứ ba cần thao tác với Git objects một cách hiệu quả."
+  ],
+  "ideas": [
+    "Xây dựng một giao diện web quản lý repository sử dụng gitoxide để thao tác nhanh.",
+    "Kết hợp với Rust scripting để tự động sửa đổi lịch sử commit an toàn.",
+    "Tạo một CLI quản lý bản phân tán kết hợp gitoxide và peer-to-peer."
+  ],
+  "stars": 11860,
+  "starsToday": 35,
+  "language": "Rust",
+  "topics": [
+    "git",
+    "cli",
+    "blazingly-fast",
+    "built-with-rust",
+    "version-control"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-26T09:40:20.923Z"
+}
