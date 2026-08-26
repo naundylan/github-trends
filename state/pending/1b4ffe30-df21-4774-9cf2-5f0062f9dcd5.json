@@ -1,0 +1,31 @@
+{
+  "id": "1b4ffe30-df21-4774-9cf2-5f0062f9dcd5",
+  "repo": "nasa-gibs/worldview",
+  "url": "https://github.com/nasa-gibs/worldview",
+  "category": "Data Visualization",
+  "summary": "Công cụ web tương tác để duyệt ảnh vệ tinh toàn cầu độ phân giải cao, cung cấp dữ liệu địa球科学 và hình ảnh vệ tinh cho nghiên cứu và trực quan hóa.",
+  "usecases": [
+    "Nghiên cứu thay đổi khí hậu và theo dõi biến động môi trường theo thời gian thực",
+    "Phát hiện và theo dõi thiên tai, cháy rừng hoặc biến đổi sử dụng đất",
+    "Giáo dục và truyền thông khoa học về hệ quả vệ tinh cho đại chúng"
+  ],
+  "ideas": [
+    "Tích hợp lớp overlay dữ liệu thay đổi nhiệt độ để phân tích biến đổi khí hậu",
+    "Xây dựng ứng dụng di động hiển thị vị trí vệ tinh tại vị trí người dùng",
+    "Tạo API cá nhân xuất hình ảnh vệ tinh theo định dạng tùy chỉnh"
+  ],
+  "stars": 1646,
+  "starsToday": 67,
+  "language": "JavaScript",
+  "topics": [
+    "satellite-imagery",
+    "data-visualization",
+    "web-mapping",
+    "nasa",
+    "nasa-gibs",
+    "earth-science",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-08-26T19:54:51.789Z"
+}

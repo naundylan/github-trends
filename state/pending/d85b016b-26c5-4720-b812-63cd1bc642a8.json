@@ -1,0 +1,23 @@
+{
+  "id": "d85b016b-26c5-4720-b812-63cd1bc642a8",
+  "repo": "Alishahryar1/free-claude-code",
+  "url": "https://github.com/Alishahryar1/free-claude-code",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ Python cho phép sử dụng miễn phí các AI coding agent như Claude Code, Codex, Pi và OpenCode với hơn 1.3 tỷ token, hỗ trợ terminal, app, IDE và điều khiển bằng giọng nói tương tự OpenClaw. Nổi bật với khả năng tương thích ToS và đa nền tảng bao gồm cả điện thoại.",
+  "usecases": [
+    "Lập trình viên dùng AI agent hỗ trợ code trực tiếp trong terminal hoặc IDE mà không cần trả phí subscription",
+    "Nhóm phát triển tích hợp vào workflow để tăng tốc độ viết code, review và debug trên nhiều môi trường",
+    "Sử dụng giọng nói để điều khiển AI agent khi đang di chuyển hoặc không thể gõ phím"
+  ],
+  "ideas": [
+    "Kết hợp với VS Code extension để tạo trợ lý lập trình đa nền tảng hoàn chỉnh",
+    "Xây dựng hệ thống pair-programming tự động giữa nhiều AI agent để tăng chất lượng code",
+    "Tạo bot Telegram/Discord cho phép lập trình viên code từ xa qua giọng nói trên điện thoại"
+  ],
+  "stars": 50271,
+  "starsToday": 566,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-26T19:54:51.789Z"
+}

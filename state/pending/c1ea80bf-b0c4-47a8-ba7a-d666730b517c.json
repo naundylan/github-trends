@@ -1,0 +1,34 @@
+{
+  "id": "c1ea80bf-b0c4-47a8-ba7a-d666730b517c",
+  "repo": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "category": "AI Agent/Automation",
+  "summary": "Ponytail giúp AI agent hoạt động như một lập trình viên senior lười biếng, ưu tiên viết ít code nhất có thể (YAGNI) thông qua prompt engineering và LLM.",
+  "usecases": [
+    "Tự động hóa viết code cho AI agent giảm code thừa",
+    "Hỗ trợ prompt engineering trong phát triển nhanh tính năng",
+    "Tối ưu quy trình development với Claude Code hay Cursor Rules"
+  ],
+  "ideas": [
+    "Kết hợp với IDE để auto-generate code theo mode lười biếng",
+    "Tạo pipeline CI/CD lazy mode",
+    "Dùng làm middleware lọc bước không cần giữa user và LLM"
+  ],
+  "stars": 112334,
+  "starsToday": 1598,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "cursor-rules",
+    "developer-tools",
+    "llm",
+    "prompt-engineering",
+    "yagni"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-26T19:54:51.788Z"
+}

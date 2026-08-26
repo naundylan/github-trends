@@ -1,0 +1,44 @@
+{
+  "id": "47bb71a4-4195-45df-8d85-0028c75c97e5",
+  "repo": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "category": "Documentation/Learning Resource",
+  "summary": "Khóa học toàn diện dạy xây dựng sản phẩm AI từ đầu, bao gồm LLM, NLP, computer vision, AI agents và MCP, đi từ lý thuyết nền tảng đến triển khai thực tế bằng Python, TypeScript và Rust.",
+  "usecases": [
+    "Làm lộ trình học AI engineering cho người mới bắt đầu với code từ scratch",
+    "Tham khảo để tự xây dựng các sản phẩm AI end-to-end như chatbot, vision app hay agent",
+    "Dùng làm tài liệu giảng dạy cho workshop hoặc bootcamp về AI/ML"
+  ],
+  "ideas": [
+    "Kết hợp với Claude Code để tạo trợ lý học tập tương tác giải thích từng module của repo",
+    "Tích hợp phần MCP/swarm intelligence vào hệ thống multi-agent để tự động hóa workflow kỹ thuật",
+    "Biên soạn lại thành chuỗi bài viết kèm bài tập thực hành trên nền tảng LMS"
+  ],
+  "stars": 49533,
+  "starsToday": 837,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-engineering",
+    "computer-vision",
+    "course",
+    "deep-learning",
+    "from-scratch",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "nlp",
+    "python",
+    "reinforcement-learning",
+    "rust",
+    "swarm-intelligence",
+    "transformers",
+    "tutorial",
+    "typescript"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-08-26T19:54:51.788Z"
+}

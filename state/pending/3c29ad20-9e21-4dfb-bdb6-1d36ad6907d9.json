@@ -1,0 +1,31 @@
+{
+  "id": "3c29ad20-9e21-4dfb-bdb6-1d36ad6907d9",
+  "repo": "github/spec-kit",
+  "url": "https://github.com/github/spec-kit",
+  "category": "Developer Tool",
+  "summary": "Toolkit chính thức từ GitHub hỗ trợ phương pháp Spec-Driven Development, giúp tạo PRD, spec và tích hợp với AI coding agent như GitHub Copilot. Công cụ giúp chuẩn hóa quy trình phát triển phần mềm bằng cách đặt specification làm trung tâm.",
+  "usecases": [
+    "Đội ngũ phát triển áp dụng quy trình Spec-Driven Development để đảm bảo AI agent sinh code đúng theo yêu cầu nghiệp vụ",
+    "Tạo PRD và spec có cấu trúc rõ ràng làm đầu vào cho các AI coding assistant như Copilot",
+    "Chuẩn hóa tài liệu kỹ thuật và requirements trong các dự án enterprise quy mô lớn"
+  ],
+  "ideas": [
+    "Tích hợp với CI/CD pipeline để tự động validate code sinh ra có khớp với spec hay không",
+    "Xây dựng dashboard theo dõi mức độ tuân thủ specification giữa các team trong tổ chức",
+    "Kết hợp với các AI agent như Claude Code hay Copilot Workspace để tự động hóa toàn bộ quy trình từ spec đến code"
+  ],
+  "stars": 131666,
+  "starsToday": 316,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "copilot",
+    "development",
+    "engineering",
+    "prd",
+    "spec",
+    "spec-driven"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-26T19:54:51.789Z"
+}

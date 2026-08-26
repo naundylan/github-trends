@@ -1,0 +1,23 @@
+{
+  "id": "1b47552e-d789-4868-afa0-7e65e0c2965b",
+  "repo": "basecamp/omarchy",
+  "url": "https://github.com/basecamp/omarchy",
+  "category": "Operating System/Kernel",
+  "summary": "Omarchy là bản phân phối Linux hiện đại và có tính cách riêng, mang đến giao diện đẹp mắt và trải nghiệm hệ điều hành mượt mà.",
+  "usecases": [
+    "Sử dụng làm hệ điều hành chính cho developer muốn trải nghiệm Linux đẹp và hiệu quả",
+    "Triển khai trên máy chủ cần giao diện hiện đại nhưng vẫn nhẹ",
+    "Khám phá tùy chỉnh cá nhân hóa hệ điều hành theo phong cách opinionated"
+  ],
+  "ideas": [
+    "Tích hợp với công cụ devops để tự động hóa deployment",
+    "Tạo distro spin-off cho cộng đồng sáng tạo",
+    "Kết hợp với container lightweight cho môi trường dev"
+  ],
+  "stars": 31901,
+  "starsToday": 1021,
+  "language": "Shell",
+  "topics": [],
+  "notePath": "notes/Operating-System-Kernel.md",
+  "createdAt": "2026-08-26T19:54:51.788Z"
+}

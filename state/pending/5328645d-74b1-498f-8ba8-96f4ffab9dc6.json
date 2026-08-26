@@ -1,0 +1,31 @@
+{
+  "id": "5328645d-74b1-498f-8ba8-96f4ffab9dc6",
+  "repo": "poteto/hiring-without-whiteboards",
+  "url": "https://github.com/poteto/hiring-without-whiteboards",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách tuyển tập các công ty không sử dụng phỏng vấn trắng, cung cấp alternatif cho quy trình tuyển dụng công nghệ minh bạch và công bằng.",
+  "usecases": [
+    "Tìm công ty không yêu cầu phỏng vấn trắng khi ứng tuyển",
+    "Reference cho recruiter redesign quy trình tuyển dụng",
+    "Resource cho tech professional tránh các phương pháp phỏng vấn thiên kiến"
+  ],
+  "ideas": [
+    "Xây dựng browser extension lọc tin tuyển dụng từ danh sách này",
+    "Tích hợp với job board để tag công ty có thực tập hiring tốt",
+    "Tạo scoring system đánh giá quy trình hiring dựa trên dataset"
+  ],
+  "stars": 51705,
+  "starsToday": 85,
+  "language": "JavaScript",
+  "topics": [
+    "interview",
+    "hiring",
+    "whiteboard",
+    "jobs",
+    "tech",
+    "airtable",
+    "hiring-without-whiteboards"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-08-26T19:54:51.789Z"
+}
