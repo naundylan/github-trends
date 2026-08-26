@@ -1,0 +1,23 @@
+{
+  "id": "01423b27-4453-46ed-b8ca-78cafbaa287d",
+  "repo": "jdx/mise",
+  "url": "https://github.com/jdx/mise",
+  "category": "Developer Tool",
+  "summary": "Mise là một công cụ dev toàn diện viết bằng Rust, đóng vai trò quản lý biến môi trường, runner tác vụ và thay thế cho direnv, asdf, task v.v.",
+  "usecases": [
+    "Quản lý biến môi trường và phiên làm việc đa ngôn ngữ trên máy local",
+    "Chạy tác vụ build, test, deploy với các script được định nghĩa tập trung",
+    "Thay thế direnv/asdf/task trong các dự án đa nền tảng"
+  ],
+  "ideas": [
+    "Tích hợp với các hệ điều hành di động để quản lý môi trường phát triển trên-the-go",
+    "Tạo plugin cho các IDE để truy cập trực tiếp các tác vụ và biến môi trường của mise",
+    "Sử dụngmise làm nền tảng cho CI/CD lightweight trên các máy cá nhân"
+  ],
+  "stars": 33019,
+  "starsToday": 61,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-26T00:57:14.150Z"
+}

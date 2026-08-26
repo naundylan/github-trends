@@ -1,0 +1,44 @@
+{
+  "id": "3ea7b4db-4d21-4032-bb33-6b899fa92e38",
+  "repo": "makeplane/plane",
+  "url": "https://github.com/makeplane/plane",
+  "category": "Productivity/Personal Tool",
+  "summary": "Open-source project management platform serving as an alternative to Jira, Linear, Monday, and ClickUp, enabling task, sprint, doc, and triage management.",
+  "usecases": [
+    "Team task and sprint tracking for software development projects.",
+    "Centralized documentation and triage management within projects.",
+    "Customizable workflows for product management and bug tracking."
+  ],
+  "ideas": [
+    "Integrate with CI/CD pipelines for automatic issue linking on deployments.",
+    "Build a mobile app companion for on-the-go task management.",
+    "Add AI-powered task prioritization and suggestion features."
+  ],
+  "stars": 58268,
+  "starsToday": 508,
+  "language": "TypeScript",
+  "topics": [
+    "django",
+    "docker",
+    "kanban",
+    "project-management",
+    "python",
+    "react",
+    "jira",
+    "jira-alternative",
+    "linear",
+    "postgresql",
+    "redis",
+    "issue-tracker",
+    "product-management",
+    "work-management",
+    "vite",
+    "boards",
+    "bug-tracker",
+    "gantt",
+    "project-planning",
+    "typescipt"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-08-26T00:57:14.150Z"
+}

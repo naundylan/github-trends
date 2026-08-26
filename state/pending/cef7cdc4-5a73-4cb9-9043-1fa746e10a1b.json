@@ -1,0 +1,21 @@
+{
+  "id": "cef7cdc4-5a73-4cb9-9043-1fa746e10a1b",
+  "repo": "basecamp/omarchy",
+  "url": "https://github.com/basecamp/omarchy",
+  "category": "Other",
+  "summary": "Beautiful, Modern & Opinionated Linux",
+  "usecases": [
+    "Khám phá và đánh giá basecamp/omarchy cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 31261,
+  "starsToday": 1083,
+  "language": "Shell",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-26T00:57:14.149Z"
+}

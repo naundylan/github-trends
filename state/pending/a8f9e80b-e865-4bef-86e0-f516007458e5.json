@@ -1,0 +1,44 @@
+{
+  "id": "a8f9e80b-e865-4bef-86e0-f516007458e5",
+  "repo": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "category": "Documentation/Learning Resource",
+  "summary": "Khóa học và tài liệu hướng dẫn xây dựng AI từ con số, bao gồm LLM, agents, computer vision, reinforcement learning và swarm intelligence bằng Python.",
+  "usecases": [
+    "Xây dựng agent tự động hóa tác vụ sử dụng LLM và prompt engineering",
+    "Phát triển ứng dụng computer vision để nhận diện đối tượng và xử lý ảnh",
+    "Tạo hệ thống reinforcement learning cho game hoặc robot đơn giản"
+  ],
+  "ideas": [
+    "Kết hợp swarm intelligence với LLM để tạo ra các agent phân tán giải quyết vấn đề",
+    "Phát triển platform học tập tương tác dựa trên cấu trúc khóa học này",
+    "Tạo công cụ monitoring và visualisation cho quá trình training AI"
+  ],
+  "stars": 48969,
+  "starsToday": 569,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-engineering",
+    "computer-vision",
+    "course",
+    "deep-learning",
+    "from-scratch",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "nlp",
+    "python",
+    "reinforcement-learning",
+    "rust",
+    "swarm-intelligence",
+    "transformers",
+    "tutorial",
+    "typescript"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-08-26T00:57:14.149Z"
+}
