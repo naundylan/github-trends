@@ -1,0 +1,43 @@
+{
+  "id": "83525efc-3a5c-4f57-a2b0-d8980e2c3098",
+  "repo": "RizRiyz/luvus",
+  "url": "https://github.com/RizRiyz/luvus",
+  "category": "AI Agent/Automation",
+  "summary": "Luvus là một công cụ điều khiểnภารกิจ (mission control) cho các AI agent, cho phép quản lý và điều phối nhiều agent cùng lúc trong môi trường terminal.",
+  "usecases": [
+    "Điều phối nhiều agent AI như Claude, Codex, Kimi để thực hiện các tác vụ coding tự động.",
+    "Tích hợp với tmux để tạo các workspace terminal độc lập cho mỗi agent, dễ dàng theo dõi log và đầu ra.",
+    "Sử dụng làm trung tâm điều khiển để khởi động, dừng và giám sát các agent trong quy trình phát triển phần mềm."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống tự động hóa CI/CD để kích hoạt agent khi có pull request mới.",
+    "Phát triển plugin cho các IDE phổ biến để gọi Luvus từ bên trong editor.",
+    "Mở rộng hỗ trợ cho các agent ngôn ngữ tự nhiên khác ngoài coding, như agent phân tích dữ liệu."
+  ],
+  "stars": 449,
+  "starsToday": 97,
+  "language": "Rust",
+  "topics": [
+    "agent-orchestration",
+    "multiplexer",
+    "tmux",
+    "agent",
+    "ai",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "coding-agents",
+    "kimi",
+    "mission-control",
+    "rust",
+    "terminal-multiplexer",
+    "terminal-ui",
+    "tui",
+    "workspace-manager",
+    "claude",
+    "codex-skill",
+    "opencode"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-27T00:33:11.628Z"
+}

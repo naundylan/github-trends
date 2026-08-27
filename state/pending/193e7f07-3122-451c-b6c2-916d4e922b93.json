@@ -1,0 +1,30 @@
+{
+  "id": "193e7f07-3122-451c-b6c2-916d4e922b93",
+  "repo": "ConardLi/garden-skills",
+  "url": "https://github.com/ConardLi/garden-skills",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Bộ sưu tập open-source của ConardLi bao gồm web design, retrieval knowledge và image generation, hoạt động như nguồn tài liệu tham khảo toàn diện cho khả năng AI và phát triển web.",
+  "usecases": [
+    "Tài liệu tham khảo nhanh cho developers khi tích hợp các tính năng AI như image generation hoặc RAG.",
+    "Mẫu khởi điểm cho việc xây dựng các skill agent cho Claude hoặc các nền tảng tương tự.",
+    "Hỗ trợ học tập và khám phá các pattern thiết kế web và AI kết hợp."
+  ],
+  "ideas": [
+    "Chuyển đổi thành plugin cho IDE hiển thị các skill khả dụng trực tiếp trong quá trình code.",
+    "Tạo dashboard quản lý các skill AI với đánh giá hiệu suất và ngữ cảnh sử dụng.",
+    "Kết hợp với hệ thống tự động sinh documentation cho projects dựa trên skills collection."
+  ],
+  "stars": 10913,
+  "starsToday": 113,
+  "language": "CSS",
+  "topics": [
+    "agent",
+    "claude",
+    "gpt-image-2",
+    "rag",
+    "skills",
+    "web-design"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-08-27T00:33:11.628Z"
+}

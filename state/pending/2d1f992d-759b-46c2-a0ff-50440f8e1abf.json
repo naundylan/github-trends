@@ -1,0 +1,27 @@
+{
+  "id": "2d1f992d-759b-46c2-a0ff-50440f8e1abf",
+  "repo": "anthropics/claude-plugins-official",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "category": "AI Agent/Automation",
+  "summary": "Kho plugin chính thức cho Claude Code do Anthropic quản lý, cung cấp các extension chất lượng cao để mở rộng khả năng viết code và tự động hóa.",
+  "usecases": [
+    "Tự động hoàn thành code và sinh hàm dựa trên ý cầu bằng Claude Code.",
+    "Tích hợp các kỹ năng tùy chỉnh (skills) vào quy trình làm việc phát triển phần mềm.",
+    "Mở rộng khả năng xử lý ngôn ngữ tự nhiên cho các tác vụ lập trình cụ thể."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động review code và đưa ra các gợi ý cải thiện.",
+    "Phát triển plugin riêng cho các ngôn ngữ lập trình cụ thể để tăng hiệu suất developer.",
+    "Sử dụng plugin để tự động sinh tài liệu code từ repository."
+  ],
+  "stars": 34357,
+  "starsToday": 308,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "mcp",
+    "skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-27T00:33:11.628Z"
+}

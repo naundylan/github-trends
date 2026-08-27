@@ -1,0 +1,23 @@
+{
+  "id": "ebbc5ae3-dbb9-47f2-84b8-72bb788d57bc",
+  "repo": "tickernelz/opencode-mem",
+  "url": "https://github.com/tickernelz/opencode-mem",
+  "category": "AI Agent/Automation",
+  "summary": "Plugin OpenCode cung cấp khả năng nhớ dài hạn cho các tác giả mã bằng cơ sở dữ liệu vector cục bộ, giúp duy trì ngữ cảnh và kiến thức giữa các phiên làm việc.",
+  "usecases": [
+    "Giữ lại ngữ cảnh dự án lớn xuyên qua nhiều phiên làm việc và thay đổi máy.",
+    "Cho phép AI agents học từ mã nguồn trước và áp dụng vào các dự án mới.",
+    "Hỗ trợ team tái sử dụng patterns code và kiến thức đã biết."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để ghi nhớ cấu hình và lỗi đã sửa qua nhiều lần deploy.",
+    "Xây dựng bộ nhớ cá nhân cho developer thông qua vector DB cục bộ kết hợp với LLM.",
+    "Sử dụng làm nền tảng cho các agent tự cải thiện code theo thời gian dựa trên phản hồi."
+  ],
+  "stars": 1536,
+  "starsToday": 120,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-27T00:33:11.628Z"
+}
