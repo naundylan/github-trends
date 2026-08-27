@@ -1,0 +1,30 @@
+{
+  "id": "316ecdc6-1291-458b-a0b3-48043f8c807d",
+  "repo": "JetBrains/go-modern-guidelines",
+  "url": "https://github.com/JetBrains/go-modern-guidelines",
+  "category": "Developer Tool",
+  "summary": "Hướng dẫn giúp AI coding agents viết code Go hiện đại và tuân thủ phong cách hiện đại.",
+  "usecases": [
+    "AI assistants sinh code Go tuân thủ best practices trong dự án dài hạn",
+    "Tích hợp guidelines vào quy trình CI để kiểm tra code Go do AI tạo",
+    "Duy trì tính nhất quán codebase Go khi dùng code generation tại quy mô lớn"
+  ],
+  "ideas": [
+    "Phát triển extension cho VS Code hiển thị guidelines khi AI sinh code Go",
+    "Tạo linter tự động dựa trên modern Go guidelines",
+    "Kết hợp với prompt engineering để tối ưu code Go do AI sinh"
+  ],
+  "stars": 1894,
+  "starsToday": 314,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "coding-agent",
+    "developer-tools",
+    "go",
+    "golang",
+    "guidelines"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-27T13:45:38.054Z"
+}

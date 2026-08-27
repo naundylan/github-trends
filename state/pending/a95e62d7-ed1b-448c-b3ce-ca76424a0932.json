@@ -1,0 +1,39 @@
+{
+  "id": "a95e62d7-ed1b-448c-b3ce-ca76424a0932",
+  "repo": "open-webui/open-webui",
+  "url": "https://github.com/open-webui/open-webui",
+  "category": "AI/LLM",
+  "summary": "Open-WebUI là giao diện web thân thiện cho phép tương tác với các mô hình ngôn ngữ lớn self‑hosted như Ollama và OpenAI API.",
+  "usecases": [
+    "Tương tác với mô hình LLM địa phương để tạo các ứng dụng AI cá nhân",
+    "Sử dụng RAG để truy xuất và mở rộng kiến thức của mô hình",
+    "Đưa UI cho các agente AI tự động hoá công việc"
+  ],
+  "ideas": [
+    "Tích hợp đa nền tảng LLM để người dùng có thể chuyển đổi giữa các mô hình",
+    "Thêm hỗ trợ giọng nói vào/ra để tương tác không hands‑free",
+    "Xây dựng hệ thống plugin cho cộng đồng tạo các tùy năng mở rộng"
+  ],
+  "stars": 150095,
+  "starsToday": 134,
+  "language": "Python",
+  "topics": [
+    "ollama",
+    "ollama-webui",
+    "llm",
+    "webui",
+    "self-hosted",
+    "llm-ui",
+    "llm-webui",
+    "llms",
+    "rag",
+    "ai",
+    "open-webui",
+    "ui",
+    "openai",
+    "mcp",
+    "openapi"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-27T13:45:38.055Z"
+}

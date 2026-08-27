@@ -1,0 +1,25 @@
+{
+  "id": "729edbad-5a13-48db-a994-e25f05676a78",
+  "repo": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "category": "AI/LLM",
+  "summary": "Công cụm kỹ năng cho Agent, cung cấp bộ các kỹ năng cho Agent trong Python, giúp mở rộng khả năng của Agent.",
+  "usecases": [
+    "Tự động hóa tác vụ cho Agent thông qua các kỹ năng chuyên biệt",
+    "Mở rộng khả năng Agent với các kỹ năng chuyên biệt đa dạng",
+    "Tích hợp kỹ năng vào hệ thống Agent hiện có"
+  ],
+  "ideas": [
+    "Tích hợp kỹ năng Agent với các nền tảng AI khác",
+    "Tạo ra hệ thống Agent tự học tự điều",
+    "Phát triển ecosystem kỹ năng Agent đa chiều"
+  ],
+  "stars": 171989,
+  "starsToday": 275,
+  "language": "Python",
+  "topics": [
+    "agent-skills"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-27T13:45:38.054Z"
+}

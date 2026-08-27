@@ -1,0 +1,43 @@
+{
+  "id": "594b6549-ee73-4f15-be6e-93f3b8a1f8ef",
+  "repo": "GyulyVGC/sniffnet",
+  "url": "https://github.com/GyulyVGC/sniffnet",
+  "category": "Networking",
+  "summary": "Sniffnet là công cụ giám sát mạng được viết bằng Rust, cho phép người dùng bắt và visual hoá các gói dữ liệu trên Linux, macOS và Windows.",
+  "usecases": [
+    "Phân tích lưu lượng mạng để phát hiện các mối đe dọa bảo mật",
+    "Giải pháp debug vấn đề mạng trong môi trường phát triển",
+    "Theo dõi lưu lượng để tối ưu hiệu suất dịch vụ"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống SIEM để phát hiện tự động các cú tấn công mạng",
+    "Thêm AI phân tích hành vi gói dữ liệu để phát hiện bất thường",
+    "Phát triển ứng dụng di động hiển thị trực quan lưu lượng mạng"
+  ],
+  "stars": 40859,
+  "starsToday": 144,
+  "language": "Rust",
+  "topics": [
+    "network-analysis",
+    "networking",
+    "packet-sniffer",
+    "rust-crate",
+    "linux",
+    "macos",
+    "packet-capture",
+    "rust",
+    "windows",
+    "security",
+    "utility",
+    "application",
+    "network",
+    "network-monitoring",
+    "packet-analyser",
+    "pcap",
+    "iced",
+    "gui",
+    "tool"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-08-27T13:45:38.055Z"
+}

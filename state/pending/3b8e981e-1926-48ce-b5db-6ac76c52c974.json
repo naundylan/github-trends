@@ -1,0 +1,34 @@
+{
+  "id": "3b8e981e-1926-48ce-b5db-6ac76c52c974",
+  "repo": "htdt/godogen",
+  "url": "https://github.com/htdt/godogen",
+  "category": "Game Dev",
+  "summary": "Tự động hóa phát triển game cho Godot, Bevy và Babylon.js bằng Claude Code và Codex.",
+  "usecases": [
+    "Tạo tự động nội dung và cơ chế game trong Godot",
+    "Phát triển prototype game nhanh chóng với Bevy và AI",
+    "Sinh code 3D cho Babylon.js thông qua lệnh tự어"
+  ],
+  "ideas": [
+    "Kết hợp voice command để điều khiển development game",
+    "Tạo hệ thống modding tự động cho Godot",
+    "Phát triển engine game nhẹ dựa trên AI prompts"
+  ],
+  "stars": 6399,
+  "starsToday": 159,
+  "language": "Python",
+  "topics": [
+    "claude",
+    "claude-code",
+    "game-development",
+    "godot",
+    "godot4",
+    "claude-code-skill",
+    "codex",
+    "codex-cli",
+    "codex-skill",
+    "skills"
+  ],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-08-27T13:45:38.054Z"
+}

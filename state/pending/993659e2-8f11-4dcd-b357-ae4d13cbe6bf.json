@@ -1,0 +1,44 @@
+{
+  "id": "993659e2-8f11-4dcd-b357-ae4d13cbe6bf",
+  "repo": "directus/directus",
+  "url": "https://github.com/directus/directus",
+  "category": "Backend Framework",
+  "summary": "Headless CMS linh hoạt biến database thành API tức thì, admin panel và auth system. Hỗ trợ nhiều DB (PostgreSQL, MySQL, SQLite, MSSQL) với GraphQL/REST API tự động.",
+  "usecases": [
+    "Xây dựng backend cho ứng dụng web/mobile mà không cần code API thủ công",
+    "Tạo nội dung quản trị (CMS) cho trang web tĩnh hoặc đa kênh (omnichannel)",
+    "Quản trị dữ liệu nội bộ thay thế cho admin panel tự xây dựng"
+  ],
+  "ideas": [
+    "Kết hợp với Next.js/Nuxt để xây dựng full-stack app với CMS tích hợp sẵn",
+    "Dùng làm backend cho AI agent truy xuất dữ liệu có cấu trúc qua API tự động",
+    "Mở rộng thành platform low-code cho team non-technical quản lý nội dung đa ngôn ngữ"
+  ],
+  "stars": 37603,
+  "starsToday": 170,
+  "language": "TypeScript",
+  "topics": [
+    "api",
+    "cms",
+    "graphql",
+    "app",
+    "database",
+    "vue",
+    "sqlite",
+    "mysql",
+    "postgresql",
+    "mssql",
+    "directus",
+    "node",
+    "headless-cms",
+    "no-code",
+    "typescript",
+    "javascript",
+    "data-visualization",
+    "sql",
+    "composable",
+    "mariadb"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-08-27T13:45:38.054Z"
+}

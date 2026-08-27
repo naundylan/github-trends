@@ -76,7 +76,7 @@
   },
   "affaan-m/ECC": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-08-27",
     "last_saved": "2026-08-22"
   },
   "langflow-ai/langflow": {
@@ -101,7 +101,7 @@
   },
   "openai/codex-plugin-cc": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-08-27",
     "last_saved": "2026-08-25"
   },
   "alibaba/page-agent": {
@@ -271,8 +271,8 @@
   },
   "anthropics/skills": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-08",
-    "last_saved": "2026-07-07"
+    "last_seen": "2026-08-27",
+    "last_saved": "2026-08-27"
   },
   "TencentCloud/TencentDB-Agent-Memory": {
     "first_seen": "2026-07-07",
@@ -291,8 +291,8 @@
   },
   "tonhowtf/omniget": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-09",
-    "last_saved": "2026-07-07"
+    "last_seen": "2026-08-27",
+    "last_saved": "2026-08-27"
   },
   "t8y2/dbx": {
     "first_seen": "2026-07-07",
@@ -516,7 +516,7 @@
   },
   "langchain-ai/deepagents": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-08-27",
     "last_saved": "2026-08-24"
   },
   "marin-community/marin": {
@@ -531,7 +531,7 @@
   },
   "garrytan/gstack": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-27",
     "last_saved": "2026-08-24"
   },
   "iptv-org/iptv": {
@@ -649,52 +649,47 @@
     "last_seen": "2026-08-27",
     "last_saved": "2026-08-26"
   },
-  "anthropics/claude-plugins-official": {
+  "JetBrains/go-modern-guidelines": {
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
     "last_saved": "2026-08-27"
   },
-  "ConardLi/garden-skills": {
+  "calesthio/OpenMontage": {
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
     "last_saved": "2026-08-27"
   },
-  "browser-use/browser-use": {
+  "ZhuLinsen/daily_stock_analysis": {
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
     "last_saved": "2026-08-27"
   },
-  "K-Dense-AI/scientific-agent-skills": {
+  "htdt/godogen": {
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
     "last_saved": "2026-08-27"
   },
-  "chuspeeism/dashi-ppt-skill": {
+  "AgriciDaniel/claude-seo": {
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
     "last_saved": "2026-08-27"
   },
-  "HKUDS/CLI-Anything": {
+  "open-webui/open-webui": {
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
     "last_saved": "2026-08-27"
   },
-  "every-app/open-seo": {
+  "directus/directus": {
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
     "last_saved": "2026-08-27"
   },
-  "rohitg00/agentmemory": {
+  "1weiho/open-slide": {
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
     "last_saved": "2026-08-27"
   },
-  "tickernelz/opencode-mem": {
-    "first_seen": "2026-08-27",
-    "last_seen": "2026-08-27",
-    "last_saved": "2026-08-27"
-  },
-  "RizRiyz/luvus": {
+  "GyulyVGC/sniffnet": {
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-27",
     "last_saved": "2026-08-27"

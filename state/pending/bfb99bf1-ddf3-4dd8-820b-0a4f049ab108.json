@@ -1,0 +1,27 @@
+{
+  "id": "bfb99bf1-ddf3-4dd8-820b-0a4f049ab108",
+  "repo": "1weiho/open-slide",
+  "url": "https://github.com/1weiho/open-slide",
+  "category": "AI Agent/Automation",
+  "summary": "Framework slide dành cho AI agent, cho phép tạo trình bày tự động từ dữ liệu/llm output. Dùng React để render slide động, phù hợp cho demo, báo cáo tự động hóa.",
+  "usecases": [
+    "Tự động tạo slide deck từ kết quả phân tích dữ liệu của AI agent",
+    "Sinh presentation real-time cho demo sản phẩm hoặc báo cáo định kỳ",
+    "Xuất slide markdown/HTML cho documentation tự động từ codebase"
+  ],
+  "ideas": [
+    "Tích hợp với LangChain/LlamaIndex để agent tự tạo slide minh họa cho câu trả lời",
+    "Kết hợp với Reveal.js/Marp để export PDF/PPTX cho stakeholder non-technical",
+    "Xây dựng template marketplace cho các loại báo cáo: sprint review, security audit, data insight"
+  ],
+  "stars": 7167,
+  "starsToday": 166,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "react",
+    "slides"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-27T13:45:38.054Z"
+}

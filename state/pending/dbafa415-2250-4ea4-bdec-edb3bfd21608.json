@@ -1,0 +1,31 @@
+{
+  "id": "dbafa415-2250-4ea4-bdec-edb3bfd21608",
+  "repo": "AgriciDaniel/claude-seo",
+  "url": "https://github.com/AgriciDaniel/claude-seo",
+  "category": "AI/LLM",
+  "summary": "Universal SEO skill for Claude Code với 25 sub-skills và 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, và PDF/Excel reporting.",
+  "usecases": [
+    "Tối ưu hóa website cho công cụ tìm kiếm",
+    "Tạo nội dung SEO cho các loại website",
+    "Phân tích và báo cáo hiệu quả SEO qua PDF/Excel"
+  ],
+  "ideas": [
+    "Tích hợp vào hệ thống Claude Code cho tự động hóa SEO",
+    "Tạo plugin mở rộng khả năng SEO cho các dự án marketing",
+    "Phát triển ecosystem SEO tích hợp với các công cụ AI khác"
+  ],
+  "stars": 15505,
+  "starsToday": 266,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "seo",
+    "ai",
+    "ai-seo",
+    "claude-code-skill",
+    "marketing-automation",
+    "open-source"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-27T13:45:38.054Z"
+}
