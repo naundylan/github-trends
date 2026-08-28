@@ -1,0 +1,23 @@
+{
+  "id": "5457b6c5-c399-4f57-a0b1-f8bda869b528",
+  "repo": "swoole/typephp",
+  "url": "https://github.com/swoole/typephp",
+  "category": "Build Tool/Bundler",
+  "summary": "Công cụ biên dịch mã PHP thành file nhị phân gốc, giúp tăng tốc độ thực thi và triển khai dễ dàng.",
+  "usecases": [
+    "Triển khai ứng dụng PHP trên môi trường không có PHP interpreter",
+    "Tối ưu hiệu năng cho các script PHP chạy thường xuyên",
+    "Tạo file thực thi độc lập để giảm phụ thuộc môi trường"
+  ],
+  "ideas": [
+    "Kết hợp với Docker để xây dựng image nhỏ gọn",
+    "Phát triển plugin cho máy chủ web để biên dịch trên-the-fly",
+    "Hỗ trợ biên dịch các extension PHP thành binary"
+  ],
+  "stars": 805,
+  "starsToday": 188,
+  "language": "PHP",
+  "topics": [],
+  "notePath": "notes/Build-Tool-Bundler.md",
+  "createdAt": "2026-08-28T23:48:54.824Z"
+}

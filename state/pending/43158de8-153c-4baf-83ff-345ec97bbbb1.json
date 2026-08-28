@@ -1,0 +1,40 @@
+{
+  "id": "43158de8-153c-4baf-83ff-345ec97bbbb1",
+  "repo": "nilbuild/developer-roadmap",
+  "url": "https://github.com/nilbuild/developer-roadmap",
+  "category": "Other",
+  "summary": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+  "usecases": [
+    "Khám phá và đánh giá nilbuild/developer-roadmap cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 365786,
+  "starsToday": 155,
+  "language": "TypeScript",
+  "topics": [
+    "computer-science",
+    "roadmap",
+    "developer-roadmap",
+    "frontend-roadmap",
+    "devops-roadmap",
+    "backend-roadmap",
+    "react-roadmap",
+    "angular-roadmap",
+    "python-roadmap",
+    "go-roadmap",
+    "java-roadmap",
+    "dba-roadmap",
+    "vue-roadmap",
+    "blockchain-roadmap",
+    "javascript-roadmap",
+    "nodejs-roadmap",
+    "qa-roadmap",
+    "software-architect-roadmap"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-28T23:48:54.824Z"
+}

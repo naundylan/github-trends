@@ -1,0 +1,41 @@
+{
+  "id": "dcd2eecd-32cd-4cd4-a246-7c7077d100f7",
+  "repo": "ComposioHQ/awesome-claude-skills",
+  "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Danh sách tuyển chọn các kỹ năng, tài nguyên và công cụ tuyệt vời giúp tùy biến quy trình làm việc của Claude AI, hỗ trợ đa dạng công cụ như Cursor, Gemini CLI và OpenAI Codex.",
+  "usecases": [
+    "Tìm kiếm và áp dụng kỹ năng Claude phù hợp cho dự án phát triển phần mềm",
+    "Tích hợp Claude vào quy trình làm việc tự động hóa SaaS thông qua các công cụ hỗ trợ",
+    "Khám phá công cụ và framework hỗ trợ phát triển agent AI đa nền tảng"
+  ],
+  "ideas": [
+    "Xây dựng workflow tự động hóa kết hợp Claude, Cursor và Gemini để tối ưu hóa quy trình code review",
+    "Phát triển skill tích hợp Claude với hệ thống CI/CD để tự động kiểm thử và triển khai",
+    "Tạo bộ công cụ kết hợp Claude và OpenAI Codex để hỗ trợ lập trình đa mô hình thông minh"
+  ],
+  "stars": 73814,
+  "starsToday": 366,
+  "language": "Python",
+  "topics": [
+    "claude",
+    "claude-code",
+    "agent-skills",
+    "ai-agents",
+    "antigravity",
+    "automation",
+    "codex",
+    "composio",
+    "cursor",
+    "gemini-cli",
+    "mcp",
+    "rube",
+    "saas",
+    "skill",
+    "workflow-automation",
+    "developer-tools",
+    "openai-codex"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-28T23:48:54.824Z"
+}

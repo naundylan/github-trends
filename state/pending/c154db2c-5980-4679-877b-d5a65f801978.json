@@ -1,0 +1,27 @@
+{
+  "id": "c154db2c-5980-4679-877b-d5a65f801978",
+  "repo": "anthropics/claude-plugins-official",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện chính thức do Anthropic quản lý, cung cấp các plugin Claude Code chất lượng cao giúp mở rộng khả năng của trợ lý AI thông qua MCP và kỹ năng tích hợp.",
+  "usecases": [
+    "Tích hợp plugin để Claude Code hỗ trợ phát triển phần mềm thông minh hơn",
+    "Xây dựng kỹ năng tùy biến cho các agent AI trong môi trường doanh nghiệp",
+    "Kết nối Claude với các công cụ bên ngoài thông qua giao thức MCP"
+  ],
+  "ideas": [
+    "Phát triển plugin nội bộ giúp Claude tự động hóa quy trình DevOps",
+    "Kết hợp Claude Code với hệ thống quản lý dự án để tối ưu hóa lập kế hoạch phần mềm",
+    "Xây dựng plugin hỗ trợ phân tích và tối ưu hóa mã nguồn theo chuẩn bảo mật"
+  ],
+  "stars": 35015,
+  "starsToday": 457,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "mcp",
+    "skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-28T23:48:54.824Z"
+}

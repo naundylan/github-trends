@@ -1,0 +1,33 @@
+{
+  "id": "769c76a1-1fc8-4064-8a88-968b64486f58",
+  "repo": "OpenHands/OpenHands",
+  "url": "https://github.com/OpenHands/OpenHands",
+  "category": "AI Agent/Automation",
+  "summary": "OpenHands là một môi trường phát triển được điều khiển bởi AI, cho phép các nhà phát triển viết, sửa và kiểm tra code qua giao thoại tự nhiên với các mô hình LLM như GPT, Claude.",
+  "usecases": [
+    "Tự động sinh mã boilerplate hoặc hàm dựa trên mô tả ngôn ngữ tự nhiên.",
+    "Giúp debug và gợi ý sửa lỗi khi phát hiện exception hoặc cảnh báo trong IDE.",
+    "Tái cấu trúc code và viết tài liệu tự động dựa trên yêu cầu của nhà phát triển."
+  ],
+  "ideas": [
+    "Mở rộng khả năng tích hợp với các dịch vụ CI/CD để AI agent có thể tự động pull request và review code.",
+    "Kết hợp với công cụ quản lý dự án (Jira, Trello) để AI agent có thể chuyển đổi issue thành task code thực tế.",
+    "Phiên bản bản địa chạy trên máy phát triển để bảo mật mã nguồn mà vẫn tận dụng sức mạnh LLM qua mô hình chạy local."
+  ],
+  "stars": 85471,
+  "starsToday": 147,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "artificial-intelligence",
+    "llm",
+    "chatgpt",
+    "claude-ai",
+    "cli",
+    "developer-tools",
+    "gpt",
+    "openai"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-28T23:48:54.824Z"
+}

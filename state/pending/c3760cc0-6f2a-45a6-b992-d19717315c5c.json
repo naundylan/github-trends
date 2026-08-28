@@ -1,0 +1,41 @@
+{
+  "id": "c3760cc0-6f2a-45a6-b992-d19717315c5c",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện kỹ năng agent khoa học lớn nhất (163 skills đã validate, 100+ cơ sở dữ liệu) biến AI agent thành nhà khoa học AI, hỗ trợ sinh học, hóa học, y học, khám phá thuốc, tương thích Cursor, Claude Code, Codex.",
+  "usecases": [
+    "Tự động hóa pipeline phân tích genomics/proteomics cho nghiên cứu sinh học",
+    "Hỗ trợ khám phá thuốc: screening silico, dự đoán ADMET, thiết kế phân tử",
+    "Tự động hóa review văn헌 khoa học và trích xuất dữ liệu cho meta-analysis"
+  ],
+  "ideas": [
+    "Kết hợp với lab automation (Opentrons) để tạo closed-loop self-driving lab",
+    "Xây dựng marketplace skills cho các lĩnh vực niche (materials science, climate modeling)",
+    "Tích hợp knowledge graph sinh học để agent reasoning đa bước chính xác hơn"
+  ],
+  "stars": 36554,
+  "starsToday": 720,
+  "language": "Python",
+  "topics": [
+    "ai-scientist",
+    "bioinformatics",
+    "chemoinformatics",
+    "claude",
+    "claude-skills",
+    "claudecode",
+    "clinical-research",
+    "computational-biology",
+    "data-analysis",
+    "drug-discovery",
+    "genomics",
+    "materials-science",
+    "metabolomics",
+    "proteomics",
+    "scientific-computing",
+    "scientific-visualization",
+    "agent-skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-28T23:48:54.824Z"
+}

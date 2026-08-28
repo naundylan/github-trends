@@ -1,0 +1,21 @@
+{
+  "id": "27e08a21-b502-457e-af9d-30f345a746ff",
+  "repo": "HKUDS/AI-Trader",
+  "url": "https://github.com/HKUDS/AI-Trader",
+  "category": "Other",
+  "summary": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+  "usecases": [
+    "Khám phá và đánh giá HKUDS/AI-Trader cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 21776,
+  "starsToday": 155,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-28T23:48:54.824Z"
+}

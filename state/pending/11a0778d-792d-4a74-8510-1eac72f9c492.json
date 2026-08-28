@@ -1,0 +1,31 @@
+{
+  "id": "11a0778d-792d-4a74-8510-1eac72f9c492",
+  "repo": "conorbronsdon/avoid-ai-writing",
+  "url": "https://github.com/conorbronsdon/avoid-ai-writing",
+  "category": "NLP",
+  "summary": "Kỹ năng này kiểm tra và viết lại nội dung để loại bỏ các dấu hiệu của văn bản được tạo bởi AI, giúp tăng tính tự nhiên và tránh phát hiện bởi công cụ kiểm tra AI.",
+  "usecases": [
+    "Chỉnh sửa bài viết, blog hoặc bài báo trước khi xuất bản để giảm nguy cơ bị gắn nhãn là AI-generated.",
+    "Cải thiện đầu ra của các mô hình ngôn ngữ như Claude, GPT để phù hợp hơn với phong cách con người.",
+    "Được tích hợp vào quy trình làm việc của các AI agent để tự động làm sạch nội dung trước khi gửi cho khách hàng."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý nội dung (CMS) để tự động làm sạch bài viết trước khi đăng lên website.",
+    "Phát triển plugin cho trình soạn thảo markdown hoặc WordPress để cung cấp nút 'Loại bỏ dấu hiệu AI' một键.",
+    "Xây dựng dịch vụ API cho các công ty outsourcing viết bài để đảm bảo nội dung giao付 không bị phát hiện là AI."
+  ],
+  "stars": 3594,
+  "starsToday": 153,
+  "language": "JavaScript",
+  "topics": [
+    "ai-writing",
+    "claude",
+    "claude-code",
+    "llm",
+    "prompt-engineering",
+    "skill",
+    "writing"
+  ],
+  "notePath": "notes/NLP.md",
+  "createdAt": "2026-08-28T23:48:54.824Z"
+}

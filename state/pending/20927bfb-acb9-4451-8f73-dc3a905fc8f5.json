@@ -1,0 +1,23 @@
+{
+  "id": "20927bfb-acb9-4451-8f73-dc3a905fc8f5",
+  "repo": "google/googletest",
+  "url": "https://github.com/google/googletest",
+  "category": "Testing/QA",
+  "summary": "Framework kiểm thử và mock hàng đầu của Google cho C++, hỗ trợ viết test đơn vị dễ dàng.",
+  "usecases": [
+    "Viết test đơn vị cho thư viện C++",
+    "Kiểm thử tích hợp với mock đối tượng",
+    "Tự động hóa quy trình CI để chạy test mỗi pull request"
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ test cho ngôn ngữ khác qua wrapper",
+    "Tích hợp với công cụ đo lường coverage như gcov/lcov",
+    "Phát triển plugin IDE để chạy test trực tiếp từ editor"
+  ],
+  "stars": 39171,
+  "starsToday": 156,
+  "language": "C++",
+  "topics": [],
+  "notePath": "notes/Testing-QA.md",
+  "createdAt": "2026-08-28T23:48:54.824Z"
+}
