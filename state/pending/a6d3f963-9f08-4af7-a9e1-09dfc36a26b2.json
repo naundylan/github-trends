@@ -1,0 +1,23 @@
+{
+  "id": "a6d3f963-9f08-4af7-a9e1-09dfc36a26b2",
+  "repo": "tailscale/tailcat",
+  "url": "https://github.com/tailscale/tailcat",
+  "category": "Networking",
+  "summary": "tailcat là một công cụ dòng lệnh tương tự netcat, nhưng hoạt động qua lớp dữ liệu của Tailscale mà không cần lớp điều khiển, cho phép thiết lập kết nối mạng an toàn và hiệu quả giữa các thiết bị.",
+  "usecases": [
+    "Gỡ lỗi kết nối mạng giữa các máy trong mạng Tailscale.",
+    "Chuyển tệp giữa các máy mà không cần mở cổng công cộng.",
+    "Thiết lập dịch vụ tạm thời hoặc tunnel cho mục đích phát triển."
+  ],
+  "ideas": [
+    "Kết hợp với scripting để tự động hóa kiểm tra mạng trong quy trình CI/CD.",
+    "Sử dụng làm thành phần xây dựng giải pháp VPN tự定义 trong môi trường bị hạn chế.",
+    "Tích hợp với công cụ giám sát để theo dõi hiệu suất mạng."
+  ],
+  "stars": 2392,
+  "starsToday": 986,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-08-28T14:56:57.874Z"
+}

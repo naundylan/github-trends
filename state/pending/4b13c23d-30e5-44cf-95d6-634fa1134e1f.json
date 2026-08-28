@@ -1,0 +1,23 @@
+{
+  "id": "4b13c23d-30e5-44cf-95d6-634fa1134e1f",
+  "repo": "abhigyanpatwari/GitNexus",
+  "url": "https://github.com/abhigyanpatwari/GitNexus",
+  "category": "Developer Tool",
+  "summary": "Công cụ tạo knowledge graph từ code repository chạy hoàn toàn trên browser, hỗ trợ GitHub/GitLab/Azure/local repos, tích hợp Graph RAG Agent cho truy vấn thông minh.",
+  "usecases": [
+    "Khám phá và điều hướng codebase lớn thông qua đồ thị tri thức trực quan",
+    "Tìm kiếm semantic về code, dependencies và relationships giữa các modules",
+    "Phân tích cấu trúc project và tracking relationships giữa files/packages"
+  ],
+  "ideas": [
+    "Tích hợp thêm GraphQL API để GitNexus có thể nhúng vào CI/CD pipeline cho automated code analysis",
+    "Kết hợp với GitHub Copilot hay Claude để tạo hệ thống code review thông minh dựa trên knowledge graph",
+    "Phát triển plugin cho VS Code/JetBrains để trực tiếp truy vấn knowledge graph trong IDE"
+  ],
+  "stars": 46058,
+  "starsToday": 189,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-28T14:56:57.874Z"
+}

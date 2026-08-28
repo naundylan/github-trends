@@ -1,0 +1,42 @@
+{
+  "id": "38ec1426-80c4-45ff-85ab-a8612ccd7730",
+  "repo": "t8y2/dbx",
+  "url": "https://github.com/t8y2/dbx",
+  "category": "Database",
+  "summary": "Công cụ quản lý cơ sở dữ liệu đa nền tảng nhẹ (20MB) hỗ trợ hơn 90 loại database khác nhau như MySQL, PostgreSQL, Redis, MongoDB thông qua giao diện đồ họa, CLI, Docker và tích hợp AI cùng MCP Server.",
+  "usecases": [
+    "Quản lý và truy vấn nhiều loại database khác nhau trong một công cụ duy nhất cho developer hoặc DBA",
+    "Triển khai nhanh môi trường database qua Docker để phát triển và kiểm thử ứng dụng",
+    "Sử dụng tính năng AI tích hợp để phân tích dữ liệu hoặc tối ưu truy vấn một cách thông minh"
+  ],
+  "ideas": [
+    "Xây dựng dashboard tổng hợp giám sát đa database sử dụng dbx như backend và MCP Server để kết nối với các hệ thống khác",
+    "Kết hợp dbx với công cụ CI/CD để tự động hóa kiểm tra và migrate schema database trong pipeline",
+    "Phát triển plugin AI tùy chỉnh cho dbx nhằm hỗ trợ phân tích dữ liệu phức tạp hoặc dự báo xu h hướng"
+  ],
+  "stars": 17241,
+  "starsToday": 410,
+  "language": "Rust",
+  "topics": [
+    "clickhouse",
+    "database",
+    "database-client",
+    "database-management",
+    "gui",
+    "mongodb",
+    "mysql",
+    "postgresql",
+    "redis",
+    "rust",
+    "sql-server",
+    "sqlite",
+    "tauri",
+    "vue",
+    "ai",
+    "cli",
+    "docker",
+    "mcp"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-08-28T14:56:57.874Z"
+}

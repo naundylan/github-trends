@@ -1,0 +1,36 @@
+{
+  "id": "c6ea8529-6cae-42b3-ac83-cb7a321d9a1c",
+  "repo": "koala73/worldmonitor",
+  "url": "https://github.com/koala73/worldmonitor",
+  "category": "Web Frontend",
+  "summary": "Worldmonitor là bảng điều khiển toàn cầu thời gian thực, tích hợp tin tức AI, giám sát geopolitics và hạ tầng, cung cấp tình báo tình huống qua giao diện thống kê.",
+  "usecases": [
+    "Theo dõi sự kiện geopolitical và thông tin khai thác OSINT trong thời gian thực",
+    "Theo dõi trạng thái hạ tầng quốc tế để cảnh báo sớm",
+    "Cung cấp báo cáo tin tức tổng hợp cho các nhà phân tích chính trị và doanh nghiệp"
+  ],
+  "ideas": [
+    "Kết hợp với các dịch vụ API địa lý để cung cấp thông tin địa lý kèm theo tin tức",
+    "Tạo plugin cho các hệ thống CRM để nhúng dashboard vào các nền tảng quản lý khách hàng",
+    "Sử dụng AIAgent để tự động trích xuất các sự kiện quan trọng và gửi thông báo qua email hoặc Slack"
+  ],
+  "stars": 84640,
+  "starsToday": 165,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "dashboard",
+    "geopolitics",
+    "monitoring",
+    "news",
+    "osint",
+    "opensource",
+    "palantir",
+    "situation",
+    "agent",
+    "mcp",
+    "mcp-server"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-08-28T14:56:57.874Z"
+}

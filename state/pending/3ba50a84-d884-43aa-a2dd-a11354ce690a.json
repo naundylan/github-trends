@@ -1,0 +1,23 @@
+{
+  "id": "3ba50a84-d884-43aa-a2dd-a11354ce690a",
+  "repo": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "category": "Developer Tool",
+  "summary": "TypeScript repo that defines the Cursor plugin specification and ships official plugins for the Cursor editor.",
+  "usecases": [
+    "Enable custom extensions to add new features to Cursor",
+    "Share official plugins for common dev workflows",
+    "Extend the editor to support additional languages or tools"
+  ],
+  "ideas": [
+    "Create a marketplace for community‑built plugins",
+    "Develop AI‑assisted plugins that use Cursor’s API",
+    "Build a plugin that syncs Cursor projects with CI/CD pipelines"
+  ],
+  "stars": 5859,
+  "starsToday": 257,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-28T14:56:57.874Z"
+}

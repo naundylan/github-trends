@@ -1,0 +1,27 @@
+{
+  "id": "da863303-4e79-4811-8fff-a90fac7077d5",
+  "repo": "NationalSecurityAgency/ghidra",
+  "url": "https://github.com/NationalSecurityAgency/ghidra",
+  "category": "Security/Pentest",
+  "summary": "Framework phân tích ngược phần mềm (SRE) do NSA phát triển bằng Java, hỗ trợ disassemble và decompile đa nền tảng với giao diện đồ họa và script engine mạnh mẽ.",
+  "usecases": [
+    "Phân tích malware và mã độc để hiểu hành vi, IoC (Indicators of Compromise)",
+    "Reverse engineering phần mềm đóng gói, firmware, driver để tìm lỗ hổng bảo mật",
+    "Debug và phân tích binary khi không có source code gốc"
+  ],
+  "ideas": [
+    "Tích hợp AI/ML để tự động nhận diện patterns độc hại và annotate hàm đã decompile",
+    "Xây dựng plugin chuyên dụng cho phân tích firmware IoT và embedded systems",
+    "Kết hợp với YARA rules để scan và classify malware families tự động"
+  ],
+  "stars": 73180,
+  "starsToday": 205,
+  "language": "Java",
+  "topics": [
+    "software-analysis",
+    "disassembler",
+    "reverse-engineering"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-08-28T14:56:57.874Z"
+}

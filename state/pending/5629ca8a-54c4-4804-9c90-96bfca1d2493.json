@@ -1,0 +1,31 @@
+{
+  "id": "5629ca8a-54c4-4804-9c90-96bfca1d2493",
+  "repo": "workweave/router",
+  "url": "https://github.com/workweave/router",
+  "category": "AI Agent/Automation",
+  "summary": "router là một bộ định tuyến mô hình cho các hệ thống agent, định tuyến từng yêu cầu đến mô hình phù hợp trong dưới 50ms, giúp giảm chi phí 40-70% chỉ bằng cách thay đổi điểm cuối.",
+  "usecases": [
+    "Giảm chi phí cho ứng dụng AI bằng cách định tuyến truy vấn đơn giản sang mô hình rẻ hơn.",
+    "Cải thiện hiệu suất bằng cách gửi nhiệm vụ phức tạp đến mô hình mạnh hơn.",
+    "Đơn giản hóa tích hợp nhiều mô hình AI trong một ứng dụng."
+  ],
+  "ideas": [
+    "Kết hợp với bộ cân bằng tải để phân phối lưu lượng giữa các nhà cung cấp AI khác nhau.",
+    "Sử dụng trong kiến trúc microservices để quản lý phụ thuộc vào mô hình AI.",
+    "Tích hợp với công cụ giám sát để tối ưu định tuyến dựa trên hiệu suất thực thời."
+  ],
+  "stars": 2252,
+  "starsToday": 711,
+  "language": "Go",
+  "topics": [
+    "agentic-coding",
+    "ai-gateway",
+    "anthropic",
+    "claude-code",
+    "codex",
+    "model-router",
+    "openai-compatible"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-28T14:56:57.874Z"
+}
