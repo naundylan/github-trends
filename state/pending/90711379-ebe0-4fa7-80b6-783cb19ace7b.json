@@ -1,0 +1,37 @@
+{
+  "id": "90711379-ebe0-4fa7-80b6-783cb19ace7b",
+  "repo": "rohitg00/agentmemory",
+  "url": "https://github.com/rohitg00/agentmemory",
+  "category": "AI Agent/Automation",
+  "summary": "Lớp bộ nhớ persistent cho các AI coding agent như Claude Code, Cursor, Codex và Copilot, dựa trên benchmark thực tế. Giải pháp giúp agent ghi nhớ ngữ cảnh, quy tắc và tiến trình làm việc xuyên suốt các phiên tương tác.",
+  "usecases": [
+    "Lưu trữ và khôi phục ngữ cảnh dự án khi chuyển đổi giữa các phiên làm việc với AI coding agent",
+    "Đồng bộ bộ nhớ giữa nhiều agent khác nhau (Claude, Cursor, Codex) trong cùng một dự án",
+    "Cá nhân hóa hành vi agent bằng cách lưu trữ quy tắc coding, preferences và kiến thức dài hạn"
+  ],
+  "ideas": [
+    "Tích hợp với awesome-claude-skills để tự động load các skill phù hợp dựa trên memory ngữ cảnh dự án",
+    "Xây dựng hệ thống memory dùng chung cho team, cho phép các thành viên chia sẻ kiến thức với agent",
+    "Phát triển tính năng phân tích pattern sử dụng để gợi ý tối ưu hóa workflow coding cho từng developer"
+  ],
+  "stars": 27618,
+  "starsToday": 117,
+  "language": "TypeScript",
+  "topics": [
+    "agentmemory",
+    "agents",
+    "ai",
+    "claude",
+    "claudecode",
+    "codex",
+    "copilot",
+    "cursor",
+    "genai",
+    "harness",
+    "hermes",
+    "memory",
+    "openclaw"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-28T00:15:18.802Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "34938f9a-244c-43e5-8f3a-1ef8bd60efe2",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện kỹ năng (skills) dành cho AI agent để biến chúng thành nhà khoa học AI, cung cấp 163 kỹ năng đã được xác thực và hơn 100 cơ sở dữ liệu khoa học bao gồm sinh học, hóa học, y học và khám phá thuốc, tương thích với nhiều nền tảng AI agent.",
+  "usecases": [
+    "Tự động hóa quy trình phân tích dữ liệu sinh học, genomics và proteomics cho các nhà nghiên cứu",
+    "Hỗ trợ khám phá thuốc bằng cách truy vấn các cơ sở dữ liệu hóa học và sinh học thông qua AI agent",
+    "Tạo trợ lý nghiên cứu khoa học tự động có thể thực hiện tính toán, trực quan hóa và phân tích dữ liệu chuyên ngành"
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng notebook như Jupyter để tạo môi trường nghiên cứu khoa học hoàn chỉnh do AI điều khiển",
+    "Phát triển plugin cho các công cụ như Benchling hoặc LabArchives để tự động hóa ghi chép thí nghiệm",
+    "Xây dựng workflow tự động review bài báo khoa học, tóm tắt kết quả và đề xuất hướng nghiên cứu tiếp theo"
+  ],
+  "stars": 35300,
+  "starsToday": 498,
+  "language": "Python",
+  "topics": [
+    "ai-scientist",
+    "bioinformatics",
+    "chemoinformatics",
+    "claude",
+    "claude-skills",
+    "claudecode",
+    "clinical-research",
+    "computational-biology",
+    "data-analysis",
+    "drug-discovery",
+    "genomics",
+    "materials-science",
+    "metabolomics",
+    "proteomics",
+    "scientific-computing",
+    "scientific-visualization",
+    "agent-skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-28T00:15:18.802Z"
+}

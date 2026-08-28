@@ -1,0 +1,44 @@
+{
+  "id": "be25b748-59bf-4c09-b05f-faee299ec983",
+  "repo": "hmjz100/LinkSwift",
+  "url": "https://github.com/hmjz100/LinkSwift",
+  "category": "Developer Tool",
+  "summary": "Script Tampermonkey trích xuất link tải trực tiếp từ 8 nền tảng lưu trữ đám mây Trung Quốc (Baidu, Aliyun, Quark, 123,...), hỗ trợ tích hợp aria2/Motrix để tăng tốc tải file.",
+  "usecases": [
+    "Tải file từ Baidu Netdisk với tốc độ cao thông qua link trực tiếp",
+    "Quản lý và tải hàng loạt file từ nhiều nền tảng đám mây khác nhau",
+    "Sử dụng với aria2/Motrix để tải không giới hạn băng thông"
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ thêm các nền tảng đám mây như Google Drive, OneDrive",
+    "Tích hợp tính năng tự động chuyển link sang các công cụ download như IDM, JDownloader",
+    "Phát triển giao diện web dashboard để quản lý và theo dõi các tác vụ tải file"
+  ],
+  "stars": 19785,
+  "starsToday": 83,
+  "language": "JavaScript",
+  "topics": [
+    "aliyun-drive",
+    "baidu",
+    "baidu-netdisk",
+    "quark-netdisk",
+    "tianyi-netdisk",
+    "xunlei-netdisk",
+    "yidong-netdisk",
+    "tampermonkey",
+    "tampermonkey-script",
+    "tampermonkey-userscript",
+    "userscript",
+    "baidunetdisk",
+    "baiduyun",
+    "123pan",
+    "uc-netdisk",
+    "motrix",
+    "aria2",
+    "aliyunpan",
+    "baidupan",
+    "guangya-netdisk"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-28T00:15:18.802Z"
+}

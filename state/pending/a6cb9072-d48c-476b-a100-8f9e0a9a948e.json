@@ -1,0 +1,27 @@
+{
+  "id": "a6cb9072-d48c-476b-a100-8f9e0a9a948e",
+  "repo": "anthropics/claude-plugins-official",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "category": "Developer Tool",
+  "summary": "Thư mục官方 của các plugin chất lượng cao cho Claude Code, giúp mở rộng khả năng của trợ lý lập trình AI.",
+  "usecases": [
+    "Cài đặt plugin để Claude Code hỗ trợ linting và tự động sửa lỗi mã nguồn.",
+    "Thêm plugin kết nối với cơ sở dữ liệu để truy vấn và cập nhật dữ liệu qua ngôn ngữ tự nhiên.",
+    "Sử dụng plugin để tạo tài liệu API tự động từ mã nguồn."
+  ],
+  "ideas": [
+    "Kết hợp plugin với hệ thống CI/CD để tự động chạy kiểm tra chất lượng code trước khi merge.",
+    "Phát triển plugin mới cho việc sinh test case đơn vị dựa trên mô tả chức năng.",
+    "Tích hợp plugin với công cụ quản lý dự án (Jira, Trello) để Claude Code có thể cập nhật task trực tiếp từ chat."
+  ],
+  "stars": 34679,
+  "starsToday": 292,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "mcp",
+    "skills"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-28T00:15:18.802Z"
+}

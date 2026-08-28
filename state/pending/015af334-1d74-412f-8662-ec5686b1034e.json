@@ -1,0 +1,30 @@
+{
+  "id": "015af334-1d74-412f-8662-ec5686b1034e",
+  "repo": "ConardLi/garden-skills",
+  "url": "https://github.com/ConardLi/garden-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ sưu tập mã nguồn mở chứa các skill thiết kế web, truy xuất kiến thức, sinh ảnh và nhiều tiện ích khác để hỗ trợ phát triển agent AI.",
+  "usecases": [
+    "Tích hợp skill web design vào agent để tự động tạo giao diện web.",
+    "Sử dụng skill knowledge retrieval để agent truy xuất thông tin từ tài liệu nội bộ.",
+    "Áp dụng skill image generation để sinh hình ảnh minh hoạ cho bài báo hoặc presentation."
+  ],
+  "ideas": [
+    "Kết hợp với framework LangChain để xây dựng agent đa năng có khả năng thiết kế và sinh nội dung.",
+    "Phát triển plugin cho các IDE phổ biến để cho phép developer gọi trực tiếp skill từ garden-skills.",
+    "Tạo một marketplace nội bộ cho team chia sẻ và tái sử dụng các skill mới."
+  ],
+  "stars": 11318,
+  "starsToday": 415,
+  "language": "CSS",
+  "topics": [
+    "agent",
+    "claude",
+    "gpt-image-2",
+    "rag",
+    "skills",
+    "web-design"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-28T00:15:18.802Z"
+}

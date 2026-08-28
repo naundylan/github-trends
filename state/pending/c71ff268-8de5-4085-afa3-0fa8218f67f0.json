@@ -1,0 +1,29 @@
+{
+  "id": "c71ff268-8de5-4085-afa3-0fa8218f67f0",
+  "repo": "zedeus/nitter",
+  "url": "https://github.com/zedeus/nitter",
+  "category": "Web Frontend",
+  "summary": "Nitter là một giao diện Twitter self‑hosted, viết bằng Nim, cho phép người dùng truy cập và tương tác với Twitter mà không cần tài khoản, nhấn mạnh quyền riêng tư.",
+  "usecases": [
+    "Truy cập Twitter mà không cần tài khoản",
+    "Theo dõi tweets mà không bị thu thập dữ liệu",
+    "Tự host để kiểm soát dữ liệu của mình"
+  ],
+  "ideas": [
+    "Kết hợp Nitter với các blog cá nhân để chia sẻ nội dung Twitter",
+    "Sử dụng Nitter làm proxy cho các ứng dụng Twitter API",
+    "Tích hợp Nitter vào các thiết bị IoT để hiển thị thông báo Twitter"
+  ],
+  "stars": 13870,
+  "starsToday": 71,
+  "language": "Nim",
+  "topics": [
+    "nim",
+    "twitter",
+    "privacy",
+    "self-hosted",
+    "x"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-08-28T00:15:18.802Z"
+}

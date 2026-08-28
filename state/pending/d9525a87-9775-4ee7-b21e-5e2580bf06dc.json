@@ -1,0 +1,34 @@
+{
+  "id": "d9525a87-9775-4ee7-b21e-5e2580bf06dc",
+  "repo": "n0-computer/iroh",
+  "url": "https://github.com/n0-computer/iroh",
+  "category": "Networking",
+  "summary": "Iroh là thư viện Rust cung cấp QUIC và NAT traversal, cho phép các ứng dụng tạo các kết nối P2P thời gian thực với hiệu suất cao.",
+  "usecases": [
+    "Xây dựng ứng dụng chat thời gian thực",
+    "Tạo dịch vụ chia sẻ file P2P với NAT traversal",
+    "Cải thiện latency cho game online"
+  ],
+  "ideas": [
+    "Kết hợp Iroh với WebRTC để nâng cao chất lượng truyền hình trực tiếp",
+    "Sử dụng Iroh làm nền tảng cho các ứng dụng IoT cần kết nối qua NAT",
+    "Tích hợp Iroh vào các hệ thống blockchain để giao tiếp nhanh và an toàn"
+  ],
+  "stars": 12348,
+  "starsToday": 60,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "memes",
+    "realtime",
+    "tags",
+    "does-anyone-read-these",
+    "tagsoftags",
+    "p2p",
+    "holepunching",
+    "multipath",
+    "quic"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-08-28T00:15:18.802Z"
+}

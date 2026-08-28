@@ -1,0 +1,36 @@
+{
+  "id": "ed0f5c86-bc3f-4a9f-ae72-eb98522653db",
+  "repo": "bilawalsidhu/gods-eye-view",
+  "url": "https://github.com/bilawalsidhu/gods-eye-view",
+  "category": "Data Visualization",
+  "summary": "Trình mô phỏng vệ tinh gián điệp trên trình duyệt, hiển thị dữ liệu không gian địa lý thời gian thực trên quả địa cầu 3D photorealistic sử dụng Cesium và WebGL, bao gồm theo dõi chuyến bay, vệ tinh và ảnh viễn thám.",
+  "usecases": [
+    "Theo dõi trực tiếp các chuyến bay thương mại và quân sự trên toàn cầu với dữ liệu thời gian thực",
+    "Giám sát và trực quan hóa quỹ đạo vệ tinh cùng ảnh chụp vệ tinh từ nhiều nguồn mở",
+    "Xây dựng bản đồ tình báo không gian (OSINT) để phân tích các sự kiện địa chính trị"
+  ],
+  "ideas": [
+    "Tích hợp thêm lớp dữ liệu thời tiết, cháy rừng và thiên tai để tạo dashboard giám sát môi trường toàn cầu",
+    "Kết hợp với AI để tự động phát hiện bất thường trong pattern di chuyển của máy bay hoặc tàu biển",
+    "Phát triển phiên bản giáo dục cho phép học sinh khám phá địa lý, khí hậu và các hiện tượng tự nhiên trên quả địa cầu 3D"
+  ],
+  "stars": 7965,
+  "starsToday": 1984,
+  "language": "JavaScript",
+  "topics": [
+    "3d-globe",
+    "cesium",
+    "flight-tracking",
+    "geospatial",
+    "geospatial-intelligence",
+    "gis",
+    "osint",
+    "photogrammetry",
+    "satellite-tracking",
+    "spatial-intelligence",
+    "webgl",
+    "worldview"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-08-28T00:15:18.802Z"
+}
