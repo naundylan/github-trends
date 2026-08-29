@@ -1,0 +1,23 @@
+{
+  "id": "a2ffe5d7-3399-4dea-b13e-0447695b910c",
+  "repo": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Cung cấp specification và bộ plugin chính thức cho code editor Cursor, mở rộng khả năng AI-assisted coding.",
+  "usecases": [
+    "Customizing AI commands for specific languages or frameworks within Cursor",
+    "Automating repetitive coding tasks through plugin hooks",
+    "Integrating external documentation or knowledge bases into the editor workflow"
+  ],
+  "ideas": [
+    "Building a plugin for automatic code review comments generation",
+    "Creating a plugin that syncs code context with external AI services",
+    "Developing a plugin for real-time collaboration features within Cursor"
+  ],
+  "stars": 6008,
+  "starsToday": 246,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-08-29T05:04:23.132Z"
+}

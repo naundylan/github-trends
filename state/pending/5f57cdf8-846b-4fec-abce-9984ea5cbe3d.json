@@ -1,0 +1,21 @@
+{
+  "id": "5f57cdf8-846b-4fec-abce-9984ea5cbe3d",
+  "repo": "tailscale/tailcat",
+  "url": "https://github.com/tailscale/tailcat",
+  "category": "Other",
+  "summary": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+  "usecases": [
+    "Khám phá và đánh giá tailscale/tailcat cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 2870,
+  "starsToday": 965,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-29T05:04:23.132Z"
+}

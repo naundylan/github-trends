@@ -1,0 +1,23 @@
+{
+  "id": "92795ab9-ed3a-4183-8e1a-fafbc98c0db1",
+  "repo": "actions/checkout",
+  "url": "https://github.com/actions/checkout",
+  "category": "DevOps/CI-CD",
+  "summary": "Action GitHub checkout repository vào workspace, cho phép các bước sau trong workflow truy cập mã nguồn.",
+  "usecases": [
+    "Chạy các lệnh build, test sau khi checkout mã",
+    "Deploy code đến các environment khác nhau trong CI/CD",
+    "Kết hợp với actions/setup-node cho các dựject Node.js"
+  ],
+  "ideas": [
+    "Tạo action checkout tùy chỉnh với shallow history cho tốc độ nhanh hơn",
+    "Tích hợp authentication token tự động cho private repos",
+    "Phát triển action checkout đa module cho monorepo"
+  ],
+  "stars": 8776,
+  "starsToday": 104,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-08-29T05:04:23.132Z"
+}

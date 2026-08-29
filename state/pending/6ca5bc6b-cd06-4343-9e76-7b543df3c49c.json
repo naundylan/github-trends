@@ -1,0 +1,23 @@
+{
+  "id": "6ca5bc6b-cd06-4343-9e76-7b543df3c49c",
+  "repo": "abi/screenshot-to-code",
+  "url": "https://github.com/abi/screenshot-to-code",
+  "category": "Web Frontend",
+  "summary": "Chuyển đổi screenshot thành mã HTML/Tailwind/React/Vue sạch tự động, giúp tiết kiệm thời gian trong phát triển giao diện.",
+  "usecases": [
+    "Rapid prototyping of web interfaces from design mockups",
+    "Converting UI designs into code for multiple frontend frameworks",
+    "Generating responsive code from screenshots for faster development workflow"
+  ],
+  "ideas": [
+    "Integrating with Figma or design tools for direct screenshot-to-code pipelines",
+    "Adding accessibility features auto-detection in generated code",
+    "Supporting export to various component libraries like shadcn-ui or MUI"
+  ],
+  "stars": 75646,
+  "starsToday": 326,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-08-29T05:04:23.132Z"
+}

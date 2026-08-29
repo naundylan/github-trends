@@ -1,0 +1,29 @@
+{
+  "id": "c94c3179-ca17-4891-bb92-910b55a1a5d9",
+  "repo": "workweave/router",
+  "url": "https://github.com/workweave/router",
+  "category": "Other",
+  "summary": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+  "usecases": [
+    "Khám phá và đánh giá workweave/router cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 2449,
+  "starsToday": 693,
+  "language": "Go",
+  "topics": [
+    "agentic-coding",
+    "ai-gateway",
+    "anthropic",
+    "claude-code",
+    "codex",
+    "model-router",
+    "openai-compatible"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-29T05:04:23.132Z"
+}
