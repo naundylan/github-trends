@@ -1,0 +1,23 @@
+{
+  "id": "0f42393c-8a25-4515-9120-e3cfbeaa7e57",
+  "repo": "THU-MAIC/OpenMAIC",
+  "url": "https://github.com/THU-MAIC/OpenMAIC",
+  "category": "AI/LLM",
+  "summary": "OpenMAIC là nền tảng mã nguồn mở cho trải nghiệm học tập đa tác nhân, cho phép tương tác giáo dục qua nhiều agent AI chỉ trong một cú click.",
+  "usecases": [
+    "Tự động hóa trải nghiệm học tập tùy theo tốc độ và phong cách của từng học viên",
+    "Giáo viên có thể mô phỏng và quản lý nhiều agent tương tác đồng thời trong lớp học",
+    "Phát triển và thử nghiệm các kịch bản học tập dựa trên hành vi agent"
+  ],
+  "ideas": [
+    "Kết hợp VR/AR để tạo lớp học ảo đa tác nhân",
+    "Sử dụng agent để tự động hóa đánh giá và cung cấp phản hồi tức thì",
+    "Mở rộng framework cho các môn học kỹ thuật và thực hành qua agent chuyên môn"
+  ],
+  "stars": 22151,
+  "starsToday": 907,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-29T23:04:32.246Z"
+}

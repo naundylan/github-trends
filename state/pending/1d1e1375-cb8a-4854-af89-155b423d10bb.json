@@ -1,0 +1,30 @@
+{
+  "id": "1d1e1375-cb8a-4854-af89-155b423d10bb",
+  "repo": "ayghri/i-have-adhd",
+  "url": "https://github.com/ayghri/i-have-adhd",
+  "category": "Developer Tool",
+  "summary": "Một skill/plugin cho coding agents (như Claude) cung cấp đầu ra thân thiện với ADHD, giúp ngăn chặn việc agent lấp lánh đáp án và cải thiện tính rõ ràng cho lập trình viên.",
+  "usecases": [
+    "Giúp developer nhận câu trả lời rõ ràng từ coding agent mà không cần lọc thông tin thừa",
+    "Tăng hiệu suất làm việc cho những người có ADHD khi sử dụng Claude Code hoặc các agent tương tự",
+    "Tích hợp vào quy trình phát triển để nhận feedback/gợi ý có cấu trúc hơn"
+  ],
+  "ideas": [
+    "Tùy chỉnh prompt để agent luôn trả lời theo định dạng ADHD-friendly",
+    "Kết hợp với các công cụ quản lý tác vụ để theo dõi tiến độ phát triển",
+    "Mở rộng cho các ngôn ngữ lập trình khác ngoài Python/JavaScript"
+  ],
+  "stars": 25566,
+  "starsToday": 252,
+  "language": "Python",
+  "topics": [
+    "adhd",
+    "claude-",
+    "claude-code-plugin",
+    "claude-skills",
+    "developer-tools",
+    "productivity"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-29T23:04:32.246Z"
+}

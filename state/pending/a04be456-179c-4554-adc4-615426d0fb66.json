@@ -1,0 +1,23 @@
+{
+  "id": "a04be456-179c-4554-adc4-615426d0fb66",
+  "repo": "vercel-labs/vgpu",
+  "url": "https://github.com/vercel-labs/vgpu",
+  "category": "AI/LLM",
+  "summary": "Thư viện WebGPU đa nền tảng hỗ trợ shaders, scene 3D, GPU tensors, neural networks và visualization toán học. Modular design cho phép chạy cross-runtime trên nhiều môi trường khác nhau.",
+  "usecases": [
+    "Chạy mô hình AI/neural network trực tiếp trên GPU của trình duyệt web",
+    "Tạo interactive 3D visualization với shader effects cho toán học và khoa học",
+    "Phát triển ứng dụng WebGPU chạy được trên nhiều nền tảng (browser, server, edge)"
+  ],
+  "ideas": [
+    "Kết hợp với React/Next.js để tạo dashboard AI visualization trực quan trên browser",
+    "Build web app cho phép user upload model và chạy inference ngay trên trình duyệt không cần server",
+    "Tạo collaborative math tool nơi nhiều user cùng vẽ đồ thị 3D real-time"
+  ],
+  "stars": 932,
+  "starsToday": 209,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-29T23:04:32.246Z"
+}

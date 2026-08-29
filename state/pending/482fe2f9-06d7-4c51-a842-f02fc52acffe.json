@@ -1,0 +1,34 @@
+{
+  "id": "482fe2f9-06d7-4c51-a842-f02fc52acffe",
+  "repo": "yifanfeng97/Hyper-Extract",
+  "url": "https://github.com/yifanfeng97/Hyper-Extract",
+  "category": "AI/LLM",
+  "summary": "Dự án sử dụng LLMs để chuyển đổi văn bản không cấu trúc thành kiến thức có cấu trúc, hỗ trợ đồ thị siêu, đồ thị kiến thức và RAG.",
+  "usecases": [
+    "Trích xuất thông tin tự động từ tài liệu để tạo đồ thị kiến thức",
+    "Cung cấp dữ liệu có cấu trúc cho ứng dụng RAG",
+    "Phân tích văn bản spatio-temporal để tạo đồ thị liên quan thời gian và địa lý"
+  ],
+  "ideas": [
+    "Kết hợp với AI agents để tự động xây dựng cơ sở dữ liệu tri thức từ tài liệu khoa học",
+    "Sử dụng cho bản đồ tri thức cá nhân và tìm kiếm liên quan",
+    "Tích hợp vào pipeline ETL doanh nghiệp cho xử lý văn bản"
+  ],
+  "stars": 3741,
+  "starsToday": 118,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "cli",
+    "hypergraph",
+    "information-extraction",
+    "knowledge",
+    "knowledge-graph",
+    "llm",
+    "python",
+    "rag",
+    "ai-agents"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-29T23:04:32.246Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "afe47919-fd7d-4375-97c3-3443925bd3d7",
+  "repo": "p-e-w/heretic",
+  "url": "https://github.com/p-e-w/heretic",
+  "category": "AI/LLM",
+  "summary": "Tool tự động loại bỏ censorship của language models bằng kỹ thuật abliteration, giúp model phản hồi tự do hơn mà không cần fine-tuning thủ công.",
+  "usecases": [
+    "Khôi phục khả năng phản hồi đầy đủ của LLM bị gated bởi safety filters",
+    "Nghiên cứu behavior và capability của LLM mà không bị giới hạn bởi built-in restrictions",
+    "Developers cần test model trong môi trường không censorship cho R&D"
+  ],
+  "ideas": [
+    "Tích hợp vào pipeline để selective censorship - bỏ filter ở một số domain nhất định",
+    "Build interface cho phép user chọn mức độ unfiltered phù hợp với use case",
+    "Kết hợp với fine-tuning framework để tạo custom aligned models"
+  ],
+  "stars": 28666,
+  "starsToday": 150,
+  "language": "Python",
+  "topics": [
+    "abliteration",
+    "llm",
+    "transformer"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-29T23:04:32.246Z"
+}
