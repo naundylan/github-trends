@@ -1,0 +1,40 @@
+{
+  "id": "50364a76-9310-45af-b968-f6693ec20b40",
+  "repo": "Mintplex-Labs/anything-llm",
+  "url": "https://github.com/Mintplex-Labs/anything-llm",
+  "category": "AI/LLM",
+  "summary": "AnythingLLM là nền tảng local-first cho phép chạy nhiều LLM, RAG và AI agents trên máy tính cá nhân mà không phụ thuộc vào đám mây, nổi bật với giao diện đồ họo và khả năng tự động hóa qua agent harness.",
+  "usecases": [
+    "Chạy các mô hình LLM và agent trên máy tính cá nhân an toàn, không gửi dữ liệu ra ngoài",
+    "Xây dựng pipeline RAG riêng tư cho doanh nghiệp hoặc cá nhân",
+    "Tự động hóa tác vụ văn phòng và hỗ trợ quyết định thông qua AI agents"
+  ],
+  "ideas": [
+    "Kết hợp với các thiết bị IoT cục bộ để tạo ra các assistant AI offline hoàn toàn",
+    "Phát triển plugin cho Visual Studio Code để truy cập AnythingLLM trực tiếp từ editor",
+    "Tạo hệ thống multi-agent phối hợp để giải quyết các vấn đề phức tạp trong môi trường local"
+  ],
+  "stars": 65355,
+  "starsToday": 53,
+  "language": "JavaScript",
+  "topics": [
+    "rag",
+    "localai",
+    "vector-database",
+    "llm",
+    "ai-agents",
+    "multimodal",
+    "no-code",
+    "agent-harness",
+    "agentic-ai",
+    "hermes-agent",
+    "local-ai",
+    "open-claw",
+    "self-hosted-ai",
+    "agent-computer",
+    "computer-use",
+    "agent-orchestration"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-29T12:10:13.928Z"
+}

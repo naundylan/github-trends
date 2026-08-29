@@ -1,0 +1,30 @@
+{
+  "id": "256d5aaf-fb0b-4499-9d1b-6cc59c7143fd",
+  "repo": "max-sixty/worktrunk",
+  "url": "https://github.com/max-sixty/worktrunk",
+  "category": "CLI Tool",
+  "summary": "Công cụ CLI viết bằng Rust quản lý Git worktrees, tối ưu cho quy trình làm việc song song của các AI agent",
+  "usecases": [
+    "Quản lý nhiều workspace git tách biệt cho các tác vụ của AI agent cùng lúc",
+    "Tự động tạo và dọn dẹp worktree trong các pipeline phát triển nhanh chóng",
+    "Kết nối với CI/CD để cô lập môi trường test cho từng agent hoặc tính năng"
+  ],
+  "ideas": [
+    "Thêm tích hợp dashboard hiển thị trạng thái worktree cho đội ngũ AI agent",
+    "Hỗ trợ quản lý worktree trên các nền tảng git đám mây như GitHub Codespaces hoặc GitLab",
+    "Tự động phân bổ task cho worktree riêng biệt dựa trên định nghĩa agent"
+  ],
+  "stars": 6738,
+  "starsToday": 47,
+  "language": "Rust",
+  "topics": [
+    "agents",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "git",
+    "worktrees"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-29T12:10:13.928Z"
+}

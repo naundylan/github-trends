@@ -1,0 +1,35 @@
+{
+  "id": "4a76e143-b28e-43c8-8e90-322dd8103b80",
+  "repo": "rohitg00/agentmemory",
+  "url": "https://github.com/rohitg00/agentmemory",
+  "category": "Other",
+  "summary": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+  "usecases": [
+    "Khám phá và đánh giá rohitg00/agentmemory cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 27709,
+  "starsToday": 77,
+  "language": "TypeScript",
+  "topics": [
+    "agentmemory",
+    "agents",
+    "ai",
+    "claude",
+    "claudecode",
+    "codex",
+    "copilot",
+    "cursor",
+    "genai",
+    "harness",
+    "hermes",
+    "memory",
+    "openclaw"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-29T12:10:13.928Z"
+}

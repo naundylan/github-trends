@@ -1,0 +1,28 @@
+{
+  "id": "8082fa7a-17fe-4e38-b97e-8539b1a5f6df",
+  "repo": "zed-industries/zed",
+  "url": "https://github.com/zed-industries/zed",
+  "category": "Developer Tool",
+  "summary": "Zed là trình soạn thảo code high-performance mã nguồn mở viết bằng Rust, cung cấp trải nghiệm code nhanh như suy nghĩ và hỗ trợ tính năng multiplayer cho lập trình viên.",
+  "usecases": [
+    "Sử dụng làm trình soạn thảo code chính cho các dự án phát triển phần mềm lớn nhờ hiệu năng Rust.",
+    "Hỗ trợ lập trình đồng thời nhiều người (multiplayer coding) trong cùng một giao diện.",
+    "Xử lý nhanh các file code khổng lồ và tìm kiếm linh hoạt trong quá trình làm việc."
+  ],
+  "ideas": [
+    "Kết hợp với gpui để xây dựng các plugin hoặc giao diện tùy chỉnh cho các quy trình làm việc đặc biệt.",
+    "Sử dụng làm nền tảng cho IDE cá nhân hoặc công cụ training code review.",
+    "Triển khai chế độ 'speed coding' cho các buổi hackathon hoặc pair programming từ xa."
+  ],
+  "stars": 89397,
+  "starsToday": 69,
+  "language": "Rust",
+  "topics": [
+    "text-editor",
+    "zed",
+    "gpui",
+    "rust-lang"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-29T12:10:13.928Z"
+}

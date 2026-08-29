@@ -1,0 +1,43 @@
+{
+  "id": "52558c13-e2dc-436b-8220-d48ea53264d9",
+  "repo": "huggingface/transformers",
+  "url": "https://github.com/huggingface/transformers",
+  "category": "AI/LLM",
+  "summary": "🤗 Transformers là thư viện mã nguồn mở cho các mô hình học máy cutting-edge về văn bản, thị giác, âm thanh và đa phương tiện, hỗ trợ cả inference và training.",
+  "usecases": [
+    "Train và fine-tune mô hình ngôn ngữ cho tác vụ như phân loại, tạo văn bản.",
+    "Sử dụng các model đã pretrained để inference trong ứng dụng sản phẩm (chatbot, dịch thuật).",
+    "Xử lý đa phương tiện (vision, audio) với cùng một framework."
+  ],
+  "ideas": [
+    "Tạo một ứng dụng web tự động tạo nội dung sử dụng model được host trên Hugging Face Hub.",
+    "Kết hợp với RAG (Retrieval-Augmented Generation) cho các bộ dữ liệu doanh nghiệp nội bộ.",
+    "Phát triển một assistant cá nhân offline sử dụng các model quantized từ Transformers."
+  ],
+  "stars": 164596,
+  "starsToday": 62,
+  "language": "Python",
+  "topics": [
+    "nlp",
+    "natural-language-processing",
+    "pytorch",
+    "pytorch-transformers",
+    "transformer",
+    "model-hub",
+    "pretrained-models",
+    "speech-recognition",
+    "hacktoberfest",
+    "python",
+    "machine-learning",
+    "deep-learning",
+    "audio",
+    "deepseek",
+    "gemma",
+    "glm",
+    "llm",
+    "qwen",
+    "vlm"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-29T12:10:13.928Z"
+}

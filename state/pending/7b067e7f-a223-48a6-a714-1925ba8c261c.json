@@ -1,0 +1,26 @@
+{
+  "id": "7b067e7f-a223-48a6-a714-1925ba8c261c",
+  "repo": "EveryInc/compound-engineering-plugin",
+  "url": "https://github.com/EveryInc/compound-engineering-plugin",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Plugin chính thức tích hợp khả năng Compound Engineering vào các nền tảng AI code như Claude Code, Codex và Cursor, nâng cao quy trình phát triển tự động",
+  "usecases": [
+    "Tự động tạo code và refactoring bằng mẫu kỹ thuật Compound trong IDE hỗ trợ",
+    "Cho phép các AI agent tuân theo quy trình kỹ thuật nhất quán khi thực hiện tác vụ code",
+    "Tích hợp 원활 vào quy trình làm việc của các nhà phát triển sử dụng các công cụ code AI"
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ cho các nền tảng AI code khác như GitHub Copilot hoặc Windsurf",
+    "Thêm khả năng tạo dự án scaffolding tự động dựa trên các mẫu kỹ thuật",
+    "Kết nối phản hồi hai chiều với version control để theo dõi các chỉ số kỹ thuật trong thời gian thực"
+  ],
+  "stars": 24663,
+  "starsToday": 49,
+  "language": "TypeScript",
+  "topics": [
+    "compound",
+    "engineering"
+  ],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-08-29T12:10:13.928Z"
+}

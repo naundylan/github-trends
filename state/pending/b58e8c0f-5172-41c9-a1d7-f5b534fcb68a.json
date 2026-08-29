@@ -1,0 +1,44 @@
+{
+  "id": "b58e8c0f-5172-41c9-a1d7-f5b534fcb68a",
+  "repo": "tutti-os/tutti",
+  "url": "https://github.com/tutti-os/tutti",
+  "category": "AI Agent/Automation",
+  "summary": "tutti là nền tảng cho phép người dùng và agent AI hợp tác xây dựng cùng nhau, tập trung vào agent collaboration, workspace chia sẻ và workflow agentic AI trên môi trường local-first.",
+  "usecases": [
+    "Hỗ trợ phát triển đồng thời nhiều AI agent cùng làm việc trên cùng một codebase.",
+    "Tạo môi trường làm việc tích hợp cho agent collaboration (như Claude Code, Codex).",
+    "Phát triển ứng dụng desktop local-first với khả năng chia sẻ context giữa các agent."
+  ],
+  "ideas": [
+    "Kết hợp với MCP (Model Context Protocol) để tạo ra các công cụ tự động hóa quy trình phát triển phần mềm.",
+    "Tạo ra một 'team AI' tự quản lý cho các dự án open-source.",
+    "Sử dụng cho vibe-coding hoặc phát triển nhanh với nhiều agent đồng thời."
+  ],
+  "stars": 3594,
+  "starsToday": 75,
+  "language": "TypeScript",
+  "topics": [
+    "agent-collaboration",
+    "agent-orchestration",
+    "agent-workspace",
+    "agentic-ai",
+    "agentic-workflow",
+    "ai-agents",
+    "ai-tools",
+    "ai-workspace",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "desktop-app",
+    "developer-tools",
+    "hermes-agent",
+    "local-first",
+    "macos-app",
+    "mcp",
+    "multi-agent",
+    "shared-context",
+    "vibe-coding"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-29T12:10:13.928Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "c120ae48-fd5e-4731-a98c-801a19480f07",
+  "repo": "twentyhq/twenty",
+  "url": "https://github.com/twentyhq/twenty",
+  "category": "Other",
+  "summary": "The open alternative to Salesforce, designed for AI.",
+  "usecases": [
+    "Khám phá và đánh giá twentyhq/twenty cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 55824,
+  "starsToday": 103,
+  "language": "TypeScript",
+  "topics": [
+    "crm",
+    "customer",
+    "graphql",
+    "marketing",
+    "react",
+    "sales",
+    "typescript",
+    "crm-system",
+    "nestjs",
+    "reactjs",
+    "web",
+    "monorepo",
+    "open-source",
+    "postgresql",
+    "good-first-issue",
+    "hacktoberfest",
+    "javascript"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-29T12:10:13.928Z"
+}
