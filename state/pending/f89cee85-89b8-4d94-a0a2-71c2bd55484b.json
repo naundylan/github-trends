@@ -1,0 +1,23 @@
+{
+  "id": "f89cee85-89b8-4d94-a0a2-71c2bd55484b",
+  "repo": "tailscale/tailcat",
+  "url": "https://github.com/tailscale/tailcat",
+  "category": "CLI Tool",
+  "summary": "Công cụ CLI như netcat nhưng hoạt động trên dữ liệu plane của Tailscale, không phụ thuộc vào control plane của Tailscale, cung cấp kết nối mạng an toàn trong môi trường zero-trust.",
+  "usecases": [
+    "Kiểm tra và debug kết nối giữa các node trong mạng Tailscale mà không cần expose ports công khai.",
+    "Truy cập dịch vụ nội bộ từ xa an toàn qua tunnel Tailscale thay vì dùng port forwarding.",
+    "Chẩn đoán vấn đề mạng và kiểm tra độ trễ giữa các máy tính trong cùng một Tailnet."
+  ],
+  "ideas": [
+    "Kết hợp với automation scripts để tự động tạo ra các tunnel tạm cho các dịch vụ phát triển tức thời.",
+    "Sử dụng làm基础 (basis) cho các tool bảo mật mạng nội bộ tùy chỉnh chạy trên mesh network.",
+    "Tích hợp vào CI/CD pipeline để test mạng giữa các environment staging và production một cách an toàn."
+  ],
+  "stars": 3348,
+  "starsToday": 790,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-29T18:12:52.147Z"
+}

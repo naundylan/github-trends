@@ -1,0 +1,44 @@
+{
+  "id": "ad3c9df0-f378-4ca3-ab68-3c7d9e54c65d",
+  "repo": "MakazhanAlpamys/Soup",
+  "url": "https://github.com/MakazhanAlpamys/Soup",
+  "category": "AI/LLM",
+  "summary": "Cho phép fine-tuning LLMs chỉ bằng một file YAML, với khả năng chạy mô hình 8B trên GPU laptop chỉ 4GB VRAM, tối ưu tài nguyên cho local-ai.",
+  "usecases": [
+    "Fine-tuning mô hình ngôn ngữ trên máy tính cá nhân không cần hạ tầng đắt giá",
+    "Tạo chatbot local cá nhân với tài nguyên phần cứng hạn chế",
+    "Nghiên cứu và triển khai SFT/DPO cho các mô hình nhỏ trên consumer GPU"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống RAG để tạo trợ lý AI cá nhân hoàn toàn offline",
+    "Tối ưu hóa quy trình fine-tuning đa ngôn ngữ trên cùng một YAML",
+    "Xây dựng pipeline tự động deploy model về thiết bị di động với VRAM thấp"
+  ],
+  "stars": 3556,
+  "starsToday": 122,
+  "language": "Python",
+  "topics": [
+    "python",
+    "fine-tuning",
+    "gguf",
+    "huggingface",
+    "llm",
+    "lora",
+    "ollama",
+    "peft",
+    "qlora",
+    "cli",
+    "dpo",
+    "llmops",
+    "local-llm",
+    "machine-learning",
+    "sft",
+    "transformers",
+    "pytorch",
+    "consumer-gpu",
+    "local-ai",
+    "low-vram"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-29T18:12:52.147Z"
+}

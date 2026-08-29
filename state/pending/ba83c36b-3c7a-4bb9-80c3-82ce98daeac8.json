@@ -1,0 +1,23 @@
+{
+  "id": "ba83c36b-3c7a-4bb9-80c3-82ce98daeac8",
+  "repo": "abi/screenshot-to-code",
+  "url": "https://github.com/abi/screenshot-to-code",
+  "category": "Developer Tool",
+  "summary": "Chuyển đổi hình ảnh màn hình (screenshot) thành mã nguồn sạch (HTML/Tailwind/React/Vue), giúp tiết kiệm thời gian thiết kế giao diện frontend.",
+  "usecases": [
+    "Nhanh chóng tạo ra giao diện HTML/CSS từ thiết kế đồ họa mà không cần viết code từ đầu.",
+    "Giúp lập trình viên frontend chuyển đổi mockup thành code responsive nhanh hơn cho các dự án nhỏ hoặc prototype.",
+    "Tích hợp vào workflow thiết kế-development để giảm thiểu sai lệch giữa thiết kế và code thực tế."
+  ],
+  "ideas": [
+    "Kết hợp với AI image description để tạo ra các component UI tùy chỉnh dựa trên yêu cầu văn bản.",
+    "Phát triển plugin cho Figment/Sketch để xuất code trực tiếp khi thiết kế xong.",
+    "Sử dụng để tự động hóa việc tạo landing page từ các thiết kế UI đã có trong thời gian ngắn."
+  ],
+  "stars": 75943,
+  "starsToday": 558,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-29T18:12:52.147Z"
+}

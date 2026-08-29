@@ -1,0 +1,30 @@
+{
+  "id": "5469037a-727d-4055-bc95-7c9bc7d72397",
+  "repo": "livekit/agents",
+  "url": "https://github.com/livekit/agents",
+  "category": "AI/LLM",
+  "summary": "Python framework để xây dựng các AI agent giọng nói thời gian thực với khả năng video và âm thanh.",
+  "usecases": [
+    "Trợ lý giọng nói thời gian thực cho hỗ trợ khách hàng",
+    "Video conferencing AI với transcript và phân tích live",
+    "Xây dựng ứng dụng voice-controlled tùy chỉnh cho IoT hoặc desktop"
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM cục bộ để có voice agent offline",
+    "Build real-time multilingual translation agent",
+    "Tạo voice-based code review assistant"
+  ],
+  "stars": 13534,
+  "starsToday": 256,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "real-time",
+    "voice",
+    "video",
+    "agents",
+    "openai"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-29T18:12:52.147Z"
+}

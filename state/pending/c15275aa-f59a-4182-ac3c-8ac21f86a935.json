@@ -1,0 +1,36 @@
+{
+  "id": "c15275aa-f59a-4182-ac3c-8ac21f86a935",
+  "repo": "koala73/worldmonitor",
+  "url": "https://github.com/koala73/worldmonitor",
+  "category": "Data Visualization",
+  "summary": "Dashboard TypeScript cho giám sát geopolitics thời gian thực, tổng hợp tin tức bởi AI và theo dõi cơ sở hạ tầng.",
+  "usecases": [
+    "Phân tích rủi ro geopolitics cho các cơ sở tài chính",
+    "Dashboard OSINT thời gian thực cho các cơ sở an ninh",
+    "Theo dõi tin tức và phân tích xu hướng cho các đội ngũ marketing"
+  ],
+  "ideas": [
+    "Kết hợp với sentiment analysis cho mô hình dự đoán geopolitics",
+    "Integrate private news sources cho enterprise risk monitoring",
+    "Build mobile alert system cho các sự kiện geopolitics breaking"
+  ],
+  "stars": 84851,
+  "starsToday": 168,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "dashboard",
+    "geopolitics",
+    "monitoring",
+    "news",
+    "osint",
+    "opensource",
+    "palantir",
+    "situation",
+    "agent",
+    "mcp",
+    "mcp-server"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-08-29T18:12:52.147Z"
+}

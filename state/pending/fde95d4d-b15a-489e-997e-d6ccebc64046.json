@@ -1,0 +1,23 @@
+{
+  "id": "fde95d4d-b15a-489e-997e-d6ccebc64046",
+  "repo": "abhigyanpatwari/GitNexus",
+  "url": "https://github.com/abhigyanpatwari/GitNexus",
+  "category": "AI Agent/Automation",
+  "summary": "Engine trí tuệ mã nguồn chạy hoàn toàn trên client, tạo đồ thị kiến thức tương tác để khám phá code thông qua Graph RAG Agent.",
+  "usecases": [
+    "Khám phá code nhanh trong repository lớn mà không cần server.",
+    "Tạo đồ thị kiến thức cho codebase để hiểu mối quan hệ giữa các module.",
+    "Tìm kiếm và truy xuất thông tin code bằng ngôn ngữ tự nhiên thông qua RAG."
+  ],
+  "ideas": [
+    "Kết hợp với local LMs để phân tích code offline an toàn.",
+    "Phát triển dashboard quản lý cho các dự án mã nguồn mở.",
+    "Sử dụng làm nền tảng để xây dựng công cụ review code tự động."
+  ],
+  "stars": 46356,
+  "starsToday": 273,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-29T18:12:52.147Z"
+}

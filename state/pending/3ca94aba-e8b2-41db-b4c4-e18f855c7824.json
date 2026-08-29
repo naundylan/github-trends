@@ -1,0 +1,31 @@
+{
+  "id": "3ca94aba-e8b2-41db-b4c4-e18f855c7824",
+  "repo": "workweave/router",
+  "url": "https://github.com/workweave/router",
+  "category": "AI Agent/Automation",
+  "summary": "workweave/router là mô hình router cho hệ thống agentic, tự động định tuyến prompt đến mô hình tối ưu dưới 50ms để giảm chi phí 40-70% chỉ bằng thay đổi endpoint.",
+  "usecases": [
+    "Tối ưu chi phí cho ứng dụng AI bằng cách tự động chuyển request đến mô hình rẻ nhất đáp ứng yêu cầu.",
+    "Hỗ trợ hệ thống agentic routing trong các ứng dụng chatbot hoặc công cụ phát triển code.",
+    "Giảm trễ latency bằng cách định tuyến prompt đến model có phản hồi nhanh nhất."
+  ],
+  "ideas": [
+    "Triển khai đa mô hình cho các ứng dụng agentic tự động chọn model phù hợp theo ngữ cảnh và chi phí.",
+    "Kết hợp với hệ thống caching để giảm latency và chi phí tái sử dụng kết quả.",
+    "Phát triển dashboard giám sát hiệu suất và tiết kiệm chi phí cho các provider AI."
+  ],
+  "stars": 2582,
+  "starsToday": 284,
+  "language": "Go",
+  "topics": [
+    "agentic-coding",
+    "ai-gateway",
+    "anthropic",
+    "claude-code",
+    "codex",
+    "model-router",
+    "openai-compatible"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-29T18:12:52.147Z"
+}
