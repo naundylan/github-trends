@@ -1,0 +1,44 @@
+{
+  "id": "ac8f5aca-0563-4542-a49e-58bbf04785b0",
+  "repo": "pranshuparmar/witr",
+  "url": "https://github.com/pranshuparmar/witr",
+  "category": "CLI Tool",
+  "summary": "witr là công cụ CLI/TUI giúp theo dõi và truy xuất nguồn gốc của quy trình, cổng mạng, container hoặc file quay về nguồn khởi tạo, hỗ trợ phát hiện và xử lý vấn đề quản trị hệ thống",
+  "usecases": [
+    "phát hiện và xử lý vấn đề hiệu suất và nguồn gốc quy trình trên Linux/FreeBSD",
+    "quản lý và theo dõi container Docker cùng dịch vụ systemd trong môi trường DevOps",
+    "phân tích bảo mật và incident response bằng tracing quy trình"
+  ],
+  "ideas": [
+    "kết hợp với Grafana dashboard để hiển thị trực thái cây truy xuất quy trình",
+    "tạo plugin Kubernetes để theo dõi pods và containers tự động",
+    "phát triển phiên bản GUI trực quan hóa quá trình tracing"
+  ],
+  "stars": 21930,
+  "starsToday": 134,
+  "language": "Go",
+  "topics": [
+    "cli",
+    "devops",
+    "freebsd",
+    "golang",
+    "linux",
+    "macos",
+    "observability",
+    "sysadmin",
+    "troubleshooting",
+    "tui",
+    "windows",
+    "containers",
+    "docker",
+    "incident-response",
+    "process-management",
+    "systemd",
+    "go",
+    "kubernetes",
+    "monitoring",
+    "terminal"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-30T18:35:26.520Z"
+}

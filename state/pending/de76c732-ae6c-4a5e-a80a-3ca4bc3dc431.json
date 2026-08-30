@@ -1,0 +1,44 @@
+{
+  "id": "de76c732-ae6c-4a5e-a80a-3ca4bc3dc431",
+  "repo": "unslothai/unsloth",
+  "url": "https://github.com/unslothai/unsloth",
+  "category": "AI/LLM",
+  "summary": "Unsloth là giao diện người dùng cục bộ để chạy và huấn luyện các mô hình LLM và diffusion, hỗ trợ nhiều định dạng như GGUF, MLX, Gemma, FLUX và tối ưu hóa hiệu suất trên Python.",
+  "usecases": [
+    "Huấn luyện và tinh chỉnh các mô hình ngôn ngữ lớn (LLM) trên máy tính cá nhân mà không cần phụ thuộc vào đám mây.",
+    "Chạy các mô hình diffusion để sinh ảnh tạo từ văn bản (text-to-image) như Stable Diffusion với hiệu suất cao.",
+    "Phát triển ứng dụng AI cục bộ cho tác vụ tạo văn bản, chatbot hoặc xử lý giọng nói (TTS) với định dạng mô hình nhẹ như GGUF."
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu riêng để tạo ra một trợ lý AI cá nhân hoàn toàn cục bộ an toàn dữ liệu.",
+    "Phát triển plugin cho Visual Studio Code để huấn luyện và đánh giá mô hình trực tiếp trong môi trường phát triển.",
+    "Tích hợp với LangChain để tạo ra các agent AI có thể tùy chỉnh mô hình trên spot."
+  ],
+  "stars": 75253,
+  "starsToday": 111,
+  "language": "Python",
+  "topics": [
+    "fine-tuning",
+    "llama",
+    "llms",
+    "gemma",
+    "unsloth",
+    "llm",
+    "deepseek",
+    "text-to-speech",
+    "tts",
+    "qwen",
+    "agent",
+    "openai",
+    "reinforcement-learning",
+    "self-hosted",
+    "ui",
+    "image-generation",
+    "stable-diffusion",
+    "chatgpt",
+    "ai",
+    "python"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-30T18:35:26.520Z"
+}

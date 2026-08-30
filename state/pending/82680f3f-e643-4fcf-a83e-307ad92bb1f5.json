@@ -1,0 +1,23 @@
+{
+  "id": "82680f3f-e643-4fcf-a83e-307ad92bb1f5",
+  "repo": "kenn-io/agentsview",
+  "url": "https://github.com/kenn-io/agentsview",
+  "category": "AI Agent/Automation",
+  "summary": "Cung cấp công cụ tìm kiếm và phân tích session, thống kê token và insights cho các agent mã hoá, hỗ trợ Claude Code, Codex và hơn 20 agent khác, viết bằng Go.",
+  "usecases": [
+    "Tìm kiếm nhanh các phiên làm việc của agent trong môi trường development",
+    "Phân tích tiêu thụ token và tài nguyên để tối ưu chi phí",
+    "Theo dõi hiệu suất và hành vi của các agent để cải thiện chất lượng"
+  ],
+  "ideas": [
+    "Kết hợp với VS Code extension để hiển thị thống kê agent ngay trong IDE",
+    "Sử dụng dữ liệu token để dự đoán nhu cầu tài nguyên cho các dự án AI",
+    "Tạo dashboard chung cho nhiều team để so sánh hiệu suất các agent khác nhau"
+  ],
+  "stars": 5640,
+  "starsToday": 185,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-30T18:35:26.520Z"
+}

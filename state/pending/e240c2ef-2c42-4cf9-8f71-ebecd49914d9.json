@@ -1,0 +1,23 @@
+{
+  "id": "e240c2ef-2c42-4cf9-8f71-ebecd49914d9",
+  "repo": "nashsu/llm_wiki",
+  "url": "https://github.com/nashsu/llm_wiki",
+  "category": "Desktop App",
+  "summary": "LLM Wiki là một ứng dụng desktop đa nền tảng giúp tự động chuyển đổi tài liệu của bạn thành một cơ sở kiến thức được tổ chức và liên kết chặt chẽ, sử dụng LLM để xây dựng và duy trì một wiki liên tục từ các nguồn của bạn.",
+  "usecases": [
+    "Tạo cơ sở kiến thức cá nhân từ các tài liệu, nghiên cứu và ghi chú.",
+    "Hỗ trợ nghiên cứu học thuật bằng cách liên kết các khái niệm và nguồn tham khảo.",
+    "Tự động hóa việc cập nhật wiki cho các dự án, giúp nhóm làm việc luôn có thông tin mới nhất."
+  ],
+  "ideas": [
+    "Thêm tính năng đồng bộ hóa wiki lên đám mây để truy cập trên nhiều thiết bị.",
+    "Tích hợp các nguồn từ web (RSS, API) để mở rộng kiến thức tự động.",
+    "Xây dựng hệ thống tham khảo chéo giữa các wiki của nhiều người dùng."
+  ],
+  "stars": 17112,
+  "starsToday": 121,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-08-30T18:35:26.520Z"
+}

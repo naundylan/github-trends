@@ -1,0 +1,30 @@
+{
+  "id": "c13ae06e-7d6e-4a20-b176-4d44febfcacf",
+  "repo": "livekit/agents",
+  "url": "https://github.com/livekit/agents",
+  "category": "AI/LLM",
+  "summary": "livekit/agents là framework Python để xây dựng các AI agent giọng nói và video thực thời, tích hợp OpenAI cho các ứng dụng tương tác",
+  "usecases": [
+    "xây dựng trợ lý voice AI tự động cho dịch vụ khách hàng",
+    "tạo agent hội thoại real-time cho ứng dụng video call hoặc gaming",
+    "phát triển hệ thống AI điều khiển thiết bị qua lệnh thoại"
+  ],
+  "ideas": [
+    "kết hợp thư viện STT/TTS địa phương để agent hoạt động offline an toàn",
+    "triển khai agent trên Twilio hoặc WhatsApp cho cuộc gọi tự động",
+    "phát triển multi-agent system nhiều voice AI cộng tác giải quyết tác vụ phức tạp"
+  ],
+  "stars": 13677,
+  "starsToday": 131,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "real-time",
+    "voice",
+    "video",
+    "agents",
+    "openai"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-30T18:35:26.520Z"
+}

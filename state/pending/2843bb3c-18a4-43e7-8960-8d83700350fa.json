@@ -1,0 +1,31 @@
+{
+  "id": "2843bb3c-18a4-43e7-8960-8d83700350fa",
+  "repo": "Waishnav/devspace",
+  "url": "https://github.com/Waishnav/devspace",
+  "category": "Developer Tool",
+  "summary": "DevSpace biến các mô hình AI như ChatGPT hay Claude thành công cụ mã hóa giống như Codex, cho phép tạo mã trực tiếp từ các cuộc trò chuyện.",
+  "usecases": [
+    "Tích hợp khả năng lập trình của ChatGPT/Claude vào quy trình phát triển phần mềm.",
+    "Tạo mã nhanh từ các mô tả bằng ngôn ngữ tự nhiên trong IDE.",
+    "Xây dựng quy trình làm việc tự động hóa để thực hiện các tác vụ lập trình lặp đi lặp lại."
+  ],
+  "ideas": [
+    "Tạo một giao diện người dùng để thiết kế các quy trình làm việc của tác nhân.",
+    "Tích hợp với các dịch vụ CI/CD để thực hiện kiểm tra mã tự động.",
+    "Phát triển một plugin cho các IDE phổ biến (VS Code, IntelliJ) để gọi tác nhân mã hóa trực tiếp."
+  ],
+  "stars": 4284,
+  "starsToday": 119,
+  "language": "TypeScript",
+  "topics": [
+    "agent-orchestration",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "codex",
+    "pi-coding-agent",
+    "dyanmic-workflow"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-30T18:35:26.520Z"
+}

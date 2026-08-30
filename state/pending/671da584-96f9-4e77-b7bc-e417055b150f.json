@@ -1,0 +1,23 @@
+{
+  "id": "671da584-96f9-4e77-b7bc-e417055b150f",
+  "repo": "abhigyanpatwari/GitNexus",
+  "url": "https://github.com/abhigyanpatwari/GitNexus",
+  "category": "AI/LLM",
+  "summary": "GitNexus là công cụ chạy trong trình duyệt tạo đồ thị kiến thức từ repository Git hoặc ZIP, cho phép khám phá mã nguồn với Graph RAG Agent, viết bằng TypeScript.",
+  "usecases": [
+    "Tạo đồ thị kiến thức từ repo để hiểu cấu trúc code nhanh",
+    "Hỗ trợ tra cứu và tìm kiếm code thông qua natural language (Graph RAG)",
+    "Giúp team review code và docs bằng cách xem mối quan hệ giữa các file"
+  ],
+  "ideas": [
+    "Tích hợp với VS Code để hiển thị đồ thị kiến thức trong panel side",
+    "Kết nối với CI/CD để tự động tạo knowledge graph cho mỗi build",
+    "Sử dụng AI để đề xuất cải tiến code dựa trên cấu trúc đồ thị"
+  ],
+  "stars": 46501,
+  "starsToday": 181,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-30T18:35:26.520Z"
+}

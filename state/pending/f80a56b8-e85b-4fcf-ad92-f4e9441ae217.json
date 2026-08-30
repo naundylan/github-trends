@@ -1,0 +1,25 @@
+{
+  "id": "f80a56b8-e85b-4fcf-ad92-f4e9441ae217",
+  "repo": "happycola233/tchMaterial-parser",
+  "url": "https://github.com/happycola233/tchMaterial-parser",
+  "category": "CLI Tool",
+  "summary": "TchMaterial-parser là công cụ Python giúp trích xuất và tải xuống các tệp PDF điện tử từ Nền tảng giáo dục thông minh cho trung học cơ sở và tiểu học, tự động lấy đường dẫn tải về cho người dùng.",
+  "usecases": [
+    "Sinh viên hoặc giáo viên thu thập tài liệu học tập từ nền tảng giáo dục quốc gia để đọc offline.",
+    "Tích hợp vào quy trình tự động hóa để xây dựng thư viện cá nhân các giáo trình và sách giáo khoa theo từng môn và cấp học.",
+    "Giúp nhà nghiên cứu dữ liệu thu thập tài liệu giáo dục để phân tích nội dung hoặc phát triển nguồn dữ liệu đào tạo."
+  ],
+  "ideas": [
+    "Phát triển giao diện web đơn giản để quản lý và xem trước các tệp PDF đã tải, kèm theo metadata môn học và cấp học.",
+    "Kết hợp với OCR và mô hình LLM để tóm tắt nội dung tự động từ các giáo trình đã tải về.",
+    "Tạo một CLI đa nền tảng có thể chạy trên Windows, macOS và Linux để dễ dàng cài đặt và sử dụng."
+  ],
+  "stars": 6421,
+  "starsToday": 105,
+  "language": "Python",
+  "topics": [
+    "python"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-30T18:35:26.520Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "774e843c-0401-4388-811f-e1aee0d888ef",
+  "repo": "pollen-robotics/microduck_rl",
+  "url": "https://github.com/pollen-robotics/microduck_rl",
+  "category": "AI/LLM",
+  "summary": "Môi trường training Reinforcement Learning cho robot Microduck (mjlab), dùng để phát triển và test các chính sách điều khiển thông minh.",
+  "usecases": [
+    "Hu luyện khả năng di chuyển và thao tác của robot Microduck trong môi trường mô phỏng",
+    "Chuyển đổi sim-to-real cho các chính sách điều khiển robot trong nghiên cứu",
+    "So sánh và đánh giá hiệu suất các thuật toán RL (PPO, SAC) trên nền đồ chơi robotics"
+  ],
+  "ideas": [
+    "RL đa tác nhân cho hành vi tập thể Microduck",
+    "Học có chương trình liên quan đến nhận diện thị giác để điều khiển dựa trên hình ảnh",
+    "Kết hợp dữ liệu cảm biến thực tế vào vòng lặp training RL hỗn hợp sim-real"
+  ],
+  "stars": 737,
+  "starsToday": 147,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-30T18:35:26.520Z"
+}
