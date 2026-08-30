@@ -1,0 +1,31 @@
+{
+  "id": "6baca81a-9093-4d7c-808f-0bd6c4cdbccc",
+  "repo": "workweave/router",
+  "url": "https://github.com/workweave/router",
+  "category": "AI/LLM",
+  "summary": "Router for agentic systems that routes prompts to optimal AI models under 50ms, reducing costs by 40-70% with a simple endpoint change.",
+  "usecases": [
+    "Cost optimization for LLM-heavy applications by dynamically routing prompts to cheaper models",
+    "Building agentic systems requiring fast, reliable model switching without latency",
+    "Providing an OpenAI-compatible API gateway for seamless integration with existing tools"
+  ],
+  "ideas": [
+    "Integrate caching layers to further reduce latency and costs",
+    "Support routing based on user tier or compliance requirements",
+    "Hybrid cloud/edge deployment with local LLMs"
+  ],
+  "stars": 2996,
+  "starsToday": 284,
+  "language": "Go",
+  "topics": [
+    "agentic-coding",
+    "ai-gateway",
+    "anthropic",
+    "claude-code",
+    "codex",
+    "model-router",
+    "openai-compatible"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-30T14:21:57.135Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "bb94daa9-d140-4ad4-872c-2f327e24c116",
+  "repo": "kubernetes/kubernetes",
+  "url": "https://github.com/kubernetes/kubernetes",
+  "category": "DevOps/CI-CD",
+  "summary": "Kubernetes là hệ thống điều phối container cấp doanh nghiệp tự động hóa việc triển khai, mở rộng và quản lý ứng dụng container.",
+  "usecases": [
+    "Triển khai và mở rộng ứng dụng microservices trên các cluster vật lý/virtual.",
+    "Quản lý tự động phục hồi và cân bằng tải cho các container có trạng thái.",
+    "Tích hợp CI/CD để tự động rollout và rollback ứng dụng."
+  ],
+  "ideas": [
+    "Sử dụng Kubernetes làm nền tảng cho AI/ML model serving với GPU scheduling.",
+    "Triển khai edge computing với K3s cho các ứng dụng IoT thời gian thực.",
+    "Xây dựng platform self-healing cho các microservices đa khu vực."
+  ],
+  "stars": 125574,
+  "starsToday": 249,
+  "language": "Go",
+  "topics": [
+    "kubernetes",
+    "go",
+    "cncf",
+    "containers"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-08-30T14:21:57.135Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fba107df-b7cc-44a6-a02c-3494450963b8",
+  "repo": "Lakr233/vphone-cli",
+  "url": "https://github.com/Lakr233/vphone-cli",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh (CLI) viết bằng Swift, mặc dù mô tả chi tiết chưa có sẵn, có thể liên quan đến quản lý hoặc tương tác với dịch vụ phone/VoIP.",
+  "usecases": [
+    "Tự động hóa cuộc gọi và quản lý danh bạ cho ứng dụng doanh nghiệp trên iOS/macOS.",
+    "Tích hợp với VoIP services trong quy trình CI/CD hoặc automation scripts.",
+    "Phát triển bot tự động trả lời hoặc ghi âm cho dịch vụ khách hàng qua CLI."
+  ],
+  "ideas": [
+    "Kết hợp với Siri Shortcuts để điều khiển gọi gọi qua lệnh giọng nói.",
+    "Xây dựng hệ thống theo dõi lịch sử cuộc gọi và analytics cho trung tâm call center.",
+    "Sử dụng trong automation testing cho ứng dụng iOS liên quan đến tính năng gọi điện."
+  ],
+  "stars": 9409,
+  "starsToday": 633,
+  "language": "Swift",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-30T14:21:57.135Z"
+}

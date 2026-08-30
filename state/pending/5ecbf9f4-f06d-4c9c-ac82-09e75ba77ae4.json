@@ -1,0 +1,41 @@
+{
+  "id": "5ecbf9f4-f06d-4c9c-ac82-09e75ba77ae4",
+  "repo": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "category": "Other",
+  "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
+  "usecases": [
+    "Khám phá và đánh giá firecrawl/firecrawl cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 174292,
+  "starsToday": 436,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "crawler",
+    "markdown",
+    "scraper",
+    "html-to-markdown",
+    "llm",
+    "scraping",
+    "web-crawler",
+    "ai-scraping",
+    "webscraping",
+    "web-scraping",
+    "web-data",
+    "web-data-extraction",
+    "ai-agents",
+    "data-extraction",
+    "ai-crawler",
+    "ai-search",
+    "web-scraper",
+    "web-search"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-30T14:21:57.135Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "8f92cc9e-f6f8-4328-8992-9e582fe03dcb",
+  "repo": "abi/screenshot-to-code",
+  "url": "https://github.com/abi/screenshot-to-code",
+  "category": "Other",
+  "summary": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+  "usecases": [
+    "Khám phá và đánh giá abi/screenshot-to-code cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 76255,
+  "starsToday": 434,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-08-30T14:21:57.135Z"
+}

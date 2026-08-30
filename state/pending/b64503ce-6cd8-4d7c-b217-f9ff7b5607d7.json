@@ -1,0 +1,32 @@
+{
+  "id": "b64503ce-6cd8-4d7c-b217-f9ff7b5607d7",
+  "repo": "clash-verge-rev/clash-verge-rev",
+  "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+  "category": "Desktop App",
+  "summary": "Clash-Verge-REV là ứng dụng GUI hiện đại dựa trên Tauri, cho phép quản lý và tùy chỉnh proxy trên desktop Windows, macOS, Linux với hỗ trợ Clash Meta.",
+  "usecases": [
+    "Quản lý và chuyển hướng traffic mạng cho cá nhân hoặc doanh nghiệp qua proxy.",
+    "Cấu hình và test các rule Clash Meta cho truy cập nội dung quốc tế.",
+    "Sử dụng làm công cụ phát triển/test ứng dụng cần kết nối qua proxy trong môi trường phát triển."
+  ],
+  "ideas": [
+    "Tích hợp script tự động tạo cấu hình proxy tùy theo môi trường (dev/prod).",
+    "Phát triển extension trình duyệt để đồng bộ cấu hình proxy giữa desktop và web.",
+    "Sử dụng làm nền tảng cho các ứng dụng mạng riêng (LAN proxy) trong nội bộ doanh nghiệp."
+  ],
+  "stars": 141115,
+  "starsToday": 195,
+  "language": "TypeScript",
+  "topics": [
+    "clash",
+    "clash-meta",
+    "clash-verge",
+    "linux",
+    "mac",
+    "tauri-app",
+    "windows",
+    "mihomo"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-08-30T14:21:57.136Z"
+}

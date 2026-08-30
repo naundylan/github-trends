@@ -31,8 +31,8 @@
   },
   "firecrawl/firecrawl": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-07",
-    "last_saved": "2026-07-02"
+    "last_seen": "2026-08-30",
+    "last_saved": "2026-08-30"
   },
   "logto-io/logto": {
     "first_seen": "2026-07-02",
@@ -186,7 +186,7 @@
   },
   "mvanhorn/last30days-skill": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-28"
   },
   "openclaw/openclaw": {
@@ -236,8 +236,8 @@
   },
   "clash-verge-rev/clash-verge-rev": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-07-07",
-    "last_saved": "2026-07-06"
+    "last_seen": "2026-08-30",
+    "last_saved": "2026-08-30"
   },
   "avelino/awesome-go": {
     "first_seen": "2026-07-06",
@@ -246,7 +246,7 @@
   },
   "rust-lang/rust": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-25"
   },
   "MadsLorentzen/ai-job-search": {
@@ -306,7 +306,7 @@
   },
   "decolua/9router": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-22"
   },
   "byoungd/up": {
@@ -361,7 +361,7 @@
   },
   "unclecode/crawl4ai": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-23"
   },
   "imthenachoman/How-To-Secure-A-Linux-Server": {
@@ -536,7 +536,7 @@
   },
   "iptv-org/iptv": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-24"
   },
   "asciimoo/hister": {
@@ -596,7 +596,7 @@
   },
   "cjpais/Handy": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-25"
   },
   "Alishahryar1/free-claude-code": {
@@ -741,7 +741,7 @@
   },
   "OpenHands/OpenHands": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-28"
   },
   "THU-MAIC/OpenMAIC": {
@@ -794,52 +794,42 @@
     "last_seen": "2026-08-30",
     "last_saved": "2026-08-29"
   },
-  "Osmantic/ODS": {
+  "Lakr233/vphone-cli": {
     "first_seen": "2026-08-30",
     "last_seen": "2026-08-30",
     "last_saved": "2026-08-30"
   },
-  "kaifcodec/user-scanner": {
+  "NationalSecurityAgency/ghidra": {
     "first_seen": "2026-08-30",
     "last_seen": "2026-08-30",
     "last_saved": "2026-08-30"
   },
-  "Stremio/stremio-web": {
+  "abi/screenshot-to-code": {
     "first_seen": "2026-08-30",
     "last_seen": "2026-08-30",
     "last_saved": "2026-08-30"
   },
-  "google/skills": {
+  "yt-dlp/yt-dlp": {
     "first_seen": "2026-08-30",
     "last_seen": "2026-08-30",
     "last_saved": "2026-08-30"
   },
-  "apirrone/Open_Duck_Mini": {
+  "D4Vinci/Scrapling": {
     "first_seen": "2026-08-30",
     "last_seen": "2026-08-30",
     "last_saved": "2026-08-30"
   },
-  "yangshun/tech-interview-handbook": {
+  "tailscale/tailcat": {
     "first_seen": "2026-08-30",
     "last_seen": "2026-08-30",
     "last_saved": "2026-08-30"
   },
-  "backnotprop/plannotator": {
+  "workweave/router": {
     "first_seen": "2026-08-30",
     "last_seen": "2026-08-30",
     "last_saved": "2026-08-30"
   },
-  "juanfont/headscale": {
-    "first_seen": "2026-08-30",
-    "last_seen": "2026-08-30",
-    "last_saved": "2026-08-30"
-  },
-  "Gentleman-Programming/gentle-ai": {
-    "first_seen": "2026-08-30",
-    "last_seen": "2026-08-30",
-    "last_saved": "2026-08-30"
-  },
-  "warpdotdev/warp": {
+  "kubernetes/kubernetes": {
     "first_seen": "2026-08-30",
     "last_seen": "2026-08-30",
     "last_saved": "2026-08-30"

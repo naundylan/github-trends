@@ -1,0 +1,23 @@
+{
+  "id": "737d1b6e-e497-4b1d-98b5-438198d731ae",
+  "repo": "tailscale/tailcat",
+  "url": "https://github.com/tailscale/tailcat",
+  "category": "Networking",
+  "summary": "Công cụ CLI tương tự netcat nhưng hoạt động qua Tailscale data plane, cho phép truy cập tài nguyên mạng nội bộ an toàn mà không phụ thuộc vào Tailscale control plane.",
+  "usecases": [
+    "Tunnel an toàn vào máy chủ nội bộ từ xa để quản trị hoặc truy cập dịch vụ không công khai.",
+    "Debug và kiểm tra kết nối giữa các thiết bị trong mạng Tailscale với độ trễ thấp qua data plane.",
+    "Chia sẻ dịch vụ cục bộ (database, web app) giữa các team phân tán mà không cần mở port hoặc cấu hình VPN phức tạp."
+  ],
+  "ideas": [
+    "Kết hợp với SSH client để tạo secure tunnel thay thế cho traditional SSH tunneling.",
+    "Áp dụng trên các thiết bị IoT trong LAN để giao tiếp an toàn qua Tailscale mà không cần cấu hình phức tạp.",
+    "Xây dựng remote access tool tự động cho developers và DevOps làm việc từ xa."
+  ],
+  "stars": 4021,
+  "starsToday": 891,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-08-30T14:21:57.135Z"
+}

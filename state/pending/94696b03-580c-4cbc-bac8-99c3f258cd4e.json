@@ -1,0 +1,27 @@
+{
+  "id": "94696b03-580c-4cbc-bac8-99c3f258cd4e",
+  "repo": "NationalSecurityAgency/ghidra",
+  "url": "https://github.com/NationalSecurityAgency/ghidra",
+  "category": "Security/Pentest",
+  "summary": "Ghidra là framework mã nguồn mở cho reverse engineering, cung cấp các công cụ phân tích mã nhị phân, disassembler và tìm lỗ hổng bảo mật với giao diện trực quan.",
+  "usecases": [
+    "Phân tích mã độc và tìm hiểu vecto tấn công trong bảo mật thông tin.",
+    "Reverse engineering ứng dụng để kiểm tra tính an toàn của phần mềm nội bộ.",
+    "Nghiên cứu và đào tạo kỹ năng đảo ngược phần mềm cho sinh viên an ninh mạng."
+  ],
+  "ideas": [
+    "Kết hợp AI để tự động phát hiện pattern lỗ hổng trong code nhị phân.",
+    "Phát triển plugin tự động tạo báo cáo bảo mật từ kết quả phân tích.",
+    "Sử dụng trong chuỗi CI/CD để check an ninh tự động cho build phần mềm."
+  ],
+  "stars": 73705,
+  "starsToday": 196,
+  "language": "Java",
+  "topics": [
+    "software-analysis",
+    "disassembler",
+    "reverse-engineering"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-08-30T14:21:57.136Z"
+}
