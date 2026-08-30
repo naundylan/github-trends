@@ -1,0 +1,23 @@
+{
+  "id": "ff5cb02b-5fb1-43d5-93ca-52d60c374c83",
+  "repo": "tailscale/tailcat",
+  "url": "https://github.com/tailscale/tailcat",
+  "category": "Networking",
+  "summary": "Thay thế netcat truyền thống, hoạt động trên dữ liệu plane của Tailscale mà không phụ thuộc vào control plane, cung cấp kết nối an toàn và mã hóa trong mạng lưới Tailscale.",
+  "usecases": [
+    "Kết nối debugging giữa các container không public qua Tailscale mesh",
+    "Tunnel SSH an toàn mà không cần expose port ra internet",
+    "Troubleshoot network topology trong môi trường distributed hệ thống"
+  ],
+  "ideas": [
+    "Tích hợp với Tailscale SSH cho remote debugging không cần cấu hình port forwarding",
+    "Sử dụng làm layer overlay network cho edge computing và IoT devices",
+    "Tự động hóa routing traffic dựa trên policy giữa các microservice trong Tailscale"
+  ],
+  "stars": 4219,
+  "starsToday": 891,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-08-30T23:08:48.392Z"
+}

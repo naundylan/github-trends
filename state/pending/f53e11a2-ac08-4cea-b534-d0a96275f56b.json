@@ -1,0 +1,23 @@
+{
+  "id": "f53e11a2-ac08-4cea-b534-d0a96275f56b",
+  "repo": "abi/screenshot-to-code",
+  "url": "https://github.com/abi/screenshot-to-code",
+  "category": "Developer Tool",
+  "summary": "Chuyển đổi hình ảnh màn hình thành mã HTML/Tailwind/React/Vue sạch, giúp developer nhanh chóng chuyển từ thiết kế đến sản phẩm.",
+  "usecases": [
+    "Nhanh chóng prototyping giao diện: Chuyển mockup thiết kế thành code có sẵn để tiết kiệm thời gian phát triển.",
+    "Học tập và tham khảo: Developer mới có thể xem cách code cấu trúc cho các thành phần UI phức tạp.",
+    "Tích hợp với workflow thiết kế: Kết nối giữa Figma/Sketch và code nguồn để duy trì tính nhất quán."
+  ],
+  "ideas": [
+    "Tạo công tự động hóa thiết kế responsive: Chuyển screenshot thành code Tailwind có thể điều chỉnh theo breakpoint.",
+    "Kết hợp với Figma API để đồng bộ thiết kế và code theo thời gian thực.",
+    "Phát triển plugin cho VS Code để preview và chỉnh sửa code sinh ra từ screenshot ngay trong editor."
+  ],
+  "stars": 76375,
+  "starsToday": 434,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-30T23:08:48.392Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "f1f8aa52-1e35-44be-a928-3552a7fb7f06",
+  "repo": "Osmantic/ODS",
+  "url": "https://github.com/Osmantic/ODS",
+  "category": "AI/LLM",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "...",
+    "..."
+  ],
+  "stars": 5157,
+  "starsToday": 334,
+  "language": "Python",
+  "topics": [
+    "ai-agents",
+    "llm",
+    "self-hosted",
+    "amd",
+    "comfyui",
+    "docker",
+    "llama-cpp",
+    "local-ai",
+    "n8n",
+    "nvidia",
+    "open-webui",
+    "rag",
+    "speech-to-text",
+    "strix-halo",
+    "text-to-speech",
+    "workflow-automation"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-30T23:08:48.392Z"
+}

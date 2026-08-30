@@ -1,0 +1,41 @@
+{
+  "id": "bede8bba-6993-432d-9713-cfe791a43553",
+  "repo": "kaifcodec/user-scanner",
+  "url": "https://github.com/kaifcodec/user-scanner",
+  "category": "Security/Pentest",
+  "summary": "Bộ công cụ OSINT (2-in-1) để trích xuất dữ liệu sâu từ một email hoặc username duy nhất, quét 465+ vector hoạt động tích cực cho nghiên cứu an ninh, điều tra và định vân kỹ thuật số.",
+  "usecases": [
+    "Phân tích kỹ footprint số của mục tiêu để phát hiện dữ liệu lộ mật hoặc tài khoản bị xâm phạm trong an ninh mạng.",
+    "Cơ quan điều tra sử dụng để gom mở rộng danh sách liên hệ và xác thực danh tính dựa trên email/username.",
+    "Nghiên cứu threat intelligence để theo dõi xu hướng tấn công và mối liên hệ giữa các thực thể độc hại."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ visualisation để tạo bản đồ mối quan hệ giữa các tài khoản và domain liên quan.",
+    "Tích hợp vào pipeline CI/CD cho kiểm tra an nheim tự động cho repository mã nguồn mở.",
+    "Phát triển extension browser để cảnh báo real-time khi user nhập email/username vào các trang web không an toàn."
+  ],
+  "stars": 3887,
+  "starsToday": 464,
+  "language": "Python",
+  "topics": [
+    "osint",
+    "osint-tool",
+    "python",
+    "osint-tools",
+    "email-osint",
+    "osint-email",
+    "cybersecurity",
+    "cybersecurity-tools",
+    "threat-intelligence",
+    "ethical-hacking",
+    "ethical-hacking-tools",
+    "redteam-tools",
+    "redteaming",
+    "identification",
+    "pentesting",
+    "infosec",
+    "osint-username"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-08-30T23:08:48.392Z"
+}

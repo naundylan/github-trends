@@ -1,0 +1,31 @@
+{
+  "id": "cf70949c-5b6c-40cc-85ad-0011afd339e7",
+  "repo": "workweave/router",
+  "url": "https://github.com/workweave/router",
+  "category": "AI/LLM",
+  "summary": "Router cho các hệ thống agentic, định hướng mỗi prompt đến model phù hợp dưới 50ms, giúp giảm chi phí 40-70% chỉ bằng thay đổi endpoint.",
+  "usecases": [
+    "Route prompts từ ứng dụng agent đến model tiết kiệm chi phí (Claude/Gemini) dựa trên độ phức tạp yêu cầu",
+    "Tối ưu chi phí cho hệ thống tự động code bằng cách chuyển routing giữa OpenAI, Anthropic, local models",
+    "Hỗ trợ failover tự động khi model chính gặp lỗi hoặc quá tải"
+  ],
+  "ideas": [
+    "Kết hợp caching kết quả prompt để giảm chi phí gọi LLM lặp lại",
+    "Thêm khả năng routing theo khu vực (region-aware) cho tuân thủ dữ liệu",
+    "Tạo dashboard monitoring real-time cho routing decisions và tiết kiệm chi phí"
+  ],
+  "stars": 3082,
+  "starsToday": 468,
+  "language": "Go",
+  "topics": [
+    "agentic-coding",
+    "ai-gateway",
+    "anthropic",
+    "claude-code",
+    "codex",
+    "model-router",
+    "openai-compatible"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-30T23:08:48.392Z"
+}

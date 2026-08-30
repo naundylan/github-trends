@@ -1,0 +1,31 @@
+{
+  "id": "2a40b43f-c00b-44ca-9b5d-35c2a2e622fb",
+  "repo": "yt-dlp/yt-dlp",
+  "url": "https://github.com/yt-dlp/yt-dlp",
+  "category": "CLI Tool",
+  "summary": "yt-dlp là một công cụ dòng lệnh (CLI) phong phú tính năng để tải video và âm thanh từ YouTube và nhiều nền tảng khác, hỗ trợ tải phụ đề và nhiều định dạng.",
+  "usecases": [
+    "Tải video học tập hoặc giáo dục từ YouTube để xem ngoại tuyến",
+    "Tích hợp vào quy trình tự động hóa nội dung đa phương tiện",
+    "Tải video với phụ đề và chọn chất lượng phù hợp cho thiết bị di động"
+  ],
+  "ideas": [
+    "Tích hợp với các trình phát média để phát tự động sau khi tải",
+    "Tạo script tự động tải playlist theo lịch theo dõi",
+    "Kết hợp với yt-dlp API để xây dựng dịch vụ tải video cá nhân"
+  ],
+  "stars": 187941,
+  "starsToday": 197,
+  "language": "Python",
+  "topics": [
+    "youtube-dl",
+    "python",
+    "sponsorblock",
+    "yt-dlp",
+    "youtube-downloader",
+    "cli",
+    "downloader"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-30T23:08:48.392Z"
+}
