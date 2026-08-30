@@ -1,0 +1,33 @@
+{
+  "id": "f799b5c0-d719-4dca-9785-9c7430c18a2a",
+  "repo": "backnotprop/plannotator",
+  "url": "https://github.com/backnotprop/plannotator",
+  "category": "Developer Tool",
+  "summary": "Cung cấp giao diện trực quan để annotate và review kế hoạch code diff từ coding agents, hỗ trợ chia sẻ feedback với team một click.",
+  "usecases": [
+    "Review và cung cấp feedback cho kế hoạch thực hiện từ coding agents như Claude Code hoặc OpenCode.",
+    "Chia sẻ và cộng tác kế hoạch code giữa các thành viên trong team.",
+    "Tăng tính minh bạch và kiểm soát cho các dự án phát triển phần mềm dựa trên AI."
+  ],
+  "ideas": [
+    "Phát triển plugin VS Code để annotate code diff trực tiếp bên trong editor.",
+    "Tích hợp với Obsidian hoặc các tool note-taking để theo dõi lịch sử plan-coding.",
+    "Tạo dashboard tổng hợp feedback từ nhiều agents và hiển thị thống kê cho team."
+  ],
+  "stars": 8238,
+  "starsToday": 47,
+  "language": "TypeScript",
+  "topics": [
+    "claude-code",
+    "opencode",
+    "obsidian",
+    "pi-mono",
+    "plan-mode",
+    "codex",
+    "agents",
+    "code-review",
+    "skills"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-30T08:56:44.014Z"
+}

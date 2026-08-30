@@ -1,0 +1,41 @@
+{
+  "id": "462bacb7-c314-47d0-a045-e4f06332199c",
+  "repo": "kaifcodec/user-scanner",
+  "url": "https://github.com/kaifcodec/user-scanner",
+  "category": "Security/Pentest",
+  "summary": "Công cụ OSINT Python quét email và username với 465+ vector scan cho nghiên cứu bảo mật và định footprints số.",
+  "usecases": [
+    "Nghiên cứu bảo mật và phân tích footprints số",
+    "Correlation đen lậu và thu thập đe dọa",
+    "Red teaming và reconnaissance đạo đức"
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu lậu thời thực để phát hiện rò rỉ tự động",
+    "Xây dựng giao diện web cho người dùng không chuyên",
+    "Tích hợp với SIEM để cảnh báo bảo mật tự động"
+  ],
+  "stars": 3787,
+  "starsToday": 39,
+  "language": "Python",
+  "topics": [
+    "osint",
+    "osint-tool",
+    "python",
+    "osint-tools",
+    "email-osint",
+    "osint-email",
+    "cybersecurity",
+    "cybersecurity-tools",
+    "threat-intelligence",
+    "ethical-hacking",
+    "ethical-hacking-tools",
+    "redteam-tools",
+    "redteaming",
+    "identification",
+    "pentesting",
+    "infosec",
+    "osint-username"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-08-30T08:56:44.014Z"
+}

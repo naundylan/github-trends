@@ -1,0 +1,27 @@
+{
+  "id": "a1ecd55d-d93e-49ab-a263-c0cf42b0da29",
+  "repo": "google/skills",
+  "url": "https://github.com/google/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện Python cung cấp kỹ năng sẵn có để AI agents tương tác với các sản phẩm và dịch vụ Google Cloud.",
+  "usecases": [
+    "Tự động hóa quản lý tài nguyên Google Cloud thông qua AI agents",
+    "Xây dựng kỹ năng tùy chỉnh cho mô hình AI Google để kích hoạt các hành động trên Cloud",
+    "Mở rộng quy trình làm việc agent với các khả năng cụ thể của sản phẩm Google (Compute, Storage, BigQuery)"
+  ],
+  "ideas": [
+    "Kết hợp với LangChain tạo các workflow tự động hóa Cloud đa bước",
+    "Phát triển kỹ năng cho real-time monitoring và tự chữa lỗi Cloud qua ngôn ngữ tự nhiên",
+    "Tích hợp với các nền tảng AI bên thứ ba để quản lý tài nguyên Google Cloud một cách chương trình"
+  ],
+  "stars": 18986,
+  "starsToday": 57,
+  "language": "Python",
+  "topics": [
+    "google",
+    "googlecloud",
+    "skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-30T08:56:44.014Z"
+}

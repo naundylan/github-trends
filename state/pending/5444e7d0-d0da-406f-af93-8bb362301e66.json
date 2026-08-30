@@ -1,0 +1,26 @@
+{
+  "id": "5444e7d0-d0da-406f-af93-8bb362301e66",
+  "repo": "Stremio/stremio-web",
+  "url": "https://github.com/Stremio/stremio-web",
+  "category": "Web Frontend",
+  "summary": "Giao diện web cho Stremio, ứng dụng phát truyền media tổng hợp nội dung từ các addon và nguồn khác.",
+  "usecases": [
+    "Phát truyền phim và tập TV thông qua các addon do cộng đồng cung cấp",
+    "Tích hợp với media server cá nhân để phát nội dung địa phương",
+    "Khám phá và quản lý các nguồn phát streaming theo thể loại và vùng địa lý"
+  ],
+  "ideas": [
+    "Xây dựng thư mục addon được tuyển chọn để cải thiện độ tin cậy và an toàn",
+    "Phát triển ứng dụng compagnon cho mobile để điều khiển từ xa và đồng bộ danh sách xem",
+    "Triển khai engine gợi ý dựa trên lịch sử xem và khả năng addon"
+  ],
+  "stars": 12919,
+  "starsToday": 50,
+  "language": "JavaScript",
+  "topics": [
+    "stremio",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-08-30T08:56:44.014Z"
+}

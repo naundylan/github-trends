@@ -1,0 +1,34 @@
+{
+  "id": "91f98edb-785d-4cb6-8011-55a8acbef045",
+  "repo": "yangshun/tech-interview-handbook",
+  "url": "https://github.com/yangshun/tech-interview-handbook",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Tech Interview Handbook là bộ tài liệu chuẩn bị phỏng vấn kỹ thuật được curate, bao gồm câu hỏi thuật toán, thiết kế hệ thống và kinh nghiệm行为, giúp nhà phát triển ôn tập hiệu quả.",
+  "usecases": [
+    "Ôn tập trước các buổi phỏng vấn kỹ thuật tại các công ty lớn như FAANG.",
+    "Luyện tập giải thuật và cấu trúc dữ liệu qua các bài tập và giải thích chi tiết.",
+    "Chuẩn bị cho phỏng vấn thiết kế hệ thống và câu hỏi行为 với hướng dẫn cụ thể."
+  ],
+  "ideas": [
+    "Tích hợp bộ tài liệu này vào nền tảng học습 trực tuyến để tạo ra lộ trình học tập cá nhân hóa dựa trên kết quả bài kiểm tra.",
+    "Phát triển một bot chatbot trả lời câu hỏi phỏng vấn dựa trên nội dung handbook, hỗ trợ trainees thực hành trực tiếp.",
+    "Xây dựng phiên bản đa ngôn ngữ và mở rộng nội dung cho các vị trí chuyên biệt như DevOps, Data Science, Security."
+  ],
+  "stars": 142300,
+  "starsToday": 34,
+  "language": "TypeScript",
+  "topics": [
+    "interview-questions",
+    "coding-interviews",
+    "interview-practice",
+    "interview-preparation",
+    "algorithm",
+    "algorithms",
+    "system-design",
+    "behavioral-interviews",
+    "algorithm-interview",
+    "algorithm-interview-questions"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-08-30T08:56:44.014Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "0dbca2ed-66f4-480e-ba2a-2a269e263868",
+  "repo": "warpdotdev/warp",
+  "url": "https://github.com/warpdotdev/warp",
+  "category": "Developer Tool",
+  "summary": "Warp là một môi trường phát triển agentic hiện đại, được xây dựng trên terminal Rust, cung cấp trải nghiệm dòng lệnh thông minh, tích hợp AI và các tính năng tự động hóa để tăng năng suất cho lập trình viên.",
+  "usecases": [
+    "Sử dụng làm terminal thay thế hiện đại với autocomplete và AI assistance cho lập trình viên",
+    "Tự động hóa các tác vụ terminal lặp đi lặp lại thông qua các agent và scripts thông minh",
+    "Phát triển và debug nhanh trên Linux/macOS với giao diện tích hợp và tìm kiếm lệnh thông minh"
+  ],
+  "ideas": [
+    "Kết hợp Warp với LLM cục bộ để tạo ra một coding assistant terminal self-hosted hoàn toàn",
+    "Phát triển plugin ecosystem cho Warp để tương tác với các dịch vụ cloud development và CI/CD",
+    "Sử dụng Warp làm môi trường chạy scripts tự động cho pipelines CI/CD và ops automation"
+  ],
+  "stars": 64650,
+  "starsToday": 37,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "linux",
+    "macos",
+    "terminal",
+    "bash",
+    "zsh",
+    "wasm",
+    "shell"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-30T08:56:44.014Z"
+}

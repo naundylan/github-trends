@@ -1,0 +1,23 @@
+{
+  "id": "e0cccb97-4703-4bfa-aed9-b1b50003611c",
+  "repo": "apirrone/Open_Duck_Mini",
+  "url": "https://github.com/apirrone/Open_Duck_Mini",
+  "category": "Embedded/IoT",
+  "summary": "Dự án tạo phiên bản thu nhỏ droid BDX sử dụng Python, hướng đến mục đích học tập và prototyping robotics.",
+  "usecases": [
+    "Học tập và thực hành cơ bản về robotics, động cơ và tích hợp sensor.",
+    "Prototyping nhanh cho các dự án di chuyển hoặc tương tác vật lý với chi phí thấp.",
+    "Nền tảng cho giáo dục và nghiên cứu về robotics đi lại (locomotion)."
+  ],
+  "ideas": [
+    "Tích hợp khả năng nhận diện vật thể hoặc voice control để nâng cấp tính năng AI.",
+    "Kết hợp với ROS (Robot Operating System) để phát triển các chức năng di chuyển nâng cao.",
+    "Sử dụng làm droid cá nhân hoặc giải trí với khả năng di chuyển tùy chỉnh."
+  ],
+  "stars": 3649,
+  "starsToday": 44,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-08-30T08:56:44.014Z"
+}

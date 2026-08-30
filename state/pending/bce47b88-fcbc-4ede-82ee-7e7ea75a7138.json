@@ -1,0 +1,28 @@
+{
+  "id": "bce47b88-fcbc-4ede-82ee-7e7ea75a7138",
+  "repo": "juanfont/headscale",
+  "url": "https://github.com/juanfont/headscale",
+  "category": "Networking",
+  "summary": "Headscale là một máy chủ điều khiển tự-hosted mã nguồn mở cho Tailscale, cho phép tạo mạng riêng ảo dựa trên WireGuard mà không cần phụ thuộc vào dịch vụ của Tailscale.",
+  "usecases": [
+    "Kết nối các thiết bị cá nhân và máy chủ nội bộ vào một mạng VPN an toàn để truy cập từ xa.",
+    "Triển khai mạng mesh cho các môi trường phát triển và thử nghiệm mà không cần cấu hình phức tạp.",
+    "Tích hợp với các dịch vụ cloud để mở rộng kết nối an toàn giữa các vùng và các máy chủ trên premise."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý danh tính (LDAP, OIDC) để cung cấp xác thực đa yếu tố cho truy cập mạng.",
+    "Phát triển plugin giám sát lưu lượng và cảnh báo bất thường trong mạng Headscale.",
+    "Tự động hóa việc cấp phát Headscale qua Terraform hoặc Ansible để triển khai nhanh chóng trong môi trường multi-cloud."
+  ],
+  "stars": 43323,
+  "starsToday": 35,
+  "language": "Go",
+  "topics": [
+    "tailscale",
+    "tailscale-control-server",
+    "wireguard",
+    "tailscale-server"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-08-30T08:56:44.014Z"
+}

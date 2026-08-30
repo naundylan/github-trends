@@ -1,0 +1,40 @@
+{
+  "id": "f4f93532-d8dc-464d-83a4-4b9565078cb8",
+  "repo": "Osmantic/ODS",
+  "url": "https://github.com/Osmantic/ODS",
+  "category": "AI Agent/Automation",
+  "summary": "ODS là một nền tảng AI self-hosted cho phép biến máy tính cá nhân thành server AI toàn diện, hỗ trợ inference LLM, chat UI, voice, agents, workflows, RAG và sinh hình ảnh.",
+  "usecases": [
+    "Chạy inference LLM cục bộ trên máy tính cá nhân để tránh phụ thuộc dịch vụ cloud",
+    "Phát triển và triển khai các AI agent tự động hóa tác vụ như xử lý văn bản, voice commands, hoặc sinh hình ảnh",
+    "Sử dụng cho RAG pipelines và workflows phức tạp trong môi trường phát triển hoặc sản xuất cục bộ"
+  ],
+  "ideas": [
+    "Kết hợp ODS với n8n hoặc các framework workflow automation để tạo ra các pipeline AI-end-to-end tự động",
+    "Triển khai ODS trên các thiết bị ARM hoặc hardware tích GPU (như Strix Halo) để inference tối ưu hóa chi phí",
+    "Sử dụng làm nền tảng cho personal assistant AI toàn quyền kiểm soát các ứng dụng desktop và hệ thống"
+  ],
+  "stars": 5094,
+  "starsToday": 35,
+  "language": "Python",
+  "topics": [
+    "ai-agents",
+    "llm",
+    "self-hosted",
+    "amd",
+    "comfyui",
+    "docker",
+    "llama-cpp",
+    "local-ai",
+    "n8n",
+    "nvidia",
+    "open-webui",
+    "rag",
+    "speech-to-text",
+    "strix-halo",
+    "text-to-speech",
+    "workflow-automation"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-30T08:56:44.014Z"
+}

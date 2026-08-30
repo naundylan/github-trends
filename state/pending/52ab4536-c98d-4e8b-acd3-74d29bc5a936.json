@@ -1,0 +1,23 @@
+{
+  "id": "52ab4536-c98d-4e8b-acd3-74d29bc5a936",
+  "repo": "Gentleman-Programming/gentle-ai",
+  "url": "https://github.com/Gentleman-Programming/gentle-ai",
+  "category": "AI/LLM",
+  "summary": "Thư viện/framework Go cho AI/LLM, cung cấp các công cụ tích hợp và quản lý prompt hiệu quả.",
+  "usecases": [
+    "Xây dựng ứng dụng LLM tùy chỉnh bằng Go",
+    "Giảm thiểu tương tác API với nhiều nhà cung cấp LLM",
+    "Prototyping các agent AI và quy trình tự động hóa"
+  ],
+  "ideas": [
+    "Kết hợp với LLMs cục bộ cho ứng dụng chú trọng quyền riêng tư",
+    "Tạo công cụ CLI để truy vấn LLM nhanh",
+    "Phát triển lớp middleware định tuyến prompt đến các model chuyên biệt"
+  ],
+  "stars": 6074,
+  "starsToday": 40,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-30T08:56:44.014Z"
+}
