@@ -1,0 +1,23 @@
+{
+  "id": "33e63216-bcfb-4804-ad86-feca27f9a495",
+  "repo": "warpdotdev/common-skills",
+  "url": "https://github.com/warpdotdev/common-skills",
+  "category": "Developer Tool",
+  "summary": "Một thư viện Python chứa các kỹ năng và tiện ích chung dùng cho phát triển phần mềm, cung cấp các hàm tiện ích và utilities để tăng tốc độ làm việc.",
+  "usecases": [
+    "Tận dụng các hàm reusable để nhanh chóng prototyping các dự án mới.",
+    "Giữ lại các patterns code nhất quán giữa nhiều project khác nhau.",
+    "Dùng làm tài liệu tham khảo để học Python best practices thông qua code thực tế."
+  ],
+  "ideas": [
+    "Biến repo thành template khởi tạo cho các project Python mới.",
+    "Đăng tải lên PyPI để cộng đồng có thể cài đặt và dùng.",
+    "Kết hợp với scripts automation để quản trị hệ thống."
+  ],
+  "stars": 351,
+  "starsToday": 69,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-30T02:49:40.763Z"
+}

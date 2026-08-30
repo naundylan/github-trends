@@ -1,0 +1,30 @@
+{
+  "id": "26abf8fa-94b3-405d-8fae-42f55f7d56d2",
+  "repo": "livekit/agents",
+  "url": "https://github.com/livekit/agents",
+  "category": "AI Agent/Automation",
+  "summary": "Framework để xây dựng realtime voice AI agents, hỗ trợ video, audio và tích hợp với OpenAI cho tương tác tự nhiên.",
+  "usecases": [
+    "Voice customer support agents xử lý cuộc gọi realtime",
+    "Trợ lý dịch ngôn ngữ đa luồng trong video calls",
+    "Kiểm soát IoT hoặc automation bằng giọng nói"
+  ],
+  "ideas": [
+    "Agent hội nghị realtime tóm tắt và action items",
+    "Voice AI cho người khiếm thính điều khiển máy tính",
+    "Agent chiến lược game trong livestream tương tác live"
+  ],
+  "stars": 13561,
+  "starsToday": 254,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "real-time",
+    "voice",
+    "video",
+    "agents",
+    "openai"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-30T02:49:40.763Z"
+}

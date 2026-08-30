@@ -1,0 +1,23 @@
+{
+  "id": "7fc9d769-b6e2-4713-9720-318a33bd53e5",
+  "repo": "abhigyanpatwari/GitNexus",
+  "url": "https://github.com/abhigyanpatwari/GitNexus",
+  "category": "Developer Tool",
+  "summary": "Client-side TypeScript tool that creates interactive knowledge graphs from git repos or ZIPs, enabling browser-based code exploration with a built-in Graph RAG agent, requiring no server.",
+  "usecases": [
+    "On-premise codebase exploration for sensitive environments without data leakage",
+    "Rapid onboarding and navigation of large, unfamiliar codebases",
+    "Offline knowledge graph generation for local development and debugging"
+  ],
+  "ideas": [
+    "Combine with embedding models to enable semantic search within the generated knowledge graph",
+    "Export the knowledge graph to Neo4j or other graph databases for team-wide collaboration",
+    "Add plugin support for custom analysis plugins (e.g., dependency tracking, bug pattern detection)"
+  ],
+  "stars": 46402,
+  "starsToday": 270,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-30T02:49:40.763Z"
+}

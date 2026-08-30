@@ -1,0 +1,32 @@
+{
+  "id": "2cab19e0-0dd6-48a4-b585-98ff83928368",
+  "repo": "dandavison/delta",
+  "url": "https://github.com/dandavison/delta",
+  "category": "CLI Tool",
+  "summary": "Delta là một pager có đánh màu cú pháp cho đầu ra git, diff, grep, rg --json và blame, giúp hiển thị thay đổi mã nguồn dễ đọc và trực quan hơn trên terminal.",
+  "usecases": [
+    "Xem diff git với màu sắc và định dạng dễ đọc trên terminal.",
+    "Review thay đổi code trong pull request một cách hiệu quả.",
+    "Hiển thị kết quả grep/rg với highlight cú pháp."
+  ],
+  "ideas": [
+    "Kết hợp với IDE để hiển thị diff trực tiếp trong editor khi xem git log.",
+    "Tự động tạo báo cáo thay đổi code có màu cho team review.",
+    "Hỗ trợ theme tùy chỉnh cho các môi trường terminal khác nhau."
+  ],
+  "stars": 31979,
+  "starsToday": 64,
+  "language": "Rust",
+  "topics": [
+    "git",
+    "diff",
+    "pager",
+    "rust",
+    "delta",
+    "git-delta",
+    "color-themes",
+    "syntax-highlighter"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-30T02:49:40.763Z"
+}

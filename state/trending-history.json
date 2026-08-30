@@ -11,7 +11,7 @@
   },
   "tt-a1i/archify": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-26"
   },
   "public-apis/public-apis": {
@@ -76,7 +76,7 @@
   },
   "affaan-m/ECC": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-22"
   },
   "langflow-ai/langflow": {
@@ -111,12 +111,12 @@
   },
   "ChromeDevTools/chrome-devtools-mcp": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-28"
   },
   "asgeirtj/system_prompts_leaks": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-29"
   },
   "agentskills/agentskills": {
@@ -221,7 +221,7 @@
   },
   "thedotmack/claude-mem": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-22"
   },
   "hesreallyhim/awesome-claude-code": {
@@ -296,12 +296,12 @@
   },
   "t8y2/dbx": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-28"
   },
   "addyosmani/agent-skills": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-25"
   },
   "decolua/9router": {
@@ -336,7 +336,7 @@
   },
   "vxcontrol/pentagi": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-28"
   },
   "tinyhumansai/openhuman": {
@@ -506,7 +506,7 @@
   },
   "tashfeenahmed/freellmapi": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-24"
   },
   "Anil-matcha/Open-Generative-AI": {
@@ -621,7 +621,7 @@
   },
   "DietrichGebert/ponytail": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-26"
   },
   "VoltAgent/awesome-agent-skills": {
@@ -651,12 +651,12 @@
   },
   "JetBrains/go-modern-guidelines": {
     "first_seen": "2026-08-27",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-27"
   },
   "calesthio/OpenMontage": {
     "first_seen": "2026-08-27",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-27"
   },
   "ZhuLinsen/daily_stock_analysis": {
@@ -696,17 +696,17 @@
   },
   "K-Dense-AI/scientific-agent-skills": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-28"
   },
   "anthropics/claude-plugins-official": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-28"
   },
   "bilawalsidhu/gods-eye-view": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-28"
   },
   "swoole/typephp": {
@@ -716,12 +716,12 @@
   },
   "google/googletest": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-28"
   },
   "conorbronsdon/avoid-ai-writing": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-28"
   },
   "HKUDS/AI-Trader": {
@@ -731,7 +731,7 @@
   },
   "ComposioHQ/awesome-claude-skills": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-28"
   },
   "nilbuild/developer-roadmap": {
@@ -746,52 +746,102 @@
   },
   "THU-MAIC/OpenMAIC": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-29"
   },
   "p-e-w/heretic": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-29"
   },
   "every-app/open-seo": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-29"
   },
   "chuspeeism/dashi-ppt-skill": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-29"
   },
   "yifanfeng97/Hyper-Extract": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-29"
   },
   "alchaincyf/nuwa-skill": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-29"
   },
   "ayghri/i-have-adhd": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-29"
   },
   "harry0703/MoneyPrinterTurbo": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-29"
   },
   "vercel-labs/vgpu": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-29"
   },
   "infiniflow/ragflow": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-08-30",
     "last_saved": "2026-08-29"
+  },
+  "tailscale/tailcat": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "last_saved": "2026-08-30"
+  },
+  "abi/screenshot-to-code": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "last_saved": "2026-08-30"
+  },
+  "workweave/router": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "last_saved": "2026-08-30"
+  },
+  "warpdotdev/common-skills": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "last_saved": "2026-08-30"
+  },
+  "livekit/agents": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "last_saved": "2026-08-30"
+  },
+  "cursor/plugins": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "last_saved": "2026-08-30"
+  },
+  "abhigyanpatwari/GitNexus": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "last_saved": "2026-08-30"
+  },
+  "cinar/indicator": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "last_saved": "2026-08-30"
+  },
+  "tailscale/tailscale": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "last_saved": "2026-08-30"
+  },
+  "dandavison/delta": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "last_saved": "2026-08-30"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "id": "060de59f-83e0-4d02-b348-609c6e0bb28e",
+  "repo": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Plugin specification và official plugins cho trình chỉnh sửa code AI-powered Cursor, hỗ trợ mở rộng tính năng và quy trình làm việc.",
+  "usecases": [
+    "Tùy chỉnh autocomplete và nâng cao hoàn thành code",
+    "Tích hợp với LLMs riêng tư hoặc codebase nội bộ",
+    "Tự động hóa các tác vụ refactoring lặp lại thông qua hooks plugin"
+  ],
+  "ideas": [
+    "Plugin sinh unit tests từ context code",
+    "Kết nối với Figma để tự động tạo component",
+    "AI debugging assistant trực tiếp trong editor"
+  ],
+  "stars": 6183,
+  "starsToday": 260,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-08-30T02:49:40.763Z"
+}

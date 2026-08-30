@@ -1,0 +1,44 @@
+{
+  "id": "95aab1cb-5bae-4f92-956f-dd80a35fd4b9",
+  "repo": "cinar/indicator",
+  "url": "https://github.com/cinar/indicator",
+  "category": "Developer Tool",
+  "summary": "Thư viện Go cung cấp bộ chỉ báo kỹ thuật phong phú, chiến lược tùy chỉnh và khung backtesting mạnh mẽ, không phụ thuộc bên ngoài, tập trung vào hiệu suất và tính đơn giản cho phân tích tài chính.",
+  "usecases": [
+    "Phân tích kỹ thuật cổ phiếu hoặc crypto với các chỉ báo như Bollinger Bands, MACD.",
+    "Backtesting các chiến lược giao dịch trên dữ liệu lịch sử để kiểm tra hiệu quả.",
+    "Tích hợp vào trading bot để tự động đưa ra quyết định mua/bán."
+  ],
+  "ideas": [
+    "Kết hợp với API Yahoo Finance để tạo dashboard thị trường live.",
+    "Phát triển module chiến lược dựa trên kết quả backtesting kết hợp với AI.",
+    "Tạo CLI tool cho traders tính chỉ báo nhanh mà không cần viết code."
+  ],
+  "stars": 1559,
+  "starsToday": 69,
+  "language": "Go",
+  "topics": [
+    "indicators",
+    "technical-analysis",
+    "stock-analysis",
+    "stock-market",
+    "technical-analysis-library",
+    "technical-analysis-indicators",
+    "bollinger-bands",
+    "macd",
+    "indicator",
+    "trading-algorithms",
+    "trading-strategies",
+    "quant",
+    "quantative-finance",
+    "quantative-trading",
+    "finance",
+    "financial-instruments",
+    "yahoo-finance",
+    "trading",
+    "quantitative-finance",
+    "algorithmic-trading"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-30T02:49:40.763Z"
+}

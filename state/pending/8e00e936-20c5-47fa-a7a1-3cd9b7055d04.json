@@ -1,0 +1,23 @@
+{
+  "id": "8e00e936-20c5-47fa-a7a1-3cd9b7055d04",
+  "repo": "abi/screenshot-to-code",
+  "url": "https://github.com/abi/screenshot-to-code",
+  "category": "AI/LLM",
+  "summary": "Python tool that uses AI/ML to convert screenshot images into clean, responsive code (HTML/Tailwind/React/Vue) for rapid prototyping.",
+  "usecases": [
+    "Quickly turn UI mockups or designs into implementable frontend code.",
+    "Generate codebases for new web pages from hand-drawn sketches or screenshots.",
+    "Assist developers in refactoring legacy interfaces by converting UI snapshots."
+  ],
+  "ideas": [
+    "Integrate with design tools like Figma or Sketch via API for automated code generation.",
+    "Combine with a component library generator to output consistent UI kits.",
+    "Build a no-code platform where users upload screenshots and get fully functional React apps."
+  ],
+  "stars": 76075,
+  "starsToday": 550,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-30T02:49:40.763Z"
+}

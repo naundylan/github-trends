@@ -1,0 +1,23 @@
+{
+  "id": "c9300b0a-fc41-41ae-b25e-f33235e31b41",
+  "repo": "tailscale/tailcat",
+  "url": "https://github.com/tailscale/tailcat",
+  "category": "Networking",
+  "summary": "Go utility that provides netcat-like functionality over Tailscale's data plane, bypassing Tailscale's control plane for direct peer-to-peer communication.",
+  "usecases": [
+    "Direct file transfer between Tailscale nodes without public internet exposure.",
+    "Debugging network connectivity and latency between mesh participants.",
+    "Secure remote shell access or service tunneling within a private mesh."
+  ],
+  "ideas": [
+    "Integrate with Tailscale exit nodes for secure outbound traffic manipulation.",
+    "Combine with WireGuard configs for custom mesh routing.",
+    "Build a zero-trust file sharing service for teams."
+  ],
+  "stars": 3561,
+  "starsToday": 789,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-08-30T02:49:40.763Z"
+}
