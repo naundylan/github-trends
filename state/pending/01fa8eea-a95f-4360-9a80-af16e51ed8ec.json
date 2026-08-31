@@ -1,0 +1,23 @@
+{
+  "id": "01fa8eea-a95f-4360-9a80-af16e51ed8ec",
+  "repo": "nashsu/llm_wiki",
+  "url": "https://github.com/nashsu/llm_wiki",
+  "category": "AI/LLM",
+  "summary": "LLM Wiki là một ứng dụng desktop đa nền tảng chuyển đổi tài liệu của bạn thành một cơ sở tri thức được liên kết logic tự động bằng LLM, duy trì liên tục thay vì truy vấn lại toàn bộ như các hệ thống RAG truyền thống.",
+  "usecases": [
+    "Tự động tổ chức và liên kết các tài liệu nội bộ công ty thành một wiki tri thức truy cập nhanh.",
+    "Xây dựng hệ thống tri thức cá nhân từ sách, bài báo, nghiên cứu để hỗ trợ học tập và nghiên cứu lâu dài.",
+    "Ứng dụng trong môi trường pháp lý hoặc y tế để quản lý và truy xuất tri thức pháp lý hoặc y khoa một cách thông minh."
+  ],
+  "ideas": [
+    "Kết hợp LLM Wiki với công cụ đồng bộ đám mây như Dropbox hoặc Google Drive để cập nhật tri thức theo thời gian thực.",
+    "Phát triển phiên bản web hoặc API cho LLM Wiki nhằm chia sẻ tri thức nội bộ giữa các nhóm làm việc.",
+    "Tích hợp tính năng hỏi đáp (Q&A) dựa trên wiki đã được xây dựng để hỗ trợ chatbot nội bộ doanh nghiệp."
+  ],
+  "stars": 17152,
+  "starsToday": 66,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-31T09:38:33.385Z"
+}

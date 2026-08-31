@@ -1,0 +1,44 @@
+{
+  "id": "4351f424-d5cb-4ff5-8fde-f178623c8e33",
+  "repo": "unslothai/unsloth",
+  "url": "https://github.com/unslothai/unsloth",
+  "category": "Machine Learning",
+  "summary": "Giao diện cục bộ để chạy và fine-tune các mô hình LLM và diffusion với hiệu suất cao, hỗ trợ GGUF, MLX, Qwen3.8, Gemma 4, FLUX. Tối ưu VRAM giúp chạy trên phần cứng cá nhân.",
+  "usecases": [
+    "Fine-tune mô hình ngôn ngữ lớn (LLM) trên dữ liệu riêng với chi phí thấp",
+    "Chạy và huấn luyện mô hình diffusion tạo ảnh (FLUX, Stable Diffusion) cục bộ",
+    "Fine-tune mô hình vision-language như Gemma cho bài toán AI cụ thể của doanh nghiệp"
+  ],
+  "ideas": [
+    "Tích hợp unsloth vào pipeline RAG để fine-tune mô hình phục vụ chatbot domain-specific",
+    "Sử dụng để tạo bộ sưu tập mô hình AI cá nhân hóa cho doanh nghiệp nhỏ",
+    "Kết hợp với unet/diffusion cho pipeline tạo ảnh tùy chỉnh theo phong cách riêng"
+  ],
+  "stars": 75316,
+  "starsToday": 107,
+  "language": "Python",
+  "topics": [
+    "fine-tuning",
+    "llama",
+    "llms",
+    "gemma",
+    "unsloth",
+    "llm",
+    "deepseek",
+    "text-to-speech",
+    "tts",
+    "qwen",
+    "agent",
+    "openai",
+    "reinforcement-learning",
+    "self-hosted",
+    "ui",
+    "image-generation",
+    "stable-diffusion",
+    "chatgpt",
+    "ai",
+    "python"
+  ],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-08-31T09:38:33.385Z"
+}

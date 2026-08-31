@@ -1,0 +1,31 @@
+{
+  "id": "bf690638-061a-4a95-8419-4c6aba01ed2c",
+  "repo": "Waishnav/devspace",
+  "url": "https://github.com/Waishnav/devspace",
+  "category": "AI Agent/Automation",
+  "summary": "Khung nền tối giản để xây dựng coding agent tích hợp qua MCP, hỗ trợ nhiều mô hình AI như ChatGPT, Claude, Hermes, Grok Bot, OpenClaw. Cho phép điều phối agent theo workflow động.",
+  "usecases": [
+    "Xây dựng coding agent tự động viết và sửa code dựa trên yêu cầu mô tả",
+    "Tích hợp nhiều mô hình AI vào một pipeline để so sánh hoặc chuyển đổi linh hoạt",
+    "Tạo hệ thống tự động hóa tác vụ lập trình phức tạp với điều phối qua MCP"
+  ],
+  "ideas": [
+    "Kết hợp devspace với các công cụ CI/CD để tạo pipeline tự động review và fix code",
+    "Dùng devspace để xây dựng agent chuyên biệt cho từng ngôn ngữ hoặc framework cụ thể",
+    "Mở rộng thành nền tảng SaaS cung cấp coding agent theo yêu cầu doanh nghiệp"
+  ],
+  "stars": 4331,
+  "starsToday": 108,
+  "language": "TypeScript",
+  "topics": [
+    "agent-orchestration",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "codex",
+    "pi-coding-agent",
+    "dyanmic-workflow"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-31T09:38:33.385Z"
+}

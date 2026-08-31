@@ -1,0 +1,33 @@
+{
+  "id": "2b1ee51b-6d6a-4d3c-b129-4d86c91c1538",
+  "repo": "mobile-next/mobile-mcp",
+  "url": "https://github.com/mobile-next/mobile-mcp",
+  "category": "AI Agent/Automation",
+  "summary": "Máy chủ Model Context Protocol cho tự động hóa và scraping trên thiết bị di động như iOS, Android, emulator và thiết bị thật. Hỗ trợ agent AI tương tác trực tiếp với các môi trường di động.",
+  "usecases": [
+    "Tự động hóa kiểm thử ứng dụng di động trên nhiều thiết bị khác nhau.",
+    "Thu thập dữ liệu từ các ứng dụng di động cho phân tích hoặc training AI.",
+    "Điều khiển thiết bị di động bằng agent AI để thực hiện các tác vụ tự động."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống CI/CD để thực hiện kiểm thử tự động trên các thiết bị thực tế.",
+    "Tạo ra một nền tảng cho agent AI học hỏi và tương tác với các giao diện di động.",
+    "Sử dụng cho việc monitoring và debugging các ứng dụng di động trong môi trường tự động."
+  ],
+  "stars": 6256,
+  "starsToday": 72,
+  "language": "TypeScript",
+  "topics": [
+    "android",
+    "ios",
+    "mcp",
+    "mobile",
+    "agent",
+    "emulator",
+    "physical",
+    "real",
+    "simulator"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-31T09:38:33.385Z"
+}

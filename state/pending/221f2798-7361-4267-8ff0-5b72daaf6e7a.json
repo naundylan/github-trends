@@ -1,0 +1,26 @@
+{
+  "id": "221f2798-7361-4267-8ff0-5b72daaf6e7a",
+  "repo": "punkpeye/awesome-mcp-servers",
+  "url": "https://github.com/punkpeye/awesome-mcp-servers",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Một bộ sưu tập các MCP server dành cho các mô hình AI, giúp tích hợp AI vào ứng dụng một cách dễ dàng. Điểm nổi bật là danh sách phong phú và được cập nhật thường xuyên.",
+  "usecases": [
+    "Tìm kiếm MCP server phù hợp cho dự án AI của bạn.",
+    "Tham khảo cách triển khai MCP trong các dự án thực tế.",
+    "Sử dụng làm tài liệu học tập về công nghệ AI."
+  ],
+  "ideas": [
+    "Xây dựng một ứng dụng web hiển thị các MCP server theo chủ đề.",
+    "Tích hợp với một công cụ quản lý dự án để đề xuất MCP server tự động.",
+    "Tạo ra một cộng đồng chia sẻ kinh nghiệm về MCP."
+  ],
+  "stars": 93520,
+  "starsToday": 96,
+  "language": "",
+  "topics": [
+    "ai",
+    "mcp"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-08-31T09:38:33.385Z"
+}

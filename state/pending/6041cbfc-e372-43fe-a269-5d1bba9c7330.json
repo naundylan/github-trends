@@ -1,0 +1,44 @@
+{
+  "id": "6041cbfc-e372-43fe-a269-5d1bba9c7330",
+  "repo": "pranshuparmar/witr",
+  "url": "https://github.com/pranshuparmar/witr",
+  "category": "CLI Tool",
+  "summary": "Witr là một công cụ dòng lệnh và giao diện terminal (TUI) giúp truy trace bất kỳ tiến trình, cổng, container hay tệp nào về nguồn gốc đã khởi chạy nó, hỗ trợ đa nền tảng như Linux, macOS, Windows, FreeBSD và tích hợp với Docker, Kubernetes, systemd.",
+  "usecases": [
+    "Dò tìm và xác định tiến trình đang chiếm dụng một cổng mạng cụ thể trên hệ thống Linux hoặc Windows.",
+    "Phân tích nguyên nhân gốc khi một container Docker hoặc pod Kubernetes bất ngờ dừng hoặc lỗi.",
+    "Hỗ trợ đội ngũ vận hành (sysadmin) trong việc khắch phục sự cố hệ thống nhanh chóng thông qua giao diện TUI trực quan."
+  ],
+  "ideas": [
+    "Kết hợp witr với hệ thống giám sát (monitoring stack) để tự động cảnh báo khi có tiến trình lạ xuất hiện.",
+    "Xây dựng plugin mở rộng cho witr hỗ trợ phân tích chi tiết hơn cho các dịch vụ đám mây như AWS Lambda hoặc Google Cloud Run.",
+    "Tích hợp witr vào pipeline CI/CD để kiểm tra và dọn dẹp tiến trình rác sau mỗi lần triển khai."
+  ],
+  "stars": 21960,
+  "starsToday": 71,
+  "language": "Go",
+  "topics": [
+    "cli",
+    "devops",
+    "freebsd",
+    "golang",
+    "linux",
+    "macos",
+    "observability",
+    "sysadmin",
+    "troubleshooting",
+    "tui",
+    "windows",
+    "containers",
+    "docker",
+    "incident-response",
+    "process-management",
+    "systemd",
+    "go",
+    "kubernetes",
+    "monitoring",
+    "terminal"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-31T09:38:33.385Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "d347f535-b5b6-4c65-b203-1863ed7a9a44",
+  "repo": "alam00000/bentopdf",
+  "url": "https://github.com/alam00000/bentopdf",
+  "category": "Developer Tool",
+  "summary": "Bộ công cụ PDF tập trung vào bảo mật, hỗ trợ chuyển đổi, tạo và xem PDF mà không cần kết nối mạng. Điểm nổi bật là khả năng tự-host và bảo mật cao.",
+  "usecases": [
+    "Chuyển đổi file hình ảnh sang PDF một cách riêng tư.",
+    "Tạo và chỉnh sửa PDF mà không cần upload lên internet.",
+    "Nhúng bộ xem PDF vào ứng dụng web của bạn."
+  ],
+  "ideas": [
+    "Kết hợp với một phần mềm quản lý tài liệu để lưu trữ PDF an toàn.",
+    "Sử dụng làm công cụ xử lý PDF trong môi trường làm việc từ xa.",
+    "Tích hợp vào một ứng dụng di động để xử lý PDF khi di chuyển."
+  ],
+  "stars": 14983,
+  "starsToday": 76,
+  "language": "JavaScript",
+  "topics": [
+    "jpgtopdf",
+    "pdf",
+    "pdf-converter",
+    "pdf-generation",
+    "pdf-viewer",
+    "hacktoberfest",
+    "javascript",
+    "pdffiller",
+    "privacy",
+    "toolkit",
+    "typescript",
+    "adobe-acrobat",
+    "pdf-editor",
+    "pdf-viewer-component",
+    "pdfjs",
+    "self-hosted",
+    "pdf-tools",
+    "docker",
+    "pdf-ocr",
+    "self-hosting"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-31T09:38:33.385Z"
+}

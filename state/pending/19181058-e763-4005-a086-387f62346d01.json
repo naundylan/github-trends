@@ -1,0 +1,23 @@
+{
+  "id": "19181058-e763-4005-a086-387f62346d01",
+  "repo": "warpdotdev/common-skills",
+  "url": "https://github.com/warpdotdev/common-skills",
+  "category": "Developer Tool",
+  "summary": "Bộ sưu tập các kỹ năng và công cụ chung dành cho nhà phát triển phần mềm, được viết bằng Python. Cung cấp các giải pháp实用 để giải quyết các vấn đề thường gặp trong lập trình.",
+  "usecases": [
+    "Tăng cường hiệu suất làm việc bằng cách sử dụng các utility function có sẵn.",
+    "Tham khảo best practices và code snippets cho các dự án mới.",
+    "Dùng làm công cụ hỗ trợ debugging và testing trong quá trình phát triển."
+  ],
+  "ideas": [
+    "Tích hợp với các IDE để cung cấp auto-complete và suggestions thông minh.",
+    "Phát triển thành một nền tảng học tập tương tác cho các developer mới.",
+    "Kết hợp với các công cụ quản lý dự án để tự động hóa các tác vụ lặp lại."
+  ],
+  "stars": 479,
+  "starsToday": 71,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-31T09:38:33.385Z"
+}

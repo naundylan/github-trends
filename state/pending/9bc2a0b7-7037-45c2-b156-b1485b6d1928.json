@@ -1,0 +1,44 @@
+{
+  "id": "9bc2a0b7-7037-45c2-b156-b1485b6d1928",
+  "repo": "cinar/indicator",
+  "url": "https://github.com/cinar/indicator",
+  "category": "Backend Framework",
+  "summary": "Indicator Go cung cấp bộ chỉ báo kỹ thuật phong phú, chiến lược tùy chỉnh và khung testbacktrading mạnh mẽ. Dễ sử dụng với không phụ thuộc bên ngoài.",
+  "usecases": [
+    "Phân tích kỹ thuật thị trường tài chính bằng nhiều chỉ báo khác nhau",
+    "Xây dựng các chiến lược giao dịch tự động dựa trên các thuật toán tùy chỉnh",
+    "Testbacktrating các chiến lược giao dịch với các chỉ số hiệu suất"
+  ],
+  "ideas": [
+    "Tích hợp với các sàn giao dịch crypto phổ biến để phân tích thị trường thời gian thực",
+    "Tạo bảng điều khiển để trực quan hóa tín hiệu giao dịch trên nhiều tài sản",
+    "Phát triển tài liệu giáo dục giải thích các chỉ báo kỹ thuật khác nhau"
+  ],
+  "stars": 1633,
+  "starsToday": 76,
+  "language": "Go",
+  "topics": [
+    "indicators",
+    "technical-analysis",
+    "stock-analysis",
+    "stock-market",
+    "technical-analysis-library",
+    "technical-analysis-indicators",
+    "bollinger-bands",
+    "macd",
+    "indicator",
+    "trading-algorithms",
+    "trading-strategies",
+    "quant",
+    "quantative-finance",
+    "quantative-trading",
+    "finance",
+    "financial-instruments",
+    "yahoo-finance",
+    "trading",
+    "quantitative-finance",
+    "algorithmic-trading"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-08-31T09:38:33.385Z"
+}

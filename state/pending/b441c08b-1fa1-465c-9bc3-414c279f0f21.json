@@ -1,0 +1,29 @@
+{
+  "id": "b441c08b-1fa1-465c-9bc3-414c279f0f21",
+  "repo": "LibreTranslate/LibreTranslate",
+  "url": "https://github.com/LibreTranslate/LibreTranslate",
+  "category": "API/GraphQL",
+  "summary": "LibreTranslate là một API dịch máy mã nguồn mở, cho phép dịch văn bản giữa các ngôn ngữ một cách miễn phí, hỗ trợ tự host, hoạt động ngoại tuyến và dễ dàng thiết lập.",
+  "usecases": [
+    "Tích hợp tính năng dịch thuật vào các ứng dụng web hoặc di động mà không cần phụ thuộc vào các dịch vụ bên thứ ba.",
+    "Xây dựng hệ thống dịch thuật nội bộ cho doanh nghiệp để xử lý dữ liệu nhạy cảm một cách an toàn và riêng tư.",
+    "Cung cấp dịch vụ dịch thuật cho người dùng trong các khu vực không có kết nối internet bằng cách sử dụng mô hình dịch máy ngoại tuyến."
+  ],
+  "ideas": [
+    "Kết hợp LibreTranslate với hệ thống quản lý nội dung (CMS) để tự động dịch các bài viết trước khi xuất bản.",
+    "Phát triển một giao diện người dùng đồ họa (GUI) để người dùng không cần lập trình có thể dễ dàng sử dụng API dịch thuật.",
+    "Tích hợp LibreTranslate với các công cụ ghi chép tri thức như Obsidian hoặc Notion để dịch các ghi chú và tài liệu."
+  ],
+  "stars": 16254,
+  "starsToday": 72,
+  "language": "Python",
+  "topics": [
+    "translation",
+    "translate",
+    "api",
+    "machine",
+    "translator"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-08-31T09:38:33.385Z"
+}
