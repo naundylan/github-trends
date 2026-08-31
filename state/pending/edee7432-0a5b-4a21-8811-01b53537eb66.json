@@ -1,0 +1,29 @@
+{
+  "id": "edee7432-0a5b-4a21-8811-01b53537eb66",
+  "repo": "handsomestWei/patent-disclosure-skill",
+  "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "Công cụ Python giúp khai thác điểm patent, viết交底 sách (letters of disclosure) cho các loại patent (phát minh, thực用, ngoại thất) và hỗ trợ phân tích xu hướng chính sách để hỗ trợ trả lời kiểm tra.",
+  "usecases": [
+    "Tự động hóa việc viết交底 sách cho đơn patent dựa trên dữ liệu đầu vào.",
+    "Phân tích và tóm tắt các điểm mới mẻ của patent để đưa vào tài liệu kiến thức.",
+    "Theo dõi thay đổi chính sách pháp lý liên quan đến bảo vệ trí tuệ và cập nhật tự động."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tạo nội dung交底 sách tự động từ mô tả invention.",
+    "Phát triển plugin Obsidian hiển thị trạng thái patent và lịch sử thay đổi.",
+    "Tạo dashboard theo dõi con số patent và xu hướng ngành công nghiệp."
+  ],
+  "stars": 6173,
+  "starsToday": 571,
+  "language": "Python",
+  "topics": [
+    "chinese",
+    "disclosure",
+    "patent",
+    "skill",
+    "obsidian"
+  ],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-08-31T18:43:39.073Z"
+}

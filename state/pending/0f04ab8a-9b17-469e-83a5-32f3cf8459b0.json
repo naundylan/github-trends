@@ -1,0 +1,23 @@
+{
+  "id": "0f04ab8a-9b17-469e-83a5-32f3cf8459b0",
+  "repo": "pollen-robotics/microduck_rl",
+  "url": "https://github.com/pollen-robotics/microduck_rl",
+  "category": "Machine Learning",
+  "summary": "Microduck_rl cung cấp môi trường training Reinforcement Learning cho robot Microduck dựa trên mjlab, giúp nghiên cứu và phát triển kỹ năng điều khiển robot qua simulation.",
+  "usecases": [
+    "Train robot arms/hands để nắm vật thể trong môi trường simulation trước triển khai thực tế.",
+    "Nghiên cứu các policy RL cho locomotion trên các nền tảng MJCF.",
+    "Tích hợp với các thư viện AI khác để tạo ra các tác vụ tự động hóa phức tạp."
+  ],
+  "ideas": [
+    "Kết hợp vision-based RL để Microduck nhận diện và tương tác với vật thể.",
+    "Sử dụng multi-agent RL để nhiều con Microduck hợp tác hoàn thành nhiệm vụ.",
+    "Deploy policy đã training về hardware thực tế qua sim-to-real pipeline."
+  ],
+  "stars": 1099,
+  "starsToday": 384,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-08-31T18:43:39.073Z"
+}

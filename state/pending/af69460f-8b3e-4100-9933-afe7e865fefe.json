@@ -1,0 +1,30 @@
+{
+  "id": "af69460f-8b3e-4100-9933-afe7e865fefe",
+  "repo": "k1tbyte/Wand-Enhancer",
+  "url": "https://github.com/k1tbyte/Wand-Enhancer",
+  "category": "Desktop App",
+  "summary": "Mở rộng UX và tương thích cho ứng dụng Wand (WeMod), cho phép tùy chỉnh và tương tác sâu hơn với các trò chơi trên nền tảng WeMod.",
+  "usecases": [
+    "Tạo và quản lý các trainer tự định nghĩa cho jeux chơi.",
+    "Tự động hóa các hành động trong game thông qua các macro và interop.",
+    "Mở rộng giao diện người dùng và tích hợp tính năng bên ngoài cho cộng đồng modding."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tạo trainer tự động dựa trên cơ chế game.",
+    "Phát triển marketplace để người dùng chia sẻ các extension.",
+    "Tích hợp thống kê sử dụng và phân tích hiệu suất trainer."
+  ],
+  "stars": 23267,
+  "starsToday": 718,
+  "language": "C#",
+  "topics": [
+    "wemod",
+    "csharp",
+    "wpf",
+    "wand",
+    "wand-pro",
+    "wand-enhancer"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-08-31T18:43:39.073Z"
+}

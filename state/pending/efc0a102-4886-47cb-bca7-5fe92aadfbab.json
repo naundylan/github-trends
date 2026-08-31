@@ -1,0 +1,41 @@
+{
+  "id": "efc0a102-4886-47cb-bca7-5fe92aadfbab",
+  "repo": "majd/ipatool",
+  "url": "https://github.com/majd/ipatool",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh bằng Go cho phép tìm kiếm và tải các tệp IPA từ App Store của Apple trên iOS, iPadOS, tvOS và visionOS thông qua giao thức iTunes Search API.",
+  "usecases": [
+    "Tải file IPA để phân tích hoặc reverse-engineering ứng dụng iOS khi không có mã nguồn",
+    "Tự động hóa quy trình CI/CD trong việc kiểm thử bảo dựng iOS nội bộ",
+    "Quản lý và lưu trữ phiên bản ứng dụng App Store phục vụ nghiên cứu bảo mật"
+  ],
+  "ideas": [
+    "Tích hợp vào pipeline mobile testing để tự động so sánh phiên bản ứng dụng giữa các bản phát hành",
+    "Kết hợp với các công cụ dịch ngược như frida hoặc mobsf để xây dựng hệ thống audit iOS tự động",
+    "Xây dựng mirror nội bộ cho doanh nghiệp cần phân phối ứng dụng riêng tư từ App Store"
+  ],
+  "stars": 10466,
+  "starsToday": 376,
+  "language": "Go",
+  "topics": [
+    "ios",
+    "appstore",
+    "apple",
+    "ipa",
+    "itunes",
+    "cli",
+    "macos",
+    "reverse-engineering",
+    "security",
+    "swift",
+    "tool",
+    "go",
+    "command-line",
+    "command-line-tool",
+    "golang",
+    "golang-library",
+    "research"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-08-31T18:43:39.073Z"
+}

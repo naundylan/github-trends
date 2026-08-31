@@ -1,0 +1,23 @@
+{
+  "id": "092fa499-2ba7-41a4-a7a3-c1725d73a73d",
+  "repo": "browser-use/video-use",
+  "url": "https://github.com/browser-use/video-use",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án cho phép sử dụng các coding agents để tự động chỉnh sửa và tạo video, kết hợp AI với quy trình phát triển phần mềm để thao tác tệp video một cách lập trình.",
+  "usecases": [
+    "Tự động tạo video promotional hoặc nội dung social media bằng lệnh code.",
+    "Tích hợp vào pipeline CI/CD để generate video tự động từ code changes.",
+    "Giúp các nhà phát triển tạo demo video hoặc visualization nhanh chóng mà không cần kỹ năng chỉnh video thủ công."
+  ],
+  "ideas": [
+    "Kết hợp với text-to-video models để tạo video từ prompt tự động.",
+    "Tạo plugin cho IDE để chỉnh video bằng code trực tiếp trong môi trường phát triển.",
+    "Sử dụng agents để tối ưu video cho các nền tảng khác nhau (mobile, web) dựa trên metadata."
+  ],
+  "stars": 22279,
+  "starsToday": 504,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-08-31T18:43:39.073Z"
+}

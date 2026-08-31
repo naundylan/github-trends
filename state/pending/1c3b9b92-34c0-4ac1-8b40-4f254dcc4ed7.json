@@ -1,0 +1,26 @@
+{
+  "id": "1c3b9b92-34c0-4ac1-8b40-4f254dcc4ed7",
+  "repo": "jingyaogong/minimind",
+  "url": "https://github.com/jingyaogong/minimind",
+  "category": "AI/LLM",
+  "summary": "Dự án hướng dẫn cách train một LLM có 64M parameters từ đầu trong thời gian chỉ 2 giờ, làm giảm thiểu chi phí tính toán cho việc nghiên cứu mô hình ngôn ngữ.",
+  "usecases": [
+    "Học tập và nghiên cứu cách hoạt động nội bộ của LLM mà không cần tài nguyên đắt giá.",
+    "Nền tảng để tùy chỉnh và fine-tune các mô hình ngôn ngữ cho các ứng dụng cụ thể.",
+    "Giảng dạy trong các khóa học AI/ML về training từ đầu (from-scratch) cho sinh viên."
+  ],
+  "ideas": [
+    "Mở rộng mô hình để hỗ trợ đa ngôn ngữ hoặc thêm khả năng reasoning.",
+    "Kết hợp với quantization để chạy trên thiết bị edge/local.",
+    "Tạo ra một 'LLM studio' visual interface dựa trên kết quả của project này."
+  ],
+  "stars": 55947,
+  "starsToday": 472,
+  "language": "Python",
+  "topics": [
+    "artificial-intelligence",
+    "large-language-model"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-31T18:43:39.073Z"
+}

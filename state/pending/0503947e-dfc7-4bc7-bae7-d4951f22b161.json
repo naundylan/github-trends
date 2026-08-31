@@ -1,0 +1,40 @@
+{
+  "id": "0503947e-dfc7-4bc7-bae7-d4951f22b161",
+  "repo": "laoma2053/awesome-zhuiju-free",
+  "url": "https://github.com/laoma2053/awesome-zhuiju-free",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Hướng dẫn tài nguyên theo dõi phim miễn phí không quảng cáo, được chọn lọc thủ công và kiểm tra hiệu lựng hàng ngày. Bao gồm phim trực tuyến, ứng dụng phát lại, tìm kiếm đám mây, IPTV và dự án nguồn mở liên quan.",
+  "usecases": [
+    "Tìm kiếm và truy cập nguồn phim, truyền hình miễn phí chất lượng cao",
+    "Cấu hình và sử dụng TVBox hoặc các ứng dụng phát lại đa năng",
+    "Khám phá các dự án nguồn mở liên quan đến giải trí và phát lại nội dung"
+  ],
+  "ideas": [
+    "Xây dựng công cụ tự động kiểm tra và cập nhật liên kết hỏng",
+    "Phát triển phiên bản đa ngôn ngữ để mở rộng phạm vi sử dụng toàn cầu",
+    "Tích hợp tính năng đề xuất phim thông minh dựa trên sở thích người dùng"
+  ],
+  "stars": 7486,
+  "starsToday": 782,
+  "language": "JavaScript",
+  "topics": [
+    "awesome-list",
+    "chinese",
+    "free-streaming",
+    "iptv",
+    "magnet-search",
+    "media-player",
+    "movie-guide",
+    "subtitles",
+    "tvbox",
+    "bt-search",
+    "cloud-drive-search",
+    "movie-resources",
+    "free",
+    "movie",
+    "no-ads",
+    "tvbox-config"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-08-31T18:43:39.073Z"
+}

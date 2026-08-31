@@ -1,0 +1,23 @@
+{
+  "id": "a6e2d825-a1f1-477f-9b5b-6f1a959e4f87",
+  "repo": "zhaoxuya520/reverse-skill",
+  "url": "https://github.com/zhaoxuya520/reverse-skill",
+  "category": "Security/Pentest",
+  "summary": "Bộ công cụ kỹ năng đảo ngược và kiểm thử xâm nhập được hỗ trợ bởi AI, tự động định tuyến công cụ và tự phát triển kiến thức. Hỗ trợ nhiều máy khách lập trình AI như Claude Code, Kiro, Cursor, Cline.",
+  "usecases": [
+    "Hỗ trợ nghiên cứu bảo mật và kiểm thử xâm nhập tự động hóa",
+    "Cung cấp môi trường đảo ngược phần mềm với công cụ được chuẩn bị sẵn",
+    "Áp dụng trong học thuật và nghiên cứu an ninh mạng do AI hỗ trợ"
+  ],
+  "ideas": [
+    "Tích hợp thêm các mô hình ngôn ngữ lớn khác để mở rộng khả năng phân tích",
+    "Xây dựng giao diện đồ họa để dễ dàng sử dụng hơn cho người mới",
+    "Phát triển plugin cho IDE để hỗ trợ phát hiện lỗ hổng trong quá trình phát triển"
+  ],
+  "stars": 32988,
+  "starsToday": 1439,
+  "language": "PowerShell",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-08-31T18:43:39.072Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "5f42e266-ff5b-429f-92ec-fc28c7647913",
+  "repo": "hieunc229/mailflare",
+  "url": "https://github.com/hieunc229/mailflare",
+  "category": "Serverless",
+  "summary": "Mailflare là một thư viện TypeScript cho Cloudflare Workers, cho phép gửi và quản lý email chuyên nghiệp cho cá nhân và đội ngũ.",
+  "usecases": [
+    "Gửi tự động email xác nhận từ các ứng dụng serverless.",
+    "Tích hợp gửi email trong các worker Cloudflare với latency thấp.",
+    "Xây dựng dịch vụ email đa tenant cho các startup nhanh."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động phản hồi email dựa trên nội dung.",
+    "Sử dụng làm foundation cho hệ thống thông báo real-time trên các platform edge.",
+    "Tích hợp với analytics để theo dõi tương tác email tại edge."
+  ],
+  "stars": 2131,
+  "starsToday": 450,
+  "language": "TypeScript",
+  "topics": [
+    "cloudflare",
+    "cloudflare-workers",
+    "email"
+  ],
+  "notePath": "notes/Serverless.md",
+  "createdAt": "2026-08-31T18:43:39.073Z"
+}
