@@ -1,0 +1,23 @@
+{
+  "id": "02bd882d-0c91-4515-b0f9-9e02825056c4",
+  "repo": "corsairdev/corsair",
+  "url": "https://github.com/corsairdev/corsair",
+  "category": "API/GraphQL",
+  "summary": "Một công cụ TypeScript giúp kết nối người dùng với ứng dụng của họ, cung cấp API để quản lý và liên kết các tài khoản ứng dụng.",
+  "usecases": [
+    "Cho phép người dùng liên kết tài khoản ứng dụng thứ ba với hệ thống chính",
+    "Cung cấp endpoint API để đồng bộ trạng thái và dữ liệu người dùng",
+    "Tích hợp xác thực và quyền cho các dịch vụ bên ngoài"
+  ],
+  "ideas": [
+    "Xây dựng dashboard quản lý kết nối ứng dụng cho người dùng doanh nghiệp",
+    "Tạo plugin cho CMS phổ biến để dễ dàng kết nối ứng dụng",
+    "Phát triển hệ thống single sign-on (SSO) dựa trên API này"
+  ],
+  "stars": 10981,
+  "starsToday": 126,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-08-31T02:52:46.939Z"
+}

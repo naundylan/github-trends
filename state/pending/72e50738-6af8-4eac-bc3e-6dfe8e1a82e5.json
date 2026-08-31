@@ -1,0 +1,30 @@
+{
+  "id": "72e50738-6af8-4eac-bc3e-6dfe8e1a82e5",
+  "repo": "checkstyle/checkstyle",
+  "url": "https://github.com/checkstyle/checkstyle",
+  "category": "Developer Tool",
+  "summary": "Công cụ kiểm tra mã nguồn giúp lập trình viên Java tuân thủ các chuẩn mã hóa như Google Java Style Guide, có thể tùy chỉnh theo yêu cầu.",
+  "usecases": [
+    "Kiểm tra chất lượng mã nguồn trong pipeline CI/CD để đảm bảo tuân thủ chuẩn coding.",
+    "Tự động phát hiện và báo cáo vi phạm phong cách mã để duy trì tính nhất quán trong team.",
+    "Sử dụng làm công cụ giáo dục cho lập trình viên mới về best practice Java."
+  ],
+  "ideas": [
+    "Tích hợp tự động sửa lỗi (auto-fix) trực tiếp trong IDE cho feedback tức thời.",
+    "Tạo plugin tùy chỉnh cho các chuẩn nội bộ doanh nghiệp và kết nối với Git hooks.",
+    "Kết hợp với báo cáo bảo mật để phát hiện các vấn đề code quality có thể dẫn đến lỗ hổng."
+  ],
+  "stars": 9221,
+  "starsToday": 115,
+  "language": "Java",
+  "topics": [
+    "java",
+    "static-code-analysis",
+    "command-line-tool",
+    "static-analysis",
+    "code-quality",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-08-31T02:52:46.939Z"
+}

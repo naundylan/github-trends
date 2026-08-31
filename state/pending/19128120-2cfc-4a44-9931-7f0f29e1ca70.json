@@ -1,0 +1,30 @@
+{
+  "id": "19128120-2cfc-4a44-9931-7f0f29e1ca70",
+  "repo": "livekit/agents",
+  "url": "https://github.com/livekit/agents",
+  "category": "AI/LLM",
+  "summary": "Thư viện Python cho phép phát triển các agent AI thoại thời gian thực, kết hợp giọng nói, video và các mô hình OpenAI để tạo ra các trợ lý ảo tương tác.",
+  "usecases": [
+    "Tạo ra các voice AI agent cho hỗ trợ khách hàng",
+    "Phát triển các assistant voice cho ứng dụng di động",
+    "Xây dựng các hệ thống hội thoại tích hợp video cho giáo dục trực tuyến"
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM cục bộ để tạo ra voice agent không cần internet",
+    "Tích hợp với thiết bị IoT để điều khiển nhà thông minh bằng giọng nói",
+    "Xây dựng realtime translation agent cho cuộc họp đa ngôn ngữ"
+  ],
+  "stars": 13779,
+  "starsToday": 132,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "real-time",
+    "voice",
+    "video",
+    "agents",
+    "openai"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-31T02:52:46.939Z"
+}

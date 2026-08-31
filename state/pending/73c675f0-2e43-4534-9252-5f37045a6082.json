@@ -1,0 +1,23 @@
+{
+  "id": "73c675f0-2e43-4534-9252-5f37045a6082",
+  "repo": "abhigyanpatwari/GitNexus",
+  "url": "https://github.com/abhigyanpatwari/GitNexus",
+  "category": "AI/LLM",
+  "summary": "GitNexus là engine tạo đồ thị kiến thức phía client cho phép khám phá code repository và tương tác với Agent RAG hoàn toàn trong trình duyệt.",
+  "usecases": [
+    "Khám phá codebase lớn và hiểu cấu trúc dự án nhanh chóng qua đồ thị tương tác.",
+    "Giúp developer tìm hiểu code legacy hoặc code mới bằng cách truy xuất thông tin qua knowledge graph.",
+    "Tích hợp vào quy trình review code hoặc nghiên cứu để truy xuất logic chương trình."
+  ],
+  "ideas": [
+    "Sử dụng làm nền tảng cho IDE/plugin tư duy code dựa trên đồ thị và câu hỏi tự nhiên.",
+    "Kết hợp với LLM cá nhân hóa để trả lời câu hỏi về codebase cụ thể và tạo tài liệu tự động.",
+    "Triển khai làm công cụ training cho developer mới hiểu dự án nhanh chóng mà không cần đọc toàn bộ code."
+  ],
+  "stars": 46594,
+  "starsToday": 182,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-08-31T02:52:46.939Z"
+}

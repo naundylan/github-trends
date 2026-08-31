@@ -1,0 +1,23 @@
+{
+  "id": "3c93a845-184d-436f-9b9b-807821b1d675",
+  "repo": "pollen-robotics/microduck_rl",
+  "url": "https://github.com/pollen-robotics/microduck_rl",
+  "category": "Machine Learning",
+  "summary": "Môi trường training Reinforcement Learning cho robot Microduck sử dụng mjlab để mô phỏng và huấn luyện chính sách điều khiển.",
+  "usecases": [
+    "Huấn luyện robot thực tế qua mô phỏng trước triển khai cứng",
+    "Nghiên cứu và phát triển các thuật toán RL mới cho robot di động nhỏ",
+    "Tích hợp với MJSim/MJRL để nghiên cứu động tác và kiểm soát robot"
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu camera để train RL xử lý thị giác",
+    "Sử dụng trong giáo dục học sinh lập trình robot với RL cơ bản",
+    "Tạo môi trường contest RL giữa nhiều robot Microduck cùng một scène"
+  ],
+  "stars": 821,
+  "starsToday": 168,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-08-31T02:52:46.939Z"
+}

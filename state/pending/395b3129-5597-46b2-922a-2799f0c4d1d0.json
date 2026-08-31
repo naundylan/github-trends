@@ -1,0 +1,30 @@
+{
+  "id": "395b3129-5597-46b2-922a-2799f0c4d1d0",
+  "repo": "bigskysoftware/htmx",
+  "url": "https://github.com/bigskysoftware/htmx",
+  "category": "Web Frontend",
+  "summary": "Thư viện JavaScript cung cấp các công cụ cao cấp để thêm tương tác, AJAX và CSS transitions vào HTML trực tiếp mà không cần viết nhiều code JavaScript.",
+  "usecases": [
+    "Xây dựng các trang web động chỉ bằng HTML attributes cho AJAX, event handling và CSS transitions",
+    "Tạo form tương tác và cập nhật nội dung real-time mà không cần viết JavaScript phức tạp",
+    "Phát prototype nhanh các ứng dụng web với logic phía server đơn giản"
+  ],
+  "ideas": [
+    "Xây dựng dashboard admin hoàn toàn bằng HTML + htmx kết nối backend Flask/Django",
+    "Tạo ứng dụng chat real-time hoặc bảng tin cập nhật tức thời với WebSockets",
+    "Tích hợp htmx với WebSockets để cập nhật trạng thái live mà không cần client-side JS"
+  ],
+  "stars": 49229,
+  "starsToday": 159,
+  "language": "JavaScript",
+  "topics": [
+    "html",
+    "javascript",
+    "hateoas",
+    "rest",
+    "htmx",
+    "hyperscript"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-08-31T02:52:46.939Z"
+}

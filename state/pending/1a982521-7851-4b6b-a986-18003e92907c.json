@@ -1,0 +1,33 @@
+{
+  "id": "1a982521-7851-4b6b-a986-18003e92907c",
+  "repo": "martin-olivier/airgorah",
+  "url": "https://github.com/martin-olivier/airgorah",
+  "category": "Security/Pentest",
+  "summary": "airgorah là phần mềm kiểm thử bảo mật WiFi dựa trên aircrack-ng, cung cấp giao diện đồ họa cho auditing mạng không dây.",
+  "usecases": [
+    "Auditing bảo mật mạng WiFi để phát hiện điểm yếu và lỗ hổng.",
+    "Phân tích sức đề kháng của mạng không dây trong các môi trường thực tế.",
+    "Giúp nghiên cứu bảo mật wireless thực hiện auditing qua GUI tiện lợi."
+  ],
+  "ideas": [
+    "Kết hợp với các tool khác để tạo báo cáo bảo mật tự động và có thể tùy chỉnh.",
+    "Phát triển module monitoring WiFi real-time cho các thiết bị IoT và mạng doanh nghiệp.",
+    "Tích hợp AI để phân tích xu hướng tấn công dựa trên kết quả auditing thu thập được."
+  ],
+  "stars": 2582,
+  "starsToday": 577,
+  "language": "Rust",
+  "topics": [
+    "aircrack-ng",
+    "gui",
+    "security",
+    "security-audit",
+    "wifi",
+    "wifi-security",
+    "wireless",
+    "kali",
+    "linux-app"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-08-31T02:52:46.938Z"
+}
