@@ -1,0 +1,30 @@
+{
+  "id": "ac56d174-1ab1-43da-a004-af376bb8dfc8",
+  "repo": "apache/iggy",
+  "url": "https://github.com/apache/iggy",
+  "category": "Other",
+  "summary": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
+  "usecases": [
+    "Khám phá và đánh giá apache/iggy cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 4731,
+  "starsToday": 85,
+  "language": "Rust",
+  "topics": [
+    "messaging",
+    "quic",
+    "rust",
+    "streaming",
+    "http",
+    "iggy",
+    "tcp",
+    "apache"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-01T18:18:13.554Z"
+}

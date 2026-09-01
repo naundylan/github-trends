@@ -1,0 +1,31 @@
+{
+  "id": "00d68121-b0a7-4b89-b63e-4b87e5c9cff6",
+  "repo": "apurvsinghgautam/robin",
+  "url": "https://github.com/apurvsinghgautam/robin",
+  "category": "AI/LLM",
+  "summary": "Công cụ OSINT AI-powered để truy cứu và phân tích dữ liệu trên Dark Web sử dụng LLM",
+  "usecases": [
+    "Thu thập và phân tích thông tin trên Dark Web cho mục đích điều tra bảo mật",
+    "Theo dõi hoạt động bất pháp hoặc mối đe dọa tiềm ẩn trên mạng ẩn",
+    "Tự động hóa báo cáo OSINT sử dụng các mô hình LLM"
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu mối quan hệ để theo dõi mối liên kết trên Dark Web",
+    "Phát triển extension trình duyệt để thu thập dữ liệu OSINT tự động",
+    "Sử dụng cho nghiên cứu an ninh mạng và đáp ứng sự cố an ninh"
+  ],
+  "stars": 6907,
+  "starsToday": 127,
+  "language": "Python",
+  "topics": [
+    "ai-tool",
+    "darkweb",
+    "darkweb-osint",
+    "investigation-tool",
+    "llm-powered",
+    "osint",
+    "osint-tool"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-01T18:18:13.554Z"
+}

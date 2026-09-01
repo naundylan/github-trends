@@ -1,0 +1,26 @@
+{
+  "id": "a2513ed6-2172-45da-b297-ec03e4d258f3",
+  "repo": "TecharoHQ/anubis",
+  "url": "https://github.com/TecharoHQ/anubis",
+  "category": "Security/Pentest",
+  "summary": "Anubis là một công cụ bảo mật viết bằng Go để đánh giá và chặn các crawler AI gian lận truy cập vào dịch vụ.",
+  "usecases": [
+    "Chặn crawler AI không được phép scrape nội dung từ website",
+    "Bảo vệ API endpoints khỏi truy cập tự động gian lận",
+    "Giám sát và lọc traffic HTTP để ngăn chặn tấn công thu thập dữ liệu"
+  ],
+  "ideas": [
+    "Tích hợp vào WAF (Web Application Firewall) tùy chỉnh",
+    "Phát triển plugin cho các framework web để chặn crawler",
+    "Sử dụng để theo dõi và phân tích hành vi bot trên mạng nội bộ"
+  ],
+  "stars": 22027,
+  "starsToday": 72,
+  "language": "Go",
+  "topics": [
+    "defense",
+    "security"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-01T18:18:13.554Z"
+}

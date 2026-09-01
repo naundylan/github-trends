@@ -1,0 +1,36 @@
+{
+  "id": "8a75d4bc-47c0-472b-a95d-8cb3124e66c6",
+  "repo": "rmyndharis/OpenWA",
+  "url": "https://github.com/rmyndharis/OpenWA",
+  "category": "API/GraphQL",
+  "summary": "OpenWA là một cổng API WhatsApp mã nguồn mở và tự host, hỗ trợ tạo bot và tự động hóa tin nhắn WhatsApp.",
+  "usecases": [
+    "Tạo bot tự động trả lời trên WhatsApp cho doanh nghiệp",
+    "Tích hợp xác thực và gửi tin nhắn WhatsApp trong ứng dụng nội bộ",
+    "Phát triển nền tảng tự động hóa marketing qua WhatsApp"
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tạo bot WhatsAI tự động trả lời",
+    "Sử dụng làm gateway cho hệ thống tin nhắn đa kênh",
+    "Triển khai phiên bản đám mây WhatsApp cho các doanh nghiệp nhỏ"
+  ],
+  "stars": 13557,
+  "starsToday": 72,
+  "language": "TypeScript",
+  "topics": [
+    "api",
+    "gateway",
+    "whatsapp",
+    "self-hosted",
+    "whatsapp-api",
+    "whatsapp-gateway",
+    "whatsapp-gateway-api",
+    "bot",
+    "whatsapp-automation",
+    "whatsapp-bot",
+    "whatsapp-web",
+    "whatsapp-web-api"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-01T18:18:13.554Z"
+}

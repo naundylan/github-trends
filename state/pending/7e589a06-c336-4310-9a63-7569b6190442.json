@@ -1,0 +1,28 @@
+{
+  "id": "7e589a06-c336-4310-9a63-7569b6190442",
+  "repo": "3b1b/manim",
+  "url": "https://github.com/3b1b/manim",
+  "category": "Developer Tool",
+  "summary": "Manim là động cơ tạo hoạt hình bằng Python cho video giải thích toán học, cho phép trực quan hóa và động học khái niệm toán học phức tạp.",
+  "usecases": [
+    "Tạo video giáo dục giải thích khái niệm toán học cho lớp học trực tuyến và YouTube",
+    "Sản xuất hoạt hình động học cho bài giảng khoa học và nghiên cứu khoa học",
+    "Đồ họa trực quan hóa dữ liệu toán học và định lý trong bài viết hoặc bài giảng"
+  ],
+  "ideas": [
+    "Kết hợp với LLMs để tự động chuyển đổi nội dung bài giảng thành script Manim",
+    "Phát triển plugin cho VS Code/Jupyter để preview và xuất video Manim trực tiếp từ code",
+    "Mở rộng thư viện hoạt hình cho các chủ đề khoa học khác như vật lý, hóa học hoặc kinh tế"
+  ],
+  "stars": 92476,
+  "starsToday": 74,
+  "language": "Python",
+  "topics": [
+    "python",
+    "animation",
+    "explanatory-math-videos",
+    "3b1b-videos"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-01T18:18:13.554Z"
+}

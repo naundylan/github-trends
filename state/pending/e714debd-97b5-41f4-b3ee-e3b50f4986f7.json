@@ -1,0 +1,33 @@
+{
+  "id": "e714debd-97b5-41f4-b3ee-e3b50f4986f7",
+  "repo": "Ed1s0nZ/CyberStrikeAI",
+  "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+  "category": "Security/Pentest",
+  "summary": "Nền tảng bảo mật AI-native dành cho an ninh mạng, nơi ý định được chuyển thành hành động có kiểm soát và mọi thao tác đều cải thiện hoạt động tiếp theo. Hỗ trợ AI agent, MCP, kiểm thử thâm nhập và các công cụ CTF/hacking bằng Go.",
+  "usecases": [
+    "Tự động hóa kiểm thử thâm nhật (pentest) và dò quét lỗ hổng bằng agent AI có kiểm soát",
+    "Hỗ trợ đội Red Team xây dựng kịch bản tấn công, khai thác và thu thập bằng chứng số",
+    "Tích hợp MCP server để các agent AI khác gọi trực tiếp các chức năng an ninh mạng"
+  ],
+  "ideas": [
+    "Kết hợp với SIEM/SOAR để tự động phản ứng sự cố dựa trên agent AI có bộ nhớ vận hành",
+    "Xây dựng sandbox CTF tự động tạo thử thách và giải bằng AI để huấn luyện chuyên gia bảo mật",
+    "Tích hợp với hệ thống ticketing (Jira/ServiceNow) để AI pentest mở và đóng ticket lỗ hổng tự động"
+  ],
+  "stars": 6200,
+  "starsToday": 106,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-cybersecurity",
+    "ai-penetration-testing",
+    "ai-security-tool",
+    "ctf-tools",
+    "mcp",
+    "ai-hacking",
+    "pentesting-tools"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-01T18:18:13.554Z"
+}
