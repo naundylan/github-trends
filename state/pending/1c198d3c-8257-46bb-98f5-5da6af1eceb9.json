@@ -1,0 +1,27 @@
+{
+  "id": "1c198d3c-8257-46bb-98f5-5da6af1eceb9",
+  "repo": "SillyTavern/SillyTavern",
+  "url": "https://github.com/SillyTavern/SillyTavern",
+  "category": "AI/LLM",
+  "summary": "Ứng dụng frontend mã nguồn mở cho phép người dùng tương tác với các mô hình LLM, cung cấp giao diện tùy chỉnh, quản lý prompt và theo dõi lịch sử hội thoại cho người dùng nâng cao.",
+  "usecases": [
+    "Tương tác với nhiều mô hình LLM thông qua giao diện đồ họa",
+    "Quản lý và lưu trữ lịch sử hội thoại với các prompt tùy chỉnh",
+    "Tích hợp các plugin và mở rộng chức năng cho các tác vụ sáng tạo hoặc tự động hóa"
+  ],
+  "ideas": [
+    "Tích hợp khả năng phân tích cảm xúc hoặc đánh giá chất lượng trả lời",
+    "Phát triển chế độ offline/local-first với cache mô hình cục bộ",
+    "Tạo giao diện chung cho nhiều agente LLM trong cùng một phiên làm việc"
+  ],
+  "stars": 32898,
+  "starsToday": 49,
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "chat",
+    "llm"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-01T08:18:40.788Z"
+}

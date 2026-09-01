@@ -1,0 +1,23 @@
+{
+  "id": "ce57c1a3-efe4-4218-b11c-2c0646308702",
+  "repo": "SagerNet/sing-box",
+  "url": "https://github.com/SagerNet/sing-box",
+  "category": "Networking",
+  "summary": "sing-box là nền tảng proxy toàn cầu mã nguồn mở, nổi bật bởi giải pháp định tuyến và chuyển tiếp mạng lưới linh hoạt và hiệu quả cho các ứng dụng VPN.",
+  "usecases": [
+    "Định tuyến lưu lượng truy cập dựa trên khu vực hoặc loại ứng dụng cho VPN cá nhân và doanh nghiệp.",
+    "Cung cấp proxy an toàn cho các nhà phát triển kiểm tra nội dung bị giới hạn địa lý.",
+    "Quản lý truy cập mạng và tăng cường bảo mật trong môi trường nội bộ."
+  ],
+  "ideas": [
+    "Kết hợp với DNS-over-HTTPS (DoH) để tạo giải pháp riêng tư và an toàn hoàn chỉnh cho người dùng.",
+    "Triển khai trên các thiết bị IoT để truy cập an toàn vào mạng nội bộ từ xa mà không cần cổng phức tạp.",
+    "Tạo hệ thống tự động chuyển đổi proxy dựa trên tốc độ, độ trễ và sức khỏe kết nối thực thời."
+  ],
+  "stars": 37475,
+  "starsToday": 59,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-01T08:18:40.788Z"
+}

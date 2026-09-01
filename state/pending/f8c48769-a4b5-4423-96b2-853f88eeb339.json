@@ -1,0 +1,30 @@
+{
+  "id": "f8c48769-a4b5-4423-96b2-853f88eeb339",
+  "repo": "tailscale/tailscale",
+  "url": "https://github.com/tailscale/tailscale",
+  "category": "Networking",
+  "summary": "Tailscale là giải pháp VPN an toàn và đơn giản dựa trên WireGuard, cho phép kết nối các thiết bị, server và người dùng với 2FA qua internet một cách mã hóa, phù hợp cho remote work và mạng nội bộ an toàn.",
+  "usecases": [
+    "Kết nối an toàn giữa các máy tính cá nhân và server trong remote work.",
+    "Truy cập các dịch vụ nội bộ company từ xa như nếu đang trong mạng LAN.",
+    "Mạng lưới Zero Trust cho các microservices giao tiếp an toàn giữa các container/cloud."
+  ],
+  "ideas": [
+    "Kết hợp với Kubernetes để tự động register nodes và giao tiếp giữa clusters.",
+    "Sử dụng cho IoT devices tại các vị trí xa cần remote access an toàn.",
+    "Triển khai mạng lưới VPN cho các nhà phát triển làm việc phân tán không cần cấu hình phức tạp firewall."
+  ],
+  "stars": 35934,
+  "starsToday": 70,
+  "language": "Go",
+  "topics": [
+    "wireguard",
+    "oauth",
+    "sso",
+    "2fa",
+    "vpn",
+    "tailscale"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-01T08:18:40.788Z"
+}

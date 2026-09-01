@@ -1,0 +1,23 @@
+{
+  "id": "32c6f2d5-9f11-4f12-8b56-d98aac05b40a",
+  "repo": "kenn-io/agentsview",
+  "url": "https://github.com/kenn-io/agentsview",
+  "category": "Developer Tool",
+  "summary": "Công cụ analytics local-first theo dõi sử dụng token, tìm kiếm phiên và insights cho các agente coding như Claude Code và Codex, giúp nhà phát triển tối ưu hóa quy trình làm việc.",
+  "usecases": [
+    "Theo dõi và phân tích tiêu thụ token trong các се션 coding agent",
+    "Tìm kiếm và truy xuất lịch sử phiên làm việc nhanh chóng",
+    "Đánh giá hiệu quả và hiệu suất của các agente AI trong dự án"
+  ],
+  "ideas": [
+    "Báo cáo tự động về chi phí và hiệu suất agente cho các team phát triển",
+    "Tích hợp với hệ thống CI/CD để theo dõi chất lượng code do agente tạo",
+    "Phát triển dashboard trực quan hóa xu hướng sử dụng agent qua thời gian"
+  ],
+  "stars": 5696,
+  "starsToday": 47,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-01T08:18:40.788Z"
+}

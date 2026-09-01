@@ -1,0 +1,23 @@
+{
+  "id": "51674ce4-5e6d-459d-8278-3519ccbbdab9",
+  "repo": "paperclipai/paperclip",
+  "url": "https://github.com/paperclipai/paperclip",
+  "category": "AI Agent/Automation",
+  "summary": "Paperclip la ung dung ma nguon mo dung de quan ly va phoi hop cac AI agent tai cho lam viec, giup tu dong hoa trinh trinh tac vu tang nguyen suat.",
+  "usecases": [
+    "Quan ly vong quanh AI agent trong doan enterprise",
+    "Tu dong hoa tac vu lap lai thong qua cac agent theo doi tuong",
+    "Giam sat va theo doi hieu suat cac agent chay song song"
+  ],
+  "ideas": [
+    "Ket hop voi Slack Discord de agent phan hoi tin nhan tu dong",
+    "Su dung lam nha phan mem tro giup cho cong tac vu tu van phap ly y tai thep theo AI",
+    "Tich hop voi bo sung du lieu vector de agent truy xuat thong minh va tac vu phuc tap"
+  ],
+  "stars": 79786,
+  "starsToday": 78,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-01T08:18:40.788Z"
+}

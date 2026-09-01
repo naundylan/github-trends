@@ -1,0 +1,44 @@
+{
+  "id": "0b3de786-d3bc-45e9-bb26-0c8af513e0ac",
+  "repo": "PurpleDoubleD/locally-uncensored",
+  "url": "https://github.com/PurpleDoubleD/locally-uncensored",
+  "category": "Desktop App",
+  "summary": "Studio AI cục bộ plug-and-play cho phép trò chuyện không kiểm duyệt, sinh ảnh và video, cùng agent code, chạy hoàn toàn offline trên máy tính không cần Docker hay cloud.",
+  "usecases": [
+    "Chat AI cục bộ an toàn cho mục đích riêng tư và dữ liệu nhạy cảm",
+    "Sinh đa phương tiện (ảnh, video) sử dụng Stable Diffusion/Gemma4 trên máy local",
+    "Automation tác vụ phát triển phần mềm thông qua agent code trên desktop"
+  ],
+  "ideas": [
+    "Tích hợp cơ sở dữ liệu riêng để tạo trợ lý AI cá nhân truy cập file cục bộ",
+    "Phát triển plugin ComfyUI mở rộng khả năng sinh hình ảnh động và tương tác",
+    "Phiên bản nhẹ cho các thiết bị cấu hình thấp hoặc Raspberry Pi"
+  ],
+  "stars": 1331,
+  "starsToday": 45,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-chat",
+    "comfyui",
+    "image-generation",
+    "llm",
+    "local-ai",
+    "local-llm",
+    "ollama",
+    "privacy",
+    "self-hosted",
+    "uncensored",
+    "video-generation",
+    "gemma4",
+    "tauri",
+    "agent-mode",
+    "desktop-app",
+    "abliterated",
+    "uncensored-ai",
+    "gguf",
+    "stable-diffusion"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-01T08:18:40.788Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "3bb0f861-4df3-4651-ae2d-c21bef8a7573",
+  "repo": "juanfont/headscale",
+  "url": "https://github.com/juanfont/headscale",
+  "category": "Networking",
+  "summary": "Triển khai tự hosting server điều khiển Tailscale, quản lý kết nối WireGuard an toàn thay thế cho dịch vụ Tailscale Cloud.",
+  "usecases": [
+    "VPN nội bộ an toàn cho doanh nghiệp không phụ thuộc dịch vụ bên thứ ba",
+    "Kết nối giữa container/microservices trên các host khác nhau an toàn",
+    "Giảm chi phí và cải thiện quyền riêng tư cho đội ngũ phát triển"
+  ],
+  "ideas": [
+    "Kết hợp với Kubernetes cung cấp networking nội bộ cho cluster",
+    "Giao diện quản lý chính sách truy cập và người dùng tích hợp LDAP/Active Directory",
+    "Tích hợp với hệ thống authen hiện có cho mô hình zero-trust network"
+  ],
+  "stars": 43408,
+  "starsToday": 43,
+  "language": "Go",
+  "topics": [
+    "tailscale",
+    "tailscale-control-server",
+    "wireguard",
+    "tailscale-server"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-01T08:18:40.788Z"
+}

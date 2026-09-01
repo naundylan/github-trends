@@ -1,0 +1,43 @@
+{
+  "id": "be2015ed-e106-47a9-a316-4608ae8e95aa",
+  "repo": "smicallef/spiderfoot",
+  "url": "https://github.com/smicallef/spiderfoot",
+  "category": "Security/Pentest",
+  "summary": "SpiderFoot la cong tu dong hoa OSINT de thu thap thong tin den, phan tich b mat tan cong va theo doi nguy hiem bao mat tu nhieu nguon mo.",
+  "usecases": [
+    "Phan tich b mat tan cong cho doanh nghiem de tim cac loi huan xuat hien ngoai y mo",
+    "Thu thap thong tin den cho nghien cuu an ninh mang va phan doa de dong",
+    "Tu dong hoa bao cao bao mat bang cach thu thap du lieu tu DNS WHOIS mang xa hoi va cac nguon khac"
+  ],
+  "ideas": [
+    "Ket hop voi SIEM de bao cao real-time khi xuat hien hoat dong dang nghi",
+    "Su dung de danh gia an ninh cho chu cung cung may mo nguon mo",
+    "Phat triển plugin de tu dong kiem tra ten mien va IP moi dang ky trong nghe tai chinh"
+  ],
+  "stars": 21655,
+  "starsToday": 77,
+  "language": "Python",
+  "topics": [
+    "footprinting",
+    "osint",
+    "threatintel",
+    "python",
+    "infosec",
+    "intelligence-gathering",
+    "osint-reconnaissance",
+    "pentesting",
+    "threat-intelligence",
+    "security-tools",
+    "information-gathering",
+    "cybersecurity",
+    "cti",
+    "osint-framework",
+    "attacksurface",
+    "osint-tool",
+    "hacking",
+    "information-security",
+    "recon"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-01T08:18:40.788Z"
+}
