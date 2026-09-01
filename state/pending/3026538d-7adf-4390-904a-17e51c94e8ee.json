@@ -1,0 +1,37 @@
+{
+  "id": "3026538d-7adf-4390-904a-17e51c94e8ee",
+  "repo": "rtk-ai/rtk",
+  "url": "https://github.com/rtk-ai/rtk",
+  "category": "Developer Tool",
+  "summary": "CLI proxy bằng Rust (zero dependencies) giảm tiêu thụ token LLM 60-90% cho các lệnh dev thường gặp.",
+  "usecases": [
+    "Giảm chi phí token khi dùng Claude Code/Claude trong quy trình phát triển hàng ngày.",
+    "Tăng tốc độ các lệnh CLI liên quan AI bằng cách cắt bớt dữ liệu thừa.",
+    "Tích hợp vào script tự động/CI để tối ưu chi phí LLM trong tác vụ bulk."
+  ],
+  "ideas": [
+    "Phát triển plugin IDE tự động tối ưu hóa prompt trước gửi LLM.",
+    "Tạo báo cáo analytics token usage cho các team phát triển.",
+    "Kết hợp với các model cắt context để tăng hiệu suất."
+  ],
+  "stars": 78220,
+  "starsToday": 155,
+  "language": "Rust",
+  "topics": [
+    "agentic-coding",
+    "ai-coding",
+    "anthropic",
+    "claude-code",
+    "cli",
+    "command-line-tool",
+    "cost-reduction",
+    "developer-tools",
+    "llm",
+    "open-source",
+    "productivity",
+    "rust",
+    "token-optimization"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-01T23:02:18.173Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4e52698d-f4de-44b1-82e0-9f94998f845d",
+  "repo": "SagerNet/sing-box",
+  "url": "https://github.com/SagerNet/sing-box",
+  "category": "Networking",
+  "summary": "Nền tảng proxy toàn cầu viết bằng Go, cung cấp hỗ trợ proxy phổ biến với hiệu suất cao và định tuyến linh hoạt.",
+  "usecases": [
+    "Scientific internet access with fine-grained traffic routing.",
+    "Local network proxy and DNS manipulation for privacy.",
+    "Custom proxy rule implementation for developers."
+  ],
+  "ideas": [
+    "Integrate with smart home devices for network-wide ad-blocking.",
+    "Combine with headscale for a custom VPN/proxy hybrid solution.",
+    "Deploy as a Docker-based exit node for travel security."
+  ],
+  "stars": 37502,
+  "starsToday": 69,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-01T23:02:18.173Z"
+}

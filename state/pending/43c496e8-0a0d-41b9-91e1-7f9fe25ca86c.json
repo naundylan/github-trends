@@ -1,0 +1,32 @@
+{
+  "id": "43c496e8-0a0d-41b9-91e1-7f9fe25ca86c",
+  "repo": "iv-org/invidious",
+  "url": "https://github.com/iv-org/invidious",
+  "category": "Web Frontend",
+  "summary": "Invidious là một giao diện front-end thay thế cho YouTube, cho phép xem video không có quảng cáo và theo dõi, với mã nguồn mở và có thể self-hosted.",
+  "usecases": [
+    "Xem YouTube mà không quảng cáo trên chính thức",
+    "Self-hosted alternative để tránh thu thập dữ liệu",
+    "Truy cập nội dung YouTube trong môi trường có hạn chế"
+  ],
+  "ideas": [
+    "Kết hợp với ad-blocker để tạo trải nghiệm xem video riêng",
+    "Phát triển plugin cho trình duyệt để tự động chuyển hướng YouTube sang Invidious",
+    "Tạo dashboard riêng theo dõi nhiều kênh Invidious cùng lúc"
+  ],
+  "stars": 23749,
+  "starsToday": 583,
+  "language": "Crystal",
+  "topics": [
+    "invidious",
+    "watch",
+    "agplv3",
+    "youtube",
+    "video",
+    "youtube-video",
+    "libre",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-01T23:02:18.173Z"
+}

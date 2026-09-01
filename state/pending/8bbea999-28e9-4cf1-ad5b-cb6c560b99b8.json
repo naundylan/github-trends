@@ -1,0 +1,28 @@
+{
+  "id": "8bbea999-28e9-4cf1-ad5b-cb6c560b99b8",
+  "repo": "golang/go",
+  "url": "https://github.com/golang/go",
+  "category": "Developer Tool",
+  "summary": "Ngôn ngữ lập trình Go (Golang) là một ngôn ngữ mã nguồn mở cao hiệu suất do Google phát triển, được thiết kế cho tính đơn giản, hiệu quả và hỗ trợ đồng thời mạnh mẽ.",
+  "usecases": [
+    "Xây dựng các dịch vụ backend và API микросервисов",
+    "Phát triển hệ thống mạng và công cụ DevOps",
+    "Tạo ứng dụng command-line (CLI) và phần mềm hệ thống"
+  ],
+  "ideas": [
+    "Kết hợp Go với WebAssembly (Wasm) để chạy trình duyệt",
+    "Sử dụng Go để xây dựng các agent AI có hiệu năng cao",
+    "Phát triển hệ thống xử lý dữ liệu thời thực (real-time data processing)"
+  ],
+  "stars": 137102,
+  "starsToday": 249,
+  "language": "Go",
+  "topics": [
+    "programming-language",
+    "language",
+    "go",
+    "golang"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-01T23:02:18.173Z"
+}

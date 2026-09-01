@@ -1,0 +1,33 @@
+{
+  "id": "33895a5c-f177-49ea-8073-60144ab1c4a5",
+  "repo": "HKUDS/DeepTutor",
+  "url": "https://github.com/HKUDS/DeepTutor",
+  "category": "AI/LLM",
+  "summary": "DeepTutor là một hệ thống tutor cá nhân mã nguồn mở sử dụng các mô hình LLM lớn để cung cấp trải nghiệm học tập dài hạn và cá nhân hóa.",
+  "usecases": [
+    "Hỗ trợ học sinh tự học các môn khoa học và toán học với giải thích thích nghi",
+    "Giúp giáo viên tự động tạo bài tập và theo dõi tiến độ học tập",
+    "Cung cấp tư vấn học tập cá nhân cho người học suốt đời"
+  ],
+  "ideas": [
+    "Kết hợp DeepTutor với actual classroom analytics để tùy chỉnh chương trình đào tạo",
+    "Sử dụng đa-agent LLM để tạo các tình huống học tập tương tác",
+    "Phát triển ứng dụng di động kết hợp voice input cho trải nghiệm học tập không hands-free"
+  ],
+  "stars": 38269,
+  "starsToday": 202,
+  "language": "Python",
+  "topics": [
+    "ai-tutor",
+    "deepresearch",
+    "interactive-learning",
+    "large-language-models",
+    "multi-agent-systems",
+    "rag",
+    "ai-agents",
+    "clawdbot",
+    "cli-tool"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-01T23:02:18.173Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "39f85b7f-b916-4c44-989d-e5b85f96df33",
+  "repo": "firecrawl/pdf-inspector",
+  "url": "https://github.com/firecrawl/pdf-inspector",
+  "category": "Developer Tool",
+  "summary": "pdf-inspector là thư viện Rust nhanh chóng để phân tích, phân loại PDF và trích xuất văn bản, tự động phát hiện PDF quét hình ảnh vs có văn bản để định tuyến thông minh.",
+  "usecases": [
+    "Xử lý tự động tệp PDF trong quy trình làm việc tài liệu (document workflow)",
+    "Phân loại PDF quét (scan) và PDF có thể chọn văn bản để áp dụng OCR hoặc trích xuất trực tiếp",
+    "Tích hợp vào ứng dụng backend để trích xuất dữ liệu từ nhiều định dạng PDF một cách hiệu quả"
+  ],
+  "ideas": [
+    "Xây dựng microservice trích xuất dữ liệu PDF tự động hóa qua API",
+    "Kết hợp với OCR để chuyển đổi PDF quét thành dữ liệu có cấu trúc cho hệ thống quản lý tài liệu",
+    "Phát triển plugin cho Node.js/Python để dễ dàng tích hợp trong các dự án web"
+  ],
+  "stars": 17891,
+  "starsToday": 545,
+  "language": "Rust",
+  "topics": [
+    "markdown",
+    "nodejs",
+    "pdf",
+    "pdf-extraction",
+    "pdf-parser",
+    "python",
+    "rust",
+    "text-extraction",
+    "ocr-routing",
+    "pdf-classification"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-01T23:02:18.173Z"
+}

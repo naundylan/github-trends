@@ -1,0 +1,28 @@
+{
+  "id": "5bfae2ed-962f-4529-8158-92b879a665df",
+  "repo": "juanfont/headscale",
+  "url": "https://github.com/juanfont/headscale",
+  "category": "Networking",
+  "summary": "Triển khai điều khiển Tailscale mã nguồn mở, cho phép mạng VPN dựa trên WireGuard tự chủ với quản lý kiểm soát tập trung.",
+  "usecases": [
+    "Internal corporate mesh VPN without relying on Tailscale's hosted service.",
+    "Secure device connectivity for IoT and remote work environments.",
+    "Custom authentication and authorization over a self-hosted control plane."
+  ],
+  "ideas": [
+    "Pair with sing-box for a full custom proxy+VPN solution.",
+    "Deploy on edge locations for geo-distributed low-latency connectivity.",
+    "Use as a base for building custom secure access platforms."
+  ],
+  "stars": 43455,
+  "starsToday": 61,
+  "language": "Go",
+  "topics": [
+    "tailscale",
+    "tailscale-control-server",
+    "wireguard",
+    "tailscale-server"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-01T23:02:18.173Z"
+}

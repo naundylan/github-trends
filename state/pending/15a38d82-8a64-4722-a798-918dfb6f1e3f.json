@@ -1,0 +1,35 @@
+{
+  "id": "15a38d82-8a64-4722-a798-918dfb6f1e3f",
+  "repo": "dmtrKovalenko/fff",
+  "url": "https://github.com/dmtrKovalenko/fff",
+  "category": "Developer Tool",
+  "summary": "SDK tìm kiếm file siêu nhanh, hỗ trợ AI agents, Neovim, đa ngôn ngữ cho phát triển phần mềm.",
+  "usecases": [
+    "Tìm kiếm file nhanh trong dự án lớn cho AI agents và RAG systems.",
+    "Tích hợp làm engine tìm kiếm cho Neovim/plugins phát triển.",
+    "Cung cấp kết quả tìm kiếm chính xác cho các hệ thống tự động hóa code."
+  ],
+  "ideas": [
+    "Bridge kết nối fff với LangChain/AutoGPT cho context retrieval.",
+    "Tìm kiếm file phân tán cho microservices/k8s environments.",
+    "Giao diện web quản lý kết quả tìm kiếm file cho team."
+  ],
+  "stars": 10353,
+  "starsToday": 70,
+  "language": "Rust",
+  "topics": [
+    "filesearch",
+    "lua",
+    "neovim",
+    "neovim-plugin",
+    "rust",
+    "bun",
+    "fff",
+    "fzf",
+    "grep",
+    "nodejs",
+    "python"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-01T23:02:18.173Z"
+}

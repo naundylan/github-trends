@@ -1,0 +1,32 @@
+{
+  "id": "2d3a67f2-8445-4126-9773-2060abb565d6",
+  "repo": "Imbad0202/academic-research-skills",
+  "url": "https://github.com/Imbad0202/academic-research-skills",
+  "category": "AI/LLM",
+  "summary": "academic-research-skills là pipeline Python tự động hóa quy trình nghiên cứu viết cho Claude Code, bao gồm literature review, peer review, prompt engineering và revisión từ research đến finalize.",
+  "usecases": [
+    "Tự động hóa review và revise tài liệu nghiên cứu sử dụng Claude Code.",
+    "Tạo literature review có cấu trúc cho bài báo khoa học dựa trên prompt engineering.",
+    "Quản lý pipeline full-text từ research đến finalize bài viết academic."
+  ],
+  "ideas": [
+    "Kết hợp với vector database để lưu trữ và truy xuất các nguồn tài liệu nghiên cứu cũ.",
+    "Phát triển giao diện web theo dõi tiến độ từng bước research → write → review → revise → finalize.",
+    "Tự động tạo citation và bibliography dựa trên kết quả review của Claude."
+  ],
+  "stars": 44842,
+  "starsToday": 161,
+  "language": "Python",
+  "topics": [
+    "academic-writing",
+    "ai-research",
+    "claude",
+    "claude-code",
+    "literature-review",
+    "peer-review",
+    "prompt-engineering",
+    "academic-pipeline"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-01T23:02:18.173Z"
+}
