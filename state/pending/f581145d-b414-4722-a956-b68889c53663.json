@@ -1,0 +1,30 @@
+{
+  "id": "f581145d-b414-4722-a956-b68889c53663",
+  "repo": "Neet-Nestor/Telegram-Media-Downloader",
+  "url": "https://github.com/Neet-Nestor/Telegram-Media-Downloader",
+  "category": "Developer Tool",
+  "summary": "Telegram-Media-Downloader là userscript JavaScript cho phép tải ảnh/video từ Telegram Web vượt qua hạn chế giới hạn tải xuống.",
+  "usecases": [
+    "Lưu trữ hình ảnh/video quan trọng từ các nhóm Telegram cấm tải xuống",
+    "Phân tích hoặc tái sử dụng nội dung đa phương tiện từ cuộc thảo luận công cộng",
+    "Tiện ích cho nhà nghiên cứu dữ liệu thu thập nội dung từ Telegram trong phạm vi cho phép"
+  ],
+  "ideas": [
+    "Tích hợp với dịch vụ đám mây tự động backup media lên Drive/S3",
+    "Phát triển phiên bản CLI headless cho automation và CI pipelines",
+    "Mở rộng hỗ trợ cho các nền tảng mạng xã hội khác có cơ chế chặn tải tương tự"
+  ],
+  "stars": 5403,
+  "starsToday": 88,
+  "language": "JavaScript",
+  "topics": [
+    "greasyfork",
+    "greasymonkey",
+    "greasymonkey-userscript",
+    "javascript",
+    "telegram",
+    "userscript"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-01T00:27:39.278Z"
+}

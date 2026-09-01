@@ -1,0 +1,23 @@
+{
+  "id": "f1d571e6-23c6-41c3-8a72-0cb89e6953ec",
+  "repo": "kunchenguid/no-mistakes",
+  "url": "https://github.com/kunchenguid/no-mistakes",
+  "category": "CLI Tool",
+  "summary": "no-mistakes là một hook Git để ngăn chặn lỗi khi đẩy code, đảm bảo tuân thủ quy tắc và chất lượng trước khi thay đổi được đưa lên remote.",
+  "usecases": [
+    "Enforce commit message conventions and branch protection rules in team workflows.",
+    "Block pushes containing sensitive data or violations of project coding standards.",
+    "Act as a gatekeeper for CI/CD pipelines by rejecting non-compliant pushes."
+  ],
+  "ideas": [
+    "Extend as a pre-commit hook to catch issues earlier in the development cycle.",
+    "Provide custom error messages and auto-suggested fixes for common violations.",
+    "Integrate with issue trackers to automatically link blocked pushes to relevant tickets."
+  ],
+  "stars": 8207,
+  "starsToday": 236,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-01T00:27:39.278Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "d267ee5e-1e33-4bb2-8285-62cd825a9a2c",
+  "repo": "abhigyanpatwari/GitNexus",
+  "url": "https://github.com/abhigyanpatwari/GitNexus",
+  "category": "AI/LLM",
+  "summary": "GitNexus là một máy chủ không cần máy chủ để tạo đồ thị tri thức chạy hoàn toàn trong trình duyệt, cho phép khám phá mã nguồn qua đồ thị và Agent Graph RAG.",
+  "usecases": [
+    "Enable rapid codebase onboarding for new developers through visual dependency mapping.",
+    "Facilitate security audits and legacy system analysis by mapping code relationships.",
+    "Provide graph-based context to AI coding assistants for more accurate code generation."
+  ],
+  "ideas": [
+    "Integrate with local LLMs to allow natural language queries over the generated code graph.",
+    "Deploy as a browser extension for instant repo analysis without leaving the editor.",
+    "Combine with CI pipelines to auto-generate documentation graphs on every commit."
+  ],
+  "stars": 46768,
+  "starsToday": 295,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-01T00:27:39.278Z"
+}

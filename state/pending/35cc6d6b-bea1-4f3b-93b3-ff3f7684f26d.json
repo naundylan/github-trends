@@ -1,0 +1,28 @@
+{
+  "id": "35cc6d6b-bea1-4f3b-93b3-ff3f7684f26d",
+  "repo": "checkstyle/checkstyle",
+  "url": "https://github.com/checkstyle/checkstyle",
+  "category": "Testing/QA",
+  "summary": "Công cụ phân tích tĩnh mã nguồn Java giúp tuân thủ chuẩn code (Google Java Style, Sun Conventions). Cấu hình linh hoạt, chạy qua CLI, Ant, Maven, Gradle hoặc IDE.",
+  "usecases": [
+    "Bắt buộc code style trong quy trình CI/CD để ngăn merge code không chuẩn",
+    "Tự động format và sửa lỗi style phổ biến trước code review"
+  ],
+  "ideas": [
+    "Kết hợp với SpotBugs/PMD tạo bộ quality gate toàn diện cho monorepo Java",
+    "Xây dựng custom ruleset theo chuẩn nội bộ và phân phối như shared library cho nhiều team"
+  ],
+  "stars": 9406,
+  "starsToday": 198,
+  "language": "Java",
+  "topics": [
+    "java",
+    "static-code-analysis",
+    "command-line-tool",
+    "static-analysis",
+    "code-quality",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Testing-QA.md",
+  "createdAt": "2026-09-01T00:27:39.278Z"
+}

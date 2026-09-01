@@ -1,0 +1,27 @@
+{
+  "id": "255c8261-66a3-4d38-b1a9-a86f0834ff6b",
+  "repo": "securo-finance/securo",
+  "url": "https://github.com/securo-finance/securo",
+  "category": "Productivity/Personal Tool",
+  "summary": "Trình quản lý tài chính cá nhân self-hosted prioritize quyền riêng tư, giúp theo dõi chi tiêu và quản lý tài khoản an toàn",
+  "usecases": [
+    "Quản lý tài chính cá nhân mà không phụ thuộc vào dịch vụ bên thứ ba",
+    "Theo dõi chi tiêu và lên kế hoạch ngân sách cho gia đình",
+    "Tích hợp với ngân hàng cục bộ để đồng bộ giao dịch an toàn"
+  ],
+  "ideas": [
+    "Thêm tính năng phân tích đầu tư cơ bản",
+    "Phát triển ứng dụng di động đồng bộ với web self-hosted",
+    "Tích hợp xác thực biometric cho thêm bảo mật"
+  ],
+  "stars": 2845,
+  "starsToday": 137,
+  "language": "Python",
+  "topics": [
+    "expense-tracker",
+    "finance-management",
+    "python"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-01T00:27:39.278Z"
+}

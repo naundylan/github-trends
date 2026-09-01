@@ -1,0 +1,36 @@
+{
+  "id": "9bbc64da-684b-4e81-a713-c665a177f7d5",
+  "repo": "ionic-team/capacitor",
+  "url": "https://github.com/ionic-team/capacitor",
+  "category": "Cross-platform Mobile",
+  "summary": "một framework cho phép phát triển ứng dụng Native Progressive Web Apps (PWA) chạy trên iOS, Android và Web sử dụng cùng một codebase TypeScript",
+  "usecases": [
+    "phát triển ứng dụng di động native cho iOS và Android từ code web",
+    "bao bọc ứng dụng PWA hiện có thành apps native với truy cập native APIs",
+    "chia sẻ code giữa web, iOS và Android để tiết kiệm thời gian phát triển"
+  ],
+  "ideas": [
+    "sử dụng Capacitor để build app cho các thiết bị IoT có màn hình",
+    "kết hợp với Capacitor Plugins để truy cập camera, GPS và sensor trong các ứng dụng AI edge",
+    "tạo ecosystem plugin nội bộ cho công ty để tái sử dụng các native features"
+  ],
+  "stars": 16518,
+  "starsToday": 79,
+  "language": "TypeScript",
+  "topics": [
+    "javascript",
+    "html",
+    "css",
+    "swift",
+    "java",
+    "cross-platform",
+    "capacitor",
+    "cordova",
+    "ionic",
+    "ios",
+    "android",
+    "pwa"
+  ],
+  "notePath": "notes/Cross-platform-Mobile.md",
+  "createdAt": "2026-09-01T00:27:39.278Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "43aff5ba-dfb8-42ae-9339-7ff3760b1b53",
+  "repo": "koala73/worldmonitor",
+  "url": "https://github.com/koala73/worldmonitor",
+  "category": "Data Visualization",
+  "summary": "Dashboard thực thời gian tổng hợp tin tức AI, theo dõi địa chính trị và cơ sở hạ tầng để cảnh báo situational awareness toàn cầu",
+  "usecases": [
+    "Theo dõi sự kiện địa chính trị theo thời gian thực",
+    "Tổng hợp và phân tích tin tức toàn cầu với AI",
+    "Cảnh báo hạ tầng và situational awareness cho tổ chức"
+  ],
+  "ideas": [
+    "Kết hợp dữ liệu thời tiết để dự đoán tác động khủng hoảng",
+    "Phát triển API tích hợp với hệ thống cảnh báo quốc gia",
+    "Thêm trực quan hóa dữ liệu địa lý nâng cao"
+  ],
+  "stars": 85204,
+  "starsToday": 189,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "dashboard",
+    "geopolitics",
+    "monitoring",
+    "news",
+    "osint",
+    "opensource",
+    "palantir",
+    "situation",
+    "agent",
+    "mcp",
+    "mcp-server"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-09-01T00:27:39.278Z"
+}

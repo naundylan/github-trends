@@ -1,0 +1,32 @@
+{
+  "id": "d8dd7607-f4f0-4ce8-88ba-d711c123ae47",
+  "repo": "firecrawl/pdf-inspector",
+  "url": "https://github.com/firecrawl/pdf-inspector",
+  "category": "Developer Tool",
+  "summary": "Thư viện Rust hiệu năng cao để kiểm tra, phân loại và trích xuất văn bản từ PDF. Tự động phát hiện PDF scan hay text-based để định tuyến xử lý thông minh (OCR hay trích xuất trực tiếp).",
+  "usecases": [
+    "Tiền xử lý hàng loạt PDF trước khi đưa vào pipeline RAG hoặc LLM",
+    "Phân loại tài liệu tự động: chuyển PDF scan sang OCR, PDF text sang parser nhanh"
+  ],
+  "ideas": [
+    "Kết hợp với Firecrawl web scraper để xây dựng pipeline ingest tài liệu đa nguồn (web + PDF)",
+    "Tích hợp vào CI/CD để validate chất lượng PDF đầu ra của hệ thống sinh báo cáo"
+  ],
+  "stars": 17347,
+  "starsToday": 228,
+  "language": "Rust",
+  "topics": [
+    "markdown",
+    "nodejs",
+    "pdf",
+    "pdf-extraction",
+    "pdf-parser",
+    "python",
+    "rust",
+    "text-extraction",
+    "ocr-routing",
+    "pdf-classification"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-01T00:27:39.278Z"
+}
