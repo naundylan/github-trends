@@ -1,0 +1,37 @@
+{
+  "id": "418445eb-08a0-4b9d-9025-f63559c38b17",
+  "repo": "rtk-ai/rtk",
+  "url": "https://github.com/rtk-ai/rtk",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh proxy được viết bằng Rust giúp giảm tiêu thụ token LLM lên đến 60-90% cho các lệnh phát triển phổ biến, với một file binary đơn lẻ và không phụ thuộc thư viện.",
+  "usecases": [
+    "Giảm chi phí sử dụng API LLM khi thực hiện các lệnh dev lặp lại",
+    "Tăng tốc độ phản hồi của các agent AI bằng cách tối ưu hóa token",
+    "Sử dụng như proxy giữa IDE và các model LLM để giảm thiểu token không cần thiết"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD pipeline để tự động hóa các lệnh dev với chi phí token thấp hơn",
+    "Tích hợp vào IDE extension để tự động proxy các lệnh LLM",
+    "Mở rộng để hỗ trợ các ngôn ngữ lập trình khác và các loại lệnh custom"
+  ],
+  "stars": 78166,
+  "starsToday": 155,
+  "language": "Rust",
+  "topics": [
+    "agentic-coding",
+    "ai-coding",
+    "anthropic",
+    "claude-code",
+    "cli",
+    "command-line-tool",
+    "cost-reduction",
+    "developer-tools",
+    "llm",
+    "open-source",
+    "productivity",
+    "rust",
+    "token-optimization"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-01T14:11:04.499Z"
+}

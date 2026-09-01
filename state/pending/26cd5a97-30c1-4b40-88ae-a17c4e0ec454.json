@@ -1,0 +1,28 @@
+{
+  "id": "26cd5a97-30c1-4b40-88ae-a17c4e0ec454",
+  "repo": "golang/go",
+  "url": "https://github.com/golang/go",
+  "category": "Other",
+  "summary": "Ngôn ngữ lập trình Go được thiết kế để đơn giản, hiệu quả và hỗ trợ concurrency tốt, phù hợp cho các hệ thống backend và cloud services.",
+  "usecases": [
+    "Phát triển các ứng dụng backend hiệu suất cao.",
+    "Xây dựng các dịch vụ microservices và API.",
+    "Tối ưu hóa hệ thống phân tán và cloud-native applications."
+  ],
+  "ideas": [
+    "Kết hợp với framework như Gin hoặc Echo để tạo web services.",
+    "Sử dụng cho các dự án IoT do khả năng xử lý song song.",
+    "Tích hợp vào các pipeline CI/CD để tự động hóa build và deploy."
+  ],
+  "stars": 137090,
+  "starsToday": 249,
+  "language": "Go",
+  "topics": [
+    "programming-language",
+    "language",
+    "go",
+    "golang"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-01T14:11:04.499Z"
+}

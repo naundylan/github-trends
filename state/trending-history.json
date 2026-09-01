@@ -41,8 +41,8 @@
   },
   "TencentCloud/CubeSandbox": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-09",
-    "last_saved": "2026-07-02"
+    "last_seen": "2026-09-01",
+    "last_saved": "2026-09-01"
   },
   "ogulcancelik/herdr": {
     "first_seen": "2026-07-02",
@@ -96,8 +96,8 @@
   },
   "Zackriya-Solutions/meetily": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-09",
-    "last_saved": "2026-07-03"
+    "last_seen": "2026-09-01",
+    "last_saved": "2026-09-01"
   },
   "openai/codex-plugin-cc": {
     "first_seen": "2026-07-04",
@@ -151,7 +151,7 @@
   },
   "Leonxlnx/taste-skill": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-08-28",
+    "last_seen": "2026-09-01",
     "last_saved": "2026-08-22"
   },
   "CoplayDev/unity-mcp": {
@@ -191,7 +191,7 @@
   },
   "openclaw/openclaw": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-09-01",
     "last_saved": "2026-08-24"
   },
   "binwiederhier/ntfy": {
@@ -306,7 +306,7 @@
   },
   "decolua/9router": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-01",
     "last_saved": "2026-08-22"
   },
   "byoungd/up": {
@@ -321,8 +321,8 @@
   },
   "NVIDIA/SkillSpector": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-09",
-    "last_saved": "2026-07-08"
+    "last_seen": "2026-09-01",
+    "last_saved": "2026-09-01"
   },
   "dream-num/univer": {
     "first_seen": "2026-07-08",
@@ -346,7 +346,7 @@
   },
   "rustdesk/rustdesk": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-09-01",
     "last_saved": "2026-08-25"
   },
   "SmartlyDressedGames/U3-SDK": {
@@ -356,8 +356,8 @@
   },
   "VoltAgent/awesome-design-md": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-07-09",
-    "last_saved": "2026-07-09"
+    "last_seen": "2026-09-01",
+    "last_saved": "2026-09-01"
   },
   "unclecode/crawl4ai": {
     "first_seen": "2026-07-09",
@@ -386,7 +386,7 @@
   },
   "stablyai/orca": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-09-01",
     "last_saved": "2026-08-22"
   },
   "wealthfolio/wealthfolio": {
@@ -461,7 +461,7 @@
   },
   "anthropics/claude-code": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-09-01",
     "last_saved": "2026-08-23"
   },
   "debpalash/VoiceStudio": {
@@ -536,7 +536,7 @@
   },
   "iptv-org/iptv": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-01",
     "last_saved": "2026-08-24"
   },
   "asciimoo/hister": {
@@ -546,7 +546,7 @@
   },
   "Tencent/WeKnora": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-09-01",
     "last_saved": "2026-08-24"
   },
   "Shubhamsaboo/awesome-llm-apps": {
@@ -576,7 +576,7 @@
   },
   "oblien/openship": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-09-01",
     "last_saved": "2026-08-25"
   },
   "MHSanaei/3x-ui": {
@@ -816,7 +816,7 @@
   },
   "D4Vinci/Scrapling": {
     "first_seen": "2026-08-30",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-01",
     "last_saved": "2026-08-30"
   },
   "kaifcodec/user-scanner": {
@@ -841,7 +841,7 @@
   },
   "kubernetes/kubernetes": {
     "first_seen": "2026-08-30",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-01",
     "last_saved": "2026-08-30"
   },
   "k1tbyte/Wand-Enhancer": {
@@ -894,52 +894,42 @@
     "last_seen": "2026-09-01",
     "last_saved": "2026-08-31"
   },
-  "darkzOGx/youtube-automation-agent": {
+  "Imbad0202/academic-research-skills": {
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
     "last_saved": "2026-09-01"
   },
-  "SillyTavern/SillyTavern": {
+  "iv-org/invidious": {
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
     "last_saved": "2026-09-01"
   },
-  "smicallef/spiderfoot": {
+  "firecrawl/pdf-inspector": {
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
     "last_saved": "2026-09-01"
   },
-  "PurpleDoubleD/locally-uncensored": {
+  "HKUDS/DeepTutor": {
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
     "last_saved": "2026-09-01"
   },
-  "paperclipai/paperclip": {
+  "golang/go": {
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
     "last_saved": "2026-09-01"
   },
-  "tailscale/tailscale": {
+  "kunchenguid/no-mistakes": {
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
     "last_saved": "2026-09-01"
   },
-  "kenn-io/agentsview": {
+  "rtk-ai/rtk": {
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
     "last_saved": "2026-09-01"
   },
-  "SagerNet/sing-box": {
-    "first_seen": "2026-09-01",
-    "last_seen": "2026-09-01",
-    "last_saved": "2026-09-01"
-  },
-  "juanfont/headscale": {
-    "first_seen": "2026-09-01",
-    "last_seen": "2026-09-01",
-    "last_saved": "2026-09-01"
-  },
-  "alphaXiv/openresearch-cli": {
+  "farion1231/cc-switch": {
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-01",
     "last_saved": "2026-09-01"

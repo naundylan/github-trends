@@ -1,0 +1,33 @@
+{
+  "id": "a782e102-6916-4687-bd0c-44e7e67be617",
+  "repo": "HKUDS/DeepTutor",
+  "url": "https://github.com/HKUDS/DeepTutor",
+  "category": "AI/LLM",
+  "summary": "DeepTutor mang lại giáo dục AI mãi mãi cá nhân hóa sử dụng LLM, RAG và multi-agent systems.",
+  "usecases": [
+    "Giáo viên AI tùy chỉnh cho môn học cá nhân sinh viên.",
+    "Hỗ trợ đào tạo nhân viên với đánh giá tiến độ thực thời.",
+    "Tạo nội dung học tập thích ứng dựa trên kỹ năng người dùng."
+  ],
+  "ideas": [
+    "Thêm tương tác giọng nói để trải nghiệm như có thầy giáo.",
+    "Tích hợp cơ sở dữ liệu chuyên ngành tăng độ chính xác RAG.",
+    "Phát chế độ học tập cộng đồng với bảng điểm."
+  ],
+  "stars": 38224,
+  "starsToday": 202,
+  "language": "Python",
+  "topics": [
+    "ai-tutor",
+    "deepresearch",
+    "interactive-learning",
+    "large-language-models",
+    "multi-agent-systems",
+    "rag",
+    "ai-agents",
+    "clawdbot",
+    "cli-tool"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-01T14:11:04.499Z"
+}

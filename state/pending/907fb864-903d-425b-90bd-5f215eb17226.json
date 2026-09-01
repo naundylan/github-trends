@@ -1,0 +1,32 @@
+{
+  "id": "907fb864-903d-425b-90bd-5f215eb17226",
+  "repo": "iv-org/invidious",
+  "url": "https://github.com/iv-org/invidious",
+  "category": "Web Frontend",
+  "summary": "Một giao diện người dùng thay thế mã nguồn mở cho YouTube, cho phép phát video mà không cần Google, hỗ trợ nhiều nền tảng và tùy chỉnh giao diện.",
+  "usecases": [
+    "Truy cập YouTube ở các khu vực bị chặn hoặc bị giới hạn.",
+    "Sử dụng giao diện không theo dõi để xem video riêng tư.",
+    "Tích hợp YouTube vào các ứng dụng web tùy chỉnh với giao diện được branding."
+  ],
+  "ideas": [
+    "Xây dựng một ứng dụng desktop kết hợp Invidious với trình phát đa phương tiện.",
+    "Tạo một dịch vụ proxy tích hợp Invidious để cải thiện tốc độ.",
+    "Phát triển một plugin cho các trình quản lý video cá nhân để thay thế nguồn YouTube mặc định."
+  ],
+  "stars": 23654,
+  "starsToday": 583,
+  "language": "Crystal",
+  "topics": [
+    "invidious",
+    "watch",
+    "agplv3",
+    "youtube",
+    "video",
+    "youtube-video",
+    "libre",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-01T14:11:04.499Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5421126b-5a20-473f-b67b-03e0d21c2b27",
+  "repo": "VoltAgent/awesome-design-md",
+  "url": "https://github.com/VoltAgent/awesome-design-md",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Bộ sưu tập các file DESIGN.md từ các hệ thống thiết kế thương hiệu nổi tiếng, giúp các agent coding tự động tạo giao diện UI tương ứng khi thêm vào dự án.",
+  "usecases": [
+    "Sử dụng để tham khảo và áp dụng thiết kế của các thương hiệu lớn như Google, Apple vào dự án mới.",
+    "Tích hợp vào quy trình vibe-coding để tạo UI nhanh chóng dựa trên design tokens.",
+    "Dùng làm nguồn học tập cho các nhà thiết kế và lập trình viên về các hệ thống thiết kế hiện đại."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ Figma để xuất DESIGN.md tự động.",
+    "Tạo ra một plugin cho IDE để hiển thị preview UI từ file DESIGN.md.",
+    "Phát triển một hệ thống recommend design system dựa trên ngữ cảnh dự án."
+  ],
+  "stars": 112326,
+  "starsToday": 487,
+  "language": "",
+  "topics": [
+    "awesome-list",
+    "design-md",
+    "design-system",
+    "google-stitch",
+    "landing-page",
+    "design-tokens",
+    "figma",
+    "vibe-coding",
+    "vibe-design",
+    "vibecoding"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-01T14:11:04.499Z"
+}

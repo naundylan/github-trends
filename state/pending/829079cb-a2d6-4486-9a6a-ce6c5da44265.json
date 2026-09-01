@@ -1,0 +1,42 @@
+{
+  "id": "829079cb-a2d6-4486-9a6a-ce6c5da44265",
+  "repo": "farion1231/cc-switch",
+  "url": "https://github.com/farion1231/cc-switch",
+  "category": "Other",
+  "summary": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+  "usecases": [
+    "Khám phá và đánh giá farion1231/cc-switch cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 130527,
+  "starsToday": 189,
+  "language": "Rust",
+  "topics": [
+    "ai-tools",
+    "claude-code",
+    "desktop-app",
+    "open-source",
+    "rust",
+    "tauri",
+    "codex",
+    "mcp",
+    "provider-management",
+    "wsl-support",
+    "opencode",
+    "skills",
+    "skills-management",
+    "openclaw",
+    "openclaw-ui",
+    "hermes",
+    "hermes-agent",
+    "grok",
+    "grokbuild",
+    "pi"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-01T14:11:04.499Z"
+}

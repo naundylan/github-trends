@@ -1,0 +1,32 @@
+{
+  "id": "c2c7fd01-030e-440e-a59b-06a3b49ac660",
+  "repo": "Imbad0202/academic-research-skills",
+  "url": "https://github.com/Imbad0202/academic-research-skills",
+  "category": "AI/LLM",
+  "summary": "Thư viện Python giúp các nhà nghiên cứu thực hiện chu trình nghiên cứu học học từ việc tìm kiếm tài liệu, viết, rà soát, sửa và hoàn thiện bài báo bằng Claude Code. Được thiết kế để tích hợp suôn sẻ vào quy trình viết luận học thuật.",
+  "usecases": [
+    "Tự động hóa việc tổng hợp và viết bản nháp nghiên cứu học học.",
+    "Hỗ trợ việc rà soát và chỉnh sửa tài liệu học thuật với AI.",
+    "Cung cấp pipeline thống nhất cho sinh viên và nhà nghiên cứu trong quá trình xuất bản."
+  ],
+  "ideas": [
+    "Kết nối với Zotero hoặc Mendeley để quản lý tài liệu tham khảo tự động.",
+    "Tạo giao diện web cho cộng đồng nghiên cứu chia sẻ và bình luận trên các bản nháp.",
+    "Tích hợp với LaTeX để tạo PDF báo cáo nghiên cứu từ trực tiếp trong công cụ."
+  ],
+  "stars": 44634,
+  "starsToday": 161,
+  "language": "Python",
+  "topics": [
+    "academic-writing",
+    "ai-research",
+    "claude",
+    "claude-code",
+    "literature-review",
+    "peer-review",
+    "prompt-engineering",
+    "academic-pipeline"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-01T14:11:04.499Z"
+}
