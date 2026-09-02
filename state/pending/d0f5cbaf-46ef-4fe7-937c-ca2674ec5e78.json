@@ -1,0 +1,29 @@
+{
+  "id": "d0f5cbaf-46ef-4fe7-937c-ca2674ec5e78",
+  "repo": "Gitlawb/openclaude",
+  "url": "https://github.com/Gitlawb/openclaude",
+  "category": "AI Agent/Automation",
+  "summary": "OpenClaude là một agent AI đa năng có thể chạy trên mọi nền tảng và sử dụng bất kỳ công cụ nào, hỗ trợ tự động hóa tác vụ coding và AI.",
+  "usecases": [
+    "Tự động hoàn thành code và review",
+    "Trợ lý phát triển phần mềm tích hợp nhiều model AI",
+    "Tạo pipeline CI/CD tự động với AI agent"
+  ],
+  "ideas": [
+    "Triển khai agent tự chạy các tác vụ web scraping phức tạp",
+    "Kết hợp với cơ sở dữ liệu để tạo ra công cụ tìm kiếm nội dung AI",
+    "Xây dựng hệ thống tự động hóa quy trình devOps thông qua lệnh CLI"
+  ],
+  "stars": 31359,
+  "starsToday": 80,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "ai-tools",
+    "cli",
+    "coding"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-02T02:24:12.444Z"
+}

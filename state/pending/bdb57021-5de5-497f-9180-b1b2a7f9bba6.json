@@ -1,0 +1,26 @@
+{
+  "id": "bdb57021-5de5-497f-9180-b1b2a7f9bba6",
+  "repo": "TecharoHQ/anubis",
+  "url": "https://github.com/TecharoHQ/anubis",
+  "category": "Security/Pentest",
+  "summary": "Công cụ bảo mật dùng để lọc và chặn các yêu cầu HTTP đáng ngờ, đặc biệt là các bot crawler AI, giúp bảo vệ ứng dụng khỏi khai thác và thu thập dữ liệu trái phép.",
+  "usecases": [
+    "Bảo vệ API và web server khỏi crawler AI ăn mòn tài nguyên.",
+    "Chặn các bot thu thập dữ liệu để bảo vệ nội dung độc quyền.",
+    "Giảm tải server và cải thiện hiệu suất bằng cách loại bỏ truy cập không mong muốn."
+  ],
+  "ideas": [
+    "Tích hợp vào firewall hoặc WAF để bảo vệ đa tầng cho các dịch vụ cloud.",
+    "Phát triển module giám sát và báo cáo về hoạt động crawler cho doanh nghiệp.",
+    "Kết hợp với tệp robots.txt và Challenge CAPTCHA để tăng cường bảo mật."
+  ],
+  "stars": 22052,
+  "starsToday": 71,
+  "language": "Go",
+  "topics": [
+    "defense",
+    "security"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-02T02:24:12.444Z"
+}

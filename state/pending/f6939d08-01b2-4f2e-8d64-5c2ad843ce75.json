@@ -1,0 +1,33 @@
+{
+  "id": "f6939d08-01b2-4f2e-8d64-5c2ad843ce75",
+  "repo": "Ed1s0nZ/CyberStrikeAI",
+  "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+  "category": "AI/LLM",
+  "summary": "Hệ thống cybersecurity được điều khiển bởi AI, tích hợp MCP để thực thi tự động các tác vụ penetration testing và CTF, với bộ nhớ vận hành dựa trên evidence và khả năng học liên tục từ mỗi thao tác.",
+  "usecases": [
+    "Kiểm thử xâm nhập tự động với AI agent, giảm effort thủ công cho red team",
+    "Tham gia và giải các thử thách CTF với sự hỗ trợ của AI để phân tích lỗ hổng",
+    "Tích hợp vào pipeline bảo mật CI/CD để phát hiện lỗ hổng liên tục"
+  ],
+  "ideas": [
+    "Kết hợp với SIEM/SOAR để tạo hệ thống phản ứng tự động khi phát hiện mối đe dọa",
+    "Xây dựng dashboard giám sát tập trung cho các AI agent pentesting trong doanh nghiệp",
+    "Phát triển thêm module threat intelligence để AI tự động cập nhật knowledge base về APT groups"
+  ],
+  "stars": 6219,
+  "starsToday": 121,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-cybersecurity",
+    "ai-penetration-testing",
+    "ai-security-tool",
+    "ctf-tools",
+    "mcp",
+    "ai-hacking",
+    "pentesting-tools"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-02T02:24:12.443Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a8785ada-6ef7-47b4-bbf9-7e37259990d7",
+  "repo": "apurvsinghgautam/robin",
+  "url": "https://github.com/apurvsinghgautam/robin",
+  "category": "Security/Pentest",
+  "summary": "Công cụ OSINT được cung cấp sức mạnh bởi LLM, chuyên thu thập và phân tích dữ liệu từ dark web phục vụ mục đích điều tra, theo dõi mối đe dọa và các hoạt động tội phạm mạng.",
+  "usecases": [
+    "Điều tra các hoạt động tội phạm mạng như buôn bán dữ liệu, ransomware trên dark web",
+    "Thu thập threat intelligence từ các diễn đàn dark web để cảnh báo sớm cho tổ chức",
+    "Hỗ trợ SOC/DFIR trong việc truy vết nguồn gốc rò rỉ dữ liệu hoặc tấn công có chủ đích"
+  ],
+  "ideas": [
+    "Tích hợp với threat intel platform để tự động tạo IOC từ dữ liệu dark web thu thập được",
+    "Xây dựng module alert khi phát hiện thông tin credentials hoặc dữ liệu nhạy cảm của tổ chức xuất hiện trên dark web",
+    "Kết hợp với blockchain analysis để truy vết dòng tiền liên quan đến các hoạt động bất hợp pháp"
+  ],
+  "stars": 6924,
+  "starsToday": 113,
+  "language": "Python",
+  "topics": [
+    "ai-tool",
+    "darkweb",
+    "darkweb-osint",
+    "investigation-tool",
+    "llm-powered",
+    "osint",
+    "osint-tool"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-02T02:24:12.444Z"
+}

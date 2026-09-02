@@ -1,0 +1,32 @@
+{
+  "id": "0e53f1ab-369b-4d12-bedd-b48775674302",
+  "repo": "apache/iggy",
+  "url": "https://github.com/apache/iggy",
+  "category": "Backend Framework",
+  "summary": "Apache Iggy là nền tảng message streaming hiệu suất cực cao viết bằng Rust, cho tốc độ truyền dữ liệu laser qua QUIC, HTTP và TCP.",
+  "usecases": [
+    "Xử lý luồng sự kiện real-time cho ứng dụng phân tán",
+    "Thay thế Kafka với latencies thấp hơn cho microservices",
+    "Giao tiếp giữa services qua protocole QUIC/HTTP"
+  ],
+  "ideas": [
+    "Kết hợp với framework Rust khác để build pipeline dữ liệu real-time",
+    "Sử dụng làm layer messaging cho hệ thống IoT edge",
+    "Phát triển giao diện monitoring tùy cho throughput metrics"
+  ],
+  "stars": 4734,
+  "starsToday": 91,
+  "language": "Rust",
+  "topics": [
+    "messaging",
+    "quic",
+    "rust",
+    "streaming",
+    "http",
+    "iggy",
+    "tcp",
+    "apache"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-02T02:24:12.444Z"
+}
