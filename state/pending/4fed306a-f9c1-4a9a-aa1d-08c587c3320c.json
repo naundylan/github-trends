@@ -1,0 +1,31 @@
+{
+  "id": "4fed306a-f9c1-4a9a-aa1d-08c587c3320c",
+  "repo": "blader/humanizer",
+  "url": "https://github.com/blader/humanizer",
+  "category": "AI/LLM",
+  "summary": "Humanizer là agent skill giúp loại bỏ các dấu hiệu nhận biết văn bản do AI sinh ra, làm cho nội dung trông tự nhiên và giống người viết hơn. Hỗ trợ tích hợp với các công cụ agent phổ biến như Claude Code, Codex và Cursor.",
+  "usecases": [
+    "Biên tập bài blog, email hoặc báo cáo do AI hỗ trợ viết để có giọng văn tự nhiên hơn",
+    "Xử lý nội dung marketing hoặc tài liệu học thuật cần tránh bị đánh dấu là AI-generated",
+    "Tích hợp vào workflow của content creator để chỉnh sửa hàng loạt văn bản từ LLM"
+  ],
+  "ideas": [
+    "Kết hợp với pipeline viết bài tự động để tạo ra các bản nháp cuối cùng đã được human hoá hoàn toàn",
+    "Xây dựng API dịch vụ humanization cho các doanh nghiệp xuất bản nội dung",
+    "Tạo plugin IDE realtime cảnh báo và sửa ngay các đoạn văn mang đặc trưng AI ngay khi đang viết"
+  ],
+  "stars": 39883,
+  "starsToday": 366,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "ai-writing",
+    "claude-code",
+    "codex",
+    "cursor",
+    "prompt-engineering",
+    "writing-tools"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-02T13:28:52.634Z"
+}

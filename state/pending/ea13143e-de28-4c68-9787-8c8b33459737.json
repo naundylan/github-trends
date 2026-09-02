@@ -1,0 +1,23 @@
+{
+  "id": "ea13143e-de28-4c68-9787-8c8b33459737",
+  "repo": "slackhq/nebula",
+  "url": "https://github.com/slackhq/nebula",
+  "category": "Networking",
+  "summary": "Nền tảng mạng overlay có khả năng mở rộng, tập trung vào hiệu suất, sự đơn giản và bảo mật.",
+  "usecases": [
+    "Xây dựng hệ thống mạng nội bộ cho các tổ chức lớn với yêu cầu cao về hiệu năng",
+    "Cải thiện bảo mật giao tiếp giữa các dịch vụ microservice trong môi trường cloud",
+    "Tạo cơ sở hạ tầng mạng cho các ứng dụng fintech cần tính minh bạch và an toàn"
+  ],
+  "ideas": [
+    "Kết hợp với Kubernetes để triển khai mạng overlay tự động hóa",
+    "Sử dụng để xây dựng hệ thống VPN nội bộ nhanh chóng và hiệu quả",
+    "Phát triển plugin quản lý mạng cho các công cụ CI/CD"
+  ],
+  "stars": 18234,
+  "starsToday": 561,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-02T13:28:52.634Z"
+}

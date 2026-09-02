@@ -1,0 +1,23 @@
+{
+  "id": "2dbaa79b-cc5e-404d-9743-3f2d06e81145",
+  "repo": "google-research/timesfm",
+  "url": "https://github.com/google-research/timesfm",
+  "category": "Machine Learning",
+  "summary": "TimesFM là mô hình foundation được đào tạo trước để dự báo chuỗi thời gian, cho phép dự đoán chính xác với ít dữ liệu huấn luyện.",
+  "usecases": [
+    "Dự báo nhu cầu hàng hóa trong chuỗi cung ứng",
+    "Dự báo giá cổ phiếu hoặc tài chính",
+    "Dự báo tải lượng mạng lưới điện"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống cảnh báo sớm để dự báo thiên tai dựa trên dữ liệu thời tiết",
+    "Tích hợp vào nền tảng IoT để tự động điều chỉnh hoạt động thiết bị dựa trên dự đoán",
+    "Phát triển plugin cho các công cụ phân tích dữ liệu như Pandas hoặc Prophet"
+  ],
+  "stars": 29025,
+  "starsToday": 326,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-09-02T13:28:52.634Z"
+}

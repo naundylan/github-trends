@@ -1,0 +1,39 @@
+{
+  "id": "71733b05-fe5e-48d9-9700-0918bf13880c",
+  "repo": "pacifio/atlas",
+  "url": "https://github.com/pacifio/atlas",
+  "category": "AI/LLM",
+  "summary": "Hệ thống quản lý nguồn gốc cho các tác giả AI, theo dõi thay đổi của nhiều tác giả và cho phép truy vấn chúng ở một nơi duy nhất.",
+  "usecases": [
+    "Quản lý và kiểm tra thay đổi được tạo bởi các tác giả AI khác nhau trong môi trường phát triển cộng đồng",
+    "Tra cứu phiên bản lịch sử của mã nguồn do các tác giả tạo ra để mục đích debug",
+    "Tích hợp với pipeline CI/CD để đảm bảo quản lý trạng thái nhất quán của mã do tác giả tạo ra"
+  ],
+  "ideas": [
+    "Xây dựng bảng điều khiển thống nhất để giám sát tất cả hoạt động của các tác giả AI và đóng góp của họ",
+    "Tạo cài đặt plugin cho phép các tác giả đẩy đầu ra trực tiếp vào hệ thống kiểm soát phiên bản",
+    "Triển khai khả năng rollback tự động khi mã do tác giả tạo ra gây ra vấn đề"
+  ],
+  "stars": 2658,
+  "starsToday": 895,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "ai-coding-assistant",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "git",
+    "gitops",
+    "kilo-code",
+    "mcp",
+    "mcp-client",
+    "opencode",
+    "opencode-ai",
+    "opencode-skills",
+    "self-hosted",
+    "skills"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-02T13:28:52.634Z"
+}

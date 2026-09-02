@@ -1,0 +1,28 @@
+{
+  "id": "6090a70a-c96a-48e0-bb19-0a9d145e5f62",
+  "repo": "3b1b/manim",
+  "url": "https://github.com/3b1b/manim",
+  "category": "Data Visualization",
+  "summary": "Manim là engine animation bằng Python được Grant Sanderson (3Blue1Brown) tạo ra để dựng các video giải thích toán học trực quan. Thư viện cho phép tạo các cảnh đồ họa chuyển động mượt mà với LaTeX, số phức, hình học và đồ thị hàm số thông qua lập trình.",
+  "usecases": [
+    "Dựng video bài giảng toán, vật lý với các phép biến đổi và chứng minh trực quan",
+    "Tạo nội dung giáo dục khoa học trên YouTube với chất lượng studio",
+    "Tạo infographic động cho thuyết trình, hội thảo hoặc báo cáo kỹ thuật"
+  ],
+  "ideas": [
+    "Tích hợp với LLM để tự động sinh video giải thích từ đề bài toán hoặc tài liệu khoa học",
+    "Kết hợp với Jupyter Notebook để render trực tiếp từng bước tính toán thành animation",
+    "Dùng trong nền tảng e-learning để cá nhân hoá bài giảy đồ hoạ theo nội dung người học quan tâm"
+  ],
+  "stars": 92809,
+  "starsToday": 432,
+  "language": "Python",
+  "topics": [
+    "python",
+    "animation",
+    "explanatory-math-videos",
+    "3b1b-videos"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-09-02T13:28:52.634Z"
+}

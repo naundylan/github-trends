@@ -1,7 +1,7 @@
 {
   "JuliusBrussee/caveman": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-08-23",
+    "last_seen": "2026-09-02",
     "last_saved": "2026-08-22"
   },
   "obra/superpowers": {
@@ -21,7 +21,7 @@
   },
   "NousResearch/hermes-agent": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-09-02",
     "last_saved": "2026-08-22"
   },
   "OpenCut-app/OpenCut": {
@@ -111,7 +111,7 @@
   },
   "ChromeDevTools/chrome-devtools-mcp": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-02",
     "last_saved": "2026-08-28"
   },
   "asgeirtj/system_prompts_leaks": {
@@ -136,12 +136,12 @@
   },
   "mattpocock/skills": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-09-02",
     "last_saved": "2026-08-22"
   },
   "pbakaus/impeccable": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-01",
+    "last_seen": "2026-09-02",
     "last_saved": "2026-08-22"
   },
   "coreyhaines31/marketingskills": {
@@ -451,7 +451,7 @@
   },
   "ruvnet/ruflo": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-09-02",
     "last_saved": "2026-08-23"
   },
   "dani-garcia/vaultwarden": {
@@ -481,7 +481,7 @@
   },
   "heygen-com/hyperframes": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-09-02",
     "last_saved": "2026-08-23"
   },
   "microsoft/TypeScript": {
@@ -586,7 +586,7 @@
   },
   "QuantumNous/new-api": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-09-02",
     "last_saved": "2026-08-25"
   },
   "bjarneo/cliamp": {
@@ -621,7 +621,7 @@
   },
   "DietrichGebert/ponytail": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-30",
+    "last_seen": "2026-09-02",
     "last_saved": "2026-08-26"
   },
   "VoltAgent/awesome-agent-skills": {
@@ -641,7 +641,7 @@
   },
   "github/spec-kit": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-09-02",
     "last_saved": "2026-08-26"
   },
   "makeplane/plane": {
@@ -751,7 +751,7 @@
   },
   "p-e-w/heretic": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-09-01",
+    "last_seen": "2026-09-02",
     "last_saved": "2026-08-29"
   },
   "every-app/open-seo": {
@@ -944,52 +944,52 @@
     "last_seen": "2026-09-02",
     "last_saved": "2026-09-01"
   },
-  "averygan/reclip": {
+  "google-research/timesfm": {
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
     "last_saved": "2026-09-02"
   },
-  "OpenWhispr/openwhispr": {
+  "pacifio/atlas": {
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
     "last_saved": "2026-09-02"
   },
-  "jackwener/OpenCLI": {
+  "blader/humanizer": {
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
     "last_saved": "2026-09-02"
   },
-  "alam00000/bentopdf": {
+  "Gitlawb/openclaude": {
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
     "last_saved": "2026-09-02"
   },
-  "inkeep/open-knowledge": {
+  "datawhalechina/hello-agents": {
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
     "last_saved": "2026-09-02"
   },
-  "rmyndharis/OpenWA": {
+  "hacksider/Deep-Live-Cam": {
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
     "last_saved": "2026-09-02"
   },
-  "jesseduffield/lazygit": {
+  "3b1b/manim": {
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
     "last_saved": "2026-09-02"
   },
-  "kunchenguid/no-mistakes": {
+  "earendil-works/pi": {
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
     "last_saved": "2026-09-02"
   },
-  "raine/workmux": {
+  "slackhq/nebula": {
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
     "last_saved": "2026-09-02"
   },
-  "martin-olivier/airgorah": {
+  "arcboxlabs/arcbox": {
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
     "last_saved": "2026-09-02"

@@ -1,0 +1,29 @@
+{
+  "id": "7a11e5e5-3f5a-4e3d-a027-5062e466ee78",
+  "repo": "Gitlawb/openclaude",
+  "url": "https://github.com/Gitlawb/openclaude",
+  "category": "AI/LLM",
+  "summary": "Chạy bất kỳ mô hình AI nào trên địa phương bằng OpenCLoader, cung cấp quyền truy cập linh hoạt vào các mô hình ngôn ngữ lớn mà không bị ràng buộc nhà cung cấp.",
+  "usecases": [
+    "Chạy các ứng dụng AI dựa trên Claude cục bộ hoặc trên thiết bị biên",
+    "Tùy chỉnh hành vi AI thông qua tinh chỉnh hoặc kỹ thuật prompt trong khung làm việc",
+    "Tích hợp với các công cụ hiện có qua CLI để tự động hóa các tác vụ"
+  ],
+  "ideas": [
+    "Phát triển lớp điều phối đa mô hình có thể chuyển đổi giữa các LLM khác nhau tùy theo yêu cầu nhiệm vụ",
+    "Tạo hệ sinh thái cài đặt plugin cho phép người dùng mở rộng chức năng bằng các module tùy chỉnh",
+    "Xây dựng giải pháp triển khai cục bộ cho doanh nghiệp cần tuân thủ quy định về bảo mật dữ liệu"
+  ],
+  "stars": 31769,
+  "starsToday": 776,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "ai-tools",
+    "cli",
+    "coding"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-02T13:28:52.634Z"
+}
