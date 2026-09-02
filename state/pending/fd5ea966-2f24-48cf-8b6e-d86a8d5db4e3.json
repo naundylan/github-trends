@@ -1,0 +1,23 @@
+{
+  "id": "fd5ea966-2f24-48cf-8b6e-d86a8d5db4e3",
+  "repo": "raine/workmux",
+  "url": "https://github.com/raine/workmux",
+  "category": "CLI Tool",
+  "summary": "CLI Rust kết hợp git worktrees và tmux windows để cho phép phát triển song song mượt mà, giảm chi phí chuyển đổi ngữ cảnh.",
+  "usecases": [
+    "Làm việc trên nhiều feature/branch cùng lúc mà không cần clone đôi khi",
+    "Chuyển đổi nhanh giữa các worktrees tách biệt trong tmux panes/Windows",
+    "Tối ưu hóa code review và debugging trên các môi trường song song"
+  ],
+  "ideas": [
+    "Tự động tạo layout tmux dựa trên tên branch",
+    "Hiển thị trạng thái worktree trực tiếp trong shell prompt",
+    "Kết hợp remote tunneling cho pair programming từ xa"
+  ],
+  "stars": 2355,
+  "starsToday": 45,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-02T07:37:47.588Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fb9a69d3-0cb3-4c12-b5e9-6a522392d903",
+  "repo": "averygan/reclip",
+  "url": "https://github.com/averygan/reclip",
+  "category": "Productivity/Personal Tool",
+  "summary": "Công cụ tải video tự lưu trữ (self-hosted) từ hầu hết trang web, cung cấp giao diện web nhẹ nhàng, đơn giản để quản lý và tải xuống nội dung đa phương tiện.",
+  "usecases": [
+    "Lưu trữ video học tập, hội thảo, livestream để xem offline mà không phụ thuộc platform.",
+    "Tự động hóa backup nội dung từ nhiều nguồn (YouTube, Vimeo, Twitter, v.v.) về server riêng cho team marketing/archival.",
+    "Cung cấp dịch vụ tải video nội bộ cho tổ chức chặn truy cập trực tiếp các trang video công cộng."
+  ],
+  "ideas": [
+    "Kết hợp với Whisper/ASR để tự động sinh phụ đề và transcript sau khi tải, xây dựng kho video có thể tìm kiếm full-text.",
+    "Tích hợp scheduler + webhook: theo dõi playlist/kênh yêu thích, tự động tải video mới về NAS/Object Storage.",
+    "Mở rộng thành media pipeline: transcode sang nhiều độ phân giải, sinh thumbnail, đẩy lên CDN để phục vụ streaming nội bộ."
+  ],
+  "stars": 7916,
+  "starsToday": 56,
+  "language": "HTML",
+  "topics": [],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-02T07:37:47.588Z"
+}

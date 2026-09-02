@@ -1,0 +1,23 @@
+{
+  "id": "7eb460c6-4ea0-46bb-9cb6-c4ea6f0c4cf6",
+  "repo": "kunchenguid/no-mistakes",
+  "url": "https://github.com/kunchenguid/no-mistakes",
+  "category": "CLI Tool",
+  "summary": "Công cụ CLI Go ngăn chặn các lỗi phổ biến khi thực hiện git push, đảm bảo quy trình commit và push an toàn hơn.",
+  "usecases": [
+    "Ngăn chặn push vô tình trong môi trường team",
+    "Kiểm soát đồng nhất commit message trước push",
+    "Hỗ trợ an toàn cho pipelines CI/CD hoặc branches cộng tác"
+  ],
+  "ideas": [
+    "Kết hợp AI gợi ý commit message trước khi push",
+    "Thêm cơ chế phê duyệt đa người dùng cho git push",
+    "Tự động hóa validation dựa trên policies tùy chỉnh"
+  ],
+  "stars": 8246,
+  "starsToday": 49,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-02T07:37:47.588Z"
+}

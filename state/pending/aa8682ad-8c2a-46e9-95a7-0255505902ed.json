@@ -1,0 +1,31 @@
+{
+  "id": "aa8682ad-8c2a-46e9-95a7-0255505902ed",
+  "repo": "jackwener/OpenCLI",
+  "url": "https://github.com/jackwener/OpenCLI",
+  "category": "AI Agent/Automation",
+  "summary": "OpenCLI là công cụ cho phép chuyển đổi bất kỳ website nào thành giao diện CLI và sử dụng AI agent để tự động hóa qua trình duyệt đã đăng nhập, giúp tự động hóa tác vụ web bằng trí tuệ nhân tạo.",
+  "usecases": [
+    "Tự động thu thập dữ liệu từ website và xuất ra định dạng CLI.",
+    "Tự động hóa tác vụ đăng nhập và tương tác với trang web thông qua AI agent.",
+    "Trích xuất thông tin từ website phức tạp mà không cần viết code thủ công."
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM cục bộ để tự động hóa quy trình làm việc nội bộ.",
+    "Phát triển extension cho phép kiểm soát qua lệnh CLI trên nhiều website cùng lúc.",
+    "Sử dụng cho việc test tự động UI/UX hoặc scraping dữ liệu có chống bot."
+  ],
+  "stars": 28872,
+  "starsToday": 62,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agent",
+    "ai-agents",
+    "ai-tools",
+    "cli",
+    "browser-automation",
+    "browser-use",
+    "playwright"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-02T07:37:47.588Z"
+}

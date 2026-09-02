@@ -1,0 +1,44 @@
+{
+  "id": "b3f0b3c0-0a27-4d41-9b9a-4fa15b7f8f99",
+  "repo": "inkeep/open-knowledge",
+  "url": "https://github.com/inkeep/open-knowledge",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "Trình soạn thảo Markdown tích hợp AI (AI-native) đóng vai trò IDE cho ghi chú và wiki, hỗ trợ quản lý tri thức cá nhân/đội nhóm với khả năng truy vấn LLM trực tiếp trên nội dung.",
+  "usecases": [
+    "Xây dựng second-brain cá nhân với tìm kiếm ngữ nghĩa và hỏi đáp bằng LLM trên ghi chú Markdown/MDX.",
+    "Tạo company wiki nội bộ cho phép đồng nghiệp chat với tài liệu thay vì đọc từng trang.",
+    "Phát triển agent skills (kỹ năng tác nhân) để tự động hóa quy trình nghiên cứu, tóm tắt, sinh nội dung từ kho kiến thức."
+  ],
+  "ideas": [
+    "Kết hợp với RAG pipeline tùy chỉnh để index codebase và docs kỹ thuật, biến repo thành copilot nội bộ cho dev team.",
+    "Tích hợp plugin graph-view (như Obsidian) để trực quan hóa liên kết giữa note, skill và agent.",
+    "Mở rộng thành nền tảng knowledge-as-a-service: cho phép publish wiki công khai với paywall/token-gated cho creator."
+  ],
+  "stars": 3931,
+  "starsToday": 58,
+  "language": "TypeScript",
+  "topics": [
+    "2nd-brain",
+    "agent-skills",
+    "claude",
+    "codex",
+    "docs",
+    "knowledge-base",
+    "knowledge-management",
+    "llm",
+    "llm-wiki",
+    "markdown",
+    "markdown-editor",
+    "md",
+    "mdx",
+    "notes",
+    "pkm",
+    "second-brain",
+    "skills",
+    "company-brain",
+    "knowledge-",
+    "llm-wiki-karpathy"
+  ],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-09-02T07:37:47.588Z"
+}

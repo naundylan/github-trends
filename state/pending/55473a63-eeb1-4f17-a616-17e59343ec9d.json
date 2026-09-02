@@ -1,0 +1,27 @@
+{
+  "id": "55473a63-eeb1-4f17-a616-17e59343ec9d",
+  "repo": "jesseduffield/lazygit",
+  "url": "https://github.com/jesseduffield/lazygit",
+  "category": "CLI Tool",
+  "summary": "Lazygit là một giao diện terminal (terminal UI) đơn giản cho các lệnh git, giúp quản lý repository trực tiếp qua command line.",
+  "usecases": [
+    "Quản lý git workflow trực tiếp trên terminal mà không cần công cụ đồ họa",
+    "DevOps thực hiện các thao tác git nhanh trên server thông qua lệnh",
+    "Người mới học git có thể thao tác dễ dàng thông qua giao diện trực quan và tương tác"
+  ],
+  "ideas": [
+    "Tích hợp lazygit với pipeline CI/CD để theo dõi trạng thái repository trực quan",
+    "Phát triển plugin đồng bộ phím tắt lazygit với VS Code",
+    "Tạo dashboard hệ điều hành wrapping lazygit cho thao tác repo một-click"
+  ],
+  "stars": 81888,
+  "starsToday": 56,
+  "language": "Go",
+  "topics": [
+    "cli",
+    "git",
+    "terminal"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-02T07:37:47.588Z"
+}
