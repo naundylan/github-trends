@@ -1,0 +1,44 @@
+{
+  "id": "1c8daaf4-a053-4c6a-a19e-a7817d0dc368",
+  "repo": "KeygraphHQ/shannon",
+  "url": "https://github.com/KeygraphHQ/shannon",
+  "category": "Security/Pentest",
+  "summary": "Công cụ kiểm thử xâm nhập AI tự động phân tích mã nguồn web/API, tìm vecto tấn công và thực hiện khai thác để chứng minh lỗ hổng trước khi sản phẩm ra mắt.",
+  "usecases": [
+    "Tích hợp vào CI/CD pipeline để tự động security testing mỗi khi deploy code mới.",
+    "Giúp đội nhóm bảo mật phát hiện và xác minh các lỗ hổng OWASP Top 10 trước production.",
+    "Sử dụng cho red team exercises để đánh giá khả năng chống chịu của ứng dụng web/API."
+  ],
+  "ideas": [
+    "Mở rộng khả năng khai thác cho các lỗ hổng phức tạp hơn như SQL Injection trong các ngữ cảnh hiện đại hoặc GraphQL.",
+    "Kết hợp với các báo cáo compliance tự động để đáp ứng các chuẩn mực bảo mật như SOC 2 hoặc ISO 27001.",
+    "Phát triển module AI để dự đoán vecto tấn công mới dựa trên các pattern khai thác đã biết."
+  ],
+  "stars": 47599,
+  "starsToday": 135,
+  "language": "TypeScript",
+  "topics": [
+    "penetration-testing",
+    "pentesting",
+    "security-audit",
+    "security-automation",
+    "security-tools",
+    "ai-penetration-testing",
+    "ai-security",
+    "cybersecurity",
+    "ethical-hacking",
+    "offensive-security",
+    "pentesting-tools",
+    "red-teaming",
+    "security",
+    "security-testing",
+    "api-security",
+    "appsec",
+    "devsecops",
+    "owasp",
+    "sarif",
+    "ci-cd"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-02T18:31:54.121Z"
+}

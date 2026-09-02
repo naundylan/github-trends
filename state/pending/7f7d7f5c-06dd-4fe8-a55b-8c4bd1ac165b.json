@@ -1,0 +1,23 @@
+{
+  "id": "7f7d7f5c-06dd-4fe8-a55b-8c4bd1ac165b",
+  "repo": "zubair-trabzada/geo-seo-claude",
+  "url": "https://github.com/zubair-trabzada/geo-seo-claude",
+  "category": "AI/LLM",
+  "summary": "Công cụ tối ưu hóa tìm kiếm AI (GEO) cho website, cung cấp điểm citability, phân tích AI crawler, schema markup và báo cáo PDF để cải thiện vị trí trong kết quả tìm kiếm của AI.",
+  "usecases": [
+    "Tối ưu hóa nội dung cho các mô hình LLM như Claude, GPT",
+    "Phân tích và cải thiện citability của website trong tìm kiếm AI",
+    "Tạo báo cáo schema markup tự động cho doanh nghiệp"
+  ],
+  "ideas": [
+    "Kết hợp với các framework SEO hiện tại để theo dõi thay đổi ranking AI",
+    "Phát triển plugin cho WordPress thực hiện tự động schema markup dựa trên AI",
+    "Xây dashboard theo dõi citability score theo thời gian thực cho nhiều domain"
+  ],
+  "stars": 10165,
+  "starsToday": 96,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-02T18:31:54.121Z"
+}

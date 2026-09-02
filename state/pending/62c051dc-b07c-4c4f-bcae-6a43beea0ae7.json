@@ -1,0 +1,33 @@
+{
+  "id": "62c051dc-b07c-4c4f-bcae-6a43beea0ae7",
+  "repo": "sngyai/Sequoia-X",
+  "url": "https://github.com/sngyai/Sequoia-X",
+  "category": "Big Data/Analytics",
+  "summary": "Hệ thống tự động quét và lọc cổ phiếu A-Shares dựa trên nhiều mẫu kỹ thuật, chạy sau giờ giao dịch và gửi kết quả qua Feishu.",
+  "usecases": [
+    "Tự động quét cổ phiếu đáp ứng các mẫu kỹ thuật nhất định mỗi ngày để tìm cơ hội đầu tư.",
+    "Giúp nhà đầu tư nhận báo cáo kết quả quét qua Feishu mà không cần can thiệp thủ công.",
+    "Có thể tích hợp với các chiến lược giao dịch tự động để thực hiện lệnh mua/bán dựa trên tín hiệu quét."
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ cho thị trường chứng khoán toàn cầu khác (Việt Nam, Mỹ) thông qua APIs tương tự.",
+    "Thêm tính năng dự báo xu hướng kết hợp mô hình Machine Learning vào cùng pipeline.",
+    "Tạo dashboard trực quan hóa kết quả quét qua Grafana hoặc Plotly để theo dõi hiệu quả qua thời gian."
+  ],
+  "stars": 6003,
+  "starsToday": 138,
+  "language": "Python",
+  "topics": [
+    "ta-lib",
+    "python",
+    "turtle-trade",
+    "a-shares",
+    "pandas",
+    "akshare",
+    "baostock",
+    "stock-screening",
+    "trading"
+  ],
+  "notePath": "notes/Big-Data-Analytics.md",
+  "createdAt": "2026-09-02T18:31:54.121Z"
+}

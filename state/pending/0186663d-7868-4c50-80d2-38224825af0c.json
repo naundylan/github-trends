@@ -1,0 +1,30 @@
+{
+  "id": "0186663d-7868-4c50-80d2-38224825af0c",
+  "repo": "zyronon/TypeWords",
+  "url": "https://github.com/zyronon/TypeWords",
+  "category": "Documentation/Learning Resource",
+  "summary": "Một ứng dụng luyện tập tiếng Anh qua việc gõ từ, mỗi đánh đúng một bước tiến, giúp cải thiện từ vựng và tốc độ gõ tiếng Anh.",
+  "usecases": [
+    "Học sinh tự học tiếng Anh cải thiện tốc độ gõ và nhận biết từ vựng.",
+    "Người dùng luyện tập tiếng Anh hàng ngày như một thói quen productivity.",
+    "Giáo viên sử dụng làm công cụ bổ trợ trong lớp học để tăng tương tác어휘."
+  ],
+  "ideas": [
+    "Tích hợp API LLM để tạo câu tiếng Anh ngẫu nhiên tùy theo cấp độ người dùng.",
+    "Đồng bộ tiến độ qua cloud và thêm gamification (badge, streak) để duy trì động lực.",
+    "Phát triển phiên bản mobile (React Native) để học tập trên điện thoại."
+  ],
+  "stars": 9266,
+  "starsToday": 68,
+  "language": "Vue",
+  "topics": [
+    "learn-english",
+    "memorizing-words",
+    "typing-practice",
+    "typingspeedtest",
+    "english-learn",
+    "type-words"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-02T18:31:54.122Z"
+}

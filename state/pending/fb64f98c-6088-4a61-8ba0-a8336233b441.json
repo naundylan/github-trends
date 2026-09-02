@@ -1,0 +1,23 @@
+{
+  "id": "fb64f98c-6088-4a61-8ba0-a8336233b441",
+  "repo": "vercel-labs/portless",
+  "url": "https://github.com/vercel-labs/portless",
+  "category": "Networking",
+  "summary": "Một công cụ thay thế con số cổng bằng URL cục bộ ổn định có tên, giúp con người và agent tự động hóa truy cập dịch vụ local dễ dàng hơn.",
+  "usecases": [
+    "Dev local dễ dàng truy cập services chạy trên port khác nhau qua tên thay vì port.",
+    "Automated testing và agent workflows cần URL ổn định để tương tác với server local.",
+    "Share local dev server với team không cần ngrok hoặc config phức tạp."
+  ],
+  "ideas": [
+    "Kết hợp với VS Code extension để auto-generate named URLs khi start dev server.",
+    "Sử dụng làm backend cho AI agents cần access local services qua tên URL ổn định.",
+    "Tích hợp CI pipeline để test local services qua named URLs thay vì hardcoded ports."
+  ],
+  "stars": 11617,
+  "starsToday": 69,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-02T18:31:54.122Z"
+}

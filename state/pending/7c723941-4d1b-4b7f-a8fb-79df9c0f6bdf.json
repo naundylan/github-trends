@@ -1,0 +1,44 @@
+{
+  "id": "7c723941-4d1b-4b7f-a8fb-79df9c0f6bdf",
+  "repo": "ScrapeGraphAI/Scrapegraph-ai",
+  "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+  "category": "AI/LLM",
+  "summary": "Một công cụ trích xuất dữ liệu web dựa trên AI sử dụng Large Language Model để tự động thu thập và cấu trúc dữ liệu từ web",
+  "usecases": [
+    "Trích xuất dữ liệu sản phẩm từ thương mại điện tử để phân tích giá",
+    "Thu thập tin tức và bài viết cho cơ sở dữ liệu RAG",
+    "Tự động thu thập dữ liệu cho nghiên cứu thị trường"
+  ],
+  "ideas": [
+    "Kết hợp vector database để tạo công cụ tìm kiếm nội dung web cá nhân",
+    "Phát triển plugin cho AI agent để tăng khả năng tương tác web",
+    "Sử dụng cho monitoring thay đổi trang web và cảnh báo nội dung mới"
+  ],
+  "stars": 30406,
+  "starsToday": 93,
+  "language": "Python",
+  "topics": [
+    "scraping",
+    "scraping-python",
+    "llm",
+    "web-crawler",
+    "web-scraping",
+    "ai-scraping",
+    "crawler",
+    "markdown",
+    "rag",
+    "web-crawlers",
+    "ai-crawler",
+    "ai-search",
+    "large-language-model",
+    "web-data-extraction",
+    "web-search",
+    "web-scraper",
+    "data-extraction",
+    "web-data",
+    "webscraping",
+    "firecrawl-alternative"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-02T18:31:54.121Z"
+}
