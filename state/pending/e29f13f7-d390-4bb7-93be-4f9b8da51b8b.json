@@ -1,0 +1,23 @@
+{
+  "id": "e29f13f7-d390-4bb7-93be-4f9b8da51b8b",
+  "repo": "google-research/timesfm",
+  "url": "https://github.com/google-research/timesfm",
+  "category": "Machine Learning",
+  "summary": "TimesFM là mô hình foundation thời gian系列被 pre-train để dự báo chính xác chuỗi thời gian với ít tinh chỉnh.",
+  "usecases": [
+    "Dự báo tài chính và giá chứng khoán",
+    "Dự báo thời tiết và khí tượng",
+    "Quản lý chuỗi cung ứng và dự báo nhu cầu"
+  ],
+  "ideas": [
+    "Kết hợp với dashboard thời gian thực để giám sát dự báo tự động",
+    "Áp dụng trong y học dự biến tiến triển bệnh lý",
+    "Phát triển ứng dụng cá nhân theo dõi mục tiêu"
+  ],
+  "stars": 29694,
+  "starsToday": 326,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-09-02T23:03:25.493Z"
+}

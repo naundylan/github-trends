@@ -1,0 +1,23 @@
+{
+  "id": "0787ae31-7c64-4737-9720-96f3435e099c",
+  "repo": "earendil-works/pi",
+  "url": "https://github.com/earendil-works/pi",
+  "category": "AI Agent/Automation",
+  "summary": "Pi là bộ công cụ AI agent cung cấp API LLM thống nhất, vòng lặp agent và CLI coding agent, hỗ trợ phát triển ứng dụng AI nhanh chóng.",
+  "usecases": [
+    "Phát triển nhanh các ứng dụng AI có khả năng tự động hóa tác vụ (coding agent)",
+    "Tích hợp LLM vào các công cụ dòng lệnh (CLI) để tăng năng suất phát triển",
+    "Tạo ra các agent AI có giao diện TUI tương tác cho các tác vụ quản trị hệ thống"
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng tự động hóa như n8n hoặc Zapier để tạo workflow AI",
+    "Phát triển CLI coding agent có thể tự viết và sửa code dựa trên yêu cầu tự nhiên",
+    "Sử dụng làm cơ sở hạ tầng cho các nghiên cứu về hành vi agent và prompt engineering"
+  ],
+  "stars": 100978,
+  "starsToday": 559,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-02T23:03:25.492Z"
+}

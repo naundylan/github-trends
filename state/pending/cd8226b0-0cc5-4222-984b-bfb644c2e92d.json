@@ -1,0 +1,29 @@
+{
+  "id": "cd8226b0-0cc5-4222-984b-bfb644c2e92d",
+  "repo": "Gitlawb/openclaude",
+  "url": "https://github.com/Gitlawb/openclaude",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ chạy mọi nơi, sử dụng mọi thứ - một giao diện dòng lệnh AI linh hoạt tương tác với nhiều mô hình và công cụ phát triển.",
+  "usecases": [
+    "Chạy tự động hóa code trên nhiều môi trường và máy chủ khác nhau",
+    "Tương tác với các mô hình AI khác nhau thông qua một CLI duy nhất",
+    "Tích hợp vào quy trình phát triển để sinh code, test và review tự động"
+  ],
+  "ideas": [
+    "Xây dựng plugin cho VS Code để truy cập openclaude trực tiếp từ editor",
+    "Tạo kịch tự động hóa so sánh kết quả từ các AI khác nhau trên cùng một tác vụ",
+    "Phát triển tính năng multi-user collaboration thông qua openclaude làm trung tâm"
+  ],
+  "stars": 31949,
+  "starsToday": 776,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "ai-tools",
+    "cli",
+    "coding"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-02T23:03:25.492Z"
+}

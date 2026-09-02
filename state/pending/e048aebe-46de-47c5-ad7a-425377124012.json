@@ -1,0 +1,31 @@
+{
+  "id": "e048aebe-46de-47c5-ad7a-425377124012",
+  "repo": "blader/humanizer",
+  "url": "https://github.com/blader/humanizer",
+  "category": "NLP",
+  "summary": "Blader/humanizer là skill agent Python xóa bỏ các dấu hiệu nhận biết được text do AI tạo, giúp văn bản trông tự nhiên và giống con người hơn.",
+  "usecases": [
+    "Tối ưu hóa nội dung viết cho marketing và blog tránh phát hiện bởi AI detector.",
+    "Giúp văn bản nghiên cứu vượt qua kiểm tra plagiarism hoặc AI content detector.",
+    "Tăng tính chân thực cho output của chatbot hoặc hệ thống tự động tạo nội dung."
+  ],
+  "ideas": [
+    "Kết hợp với các model điều chỉnh prompt để tạo ra văn bản đa dạng hơn và tránh lặp.",
+    "Sử dụng làm middleware trong quy trình review nội dung trước khi đăng tải.",
+    "Phát triển extension trình duyệt giúp người dùng tự động humanize text đang nhập."
+  ],
+  "stars": 40314,
+  "starsToday": 366,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "ai-writing",
+    "claude-code",
+    "codex",
+    "cursor",
+    "prompt-engineering",
+    "writing-tools"
+  ],
+  "notePath": "notes/NLP.md",
+  "createdAt": "2026-09-02T23:03:25.493Z"
+}

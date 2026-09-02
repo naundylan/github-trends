@@ -1,0 +1,28 @@
+{
+  "id": "65882a5c-abf5-4e4d-aff3-357efa1f91f5",
+  "repo": "3b1b/manim",
+  "url": "https://github.com/3b1b/manim",
+  "category": "Data Visualization",
+  "summary": "Manim là engine tạo động cho Python dùng để tạo video giải thích toán học với các hoạt hình mượt mà và chính xác.",
+  "usecases": [
+    "Tạo video giảng dạy toán học động học cho giáo viên và kênh YouTube.",
+    "Phản đồ các khái niệm toán học trừu tượng trong nghiên cứu và bài giảng.",
+    "Sản xuất nội dung trực quan cho các bài thuyết trình khoa học."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tự động tạo script và animation cho các bài toán toán.",
+    "Phát triển plugin cho IDE để preview animation trực tiếp trong code.",
+    "Sử dụng để tạo nội dung giáo dục tương tác cho ứng dụng di động."
+  ],
+  "stars": 92864,
+  "starsToday": 432,
+  "language": "Python",
+  "topics": [
+    "python",
+    "animation",
+    "explanatory-math-videos",
+    "3b1b-videos"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-09-02T23:03:25.493Z"
+}

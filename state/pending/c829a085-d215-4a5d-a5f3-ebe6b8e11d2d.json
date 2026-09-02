@@ -1,0 +1,42 @@
+{
+  "id": "c829a085-d215-4a5d-a5f3-ebe6b8e11d2d",
+  "repo": "hacksider/Deep-Live-Cam",
+  "url": "https://github.com/hacksider/Deep-Live-Cam",
+  "category": "Computer Vision",
+  "summary": "Deep-Live-Cam cho phép swap khuôn mặt real-time và tạo deepfake video chỉ cần một ảnh đầu vào.",
+  "usecases": [
+    "Nghệ thuật sản xuất phim hiệu ứng thịt thể",
+    "Kiểm thử và đánh giá hệ thống nhận diện khuôn mặt",
+    "Nội dung giải trí livestream và avatar đổi khuôn mặt"
+  ],
+  "ideas": [
+    "Kết hợp với video conference để thay đổi avatar trực tiếp",
+    "Sử dụng trong phim hoạt hình tạo nhân vật ảo nhanh",
+    "Phát triển công cụ giáo dục hoặc diễn xuất virtual production"
+  ],
+  "stars": 96454,
+  "starsToday": 226,
+  "language": "Python",
+  "topics": [
+    "ai-face",
+    "deepfake",
+    "video-deepfake",
+    "deepfake-webcam",
+    "fake-webcam",
+    "realtime-deepfake",
+    "realtime-face-changer",
+    "faceswap",
+    "webcam",
+    "ai-deep-fake",
+    "ai-webcam",
+    "ai",
+    "artificial-intelligence",
+    "webcamera",
+    "deep-fake",
+    "real-time-deepfake",
+    "gan",
+    "realtime"
+  ],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-09-02T23:03:25.493Z"
+}

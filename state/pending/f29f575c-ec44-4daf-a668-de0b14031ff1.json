@@ -1,0 +1,34 @@
+{
+  "id": "f29f575c-ec44-4daf-a668-de0b14031ff1",
+  "repo": "arcboxlabs/arcbox",
+  "url": "https://github.com/arcboxlabs/arcbox",
+  "category": "AI Agent/Automation",
+  "summary": "Cho phép chạy AI agents trên các máy chủ cô lập với kernel, filesystem và mạng riêng, boot dưới 100ms, tương thích OCI và viết bằng pure Rust.",
+  "usecases": [
+    "Chạy AI agents an toàn trong môi trường cô lập cho các tác vụ nhạy cảm về bảo mật.",
+    "Tạo sandbox động cho agent thực thi code hoặc tương tác hệ thống.",
+    "Triển khai infrastructure AI local-first với boot nhanh và tài nguyên cô lập."
+  ],
+  "ideas": [
+    "Kết hợp với frameworks agent như AutoGPT hay LangChain để chạy trên các máy ảo nhẹ.",
+    "Phát triển hệ thống tự động test/debug agent trong môi trường cô lập.",
+    "Sử dụng làm nền tảng cho desktop app quản lý nhiều agent cùng lúc."
+  ],
+  "stars": 2346,
+  "starsToday": 506,
+  "language": "Rust",
+  "topics": [
+    "ai-agents",
+    "computer-use",
+    "containers",
+    "docker",
+    "firecracker",
+    "microvm",
+    "rust",
+    "sandbox",
+    "virtual-machine",
+    "virtualization"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-02T23:03:25.492Z"
+}

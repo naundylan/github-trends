@@ -1,0 +1,37 @@
+{
+  "id": "fbaa6a2e-5738-4c6a-96a1-c50ef6bc1bff",
+  "repo": "pacifio/atlas",
+  "url": "https://github.com/pacifio/atlas",
+  "category": "Other",
+  "summary": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+  "usecases": [
+    "Khám phá và đánh giá pacifio/atlas cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 2843,
+  "starsToday": 895,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "ai-coding-assistant",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "git",
+    "gitops",
+    "kilo-code",
+    "mcp",
+    "mcp-client",
+    "opencode",
+    "opencode-ai",
+    "opencode-skills",
+    "self-hosted",
+    "skills"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-02T23:03:25.492Z"
+}

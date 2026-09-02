@@ -1,0 +1,23 @@
+{
+  "id": "443c612f-47c0-42b6-a11a-0e5f514bdd96",
+  "repo": "slackhq/nebula",
+  "url": "https://github.com/slackhq/nebula",
+  "category": "Networking",
+  "summary": "Nebula là công cụ overlay networking quy mô lớn tập trung vào hiệu suất, tính đơn giản và an toàn, cho phép kết nối mạng lưới linh hoạt và bảo mật.",
+  "usecases": [
+    "Kết nối an toàn giữa các máy chủ trong môi trường đa đám mây",
+    "Tạo mạng lưới nội bộ cho các thiết bị IoT phân tán",
+    "Giảm latency cho ứng dụng cần giao tiếp giữa các dịch vụ tại các vị trí khác nhau"
+  ],
+  "ideas": [
+    "Kết hợp với Tailscale để tạo mạng lưới overlay toàn cầu an toàn",
+    "Sử dụng làm nền tảng cho các hệ thống giao tiếp giữa các drone hoặc robot",
+    "Triển khai cho các ứng dụng edge computing cần kết nối các thiết bị edge an toàn"
+  ],
+  "stars": 18245,
+  "starsToday": 561,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-02T23:03:25.492Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1b4f5b82-b0c1-4776-a50c-e82295b68b5b",
+  "repo": "datawhalechina/hello-agents",
+  "url": "https://github.com/datawhalechina/hello-agents",
+  "category": "AI Agent/Automation",
+  "summary": "Tutorial sách hướng dẫn xây dựng AI agent từ cơ bản, covering nguyên lý, LLM và RAG thực hành.",
+  "usecases": [
+    "Học cách xây dựng agent tự động hóa tác vụ sử dụng LLM.",
+    "Triển khai RAG cho agent để truy xuất thông tin nội bộ.",
+    "Giáo dục và nghiên cứu nguyên lý hoạt động của AI agent."
+  ],
+  "ideas": [
+    "Kết hợp với frameworks như LangChain hoặc AutoGPT để mở rộng khả năng agent.",
+    "Phát triển bài tập thực hành cho sinh viên/học viên về agent development.",
+    "Sử dụng làm foundation để xây dựng agent chuyên dụng cho lĩnh vực cụ thể."
+  ],
+  "stars": 76495,
+  "starsToday": 471,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "tutorial",
+    "llm",
+    "rag"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-02T23:03:25.493Z"
+}
