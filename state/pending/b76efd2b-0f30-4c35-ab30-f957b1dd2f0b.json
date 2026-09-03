@@ -1,0 +1,44 @@
+{
+  "id": "b76efd2b-0f30-4c35-ab30-f957b1dd2f0b",
+  "repo": "eneskirca/nodeterm",
+  "url": "https://github.com/eneskirca/nodeterm",
+  "category": "Developer Tool",
+  "summary": "Quản lý terminal dựa trên node trên canvas vô hạn, cho phép điều khiển các phiên terminal tmux và các phiên đồng thời của các AI coding agents, được xây dựng trên Electron và có bản Server chạy trên trình duyệt cho macOS và Linux.",
+  "usecases": [
+    "Quản lý và điều khiển nhiều phiên AI coding agents (Claude, Code, v.v.) cùng lúc trên một canvas vô hạn.",
+    "Tối ưu quy trình làm việc cho các dự án phức tạp cần nhiều agent song song với giao diện trực quan.",
+    "Giám sát và tương tác với các terminal tmux thông qua giao diện đồ họa trên desktop hoặc web."
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng tự động hóa CI/CD để điều khiển agent qua terminal theo lịch trình.",
+    "Phát triển plugin cho IDE để kết nối với canvas terminal management để debug trực tiếp.",
+    "Tạo giao diện dashboard theo dõi hiệu suất và tài nguyên của các AI agent đang chạy."
+  ],
+  "stars": 1682,
+  "starsToday": 246,
+  "language": "TypeScript",
+  "topics": [
+    "adhd",
+    "ai-agents",
+    "canvas",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "electron",
+    "linux",
+    "macos",
+    "terminal",
+    "terminal-emulator",
+    "tmux",
+    "agent-orchestration",
+    "coding-agents",
+    "gemini",
+    "multiplexer",
+    "opencode",
+    "parallel-agents",
+    "terminal-multiplexer",
+    "workspace-manager"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-03T23:02:03.878Z"
+}

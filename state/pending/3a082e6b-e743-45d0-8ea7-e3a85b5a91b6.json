@@ -1,0 +1,36 @@
+{
+  "id": "3a082e6b-e743-45d0-8ea7-e3a85b5a91b6",
+  "repo": "fmtlib/fmt",
+  "url": "https://github.com/fmtlib/fmt",
+  "category": "Developer Tool",
+  "summary": "Thư viện định dạng hiện đại cho C++, cung cấp các hàm format an toàn, nhanh và linh hoạt thay thế printf truyền thống, hỗ trợ đa nền tảng và các kiểu dữ liệu hiện đại.",
+  "usecases": [
+    "Format output logs trong ứng dụng C++ đa nền tảng.",
+    "Xử lý định dạng ngày giờ và số liệu trong các dự án sử dụng chrono.",
+    "Tích hợp vào command-line tools để hiển thị kết quả rõ ràng."
+  ],
+  "ideas": [
+    "Sử dụng fmt để xây dựng CLI analyzer cho các dự án C++.",
+    "Kết hợp với ranges library để format dữ liệu động trong hệ thống.",
+    "Tạo extension cho IDE hiển thị formatted output trực tiếp trong editor."
+  ],
+  "stars": 25041,
+  "starsToday": 955,
+  "language": "C++",
+  "topics": [
+    "formatting",
+    "printf",
+    "output",
+    "chrono",
+    "performance",
+    "multiplatform",
+    "cross-platform",
+    "cpp",
+    "ranges",
+    "floating-point",
+    "unicode",
+    "c-plus-plus"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-03T23:02:03.878Z"
+}

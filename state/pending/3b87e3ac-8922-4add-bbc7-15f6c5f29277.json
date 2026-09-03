@@ -1,0 +1,23 @@
+{
+  "id": "3b87e3ac-8922-4add-bbc7-15f6c5f29277",
+  "repo": "LanRhyme/MicYou",
+  "url": "https://github.com/LanRhyme/MicYou",
+  "category": "Productivity/Personal Tool",
+  "summary": "MicYou là một ứng dụng将把 Android thiết bị chuyển thành microphone chất lượng cao cho PC, cho phép người dùng sử dụng điện thoại làm thiết bị ghi âm cho máy tính với độ trễ thấp và âm thanh rõ ràng.",
+  "usecases": [
+    "Sử dụng microphone điện thoại để ghi âm podcast hoặc video cho PC",
+    "Thay thế microphone nội bộ PC trong các cuộc gọi video và conference",
+    "Phát trực âm hoặc ghi âm game trên PC bằng mic điện thoại"
+  ],
+  "ideas": [
+    "Kết hợp tính năng điều khiển từ xa để điều chỉnh cường độ âm lượng trực tiếp từ điện thoại",
+    "Phát triển phiên bản iOS tương tự để hỗ trợ đa nền tảng",
+    "Thêm tính năng lọc tiếng ồn AI để cải thiện chất lượng âm thanh trong thời gian thực"
+  ],
+  "stars": 3536,
+  "starsToday": 155,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-03T23:02:03.878Z"
+}

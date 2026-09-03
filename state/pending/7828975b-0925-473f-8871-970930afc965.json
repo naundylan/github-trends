@@ -1,0 +1,23 @@
+{
+  "id": "7828975b-0925-473f-8871-970930afc965",
+  "repo": "vercel-labs/portless",
+  "url": "https://github.com/vercel-labs/portless",
+  "category": "Developer Tool",
+  "summary": "Giúp ánh xạ cổng cục bộ thành URL có tên ổn định, dễ dàng share và test ứng dụng local mà không cần quản lý cổng ngẫu nhiên.",
+  "usecases": [
+    "Share local server cho team review trong quá trình phát triển.",
+    "Test webhook từ bên ngoài lên máy local một cách an toàn và nhanh.",
+    "Tích hợp vào pipeline CI/CD để expose environment staging URLs."
+  ],
+  "ideas": [
+    "Tự động tạo tên URL theo định dạng {tên-dự án}-{port}.localhost.",
+    "Hỗ trợ HTTPS tự ký cho URL expose local.",
+    "Kết hợp với DNS local để truy cập qua tên miền tùy chỉnh."
+  ],
+  "stars": 12046,
+  "starsToday": 498,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-03T23:02:03.878Z"
+}

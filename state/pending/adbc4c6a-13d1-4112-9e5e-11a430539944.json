@@ -1,0 +1,33 @@
+{
+  "id": "adbc4c6a-13d1-4112-9e5e-11a430539944",
+  "repo": "sngyai/Sequoia-X",
+  "url": "https://github.com/sngyai/Sequoia-X",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống tự động chọn mã A-shares dựa trên nhiều kỹ thuật hình thái, chạy định kỳ sau giờ đóng cửa và kết quả được推送 qua Feishu.",
+  "usecases": [
+    "Tự động theo dõi và phát hiện cơ hội đầu tư dựa trên kỹ thuật trong thị trường A-shares.",
+    "Gửi báo cáo định kỳ về hiệu suất portfolio cho nhà đầu tư qua Feishu/DingTalk.",
+    "Nghiên cứu và backtest các chiến lược giao dịch dựa trên kỹ thuật hình thái."
+  ],
+  "ideas": [
+    "Kết hợp dữ liệu thời gian thực để tạo tín hiệu giao dịch tức thời.",
+    "Mở rộng hỗ trợ cho thị trường quốc tế (US stocks) cùng thư viện phân tích kỹ thuật.",
+    "Tạo dashboard trực quan hóa kết quả chọn stock hàng tuần dựa trên dữ liệu lịch sử."
+  ],
+  "stars": 6488,
+  "starsToday": 565,
+  "language": "Python",
+  "topics": [
+    "ta-lib",
+    "python",
+    "turtle-trade",
+    "a-shares",
+    "pandas",
+    "akshare",
+    "baostock",
+    "stock-screening",
+    "trading"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-03T23:02:03.878Z"
+}

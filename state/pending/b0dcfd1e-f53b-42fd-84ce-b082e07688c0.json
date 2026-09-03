@@ -1,0 +1,42 @@
+{
+  "id": "b0dcfd1e-f53b-42fd-84ce-b082e07688c0",
+  "repo": "f/prompts.chat",
+  "url": "https://github.com/f/prompts.chat",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+  "usecases": [
+    "Share and discover AI prompts for various use cases (writing, coding, analysis, etc.)",
+    "Self-hosted prompt repository for organizations to maintain privacy and consistency",
+    "Discover and share prompts for various AI models (ChatGPT, Claude, Gemini, GPT-4, etc.) for various use cases"
+  ],
+  "ideas": [
+    "Create a specialized prompt library for a specific domain (medical, legal, coding)",
+    "Build a prompt marketplace or sharing platform with rating and categorization system",
+    "Create a prompt generator or suggestion tool based on use case and AI model"
+  ],
+  "stars": 168953,
+  "starsToday": 201,
+  "language": "HTML",
+  "topics": [
+    "chatgpt",
+    "ai",
+    "artificial-intelligence",
+    "awesome-list",
+    "chatgpt-prompts",
+    "claude",
+    "gemini",
+    "gpt",
+    "gpt-4",
+    "llm",
+    "machine-learning",
+    "nextjs",
+    "open-source",
+    "openai",
+    "prompt-engineering",
+    "prompts",
+    "typescript",
+    "prompts-chat"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-03T23:02:03.878Z"
+}

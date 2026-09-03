@@ -1,0 +1,34 @@
+{
+  "id": "9a64dc6d-83d4-45cf-a571-1ed949a6705d",
+  "repo": "ByteByteGoHq/system-design-101",
+  "url": "https://github.com/ByteByteGoHq/system-design-101",
+  "category": "Documentation/Learning Resource",
+  "summary": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+  "usecases": [
+    "Prepare for system design interviews in tech companies and FAANG interviews",
+    "Learn and understand complex system architectures, design patterns, and scalability concepts",
+    "Reference guide for designing scalable systems, microservices, and distributed architectures"
+  ],
+  "ideas": [
+    "Build an interactive system design learning platform with quizzes, progress tracking, and hands-on projects",
+    "Create a system design interview question generator or random selector with difficulty levels",
+    "Build a system design comparison tool to compare different architecture approaches and trade-offs"
+  ],
+  "stars": 88299,
+  "starsToday": 158,
+  "language": "",
+  "topics": [
+    "aws",
+    "cloud-computing",
+    "coding-interviews",
+    "computer-science",
+    "interview-questions",
+    "software-architecture",
+    "software-development",
+    "software-engineering",
+    "system-design",
+    "system-design-interview"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-03T23:02:03.878Z"
+}

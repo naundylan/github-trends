@@ -1,0 +1,23 @@
+{
+  "id": "8a69ac5f-bcb2-452e-b145-64808b9b2d86",
+  "repo": "averygan/reclip",
+  "url": "https://github.com/averygan/reclip",
+  "category": "Productivity/Personal Tool",
+  "summary": "reclip là một downloader media self-hosting nhẹ, cho phép tải video từ hầu hết các website kèm giao diện web sạch, phù hợp để lưu trữ hoặc tái sử dụng nội dung.",
+  "usecases": [
+    "Tải video từ các nền tảng truyền thông để xem ngoại tuyến trên thiết bị cá nhân",
+    "Thu thập tài liệu video cho mục đích nghiên cứu hoặc tạo nội dung",
+    "Triển khai self-hosted làm giải pháp downloader riêng cho doanh nghiệp hoặc team"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý dự án để tự động tải video tham khảo khi tạo issue",
+    "Thêm hỗ trợ trích xuất phụ đề tự động cho các video đã tải",
+    "Phát triển plugin cho trình duyệt để kích hoạt downloader trực tiếp từ thanh địa chỉ"
+  ],
+  "stars": 8333,
+  "starsToday": 123,
+  "language": "HTML",
+  "topics": [],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-03T23:02:03.879Z"
+}

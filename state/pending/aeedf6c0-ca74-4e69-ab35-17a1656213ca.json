@@ -1,0 +1,35 @@
+{
+  "id": "aeedf6c0-ca74-4e69-ab35-17a1656213ca",
+  "repo": "bannedbook/fanqiang",
+  "url": "https://github.com/bannedbook/fanqiang",
+  "category": "Security/Pentest",
+  "summary": "Công cụ mã nguồn mở hỗ trợ truy cập internet tự do bằng nhiều giao thức proxy như Shadowsocks, V2Ray, Trojan và Psiphon, giúp vượt qua các hạn chế mạng.",
+  "usecases": [
+    "Kết nối an toàn đến mạng nội bộ từ xa trên các môi trường Wi-Fi công cộng.",
+    "Truy cập các trang web và dịch vụ bị chặn tại trường học hoặc công sở.",
+    "Thiết lập proxy cho ứng dụng cần giao thức truyền dữ liệu đặc biệt."
+  ],
+  "ideas": [
+    "Tự động chuyển đổi giao thức dựa trên tốc độ và độ ổn định kết nối.",
+    "Phát triển dashboard giám sát trạng thái proxy và lưu lượng dữ liệu.",
+    "Tích hợp với ứng dụng mobile để cung cấp nhanh chóng proxy trên thiết bị di động."
+  ],
+  "stars": 52116,
+  "starsToday": 539,
+  "language": "Kotlin",
+  "topics": [
+    "ssr",
+    "v2ray",
+    "shadowsocks",
+    "fanqiang",
+    "proxy",
+    "goflyway",
+    "daze",
+    "brook",
+    "lightsocks",
+    "trojan",
+    "psiphon"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-03T23:02:03.878Z"
+}
