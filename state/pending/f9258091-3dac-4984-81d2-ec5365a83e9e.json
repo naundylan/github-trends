@@ -1,0 +1,31 @@
+{
+  "id": "f9258091-3dac-4984-81d2-ec5365a83e9e",
+  "repo": "Ed1s0nZ/CyberStrikeAI",
+  "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống tác nhân AI tự chủ cho an ninh mạng, biến ý định thành thực thi được điều phối, bằng chứng thành bộ nhớ vận hành, mỗi hoạt động cải thiện lần sau.",
+  "usecases": [
+    "Tự động hóa quy trình penetration testing từ reconnaissance đến exploitation",
+    "Xử lý incident response với AI agent học hỏi từ từng cuộc tấn công"
+  ],
+  "ideas": [
+    "Kết hợp với SIEM/SOAR hiện có để enrichment alert tự động",
+    "Xây dựng marketplace chia sẻ playbook tấn công/phòng thủ giữa các tổ chức"
+  ],
+  "stars": 6343,
+  "starsToday": 73,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-cybersecurity",
+    "ai-penetration-testing",
+    "ai-security-tool",
+    "ctf-tools",
+    "mcp",
+    "ai-hacking",
+    "pentesting-tools"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-03T18:31:43.666Z"
+}

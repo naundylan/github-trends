@@ -1,0 +1,21 @@
+{
+  "id": "bcac34fd-0642-4f15-a5ce-8dff49ce512a",
+  "repo": "magnitudedev/magnitude",
+  "url": "https://github.com/magnitudedev/magnitude",
+  "category": "AI/LLM",
+  "summary": "Đây là server suy luận mở nguồn chạy các mô hình địa phương tốt nhất cho phần cứng của bạn, kết nối với các tác nhân mà bạn đã sử dụng. Hỗ trợ nhiều nền tảng như Pi, OpenCode, Hermes, và các công cụ khác.",
+  "usecases": [
+    "Chạy các mô hình LLM địa phương trên thiết bị di động để hỗ trợ chatbot",
+    "Tích hợp với các hệ thống AI hiện có như OpenCode, Hermes, và Claude Code"
+  ],
+  "ideas": [
+    "Sử dụng để chạy mô hình LLM trên máy tính cá nhân với hiệu năng cao",
+    "Kết hợp với các hệ thống agent để tạo ra các assistant tự chủ"
+  ],
+  "stars": 1861,
+  "starsToday": 130,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-03T18:31:43.666Z"
+}

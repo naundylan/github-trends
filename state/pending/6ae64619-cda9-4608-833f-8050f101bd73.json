@@ -1,0 +1,42 @@
+{
+  "id": "6ae64619-cda9-4608-833f-8050f101bd73",
+  "repo": "CapSoftware/Cap",
+  "url": "https://github.com/CapSoftware/Cap",
+  "category": "Productivity/Personal Tool",
+  "summary": "Là một công cụ mã nguồn mở thay thế Loom, cho phép ghi âm và chia sẻ màn hình đẹp mắt. Dễ sử dụng và phù hợp cho việc ghi lại hướng dẫn hoặc trình diễn.",
+  "usecases": [
+    "Ghi lại hướng dẫn sử dụng sản phẩm cho khách hàng",
+    "Chia sẻ session làm việc với đồng nghiệp qua Slack hoặc Teams"
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng collaboration như Notion hoặc Confluence",
+    "Sử dụng để tạo video tutorial nhanh chóng cho đội ngũ phát triển"
+  ],
+  "stars": 21602,
+  "starsToday": 108,
+  "language": "Rust",
+  "topics": [
+    "app",
+    "cap",
+    "coss",
+    "mac",
+    "open-source",
+    "oss",
+    "react",
+    "record",
+    "screen-capture",
+    "screen-recorder",
+    "screenshot",
+    "tauri",
+    "tauri-app",
+    "typescript",
+    "vite",
+    "solidjs",
+    "loom",
+    "nextjs",
+    "rust",
+    "nextjs15"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-03T18:31:43.666Z"
+}

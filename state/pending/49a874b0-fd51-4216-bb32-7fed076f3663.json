@@ -1,0 +1,39 @@
+{
+  "id": "49a874b0-fd51-4216-bb32-7fed076f3663",
+  "repo": "tbphp/gpt-load",
+  "url": "https://github.com/tbphp/gpt-load",
+  "category": "AI/LLM",
+  "summary": "Dự án là một AI gateway tự hosting cho các kênh đa dạng và nhiều credential, cho phép quản lý API keys, tài khoản đăng ký, lịch trình, failover, cũng như ghi log và theo dõi dùng lượng LLM.",
+  "usecases": [
+    "Tổng hợp và định tuyến yêu cầu đến nhiều provider LLM (OpenAI, Gemini, Anthropic, Claude) thông qua một điểm tiếp cận duy nhất.",
+    "Quản lý chi phí và sử dụng bằng cách đặt hạn ngạch tài khoản, theo dõi dùng lượng và tự động failover khi provider gặp sự cố.",
+    "Phù hợp cho các ứng dụng doanh nghiệp cần compliance, logging chi tiết và nhiều credential cho các dự án khác nhau."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý prompt để tạo ra một platform AI management toàn diện.",
+    "Triển khai làm layer routing cho các agent AI tự hành, chọn provider tốt nhất dựa trên chi phí/latency.",
+    "Phát triển plugin cho các framework AI hiện có để hỗ trợ đa kênh một cách minh bạch."
+  ],
+  "stars": 6517,
+  "starsToday": 80,
+  "language": "Go",
+  "topics": [
+    "go",
+    "golang",
+    "openai",
+    "gemini",
+    "gin",
+    "anthropic",
+    "claude",
+    "ai-gateway",
+    "claude-code",
+    "codex",
+    "llm",
+    "llm-gateway",
+    "load-balancer",
+    "api-gateway",
+    "self-hosted"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-03T18:31:43.666Z"
+}

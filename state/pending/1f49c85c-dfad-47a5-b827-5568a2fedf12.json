@@ -1,0 +1,36 @@
+{
+  "id": "1f49c85c-dfad-47a5-b827-5568a2fedf12",
+  "repo": "rmyndharis/OpenWA",
+  "url": "https://github.com/rmyndharis/OpenWA",
+  "category": "API/GraphQL",
+  "summary": "API Gateway autohospedado de código abierto para WhatsApp, escrito en TypeScript, que permite la integración y automatización de mensajes de WhatsApp en aplicaciones propias.",
+  "usecases": [
+    "Creación de bots de WhatsApp automatizados para atención al cliente",
+    "Integración de envío de mensajes WhatsApp en sistemas internos",
+    "Gestión y monitoreo de mensajes WhatsApp en servidor propio"
+  ],
+  "ideas": [
+    "Desarrollo de plataforma multiplataforma que combine WhatsApp y Telegram",
+    "Creación de plugin para sistemas CRM con conexión WhatsApp",
+    "Ofrecer servicio WhatsApp API en modelo pay-as-you-go para empresas"
+  ],
+  "stars": 13708,
+  "starsToday": 82,
+  "language": "TypeScript",
+  "topics": [
+    "api",
+    "gateway",
+    "whatsapp",
+    "self-hosted",
+    "whatsapp-api",
+    "whatsapp-gateway",
+    "whatsapp-gateway-api",
+    "bot",
+    "whatsapp-automation",
+    "whatsapp-bot",
+    "whatsapp-web",
+    "whatsapp-web-api"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-03T18:31:43.666Z"
+}

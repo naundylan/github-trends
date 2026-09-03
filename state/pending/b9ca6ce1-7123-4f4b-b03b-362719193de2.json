@@ -1,0 +1,23 @@
+{
+  "id": "b9ca6ce1-7123-4f4b-b03b-362719193de2",
+  "repo": "facebook/stylex",
+  "url": "https://github.com/facebook/stylex",
+  "category": "CSS/Styling",
+  "summary": "StyleX là hệ thống styling hiện đại cho giao diện người dùng quy mô lớn với performance và maintainability cao.",
+  "usecases": [
+    "Xây dựng UI cho web applications với styles được compile-time optimized",
+    "Shared styling system giữa các project React Native và web",
+    "Giảm bundle size và tránh runtime style calculations"
+  ],
+  "ideas": [
+    "Kết hợp với Tailwind CSS workflows để hybrid styling",
+    "Tạo DSL cho designers để định nghĩa styles mà không cần viết CSS",
+    "Áp dụng cho Expo React Native workflows với native performance"
+  ],
+  "stars": 10100,
+  "starsToday": 67,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/CSS-Styling.md",
+  "createdAt": "2026-09-03T18:31:43.666Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "c603f321-2de4-4dde-bf98-4f65a8f0828b",
+  "repo": "zarazhangrui/follow-builders",
+  "url": "https://github.com/zarazhangrui/follow-builders",
+  "category": "AI/LLM",
+  "summary": "Herramienta JavaScript que monitorea a los principales creadores de IA en X y podcasts de YouTube, resumiendo su contenido en digestibles resúmenes diarios para que sigas a los builders, no a los influencers.",
+  "usecases": [
+    "Monitoreo automático de tendencias y novedades en IA",
+    "Generación de resúmenes diarios para desarrolladores",
+    "Seguimiento de expertos en IA sin necesidad de seguirles directamente"
+  ],
+  "ideas": [
+    "Integración con newsletter automática para envío diario",
+    "Desarrollo de bot para Telegram/Discord con notificaciones de resumen",
+    "Permitir a usuarios seleccionar temas específicos para resumir de los builders seguidos"
+  ],
+  "stars": 6605,
+  "starsToday": 84,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-03T18:31:43.666Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "7638e2d0-394b-4089-bccf-a981a8d45541",
+  "repo": "lbjlaq/Antigravity-Manager",
+  "url": "https://github.com/lbjlaq/Antigravity-Manager",
+  "category": "Desktop App",
+  "summary": "Công cụ quản lý và chuyển đổi tài khoản Antigravity chuyên nghiệp, xây dựng bằng Tauri v2 + React (Rust) cho hiệu năng gốc và trải nghiệm mượt mà.",
+  "usecases": [
+    "Chuyển đổi nhanh giữa nhiều tài khoản Antigravity chỉ với một cú nhấp chuột",
+    "Quản lý tập trung thông tin đăng nhập và cấu hình cho các dự án khác nhau"
+  ],
+  "ideas": [
+    "Tích hợp đồng bộ cấu hình qua cloud để dùng trên nhiều máy tính",
+    "Mở rộng hỗ trợ các nền tảng AI coding assistant khác như Cursor, Windsurf"
+  ],
+  "stars": 30972,
+  "starsToday": 75,
+  "language": "Rust",
+  "topics": [
+    "account-manager",
+    "antigravity"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-03T18:31:43.666Z"
+}
