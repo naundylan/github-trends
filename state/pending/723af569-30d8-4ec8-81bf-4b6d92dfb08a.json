@@ -1,0 +1,34 @@
+{
+  "id": "723af569-30d8-4ec8-81bf-4b6d92dfb08a",
+  "repo": "ByteByteGoHq/system-design-101",
+  "url": "https://github.com/ByteByteGoHq/system-design-101",
+  "category": "Documentation/Learning Resource",
+  "summary": "Bộ tài liệu giáo dục về thiết kế hệ thống với hình ảnh trực quan và ngôn ngữ dễ hiểu, giúp lập trình viên chuẩn bị cho phỏng vấn system design. Nội dung bao gồm kiến trúc cloud, microservices, database và các mô hình scalability.",
+  "usecases": [
+    "Học viên chuẩn bị phỏng vấn system design tại các công ty cô nghệ lớn",
+    "Senior developer ôn tập và hệ thống lại kiến thức về kiến trúc phần mềm phân tán",
+    "Educator giảng dạy khóa học về thiết kế hệ thống cho sinh viên CNTT"
+  ],
+  "ideas": [
+    "Tạo bộ quiz tương tác để luyện tập từng chủ đề system design riêng biệt",
+    "Biên soạn thành khóa học video trả phí có bài tập thực hành thiết kế hệ thống cụ thể",
+    "Phát triển công cụ mock interview tự động đánh giá câu trả lời system design"
+  ],
+  "stars": 88112,
+  "starsToday": 158,
+  "language": "",
+  "topics": [
+    "aws",
+    "cloud-computing",
+    "coding-interviews",
+    "computer-science",
+    "interview-questions",
+    "software-architecture",
+    "software-development",
+    "software-engineering",
+    "system-design",
+    "system-design-interview"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-03T13:25:56.574Z"
+}

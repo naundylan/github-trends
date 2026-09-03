@@ -1,0 +1,23 @@
+{
+  "id": "e0a960b2-82cd-476c-ba4d-c3f1efa17769",
+  "repo": "averygan/reclip",
+  "url": "https://github.com/averygan/reclip",
+  "category": "Productivity/Personal Tool",
+  "summary": "Công cụ tải xuống video tự host nhẹ, hỗ trợ hầu hết các trang web, với giao diện web sạch và dễ sử dụng.",
+  "usecases": [
+    "Tải video từ các trang web chia sẻ video như YouTube, Vimeo cho mục đích lưu trữ cá nhân.",
+    "Thu thập nội dung video cho thư viện đa phương tiện trong tổ chức.",
+    "Sao lưu nội dung video từ các trang web giáo dục hoặc tin tức."
+  ],
+  "ideas": [
+    "Thêm tính năng chuyển đổi định dạng video tự động (MP4 sang WebM) trong quá trình tải xuống.",
+    "Tích hợp với dịch vụ lưu trữ đám mây để tự động đồng bộ video đã tải xuống.",
+    "Xây dựng một API backend cho phép tích hợp vào các ứng dụng di động hoặc bot Discord."
+  ],
+  "stars": 8181,
+  "starsToday": 673,
+  "language": "HTML",
+  "topics": [],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-03T13:25:56.573Z"
+}

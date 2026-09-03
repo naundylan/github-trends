@@ -1,0 +1,44 @@
+{
+  "id": "e05cb6f4-b8f5-4a97-9610-1b9fc308a91f",
+  "repo": "eneskirca/nodeterm",
+  "url": "https://github.com/eneskirca/nodeterm",
+  "category": "AI Agent/Automation",
+  "summary": "Quản lý terminal dựa trên node cho các tác nhân AI, cung cấp canvas vô hạn với các phiên terminal tmux đồng thời, giúp điều phối và điều khiển các tác nhân coding trên macOS, Linux và Server Edition.",
+  "usecases": [
+    "Điều phối nhiều tác nhân AI cùng lúc để thực hiện các tác vụ code phức tạp.",
+    "Quản lý và chuyển đổi giữa các terminal tmux trong một canvas trực quan.",
+    "Phát triển và test các ứng dụng AI trên nhiều môi trường hệ điều hành cùng lúc."
+  ],
+  "ideas": [
+    "Kết hợp voice control để điều khiển terminal bằng giọng nói.",
+    "Tích hợp mô hình LLM cục bộ để tự động hóa các routine phát triển.",
+    "Phát triển phiên bản mobile để theo dõi và can thiệp vào các tác nhân AI đang chạy."
+  ],
+  "stars": 1637,
+  "starsToday": 246,
+  "language": "TypeScript",
+  "topics": [
+    "adhd",
+    "ai-agents",
+    "canvas",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "electron",
+    "linux",
+    "macos",
+    "terminal",
+    "terminal-emulator",
+    "tmux",
+    "agent-orchestration",
+    "coding-agents",
+    "gemini",
+    "multiplexer",
+    "opencode",
+    "parallel-agents",
+    "terminal-multiplexer",
+    "workspace-manager"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-03T13:25:56.574Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "340ab17b-cade-4ec8-931a-3f60e970a051",
+  "repo": "OpenWhispr/openwhispr",
+  "url": "https://github.com/OpenWhispr/openwhispr",
+  "category": "AI/LLM",
+  "summary": "Ứng dụng dictation ghi âm giọng nói chuyển thành văn bản, hỗ trợ mô hình local (Nvidia Parakeet/Whisper) và cloud (BYOK), chú trọng quyền riêng tư và cross-platform.",
+  "usecases": [
+    "Ghi chép nhanh văn bản bằng giọng nói trên desktop/laptop mà không cần internet (mô hình local).",
+    "Dịch hoặc transcribe cuộc họp với các mô hình cloud tùy chọn an toàn qua BYOK.",
+    "Ứng dụng cho người khiếm thính hoặc cần ghi nhận nội dung bằng giọng nói trên nhiều hệ điều hành."
+  ],
+  "ideas": [
+    "Tích hợp với các trình soạn thảo văn bản để nhập liệu bằng giọng nói real-time.",
+    "Phát triển chế độ offline-first với sync lên cloud khi có kết nối.",
+    "Tạo extension cho browser để dictation trên các form input web."
+  ],
+  "stars": 6333,
+  "starsToday": 328,
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "open-source",
+    "whisper",
+    "anthropic",
+    "cross-platform",
+    "gemini",
+    "groq",
+    "linux",
+    "macos",
+    "openai",
+    "speech-to-text",
+    "transcribe",
+    "windows",
+    "nvidia",
+    "parakeet"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-03T13:25:56.574Z"
+}

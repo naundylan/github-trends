@@ -1,0 +1,36 @@
+{
+  "id": "5c880b9a-5493-40a0-b5e0-d6a6647a9a7d",
+  "repo": "fmtlib/fmt",
+  "url": "https://github.com/fmtlib/fmt",
+  "category": "Developer Tool",
+  "summary": "Thư viện định dạng hiện đại cho C++, cung cấp các chức năng định dạng đầu ra mạnh mẽ, hỗ trợ nhiều định dạng, Unicode và hiệu suất cao trên nhiều nền tảng.",
+  "usecases": [
+    "Tạo chuỗi định dạng động cho các ứng dụng console và GUI.",
+    "Tích hợp vào các framework C++ để xuất nhật ký hoặc báo cáo có định dạng.",
+    "Sử dụng trong các công cụ dòng lệnh để hiển thị dữ liệu người dùng thân thiện."
+  ],
+  "ideas": [
+    "Tích hợp với thư viện template C++ để tự động định dạng các đối tượng phức tạp.",
+    "Xây dựng một plugin cho IDE để tô sáng cú pháp các chuỗi định dạng.",
+    "Phát triển một thư viện mở rộng hỗ trợ định dạng thời gian thực cho các ứng dụng nhúng."
+  ],
+  "stars": 24757,
+  "starsToday": 955,
+  "language": "C++",
+  "topics": [
+    "formatting",
+    "printf",
+    "output",
+    "chrono",
+    "performance",
+    "multiplatform",
+    "cross-platform",
+    "cpp",
+    "ranges",
+    "floating-point",
+    "unicode",
+    "c-plus-plus"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-03T13:25:56.573Z"
+}

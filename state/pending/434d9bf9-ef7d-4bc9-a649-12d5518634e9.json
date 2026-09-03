@@ -1,0 +1,35 @@
+{
+  "id": "434d9bf9-ef7d-4bc9-a649-12d5518634e9",
+  "repo": "bannedbook/fanqiang",
+  "url": "https://github.com/bannedbook/fanqiang",
+  "category": "Security/Pentest",
+  "summary": "翻墙-科学上网 - VPN 工具用于绕过网络限制",
+  "usecases": [
+    "Bypass geo-restrictions using various proxy services",
+    "Access blocked content through advanced tunneling techniques",
+    "Implement secure communication channels for privacy protection"
+  ],
+  "ideas": [
+    "Develop integrated threat detection capabilities for proxy networks",
+    "Create multi-protocol support for enhanced flexibility",
+    "Build analytics dashboard to monitor traffic patterns and anomalies"
+  ],
+  "stars": 51919,
+  "starsToday": 539,
+  "language": "Kotlin",
+  "topics": [
+    "ssr",
+    "v2ray",
+    "shadowsocks",
+    "fanqiang",
+    "proxy",
+    "goflyway",
+    "daze",
+    "brook",
+    "lightsocks",
+    "trojan",
+    "psiphon"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-03T13:25:56.574Z"
+}

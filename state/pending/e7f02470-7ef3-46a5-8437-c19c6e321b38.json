@@ -1,0 +1,42 @@
+{
+  "id": "e7f02470-7ef3-46a5-8437-c19c6e321b38",
+  "repo": "f/prompts.chat",
+  "url": "https://github.com/f/prompts.chat",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Một danh sáchawesome prompts cho ChatGPT và các mô hình LLM, cho phép cộng đồng share, discover và collect prompts, hỗ trợ self-host để tổ chức riêng với quyền riêng tuyệt đối.",
+  "usecases": [
+    "Tổ chức và quản lý bộ prompt cho các dự án AI/chatbot trong doanh nghiệp.",
+    "Phát hiện và chia sẻ các prompt hiệu quả cho các tác vụ khác nhau (marketing, code, tạo nội dung).",
+    "Self-host một repository prompt riêng để tuân thủ chính sách dữ liệu và quyền riêng."
+  ],
+  "ideas": [
+    "Tích hợp tìm kiếm vector để tìm prompt tương tự dựa trên ngữ cảnh.",
+    "Tạo dashboard phân tích hiệu quả prompt dựa trên lượt sử dụng và phản hồi.",
+    "Phát triển plugin cho IDE để chèn prompt một cách nhanh chóng khi code."
+  ],
+  "stars": 168728,
+  "starsToday": 198,
+  "language": "HTML",
+  "topics": [
+    "chatgpt",
+    "ai",
+    "artificial-intelligence",
+    "awesome-list",
+    "chatgpt-prompts",
+    "claude",
+    "gemini",
+    "gpt",
+    "gpt-4",
+    "llm",
+    "machine-learning",
+    "nextjs",
+    "open-source",
+    "openai",
+    "prompt-engineering",
+    "prompts",
+    "typescript",
+    "prompts-chat"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-03T13:25:56.574Z"
+}

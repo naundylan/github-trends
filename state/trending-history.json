@@ -6,7 +6,7 @@
   },
   "obra/superpowers": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-08-23",
+    "last_seen": "2026-09-03",
     "last_saved": "2026-08-22"
   },
   "tt-a1i/archify": {
@@ -116,7 +116,7 @@
   },
   "asgeirtj/system_prompts_leaks": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-01",
+    "last_seen": "2026-09-03",
     "last_saved": "2026-08-29"
   },
   "agentskills/agentskills": {
@@ -201,7 +201,7 @@
   },
   "ruvnet/RuView": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-09-03",
     "last_saved": "2026-08-23"
   },
   "alirezarezvani/claude-skills": {
@@ -271,7 +271,7 @@
   },
   "anthropics/skills": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-08-28",
+    "last_seen": "2026-09-03",
     "last_saved": "2026-08-27"
   },
   "TencentCloud/TencentDB-Agent-Memory": {
@@ -346,7 +346,7 @@
   },
   "rustdesk/rustdesk": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "last_saved": "2026-08-25"
   },
   "SmartlyDressedGames/U3-SDK": {
@@ -421,7 +421,7 @@
   },
   "Graphify-Labs/graphify": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-09-03",
     "last_saved": "2026-08-22"
   },
   "anthropics/claude-plugins-community": {
@@ -476,7 +476,7 @@
   },
   "ibelick/ui-skills": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-09-03",
     "last_saved": "2026-08-23"
   },
   "heygen-com/hyperframes": {
@@ -531,7 +531,7 @@
   },
   "garrytan/gstack": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-28",
+    "last_seen": "2026-09-03",
     "last_saved": "2026-08-24"
   },
   "iptv-org/iptv": {
@@ -886,7 +886,7 @@
   },
   "MakazhanAlpamys/Soup": {
     "first_seen": "2026-08-31",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "last_saved": "2026-08-31"
   },
   "hieunc229/mailflare": {
@@ -931,7 +931,7 @@
   },
   "rtk-ai/rtk": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-03",
     "last_saved": "2026-09-01"
   },
   "farion1231/cc-switch": {
@@ -994,52 +994,52 @@
     "last_seen": "2026-09-03",
     "last_saved": "2026-09-02"
   },
-  "superlinked/sie": {
+  "fmtlib/fmt": {
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "last_saved": "2026-09-03"
   },
-  "darkzOGx/youtube-automation-agent": {
+  "averygan/reclip": {
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "last_saved": "2026-09-03"
   },
-  "PDFMathTranslate/PDFMathTranslate": {
+  "bannedbook/fanqiang": {
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "last_saved": "2026-09-03"
   },
-  "browseros-ai/BrowserOS": {
+  "ByteByteGoHq/system-design-101": {
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "last_saved": "2026-09-03"
   },
-  "superset-sh/superset": {
+  "f/prompts.chat": {
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "last_saved": "2026-09-03"
   },
-  "danielmiessler/Fabric": {
+  "OpenWhispr/openwhispr": {
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "last_saved": "2026-09-03"
   },
-  "tphakala/birdnet-go": {
+  "sngyai/Sequoia-X": {
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "last_saved": "2026-09-03"
   },
-  "jdx/mise": {
+  "vercel-labs/portless": {
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "last_saved": "2026-09-03"
   },
-  "jlcodes99/cockpit-tools": {
+  "eneskirca/nodeterm": {
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "last_saved": "2026-09-03"
   },
-  "ankitects/anki": {
+  "LanRhyme/MicYou": {
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-03",
     "last_saved": "2026-09-03"

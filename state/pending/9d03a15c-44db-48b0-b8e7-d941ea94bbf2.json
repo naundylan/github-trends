@@ -1,0 +1,23 @@
+{
+  "id": "9d03a15c-44db-48b0-b8e7-d941ea94bbf2",
+  "repo": "LanRhyme/MicYou",
+  "url": "https://github.com/LanRhyme/MicYou",
+  "category": "Desktop App",
+  "summary": "Ứng dụng Rust biến điện thoại Android thành microphone chất lượng cao cho máy tính PC, hỗ trợ streaming và ghi âm với độ trễ thấp. Sử dụng USB hoặc WiFi để kết nối thiết bị.",
+  "usecases": [
+    "Streamer/game thủ sử dụng điện thoại làm mic không dây chất lượng cao thay vì mua mic USB",
+    "Người dùng laptop cần mic tốt hơn built-in microphone cho họp trực tuyến",
+    "Nhạc công ghi âm demo nhanh bằng điện thoại mà không cần thiết bị chuyên dụng"
+  ],
+  "ideas": [
+    "Thêm tích hợp effects âm thanh như noise cancellation, EQ, compressor ngay trong ứng dụng",
+    "Hỗ trợ đa thiết bị Android cùng lúc cho podcast đa người không cần phòng thu",
+    "Phát triển phiên bản iOS để mở rộng sang hệ sinh thái Apple"
+  ],
+  "stars": 3511,
+  "starsToday": 155,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-03T13:25:56.574Z"
+}

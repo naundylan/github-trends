@@ -1,0 +1,33 @@
+{
+  "id": "a0daaad3-4915-4650-b1f9-e0efc4f44fc8",
+  "repo": "sngyai/Sequoia-X",
+  "url": "https://github.com/sngyai/Sequoia-X",
+  "category": "Backend Framework",
+  "summary": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+  "usecases": [
+    "Automatically scan multiple technical indicator forms for stock selection",
+    "Run automated trading strategies after market close",
+    "Push trading signals to Notion for real-time monitoring"
+  ],
+  "ideas": [
+    "Integrate machine learning models for improved stock prediction accuracy",
+    "Add support for additional exchange markets beyond A-shares",
+    "Create web dashboard for visualizing trading performance metrics"
+  ],
+  "stars": 6464,
+  "starsToday": 565,
+  "language": "Python",
+  "topics": [
+    "ta-lib",
+    "python",
+    "turtle-trade",
+    "a-shares",
+    "pandas",
+    "akshare",
+    "baostock",
+    "stock-screening",
+    "trading"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-03T13:25:56.574Z"
+}

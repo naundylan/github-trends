@@ -1,0 +1,23 @@
+{
+  "id": "66798a75-ea62-42f1-abe7-a68bfc2e0ea9",
+  "repo": "vercel-labs/portless",
+  "url": "https://github.com/vercel-labs/portless",
+  "category": "Developer Tool",
+  "summary": "Công cụ thay thế cổng port số bằng URL ổn định có tên, giúp truy cập local server và agents dễ dàng hơn.",
+  "usecases": [
+    "Phát triển local server mà không cần nhớ port numbers, truy cập qua tên URL dễ dàng.",
+    "Cho phép AI agents hoặc automation scripts truy cập services local qua URLs ổn định.",
+    "Chia sẻ môi trường dev giữa team một cách dễ dàng qua URLs có tên thay vì port numbers."
+  ],
+  "ideas": [
+    "Kết hợp với Vercel deployment để mapping local ports sang production-like URLs.",
+    "Tạo plugin VS Code để tự động generate named URLs cho project đang chạy.",
+    "Sử dụng trong CI/CD pipelines để test local services qua named endpoints."
+  ],
+  "stars": 11998,
+  "starsToday": 498,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-03T13:25:56.574Z"
+}
