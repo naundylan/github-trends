@@ -1,0 +1,43 @@
+{
+  "id": "6cffb5dd-7d52-468f-b332-7781859403c1",
+  "repo": "PDFMathTranslate/PDFMathTranslate",
+  "url": "https://github.com/PDFMathTranslate/PDFMathTranslate",
+  "category": "AI/LLM",
+  "summary": "Công cụ dịch PDF học thuật bằng AI giữ nguyên định dạng, công thức toán và bố cục LaTeX, hỗ trợ nhiều dịch vụ dịch (Google, DeepL, OpenAI, Ollama) và nhiều giao diện sử dụng (CLI, GUI, Docker, Zotero). Được chấp nhận demo tại EMNLP 2025.",
+  "usecases": [
+    "Dịch các bài báo khoa học, luận văn PDF từ tiếng Anh sang tiếng Việt mà vẫn giữ nguyên công thức toán và hình ảnh",
+    "Tích hợp vào plugin Zotero để dịch nhanh tài liệu tham khảo trong quá trình nghiên cứu",
+    "Xử lý hàng loạt tài liệu PDF trong workflow tự động qua CLI hoặc Docker cho nhóm biên dịch"
+  ],
+  "ideas": [
+    "Kết hợp với Obsidian để tạo vault kiến thức đa ngôn ngữ từ các paper PDF đã dịch",
+    "Tích hợp MCP server vào Claude/Cursor để dịch PDF trực tiếp trong IDE",
+    "Xây dựng web app dịch PDF học thuật theo yêu cầu với cache và queue xử lý"
+  ],
+  "stars": 36646,
+  "starsToday": 55,
+  "language": "Python",
+  "topics": [
+    "chinese",
+    "latex",
+    "pdf",
+    "translation",
+    "korean",
+    "english",
+    "japanese",
+    "openai",
+    "pdf2zh",
+    "russian",
+    "python",
+    "translate",
+    "math",
+    "zotero",
+    "obsidian",
+    "document",
+    "edit",
+    "modify",
+    "mcp"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-03T07:49:44.890Z"
+}

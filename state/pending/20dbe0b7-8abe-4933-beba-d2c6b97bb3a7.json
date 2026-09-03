@@ -1,0 +1,23 @@
+{
+  "id": "20dbe0b7-8abe-4933-beba-d2c6b97bb3a7",
+  "repo": "ankitects/anki",
+  "url": "https://github.com/ankitects/anki",
+  "category": "Desktop App",
+  "summary": "Anki là một chương trình thẻ flash dựa trên spaced repetition, viết bằng Rust, giúp người dùng học và nhớ thông tin hiệu quả qua các điệp khúc tùy chỉnh.",
+  "usecases": [
+    "Học ngôn ngữ và chuẩn bị thi cử",
+    "Sinh viên y khoa nhớ thuật ngữ y",
+    "Cá nhân quản lý kiến thức hàng ngày"
+  ],
+  "ideas": [
+    "Tích hợp vào môi trường VR để học tập沉mersive",
+    "Cung cấp API cho plugin tùy chỉnh thuật toán lặp lại",
+    "Kết nối với thiết bị đeo để nhắc nhở tái lặp"
+  ],
+  "stars": 30257,
+  "starsToday": 45,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-03T07:49:44.890Z"
+}

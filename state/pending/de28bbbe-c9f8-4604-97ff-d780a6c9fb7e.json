@@ -1,0 +1,42 @@
+{
+  "id": "de28bbbe-c9f8-4604-97ff-d780a6c9fb7e",
+  "repo": "tphakala/birdnet-go",
+  "url": "https://github.com/tphakala/birdnet-go",
+  "category": "Machine Learning",
+  "summary": "Birdnet-Go là một triển khai Go của Birdnet, cho phép phân tích âm thanh wildlife trong thời gian thực bằng inference AI địa phương, chạy liên tục trên Raspberry Pi.",
+  "usecases": [
+    "Nghiên cứu sinh thái và giám sát đa dạng sinh học",
+    "Ứng dụng citizen science để ghi nhận chim và động vật",
+    "Giáo dục môi trường bằng âm thanh thực tế"
+  ],
+  "ideas": [
+    "Kết hợp với drone thu âm tự động để khảo sát sinh thái",
+    "Phân tích dữ liệu âm thanh với thời tiết để dự đoán hoạt động loài",
+    "Xây dựng dashboard web hiển thị bản đồ và xu hướng phát hiện loài"
+  ],
+  "stars": 1851,
+  "starsToday": 40,
+  "language": "Go",
+  "topics": [
+    "audio",
+    "bioacoustics",
+    "birds",
+    "golang",
+    "tensorflow",
+    "birdnet",
+    "birdnet-pi",
+    "wildlife",
+    "birdweather",
+    "raspberry-pi",
+    "artificial-intelligence",
+    "contributions-welcome",
+    "go",
+    "linux",
+    "raspberrypi",
+    "bats",
+    "perch",
+    "self-hosted"
+  ],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-09-03T07:49:44.890Z"
+}

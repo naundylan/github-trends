@@ -1,0 +1,35 @@
+{
+  "id": "5d02717f-e596-4ac7-b7e4-348ca936b7fe",
+  "repo": "browseros-ai/BrowserOS",
+  "url": "https://github.com/browseros-ai/BrowserOS",
+  "category": "AI Agent/Automation",
+  "summary": "Trình duyệt mã nguồn mở tích hợp AI agent, cho phép tự động hóa thao tác web bằng LLM cục bộ (Ollama, LMStudio) hoặc cloud, là lựa chọn thay thế cho ChatGPT Atlas, Perplexity Comet và Dia. Được xây dựng trên nền tảng Chromium.",
+  "usecases": [
+    "Tự động điền form, trích xuất dữ liệu từ website và điều hướng trang web bằng ngôn ngữ tự nhiên",
+    "Duyệt web riêng tư với LLM chạy local để đảm bảo dữ liệu không rời khỏi máy",
+    "Phát triển workflow RPA cá nhân kết hợp giữa trình duyệt và AI agent"
+  ],
+  "ideas": [
+    "Kết hợp với MCP để tạo agent có thể điều khiển cả browser lẫn ứng dụng desktop khác",
+    "Xây dựng công cụ test tự động UI dựa trên AI agent thay cho Selenium/Playwright",
+    "Tạo trợ lý nghiên cứu thị trường tự động thu thập và tổng hợp thông tin từ nhiều nguồn web"
+  ],
+  "stars": 13518,
+  "starsToday": 55,
+  "language": "TypeScript",
+  "topics": [
+    "hacktoberfest",
+    "browser",
+    "browseros",
+    "chromium",
+    "linux",
+    "macos",
+    "windows",
+    "agent",
+    "llm",
+    "lmstudio",
+    "ollama"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-03T07:49:44.890Z"
+}

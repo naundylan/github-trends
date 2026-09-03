@@ -1,0 +1,29 @@
+{
+  "id": "0dc582cc-5fac-4323-a7db-f07a1beba397",
+  "repo": "danielmiessler/Fabric",
+  "url": "https://github.com/danielmiessler/Fabric",
+  "category": "AI/LLM",
+  "summary": "Fabric là framework mã nguồn mở để tăng cường con người bằng AI, cung cấp hệ thống modular giải quyết vấn đề cụ thể bằng tập các prompt AI được cộng đồng cung cấp.",
+  "usecases": [
+    "Tạo prompt tùy chỉnh cho các tác vụ viết văn, lập trình hoặc phân tích dữ liệu",
+    "Sử dụng các prompt modular để tự động hóa báo cáo hoặc tổng hợp thông tin hàng ngày",
+    "Tích hợp vào các công cụ dòng lệnh để tăng năng suất cá nhân"
+  ],
+  "ideas": [
+    "Phát triển một bộ prompt riêng cho industry/domain cụ thể và đóng lên Fabric",
+    "Kết hợp Fabric với các agent AI khác để tạo ra một super-assistant cá nhân",
+    "Sử dụng Fabric để tự động tạo nội dung marketing hoặc code dựa trên các prompt được lưu trữ"
+  ],
+  "stars": 43766,
+  "starsToday": 46,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "augmentation",
+    "flourishing",
+    "life",
+    "work"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-03T07:49:44.890Z"
+}

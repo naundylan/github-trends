@@ -1,0 +1,33 @@
+{
+  "id": "a0116670-8355-428f-ae62-757dc426a71d",
+  "repo": "jlcodes99/cockpit-tools",
+  "url": "https://github.com/jlcodes99/cockpit-tools",
+  "category": "Developer Tool",
+  "summary": "Công cụ quản lý tài khoản AI IDE đa nền tảng bằng Rust, hỗ trợ chuyển đổi tài khoản, giám sát quota và quản lý instance tự động cho nhiều nền tảng AI như Copilot, Cursor, Kiro, v.v.",
+  "usecases": [
+    "Quản lý nhiều tài khoản AI IDE trên một thiết bị",
+    "Giám sát và cảnh báo sử dụng quota",
+    "Chạy song song nhiều instance AI IDE"
+  ],
+  "ideas": [
+    "Tích hợp đồng bộ tài khoản qua đám mây",
+    "Tạo plugin IDE tự động tải cấu hình",
+    "Chế độ tiết kiệm quota tự động ngủ đông"
+  ],
+  "stars": 16952,
+  "starsToday": 56,
+  "language": "Rust",
+  "topics": [
+    "account-manager",
+    "ai",
+    "antigravity",
+    "codex",
+    "github-copilot",
+    "windsurf",
+    "kiro",
+    "cursor",
+    "codebuddy"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-03T07:49:44.890Z"
+}

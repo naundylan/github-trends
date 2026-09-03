@@ -1,0 +1,44 @@
+{
+  "id": "84eb1830-ac7f-47dd-bba0-cb566095cc05",
+  "repo": "superset-sh/superset",
+  "url": "https://github.com/superset-sh/superset",
+  "category": "AI Agent/Automation",
+  "summary": "Superset là IDE agentic cho phép điều phối song song hơn 100 tác giả code cùng lúc, cho phép chạy bất kỳ tác giả nào với tài khoản riêng của bạn.",
+  "usecases": [
+    "Phát triển song song nhiều tính năng cùng lúc bằng nhiều AI agent",
+    "Tự động hóa quy trình review code và sửa lỗi trên nhiều branch",
+    "Tích hợp các tác giả code AI vào quy trình làm việc terminal"
+  ],
+  "ideas": [
+    "Sử dụng Superset để tự động generate và test code cho một dự án lớn theo yêu cầu",
+    "Kết hợp với CI/CD để tự động deploy code do các agent tạo ra",
+    "Tạo một tập agent chuyên xử lý các issue GitHub một cách tự động"
+  ],
+  "stars": 13686,
+  "starsToday": 49,
+  "language": "TypeScript",
+  "topics": [
+    "claude-code",
+    "codex",
+    "terminal",
+    "ai-agents",
+    "cursor-agent",
+    "opencode",
+    "parallel-agents",
+    "worktrees",
+    "cli",
+    "orchestration",
+    "coding-agents",
+    "developer-tools",
+    "ade",
+    "devtools",
+    "ide",
+    "yc-backed",
+    "agent",
+    "agent-orchestration",
+    "ai-coding",
+    "macos"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-03T07:49:44.890Z"
+}

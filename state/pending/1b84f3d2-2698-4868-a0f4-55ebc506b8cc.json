@@ -1,0 +1,44 @@
+{
+  "id": "1b84f3d2-2698-4868-a0f4-55ebc506b8cc",
+  "repo": "superlinked/sie",
+  "url": "https://github.com/superlinked/sie",
+  "category": "AI/LLM",
+  "summary": "Server inference và cụm sản xuất mã nguồn mở cho các model AI, hỗ trợ embeddings, vector search và retrieval-augmented-generation cho agent AI.",
+  "usecases": [
+    "Triển khai inference server cho các model LLM trong production.",
+    "Hỗ trợ RAG (Retrieval-Augmented Generation) với vector search.",
+    "Quản lý và scale các model AI cho agent applications."
+  ],
+  "ideas": [
+    "Build một knowledge base agent cá nhân với vector search và inference server.",
+    "Triển khai pipeline MLOps tự động cho các model retrieval/reranking.",
+    "Sử dụng làm foundation cho các ứng dụng AI agent đa-modal hoặc domain-specific."
+  ],
+  "stars": 3142,
+  "starsToday": 60,
+  "language": "Python",
+  "topics": [
+    "embeddings",
+    "vector-search",
+    "data-pipeline",
+    "deep-learning",
+    "information-retrieval",
+    "llm",
+    "ml",
+    "mlops",
+    "natural-language-processing",
+    "nlp",
+    "python",
+    "retrieval",
+    "retrieval-augmented-generation",
+    "semantic-search",
+    "inference",
+    "bge",
+    "colbert",
+    "inference-server",
+    "reranking",
+    "splade"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-03T07:49:44.890Z"
+}
