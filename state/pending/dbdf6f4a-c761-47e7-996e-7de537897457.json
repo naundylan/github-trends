@@ -1,0 +1,34 @@
+{
+  "id": "dbdf6f4a-c761-47e7-996e-7de537897457",
+  "repo": "zarazhangrui/frontend-slides",
+  "url": "https://github.com/zarazhangrui/frontend-slides",
+  "category": "Web Frontend",
+  "summary": "Công cụ tạo slide trên web sử dụng kỹ năng frontend và AI generative, cho phép xây dựng bài trình bày thông qua code.",
+  "usecases": [
+    "Tạo nhanh slide trình bày cho dự án phần mềm hoặc sản phẩm.",
+    "Dùng trong giáo dục và đào tạo để sinh nội học tập tương tác.",
+    "Tích hợp với AI coding agent để tự động sinh slide từ mô tả hoặc code."
+  ],
+  "ideas": [
+    "Phát triển plugin VS Code để tạo slide trực tiếp từ code comment hoặc tài liệu.",
+    "Hỗ trợ xuất slide sang PDF, PowerPoint hoặc format web khác.",
+    "Sử dụng AI để tạo nội dung slide từ ý tưởng hoặc tài liệu đầu vào."
+  ],
+  "stars": 28631,
+  "starsToday": 77,
+  "language": "JavaScript",
+  "topics": [
+    "ai-slides",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-skill",
+    "generative-ui",
+    "html",
+    "presentation",
+    "slides",
+    "vibe-coding"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-03T02:28:57.842Z"
+}

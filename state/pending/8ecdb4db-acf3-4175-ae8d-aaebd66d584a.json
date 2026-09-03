@@ -1,0 +1,31 @@
+{
+  "id": "8ecdb4db-acf3-4175-ae8d-aaebd66d584a",
+  "repo": "mlc-ai/web-llm",
+  "url": "https://github.com/mlc-ai/web-llm",
+  "category": "AI/LLM",
+  "summary": "Một engine inference LLM hiệu suất cao chạy trực tiếp trên trình duyệt bằng WebGPU/WebML, cho phép thực hiện ngôn ngữ mô hình lớn mà không cần backend bên ngoài.",
+  "usecases": [
+    "Chạy LLM trên browser để ứng dụng chat AI thời thực không cần server",
+    "Giáo dục và demo inference mô hình ngôn ngữ trên thiết bị cục bộ",
+    "Tích hợp AI vào web app có yêu cầu riêng về dữ liệu và quyền riêng tư"
+  ],
+  "ideas": [
+    "Phát triển extension Chrome chạy LLM cục bộ mà không cần kết nối internet",
+    "Kết hợp với WebAssembly để hỗ trợ các model nặng hơn trên mobile",
+    "Áp dụng vào các ứng dụng IoT có màn hình cần AI xử lý cục bộ"
+  ],
+  "stars": 18830,
+  "starsToday": 86,
+  "language": "TypeScript",
+  "topics": [
+    "deep-learning",
+    "llm",
+    "tvm",
+    "webgpu",
+    "webml",
+    "chatgpt",
+    "language-model"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-03T02:28:57.842Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "15965587-c8fa-40c9-9445-d7f9adf7388f",
+  "repo": "vercel-labs/portless",
+  "url": "https://github.com/vercel-labs/portless",
+  "category": "Developer Tool",
+  "summary": "Thay thế các số cổng bằng URL ổn định có tên, giúp con người và agent truy cập dịch vụ local dễ dàng.",
+  "usecases": [
+    "Dev test local services without memorizing port numbers.",
+    "AI agents access local APIs via stable named URLs.",
+    "Streamline local development and sharing of services."
+  ],
+  "ideas": [
+    "Integrate with Vercel/Cloudflare tunnels for remote development workflows.",
+    "Support dynamic port mapping for microservice architectures.",
+    "Build a visual dashboard to manage and visualize mapped URLs."
+  ],
+  "stars": 11800,
+  "starsToday": 73,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-03T02:28:57.842Z"
+}

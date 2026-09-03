@@ -1,0 +1,33 @@
+{
+  "id": "2dbac54c-ced9-4273-b4a4-11dea99ef512",
+  "repo": "sngyai/Sequoia-X",
+  "url": "https://github.com/sngyai/Sequoia-X",
+  "category": "Other",
+  "summary": "Hệ thống tự động quét và lọc cổ phiếu A-share dựa trên nhiều kỹ thuật kỹ thuật, chạy sau giờ đóng cửa và gửi kết quả qua Feishu.",
+  "usecases": [
+    "Automated daily stock screening for A-share investors after market close.",
+    "Receive filtered stock lists via Feishu/Lark for quick analysis.",
+    "Integrate with algorithmic trading systems as a signal generator."
+  ],
+  "ideas": [
+    "Incorporate LLM-based analysis to refine technical pattern selection.",
+    "Extend data source support to include US stocks and cryptocurrencies.",
+    "Create a web interface to display historical screening performance."
+  ],
+  "stars": 6135,
+  "starsToday": 63,
+  "language": "Python",
+  "topics": [
+    "ta-lib",
+    "python",
+    "turtle-trade",
+    "a-shares",
+    "pandas",
+    "akshare",
+    "baostock",
+    "stock-screening",
+    "trading"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-03T02:28:57.842Z"
+}

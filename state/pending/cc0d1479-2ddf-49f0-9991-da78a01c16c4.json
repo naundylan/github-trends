@@ -1,0 +1,23 @@
+{
+  "id": "cc0d1479-2ddf-49f0-9991-da78a01c16c4",
+  "repo": "zubair-trabzada/geo-seo-claude",
+  "url": "https://github.com/zubair-trabzada/geo-seo-claude",
+  "category": "AI Agent/Automation",
+  "summary": "Một skill SEO GEO-first cho Claude Code tự động hóa citability scoring, phân tích crawler AI và tạo báo cáo schema markup cho tối ưu hóa tìm kiếm trên các mô hình ngôn ngữ.",
+  "usecases": [
+    "Tối ưu website để được trích dẫn (citability) bởi các mô hình AI như Claude, ChatGPT",
+    "Phân tích và thích nghi với crawler của các nền tảng AI search mới",
+    "Tạo báo cáo SEO tự động cho khách hàng dựa trên authority và schema markup"
+  ],
+  "ideas": [
+    "Biến thành dịch vụ trả phí cho agencies SEO làm citability optimization cho doanh nghiệp",
+    "Tích hợp với Claude Code để tự động sửa schema khi code mới được commit",
+    "Phát triển dashboard theo dõi điểm citability theo thời gian thực cho các brand"
+  ],
+  "stars": 10177,
+  "starsToday": 80,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-03T02:28:57.842Z"
+}

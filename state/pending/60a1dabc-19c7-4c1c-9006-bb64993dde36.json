@@ -1,0 +1,44 @@
+{
+  "id": "60a1dabc-19c7-4c1c-9006-bb64993dde36",
+  "repo": "ScrapeGraphAI/Scrapegraph-ai",
+  "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện Python sử dụng AI/LLM để trích xuất và thu thập dữ liệu từ web một cách thông minh và tự động.",
+  "usecases": [
+    "Trích xuất dữ liệu cấu trúc cho nghiên cứu báo cáo hoặc phân thị trường.",
+    "Tự động thu thập tin tức, sản phẩm e-commerce cho pipeline dữ liệu AI.",
+    "Tích hợp trong hệ thống RAG hoặc knowledge base từ nguồn web."
+  ],
+  "ideas": [
+    "Kết hợp với vector database để tạo semantic search trên nội dung web.",
+    "Phát triển chế độ offline dùng LLM cục bộ cho các dự án nhạy cảm dữ liệu.",
+    "Sử dụng cho monitoring thay đổi nội dung web hoặc detect plagiarism."
+  ],
+  "stars": 30434,
+  "starsToday": 90,
+  "language": "Python",
+  "topics": [
+    "scraping",
+    "scraping-python",
+    "llm",
+    "web-crawler",
+    "web-scraping",
+    "ai-scraping",
+    "crawler",
+    "markdown",
+    "rag",
+    "web-crawlers",
+    "ai-crawler",
+    "ai-search",
+    "large-language-model",
+    "web-data-extraction",
+    "web-search",
+    "web-scraper",
+    "data-extraction",
+    "web-data",
+    "webscraping",
+    "firecrawl-alternative"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-03T02:28:57.842Z"
+}
