@@ -1,0 +1,23 @@
+{
+  "id": "23ff3a30-6bed-4b13-8989-38f495280fb8",
+  "repo": "vercel-labs/agent-browser",
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "category": "CLI Tool",
+  "summary": "CLI tự động hóa điều khiển trình duyệt cho AI agent, cho phép tự động hóa tác vụ web thông qua dòng lệnh.",
+  "usecases": [
+    "AI agents performing autonomous web research or data collection tasks.",
+    "Automated testing of web applications through browser interaction scripts.",
+    "Headless browser operations for machine learning data preprocessing."
+  ],
+  "ideas": [
+    "Integrate with LangChain frameworks for autonomous web navigation agents.",
+    "Add built-in proxy/VPN rotation support for distributed scraping and anonymity.",
+    "Develop a real-time visual dashboard to monitor and debug agent browser actions."
+  ],
+  "stars": 41889,
+  "starsToday": 75,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-04T02:28:16.414Z"
+}

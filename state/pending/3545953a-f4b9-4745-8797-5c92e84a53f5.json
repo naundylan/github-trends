@@ -1,0 +1,26 @@
+{
+  "id": "3545953a-f4b9-4745-8797-5c92e84a53f5",
+  "repo": "lbjlaq/Antigravity-Manager",
+  "url": "https://github.com/lbjlaq/Antigravity-Manager",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop quản lý và chuyển đổi tài khoản Antigravity một nhấp chuột, được xây dựng với Tauri v2 và React.",
+  "usecases": [
+    "Quickly switch between multiple Antigravity accounts for development and testing workflows.",
+    "Manage different project environments without manual logout/login cycles.",
+    "Automate account rotation in local CI processes."
+  ],
+  "ideas": [
+    "Add hotkey shortcuts for instant account switching across overlapping workflows.",
+    "Implement cloud-sync to preserve account preferences across multiple machines.",
+    "Expose a programmable API for third-party tool integration."
+  ],
+  "stars": 30981,
+  "starsToday": 84,
+  "language": "Rust",
+  "topics": [
+    "account-manager",
+    "antigravity"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-04T02:28:16.414Z"
+}

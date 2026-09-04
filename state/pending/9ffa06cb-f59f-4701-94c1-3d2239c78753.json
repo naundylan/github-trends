@@ -1,0 +1,39 @@
+{
+  "id": "9ffa06cb-f59f-4701-94c1-3d2239c78753",
+  "repo": "tbphp/gpt-load",
+  "url": "https://github.com/tbphp/gpt-load",
+  "category": "API/GraphQL",
+  "summary": "Cổng AI tự hosting cho các kênh đa kênh và đa chứng thực, thống nhất truy cập API keys và tài khoản đăng ký, hỗ trợ lên lịch, dự phòng, và ghi nhật ký sử dụng.",
+  "usecases": [
+    "Trung tâm nội bộ quản lý nhiều tài khoản OpenAI/Gemini/Anthropic dưới một endpoint duy nhất.",
+    "Phân phối yêu cầu LLM với cơ chế failover và load balancing giữa các provider.",
+    "Ghi audit và theo dùng lượng token/chi phí cho từng team hoặc project."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý chi phí cloud để tự động tắt tài khoản không dùng.",
+    "Phát triển plugin cho các framework backend để tự động routing request qua gateway.",
+    "Thêm tính năng bảo mật xác thực hai yếu tố cho các credential admin."
+  ],
+  "stars": 6527,
+  "starsToday": 63,
+  "language": "Go",
+  "topics": [
+    "go",
+    "golang",
+    "openai",
+    "gemini",
+    "gin",
+    "anthropic",
+    "claude",
+    "ai-gateway",
+    "claude-code",
+    "codex",
+    "llm",
+    "llm-gateway",
+    "load-balancer",
+    "api-gateway",
+    "self-hosted"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-04T02:28:16.414Z"
+}

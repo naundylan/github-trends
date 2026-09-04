@@ -1,0 +1,21 @@
+{
+  "id": "91458f6f-2c86-4049-b7ba-5eea64ce14ed",
+  "repo": "zarazhangrui/follow-builders",
+  "url": "https://github.com/zarazhangrui/follow-builders",
+  "category": "Other",
+  "summary": "AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.",
+  "usecases": [
+    "Khám phá và đánh giá zarazhangrui/follow-builders cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 6611,
+  "starsToday": 53,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-04T02:28:16.414Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3daa481d-8f77-4000-af2d-7af7ff8a55ae",
+  "repo": "Ed1s0nZ/CyberStrikeAI",
+  "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống an ninh mạng AI-native tự động hóa kiểm tra xâm nhập và bảo mật, nơi ý định chuyển thành hành động được kiểm soát và evidence trở thành bộ nhớ vận hành để cải thiện các tác vụ tiếp theo.",
+  "usecases": [
+    "Tự động hóa kiểm tra xâm nhập (pentesting) cho doanh nghiệp.",
+    "Phát hiện và phản ứng bảo mật thực thời thông qua agent AI.",
+    "CTF training và nghiên cứu bảo mật AI."
+  ],
+  "ideas": [
+    "Kết hợp với SIEM để tự động hóa incident response.",
+    "Tạo cyber range cá nhân dùng AI agent để luyện tập kỹ năng bảo mật.",
+    "Sử dụng evidence memory để phân tích xu hướng tấn công và dự báo mối đe dọa sau này."
+  ],
+  "stars": 6349,
+  "starsToday": 74,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-cybersecurity",
+    "ai-penetration-testing",
+    "ai-security-tool",
+    "ctf-tools",
+    "mcp",
+    "ai-hacking",
+    "pentesting-tools"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-04T02:28:16.414Z"
+}
