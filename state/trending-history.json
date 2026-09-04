@@ -101,7 +101,7 @@
   },
   "openai/codex-plugin-cc": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-08-28",
+    "last_seen": "2026-09-04",
     "last_saved": "2026-08-25"
   },
   "alibaba/page-agent": {
@@ -246,7 +246,7 @@
   },
   "rust-lang/rust": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-04",
     "last_saved": "2026-08-25"
   },
   "MadsLorentzen/ai-job-search": {
@@ -286,12 +286,12 @@
   },
   "Wei-Shaw/sub2api": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-09-04",
     "last_saved": "2026-08-22"
   },
   "tonhowtf/omniget": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-08-28",
+    "last_seen": "2026-09-04",
     "last_saved": "2026-08-27"
   },
   "t8y2/dbx": {
@@ -321,7 +321,7 @@
   },
   "NVIDIA/SkillSpector": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-04",
     "last_saved": "2026-09-01"
   },
   "dream-num/univer": {
@@ -436,7 +436,7 @@
   },
   "anomalyco/opencode": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-09-04",
     "last_saved": "2026-08-22"
   },
   "nautechsystems/nautilus_trader": {
@@ -456,12 +456,12 @@
   },
   "dani-garcia/vaultwarden": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-09-04",
     "last_saved": "2026-08-23"
   },
   "anthropics/claude-code": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "last_saved": "2026-08-23"
   },
   "debpalash/VoiceStudio": {
@@ -511,7 +511,7 @@
   },
   "Anil-matcha/Open-Generative-AI": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-09-04",
     "last_saved": "2026-08-24"
   },
   "langchain-ai/deepagents": {
@@ -546,7 +546,7 @@
   },
   "Tencent/WeKnora": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-04",
     "last_saved": "2026-08-24"
   },
   "Shubhamsaboo/awesome-llm-apps": {
@@ -586,7 +586,7 @@
   },
   "QuantumNous/new-api": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "last_saved": "2026-08-25"
   },
   "bjarneo/cliamp": {
@@ -641,7 +641,7 @@
   },
   "github/spec-kit": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "last_saved": "2026-08-26"
   },
   "makeplane/plane": {
@@ -936,7 +936,7 @@
   },
   "farion1231/cc-switch": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-04",
     "last_saved": "2026-09-01"
   },
   "dmtrKovalenko/fff": {
@@ -966,7 +966,7 @@
   },
   "datawhalechina/hello-agents": {
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-04",
     "last_saved": "2026-09-02"
   },
   "hacksider/Deep-Live-Cam": {
@@ -1044,52 +1044,52 @@
     "last_seen": "2026-09-04",
     "last_saved": "2026-09-03"
   },
-  "github/awesome-copilot": {
+  "magnitudedev/magnitude": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
     "last_saved": "2026-09-04"
   },
-  "facebook/stylex": {
+  "clshortfuse/renodx": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
     "last_saved": "2026-09-04"
   },
-  "datacurve-ai/deep-swe": {
+  "cathrynlavery/diagram-design": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
     "last_saved": "2026-09-04"
   },
-  "awslabs/aidlc-workflows": {
+  "citrolabs/ego-lite": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
     "last_saved": "2026-09-04"
   },
-  "openreplay/openreplay": {
+  "google/skills": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
     "last_saved": "2026-09-04"
   },
-  "jesseduffield/lazygit": {
+  "sgl-project/sglang": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
     "last_saved": "2026-09-04"
   },
-  "netbirdio/netbird": {
+  "humanlayer/skills": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
     "last_saved": "2026-09-04"
   },
-  "xai-org/x-algorithm": {
+  "multica-ai/multica": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
     "last_saved": "2026-09-04"
   },
-  "qufei1993/skills-hub": {
+  "longbridge/gpui-kit": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
     "last_saved": "2026-09-04"
   },
-  "rust-unofficial/awesome-rust": {
+  "CapSoftware/Cap": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
     "last_saved": "2026-09-04"

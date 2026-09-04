@@ -1,0 +1,27 @@
+{
+  "id": "e3d9e96e-4445-4250-a4c1-c0ae1c6f7a52",
+  "repo": "google/skills",
+  "url": "https://github.com/google/skills",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Repo chính thức của Google chứa bộ sưu tập các Agent Skills dành cho các sản phẩm và công nghệ của Google, phục vụ việc tích hợp AI agent với hệ sinh thái Google Cloud và các dịch vụ khác.",
+  "usecases": [
+    "Cung cấp cho AI agent khả năng tương tác chuẩn hóa với Google Cloud Platform, BigQuery, Vertex AI thông qua các skill được Google định nghĩa sẵn",
+    "Làm tài liệu tham khảo chính thức khi phát triển agent tích hợp với Google Workspace (Gmail, Drive, Calendar, Docs)",
+    "Hỗ trợ training và fine-tuning agent hiểu cách sử dụng đúng các API và best practice của Google"
+  ],
+  "ideas": [
+    "Kết hợp với ego-lite để agent có thể vừa điều khiển browser vừa tận dụng các Google Skills để xử lý dữ liệu cloud",
+    "Xây dựng chatbot/agent đa năng có khả năng tự động phân tích dữ liệu trong BigQuery và gửi báo cáo qua Gmail một cách tự động",
+    "Tạo marketplace nội bộ cho team sử dụng các Google Skills kết hợp với skill tùy chỉnh của công ty để chuẩn hóa quy trình AI automation"
+  ],
+  "stars": 19458,
+  "starsToday": 132,
+  "language": "Python",
+  "topics": [
+    "google",
+    "googlecloud",
+    "skills"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-04T13:17:08.620Z"
+}

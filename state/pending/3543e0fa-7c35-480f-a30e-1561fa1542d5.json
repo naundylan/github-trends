@@ -1,0 +1,23 @@
+{
+  "id": "3543e0fa-7c35-480f-a30e-1561fa1542d5",
+  "repo": "magnitudedev/magnitude",
+  "url": "https://github.com/magnitudedev/magnitude",
+  "category": "AI/LLM",
+  "summary": "Magnitude là inference server mã nguồn mở chạy các mô hình local tối ưu cho phần cứng của bạn, tích hợp với các agent như Cline, Claude Code và các nền tảng Raspberry Pi.",
+  "usecases": [
+    "Chạy LLM cục bộ trên Raspberry Pi cho tự động hóa và IoT",
+    "Tích hợp inference vào IDE/agent như Cline, Claude Code để tăng tốc độ xử lý local",
+    "Triển khai server inference cho hardware có hạn chế tài nguyên như OpenClaw, Hermes"
+  ],
+  "ideas": [
+    "Kết hợp với edge computing chạy inference trực tiếp trên thiết bị IoT",
+    "Tạo plugin browser chạy LLM cục bộ không cần backend",
+    "Phát triển hệ thống tự động tối ưu mô hình dựa trên hardware đang dùng"
+  ],
+  "stars": 2166,
+  "starsToday": 395,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-04T13:17:08.620Z"
+}

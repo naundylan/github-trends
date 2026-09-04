@@ -1,0 +1,28 @@
+{
+  "id": "cc04f9aa-7889-486d-a3a8-58ab4294feee",
+  "repo": "clshortfuse/renodx",
+  "url": "https://github.com/clshortfuse/renodx",
+  "category": "Game Engine",
+  "summary": "Engine tái cấu trúc cho game DirectX, hỗ trợ hiệu ứng HDR và dễ dàng modding.",
+  "usecases": [
+    "Phát triển game indie sử dụng DirectX với hiệu suất tối ưu",
+    "Tạo công cụ modding cho cộng đồng game để thêm nội dung mới",
+    "Tối ưu hóa pipeline rendering cho đồ họa HDR trong game"
+  ],
+  "ideas": [
+    "Thêm hỗ trợ ray tracing phần mềm để tăng tính thị thực",
+    "Tích hợp AI upscaling cho texture chất lượng cao",
+    "Xây dựng plugin cho engine để hỗ trợ các định dạng asset mới"
+  ],
+  "stars": 3418,
+  "starsToday": 759,
+  "language": "HLSL",
+  "topics": [
+    "directx",
+    "games",
+    "hdr",
+    "mod"
+  ],
+  "notePath": "notes/Game-Engine.md",
+  "createdAt": "2026-09-04T13:17:08.620Z"
+}
