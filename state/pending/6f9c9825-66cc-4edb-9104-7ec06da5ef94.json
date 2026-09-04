@@ -1,0 +1,27 @@
+{
+  "id": "6f9c9825-66cc-4edb-9104-7ec06da5ef94",
+  "repo": "google/skills",
+  "url": "https://github.com/google/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Skills là bộ kỹ năng agent cho các sản phẩm và công nghệ Google, cho phép AI tương tác và tự động hóa tác vụ trên ecosystem Google Cloud và sản phẩm liên quan.",
+  "usecases": [
+    "Tự động hóa quản lý tài nguyên Google Cloud thông qua AI agents",
+    "Tích hợp kỹ năng agent vào ứng dụng Google Workspace hoặc Cloud Functions",
+    "Giúp AI thực hiện tác vụ kỹ thuật trên docs và console Google Cloud"
+  ],
+  "ideas": [
+    "Mở rộng skills cho sản phẩm bên thứ ba thông qua API",
+    "Kết hợp với Vertex AI tạo ra agent có tác vụ cụ thể trên Google Cloud",
+    "Sử dụng cho training và evaluation model AI trên kịch bản tương tác thực tế"
+  ],
+  "stars": 19496,
+  "starsToday": 132,
+  "language": "Python",
+  "topics": [
+    "google",
+    "googlecloud",
+    "skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-04T20:16:44.318Z"
+}

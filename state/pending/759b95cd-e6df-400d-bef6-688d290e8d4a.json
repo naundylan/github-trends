@@ -1,0 +1,28 @@
+{
+  "id": "759b95cd-e6df-400d-bef6-688d290e8d4a",
+  "repo": "clshortfuse/renodx",
+  "url": "https://github.com/clshortfuse/renodx",
+  "category": "Game Engine",
+  "summary": "Một engine tái tạo (renovation engine) cho các game DirectX, hỗ trợ HDR và tùy chỉnh đồ họa cho các trò chơi cũ hoặc mới",
+  "usecases": [
+    "Phục hồi và cải thiện đồ họa cho các game DirectX cũ",
+    "Tạo engine tùy chỉnh cho các dự án game indie sử dụng DirectX",
+    "Nghiên cứu và áp dụng hiệu ứng HDR trong rendering game"
+  ],
+  "ideas": [
+    "Biến thành một modding toolkit cho các game nổi tiếng sử DirectX",
+    "Kết hợp với ray tracing để nâng cấp hiệu ứng ánh sáng",
+    "Phát triển phiên bản hỗ trợ Vulkan để đa nền tảng"
+  ],
+  "stars": 3497,
+  "starsToday": 759,
+  "language": "HLSL",
+  "topics": [
+    "directx",
+    "games",
+    "hdr",
+    "mod"
+  ],
+  "notePath": "notes/Game-Engine.md",
+  "createdAt": "2026-09-04T20:16:44.318Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "8464fe67-b1f0-4f7e-8209-948c206e9e7f",
+  "repo": "humanlayer/skills",
+  "url": "https://github.com/humanlayer/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Một bộ công cụ TypeScript để định nghĩa và mở rộng kỹ năng cho các AI agent, giúp tự động hóa tác vụ và tương tác với các hệ thống bên ngoài",
+  "usecases": [
+    "Tự động hóa luồng làm việc trong ứng dụng hỗ trợ AI",
+    "Cung cấp các kỹ năng có thể tái sử dụng cho các agent đa tác vụ",
+    "Tích hợp với các API bên ngoài để mở rộng khả năng của agent"
+  ],
+  "ideas": [
+    "Kết hợp với voice assistant để điều khiển nhà thông minh",
+    "Sử dụng làm nền tảng cho các công cụ nghiên cứu tự động",
+    "Phát triển plugin cho VS Code để hỗ trợ code với AI"
+  ],
+  "stars": 2268,
+  "starsToday": 1322,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-04T20:16:44.318Z"
+}

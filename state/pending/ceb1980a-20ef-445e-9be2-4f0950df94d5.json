@@ -1,0 +1,23 @@
+{
+  "id": "ceb1980a-20ef-445e-9be2-4f0950df94d5",
+  "repo": "magnitudedev/magnitude",
+  "url": "https://github.com/magnitudedev/magnitude",
+  "category": "AI/LLM",
+  "summary": "Trình phục vụ inference mã nguồn mở chạy các mô hình local tốt nhất cho phần cứng của bạn, tích hợp với các agent AI bạn đang sử dụng.",
+  "usecases": [
+    "Chạy các mô hình LLM cục bộ trên Raspberry Pi và các thiết bị phần cứng khác cho các ứng dụng AI phi kết nối internet.",
+    "Tích hợp với các agent như Claude Code, Codex để tự động hóa viết code và tác vụ hệ thống.",
+    "Cung cấp inference nhanh với độ trễ thấp cho các dự án AI nội bộ và doanh nghiệp."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống home automation để điều khiển thiết bị bằng lệnh voice cục bộ.",
+    "Phát triển plugin cho IDEs phổ biến để thực hiện code completion cục bộ an toàn.",
+    "Sử dụng cho các dự án nghiên cứu AI cần giữ dữ liệu trên máy để bảo mật."
+  ],
+  "stars": 2345,
+  "starsToday": 395,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-04T20:16:44.318Z"
+}

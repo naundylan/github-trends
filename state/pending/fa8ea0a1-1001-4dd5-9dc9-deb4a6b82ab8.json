@@ -1,0 +1,44 @@
+{
+  "id": "fa8ea0a1-1001-4dd5-9dc9-deb4a6b82ab8",
+  "repo": "CapSoftware/Cap",
+  "url": "https://github.com/CapSoftware/Cap",
+  "category": "Desktop App",
+  "summary": "Ứng dụng quay màn hình mã nguồn mở sử dụng Tauri, tạo ra các bản ghi màn hình đẹp và dễ chia sẻ.",
+  "usecases": [
+    "Creating tutorial videos and software demonstrations with easy sharing",
+    "Recording bug reports or UI feedback for development teams",
+    "Capturing screen activity for personal archives or content creation"
+  ],
+  "ideas": [
+    "Real-time collaboration features for remote pair programming reviews",
+    "AI-powered highlight extraction to automatically clip important moments",
+    "Cross-platform extension for mobile and desktop screen mirroring"
+  ],
+  "stars": 21688,
+  "starsToday": 93,
+  "language": "Rust",
+  "topics": [
+    "app",
+    "cap",
+    "coss",
+    "mac",
+    "open-source",
+    "oss",
+    "react",
+    "record",
+    "screen-capture",
+    "screen-recorder",
+    "screenshot",
+    "tauri",
+    "tauri-app",
+    "typescript",
+    "vite",
+    "solidjs",
+    "loom",
+    "nextjs",
+    "rust",
+    "nextjs15"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-04T20:16:44.319Z"
+}
