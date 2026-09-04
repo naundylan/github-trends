@@ -1,0 +1,43 @@
+{
+  "id": "965b4589-dc7d-45ca-bce5-bd56fbc58264",
+  "repo": "langgenius/dify",
+  "url": "https://github.com/langgenius/dify",
+  "category": "AI/LLM",
+  "summary": "Dify là nền tảng AI cho phép xây dựng quy trình Agentic, pipeline RAG và tích hợp mô hình AI phong phú trên không gian làm việc cộng tác, hỗ trợ triển khai trên đám mây, VPC hoặc self-hosted để chuyển đổi từ prototype đến sản xuất.",
+  "usecases": [
+    "Xây dựng và triển khai ứng dụng AI Generative với RAG",
+    "Tạo workflow tự động hóa (Agentic AI) cho tác vụ phức tạp",
+    "Cho phép teams phát triển prototype AI nhanh chóng và triển khai sản xuất mà không cần rebuild stack"
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu vector để tạo chatbot doanh nghiệp cá nhân hóa",
+    "Tự động hóa quy trình thu chuẩn hóa dữ liệu cho LLM",
+    "Phát triển nền tảng AI nội bộ cho企业 với tuân thủ an ninh dữ liệu"
+  ],
+  "stars": 154469,
+  "starsToday": 117,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "gpt",
+    "llm",
+    "openai",
+    "python",
+    "agent",
+    "nextjs",
+    "workflow",
+    "genai",
+    "automation",
+    "low-code",
+    "mcp",
+    "no-code",
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "claude",
+    "skills",
+    "deepseek"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-04T22:44:47.888Z"
+}

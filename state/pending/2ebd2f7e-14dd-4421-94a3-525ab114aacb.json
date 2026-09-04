@@ -1,0 +1,23 @@
+{
+  "id": "2ebd2f7e-14dd-4421-94a3-525ab114aacb",
+  "repo": "bikini/exploitarium",
+  "url": "https://github.com/bikini/exploitarium",
+  "category": "Security/Pentest",
+  "summary": "một kho lưu trữ Python chứa các PoC exploit và viết nghiên cứu lỗ hổng bảo mật công khai, dùng cho nghiên cứu an ninh",
+  "usecases": [
+    "nghiên cứu và phân tích các PoC exploit mới xuất hiện",
+    "giáo dục an ninh mạng về các lỗ hổng phổ biến",
+    "phát triển bộ công cụ test bảo mật tự động"
+  ],
+  "ideas": [
+    "xây dựng dashboard trực quan hóa xu hướng exploit và CVE",
+    "tạo training module tự động cho các analyst an ninh",
+    "kết hợp với threat intelligence feeds để enrich dữ liệu vulnerability"
+  ],
+  "stars": 4492,
+  "starsToday": 68,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-04T22:44:47.888Z"
+}

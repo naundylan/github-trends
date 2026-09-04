@@ -1,0 +1,34 @@
+{
+  "id": "194748c4-a2cf-4201-a0e1-8485709e33ba",
+  "repo": "Sumanth077/Hands-On-AI-Engineering",
+  "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
+  "category": "AI/LLM",
+  "summary": "Hands-On-AI-Engineering là bộ sưu tập dự án AI thực hành dùng Python, triển khai OCR, RAG, AI agents và các use case AI khác.",
+  "usecases": [
+    "Học và triển khai hệ thống OCR từ cơ bản đến nâng cao.",
+    "Xây dựng ứng dụng RAG (Retrieval-Augmented Generation) dựa trên LLMs.",
+    "Phát triển AI agent tự động thực hiện tác vụ cụ thể."
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu doanh nghiệp tạo chatbot nội bộ tùy chỉnh.",
+    "Sử dụng làm foundation cho dự án thực tập hoặc graduation trong AI.",
+    "Mở rộng với khả năng multimodal (hình ảnh + văn bản) cho OCR."
+  ],
+  "stars": 3137,
+  "starsToday": 76,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "llms",
+    "ocr",
+    "python",
+    "rag",
+    "ai-agents",
+    "ai-engineering",
+    "generative-ai",
+    "mcp"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-04T22:44:47.888Z"
+}

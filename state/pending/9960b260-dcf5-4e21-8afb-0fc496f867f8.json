@@ -1,0 +1,23 @@
+{
+  "id": "9960b260-dcf5-4e21-8afb-0fc496f867f8",
+  "repo": "WorldFlowAI/everything-claude-code",
+  "url": "https://github.com/WorldFlowAI/everything-claude-code",
+  "category": "AI/LLM",
+  "summary": "một bộ công cụ JavaScript cho Claude Code, cung cấp agents, commands, skills, rules và hooks để hỗ trợ phát triển AI-assisted hiệu quả",
+  "usecases": [
+    "tự động hóa quy trình viết code với trợ lý AI Claude",
+    "tạo và quản lý các skill/custom commands cho workflow development",
+    "tích hợp agents AI vào IDE để hỗ trợ debug và refactor"
+  ],
+  "ideas": [
+    "tạo plugin tự động cho VS Code kết hợp với Claude Code agents",
+    "phát triển hệ thống tự động review code sử dụng skill rules",
+    "kết hợp với CI/CD để tự động sửa lỗi và cải thiện code"
+  ],
+  "stars": 2108,
+  "starsToday": 75,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-04T22:44:47.888Z"
+}

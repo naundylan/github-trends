@@ -1,0 +1,23 @@
+{
+  "id": "759fc516-b6da-4d29-b7f4-a8655e0801a0",
+  "repo": "radixark/miles",
+  "url": "https://github.com/radixark/miles",
+  "category": "AI/LLM",
+  "summary": "Framework RL doanh nghiệp cho hậu-training LLM và VLM, hỗ trợ căn chỉnh và tinh chỉnh quy mô mở.",
+  "usecases": [
+    "Post-training alignment of enterprise LLMs using custom reward models",
+    "Fine-tuning VLMs for domain-specific tasks via reinforcement learning",
+    "Scalable pipeline for LLM agent training and evaluation"
+  ],
+  "ideas": [
+    "Combine with human-in-the-loop feedback for continuous LLM improvement",
+    "Enable custom RL pipelines for proprietary foundation model fine-tuning",
+    "Integrate with RAG systems to create domain-adaptive AI agents"
+  ],
+  "stars": 2542,
+  "starsToday": 55,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-04T22:44:47.888Z"
+}

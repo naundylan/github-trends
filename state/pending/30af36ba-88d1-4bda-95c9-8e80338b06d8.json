@@ -1,0 +1,26 @@
+{
+  "id": "30af36ba-88d1-4bda-95c9-8e80338b06d8",
+  "repo": "basecamp/hey-cli",
+  "url": "https://github.com/basecamp/hey-cli",
+  "category": "CLI Tool",
+  "summary": "HEY CLI là công cụ dòng lệnh và framework cho kỹ năng AI agent, tập trung vào automation và orchestration qua terminal.",
+  "usecases": [
+    "Rapid prototyping of CLI-based AI agents with extensible skill plugins",
+    "Automation of terminal tasks through AI-driven intent-to-command execution",
+    "Integration into developer workflows for AI-assisted command generation"
+  ],
+  "ideas": [
+    "Build a natural-language interface that translates user intent to precise CLI commands",
+    "Create a reusable skill marketplace for AI agents across multiple projects",
+    "Deploy as a lightweight agent orchestrator in CI/CD pipelines for automated testing"
+  ],
+  "stars": 329,
+  "starsToday": 55,
+  "language": "Go",
+  "topics": [
+    "agent-skills",
+    "hey"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-04T22:44:47.888Z"
+}

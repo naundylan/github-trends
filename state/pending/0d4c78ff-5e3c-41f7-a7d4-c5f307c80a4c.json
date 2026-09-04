@@ -1,0 +1,23 @@
+{
+  "id": "0d4c78ff-5e3c-41f7-a7d4-c5f307c80a4c",
+  "repo": "akitaonrails/ai-memory",
+  "url": "https://github.com/akitaonrails/ai-memory",
+  "category": "AI Agent/Automation",
+  "summary": "Giải pháp memory dài hạn cho CLI agent coding bằng Rust, hỗ trợ handoff mượt mà giữa các vendor agent khác nhau",
+  "usecases": [
+    "Giữ lưu trữ contexto và tiến độ giữa các phiên làm việc liên tục cho agent coding",
+    "Cho phép chuyển đổi mượt mà giữa các framework/vendor agent khác nhau mà không mất dữ liệu",
+    "Tích hợp vào terminal/CLI để hỗ trợ tự động hoàn thành và tạo code có ngữ cảnh"
+  ],
+  "ideas": [
+    "Xây dựng hệ thống memory chung cho nhiều agent, đồng bộ trạng thái dự án across các thiết bị",
+    "Kết hợp với LLM frameworks để tạo agent có khả năng 'nhớ' và tiếp tục code từ điểm dừng",
+    "Phát triển plugin IDE hiển thị lịch sử memory agent trực tiếp trong editor"
+  ],
+  "stars": 5730,
+  "starsToday": 99,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-04T22:44:47.888Z"
+}
