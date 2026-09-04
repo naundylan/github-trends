@@ -1,0 +1,33 @@
+{
+  "id": "a4c7ded8-aa71-4f72-8243-9a995863cdde",
+  "repo": "huangruiteng/loopx",
+  "url": "https://github.com/huangruiteng/loopx",
+  "category": "AI Agent/Automation",
+  "summary": "Kế điều khiển cho các agent dài hạn, quản lý và điều phối công việc bền vững qua các harness như Codex và Claude Code, đảm bảo tính governed và quy trình phức tạp.",
+  "usecases": [
+    "Quản lý các tác vụ tự động dài hạn trong phát triển phần mềm, phối hợp giữa nhiều AI model liên tiếp.",
+    "Tự động hóa CI/CD pipelines phức tạp với governance và theo dõi trạng thái quy trình."
+  ],
+  "ideas": [
+    "Triển khai hệ thống agent tự điều phối cho các dự án nghiên cứu đa disciplinary xuyên nhiều giai đoạn.",
+    "Sử dụng làm lớp điều khiển cho code-generation enterprise đảm bảo compliance và traceability."
+  ],
+  "stars": 5601,
+  "starsToday": 82,
+  "language": "Python",
+  "topics": [
+    "agent-control-plane",
+    "ai-agents",
+    "codex",
+    "loopx",
+    "loop-engineering",
+    "agent-ops",
+    "workflow-automation",
+    "agent-harness",
+    "long-horizon",
+    "dsh-plugin",
+    "long-horizon-agents"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-04T18:02:47.268Z"
+}

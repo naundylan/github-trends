@@ -1,0 +1,26 @@
+{
+  "id": "3564de2d-6466-42e3-8664-9917db197f7b",
+  "repo": "lbjlaq/Antigravity-Manager",
+  "url": "https://github.com/lbjlaq/Antigravity-Manager",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop cross-platform được xây dựng với Tauri v2 và React, cho phép quản lý và chuyển đổi tài khoản Antigravity một click liền mạch.",
+  "usecases": [
+    "Cho phép người dùng quản lý nhiều tài khoản Antigravity trên cùng một máy tính mà không cần đăng xuất.",
+    "Tích hợp trong quy trình làm việc của developer để chuyển đổi tài khoản nhanh chóng giữa các dự án.",
+    "Sử dụng trên nhiều hệ điều hành (Windows, macOS, Linux) để duy trì tính nhất quán của tài khoản."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống SSO (Single Sign-On) để quản lý quyền truy cập an toàn cho nhiều tài khoản.",
+    "Phát triển dashboard theo dõi trạng thái và hiệu suất tài khoản Antigravity theo thời gian thực.",
+    "Tích hợp với các công cụ tự động hóa (như Selenium) để thực hiện quản lý tài khoản tự động."
+  ],
+  "stars": 31011,
+  "starsToday": 52,
+  "language": "Rust",
+  "topics": [
+    "account-manager",
+    "antigravity"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-04T18:02:47.268Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b43ce1a3-67b4-4cce-a366-43c58245a739",
+  "repo": "basecamp/hey-cli",
+  "url": "https://github.com/basecamp/hey-cli",
+  "category": "CLI Tool",
+  "summary": "Công cụ CLI viết bằng Go cho HEY Agent Skills, giúp quản lý và kích hoạt các kỹ năng agent qua dòng lệnh.",
+  "usecases": [
+    "Tự động hóa các tác vụ quản lý Agent Skills trong môi trường phát triển phần mềm.",
+    "Tích hợp vào pipeline CI/CD để thực hiện các thao tác kiểm tra hoặc deploy tự động.",
+    "Cung cấp giao diện dòng lệnh nhanh chóng để chuyển đổi giữa nhiều cấu hình Agent Skills."
+  ],
+  "ideas": [
+    "Kết hợp với AI assistants để tạo ra một CLI command assistant thông minh.",
+    "Phát triển plugin cho IDEs để truy cập HEY Agent Skills trực tiếp từ code editor.",
+    "Tạo ra script tự động hóa triển khai dựa trên cấu hình Agent Skills."
+  ],
+  "stars": 325,
+  "starsToday": 55,
+  "language": "Go",
+  "topics": [
+    "agent-skills",
+    "hey"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-04T18:02:47.268Z"
+}

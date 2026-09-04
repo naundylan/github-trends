@@ -1,0 +1,37 @@
+{
+  "id": "7e1142b6-2bae-4ba9-9479-a98a14f52325",
+  "repo": "shadcn-ui/ui",
+  "url": "https://github.com/shadcn-ui/ui",
+  "category": "UI/Component Library",
+  "summary": "shadcn-ui là bộ component UI đẹp, khả tiếp, xây dựng trên Radix UI và Tailwind CSS, dễ tùy chỉnh và tích hợp với nhiều framework như React, NextJS, Vite v.v.",
+  "usecases": [
+    "Nâng cấp giao diện web app với component giàu trực quan và trải nghiệm người dùng",
+    "Tích hợp vào NextJS hoặc React project để xây dựng UI nhanh chóng mà không cần thiết kế từ đầu",
+    "Làm foundation cho design system doanh nghiệp với giao diện thống nhất"
+  ],
+  "ideas": [
+    "Kết hợp shadcn-ui với Tailwind tạo theme riêng cho startup hoặc sản phẩm cá nhân",
+    "Sử dụng component library để prototyping nhanh admin dashboard và các trang quản lý",
+    "Phát triển bộ component mở rộng cho các tính năng phức tạp như bảng điều khiển, form nhập liệu lớn"
+  ],
+  "stars": 123019,
+  "starsToday": 114,
+  "language": "TypeScript",
+  "topics": [
+    "components",
+    "nextjs",
+    "radix-ui",
+    "react",
+    "tailwindcss",
+    "ui",
+    "shadcn",
+    "base-ui",
+    "laravel",
+    "tanstack",
+    "vite",
+    "react-aria",
+    "react-aria-components"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-04T18:02:47.267Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "9fd92309-8963-4dd2-a699-0c113b5dbe39",
+  "repo": "Sumanth077/Hands-On-AI-Engineering",
+  "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
+  "category": "AI Agent/Automation",
+  "summary": "Hands-On-AI-Engineering là bộ sưu tập dự án thực hành Python triển khai OCR, RAG và AI agents cho các use case Generative AI.",
+  "usecases": [
+    "Xây dựng hệ thống OCR trích xuất văn bản từ ảnh và tài liệu quét",
+    "Triển khai RAG cho chatbot nội bộ kiến thức doanh nghiệp",
+    "Tạo AI agent tự động hóa tác vụ phân tích và tạo nội dung"
+  ],
+  "ideas": [
+    "Kết hợp OCR với multi-agent system để tự động hóa xử lý hóa đơn và hợp đồng",
+    "Triển khai hệ thống agent phân tán chuyên biệt cho các tác vụ LLM khác nhau",
+    "Phát triển ứng dụng desktop local xử lý tài liệu nhạy cảm mà không cần cloud"
+  ],
+  "stars": 3134,
+  "starsToday": 76,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "llms",
+    "ocr",
+    "python",
+    "rag",
+    "ai-agents",
+    "ai-engineering",
+    "generative-ai",
+    "mcp"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-04T18:02:47.268Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "301e0178-a1a2-418a-945e-29c069bf0932",
+  "repo": "WorldFlowAI/everything-claude-code",
+  "url": "https://github.com/WorldFlowAI/everything-claude-code",
+  "category": "Developer Tool",
+  "summary": "Everything-Claude-Code là toolkit JavaScript cung cấp agents, commands, skills và hooks để hỗ trợ phát triển AI-assisted và tăng năng suất code.",
+  "usecases": [
+    "Tự động hóa review code và đề xuất cải thiện thông qua Claude Code agents",
+    "Tích hợp hooks để tùy chỉnh luồng làm việc phát triển trong terminal",
+    "Sử dụng commands và skills để tạo boilerplate code hoặc fix bugs nhanh chóng"
+  ],
+  "ideas": [
+    "Xây dựng IDE extension kết hợp toolkit này cho auto-complete và refactor bởi AI",
+    "Tạo plugin cho framework cụ thể (React, Vue, v.v.) dựa trên skills có sẵn",
+    "Kết hợp với CI/CD pipeline để tự động test và review pull requests qua Claude Code"
+  ],
+  "stars": 2090,
+  "starsToday": 75,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-04T18:02:47.268Z"
+}

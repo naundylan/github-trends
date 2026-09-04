@@ -1,0 +1,23 @@
+{
+  "id": "c44dfc3e-fe0e-407f-a4a9-833665dc1c77",
+  "repo": "radixark/miles",
+  "url": "https://github.com/radixark/miles",
+  "category": "AI/LLM",
+  "summary": "Một framework reinforcement learning cho post-training LLM/VLM, giúp tinh chỉnh và cải thiện hiệu năng các mô hình ngôn ngữ lớn.",
+  "usecases": [
+    "Tinh chỉnh (fine-tuning) mô hình LLM cho các tác vụ chuyên ngành",
+    "Cải thiện khả năng reasoning và instruction following của VLM",
+    "Nghiên cứu và triển khai các phương pháp RLHF (Reinforcement Learning from Human Feedback) doanh nghiệp"
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình open-source để tạo ra các assistant AI chuyên ngành",
+    "Sử dụng trong tự động hóa đánh giá hiệu năng mô hình sau khi training",
+    "Phát triển pipeline training RL cho các ứng dụng chatbot doanh nghiệp"
+  ],
+  "stars": 2510,
+  "starsToday": 55,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-04T18:02:47.268Z"
+}
