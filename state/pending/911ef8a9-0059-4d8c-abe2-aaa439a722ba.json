@@ -1,0 +1,40 @@
+{
+  "id": "911ef8a9-0059-4d8c-abe2-aaa439a722ba",
+  "repo": "openreplay/openreplay",
+  "url": "https://github.com/openreplay/openreplay",
+  "category": "Developer Tool",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "...",
+    "..."
+  ],
+  "stars": 12665,
+  "starsToday": 30,
+  "language": "TypeScript",
+  "topics": [
+    "session-replay",
+    "react",
+    "javascript",
+    "analytics",
+    "angular",
+    "devtools",
+    "feature-flags",
+    "real-user-monitoring",
+    "typescript",
+    "vue",
+    "web-vitals",
+    "nextjs",
+    "svelte",
+    "ios",
+    "react-native",
+    "product-analytics"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-04T07:45:27.016Z"
+}

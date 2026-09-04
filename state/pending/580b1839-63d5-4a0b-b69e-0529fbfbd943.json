@@ -1,0 +1,23 @@
+{
+  "id": "580b1839-63d5-4a0b-b69e-0529fbfbd943",
+  "repo": "xai-org/x-algorithm",
+  "url": "https://github.com/xai-org/x-algorithm",
+  "category": "AI/LLM",
+  "summary": "Thuật toán đề xuất powers feed 'For You' trên X, viết bằng Rust để hiệu suất cao.",
+  "usecases": [
+    "Hệ thống phân hạng nội dung cá nhân hóa và đề xuất cho các nền tảng truyền thông xã hội.",
+    "Tạo feed thời gian thực cho các ứng dụng xã hội.",
+    "Thử A/B và tối ưu chỉ số tương tác người dùng."
+  ],
+  "ideas": [
+    "Định dạng thành dịch vụ đề xuất độc lập cho các nền tảng khác.",
+    "Kết hợp với NLP để hiểu nội dung và lọc tốt hơn.",
+    "Mở mã nguồn cho nghiên cứu về tối ưu hóa feed và bias thuật toán."
+  ],
+  "stars": 32614,
+  "starsToday": 37,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-04T07:45:27.016Z"
+}

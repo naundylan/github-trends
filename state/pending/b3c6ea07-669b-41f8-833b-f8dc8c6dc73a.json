@@ -1,0 +1,34 @@
+{
+  "id": "b3c6ea07-669b-41f8-833b-f8dc8c6dc73a",
+  "repo": "netbirdio/netbird",
+  "url": "https://github.com/netbirdio/netbird",
+  "category": "Networking",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "...",
+    "..."
+  ],
+  "stars": 28882,
+  "starsToday": 28,
+  "language": "Go",
+  "topics": [
+    "wireguard",
+    "wireguard-vpn",
+    "vpn",
+    "nat-traversal",
+    "mesh-networks",
+    "mesh",
+    "golang",
+    "wiretrustee",
+    "zero-trust-network-access",
+    "netbird"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-04T07:45:27.016Z"
+}

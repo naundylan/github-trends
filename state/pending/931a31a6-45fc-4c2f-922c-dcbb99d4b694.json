@@ -1,0 +1,35 @@
+{
+  "id": "931a31a6-45fc-4c2f-922c-dcbb99d4b694",
+  "repo": "qufei1993/skills-hub",
+  "url": "https://github.com/qufei1993/skills-hub",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop cross-platform giúp quản lý và đồng bộ kỹ năng Agent cho nhiều công cụ AI coding, cho phép cài đặt một lần và đồng bộ khắp nơi.",
+  "usecases": [
+    "Quản lý tập trung kỹ năng Agent cho Claude Code, Codex, Cursor và các công cụ tương tự.",
+    "Đồng bộ cài đặt kỹ năng trên nhiều thiết bị cùng một lúc.",
+    "Tối ưu hóa quy trình làm việc với AI coding tools thông qua một giao diện duy nhất."
+  ],
+  "ideas": [
+    "Mở rộng tương thích với thêm các framework AI coding và IDEs.",
+    "Thêm tính năng phân tích hiệu quả và lượt sử dụng của từng kỹ năng Agent.",
+    "Triển khai chế độ offline sync và lưu trữ local an toàn."
+  ],
+  "stars": 1572,
+  "starsToday": 35,
+  "language": "Rust",
+  "topics": [
+    "agent-skills",
+    "ai-agent",
+    "claude-code",
+    "codex",
+    "cursor",
+    "desktop-app",
+    "react",
+    "rust",
+    "skill-management",
+    "skills-manager",
+    "tauri"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-04T07:45:27.016Z"
+}

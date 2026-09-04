@@ -1,0 +1,23 @@
+{
+  "id": "88929121-54ad-4c10-8372-58a5dded208b",
+  "repo": "awslabs/aidlc-workflows",
+  "url": "https://github.com/awslabs/aidlc-workflows",
+  "category": "AI Agent/Automation",
+  "summary": "aidlc-workflows là bộ quy tắc điều khiển quy trình thích nghi cho các tác nhân AI, cho phép tự động điều phối và điều chỉnh luồng công việc trong vòng đời phát triển phần mềm dựa trên AI.",
+  "usecases": [
+    "Tự động điều phối tác nhân AI để hoàn thành các tác vụ lập trình phức tạp.",
+    "Điều chỉnh quy trình phát triển theo thời gian thực dựa trên phản hồi từ môi trường lập trình.",
+    "Tối ưu hóa hiệu suất và tỷ lệ thành công của các dự án AI coding."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động sửa lỗi và tái cấu trúc code.",
+    "Sử dụng trong môi trường lập trình đa tác nhân để phân công tác vụ dựa trên khả năng hiện tại.",
+    "Phát triển dashboard giám sát quy trình điều khiển AI trong thời gian thực."
+  ],
+  "stars": 4332,
+  "starsToday": 26,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-04T07:45:27.016Z"
+}

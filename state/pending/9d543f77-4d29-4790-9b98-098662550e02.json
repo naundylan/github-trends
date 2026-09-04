@@ -1,0 +1,27 @@
+{
+  "id": "9d543f77-4d29-4790-9b98-098662550e02",
+  "repo": "jesseduffield/lazygit",
+  "url": "https://github.com/jesseduffield/lazygit",
+  "category": "CLI Tool",
+  "summary": "Ứng dụng terminal UI đơn giản cho các lệnh git, cho phép quản lý repository trực tiếp trong dòng lệnh bằng Go.",
+  "usecases": [
+    "Thực hiện các hoạt động git hàng ngày (commit, push, pull) mà không cần thoát terminal.",
+    "Quản lý workflow git cho nhà phát triển thích giao diện điều khiển bằng bàn phím.",
+    "Xem lịch sử git và quản lý nhánh nhanh chóng."
+  ],
+  "ideas": [
+    "Tích hợp với fzf để chọn file tương tác.",
+    "Thêm gợi ý tin nhắn commit bằng AI.",
+    "Hỗ trợ đồng bộ và mirror repository với nhiều remote."
+  ],
+  "stars": 81975,
+  "starsToday": 44,
+  "language": "Go",
+  "topics": [
+    "cli",
+    "git",
+    "terminal"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-04T07:45:27.016Z"
+}

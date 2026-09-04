@@ -1,0 +1,23 @@
+{
+  "id": "7e36e7fc-874a-43a7-b7ec-f1f69d3ff083",
+  "repo": "datacurve-ai/deep-swe",
+  "url": "https://github.com/datacurve-ai/deep-swe",
+  "category": "AI Agent/Automation",
+  "summary": "deep-swe là bộ tiêu chuẩn đo lường để đánh giá các tác nhân coding trên các tác vụ kỹ thuật dài hạn và gốc bản, giúp đánh giá khả năng thực tế của các mô hình AI trong lập trình.",
+  "usecases": [
+    "Đánh giá và so sánh hiệu suất các mô hình AI coding trong các dự án thực tế.",
+    "Xác định điểm nghẽn và vùng cải thiện cho các tác nhân AI trong kỹ thuật lập trình.",
+    "Cung cấp dữ liệu để train và tinh chỉnh các mô hình coding tiếp theo."
+  ],
+  "ideas": [
+    "Tích hợp vào pipeline tự động để theo dõi tiến bộ agent qua thời gian.",
+    "Sử dụng làm cơ sở tạo thử thách cá nhân hóa cho developer hoặc team.",
+    "Phát triển báo cáo tự động về sức khỏe và khả năng của hệ thống AI coding trong doanh nghiệp."
+  ],
+  "stars": 1602,
+  "starsToday": 24,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-04T07:45:27.016Z"
+}

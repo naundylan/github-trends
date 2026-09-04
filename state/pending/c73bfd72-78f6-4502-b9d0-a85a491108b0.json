@@ -1,0 +1,32 @@
+{
+  "id": "c73bfd72-78f6-4502-b9d0-a85a491108b0",
+  "repo": "github/awesome-copilot",
+  "url": "https://github.com/github/awesome-copilot",
+  "category": "Awesome List/Curated Resource",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "...",
+    "..."
+  ],
+  "stars": 38626,
+  "starsToday": 49,
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "github-copilot",
+    "prompt-engineering",
+    "hacktoberfest",
+    "agent-skills",
+    "agents",
+    "awesome",
+    "custom-agents"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-04T07:45:27.016Z"
+}
