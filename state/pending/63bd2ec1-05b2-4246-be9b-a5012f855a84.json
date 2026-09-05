@@ -1,0 +1,23 @@
+{
+  "id": "63bd2ec1-05b2-4246-be9b-a5012f855a84",
+  "repo": "awslabs/aidlc-workflows",
+  "url": "https://github.com/awslabs/aidlc-workflows",
+  "category": "AI Agent/Automation",
+  "summary": "Một bộ quy tắc điều khiển quy trình thích nghi cho các tác nhân AI, cho phép tự động điều phối và tối ưu hóa vòng đời phát triển phần mềm bởi AI.",
+  "usecases": [
+    "Tự động hóa review code và pull requests bằng AI.",
+    "Điều phối đa tác nhân AI để thực hiện các task phức tạp.",
+    "Tối ưu hóa phân bổ tài nguyên trong các pipeline CI/CD dựa trên AI."
+  ],
+  "ideas": [
+    "Kết hợp với các framework AI agent như AutoGen hoặc LangChain để tạo ra các workflow tự chữa lỗi.",
+    "Sử dụng để tự động hóa việc generate documentation từ codebase.",
+    "Triển khai assistant AI cá nhân quản lý lịch trình phát triển dựa trên priority và khả năng."
+  ],
+  "stars": 4347,
+  "starsToday": 37,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-05T07:24:37.498Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "67b942d7-8513-45d8-96d0-4629d521ce68",
+  "repo": "ankitects/anki",
+  "url": "https://github.com/ankitects/anki",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "Một ứng dụng flashcard spaced repetition giúp tối ưu hóa việc học và ghi nhớ dài hạn thông qua thuật toán repetition có lịch.",
+  "usecases": [
+    "Học ngôn ngữ vở với khả năng ghi nhớ dài hạn hiệu quả.",
+    "Chuẩn bị kỳ thi hoặc chứng chỉ bằng cách tạo và review flashcard tự động.",
+    "Quản lý kiến thức cá nhân và nghiên cứu trong các dự án dài hạn."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động tạo flashcard từ tài liệu PDF hoặc trang web.",
+    "Phát triển plugin đồng bộ flashcard giữa mobile và desktop qua cloud.",
+    "Sử dụng dữ liệu spaced repetition để đề xuất lộ trình học tập cá nhân hóa."
+  ],
+  "stars": 30328,
+  "starsToday": 33,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-09-05T07:24:37.498Z"
+}

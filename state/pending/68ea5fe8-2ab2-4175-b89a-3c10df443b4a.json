@@ -1,0 +1,23 @@
+{
+  "id": "68ea5fe8-2ab2-4175-b89a-3c10df443b4a",
+  "repo": "jj-vcs/jj",
+  "url": "https://github.com/jj-vcs/jj",
+  "category": "CLI Tool",
+  "summary": "jj là một hệ thống quản lý phiên bản (VCS) tương thích Git, viết bằng Rust, hướng tới sự đơn giản và mạnh mẽ thay thế cho Git truyền thống.",
+  "usecases": [
+    "Quản lý mã nguồn và lịch sử thay đổi cho dự án phần mềm với giao diện và lệnh thân thiện hơn Git.",
+    "Tích hợp vào quy trình CI/CD cần một VCS nhẹ và script-friendly.",
+    "Phù hợp cho dự án muốn chuyển đổi từ Git nhưng vẫn duy trì tương thích với repo hiện có."
+  ],
+  "ideas": [
+    "Phát triển plugin cho IDEs để hỗ trợjj làm VCS chính với giao diện hiện đại.",
+    "Tạo bộ công cụ tự động hóa migration từ Git sangjj cho các tổ chức lớn.",
+    "Sử dụngjj làm nền tảng cho hệ thống quản lý phiên bản nội bộ (internal VCS) tùy chỉnh."
+  ],
+  "stars": 31404,
+  "starsToday": 29,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-05T07:24:37.498Z"
+}

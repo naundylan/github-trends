@@ -1,0 +1,37 @@
+{
+  "id": "8ddba8a8-9028-497f-a15d-6e7666bbe5bb",
+  "repo": "seakee/CPA-Manager-Plus",
+  "url": "https://github.com/seakee/CPA-Manager-Plus",
+  "category": "AI/LLM",
+  "summary": "CPA-Manager-Plus là một panel quản lý self-hosted cho CPA/CLIProxyAPI, cung cấp dashboard quan sát AI gateway để theo dõi requests, usage, cost, quota, failures và health tài khoản.",
+  "usecases": [
+    "Theo dõi và quản lý chi phí sử dụng API AI (OpenAI, Claude, Codex) trong môi trường self-hosted.",
+    "Giám sát quota và giới hạn request cho các tài khoản CLIProxyAPI/CPA.",
+    "Phân tích hiệu suất và tỷ lệ thất bại của request gửi đến các gateway AI."
+  ],
+  "ideas": [
+    "Kết hợp hệ thống cảnh báo tự động khi vượt qua quota hoặc ngưỡng lỗi.",
+    "Xuất báo cáo chi tiết về sử dụng AI để tối ưu chi phí cho đội ngũ phát triển.",
+    "Tích hợp với Prometheus/Grafana để có cái nhìn toàn cảnh monitoring."
+  ],
+  "stars": 3203,
+  "starsToday": 29,
+  "language": "Go",
+  "topics": [
+    "ai-gateway",
+    "claude-code",
+    "codex",
+    "cost-analysis",
+    "gateway-monitoring",
+    "observability",
+    "openai",
+    "openai-compatible",
+    "quota-management",
+    "request-monitoring",
+    "usage-tracking",
+    "cliproxyapi",
+    "cpa"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-05T07:24:37.498Z"
+}

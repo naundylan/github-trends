@@ -1,0 +1,28 @@
+{
+  "id": "d2d1f5e8-659e-4529-923d-201576551cad",
+  "repo": "upstash/context7",
+  "url": "https://github.com/upstash/context7",
+  "category": "Developer Tool",
+  "summary": "Context7 là một nền tảng cung cấp tài liệu code cập nhật cho LLMs và AI code editors, đảm bảo các model luôn có access đến thông tin mới nhất.",
+  "usecases": [
+    "LLMs retrieving current best practices and recent library updates for code generation",
+    "AI code editors providing accurate, context-aware autocomplete and explanations",
+    "Automated documentation generation and keeping READMEs/changelogs in sync"
+  ],
+  "ideas": [
+    "Tích hợp với vector database để tìm kiếm semantic qua toàn bộ codebase và docs bên ngoài",
+    "Tự động tạo unit tests dựa trên documentation cập nhật",
+    "Phát triển 'knowledge graph' cho dự án cá nhân, đồng bộ giữa team và LLM"
+  ],
+  "stars": 61641,
+  "starsToday": 39,
+  "language": "TypeScript",
+  "topics": [
+    "llm",
+    "mcp",
+    "mcp-server",
+    "vibe-coding"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-05T07:24:37.498Z"
+}
