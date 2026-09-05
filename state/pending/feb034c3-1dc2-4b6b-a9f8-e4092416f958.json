@@ -1,0 +1,34 @@
+{
+  "id": "feb034c3-1dc2-4b6b-a9f8-e4092416f958",
+  "repo": "netbirdio/netbird",
+  "url": "https://github.com/netbirdio/netbird",
+  "category": "Networking",
+  "summary": "netbird là giải pháp tạo mạng overlay an toàn dựa trên WireGuard, cho phép kết nối các thiết bị lại với nhau qua internet với SSO, MFA và kiểm soát truy cập chi tiết.",
+  "usecases": [
+    "Kết nối an toàn các máy tính cá nhân và server trong môi trường làm việc từ xa (remote work) mà không cần VPN truyền thống.",
+    "Cho phép truy cập nội bộ company resources cho các thiết bị di động hoặc laptop khi di chuyển giữa các mạng khác nhau.",
+    "Thay thế cho các giải pháp VPN phức tạp với架构 zero-trust network access (ZTNA) cho các doanh nghiệp vừa và nhỏ."
+  ],
+  "ideas": [
+    "Tích hợp netbird với các hệ thống IdP (Okta, Auth0) để thực hiện truy cập dựa trên danh tính và vị trí địa lý.",
+    "Sử dụng netbird để tạo mạng overlay cho các microservices giao tiếp an toàn giữa các cluster Kubernetes mà không cần service mesh phức tạp.",
+    "Phát triển giải pháp kết nối IoT an toàn nơi các thiết bị edge cần giao tiếp với central server qua overlay network mã hóa."
+  ],
+  "stars": 28928,
+  "starsToday": 34,
+  "language": "Go",
+  "topics": [
+    "wireguard",
+    "wireguard-vpn",
+    "vpn",
+    "nat-traversal",
+    "mesh-networks",
+    "mesh",
+    "golang",
+    "wiretrustee",
+    "zero-trust-network-access",
+    "netbird"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-05T17:08:28.071Z"
+}

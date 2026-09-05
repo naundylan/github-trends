@@ -1,0 +1,44 @@
+{
+  "id": "598b5105-e217-4d2e-8898-615c96c8a86e",
+  "repo": "rclone/rclone",
+  "url": "https://github.com/rclone/rclone",
+  "category": "CLI Tool",
+  "summary": "rclone là công cụ dòng lệnh (CLI) mạnh mẽ để đồng bộ và quản lý dữ liệu giữa các dịch vụ lưu trữ đám mây như Google Drive, S3, Dropbox, OneDrive và nhiều nền tảng khác.",
+  "usecases": [
+    "Sao lưu và khôi phục dữ liệu giữa nhiều nền tảng cloud tự động qua lịch trình.",
+    "Đồng bộ thư mục local với cloud storage cho các team phân tán mà không cần ứng dụng khách riêng.",
+    "Chuyển đổi và migrate dữ liệu giữa các provider cloud khác nhau an toàn và hiệu quả."
+  ],
+  "ideas": [
+    "Tích hợp rclone với các script tự động hóa để tạo hệ thống backup hàng ngày đến nhiều cloud provider cùng lúc.",
+    "Sử dụng rclone làm layer chuyển dữ liệu cho các ứng dụng web cần lưu trữ đa-cloud với latency thấp.",
+    "Kết hợp rclone với FUSE mount để làm ảo hóa thư mục cloud như ổ cứng local trên desktop."
+  ],
+  "stars": 59578,
+  "starsToday": 35,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "go",
+    "cloud-storage",
+    "s3",
+    "openstack-swift",
+    "google-drive",
+    "azure-blob",
+    "backblaze-b2",
+    "sftp",
+    "ftp",
+    "rclone",
+    "dropbox",
+    "google-cloud-storage",
+    "onedrive",
+    "sync",
+    "fuse-filesystem",
+    "encryption",
+    "webdav",
+    "azure-blob-storage",
+    "azure-files"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-05T17:08:28.071Z"
+}

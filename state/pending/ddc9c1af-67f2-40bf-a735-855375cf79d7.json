@@ -1,0 +1,23 @@
+{
+  "id": "ddc9c1af-67f2-40bf-a735-855375cf79d7",
+  "repo": "vercel-labs/agent-browser",
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "category": "CLI Tool",
+  "summary": "CLI tự động hóa trình duyệt cho các tác nhân AI, cho phép kiểm soát và tương tác với web qua dòng lệnh.",
+  "usecases": [
+    "Tự động hóa tác vụ web cho mô hình AI agent",
+    "Kiểm soát trình duyệt trong môi trường phát triển và test",
+    "Thực hiện tương tác web phức tạp theo kịch bản tự động"
+  ],
+  "ideas": [
+    "Kết hợp với framework AI agent local để tự động hóa hoàn toàn trên desktop",
+    "Phát triển plugin IDE để test web interfaces tự động",
+    "Sử dụng trong hệ thống thu thập dữ liệu web cho training AI"
+  ],
+  "stars": 41995,
+  "starsToday": 73,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-05T17:08:28.070Z"
+}

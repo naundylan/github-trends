@@ -1,0 +1,23 @@
+{
+  "id": "675a745d-674b-45a5-95b4-2cf7ff166a46",
+  "repo": "BraveOPotato/FckSignups",
+  "url": "https://github.com/BraveOPotato/FckSignups",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách các công cụ mã nguồn mở chạy trong trình duyệt và không yêu cầu đăng ký tài khoản.",
+  "usecases": [
+    "Tìm và truy cập nhanh các dịch vụ web không cần tạo tài khoản.",
+    "Giảm thiểu rào cản khi thử nghiệm các công cụ phát triển hoặc sản phẩm trực tuyến.",
+    "Làm tài nguyên tham khảo cho các dự án cần các dịch vụ bên thứ ba mà không cần xác thực."
+  ],
+  "ideas": [
+    "Phát triển extension trình duyệt tự động lọc và mở các công cụ không cần signup từ danh sách này.",
+    "Tạo bộ sưu tập cá nhân theo chủ đề từ danh sách này.",
+    "Sử dụng trong môi trường giáo dục để giới thiệu các công cụ trực tuyến an toàn cho sinh viên."
+  ],
+  "stars": 2757,
+  "starsToday": 50,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-05T17:08:28.071Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cf2072e7-77c7-415f-a820-31e837bdf4b3",
+  "repo": "jlcodes99/cockpit-tools",
+  "url": "https://github.com/jlcodes99/cockpit-tools",
+  "category": "Developer Tool",
+  "summary": "Công cụ quản lý tài khoản AI đa nền tảng giúp người dùng chuyển đổi tài khoản, theo dõi quota và quản lý instance chạy trên các IDE như Cursor, Windsurf, Kiro, Cursor, Gemini-cli và CodeBuddy.",
+  "usecases": [
+    "Quản lý nhiều tài khoản AI trên cùng một IDE mà không cần đăng xuất/login liên tục.",
+    "Theo dõi sử dụng quota và cảnh báo khi gần hết token cho các provider AI như OpenAI, Anthropic, v.v.",
+    "Tự động thức waking up và khởi động lại instance AI khi bị ngủ đông, tăng hiệu suất làm việc liên tục."
+  ],
+  "ideas": [
+    "Phát triển plugin VS Code hiển thị trạng thái quota và trạng thái tài khoản trực tiếp trong editor.",
+    "Tạo tính năng đồng bộ cấu hình tài khoản giữa nhiều thiết bị thông qua cloud hoặc local storage.",
+    "Thêm chế độ tự động chuyển tài khoản khi phát hiện lỗi xác thực hoặc hết quota, đảm bảo tác vụ không bị gián đoạn."
+  ],
+  "stars": 17098,
+  "starsToday": 46,
+  "language": "Rust",
+  "topics": [
+    "account-manager",
+    "ai",
+    "antigravity",
+    "codex",
+    "github-copilot",
+    "windsurf",
+    "kiro",
+    "cursor",
+    "codebuddy"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-05T17:08:28.071Z"
+}

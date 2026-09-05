@@ -1,0 +1,31 @@
+{
+  "id": "96cc9809-b070-47bd-a8c4-c642868ba351",
+  "repo": "thewh1teagle/vibe",
+  "url": "https://github.com/thewh1teagle/vibe",
+  "category": "AI/LLM",
+  "summary": "Ứng dụng desktop cross-platform dùng để ghi âm và nhận dạng giọng nói bằng Whisper/OpenAI, thực hiện transcribe tự do trên máy cá nhân.",
+  "usecases": [
+    "Ghi chép cuộc họp và tạo bản ghi chú văn bản tự động",
+    "Tạo phụ đề cho video nội địa không cần kết nối internet",
+    "Trích xuất thông tin từ các file âm dài cho phân tích"
+  ],
+  "ideas": [
+    "Tích hợp với trợ lý voice personal để thực hiện tác vụ dựa trên lệnh thoại",
+    "Phát triển tính năng dịch ngôn ngữ song song trong khi ghi âm",
+    "Xây dựng hệ thống phân tích cảm xúc từ ghi âm cuộc hội thoại"
+  ],
+  "stars": 7332,
+  "starsToday": 53,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "cross-platform",
+    "desktop",
+    "openai",
+    "rust",
+    "transcribe",
+    "whisper"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-05T17:08:28.071Z"
+}

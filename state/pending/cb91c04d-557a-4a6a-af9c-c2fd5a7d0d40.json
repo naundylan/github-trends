@@ -1,0 +1,35 @@
+{
+  "id": "cb91c04d-557a-4a6a-af9c-c2fd5a7d0d40",
+  "repo": "Significant-Gravitas/AutoGPT",
+  "url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "category": "AI Agent/Automation",
+  "summary": "AutoGPT là framework tự hành cho phép AI tự lập thực hiện các mục tiêu phức tạp bằng LLM, mang lại khả năng tự động hóa tác vụ thông minh cho người dùng.",
+  "usecases": [
+    "Tự động hóa các tác vụ nghiên cứu thị trường bằng cách thu thập và phân tích dữ liệu từ internet.",
+    "Thực hiện các mục tiêu phát triển phần mềm phức tạp mà không cần can thiệp con người qua các agent AI tự lập.",
+    "Tích hợp với API Claude, Llama để tự động tạo nội dung, code hoặc thực hiện các tác vụ quản lý dự án."
+  ],
+  "ideas": [
+    "Sử dụng làm nền tảng cho các công cụ tự động hóa bán hàng nội tuyến (tự động viết sản phẩm, tối ưu SEO, quản lý danh sách khách hàng).",
+    "Triển khai cho dự án game để tạo ra các NPC, tác vụ hoặc nội dung game tự động dựa trên kịch bản và ngữ cảnh.",
+    "Kết hợp với cơ sở dữ liệu vector để thực hiện tìm kiếm thông minh và tự động trả lời câu hỏi dựa trên tài liệu nội bộ hoặc quy trình làm việc."
+  ],
+  "stars": 187150,
+  "starsToday": 42,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "openai",
+    "python",
+    "artificial-intelligence",
+    "autonomous-agents",
+    "llama-api",
+    "agentic-ai",
+    "agents",
+    "llm",
+    "claude",
+    "gpt"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-05T17:08:28.071Z"
+}

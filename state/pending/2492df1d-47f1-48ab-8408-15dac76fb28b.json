@@ -1,0 +1,23 @@
+{
+  "id": "2492df1d-47f1-48ab-8408-15dac76fb28b",
+  "repo": "Gentleman-Programming/gentle-ai",
+  "url": "https://github.com/Gentleman-Programming/gentle-ai",
+  "category": "AI/LLM",
+  "summary": "Thư viện AI viết bằng Go, cung cấp các công cụ cho các ứng dụng ngôn ngữ lớn và xử lý tự nhiên.",
+  "usecases": [
+    "Xây dựng chatbot hoặc assistant tích hợp vào ứng dụng backend Go.",
+    "Tích hợp khả năng tạo văn bản hoặc phân tích vào dịch vụ web.",
+    "Phát triển AI agent tự động hóa tác vụ lặp lại."
+  ],
+  "ideas": [
+    "Tạo API riêng cho startup sử dụng model LLM thông qua thư viện này.",
+    "Kết hợp với cơ sở dữ liệu vector để xây dựng hệ thống tìm kiếm thông minh.",
+    "Phát triển agent tự động thực hiện tác vụ trên web sử dụng khả năng AI của thư viện."
+  ],
+  "stars": 6274,
+  "starsToday": 48,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-05T17:08:28.071Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "b72d8970-e41d-4fe8-acf3-9fa5f2e4c2e2",
+  "repo": "vercel-labs/agent-skills",
+  "url": "https://github.com/vercel-labs/agent-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ tập hợp kỹ năng chính thức từ Vercel để mở rộng khả năng tự động hóa và tương tác với AI agent, hỗ trợ triển khai và quản lý các tính năng thông minh cho ứng dụng web.",
+  "usecases": [
+    "Tự động hóa quy trình deploy và cấu hình backend cho các dự án Next.js thông qua AI agent.",
+    "Tích hợp reasoning và action execution vào chatbot hoặc công cụ productivity để thực hiện tác vụ phức tạp.",
+    "Mở rộng kỹ năng agent để quản lý môi trường phát triển và pipelines CI/CD một cách tự động."
+  ],
+  "ideas": [
+    "Kết hợp với Vercel AI SDK để tạo agent có thể tự viết code, test và deploy tự động.",
+    "Sử dụng làm foundation cho CMS hoặc dashboard admin được điều khiển bởi AI.",
+    "Phát triển plugin IDE cho agent thực hiện tác vụ tự động trên codebase theo yêu cầu."
+  ],
+  "stars": 30871,
+  "starsToday": 41,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-05T17:08:28.071Z"
+}
