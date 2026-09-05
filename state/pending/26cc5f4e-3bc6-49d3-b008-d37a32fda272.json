@@ -1,0 +1,23 @@
+{
+  "id": "26cc5f4e-3bc6-49d3-b008-d37a32fda272",
+  "repo": "humanlayer/skills",
+  "url": "https://github.com/humanlayer/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Một framework để định nghĩa và kết hợp các kỹ năng cho các AI agent.",
+  "usecases": [
+    "Enabling AI agents to perform specialized tasks",
+    "Modular skill development for LLM applications",
+    "Human-in-the-loop skill execution"
+  ],
+  "ideas": [
+    "Integrating with humanlayer's orchestration tools",
+    "Creating a marketplace of reusable AI skills",
+    "Combining with tool-use frameworks for autonomous agents"
+  ],
+  "stars": 2318,
+  "starsToday": 1141,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-05T02:22:19.175Z"
+}

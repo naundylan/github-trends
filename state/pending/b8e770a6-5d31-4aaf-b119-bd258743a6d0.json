@@ -1,0 +1,42 @@
+{
+  "id": "b8e770a6-5d31-4aaf-b119-bd258743a6d0",
+  "repo": "sgl-project/sglang",
+  "url": "https://github.com/sgl-project/sglang",
+  "category": "AI/LLM",
+  "summary": "Một framework phục vụ mô hình ngôn lượng lớn và đa phương tipe với hiệu suất cao, tối ưu trễ và throughput.",
+  "usecases": [
+    "Serving multiple concurrent LLM requests in production",
+    "Deploying multimodal models (text+image) with low latency",
+    "Integration with custom attention mechanisms and expert routing (MoE)"
+  ],
+  "ideas": [
+    "Building a unified serving layer for mixed-modal models",
+    "Optimizing for specific hardware like Blackwell GPUs",
+    "Creating a benchmark suite for LLM serving performance"
+  ],
+  "stars": 35484,
+  "starsToday": 836,
+  "language": "Python",
+  "topics": [
+    "cuda",
+    "inference",
+    "llama",
+    "llm",
+    "moe",
+    "transformer",
+    "vlm",
+    "deepseek",
+    "blackwell",
+    "gpt-oss",
+    "diffusion",
+    "attention",
+    "glm",
+    "minimax",
+    "qwen",
+    "qwen-image",
+    "reinforcement-learning",
+    "wan"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-05T02:22:19.175Z"
+}

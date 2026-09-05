@@ -1,0 +1,27 @@
+{
+  "id": "8b70e4fe-9a30-472f-8e05-d7c4e8563bbc",
+  "repo": "google/skills",
+  "url": "https://github.com/google/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ skill agent cho sản phẩm và công nghệ Google, cung cấp khả năng tương tác và tự động hóa trong ecosystem Google thông qua Python.",
+  "usecases": [
+    "Tự động hóa các tác vụ quản lý cloud resources trên Google Cloud Platform thông qua AI agents.",
+    "Cung cấp skill cho các AI assistant tương tác với sản phẩm Google như Docs, Sheets, Cloud Console.",
+    "Giúp developers xây dựng các quy trình tự động cho Google Workspace và dịch vụ liên quan."
+  ],
+  "ideas": [
+    "Kết hợp với Gemini API để tạo các agent có khả năng thao tác trực tiếp trên Google Cloud Console.",
+    "Mở rộng skill cho các kịch bản tự động hóa phức tạp trong Google Workspace.",
+    "Tạo bridge giữa các AI agent và Google's internal APIs cho các tác vụ doanh nghiệp."
+  ],
+  "stars": 19511,
+  "starsToday": 125,
+  "language": "Python",
+  "topics": [
+    "google",
+    "googlecloud",
+    "skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-05T02:22:19.176Z"
+}

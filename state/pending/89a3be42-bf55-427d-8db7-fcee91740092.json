@@ -1,0 +1,28 @@
+{
+  "id": "89a3be42-bf55-427d-8db7-fcee91740092",
+  "repo": "clshortfuse/renodx",
+  "url": "https://github.com/clshortfuse/renodx",
+  "category": "Game Engine",
+  "summary": "Renodx là một engine đồ họa DirectX cho phép nâng cấp HDR và sửa đổi trực quan cho trò chơi cổ điển và hiện đại.",
+  "usecases": [
+    "Nâng cấp đồ họa trò chơi DirectX 9/10 với tính năng HDR hiện đại.",
+    "Cung cấp nền tảng cho modder tạo hiệu ứng thị giác và shader tùy chỉnh.",
+    "Tối ưu hóa pipeline render cho dự án game sử dụng DirectX."
+  ],
+  "ideas": [
+    "Kết nối denoiser path tracing để render cinematic real-time cho game cũ.",
+    "Xây lớp wrapper cross-platform hỗ trợ DirectX 11/12 trên Vulkan hoặc Metal.",
+    "Tạo hệ thống plugin cho artists điều chỉnh tham số HDR mà không cần sửa code."
+  ],
+  "stars": 3539,
+  "starsToday": 261,
+  "language": "HLSL",
+  "topics": [
+    "directx",
+    "games",
+    "hdr",
+    "mod"
+  ],
+  "notePath": "notes/Game-Engine.md",
+  "createdAt": "2026-09-05T02:22:19.175Z"
+}
