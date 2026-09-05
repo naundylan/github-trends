@@ -1,0 +1,23 @@
+{
+  "id": "7e5a56ee-8d35-4eba-85fd-027418bffc5c",
+  "repo": "vercel-labs/agent-skills",
+  "url": "https://github.com/vercel-labs/agent-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Vercel's agent skills là bộ kỹ năng chính thức giúp mở rộng khả năng của AI agents trên nền tảng Vercel, hỗ trợ phát triển ứng dụng AI thực hiện tác vụ cụ thể.",
+  "usecases": [
+    "Tích hợp năng lực AI vào các ứng dụng web Deploy trên Vercel với ít code nhất.",
+    "Tự động hóa quy trình CI/CD kết hợp với tác vụ AI như tạo nội dung hoặc phân tích dữ liệu.",
+    "Mở rộng khả năng của chatbot hoặc agent hỗ trợ khách hàng với các kỹ năng chuyên biệt."
+  ],
+  "ideas": [
+    "Xây dựng marketplace skills cho phép cộng đồng đóng góp và kết nối các kỹ năng agent mới.",
+    "Kết hợp với Edge Functions để chạy AI inference gần user, giảm latency.",
+    "Sử dụng trong các tác vụ IoT monitoring và tự động sửa chữa hệ thống."
+  ],
+  "stars": 30876,
+  "starsToday": 41,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-05T22:34:58.259Z"
+}

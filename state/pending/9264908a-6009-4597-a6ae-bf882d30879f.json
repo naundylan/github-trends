@@ -1,0 +1,31 @@
+{
+  "id": "9264908a-6009-4597-a6ae-bf882d30879f",
+  "repo": "thewh1teagle/vibe",
+  "url": "https://github.com/thewh1teagle/vibe",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop đa nền tảng cho phép người dùng sử dụng Whisper AI để ghi âm và chuyển đổi giọng nói thành văn bản một cách riêng tư và nhanh chóng.",
+  "usecases": [
+    "Ghi âm cuộc họp và tạo bản ghi chú văn bản tức thời.",
+    "Chuyển đổi tệp âm thanh/video đã có thành văn bản với độ chính xác cao.",
+    "Dùng riêng tư trên máy tính không cần kết nối internet."
+  ],
+  "ideas": [
+    "Kết hợp với các dịch vụ lưu trữ đám mây để sao lưu bản ghi chú tự động.",
+    "Phát triển plugin cho Code Editor để chèn đoạn văn bản đã chuyển đổi một cách nhanh.",
+    "Tích hợp nhận diện ngôn ngữ đa ngôn ngữ để hỗ trợ ghi âm tiếng Việt chính xác."
+  ],
+  "stars": 7335,
+  "starsToday": 53,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "cross-platform",
+    "desktop",
+    "openai",
+    "rust",
+    "transcribe",
+    "whisper"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-05T22:34:58.259Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "35e729f5-3e0f-4a3f-b856-c73db74b7e3f",
+  "repo": "nvm-sh/nvm",
+  "url": "https://github.com/nvm-sh/nvm",
+  "category": "Developer Tool",
+  "summary": "Quản lý nhiều phiên bản Node.js trên cùng một hệ thống, giúp developer dễ chuyển đổi và test ứng dụng trên các version khác nhau.",
+  "usecases": [
+    "Chuyển đổi Node.js version cho các dự án khác nhau trên cùng máy",
+    "Test ứng dụng trên nhiều Node version LTS khác nhau",
+    "Cài đặt và quản lý các release Node.js LTS một cách nhanh chóng"
+  ],
+  "ideas": [
+    "Tích hợp tự động version selection trong CI/CD pipelines",
+    "Xây dựng plugin quản lý version cho monorepos lớn",
+    "Tự động hóa môi trường phát triển cho team làm việc đa dự án"
+  ],
+  "stars": 94900,
+  "starsToday": 57,
+  "language": "Shell",
+  "topics": [
+    "nvm",
+    "nodejs",
+    "node",
+    "node-js",
+    "version-manager",
+    "posix",
+    "posix-compliant",
+    "bash",
+    "zsh",
+    "shell",
+    "nvmrc",
+    "lts",
+    "install"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-05T22:34:58.259Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "c927adde-f2d2-4dae-ad4b-fd4e0bd2bb3d",
+  "repo": "rclone/rclone",
+  "url": "https://github.com/rclone/rclone",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh rsync for cloud storage, hỗ trợ đồng bộ và truy cập trực tiếp cho hơn 50 dịch vụ lưu trữ đám mây như Google Drive, S3, Dropbox, v.v.",
+  "usecases": [
+    "Sao lưu và đồng bộ dữ liệu giữa nhiều dịch vụ cloud khác nhau (multi-cloud sync)",
+    "Mount cloud storage làm local filesystem qua FUSE để truy cập mượt mà",
+    "Tự động hóa việc chuyển đổi hoặc sao lưu dữ liệu giữa các provider lưu trữ với mã hóa tích hợp"
+  ],
+  "ideas": [
+    "Sử dụng làm foundation cho các script backup tự động trong môi trường headless",
+    "Kết hợp với rclone crypt và các provider encryption để tạo lưu trữ đám mây riêng tư an toàn",
+    "Phát triển plugin CI/CD để tự động deploy artifacts lên nhiều cloud provider cùng lúc"
+  ],
+  "stars": 59581,
+  "starsToday": 35,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "go",
+    "cloud-storage",
+    "s3",
+    "openstack-swift",
+    "google-drive",
+    "azure-blob",
+    "backblaze-b2",
+    "sftp",
+    "ftp",
+    "rclone",
+    "dropbox",
+    "google-cloud-storage",
+    "onedrive",
+    "sync",
+    "fuse-filesystem",
+    "encryption",
+    "webdav",
+    "azure-blob-storage",
+    "azure-files"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-05T22:34:58.259Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "d8fa16d0-14f6-4908-aca9-366786c99ae9",
+  "repo": "Significant-Gravitas/AutoGPT",
+  "url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "category": "AI/LLM",
+  "summary": "AutoGPT là một dự án mã nguồn mở sử dụng LLM để tạo các agente AI tự hành, cho phép thực hiện các mục tiêu phức tạp với ít can thiệp con người.",
+  "usecases": [
+    "Tự động hóa nghiên cứu và tổng hợp thông tin từ nhiều nguồn.",
+    "Triển khai các tác vụ phức tạp như lập trình, phân tích dữ liệu và tạo nội dung.",
+    "Phát triển trợ lý cá nhân AI có khả năng tự học và tự hành."
+  ],
+  "ideas": [
+    "Kết hợp agent với cơ sở dữ liệu doanh nghiệp để có tư duy kontext chuyên sâu.",
+    "Sử dụng làm nền tảng cho các hệ thống tự động hóa marketing, sales và hỗ trợ khách hàng.",
+    "Phát triển plugin IDE để auto-review code và sinh tài liệu kỹ thuật."
+  ],
+  "stars": 187162,
+  "starsToday": 42,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "openai",
+    "python",
+    "artificial-intelligence",
+    "autonomous-agents",
+    "llama-api",
+    "agentic-ai",
+    "agents",
+    "llm",
+    "claude",
+    "gpt"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-05T22:34:58.259Z"
+}

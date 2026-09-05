@@ -1,0 +1,23 @@
+{
+  "id": "cfa157a1-7bd7-40c1-bab7-a64f8188c1f6",
+  "repo": "vercel-labs/agent-browser",
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ dòng lệnh tự động hóa điều khiển trình duyệt cho AI agents, cho phép tương tác với web như con người.",
+  "usecases": [
+    "Tự động test web applications bằng AI agents",
+    "Thu thập dữ liệu từ các trang web động",
+    "Tạo agent tự hành cho tác vụ lặp lại trên browser"
+  ],
+  "ideas": [
+    "Kết hợp với LLM để agent tự điều hướng và thao tác trên website",
+    "Dùng cho test tự động và QA của các ứng dụng web phức tạp",
+    "Xây dựng hệ thống tự động điền form hoặc nộp đơn qua browser"
+  ],
+  "stars": 42006,
+  "starsToday": 73,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-05T22:34:58.259Z"
+}

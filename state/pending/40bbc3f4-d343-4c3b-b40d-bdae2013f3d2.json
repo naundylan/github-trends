@@ -1,0 +1,23 @@
+{
+  "id": "40bbc3f4-d343-4c3b-b40d-bdae2013f3d2",
+  "repo": "BraveOPotato/FckSignups",
+  "url": "https://github.com/BraveOPotato/FckSignups",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Daftur công cụ mã nguồn mở, chạy hoàn toàn trên trình duyệt và không yêu cầu đăng ký để sử dụng.",
+  "usecases": [
+    "Tìm kiếm các dịch vụ web hoặc công cụ online có thể dùng mà không cần tạo tài khoản.",
+    "Giúp nhà phát triển hoặc người dùng nhanh chóng tìm ra các giải pháp open-source cho các nhu cầu cụ thể.",
+    "Dùng trong môi trường có hạn chế mạng hoặc muốn bảo vệ quyền riêng tư khi truy cập các dịch vụ."
+  ],
+  "ideas": [
+    "Tạo một browser extension tự động kiểm tra và đề xuất các công cụ no-signup cho bài toán đang giải.",
+    "Phát triển ứng dụng di động đồng bộ danh sách này để tìm nhanh công cụ khi cần.",
+    "Thêm bộ lọc theo danh mục (như social media, productivity, design) để dễ dàng tìm kiếm."
+  ],
+  "stars": 2854,
+  "starsToday": 50,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-05T22:34:58.259Z"
+}
