@@ -1,0 +1,23 @@
+{
+  "id": "2e0d1181-9db4-4012-9040-b78c6aee1df9",
+  "repo": "magnitudedev/magnitude",
+  "url": "https://github.com/magnitudedev/magnitude",
+  "category": "AI/LLM",
+  "summary": "Server inference mã nguồn mở chạy model local tốt nhất cho hardware của bạn, tích hợp liền mạch với các agent AI như Codex, Cline, Claude Code và OpenCode.",
+  "usecases": [
+    "Chạy model LLM local trên hardware yếu (như Raspberry Pi) cho các agent cá nhân.",
+    "Tích hợp inference vào workflow development với OpenCode hoặc Cline.",
+    "Cung cấp inference offline an toàn cho các dự án nhạy cảm dữ liệu."
+  ],
+  "ideas": [
+    "Triển khai inference local cho ứng dụng mobile trên device (on-device AI).",
+    "Kết hợp với các framework tự động hóa test để benchmark performance model.",
+    "Xây dựng plugin cho VS Code chạy model local trực tiếp từ editor."
+  ],
+  "stars": 2829,
+  "starsToday": 391,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-05T12:24:00.057Z"
+}

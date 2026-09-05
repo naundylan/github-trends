@@ -1,0 +1,23 @@
+{
+  "id": "c9c579ab-4836-420b-b540-7c404ef75890",
+  "repo": "k2-fsa/OmniVoice",
+  "url": "https://github.com/k2-fsa/OmniVoice",
+  "category": "AI/LLM",
+  "summary": "Hệ thống TTS chất lượng cao cloning giọng nói cho hơn 600 ngôn ngữ, tạo giọng đọc tự nhiên từ âm thanh đầu vào.",
+  "usecases": [
+    "Trợ lý đa ngôn ngữ tự động cho dịch vụ khách hàng.",
+    "Đồng bộ hóa giọng cho phim ảnh và nội dung video (dubbing).",
+    "Công cụ tiếp cận chuyển văn bản thành lời nói cho các ngôn ngữ ít được đại diện."
+  ],
+  "ideas": [
+    "Kết hợp với pipeline dịch thực-time để giao tiếp xuyên ngôn ngữ.",
+    "Nền tảng lưu trữ giọng nói cho các ngôn ngữ đang bị đe dọa.",
+    "Avatar AI cá nhân hóa có giọng và biểu cảm."
+  ],
+  "stars": 9803,
+  "starsToday": 83,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-05T12:24:00.057Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "59b14291-fa2c-4d4b-9e5e-247c3c711372",
+  "repo": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "category": "Data Visualization",
+  "summary": "Thư viện cung cấp 38 loại sơ đồ editorial dạng HTML + SVG self-contained, tối ưu cho Claude Code, Codex và Pi mà không phụ thuộc Mermaid hay shadow.",
+  "usecases": [
+    "Tạo sơ đồ trực quan cho quy trình làm việc AI trong Claude Code.",
+    "Xuất bản diagram dạng SVG nhẹ cho documentation kỹ thuật.",
+    "Thay thế Mermaid với các diagram type editorial tùy chỉnh."
+  ],
+  "ideas": [
+    "Kết hợp với các theme editor để tạo giao diện diagram tùy chỉnh.",
+    "Sử dụng làm foundation cho visual programming hoặc no-code workflow builder.",
+    "Export diagram sang các format khác nhau cho báo cáo tự động."
+  ],
+  "stars": 31363,
+  "starsToday": 437,
+  "language": "HTML",
+  "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "data-visualization",
+    "diagrams",
+    "drawio",
+    "mermaid",
+    "svg"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-09-05T12:24:00.057Z"
+}
