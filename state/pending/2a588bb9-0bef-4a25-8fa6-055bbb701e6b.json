@@ -1,0 +1,39 @@
+{
+  "id": "2a588bb9-0bef-4a25-8fa6-055bbb701e6b",
+  "repo": "ollama/ollama",
+  "url": "https://github.com/ollama/ollama",
+  "category": "AI/LLM",
+  "summary": "Platform for running and interacting with large language models locally, supporting a wide variety of models like Llama, Qwen, Gemma, and others via a simple API.",
+  "usecases": [
+    "Local LLM inference for privacy-focused applications",
+    "Rapid prototyping and testing of different LLMs without cloud dependencies",
+    "Integration into desktop or mobile apps for AI chat capabilities"
+  ],
+  "ideas": [
+    "Build a local AI assistant that runs entirely offline on consumer hardware",
+    "Create a model router that automatically selects the best model for a given task from the supported list",
+    "Integrate with edge devices for on-device AI features without internet"
+  ],
+  "stars": 180235,
+  "starsToday": 100,
+  "language": "Go",
+  "topics": [
+    "llama",
+    "llm",
+    "llms",
+    "go",
+    "golang",
+    "ollama",
+    "mistral",
+    "gemma",
+    "llama3",
+    "deepseek",
+    "gemma3",
+    "qwen",
+    "gpt-oss",
+    "glm",
+    "minimax"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-05T19:54:16.770Z"
+}

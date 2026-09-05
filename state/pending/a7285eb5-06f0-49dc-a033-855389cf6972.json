@@ -1,0 +1,23 @@
+{
+  "id": "a7285eb5-06f0-49dc-a033-855389cf6972",
+  "repo": "k2-fsa/OmniVoice",
+  "url": "https://github.com/k2-fsa/OmniVoice",
+  "category": "Machine Learning",
+  "summary": "High-quality multilingual text-to-speech system enabling voice cloning and synthesis across 600+ languages.",
+  "usecases": [
+    "Multilingual voice cloning for content creation and dubbing",
+    "Accessibility tools generating speech in under-resourced languages",
+    "Real-time voice conversion for gaming or virtual assistants"
+  ],
+  "ideas": [
+    "Develop a real-time translation platform that preserves the speaker's voice across languages",
+    "Create a voice-based personal archive system that converts text memories into the user's cloned voice",
+    "Build a low-resource language preservation tool that generates TTS from minimal data"
+  ],
+  "stars": 9888,
+  "starsToday": 83,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-09-05T19:54:16.770Z"
+}

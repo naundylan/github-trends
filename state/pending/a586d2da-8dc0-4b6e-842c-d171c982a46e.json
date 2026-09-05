@@ -1,0 +1,37 @@
+{
+  "id": "a586d2da-8dc0-4b6e-842c-d171c982a46e",
+  "repo": "AprilNEA/OpenLogi",
+  "url": "https://github.com/AprilNEA/OpenLogi",
+  "category": "Desktop App",
+  "summary": "OpenLogi là ứng dụng desktop native viết bằng Rust, cung cấp khả năng tùy chỉnh nút bấm, DPI và SmartShift cho chuột Logitech theo phương thức local-first, không yêu cầu tài khoản hoặc thu thập telemetry.",
+  "usecases": [
+    "Tùy chỉnh nút bấm và gesture cho chuột Logitech trên Linux/macOS/Windows mà không cần phần mềm chính thức.",
+    "Cấu hình DPI và SmartShift cho các dòng mouse gaming với các profile cá nhân.",
+    "Sử dụng làm giải pháp nhập liệu riêng tư cho người dùng quan tâm đến dữ liệu địa lý/local-first."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ autohotkey để tạo hệ điều khiển phím tắt toàn cục.",
+    "Phát triển plugin cho các môi trường terminal để điều khiển chuột qua lệnh.",
+    "Tạo dashboard giám sát hiệu suất DPI và nút bấm cho các thiết bị nhập liệu."
+  ],
+  "stars": 19489,
+  "starsToday": 345,
+  "language": "Rust",
+  "topics": [
+    "dpi",
+    "gpui",
+    "hid",
+    "hidpp",
+    "local-first",
+    "logitech",
+    "logitech-options",
+    "mouse-remapping",
+    "mx-master",
+    "privacy",
+    "rust",
+    "smartshift",
+    "logitech-mouse"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-05T19:54:16.770Z"
+}
