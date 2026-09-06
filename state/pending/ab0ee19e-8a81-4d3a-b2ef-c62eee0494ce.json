@@ -1,0 +1,44 @@
+{
+  "id": "ab0ee19e-8a81-4d3a-b2ef-c62eee0494ce",
+  "repo": "aipoch/open-science",
+  "url": "https://github.com/aipoch/open-science",
+  "category": "Desktop App",
+  "summary": "Một phần mềm bàn làm việc nghiên cứu AI mở源, chạy locally trên macOS, Windows và Linux, hỗ trợ agent khoa học, notebook Python/R và kết nối dữ liệu, với trọng tâm là nghiên cứu có thể tái tạo được và AI không phụ thuộc vào mô hình.",
+  "usecases": [
+    "Nghiên cứu viên có thể thực hiện các thử nghiệm AI trực tiếp trên máy tính cá nhân mà không cần gửi dữ liệu lên cloud, đảm bảo bảo mật và tính tái tạo.",
+    "Nhà khoa học dữ liệu có thể tích hợp notebook Python và R trong cùng một môi trường để phân tích khoa học hợp tác.",
+    "Đội bioinformatics có thể tận dụng các kết nối dữ liệu và agent khoa học để quản lý và phân tích các tập dữ liệu sinh học phức tạp."
+  ],
+  "ideas": [
+    "Kết hợp với các dịch vụ lưu trữ cloud để đồng bộ notebook và kết quả trong khi vẫn giữ ưu điểm local-first.",
+    "Tích hợp với hệ thống kiểm soát phiên bản như Git để theo dõi các thay đổi trong các thử nghiệm và đảm bảo provenance.",
+    "Sử dụng làm nền tảng giảng dạy cho các khóa AI và khoa học, cho phép sinh viên chạy các workflow agent khoa học đã được cấu hình sẵn."
+  ],
+  "stars": 3757,
+  "starsToday": 145,
+  "language": "TypeScript",
+  "topics": [
+    "ai-for-science",
+    "local-first",
+    "reproducible-research",
+    "open-science",
+    "ai-research",
+    "model-agnostic",
+    "research-software",
+    "scientific-ai",
+    "linux",
+    "macos",
+    "windows",
+    "claude-science-alternative",
+    "desktop-app",
+    "mcp",
+    "ai-workbench",
+    "python",
+    "r",
+    "bioinformatics",
+    "electron",
+    "research-workbench"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-06T17:42:39.367Z"
+}

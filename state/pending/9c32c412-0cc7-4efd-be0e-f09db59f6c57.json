@@ -1,0 +1,34 @@
+{
+  "id": "9c32c412-0cc7-4efd-be0e-f09db59f6c57",
+  "repo": "ahujasid/blender-mcp",
+  "url": "https://github.com/ahujasid/blender-mcp",
+  "category": "AI/LLM",
+  "summary": "Plugin Blender cho phép điều khiển phần mềm 3D thông qua LLM, hỗ trợ tạo và tự động hóa nội dung 3D bằng AI.",
+  "usecases": [
+    "Tự động tạo và sửa đổi mô hình 3D bằng lệnh ngôn ngữ tự nhiên.",
+    "Tích hợp Blender vào quy trình làm việc AI cho thiết kế sản xuất và animation.",
+    "Giúp người dùng không có kỹ năng modeling tạo ra nội dung 3D nhanh chóng thông qua AI."
+  ],
+  "ideas": [
+    "Kết hợp với text-to-3D workflow để tạo ra toàn bộ cảnh 3D từ prompt.",
+    "Tạo plugin cho các DCC software khác dựa trên cùng nguyên lý.",
+    "Sử dụng cho sản xuất nội dung giáo dục hoặc trải nghiệm AR/VR tự động."
+  ],
+  "stars": 27228,
+  "starsToday": 209,
+  "language": "Python",
+  "topics": [
+    "3d-modeling",
+    "ai",
+    "blender",
+    "blender-addon",
+    "claude",
+    "generative-ai",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "python"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-06T17:42:39.367Z"
+}

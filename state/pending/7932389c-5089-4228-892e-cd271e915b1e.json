@@ -1,0 +1,23 @@
+{
+  "id": "7932389c-5089-4228-892e-cd271e915b1e",
+  "repo": "nklmilojevic/sofka",
+  "url": "https://github.com/nklmilojevic/sofka",
+  "category": "Developer Tool",
+  "summary": "Công cụ giao diện người dùng-terminal (TUI) cho Kubernetes, được viết lại bằng Rust, sử dụng kube-rs và ratatui, được thiết kế để async-first và cung cấp một TUI hiện đại để quản lý các tài nguyên Kubernetes.",
+  "usecases": [
+    "Nhà phát triển có thể nhanh chóng kiểm tra và quản lý các tài nguyên Kubernetes (pod, service, deployment) trực tiếp từ terminal mà không cần sử dụng lệnh kubectl.",
+    "Quản trị viên hệ thống có thể theo dõi tình trạng cluster và xử lý sự cố với một TUI tương tác thời gian thực.",
+    "Đội có thể sử dụng nó như một giải pháp thay thế nhẹ nhàng cho các bảng điều khiển đầy đủ tính năng cho các thao tác hàng ngày trên cluster."
+  ],
+  "ideas": [
+    "Phát triển hệ thống plugin để thêm các loại tài nguyên tùy chỉnh hoặc tích hợp với các công cụ giám sát như Prometheus.",
+    "Kết hợp với một bộ đa cổng terminal (như tmux) để tạo một bảng điều khiển cho nhiều cluster khác nhau.",
+    "Sử dụng trong các pipeline CI/CD để cung cấp xác nhận trực quan cho các bước triển khai."
+  ],
+  "stars": 512,
+  "starsToday": 139,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-06T17:42:39.367Z"
+}

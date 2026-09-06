@@ -1,0 +1,23 @@
+{
+  "id": "76446199-73fa-4472-8f54-fe381e8d42c8",
+  "repo": "experientiallabs/experiential",
+  "url": "https://github.com/experientiallabs/experiential",
+  "category": "AI/LLM",
+  "summary": "Cổng điều khiển mã nguồn mở để quản lý và truy cập đồng nhất các mô hình AI, bao gồm model đóng nguồn, nguồn mở và cục bộ.",
+  "usecases": [
+    "Truy cập và chuyển đổi giữa nhiều provider AI từ một API duy nhất",
+    "Quản lý chi phí và theo dõi sử dụng các mô hình AI trong doanh nghiệp",
+    "Phát triển ứng dụng AI có thể chuyển đổi giữa các model tùy theo khả năng hoặc chi phí"
+  ],
+  "ideas": [
+    "Xây dựng chatbot đa model tự động chọn model phù hợp dựa trên câu hỏi",
+    "Tạo platform nội bộ cho đội ngũ phát triển test và so sánh output các model",
+    "Tích hợp gateway vào CI/CD để tự động hóa deploy model và monitoring"
+  ],
+  "stars": 1784,
+  "starsToday": 568,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-06T17:42:39.367Z"
+}

@@ -16,8 +16,8 @@
   },
   "public-apis/public-apis": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-07",
-    "last_saved": "2026-07-02"
+    "last_seen": "2026-09-06",
+    "last_saved": "2026-09-06"
   },
   "NousResearch/hermes-agent": {
     "first_seen": "2026-07-02",
@@ -236,13 +236,13 @@
   },
   "clash-verge-rev/clash-verge-rev": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-30"
   },
   "avelino/awesome-go": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-07-07",
-    "last_saved": "2026-07-06"
+    "last_seen": "2026-09-06",
+    "last_saved": "2026-09-06"
   },
   "rust-lang/rust": {
     "first_seen": "2026-07-06",
@@ -481,7 +481,7 @@
   },
   "heygen-com/hyperframes": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-23"
   },
   "microsoft/TypeScript": {
@@ -511,7 +511,7 @@
   },
   "Anil-matcha/Open-Generative-AI": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-24"
   },
   "langchain-ai/deepagents": {
@@ -546,7 +546,7 @@
   },
   "Tencent/WeKnora": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-24"
   },
   "Shubhamsaboo/awesome-llm-apps": {
@@ -811,7 +811,7 @@
   },
   "yt-dlp/yt-dlp": {
     "first_seen": "2026-08-30",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-30"
   },
   "D4Vinci/Scrapling": {
@@ -931,7 +931,7 @@
   },
   "rtk-ai/rtk": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-01"
   },
   "farion1231/cc-switch": {
@@ -991,7 +991,7 @@
   },
   "arcboxlabs/arcbox": {
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-02"
   },
   "fmtlib/fmt": {
@@ -1061,7 +1061,7 @@
   },
   "Sumanth077/Hands-On-AI-Engineering": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-04"
   },
   "huangruiteng/loopx": {
@@ -1071,7 +1071,7 @@
   },
   "earthtojake/text-to-cad": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-04"
   },
   "shadcn-ui/ui": {
@@ -1144,52 +1144,47 @@
     "last_seen": "2026-09-06",
     "last_saved": "2026-09-05"
   },
-  "cathrynlavery/diagram-design": {
+  "aipoch/open-science": {
     "first_seen": "2026-09-06",
     "last_seen": "2026-09-06",
     "last_saved": "2026-09-06"
   },
-  "humanlayer/skills": {
+  "The-Swarm-Corporation/AutoHedge": {
     "first_seen": "2026-09-06",
     "last_seen": "2026-09-06",
     "last_saved": "2026-09-06"
   },
-  "magnitudedev/magnitude": {
+  "ahujasid/blender-mcp": {
     "first_seen": "2026-09-06",
     "last_seen": "2026-09-06",
     "last_saved": "2026-09-06"
   },
-  "sgl-project/sglang": {
+  "Comfy-Org/ComfyUI": {
     "first_seen": "2026-09-06",
     "last_seen": "2026-09-06",
     "last_saved": "2026-09-06"
   },
-  "k2-fsa/OmniVoice": {
+  "donnemartin/system-design-primer": {
     "first_seen": "2026-09-06",
     "last_seen": "2026-09-06",
     "last_saved": "2026-09-06"
   },
-  "Jakubantalik/Libraries.dev": {
+  "browser-use/browser-use": {
     "first_seen": "2026-09-06",
     "last_seen": "2026-09-06",
     "last_saved": "2026-09-06"
   },
-  "ollama/ollama": {
+  "experientiallabs/experiential": {
     "first_seen": "2026-09-06",
     "last_seen": "2026-09-06",
     "last_saved": "2026-09-06"
   },
-  "multica-ai/multica": {
+  "AdventDevInc/kudu": {
     "first_seen": "2026-09-06",
     "last_seen": "2026-09-06",
     "last_saved": "2026-09-06"
   },
-  "AprilNEA/OpenLogi": {
-    "first_seen": "2026-09-06",
-    "last_seen": "2026-09-06",
-    "last_saved": "2026-09-06"
-  },
-  "longbridge/gpui-kit": {
+  "nklmilojevic/sofka": {
     "first_seen": "2026-09-06",
     "last_seen": "2026-09-06",
     "last_saved": "2026-09-06"

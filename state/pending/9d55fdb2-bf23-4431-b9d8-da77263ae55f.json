@@ -1,0 +1,42 @@
+{
+  "id": "9d55fdb2-bf23-4431-b9d8-da77263ae55f",
+  "repo": "AdventDevInc/kudu",
+  "url": "https://github.com/AdventDevInc/kudu",
+  "category": "Desktop App",
+  "summary": "AdventDevInc/kudu là công cụ miễn phí cho Windows, macOS và Linux, cung cấp các công cụ dọn dẹp, quét virus và tối ưu hệ thống với các tính năng bảo mật và quản lý khởi động.",
+  "usecases": [
+    "Dọn dẹp nhanh các file tạm và cache trên máy tính cá nhân",
+    "Kiểm tra và loại bỏ phần mềm độc hại hoặc malware",
+    "Tối ưu hiệu suất và giảm thời gian khởi động hệ thống"
+  ],
+  "ideas": [
+    "Kết hợp với công cụ dọn dẹp hệ thống OS để tạo bộ công cụ duy trì máy tính toàn diện",
+    "Phát triển plugin cho các trình duyệt để dọn dẹp cache tự động",
+    "Tạo dịch vụ đám mây để quét và báo cáo tình trạng bảo mật trên nhiều thiết bị"
+  ],
+  "stars": 2893,
+  "starsToday": 378,
+  "language": "TypeScript",
+  "topics": [
+    "cleaner",
+    "free",
+    "kudu",
+    "scanner",
+    "ccleaner-alternative",
+    "hardening",
+    "linux-cleaner",
+    "mac-cleaner",
+    "malware-detection",
+    "open-source",
+    "pc-optimization",
+    "performance",
+    "privacy",
+    "security",
+    "startup-manager",
+    "system-cleaner",
+    "system-maintenance",
+    "windows-cleaner"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-06T17:42:39.367Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "faf77dbe-b8cc-47f8-ae2f-94a00b652091",
+  "repo": "donnemartin/system-design-primer",
+  "url": "https://github.com/donnemartin/system-design-primer",
+  "category": "Documentation/Learning Resource",
+  "summary": "donnemartin/system-design-primer là bộ tài liệu và bài tập Python giúp học sinh thiết kế hệ thống lớn, chuẩn bị phỏng vấn thiết kế hệ thống với các câu hỏi và flashcards Anki.",
+  "usecases": [
+    "Sinh viên chuẩn bị phỏng vấn kỹ thuật để cải thiện kỹ năng thiết kế hệ thống",
+    "Developer muốn học các mẫu thiết kế và nguyên tắc thiết kế hệ thống",
+    "Đội nhóm thực hành thiết kế kiến trúc phần mềm trong môi trường giáo dục"
+  ],
+  "ideas": [
+    "Tạo ứng dụng web cho việc thực hành thiết kế hệ thống với phản hồi tự động",
+    "Kết hợp với Anki để tạo bộ flashcards tự động từ nội dung tài liệu",
+    "Sử dụng repo làm basis cho các buổi workshop đào tạo nội bộ trong doanh nghiệp"
+  ],
+  "stars": 368300,
+  "starsToday": 220,
+  "language": "Python",
+  "topics": [
+    "programming",
+    "development",
+    "design",
+    "design-system",
+    "system",
+    "design-patterns",
+    "web",
+    "web-application",
+    "webapp",
+    "python",
+    "interview",
+    "interview-questions",
+    "interview-practice"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-06T17:42:39.367Z"
+}
