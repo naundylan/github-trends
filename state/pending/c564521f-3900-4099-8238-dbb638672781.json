@@ -1,0 +1,23 @@
+{
+  "id": "c564521f-3900-4099-8238-dbb638672781",
+  "repo": "humanlayer/skills",
+  "url": "https://github.com/humanlayer/skills",
+  "category": "AI Agent/Automation",
+  "summary": "humanlayer/skills là framework cho phép các mô hình LLM tự động thực hiện tác vụ và kỹ năng phức tạp, cung cấp giao diện thống nhất để định nghĩa, triển khai và quản lý các kỹ năng AI tái sử dụng.",
+  "usecases": [
+    "Tự động hóa tác vụ lặp đi lặp lại trong công việc văn phòng thông qua các agent AI.",
+    "Tích hợp kỹ năng AI vào ứng dụng nội bộ hỗ trợ quyết策划 và xử lý dữ liệu.",
+    "Phát triển bot tự hành cho hệ thống hỗ trợ khách hàng hoặc nội bộ."
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu vector để tạo nên 'knowledge agent' truy xuất và áp dụng kiến thức chuyên ngành.",
+    "Phát triển nền tảng tự động hóa quy trình (RPA) dựa trên AI cho doanh nghiệp nhỏ và vừa.",
+    "Tạo ra 'skill marketplace' chia sẻ và kết nối các kỹ năng AI giữa các dự án khác nhau."
+  ],
+  "stars": 3070,
+  "starsToday": 451,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-06T19:58:54.080Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f445d7d3-3dc5-4470-942d-da92adc84b0a",
+  "repo": "Stremio/stremio-web",
+  "url": "https://github.com/Stremio/stremio-web",
+  "category": "Web Frontend",
+  "summary": "Stremio là một ứng dụng phát truyền đa phương tiện cho phép xem và quản lý nội dung video từ nhiều nguồn thông qua giao diện web.",
+  "usecases": [
+    "Xem trực tiếp các phim và bộ phim từ các thư viện nội dung thứ ba trên một giao diện tập trung.",
+    "Cài đặt và quản lý các plug-in mở rộng để truy cập nguồn nội dung phim không chính thống.",
+    "Đồng bộ lịch xem và theo dõi tiến độ trên nhiều thiết bị khác nhau."
+  ],
+  "ideas": [
+    "Phát triển plugin phát hiện và cảnh báo nội dung vi phạm bản quyền trong thời gian thực.",
+    "Kết hợp công nghệ blockchain để tạo hệ thống điểm tín nhiệm xem phim phân tán.",
+    "Tạo giao diện tùy chỉnh cho Smart TV và thiết bị điện thông minh."
+  ],
+  "stars": 13423,
+  "starsToday": 121,
+  "language": "JavaScript",
+  "topics": [
+    "stremio",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-06T19:58:54.080Z"
+}

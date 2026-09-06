@@ -1,0 +1,21 @@
+{
+  "id": "9ca1a3bd-f62e-4738-b02f-883ebaf3ddb0",
+  "repo": "openai/whisper",
+  "url": "https://github.com/openai/whisper",
+  "category": "Other",
+  "summary": "Robust Speech Recognition via Large-Scale Weak Supervision",
+  "usecases": [
+    "Khám phá và đánh giá openai/whisper cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 108611,
+  "starsToday": 94,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-06T19:58:54.080Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6fd141e1-3c56-4194-90a4-7ad4089d5df8",
+  "repo": "jo-inc/camofox-browser",
+  "url": "https://github.com/jo-inc/camofox-browser",
+  "category": "AI Agent/Automation",
+  "summary": "Camofox là trình duyệt headless stealth cho AI agent, giúp vượt qua Cloudflare và bảo vệ chống bot để thu thập dữ liệu web.",
+  "usecases": [
+    "Tự động thu thập dữ liệu từ các trang web có bảo vệ Cloudflare cho mục đích nghiên cứu thị trường.",
+    "Chạy nhiều tác vụ đồng thời với nhiều identity ảo để tránh bị phát hiện và chặn.",
+    "Tích hợp vào pipeline dữ liệu AI để thu thập dữ liệu huấn luyện từ web an toàn."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tự động tương tác với website theo hướng dùng户户 (human-like browsing).",
+    "Phát triển module chống fingerprint và spoofing cho các nghiên cứu bảo mật trình duyệt.",
+    "Sử dụng trong đua giá tự động hoặc theo dõi giá sản phẩm trên các e-commerce có bảo vệ cao."
+  ],
+  "stars": 9215,
+  "starsToday": 101,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agent",
+    "anti-bot",
+    "antidetect-browser",
+    "automation",
+    "bot-detection",
+    "browser-automation",
+    "cloudflare-bypass",
+    "headless-browser",
+    "javascript",
+    "nodejs",
+    "playwright",
+    "puppeteer",
+    "scraping",
+    "stealth-browser",
+    "web-scraping"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-06T19:58:54.080Z"
+}

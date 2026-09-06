@@ -1,0 +1,42 @@
+{
+  "id": "9dbca34d-3e5b-4486-a710-50e596bba9c0",
+  "repo": "KnockOutEZ/wigolo",
+  "url": "https://github.com/KnockOutEZ/wigolo",
+  "category": "Other",
+  "summary": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+  "usecases": [
+    "Khám phá và đánh giá KnockOutEZ/wigolo cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 5127,
+  "starsToday": 96,
+  "language": "TypeScript",
+  "topics": [
+    "mcp",
+    "agent",
+    "ai",
+    "ai-agent",
+    "claude",
+    "cli",
+    "developer-tools",
+    "local-first",
+    "mcp-server",
+    "metasearch",
+    "model-context-protocol",
+    "nodejs",
+    "privacy",
+    "rag",
+    "search",
+    "search-engine",
+    "typescript",
+    "web-crawler",
+    "web-scraping",
+    "web-search"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-06T19:58:54.080Z"
+}

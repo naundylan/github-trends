@@ -1,0 +1,32 @@
+{
+  "id": "d24c491d-682f-4150-884a-073a1954135d",
+  "repo": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "category": "Data Visualization",
+  "summary": "Cung cấp 38 loại đồ họa editorial self-contained HTML + SVG cho các trợ lý code AI, cho phép tạo đồ thị không phụ thuộc Mermaid.",
+  "usecases": [
+    "AI coding assistants tạo đồ thị kỹ thuật tức thì",
+    "Sinh tài liệu trực quan cho dự án phần mềm",
+    "Thực hiện trực quan hóa workflow và architecture trong code editors"
+  ],
+  "ideas": [
+    "Kết hợp với CSS frameworks để responsive diagram layouts",
+    "Phát triển renderer cho các ngôn ngữ diagram khác thay thế Mermaid",
+    "Tùy chỉnh phong格式 cho các domain chuyên ngành"
+  ],
+  "stars": 32215,
+  "starsToday": 621,
+  "language": "HTML",
+  "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "data-visualization",
+    "diagrams",
+    "drawio",
+    "mermaid",
+    "svg"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-09-06T19:58:54.080Z"
+}

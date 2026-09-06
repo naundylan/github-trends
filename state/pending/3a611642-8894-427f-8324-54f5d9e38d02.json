@@ -1,0 +1,23 @@
+{
+  "id": "3a611642-8894-427f-8324-54f5d9e38d02",
+  "repo": "magnitudedev/magnitude",
+  "url": "https://github.com/magnitudedev/magnitude",
+  "category": "AI Agent/Automation",
+  "summary": "Server inference mã nguồn mở chạy mô hình local tốt nhất cho phần cứng người dùng, tích hợp với các agent AI như Codex, Claude Code, Cline v.v.",
+  "usecases": [
+    "Chạy mô hình AI local trên thiết bị cấu hình thấp như Raspberry Pi cho ứng dụng agent",
+    "Tích hợp với IDE/Code editors để tự động hoàn thành và phân tích code offline",
+    "Cung cấp inference cho hệ thống tự động hóa không phụ thuộc cloud"
+  ],
+  "ideas": [
+    "Tối ưu inference cho mô hình ngành y tế/tài chính trên edge devices",
+    "Kết hợp với framework agent hỗ trợ code review và debugging tự động",
+    "Phát triển plugin cho Cline/Codex tùy chỉnh mô hình local mượt mà"
+  ],
+  "stars": 3608,
+  "starsToday": 604,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-06T19:58:54.080Z"
+}

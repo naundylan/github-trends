@@ -1,0 +1,37 @@
+{
+  "id": "efb883be-74a1-435c-bd4c-05f712ad7d3e",
+  "repo": "C4illin/ConvertX",
+  "url": "https://github.com/C4illin/ConvertX",
+  "category": "Developer Tool",
+  "summary": "ConvertX là một dịch vụ self-hosted chuyển đổi file hỗ trợ hơn 1000 định dạng, cho phép người dùng chuyển đổi tài liệu, PDF, hình ảnh trực tuyến mà không cần phụ thuộc vào bên thứ ba.",
+  "usecases": [
+    "Đội ngũ phát triển cần chuyển đổi định dạng file hàng loạt trong môi trường nội bộ an toàn.",
+    "Cá nhân dùng để chuyển đổi file lớn hoặc nhạy cảm mà không muốn upload lên cloud công cộng.",
+    "Tích hợp vào quy trình CI/CD hoặc automation để xử lý file trong pipeline."
+  ],
+  "ideas": [
+    "Phát triển plugin cho VS Code để chuyển đổi file trực tiếp từ editor.",
+    "Kết hợp với AI để tự động nhận diện và chuyển đổi định dạng dựa trên nội dung file.",
+    "Triển khai as a Service (SaaS) self-hosted cho doanh nghiệp với tùy chỉnh quota và bảo mật."
+  ],
+  "stars": 18828,
+  "starsToday": 82,
+  "language": "TypeScript",
+  "topics": [
+    "bun",
+    "elysia",
+    "file-conversion",
+    "file-converter",
+    "typescript",
+    "self-hosted",
+    "conversion",
+    "convert",
+    "converter",
+    "document-conversion",
+    "pdf-converter",
+    "hacktoberfest",
+    "tailwindcss"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-06T19:58:54.080Z"
+}
