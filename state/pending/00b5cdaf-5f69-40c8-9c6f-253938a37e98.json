@@ -1,0 +1,23 @@
+{
+  "id": "00b5cdaf-5f69-40c8-9c6f-253938a37e98",
+  "repo": "openai/plugins",
+  "url": "https://github.com/openai/plugins",
+  "category": "AI/LLM",
+  "summary": "openai/plugins là kho mã nguồn chứa các plugin cho hệ thống AI của OpenAI, cho phép mở rộng khả năng và tích hợp tính năng tùy chỉnh vào ứng dụng ChatGPT hoặc tương tự.",
+  "usecases": [
+    "Mở rộng khả năng trả lời ChatGPT bằng plugin truy cập dữ liệu thời thực hoặc hệ thống nội bộ.",
+    "Tích hợp plugin tự động hóa tác vụ cụ thể cho doanh nghiệp hoặc phát triển viên.",
+    "Cho phép cộng đồng phát triển và chia sẻ plugin để tăng giá trị của các mô hình ngôn ngữ."
+  ],
+  "ideas": [
+    "Xây dựng plugin kết nối với cơ sở dữ liệu nội bộ để AI truy vấn dữ liệu doanh nghiệp an toàn.",
+    "Tạo plugin tự động sinh code dựa trên yêu cầu ngôn ngữ tự nhiên qua OpenAI API.",
+    "Phát triển hệ thống plugin đa ngôn ngữ cho trợ lý AI toàn cầu."
+  ],
+  "stars": 5411,
+  "starsToday": 20,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-06T07:39:11.583Z"
+}

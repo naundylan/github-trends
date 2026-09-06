@@ -1,0 +1,35 @@
+{
+  "id": "5ae39ba3-8b73-4737-a680-042df126cd0a",
+  "repo": "spicetify/cli",
+  "url": "https://github.com/spicetify/cli",
+  "category": "CLI Tool",
+  "summary": "spicetify/cli là công cụ dòng lệnh cho phép tùy chỉnh giao diện và hành vi của ứng dụng Spotify trên Windows, macOS và Linux.",
+  "usecases": [
+    "Tùy chỉnh theme và màu sắc cho Spotify mà không cần sửa file cấu hình gốc",
+    "Tích hợp các extension và script tự động để thêm tính năng mới vào Spotify",
+    "Sử dụng trong các script tự động hóa để thay đổi cấu hình Spotify trên nhiều máy"
+  ],
+  "ideas": [
+    "Phát triển giao diện quản lý theme trực quan cho spicetify",
+    "Tích hợp với các dịch vụ music khác để đồng bộ playlist",
+    "Tạo plugin cho phép điều khiển Spotify qua voice command thông qua CLI"
+  ],
+  "stars": 24398,
+  "starsToday": 23,
+  "language": "JavaScript",
+  "topics": [
+    "spotify",
+    "customization",
+    "golang",
+    "macos",
+    "linux",
+    "windows",
+    "command-line",
+    "command-line-tool",
+    "hacktoberfest",
+    "spicetify-extensions",
+    "spicetify-cli"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-06T07:39:11.583Z"
+}

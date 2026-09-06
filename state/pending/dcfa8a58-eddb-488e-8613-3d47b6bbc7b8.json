@@ -1,0 +1,35 @@
+{
+  "id": "dcfa8a58-eddb-488e-8613-3d47b6bbc7b8",
+  "repo": "astral-sh/ruff",
+  "url": "https://github.com/astral-sh/ruff",
+  "category": "Developer Tool",
+  "summary": "Một linter và formatter Python cực nhanh viết bằng Rust, thay thế nhiều công cụ truyền thống và tích hợp vào quy trình phát triển.",
+  "usecases": [
+    "Linting Python code trong CI/CD để tuân thủ style guide.",
+    "Formatter tự động trước commit để duy trì tính nhất quán code.",
+    "Thay thế flake8, black, isort bằng một công cụ duy nhất cho dự án Python."
+  ],
+  "ideas": [
+    "Tích hợp Ruff vào Git hooks để tự động sửa lỗi khi push.",
+    "Kết hợp với AI review agent để kiểm tra style và logic tự động.",
+    "Mở rộng Rust wrapper để tạo ra universal linter cho nhiều ngôn ngữ."
+  ],
+  "stars": 49512,
+  "starsToday": 20,
+  "language": "Rust",
+  "topics": [
+    "linter",
+    "pep8",
+    "python",
+    "python3",
+    "rust",
+    "rustpython",
+    "static-analysis",
+    "static-code-analysis",
+    "style-guide",
+    "styleguide",
+    "ruff"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-06T07:39:11.583Z"
+}

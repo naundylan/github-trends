@@ -1,0 +1,27 @@
+{
+  "id": "0a2fab15-610b-40fb-8a32-f54ae24d246c",
+  "repo": "github/github-mcp-server",
+  "url": "https://github.com/github/github-mcp-server",
+  "category": "AI/LLM",
+  "summary": "Server chính thức của GitHub cho Model Context Protocol, cung cấp khả năng tích hợp ngữ cảnh dự án cho các mô hình LLM trong quy trình phát triển.",
+  "usecases": [
+    "Tích hợp AI vào IDEs và công cụ phát triển để hỗ trợ code thông minh",
+    "Cung cấp ngữ cảnh repo cho LLM trong lúc review code hoặc xử lý issues",
+    "Tự động hóa tác vụ phát triển với LLM có truy cập mã nguồn dự án"
+  ],
+  "ideas": [
+    "Tạo extension VS Code kết nối MCP server cho autocompletion có ngữ cảnh",
+    "Sử dụng trong CI/CD để tự động tạo tài liệu code có AI",
+    "Phát triển bot tự động xử lý Pull Requests với đánh giá chất lượng mã có ngữ cảnh"
+  ],
+  "stars": 32741,
+  "starsToday": 18,
+  "language": "Go",
+  "topics": [
+    "github",
+    "mcp",
+    "mcp-server"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-06T07:39:11.583Z"
+}

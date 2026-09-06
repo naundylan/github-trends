@@ -1,0 +1,38 @@
+{
+  "id": "9a034832-347c-41ad-ba81-8e06822da724",
+  "repo": "glanceapp/glance",
+  "url": "https://github.com/glanceapp/glance",
+  "category": "Web Frontend",
+  "summary": "Glance là dashboard tự-hosted hiện đại thu thập và hiển thị các nguồn tin RSS, Reddit, YouTube và feed khác tại một nơi duy nhất, phù hợp cho homelab và trang startpage cá nhân.",
+  "usecases": [
+    "Hiển thị tổng quan nhanh về tin tức, RSS và mạng xã hội trên màn hình khởi động hoặc dashboard cá nhân.",
+    "Theo dõi repository GitHub, Reddit và YouTube channel trong giao diện duy nhất cho đội nhóm homelab.",
+    "Thay thế trang startpage truyền thống với dashboard cá nhân tùy chỉnh và tự host."
+  ],
+  "ideas": [
+    "Kết hợp widget thời tiết và calendar để tạo dashboard cá nhân toàn diện mỗi sáng.",
+    "Tích hợp authentication cho nhiều người dùng trong tổ chức truy cập dashboard chung an toàn.",
+    "Phát triển plugin thêm các nguồn tin tùy chỉnh qua API bên ngoài."
+  ],
+  "stars": 36868,
+  "starsToday": 23,
+  "language": "Go",
+  "topics": [
+    "dashboard",
+    "homepage",
+    "rss",
+    "self-hosted",
+    "docker",
+    "feed-reader",
+    "aggregator",
+    "startpage",
+    "reddit",
+    "youtube",
+    "go",
+    "monitoring",
+    "rss-reader",
+    "homelab"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-06T07:39:11.583Z"
+}

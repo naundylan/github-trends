@@ -1,0 +1,31 @@
+{
+  "id": "87ece3e8-76db-46eb-945f-787b63cf9588",
+  "repo": "eriklindernoren/ML-From-Scratch",
+  "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+  "category": "Machine Learning",
+  "summary": "Triển khai từ đầu các mô hình và thuật toán Machine Learning sử dụng NumPy, bao bọc từ hồi quy tuyến tính đến mạng nơ-ron sâu, với trọng tâm vào tính khả tiếp cận và học tập.",
+  "usecases": [
+    "Học tập cơ bản các thuật toán ML bằng mã nguồn mở và minh bạch",
+    "Nghiên cứu và tùy chỉnh các mô hình ML mà không phụ thuộc vào thư viện đen",
+    "Prototyping nhanh các thuật toán ML cho mục đích giáo dục và nghiên cứu"
+  ],
+  "ideas": [
+    "Sử dụng làm tài liệu giáo cho khóa học Machine Learning cơ bản",
+    "Kết hợp với thư viện visualisation để tạo đồ họ động cho các mô hình",
+    "Mở rộng triển khai trên các thiết bị biên (edge devices) với NumPy tối ưu"
+  ],
+  "stars": 32676,
+  "starsToday": 18,
+  "language": "Python",
+  "topics": [
+    "machine-learning",
+    "deep-learning",
+    "deep-reinforcement-learning",
+    "machine-learning-from-scratch",
+    "data-science",
+    "data-mining",
+    "genetic-algorithm"
+  ],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-09-06T07:39:11.583Z"
+}

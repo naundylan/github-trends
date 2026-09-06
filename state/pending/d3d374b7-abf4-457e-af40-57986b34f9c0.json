@@ -1,0 +1,23 @@
+{
+  "id": "d3d374b7-abf4-457e-af40-57986b34f9c0",
+  "repo": "facebook/stylex",
+  "url": "https://github.com/facebook/stylex",
+  "category": "CSS/Styling",
+  "summary": "Hệ thống styling JavaScript cho giao diện người dùng quy mô lớn, cung cấp xử lý CSS tại biên dịch và chi phí chạy thời gian thực bằng 0.",
+  "usecases": [
+    "Styling ứng dụng React quy mô lớn với extract CSS tại biên dịch.",
+    "Xây dựng design system có theming nhất quán và chi phí chạy thời gian thực bằng 0.",
+    "Hỗ trợ SSR mà không có overhead của CSS-in-JS."
+  ],
+  "ideas": [
+    "Tự động tạo design tokens từ cấu hình StyleX cho ứng dụng đa nền tảng.",
+    "Kết hợp với Tailwind-like utilities nhưng có garantice biên dịch.",
+    "Dùng StyleX cho web VR/AR nơi hiệu năng then chốt."
+  ],
+  "stars": 10163,
+  "starsToday": 19,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/CSS-Styling.md",
+  "createdAt": "2026-09-06T07:39:11.583Z"
+}

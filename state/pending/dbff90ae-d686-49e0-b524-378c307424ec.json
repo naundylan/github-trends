@@ -1,0 +1,27 @@
+{
+  "id": "dbff90ae-d686-49e0-b524-378c307424ec",
+  "repo": "gastownhall/beads",
+  "url": "https://github.com/gastownhall/beads",
+  "category": "AI Agent/Automation",
+  "summary": "Beads là một bộ nhớ mở rộng cho coding agent, giúp cải thiện khả năng ghi nhớ và ngữ cảnh cho các agent AI trong quá trình lập trình.",
+  "usecases": [
+    "Cải thiện khả năng giữ context cho coding agent trong các phiên làm việc dài",
+    "Hỗ trợ agent AI nhớ các quyết định và thay đổi code trước đó",
+    "Tăng hiệu quả sửa chữa và tái sử dụng code thông qua bộ nhớ tích hợp"
+  ],
+  "ideas": [
+    "Kết hợp với các framework agent như Claude Code hoặc OpenAI Agents để so sánh hiệu suất bộ nhớ",
+    "Phát triển plugin lưu trữ bộ nhớ trên đám mây để đồng bộ giữa các thiết bị",
+    "Sử dụng bộ nhớ này để tự động hóa việc refactor code dựa trên lịch sử tương tác"
+  ],
+  "stars": 26937,
+  "starsToday": 32,
+  "language": "Go",
+  "topics": [
+    "agents",
+    "claude-code",
+    "coding"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-06T07:39:11.583Z"
+}

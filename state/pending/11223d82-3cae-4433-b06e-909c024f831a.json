@@ -1,0 +1,26 @@
+{
+  "id": "11223d82-3cae-4433-b06e-909c024f831a",
+  "repo": "fmhy/edit",
+  "url": "https://github.com/fmhy/edit",
+  "category": "CLI Tool",
+  "summary": "Công cụ JavaScript để sửa đổi và cập nhật FMHY, dùng cho tự động hóa xử lý phương tiện tự do.",
+  "usecases": [
+    "Tự động hóa việc sửa đổi và cập nhật danh sách nguồn phát trực tuyến FMHY",
+    "Tích hợp vào quy trình DevOps để deploy tự động các bản cập nhật phương tiện",
+    "Sử dụng làm script CLI để trích xuất và xử lý nội dung đa phương tiện"
+  ],
+  "ideas": [
+    "Tự động hóa quy trình cập nhật nguồn phát cho các nền tảng streaming tự do",
+    "Kết hợp với các bot Telegram để chia sẻ nội dung đa phương tiện",
+    "Phát triển thành plugin cho các quản lý thư viện phương tiện cá nhân"
+  ],
+  "stars": 11588,
+  "starsToday": 32,
+  "language": "JavaScript",
+  "topics": [
+    "freemediaheckyeah",
+    "fmhy"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-06T07:39:11.583Z"
+}
