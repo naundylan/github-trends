@@ -1,0 +1,39 @@
+{
+  "id": "e608d45e-5c7e-404e-8ef1-44528b60eed9",
+  "repo": "ollama/ollama",
+  "url": "https://github.com/ollama/ollama",
+  "category": "AI/LLM",
+  "summary": "Công cụ chạy các mô hình LLM trên máy local, hỗ trợ nhiều model như Qwen, Llama, Gemma, DeepSeek và khác.",
+  "usecases": [
+    "Phát triển và test ứng dụng AI trên máy local mà không cần dữ liệu đi ngoài",
+    "Chạy mô hình LLM nặng cho chat, code assistance hoặc tạo nội dung",
+    "Tích hợp LLM vào sản phẩm nội bộ với latency thấp"
+  ],
+  "ideas": [
+    "Xây chatbot riêng tư cho doanh nghiệp dùng các model Ollama",
+    "Nền tảng giáo dục thử nghiệm nhiều model LLM trên cùng môi trường",
+    "Tạo API tùy chỉnh kết hợp Ollama với framework backend"
+  ],
+  "stars": 180255,
+  "starsToday": 100,
+  "language": "Go",
+  "topics": [
+    "llama",
+    "llm",
+    "llms",
+    "go",
+    "golang",
+    "ollama",
+    "mistral",
+    "gemma",
+    "llama3",
+    "deepseek",
+    "gemma3",
+    "qwen",
+    "gpt-oss",
+    "glm",
+    "minimax"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-06T02:17:38.345Z"
+}

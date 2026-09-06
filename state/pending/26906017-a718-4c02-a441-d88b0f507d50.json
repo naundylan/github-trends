@@ -1,0 +1,23 @@
+{
+  "id": "26906017-a718-4c02-a441-d88b0f507d50",
+  "repo": "magnitudedev/magnitude",
+  "url": "https://github.com/magnitudedev/magnitude",
+  "category": "AI/LLM",
+  "summary": "Magnitude là server inference mã nguồn mở chạy các mô hình local tốt nhất cho phần cứng của bạn, tích hợp liền mạch với các agent như Codex, Cline, Claude Code và các nền tảng Raspberry Pi, cho phép chạy LLM cục bộ với hiệu suất tối ưu.",
+  "usecases": [
+    "Chạy mô hình LLM cục bộ trên Raspberry Pi cho tự động hóa gia đình và dự án IoT",
+    "Tích hợp với agent phát triển như OpenCode hoặc Cline để tự động hoàn thành tác vụ code",
+    "Cung cấp inference endpoint cho ứng dụng desktop/mobile cần AI mà không phụ thuộc dịch vụ cloud"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống home automation tạo trợ lý voice cục bộ có reasoning phức tạp",
+    "Phát triển plugin VS Code để code review tự động bằng model local thông qua Magnitude",
+    "Tạo mạng lưới device Pi chia sẻ tải inference để giảm latency và tiết kiệm chi phí"
+  ],
+  "stars": 3234,
+  "starsToday": 674,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-06T02:17:38.345Z"
+}

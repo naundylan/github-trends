@@ -1,0 +1,23 @@
+{
+  "id": "665edcaa-0b99-4e10-bd3a-a38b5e1bb2d3",
+  "repo": "k2-fsa/OmniVoice",
+  "url": "https://github.com/k2-fsa/OmniVoice",
+  "category": "AI/LLM",
+  "summary": "Mô hình TTS voice cloning chất lượng cao hỗ trợ hơn 600 ngôn ngữ, tái tạo giọng nói tự nhiên từ ít dữ liệu mẫu.",
+  "usecases": [
+    "Tạo nội dung đa ngôn ngữ với giọng nói đồng nhất cho video, podcast và ứng dụng giáo dục.",
+    "Hỗ trợ các ứng dụng trợ lý thoại và dịch ngôn ngữ thời thực với giọng người dùng.",
+    "Sử dụng trong công nghiệp giải trí để tạo nhân vật thoại với ít recording giọng mẫu."
+  ],
+  "ideas": [
+    "Kết hợp với mô hình nhận diện lời nói (ASR) để tạo vòng lặp giao tiếp hai chiều đa ngôn ngữ.",
+    "Phát triển tính năng chỉnh sửa giọng nói theo thời gian thực cho video conference hoặc livestream.",
+    "Áp dụng cho mục đích tiếp cận (accessibility) giúp người mất giọng hoặc khiếm thính tái tạo giọng nói cá nhân."
+  ],
+  "stars": 9931,
+  "starsToday": 128,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-06T02:17:38.345Z"
+}

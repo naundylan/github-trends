@@ -1,7 +1,7 @@
 {
   "JuliusBrussee/caveman": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-22"
   },
   "obra/superpowers": {
@@ -21,7 +21,7 @@
   },
   "NousResearch/hermes-agent": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-22"
   },
   "OpenCut-app/OpenCut": {
@@ -76,7 +76,7 @@
   },
   "affaan-m/ECC": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-22"
   },
   "langflow-ai/langflow": {
@@ -101,7 +101,7 @@
   },
   "openai/codex-plugin-cc": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-25"
   },
   "alibaba/page-agent": {
@@ -136,17 +136,17 @@
   },
   "mattpocock/skills": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-22"
   },
   "pbakaus/impeccable": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-22"
   },
   "coreyhaines31/marketingskills": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-22"
   },
   "Leonxlnx/taste-skill": {
@@ -191,7 +191,7 @@
   },
   "openclaw/openclaw": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-24"
   },
   "binwiederhier/ntfy": {
@@ -271,7 +271,7 @@
   },
   "anthropics/skills": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-27"
   },
   "TencentCloud/TencentDB-Agent-Memory": {
@@ -286,12 +286,12 @@
   },
   "Wei-Shaw/sub2api": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-22"
   },
   "tonhowtf/omniget": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-27"
   },
   "t8y2/dbx": {
@@ -301,7 +301,7 @@
   },
   "addyosmani/agent-skills": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-25"
   },
   "decolua/9router": {
@@ -321,7 +321,7 @@
   },
   "NVIDIA/SkillSpector": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-01"
   },
   "dream-num/univer": {
@@ -381,7 +381,7 @@
   },
   "can1357/oh-my-pi": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-22"
   },
   "stablyai/orca": {
@@ -396,7 +396,7 @@
   },
   "openai/codex": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-22"
   },
   "multica-ai/andrej-karpathy-skills": {
@@ -436,7 +436,7 @@
   },
   "anomalyco/opencode": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-22"
   },
   "nautechsystems/nautilus_trader": {
@@ -451,12 +451,12 @@
   },
   "ruvnet/ruflo": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-23"
   },
   "dani-garcia/vaultwarden": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-23"
   },
   "anthropics/claude-code": {
@@ -466,7 +466,7 @@
   },
   "debpalash/VoiceStudio": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-23"
   },
   "bytedance/deer-flow": {
@@ -536,7 +536,7 @@
   },
   "iptv-org/iptv": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-24"
   },
   "asciimoo/hister": {
@@ -581,7 +581,7 @@
   },
   "MHSanaei/3x-ui": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-25"
   },
   "QuantumNous/new-api": {
@@ -621,7 +621,7 @@
   },
   "DietrichGebert/ponytail": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-08-26"
   },
   "VoltAgent/awesome-agent-skills": {
@@ -896,7 +896,7 @@
   },
   "Imbad0202/academic-research-skills": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-01"
   },
   "iv-org/invidious": {
@@ -956,7 +956,7 @@
   },
   "blader/humanizer": {
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-02"
   },
   "Gitlawb/openclaude": {
@@ -981,7 +981,7 @@
   },
   "earendil-works/pi": {
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-02"
   },
   "slackhq/nebula": {
@@ -996,7 +996,7 @@
   },
   "fmtlib/fmt": {
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-03"
   },
   "averygan/reclip": {
@@ -1021,12 +1021,12 @@
   },
   "OpenWhispr/openwhispr": {
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-03"
   },
   "sngyai/Sequoia-X": {
     "first_seen": "2026-09-03",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-03"
   },
   "vercel-labs/portless": {
@@ -1046,17 +1046,17 @@
   },
   "bikini/exploitarium": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-04"
   },
   "radixark/miles": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-04"
   },
   "WorldFlowAI/everything-claude-code": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-04"
   },
   "Sumanth077/Hands-On-AI-Engineering": {
@@ -1096,52 +1096,102 @@
   },
   "BraveOPotato/FckSignups": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-05"
   },
   "nvm-sh/nvm": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-05"
   },
   "vercel-labs/agent-skills": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-05"
   },
   "Significant-Gravitas/AutoGPT": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-05"
   },
   "mksglu/context-mode": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-05"
   },
   "thewh1teagle/vibe": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-05"
   },
   "rclone/rclone": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-05"
   },
   "Gentleman-Programming/gentle-ai": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-05"
   },
   "vercel-labs/agent-browser": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-05"
   },
   "jlcodes99/cockpit-tools": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
     "last_saved": "2026-09-05"
+  },
+  "cathrynlavery/diagram-design": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "last_saved": "2026-09-06"
+  },
+  "humanlayer/skills": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "last_saved": "2026-09-06"
+  },
+  "magnitudedev/magnitude": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "last_saved": "2026-09-06"
+  },
+  "sgl-project/sglang": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "last_saved": "2026-09-06"
+  },
+  "k2-fsa/OmniVoice": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "last_saved": "2026-09-06"
+  },
+  "Jakubantalik/Libraries.dev": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "last_saved": "2026-09-06"
+  },
+  "ollama/ollama": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "last_saved": "2026-09-06"
+  },
+  "multica-ai/multica": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "last_saved": "2026-09-06"
+  },
+  "AprilNEA/OpenLogi": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "last_saved": "2026-09-06"
+  },
+  "longbridge/gpui-kit": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "last_saved": "2026-09-06"
   }
 }

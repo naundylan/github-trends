@@ -1,0 +1,23 @@
+{
+  "id": "aa6aae03-58f3-42cb-8ac6-64edc81b19d5",
+  "repo": "humanlayer/skills",
+  "url": "https://github.com/humanlayer/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Humanlayer Skills cung cấp bộ định nghĩa kỹ năng cho AI agents, cho phép xác thực và mở rộng khả năng agent trong các tác vụ human-in-the-loop, tập trung vào cấu trúc hóa kỹ năng agent an toàn và hiệu quả.",
+  "usecases": [
+    "Xác thực kỹ năng agent AI trước khi giao nhận tác vụ quan trọng trong môi trường doanh nghiệp",
+    "Đồng bộ kỹ năng giữa nhiều agent khác nhau trong quy trình human-in-the-loop cho giáo dục hoặc đào tạo",
+    "Sử dụng trong hệ thống chứng chỉ kỹ năng số và đánh giá năng lực AI"
+  ],
+  "ideas": [
+    "Xây dựng nền tảng kiểm tra năng lực AI cho tuyển dụng hoặc chứng chỉ kỹ năng số",
+    "Kết hợp với frameworks agent như AutoGen hay LangChain để thêm lớp xác thực kỹ năng người dùng",
+    "Phát triển ứng dụng social gaming nơi kỹ năng agent được cấp phép và giao dịch như tài sản số"
+  ],
+  "stars": 2731,
+  "starsToday": 442,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-06T02:17:38.345Z"
+}

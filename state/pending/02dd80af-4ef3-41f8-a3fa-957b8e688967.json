@@ -1,0 +1,28 @@
+{
+  "id": "02dd80af-4ef3-41f8-a3fa-957b8e688967",
+  "repo": "longbridge/gpui-kit",
+  "url": "https://github.com/longbridge/gpui-kit",
+  "category": "Desktop App",
+  "summary": "Thư viện thành phần GUI bằng Rust để xây dựng ứng dụng desktop đa nền tảng, tối ưu bằng GPU.",
+  "usecases": [
+    "Xây dựng các ứng dụng desktop sản phẩm công việc trên hệ điều hành Windows, macOS, Linux bằng Rust.",
+    "Tạo giao diện tùy chỉnh cho các công cụ phát triển phần mềm hoặc terminal.",
+    "Phát triển giao diện GPU-tiếp cận cho các ứng dụng sáng tạo và multimedia."
+  ],
+  "ideas": [
+    "Kết hợp với các thư viện AI trên Rust để xây dựng trợ lýdesktop AI cục bộ.",
+    "Sử dụng làm nền tảng cho các trình biên tập code hoặc IDE nhẹ.",
+    "Phát triển giao diện cross-platform cho các ứng dụng web-based thông qua WebGPU."
+  ],
+  "stars": 14025,
+  "starsToday": 59,
+  "language": "Rust",
+  "topics": [
+    "gpui",
+    "desktop-application",
+    "uikit",
+    "rust"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-06T02:17:38.345Z"
+}

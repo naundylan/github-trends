@@ -1,0 +1,42 @@
+{
+  "id": "b96446de-044c-415a-95cb-4c5e2c74602c",
+  "repo": "sgl-project/sglang",
+  "url": "https://github.com/sgl-project/sglang",
+  "category": "AI/LLM",
+  "summary": "Khung phục vụ (serving framework) hiệu suất cao cho các mô hình ngôn ngữ lớn và đa phương tiện, tối ưu inference qua CUDA và các accelerator.",
+  "usecases": [
+    "Triển khai model LLM/VLM trong production với latency thấp và throughput cao",
+    "Phục vụ inference đa phương tiện cho ứng dụng tương tác hình ảnh-van bản",
+    "Hỗ trợ nghiên cứu và tối ưu hóa kỹ thuật MoE, attention trên nhiều GPU"
+  ],
+  "ideas": [
+    "Kết hợp với agent AI để tạo ra hệ thống inference động theo tải yêu cầu",
+    "Triển khai làm microservice trong pipeline dữ liệu real-time",
+    "Phát triển dashboard quản lý hiệu suất model cho các đội ngũ ML"
+  ],
+  "stars": 35510,
+  "starsToday": 708,
+  "language": "Python",
+  "topics": [
+    "cuda",
+    "inference",
+    "llama",
+    "llm",
+    "moe",
+    "transformer",
+    "vlm",
+    "deepseek",
+    "blackwell",
+    "gpt-oss",
+    "diffusion",
+    "attention",
+    "glm",
+    "minimax",
+    "qwen",
+    "qwen-image",
+    "reinforcement-learning",
+    "wan"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-06T02:17:38.345Z"
+}

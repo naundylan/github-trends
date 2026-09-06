@@ -1,0 +1,32 @@
+{
+  "id": "30298cd7-7795-4c28-b17c-dec802d0d32f",
+  "repo": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "category": "Data Visualization",
+  "summary": "Bộ thư viện 38 loại sơ đồ editorial chuyên dụng cho Claude Code, Codex và Pi, tạo ra HTML/SVG self-contained không bóng đổ, thay thế Mermaid một cách sạch sẽ.",
+  "usecases": [
+    "Tạo sơ đồ trực quan cho luồng xử lý code và logic AI",
+    "Nhúng vào tài liệu và bài viết kỹ thuật dưới dạng HTML/SVG độc lập",
+    "Dùng làm giao diện trực quan cho các AI agent trong quá trình phát triển phần mềm"
+  ],
+  "ideas": [
+    "Tích hợp vào các trình soạn thảo code để sinh diagram tự động từ comment",
+    "Phát triển plugin VS Code để preview và tùy chỉnh diagram nhanh",
+    "Sử dụng làm基础 cho các hệ thống trực quan hóa tự động trong DevOps"
+  ],
+  "stars": 31718,
+  "starsToday": 855,
+  "language": "HTML",
+  "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "data-visualization",
+    "diagrams",
+    "drawio",
+    "mermaid",
+    "svg"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-09-06T02:17:38.344Z"
+}
