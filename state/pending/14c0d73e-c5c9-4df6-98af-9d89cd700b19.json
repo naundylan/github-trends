@@ -1,0 +1,23 @@
+{
+  "id": "14c0d73e-c5c9-4df6-98af-9d89cd700b19",
+  "repo": "humanlayer/skills",
+  "url": "https://github.com/humanlayer/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện TypeScript cung cấp các kỹ năng (skills) có thể tái sử dụng cho AI agent, giúp mở rộng khả năng tự động hóa và tương tác của agent với các công cụ và dịch vụ bên ngoài. Được phát triển bởi HumanLayer nhằm chuẩn hóa cách agent thực hiện các tác vụ phức tạp.",
+  "usecases": [
+    "Mở rộng khả năng của AI agent coding để tự động thực hiện các tác vụ như review code, tạo PR",
+    "Xây dựng workflow tự động hóa cho team phát triển sử dụng agent làm trung tâm điều phối",
+    "Tạo các skill chia sẻ giữa nhiều dự án AI agent để tăng tính nhất quán và tốc độ phát triển"
+  ],
+  "ideas": [
+    "Kết hợp với magnitude để tạo bộ kit AI agent hoàn chỉnh chạy hoàn toàn trên local",
+    "Phát triển skill marketplace nơi cộng đồng đóng góp và chia sẻ các kỹ năng cho agent",
+    "Tích hợp với hệ thống CI/CD để agent tự động chạy test, deploy và giám sát ứng dụng"
+  ],
+  "stars": 2921,
+  "starsToday": 451,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-06T12:41:55.178Z"
+}

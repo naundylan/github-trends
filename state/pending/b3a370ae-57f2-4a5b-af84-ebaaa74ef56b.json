@@ -1,0 +1,23 @@
+{
+  "id": "b3a370ae-57f2-4a5b-af84-ebaaa74ef56b",
+  "repo": "magnitudedev/magnitude",
+  "url": "https://github.com/magnitudedev/magnitude",
+  "category": "AI/LLM",
+  "summary": "Máy chủ suy luận mã nguồn mở chạy các mô hình AI tốt nhất trên phần cứng local, tích hợp trực tiếp với các agent phát triển phổ biến như Claude Code, Codex, Cline và nhiều công cụ khác. Cung cấp giải pháp chạy LLM cục bộ với hiệu năng tối ưu và khả năng tương thích rộng.",
+  "usecases": [
+    "Chạy mô hình AI cục bộ trên máy cá nhân để bảo mật dữ liệu và giảm chi phí API",
+    "Tích hợp LLM vào các agent coding như Claude Code, Codex, Cline để hỗ trợ lập trình viên",
+    "Triển khai inference server cho team phát triển sử dụng nhiều công cụ AI agent khác nhau"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống RAG nội bộ để tạo trợ lý AI hoàn toàn offline cho doanh nghiệp",
+    "Xây dựng dashboard quản lý tài nguyên GPU và tự động chuyển đổi model theo workload",
+    "Tạo plugin VS Code sử dụng magnitude làm backend AI thay thế các dịch vụ cloud"
+  ],
+  "stars": 3431,
+  "starsToday": 604,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-06T12:41:55.178Z"
+}

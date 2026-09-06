@@ -1,0 +1,39 @@
+{
+  "id": "c3907798-7302-41ac-9cac-b692b35437bb",
+  "repo": "ollama/ollama",
+  "url": "https://github.com/ollama/ollama",
+  "category": "AI/LLM",
+  "summary": "công cụ Go giúp cài đặt và chạy các mô hình LLM (như DeepSeek, Qwen, Gemma, v.v.) trên máy local một cách nhanh chóng và đơn giản",
+  "usecases": [
+    "chạy các mô hình LLM mạnh mẽ trên máy tính cá nhân mà không cần phụ thuộc vào dịch vụ đám mây",
+    "phát triển và thử nghiệm các ứng dụng AI trên địa phương cho các doanh nghiệp có yêu cầu bảo mật dữ liệu cao",
+    "tạo ra các chatbot hoặc trợ lý ảo cá nhân sử dụng các mô hình đa dạng được hỗ trợ"
+  ],
+  "ideas": [
+    "kết hợp với các framework local AI để xây dựng các ứng dụng chat AI hoàn toàn riêng tư cho doanh nghiệp",
+    "phát triển một hệ thống đa mô hình (mixture-of-experts) nơi Ollama chạy nhiều model cùng lúc để cân bằng tốc độ và chất lượng",
+    "sử dụng Ollama làm backend cho các extension trình duyệt hoặc ứng dụng di động cần tính năng AI trên thiết bị"
+  ],
+  "stars": 180271,
+  "starsToday": 100,
+  "language": "Go",
+  "topics": [
+    "llama",
+    "llm",
+    "llms",
+    "go",
+    "golang",
+    "ollama",
+    "mistral",
+    "gemma",
+    "llama3",
+    "deepseek",
+    "gemma3",
+    "qwen",
+    "gpt-oss",
+    "glm",
+    "minimax"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-06T12:41:55.178Z"
+}

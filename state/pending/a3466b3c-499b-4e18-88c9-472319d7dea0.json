@@ -1,0 +1,37 @@
+{
+  "id": "a3466b3c-499b-4e18-88c9-472319d7dea0",
+  "repo": "AprilNEA/OpenLogi",
+  "url": "https://github.com/AprilNEA/OpenLogi",
+  "category": "Desktop App",
+  "summary": "Ứ dụng local-first tùy chỉnh chuột Logitech, cho phép remap nút, DPI và SmartShift mà không cần tài khoản hoặc telemetry.",
+  "usecases": [
+    "Tùy chỉnh phím tắt và DPI cho chuột gaming trên nhiều nền tảng mà không phụ thuộc vào phần mềm chính thức.",
+    "Cung cấp giao diện điều khiển chuột riêng mật cho người dùng quan tâm đến quyền riêng tư.",
+    "Tự động hóa tác vụ nhập liệu và macro cho sản xuất nội dung và lập trình."
+  ],
+  "ideas": [
+    "Kết hợp với các phím tắt hệ thống để tạo siêu điều khiển chuột toàn cầu across ứng dụng.",
+    "Phát triển plugin cho IDE để thực hiện tự động hoàn thành code dựa trên phong cách gõ.",
+    "Tạo bộ hồ sơ DPI động tự động thay đổi tùy theo ứng dụng đang hoạt động."
+  ],
+  "stars": 19619,
+  "starsToday": 280,
+  "language": "Rust",
+  "topics": [
+    "dpi",
+    "gpui",
+    "hid",
+    "hidpp",
+    "local-first",
+    "logitech",
+    "logitech-options",
+    "mouse-remapping",
+    "mx-master",
+    "privacy",
+    "rust",
+    "smartshift",
+    "logitech-mouse"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-06T12:41:55.178Z"
+}
