@@ -1,0 +1,32 @@
+{
+  "id": "1424c119-17c4-45d4-a269-2587405cfc8f",
+  "repo": "ahujasid/blender-mcp",
+  "url": "https://github.com/ahujasid/blender-mcp",
+  "category": "Other",
+  "summary": "Community plugin to control Blender 3D with any LLM of your choice",
+  "usecases": [
+    "Khám phá và đánh giá ahujasid/blender-mcp cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 27253,
+  "starsToday": 209,
+  "language": "Python",
+  "topics": [
+    "3d-modeling",
+    "ai",
+    "blender",
+    "blender-addon",
+    "claude",
+    "generative-ai",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "python"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-06T22:45:45.629Z"
+}

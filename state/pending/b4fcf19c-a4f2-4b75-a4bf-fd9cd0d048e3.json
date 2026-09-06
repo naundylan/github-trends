@@ -1,0 +1,23 @@
+{
+  "id": "b4fcf19c-a4f2-4b75-a4bf-fd9cd0d048e3",
+  "repo": "nklmilojevic/sofka",
+  "url": "https://github.com/nklmilojevic/sofka",
+  "category": "Developer Tool",
+  "summary": "sofka là một giao diện terminal (TUI) hiện đại cho Kubernetes, viết bằng Rust và dựa trên kube-rs cùng ratatui, cung cấp trải nghiệm quản lý cluster trực tiếp và hiệu quả trên dòng lệnh.",
+  "usecases": [
+    "Quản lý và theo dõi cluster Kubernetes trực tiếp từ terminal mà không cần web UI.",
+    "Giám sát tài nguyên container và log ứng dụng trong quy trình phát triển nhanh.",
+    "Tích hợp vào quy trình DevOps để tự động hóa các tác vụ kubectl thông qua giao diện TUI."
+  ],
+  "ideas": [
+    "Tích hợp plugin monitoring để hiển thị metrics real-time trên TUI.",
+    "Phát triển chế độ đa-user cho phép nhiều admin cùng điều khiển cluster an toàn.",
+    "Kết hợp với script automation để thực thi các lệnh phức tạp qua tương tác TUI."
+  ],
+  "stars": 564,
+  "starsToday": 139,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-06T22:45:45.629Z"
+}

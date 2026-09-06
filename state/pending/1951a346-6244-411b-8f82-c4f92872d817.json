@@ -1,0 +1,31 @@
+{
+  "id": "1951a346-6244-411b-8f82-c4f92872d817",
+  "repo": "browser-use/browser-use",
+  "url": "https://github.com/browser-use/browser-use",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ tự động hóa cho phép AI agent truy cập và tương tác với web, dễ dàng tự động hóa các tác vụ online.",
+  "usecases": [
+    "Tự động thu thập dữ liệu từ các trang web thương mại điện tử.",
+    "Tự lập lịch hẹn và gửi email qua các dịch vụ web.",
+    "Kiểm tra tự động trạng thái và nội dung trang web cho mục đích theo dõi."
+  ],
+  "ideas": [
+    "Kết hợp với voice assistant để điều khiển browser bằng giọng nói.",
+    "Sử dụng trong nghiên cứu marketplace để thu thập dữ liệu giá cả theo thời gian thực.",
+    "Tạo công tự động báo cáo lỗi UI cho developers thông qua AI."
+  ],
+  "stars": 112682,
+  "starsToday": 191,
+  "language": "Python",
+  "topics": [
+    "llm",
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "python",
+    "browser-use",
+    "playwright"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-06T22:45:45.629Z"
+}

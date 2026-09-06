@@ -1,0 +1,44 @@
+{
+  "id": "80b1b678-f959-4308-9a26-5650843aa6f1",
+  "repo": "aipoch/open-science",
+  "url": "https://github.com/aipoch/open-science",
+  "category": "AI/LLM",
+  "summary": "Workbench AI local-first cho nghiên cứu khoa học, hỗ trợ notebook Python/R và các agent có thể tái tạo.",
+  "usecases": [
+    "Nghiên cứu khoa học địa phương với mô hình AI mà không cần gửi dữ liệu lên đám mây.",
+    "Phát triển và so sánh các mô hình LLM cho các bài toán nghiên cứu khoa học.",
+    "Quản lý nguồn dữ liệu và dòng chảy tái tạo cho các bài viết khoa học."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống mô phỏng sinh học để tự động hóa thí nghiệm lab.",
+    "Xây dựng plugin cho VS Code để viết notebook AI trực tiếp trên desktop.",
+    "Tạo marketplace mô hình AI riêng cho các nhóm nghiên cứu khoa học."
+  ],
+  "stars": 3829,
+  "starsToday": 145,
+  "language": "TypeScript",
+  "topics": [
+    "ai-for-science",
+    "local-first",
+    "reproducible-research",
+    "open-science",
+    "ai-research",
+    "model-agnostic",
+    "research-software",
+    "scientific-ai",
+    "linux",
+    "macos",
+    "windows",
+    "claude-science-alternative",
+    "desktop-app",
+    "mcp",
+    "ai-workbench",
+    "python",
+    "r",
+    "bioinformatics",
+    "electron",
+    "research-workbench"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-06T22:45:45.629Z"
+}

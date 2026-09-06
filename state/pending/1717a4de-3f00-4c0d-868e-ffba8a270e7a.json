@@ -1,0 +1,23 @@
+{
+  "id": "1717a4de-3f00-4c0d-868e-ffba8a270e7a",
+  "repo": "experientiallabs/experiential",
+  "url": "https://github.com/experientiallabs/experiential",
+  "category": "AI/LLM",
+  "summary": "Open-source gateway for self-hosted AI models that optimizes costs and trains specialized models by learning from your traffic.",
+  "usecases": [
+    "Dynamically route inference traffic to optimal marketplace models for cost reduction.",
+    "Self-host and fine-tune a proprietary AI model using traffic-derived insights.",
+    "Eliminate vendor lock-in by switching between 1000+ supported models."
+  ],
+  "ideas": [
+    "Integrate with CI/CD pipelines for automated model retraining on new data.",
+    "Build a real-time dashboard comparing model performance and cost metrics.",
+    "Develop IDE plugins that suggest model switches based on code context."
+  ],
+  "stars": 1916,
+  "starsToday": 568,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-06T22:45:45.629Z"
+}

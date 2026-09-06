@@ -1,0 +1,39 @@
+{
+  "id": "270a36d0-56bd-43c3-937e-3e5fcdefca98",
+  "repo": "ollama/ollama",
+  "url": "https://github.com/ollama/ollama",
+  "category": "AI/LLM",
+  "summary": "Công cụ chạy các mô hình LLM trên máy tính, hỗ trợ nhiều model phổ biến như Llama, Qwen, Gemma và khác, được viết bằng Go.",
+  "usecases": [
+    "Chạy LLM trên local để đảm bảo an toàn dữ liệu và không phụ thuộc internet.",
+    "Phát triển và test nhanh các ứng dụng chatbot hoặc AI với các model khác nhau.",
+    "Tích hợp khả năng xử lý ngôn ngữ tự nhiên vào các script hoặc dịch vụ backend."
+  ],
+  "ideas": [
+    "Xây dựng ứng dụng chat riêng tư cho doanh nghiệp sử dụng model LLM nội bộ.",
+    "Tạo dịch vụ dịch thuật đa ngôn ngữ chạy hoàn toàn trên thiết bị client.",
+    "Kết hợp với nhận dạng giọng nói (STT) để tạo trợ lý thoại cá nhân toàn bộ trên thiết bị."
+  ],
+  "stars": 180303,
+  "starsToday": 82,
+  "language": "Go",
+  "topics": [
+    "llama",
+    "llm",
+    "llms",
+    "go",
+    "golang",
+    "ollama",
+    "mistral",
+    "gemma",
+    "llama3",
+    "deepseek",
+    "gemma3",
+    "qwen",
+    "gpt-oss",
+    "glm",
+    "minimax"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-06T22:45:45.629Z"
+}

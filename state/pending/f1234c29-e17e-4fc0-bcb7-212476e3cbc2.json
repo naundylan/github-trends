@@ -1,0 +1,42 @@
+{
+  "id": "f1234c29-e17e-4fc0-bcb7-212476e3cbc2",
+  "repo": "AdventDevInc/kudu",
+  "url": "https://github.com/AdventDevInc/kudu",
+  "category": "Security/Pentest",
+  "summary": "Cross-platform system cleaner and security scanner that optimizes performance and detects malware on Windows, macOS, and Linux.",
+  "usecases": [
+    "Clean junk files and free disk space on daily-workstation environments.",
+    "Scan for malware and enforce security hardening configurations on developer machines.",
+    "Manage startup items and schedule system maintenance for fleet-wide optimization."
+  ],
+  "ideas": [
+    "Integrate with enterprise MDM solutions like Intune for remote device hygiene.",
+    "Add browser-based system health checks before accessing web applications.",
+    "Implement GPU-accelerated threat scanning for large-scale deployments."
+  ],
+  "stars": 2976,
+  "starsToday": 378,
+  "language": "TypeScript",
+  "topics": [
+    "cleaner",
+    "free",
+    "kudu",
+    "scanner",
+    "ccleaner-alternative",
+    "hardening",
+    "linux-cleaner",
+    "mac-cleaner",
+    "malware-detection",
+    "open-source",
+    "pc-optimization",
+    "performance",
+    "privacy",
+    "security",
+    "startup-manager",
+    "system-cleaner",
+    "system-maintenance",
+    "windows-cleaner"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-06T22:45:45.629Z"
+}

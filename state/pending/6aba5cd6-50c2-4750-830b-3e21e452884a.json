@@ -1,0 +1,35 @@
+{
+  "id": "6aba5cd6-50c2-4750-830b-3e21e452884a",
+  "repo": "The-Swarm-Corporation/AutoHedge",
+  "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+  "category": "AI Agent/Automation",
+  "summary": "AutoHedge là một nền tảng cho phép xây dựng nhanh hedge fund tự động, sử dụng trí tuệ nhân tạo và trí tuệ đàn để tự động phân tích thị trường, quản lý rủi ro và thực thi giao dịch.",
+  "usecases": [
+    "Tự động hóa chiến lược giao dịch và quản lý danh mục đầu tư cho các cơ quan tài chính.",
+    "Phân tích thị trường tài chính theo thời gian thực với nhiều AI agent đồng thời.",
+    "Giám sát và điều chỉnh rủi ro đầu tư dựa trên tín hiệu đa nguồn dữ liệu."
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ nhiều lớp tài sản (cryptocurrency, chứng khoán) dưới cùng một hệ thống agent.",
+    "Tích hợp xác thực tuân thủ quy định tài chính và báo cáo tự động.",
+    "Tạo giao diện dashboard theo dõi quyết định của từng agent theo thời gian thực."
+  ],
+  "stars": 4676,
+  "starsToday": 137,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "blackrock",
+    "finance",
+    "goldmansachs",
+    "hedgefund",
+    "jpmorgan",
+    "ml",
+    "quant",
+    "quantitative-finance",
+    "quantitative-trading",
+    "trading"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-06T22:45:45.629Z"
+}

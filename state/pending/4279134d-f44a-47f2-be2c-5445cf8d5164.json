@@ -1,0 +1,35 @@
+{
+  "id": "4279134d-f44a-47f2-be2c-5445cf8d5164",
+  "repo": "donnemartin/system-design-primer",
+  "url": "https://github.com/donnemartin/system-design-primer",
+  "category": "Other",
+  "summary": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+  "usecases": [
+    "Khám phá và đánh giá donnemartin/system-design-primer cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 368363,
+  "starsToday": 220,
+  "language": "Python",
+  "topics": [
+    "programming",
+    "development",
+    "design",
+    "design-system",
+    "system",
+    "design-patterns",
+    "web",
+    "web-application",
+    "webapp",
+    "python",
+    "interview",
+    "interview-questions",
+    "interview-practice"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-06T22:45:45.629Z"
+}
