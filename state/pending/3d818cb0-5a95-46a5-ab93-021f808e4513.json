@@ -1,0 +1,39 @@
+{
+  "id": "3d818cb0-5a95-46a5-ab93-021f808e4513",
+  "repo": "jo-inc/camofox-browser",
+  "url": "https://github.com/jo-inc/camofox-browser",
+  "category": "AI Agent/Automation",
+  "summary": "Stealth headless browser for AI agents that bypasses Cloudflare, bot detection, and anti-scraping, serving as a drop-in replacement for Puppeteer/Playwright.",
+  "usecases": [
+    "AI agent web scraping and automation behind Cloudflare protections",
+    "Bot detection evasion for research and data collection",
+    "Stealth browser automation for price monitoring and lead generation"
+  ],
+  "ideas": [
+    "Integrate with LLM agents for dynamic web navigation",
+    "Combine with proxy networks for distributed scraping",
+    "Add built-in fingerprint randomization for enhanced anonymity"
+  ],
+  "stars": 9649,
+  "starsToday": 285,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agent",
+    "anti-bot",
+    "antidetect-browser",
+    "automation",
+    "bot-detection",
+    "browser-automation",
+    "cloudflare-bypass",
+    "headless-browser",
+    "javascript",
+    "nodejs",
+    "playwright",
+    "puppeteer",
+    "scraping",
+    "stealth-browser",
+    "web-scraping"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-07T23:21:05.408Z"
+}

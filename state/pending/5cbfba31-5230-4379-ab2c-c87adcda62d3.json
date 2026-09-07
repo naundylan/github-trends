@@ -1,0 +1,23 @@
+{
+  "id": "5cbfba31-5230-4379-ab2c-c87adcda62d3",
+  "repo": "k2-fsa/OmniVoice",
+  "url": "https://github.com/k2-fsa/OmniVoice",
+  "category": "AI/LLM",
+  "summary": "Hệ thống TTS chất lượng cao hỗ trợ 600+ ngôn ngữ với khả năng clone giọng nói.",
+  "usecases": [
+    "Multilingual content creation for audiobooks and videos",
+    "Accessibility tools for text-to-speech conversion",
+    "Real-time voice translation and dubbing"
+  ],
+  "ideas": [
+    "Integrate with real-time translation APIs for cross-language communication",
+    "Build a personalized AI assistant with voice cloning",
+    "Combine with speech-to-text for bidirectional voice translation"
+  ],
+  "stars": 10440,
+  "starsToday": 321,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-07T23:21:05.407Z"
+}

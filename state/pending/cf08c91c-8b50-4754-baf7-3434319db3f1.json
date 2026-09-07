@@ -1,0 +1,30 @@
+{
+  "id": "cf08c91c-8b50-4754-baf7-3434319db3f1",
+  "repo": "dstotijn/hetty",
+  "url": "https://github.com/dstotijn/hetty",
+  "category": "Security/Pentest",
+  "summary": "Bộ công cụ HTTP cho nghiên cứu bảo mật hỗ trợ phân tích MITM, proxy và kiểm tra bảo mật ứng dụng.",
+  "usecases": [
+    "Phân tích giao thức HTTP và phát hiện lỗ hổng bảo mật trong truyền dữ liệu",
+    "Thiết lập proxy MITM để bắt và sửa đổi request/response trong bug bounty",
+    "Giám sát và debug giao tiếp API trong quá trình phát triển ứng dụng"
+  ],
+  "ideas": [
+    "Tích hợp với framework fuzzing để tự động tìm lỗ hổng injection trong ứng dụng web",
+    "Phát triển plugin cho Burp Suite để tự động hóa các kịch bản kiểm tra bảo mật",
+    "Xây dựng dashboard real-time theo dõi an ninh mạng dựa trên dữ liệu HTTP capture"
+  ],
+  "stars": 12367,
+  "starsToday": 125,
+  "language": "Go",
+  "topics": [
+    "mitm",
+    "proxy",
+    "http",
+    "pentesting",
+    "infosec",
+    "bugbounty"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-07T23:21:05.408Z"
+}

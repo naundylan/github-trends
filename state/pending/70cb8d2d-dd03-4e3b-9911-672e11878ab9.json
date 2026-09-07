@@ -1,0 +1,37 @@
+{
+  "id": "70cb8d2d-dd03-4e3b-9911-672e11878ab9",
+  "repo": "C4illin/ConvertX",
+  "url": "https://github.com/C4illin/ConvertX",
+  "category": "Developer Tool",
+  "summary": "Self-hosted online file converter supporting 1000+ formats, built with TypeScript, Elysia, and TailwindCSS for easy document conversion.",
+  "usecases": [
+    "Convert documents for AI training data preprocessing",
+    "Batch convert documents for archiving or migration",
+    "Integrate with workflow automation tools for document processing pipelines"
+  ],
+  "ideas": [
+    "Build a micro-SaaS platform for document conversion with API pricing",
+    "Integrate with AI document analysis pipelines for automatic format conversion",
+    "Create a web-based UI for bulk file conversion with drag-and-drop"
+  ],
+  "stars": 18885,
+  "starsToday": 58,
+  "language": "TypeScript",
+  "topics": [
+    "bun",
+    "elysia",
+    "file-conversion",
+    "file-converter",
+    "typescript",
+    "self-hosted",
+    "conversion",
+    "convert",
+    "converter",
+    "document-conversion",
+    "pdf-converter",
+    "hacktoberfest",
+    "tailwindcss"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-07T23:21:05.408Z"
+}

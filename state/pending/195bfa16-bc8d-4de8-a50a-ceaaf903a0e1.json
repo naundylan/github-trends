@@ -1,0 +1,32 @@
+{
+  "id": "195bfa16-bc8d-4de8-a50a-ceaaf903a0e1",
+  "repo": "lightpanda-io/browser",
+  "url": "https://github.com/lightpanda-io/browser",
+  "category": "Developer Tool",
+  "summary": "Lightpanda: a headless browser designed for AI and automation, built with Zig and supporting CDP, Playwright, and Puppeteer protocols.",
+  "usecases": [
+    "AI-powered web scraping and data extraction",
+    "Browser automation for AI agents and testing",
+    "Custom browser automation using Zig for performance-critical tasks"
+  ],
+  "ideas": [
+    "Integrate with LLM frameworks for autonomous web navigation",
+    "Build a self-hosted browser automation service for enterprises",
+    "Create a Zig-based browser automation SDK for cross-language compatibility"
+  ],
+  "stars": 34827,
+  "starsToday": 116,
+  "language": "Zig",
+  "topics": [
+    "browser",
+    "cdp",
+    "headless",
+    "playwright",
+    "puppeteer",
+    "zig",
+    "browser-automation",
+    "lightpanda"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-07T23:21:05.408Z"
+}

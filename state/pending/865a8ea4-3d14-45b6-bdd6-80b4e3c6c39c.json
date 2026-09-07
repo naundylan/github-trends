@@ -1,0 +1,31 @@
+{
+  "id": "865a8ea4-3d14-45b6-bdd6-80b4e3c6c39c",
+  "repo": "microsoft/markitdown",
+  "url": "https://github.com/microsoft/markitdown",
+  "category": "Developer Tool",
+  "summary": "Công cụ Python chuyển đổi các định dạng tệp và tài liệu Microsoft Office sang Markdown, giúp dễ dàng tạo tài liệu và di chuyển nội dung.",
+  "usecases": [
+    "Chuyển đổi Word, PowerPoint và PDF sang Markdown cho các static site generators.",
+    "Tự động hóa tạo tài liệu từ tệp office trong quy trình phát triển.",
+    "Tích hợp với các pipeline AI (như LangChain, Autogen) làm bước tiền xử lý tài liệu."
+  ],
+  "ideas": [
+    "Kết hợp với LLMs để tự động tạo bài blog từ các bản trình bày PowerPoint có sẵn.",
+    "Xây dựng CLI wrapper theo dõi thư mục và tự động chuyển đổi tệp Markdown mới.",
+    "Triển khai như dịch vụ backend cho hệ thống kiến thức."
+  ],
+  "stars": 180129,
+  "starsToday": 771,
+  "language": "Python",
+  "topics": [
+    "langchain",
+    "openai",
+    "autogen-extension",
+    "autogen",
+    "markdown",
+    "microsoft-office",
+    "pdf"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-07T23:21:05.407Z"
+}

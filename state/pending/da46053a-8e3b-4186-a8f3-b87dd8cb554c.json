@@ -1,0 +1,23 @@
+{
+  "id": "da46053a-8e3b-4186-a8f3-b87dd8cb554c",
+  "repo": "MoonTechLab/LunaTV",
+  "url": "https://github.com/MoonTechLab/LunaTV",
+  "category": "Desktop App",
+  "summary": "A TypeScript-based TV/media application project with a CC BY-NC-SA open source license restricting commercial use.",
+  "usecases": [
+    "Personal media streaming interface development",
+    "Educational project for learning TypeScript and media handling",
+    "Non-compliant TV client creation for personal use"
+  ],
+  "ideas": [
+    "Extend with support for popular streaming APIs",
+    "Integrate subtitle fetching and playback controls",
+    "Package as a cross-platform desktop distribution"
+  ],
+  "stars": 9691,
+  "starsToday": 171,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-07T23:21:05.408Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "fd2b550a-142f-4863-bde9-d9dcdd3ee58d",
+  "repo": "vinta/awesome-python",
+  "url": "https://github.com/vinta/awesome-python",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách tổng hợp các thư viện, framework và công cụ Python cho nhu cầu phát triển đa dạng.",
+  "usecases": [
+    "Quickly find suitable Python tools for specific tasks",
+    "Discover new Python libraries and best practices",
+    "Reference for building Python project tech stacks"
+  ],
+  "ideas": [
+    "Create a searchable dashboard for the curated tools",
+    "Build a Python package generator based on project type",
+    "Integrate with IDEs for inline tool recommendations"
+  ],
+  "stars": 319137,
+  "starsToday": 310,
+  "language": "Python",
+  "topics": [
+    "awesome",
+    "python",
+    "python-frameworks",
+    "python-libraries",
+    "python-tools",
+    "awesome-list"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-07T23:21:05.407Z"
+}

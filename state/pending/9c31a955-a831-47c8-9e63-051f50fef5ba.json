@@ -1,0 +1,36 @@
+{
+  "id": "9c31a955-a831-47c8-9e63-051f50fef5ba",
+  "repo": "pascalorg/editor",
+  "url": "https://github.com/pascalorg/editor",
+  "category": "Web Frontend",
+  "summary": "Ứng dụng web cho phép tạo và chia sẻ các dự án kiến trúc 3D sử dụng Three.js và React Three Fiber.",
+  "usecases": [
+    "Thiết kế và trực quan hóa bản vẽ kiến trúc 3D trực tiếp trên trình duyệt",
+    "Phân phối và cộng tác dự án kiến trúc với các bên liên quan qua liên kết chia sẻ",
+    "Tạo giao diện parametric design cho các dự án xây dựng và nội thất"
+  ],
+  "ideas": [
+    "Kết hợp AI để tạo tự động bản vẽ kiến trúc từ mô tả văn bản",
+    "Export dự án sang định dạng BIM chuẩn cho phần mềm xây dựng",
+    "Thêm hỗ trợ VR/AR để xem dự án kiến trúc trong không gian沉浸"
+  ],
+  "stars": 22310,
+  "starsToday": 136,
+  "language": "TypeScript",
+  "topics": [
+    "3d",
+    "architecture",
+    "bim",
+    "cad",
+    "editor",
+    "floorplan",
+    "mcp",
+    "nextjs",
+    "parametric-design",
+    "react-three-fiber",
+    "threejs",
+    "typescript"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-07T23:21:05.408Z"
+}
