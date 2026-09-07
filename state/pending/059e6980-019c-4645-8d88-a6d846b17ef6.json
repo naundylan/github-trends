@@ -1,0 +1,36 @@
+{
+  "id": "059e6980-019c-4645-8d88-a6d846b17ef6",
+  "repo": "pascalorg/editor",
+  "url": "https://github.com/pascalorg/editor",
+  "category": "Web Frontend",
+  "summary": "Pascal.org Editor là công cụ cho phép tạo và chia sẻ các dự án kiến trúc 3D, sử dụng TypeScript với Next.js, React‑Three‑Fiber và Three.js.",
+  "usecases": [
+    "Thiết kế và visual hoá các mô hình 3D floorplan cho kiến trúc.",
+    "Xây dựng và chia sẻ các dự án BIM dựa trên thiết kế parametric.",
+    "Cho phép nhà phát triển tích hợp công cụ thiết kế 3D vào web app."
+  ],
+  "ideas": [
+    "Kết hợp với nền tảng quản lý dự án để xuất file IFC và BIM.",
+    "Thêm tính năng chỉnh sửa thời gian thực cho nhiều người dùng cùng nhau.",
+    "Tích hợp VR/AR để khám phá mô hình 3D trong môi trường thực tế."
+  ],
+  "stars": 22116,
+  "starsToday": 136,
+  "language": "TypeScript",
+  "topics": [
+    "3d",
+    "architecture",
+    "bim",
+    "cad",
+    "editor",
+    "floorplan",
+    "mcp",
+    "nextjs",
+    "parametric-design",
+    "react-three-fiber",
+    "threejs",
+    "typescript"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-07T14:53:12.949Z"
+}

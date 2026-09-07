@@ -1,0 +1,23 @@
+{
+  "id": "816cfb3f-68f4-4fa7-879b-609554a45058",
+  "repo": "k2-fsa/OmniVoice",
+  "url": "https://github.com/k2-fsa/OmniVoice",
+  "category": "AI/LLM",
+  "summary": "OmniVoice là hệ thống Text-to-Speech cloning giọng nói chất lượng cao hỗ trợ hơn 600 ngôn ngữ, cho phép tái tạo giọng nói tự nhiên với dữ liệu đầu vào ít.",
+  "usecases": [
+    "Tạo sách nói đa ngôn ngữ tự động cho publishers",
+    "Phát triển trợ lý giọng nói cá nhân hóa cho ứng dụng di động",
+    "Hỗ trợ phục hồi giọng nói cho người mất khả năng nói do tai biến"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình dịch máy để tạo video có lời bài hát đa ngôn ngữ",
+    "Sử dụng trong ứng dụng giáo dục tiếng nước ngoài để luyện phát âm",
+    "Phát triển chế độ ghi âm giọng dùng để tạo avatar nói chuyện trên mạng xã hội"
+  ],
+  "stars": 10336,
+  "starsToday": 321,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-07T14:53:12.949Z"
+}

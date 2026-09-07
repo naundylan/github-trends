@@ -1,0 +1,30 @@
+{
+  "id": "e383a660-d79b-4ed1-b1eb-2334ecfa7e34",
+  "repo": "vinta/awesome-python",
+  "url": "https://github.com/vinta/awesome-python",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Bộ sưu tập toàn diện các thư viện, framework và công cụ Python, là điểm referencia chính cho lập trình viên tìm giải pháp nhanh.",
+  "usecases": [
+    "Tìm kiếm thư viện phù hợp cho một tính năng cụ thể",
+    "Làm quen với ecosystem Python cho người mới",
+    "Tham khảo công cụ cho dự án mở source"
+  ],
+  "ideas": [
+    "Xây dựng công cụ tìm kiếm thông minh kết hợp metadata package",
+    "Tạo dashboard cá nhân hóa công cụ Python theo lĩnh vực",
+    "Tích hợp vào IDE như autocomplete cho thư viện Python"
+  ],
+  "stars": 319015,
+  "starsToday": 335,
+  "language": "Python",
+  "topics": [
+    "awesome",
+    "python",
+    "python-frameworks",
+    "python-libraries",
+    "python-tools",
+    "awesome-list"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-07T14:53:12.949Z"
+}

@@ -101,7 +101,7 @@
   },
   "openai/codex-plugin-cc": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-06",
+    "last_seen": "2026-09-07",
     "last_saved": "2026-08-25"
   },
   "alibaba/page-agent": {
@@ -201,7 +201,7 @@
   },
   "ruvnet/RuView": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-09-07",
     "last_saved": "2026-08-23"
   },
   "alirezarezvani/claude-skills": {
@@ -291,7 +291,7 @@
   },
   "tonhowtf/omniget": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-09-06",
+    "last_seen": "2026-09-07",
     "last_saved": "2026-08-27"
   },
   "t8y2/dbx": {
@@ -336,7 +336,7 @@
   },
   "vxcontrol/pentagi": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-08-30",
+    "last_seen": "2026-09-07",
     "last_saved": "2026-08-28"
   },
   "tinyhumansai/openhuman": {
@@ -441,7 +441,7 @@
   },
   "nautechsystems/nautilus_trader": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-24",
+    "last_seen": "2026-09-07",
     "last_saved": "2026-08-22"
   },
   "block/buzz": {
@@ -471,7 +471,7 @@
   },
   "bytedance/deer-flow": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-09-07",
     "last_saved": "2026-08-23"
   },
   "ibelick/ui-skills": {
@@ -486,7 +486,7 @@
   },
   "microsoft/TypeScript": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-09-07",
     "last_saved": "2026-08-23"
   },
   "google/sam": {
@@ -531,7 +531,7 @@
   },
   "garrytan/gstack": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-07",
     "last_saved": "2026-08-24"
   },
   "iptv-org/iptv": {
@@ -581,7 +581,7 @@
   },
   "MHSanaei/3x-ui": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-06",
+    "last_seen": "2026-09-07",
     "last_saved": "2026-08-25"
   },
   "QuantumNous/new-api": {
@@ -631,7 +631,7 @@
   },
   "nasa-gibs/worldview": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-09-07",
     "last_saved": "2026-08-26"
   },
   "poteto/hiring-without-whiteboards": {
@@ -1076,7 +1076,7 @@
   },
   "shadcn-ui/ui": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-07",
     "last_saved": "2026-09-04"
   },
   "langgenius/dify": {
@@ -1194,52 +1194,52 @@
     "last_seen": "2026-09-07",
     "last_saved": "2026-09-06"
   },
-  "openai/skills": {
+  "microsoft/markitdown": {
     "first_seen": "2026-09-07",
     "last_seen": "2026-09-07",
     "last_saved": "2026-09-07"
   },
-  "openai/plugins": {
+  "jo-inc/camofox-browser": {
     "first_seen": "2026-09-07",
     "last_seen": "2026-09-07",
     "last_saved": "2026-09-07"
   },
-  "sooryathejas/METATRON": {
+  "MoonTechLab/LunaTV": {
     "first_seen": "2026-09-07",
     "last_seen": "2026-09-07",
     "last_saved": "2026-09-07"
   },
-  "home-assistant/core": {
+  "lightpanda-io/browser": {
     "first_seen": "2026-09-07",
     "last_seen": "2026-09-07",
     "last_saved": "2026-09-07"
   },
-  "CyberTimon/RapidRAW": {
+  "pascalorg/editor": {
     "first_seen": "2026-09-07",
     "last_seen": "2026-09-07",
     "last_saved": "2026-09-07"
   },
-  "warmbly/warmbly": {
+  "Stremio/stremio-web": {
     "first_seen": "2026-09-07",
     "last_seen": "2026-09-07",
     "last_saved": "2026-09-07"
   },
-  "mixelpixx/Konnect": {
+  "k2-fsa/OmniVoice": {
     "first_seen": "2026-09-07",
     "last_seen": "2026-09-07",
     "last_saved": "2026-09-07"
   },
-  "slint-ui/slint": {
+  "vinta/awesome-python": {
     "first_seen": "2026-09-07",
     "last_seen": "2026-09-07",
     "last_saved": "2026-09-07"
   },
-  "longbridge/gpui-kit": {
+  "dstotijn/hetty": {
     "first_seen": "2026-09-07",
     "last_seen": "2026-09-07",
     "last_saved": "2026-09-07"
   },
-  "lbjlaq/Antigravity-Manager": {
+  "rorkai/App-Store-Connect-CLI": {
     "first_seen": "2026-09-07",
     "last_seen": "2026-09-07",
     "last_saved": "2026-09-07"

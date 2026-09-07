@@ -1,0 +1,23 @@
+{
+  "id": "0a57f2d9-fec6-4734-aafe-8032647d0151",
+  "repo": "MoonTechLab/LunaTV",
+  "url": "https://github.com/MoonTechLab/LunaTV",
+  "category": "Web Frontend",
+  "summary": "LunaTV là ứng dụng web TypeScript cho phép xem trực tiếp và quản lý nội dung video/phim, tập trung vào giao diện người dùng mượt mà.",
+  "usecases": [
+    "Phát trực tiếp các kênh TV trên Smart TV và thiết bị di động",
+    "Xem lại và lưu lịch sử chương trình đã xem",
+    "Tạo danh sách phát cá nhân với đề xuất nội dung theo sở thích"
+  ],
+  "ideas": [
+    "Tích hợp API nhận diện khuôn mặt để tùy chỉnh gợi ý nội dung",
+    "Phát chế độ tối và giao diện điều khiển bằng cử chỉ cho TV thông minh",
+    "Kết hợp với mạng xã hội để chia sẻ đoạn phim yêu thích"
+  ],
+  "stars": 9613,
+  "starsToday": 171,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-07T14:53:12.949Z"
+}
