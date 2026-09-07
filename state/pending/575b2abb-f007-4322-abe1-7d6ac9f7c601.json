@@ -1,0 +1,26 @@
+{
+  "id": "575b2abb-f007-4322-abe1-7d6ac9f7c601",
+  "repo": "Stremio/stremio-web",
+  "url": "https://github.com/Stremio/stremio-web",
+  "category": "Web Frontend",
+  "summary": "Stremio là một ứng dụng trung tâm phát media cho phép người dùng xem phim, TV và truyền hình trực tiếp thông qua các nguồn mở rộng (add-ons). Phiên bản web cung cấp giao diện dùng để truy cập và quản lý nội dung streaming.",
+  "usecases": [
+    "Xem phim và TV trực tiếp qua nhiều nguồn nội dung khác nhau",
+    "Quản lý và theo dõi các series/phim theo thời gian thực",
+    "Tích hợp các add-ons bên thứ ba để mở rộng nguồn phát"
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng đồng bộ hóa xem phim cá nhân",
+    "Phát triển add-on tùy chỉnh cho các nguồn nội dung địa phương",
+    "Tạo ứng dụng đồng bộ trạng thái xem giữa nhiều thiết bị"
+  ],
+  "stars": 13504,
+  "starsToday": 122,
+  "language": "JavaScript",
+  "topics": [
+    "stremio",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-07T02:21:07.960Z"
+}

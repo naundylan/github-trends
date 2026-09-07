@@ -1,0 +1,23 @@
+{
+  "id": "e893a069-344c-4737-97df-9dc4733eb4c8",
+  "repo": "humanlayer/skills",
+  "url": "https://github.com/humanlayer/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Một framework TypeScript cho phép định nghĩa, tái sử dụng và kết hợp các kỹ năng cho các ứng dụng AI agent, hỗ trợ tự động hóa quy trình và mở rộng khả năng xử lý tác vụ.",
+  "usecases": [
+    "Tự động hóa tác vụ văn phòng và nhập liệu qua AI agent",
+    "Tích hợp kỹ năng cho chatbot và trợ lý ảo đa ngôn ngữ",
+    "Phát triển hệ thống đa-agent phối hợp nhau cho các dự án phức tạp"
+  ],
+  "ideas": [
+    "Tạo marketplace các kỹ năng có thể chia sẻ và tái sử dụng giữa các dự án agent",
+    "Kết hợp với nhận dạng giọng nói để điều khiển home automation",
+    "Sử dụng trong giáo dục để tự động tạo và chấm bài tập"
+  ],
+  "stars": 3174,
+  "starsToday": 451,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-07T02:21:07.960Z"
+}

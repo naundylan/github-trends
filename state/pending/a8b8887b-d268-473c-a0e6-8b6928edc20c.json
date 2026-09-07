@@ -1,0 +1,32 @@
+{
+  "id": "a8b8887b-d268-473c-a0e6-8b6928edc20c",
+  "repo": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "category": "Data Visualization",
+  "summary": "Bộ sưu tập 38 loại biểu đồ soạn thảo dưới dạng HTML + SVG tự chứa, được thiết kế để sử dụng với Claude Code, Codex và Pi, không phụ thuộc vào Mermaid hoặc bóng đổ.",
+  "usecases": [
+    "Tạo biểu đồ quy trình trong tài liệu kỹ thuật.",
+    "Trực quan hóa dữ liệu trong các bản ghi chú hoặc wiki nội bộ.",
+    "Tích hợp vào các công cụ agent để sinh sơ đồ tự động."
+  ],
+  "ideas": [
+    "Kết hợp với trình soạn thảo Markdown để tự động chèn biểu đồ dựa trên cú pháp đặc biệt.",
+    "Phát triển plugin cho VS Code cho phép kéo thả các biểu đồ SVG vào file.",
+    "Xây dựng dịch vụ web cho phép người dùng tùy chỉnh màu sắc và phong cách của các biểu đồ trước khi xuất."
+  ],
+  "stars": 32458,
+  "starsToday": 620,
+  "language": "HTML",
+  "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "data-visualization",
+    "diagrams",
+    "drawio",
+    "mermaid",
+    "svg"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-09-07T02:21:07.960Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "e23ff858-917b-4ebd-b2b9-50a2281d8d6d",
+  "repo": "openai/whisper",
+  "url": "https://github.com/openai/whisper",
+  "category": "AI/LLM",
+  "summary": "Whisper là một mô hình nhận dạng giọng nói mạnh mẽ do OpenAI phát triển, sử dụng phương pháp giám sát yếu mạnh quy mô lớn. Nó hỗ trợ chuyển đổi giọng nói thành văn bản với độ chính xác cao và hỗ trợ nhiều ngôn ngữ khác nhau.",
+  "usecases": [
+    "Tích hợp vào các ứng dụng hỗ trợ người dùng giao tiếp bằng giọng nói thay vì nhập liệu bằng bàn phím.",
+    "Sử dụng trong hệ thống ghi âm và tự động tạo bản ghi âm thanh (transcript) cho các buổi họp, hội thảo hoặc lớp học.",
+    "Xây dựng các ứng dụng AI hỗ trợ người khuyết thương nhận dạng giọng nói và tương tác với máy tính thông qua giọng nói."
+  ],
+  "ideas": [
+    "Kết hợp Whisper với các mô hình ngôn ngữ lớn để tạo ra trợ lý ảo thông minh có khả năng hiểu và phản hồi bằng giọng nói tự nhiên.",
+    "Phát triển phiên bản tối ưu hóa cho thiết bị di động hoặc thiết bị nhúng để hỗ trợ nhận dạng giọng nói thời gian thực mà không cần kết nối mạng.",
+    "Tạo nền tảng dịch thuật đa ngôn ngữ thời gian thực sử dụng Whisper để nhận dạng giọng nói và kết hợp với mô hình dịch để cung cấp dịch vụ dịch thuật ngay tức thì."
+  ],
+  "stars": 108634,
+  "starsToday": 88,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-07T02:21:07.960Z"
+}

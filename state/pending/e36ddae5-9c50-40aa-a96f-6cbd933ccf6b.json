@@ -1,0 +1,44 @@
+{
+  "id": "e36ddae5-9c50-40aa-a96f-6cbd933ccf6b",
+  "repo": "KnockOutEZ/wigolo",
+  "url": "https://github.com/KnockOutEZ/wigolo",
+  "category": "AI Agent/Automation",
+  "summary": "Wigolo là một công cụ tìm kiếm và nghiên cứu web dành cho AI coding agent, hoạt động hoàn toàn cục bản và không cần API key. Nó hỗ trợ tìm kiếm, lấy dữ liệu và thu thập thông tin từ web thông qua giao thức MCP.",
+  "usecases": [
+    "Tích hợp vào môi trường phát triển để AI coding agent tự động tìm kiếm tài liệu kỹ thuật từ web mà không cần kết nối đám mây.",
+    "Sử dụng như một công cụ nghiên cứu độc lập để thu thập và phân tích thông tin từ nhiều nguồn web khác nhau mà không để lộ dữ liệu ra bên ngoài.",
+    "Xây dựng hệ thống RAG (Retrieval-Augmented Generation) cục bản cho các ứng dụng AI nội bộ doanh nghiệp."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ lập trình AI khác để tạo một môi trường phát triển thông minh hoàn chỉnh, nơi AI có thể tự động tìm kiếm và học hỏi từ tài nguyên trên web.",
+    "Phát triển phiên bản mở rộng hỗ trợ nhiều giao thức truyền thông khác nhau như API, cơ sở dữ liệu địa phương, và các nguồn dữ liệu nội bộ.",
+    "Tạo giao diện người dùng đồ họa để người dùng không chuyên có thể dễ dàng sử dụng tính năng tìm kiếm và nghiên cứu web của Wigolo."
+  ],
+  "stars": 5137,
+  "starsToday": 89,
+  "language": "TypeScript",
+  "topics": [
+    "mcp",
+    "agent",
+    "ai",
+    "ai-agent",
+    "claude",
+    "cli",
+    "developer-tools",
+    "local-first",
+    "mcp-server",
+    "metasearch",
+    "model-context-protocol",
+    "nodejs",
+    "privacy",
+    "rag",
+    "search",
+    "search-engine",
+    "typescript",
+    "web-crawler",
+    "web-scraping",
+    "web-search"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-07T02:21:07.960Z"
+}
