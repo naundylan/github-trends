@@ -1,0 +1,32 @@
+{
+  "id": "c15ff340-5c6a-4d06-aca7-25ecd070e40f",
+  "repo": "warmbly/warmbly",
+  "url": "https://github.com/warmbly/warmbly",
+  "category": "Other",
+  "summary": "The largest open-source cold outreach and email warmup platform.",
+  "usecases": [
+    "Khám phá và đánh giá warmbly/warmbly cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 237,
+  "starsToday": 41,
+  "language": "Go",
+  "topics": [
+    "cold-email",
+    "email-marketing",
+    "email-sender",
+    "email-warmup",
+    "marketing",
+    "marketing-automation",
+    "cold-outreach",
+    "deliverability",
+    "email",
+    "sales"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-07T08:01:33.945Z"
+}

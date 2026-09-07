@@ -1,0 +1,32 @@
+{
+  "id": "9596f764-9a54-4099-aad1-95a01a804435",
+  "repo": "CyberTimon/RapidRAW",
+  "url": "https://github.com/CyberTimon/RapidRAW",
+  "category": "Desktop App",
+  "summary": "Non-destructive GPU-accelerated RAW image editor built with TypeScript, React, and Rust/Tauri, focusing on performance and modern photo editing.",
+  "usecases": [
+    "Professional photography post-processing",
+    "Fast RAW image preview and editing on low-spec hardware",
+    "Non-destructive color grading and format conversion workflow"
+  ],
+  "ideas": [
+    "AI-powered auto-enhance integration",
+    "Custom plugin system for extended editing tools",
+    "Cross-platform cloud sync for RAW project workflow"
+  ],
+  "stars": 9895,
+  "starsToday": 33,
+  "language": "TypeScript",
+  "topics": [
+    "editing",
+    "image-processing",
+    "masks",
+    "raw",
+    "color-grading",
+    "react",
+    "rust",
+    "tauri"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-07T08:01:33.945Z"
+}

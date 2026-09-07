@@ -1,0 +1,23 @@
+{
+  "id": "af9f7fe5-5323-442a-ae34-717b6813e8f8",
+  "repo": "openai/skills",
+  "url": "https://github.com/openai/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Skills Catalog for Codex là hệ thống catalog các kỹ năng (skills) mở rộng cho Codex, giúp định nghĩa và quản lý các năng lực chuyên biệt cho AI agent. Dự án cho phép tùy chỉnh và tái sử dụng các skill một cách có hệ thống.",
+  "usecases": [
+    "Tạo thư viện kỹ năng chuyên biệt cho Codex agent để thực hiện các tác vụ lặp lại trong phát triển phần mềm",
+    "Chia sẻ và tái sử dụng các skill giữa các team phát triển để chuẩn hóa quy trình làm việc với AI",
+    "Đào tạo các agent mới bằng cách kế thừa và mở rộng từ catalog skills có sẵn"
+  ],
+  "ideas": [
+    "Xây dựng marketplace skills cộng đồng nơi developers đóng góp và đánh giá các skill cho Codex",
+    "Tích hợp với IDE plugins để tự động kích hoạt skill phù hợp dựa trên ngữ cảnh code đang viết",
+    "Kết hợp với RAG pipeline để tự động sinh skill mới từ documentation và best practices"
+  ],
+  "stars": 25729,
+  "starsToday": 46,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-07T08:01:33.945Z"
+}

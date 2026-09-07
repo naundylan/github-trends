@@ -1,0 +1,41 @@
+{
+  "id": "6d4d1fbf-f5f3-469d-8c9b-556a36e26de1",
+  "repo": "slint-ui/slint",
+  "url": "https://github.com/slint-ui/slint",
+  "category": "UI/Component Library",
+  "summary": "Slint là một toolkit GUI khai báo open-source cho phép xây dựng giao diện người dùng native trên nhiều nền tảng sử dụng Rust, C++, JavaScript hoặc Python, phù hợp cho desktop, embedded và web.",
+  "usecases": [
+    "Xây dựng ứng dụng desktop native với Rust hoặc C++ mà không cần xử lý các framework GUI cấp thấp.",
+    "Tạo giao diện cho thiết bị nhúng và IoT sử dụng WebAssembly trên các hệ thống có nguồn hạn chế.",
+    "Prototype nhanh UI đa nền tảng có thể biên dịch sang JavaScript để triển khai trên web."
+  ],
+  "ideas": [
+    "Kết hợp với Tauri để xây dựng các ứng dụng desktop nhẹ có kích thước nhị phân nhỏ.",
+    "Dùng trong các công cụ giáo dục để dạy khái niệm lập trình GUI qua nhiều ngôn ngữ lập trình.",
+    "Tích hợp với game engine để tạo các giao diện UI tương tác hoặc hệ thống HUD."
+  ],
+  "stars": 23739,
+  "starsToday": 30,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "embedded-devices",
+    "language",
+    "gui",
+    "wasm",
+    "cpp",
+    "javascript",
+    "ui",
+    "webassembly",
+    "declarative-ui",
+    "lsp-server",
+    "toolkit",
+    "user-interface",
+    "rust-lang",
+    "widgets",
+    "desktop",
+    "native"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-07T08:01:33.945Z"
+}

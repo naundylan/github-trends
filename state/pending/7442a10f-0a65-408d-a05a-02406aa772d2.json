@@ -1,0 +1,24 @@
+{
+  "id": "7442a10f-0a65-408d-a05a-02406aa772d2",
+  "repo": "lbjlaq/Antigravity-Manager",
+  "url": "https://github.com/lbjlaq/Antigravity-Manager",
+  "category": "Other",
+  "summary": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+  "usecases": [
+    "Khám phá và đánh giá lbjlaq/Antigravity-Manager cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 31081,
+  "starsToday": 41,
+  "language": "Rust",
+  "topics": [
+    "account-manager",
+    "antigravity"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-07T08:01:33.945Z"
+}

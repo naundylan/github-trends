@@ -1,0 +1,23 @@
+{
+  "id": "4de53080-a2dc-4526-a1ab-e403c75eae3f",
+  "repo": "sooryathejas/METATRON",
+  "url": "https://github.com/sooryathejas/METATRON",
+  "category": "Security/Pentest",
+  "summary": "METATRON là trợ lý kiểm thử xâm nhập (pentest) sử dụng mô hình ngôn ngữ lớn (LLM) chạy cục bộ trên Linux, đặc biệt tối ưu cho Parrot OS. Công cụ hỗ trợ tự động hóa các tác vụ bảo mật và phân tích lỗ hổng một cách thông minh.",
+  "usecases": [
+    "Hỗ trợ chuyên gia bảo mật quét và phân tích lỗ hổng hệ thống Linux cục bộ mà không cần gửi dữ liệu lên cloud",
+    "Tự động hóa reconnaissance và khai thác thông tin trong quy trình kiểm thử xâm nhập hợp pháp",
+    "Đào tạo và học tập về an ninh mạng cho sinh viên với môi trường LLM chạy offline đảm bảo riêng tư"
+  ],
+  "ideas": [
+    "Kết hợp với Metasploit để tạo pipeline pentest tự động từ reconnaissance đến exploitation hoàn toàn offline",
+    "Tích hợp vào CI/CD pipeline để tự động phát hiện lỗ hổng bảo mật trong môi trường DevSecOps",
+    "Xây dựng báo cáo pentest tự động với visualization các vector tấn công được LLM phân tích và đề xuất remediation"
+  ],
+  "stars": 3975,
+  "starsToday": 68,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-07T08:01:33.945Z"
+}

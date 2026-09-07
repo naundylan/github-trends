@@ -1,0 +1,31 @@
+{
+  "id": "bd351f73-315f-499f-b4cb-7eeb1f586467",
+  "repo": "mixelpixx/Konnect",
+  "url": "https://github.com/mixelpixx/Konnect",
+  "category": "Developer Tool",
+  "summary": "AI-assisted KiCAD 10 plugin for automated PCB design, routing, and manufacturing, powered by Rust and LLM integration.",
+  "usecases": [
+    "AI-assisted PCB schematic generation",
+    "Automated PCB layout optimization",
+    "LLM-powered design review and manufacturing verification"
+  ],
+  "ideas": [
+    "Integrate local LLM support for offline PCB design",
+    "Extend to 3D PCB modeling and collision detection",
+    "Enable design rule checking via natural language prompts"
+  ],
+  "stars": 479,
+  "starsToday": 31,
+  "language": "Rust",
+  "topics": [
+    "claude",
+    "agent-skills",
+    "kicad-pcb",
+    "kicad-schematics",
+    "llm",
+    "mcp-server",
+    "mcp-tools"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-07T08:01:33.945Z"
+}
