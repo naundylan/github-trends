@@ -1,0 +1,26 @@
+{
+  "id": "7d0895f1-3463-46f3-9761-0510a6bc05a8",
+  "repo": "EveryInc/compound-engineering-plugin",
+  "url": "https://github.com/EveryInc/compound-engineering-plugin",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Plugin mở rộng khả năng cho Claude Code, Codex và Cursor để tự động hóa quy trình lập trình và tăng năng suất cho nhà phát triển.",
+  "usecases": [
+    "Tự động tạo code boilerplate từ yêu cầu tự nhiên hoặc mô tả chức năng.",
+    "Review code và đề xuất cải tiến dựa trên các chuẩn mực lập trình.",
+    "Tích hợp với workflow CI/CD để tự động sửa lỗi hoặc refactoring code."
+  ],
+  "ideas": [
+    "Phát triển phiên bản plugin cho VS Code riêng để kết nối với mô hình LLM cục bộ an toàn.",
+    "Tự động hóa refactoring code theo phong cách và quy tắc của team.",
+    "Tạo dashboard theo dõi hiệu suất và thời gian tiết kiệm khi sử dụng plugin."
+  ],
+  "stars": 24937,
+  "starsToday": 60,
+  "language": "TypeScript",
+  "topics": [
+    "compound",
+    "engineering"
+  ],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-09-07T19:05:14.211Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "9a263484-b3b0-4ea6-93f2-31a338f094d7",
+  "repo": "getopenscreen/openscreen",
+  "url": "https://github.com/getopenscreen/openscreen",
+  "category": "Desktop App",
+  "summary": "Phần mềm mã nguồn mở miễn phí quay màn hình và chỉnh sửa video trên Windows, macOS, Linux với GPU acceleration, không watermark và không đăng ký.",
+  "usecases": [
+    "Quay video demo sản phẩm cho marketing hoặc phát triển phần mềm.",
+    "Ghi lại lỗi giao diện và tạo báo cáo bug cho đội ngũ phát triển.",
+    "Tạo nội dung quay màn hình cho tutorial, khóa học hoặc video giải thích."
+  ],
+  "ideas": [
+    "Kết hợp Whisper để tự động sinh phụ đề tiếng Việt cho video quay màn hình.",
+    "Xuất định dạng video nhẹ và tối ưu cho web hoặc ứng dụng di động.",
+    "Tích hợp vào CI/CD để quay tự động màn hình test UI/UX mỗi khi có commit."
+  ],
+  "stars": 2475,
+  "starsToday": 63,
+  "language": "TypeScript",
+  "topics": [
+    "electron",
+    "open-source",
+    "screen-capture",
+    "screen-recorder",
+    "cross-platform",
+    "ffmpeg",
+    "product-demo",
+    "rust",
+    "screen-recording",
+    "screen-studio",
+    "screencast",
+    "speech-to-text",
+    "typescript",
+    "video-editing",
+    "video-editor",
+    "wayland",
+    "wgpu",
+    "whisper"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-07T19:05:14.211Z"
+}

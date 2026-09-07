@@ -1,0 +1,26 @@
+{
+  "id": "ead4d84d-9bdd-4af9-948d-d4c5957349f2",
+  "repo": "Free-TV/IPTV",
+  "url": "https://github.com/Free-TV/IPTV",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách播放 M3U kênh TV miễn phí do cộng đồng tạo duy trì để truy cập nội dung truyền hình qua IPTV.",
+  "usecases": [
+    "Truy cập các kênh TV địa phương và quốc tế miễn phí qua player IPTV",
+    "Nghiên cứu và theo dõi cấu trúc playlist truyền hình",
+    "Xây dựng/gói kênh TV cá nhân cho thiết bị phát streaming"
+  ],
+  "ideas": [
+    "Thêm bộ lọc thể loại/khu vực để cá nhân hóa danh sách",
+    "Tự động hóa cập nhật playlist định kỳ qua cron job",
+    "Kết hợp với media server như Plex hoặc Jellyfin"
+  ],
+  "stars": 20374,
+  "starsToday": 96,
+  "language": "Python",
+  "topics": [
+    "help-wanted",
+    "looking-for-contributors"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-07T19:05:14.211Z"
+}

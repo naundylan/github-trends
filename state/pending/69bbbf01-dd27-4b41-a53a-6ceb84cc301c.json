@@ -1,0 +1,26 @@
+{
+  "id": "69bbbf01-dd27-4b41-a53a-6ceb84cc301c",
+  "repo": "remorses/gpuix",
+  "url": "https://github.com/remorses/gpuix",
+  "category": "Developer Tool",
+  "summary": "Gpuix là thư viện liên kết Node.js và React với GPUI của Zed, cho phép xây dựng các ứng dụng native nhẹ memory sử dụng React mà không cần Electron.",
+  "usecases": [
+    "Xây dựng giao diện người dùng cho các ứng dụng desktop nhanh và tiết kiệm bộ nhớ.",
+    "Tích hợp khả năng UI tương tác vào các công cụ dòng lệnh hoặc terminal.",
+    "Phát triển các ứng dụng native cross-platform với hiệu năng gần như bằng C++ nhưng dùng React."
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình AI để tạo giao diện động trong terminal.",
+    "Sử dụng làm nền tảng cho các trình soạn thảo code native nhẹ.",
+    "Phát triển dashboard theo dõi hiệu năng hệ thống với giao diện React."
+  ],
+  "stars": 1640,
+  "starsToday": 76,
+  "language": "Rust",
+  "topics": [
+    "gpui",
+    "zed"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-07T19:05:14.211Z"
+}

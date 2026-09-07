@@ -1,0 +1,23 @@
+{
+  "id": "d2abd361-be1a-4fdc-9aeb-73bd4a8ef555",
+  "repo": "Nutlope/logocreator",
+  "url": "https://github.com/Nutlope/logocreator",
+  "category": "AI/LLM",
+  "summary": "Trình tạo logo tự do và mã nguồn mở sử dụng mô hình Flux AI trên Together AI để sinh hình ảnh thương hiệu nhanh chóng.",
+  "usecases": [
+    "Sinh logo ban đầu cho startup hoặc dự án cá nhân.",
+    "Tạo thiết kế hình ảnh cho tài liệu marketing và social media.",
+    "Thử nghiệm nhiều phong cách logo khác nhau trước khi quyết định định hình cuối cùng."
+  ],
+  "ideas": [
+    "Kết hợp với nhập liệu text để điều chỉnh màu sắc và phong cách cụ thể.",
+    "Xuất ra nhiều định dạng vector để in ấn trực tiếp.",
+    "Tích hợp API để cho phép ứng dụng bên thứ ba tạo logo tự động."
+  ],
+  "stars": 8598,
+  "starsToday": 111,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-07T19:05:14.211Z"
+}

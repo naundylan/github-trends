@@ -1,0 +1,35 @@
+{
+  "id": "006522b4-f621-4996-b35f-d1c3fdac659b",
+  "repo": "AgriciDaniel/claude-ads",
+  "url": "https://github.com/AgriciDaniel/claude-ads",
+  "category": "AI Agent/Automation",
+  "summary": "Một skill cho Claude Code tự động hóa quản lý quảng cáo across 12 nền tảng, cung cấp kiểm toán grounded trên nguồn dữ liệu, điểm số xác định và báo cáo JSON phiên bản.",
+  "usecases": [
+    "Tự động auditing và đánh giá hiệu quả quảng cáo trên Google, Meta, TikTok v.v.",
+    "Tạo báo cáo JSON có versioning để theo dõi thay đổi tài khoản quảng cáo",
+    "Giúp Claude Code thực hiện các thay đổi có khả năng được phép trên các tài khoản quảng cáo"
+  ],
+  "ideas": [
+    "Kết hợp với CRM để tối ưu hóa chi phí quảng cáo theo KPI",
+    "Phát triển module hỗ trợ thêm các nền tảng quảng cáo mới",
+    "Sử dụng để tạo chiến dịch tự động cho doanh nghiệp bán hàng online"
+  ],
+  "stars": 8968,
+  "starsToday": 94,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "claude-code-skill",
+    "ai-marketing",
+    "ai",
+    "marketing-automation",
+    "open-source",
+    "agent-skills",
+    "google-ads",
+    "meta-ads",
+    "paid-advertising",
+    "ppc"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-07T19:05:14.211Z"
+}

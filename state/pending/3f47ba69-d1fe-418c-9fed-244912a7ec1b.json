@@ -1,0 +1,36 @@
+{
+  "id": "3f47ba69-d1fe-418c-9fed-244912a7ec1b",
+  "repo": "1jehuang/jcode",
+  "url": "https://github.com/1jehuang/jcode",
+  "category": "CLI Tool",
+  "summary": "Jcode là công cụ harness nhẹ nhất về RAM, được thiết kế để hỗ trợ tác vụ AI coding và terminal thông qua CLI/TUI.",
+  "usecases": [
+    "Chạy các tác vụ AI coding agent với tiêu thụ bộ nhớ thấp trên máy tính cấu hình thấp.",
+    "Tự động hóa quy trình viết code và review thông qua terminal.",
+    "Tích hợp với các LLM (như Claude, OpenAI) để hỗ trợ phát triển software một cách hiệu quả."
+  ],
+  "ideas": [
+    "Sử dụng làm nền tảng cho các IDE nhẹ hoặc trình soạn thảo code trong terminal.",
+    "Kết hợp với các hệ thống tự động deploy code dựa trên AI.",
+    "Phát triển tính năng tự học và tối ưu hóa quy trình coding cho từng người dùng."
+  ],
+  "stars": 19291,
+  "starsToday": 72,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "claude",
+    "cli",
+    "coding-agent",
+    "llm",
+    "mcp",
+    "openai",
+    "rust",
+    "terminal",
+    "tui",
+    "ai-agent",
+    "ai-coding-agent"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-07T19:05:14.211Z"
+}

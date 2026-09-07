@@ -1,0 +1,23 @@
+{
+  "id": "36e649f5-3e44-4abb-b9b7-112bc678fc10",
+  "repo": "Yu9191/wloc",
+  "url": "https://github.com/Yu9191/wloc",
+  "category": "Developer Tool",
+  "summary": "Script JavaScript sửa đổi vị trí định vị Apple (gs-loc), hỗ trợ Surge/Quantumult X/Loon/Stash với shortcut one-click thiết lập/khôi phục.",
+  "usecases": [
+    "Test ứng dụng di động với vị trí giả định",
+    "Bảo mật và riêng tư khi truy cập nội dung địa lý bị hạn chế",
+    "Phát triển và debug tính năng dựa trên vị trí trong môi trường proxy"
+  ],
+  "ideas": [
+    "Kết hợp quy tắc tự động thay đổi vị trí theo lịch trình",
+    "Phát triển giao diện web quản lý nhiều vị trí khác nhau",
+    "Tích hợp với công cụ phân tích mạng theo dõi hiệu ứng thay đổi vị trí"
+  ],
+  "stars": 10220,
+  "starsToday": 102,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-07T19:05:14.211Z"
+}

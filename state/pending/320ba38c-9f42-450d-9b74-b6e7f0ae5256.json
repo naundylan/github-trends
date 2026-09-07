@@ -1,0 +1,23 @@
+{
+  "id": "320ba38c-9f42-450d-9b74-b6e7f0ae5256",
+  "repo": "openai/skills",
+  "url": "https://github.com/openai/skills",
+  "category": "AI/LLM",
+  "summary": "Bộ sưu tập kỹ năng cho Codex, giúp phát hiện và sử dụng các khả năng tự động hóa viết code và tác vụ phát triển phần mềm.",
+  "usecases": [
+    "Phát hiện các kỹ năng mới Codex có thể thực hiện để tự động hóa tác vụ lập trình.",
+    "Xây dựng agent tùy chỉnh bằng cách kết hợp nhiều kỹ năng từ catalog.",
+    "Giám sát và mở rộng khả năng của code generation thông qua kỹ năng đã định nghĩa."
+  ],
+  "ideas": [
+    "Tạo dashboard cá nhân để theo.track kỹ năng đang được sử dụng.",
+    "Phát triển plugin cho IDE sử dụng kỹ năng từ catalog.",
+    "Kết hợp với prompt engineering để tối ưu hiệu suất code generation."
+  ],
+  "stars": 25942,
+  "starsToday": 372,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-07T19:05:14.211Z"
+}
