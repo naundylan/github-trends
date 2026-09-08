@@ -1,0 +1,31 @@
+{
+  "id": "00d910f3-a835-4742-9665-cab7f6741639",
+  "repo": "mixelpixx/Konnect",
+  "url": "https://github.com/mixelpixx/Konnect",
+  "category": "AI Agent/Automation",
+  "summary": "Native KiCAD plugin written in Rust that exposes 217 PCB design tools via MCP server, enabling Claude or other LLMs to perform schematic capture, layout, routing, placement, design review, and manufacturing output.",
+  "usecases": [
+    "Automated PCB routing and component placement driven by AI agents",
+    "Design rule checking and manufacturing file generation through LLM conversation",
+    "Hardware engineering workflow integration where AI assists in KiCAD schematic and layout tasks"
+  ],
+  "ideas": [
+    "Add custom DRC rules or component libraries via MCP tool definitions",
+    "Integrate SPICE simulation feedback loop for AI-driven design optimization",
+    "Multi-agent architecture where specialized agents handle routing vs placement simultaneously"
+  ],
+  "stars": 526,
+  "starsToday": 53,
+  "language": "Rust",
+  "topics": [
+    "claude",
+    "agent-skills",
+    "kicad-pcb",
+    "kicad-schematics",
+    "llm",
+    "mcp-server",
+    "mcp-tools"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-08T08:01:36.816Z"
+}

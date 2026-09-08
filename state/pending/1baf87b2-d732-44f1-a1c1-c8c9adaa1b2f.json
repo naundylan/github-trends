@@ -1,0 +1,23 @@
+{
+  "id": "1baf87b2-d732-44f1-a1c1-c8c9adaa1b2f",
+  "repo": "openai/plugins",
+  "url": "https://github.com/openai/plugins",
+  "category": "Developer Tool",
+  "summary": "Bộ sưu tập các plugin OpenAI giúp mở rộng chức năng của mô hình ngôn ngữ, cho phép truy xuất dữ liệu, tương tác với API bên thứ ba và tự động hóa tác vụ.",
+  "usecases": [
+    "Tích hợp dữ liệu thời gian thực (ví dụ: giá cổ phiếu, thời tiết) vào chatbot.",
+    "Tự động hóa quy trình làm việc bằng cách kết nối với các dịch vụ như CRM, Slack hoặc email.",
+    "Mở rộng khả năng của trợ lý ảo để thực hiện các tác vụ như đặt lịch hoặc đặt vé."
+  ],
+  "ideas": [
+    "Tạo một plugin marketplace để người dùng khám phá và cài đặt plugin dễ dàng.",
+    "Phát triển một template generator giúp nhà phát triển nhanh chóng tạo plugin mới.",
+    "Tích hợp một bảng điều khiển quản lý để theo dõi trạng thái và cấu hình plugin."
+  ],
+  "stars": 5500,
+  "starsToday": 45,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-08T08:01:36.816Z"
+}

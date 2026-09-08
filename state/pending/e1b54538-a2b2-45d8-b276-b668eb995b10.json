@@ -1,0 +1,44 @@
+{
+  "id": "e1b54538-a2b2-45d8-b276-b668eb995b10",
+  "repo": "HakanSeven12/OpenCADStudio",
+  "url": "https://github.com/HakanSeven12/OpenCADStudio",
+  "category": "Desktop App",
+  "summary": "Một ứng dụng CAD được viết bằng Rust, hỗ trợ vẽ 2D/3D, đọc/ghi file DWG/DXF và render tăng tốc bằng GPU.",
+  "usecases": [
+    "Thiết kế kiến trúc và kỹ thuật, tạo bản vẽ 2D/3D.",
+    "Chỉnh sửa và xem các file DWG/DXF từ các phần mềm CAD khác.",
+    "Tích hợp vào các quy trình BIM hoặc quản lý dự án xây dựng."
+  ],
+  "ideas": [
+    "Thêm plugin architecture để mở rộng công cụ vẽ.",
+    "Tích hợp lưu trữ đám mây để đồng bộ hóa bản vẽ trên nhiều thiết bị.",
+    "Xuất bản vẽ sang các định dạng 3D phổ biến như STL hoặc GLTF."
+  ],
+  "stars": 1174,
+  "starsToday": 46,
+  "language": "Rust",
+  "topics": [
+    "cad",
+    "dwg",
+    "dxf",
+    "rust",
+    "dwg-compatible",
+    "dwg-editor",
+    "dwg-files",
+    "dwg-parser",
+    "dwg-reader",
+    "dwg-support",
+    "dwg-viewer",
+    "dxf-editor",
+    "dxf-files",
+    "dxf-parser",
+    "dxf-reader",
+    "dxf-viewer",
+    "dxf-writer",
+    "dxf-compatible",
+    "dxf-support",
+    "dwg-writer"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-08T08:01:36.816Z"
+}

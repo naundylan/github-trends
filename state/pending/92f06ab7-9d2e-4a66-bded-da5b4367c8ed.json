@@ -1,0 +1,42 @@
+{
+  "id": "92f06ab7-9d2e-4a66-bded-da5b4367c8ed",
+  "repo": "mukul975/cve-mcp-server",
+  "url": "https://github.com/mukul975/cve-mcp-server",
+  "category": "Security/Pentest",
+  "summary": "MCP server cung cấp 27 công cụ bảo mật cho Claude, tích hợp tra cứu CVE, điểm EPSS, CISA KEV, MITRE ATT&ACK, Shodan, VirusTotal và nhiều nguồn thông tin lỗ hổng.",
+  "usecases": [
+    "Tra cứu nhanh lỗ hổng CVE và đánh giá mức độ nguy hiểm qua EPSS khi phát triển ứng dụng.",
+    "Kiểm tra địa chỉ IP hoặc domain qua Shodan và VirusTotal để phát hiện mối đe dọa trong thời gian thực.",
+    "Tích hợp vào quy trình DevSecOps để tự động quét và báo cáo lỗ hổng trước khi triển khai."
+  ],
+  "ideas": [
+    "Kết hợp với chatbot nội bộ để cung cấp tư vấn bảo mật即时 cho đội phát triển.",
+    "Phát triển plugin cho IDE tự động hiển thị cảnh báo lỗ hổng khi nhập thư viện bên thứ ba.",
+    "Xây dựng dashboard tổng hợp các nguồn tin bảo mật để giám sát xu hướng lỗ hổng toàn cầu."
+  ],
+  "stars": 1481,
+  "starsToday": 37,
+  "language": "Python",
+  "topics": [
+    "cisa-kev",
+    "claude-ai",
+    "cve",
+    "cybersecurity",
+    "devsecops",
+    "epss",
+    "fastmcp",
+    "mcp",
+    "mitre-attack",
+    "model-context-protocol",
+    "nvd",
+    "osv",
+    "python",
+    "security",
+    "shodan",
+    "threat-intelligence",
+    "virustotal",
+    "vulnerability-management"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-08T08:01:36.816Z"
+}

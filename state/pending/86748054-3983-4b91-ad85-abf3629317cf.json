@@ -1,0 +1,27 @@
+{
+  "id": "86748054-3983-4b91-ad85-abf3629317cf",
+  "repo": "cachix/devenv",
+  "url": "https://github.com/cachix/devenv",
+  "category": "Developer Tool",
+  "summary": "Devenv là công cụ tạo môi trường phát triển nhanh, khai báo, có thể tái tạo và tổ hợp bằng Nix, giúp lập trình viên thiết lập môi trường làm việc một cách nhất quán và dễ dàng.",
+  "usecases": [
+    "Tạo môi trường phát triển đồng nhất cho toàn bộ nhóm lập trình viên với cấu hình tái tạo được.",
+    "Tổ hợp nhiều công cụ và dịch vụ (database, cache, linter...) trong một môi trường Nix duy nhất.",
+    "Chia sẻ cấu hình môi trường phát triển qua kho lưu trữ Git để thành viên mới có thể khởi động nhanh chóng."
+  ],
+  "ideas": [
+    "Tích hợp devenv vào pipeline CI/CD để đảm bảo môi trường build và dev hoàn toàn giống nhau.",
+    "Kết hợp devenv với hệ thống monorepo để mỗi service có thể có môi trường dev riêng biệt nhưng vẫn chia sẻ chung cấu hình nền tảng.",
+    "Sử dụng devenv như một phần của template khởi động dự án mới, giúp giảm thời gian thiết lập ban đầu cho lập trình viên."
+  ],
+  "stars": 7598,
+  "starsToday": 41,
+  "language": "Rust",
+  "topics": [
+    "developer-tools",
+    "devenv",
+    "nix"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-08T08:01:36.816Z"
+}

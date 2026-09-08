@@ -1,0 +1,39 @@
+{
+  "id": "75d6a02d-6f43-42b4-a9b4-f3f8b0b6fda7",
+  "repo": "amElnagdy/delegate-skills",
+  "url": "https://github.com/amElnagdy/delegate-skills",
+  "category": "AI Agent/Automation",
+  "summary": "CLI tool that delegates coding tasks to separate AI coding agents (Claude Code, Codex, etc.), allowing developers to review diffs and commit changes themselves as a human-in-the-loop reviewer.",
+  "usecases": [
+    "Parallel execution of multiple AI coding agents for different features or bug fixes",
+    "Code review workflow where AI implements changes and human reviews the diff before merge",
+    "Enforcing commit standards and security reviews while leveraging AI implementation speed"
+  ],
+  "ideas": [
+    "CI/CD integration to auto-spawn agents for issue triage and fix generation",
+    "Automated test execution after agent implementation before diff presentation",
+    "Custom agent personas specialized in frontend, backend, or security domains"
+  ],
+  "stars": 1800,
+  "starsToday": 51,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "claude-code",
+    "coding-agent",
+    "openai-codex",
+    "ai-coding-agent",
+    "antigravity",
+    "claude-code-skills",
+    "codex",
+    "cursor",
+    "grok",
+    "kimi",
+    "mistral",
+    "opencode",
+    "qoder",
+    "skills-sh"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-08T08:01:36.816Z"
+}

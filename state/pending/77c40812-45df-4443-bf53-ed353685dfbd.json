@@ -1,0 +1,32 @@
+{
+  "id": "77c40812-45df-4443-bf53-ed353685dfbd",
+  "repo": "pytorch/pytorch",
+  "url": "https://github.com/pytorch/pytorch",
+  "category": "Machine Learning",
+  "summary": "PyTorch là thư viện học sâu mạnh mẽ cho phép tính toán tensor trên GPU với khả năng tự động phân biệt và hỗ trợ nghiên cứu cũng như sản xuất.",
+  "usecases": [
+    "Xây dựng và huấn luyện mô hình nhận diện ảnh, xử lý ngôn ngữ tự nhiên và dự báo chuỗi thời gian.",
+    "Thực hiện nghiên cứu mới về kiến trúc mạng neural và công nghệ sinh tạo.",
+    "Triển khai dịch vụ AI trong sản xuất qua TorchServe hoặc LibTorch."
+  ],
+  "ideas": [
+    "Tích hợp PyTorch với hệ thống recommendation thời gian thực để cá nhân hoá nội dung cho người dùng.",
+    "Phát triển công cụ tự động tạo mã PyTorch từ mô tả tự nhiên bằng LLM.",
+    "Kết hợp với thiết bị edge để chạy suy luận mô hình nhẹ trên IoT."
+  ],
+  "stars": 102851,
+  "starsToday": 36,
+  "language": "Python",
+  "topics": [
+    "neural-network",
+    "autograd",
+    "gpu",
+    "numpy",
+    "deep-learning",
+    "tensor",
+    "python",
+    "machine-learning"
+  ],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-09-08T08:01:36.816Z"
+}
