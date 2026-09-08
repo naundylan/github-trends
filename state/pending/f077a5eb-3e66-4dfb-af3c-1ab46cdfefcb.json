@@ -1,0 +1,23 @@
+{
+  "id": "f077a5eb-3e66-4dfb-af3c-1ab46cdfefcb",
+  "repo": "advaitpaliwal/feynman",
+  "url": "https://github.com/advaitpaliwal/feynman",
+  "category": "AI Agent/Automation",
+  "summary": "Một agent AI mã nguồn mở dùng để tự động hóa tác vụ nghiên cứu và tìm hiểu",
+  "usecases": [
+    "tự động hóa nghiên cứu lý thuyết và tổng hợp tài liệu từ web",
+    "giúp debug và giải quyết vấn đề lập trình thông qua phân tích code",
+    "tạo báo cáo nghiên cứu tự động dựa trên truy vấn đầu vào"
+  ],
+  "ideas": [
+    "triển khai làm trợ lý nghiên cứu cho các bài báo khoa học",
+    "tích hợp với cơ sở dữ liệu nghiên cứu để trích xuất insight và viết tóm tắt",
+    "sử dụng cho tự động hóa quy trình phát triển phần mềm qua tác vụ tìm hiểu sâu"
+  ],
+  "stars": 9233,
+  "starsToday": 268,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-08T23:12:26.267Z"
+}

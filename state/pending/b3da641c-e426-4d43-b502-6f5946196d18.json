@@ -1,0 +1,23 @@
+{
+  "id": "b3da641c-e426-4d43-b502-6f5946196d18",
+  "repo": "hpcaitech/Open-Sora",
+  "url": "https://github.com/hpcaitech/Open-Sora",
+  "category": "AI/LLM",
+  "summary": "Khung mã nguồn mở cho sinh video bằng AI hiệu quả, làm cho việc tạo video chất lượng cao trở nên tiếp cận cho mọi người.",
+  "usecases": [
+    "Sinh đoạn video ngắn từ text prompt cho tạo nội dung và marketing",
+    "Tăng tốc pre-visualization phim và animation với render scene AI-assisted",
+    "Cho phép nền tảng giáo dục tạo nội dung video động mà không chi phí sản xuất"
+  ],
+  "ideas": [
+    "Kết hợp với sinh audio thời gian thực cho music video AI-generated",
+    "Tích hợp vào tools tự động hóa social media cho sinh video story tức thì",
+    "Phát triển video styles domain-specific cho prototyping cutscene gaming"
+  ],
+  "stars": 29699,
+  "starsToday": 212,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-08T23:12:26.267Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "0bb16498-4457-4624-86c1-05dcd2a76936",
+  "repo": "NdoleStudio/httpsms",
+  "url": "https://github.com/NdoleStudio/httpsms",
+  "category": "Developer Tool",
+  "summary": "Dự án Go cung cấp API HTTP để gửi và nhận tin nhắn SMS qua thiết bị Android, tích hợp dễ dàng vào ứng dụng khác.",
+  "usecases": [
+    "Tích hợp gửi SMS xác thực vào ứng dụng web/mobile không phụ thuộc dịch vụ bên thứ ba.",
+    "Tự động hóa gửi thông báo đến nhiều thiết bị Android trong mạng nội bộ.",
+    "Theo dõi và nhận SMS vào hệ thống backend qua HTTP API."
+  ],
+  "ideas": [
+    "Xây dựng dịch vụ SMS gateway cá nhân để thay thế các nền tảng trả phí.",
+    "Kết hợp với bot Telegram/Discord để gửi thông báo qua SMS Android.",
+    "Phát triển giao diện web quản lý thiết bị Android và lịch gửi SMS."
+  ],
+  "stars": 4984,
+  "starsToday": 45,
+  "language": "Go",
+  "topics": [
+    "sms",
+    "sms-api",
+    "sms-manager",
+    "sms-manager-api",
+    "android-sms",
+    "android-sms-sender",
+    "httpsms",
+    "sms-gateway"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-08T23:12:26.267Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a5bbca9c-9a5d-40b7-96c2-04c9cc071b67",
+  "repo": "viarotel-org/escrcpy",
+  "url": "https://github.com/viarotel-org/escrcpy",
+  "category": "Desktop App",
+  "summary": "Escrcpy là một giao diện đồ họa (GUI) để chiếu và điều khiển thiết bị Android trên máy tính, dựa trên công nghệ scrcpy, hỗ trợ quay màn hình, ghi hình và tương tác trực quan.",
+  "usecases": [
+    "Chiếu màn hình Android lên máy tính để trình bày hoặc demo ứng dụng.",
+    "Ghi lại màn hình hoạt động của ứng dụng để làm tài liệu hoặc video.",
+    "Điều khiển Android từ xa sử dụng chuột và bàn phím máy tính cho mục đích phát triển hoặc chơi game."
+  ],
+  "ideas": [
+    "Kết hợp với WebRTC để chiếu màn hình Android lên trình duyệt trên mạng nội bộ.",
+    "Thêm tính năng tự động chụp màn hình và tạo video định kỳ cho các bài test tự động.",
+    "Phát triển plugin cho Visual Studio Code để kiểm tra giao diện trực tiếp từ IDE."
+  ],
+  "stars": 11359,
+  "starsToday": 173,
+  "language": "JavaScript",
+  "topics": [
+    "scrcpy",
+    "linux",
+    "macos",
+    "recording",
+    "windows",
+    "genymobile",
+    "gnirehtet",
+    "android",
+    "scrcpy-gui",
+    "screenshots",
+    "hacktoberfest",
+    "scrcpy-engine",
+    "gui",
+    "screensharing",
+    "mirroring",
+    "hacktoberfest2026",
+    "mapping",
+    "hacktoberfest2027"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-08T23:12:26.267Z"
+}

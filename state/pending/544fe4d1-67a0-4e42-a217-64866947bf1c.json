@@ -1,0 +1,23 @@
+{
+  "id": "544fe4d1-67a0-4e42-a217-64866947bf1c",
+  "repo": "Tencent/teamai-cli",
+  "url": "https://github.com/Tencent/teamai-cli",
+  "category": "CLI Tool",
+  "summary": "một công cụ CLI TypeScript giúp team tích hợp và tự động hóa quy trình AI, biến mọi dự án thành AI Native",
+  "usecases": [
+    "tự động hóa tạo tài liệu dự án bằng AI",
+    "quản lý và kích hoạt model AI trong phát triển phần mềm",
+    "đồng bộ cấu hình AI giữa các thành viên team"
+  ],
+  "ideas": [
+    "kết hợp với CI/CD để tự động review code bằng AI",
+    "tạo plugin IDE để gợi ý code dựa trên context AI",
+    "phát triển dashboard theo dõi hiệu suất model AI qua dự án"
+  ],
+  "stars": 2311,
+  "starsToday": 1215,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-08T23:12:26.267Z"
+}

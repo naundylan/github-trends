@@ -1,0 +1,23 @@
+{
+  "id": "6033e53d-594d-43c3-a3ca-e8c145d8ac17",
+  "repo": "Yu9191/wloc",
+  "url": "https://github.com/Yu9191/wloc",
+  "category": "Security/Pentest",
+  "summary": "Wloc là một công cụ JavaScript để sửa đổi và spoof vị trí mạng Apple (gs-loc) trên các ứng dụng proxy iOS như Surge, Quantumult X, Loon và Stash, hỗ trợ thiết lập và khôi phục vị trí qua Quick Shortcuts.",
+  "usecases": [
+    "Spoof vị trí GPS để test các tính năng dựa trên địa lý trong ứng dụng mà không cần di chuyển thực tế.",
+    "Bảo vệ quyền riêng tư bằng cách che giấu vị trí thật khi sử dụng mạng công cộng hoặc proxy.",
+    "Tự động đặt lại định vị định kỳ cho các tác vụ cần thay đổi địa lý liên tục."
+  ],
+  "ideas": [
+    "Kết hợp với các script tự động để xoay vòng vị trí theo thời gian thực cho các bài test geo-location.",
+    "Phát triển giao diện web quản lý các profile vị trí khác nhau cho các kịch bản khác nhau.",
+    "Tích hợp với công cụ giám sát mạng để theo dõi thay đổi vị trí trong thời gian thực."
+  ],
+  "stars": 10287,
+  "starsToday": 80,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-08T23:12:26.267Z"
+}

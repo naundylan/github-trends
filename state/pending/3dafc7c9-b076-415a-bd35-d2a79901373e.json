@@ -1,0 +1,35 @@
+{
+  "id": "3dafc7c9-b076-415a-bd35-d2a79901373e",
+  "repo": "superplanehq/superplane",
+  "url": "https://github.com/superplanehq/superplane",
+  "category": "DevOps/CI-CD",
+  "summary": "Nền tảng mã nguồn mở cho tự động hóa workflow Kubernetes và quản lý release, cho phép kỹ thuật một-shot và các pipeline DevOps kiểm soát tự chủ.",
+  "usecases": [
+    "Tự động hóa pipeline release Kubernetes với can thiệp thủ công bằng 0",
+    "Control-plane self-hosted cho orchestration workflow dựa trên sự kiện",
+    "Automation DevOps GitOps cho đội ngũ platform engineering"
+  ],
+  "ideas": [
+    "Kết nối với Argo CD để nâng cấp workflow GitOps",
+    "Thêm phát hiện sự cố bằng AI và hook tự hồi phục",
+    "Mở rộng hỗ trợ tự động hóa workflow đa-cluster trên các mây lai"
+  ],
+  "stars": 6308,
+  "starsToday": 244,
+  "language": "Go",
+  "topics": [
+    "control-plane",
+    "devops",
+    "event-driven",
+    "kubernetes",
+    "release-automation",
+    "self-hosted",
+    "workflow-automation",
+    "automation",
+    "react",
+    "go",
+    "platform-engineering"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-09-08T23:12:26.267Z"
+}

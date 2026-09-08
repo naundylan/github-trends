@@ -1,0 +1,23 @@
+{
+  "id": "f8f805fc-e9f9-4f69-a5b8-8e4a556ffe4a",
+  "repo": "openai/skills",
+  "url": "https://github.com/openai/skills",
+  "category": "AI/LLM",
+  "summary": "Một danh mục kỹ năng cho Codex, giúp mở rộng khả năng tạo code và tự động hóa qua các prompt và kỹ năng được định nghĩa sẵn",
+  "usecases": [
+    "tự động tạo code cho các dự án phổ biến bằng kỹ năng được định nghĩa",
+    "mở rộng khả năng của Codex với các prompt/domain-specific skills",
+    "hỗ trợ đào tạo và fine-tuning model AI qua các kỹ năng mẫu"
+  ],
+  "ideas": [
+    "kết hợp với các framework CI/CD để tự động review và merge code",
+    "xây marketplace kỹ năng để chia sẻ giữa các dự án AI khác nhau",
+    "sử dụng để tạo nội dung học tập lập trình tự động"
+  ],
+  "stars": 26486,
+  "starsToday": 490,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-08T23:12:26.267Z"
+}

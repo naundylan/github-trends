@@ -1,0 +1,26 @@
+{
+  "id": "41dd0a1c-50ac-42db-9a63-2ac8d1d8bfe6",
+  "repo": "Free-TV/IPTV",
+  "url": "https://github.com/Free-TV/IPTV",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Playlist M3U được cộng đồng duy trì cung cấp các kênh TV miễn phí, có thể dùng trên các player truyền hình.",
+  "usecases": [
+    "Cấu hình phát TV trên Smart TV, Android Box thông qua playlist M3U.",
+    "Truy cập kênh TV trực tiếp trên VLC, Kodi hoặc các ứng dụng tương thích.",
+    "Phân tích và lọc nội dung truyền hình cho dự án nghiên cứu hoặc theo dõi."
+  ],
+  "ideas": [
+    "Xây dựng ứng dụng tổng hợp kênh TV cá nhân dùng Python kết hợp VLC API.",
+    "Phát triển bot lọc kênh theo thể loại hoặc quốc gia cho provider IPTV.",
+    "Kết hợp với hệ thống DVR để ghi hình từ các kênh trong playlist."
+  ],
+  "stars": 20427,
+  "starsToday": 44,
+  "language": "Python",
+  "topics": [
+    "help-wanted",
+    "looking-for-contributors"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-08T23:12:26.267Z"
+}
