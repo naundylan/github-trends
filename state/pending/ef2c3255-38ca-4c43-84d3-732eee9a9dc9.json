@@ -1,0 +1,23 @@
+{
+  "id": "ef2c3255-38ca-4c43-84d3-732eee9a9dc9",
+  "repo": "Zie619/n8n-workflows",
+  "url": "https://github.com/Zie619/n8n-workflows",
+  "category": "Backend Framework",
+  "summary": "n8n-workflows là hệ thống quản lý workflow của n8n, cho phép tự động hóa quy trình bằng cách kết nối nhiều nguồn dữ liệu khác nhau.",
+  "usecases": [
+    "Tự động hóa quy trình xử lý dữ liệu từ nhiều nguồn",
+    "Xây dựng các chuỗi workflow phức tạp cho doanh nghiệp",
+    "Tích hợp với các API bên ngoài để tạo quy trình tự động hóa"
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ như Zapier để mở rộng khả năng tích hợp",
+    "Sử dụng webhook để kích hoạt workflow theo thời gian thực",
+    "Phát triển plugin mở rộng chức năng xử lý dữ liệu phức tạp"
+  ],
+  "stars": 56530,
+  "starsToday": 55,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-08T02:40:20.096Z"
+}

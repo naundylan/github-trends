@@ -1,0 +1,26 @@
+{
+  "id": "4b90a251-b024-4369-9c1d-7800c6ba63b4",
+  "repo": "remorses/gpuix",
+  "url": "https://github.com/remorses/gpuix",
+  "category": "UI/Component Library",
+  "summary": "Kết nối Node.js & React với GPUI của Zed, cho phép phát triển ứng dụng native memory-efficient không phụ thuộc Electron.",
+  "usecases": [
+    "Xây dựng giao diện native cho code editor/terminal tùy chỉnh",
+    "Tích hợp đồ họa GPU trực tiếp trong ứng dụng React không cần Electron",
+    "Tạo các ứng dụng desktop nhẹ với hiệu suất gần native"
+  ],
+  "ideas": [
+    "Thay thế Electron cho các code editor hiện đại",
+    "Xây dựng dashboard trực quan hiển thị GPU real-time",
+    "Kết hợp với WebGL để tạo các ứng dụng trực quan 3D nhẹ"
+  ],
+  "stars": 1653,
+  "starsToday": 72,
+  "language": "Rust",
+  "topics": [
+    "gpui",
+    "zed"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-08T02:40:20.096Z"
+}

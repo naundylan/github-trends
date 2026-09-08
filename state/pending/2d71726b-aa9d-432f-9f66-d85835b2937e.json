@@ -1,0 +1,23 @@
+{
+  "id": "2d71726b-aa9d-432f-9f66-d85835b2937e",
+  "repo": "Nutlope/logocreator",
+  "url": "https://github.com/Nutlope/logocreator",
+  "category": "Computer Vision",
+  "summary": "Công cụ tạo logo miễn phí và mở源 sử dụng mô hình AI Flux trên Together AI để sinh ra các logo độc đáo một cách nhanh chóng.",
+  "usecases": [
+    "Tạo logo nhanh chóng cho doanh nghiệp nhỏ hoặc startup.",
+    "Hỗ trợ designer trong quá trình prototype thiết kế logo.",
+    "Sử dụng để tạo icon cho ứng dụng di động hoặc website."
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng thương mại điện tử để tự động hóa thiết kế logo cho sản phẩm.",
+    "Kết hợp với công cụ thiết kế đồ họa khác để mở rộng tính năng.",
+    "Áp dụng trong giáo dục để dạy thiết kế đồ họa cơ bản."
+  ],
+  "stars": 8602,
+  "starsToday": 115,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-09-08T02:40:20.096Z"
+}

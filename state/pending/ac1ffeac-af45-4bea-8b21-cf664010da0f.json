@@ -1,0 +1,36 @@
+{
+  "id": "ac1ffeac-af45-4bea-8b21-cf664010da0f",
+  "repo": "1jehuang/jcode",
+  "url": "https://github.com/1jehuang/jcode",
+  "category": "AI/LLM",
+  "summary": "Harness RAM tối ưu cho AI coding agents và CLI, cung cấp môi trường terminal hiệu quả cho LLM.",
+  "usecases": [
+    "Tăng tốc độ phản hồi cho AI coding agents trong terminal",
+    "Giảm tiêu thụ memory khi chạy nhiều LLM cùng lúc",
+    "Hỗ trợ tự động hóa tác vụ coding qua CLI với overhead thấp"
+  ],
+  "ideas": [
+    "Kết hợp với các framework AI agent để tối ưu latency",
+    "Phát triển một terminal AI personal assistant nhẹ",
+    "Sử dụng trong các môi trường có tài nguyên hạn chế (embedded, low-spec devices)"
+  ],
+  "stars": 19312,
+  "starsToday": 74,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "claude",
+    "cli",
+    "coding-agent",
+    "llm",
+    "mcp",
+    "openai",
+    "rust",
+    "terminal",
+    "tui",
+    "ai-agent",
+    "ai-coding-agent"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-08T02:40:20.096Z"
+}

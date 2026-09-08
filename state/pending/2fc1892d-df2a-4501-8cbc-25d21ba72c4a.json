@@ -1,0 +1,23 @@
+{
+  "id": "2fc1892d-df2a-4501-8cbc-25d21ba72c4a",
+  "repo": "openai/skills",
+  "url": "https://github.com/openai/skills",
+  "category": "AI/LLM",
+  "summary": "Skills Catalog for Codex - Một katalog kỹ năng cho Codex, tập trung vào việc quản lý và tổ chức các kỹ năng liên quan đến AI/LLM.",
+  "usecases": [
+    "Hỗ trợ phát triển ứng dụng AI bằng cách cung cấp danh sách các kỹ năng cần thiết",
+    "Tạo nền tảng để học tập và rèn luyện các kỹ năng xử lý ngôn ngữ tự nhiên",
+    "Cung cấp tài liệu tham khảo cho nhà phát triển về các công cụ AI/LLM phổ biến"
+  ],
+  "ideas": [
+    "Tích hợp với các hệ thống AI khác để tạo thư viện kỹ năng mở rộng",
+    "Xây dựng API để truy xuất danh sách kỹ năng theo chủ đề",
+    "Phát triển công cụ tự động hóa để quản lý và cập nhật danh sách kỹ năng"
+  ],
+  "stars": 26068,
+  "starsToday": 351,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-08T02:40:20.096Z"
+}

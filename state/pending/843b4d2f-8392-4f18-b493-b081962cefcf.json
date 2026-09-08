@@ -1,0 +1,41 @@
+{
+  "id": "843b4d2f-8392-4f18-b493-b081962cefcf",
+  "repo": "FB208/OpenBidKit_Yibiao",
+  "url": "https://github.com/FB208/OpenBidKit_Yibiao",
+  "category": "AI/LLM",
+  "summary": "FB208/OpenBidKit_Yibiao là một bộ công cụ mã nguồn mở giúp tạo lập, quản lý và kiểm tra tự động các hồ sơ thầu, tích hợp AI để sinh văn bản và phát hiện trùng lặp.",
+  "usecases": [
+    "Tự động tạo hồ sơ thầu dựa trên mẫu có sẵn, tiết kiệm thời gian soạn thảo.",
+    "Kiểm tra tính duy nhất và phát hiện các mục bị loại từ các hồ sơ thầu trước đó.",
+    "Hỗ trợ người dùng không chuyên về kỹ thuật tạo tài liệu đấu thầu chuyên nghiệp bằng cách sử dụng AI."
+  ],
+  "ideas": [
+    "Tích hợp công cụ này với các hệ thống ERP để tự động tạo đề xuất dựa trên dự án.",
+    "Phát triển một plugin cho các phần mềm văn phòng (ví dụ: Word, Google Docs) cho phép người dùng tạo hồ sơ thầu ngay trong tài liệu.",
+    "Xây dựng một nền tảng dịch vụ đám mây cung cấp API AI để cá nhân hóa mẫu thầu theo ngành nghề."
+  ],
+  "stars": 2835,
+  "starsToday": 68,
+  "language": "JavaScript",
+  "topics": [
+    "services",
+    "ai",
+    "document-ai",
+    "electron",
+    "llm",
+    "office-automation",
+    "proposal-generator",
+    "react",
+    "tender",
+    "typescript",
+    "ai-writing",
+    "bid",
+    "bidding",
+    "proposal-writing",
+    "rag",
+    "tender-document",
+    "service"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-08T02:40:20.096Z"
+}

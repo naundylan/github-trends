@@ -1,0 +1,23 @@
+{
+  "id": "10c5962f-2af6-442e-a001-a67e3000f4c7",
+  "repo": "Yu9191/wloc",
+  "url": "https://github.com/Yu9191/wloc",
+  "category": "CLI Tool",
+  "summary": "Công cụ sửa đổi vị trí mạng Apple (gs-loc) - Thay đổi dữ liệu định vị từ Apple, hỗ trợ nhiều ứng dụng di động và cung cấp lệnh nhanh để cài đặt/xóa lại vị trí.",
+  "usecases": [
+    "Sửa đổi vị trí GPS của thiết bị Apple để phù hợp với ứng dụng cụ thể",
+    "Tích hợp với các ứng dụng di động như Surge, Quantumult X, Loon, Stash để lấy thông tin vị trí chính xác",
+    "Cung cấp giao diện dòng lệnh đơn giản để quản lý vị trí"
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng map để hiển thị vị trí đã chỉnh sửa",
+    "Phát triển plugin cho các ứng dụng di động để sử dụng dữ liệu định vị từ Apple",
+    "Xây dựng hệ thống tự động hóa để cập nhật vị trí khi di chuyển"
+  ],
+  "stars": 10234,
+  "starsToday": 148,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-08T02:40:20.096Z"
+}

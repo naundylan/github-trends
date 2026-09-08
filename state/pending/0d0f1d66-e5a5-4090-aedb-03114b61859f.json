@@ -1,0 +1,26 @@
+{
+  "id": "0d0f1d66-e5a5-4090-aedb-03114b61859f",
+  "repo": "Free-TV/IPTV",
+  "url": "https://github.com/Free-TV/IPTV",
+  "category": "Other",
+  "summary": "Free-TV/IPTV cung cấp danh sách phát M3U chứa các kênh truyền hình miễn phí, giúp người dùng dễ dàng tích hợp vào các trình phát IPTV.",
+  "usecases": [
+    "Cung cấp danh sách kênh truyền hình miễn phí cho người dùng có nhu cầu xem IPTV không mất phí.",
+    "Tích hợp vào ứng dụng xem tivi trên web hoặc di động để phát trực tiếp.",
+    "Dùng làm nguồn dữ liệu cho các dịch vụ ghi hình hoặc lập lịch phát sóng."
+  ],
+  "ideas": [
+    "Xây dựng một trang web tổng hợp các danh sách M3U từ nhiều nguồn, cho phép người dùng tìm kiếm theo vùng miền hoặc ngôn ngữ.",
+    "Phát triển một ứng dụng desktop hoặc di động tích hợp trình phát với giao diện người dùng thân thiện, sử dụng danh sách này.",
+    "Tạo một dịch vụ API cung cấp các danh sách M3U theo thời gian thực, kèm theo thống kê lượt xem."
+  ],
+  "stars": 20383,
+  "starsToday": 71,
+  "language": "Python",
+  "topics": [
+    "help-wanted",
+    "looking-for-contributors"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-08T02:40:20.096Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "aea879e7-b5d9-42bb-bbc5-f6c483d93ed0",
+  "repo": "getopenscreen/openscreen",
+  "url": "https://github.com/getopenscreen/openscreen",
+  "category": "Desktop App",
+  "summary": "GetOpenScreen là công cụ ghi màn hình miễn phí, hỗ trợ đa nền tảng với khả năng tăng tốc GPU và không có watermark.",
+  "usecases": [
+    "Ghi lại màn hình để tạo demo sản phẩm",
+    "Tạo video hướng dẫn và bài thuyết trình",
+    "Tham khảo các demo nhanh cho việc bán hàng"
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ chuyển đổi giọng nói để tạo script tự động từ bản ghi màn hình",
+    "Hỗ trợ xuất file theo nhiều định dạng như MP4, GIF và WebM",
+    "Thêm tính năng nhận dạng văn bản từ nội dung màn hình để tạo tài liệu tự động"
+  ],
+  "stars": 2491,
+  "starsToday": 58,
+  "language": "TypeScript",
+  "topics": [
+    "electron",
+    "open-source",
+    "screen-capture",
+    "screen-recorder",
+    "cross-platform",
+    "ffmpeg",
+    "product-demo",
+    "rust",
+    "screen-recording",
+    "screen-studio",
+    "screencast",
+    "speech-to-text",
+    "typescript",
+    "video-editing",
+    "video-editor",
+    "wayland",
+    "wgpu",
+    "whisper"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-08T02:40:20.096Z"
+}
