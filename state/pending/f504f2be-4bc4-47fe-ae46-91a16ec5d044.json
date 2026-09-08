@@ -1,0 +1,23 @@
+{
+  "id": "f504f2be-4bc4-47fe-ae46-91a16ec5d044",
+  "repo": "hpcaitech/Open-Sora",
+  "url": "https://github.com/hpcaitech/Open-Sora",
+  "category": "AI/LLM",
+  "summary": "Open-Sora là một dự án mã nguồn mở nhằm phổ biến video production hiệu quả và dễ tiếp cận cho mọi người, sử dụng AI để tạo và xử lý video một cách nhanh chóng và tiết kiệm tài nguyên.",
+  "usecases": [
+    "Tạo video tự động từ văn bản hoặc ảnh",
+    "Sửa đổi và nâng cấp video hiện có bằng AI",
+    "Phát triển nội dung video cho marketing và giáo dục mà không cần thiết bị mạnh"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình âm thanh để tạo video có lời",
+    "Tích hợp vào các nền tảng tạo nội dung tự động như YouTube Shorts",
+    "Phát triển phiên bản di động để tạo video nhanh trên điện thoại"
+  ],
+  "stars": 29686,
+  "starsToday": 212,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-08T13:28:44.696Z"
+}

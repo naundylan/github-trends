@@ -1,0 +1,42 @@
+{
+  "id": "80d3f26e-91c7-485c-9517-a33ee50c1731",
+  "repo": "viarotel-org/escrcpy",
+  "url": "https://github.com/viarotel-org/escrcpy",
+  "category": "Developer Tool",
+  "summary": "Escrcpy là công cụ hiển thị và điều khiển thiết bị Android qua giao diện đồ họa, cung cấp trải nghiệm mirroring và tương tác trực tiếp cho phát triển và kiểm tra ứng dụng.",
+  "usecases": [
+    "Demo ứng dụng Android trên máy tính cho nhóm phát triển",
+    "Kiểm thử UI/UX trên thiết bị thật mà không cần cắm dây",
+    "Tạo bản ghi màn hình (screen recording) cho tài liệu hướng dẫn"
+  ],
+  "ideas": [
+    "Tích hợp vào các trình tự CI/CD để test tự động",
+    "Phát triển plugin cho VS Code để điều khiển Android trực tiếp",
+    "Kết hợp với automation để test tương tác trên nhiều thiết bị cùng lúc"
+  ],
+  "stars": 11208,
+  "starsToday": 173,
+  "language": "JavaScript",
+  "topics": [
+    "scrcpy",
+    "linux",
+    "macos",
+    "recording",
+    "windows",
+    "genymobile",
+    "gnirehtet",
+    "android",
+    "scrcpy-gui",
+    "screenshots",
+    "hacktoberfest",
+    "scrcpy-engine",
+    "gui",
+    "screensharing",
+    "mirroring",
+    "hacktoberfest2026",
+    "mapping",
+    "hacktoberfest2027"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-08T13:28:44.696Z"
+}

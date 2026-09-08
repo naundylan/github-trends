@@ -1,0 +1,21 @@
+{
+  "id": "078bfc57-acf5-4cca-ab8c-6140ee249fe8",
+  "repo": "Tencent/teamai-cli",
+  "url": "https://github.com/Tencent/teamai-cli",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ CLI giúp các team chuyển đổi sang làm việc với AI một cách bản địa, cung cấp giao diện dòng lệnh để quản lý và tích hợp AI vào quy trình làm việc nhóm.",
+  "usecases": [
+    "Quản lý prompt và workflow AI cho cả team trong một công cụ CLI thống nhất",
+    "Tự động hóa các tác vụ lặp lại bằng AI trong pipeline phát triển phần mềm"
+  ],
+  "ideas": [
+    "Tích hợp với tgrep để tự động tìm và refactor code bằng AI",
+    "Kết hợp với hệ thống CI/CD để tự động review code và sinh tài liệu bằng AI"
+  ],
+  "stars": 2144,
+  "starsToday": 1215,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-08T13:28:44.695Z"
+}

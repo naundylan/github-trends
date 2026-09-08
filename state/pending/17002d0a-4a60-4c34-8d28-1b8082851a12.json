@@ -1,0 +1,21 @@
+{
+  "id": "17002d0a-4a60-4c34-8d28-1b8082851a12",
+  "repo": "advaitpaliwal/feynman",
+  "url": "https://github.com/advaitpaliwal/feynman",
+  "category": "Other",
+  "summary": "The open source AI research agent.",
+  "usecases": [
+    "Khám phá và đánh giá advaitpaliwal/feynman cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 9183,
+  "starsToday": 268,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-08T13:28:44.696Z"
+}

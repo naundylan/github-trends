@@ -1,0 +1,23 @@
+{
+  "id": "d14f8381-a4ed-4140-961a-143cefb093c7",
+  "repo": "openai/skills",
+  "url": "https://github.com/openai/skills",
+  "category": "Developer Tool",
+  "summary": "Danh mục các kỹ năng (skill) mà Codex có thể sử dụng, được tổ chức và tài liệu hóa để các nhà phát triển mở rộng khả năng của mô hình, nổi bật với khả năng khám phá và tích hợp dễ dàng.",
+  "usecases": [
+    "Các nhà phát triển có thể tìm và tích hợp các kỹ năng cụ thể để tự động hóa tác vụ.",
+    "Sử dụng như một nguồn tham khảo để xây dựng các workflow AI tùy chỉnh.",
+    "Tích hợp vào các nền tảng phát triển để đề xuất kỹ năng phù hợp trong thời gian thực."
+  ],
+  "ideas": [
+    "Xây dựng một giao diện người dùng tương tác cho phép duyệt và thử nghiệm các kỹ năng.",
+    "Tự động hóa việc tạo các kỹ năng mới dựa trên các mẫu từ catalog.",
+    "Tích hợp với các hệ thống CI/CD để triển khai các kỹ năng trong môi trường sản xuất."
+  ],
+  "stars": 26312,
+  "starsToday": 490,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-08T13:28:44.695Z"
+}

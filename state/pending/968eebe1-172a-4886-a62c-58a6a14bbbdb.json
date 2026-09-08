@@ -1,0 +1,33 @@
+{
+  "id": "968eebe1-172a-4886-a62c-58a6a14bbbdb",
+  "repo": "superplanehq/superplane",
+  "url": "https://github.com/superplanehq/superplane",
+  "category": "Other",
+  "summary": "Open source factory for one-shot engineering",
+  "usecases": [
+    "Khám phá và đánh giá superplanehq/superplane cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 6186,
+  "starsToday": 244,
+  "language": "Go",
+  "topics": [
+    "control-plane",
+    "devops",
+    "event-driven",
+    "kubernetes",
+    "release-automation",
+    "self-hosted",
+    "workflow-automation",
+    "automation",
+    "react",
+    "go",
+    "platform-engineering"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-08T13:28:44.696Z"
+}

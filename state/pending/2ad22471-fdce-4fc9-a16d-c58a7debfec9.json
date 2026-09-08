@@ -1,0 +1,21 @@
+{
+  "id": "2ad22471-fdce-4fc9-a16d-c58a7debfec9",
+  "repo": "microsoft/tgrep",
+  "url": "https://github.com/microsoft/tgrep",
+  "category": "CLI Tool",
+  "summary": "Công cụ grep được tối ưu hóa bằng chỉ mục trigram, kiến trúc client/server cho phép tìm kiếm regex nhanh trên các codebase lớn ngay trên máy local.",
+  "usecases": [
+    "Tìm kiếm pattern regex nhanh trong các kho mã nguồn hàng triệu dòng",
+    "Search server-side cho phép nhiều developer cùng tìm kiếm trên một index chia sẻ"
+  ],
+  "ideas": [
+    "Kết hợp với IDE plugin để hỗ trợ search time-real khi lập trình viên gõ",
+    "Dùng làm backend cho công cụ phân tích mã tĩnh (static analysis) trên toàn tổ chức"
+  ],
+  "stars": 1667,
+  "starsToday": 1353,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-08T13:28:44.695Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "228706b2-3856-43b7-b50f-21ccd9d291f3",
+  "repo": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Cung cấp 38 loại sơ đồ biên tập dưới dạng HTML và SVG độc lập, không phụ thuộc vào Mermaid, dành cho Claude Code, Codex và Pi, nổi bật với thiết kế tối giản, không bóng đổ.",
+  "usecases": [
+    "Tích hợp các loại sơ đồ này vào các công cụ ghi chép hoặc báo cáo.",
+    "Sử dụng làm thư viện thành phần cho các ứng dụng trực quan hóa dữ liệu.",
+    "Cung cấp tài nguyên học tập cho các nhà phát triển muốn tạo sơ đồ nhanh chóng."
+  ],
+  "ideas": [
+    "Xây dựng một trình chỉnh sửa kéo và thả cho phép người dùng chọn và tùy chỉnh các sơ đồ này.",
+    "Kết hợp với hệ thống quản lý phiên bản để lưu trữ và đồng bộ hóa các thiết kế sơ đồ.",
+    "Tạo một plugin cho các IDE phổ biến để chèn sơ đồ trực tiếp từ catalog."
+  ],
+  "stars": 33835,
+  "starsToday": 1070,
+  "language": "HTML",
+  "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "data-visualization",
+    "diagrams",
+    "drawio",
+    "mermaid",
+    "svg"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-08T13:28:44.695Z"
+}

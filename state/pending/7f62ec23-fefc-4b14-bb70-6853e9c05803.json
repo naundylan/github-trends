@@ -1,0 +1,23 @@
+{
+  "id": "7f62ec23-fefc-4b14-bb70-6853e9c05803",
+  "repo": "Yu9191/wloc",
+  "url": "https://github.com/Yu9191/wloc",
+  "category": "Developer Tool",
+  "summary": "Script JavaScript để thay đổi và spoof vị trí GPS cho các ứng dụng proxy như Surge, Quantumult X, Loon và Stash, hỗ trợ cài đặt qua Quickly.",
+  "usecases": [
+    "Spoof vị trí GPS để test ứng dụng dựa trên vị trí trên iOS/macOS qua proxy.",
+    "Bypass giới hạn địa lý trong các ứng dụng mạng khi sử dụng Surge/Quantumult.",
+    "Cài đặt nhanh vị trí mặc định cho các quy trình mạng qua Quickly commands."
+  ],
+  "ideas": [
+    "Tích hợp với Automator shortcuts để tự động chuyển đổi vị trí theo lịch trình.",
+    "Phát triển UI web quản lý preset vị trí dễ dàng.",
+    "Kết hợp với công cụ phân tích mạng test hiệu suất theo vùng địa lý."
+  ],
+  "stars": 10273,
+  "starsToday": 148,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-08T13:28:44.696Z"
+}
