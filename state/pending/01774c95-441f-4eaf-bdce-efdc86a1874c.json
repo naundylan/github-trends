@@ -1,0 +1,44 @@
+{
+  "id": "01774c95-441f-4eaf-bdce-efdc86a1874c",
+  "repo": "ajeetdsouza/zoxide",
+  "url": "https://github.com/ajeetdsouza/zoxide",
+  "category": "CLI Tool",
+  "summary": "Một công cụ cd viết bằng Rust học và ghi nhớ các thư mục bạn truy cập thường xuyên, thay thế lệnh cd mặc định.",
+  "usecases": [
+    "Quickly navigate to frequently used directories without typing full paths.",
+    "Integrate into shell workflows for power users and developers to save time.",
+    "Use in automation scripts for dynamic directory jumps."
+  ],
+  "ideas": [
+    "Add fuzzy matching integration with fzf or fzy for interactive directory selection.",
+    "Extend to support cloud-based directory tracking across multiple machines.",
+    "Build a visual dashboard showing navigation heatmaps and most-visited paths."
+  ],
+  "stars": 39268,
+  "starsToday": 54,
+  "language": "Rust",
+  "topics": [
+    "z",
+    "command-line",
+    "rust",
+    "zsh",
+    "autojump",
+    "bash",
+    "powershell",
+    "shell",
+    "fish",
+    "xonsh",
+    "xontrib",
+    "fzf",
+    "fasd",
+    "jump",
+    "command-line-tool",
+    "cli",
+    "nushell",
+    "elvish",
+    "fish-shell",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-08T18:24:20.985Z"
+}

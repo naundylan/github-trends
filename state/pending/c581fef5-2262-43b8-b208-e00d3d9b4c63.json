@@ -1,0 +1,23 @@
+{
+  "id": "c581fef5-2262-43b8-b208-e00d3d9b4c63",
+  "repo": "openai/plugins",
+  "url": "https://github.com/openai/plugins",
+  "category": "AI/LLM",
+  "summary": "Nguồn mở các plugin cho OpenAI, cho phép mở rộng khả năng tương tác và tự động hóa của các mô hình ngôn ngữ.",
+  "usecases": [
+    "Mở rộng chức năng ChatGPT với các tính năng tùy chỉnh thông qua plugin.",
+    "Tích hợp dịch vụ bên ngoài và API vào trải nghiệm AI.",
+    "Phát triển ứng dụng AI có khả năng gọi tool và tự động hóa tác vụ."
+  ],
+  "ideas": [
+    "Xây dựng marketplace plugin cho cộng đồng LLM.",
+    "Kết hợp plugin với RAG để truy cập dữ liệu nội bộ.",
+    "Tự động hóa workflows làm việc phức tạp thông qua series plugin."
+  ],
+  "stars": 5685,
+  "starsToday": 176,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-08T18:24:20.985Z"
+}

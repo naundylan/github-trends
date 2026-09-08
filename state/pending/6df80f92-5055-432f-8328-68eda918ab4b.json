@@ -1,0 +1,34 @@
+{
+  "id": "6df80f92-5055-432f-8328-68eda918ab4b",
+  "repo": "shareAI-lab/learn-claude-code",
+  "url": "https://github.com/shareAI-lab/learn-claude-code",
+  "category": "AI Agent/Automation",
+  "summary": "Hướng dẫn từ 0 đến 1 dùng Python để xây dựng agent harness nhẹ như Claude Code, tập trung trên Bash và LLM.",
+  "usecases": [
+    "Học và giảng dạy cơ chế hoạt động của AI agents từ ground up.",
+    "Tự động hóa tác vụ hệ thống và phát triển phần mềm bằng lệnh Bash kết hợp LLM.",
+    "Prototyping và nghiên cứu agent LLM cho dự án cá nhân."
+  ],
+  "ideas": [
+    "Kết hợp với LangChain/AutoGen so sánh hiệu suất.",
+    "Phát triển giao diện quản lý và theo dõi agent.",
+    "Áp dụng trong môi trường giáo dục dạy prompt engineering."
+  ],
+  "stars": 76346,
+  "starsToday": 82,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "claude-code",
+    "teaching",
+    "agent-development",
+    "ai-agent",
+    "claude",
+    "educational",
+    "llm",
+    "python",
+    "tutorial"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-08T18:24:20.985Z"
+}

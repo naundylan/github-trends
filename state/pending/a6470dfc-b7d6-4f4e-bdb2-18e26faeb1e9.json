@@ -1,0 +1,31 @@
+{
+  "id": "a6470dfc-b7d6-4f4e-bdb2-18e26faeb1e9",
+  "repo": "maotoumao/MusicFree",
+  "url": "https://github.com/maotoumao/MusicFree",
+  "category": "Cross-platform Mobile",
+  "summary": "MusicFree là ứng dụng phát nhạc miễn phí, plugin hóa và tùy chỉnh, cung cấp trải nghiệm nghe nhạc không quảng cáo trên nhiều nền tảng di động và desktop.",
+  "usecases": [
+    "Phát nhạc tùy chỉnh từ các nguồn nội tuyến hoặc mạng xã hội mà không cần đăng ký.",
+    "Sử dụng làm nền nhạc cho công việc/nghỉ ngơi với các bộ lọc thể loại và playlist tự động.",
+    "Tích hợp với ứng dụng khác qua API để điều khiển phát nhạc theo lệnh giọng nói hoặc tự động hóa."
+  ],
+  "ideas": [
+    "Phát triển phiên bản widget cho màn hình khóa hiển thị thông tin bài hát đang phát.",
+    "Tích hợp tính năng tải nhạc offline với chất lượng cao cho vùng có kết nối yếu.",
+    "Tạo hệ thống plugin cộng đồng cho phép người dùng thêm nguồn nhạc hoặc hiệu ứng âm thanh mới."
+  ],
+  "stars": 26714,
+  "starsToday": 47,
+  "language": "TypeScript",
+  "topics": [
+    "free",
+    "music-player",
+    "plugin",
+    "react",
+    "react-native",
+    "typescript",
+    "musicfree"
+  ],
+  "notePath": "notes/Cross-platform-Mobile.md",
+  "createdAt": "2026-09-08T18:24:20.985Z"
+}

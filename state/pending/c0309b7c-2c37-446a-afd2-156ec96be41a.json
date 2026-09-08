@@ -1,0 +1,23 @@
+{
+  "id": "c0309b7c-2c37-446a-afd2-156ec96be41a",
+  "repo": "gtsteffaniak/filebrowser",
+  "url": "https://github.com/gtsteffaniak/filebrowser",
+  "category": "Developer Tool",
+  "summary": "Một ứng dụng web browser file quản lý, cho phép người dùng xem và quản lý tệp qua giao diện web.",
+  "usecases": [
+    "Quản lý tệp trên server qua giao diện web thay vì SSH.",
+    "Cung cấp quyền truy cập file cho nhiều user trong team.",
+    "Tích hợp vào pipeline CI/CD hoặc deployment workflows."
+  ],
+  "ideas": [
+    "Triển khai làm file manager nội bộ cho các platform cloud storage.",
+    "Sử dụng làm cơ sở cho các môi trường development tạm thời (dev containers).",
+    "Tích hợp OAuth/SSO để quản lý quyền truy cập file an toàn."
+  ],
+  "stars": 8189,
+  "starsToday": 61,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-08T18:24:20.985Z"
+}

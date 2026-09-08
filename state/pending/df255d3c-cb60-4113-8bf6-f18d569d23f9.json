@@ -1,0 +1,35 @@
+{
+  "id": "df255d3c-cb60-4113-8bf6-f18d569d23f9",
+  "repo": "AgriciDaniel/claude-ads",
+  "url": "https://github.com/AgriciDaniel/claude-ads",
+  "category": "AI/LLM",
+  "summary": "Claude-ads là kỹ năng hỗ trợ Claude Code cho vận hành quảng cáo trên 12 nền tảng quảng cáo, cung cấp đánh giá nguồn gốc, chấm điểm xác định và báo cáo JSON phiên bản.",
+  "usecases": [
+    "Quản lý chi phí quảng cáo tự động trên nhiều nền tảng",
+    "Kiểm tra tính trung thực và chất lượng nội dung quảng cáo",
+    "Tối ưu hóa chiến dịch quảng cáo dựa trên dữ liệu và đánh giá"
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng quảng cáo để tạo dashboard tự động theo dõi hiệu quả",
+    "Phát triển các module đánh giá chất lượng nội dung quảng cáo",
+    "Sử dụng AI để phân tích xu hướng và tối ưu ngân sách quảng cáo"
+  ],
+  "stars": 9038,
+  "starsToday": 73,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "claude-code-skill",
+    "ai-marketing",
+    "ai",
+    "marketing-automation",
+    "open-source",
+    "agent-skills",
+    "google-ads",
+    "meta-ads",
+    "paid-advertising",
+    "ppc"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-08T18:24:20.985Z"
+}
