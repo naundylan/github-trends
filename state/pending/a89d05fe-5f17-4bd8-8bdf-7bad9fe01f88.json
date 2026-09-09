@@ -1,0 +1,43 @@
+{
+  "id": "a89d05fe-5f17-4bd8-8bdf-7bad9fe01f88",
+  "repo": "smicallef/spiderfoot",
+  "url": "https://github.com/smicallef/spiderfoot",
+  "category": "Security/Pentest",
+  "summary": "SpiderFoot là công cụ tự động hoá thu thập thông tin mở (OSINT) để phân tích và mô phỏng mặt trận tấn công, hỗ trợ các chuyên gia an ninh mạng.",
+  "usecases": [
+    "Phát hiện các dấu hiệu của mối đe dọa tiềm ẩn trong mạng",
+    "Đánh giá bảo mật của doanh nghiệp bằng cách quét địa bàn công cộng",
+    "Hỗ trợ red team trong quá trình pentest"
+  ],
+  "ideas": [
+    "Kết hợp với SIEM để tự động cập nhật thông tin mối đe dọa",
+    "Sử dụng trong training bảo mật để cung cấp dữ liệu thực tế",
+    "Tích hợp với threat intel platform để tự động nhận thông báo"
+  ],
+  "stars": 21974,
+  "starsToday": 69,
+  "language": "Python",
+  "topics": [
+    "footprinting",
+    "osint",
+    "threatintel",
+    "python",
+    "infosec",
+    "intelligence-gathering",
+    "osint-reconnaissance",
+    "pentesting",
+    "threat-intelligence",
+    "security-tools",
+    "information-gathering",
+    "cybersecurity",
+    "cti",
+    "osint-framework",
+    "attacksurface",
+    "osint-tool",
+    "hacking",
+    "information-security",
+    "recon"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-09T13:38:47.188Z"
+}

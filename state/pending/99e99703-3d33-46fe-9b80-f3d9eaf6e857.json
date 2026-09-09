@@ -1,0 +1,23 @@
+{
+  "id": "99e99703-3d33-46fe-9b80-f3d9eaf6e857",
+  "repo": "vercel-labs/skills",
+  "url": "https://github.com/vercel-labs/skills",
+  "category": "CLI Tool",
+  "summary": "Công cụ CLI mở nguồn để tạo và quản lý kỹ năng cho các agent AI, cho phép phát triển nhanh chóng qua npx.",
+  "usecases": [
+    "Tạo kỹ năng mới cho agent AI bằng lệnh npx skills init.",
+    "Kiểm tra và gỡ lỗi các kỹ năng agent trước khi triển khai.",
+    "Chia sẻ kỹ năng qua registry công cộng để cộng đồng sử dụng."
+  ],
+  "ideas": [
+    "Kết hợp với framework LangChain để tự động sinh skills từ mô tả nhiệm vụ.",
+    "Xây dựng giao diện web để kéo thả và cấu hình skills mà không cần dòng lệnh.",
+    "Tích hợp vào CI/CD để tự động validate skills trước khi deploy agent."
+  ],
+  "stars": 30788,
+  "starsToday": 122,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-09T13:38:47.188Z"
+}

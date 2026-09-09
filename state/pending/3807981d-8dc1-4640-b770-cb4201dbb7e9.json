@@ -1,0 +1,32 @@
+{
+  "id": "3807981d-8dc1-4640-b770-cb4201dbb7e9",
+  "repo": "jamiepine/voicebox",
+  "url": "https://github.com/jamiepine/voicebox",
+  "category": "AI/LLM",
+  "summary": "Voicebox là studio giọng nói mã nguồn mở cho phép sao chép giọng, đọc văn bản thành giọng nói và tạo nội dung âm thanh. Dự án tích hợp Qwen3-TTS, Whisper và hỗ trợ chạy trên CUDA hoặc MLX.",
+  "usecases": [
+    "Tạo bản đọc tự động từ văn bản cho podcast, video hoặc nội dung tiếp cận người nghe.",
+    "Sao chép và tái tạo giọng nói theo nhu cầu sản xuất nội dung được cấp quyền.",
+    "Xây dựng giao diện studio giọng nói tích hợp nhận dạng và tổng hợp giọng nói."
+  ],
+  "ideas": [
+    "Kết hợp Voicebox với công cụ biên tập video để tự động tạo bản lồng tiếng đa ngôn ngữ.",
+    "Xây dựng trợ lý đọc văn bản thành giọng nói cá nhân hóa cho sách điện tử và nội dung giáo dục.",
+    "Tạo quy trình sản xuất podcast tự động từ kịch bản, giọng đọc đến bản trộn âm cuối cùng."
+  ],
+  "stars": 52763,
+  "starsToday": 150,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "voice-clone",
+    "qwen3-tts",
+    "voice-ai",
+    "whisper",
+    "qwen3-tts-ui",
+    "cuda",
+    "mlx"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-09T13:38:47.188Z"
+}

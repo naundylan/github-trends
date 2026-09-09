@@ -1,0 +1,31 @@
+{
+  "id": "65a20065-3f4b-40e7-98bb-8d93ab121bd9",
+  "repo": "google/magika",
+  "url": "https://github.com/google/magika",
+  "category": "Developer Tool",
+  "summary": "Công cụ phát hiện loại file dựa trên AI, nhanh và chính xác, hỗ trợ nhiều định dạng qua mô hình deep learning.",
+  "usecases": [
+    "Xác định loại file thực tế trong hệ thống lưu trữ để áp dụng chính sách bảo mật.",
+    "Tự động phân loại và định tuyến file trong quy trình ETL dựa trên nội dung thực tế.",
+    "Hỗ trợ các ứng dụng antivirus trong việc phát hiện file độc hại giấu się dưới phần mở rộng sai."
+  ],
+  "ideas": [
+    "Tích hợp vào dịch vụ lưu trữ đám mây để tự động gán tags dựa trên nội dung file.",
+    "Phát triển plugin cho IDE để cảnh báo khi developer nhầm lẫn loại file (ví dụ: lưu JSON dưới .txt).",
+    "Xây dựng API công khai để các dịch vụ bên ngoài có thể gửi file và nhận kết quả phát hiện loại."
+  ],
+  "stars": 18500,
+  "starsToday": 102,
+  "language": "Rust",
+  "topics": [
+    "deep-learning",
+    "filetype",
+    "keras-classification-models",
+    "keras-models",
+    "mime-types",
+    "ai",
+    "onnx"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-09T13:38:47.188Z"
+}

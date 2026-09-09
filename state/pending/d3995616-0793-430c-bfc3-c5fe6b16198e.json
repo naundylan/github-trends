@@ -1,0 +1,23 @@
+{
+  "id": "d3995616-0793-430c-bfc3-c5fe6b16198e",
+  "repo": "openai/plugins",
+  "url": "https://github.com/openai/plugins",
+  "category": "Developer Tool",
+  "summary": "Kho lưu trữ hỗ trợ xây dựng và triển khai OpenAI Plugins bằng JavaScript. Dự án cung cấp nền tảng để kết nối AI với các dịch vụ và dữ liệu bên ngoài thông qua giao diện plugin.",
+  "usecases": [
+    "Tạo plugin truy vấn dữ liệu thời gian thực từ cơ sở dữ liệu hoặc dịch vụ doanh nghiệp.",
+    "Kết nối AI với công cụ lập trình, vận hành hoặc quản lý nội dung bên thứ ba.",
+    "Xây dựng bộ plugin nội bộ để chuẩn hóa khả năng của trợ lý AI trong tổ chức."
+  ],
+  "ideas": [
+    "Kết hợp plugin với dữ liệu nội bộ để tạo trợ lý hỗ trợ khách hàng có khả năng tra cứu và xử lý đơn hàng.",
+    "Phát triển plugin kiểm tra mã nguồn và tự động đề xuất bản sửa dựa trên kết quả phân tích tĩnh.",
+    "Tạo marketplace plugin theo ngành để AI truy cập dữ liệu chuyên biệt như tài chính, y tế hoặc giáo dục."
+  ],
+  "stars": 6069,
+  "starsToday": 505,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-09T13:38:47.188Z"
+}

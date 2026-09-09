@@ -1,0 +1,23 @@
+{
+  "id": "4a051ed9-380d-4ae8-9e9d-56f91d96d27b",
+  "repo": "PrimeIntellect-ai/prime-agent",
+  "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+  "category": "AI/LLM",
+  "summary": "Prime-Agent là một agente RLM tự học cải tiến, tự động hóa các workflow coding và thực hiện các nhiệm vụ dài hạn một cách độc lập.",
+  "usecases": [
+    "Tự động tạo và chạy pipeline CI/CD",
+    "Quản lý và hoàn thiện mã nguồn lớn qua các tác vụ tự động",
+    "Hỗ trợ lập trình viên trong việc nghiên cứu và thử nghiệm các ý tưởng mới"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Actions để tự động hóa testing và deployment",
+    "Sử dụng làm trợ lý cho các dự án open-source để quản lý issue và PR",
+    "Tích hợp vào môi trường Jupyter Notebook để thực hiện analysis tự động"
+  ],
+  "stars": 20379,
+  "starsToday": 124,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-09T13:38:47.188Z"
+}

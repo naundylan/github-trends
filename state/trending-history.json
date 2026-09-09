@@ -16,7 +16,7 @@
   },
   "public-apis/public-apis": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-09-07",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-09-06"
   },
   "NousResearch/hermes-agent": {
@@ -116,7 +116,7 @@
   },
   "asgeirtj/system_prompts_leaks": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-08-29"
   },
   "agentskills/agentskills": {
@@ -296,7 +296,7 @@
   },
   "t8y2/dbx": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-08-30",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-08-28"
   },
   "addyosmani/agent-skills": {
@@ -311,7 +311,7 @@
   },
   "byoungd/up": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-08-22"
   },
   "fastapi/fastapi": {
@@ -376,8 +376,8 @@
   },
   "jamiepine/voicebox": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-07-09",
-    "last_saved": "2026-07-09"
+    "last_seen": "2026-09-09",
+    "last_saved": "2026-09-09"
   },
   "can1357/oh-my-pi": {
     "first_seen": "2026-07-09",
@@ -416,7 +416,7 @@
   },
   "freestylefly/awesome-gpt-image-2": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-29",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-08-22"
   },
   "Graphify-Labs/graphify": {
@@ -496,12 +496,12 @@
   },
   "alibaba/open-code-review": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-08-23"
   },
   "apache/maka": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-08-24"
   },
   "tashfeenahmed/freellmapi": {
@@ -601,7 +601,7 @@
   },
   "Alishahryar1/free-claude-code": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-08-26"
   },
   "AgriciDaniel/claude-obsidian": {
@@ -641,7 +641,7 @@
   },
   "github/spec-kit": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-08-26"
   },
   "makeplane/plane": {
@@ -741,7 +741,7 @@
   },
   "OpenHands/OpenHands": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-31",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-08-28"
   },
   "THU-MAIC/OpenMAIC": {
@@ -791,7 +791,7 @@
   },
   "infiniflow/ragflow": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-30",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-08-29"
   },
   "Lakr233/vphone-cli": {
@@ -931,17 +931,17 @@
   },
   "rtk-ai/rtk": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-07",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-09-01"
   },
   "farion1231/cc-switch": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-09-01"
   },
   "dmtrKovalenko/fff": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-09-01"
   },
   "google-research/timesfm": {
@@ -1061,7 +1061,7 @@
   },
   "Sumanth077/Hands-On-AI-Engineering": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-07",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-09-04"
   },
   "huangruiteng/loopx": {
@@ -1071,7 +1071,7 @@
   },
   "earthtojake/text-to-cad": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-07",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-09-04"
   },
   "shadcn-ui/ui": {
@@ -1091,7 +1091,7 @@
   },
   "akitaonrails/ai-memory": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-09-04"
   },
   "BraveOPotato/FckSignups": {
@@ -1136,12 +1136,12 @@
   },
   "vercel-labs/agent-browser": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-06",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-09-05"
   },
   "jlcodes99/cockpit-tools": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-07",
+    "last_seen": "2026-09-09",
     "last_saved": "2026-09-05"
   },
   "aipoch/open-science": {
@@ -1294,52 +1294,47 @@
     "last_seen": "2026-09-09",
     "last_saved": "2026-09-08"
   },
-  "liquidslr/system-design-notes": {
+  "openai/plugins": {
     "first_seen": "2026-09-09",
     "last_seen": "2026-09-09",
     "last_saved": "2026-09-09"
   },
-  "FB208/OpenBidKit_Yibiao": {
+  "vastsa/PI-Desktop": {
     "first_seen": "2026-09-09",
     "last_seen": "2026-09-09",
     "last_saved": "2026-09-09"
   },
-  "neka-nat/freecad-mcp": {
+  "smicallef/spiderfoot": {
     "first_seen": "2026-09-09",
     "last_seen": "2026-09-09",
     "last_saved": "2026-09-09"
   },
-  "Zie619/n8n-workflows": {
+  "PrimeIntellect-ai/prime-agent": {
     "first_seen": "2026-09-09",
     "last_seen": "2026-09-09",
     "last_saved": "2026-09-09"
   },
-  "gtsteffaniak/filebrowser": {
+  "vercel-labs/skills": {
     "first_seen": "2026-09-09",
     "last_seen": "2026-09-09",
     "last_saved": "2026-09-09"
   },
-  "stacklok/toolhive": {
+  "supermemoryai/supermemory": {
     "first_seen": "2026-09-09",
     "last_seen": "2026-09-09",
     "last_saved": "2026-09-09"
   },
-  "prometheus/prometheus": {
+  "getopenscreen/openscreen": {
     "first_seen": "2026-09-09",
     "last_seen": "2026-09-09",
     "last_saved": "2026-09-09"
   },
-  "mixelpixx/Konnect": {
+  "google/magika": {
     "first_seen": "2026-09-09",
     "last_seen": "2026-09-09",
     "last_saved": "2026-09-09"
   },
-  "rust-lang/rustlings": {
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-09",
-    "last_saved": "2026-09-09"
-  },
-  "rustfs/rustfs": {
+  "Automattic/harper": {
     "first_seen": "2026-09-09",
     "last_seen": "2026-09-09",
     "last_saved": "2026-09-09"

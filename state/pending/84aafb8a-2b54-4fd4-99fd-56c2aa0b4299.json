@@ -1,0 +1,33 @@
+{
+  "id": "84aafb8a-2b54-4fd4-99fd-56c2aa0b4299",
+  "repo": "Automattic/harper",
+  "url": "https://github.com/Automattic/harper",
+  "category": "Developer Tool",
+  "summary": "Harper là trình kiểm tra ngữ pháp offline, bảo vệ quyền riêng tư, nhanh chóng, được viết bằng Rust và chạy trong Chrome extension.",
+  "usecases": [
+    "Kiểm tra ngữ pháp trong các trang web khi viết nội dung",
+    "Sửa lỗi ngữ pháp trong email và tài liệu",
+    "Cung cấp gợi ý ngữ pháp cho lập trình viên khi viết tài liệu kỹ thuật"
+  ],
+  "ideas": [
+    "Kết hợp với VS Code để kiểm tra mã tài liệu",
+    "Sử dụng làm plugin cho Notion",
+    "Tích hợp vào hệ thống chatbot để tự động chỉnh sửa"
+  ],
+  "stars": 15179,
+  "starsToday": 147,
+  "language": "Rust",
+  "topics": [
+    "developer-tools",
+    "english-language",
+    "grammar-checker",
+    "rust",
+    "webassembly",
+    "chrome-extension",
+    "nodejs",
+    "react",
+    "svelte"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-09T13:38:47.188Z"
+}

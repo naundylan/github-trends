@@ -1,0 +1,39 @@
+{
+  "id": "d563949b-cac9-439c-9d09-7440d8d16214",
+  "repo": "vastsa/PI-Desktop",
+  "url": "https://github.com/vastsa/PI-Desktop",
+  "category": "Desktop App",
+  "summary": "PI-Desktop là tác nhân lập trình AI chạy cục bộ trên desktop, kết hợp Electron, Rust, pi Agent Harness và plugin do người dùng cài đặt. Kiến trúc local-first giúp ưu tiên quyền riêng tư và khả năng hoạt động ngoài tuyến.",
+  "usecases": [
+    "Lập trình, gỡ lỗi và giải thích mã trực tiếp trên máy tính mà không cần gửi toàn bộ dự án lên dịch vụ đám mây.",
+    "Tự động hóa các tác vụ phát triển như tạo mã, kiểm tra, refactor và quản lý tệp.",
+    "Mở rộng khả năng ứng dụng bằng cách cài đặt plugin hoặc tích hợp MCP theo nhu cầu người dùng."
+  ],
+  "ideas": [
+    "Thêm cơ chế xác thực và phân quyền cho plugin để bảo vệ mã nguồn và dữ liệu cục bộ.",
+    "Tích hợp kho plugin được kiểm duyệt cho các ngôn ngữ, framework và tác vụ phát triển phổ biến.",
+    "Xây dựng chế độ cộng tác an toàn cho nhiều người dùng bằng cách mã hóa dữ liệu và chỉ chia sẻ ngữ cảnh được chọn."
+  ],
+  "stars": 1467,
+  "starsToday": 393,
+  "language": "TypeScript",
+  "topics": [
+    "pi-desktop",
+    "ai-agent",
+    "coding-agent",
+    "desktop-app",
+    "electron",
+    "global",
+    "i18n",
+    "local-first",
+    "mcp",
+    "pi-agent",
+    "plugins",
+    "react",
+    "rust",
+    "typescript",
+    "pi"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-09T13:38:47.188Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "b7e84d34-9825-47c3-92fb-400a5444536f",
+  "repo": "supermemoryai/supermemory",
+  "url": "https://github.com/supermemoryai/supermemory",
+  "category": "AI/LLM",
+  "summary": "Supermemory là bộ nhớ và nền tảng ngữ cảnh cho AI, giúp mô hình lưu, truy xuất và kế thừa thông tin hiệu quả. Dự án cung cấp Memory API, có khả năng triển khai nhanh trên Cloudflare và chạy hoàn toàn cục bộ.",
+  "usecases": [
+    "Cung cấp bộ nhớ dài hạn cho chatbot, trợ lý AI và hệ thống tác nhân.",
+    "Tích hợp ngữ cảnh cá nhân hóa vào ứng dụng học tập, hỗ trợ khách hàng hoặc quản lý tri thức.",
+    "Xây dựng hệ thống ghi nhớ dữ liệu người dùng có thể triển khai trên cloud hoặc local."
+  ],
+  "ideas": [
+    "Kết hợp Supermemory với tác nhân tự động để duy trì lịch sử dự án và thực hiện công việc liên tục.",
+    "Xây dựng bộ nhớ ngữ cảnh cục bộ cho ứng dụng AI riêng tư, không gửi dữ liệu nhạy cảm lên cloud.",
+    "Tích hợp truy xuất bộ nhớ vào hệ thống học tập để cá nhân hóa lộ trình theo tiến độ của người dùng."
+  ],
+  "stars": 29536,
+  "starsToday": 236,
+  "language": "TypeScript",
+  "topics": [
+    "cloudflare-pages",
+    "cloudflare-workers",
+    "drizzle-orm",
+    "tailwindcss",
+    "typescript",
+    "cloudflare-kv",
+    "postgres",
+    "remix",
+    "vite",
+    "agent-memory",
+    "ai-memory",
+    "memory"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-09T13:38:47.188Z"
+}
