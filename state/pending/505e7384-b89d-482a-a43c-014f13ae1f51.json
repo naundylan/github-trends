@@ -1,0 +1,31 @@
+{
+  "id": "505e7384-b89d-482a-a43c-014f13ae1f51",
+  "repo": "google/magika",
+  "url": "https://github.com/google/magika",
+  "category": "AI/LLM",
+  "summary": "Dự án sử dụng AI và deep learning để phát hiện loại nội dung file chính xác và nhanh chóng, thay thế kiểm tra dựa trên phần mở rộng.",
+  "usecases": [
+    "Phát hiện malware/file độc hại dựa trên nội dung file",
+    "Tích hợp vào hệ thống upload file để kiểm tra loại file an toàn",
+    "Sắp xếp và phân loại hàng triệu file dựa trên loại nội dung"
+  ],
+  "ideas": [
+    "Kết hợp với scanner antivirus để tăng độ chính xác",
+    "Phát triển plugin cho IDE để preview file loại trước khi mở",
+    "Sử dụng để tự động định dạng và di chuyển file trong quy trình CI/CD"
+  ],
+  "stars": 18519,
+  "starsToday": 102,
+  "language": "Rust",
+  "topics": [
+    "deep-learning",
+    "filetype",
+    "keras-classification-models",
+    "keras-models",
+    "mime-types",
+    "ai",
+    "onnx"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-09T23:01:13.677Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e2c491c8-3a9c-49ab-b3e5-0d21e9faa87b",
+  "repo": "Automattic/harper",
+  "url": "https://github.com/Automattic/harper",
+  "category": "Developer Tool",
+  "summary": "Checker ngữ pháp offline và privacy-first, viết bằng Rust, cung cấp tốc độ nhanh và tích hợp vào trình duyệt/web.",
+  "usecases": [
+    "Kiểm tra ngữ pháp trực tiếp trong trình duyệt mà không gửi dữ liệu lên server",
+    "Tích hợp vào blog editor hoặc ứng dụng viết nội dung để sửa lỗi tự động",
+    "Sử dụng làm component cho IDE hoặc code editor kiểm tra tài liệu"
+  ],
+  "ideas": [
+    "Phát triển extension cho VS Code hiển thị lỗi ngữ pháp khi viết tài liệu kỹ thuật",
+    "Kết hợp AI để gợi ý sửa chữa ngữ cảnh",
+    "Tạo phiên bản multi-language cho checker grammar ngoài tiếng Anh"
+  ],
+  "stars": 15214,
+  "starsToday": 147,
+  "language": "Rust",
+  "topics": [
+    "developer-tools",
+    "english-language",
+    "grammar-checker",
+    "rust",
+    "webassembly",
+    "chrome-extension",
+    "nodejs",
+    "react",
+    "svelte"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-09T23:01:13.677Z"
+}

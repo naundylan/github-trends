@@ -1,0 +1,21 @@
+{
+  "id": "7f83182d-e201-4026-91ad-b84d817954b9",
+  "repo": "openai/plugins",
+  "url": "https://github.com/openai/plugins",
+  "category": "Other",
+  "summary": "OpenAI Plugins",
+  "usecases": [
+    "Khám phá và đánh giá openai/plugins cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 6167,
+  "starsToday": 505,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-09T23:01:13.676Z"
+}

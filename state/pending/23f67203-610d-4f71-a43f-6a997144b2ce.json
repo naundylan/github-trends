@@ -1,0 +1,35 @@
+{
+  "id": "23f67203-610d-4f71-a43f-6a997144b2ce",
+  "repo": "OpenDCAI/GameFactory-3A",
+  "url": "https://github.com/OpenDCAI/GameFactory-3A",
+  "category": "Game Dev",
+  "summary": "GameFactory-3A là framework mã nguồn mở toàn diện để tạo tự động tài năng và tài sản game 3A, hỗ trợ đồ họa 3D, âm thanh và tích hợp với Unity/Unreal.",
+  "usecases": [
+    "Tự động tạo các tài sản game (characters, environments) để giảm thời gian phát triển.",
+    "Sinh đồ họa 3D và animation cho indie game hoặc prototyping nhanh.",
+    "Tích hợp với engine Unity/Unreal để tạo nội dung game 3A chất lượng cao bằng AI."
+  ],
+  "ideas": [
+    "Tạo công cụ sinh level map tự động cho game open-world dựa trên tham số đầu vào.",
+    "Kết hợp pipeline tạo nội dung để sinh ra cutscene tự động từ kịch bản văn bản.",
+    "Phát triển mô hình tạo nhân vật game tùy chỉnh theo phong cách nghệ thuật cụ thể."
+  ],
+  "stars": 595,
+  "starsToday": 32,
+  "language": "Python",
+  "topics": [
+    "3d-generation",
+    "audio-generation",
+    "blender",
+    "image-generation",
+    "motion-generation",
+    "three-js",
+    "unity3d",
+    "unreal-engine",
+    "3a-game",
+    "3a-game-generation",
+    "cg-video-generation"
+  ],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-09-09T23:01:13.677Z"
+}

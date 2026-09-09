@@ -1,0 +1,21 @@
+{
+  "id": "ee67f753-a35b-4dac-9b5e-2928676d3a70",
+  "repo": "PrimeIntellect-ai/prime-agent",
+  "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+  "category": "Other",
+  "summary": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+  "usecases": [
+    "Khám phá và đánh giá PrimeIntellect-ai/prime-agent cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 20412,
+  "starsToday": 124,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-09T23:01:13.677Z"
+}

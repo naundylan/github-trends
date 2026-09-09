@@ -1,0 +1,42 @@
+{
+  "id": "48c1ff6f-9e33-4dbd-a497-f33930070a2c",
+  "repo": "getopenscreen/openscreen",
+  "url": "https://github.com/getopenscreen/openscreen",
+  "category": "Desktop App",
+  "summary": "Ứng dụng ghi màn hình mã nguồn mở, đa nền tảng, GPU-accelerated, cho phép quay màn hình và tạo demo không có watermark hay phí subscription.",
+  "usecases": [
+    "Ghi quay màn hình để tạo bài viết hướng dẫn và tutorial",
+    "Tạo demo sản phẩm cho marketing và bán hàng online",
+    "Ghi âm kèm lời giải설説 cho video screencast bằng Whisper"
+  ],
+  "ideas": [
+    "Tích hợp trực tiếp với các nền tảng chia sẻ video như YouTube hoặc Vimeo",
+    "Phát triển plugin cho phép livestream kèm ghi màn hình thời gian thực",
+    "Sử dụng để tạo nội dung tự động cho các hướng dẫn phần mềm và documentation"
+  ],
+  "stars": 2648,
+  "starsToday": 100,
+  "language": "TypeScript",
+  "topics": [
+    "electron",
+    "open-source",
+    "screen-capture",
+    "screen-recorder",
+    "cross-platform",
+    "ffmpeg",
+    "product-demo",
+    "rust",
+    "screen-recording",
+    "screen-studio",
+    "screencast",
+    "speech-to-text",
+    "typescript",
+    "video-editing",
+    "video-editor",
+    "wayland",
+    "wgpu",
+    "whisper"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-09T23:01:13.677Z"
+}

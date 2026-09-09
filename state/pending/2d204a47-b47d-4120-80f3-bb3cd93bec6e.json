@@ -1,0 +1,36 @@
+{
+  "id": "2d204a47-b47d-4120-80f3-bb3cd93bec6e",
+  "repo": "supermemoryai/supermemory",
+  "url": "https://github.com/supermemoryai/supermemory",
+  "category": "AI/LLM",
+  "summary": "Engine memory và app cực nhanh có thể chạy hoàn toàn cục bộ, cung cấp API memory cho thời đại AI.",
+  "usecases": [
+    "Cung cấp memory context cho ứng dụng AI/LLM để duy trì trạng thái hội thoại",
+    "Tích hợp khả năng memory cục bộ/đám mây vào các AI agent",
+    "Hỗ trợ lưu trữ truy xuất memory với latency thấp cho ứng dụng real-time"
+  ],
+  "ideas": [
+    "Kết hợp với frameworks AI agent để tạo personal assistant có memory dài hạn",
+    "Triển khai local-first memory layer cho ứng dụng offline-first",
+    "Sử dụng Cloudflare KV + Postgres build memory network phân tán cho nhiều user"
+  ],
+  "stars": 29573,
+  "starsToday": 236,
+  "language": "TypeScript",
+  "topics": [
+    "cloudflare-pages",
+    "cloudflare-workers",
+    "drizzle-orm",
+    "tailwindcss",
+    "typescript",
+    "cloudflare-kv",
+    "postgres",
+    "remix",
+    "vite",
+    "agent-memory",
+    "ai-memory",
+    "memory"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-09T23:01:13.677Z"
+}
