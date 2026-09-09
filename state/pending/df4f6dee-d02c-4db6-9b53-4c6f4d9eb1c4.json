@@ -1,0 +1,31 @@
+{
+  "id": "df4f6dee-d02c-4db6-9b53-4c6f4d9eb1c4",
+  "repo": "maotoumao/MusicFree",
+  "url": "https://github.com/maotoumao/MusicFree",
+  "category": "Cross-platform Mobile",
+  "summary": "Ứng dụng phát nhạc mã nguồn mở dựa trên React Native, cung cấp trải nghiệm nghe nhạc tùy chỉnh, không quảng cáo và hỗ trợ plugin.",
+  "usecases": [
+    "Nghe nhạc với giao diện tùy chỉnh và các plugin mở rộng tính năng.",
+    "Sử dụng trên cả iOS và Android cùng một codebase duy nhất.",
+    "Tích hợp nguồn nhạc nội địa hoặc streaming cá nhân vào ứng dụng."
+  ],
+  "ideas": [
+    "Tích hợp AI tạo playlist tự động dựa trên cảm xúc hoặc thời tiết.",
+    "Phát triển phiên bản desktop dùng Electron để mở rộng alcance.",
+    "Thêm hỗ trợ podcast và audiobook với tốc độ điều chỉnh."
+  ],
+  "stars": 26723,
+  "starsToday": 49,
+  "language": "TypeScript",
+  "topics": [
+    "free",
+    "music-player",
+    "plugin",
+    "react",
+    "react-native",
+    "typescript",
+    "musicfree"
+  ],
+  "notePath": "notes/Cross-platform-Mobile.md",
+  "createdAt": "2026-09-09T02:32:47.004Z"
+}

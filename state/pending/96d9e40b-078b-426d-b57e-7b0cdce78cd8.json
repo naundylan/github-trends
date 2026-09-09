@@ -1,0 +1,34 @@
+{
+  "id": "96d9e40b-078b-426d-b57e-7b0cdce78cd8",
+  "repo": "shareAI-lab/learn-claude-code",
+  "url": "https://github.com/shareAI-lab/learn-claude-code",
+  "category": "AI Agent/Automation",
+  "summary": "Một framework agent nhẹ xây dựng từ đầu bằng Bash, dùng để giáo dục và thử nghiệm các khả năng của AI agent giống Claude Code.",
+  "usecases": [
+    "Học tập và giảng dạy cơ bản về phát triển AI agent và prompt engineering.",
+    "Nghiên cứu so sánh cách hoạt động của các framework agent hiện có.",
+    "Xây dựng prototyping nhanh cho các hệ thống tự động hóa dựa trên lệnh Bash."
+  ],
+  "ideas": [
+    "Mở rộng framework thành một IDE plugin cho phép viết code bằng lệnh tự nhiên.",
+    "Kết hợp với các mô hình LLM khác (như GPT-4) để so sánh hiệu suất và khả năng agent.",
+    "Xây dựng hệ thống tự học nơi agent có thể cải thiện chính mình dựa trên feedback."
+  ],
+  "stars": 76355,
+  "starsToday": 87,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "claude-code",
+    "teaching",
+    "agent-development",
+    "ai-agent",
+    "claude",
+    "educational",
+    "llm",
+    "python",
+    "tutorial"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-09T02:32:47.004Z"
+}

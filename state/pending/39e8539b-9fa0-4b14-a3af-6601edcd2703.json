@@ -1,0 +1,23 @@
+{
+  "id": "39e8539b-9fa0-4b14-a3af-6601edcd2703",
+  "repo": "openai/plugins",
+  "url": "https://github.com/openai/plugins",
+  "category": "AI/LLM",
+  "summary": "Kho lưu trữ chính thức cho OpenAI Plugins, cho phép mở rộng các mô hình LLM bằng các công cụ và API bên ngoài để tự động hóa tác vụ.",
+  "usecases": [
+    "Tự động hóa luồng làm việc bằng cách thêm các công cụ cụ thể cho ngành nghề vào các mô hình LLM.",
+    "Phát triển ứng dụng chatbot có thể tương tác với dịch vụ bên ngoài như đặt lịch hoặc truy vấn cơ sở dữ liệu.",
+    "Mở rộng khả năng reasoning của AI bằng cách truy cập dữ liệu thời gian thực hoặc APIs cá nhân."
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu vector để tạo hệ thống retrieval-augmented generation (RAG) plugin.",
+    "Tạo marketplace plugin cho phép người dùng share và monetize các công cụ LLM của họ.",
+    "Sử dụng plugins để tự động hóa quản lý hệ thống thông qua các lệnh terminal."
+  ],
+  "stars": 5827,
+  "starsToday": 105,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-09T02:32:47.004Z"
+}

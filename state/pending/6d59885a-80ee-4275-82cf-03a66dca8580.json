@@ -1,0 +1,23 @@
+{
+  "id": "6d59885a-80ee-4275-82cf-03a66dca8580",
+  "repo": "Gentleman-Programming/engram",
+  "url": "https://github.com/Gentleman-Programming/engram",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống bộ nhớ mãi mãi cho agent AI viết code, cung cấp binary Go không phụ thuộc agent với SQLite + FTS5, MCP server, API HTTP, CLI và TUI.",
+  "usecases": [
+    "Lưu trữ contexto và lịch sử phiên làm việc cho các assistant AI viết code",
+    "Cho phép agent tự lập kế hoạch và tiếp tục tác vụ qua nhiều phiên CI/CD",
+    "Tích hợp vào các bot tự động để duy trì trạng thái dự án dài hạn"
+  ],
+  "ideas": [
+    "Kết hợp với AutoGPT/Claude Code tạo agent có khả năng cải thiện codebase tự động qua nhiều iteration",
+    "Sử dụng làm layer cache phân tán cho LLM tại edge để giảm latency truy vấn lịch sử",
+    "Xây dựng dashboard TUI cho dev theo dõi và điều chỉnh memory state agent real-time"
+  ],
+  "stars": 6441,
+  "starsToday": 43,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-09T02:32:47.004Z"
+}

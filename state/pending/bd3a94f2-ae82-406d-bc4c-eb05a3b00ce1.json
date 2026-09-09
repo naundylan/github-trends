@@ -1,0 +1,34 @@
+{
+  "id": "bd3a94f2-ae82-406d-bc4c-eb05a3b00ce1",
+  "repo": "nowork-studio/notfair-plugin",
+  "url": "https://github.com/nowork-studio/notfair-plugin",
+  "category": "AI Agent/Automation",
+  "summary": "Kỹ năng mãi mở cho agent AI về SEO, GEO và tiếp thị, bao gồm tối ưu tìm kiếm, Google Ads, Meta Ads và tích hợp với Claude/Gemini.",
+  "usecases": [
+    "Agent AI tự động tối ưu nội dung website cho kết quả tìm kiếm Google",
+    "Tạo và quản lý chiến dịch quảng cáo Google Ads và Meta Ads tự động",
+    "GEO: Điều chỉnh cấu trúc nội dung để agent AI xuất hiện trong câu trả lời của LLM"
+  ],
+  "ideas": [
+    "Phát triển plugin kết hợp nghiên cứu từ khóa, tạo nội dung và lên kế hoạch marketing hàng tuần cho agent",
+    "Kết hợp với dữ liệu Search Console để agent AI điều chỉnh strategy dựa trên hiệu quả thực tế",
+    "Xây dựng AI Marketing Manager tự động hóa báo cáo ROI và tối ưu budget cho doanh nghiệp nhỏ"
+  ],
+  "stars": 3680,
+  "starsToday": 40,
+  "language": "TypeScript",
+  "topics": [
+    "claude-code-plugin",
+    "claude-skills",
+    "geo",
+    "googleads",
+    "mcp",
+    "metaads",
+    "seo",
+    "googleadsmcp",
+    "agents",
+    "gemini-cli-extension"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-09T02:32:47.004Z"
+}

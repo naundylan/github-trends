@@ -1,0 +1,34 @@
+{
+  "id": "60a86083-3a4d-4532-aa3c-7f039a44a21c",
+  "repo": "huggingface/funes",
+  "url": "https://github.com/huggingface/funes",
+  "category": "AI Agent/Automation",
+  "summary": "Cung cấp bộ nhớ bền vững và khả năng tìm kiếm cho các phiên làm việc của AI agent, lưu trữ lịch sử tương tác.",
+  "usecases": [
+    "Lưu trữ lịch sử phiên làm việc của agent để review và debug sau này.",
+    "Tìm kiếm và truy xuất các đoạn code hoặc quyết định từ các session trước.",
+    "Tích hợp với hệ thống AI agent để duy trì trạng thái liên tục across sessions."
+  ],
+  "ideas": [
+    "Sử dụng memory này để personalize các phản hồi tiếp theo của agent dựa trên lịch sử cá nhân.",
+    "Đồng bộ memory across nhiều thiết bị/environments cho cùng một agent.",
+    "Kết hợp với vector database (như Lance) để semantic search trên lịch sử agent."
+  ],
+  "stars": 325,
+  "starsToday": 67,
+  "language": "Rust",
+  "topics": [
+    "agent-memory",
+    "claude-code",
+    "codex",
+    "lance",
+    "llm-agents",
+    "mcp",
+    "rust",
+    "ai-agents",
+    "hermes",
+    "pi"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-09T02:32:47.004Z"
+}
