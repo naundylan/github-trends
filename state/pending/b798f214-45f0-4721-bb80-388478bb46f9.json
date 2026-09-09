@@ -1,0 +1,26 @@
+{
+  "id": "b798f214-45f0-4721-bb80-388478bb46f9",
+  "repo": "leookun/cursor-byok",
+  "url": "https://github.com/leookun/cursor-byok",
+  "category": "AI/LLM",
+  "summary": "cursor-byok là một triển khai backend cục bộ cho trình chỉnh sửa mã AI Cursor, cho phép chạy các chức năng của Cursor trên máy local mà không cần phụ thuộc vào dịch vụ đám mây.",
+  "usecases": [
+    "Chạy Cursor backend trên máy tính cá nhân để bảo mật dữ liệu và mã nguồn.",
+    "Tùy chỉnh và mở rộng các tính năng của Cursor theo ý muốn mà không cần kết nối internet.",
+    "Nghiên cứu và học tập về kiến trúc backend của các trình chỉnh sửa mã AI."
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM khác thay thế hoặc bổ trợ cho Claude/Cursor.",
+    "Phát triển giao diện web quản lý các phiên làm việc và lịch sử code.",
+    "Tạo ra một phiên bản lightweight của Cursor backend cho các thiết bị có tài nguyên hạn chế."
+  ],
+  "stars": 2853,
+  "starsToday": 49,
+  "language": "Rust",
+  "topics": [
+    "cursor",
+    "cursor-cli"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-09T18:32:03.658Z"
+}

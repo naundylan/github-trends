@@ -1,0 +1,40 @@
+{
+  "id": "ec80f6e9-77b9-4e6b-8d64-388104dbd2a6",
+  "repo": "anbeime/skill",
+  "url": "https://github.com/anbeime/skill",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Kho tài nguyên tập hợp và phân loại hàng nghìn AI Agent Skills theo lĩnh vực, thời gian cập nhật và mức độ phổ biến. Dự án cung cấp cả các gói kỹ năng được tuyển chọn, hỗ trợ cài đặt và sử dụng trực tiếp.",
+  "usecases": [
+    "Tìm nhanh skill phù hợp cho xử lý tài liệu, sáng tạo nội dung, lập trình hoặc tự động hóa tác vụ.",
+    "So sánh các dự án Skills theo số sao và thời gian cập nhật để lựa chọn giải pháp đáng tin cậy.",
+    "Xây dựng kho skill nội bộ cho nhóm phát triển AI Agent."
+  ],
+  "ideas": [
+    "Kết hợp trình quản lý skill với kiểm thử tự động để đánh giá độ an toàn và hiệu quả trước khi cài đặt.",
+    "Thêm bộ lọc theo mô hình AI, nền tảng chạy và mức độ tương thích thiết bị.",
+    "Tạo gợi ý chuỗi nhiều skill để tự động hóa toàn bộ quy trình làm việc phức tạp."
+  ],
+  "stars": 6452,
+  "starsToday": 54,
+  "language": "Python",
+  "topics": [
+    "claude-skills",
+    "gemini-skills",
+    "hermes-skill",
+    "office-skill",
+    "openclaw-skills",
+    "skill",
+    "skill-md",
+    "skills",
+    "finance-skill",
+    "agent-skills",
+    "codex",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh-plugin",
+    "opencode"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-09T18:32:03.658Z"
+}

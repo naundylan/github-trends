@@ -1,0 +1,23 @@
+{
+  "id": "7c3d7c1b-c5ae-46dd-89ca-2f5209f621ec",
+  "repo": "liquidslr/system-design-notes",
+  "url": "https://github.com/liquidslr/system-design-notes",
+  "category": "Documentation/Learning Resource",
+  "summary": "Những note tổng hợp kiến thức phỏng vấn thiết kế hệ thống, giúp developer nắm bắt các nguyên lý và mẫu câu trả lời cho System Design Interview.",
+  "usecases": [
+    "Chuẩn bị cho phỏng vấn System Design tại các công ty tech lớn",
+    "Tự học và tái kiến thức thiết kế hệ thống phân tán theo cấu trúc cuốn sách",
+    "Dùng làm tham khảo nhanh khi thiết kế架构 cho dự án thực tế"
+  ],
+  "ideas": [
+    "Tạo ứng dụng web interactive cho luyện tập System Design với phản hồi AI",
+    "Kết hợp với Notion API để đồng bộ notes và tạo flashcards tự động",
+    "Phát triển extension VS Code hiển thị diagram khi hover vào concept"
+  ],
+  "stars": 17827,
+  "starsToday": 910,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-09T18:32:03.658Z"
+}

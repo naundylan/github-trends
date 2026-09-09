@@ -1,0 +1,44 @@
+{
+  "id": "61187e0e-31c1-4f05-9fe4-7752eae78c80",
+  "repo": "ajeetdsouza/zoxide",
+  "url": "https://github.com/ajeetdsouza/zoxide",
+  "category": "CLI Tool",
+  "summary": "Một công cụ CLI thông minh thay thế lệnh cd, sử dụng frequency-based navigation để chuyển thư mục nhanh chóng trên mọi shell.",
+  "usecases": [
+    "Tăng tốc độ chuyển đổi thư mục trong terminal cho developers",
+    "Tích hợp với shell (zsh, bash, fish, powershell) để làm việc nhanh hơn mà không cần gõ đường dẫn đầy đủ",
+    "Sử dụng trong automation scripts để định vị thư mục dự án một cách động"
+  ],
+  "ideas": [
+    "Kết hợp với fuzzy finder (fzf) để hiện danh sách thư mục tương tác",
+    "Phát triển plugin cho IDE để nhảy đến thư mục dự án qua zoxide",
+    "Tạo dashboard thống kê thời gian/thuần tra thư mục được truy cập nhất"
+  ],
+  "stars": 39318,
+  "starsToday": 56,
+  "language": "Rust",
+  "topics": [
+    "z",
+    "command-line",
+    "rust",
+    "zsh",
+    "autojump",
+    "bash",
+    "powershell",
+    "shell",
+    "fish",
+    "xonsh",
+    "xontrib",
+    "fzf",
+    "fasd",
+    "jump",
+    "command-line-tool",
+    "cli",
+    "nushell",
+    "elvish",
+    "fish-shell",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-09T18:32:03.658Z"
+}

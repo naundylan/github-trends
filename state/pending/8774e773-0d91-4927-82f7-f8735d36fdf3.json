@@ -1,0 +1,28 @@
+{
+  "id": "8774e773-0d91-4927-82f7-f8735d36fdf3",
+  "repo": "open-gsd/gsd-core",
+  "url": "https://github.com/open-gsd/gsd-core",
+  "category": "AI/LLM",
+  "summary": "Core engine cho quy trình phát triển spec-driven, tích hợp context-engineering và hỗ trợ AI (claude-code) để tự động hóa ghi spec và phát triển code.",
+  "usecases": [
+    "Tự động tạo boilerplate code từ spec tài liệu",
+    "Hỗ trợ review code và đề xuất cải tiến dựa trên context dự án",
+    "Đồng bộ hóa giữa spec và code implementation trong team lớn"
+  ],
+  "ideas": [
+    "Kết hợp với Git hooks để tự động validate spec mỗi khi push code",
+    "Phát triển IDE extension nhận lệnh voice/typing chuyển đổi thành spec và code",
+    "Sử dụng cho microservices architecture để sinh ra các service template tuân theo spec đồng nhất"
+  ],
+  "stars": 9297,
+  "starsToday": 54,
+  "language": "JavaScript",
+  "topics": [
+    "claude-code",
+    "context-engineering",
+    "meta-prompting",
+    "spec-driven-development"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-09T18:32:03.658Z"
+}

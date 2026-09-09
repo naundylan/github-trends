@@ -1,0 +1,27 @@
+{
+  "id": "9b489c57-dcbb-49e9-8991-74a2bc36c9c2",
+  "repo": "waditu/czsc",
+  "url": "https://github.com/waditu/czsc",
+  "category": "Data Visualization",
+  "summary": "Bộ công cụ phân tích kỹ thuật và định lượng dựa trên lý thuyết Triền Luận cho chứng khoán, futures và dữ liệu giá theo thời gian. Dự án hỗ trợ nhận diện cấu trúc thị trường, tín hiệu giao dịch, backtest và trực quan hóa kết quả.",
+  "usecases": [
+    "Nhận diện phân đoạn, bút, đỉnh đáy và các điểm mua bán theo quy tắc Triền Luận.",
+    "Nghiên cứu và kiểm thử chiến lược giao dịch trên dữ liệu chứng khoán hoặc hợp đồng tương lai.",
+    "Theo dõi chỉ báo kỹ thuật và diễn biến cấu trúc giá qua biểu đồ phân tích."
+  ],
+  "ideas": [
+    "Kết hợp tín hiệu Triền Luận với mô hình machine learning để xếp hạng chất lượng điểm giao dịch.",
+    "Xây dựng hệ thống cảnh báo thời gian thực khi xuất hiện điểm mua, điểm bán hoặc phân kỳ.",
+    "Tạo dashboard so sánh chiến lược, mức rủi ro và hiệu suất theo từng loại tài sản."
+  ],
+  "stars": 6077,
+  "starsToday": 52,
+  "language": "Rust",
+  "topics": [
+    "tushare",
+    "czsc",
+    "quant"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-09-09T18:32:03.658Z"
+}
