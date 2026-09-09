@@ -1,0 +1,35 @@
+{
+  "id": "7f9119c0-19dc-42c2-a780-d121348dda66",
+  "repo": "stacklok/toolhive",
+  "url": "https://github.com/stacklok/toolhive",
+  "category": "AI/LLM",
+  "summary": "Nền tảng doanh nghiệp để chạy và quản lý các server Model Context Protocol (MCP) cho các ứng dụng AI.",
+  "usecases": [
+    "Quản lý và triển khai MCP servers cho các ứng dụng AI doanh nghiệp",
+    "Tích hợp MCP vào workflow development AI hiện có",
+    "Giám sát an ninh và hiệu suất các MCP server"
+  ],
+  "ideas": [
+    "Tạo UI dashboard trực quan cho việc theo dõi token usage của MCP",
+    "Kết hợp toolhive với các framework AI như LangChain để tự động hóa",
+    "Phát triển module bảo mật tự động scan mã nguồn cho MCP servers"
+  ],
+  "stars": 2146,
+  "starsToday": 36,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "aicodeassistant",
+    "mcp",
+    "ai-security",
+    "mcp-security",
+    "mcp-servers",
+    "mcp-tools",
+    "security",
+    "golang",
+    "kubernetes",
+    "model-context-protocol"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-09T07:58:17.280Z"
+}

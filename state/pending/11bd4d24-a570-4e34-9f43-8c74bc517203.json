@@ -1,0 +1,23 @@
+{
+  "id": "11bd4d24-a570-4e34-9f43-8c74bc517203",
+  "repo": "Zie619/n8n-workflows",
+  "url": "https://github.com/Zie619/n8n-workflows",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Kho lưu trữ tập hợp số lượng lớn workflow n8n được tìm thấy từ nhiều nguồn, phục vụ tra cứu và tái sử dụng mẫu tự động hóa. Điểm nổi bật là phạm vi bao quát rộng và cộng đồng quan tâm rất lớn.",
+  "usecases": [
+    "Tìm mẫu workflow để kết nối ứng dụng, API và dịch vụ mà không phải xây dựng từ đầu.",
+    "Học cách thiết kế automation n8n thông qua các ví dụ thực tế đa dạng.",
+    "Khảo sát giải pháp tự động hóa phù hợp cho marketing, vận hành, dữ liệu và hỗ trợ khách hàng."
+  ],
+  "ideas": [
+    "Xây dựng trang tra cứu có bộ lọc theo ứng dụng, ngành, độ khó và mức độ tin cậy của workflow.",
+    "Thêm kiểm tra tự động, metadata và phiên bản tương thích để người dùng đánh giá workflow trước khi nhập vào n8n.",
+    "Kết hợp kho mẫu với AI để biến mô tả nhu cầu thành workflow n8n được cá nhân hóa."
+  ],
+  "stars": 56564,
+  "starsToday": 38,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-09T07:58:17.280Z"
+}

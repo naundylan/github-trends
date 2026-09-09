@@ -1,0 +1,27 @@
+{
+  "id": "2a180f6e-5c4a-487a-9f76-fac8d21cc99f",
+  "repo": "neka-nat/freecad-mcp",
+  "url": "https://github.com/neka-nat/freecad-mcp",
+  "category": "AI Agent/Automation",
+  "summary": "Máy chủ MCP kết nối các mô hình AI với FreeCAD, cho phép điều khiển và tự động hóa thao tác thiết kế CAD bằng ngôn ngữ tự nhiên. Dự án nổi bật ở khả năng biến AI thành trợ lý tương tác trực tiếp với môi trường FreeCAD.",
+  "usecases": [
+    "Tạo hoặc chỉnh sửa mô hình CAD thông qua các yêu cầu bằng ngôn ngữ tự nhiên.",
+    "Tự động hóa các tác vụ thiết kế lặp lại và tạo biến thể chi tiết.",
+    "Hỗ trợ người dùng khám phá lệnh FreeCAD, kiểm tra mô hình và nhận hướng dẫn từng bước."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống kiểm tra kỹ thuật để AI phát hiện lỗi kích thước, va chạm hoặc ràng buộc trong mô hình.",
+    "Xây dựng quy trình chuyển yêu cầu khách hàng thành bản phác thảo CAD rồi xuất báo cáo thông số tự động.",
+    "Tích hợp kho linh kiện để trợ lý AI đề xuất, lắp ráp và tối ưu các thành phần tiêu chuẩn."
+  ],
+  "stars": 2124,
+  "starsToday": 38,
+  "language": "Python",
+  "topics": [
+    "mcp",
+    "claude",
+    "freecad"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-09T07:58:17.280Z"
+}

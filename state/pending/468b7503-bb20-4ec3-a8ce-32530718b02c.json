@@ -1,0 +1,31 @@
+{
+  "id": "468b7503-bb20-4ec3-a8ce-32530718b02c",
+  "repo": "mixelpixx/Konnect",
+  "url": "https://github.com/mixelpixx/Konnect",
+  "category": "AI/LLM",
+  "summary": "Plugin KiCAD dùng Rust để tích hợp AI, cung cấp 217 công cụ tự động hóa thiết kế mạch in, cho phép kiểm soát qua LLM như Claude.",
+  "usecases": [
+    "Tự động hóa việc bố cục và routing mạch in bằng lệnh ngôn ngữ tự nhiên",
+    "Giúp kiểm tra quy tắc thiết kế và tạo báo cáo sản xuất với sự trợ giúp AI",
+    "Tích hợp vào quy trình CI/CD để test tự động các thay đổi layout"
+  ],
+  "ideas": [
+    "Tạo agent AI tự hoàn thiện toàn bộ thiết kế mạch từ sơ đồ đến layout",
+    "Phát triển plugin tương tự cho các EDA khác như Eagle or Altium",
+    "Sử dụng AI để tối ưu hóa diện tích và tín hiệu tích cực trong thiết kế cao tần"
+  ],
+  "stars": 564,
+  "starsToday": 39,
+  "language": "Rust",
+  "topics": [
+    "claude",
+    "agent-skills",
+    "kicad-pcb",
+    "kicad-schematics",
+    "llm",
+    "mcp-server",
+    "mcp-tools"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-09T07:58:17.280Z"
+}

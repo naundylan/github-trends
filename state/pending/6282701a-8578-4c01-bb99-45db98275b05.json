@@ -1,0 +1,23 @@
+{
+  "id": "6282701a-8578-4c01-bb99-45db98275b05",
+  "repo": "gtsteffaniak/filebrowser",
+  "url": "https://github.com/gtsteffaniak/filebrowser",
+  "category": "Web Frontend",
+  "summary": "Một trình duyệt file web mã nguồn mở cho phép quản lý và truy cập tập tin qua giao diện web.",
+  "usecases": [
+    "Quản lý tập tin qua web cho teams",
+    "Cung cấp giao diện web cho file storage cá nhân",
+    "Truy cập file từ xa trên server"
+  ],
+  "ideas": [
+    "Tích hợp xác thực hai yếu tố (2FA) vào filebrowser",
+    "Phát triển plugin cho phép kết nối với nhiều cloud storage khác nhau",
+    "Thêm tính năng xem/nhạc ảnh/video trực tiếp trong browser"
+  ],
+  "stars": 8201,
+  "starsToday": 36,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-09T07:58:17.280Z"
+}

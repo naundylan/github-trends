@@ -1,0 +1,41 @@
+{
+  "id": "7cdda4c9-287e-47fb-a67c-d6510cb5cf12",
+  "repo": "FB208/OpenBidKit_Yibiao",
+  "url": "https://github.com/FB208/OpenBidKit_Yibiao",
+  "category": "AI/LLM",
+  "summary": "Ứng dụng desktop AI giúp tự động tạo, kiểm tra và quản lý các tài liệu thầu/bài viết proposal bằng Large Language Model, tích hợp RAG và xử lý văn bản.",
+  "usecases": [
+    "Tự động tạo bản proposal/thầu từ các template và dữ liệu đầu vào.",
+    "Kiểm tra tính nhất quán và phát hiện nội dung trùng lặp cho tài liệu thầu.",
+    "Xử lý và truy xuất thông tin từ kiến thức nội bộ (knowledge base) để hỗ trợ viết bài có context chính xác."
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng quản lý thầu điện tử để tự động điền thông tin vào forms.",
+    "Phát triển module đa ngôn ngữ cho việc xuất khẩu proposal sang nhiều ngôn ngữ.",
+    "Sử dụng agent AI để tự động thu thập dữ liệu từ các dự án cũ và đề xuất giải pháp cho thầu mới."
+  ],
+  "stars": 2864,
+  "starsToday": 23,
+  "language": "JavaScript",
+  "topics": [
+    "services",
+    "ai",
+    "document-ai",
+    "electron",
+    "llm",
+    "office-automation",
+    "proposal-generator",
+    "react",
+    "tender",
+    "typescript",
+    "ai-writing",
+    "bid",
+    "bidding",
+    "proposal-writing",
+    "rag",
+    "tender-document",
+    "service"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-09T07:58:17.280Z"
+}

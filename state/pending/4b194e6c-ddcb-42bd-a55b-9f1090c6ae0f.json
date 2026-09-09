@@ -1,0 +1,28 @@
+{
+  "id": "4b194e6c-ddcb-42bd-a55b-9f1090c6ae0f",
+  "repo": "rust-lang/rustlings",
+  "url": "https://github.com/rust-lang/rustlings",
+  "category": "Developer Tool",
+  "summary": "Rustlings là tập hợp bài tập nhỏ giúp người mới bắt đầu làm quen với việc đọc và viết mã Rust thông qua thực hành.",
+  "usecases": [
+    "Học sinh mới bắt đầu Rust để thực hành syntax và idioms cơ bản.",
+    "Trình tự đào tạo (onboarding) cho team mới chuyển sang Rust.",
+    "Tự động hóa việc review code Rust thông qua các exercise có thể chạy trên CI."
+  ],
+  "ideas": [
+    "Phát triển extension cho VS Code dùng Rustlings làm interactive tutor cho ngôn ngữ mới.",
+    "Tạo gamified learning path kết hợp Rustlings với các challenge lập trình khác.",
+    "Sử dụng Rustlings làm bài test đánh giá kỹ năng Rust cho recruiter trong quá trình phỏng vấn."
+  ],
+  "stars": 64111,
+  "starsToday": 29,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "rustlings",
+    "beginner-friendly",
+    "exercises"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-09T07:58:17.280Z"
+}

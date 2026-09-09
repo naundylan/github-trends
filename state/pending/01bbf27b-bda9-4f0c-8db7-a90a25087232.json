@@ -1,0 +1,23 @@
+{
+  "id": "01bbf27b-bda9-4f0c-8db7-a90a25087232",
+  "repo": "liquidslr/system-design-notes",
+  "url": "https://github.com/liquidslr/system-design-notes",
+  "category": "Documentation/Learning Resource",
+  "summary": "Hồ sơ và tổng hợp các kiến thức hệ thống thiết kế cho phỏng vấn, giúp developer chuẩn bị cho các câu hỏi về quy mô, khả năng mở rộng và kiến trúc phần mềm.",
+  "usecases": [
+    "Chuẩn bị phỏng vấn hệ thống thiết kế",
+    "Review và học tập các mẫu kiến trúc hệ thống",
+    "Tạo tham khảo nhanh cho các dự án cần cân nhắc quy mô"
+  ],
+  "ideas": [
+    "Bộ sưu tập notes chuyển thành video giải thích ngắn",
+    "Tích hợp với chatbot AI để trả lời câu hỏi hệ thống",
+    "Phát triển extension định kỳ cập nhật kiến thức mới"
+  ],
+  "stars": 17188,
+  "starsToday": 910,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-09T07:58:17.280Z"
+}
