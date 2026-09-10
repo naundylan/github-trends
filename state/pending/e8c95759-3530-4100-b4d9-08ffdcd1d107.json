@@ -1,0 +1,23 @@
+{
+  "id": "e8c95759-3530-4100-b4d9-08ffdcd1d107",
+  "repo": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "category": "AI/LLM",
+  "summary": "Colibri la dong co C nhan le, khong phu thuoc, cho phep chay mo hieu MoE frontier tren phan cang ban duoc, engine nho nhung mo hieu immense va tai chuyen gia tu dia.",
+  "usecases": [
+    "Chay mo hieu nguon ngu to tren may tinh ca nhan khong can GPU dai tien",
+    "Tri khai AI tren cac thiet bi nhung hoac server tai nguyen han che",
+    "Nghien cuu va phat trien MoE voi chi phi ha tinh thap"
+  ],
+  "ideas": [
+    "Ket hop voi he thong luu tru phan tan de chay mo hieu quy mo trillion parameter tren nhieu PC",
+    "Tao AI local server nhan duoc chay tren Raspberry Pi hoac may cu",
+    "Su dung lam engine cho ung dung offline can AI nhung khong co ket noi internet"
+  ],
+  "stars": 27408,
+  "starsToday": 130,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-10T20:41:33.631Z"
+}

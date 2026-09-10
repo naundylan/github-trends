@@ -1,0 +1,23 @@
+{
+  "id": "fb12c03e-96bb-44a9-85f1-f7708cd41e98",
+  "repo": "liquidslr/system-design-notes",
+  "url": "https://github.com/liquidslr/system-design-notes",
+  "category": "Documentation/Learning Resource",
+  "summary": "Hệ thống ghi chép và tổng hợp kiến thức về thiết kế hệ thống theo hướng dẫn phỏng vấn System Design Interview - An Insider's Guide, hữu ích cho việc chuẩn bị và review các nguyên lý xây dựng hệ thống scalable.",
+  "usecases": [
+    "Nghiên cứu và review các mẫu thiết kế hệ thống scalable trước phỏng vấn.",
+    "Tài liệu tham khảo cho kỹ sư phần mềm muốn hiểu sâu về architecture patterns trong system design.",
+    "Dùng làm bộ test kiến thức cho các cuộc thi hoặc hackathon về architecture."
+  ],
+  "ideas": [
+    "Tạo web app interactive để practice system design questions với feedback tự động.",
+    "Kết hợp với AI để tự động tạo diagram architecture từ notes.",
+    "Xây dựng platform chia sẻ và ranking các hệ design notes từ community."
+  ],
+  "stars": 18678,
+  "starsToday": 891,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-10T20:41:33.631Z"
+}

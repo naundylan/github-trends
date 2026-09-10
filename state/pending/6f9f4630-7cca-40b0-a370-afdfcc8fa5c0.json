@@ -1,0 +1,39 @@
+{
+  "id": "6f9f4630-7cca-40b0-a370-afdfcc8fa5c0",
+  "repo": "Asabeneh/30-Days-Of-Python",
+  "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+  "category": "Documentation/Learning Resource",
+  "summary": "Challenges 30 ngay hoc Python la huong dan buoc buoc de hoc ngoai ngu Python trong 30 ngay, chua cac chu de tu co ban den fullstack va data science de thich nghi.",
+  "usecases": [
+    "Hoc tap tu hoc Python tu co ban den cao theo cau truc ro rong",
+    "Day hoc lap trinh trong kho hoc hoac training noi bo cong ty",
+    "Tao portfolio du an hoc tap va cham dinh ky nang cho nha tuyen dung"
+  ],
+  "ideas": [
+    "Chuyen thanh ung dung web tuong tac voi dashboard theo tien do hoc tap",
+    "Tich hop voi AI de tao cau hoi tu dong va theo doi diem manh kha cua hoc vien",
+    "Phat triển ung dung mobile cross-platform de hoc Python tren dien thoai"
+  ],
+  "stars": 73392,
+  "starsToday": 127,
+  "language": "Python",
+  "topics": [
+    "30-days-of-python",
+    "python",
+    "flask",
+    "github",
+    "heroku",
+    "matplotlib",
+    "mongodb",
+    "numpy",
+    "pandas",
+    "python3",
+    "data",
+    "data-science",
+    "database",
+    "fullstack",
+    "ml"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-10T20:41:33.631Z"
+}

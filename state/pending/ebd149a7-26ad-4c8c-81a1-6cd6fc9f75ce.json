@@ -1,0 +1,30 @@
+{
+  "id": "ebd149a7-26ad-4c8c-81a1-6cd6fc9f75ce",
+  "repo": "AlexsJones/llmfit",
+  "url": "https://github.com/AlexsJones/llmfit",
+  "category": "AI/LLM",
+  "summary": "Công cụ command-line giúp tìm và xác định các mô hình LLM phù hợp với cấu hình phần cứng, hỗ trợ hàng trăm provider và định dạng GGUF, MLX, Unsloth.",
+  "usecases": [
+    "Tìm model LLM tối ưu cho hardware trước khi triển khai",
+    "Quản lý tương thích các định dạng model khác nhau trong một lệnh",
+    "Tích hợp với local AI servers để tự động chọn model phù hợp"
+  ],
+  "ideas": [
+    "Tự động cập nhật model dựa trên hiệu suất hardware thay đổi",
+    "Tạo dashboard trực quan cho khả năng chạy model trên các thiết bị khác nhau",
+    "Kết hợp với framework LLM để điều chỉnh prompt tự động dựa trên khả năng model"
+  ],
+  "stars": 35673,
+  "starsToday": 247,
+  "language": "Rust",
+  "topics": [
+    "llm",
+    "skill",
+    "localai",
+    "gguf",
+    "mlx",
+    "unsloth"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-10T20:41:33.631Z"
+}

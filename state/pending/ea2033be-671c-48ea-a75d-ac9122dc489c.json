@@ -1,0 +1,23 @@
+{
+  "id": "ea2033be-671c-48ea-a75d-ac9122dc489c",
+  "repo": "akitaonrails/ai-usagebar",
+  "url": "https://github.com/akitaonrails/ai-usagebar",
+  "category": "Developer Tool",
+  "summary": "Widget Waybar viết bằng Rust để theo dõi trạng thái và số dư tài khoản của các dịch vụ AI như Claude, GPT, GLM, OpenRouter, hiển thị trong thanh trạng bar hệ điều hành.",
+  "usecases": [
+    "Real-time AI credit usage monitoring while working on Linux desktop.",
+    "Reminder notifications when approaching or reaching specified usage thresholds for AI APIs.",
+    "Display of connection status and response latency for various LLM models in the status bar."
+  ],
+  "ideas": [
+    "Integrate with push notification systems to alert when credits are nearly exhausted.",
+    "Develop versions for other window managers like Polybar or i3bar.",
+    "Add visual charting of API AI cost trends over time."
+  ],
+  "stars": 462,
+  "starsToday": 30,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-10T20:41:33.631Z"
+}

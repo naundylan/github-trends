@@ -1,0 +1,23 @@
+{
+  "id": "78130a9d-f6a5-4a2d-a535-c0960d6a407b",
+  "repo": "alphaXiv/OpenResearch",
+  "url": "https://github.com/alphaXiv/OpenResearch",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng cho phép chạy đồng thời nhiều nghiên cứu viên AI agent với cùng một model, tự động hóa quy trình nghiên cứu.",
+  "usecases": [
+    "Chạy nhiều experiment song song với các model khác nhau để so sánh kết quả",
+    "Tự động hóa quy trình nghiên cứu khoa học hoặc phát triển code bằng AI agents",
+    "Tối ưu hóa tài nguyên compute bằng phân bổ tác vụ cho agent phù hợp"
+  ],
+  "ideas": [
+    "Thêm khả năng cộng tác giữa các agent trên các project lớn",
+    "Tích hợp cơ sở dữ liệu kiến thức để agent truy cập tài liệu trong lúc nghiên cứu",
+    "Tạo giao diện theo dõi tiến độ research real-time"
+  ],
+  "stars": 971,
+  "starsToday": 185,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-10T20:41:33.631Z"
+}

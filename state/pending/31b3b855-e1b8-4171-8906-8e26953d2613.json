@@ -1,0 +1,23 @@
+{
+  "id": "31b3b855-e1b8-4171-8906-8e26953d2613",
+  "repo": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Plugin specification và bộ plugin chính thức cho trình chỉnh sửa mã Cursor, cho phép mở rộng chức năng thông qua các extension được viết bằng TypeScript.",
+  "usecases": [
+    "Automatic code completion and snippet insertion for programming languages via Cursor plugin.",
+    "Integration of AI services like Claude and GPT directly into the development workflow.",
+    "Management and automation of repetitive tasks within the coding environment."
+  ],
+  "ideas": [
+    "Develop plugin connecting to local LLM for automatic code explanation and review.",
+    "Create plugin synchronizing settings across multiple developer devices.",
+    "Add built-in code quality analysis and improvement suggestions inside the editor."
+  ],
+  "stars": 7363,
+  "starsToday": 125,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-09-10T20:41:33.631Z"
+}
