@@ -1,0 +1,42 @@
+{
+  "id": "d76945bf-88c9-4d7b-bbc5-865af6a10f83",
+  "repo": "chaitin/SafeLine",
+  "url": "https://github.com/chaitin/SafeLine",
+  "category": "Other",
+  "summary": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+  "usecases": [
+    "Khám phá và đánh giá chaitin/SafeLine cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 22551,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "firewall",
+    "http-flood",
+    "security",
+    "sql-injection",
+    "waf",
+    "web-application-firewall",
+    "web-security",
+    "xss",
+    "captcha",
+    "api-gateway",
+    "appsec",
+    "cve",
+    "cybersecurity",
+    "hackers",
+    "vulnerability",
+    "websecurity",
+    "application-security",
+    "bruteforce",
+    "blueteam",
+    "self-hosted"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-10T07:55:54.078Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "794441d6-0345-4131-8ddc-8a1bdf965e12",
+  "repo": "chenhg5/cc-connect",
+  "url": "https://github.com/chenhg5/cc-connect",
+  "category": "AI Agent/Automation",
+  "summary": "Kết nối các AI coding agent cục bộ (Claude Code, Cursor, Gemini CLI, Codex) với các nền tảng nhắn tin, cho phép tương tác với AI dev assistant từ bất kỳ đâu mà không cần IP công khai cho hầu hết các nền tảng.",
+  "usecases": [
+    "Dev team nhận được gợi ý code và báo cáo lỗi qua Slack/DingTalk từ AI coding agent.",
+    "AI agent báo cáo tiến độ build/test qua Telegram/WeChat Work mà không cần cấu hình mạng phức tạp.",
+    "Tương tác với AI assistant trong môi trường làm việc nhắn tin đã có mà không cần cài thêm phần mềm hoặc mở port."
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống ticket management để AI tự động cập nhật trạng thái dự án qua channel nhắn tin.",
+    "Tạo bot AI personal dev assistant có thể deploy trên Feishu/Lark cho toàn công ty và nhận lệnh qua chat.",
+    "Tự động hóa quy trình review code: AI phân tích code, gửi báo cáo qua Discord cho team review."
+  ],
+  "stars": 15440,
+  "starsToday": 26,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-10T07:55:54.078Z"
+}

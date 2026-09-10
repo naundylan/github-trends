@@ -1,0 +1,34 @@
+{
+  "id": "9e24f33f-22a9-4d08-9280-17570f4bf8b0",
+  "repo": "huggingface/funes",
+  "url": "https://github.com/huggingface/funes",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án cung cấp bộ nhớ bền vững và có thể truy vấn cho các phiên làm việc của agent AI. Điểm nổi bật là tích hợp với các công cụ như Claude Code và Codex, hỗ trợ phát triển agent thông minh.",
+  "usecases": [
+    "Lưu trữ và truy xuất lịch sử tương tác của agent AI để phân tích hành vi.",
+    "Tích hợp vào hệ thống agent để cung cấp ngữ cảnh dài hạn trong các cuộc hội thoại.",
+    "Hỗ trợ debug và tối ưu hóa hiệu suất agent bằng cách ghi lại các phiên làm việc."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ ghi chú để tạo hệ thống kiến thức cá nhân tự động.",
+    "Sử dụng làm nền tảng cho agent đa agent, chia sẻ bộ nhớ giữa các agent.",
+    "Tích hợp với các nền tảng như Hermes để mở rộng khả năng."
+  ],
+  "stars": 353,
+  "starsToday": 28,
+  "language": "Rust",
+  "topics": [
+    "agent-memory",
+    "claude-code",
+    "codex",
+    "lance",
+    "llm-agents",
+    "mcp",
+    "rust",
+    "ai-agents",
+    "hermes",
+    "pi"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-10T07:55:54.078Z"
+}

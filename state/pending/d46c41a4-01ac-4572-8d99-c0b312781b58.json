@@ -1,0 +1,39 @@
+{
+  "id": "d46c41a4-01ac-4572-8d99-c0b312781b58",
+  "repo": "Project-HAMi/HAMi",
+  "url": "https://github.com/Project-HAMi/HAMi",
+  "category": "Other",
+  "summary": "Heterogeneous GPU Sharing on Kubernetes",
+  "usecases": [
+    "Khám phá và đánh giá Project-HAMi/HAMi cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 4568,
+  "starsToday": 23,
+  "language": "Go",
+  "topics": [
+    "vgpu",
+    "gpu-virtualization",
+    "device-plugin",
+    "gpu-management",
+    "kubernetes-gpu-cluster",
+    "ascend",
+    "cambricon",
+    "gpu-shareable",
+    "kubernetes",
+    "metax",
+    "nvidia",
+    "hygon",
+    "iluvatar",
+    "mthreads",
+    "cncf",
+    "gpu-acceleration",
+    "vgpu-hypervisor"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-10T07:55:54.078Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "e9ebac63-770d-42a9-bf87-857167fb48dc",
+  "repo": "larksuite/cli",
+  "url": "https://github.com/larksuite/cli",
+  "category": "CLI Tool",
+  "summary": "CLI chính thức cho Lark/Feishu, cho phép quản lý và tương tác với các domain kinh doanh cốt lõi (Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings...) thông qua 200+ lệnh và 20+ kỹ năng AI Agent.",
+  "usecases": [
+    "Tự động tạo và quản lý các tài liệu Docs, Sheets thông qua script CLI thay vì giao diện web.",
+    "AI Agent sử dụng các lệnh Lark CLI để lập lịch meeting, gửi email, quản lý tasks hàng loạt.",
+    "Phát triển bot nội bộ công ty để kiểm soát các dịch vụ Lark (calendar, mail) thông qua dòng lệnh."
+  ],
+  "ideas": [
+    "Kết hợp với LangChain/LlamaIndex để tạo AI Agent có thể thực thi các tác vụ quản lý doanh nghiệp trên Lark thông qua CLI.",
+    "Tạo wrapper script tự động hóa routine tasks (như backup database, tạo calendar event) và chạy định kỳ qua cron.",
+    "Tích hợp với hệ thống CI/CD để deploy và cấu hình tài Lark tự động khi push code."
+  ],
+  "stars": 17112,
+  "starsToday": 23,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-10T07:55:54.078Z"
+}

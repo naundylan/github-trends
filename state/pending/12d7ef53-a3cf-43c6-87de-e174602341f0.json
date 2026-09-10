@@ -1,0 +1,23 @@
+{
+  "id": "12d7ef53-a3cf-43c6-87de-e174602341f0",
+  "repo": "polarsquad/krops",
+  "url": "https://github.com/polarsquad/krops",
+  "category": "DevOps/CI-CD",
+  "summary": "Krops là công cụ operations native cho Kubernetes, tự động hóa quản lý tài nguyên cluster và quy trình vận hành cơ sở hạ tầng.",
+  "usecases": [
+    "Tự động hóa việc cấp phát và quản lý tài nguyên Kubernetes cho các ứng dụng đa môi trường phát triển/thử nghiệm.",
+    "Tích hợp vào pipeline CI/CD để giám sát và điều chỉnh cấu hình cluster dựa trên mã nguồn.",
+    "Hỗ trợ đội DevOps thực hiện resource operations và quyết định scaling dựa trên dữ liệu thực tế."
+  ],
+  "ideas": [
+    "Kết hợp Krops với Terraform/Pulumi để tạo workflow 'GitOps + K8s Operations' hoàn toàn tự động.",
+    "Sử dụng Krops làm nền tảng cho platform AIOps quản lý tài nguyên cluster dựa trên dự báo tải.",
+    "Phát triển dashboard real-time quản lý multi-cluster mà không cần sử dụng kubectl commands."
+  ],
+  "stars": 141,
+  "starsToday": 28,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-09-10T07:55:54.078Z"
+}

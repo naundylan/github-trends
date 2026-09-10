@@ -1,0 +1,44 @@
+{
+  "id": "488e60a3-a383-497e-aaf3-1ac8cf41bbd6",
+  "repo": "XTLS/Xray-core",
+  "url": "https://github.com/XTLS/Xray-core",
+  "category": "Networking",
+  "summary": "Xray là một nền tảng mở cho các sử dụng đa dạng, chuyên về tunneling và anticensorship. Là lõi của v2ray, hỗ trợ nhiều giao thức như VLESS, Trojan, và WireGuard.",
+  "usecases": [
+    "Tạo kết nối an toàn và bypass firewall cho người dùng.",
+    "Triển khai proxy cho các dịch vụ nội bộ.",
+    "Hỗ trợ phát triển mạng VPN cá nhân."
+  ],
+  "ideas": [
+    "Kết hợp với IoT để bảo mật thiết bị nhạy cảm.",
+    "Sử dụng trong hệ thống phân tán để tăng độ tin cậy kết nối.",
+    "Tích hợp với các công cụ monitor để phân tích lưu lượng mạng."
+  ],
+  "stars": 41497,
+  "starsToday": 26,
+  "language": "Go",
+  "topics": [
+    "xray",
+    "vless",
+    "tunnel",
+    "anticensorship",
+    "vmess",
+    "network",
+    "shadowsocks",
+    "trojan",
+    "proxy",
+    "xtls",
+    "socks5",
+    "reality",
+    "xudp",
+    "wireguard",
+    "dns",
+    "utls",
+    "vpn",
+    "tls",
+    "vision",
+    "xhttp"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-10T07:55:54.078Z"
+}
