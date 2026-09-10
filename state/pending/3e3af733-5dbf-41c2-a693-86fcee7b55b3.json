@@ -1,0 +1,29 @@
+{
+  "id": "3e3af733-5dbf-41c2-a693-86fcee7b55b3",
+  "repo": "armory3d/armorpaint",
+  "url": "https://github.com/armory3d/armorpaint",
+  "category": "Game Dev",
+  "summary": "Công cụ vẽ và tạo texture3D cho trò chơi và sản xuất tài sản3D, sử dụng C để xử lý hiệu quả.",
+  "usecases": [
+    "Vẽ và tạo texture cho mô hình3D trong phát triển trò chơi",
+    "Thiết kế material PBR cho trực quan hóa kiến trúc",
+    "Tích hợp với Blender để tạo tài sản3D thời thực"
+  ],
+  "ideas": [
+    "Phát triển trò chơi indie có texture thủ công độc đáo",
+    "Tạo material PBR cho quy trình trực quan hóa kiến trúc",
+    "Xây dựng quy trình editor tài liệu dựa trên node bên trong ứng dụng desktop"
+  ],
+  "stars": 4394,
+  "starsToday": 87,
+  "language": "C",
+  "topics": [
+    "3d",
+    "tool",
+    "texturing",
+    "painting",
+    "armorpaint"
+  ],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-09-10T22:59:09.503Z"
+}

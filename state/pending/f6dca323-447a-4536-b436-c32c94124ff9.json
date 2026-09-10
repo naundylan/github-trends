@@ -1,0 +1,43 @@
+{
+  "id": "f6dca323-447a-4536-b436-c32c94124ff9",
+  "repo": "feigeCode/navop",
+  "url": "https://github.com/feigeCode/navop",
+  "category": "Desktop App",
+  "summary": "Navop là một workspace native toàn diện cho quản lý cơ sở dữ liệu, SSH, SFTP, terminal, remote desktop, giám sát và AI, được xây dựng bằng Rust.",
+  "usecases": [
+    "Quản lý và kết nối nhiều cơ sở dữ liệu khác nhau (ClickHouse, MySQL, Oracle, Kingbase, Dameng, Gauss) trong một giao diện duy nhất",
+    "Tunnels SSH, forward ports và quản lý kết nối Serial/SFTP cho thiết bị và server từ xa",
+    "Giám sát hiệu suất hệ thống và tích hợp AI agents cho tự động hóa tác vụ cơ sở dữ liệu"
+  ],
+  "ideas": [
+    "Tích hợp so sánh và đồng bộ schema giữa các cơ sở dữ liệu trực tiếp từ workspace",
+    "Phát triển plugin cho VS Code để kết nối nhanh với các session Navop",
+    "Sử dụng AI agents để tự động hóa các tác vụ duy trì database (backup, optimization, query tuning) thông qua lệnh terminal"
+  ],
+  "stars": 1290,
+  "starsToday": 57,
+  "language": "Rust",
+  "topics": [
+    "ai-agents",
+    "clickhouse",
+    "dameng",
+    "duckdb",
+    "iotdb",
+    "kingbase",
+    "markdown",
+    "mermaid",
+    "mssql",
+    "mysql",
+    "notes",
+    "oracle",
+    "port-forwarding",
+    "serial",
+    "sftp",
+    "sqlite",
+    "ssh",
+    "terminal",
+    "openguass"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-10T22:59:09.503Z"
+}

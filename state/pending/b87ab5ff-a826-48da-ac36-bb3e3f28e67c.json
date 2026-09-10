@@ -1,0 +1,23 @@
+{
+  "id": "b87ab5ff-a826-48da-ac36-bb3e3f28e67c",
+  "repo": "nashsu/llm_wiki",
+  "url": "https://github.com/nashsu/llm_wiki",
+  "category": "Desktop App",
+  "summary": "Ứng dụngdesktopcross-platform sử dụngLLM将文档 tự động chuyển thành kiến thức có tổ chức và liên kết, hỗ trợ xây dựng wiki bền vững.",
+  "usecases": [
+    "Quản lý kiến thức cá nhân với liên kết tăng cường bởi LLM",
+    "Tìm kiếm và trả lời câu hỏi offline mà không cần API bên ngoài",
+    "Tạo wiki liên kết từ các file markdown hoặc văn bản cục bộ"
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM cục bộ để quản lý kiến thức bảo mật",
+    "Tính năng wiki cộng đồng nơi tài liệu của nhiều người hội tụ thành một đồ thị kiến thức",
+    "Thêm đầu vào giọng nói hoặc viết tay để ghi chú và tự động liên kết"
+  ],
+  "stars": 18060,
+  "starsToday": 94,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-10T22:59:09.503Z"
+}

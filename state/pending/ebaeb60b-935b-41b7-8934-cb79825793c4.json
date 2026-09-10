@@ -1,0 +1,44 @@
+{
+  "id": "ebaeb60b-935b-41b7-8934-cb79825793c4",
+  "repo": "authelia/authelia",
+  "url": "https://github.com/authelia/authelia",
+  "category": "Security/Pentest",
+  "summary": "Nền tảng Single Sign-On và Multi-Factor Authentication cho ứng dụng web, cung cấp quyền truy centralized với TOTP, LDAP, OIDC, OAuth2 và hỗ trợ WebAuthn, sẵn sàng cho mật mã sau đại số lượng tử.",
+  "usecases": [
+    "Quản lý truy cập đơn sign-on cho các doanh nghiệp sử dụng nhiều ứng dụng nội bộ và đám mây.",
+    "Xác thực hai yếu tố (2FA) với TOTP và push notifications cho tài khoản người dùng.",
+    "Tích hợp với LDAP/OIDC để đồng bộ danh sách người dùng và chính sách bảo mật."
+  ],
+  "ideas": [
+    "Kết hợp với các giải pháp biometric authentication như FaceID hoặc TouchID cho trải nghiệm mượt mà.",
+    "Triển khai các chính sách truy cập dựa trên role-based access control với bảo mật post-quantum.",
+    "Phát triển plugin cho các nền tảng CI/CD để tự động hóa việc cấp quyền và kiểm tra compliance."
+  ],
+  "stars": 28891,
+  "starsToday": 42,
+  "language": "Go",
+  "topics": [
+    "totp",
+    "ldap",
+    "sso-authentication",
+    "two-factor-authentication",
+    "docker",
+    "kubernetes",
+    "sso",
+    "multifactor",
+    "push-notifications",
+    "mfa",
+    "two-factor",
+    "authentication",
+    "security",
+    "golang",
+    "2fa",
+    "oauth2",
+    "openid-connect",
+    "webauthn",
+    "passkeys",
+    "pqc"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-10T22:59:09.503Z"
+}

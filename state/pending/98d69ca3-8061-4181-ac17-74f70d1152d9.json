@@ -1,0 +1,27 @@
+{
+  "id": "98d69ca3-8061-4181-ac17-74f70d1152d9",
+  "repo": "NVIDIA/Megatron-LM",
+  "url": "https://github.com/NVIDIA/Megatron-LM",
+  "category": "AI/LLM",
+  "summary": "Megatron-LM là thư viện mã nguồn mở cho phép huấn luyện các mô hình transformer quy mô lớn trên nhiều GPU, tối ưu hóa tốc độ và khả năng mở rộng cho các mô hình ngôn ngữ khổng lồ.",
+  "usecases": [
+    "Huấn luyện các mô hình ngôn ngữ lớn (như GPT, Llama) trên hạ tầng đa GPU.",
+    "Nghiên cứu và phát triển các kỹ thuật tối ưu hóa mô hình cho các doanh nghiệp AI.",
+    "Phát triển các mô hình tùy chỉnh với yêu cầu hiệu suất đặc biệt."
+  ],
+  "ideas": [
+    "Kết hợp với các framework quantization để triển khai mô hình trên thiết bị biên.",
+    "Phát triển pipeline training tự động cho các mô hình đa ngôn ngữ.",
+    "Sử dụng trong nghiên cứu khoa học về trí tuệ nhân tạo tổng quát (AGI)."
+  ],
+  "stars": 17843,
+  "starsToday": 32,
+  "language": "Python",
+  "topics": [
+    "large-language-models",
+    "model-para",
+    "transformers"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-10T22:59:09.503Z"
+}

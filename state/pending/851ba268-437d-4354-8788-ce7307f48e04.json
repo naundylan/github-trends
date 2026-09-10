@@ -1,0 +1,23 @@
+{
+  "id": "851ba268-437d-4354-8788-ce7307f48e04",
+  "repo": "jiji262/douyin-downloader",
+  "url": "https://github.com/jiji262/douyin-downloader",
+  "category": "CLI Tool",
+  "summary": "Douyin downloader là một công cụ dòng lệnh Python tải video, ảnh và nhạc từ Douyin với hỗ trợ batch, bỏ nước rút và deduplication SQLite.",
+  "usecases": [
+    "Tải xuống hàng loạt video, ảnh tập hợp (image sets) và nhạc từ profile Douyin một cách tự động",
+    "Lưu trữ và loại bỏ trùng lặp tệp tin bằng SQLite trong quá trình tải batch nhiều profile",
+    "Fall back sử dụng trình duyệt để tải các nội dung bị khóa hoặc không thể truy cập qua API trực tiếp"
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ tải video từ các nền tảng xã hội khác (Bilibili, Twitter, Instagram) cùng cơ chế bỏ nước rút",
+    "Tích hợp API để quản lý danh sách tải và thông báo trạng thái qua Telegram hoặc Email",
+    "Xây dựng giao diện đồ họa (GUI) dựa trên kết quả của CLI tool này cho người dùng không quen với dòng lệnh"
+  ],
+  "stars": 9906,
+  "starsToday": 53,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-10T22:59:09.503Z"
+}

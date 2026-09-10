@@ -1,0 +1,31 @@
+{
+  "id": "ff455a22-adee-4d92-a52f-de4a9b733d53",
+  "repo": "huggingface/speech-to-speech",
+  "url": "https://github.com/huggingface/speech-to-speech",
+  "category": "Other",
+  "summary": "Build voice agents with open-source models",
+  "usecases": [
+    "Khám phá và đánh giá huggingface/speech-to-speech cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 13147,
+  "starsToday": 26,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "assistant",
+    "language-model",
+    "machine-learning",
+    "python",
+    "speech",
+    "speech-synthesis",
+    "speech-to-text",
+    "speech-translation"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-10T22:59:09.503Z"
+}

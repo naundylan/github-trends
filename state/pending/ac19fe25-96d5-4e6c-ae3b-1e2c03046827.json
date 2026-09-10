@@ -1,0 +1,44 @@
+{
+  "id": "ac19fe25-96d5-4e6c-ae3b-1e2c03046827",
+  "repo": "ultralytics/ultralytics",
+  "url": "https://github.com/ultralytics/ultralytics",
+  "category": "Computer Vision",
+  "summary": "Thư viện YOLO cao hiệu suất cho phát hiện đối tượng, phân đoạn instance, phân loại ảnh, ước lượng tư thế và theo dõi, được sử dụng rộng rãi trong các ứng dụng thị giác máy tính.",
+  "usecases": [
+    "Phát hiện và theo dõi xe cộ trong video giám sát an ninh giao thông.",
+    "Phân đoạn đối tượng y tế từ ảnh chụp CT hoặc MRI để hỗ trợ chẩn đoán.",
+    "Theo dõi chuyển động và nhận dạng hành vi trong trò chơi hoặc ứng dụng trí tuệ nhân tạo."
+  ],
+  "ideas": [
+    "Kết hợp với drone để theo dõi và theo dõi động vật hoang dã trong tác bảo tồn môi trường.",
+    "Triển khai hệ thống cảnh báo xâm nhập dựa trên nhận dạng khuôn mặt và hành vi bất thường.",
+    "Áp dụng vào ứng dụng AR/Virtual Try-on cho thời trang và trang điểm trực tuyến."
+  ],
+  "stars": 61484,
+  "starsToday": 39,
+  "language": "Python",
+  "topics": [
+    "ultralytics",
+    "yolov8",
+    "yolo",
+    "deep-learning",
+    "image-classification",
+    "machine-learning",
+    "object-detection",
+    "pytorch",
+    "tracking",
+    "instance-segmentation",
+    "yolo-world",
+    "yolo11",
+    "computer-vision",
+    "python",
+    "pose-estimation",
+    "rotated-object-detection",
+    "segment-anything",
+    "yolo26",
+    "object-tracking",
+    "semantic-segmentation"
+  ],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-09-10T22:59:09.503Z"
+}

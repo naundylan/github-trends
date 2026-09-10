@@ -1,0 +1,21 @@
+{
+  "id": "24ddafc8-aa79-4582-883b-476432a525aa",
+  "repo": "microsoft/Ontology-Playground",
+  "url": "https://github.com/microsoft/Ontology-Playground",
+  "category": "Other",
+  "summary": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+  "usecases": [
+    "Khám phá và đánh giá microsoft/Ontology-Playground cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 2642,
+  "starsToday": 27,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-10T22:59:09.503Z"
+}
