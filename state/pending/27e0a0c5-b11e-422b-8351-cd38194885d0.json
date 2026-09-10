@@ -1,0 +1,44 @@
+{
+  "id": "27e0a0c5-b11e-422b-8351-cd38194885d0",
+  "repo": "HakanSeven12/OpenCADStudio",
+  "url": "https://github.com/HakanSeven12/OpenCADStudio",
+  "category": "Desktop App",
+  "summary": "A CAD application built with Rust that offers 2D/3D drawing capabilities with DWG/DXF support and GPU-accelerated rendering for professional engineering workflows.",
+  "usecases": [
+    "Technical 2D/3D drafting for engineering and architecture",
+    "Product design visualization and prototyping",
+    "Manufacturing documentation and blueprint creation"
+  ],
+  "ideas": [
+    "Integrating parametric modeling features for dynamic designs",
+    "Adding cloud-based collaboration for multi-user projects",
+    "Supporting real-time rendering with GPU acceleration for better performance"
+  ],
+  "stars": 1349,
+  "starsToday": 102,
+  "language": "Rust",
+  "topics": [
+    "cad",
+    "dwg",
+    "dxf",
+    "rust",
+    "dwg-compatible",
+    "dwg-editor",
+    "dwg-files",
+    "dwg-parser",
+    "dwg-reader",
+    "dwg-support",
+    "dwg-viewer",
+    "dxf-editor",
+    "dxf-files",
+    "dxf-parser",
+    "dxf-reader",
+    "dxf-viewer",
+    "dxf-writer",
+    "dxf-compatible",
+    "dxf-support",
+    "dwg-writer"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-10T02:43:59.715Z"
+}

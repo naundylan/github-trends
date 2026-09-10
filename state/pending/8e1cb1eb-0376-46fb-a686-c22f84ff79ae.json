@@ -1,0 +1,31 @@
+{
+  "id": "8e1cb1eb-0376-46fb-a686-c22f84ff79ae",
+  "repo": "mixelpixx/Konnect",
+  "url": "https://github.com/mixelpixx/Konnect",
+  "category": "AI/LLM",
+  "summary": "Konnect là plugin Rust cho KiCAD 10, cho phép AI (Claude) tự động thực hiện thiết kế PCB từ sơ đồ đến lưới, định vị, định hướng và kiểm tra thiết kế.",
+  "usecases": [
+    "Tự động tạo và chỉnh sửa sơ đồ PCB từ mô tả bằng ngôn ngữ tự nhiên",
+    "Tối ưu hoá vị trí và định hướng các thành phần để giảm thời gian thiết kế",
+    "Kiểm tra lỗi thiết kế và chuẩn bị file sản xuất manufacturing"
+  ],
+  "ideas": [
+    "Kết hợp Konnect với các LLM khác để hỗ trợ đa dạng ngôn ngữ",
+    "Sử dụng Konnect trong workflow CI/CD để tự động kiểm tra và tạo file Gerber",
+    "Tạo giao diện CLI để điều khiển Konnect qua các công cụ DevOps"
+  ],
+  "stars": 594,
+  "starsToday": 39,
+  "language": "Rust",
+  "topics": [
+    "claude",
+    "agent-skills",
+    "kicad-pcb",
+    "kicad-schematics",
+    "llm",
+    "mcp-server",
+    "mcp-tools"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-10T02:43:59.715Z"
+}

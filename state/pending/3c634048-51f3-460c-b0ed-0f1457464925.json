@@ -1,0 +1,23 @@
+{
+  "id": "3c634048-51f3-460c-b0ed-0f1457464925",
+  "repo": "liquidslr/system-design-notes",
+  "url": "https://github.com/liquidslr/system-design-notes",
+  "category": "Documentation/Learning Resource",
+  "summary": "Notes of the book System Design Interview - An Insider's Guide, providing comprehensive guidance for mastering system design interviews through detailed explanations and practical examples.",
+  "usecases": [
+    "Preparing for technical system design interviews",
+    "Understanding complex system architecture patterns",
+    "Practicing design questions and trade-offs"
+  ],
+  "ideas": [
+    "Creating interactive study materials and quizzes",
+    "Building a reference guide for common design scenarios",
+    "Developing a platform for sharing system design solutions"
+  ],
+  "stars": 18049,
+  "starsToday": 1397,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-10T02:43:59.715Z"
+}

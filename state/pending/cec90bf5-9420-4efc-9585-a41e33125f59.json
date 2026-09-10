@@ -1,0 +1,26 @@
+{
+  "id": "cec90bf5-9420-4efc-9585-a41e33125f59",
+  "repo": "leookun/cursor-byok",
+  "url": "https://github.com/leookun/cursor-byok",
+  "category": "Developer Tool",
+  "summary": "Một bản triển khai backend chạy cục bộ nhằm cung cấp chức năng tương tự Cursor mà không phụ thuộc vào dịch vụ đám mây của Cursor. Dự án phù hợp với nhu cầu tự chủ hóa công cụ lập trình và kiểm soát dữ liệu.",
+  "usecases": [
+    "Chạy các tính năng hỗ trợ lập trình của Cursor với backend tự host.",
+    "Bảo vệ dữ liệu mã nguồn và yêu cầu người dùng khỏi việc gửi đến dịch vụ bên ngoài.",
+    "Tùy chỉnh hoặc mở rộng các tính năng phía backend của Cursor."
+  ],
+  "ideas": [
+    "Kết hợp backend cục bộ với mô hình mã nguồn mở để tạo môi trường AI lập trình hoàn toàn ngoại tuyến.",
+    "Thêm cơ chế kiểm soát quyền riêng tư, cho phép người dùng chọn dữ liệu nào được gửi đến mô hình.",
+    "Tạo gateway tương thích Cursor để nhiều client khác có thể sử dụng cùng một backend."
+  ],
+  "stars": 2855,
+  "starsToday": 45,
+  "language": "Rust",
+  "topics": [
+    "cursor",
+    "cursor-cli"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-10T02:43:59.715Z"
+}

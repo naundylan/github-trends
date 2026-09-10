@@ -1,0 +1,31 @@
+{
+  "id": "e8c3f12e-8b0b-4dff-8e35-c5b4b3ece402",
+  "repo": "maotoumao/MusicFree",
+  "url": "https://github.com/maotoumao/MusicFree",
+  "category": "Cross-platform Mobile",
+  "summary": "Người dùng có thể mở rộng chức năng qua plugin, tùy chỉnh giao diện và nghe nhạc mà không quảng cáo, hỗ trợ nhiều nền tảng nhờ React Native.",
+  "usecases": [
+    "Nghe nhạc cá nhân trên điện thoại mà không quảng cáo",
+    "Tạo bản nhạc riêng với các plugin hỗ trợ lyrics, equalizer",
+    "Đồng bộ thư viện nhạc giữa thiết bị di động và máy tính qua plugin lưu trữ đám mây"
+  ],
+  "ideas": [
+    "Tích hợp với dịch vụ streaming miễn phí để phát nhạc trực tuyến",
+    "Phát triển plugin nhận dạng âm nhạc (Shazam-like) để tìm bài hát",
+    "Xây dựng chế độ offline với cache thông minh để giảm lưu trữ"
+  ],
+  "stars": 26753,
+  "starsToday": 37,
+  "language": "TypeScript",
+  "topics": [
+    "free",
+    "music-player",
+    "plugin",
+    "react",
+    "react-native",
+    "typescript",
+    "musicfree"
+  ],
+  "notePath": "notes/Cross-platform-Mobile.md",
+  "createdAt": "2026-09-10T02:43:59.715Z"
+}

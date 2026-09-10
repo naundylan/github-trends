@@ -1,0 +1,28 @@
+{
+  "id": "7ab7dffa-ac4c-49cc-b8a5-12f4e78a610a",
+  "repo": "syncthing/syncthing",
+  "url": "https://github.com/syncthing/syncthing",
+  "category": "Productivity/Personal Tool",
+  "summary": "Công cụ mã nguồn mở đồng bộ file liên tục giữa các thiết bị qua kết nối P2P, mã hoá end-to-end, không cần máy chủ trung tâm.",
+  "usecases": [
+    "Sao lưu tự động tài liệu quan trọng giữa laptop và máy để làm việc",
+    "Chia sẻ lớn file dự án giữa các thành viên team mà không qua dịch vụ bên thứ ba",
+    "Đồng bộ cấu hình và dữ liệu giữa máy chủ nhà và VPS để phục vụ phục hồi sau thảm họa"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống giám sát để cảnh báo khi file thay đổi bất thường",
+    "Tích hợp vào quy trình CI/CD để tự động triển khai artifact giữa môi trường dev và staging",
+    "Phát triển plugin quản lý phiên bản file để hỗ trợ rollback dễ dàng"
+  ],
+  "stars": 88438,
+  "starsToday": 32,
+  "language": "Go",
+  "topics": [
+    "synchronization",
+    "go",
+    "peer-to-peer",
+    "p2p"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-10T02:43:59.715Z"
+}

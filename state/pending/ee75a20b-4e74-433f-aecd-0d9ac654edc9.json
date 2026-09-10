@@ -1,0 +1,27 @@
+{
+  "id": "ee75a20b-4e74-433f-aecd-0d9ac654edc9",
+  "repo": "waditu/czsc",
+  "url": "https://github.com/waditu/czsc",
+  "category": "CLI Tool",
+  "summary": "CZSC là công cụ phân tích kỹ thuật và chiến lược giao dịch chứng khoán, futures dựa trên mô hình CZS, viết bằng Rust và tích hợp Tushare để lấy dữ liệu thị trường.",
+  "usecases": [
+    "Phân tích xu hướng giá cổ phiếu và futures",
+    "Thực hiện giao dịch tự động (quant) dựa trên chỉ báo CZSC",
+    "Kết hợp với nền tảng backtesting để so sánh chiến lược"
+  ],
+  "ideas": [
+    "Kết nối CZSC với bot Telegram để nhận thông báo giao dịch",
+    "Sử dụng CZSC trong Jupyter notebook cho phân tích dữ liệu",
+    "Tích hợp CZSC vào nền tảng backtesting để so sánh chiến lược"
+  ],
+  "stars": 6078,
+  "starsToday": 39,
+  "language": "Rust",
+  "topics": [
+    "tushare",
+    "czsc",
+    "quant"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-10T02:43:59.715Z"
+}

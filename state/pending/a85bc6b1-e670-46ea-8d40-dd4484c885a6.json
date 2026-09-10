@@ -1,0 +1,26 @@
+{
+  "id": "a85bc6b1-e670-46ea-8d40-dd4484c885a6",
+  "repo": "open-gsd/gsd-core",
+  "url": "https://github.com/open-gsd/gsd-core",
+  "category": "Developer Tool",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "..."
+  ],
+  "stars": 9305,
+  "starsToday": 60,
+  "language": "JavaScript",
+  "topics": [
+    "claude-code",
+    "context-engineering",
+    "meta-prompting",
+    "spec-driven-development"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-10T02:43:59.715Z"
+}

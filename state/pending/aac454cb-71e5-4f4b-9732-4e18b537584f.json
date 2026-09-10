@@ -1,0 +1,44 @@
+{
+  "id": "aac454cb-71e5-4f4b-9732-4e18b537584f",
+  "repo": "ajeetdsouza/zoxide",
+  "url": "https://github.com/ajeetdsouza/zoxide",
+  "category": "CLI Tool",
+  "summary": "Một lệnh cd thông minh hơn, ghi nhớ các thư mục thường truy cập để chuyển hướng nhanh. Hỗ trợ nhiều shell như Bash, Zsh, Fish, PowerShell và có khả năng tích hợp với fzf.",
+  "usecases": [
+    "Tăng tốc thao tác chuyển thư mục khi làm việc với dự án phần mềm.",
+    "Tự động ghi nhớ và gợi ý các thư mục thường dùng trong nhiều phiên shell.",
+    "Tích hợp tra cứu thư mục qua fzf để chuyển hướng bằng bàn phím."
+  ],
+  "ideas": [
+    "Thêm cơ chế học thích ứng theo ngữ cảnh, ngôn ngữ lập trình hoặc loại dự án.",
+    "Xây dựng tiện ích dòng lệnh phụ để hiển thị lịch sử thư mục theo dạng biểu đồ.",
+    "Đồng bộ lịch sử thư mục an toàn giữa nhiều thiết bị bằng mã hóa."
+  ],
+  "stars": 39327,
+  "starsToday": 57,
+  "language": "Rust",
+  "topics": [
+    "z",
+    "command-line",
+    "rust",
+    "zsh",
+    "autojump",
+    "bash",
+    "powershell",
+    "shell",
+    "fish",
+    "xonsh",
+    "xontrib",
+    "fzf",
+    "fasd",
+    "jump",
+    "command-line-tool",
+    "cli",
+    "nushell",
+    "elvish",
+    "fish-shell",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-10T02:43:59.715Z"
+}

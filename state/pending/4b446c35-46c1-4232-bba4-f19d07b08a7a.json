@@ -1,0 +1,38 @@
+{
+  "id": "4b446c35-46c1-4232-bba4-f19d07b08a7a",
+  "repo": "anbeime/skill",
+  "url": "https://github.com/anbeime/skill",
+  "category": "AI Agent/Automation",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "..."
+  ],
+  "stars": 6467,
+  "starsToday": 58,
+  "language": "Python",
+  "topics": [
+    "claude-skills",
+    "gemini-skills",
+    "hermes-skill",
+    "office-skill",
+    "openclaw-skills",
+    "skill",
+    "skill-md",
+    "skills",
+    "finance-skill",
+    "agent-skills",
+    "codex",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh-plugin",
+    "opencode"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-10T02:43:59.715Z"
+}
