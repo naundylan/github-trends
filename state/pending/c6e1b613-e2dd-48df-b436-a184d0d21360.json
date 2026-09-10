@@ -1,0 +1,27 @@
+{
+  "id": "c6e1b613-e2dd-48df-b436-a184d0d21360",
+  "repo": "NVIDIA/Megatron-LM",
+  "url": "https://github.com/NVIDIA/Megatron-LM",
+  "category": "AI/LLM",
+  "summary": "Thư viện phân tán cho huấn luyện mô hình transformer quy mô lớn, hỗ trợ training các mô hình ngôn ngữ tại quy mô khổng lồ.",
+  "usecases": [
+    "Huấn luyện các mô hình ngôn ngữ lớn (LLM) trên hạ infrastructure đa GPU/TPU",
+    "Triển khai các kỹ thuật phân tán như model parallelism và pipeline parallelism",
+    "Tối ưu hóa tốc độ training cho mô hình có tỷ số billion parameters"
+  ],
+  "ideas": [
+    "Kết hợp với các framework LLM hiện có để hỗ trợ fine-tuning trên thiết bị cá nhân",
+    "Phát triển giao diện trực quan để visualize quá trình training và model parallelism",
+    "Áp dụng vào các lĩnh vực chuyên ngành (y tế, pháp lý) cần tạo mô hình riêng"
+  ],
+  "stars": 17838,
+  "starsToday": 32,
+  "language": "Python",
+  "topics": [
+    "large-language-models",
+    "model-para",
+    "transformers"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-10T18:13:09.436Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dbcf0d0c-6a57-4f08-a810-f5f572e0de04",
+  "repo": "huggingface/speech-to-speech",
+  "url": "https://github.com/huggingface/speech-to-speech",
+  "category": "AI/LLM",
+  "summary": "Dự án xây dựng các công cụ tạo giọng nói bằng các mô hình mở, hỗ trợ xây dựng trợ lý giọng nói. Dự án bao gồm các mô hình ngôn ngữ lớn để chuyển đổi và tổng hợp âm thanh.",
+  "usecases": [
+    "Tạo trợ lý giọng nói cho ứng dụng giao tiếp",
+    "Chuyển đổi giọng nói sang văn bản và ngược lại",
+    "Phát triển hệ thống chatbot có khả năng phát âm"
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng AI để cải thiện chất lượng nhận diện giọng nói",
+    "Tạo các ứng dụng thông minh hỗ trợ ngôn ngữ cho người khuyết tật",
+    "Phát triển hệ sinh thái mô hình mở cho nghiên cứu ngôn ngữ tự nhiên"
+  ],
+  "stars": 13144,
+  "starsToday": 26,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "assistant",
+    "language-model",
+    "machine-learning",
+    "python",
+    "speech",
+    "speech-synthesis",
+    "speech-to-text",
+    "speech-translation"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-10T18:13:09.436Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1742133d-f2c3-45fb-8f32-93861b08c76c",
+  "repo": "traycerai/traycer",
+  "url": "https://github.com/traycerai/traycer",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng điều phối cho agentic coding, quản lý và điều phối luồng làm việc của AI agent trong phát triển phần mềm.",
+  "usecases": [
+    "Tích hợp AI agent vào quy trình code tự động để viết và review code",
+    "Quản lý nhiều AI agent cùng làm việc trên cùng một dự án",
+    "Tự động hóa các tác vụ phát triển phần mềm lặp lại thông qua agentic workflows"
+  ],
+  "ideas": [
+    "Tạo ra một coding assistant cá nhân có thể lập trình hoàn chỉnh dựa trên ý tưởng đơn giản",
+    "Kết hợp với CI/CD để tự động test và deploy code do agent tạo ra",
+    "Phát triển plugin cho IDE phổ biến để truy cập trực tiếp vào Traycer capabilities"
+  ],
+  "stars": 1452,
+  "starsToday": 30,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-10T18:13:09.436Z"
+}

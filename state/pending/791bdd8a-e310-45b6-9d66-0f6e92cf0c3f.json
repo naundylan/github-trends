@@ -1,0 +1,43 @@
+{
+  "id": "791bdd8a-e310-45b6-9d66-0f6e92cf0c3f",
+  "repo": "feigeCode/navop",
+  "url": "https://github.com/feigeCode/navop",
+  "category": "Desktop App",
+  "summary": "Một ứng dụng desktop toàn năng kết hợp quản lý cơ sở dữ liệu, SSH, SFTP, terminal, remote desktop và tính năng AI vào một giao diện duy nhất.",
+  "usecases": [
+    "Quản lý và truy cập cơ sở dữ liệu đa dạng (MySQL, PostgreSQL, ClickHouse, Oracle...) thông qua giao diện đồ họa.",
+    "Kết nối SSH/SFTP và remote desktop để quản lý server từ xa.",
+    "Tích hợp AI agents và hỗ trợ markdown/mermaid để ghi chú và trực quan hóa dữ liệu."
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng cloud để tự động hóa deployment thông qua AI agents.",
+    "Phát triển plugin hệ thống để mở rộng hỗ trợ cho các loại cơ sở dữ liệu mới.",
+    "Tạo tính năng đồng bộ ghi chú giữa terminal và workspace cho các dự án phát triển phần mềm."
+  ],
+  "stars": 1282,
+  "starsToday": 57,
+  "language": "Rust",
+  "topics": [
+    "ai-agents",
+    "clickhouse",
+    "dameng",
+    "duckdb",
+    "iotdb",
+    "kingbase",
+    "markdown",
+    "mermaid",
+    "mssql",
+    "mysql",
+    "notes",
+    "oracle",
+    "port-forwarding",
+    "serial",
+    "sftp",
+    "sqlite",
+    "ssh",
+    "terminal",
+    "openguass"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-10T18:13:09.436Z"
+}

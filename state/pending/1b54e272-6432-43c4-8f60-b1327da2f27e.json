@@ -1,0 +1,44 @@
+{
+  "id": "1b54e272-6432-43c4-8f60-b1327da2f27e",
+  "repo": "ultralytics/ultralytics",
+  "url": "https://github.com/ultralytics/ultralytics",
+  "category": "Computer Vision",
+  "summary": "Ultralytics cung cấp các mô hình YOLO cutting-edge (YOLOv8, YOLO11, YOLO26) cho các tác vụ thị giác máy tính như phát hiện đối tượng, phân đoạn thể hiện, theo dõi và estimation tư thế, được tối ưu hóa cho PyTorch và triển khai nhanh trên nhiều nền tảng.",
+  "usecases": [
+    "Phát hiện và theo dõi đối tượng trong video giám sát an ninh.",
+    "Phân đoạn thể hiện hàng hóa trong thị trường bán lẻ và đếm lượng.",
+    "Theo dõi chuyển động và pose estimation trong các ứng dụng thể thao hoặc robot."
+  ],
+  "ideas": [
+    "Kết hợp với drone để theo dõi và theo dõi tự động vật hoang dã hoặc mục tiêu di động.",
+    "Triển khai trên edge devices (Raspberry Pi, Jetson) cho nhận diện real-time tại nguồn.",
+    "Tái huấn luyện mô hình để phát hiện các loại bệnh trên cây trồng hoặc sản xuất nông nghiệp."
+  ],
+  "stars": 61480,
+  "starsToday": 39,
+  "language": "Python",
+  "topics": [
+    "ultralytics",
+    "yolov8",
+    "yolo",
+    "deep-learning",
+    "image-classification",
+    "machine-learning",
+    "object-detection",
+    "pytorch",
+    "tracking",
+    "instance-segmentation",
+    "yolo-world",
+    "yolo11",
+    "computer-vision",
+    "python",
+    "pose-estimation",
+    "rotated-object-detection",
+    "segment-anything",
+    "yolo26",
+    "object-tracking",
+    "semantic-segmentation"
+  ],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-09-10T18:13:09.436Z"
+}

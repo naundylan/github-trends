@@ -1,0 +1,23 @@
+{
+  "id": "762aa5b5-0cf8-4899-86bb-62d53070e61a",
+  "repo": "nashsu/llm_wiki",
+  "url": "https://github.com/nashsu/llm_wiki",
+  "category": "Desktop App",
+  "summary": "LLM Wiki là ứng dụngdesktopcross-platform将文档转换为有组织、相互链接的知识库，利用LLM持续增量构建个人wiki，替代传统RAG方式。",
+  "usecases": [
+    "Quản lý kiến thức cá nhân và nghiên cứu với tư liệu đa nguồn.",
+    "Tạo cơ sở dữ liệu nội bộ cho truy xuất hoặc fine-tuning cho dự án AI.",
+    "Đồng bộ kiến thức cho nhóm làm việc với các file tài liệu phân tán."
+  ],
+  "ideas": [
+    "Kết hợp voice input để tạo wiki bằng lời nói.",
+    "Xuất wiki ra markdown/HTML để publish blog cá nhân.",
+    "Sử dụng làm cơ sở cho AI agent reasoning trên tài liệu nội bộ."
+  ],
+  "stars": 17953,
+  "starsToday": 94,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-10T18:13:09.436Z"
+}

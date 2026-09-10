@@ -1,0 +1,29 @@
+{
+  "id": "4a6e8f0b-6aaa-4b89-a94e-23885b0bcfa9",
+  "repo": "armory3d/armorpaint",
+  "url": "https://github.com/armory3d/armorpaint",
+  "category": "Game Dev",
+  "summary": "Armorpaint là công cụ tạo đồ họa3D cho phép vẽ và tạo texture cho mô hình game, cung cấp pipeline paint chuyên nghiệp thay thế phần mềm thương mại truyền thống.",
+  "usecases": [
+    "Sản xuất texture cao-resolution cho nhân vật và môi trường trong game.",
+    "Tối ưu hóa quy trình paint và shading trong pipeline tạo game 3D.",
+    "Cho phép artists trực tiếp paint trên model import từ Blender/Godot."
+  ],
+  "ideas": [
+    "Tích hợp AI tự động generate texture từ text prompt.",
+    "Phát triển plugin cho Blender hoặc Unreal Engine.",
+    "Áp dụng trong AR/Virtual production để paint real-time trên vật thể thực tế."
+  ],
+  "stars": 4333,
+  "starsToday": 87,
+  "language": "C",
+  "topics": [
+    "3d",
+    "tool",
+    "texturing",
+    "painting",
+    "armorpaint"
+  ],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-09-10T18:13:09.436Z"
+}

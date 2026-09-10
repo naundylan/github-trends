@@ -1,0 +1,44 @@
+{
+  "id": "98f3ce9a-25e2-47b6-9377-d2dab6ab2560",
+  "repo": "authelia/authelia",
+  "url": "https://github.com/authelia/authelia",
+  "category": "Security/Pentest",
+  "summary": "Authelia là một giải pháp Single Sign-On (SSO) và đa yếu tố xác thực (MFA) mã nguồn mở, cho phép quản lý truy cập an toàn cho các ứng dụng web với tích hợp LDAP, OAuth2, OpenID Connect và hỗ trợ mật mã sau đại số lượng tử.",
+  "usecases": [
+    "Cung cấp trung tâm xác thực tập trung cho các doanh nghiệp sử dụng các ứng dụng nội bộ và đám mây.",
+    "Thêm lớp xác thực hai yếu tố (2FA) và xác thực mật khẩu một lần (OTP) cho các dịch vụ web.",
+    "Quản lý quyền truy nhập và chính sách bảo mật cho môi trường Kubernetes và Docker."
+  ],
+  "ideas": [
+    "Kết hợp với biometric authentication (WebAuthn/Passkeys) cho trải nghiệm người dùng mượt mà.",
+    "Triển khai làm gateway xác thực cho các microservices dựa trên Zero Trust.",
+    "Tích hợp báo cáo tuân thủ an ninh và cảnh báo real-time cho các đội DevOps."
+  ],
+  "stars": 28890,
+  "starsToday": 42,
+  "language": "Go",
+  "topics": [
+    "totp",
+    "ldap",
+    "sso-authentication",
+    "two-factor-authentication",
+    "docker",
+    "kubernetes",
+    "sso",
+    "multifactor",
+    "push-notifications",
+    "mfa",
+    "two-factor",
+    "authentication",
+    "security",
+    "golang",
+    "2fa",
+    "oauth2",
+    "openid-connect",
+    "webauthn",
+    "passkeys",
+    "pqc"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-10T18:13:09.436Z"
+}

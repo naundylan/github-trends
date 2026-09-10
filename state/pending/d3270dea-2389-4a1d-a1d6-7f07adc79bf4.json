@@ -1,0 +1,23 @@
+{
+  "id": "d3270dea-2389-4a1d-a1d6-7f07adc79bf4",
+  "repo": "jiji262/douyin-downloader",
+  "url": "https://github.com/jiji262/douyin-downloader",
+  "category": "CLI Tool",
+  "summary": "Một công cụ downloader Python để tải video, ảnh và nhạc từ Douyin với hỗ trợ batch, bỏ watermark và lưu deduplication bằng SQLite.",
+  "usecases": [
+    "Tải xuống hàng loạt video và ảnh từ profile Douyin để lưu local hoặc phân tích.",
+    "Tách nhạc (original sound) từ video Douyin cho mục đích sáng tạo nội dung.",
+    "Thu thập dữ liệu media từ Douyin với chống trùng lặp và khả năng fallback trình duyệt cho các link khó tải."
+  ],
+  "ideas": [
+    "Tích hợp API để tự động tải và phân loại nội dung theo hashtag hoặc chủ đề.",
+    "Phát triển giao diện web quản lý các tập tải đã lưu.",
+    "Tích hợp với các công cụ AI để tự động tạo caption hoặc tags cho các video đã tải."
+  ],
+  "stars": 9900,
+  "starsToday": 53,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-10T18:13:09.436Z"
+}

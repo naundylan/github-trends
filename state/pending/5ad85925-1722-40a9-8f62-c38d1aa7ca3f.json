@@ -1,0 +1,23 @@
+{
+  "id": "5ad85925-1722-40a9-8f62-c38d1aa7ca3f",
+  "repo": "microsoft/Ontology-Playground",
+  "url": "https://github.com/microsoft/Ontology-Playground",
+  "category": "Web Frontend",
+  "summary": "Một ứng dụng web miễn phí, mã nguồn mở để học về ontologies và Microsoft Fabric IQ. Dự án cung cấp thư mục các ontologies sẵn có, cho phép thiết kế trực quan và xuất dạng RDF/XML.",
+  "usecases": [
+    "Học về ontologies và kiến trúc dữ liệu",
+    "Thiết kế và chia sẻ sơ đồ tương tác từ các ontologies đã xây dựng",
+    "Tạo và quản lý các mô hình dữ liệu cá nhân"
+  ],
+  "ideas": [
+    "Tích hợp với Microsoft Fabric để phân tích dữ liệu",
+    "Xây dựng công cụ đào tạo tự động cho người mới bắt đầu",
+    "Cung cấp API để tích hợp vào các ứng dụng khác"
+  ],
+  "stars": 2642,
+  "starsToday": 27,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-10T18:13:09.436Z"
+}
