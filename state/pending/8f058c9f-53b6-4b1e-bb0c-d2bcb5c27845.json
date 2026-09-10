@@ -1,0 +1,30 @@
+{
+  "id": "8f058c9f-53b6-4b1e-bb0c-d2bcb5c27845",
+  "repo": "AlexsJones/llmfit",
+  "url": "https://github.com/AlexsJones/llmfit",
+  "category": "AI/LLM",
+  "summary": "Công cụ giúp tìm và kiểm tra hàng trăm model LLM và provider, xác định chúng chạy được trên phần cứng của bạn với một lệnh duy nhất.",
+  "usecases": [
+    "Xác định model phù hợp với cấu hình GPU/CPU hiện tại trước khi tải xuống.",
+    "So sánh hiệu suất giữa các model LLM khác nhau trên cùng phần cứng.",
+    "Tối ưu hóa chi phí chọn model phù hợp với khả năng phần cứng cho dự án AI cá nhân."
+  ],
+  "ideas": [
+    "Kết hợp với script tự động deploy model phù hợp nhất cho VPS cá nhân.",
+    "Phát triển dashboard trực quan hóa khả năng chạy model trên thiết bị di động.",
+    "Tạo plugin cho các nền tảng LLM local để tự động đề xuất model phù hợp."
+  ],
+  "stars": 35530,
+  "starsToday": 247,
+  "language": "Rust",
+  "topics": [
+    "llm",
+    "skill",
+    "localai",
+    "gguf",
+    "mlx",
+    "unsloth"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-10T13:26:56.638Z"
+}

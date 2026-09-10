@@ -1,0 +1,23 @@
+{
+  "id": "5899de12-41d6-4179-a8d2-1e357b45eb3a",
+  "repo": "alphaXiv/OpenResearch",
+  "url": "https://github.com/alphaXiv/OpenResearch",
+  "category": "AI Agent/Automation",
+  "summary": "Hỗ trợ chạy nhiều nghiên cứu song song với các model LLM, tự động phối hợp và quản lý tác vụ nghiên cứu.",
+  "usecases": [
+    "Thực hiện nghiên cứu đa mô hình cùng lúc để so sánh kết quả.",
+    "Tự động hóa quy trình thu thập và phân tích dữ liệu từ nhiều nguồn model.",
+    "Phát triển hệ thống agent nghiên cứu cho các tác vụ phức tạp cần nhiều bước."
+  ],
+  "ideas": [
+    "Sử dụng trong nghiên cứu khoa học để chạy nhiều giả thuyết song song và ghi kết quả.",
+    "Kết hợp với hệ thống lưu trữ vector để tạo knowledge base tự động từ kết quả nghiên cứu.",
+    "Phát triển công cụ tự động báo cáo tiến độ cho các dự án nghiên cứu AI."
+  ],
+  "stars": 933,
+  "starsToday": 185,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-10T13:26:56.638Z"
+}

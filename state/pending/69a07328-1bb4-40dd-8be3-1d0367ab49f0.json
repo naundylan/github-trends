@@ -1,0 +1,23 @@
+{
+  "id": "69a07328-1bb4-40dd-8be3-1d0367ab49f0",
+  "repo": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "category": "AI/LLM",
+  "summary": "Một engine C siêu nhẹ để chạy các mô hình MoE frontier trên phần cứng có sẵn, truyền chuyên gia từ đĩa với zero dependencies, mang lại khả năng mô hình khổng lồ với kích thước nhỏ.",
+  "usecases": [
+    "Chạy các mô hình LLM/MoE khổng lồ trên máy tính cá nhân hoặc server không có GPU cao cấp nhờ architecture C tối ưu.",
+    "Triển khai inference AI trên thiết bị biên (edge) với tài nguyên hạn chế.",
+    "Nghiên cứu và phát triển mô hình mới với overhead thấp do zero deps và streaming từ disk."
+  ],
+  "ideas": [
+    "Build một cái 'local LLM store' cho phép cài và chạy các model MoE khác nhau trên cùng một máy mà không xung đột dependency.",
+    "Tích hợp vào các hệ thống IoT hoặc thiết bị có CPU yếu nhưng cần khả năng AI cơ bản.",
+    "Sử dụng làm foundation cho các công cụ phân tích dữ liệu trên edge mà không cần gửi dữ liệu lên cloud."
+  ],
+  "stars": 27302,
+  "starsToday": 157,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-10T13:26:56.638Z"
+}

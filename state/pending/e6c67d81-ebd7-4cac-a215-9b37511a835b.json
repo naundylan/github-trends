@@ -1,0 +1,23 @@
+{
+  "id": "e6c67d81-ebd7-4cac-a215-9b37511a835b",
+  "repo": "liquidslr/system-design-notes",
+  "url": "https://github.com/liquidslr/system-design-notes",
+  "category": "Documentation/Learning Resource",
+  "summary": "Hồ sơ tóm tắt kiến thức hệ thống design từ cuốn sách 'System Design Interview - An Insider's Guide', hỗ trợ chuẩn bị phỏng vấn.",
+  "usecases": [
+    "Nghiên cứu và review các mẫu câu hỏi thiết kế hệ thống phổ biến.",
+    "Tạo tóm tắt cá nhân cho kỹ thuật viên chuẩn bị phỏng vấn.",
+    "Dành cho giáo viên/mentor làm bài giảng về thiết kế hệ thống."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tạo ra chatbot phỏng vấn hệ thống tự động.",
+    "Phát triển extension cho VS Code hiển thị diagram thiết kế dựa trên notes.",
+    "Xây dựng website static hiển thị tiến trình học hệ thống design."
+  ],
+  "stars": 18463,
+  "starsToday": 891,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-10T13:26:56.638Z"
+}

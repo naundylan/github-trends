@@ -1,0 +1,21 @@
+{
+  "id": "c983d148-c3c9-4935-93b2-adeebb53918b",
+  "repo": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "category": "Other",
+  "summary": "Cursor plugin specification and official plugins",
+  "usecases": [
+    "Khám phá và đánh giá cursor/plugins cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 7323,
+  "starsToday": 125,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-10T13:26:56.638Z"
+}
