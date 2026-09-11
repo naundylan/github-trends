@@ -1,0 +1,23 @@
+{
+  "id": "e518f94f-cfb6-46ae-ac3d-00ad6c19fcd0",
+  "repo": "akitaonrails/ai-usagebar",
+  "url": "https://github.com/akitaonrails/ai-usagebar",
+  "category": "UI/Component Library",
+  "summary": "AI Usagebar là một widget Rust dành cho waybar để theo dõi trạng thái và hạn mức tín dụng của các dịch vụ AI như Claude, GPT, GLM, OpenRouter.",
+  "usecases": [
+    "Hiển thị tình trạng tín dụng và hạn mức sử dụng hiện tại của các API AI trong thanh trạng thái của hệ thống.",
+    "Nhanh chóng biết khi nào cần mua thêm tín dụng cho các dịch vụ AI.",
+    "Tích hợp với các workflow phát triển sử dụng waybar hoặc các thanh trạng thái tương tự để theo dõi chi phí AI."
+  ],
+  "ideas": [
+    "Thêm hỗ trợ cho các dịch vụ AI mới qua API.",
+    "Tích hợp với notification system để cảnh báo khi tín dụng sắp hết.",
+    "Xây dựng một theme có thể tùy chỉnh cho nhiều loại thanh trạng thái (polybar, eww, etc)."
+  ],
+  "stars": 467,
+  "starsToday": 41,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-11T02:39:27.564Z"
+}

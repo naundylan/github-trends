@@ -1,0 +1,23 @@
+{
+  "id": "ac545bc3-38b4-4336-845d-fde594b6f80b",
+  "repo": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "category": "AI/LLM",
+  "summary": "Colibri là một engine nhỏ gọn viết bằng C giúp chạy các mô hình MoE tiên tiến trên phần cứng hiện có mà không cần phụ thuộc, cho phép lưu trữ các expert trên đĩa và suy luận hiệu quả.",
+  "usecases": [
+    "Triển khai các mô hình MoE lớn trên các thiết bị có tài nguyên hạn chế như máy tính cá nhân hoặc edge devices.",
+    "Thử nghiệm và đánh giá hiệu suất của các mô hình MoE mà không cần phụ thuộc vào các framework lớn.",
+    "Tích hợp vào các pipeline inference thời gian thực cần xử lý ngôn ngữ hoặc đa phương tiện với chi phí thấp."
+  ],
+  "ideas": [
+    "Tích hợp với các thiết bị ngoại vi (như GPU tích hợp) để tăng tốc streaming expert.",
+    "Xây dựng một giao diện dòng lệnh để chuyển đổi mô hình sang định dạng disk-streaming.",
+    "Kết hợp với các công cụ quantization để giảm dung lượng mô hình hơn nữa."
+  ],
+  "stars": 27491,
+  "starsToday": 98,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-11T02:39:27.564Z"
+}

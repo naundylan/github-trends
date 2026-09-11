@@ -1,0 +1,23 @@
+{
+  "id": "4fc39809-0ada-4cb2-a02f-3bd1fff5f7a6",
+  "repo": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "category": "Developer Tool",
+  "summary": "Bộ plugin Cursor cho VS Code với các tiện ích mở rộng cho việc viết code hiệu quả.",
+  "usecases": [
+    "Tối ưu hóa trải nghiệm viết code với các plugin chuyên nghiệp",
+    "Tích hợp với nhiều ngôn ngữ lập trình khác nhau",
+    "Chia sẻ và quản lý plugin cho cộng đồng"
+  ],
+  "ideas": [
+    "Thêm hỗ trợ debugger cho các framework phổ biến",
+    "Tích hợp trực tiếp với GitHub Actions cho CI/CD",
+    "Xây dựng plugin tự động hóa cho các tác vụ thường xuyên"
+  ],
+  "stars": 7389,
+  "starsToday": 127,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-11T02:39:27.564Z"
+}

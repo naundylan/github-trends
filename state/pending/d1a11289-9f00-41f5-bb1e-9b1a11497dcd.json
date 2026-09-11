@@ -1,0 +1,23 @@
+{
+  "id": "d1a11289-9f00-41f5-bb1e-9b1a11497dcd",
+  "repo": "liquidslr/system-design-notes",
+  "url": "https://github.com/liquidslr/system-design-notes",
+  "category": "Documentation/Learning Resource",
+  "summary": "Hồ sơ ghi chép hệ thống design sách 'System Design Interview', cung cấp kiến thức phân phối hệ thống, quy mô và kiến trúc phần mềm để chuẩn bị phỏng vấn.",
+  "usecases": [
+    "Chuẩn bị phỏng vấn kỹ thuật vị trí Senior/Staff Engineer",
+    "Hiểu và áp dụng các mẫu kiến trúc hệ thống phân tán",
+    "Làm tham khảo thiết kế hệ thống trong công việc"
+  ],
+  "ideas": [
+    "Kết hợp với AI để tạo bản tóm tắt tự động từ các bài viết về design hệ thống",
+    "Phát triển thành web app interactive để luyện tập design hệ thống theo chủ đề",
+    "Sử dụng làm cơ sở cho bot phỏng vấn tự động hỏi và đánh giá"
+  ],
+  "stars": 18835,
+  "starsToday": 900,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-11T02:39:27.564Z"
+}

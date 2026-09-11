@@ -1,0 +1,23 @@
+{
+  "id": "6e1ef14e-e8e8-4fa8-a261-402f0649eab6",
+  "repo": "alphaXiv/OpenResearch",
+  "url": "https://github.com/alphaXiv/OpenResearch",
+  "category": "AI Agent/Automation",
+  "summary": "OpenResearch là một framework Rust cho phép bạn triển khai và chạy nhiều tác nhân nghiên cứu song song với bất kỳ mô hình LLM nào, giúp tự động hóa việc thu thập và phân tích thông tin.",
+  "usecases": [
+    "Thực hiện nhiều tác nhân thu thập thông tin từ các nguồn khác nhau đồng thời để tổng hợp tài liệu nghiên cứu",
+    "Chạy thử nghiệm song song với nhiều mô hình để đánh giá hiệu suất",
+    "Xây dựng pipeline đánh giá tri thức tự động bằng cách kết hợp nhiều tác nhân chuyên biệt"
+  ],
+  "ideas": [
+    "Tích hợp OpenResearch với llmfit để tự động chọn mô hình tốt nhất cho từng tác nhân",
+    "Thêm giao diện người dùng web để giám sát trạng thái tác nhân theo thời gian thực",
+    "Mở rộng hỗ trợ cho các mô hình ngoại vi và các công cụ thực thi ngoài quy trình"
+  ],
+  "stars": 993,
+  "starsToday": 210,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-11T02:39:27.564Z"
+}

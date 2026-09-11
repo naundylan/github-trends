@@ -1,0 +1,30 @@
+{
+  "id": "278ac0cc-ab7c-4479-9df5-ca8fcb8f585a",
+  "repo": "AlexsJones/llmfit",
+  "url": "https://github.com/AlexsJones/llmfit",
+  "category": "CLI Tool",
+  "summary": "llmfit là một công cụ dòng lệnh được viết bằng Rust giúp bạn khám phá nhanh chóng các mô hình và nhà cung cấp LLM tương thích với phần cứng của mình, hỗ trợ hàng trăm mô hình như GGUF, MLX, Unsloth, v.v.",
+  "usecases": [
+    "Kiểm tra xem mô hình LLM cụ thể nào có thể chạy trên máy tính cá nhân hoặc thiết bị edge của bạn mà không cần cài đặt thêm",
+    "Tự động hóa quy trình chọn mô hình phù hợp với GPU, CPU hoặc NPU có sẵn",
+    "Tích hợp vào pipeline CI/CD để đảm bảo các mô hình được chọn luôn khả thi trên môi trường mục tiêu"
+  ],
+  "ideas": [
+    "Tích hợp llmfit vào script khởi động chatbot để tự động chọn mô hình nhẹ nhất khả dụng",
+    "Xây dựng giao diện web hiển thị kết quả tương tác của llmfit",
+    "Thêm tính năng so sánh hiệu suất giữa các mô hình được hỗ trợ trên cùng một phần cứng"
+  ],
+  "stars": 35775,
+  "starsToday": 258,
+  "language": "Rust",
+  "topics": [
+    "llm",
+    "skill",
+    "localai",
+    "gguf",
+    "mlx",
+    "unsloth"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-11T02:39:27.564Z"
+}
