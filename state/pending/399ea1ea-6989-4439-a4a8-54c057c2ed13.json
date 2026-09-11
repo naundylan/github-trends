@@ -1,0 +1,23 @@
+{
+  "id": "399ea1ea-6989-4439-a4a8-54c057c2ed13",
+  "repo": "p1neappleXpress/OpenFlux",
+  "url": "https://github.com/p1neappleXpress/OpenFlux",
+  "category": "Networking",
+  "summary": "Công cụ nghiên cứu stack mạng với TCP tunnel và các transport pluggable.",
+  "usecases": [
+    "Nghiên cứu và phân tích giao thức mạng an toàn",
+    "Tạo tunnel mã hóa tùy cho ứng dụng truyền dữ liệu nhạy cảm",
+    "Test hiệu suất và so sánh các transport layer khác nhau"
+  ],
+  "ideas": [
+    "Kết hợp với VPN để tạo đường truyền ẩn danh đa tầng",
+    "Sử dụng làm foundation cho secure proxy trong edge computing",
+    "Phát triển module transport cho IoT có bandwidth hạn chế"
+  ],
+  "stars": 954,
+  "starsToday": 201,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-11T13:18:49.691Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "048392d6-aeb3-46b2-a5ca-1a03c1d87fe5",
+  "repo": "bojieli/ai-agent-book",
+  "url": "https://github.com/bojieli/ai-agent-book",
+  "category": "AI/LLM",
+  "summary": "Sach mo nguon ve AI Agent design va engineering practice, system mo ta memory, multi-agent, RAG, reinforcement-learning, la huan luyen ve AI Agent.",
+  "usecases": [
+    "Thiet ke AI Agent tu dong hoa tac vu lap lai cho doanh nghiep.",
+    "Xay dang coding assistant co context awareness tac gia IDE."
+  ],
+  "ideas": [
+    "AI nhan dang giup dat lịch, viet email va quan ly calendar su dung agent memory va tool calling.",
+    "He thong multi-agent phan tich thi truong tai chinh thuc te va thuc thi giao dich."
+  ],
+  "stars": 45858,
+  "starsToday": 311,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agent-memory",
+    "ai-agent",
+    "book",
+    "coding-agent",
+    "context-engineering",
+    "large-language-models",
+    "llm",
+    "mcp",
+    "multi-agent",
+    "multimodal",
+    "rag",
+    "reinforcement-learning"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-11T13:18:49.691Z"
+}

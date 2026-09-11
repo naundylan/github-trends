@@ -1,0 +1,30 @@
+{
+  "id": "03ccf28b-a9f8-4500-821c-720dc9051739",
+  "repo": "volcengine/OpenViking",
+  "url": "https://github.com/volcengine/OpenViking",
+  "category": "Database",
+  "summary": "OpenViking là một database ngữ cảnh tự tiến hóa cho AI Agent, thống nhất bộ nhớ, RAG và kỹ năng để hỗ trợ ứng dụng agent có khả năng tự nâng cấp và truy xuất kiến thức.",
+  "usecases": [
+    "Hỗ trợ AI Agent duy trì và truy xuất dài hạn memory trong ứng dụng chatbot.",
+    "Kết hợp RAG với kỹ năng agent để thực hiện tác vụ phức tạp cần reasoning và kiến thức bên ngoài.",
+    "Phát triển hệ thống agent tự sửa lỗi và cải thiện bản thân thông qua cơ chế context database."
+  ],
+  "ideas": [
+    "Kết hợp với voice assistant để agent ghi lại và tái sử dụng kinh nghiệm từ các cuộc gọi thoại.",
+    "Sử dụng làm layer kiến thức cho hệ thống tự động hóa doanh nghiệp (workflow automation).",
+    "Triển khai database phân tán cho các agent đa tác vụ chia sẻ cùng một cơ sở kiến thức."
+  ],
+  "stars": 36637,
+  "starsToday": 214,
+  "language": "Python",
+  "topics": [
+    "context-database",
+    "agentic-rag",
+    "agent-memory",
+    "self-evolving",
+    "agent-plugins",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-09-11T13:18:49.691Z"
+}

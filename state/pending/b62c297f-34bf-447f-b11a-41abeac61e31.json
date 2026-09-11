@@ -1,0 +1,23 @@
+{
+  "id": "b62c297f-34bf-447f-b11a-41abeac61e31",
+  "repo": "Sonarr/Sonarr",
+  "url": "https://github.com/Sonarr/Sonarr",
+  "category": "Desktop App",
+  "summary": "Phần mềm PVR tự động cho newsgroup và bittorrent, quản lý và tải bộ phim/cập bộ theo lịch.",
+  "usecases": [
+    "Tự động tải và tổ chức bộ phim/série từ usenet hoặc torrent dựa trên lịch phát",
+    "Tích hợp với media server như Plex/Jellyfin để cập nhật thư viện tự động",
+    "Giám sát và lên lịch download khi băng thông mạng ít sử dụng"
+  ],
+  "ideas": [
+    "Kết hợp AI để dự đoán nội dung yêu thích và tự động thiết lập chất lượng download",
+    "Phát triển plugin kiểm soát qua lệnh voice với trợ lý ảo",
+    "Tích hợp với hệ thống đám mây để đồng bộ thư viện giữa nhiều thiết bị gia đình"
+  ],
+  "stars": 15622,
+  "starsToday": 174,
+  "language": "C#",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-11T13:18:49.691Z"
+}

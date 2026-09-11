@@ -1,0 +1,28 @@
+{
+  "id": "105e66b8-b287-4e19-aac0-5fae8be21885",
+  "repo": "react/react",
+  "url": "https://github.com/react/react",
+  "category": "Web Frontend",
+  "summary": "React la thu vien JavaScript hang de xay dung giao dien nguoi dung cho ung dung web va native, co kien truc thanh phan va render khai bao.",
+  "usecases": [
+    "Xay dung cac ung dung web Single Page Application (SPA) co giao dien tac dong.",
+    "Phat triển ung dụng di mobile nhat React Native."
+  ],
+  "ideas": [
+    "Xay he thong collaborative editing real-time voi React va WebSockets.",
+    "Tool chuyen Figma design thanh component React tu dong bang AI."
+  ],
+  "stars": 250035,
+  "starsToday": 403,
+  "language": "JavaScript",
+  "topics": [
+    "javascript",
+    "react",
+    "frontend",
+    "declarative",
+    "ui",
+    "library"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-11T13:18:49.691Z"
+}

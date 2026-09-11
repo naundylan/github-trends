@@ -1,0 +1,23 @@
+{
+  "id": "115a1f49-71ae-4756-a484-17bf3ad1bca8",
+  "repo": "alphaXiv/OpenResearch",
+  "url": "https://github.com/alphaXiv/OpenResearch",
+  "category": "AI Agent/Automation",
+  "summary": "OpenResearch là framework cho phép chạy song song nhiều research agents với bất kỳ model nào, tối ưu hóa hiệu suất nghiên cứu và thu thập kết quả.",
+  "usecases": [
+    "Nghiên cứu tự động về chủ đề khoa học hoặc thị trường bằng cách phân tán các agent vào các nguồn dữ liệu khác nhau.",
+    "Tối ưu hóa việc so sánh kết quả từ các model khác nhau (model routing) trong dự án nghiên cứu lớn.",
+    "Tích hợp vào pipeline nghiên cứu để tự động hóa review và tổng hợp tài liệu."
+  ],
+  "ideas": [
+    "Sử dụng cho phát triển game NPC có hành vi học tập và thích nghi dựa trên nhiều model song song.",
+    "Xây dựng hệ thống báo cáo tự động cho nhà đầu tư tài chính với các agent phân tích xu hướng.",
+    "Kết hợp với cơ sở dữ liệu thời gian thực để agent có thể truy cập và phản hồi các sự kiện live."
+  ],
+  "stars": 1075,
+  "starsToday": 210,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-11T13:18:49.691Z"
+}

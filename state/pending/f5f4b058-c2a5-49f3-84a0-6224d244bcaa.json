@@ -1,0 +1,30 @@
+{
+  "id": "f5f4b058-c2a5-49f3-84a0-6224d244bcaa",
+  "repo": "AlexsJones/llmfit",
+  "url": "https://github.com/AlexsJones/llmfit",
+  "category": "AI/LLM",
+  "summary": "Thư viện lệnh giúp tìm và xác định các mô hình LLM phù hợp với cấu hình phần cứng, hỗ trợ hàng trăm provider và định dạng GGUF/MLX.",
+  "usecases": [
+    "Tìm nhanh mô hình LLM chạy được trên CPU/GPU cụ thể mà không cần thử nghiệm",
+    "Chuyển đổi giữa các provider (LocalAI, MLX, Ollama) liền mạch",
+    "Tối ưu hóa chi phí tài nguyên bằng cách chọn kích thước mô hình phù hợp với hiệu năng khả dụng"
+  ],
+  "ideas": [
+    "Tích hợp với script tự động build container LLM tùy theo GPU khả dụng",
+    "Tạo báo cáo so sánh hiệu năng mô hình trên các thiết bị khác nhau để đưa ra quyết định mua phần cứng",
+    "Kết hợp với CI/CD để tự động kiểm tra tương thích model trước khi deploy"
+  ],
+  "stars": 35992,
+  "starsToday": 482,
+  "language": "Rust",
+  "topics": [
+    "llm",
+    "skill",
+    "localai",
+    "gguf",
+    "mlx",
+    "unsloth"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-11T13:18:49.690Z"
+}

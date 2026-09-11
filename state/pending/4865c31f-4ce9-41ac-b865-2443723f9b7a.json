@@ -1,0 +1,44 @@
+{
+  "id": "4865c31f-4ce9-41ac-b865-2443723f9b7a",
+  "repo": "alsk1992/CloddsBot",
+  "url": "https://github.com/alsk1992/CloddsBot",
+  "category": "AI Agent/Automation",
+  "summary": "Bot AI mã nguồn mở tự giao dịch tự động trên hơn 1000 thị trường - Polymarket, Kalshi, Binance, Solana và 5 chuỗi EVM, quét cơ hội arbitrage, thực thi ngay và quản lý rủi ro khi bạn ngủ.",
+  "usecases": [
+    "Tự động arbitrage trên nhiều nền tảng tiền mã hóa cùng lúc",
+    "Thực thi lệnh giao dịch 24/7 cho prediction markets",
+    "Giao thức machine-to-machine payments cho ứng dụng tài chính tự chủ"
+  ],
+  "ideas": [
+    "Kết hợp dữ liệu thời tiết/topo địa lý để dự đoán xu hướng thị trường địa phương trên prediction markets",
+    "Dashboard cá nhân theo dõi hiệu suất bot qua Telegram theo thời gian thực",
+    "DAO quản lý quỹ giao dịch tự động dựa trên tín hiệu cộng đồng"
+  ],
+  "stars": 1965,
+  "starsToday": 627,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "arbitrage",
+    "claude",
+    "crypto",
+    "defi",
+    "ethereum",
+    "futures",
+    "kalshi",
+    "polymarket",
+    "prediction-markets",
+    "solana",
+    "telegram-bot",
+    "trading",
+    "trading-bot",
+    "typescript",
+    "agi",
+    "hft",
+    "hyperliquid",
+    "pumpswap",
+    "x402"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-11T13:18:49.690Z"
+}

@@ -116,7 +116,7 @@
   },
   "asgeirtj/system_prompts_leaks": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-11",
     "last_saved": "2026-08-29"
   },
   "agentskills/agentskills": {
@@ -131,8 +131,8 @@
   },
   "chthollyphile/folia-major": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-07-07",
-    "last_saved": "2026-07-04"
+    "last_seen": "2026-09-11",
+    "last_saved": "2026-09-11"
   },
   "mattpocock/skills": {
     "first_seen": "2026-07-04",
@@ -346,7 +346,7 @@
   },
   "rustdesk/rustdesk": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-09-11",
     "last_saved": "2026-08-25"
   },
   "SmartlyDressedGames/U3-SDK": {
@@ -546,7 +546,7 @@
   },
   "Tencent/WeKnora": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-11",
     "last_saved": "2026-08-24"
   },
   "Shubhamsaboo/awesome-llm-apps": {
@@ -581,7 +581,7 @@
   },
   "MHSanaei/3x-ui": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-08",
+    "last_seen": "2026-09-11",
     "last_saved": "2026-08-25"
   },
   "QuantumNous/new-api": {
@@ -641,7 +641,7 @@
   },
   "github/spec-kit": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-11",
     "last_saved": "2026-08-26"
   },
   "makeplane/plane": {
@@ -816,7 +816,7 @@
   },
   "D4Vinci/Scrapling": {
     "first_seen": "2026-08-30",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-11",
     "last_saved": "2026-08-30"
   },
   "kaifcodec/user-scanner": {
@@ -926,7 +926,7 @@
   },
   "golang/go": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-11",
     "last_saved": "2026-09-01"
   },
   "rtk-ai/rtk": {
@@ -1166,7 +1166,7 @@
   },
   "donnemartin/system-design-primer": {
     "first_seen": "2026-09-06",
-    "last_seen": "2026-09-07",
+    "last_seen": "2026-09-11",
     "last_saved": "2026-09-06"
   },
   "browser-use/browser-use": {
@@ -1216,7 +1216,7 @@
   },
   "pascalorg/editor": {
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-11",
     "last_saved": "2026-09-07"
   },
   "Stremio/stremio-web": {
@@ -1226,7 +1226,7 @@
   },
   "k2-fsa/OmniVoice": {
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-11",
     "last_saved": "2026-09-07"
   },
   "vinta/awesome-python": {
@@ -1394,52 +1394,52 @@
     "last_seen": "2026-09-11",
     "last_saved": "2026-09-10"
   },
-  "qeeqbox/social-analyzer": {
+  "alsk1992/CloddsBot": {
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
     "last_saved": "2026-09-11"
   },
-  "google-deepmind/alphagenome": {
+  "Sonarr/Sonarr": {
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
     "last_saved": "2026-09-11"
   },
-  "letta-ai/letta-code": {
+  "p1neappleXpress/OpenFlux": {
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
     "last_saved": "2026-09-11"
   },
-  "yilewang/llm-for-zotero": {
+  "alphaXiv/OpenResearch": {
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
     "last_saved": "2026-09-11"
   },
-  "XTLS/Xray-core": {
+  "react/react": {
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
     "last_saved": "2026-09-11"
   },
-  "theagentrouter/agent-router": {
+  "bojieli/ai-agent-book": {
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
     "last_saved": "2026-09-11"
   },
-  "kunchenguid/no-mistakes": {
+  "volcengine/OpenViking": {
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
     "last_saved": "2026-09-11"
   },
-  "projectdiscovery/katana": {
+  "Asabeneh/30-Days-Of-Python": {
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
     "last_saved": "2026-09-11"
   },
-  "ast-grep/ast-grep": {
+  "HakanSeven12/OpenCADStudio": {
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
     "last_saved": "2026-09-11"
   },
-  "persiyanov/herdr-reviewr": {
+  "AlexsJones/llmfit": {
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
     "last_saved": "2026-09-11"
