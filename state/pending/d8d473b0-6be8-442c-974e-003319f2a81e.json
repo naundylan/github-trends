@@ -1,0 +1,42 @@
+{
+  "id": "d8d473b0-6be8-442c-974e-003319f2a81e",
+  "repo": "esengine/DeepSeek-Reasonix",
+  "url": "https://github.com/esengine/DeepSeek-Reasonix",
+  "category": "AI Agent/Automation",
+  "summary": "Một agent AI native DeepSeek cho terminal, tối ưu về prefix-cache stability, cung cấp trải nghiệm coding CLI liên tục và thông minh.",
+  "usecases": [
+    "Tự động hoàn thành code và sinh hàm thông qua lệnh terminal.",
+    "Giúp debug và viết code nhanh mà không cần rời khỏi môi trường terminal.",
+    "Tích hợp vào workflow phát triển để tăng năng suất viết code bằng AI."
+  ],
+  "ideas": [
+    "Kết hợp với các hệ thống RAG để tùy chỉnh kiến thức chuyên ngành cho agent.",
+    "Phát triển plugin cho IDE phổ biến để đồng bộ trạng thái giữa terminal và IDE.",
+    "Sử dụng làm nền tảng cho các tác vụ tự động hóa DevOps như generate config files hay scripts."
+  ],
+  "stars": 35502,
+  "starsToday": 52,
+  "language": "Go",
+  "topics": [
+    "agent",
+    "agent-framework",
+    "deepseek",
+    "ink",
+    "llm",
+    "prompt-caching",
+    "r1",
+    "tool-use",
+    "tui",
+    "typescript",
+    "ai-agent",
+    "ai-coding",
+    "cli",
+    "coding-agent",
+    "developer-tools",
+    "terminal",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-11T18:12:30.398Z"
+}
