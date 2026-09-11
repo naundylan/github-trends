@@ -1,0 +1,23 @@
+{
+  "id": "d221a5b4-8c7c-406c-8969-d2a4c70ad437",
+  "repo": "alphaXiv/OpenResearch",
+  "url": "https://github.com/alphaXiv/OpenResearch",
+  "category": "AI Agent/Automation",
+  "summary": "OpenResearch là framework Rust cho phép chạy song song nhiều AI agents với các model khác nhau, tự động hóa quy trình nghiên cứu và đánh giá.",
+  "usecases": [
+    "Chạy song song nhiều AI agents để so sánh hiệu suất và kết quả trên cùng một tác vụ nghiên cứu.",
+    "Tự động hóa quá trình thử nghiệm và đánh giá model LLM trong các kịch bản nghiên cứu phức tạp.",
+    "Lưu trữ và quản lý lịch sử tác vụ của các agent để phân tích xu hướng kết quả."
+  ],
+  "ideas": [
+    "Sử dụng làm nền tảng cho các cuộc thi AI hoặc hackathon cần đánh giá nhiều model cùng lúc.",
+    "Kết hợp với cơ sở dữ liệu vector để lưu trữ và trực quan hóa tiến trình hội tụ của agents.",
+    "Triển khai các agent tự điều chỉnh chiến lược dựa trên phản hồi môi trường và kết quả trước."
+  ],
+  "stars": 1255,
+  "starsToday": 156,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-11T23:07:28.232Z"
+}

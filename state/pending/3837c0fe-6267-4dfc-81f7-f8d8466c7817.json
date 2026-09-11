@@ -1,0 +1,30 @@
+{
+  "id": "3837c0fe-6267-4dfc-81f7-f8d8466c7817",
+  "repo": "react/react",
+  "url": "https://github.com/react/react",
+  "category": "UI/Component Library",
+  "summary": "Thư viện JavaScript cho xây dựng giao diện người dùng khai báo cho web và ứng dụng native, nổi bật với mô hình component-based và ecosystem phong phú.",
+  "usecases": [
+    "Xây dựng giao diện web động và tương tác với quản lý trạng thái.",
+    "Phát triển ứng dụng mobile cross-platform qua React Native.",
+    "Tạo component reusable cho design system dự án lớn."
+  ],
+  "ideas": [
+    "Kết hợp React với LLM để tạo UI phản hồi động theo phản hồi từ model.",
+    "Sử dụng React Server Components tối ưu hiệu suất kết hợp với AI content generation.",
+    "Xây dựng dashboard quản lý agent UI với React và WebSocket."
+  ],
+  "stars": 250047,
+  "starsToday": 403,
+  "language": "JavaScript",
+  "topics": [
+    "javascript",
+    "react",
+    "frontend",
+    "declarative",
+    "ui",
+    "library"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-11T23:07:28.232Z"
+}

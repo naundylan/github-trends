@@ -1,0 +1,30 @@
+{
+  "id": "21a03993-6bf3-499a-a1cf-5322a512b352",
+  "repo": "AlexsJones/llmfit",
+  "url": "https://github.com/AlexsJones/llmfit",
+  "category": "AI/LLM",
+  "summary": "Công cụ lệnh duy nhất để tìm và lọc hàng trăm model LLM tương thích với phần cứng của bạn, hỗ trợ GGUF, MLX, localai và nhiều provider khác.",
+  "usecases": [
+    "Quickly verify if a specific LLM model will run on your GPU/CPU before downloading or deploying",
+    "Compare hardware requirements and performance across different model providers and versions",
+    "Streamline model selection for local AI development and research projects"
+  ],
+  "ideas": [
+    "Build a hardware-benchmark integration that auto-recommends optimal models based on detected specs",
+    "Create a dashboard tracking model compatibility trends across hardware generations and software stacks",
+    "Develop an IDE plugin that checks model feasibility without leaving the editor environment"
+  ],
+  "stars": 36078,
+  "starsToday": 482,
+  "language": "Rust",
+  "topics": [
+    "llm",
+    "skill",
+    "localai",
+    "gguf",
+    "mlx",
+    "unsloth"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-11T23:07:28.232Z"
+}

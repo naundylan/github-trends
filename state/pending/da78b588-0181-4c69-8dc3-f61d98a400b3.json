@@ -1,0 +1,37 @@
+{
+  "id": "da78b588-0181-4c69-8dc3-f61d98a400b3",
+  "repo": "bojieli/ai-agent-book",
+  "url": "https://github.com/bojieli/ai-agent-book",
+  "category": "AI Agent/Automation",
+  "summary": "Sách open-source toàn tập về AI Agent, bao gồm nguyên lý thiết kế, mã nguồn theo chương và phương pháp xây dựng agent dựa trên LLM, RAG và reinforcement learning.",
+  "usecases": [
+    "Học và tham khảo thiết kế AI Agent từ nguyên lý đến thực hành.",
+    "Triển khai hệ thống RAG cho ứng dụng chatbot.",
+    "Nghiên cứu multi-agent coordination cho tác vụ phức tạp."
+  ],
+  "ideas": [
+    "Phát triển tool tự động code agent dựa trên cấu trúc sách.",
+    "Kết hợp với LangChain/MCP để xây dựng pipeline agent thực tế.",
+    "Sử dụng làm tài liệu tham khảo cho khóa học training AI Agent engineering."
+  ],
+  "stars": 45911,
+  "starsToday": 311,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agent-memory",
+    "ai-agent",
+    "book",
+    "coding-agent",
+    "context-engineering",
+    "large-language-models",
+    "llm",
+    "mcp",
+    "multi-agent",
+    "multimodal",
+    "rag",
+    "reinforcement-learning"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-11T23:07:28.232Z"
+}

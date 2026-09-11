@@ -1,0 +1,39 @@
+{
+  "id": "e6b3311f-4555-439b-b49e-a0023978207a",
+  "repo": "Asabeneh/30-Days-Of-Python",
+  "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+  "category": "Documentation/Learning Resource",
+  "summary": "Chiến dịch học Python 30 ngày từng bước, từ cơ bản đến nâng cao, bao gồm Flask, dữ liệu, ML và phát triển full-stack.",
+  "usecases": [
+    "Học sinh tự học Python theo lộ trình có cấu trúc trong 30 ngày.",
+    "Giảng viên sử dụng làm tài liệu giáo học hoặc dự án lớp học.",
+    "Dev mới bắt đầu rèn luyện kỹ năng lập trình thông qua các bài tập hàng ngày."
+  ],
+  "ideas": [
+    "Tạo ứng dụng di động theo dõi tiến độ học tập cho desafio 30 ngày.",
+    "Bối cảnh kết hợp với AI để tạo câu hỏi tự động cho mỗi ngày học.",
+    "Phát triển bản giao diện web theo dõi tiến độ cùng cộng đồng."
+  ],
+  "stars": 73524,
+  "starsToday": 131,
+  "language": "Python",
+  "topics": [
+    "30-days-of-python",
+    "python",
+    "flask",
+    "github",
+    "heroku",
+    "matplotlib",
+    "mongodb",
+    "numpy",
+    "pandas",
+    "python3",
+    "data",
+    "data-science",
+    "database",
+    "fullstack",
+    "ml"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-11T23:07:28.232Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "a1b2f3d4-f0bc-4af2-8578-2a9dba3e0fbf",
+  "repo": "volcengine/OpenViking",
+  "url": "https://github.com/volcengine/OpenViking",
+  "category": "AI Agent/Automation",
+  "summary": "OpenViking là một cơ sở dữ liệu ngữ cảnh tự phát triển dành cho AI Agent, kết hợp bộ nhớ, tri thức RAG và kỹ năng thành một hệ thống thống nhất. Điểm nổi bật là khả năng tự cải tiến và mở rộng qua các plugin.",
+  "usecases": [
+    "Tích hợp vào các hệ thống AI Agent để quản lý bộ nhớ và tri thức một cách hiệu quả.",
+    "Sử dụng trong các ứng dụng cần RAG như chatbot hoặc hệ thống hỏi đáp.",
+    "Nghiên cứu và phát triển các Agent tự phát triển trong môi trường thực tế."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ lập trình agent để tạo ra hệ thống agent thông minh hơn.",
+    "Ứng dụng trong các lĩnh vực như y medicine hoặc giáo dục để xử lý dữ liệu ngữ cảnh.",
+    "Phát triển plugin mới để mở rộng chức năng như hỗ trợ đa ngôn ngữ hoặc tích hợp API bên ngoài."
+  ],
+  "stars": 36697,
+  "starsToday": 214,
+  "language": "Python",
+  "topics": [
+    "context-database",
+    "agentic-rag",
+    "agent-memory",
+    "self-evolving",
+    "agent-plugins",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-11T23:07:28.232Z"
+}

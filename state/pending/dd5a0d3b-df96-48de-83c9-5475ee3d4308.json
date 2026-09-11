@@ -1,0 +1,23 @@
+{
+  "id": "dd5a0d3b-df96-48de-83c9-5475ee3d4308",
+  "repo": "Sonarr/Sonarr",
+  "url": "https://github.com/Sonarr/Sonarr",
+  "category": "Desktop App",
+  "summary": "Sonarr là ứng dụng PVR tự động hóa cho phép tải và quản lý tập phim/TV từ newsgroup và BitTorrent, với khả năng theo dõi và sắp xếp thư viện đa phương tiện.",
+  "usecases": [
+    "Tự động tải tập phim mới phát hành dựa trên lịch phát sóng và sở thích người dùng.",
+    "Quản lý và sắp xếp thư viện video cá nhân kèm metadata và hình bìa tự động.",
+    "Tích hợp với các thiết bị phát media để phát nội dung khi tải hoàn thành."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống Home Theater để phát tự động và thông báo khi tập phim sẵn sàng.",
+    "Phát triển plugin cảnh báo trên ứng dụng di động khi nội dung yêu thích đã tải xong.",
+    "Kết hợp với Radarr để quản lý đồng bộ cả phim và TV series trong một hệ thống thống nhất."
+  ],
+  "stars": 15723,
+  "starsToday": 174,
+  "language": "C#",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-11T23:07:28.232Z"
+}
