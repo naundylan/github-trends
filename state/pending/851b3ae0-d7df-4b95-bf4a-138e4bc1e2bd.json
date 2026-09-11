@@ -1,0 +1,44 @@
+{
+  "id": "851b3ae0-d7df-4b95-bf4a-138e4bc1e2bd",
+  "repo": "XTLS/Xray-core",
+  "url": "https://github.com/XTLS/Xray-core",
+  "category": "Networking",
+  "summary": "Xray-core là nền tảng mã nguồn mở cho định tuyến, proxy và đường hầm mạng, hỗ trợ nhiều giao thức như VLESS, VMess, Trojan, Shadowsocks, WireGuard và XTLS. Dự án nổi bật với khả năng cấu hình linh hoạt, bảo mật và chống kiểm duyệt.",
+  "usecases": [
+    "Xây dựng máy chủ proxy hoặc cổng định tuyến mạng tùy chỉnh",
+    "Tạo đường hầm an toàn cho kết nối giữa các thiết bị hoặc mạng riêng",
+    "Quản lý lưu lượng DNS, TCP, UDP và các dịch vụ mạng qua một nền tảng thống nhất"
+  ],
+  "ideas": [
+    "Kết hợp Xray-core với hệ thống giám sát để hiển thị lưu lượng, độ trễ và sức khỏe đường truyền",
+    "Tự động hóa cấu hình proxy theo chính sách bảo mật, vị trí hoặc tình trạng mạng",
+    "Tích hợp với dịch vụ xác thực để quản lý người dùng và hạn mức băng thông"
+  ],
+  "stars": 41519,
+  "starsToday": 21,
+  "language": "Go",
+  "topics": [
+    "xray",
+    "vless",
+    "tunnel",
+    "anticensorship",
+    "vmess",
+    "network",
+    "shadowsocks",
+    "trojan",
+    "proxy",
+    "xtls",
+    "socks5",
+    "reality",
+    "xudp",
+    "wireguard",
+    "dns",
+    "utls",
+    "vpn",
+    "tls",
+    "vision",
+    "xhttp"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-11T07:59:44.912Z"
+}

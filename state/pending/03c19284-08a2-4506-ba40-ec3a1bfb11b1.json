@@ -1,0 +1,29 @@
+{
+  "id": "03c19284-08a2-4506-ba40-ec3a1bfb11b1",
+  "repo": "persiyanov/herdr-reviewr",
+  "url": "https://github.com/persiyanov/herdr-reviewr",
+  "category": "Developer Tool",
+  "summary": "herdr-reviewr là tiện ích TUI dạng sidebar cho Herdr, hỗ trợ xem mã, kiểm tra diff và theo dõi trạng thái pull request. Người dùng có thể nhận xét trực tiếp trên thay đổi và gửi phản hồi trở lại agent.",
+  "usecases": [
+    "Xem và phân tích các thay đổi mã nguồn trong pull request",
+    "Gửi nhận xét theo từng đoạn diff để hướng dẫn agent sửa mã",
+    "Theo dõi trạng thái PR và duyệt nhanh các tệp liên quan"
+  ],
+  "ideas": [
+    "Tích hợp danh sách kiểm tra bảo mật và chất lượng mã để tạo phản hồi tự động",
+    "Kết hợp tóm tắt AI cho từng diff nhằm tăng tốc quá trình review",
+    "Liên kết nhận xét với CI, issue tracker và lịch sử chỉnh sửa của agent"
+  ],
+  "stars": 668,
+  "starsToday": 21,
+  "language": "Rust",
+  "topics": [
+    "code-review",
+    "herdr",
+    "herdr-plugin",
+    "rust",
+    "tui"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-11T07:59:44.912Z"
+}

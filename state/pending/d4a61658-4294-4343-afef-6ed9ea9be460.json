@@ -1,0 +1,31 @@
+{
+  "id": "d4a61658-4294-4343-afef-6ed9ea9be460",
+  "repo": "projectdiscovery/katana",
+  "url": "https://github.com/projectdiscovery/katana",
+  "category": "CLI Tool",
+  "summary": "Katana là framework crawl web thế hệ mới, được viết bằng Go, cho phép quét sâu và nhanh các trang web để thu thập dữ liệu hoặc phục vụ kiểm tra bảo mật.",
+  "usecases": [
+    "Thu thập tất cả URL và tài nguyên từ một domain mục tiêu để xây dựng bản đồ site.",
+    "Kiểm tra lỗi liên kết hỏng hoặc các trang không tồn tại trên website.",
+    "Chuẩn bị dữ liệu đầu vào cho các công cụ quét lỗ hổng như nuclei."
+  ],
+  "ideas": [
+    "Tích hợp Katana vào pipeline CI/CD để tự động kiểm tra thay đổi nội dung website trước khi deploy.",
+    "Phát triển giao diện web đơn giản để cấu hình và xem kết quả crawl trong thời gian thực.",
+    "Kết hợp với công cụ phân tích nội dung để phát hiện các trang chứa thông tin nhạy cảm bị lộ."
+  ],
+  "stars": 17464,
+  "starsToday": 24,
+  "language": "Go",
+  "topics": [
+    "crawler",
+    "web-spider",
+    "gocrawler",
+    "spider-framework",
+    "cli",
+    "headless",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-11T07:59:44.912Z"
+}

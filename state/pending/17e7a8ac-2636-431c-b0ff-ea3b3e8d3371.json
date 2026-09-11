@@ -1,0 +1,32 @@
+{
+  "id": "17e7a8ac-2636-431c-b0ff-ea3b3e8d3371",
+  "repo": "theagentrouter/agent-router",
+  "url": "https://github.com/theagentrouter/agent-router",
+  "category": "AI/LLM",
+  "summary": "Dịch vụ Go quản lý truy cập thống nhất tới các dịch vụ Generative AI thông qua Envoy Gateway.",
+  "usecases": [
+    "Cung cấp API thống一 cho nhiều LLM provider",
+    "Tích hợp vào Kubernetes để gọi AI từ микросервисе",
+    "Quản lý rate‑limit và bảo mật truy cập vào các mô hình AI"
+  ],
+  "ideas": [
+    "Kết nối với LangChain hoặc LlamaIndex để orchestrator workflow",
+    "Thêm policy‑based routing cho đa người dùng trong môi trường SaaS",
+    "Triển khai như sidecar trong các ứng dụng microservice"
+  ],
+  "stars": 2040,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "ai-gateway",
+    "api-gateway",
+    "kubernetes",
+    "llm",
+    "inference",
+    "envoy",
+    "envoyproxy"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-11T07:59:44.912Z"
+}

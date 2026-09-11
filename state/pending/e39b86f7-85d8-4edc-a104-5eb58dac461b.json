@@ -1,0 +1,32 @@
+{
+  "id": "e39b86f7-85d8-4edc-a104-5eb58dac461b",
+  "repo": "letta-ai/letta-code",
+  "url": "https://github.com/letta-ai/letta-code",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện cho phép tạo các agent có trạng thái, có bộ nhớ và khả năng học hỏi, mô phỏng hành vi con người để tự động hoá các quy trình phức tạp.",
+  "usecases": [
+    "Tạo trợ lý ảo có khả năng ghi nhớ ngữ cảnh cuộc trò chuyện dài.",
+    "Tự động hoá quy trình phát triển phần mềm qua agent học hỏi từ mã nguồn và phản hồi.",
+    "Xây dựng hệ thống gợi ý cá nhân hóa dựa trên hành vi người dùng qua agent học liên tục."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ CI/CD để agent tự động sửa lỗi và tối ưu hoá code dựa trên lịch sử bản dựng.",
+    "Tạo trò chơi mô phỏng xã hội nơi mỗi nhân vật là agent có bộ nhớ và tính cách phát triển.",
+    "Ứng dụng trong giáo dục: agent tutor thích nghi với tốc độ học của từng học sinh."
+  ],
+  "stars": 3270,
+  "starsToday": 16,
+  "language": "TypeScript",
+  "topics": [
+    "agent-memory",
+    "ai",
+    "claude",
+    "codex",
+    "continual-learning",
+    "letta",
+    "memgpt",
+    "stateful-agents"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-11T07:59:44.912Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "b50801e0-e625-45ce-8caa-84575beb35d6",
+  "repo": "ast-grep/ast-grep",
+  "url": "https://github.com/ast-grep/ast-grep",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh dựa trên Rust để tìm kiếm, lint và viết lại mã cấu trúc bằng cách sử dụng cú pháp AST, giúp tái cấu trúc code nhanh chóng và an toàn.",
+  "usecases": [
+    "Tìm kiếm và thay đổi các mẫu code cụ thể trong toàn bộ kho mã mà không cần regex.",
+    "Tự động áp dụng các quy tắc lint và sửa lỗi cú pháp dựa trên cấu trúc AST.",
+    "Thực hiện codemod lớn như đổi tên hàm, di chuyển tham số hoặc chuyển đổi API giữa các phiên bản."
+  ],
+  "ideas": [
+    "Tích hợp vào trình soạn thảo như VS Code để cung cấp gợi ý sửa lỗi即时 dựa trên AST.",
+    "Kết hợp với hệ thống CI để chặn pull request chứa các mẫu code không an toàn phát hiện qua ast-grep.",
+    "Xây dựng plugin cho các hệ thống quản lý tài sản code để tự động tạo tài liệu từ các mẫu mã được tìm thấy."
+  ],
+  "stars": 15849,
+  "starsToday": 16,
+  "language": "Rust",
+  "topics": [
+    "codemod",
+    "linter",
+    "ast",
+    "babel",
+    "command-line",
+    "command-line-tool",
+    "grep",
+    "tree-sitter",
+    "codereview",
+    "rust",
+    "static-analysis",
+    "typescript",
+    "refactoring",
+    "search",
+    "structural-search"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-11T07:59:44.913Z"
+}

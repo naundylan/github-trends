@@ -1,0 +1,23 @@
+{
+  "id": "13f8d7c5-9173-43eb-8a8a-023d618a0b3d",
+  "repo": "google-deepmind/alphagenome",
+  "url": "https://github.com/google-deepmind/alphagenome",
+  "category": "Machine Learning",
+  "summary": "Cung cấp API để truy cập chương trình AlphaGenome, mô hình học sâu của Google DeepMind dự đoán tác động của biến thể di truyền. Dự án hỗ trợ tự động hóa phân tích hệ gen và ưu tiên các biến thể đáng nghiên cứu.",
+  "usecases": [
+    "Dự đoán ảnh hưởng phân tử và kiểu hình của các biến thể di truyền.",
+    "Sàng lọc và ưu tiên biến thể trong nghiên cứu di truyền học.",
+    "Tích hợp chú giải bộ gen vào các pipeline tin sinh học."
+  ],
+  "ideas": [
+    "Kết hợp AlphaGenome với hồ sơ lâm sàng để hỗ trợ nghiên cứu các ca bệnh hiếm.",
+    "Xây dựng bảng điều khiển trực quan giúp so sánh mức độ ảnh hưởng của nhiều biến thể.",
+    "Tự động tạo báo cáo biến thể có thể tùy chỉnh cho từng nhóm nghiên cứu."
+  ],
+  "stars": 2086,
+  "starsToday": 18,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-09-11T07:59:44.912Z"
+}

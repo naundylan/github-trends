@@ -1,0 +1,33 @@
+{
+  "id": "19622086-e349-46b4-aace-9c6164726906",
+  "repo": "yilewang/llm-for-zotero",
+  "url": "https://github.com/yilewang/llm-for-zotero",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ mã nguồn mở giúp tạo agent AI tự động phân tích và quản lý tài liệu trong thư viện Zotero, hỗ trợ tra cứu, tóm tắt và tạo ra các bài nghiên cứu mới.",
+  "usecases": [
+    "Tự động tóm tắt nội dung các bài báo khoa học mới thêm vào Zotero.",
+    "Trả lời câu hỏi nghiên cứu dựa trên tài liệu đã lưu trong Zotero.",
+    "Tạo đề xuất chủ đề nghiên cứu mới từ việc phân tích liên kết giữa các tài liệu."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ quản lý citaion để tự động tạo bibliography theo phong cách khác nhau.",
+    "Phát triển plugin cho VS Code cho phép truy vấn agent trực tiếp từ trình soạn thảo.",
+    "Mở rộng hỗ trợ nhiều nguồn dữ liệu học thuật như arXiv, PubMed ngoài Zotero."
+  ],
+  "stars": 2955,
+  "starsToday": 24,
+  "language": "TypeScript",
+  "topics": [
+    "academic-paper",
+    "literature-analysis",
+    "llm-agent",
+    "zotero-plugin",
+    "zotero",
+    "codex",
+    "research-tool",
+    "rag",
+    "mcp"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-11T07:59:44.912Z"
+}
