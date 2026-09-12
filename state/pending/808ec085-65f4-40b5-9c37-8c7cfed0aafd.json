@@ -1,0 +1,33 @@
+{
+  "id": "808ec085-65f4-40b5-9c37-8c7cfed0aafd",
+  "repo": "SimplifyJobs/Summer2027-Internships",
+  "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách tổng hợp cập nhật hàng ngày các vị trí thực tập phần mềm, dữ liệu, AI và quant cho kỳ Summer 2027.",
+  "usecases": [
+    "Sinh viên tìm kiếm và theo dõi các cơ hội thực tập liên quan đến AI và kỹ thuật phần mềm tại một nơi.",
+    "Nhà tuyển dụng đăng tải và cập nhật vị trí thực tập cho sinh viên quốc tế.",
+    "Counselor học thuật sử dụng danh sách này để hướng dẫn sinh viên về các dự án nghiên cứu hoặc công việc phù hợp."
+  ],
+  "ideas": [
+    "Tích hợp API này vào web app tìm kiếm thực tập với bộ lọc bằng ngành học và mức lương.",
+    "Tự động gửi email thông báo khi có vị trí mới phù hợp với kỹ năng của sinh viên.",
+    "Kết hợp với công cụ phân tích CV để khớp ứng viên với các vị trí thực tập phù hợp."
+  ],
+  "stars": 47353,
+  "starsToday": 49,
+  "language": "Python",
+  "topics": [
+    "interview-preparation",
+    "internships",
+    "jobs",
+    "university",
+    "fall-2026",
+    "github",
+    "internship",
+    "data-science",
+    "software-engineering"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-12T07:41:30.623Z"
+}

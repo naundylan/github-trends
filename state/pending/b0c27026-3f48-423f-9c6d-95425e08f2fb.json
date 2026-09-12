@@ -1,0 +1,32 @@
+{
+  "id": "b0c27026-3f48-423f-9c6d-95425e08f2fb",
+  "repo": "github/awesome-copilot",
+  "url": "https://github.com/github/awesome-copilot",
+  "category": "AI/LLM",
+  "summary": "awesome-copilot là danh sách tài liệu cộng đồng cung cấp hướng dẫn, kỹ năng và cấu hình để tối đa hóa sử dụng GitHub Copilot.",
+  "usecases": [
+    "Tạo prompt tùy chỉnh cho Copilot theo phong cách dự án",
+    "Triển khai AI agent tự động hóa tác vụ code",
+    "Học và chia sẻ kỹ năng prompt-engineering cho GitHub Copilot"
+  ],
+  "ideas": [
+    "Kết hợp với workflow CI/CD để tự động review code qua Copilot agent",
+    "Phát triển dashboard quản lý prompt và agent Copilot theo dự án",
+    "Tạo plugin IDE sử dụng các kỹ năng từ awesome-copilot"
+  ],
+  "stars": 38919,
+  "starsToday": 47,
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "github-copilot",
+    "prompt-engineering",
+    "hacktoberfest",
+    "agent-skills",
+    "agents",
+    "awesome",
+    "custom-agents"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-12T07:41:30.623Z"
+}

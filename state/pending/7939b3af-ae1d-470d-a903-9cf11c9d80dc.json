@@ -1,0 +1,23 @@
+{
+  "id": "7939b3af-ae1d-470d-a903-9cf11c9d80dc",
+  "repo": "coulsontl/ai-toolbox",
+  "url": "https://github.com/coulsontl/ai-toolbox",
+  "category": "AI/LLM",
+  "summary": "AI Toolbox cá nhân là một bộ công cụ viết bằng Rust để tương tác, thử nghiệm và triển khai các mô hình LLM cùng các tính năng AI hỗ trợ.",
+  "usecases": [
+    "Sử dụng làm môi trường local để test prompt và cấu hình các model LLM khác nhau.",
+    "Tích hợp vào quy trình làm việc cá nhân để tạo nội dung hoặc tự động hóa tác vụ sử dụng AI.",
+    "Dành cho nhà phát triển muốn nghiên cứu hoặc triển khai AI trên máy tính cá nhân mà không cần dịch vụ bên ngoài."
+  ],
+  "ideas": [
+    "Thêm hỗ trợ cho các mô hình vision-language để đa dạng hóa khả năng xử lý.",
+    "Tích hợp với các hệ thống lưu trữ local để tạo ra một knowledge base cá nhân được hỗ trợ bởi AI.",
+    "Phát triển API riêng để các ứng dụng khác có thể gọi các tính năng AI trong toolbox."
+  ],
+  "stars": 1530,
+  "starsToday": 33,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-12T07:41:30.623Z"
+}

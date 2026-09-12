@@ -1,0 +1,28 @@
+{
+  "id": "ca003a86-1996-4ef2-8950-e097b5175ff4",
+  "repo": "nab138/iloader",
+  "url": "https://github.com/nab138/iloader",
+  "category": "Mobile (iOS/Android)",
+  "summary": "iloader là công cụ sideloading thân thiện cho thiết bị iOS, giúp cài đặt ứng dụng từ bên ngoài App Store. Dự án tập trung vào trải nghiệm đơn giản và hỗ trợ sideload thông qua SideStore.",
+  "usecases": [
+    "Cài đặt ứng dụng IPA đã được ký lên thiết bị iPhone hoặc iPad",
+    "Phân phối bản dựng thử nghiệm cho người dùng iOS",
+    "Tạo quy trình sideload nhanh cho các ứng dụng tùy chỉnh"
+  ],
+  "ideas": [
+    "Tích hợp quản lý phiên bản và cập nhật ứng dụng sideload",
+    "Thêm cơ chế kiểm tra chữ ký và trạng thái cài đặt tự động",
+    "Xây dựng giao diện quản lý thư viện ứng dụng cho nhiều thiết bị iOS"
+  ],
+  "stars": 2958,
+  "starsToday": 50,
+  "language": "TypeScript",
+  "topics": [
+    "idevice",
+    "ios",
+    "sideloading",
+    "sidestore"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-09-12T07:41:30.623Z"
+}

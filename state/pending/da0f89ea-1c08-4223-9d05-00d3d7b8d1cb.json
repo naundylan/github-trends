@@ -1,0 +1,40 @@
+{
+  "id": "da0f89ea-1c08-4223-9d05-00d3d7b8d1cb",
+  "repo": "googleworkspace/cli",
+  "url": "https://github.com/googleworkspace/cli",
+  "category": "CLI Tool",
+  "summary": "Google Workspace CLI là công cụ dòng lệnh dùng một lệnh để thao tác với Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin và các dịch vụ Google khác. Công cụ được sinh động từ Google Discovery Service và tích hợp thêm các kỹ năng AI agent.",
+  "usecases": [
+    "Tự động hóa các tác vụ quản trị Google Workspace",
+    "Quản lý tệp, email, lịch và tài liệu từ dòng lệnh",
+    "Kết hợp các kỹ năng AI để hỗ trợ xử lý công việc văn phòng"
+  ],
+  "ideas": [
+    "Tạo pipeline tự động đồng bộ dữ liệu giữa Google Drive và hệ thống nội bộ",
+    "Xây dựng bot xử lý yêu cầu nhân viên bằng cách kết hợp Gmail, Calendar và Chat",
+    "Mở rộng CLI bằng các skill AI cho báo cáo tự động và phân tích dữ liệu Sheets"
+  ],
+  "stars": 30949,
+  "starsToday": 66,
+  "language": "Rust",
+  "topics": [
+    "google-workspace",
+    "agent-skills",
+    "ai-agent",
+    "automation",
+    "cli",
+    "discovery-api",
+    "google-admin",
+    "google-api",
+    "google-calendar",
+    "google-chat",
+    "google-docs",
+    "google-drive",
+    "google-sheets",
+    "oauth2",
+    "rust",
+    "gemini-cli-extension"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-12T07:41:30.623Z"
+}

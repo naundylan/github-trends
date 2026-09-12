@@ -1,0 +1,23 @@
+{
+  "id": "b637264c-f2d1-42ef-9ae3-e182e3ab6a51",
+  "repo": "awslabs/aidlc-workflows",
+  "url": "https://github.com/awslabs/aidlc-workflows",
+  "category": "AI Agent/Automation",
+  "summary": "Cài đặt quy tắc điều hướng workflow thích nghi cho AI coding agents trong vòng đời phát triển phần mềm.",
+  "usecases": [
+    "Quản lý và điều phối luồng làm việc cho các AI coding agents trong các dự án lớn.",
+    "Tự động điều chỉnh chiến lược dựa trên phản hồi từ môi trường phát triển.",
+    "Tăng hiệu suất phát triển bằng cách tự động hóa các tác vụ lặp đi lặp lại của AI agents."
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng AI coding như Cursor hoặc GitHub Copilot để cải thiện hiệu quả.",
+    "Tạo dashboard theo dõi hiệu suất các AI agents qua thời gian.",
+    "Phát triển quy tắc tùy chỉnh cho các domain chuyên biệt (ví dụ: healthcare, finance)."
+  ],
+  "stars": 4562,
+  "starsToday": 37,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-12T07:41:30.623Z"
+}
