@@ -1,0 +1,23 @@
+{
+  "id": "ba9422f3-75c8-4d06-b659-00810cb22370",
+  "repo": "petergyang/no-ai-slop",
+  "url": "https://github.com/petergyang/no-ai-slop",
+  "category": "AI/LLM",
+  "summary": "no-ai-slop là công cụ Python xóa bỏ 20+ mẫu viết AI (AI slop) từ văn bản, giúp cải thiện tính tự nhiên và chất lượng nội dung viết.",
+  "usecases": [
+    "Làm sạch bài viết tự động tạo bởi AI trước khi đăng xuất hoặc xuất bản",
+    "Giúp biên tập viên nội dung đánh giá và sửa đổi văn bản AI một cách nhanh chóng",
+    "Sử dụng trong giáo dục để học sinh sửa lỗi văn bản AI và hiểu phong cách viết"
+  ],
+  "ideas": [
+    "Biến thành plugin cho các trình soạn thảo văn bản để sửa tự động khi gõ",
+    "Kết hợp với detector AI để báo cáo phần nào văn bản là AI-generated",
+    "Tạo dịch vụ web cho người dùng dán văn bản và nhận phiên bản sạch ngay lập tức"
+  ],
+  "stars": 8615,
+  "starsToday": 162,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-12T20:04:19.585Z"
+}

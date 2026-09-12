@@ -1,0 +1,23 @@
+{
+  "id": "063bd41b-0e61-4deb-ad62-3dcf7f78f142",
+  "repo": "mekos2772/ios-location-spoofer",
+  "url": "https://github.com/mekos2772/ios-location-spoofer",
+  "category": "Mobile (iOS/Android)",
+  "summary": "iOS Location Spoofer là ứng dụng độc lập cho iOS làm giả vị trí GPS mà không cần jailbreak, kèm theo các module cho Shadowrocket, Surge, Loon, QX và Stash.",
+  "usecases": [
+    "Test ứng dụng dựa trên vị trí mà không cần di chuyển thực tế",
+    "Bảo vệ quyền riêng tư bằng cách che giấu vị trí GPS thực",
+    "Phát triển/test tính năng geo-restricted hoặc location-aware từ xa"
+  ],
+  "ideas": [
+    "Kết hợp với VPN để làm giả đồng thời IP và GPS",
+    "Phát triển tweak cho các game yêu cầu sự kiện dựa trên vị trí",
+    "Tạo giao diện cấu hình tọa độ GPS tùy chỉnh và đường dẫn di chuyển"
+  ],
+  "stars": 3993,
+  "starsToday": 43,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-09-12T20:04:19.586Z"
+}

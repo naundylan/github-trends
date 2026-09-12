@@ -1,0 +1,29 @@
+{
+  "id": "c72a63ec-bb32-4873-a6a9-709016e59d9f",
+  "repo": "jordan-gibbs/hyperresearch",
+  "url": "https://github.com/jordan-gibbs/hyperresearch",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống knowledge base được AI agents tự động thu thập, tìm kiếm và tổng hợp nghiên web thành một wiki liên tục và có thể tìm kiếm.",
+  "usecases": [
+    "Tự động hóa quá trình nghiên cứu và tổng hợp báo cáo chuyên sâu",
+    "Xây dựng và duy trì wiki nội bộ thông minh cho đội ngũ",
+    "Cung cấp truy cập nhanh đến thông tin từ nhiều nguồn web"
+  ],
+  "ideas": [
+    "Kết hợp với local LLMs để đảm bảo an toàn dữ liệu và quyền riêng tư",
+    "Phát triển plugin cho các nền tảng nghiên cứu hoặc viết bản ghi khác",
+    "Sử dụng làm nền tảng cho agent tự tạo ra các cuốn sách hoặc báo cáo dài"
+  ],
+  "stars": 3003,
+  "starsToday": 712,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "agentskills",
+    "claude-code",
+    "deep-research",
+    "deep-research-agent"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-12T20:04:19.585Z"
+}

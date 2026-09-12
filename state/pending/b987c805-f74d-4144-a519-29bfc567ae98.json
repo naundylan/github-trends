@@ -1,0 +1,28 @@
+{
+  "id": "b987c805-f74d-4144-a519-29bfc567ae98",
+  "repo": "jihe520/MathModelAgent",
+  "url": "https://github.com/jihe520/MathModelAgent",
+  "category": "AI Agent/Automation",
+  "summary": "Agent AI chuyên cho mô hình toán học, tự động hoàn thành xây dựng mô hình và sinh báo cáo nghiên cứu hoàn chỉnh có thể nộp ngay.",
+  "usecases": [
+    "Tự động sinh báo cáo mô hình toán học cho sinh viên và nhà nghiên cứu, tiết kiệm thời gian viết.",
+    "Giúp giảng viên tạo nhanh bài tập và ví dụ mô hình mới cho khóa học.",
+    "Hỗ trợ nghiên cứu khoa học bằng cách tạo giả thuyết và kết luận mô hình từ dữ liệu đầu vào."
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu thực tế từ ngành kinh tế hoặc kỹ thuật để sinh báo cáo dự báo mô hình.",
+    "Tạo hệ thống review và critique tự động các bài báo toán học do agent sinh.",
+    "Chuyển đổi giữa các hệ thống mô hình toán học khác nhau (Python sang Mathematica v.v.)."
+  ],
+  "stars": 5098,
+  "starsToday": 264,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "llm",
+    "mathmodel",
+    "skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-12T20:04:19.585Z"
+}

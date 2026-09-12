@@ -1,0 +1,31 @@
+{
+  "id": "470c754c-4367-4732-8ef6-ba1021e025f2",
+  "repo": "yuliskov/SmartTube",
+  "url": "https://github.com/yuliskov/SmartTube",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Ứng dụng Android TV cho phép duyệt và phát nội dung media theo quy tắc riêng, hỗ trợ tùy chỉnh và bỏ qua giới hạn truyền thống.",
+  "usecases": [
+    "Phát video từ nguồn không có ứng dụng chính thức trên Android TV",
+    "Truy cập nội dung đa phương tiện với tùy chọn bỏ qua geo-restriction và quảng cáo",
+    "Tùy chỉnh trải nghiệm phát media trên thiết bị TV với giao diện cá nhân hóa"
+  ],
+  "ideas": [
+    "Kết hợp điều khiển giọng nói để điều khiển phát media trên TV bằng lệnh thoại",
+    "Phát triển plugin tương thích với Plex/Jellyfin để mở rộng khả năng truy cập media",
+    "Thêm chế độ tối và giao diện tùy chỉnh theo sở thích người dùng"
+  ],
+  "stars": 33168,
+  "starsToday": 160,
+  "language": "Java",
+  "topics": [
+    "android",
+    "android-tv",
+    "android-tv-box",
+    "java",
+    "rxjava-android",
+    "retrofit2",
+    "kotlin"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-09-12T20:04:19.586Z"
+}

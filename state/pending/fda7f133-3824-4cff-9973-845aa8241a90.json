@@ -1,0 +1,35 @@
+{
+  "id": "fda7f133-3824-4cff-9973-845aa8241a90",
+  "repo": "multimodal-art-projection/YuE",
+  "url": "https://github.com/multimodal-art-projection/YuE",
+  "category": "AI/LLM",
+  "summary": "YuE là mô hình AI sinh nhạc tiên tiến có thể tạo nhạc symbolic, thực hiện cover zero-shot và chỉnh sửa nhạc dựa trên agent, phù hợp cho sáng tạo âm nhạc và nghiên cứu AI.",
+  "usecases": [
+    "Sinh bản cover nhạc với giọng hát khác biệt mà không cần train lại",
+    "Tạo đoạn nhạc symbolic cho sản xuất phim/quảng cáo",
+    "Trợ giúp cho nhạc sĩ chỉnh sửa và tổ chức ý tưởng nhạc qua lệnh agent"
+  ],
+  "ideas": [
+    "Kết hợp với video tạo ảnh để sinh soundtrack tự động theo mood phim",
+    "Tạo hệ thống chỉnh sửa nhạc theo phong cách dựa trên yêu cầu văn bản",
+    "Sử dụng trong giáo dục âm nhạc để sinh bài tập luyện tập theo cấp độ"
+  ],
+  "stars": 7215,
+  "starsToday": 193,
+  "language": "Python",
+  "topics": [
+    "foundation-models",
+    "music-generation",
+    "huggingface",
+    "llama",
+    "audio-generation",
+    "voice-cloning",
+    "llms",
+    "style-transfers",
+    "ai",
+    "deep-learning",
+    "gpt"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-12T20:04:19.585Z"
+}
