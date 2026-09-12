@@ -1,0 +1,41 @@
+{
+  "id": "750e382e-0cce-4cf2-b6ca-533a8934d107",
+  "repo": "drawdb-io/drawdb",
+  "url": "https://github.com/drawdb-io/drawdb",
+  "category": "Data Visualization",
+  "summary": "Trình biên tập sơ đồ cơ sở dữ liệu trực tuyến miễn phí, trực quan, hỗ trợ thiết kế mô hình quan hệ thực thể và sinh SQL. Dự án chạy trên web, làm việc cục bộ với IndexedDB và hỗ trợ nhiều hệ quản trị như PostgreSQL, MySQL, MariaDB, SQLite, SQL Server và Oracle.",
+  "usecases": [
+    "Thiết kế và trình bày schema cơ sở dữ liệu cho dự án phần mềm.",
+    "Tạo nhanh script SQL để dựng hoặc cập nhật bảng.",
+    "Tài liệu hóa cấu trúc dữ liệu phục vụ cộng tác và bàn giao dự án."
+  ],
+  "ideas": [
+    "Nhúng vào quy trình phát triển để biến thay đổi schema thành bản vẽ và tài liệu tự động.",
+    "Kết hợp với AI nhằm gợi ý quan hệ, chuẩn hóa bảng và phát hiện thiết kế bất thường.",
+    "Dùng làm lớp trực quan cho công cụ quản trị dữ liệu, cho phép khám phá bảng và phụ thuộc theo đồ thị."
+  ],
+  "stars": 39489,
+  "starsToday": 63,
+  "language": "JavaScript",
+  "topics": [
+    "database-schema",
+    "editor",
+    "mariadb",
+    "postgresql",
+    "sql",
+    "sql-server",
+    "sqlite",
+    "svg",
+    "react",
+    "indexeddb",
+    "tailwindcss",
+    "javascript",
+    "diagram-editor",
+    "erd",
+    "erdiagram",
+    "oracle-database",
+    "oracle-db"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-09-12T17:46:33.425Z"
+}

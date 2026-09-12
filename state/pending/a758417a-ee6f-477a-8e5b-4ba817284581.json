@@ -1,0 +1,23 @@
+{
+  "id": "a758417a-ee6f-477a-8e5b-4ba817284581",
+  "repo": "Flowseal/zapret-discord-youtube",
+  "url": "https://github.com/Flowseal/zapret-discord-youtube",
+  "category": "Networking",
+  "summary": "Một bộ script Batchfile dùng để bypass giới hạn mạng Discord và YouTube, giúp truy cập các dịch vụ bị chặn trong môi trường có DPI chặt chẽ.",
+  "usecases": [
+    "Bypass hạn chế mạng tại trường học hoặc nơi làm việc để truy cập Discord và YouTube",
+    "Thử nghiệm khả năng chịu đựng của DPI cho các nhà quản trị mạng",
+    "Cung cấp giải pháp truy cập internet tự do cho người dùng ở vùng giới hạn"
+  ],
+  "ideas": [
+    "Kết hợp với VPN để tạo lớp mã hóa kép cho truy cập an toàn",
+    "Điều chỉnh script cho các nền tảng xã hội khác như Twitter/X hoặc TikTok",
+    "Phát triển giao diện đồ họa (GUI) đơn giản để dễ dàng sử dụng hơn"
+  ],
+  "stars": 33186,
+  "starsToday": 52,
+  "language": "Batchfile",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-12T17:46:33.425Z"
+}

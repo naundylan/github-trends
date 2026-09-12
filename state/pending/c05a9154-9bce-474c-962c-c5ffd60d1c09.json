@@ -1,0 +1,31 @@
+{
+  "id": "c05a9154-9bce-474c-962c-c5ffd60d1c09",
+  "repo": "reacherhq/check-if-email-exists",
+  "url": "https://github.com/reacherhq/check-if-email-exists",
+  "category": "API/GraphQL",
+  "summary": "Công cụ Rust kiểm tra email có tồn tại hay không mà không cần gửi thư, đồng thời cung cấp backend HTTP để tích hợp. Nó hỗ trợ xác minh địa chỉ qua MX, kết nối SMTP và các kiểm tra chống email giả mạo.",
+  "usecases": [
+    "Làm sạch danh sách email marketing để giảm tỷ lệ bounce.",
+    "Kiểm tra email khi người dùng đăng ký tài khoản hoặc khôi phục mật khẩu.",
+    "Xây dựng dịch vụ xác thực email cho CRM và hệ thống bán hàng."
+  ],
+  "ideas": [
+    "Kết hợp với form đăng ký để chấm điểm độ tin cậy của email theo thời gian thực.",
+    "Tích hợp vào quy trình ETL nhằm tự động gắn nhãn, vô hiệu hóa hoặc loại bỏ địa chỉ không hợp lệ.",
+    "Kết nối với hệ thống chống gian lận để phát hiện email tạm thời và hành vi đăng ký bất thường."
+  ],
+  "stars": 9702,
+  "starsToday": 69,
+  "language": "Rust",
+  "topics": [
+    "email",
+    "email-validation",
+    "email-verification",
+    "hacktoberfest",
+    "email-validation-api",
+    "email-verification-api",
+    "email-verifier"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-12T17:46:33.425Z"
+}

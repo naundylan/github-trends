@@ -1,0 +1,28 @@
+{
+  "id": "22087654-b7d1-4fb9-98c6-b13ffbf4532f",
+  "repo": "nab138/iloader",
+  "url": "https://github.com/nab138/iloader",
+  "category": "Developer Tool",
+  "summary": "Một trình sideloading thân thiện cho iOS, cho phép cài đặt ứng dụng ngoài App Store trên thiết bị iPhone/iPad mà không cần jailbreak.",
+  "usecases": [
+    "Triển khai ứng dụng phát triển nhanh lên thiết bị iOS để kiểm tra chức năng.",
+    "Phân phối ứng dụng nội bộ cho đội ngũ phát triển mà không cần qua App Store.",
+    "Sideloading ứng dụng thử nghiệm trên nhiều thiết bị iOS cùng lúc."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động deploy build lên thiết bị iOS thực khi có commit mới.",
+    "Tạo dashboard quản lý các phiên sideloading trên nhiều thiết bị iOS.",
+    "Tích hợp với công cụ tự động test để chạy test suite trên thiết bị thật sau khi sideload."
+  ],
+  "stars": 3036,
+  "starsToday": 209,
+  "language": "TypeScript",
+  "topics": [
+    "idevice",
+    "ios",
+    "sideloading",
+    "sidestore"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-12T17:46:33.425Z"
+}

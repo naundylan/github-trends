@@ -1,0 +1,44 @@
+{
+  "id": "8bd5f265-fd27-4f8b-bf43-42791ca23cfe",
+  "repo": "dagucloud/dagu",
+  "url": "https://github.com/dagucloud/dagu",
+  "category": "DevOps/CI-CD",
+  "summary": "Orchestrator workflow self-hostable bằng Go, định nghĩa quy trình qua YAML declarative cho scripts, SSH và containers, binary đơn lẻ không cần database, làm替代 Airflow/Cron cho các team không chuyên orchestration.",
+  "usecases": [
+    "Tự động hóa pipeline xử lý dữ liệu hàng ngày mà không cần quản trị database",
+    "Koordinieren von SSH commands và container deployments trên nhiều server cho DevOps teams",
+    "Quản lý workflow LLM agent với cơ chế human-in-the-loop cho tác vụ AI-powered"
+  ],
+  "ideas": [
+    "Tích hợp với local LLMs để sinh động tạo ra workflow dựa trên yêu cầu",
+    "Xây dựng giao diện UI trực quan drag-and-drop để thiết kế workflow",
+    "Sử dụng làm orchestrator cho edge computing và các thiết bị IoT có tài nguyên hạn chế"
+  ],
+  "stars": 3959,
+  "starsToday": 50,
+  "language": "Go",
+  "topics": [
+    "cron",
+    "workflow-engine",
+    "workflow-scheduler",
+    "workflow-orchestration",
+    "devops",
+    "data-pipeline",
+    "job-scheduler",
+    "task-automation",
+    "durable-execution",
+    "human-in-the-loop",
+    "mcp-server",
+    "self-hosted",
+    "ai-agents",
+    "airflow-alternative",
+    "dag",
+    "llm",
+    "agentic-workflows",
+    "ai-workflows",
+    "mcp",
+    "mcp-gateway"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-09-12T17:46:33.425Z"
+}

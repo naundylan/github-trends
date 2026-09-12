@@ -1,0 +1,23 @@
+{
+  "id": "6bde5e21-eecf-496a-94d6-fce37837d6e8",
+  "repo": "raine/workmux",
+  "url": "https://github.com/raine/workmux",
+  "category": "Developer Tool",
+  "summary": "Kết hợp git worktrees với tmux windows để cho phép phát triển song song dự án một cách mượt mà và không có rào cản.",
+  "usecases": [
+    "Phát triển song song nhiều branch hoặc repository cùng lúc mà không cần tạo nhiều thư mục con.",
+    "Quản lý môi trường phát triển tách biệt cho các tác vụ khác nhau trong cùng một cửa sổ terminal.",
+    "Tối ưu hóa hiệu suất làm việc cho các developer làm việc trên các dự án liên quan và cần chia sẻ codebase."
+  ],
+  "ideas": [
+    "Tích hợp với IDEs phổ biến để tự động tạo worktrees và windows tmux khi mở dự án.",
+    "Tạo một dashboard quản lý trạng thái các worktrees đang hoạt động cùng lúc.",
+    "Kết hợp với script CI/CD để tự động setup môi trường phát triển song song cho từng commit/test."
+  ],
+  "stars": 2505,
+  "starsToday": 90,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-12T17:46:33.425Z"
+}

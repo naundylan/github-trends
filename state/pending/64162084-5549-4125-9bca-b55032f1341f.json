@@ -1,0 +1,30 @@
+{
+  "id": "64162084-5549-4125-9bca-b55032f1341f",
+  "repo": "max-sixty/worktrunk",
+  "url": "https://github.com/max-sixty/worktrunk",
+  "category": "CLI Tool",
+  "summary": "Một công cụ CLI hiệu quả quản lý git worktrees, được thiết kế để hỗ trợ luồng làm việc song song cho các AI agent như Claude Code hay Codex.",
+  "usecases": [
+    "Quản lý nhiều worktree song song khi làm việc với các tác vụ AI khác nhau.",
+    "Tích hợp vào quy trình phát triển tự động cho các agent như Claude Code.",
+    "Tối ưu hóa hiệu suất khi chuyển đổi giữa các branch và phiên làm việc khác nhau."
+  ],
+  "ideas": [
+    "Kết hợp với các framework AI agent để tự động tạo worktree cho mỗi tác vụ và dọn dẹp sau khi hoàn thành.",
+    "Phát triển plugin cho IDE để hiển thị trạng thái worktree và tác vụ AI liên quan.",
+    "Sử dụng trong môi trường đa người dùng để cô lập môi trường phát triển cho từng team member."
+  ],
+  "stars": 7127,
+  "starsToday": 137,
+  "language": "Rust",
+  "topics": [
+    "agents",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "git",
+    "worktrees"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-12T17:46:33.425Z"
+}

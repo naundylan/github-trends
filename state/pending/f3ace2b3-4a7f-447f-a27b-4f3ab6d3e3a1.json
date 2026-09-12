@@ -1,0 +1,39 @@
+{
+  "id": "f3ace2b3-4a7f-447f-a27b-4f3ab6d3e3a1",
+  "repo": "RyanCodrai/turbovec",
+  "url": "https://github.com/RyanCodrai/turbovec",
+  "category": "AI/LLM",
+  "summary": "Một thư viện vector index viết bằng Rust, tích hợp TurboQuant và Python bindings để tra cứu nearest-neighbor nhanh chóng cho các ứng dụng AI/ML.",
+  "usecases": [
+    "Tra cứu nearest-neighbor cho Retrieval-Augmented Generation (RAG) trong các ứng dụng LLM.",
+    "Tìm kiếm tương đồng vector cho hệ thống đề xuất hoặc tìm kiếm tài liệu.",
+    "Tăng tốc các tính toán ANN trong các ứng dụng Computer Vision hoặc NLP nhờ tối ưu AVX512 và SIMD."
+  ],
+  "ideas": [
+    "Sử dụng làm backend cho một vector database phi-trung tâm tùy chỉnh.",
+    "Kết hợp với các framework LLM để xây dựng một hệ thống tìm kiếm thông minh trên bộ dữ liệu nội bộ.",
+    "Triển khai làm một dịch vụ tra cứu vector nhanh chóng cho các ứng dụng thời gian thực (real-time)."
+  ],
+  "stars": 16982,
+  "starsToday": 80,
+  "language": "Rust",
+  "topics": [
+    "ann",
+    "avx512",
+    "embeddings",
+    "faiss",
+    "nearest-neighbor",
+    "neon",
+    "python",
+    "quantization",
+    "rag",
+    "rust",
+    "simd",
+    "vector-search",
+    "embedding",
+    "quant",
+    "turboquant"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-12T17:46:33.425Z"
+}
