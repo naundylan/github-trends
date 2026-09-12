@@ -1,0 +1,28 @@
+{
+  "id": "a009056f-4d1b-49ab-95e6-c1887230e787",
+  "repo": "nab138/iloader",
+  "url": "https://github.com/nab138/iloader",
+  "category": "CLI Tool",
+  "summary": "Dự án TypeScript giúp cài đặt (sideload) ứng dụng iOS trên thiết bị một cách thân thiện, sử dụng libimobiledevice để bypass App Store.",
+  "usecases": [
+    "Cài đặt ứng dụng beta hoặc không ký tự Apple trên thiết bị cá nhân",
+    "Phát triển iOS test nhanh mà không cần rebuild Xcode mỗi lần",
+    "Quản lý nhiều phiên bản ứng dụng iOS trên cùng một thiết bị"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động sideload mỗi commit mới",
+    "GUI wrapper để non-technical người dùng cũng có thể sideload dễ dàng",
+    "Hỗ trợ đa thiết bị đồng thời sideload với quản lý ký tự"
+  ],
+  "stars": 3066,
+  "starsToday": 209,
+  "language": "TypeScript",
+  "topics": [
+    "idevice",
+    "ios",
+    "sideloading",
+    "sidestore"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-12T22:48:44.279Z"
+}

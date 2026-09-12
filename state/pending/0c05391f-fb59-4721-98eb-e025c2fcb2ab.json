@@ -1,0 +1,23 @@
+{
+  "id": "0c05391f-fb59-4721-98eb-e025c2fcb2ab",
+  "repo": "Flowseal/zapret-discord-youtube",
+  "url": "https://github.com/Flowseal/zapret-discord-youtube",
+  "category": "Networking",
+  "summary": "Một tập hợp script Batchfile tự động hóa truy cập Discord và YouTube, giúp vượt qua các hạn chế mạng và cấm duyệt phổ biến.",
+  "usecases": [
+    "Truy cập YouTube và Discord trong môi trường mạng có hạn chế nội dung như trường học hoặc công ty.",
+    "Tự động thay đổi proxy và IP để duy trì kết nối liên tục.",
+    "Tích hợp với script khác để thực hiện tác vụ định kỳ liên quan đến truyền tải video."
+  ],
+  "ideas": [
+    "Phát triển giao diện quản lý proxy đơn giản dựa trên script này.",
+    "Kết hợp với DNS-over-HTTPS để tăng tốc và bảo mật truy cập.",
+    "Mở rộng hỗ trợ cho các nền tảng truyền thông xã hội khác qua Batchfile."
+  ],
+  "stars": 33201,
+  "starsToday": 52,
+  "language": "Batchfile",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-12T22:48:44.279Z"
+}

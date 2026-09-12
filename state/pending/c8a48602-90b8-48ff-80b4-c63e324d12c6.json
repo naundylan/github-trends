@@ -1,0 +1,36 @@
+{
+  "id": "c8a48602-90b8-48ff-80b4-c63e324d12c6",
+  "repo": "louislam/uptime-kuma",
+  "url": "https://github.com/louislam/uptime-kuma",
+  "category": "DevOps/CI-CD",
+  "summary": "Công cụ giám sát uptime self-hosted hiện đại với giao diện web đơn trang, hỗ trợ Docker và theo dõi trạng thái dịch vụ qua WebSocket.",
+  "usecases": [
+    "Giám sát uptime và trạng thái cho website/web apps cá nhân hoặc doanh nghiệp.",
+    "Nhận cảnh báo khi dịch vụ gặp sự cố và tích hợp với môi trường Docker.",
+    "Cấu hình monitoring cho nhiều endpoint một cách trực quan qua giao diện web."
+  ],
+  "ideas": [
+    "Kết hợp với Slack/Discord để tự động thông báo khi service down.",
+    "Sử dụng làm dashboard monitoring cho các dịch vụ hosting shared hoặc cá nhân.",
+    "Tích hợp với CI/CD pipelines để theo dõi hiệu quả deploy và uptime sau mỗi release."
+  ],
+  "stars": 91313,
+  "starsToday": 47,
+  "language": "JavaScript",
+  "topics": [
+    "uptime",
+    "monitoring",
+    "docker",
+    "selfhosted",
+    "self-hosted",
+    "single-page-app",
+    "webapp",
+    "responsive",
+    "websocket",
+    "socket-io",
+    "uptime-monitoring",
+    "monitor"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-09-12T22:48:44.279Z"
+}

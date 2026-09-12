@@ -1,0 +1,37 @@
+{
+  "id": "444bd282-3c41-46bd-8aed-f718f1188afd",
+  "repo": "RyanCodrai/turbovec",
+  "url": "https://github.com/RyanCodrai/turbovec",
+  "category": "Other",
+  "summary": "A vector index built on TurboQuant, written in Rust with Python bindings",
+  "usecases": [
+    "Khám phá và đánh giá RyanCodrai/turbovec cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 16999,
+  "starsToday": 80,
+  "language": "Rust",
+  "topics": [
+    "ann",
+    "avx512",
+    "embeddings",
+    "faiss",
+    "nearest-neighbor",
+    "neon",
+    "python",
+    "quantization",
+    "rag",
+    "rust",
+    "simd",
+    "vector-search",
+    "embedding",
+    "quant",
+    "turboquant"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-12T22:48:44.279Z"
+}

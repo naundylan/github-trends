@@ -1,0 +1,44 @@
+{
+  "id": "9445eb76-d9cc-44e5-989b-4cb8591ade16",
+  "repo": "drawdb-io/drawdb",
+  "url": "https://github.com/drawdb-io/drawdb",
+  "category": "Database",
+  "summary": "Trình soạn thảo trực quan miễn phí để thiết kế sơ đồ cơ sở dữ liệu và sinh SQL cho PostgreSQL, MySQL, SQLite",
+  "usecases": [
+    "Thiết kế sơ đồ CSDL cùng đội ngũ phát triển cho dự án mới",
+    "Sinh SQL tự động từ sơ đồ để triển khai nhanh vào production",
+    "Giảng dạy và học tập cấu trúc bảng dữ liệu qua giao diện trực quan"
+  ],
+  "ideas": [
+    "Kết hợp công cụ migration tự động chuyển đổi schema giữa các DB",
+    "Tạo plugin VS Code sinh SQL và preview dữ liệu từ sơ đồ",
+    "Kết hợp AI tối ưu cấu trúc bảng dựa trên sơ đồ vẽ"
+  ],
+  "stars": 39492,
+  "starsToday": 63,
+  "language": "JavaScript",
+  "topics": [
+    "database-schema",
+    "editor",
+    "mariadb",
+    "postgresql",
+    "sql",
+    "sql-server",
+    "sqlite",
+    "indexeddb",
+    "diagram-editor",
+    "erd",
+    "erdiagram",
+    "oracle-database",
+    "oracle-db",
+    "database",
+    "database-design",
+    "database-diagram",
+    "dbml",
+    "er-diagram",
+    "mcp",
+    "schema-design"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-09-12T22:48:44.279Z"
+}

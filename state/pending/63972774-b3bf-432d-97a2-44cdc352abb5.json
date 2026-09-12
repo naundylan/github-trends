@@ -1,0 +1,33 @@
+{
+  "id": "63972774-b3bf-432d-97a2-44cdc352abb5",
+  "repo": "wechaty/wechaty",
+  "url": "https://github.com/wechaty/wechaty",
+  "category": "AI Agent/Automation",
+  "summary": "SDK RPA cho TypeScript để xây dựng robot trò chuyện cho các nền tảng nhắn tin như WeChat và WhatsApp, hỗ trợ AI hội thoại và tự động hóa.",
+  "usecases": [
+    "Tự động hóa tương tác trên WeChat và WhatsApp cho doanh nghiệp, ví dụ: tự động trả lời khách hàng.",
+    "Xây dựng bot nội bộ cho các quy trình làm việc như đặt lịch hoặc truy vấn dữ liệu qua lệnh chat.",
+    "Tích hợp AI hội thoại để tạo ra robot có khả năng hiểu ngữ cảnh và phản hồi tự nhiên."
+  ],
+  "ideas": [
+    "Phát triển hệ thống thu thập feedback tự động từ khách hàng trên các nền tảng nhắn tin.",
+    "Tạo bot nội trợ giúp nhân viên quản lý lịch họp và calendar thông qua lệnh chat.",
+    "Kết hợp với LLM để tạo ra các agent AI có thể thực hiện các tác vụ phức tạp trên WeChat/WhatsApp."
+  ],
+  "stars": 23166,
+  "starsToday": 44,
+  "language": "TypeScript",
+  "topics": [
+    "wechaty",
+    "chatbot",
+    "wechat",
+    "whatsapp",
+    "conversational-ai",
+    "robotics",
+    "qq",
+    "framework",
+    "bot"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-12T22:48:44.279Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "600b2d04-b256-4dc1-9602-d0d5a9008055",
+  "repo": "raine/workmux",
+  "url": "https://github.com/raine/workmux",
+  "category": "Other",
+  "summary": "git worktrees + tmux windows for zero-friction parallel dev",
+  "usecases": [
+    "Khám phá và đánh giá raine/workmux cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 2518,
+  "starsToday": 90,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-12T22:48:44.279Z"
+}

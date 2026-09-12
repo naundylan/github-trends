@@ -1,0 +1,31 @@
+{
+  "id": "4940926e-e97e-4c51-ab31-e4da97ff7af7",
+  "repo": "reacherhq/check-if-email-exists",
+  "url": "https://github.com/reacherhq/check-if-email-exists",
+  "category": "API/GraphQL",
+  "summary": "Dịch vụ kiểm tra tồn tại email bằng Rust, xác thực email không cần gửi tin nhắn kèm theo backend HTTP",
+  "usecases": [
+    "Xác thực email trong quá trình đăng ký ứng dụng để giảm bounce rate",
+    "Kiểm tra hợp lệ email trong CRM trước khi gửi chiến dịch marketing",
+    "Tích hợp vào pipeline CI/CD cho validation input tự động"
+  ],
+  "ideas": [
+    "Kết hợp AI dự đoán khả năng deliverability dựa trên kết quả verify",
+    "Xây dựng browser extension verify email trên form đăng ký",
+    "Dùng làm middleware trong hệ thống ticketing validate email trước khi tạo account"
+  ],
+  "stars": 9734,
+  "starsToday": 69,
+  "language": "Rust",
+  "topics": [
+    "email",
+    "email-validation",
+    "email-verification",
+    "hacktoberfest",
+    "email-validation-api",
+    "email-verification-api",
+    "email-verifier"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-12T22:48:44.279Z"
+}
