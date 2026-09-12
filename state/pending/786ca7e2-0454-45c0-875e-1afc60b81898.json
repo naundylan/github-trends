@@ -1,0 +1,44 @@
+{
+  "id": "786ca7e2-0454-45c0-875e-1afc60b81898",
+  "repo": "melgarafael/DeskcommCRM",
+  "url": "https://github.com/melgarafael/DeskcommCRM",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng CRM mã nguồn mở, có thể tự triển khai, tập trung vào bán hàng và hỗ trợ khách hàng qua chat WhatsApp. Dự án tích hợp tác nhân AI bản địa, RAG, MCP, mô hình nhiều khách thuê và hỗ trợ tuân thủ LGPD.",
+  "usecases": [
+    "Quản lý hội thoại, khách hàng tiềm năng và quy trình bán hàng cho doanh nghiệp giao dịch qua WhatsApp.",
+    "Tự động trả lời câu hỏi về sản phẩm, chính sách hoặc đơn hàng bằng dữ liệu riêng của doanh nghiệp.",
+    "Cung cấp không gian CRM biệt lập cho nhiều khách hàng hoặc đội ngũ bán hàng trên cùng một hệ thống tự host."
+  ],
+  "ideas": [
+    "Kết hợp dữ liệu NuvemShop để gợi ý sản phẩm, tạo giỏ hàng và theo dõi chuyển đổi ngay trong hội thoại.",
+    "Phân tích cảm xúc và mức độ khẩn cấp để tự động ưu tiên cuộc trò chuyện trước khi chuyển cho nhân viên.",
+    "Dùng MCP để liên kết CRM với lịch, ERP và hệ thống hóa đơn, tạo thành quy trình bán hàng khép kín."
+  ],
+  "stars": 1572,
+  "starsToday": 505,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "crm",
+    "ecommerce",
+    "lgpd",
+    "multi-tenant",
+    "nextjs",
+    "nuvemshop",
+    "rag",
+    "supabase",
+    "typescript",
+    "waha",
+    "whatsapp",
+    "ai-agents",
+    "chatbot",
+    "customer-support",
+    "mcp",
+    "open-source",
+    "sales-automation",
+    "self-hosted",
+    "whatsapp-api"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-12T12:50:00.447Z"
+}

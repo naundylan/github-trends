@@ -1,0 +1,37 @@
+{
+  "id": "28a89f33-cd81-450c-a208-49788cf5f048",
+  "repo": "virgiliojr94/book-to-skill",
+  "url": "https://github.com/virgiliojr94/book-to-skill",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ biến PDF của sách kỹ thuật thành skill cho Claude Code, phục vụ học tập, tra cứu và hỗ trợ trong lúc làm việc. Nó chuyển tài liệu dài thành tài nguyên có cấu trúc, giúp tác nhân AI sử dụng kiến thức đúng ngữ cảnh hơn.",
+  "usecases": [
+    "Tự học sách kỹ thuật với tài liệu tham khảo và nội dung được tổ chức thành skill dễ sử dụng.",
+    "Hỗ trợ Claude Code áp dụng kiến thức từ sách khi triển khai, gỡ lỗi hoặc thiết kế mã nguồn.",
+    "Xây dựng bộ kỹ năng nội bộ cho nhóm phát triển từ tài liệu và sách chuyên môn."
+  ],
+  "ideas": [
+    "Tự động tạo câu đố, thẻ ghi nhớ và lịch ôn tập cách quãng từ từng chương sách.",
+    "Kết hợp nhiều skill sách để phân tích điểm mạnh, lỗ hổng kiến thức và đề xuất lộ trình học cá nhân hóa.",
+    "Liên kết skill với repository GitHub nhằm gợi ý chương phù hợp khi tác nhân gặp một vấn đề lập trình cụ thể."
+  ],
+  "stars": 30181,
+  "starsToday": 289,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "context-engineering",
+    "document-processing",
+    "edtech",
+    "knowledge-base",
+    "knowledge-management",
+    "llm",
+    "pdf-to-markdown",
+    "rag",
+    "self-study",
+    "study-tools",
+    "book-to-skill"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-12T12:50:00.447Z"
+}

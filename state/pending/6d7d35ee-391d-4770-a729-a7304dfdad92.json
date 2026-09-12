@@ -1,0 +1,31 @@
+{
+  "id": "6d7d35ee-391d-4770-a729-a7304dfdad92",
+  "repo": "yuliskov/SmartTube",
+  "url": "https://github.com/yuliskov/SmartTube",
+  "category": "Mobile (iOS/Android)",
+  "summary": "SmartTube là ứng dụng Android TV cho phép duyệt và phát nội dung đaimedia theo cách tùy chỉnh, với giao diện linh hoạt và hỗ trợ nhiều nguồn truyền媒.",
+  "usecases": [
+    "Phát video và nhạc trên Android TV box với các tùy chọn điều khiển cá nhân hóa",
+    "Truy cập các dịch vụ luồng truyền媒 cá nhân hoặc công cộng trên thiết bị TV",
+    "Tùy chỉnh giao diện và luồng phát cho các thiết bị có hạn chế phần cứng"
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống nhà thông minh để điều khiển phát nhạc/video bằng giọng nói hoặc cử chỉ",
+    "Phát chế độ offline cache cho nội dung đaimedia trên các thiết bị có kết nối không ổn định",
+    "Tạo plugin cho phép đồng bộ lịch sử xem giữa nhiều thiết bị TV"
+  ],
+  "stars": 33083,
+  "starsToday": 247,
+  "language": "Java",
+  "topics": [
+    "android",
+    "android-tv",
+    "android-tv-box",
+    "java",
+    "rxjava-android",
+    "retrofit2",
+    "kotlin"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-09-12T12:50:00.447Z"
+}
