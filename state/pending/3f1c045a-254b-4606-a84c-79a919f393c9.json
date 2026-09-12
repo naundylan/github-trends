@@ -1,0 +1,39 @@
+{
+  "id": "3f1c045a-254b-4606-a84c-79a919f393c9",
+  "repo": "RyanCodrai/turbovec",
+  "url": "https://github.com/RyanCodrai/turbovec",
+  "category": "AI/LLM",
+  "summary": "Thư viện index vector viết bằng Rust với Python bindings, cung cấp tìm kiếm nearest-neighbor nhanh cho embeddings và pipeline RAG.",
+  "usecases": [
+    "Tìm kiếm tài liệu liên quan trong ứng dụng Generative AI",
+    "Index vector cho hệ thống đề xuất và tìm kiếm semantic",
+    "Tối ưu hóa truy vấn vector với SIMD/AVX512 cho dữ liệu lớn"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình LLM cục bộ để tạo chat assistant không cần internet",
+    "Xây dựng hệ thống tìm kiếm code nguồn dựa trên ý nghĩa",
+    "Phát triển adapter tích hợp trực tiếp với PyTorch/TensorFlow"
+  ],
+  "stars": 16941,
+  "starsToday": 91,
+  "language": "Rust",
+  "topics": [
+    "ann",
+    "avx512",
+    "embeddings",
+    "faiss",
+    "nearest-neighbor",
+    "neon",
+    "python",
+    "quantization",
+    "rag",
+    "rust",
+    "simd",
+    "vector-search",
+    "embedding",
+    "quant",
+    "turboquant"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-12T02:41:54.526Z"
+}

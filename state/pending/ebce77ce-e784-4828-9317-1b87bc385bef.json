@@ -1,0 +1,32 @@
+{
+  "id": "ebce77ce-e784-4828-9317-1b87bc385bef",
+  "repo": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "category": "AI Agent/Automation",
+  "summary": "superpowers là framework kỹ năng agentic cho SDLC, tự động hóa quy trình phát triển phần mềm thông qua sub-agent để tăng năng suất code và brainstorming.",
+  "usecases": [
+    "Tự động hóa quy trình review code và sinh tài liệu dự án bằng các AI agent.",
+    "Hỗ trợ brainstorming và thiết kế kiến trúc phần mềm với nhiều sub-agent chuyên biệt.",
+    "Tích hợp vào pipeline CI/CD để tự động generate code và test cases."
+  ],
+  "ideas": [
+    "Tạo ra một developer personal assistant tự động hóa tasks lặp đi lặp lại trong codebase.",
+    "Kết hợp với IDE extension để cung cấp gợi ý thiết kế architecture real-time.",
+    "Phát triển hệ thống training custom skills cho team phát triển phần mềm."
+  ],
+  "stars": 285393,
+  "starsToday": 729,
+  "language": "Shell",
+  "topics": [
+    "ai",
+    "brainstorming",
+    "coding",
+    "obra",
+    "sdlc",
+    "skills",
+    "superpowers",
+    "subagent-driven-development"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-12T02:41:54.525Z"
+}

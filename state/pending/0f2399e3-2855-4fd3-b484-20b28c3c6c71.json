@@ -1,0 +1,44 @@
+{
+  "id": "0f2399e3-2855-4fd3-b484-20b28c3c6c71",
+  "repo": "diegosouzapw/OmniRoute",
+  "url": "https://github.com/diegosouzapw/OmniRoute",
+  "category": "AI/LLM",
+  "summary": "OmniRoute là AI gateway mã nguồn mở cung cấp một endpoint duy nhất để truy cập 1200+ mô hình LLM từ 352 nhà cung cấp, hỗ trợ tự động fallback theo quota và nén token tiết kiệm 15-95%.",
+  "usecases": [
+    "Triển khai ứng dụng AI nhanh chóng với nhiều provider LLM khác nhau mà không cần quản lý nhiều API keys.",
+    "Tiết kiệm chi phí token cho startup thông qua nén tự động và fallback thông minh.",
+    "Cho phép công cụ như Cursor, Codex, Cline kết nối một endpoint duy nhất để hỗ trợ đa mô hình."
+  ],
+  "ideas": [
+    "Xây dựng dashboard theo dõi sử dụng token và chi phí theo từng provider LLM.",
+    "Kết hợp với framework agent như AutoGPT để tạo ra router tự động chọn mô hình tốt nhất.",
+    "Phát triển PWA cho phép quản lý truy cập AI trên di động an toàn."
+  ],
+  "stars": 64911,
+  "starsToday": 801,
+  "language": "TypeScript",
+  "topics": [
+    "a2a",
+    "ai-agents",
+    "ai-gateway",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "cline",
+    "codex",
+    "copilot",
+    "cursor",
+    "deepseek",
+    "free-ai",
+    "gemini",
+    "llm-gateway",
+    "mcp",
+    "openai",
+    "openai-proxy",
+    "qwen",
+    "token-saver",
+    "kimi"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-12T02:41:54.525Z"
+}
