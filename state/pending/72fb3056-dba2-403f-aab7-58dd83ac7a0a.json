@@ -1,0 +1,23 @@
+{
+  "id": "72fb3056-dba2-403f-aab7-58dd83ac7a0a",
+  "repo": "petergyang/no-ai-slop",
+  "url": "https://github.com/petergyang/no-ai-slop",
+  "category": "NLP",
+  "summary": "Python tool to detect and remove patterns of AI-generated slop from text.",
+  "usecases": [
+    "Cleaning up articles suspected of containing AI filler",
+    "Automating the editing of drafts to remove repetitive AI patterns",
+    "Ensuring originality in content creation workflows"
+  ],
+  "ideas": [
+    "Integrate as a pre-processing step in LLM fine-tuning pipelines",
+    "Develop a browser extension to highlight AI slop in real-time",
+    "Create a metrics dashboard to quantify the 'slop score' of text"
+  ],
+  "stars": 8683,
+  "starsToday": 178,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/NLP.md",
+  "createdAt": "2026-09-13T02:34:44.241Z"
+}

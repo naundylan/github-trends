@@ -1,0 +1,31 @@
+{
+  "id": "16da6ca9-2b2b-4949-8d9c-b2ed71537a08",
+  "repo": "yuliskov/SmartTube",
+  "url": "https://github.com/yuliskov/SmartTube",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Android TV application for browsing media content with custom rules.",
+  "usecases": [
+    "Ad-free browsing of YouTube on Android TV devices",
+    "Customizing playback rules and skipping unwanted content segments",
+    "Managing media playback with user-defined preferences on smart TV"
+  ],
+  "ideas": [
+    "Develop a desktop version for Linux-based media centers (Kodi/Steam Deck)",
+    "Implement a plugin system for other Android TV apps to adopt the 'own rules' logic",
+    "Add support for remote control gestures to trigger custom playback rules"
+  ],
+  "stars": 33229,
+  "starsToday": 136,
+  "language": "Java",
+  "topics": [
+    "android",
+    "android-tv",
+    "android-tv-box",
+    "java",
+    "rxjava-android",
+    "retrofit2",
+    "kotlin"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-09-13T02:34:44.241Z"
+}

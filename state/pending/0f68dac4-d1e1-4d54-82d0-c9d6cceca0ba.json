@@ -1,0 +1,31 @@
+{
+  "id": "0f68dac4-d1e1-4d54-82d0-c9d6cceca0ba",
+  "repo": "teamclouday/AndroidMic",
+  "url": "https://github.com/teamclouday/AndroidMic",
+  "category": "Mobile (iOS/Android)",
+  "summary": "ứng dụng Android cho phép sử dụng điện thoại làm microphone cho PC thông qua kết nối mạng hoặc cáp USB, truyền tải âm thanh real-time",
+  "usecases": [
+    "sử dụng điện thoại làm mic cho các cuộc họp hoặc ghi âm trên PC khi mic nội bộ không hoạt động",
+    "phát thanh gaming hoặc livestream sử dụng mic điện thoại có chất lượng cao nhờrnnoise",
+    "kết nối cordless microphone cho các dự án IoT hoặc âm thanhembedded"
+  ],
+  "ideas": [
+    "tích hợp với các nền tảng VOIP để làm hệ thống intercom không dây",
+    "phát triển phiên bản iOS tương thích để cross-platform",
+    "sử dụng kết nối USB-serial cho các ứng dụng ghi âm chuyên nghiệp low-latency"
+  ],
+  "stars": 1636,
+  "starsToday": 47,
+  "language": "Rust",
+  "topics": [
+    "android-application",
+    "microphone",
+    "audio-streaming",
+    "tcp-socket",
+    "udp-socket",
+    "usb-serial",
+    "rnnoise"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-09-13T02:34:44.241Z"
+}
