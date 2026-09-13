@@ -1,0 +1,23 @@
+{
+  "id": "9a420c00-4ee9-4f56-9001-97a5c0f11273",
+  "repo": "microsoft/AI-Engineering-Coach",
+  "url": "https://github.com/microsoft/AI-Engineering-Coach",
+  "category": "AI Agent/Automation",
+  "summary": "Hướng dẫn và framework để cải thiện quy trình xây dựng các agent AI, giúp tối ưu hóa agentic engineering.",
+  "usecases": [
+    "Tối ưu hóa tự động hóa tác vụ phức tạp qua agent AI",
+    "Cung cấp best practices cho việc thiết kế và triển khai agent trong dự án",
+    "Tăng tốc độ phát triển phần mềm bằng các agent tự hành"
+  ],
+  "ideas": [
+    "Kết hợp với TypeScript SDK để tạo agent tùy chỉnh",
+    "Áp dụng trong giáo dục và training cho developer mới",
+    "Tạo ra hệ thống agent cá nhân cho từng thành viên team"
+  ],
+  "stars": 4021,
+  "starsToday": 184,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-13T22:52:16.666Z"
+}

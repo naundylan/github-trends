@@ -1,0 +1,23 @@
+{
+  "id": "54ce52c9-b4a9-483d-b1e3-5870fba40474",
+  "repo": "mattpocock/dictionary-of-ai-coding",
+  "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+  "category": "Documentation/Learning Resource",
+  "summary": "Một từ điển giải thích các thuật ngữ jargon về AI coding bằng tiếng Anh đơn giản, giúp developers nhanh chóng nắm bắt các khái niệm liên quan.",
+  "usecases": [
+    "Tài liệu tham khảo nhanh để hiểu các từ và khái niệm mới trong lĩnh vực AI coding.",
+    "Hỗ trợ training và onboarding cho new developers gia nhập dự án liên quan AI.",
+    "Tạo glossary tùy chỉnh cho team hoặc project cụ thể."
+  ],
+  "ideas": [
+    "Phát triển browser extension hiển thị giải thích khi hover over từ jargon trên web.",
+    "Kết hợp với LLM để tự động tạo định nghĩa mới dựa trên context project.",
+    "Xuất bản ứng dụng mobile/dictionary offline cho developers."
+  ],
+  "stars": 4567,
+  "starsToday": 207,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-13T22:52:16.666Z"
+}

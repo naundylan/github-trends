@@ -1,0 +1,31 @@
+{
+  "id": "a67d3758-c915-49bb-a92c-cb9a79024254",
+  "repo": "tech-leads-club/agent-skills",
+  "url": "https://github.com/tech-leads-club/agent-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Một registry kỹ năng bảo mật và xác thực cho các AI coding agent chuyên nghiệp, cho phép mở rộng Antigravity, Claude Code, Cursor, Copilot với độ tin cậy tuyệt đối.",
+  "usecases": [
+    "Quản lý và xác thực kỹ năng của AI coding agents trong teams phát triển phần mềm.",
+    "Tích hợp vào pipeline CI/CD để kiểm tra khả năng của agents trước khi deploy.",
+    "Đảm bảo tuân thủ và an ninh khi sử dụng AI assistants trong codebase."
+  ],
+  "ideas": [
+    "Tạo báo cáo kỹ năng tự động cho từng agent dựa trên lịch sử code review.",
+    "Kết hợp với policy-based access control để giới hạn khả năng của agents trong repo nhạy cảm.",
+    "Phát triển dashboard giám sát hiệu suất và độ tin cậy của agents theo thời gian thực."
+  ],
+  "stars": 5609,
+  "starsToday": 215,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "skills",
+    "ai",
+    "antigravity",
+    "claude-code",
+    "copilot",
+    "cursor"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-13T22:52:16.666Z"
+}

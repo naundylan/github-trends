@@ -1,0 +1,30 @@
+{
+  "id": "390452e8-36f2-4d55-b3bc-568ba5d1ce75",
+  "repo": "Swordfish90/cool-retro-term",
+  "url": "https://github.com/Swordfish90/cool-retro-term",
+  "category": "Desktop App",
+  "summary": "Terminal emulator mô phỏng màn hình cathode, cung giao diện rétro đẹp mắt cho Linux/macOS",
+  "usecases": [
+    "Terminal hàng ngày với giao diện thu hút cho nhà phát triển",
+    "Hiển thị trong video/demo hoặc màn hình chính để tạo cảm giác thời cũ",
+    "Tùy chỉnh và mở rộng cho terminal cá nhân hóa"
+  ],
+  "ideas": [
+    "Phát triển plugin hiển thị thông tin hệ thống thời thực trên màn hình cathode",
+    "Kết hợp với theme terminal khác tạo môi trường shell đa phong cách",
+    "Sử dụng trong chiếu màn hình phim hoặc trình chiếu trực tiếp"
+  ],
+  "stars": 26208,
+  "starsToday": 98,
+  "language": "QML",
+  "topics": [
+    "retro",
+    "qml",
+    "qt",
+    "macos",
+    "linux",
+    "terminal"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-13T22:52:16.666Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "6795fc8a-a549-48f8-a25a-a5d423e3db1e",
+  "repo": "huggingface/transformers",
+  "url": "https://github.com/huggingface/transformers",
+  "category": "Machine Learning",
+  "summary": "Transformers là framework mô hình machine learning state-of-the-art cho NLP, thịnh thị và đa phương tiện, hỗ trợ inference và training; điểm nổi bật là thư viện được sử dụng rộng rãi nhất trong cộng đồng AI để phát triển các ứng dụng ngôn ngữ.",
+  "usecases": [
+    "Train và fine-tune các mô hình ngôn ngữ cho ứng dụng chatbot",
+    "Dùng cho tác vụ phân tích cảm xúc và trích xuất thông tin từ văn bản",
+    "Triển khai mô hình nhận dạng giọng nói hoặc thị giác máy tính"
+  ],
+  "ideas": [
+    "Tạo chatbot cá nhân hóa sử dụng dữ liệu riêng tư trên cục bộ",
+    "Phát triển hệ thống tự động tạo nội dung marketing từ mô hình ngôn ngữ",
+    "Kết hợp với RAG (Retrieval-Augmented Generation) cho các ứng dụng enterprise search"
+  ],
+  "stars": 165472,
+  "starsToday": 102,
+  "language": "Python",
+  "topics": [
+    "nlp",
+    "natural-language-processing",
+    "pytorch",
+    "pytorch-transformers",
+    "transformer",
+    "model-hub",
+    "pretrained-models",
+    "speech-recognition",
+    "hacktoberfest",
+    "python",
+    "machine-learning",
+    "deep-learning",
+    "audio",
+    "deepseek",
+    "gemma",
+    "glm",
+    "llm",
+    "qwen",
+    "vlm"
+  ],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-09-13T22:52:16.666Z"
+}

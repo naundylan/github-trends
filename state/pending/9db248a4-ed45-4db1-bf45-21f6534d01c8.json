@@ -1,0 +1,27 @@
+{
+  "id": "9db248a4-ed45-4db1-bf45-21f6534d01c8",
+  "repo": "waditu/czsc",
+  "url": "https://github.com/waditu/czsc",
+  "category": "Developer Tool",
+  "summary": "Czsc là một thư viện/mô hình phân tích kỹ thuật dựa trên Rust, triển khai lý thuyết '缠中说禅' để phân tích cổ phiếu và tương lai, hỗ trợ giao dịch lượngitative và nghiên cứu dữ liệu tài chính.",
+  "usecases": [
+    "Phân tích kỹ thuật tự động cho cổ phiếu và tương lai dựa trên mẫu缠论",
+    "Xây dựng hệ thống giao dịch lượngitative với signals từ czsc",
+    "Nghiên cứu và backtest các mẫu đồ thị định nghĩa theo lý thuyết Chen"
+  ],
+  "ideas": [
+    "Kết hợp với API dữ liệu thị trường thời thực để tạo ra các tín hiệu giao dịch tự động",
+    "Phát triển giao diện web hiển thị các biểu đồ và phân tích缠论 tương tác",
+    "Sử dụng czsc trong các bot giao dịch crypto kết hợp với dữ liệu on-chain"
+  ],
+  "stars": 6190,
+  "starsToday": 59,
+  "language": "Rust",
+  "topics": [
+    "tushare",
+    "czsc",
+    "quant"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-13T22:52:16.667Z"
+}

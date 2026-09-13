@@ -1,0 +1,32 @@
+{
+  "id": "1320cb06-fd6c-42e5-be46-48cb96180d25",
+  "repo": "thesysdev/openui",
+  "url": "https://github.com/thesysdev/openui",
+  "category": "Web Frontend",
+  "summary": "OpenUI là tiêu chuẩn mở cho Generative UI, cho phép tạo giao diện web động qua mô tả văn bản; điểm nổi bật là tự động hóa thiết kế UI bằng AI mà không cần code thủ công.",
+  "usecases": [
+    "Tự động tạo giao diện web từ prompt văn bản",
+    "Tích hợp vào các framework AI agent để tạo UI động theo ngữ cảnh",
+    "Giúp thiết kế nhanh prototyping cho developers mà không cần vẽ layout thủ công"
+  ],
+  "ideas": [
+    "Tạo công cụ kéo-thả dựa trên generative UI cho low-code app development",
+    "Kết hợp với voice assistant để tạo giao diện theo yêu cầu giọng nói",
+    "Phát triển plugin cho VS Code để sinh UI trực tiếp từ code comment"
+  ],
+  "stars": 8935,
+  "starsToday": 106,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "generative-ui",
+    "ai",
+    "agent",
+    "javascript",
+    "llm",
+    "help-wanted",
+    "looking-for-contributors"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-13T22:52:16.666Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2305445f-e38f-47c7-9b9b-22ad1d961e76",
+  "repo": "ColeMurray/background-agents",
+  "url": "https://github.com/ColeMurray/background-agents",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống mã nguồn mở cho phép chạy agent làm nền (background) để tự động hóa quy trình phát triển và tạo code.",
+  "usecases": [
+    "Tự động hóa CI/CD với agent kiểm tra và deploy code",
+    "Tạo ra các module code dựa trên yêu cầu tự động thông qua agent",
+    "Quản lý và phối hợp nhiều agent song cùng cho large-scale project"
+  ],
+  "ideas": [
+    "Kết hợp với cloud runtime để scale agent theo yêu cầu",
+    "Xây dựng dashboard theo dõi trạng thái và hiệu suất agent",
+    "Tạo plugin cho IDE để agent can thiệp vào code đang viết"
+  ],
+  "stars": 3013,
+  "starsToday": 122,
+  "language": "TypeScript",
+  "topics": [
+    "background-agents",
+    "cloud-agents",
+    "software-factory"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-13T22:52:16.666Z"
+}

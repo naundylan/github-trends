@@ -1,0 +1,40 @@
+{
+  "id": "ea224941-7ee0-429c-ae2e-c0da351d84ce",
+  "repo": "sherlock-project/sherlock",
+  "url": "https://github.com/sherlock-project/sherlock",
+  "category": "CLI Tool",
+  "summary": "Sherlock là một công cụ CLI mã nguồn mở dùng để tìm kiếm và xác định tài khoản mạng xã hội bằng username trên nhiều nền tảng khác nhau, hỗ trợ các tác vụ OSINT và kiểm tra an ninh mạng.",
+  "usecases": [
+    "Tìm kiếm tài khoản giả mạo hoặc đăng nhập trái phép trên mạng xã hội",
+    "Thu thập thông tin OSINT cho các cuộc điều tra an ninh mạng",
+    "Kiểm tra sự tồn tại của username trên các nền tảng phổ biến để bảo mật tài khoản"
+  ],
+  "ideas": [
+    "Kết hợp với công cụ cảnh báo phishing để thông báo khi tài khoản được đánh cắp",
+    "Tích hợp vào pipeline CI/CD để tự động kiểm tra tên dùng자ername trong quá trình phát triển",
+    "Phát triển phiên bản browser extension hiển thị trạng thái tài khoản tức thời"
+  ],
+  "stars": 91453,
+  "starsToday": 68,
+  "language": "Python",
+  "topics": [
+    "osint",
+    "reconnaissance",
+    "linux",
+    "cli",
+    "sherlock",
+    "python3",
+    "redteam",
+    "tools",
+    "information-gathering",
+    "hacktoberfest",
+    "python",
+    "cybersecurity",
+    "cti",
+    "forensics",
+    "infosec",
+    "pentesting"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-13T22:52:16.667Z"
+}
