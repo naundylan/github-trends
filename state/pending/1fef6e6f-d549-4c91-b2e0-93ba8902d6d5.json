@@ -1,0 +1,27 @@
+{
+  "id": "1fef6e6f-d549-4c91-b2e0-93ba8902d6d5",
+  "repo": "git-ai-project/git-ai",
+  "url": "https://github.com/git-ai-project/git-ai",
+  "category": "Developer Tool",
+  "summary": "Git AI là tiện ích Git bằng Rust giúp ghi nhận và truy vết mã do AI tạo trong kho lưu trữ. Nó hỗ trợ xác định nguồn gốc thay đổi, phục hồi mã và thực hiện ai-blame để hiểu tác nhân tạo ra từng phần code.",
+  "usecases": [
+    "Theo dõi mã do AI hoặc coding agent tạo ra trong quá trình phát triển.",
+    "Khôi phục hoặc so sánh các thay đổi khi cần loại bỏ mã do AI sinh.",
+    "Phân tích lịch sử commit và nguyên nhân xuất hiện của đoạn mã cụ thể."
+  ],
+  "ideas": [
+    "Tích hợp cảnh báo tự động khi mã AI tạo ra vi phạm quy tắc kiểm thử hoặc bảo mật.",
+    "Tạo báo cáo chất lượng theo từng tác nhân AI đã đóng góp vào repository.",
+    "Kết hợp với CI để tự động gắn nhãn, kiểm tra và quản lý thay đổi do AI tạo."
+  ],
+  "stars": 2682,
+  "starsToday": 56,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "coding-agents",
+    "ai-blame"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-13T20:20:45.450Z"
+}

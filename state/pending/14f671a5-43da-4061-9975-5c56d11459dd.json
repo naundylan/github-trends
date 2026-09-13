@@ -1,0 +1,30 @@
+{
+  "id": "14f671a5-43da-4061-9975-5c56d11459dd",
+  "repo": "SnailSploit/Claude-Red",
+  "url": "https://github.com/SnailSploit/Claude-Red",
+  "category": "Security/Pentest",
+  "summary": "Thư viện kỹ năng Offensive Security được curate cho hệ thống Claude skills, cung cấp phương pháp chuyên môn cho các bề tấn công từ SQLi đến exploit development và EDR evasion.",
+  "usecases": [
+    "Tự động hóa quy trình kiểm tra xâm nhập (pentest) với các kỹ năng có cấu trúc cho Claude AI.",
+    "Hỗ trợ nghiên cứu an ninh mạng để phát triển phương pháp EDR evasion và exploit mới.",
+    "Sử dụng làm tài liệu tham khảo giáo dục an ninh mạng có hướng dẫn thực hành."
+  ],
+  "ideas": [
+    "Phát triển bộ skills tự động cho Claude xử lý các bề tấn công mới nổi lên trong môi trường doanh nghiệp.",
+    "Kết hợp với các framework pentest khác để tạo ra pipeline automated từ reconnaissance đến exploit.",
+    "Sử dụng trong training cho các chuyên gia an ninh mạng về các kỹ thuật exploit và evasion hiện đại."
+  ],
+  "stars": 4039,
+  "starsToday": 507,
+  "language": "Python",
+  "topics": [
+    "claude-ai",
+    "claude-skills",
+    "redteam",
+    "redteam-tools",
+    "skills",
+    "claude-pt"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-13T20:20:45.450Z"
+}

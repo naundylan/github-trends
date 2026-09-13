@@ -1,0 +1,28 @@
+{
+  "id": "864005d2-aedc-4ea6-b15b-27f748c1b461",
+  "repo": "jihe520/MathModelAgent",
+  "url": "https://github.com/jihe520/MathModelAgent",
+  "category": "AI/LLM",
+  "summary": "Agent tự động dựa trên LLM hoàn thành mô hình toán học và tạo báo cáo nghiên cứu đầy đủ sẵn sàng nộp",
+  "usecases": [
+    "Học sinh/sinh viên tạo báo cáo mô hình toán học tự động",
+    "Nghiên cứu khoa học nhanh tạo bản thảo mô hình với dữ liệu đa dạng",
+    "Tự động hóa quy trình tạo giải pháp toán học theo yêu cầu"
+  ],
+  "ideas": [
+    "Kết hợp cơ sở dữ liệu toán học tạo bài toán tùy chỉnh",
+    "Phát triển plugin cho nền tảng học tập trực tuyến",
+    "Tạo multi-agent giải quyết bài toán phức tạp theo nhiều phương pháp"
+  ],
+  "stars": 5323,
+  "starsToday": 268,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "llm",
+    "mathmodel",
+    "skills"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-13T20:20:45.450Z"
+}

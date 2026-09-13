@@ -1,0 +1,44 @@
+{
+  "id": "ceef59f9-87be-4bb6-8219-e1459d243901",
+  "repo": "melgarafael/DeskcommCRM",
+  "url": "https://github.com/melgarafael/DeskcommCRM",
+  "category": "Web Framework",
+  "summary": "DeskcommCRM là CRM self‑hosted mã nguồn mở, tích hợp AI agents và WhatsApp để tự động hoá quản lý khách hàng và doanh số qua chat.",
+  "usecases": [
+    "Quản lý khách hàng và leads qua WhatsApp.",
+    "Tự động hoá luồng bán hàng và hỗ trợ khách hàng bằng AI agents.",
+    "Phân tích dữ liệu doanh số để tối ưu chiến lược."
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng e‑commerce để tự động hoá đơn hàng và thanh toán.",
+    "Xây dựng plugin cho các hệ thống ERP hoặc CRM khác.",
+    "Cung cấp API cho các chatbot và ứng dụng messaging để quản lý khách hàng."
+  ],
+  "stars": 2121,
+  "starsToday": 444,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "crm",
+    "ecommerce",
+    "lgpd",
+    "multi-tenant",
+    "nextjs",
+    "nuvemshop",
+    "rag",
+    "supabase",
+    "typescript",
+    "waha",
+    "whatsapp",
+    "ai-agents",
+    "chatbot",
+    "customer-support",
+    "mcp",
+    "open-source",
+    "sales-automation",
+    "self-hosted",
+    "whatsapp-api"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-09-13T20:20:45.450Z"
+}

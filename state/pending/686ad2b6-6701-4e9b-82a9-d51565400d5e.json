@@ -1,0 +1,29 @@
+{
+  "id": "686ad2b6-6701-4e9b-82a9-d51565400d5e",
+  "repo": "jordan-gibbs/hyperresearch",
+  "url": "https://github.com/jordan-gibbs/hyperresearch",
+  "category": "AI Agent/Automation",
+  "summary": "HyperResearch là cơ sở tri thức nghiên cứu được điều khiển bởi tác nhân AI, tự thu thập, tìm kiếm và tổng hợp thông tin web. Kết quả được lưu thành wiki có khả năng truy vấn và theo dõi nguồn tài liệu.",
+  "usecases": [
+    "Tự động tổng hợp tài liệu thị trường, xu hướng công nghệ hoặc nghiên cứu học thuật vào một kho tri thức.",
+    "Xây dựng wiki dự án có liên kết nguồn để hỗ trợ ra quyết định và kiểm chứng thông tin.",
+    "Giao cho nhiều tác nhân thực hiện các nhánh nghiên cứu song song rồi hợp nhất thành báo cáo có cấu trúc."
+  ],
+  "ideas": [
+    "Kết hợp HyperResearch với hệ thống quản lý dự án để tự động cập nhật tài liệu khi yêu cầu mới được tạo.",
+    "Tạo biểu đồ tri thức và cảnh báo thay đổi khi các nguồn trong kho xuất hiện cập nhật quan trọng.",
+    "Thêm cơ chế phê duyệt con người trước khi đưa kết luận tự động vào tài liệu chính thức."
+  ],
+  "stars": 3192,
+  "starsToday": 191,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "agentskills",
+    "claude-code",
+    "deep-research",
+    "deep-research-agent"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-13T20:20:45.450Z"
+}

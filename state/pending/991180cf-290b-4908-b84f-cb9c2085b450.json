@@ -1,0 +1,31 @@
+{
+  "id": "991180cf-290b-4908-b84f-cb9c2085b450",
+  "repo": "yuliskov/SmartTube",
+  "url": "https://github.com/yuliskov/SmartTube",
+  "category": "Mobile (iOS/Android)",
+  "summary": "SmartTube là trình duyệt và ứng dụng phát media dành cho Android TV, cho phép người dùng tự thiết lập bộ lọc và quy tắc nội dung. Ứng dụng tối ưu cho TV box với giao diện điều khiển từ xa và hỗ trợ các nguồn media khác nhau.",
+  "usecases": [
+    "Tạo bộ lọc nội dung theo độ tuổi hoặc chủ đề trên Android TV.",
+    "Tìm kiếm và phát video từ nhiều nguồn media trong một giao diện thân thiện với điều khiển từ xa.",
+    "Cấu hình quyền riêng tư và giới hạn nội dung cho các hồ sơ người xem khác nhau."
+  ],
+  "ideas": [
+    "Thêm lịch xem gia đình để tự động áp dụng bộ lọc phù hợp theo từng thành viên.",
+    "Tích hợp cơ chế đề xuất dựa trên lịch sử xem và sở thích của từng hồ sơ.",
+    "Cho phép quản trị viên tạo danh sách nguồn tin cậy và khóa cấu hình bằng mật khẩu."
+  ],
+  "stars": 33405,
+  "starsToday": 238,
+  "language": "Java",
+  "topics": [
+    "android",
+    "android-tv",
+    "android-tv-box",
+    "java",
+    "rxjava-android",
+    "retrofit2",
+    "kotlin"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-09-13T20:20:45.450Z"
+}
