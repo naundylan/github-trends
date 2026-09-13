@@ -1,0 +1,23 @@
+{
+  "id": "5b99b062-1df2-439f-ae33-9392eb731d94",
+  "repo": "unclecode/crawl4ai",
+  "url": "https://github.com/unclecode/crawl4ai",
+  "category": "Data Engineering/ETL",
+  "summary": "Trình thu thập web mã nguồn mở được tối ưu hóa cho LLM, trích xuất và làm sạch nội dung từ trang web để sử dụng trong các mô hình ngôn ngữ.",
+  "usecases": [
+    "Thu thập dữ liệu huấn luyện cho các mô hình LLM từ các trang web công khai.",
+    "Trích xuất thông sản phẩm để đồng bộ vào cơ sở dữ liệu thương mại điện tử.",
+    "Tự động hóa việc thu thập tin tức và bài viết để phân tích cảm xúc hoặc tạo nội dung."
+  ],
+  "ideas": [
+    "Kết hợp với vector database để tạo hệ thống RAG (Retrieval-Augmented Generation) cá nhân hóa.",
+    "Phát triển crawler định kỳ để cập nhật dữ liệu cho chatbot doanh nghiệp.",
+    "Sử dụng để trích xuất mã nguồn từ repo GitHub để phân tích hoặc tài liệu hóa tự động."
+  ],
+  "stars": 82985,
+  "starsToday": 690,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-09-13T13:46:53.342Z"
+}

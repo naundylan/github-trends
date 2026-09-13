@@ -1,0 +1,35 @@
+{
+  "id": "00ea7f64-f4ad-4da4-83a6-4944094769bd",
+  "repo": "multimodal-art-projection/YuE",
+  "url": "https://github.com/multimodal-art-projection/YuE",
+  "category": "AI/LLM",
+  "summary": "Dự án YuE2 sinh nhạc frontier có khả năng lên kế hoạch biểu tượng, zero-shot covers và chỉnh sửa nhạc bởi agent sử dụng deep learning và LLMs.",
+  "usecases": [
+    "Sinh nhạc nền tự động cho video, game hoặc ứng dụng multimedia.",
+    "Tạo bản cover bài hát theo phong cách mới mà không cần dữ liệu huấn luyện.",
+    "Cho phép người dùng chỉnh sửa nhạc thông qua lệnh ngôn ngữ tự nhiên."
+  ],
+  "ideas": [
+    "Kết hợp với mô hình voice cloning để tạo ca sĩ ảo sinh nhạc live.",
+    "Sử dụng trong sáng tạo nhạc điện tử giúp người không chuyên tạo bài hát nhanh.",
+    "Phát triển ứng dụng web so sánh nhiều phong cách nhạc tạo ra cùng một lời nhắc."
+  ],
+  "stars": 7547,
+  "starsToday": 500,
+  "language": "Python",
+  "topics": [
+    "foundation-models",
+    "music-generation",
+    "huggingface",
+    "llama",
+    "audio-generation",
+    "voice-cloning",
+    "llms",
+    "style-transfers",
+    "ai",
+    "deep-learning",
+    "gpt"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-13T13:46:53.342Z"
+}

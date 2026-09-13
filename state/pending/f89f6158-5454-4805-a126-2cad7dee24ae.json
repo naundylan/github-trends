@@ -1,0 +1,21 @@
+{
+  "id": "f89f6158-5454-4805-a126-2cad7dee24ae",
+  "repo": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "category": "Other",
+  "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+  "usecases": [
+    "Khám phá và đánh giá JustVugg/colibri cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 29020,
+  "starsToday": 652,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-13T13:46:53.342Z"
+}

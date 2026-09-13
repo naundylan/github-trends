@@ -1,0 +1,44 @@
+{
+  "id": "547d49d8-0f16-471c-94a2-b992f3998f43",
+  "repo": "melgarafael/DeskcommCRM",
+  "url": "https://github.com/melgarafael/DeskcommCRM",
+  "category": "AI Agent/Automation",
+  "summary": "Một hệ điều hành bán hàng AI mã nguồn mở, tự lưu trữ, tích hợp các agent AI và WhatsApp để hỗ trợ khách hàng qua chat, cung cấp giải pháp thay thế cho các nền tảng CRM thương mại như Kommo, Octadesk và Intercom.",
+  "usecases": [
+    "Hỗ trợ khách hàng qua WhatsApp tự động cho các doanh nghiệp thương mại điện tử và dịch vụ.",
+    "Quản lý tương tác bán hàng đa kênh với các agent AI tích hợp, giúp nhân viên tập trung vào các giao dịch phức tạp.",
+    "Triển khai hệ thống CRM tuân thủ LGPD cho các công ty tại Brazil hoặc các khu vực có quy định nghiêm ngặt về bảo mật dữ liệu."
+  ],
+  "ideas": [
+    "Tích hợp thêm các kênh chat như Telegram hoặc Instagram Direct để mở rộng phạm vi tiếp cận khách hàng.",
+    "Xây dựng một bảng điều khiển quản trị cho phép tùy chỉnh các kịch bản agent AI theo từng ngành nghề cụ thể.",
+    "Phát triển một module phân tích dự đoán dựa trên dữ liệu lịch sử tương tác để đề xuất các chiến lược bán hàng tối ưu."
+  ],
+  "stars": 2024,
+  "starsToday": 444,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "crm",
+    "ecommerce",
+    "lgpd",
+    "multi-tenant",
+    "nextjs",
+    "nuvemshop",
+    "rag",
+    "supabase",
+    "typescript",
+    "waha",
+    "whatsapp",
+    "ai-agents",
+    "chatbot",
+    "customer-support",
+    "mcp",
+    "open-source",
+    "sales-automation",
+    "self-hosted",
+    "whatsapp-api"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-13T13:46:53.342Z"
+}
