@@ -1,0 +1,31 @@
+{
+  "id": "c79a5a98-cdb8-4520-8811-ff6d6e3768a7",
+  "repo": "tech-leads-club/agent-skills",
+  "url": "https://github.com/tech-leads-club/agent-skills",
+  "category": "Developer Tool",
+  "summary": "Một registry kỹ năng an toàn và đã được xác thực cho các agent lập trình AI chuyên nghiệp, giúp mở rộng các công cụ như Antigravity, Claude Code, Cursor và Copilot.",
+  "usecases": [
+    "Nhà phát triển có thể quản lý và chia sẻ các kỹ năng đã được xác thực cho các agent lập trình AI.",
+    "Đảm bảo nhất quán và an toàn khi sử dụng các công cụ lập trình AI trong đội ngũ.",
+    "Mở rộng khả năng của nhiều nền tảng lập trình AI từ một registry tập trung."
+  ],
+  "ideas": [
+    "Tích hợp với các đường ống CI/CD để tự động xác thực và triển khai kỹ năng agent.",
+    "Tạo một thị trường để chia sẻ và phát hiện các kỹ năng do cộng đồng tạo ra.",
+    "Kết hợp với công cụ phân tích mã để đề xuất kỹ năng dựa trên ngữ cảnh dự án."
+  ],
+  "stars": 5533,
+  "starsToday": 215,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "skills",
+    "ai",
+    "antigravity",
+    "claude-code",
+    "copilot",
+    "cursor"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-13T18:10:21.476Z"
+}

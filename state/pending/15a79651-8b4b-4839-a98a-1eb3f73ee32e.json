@@ -1,0 +1,43 @@
+{
+  "id": "15a79651-8b4b-4839-a98a-1eb3f73ee32e",
+  "repo": "huggingface/transformers",
+  "url": "https://github.com/huggingface/transformers",
+  "category": "Machine Learning",
+  "summary": "Transformers là framework Python để xây dựng, tải, huấn luyện và suy luận các mô hình học sâu tiên tiến cho văn bản, hình ảnh, âm thanh và đa phương tiện. Hệ sinh thái Model Hub cung cấp hàng nghìn mô hình tiền huấn luyện có thể tái sử dụng.",
+  "usecases": [
+    "Xây hệ thống phân tích văn bản, tóm tắt, dịch hoặc trả lời bằng mô hình ngôn ngữ.",
+    "Triển khai nhận diện đối tượng, phân loại ảnh hoặc mô hình thị giác đa phương tiện.",
+    "Xử lý âm thanh như nhận dạng lời nói, phân loại tiếng ồn hoặc phát hiện sự kiện."
+  ],
+  "ideas": [
+    "Kết hợp mô hình ngôn ngữ và thị giác để trợ lý AI mô tả, phân tích và trả lời về ảnh.",
+    "Tạo pipeline phát hiện bất thường đa phương tiện từ dữ liệu âm thanh và hình ảnh cảm biến.",
+    "Cá nhân hóa bộ gợi ý bằng cách kết hợp dữ liệu văn bản, hành vi người dùng và hình ảnh sản phẩm."
+  ],
+  "stars": 165397,
+  "starsToday": 102,
+  "language": "Python",
+  "topics": [
+    "nlp",
+    "natural-language-processing",
+    "pytorch",
+    "pytorch-transformers",
+    "transformer",
+    "model-hub",
+    "pretrained-models",
+    "speech-recognition",
+    "hacktoberfest",
+    "python",
+    "machine-learning",
+    "deep-learning",
+    "audio",
+    "deepseek",
+    "gemma",
+    "glm",
+    "llm",
+    "qwen",
+    "vlm"
+  ],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-09-13T18:10:21.477Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "fab0e4b1-7702-4744-a6a2-dfc680ac5d8a",
+  "repo": "thesysdev/openui",
+  "url": "https://github.com/thesysdev/openui",
+  "category": "AI Agent/Automation",
+  "summary": "OpenUI là một tiêu chuẩn mở bằng TypeScript để AI tạo giao diện người dùng theo ngữ cảnh và mục tiêu. Dự án tập trung vào Generative UI, cho phép agent biến tác vụ thành trải nghiệm tương tác thay vì chỉ trả về văn bản.",
+  "usecases": [
+    "Tạo giao diện đặt hàng, thanh toán hoặc quản lý đơn hàng tự động cho trợ lý AI.",
+    "Xây dashboard tương tác từ yêu cầu tự nhiên trong hệ thống hỗ trợ khách hàng.",
+    "Chuẩn hóa cách agent sinh và tích hợp UI trong nhiều nền tảng khác nhau."
+  ],
+  "ideas": [
+    "Kết hợp OpenUI với agent vận hành nội bộ để tự sinh màn hình theo dõi và xử lý sự cố.",
+    "Tạo trình hướng dẫn cá nhân hóa trong giáo dục, thay vì chỉ hiển thị bài viết tĩnh.",
+    "Dùng OpenUI làm lớp hiển thị chung cho nhiều mô hình ngôn ngữ và tác vụ."
+  ],
+  "stars": 8932,
+  "starsToday": 106,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "generative-ui",
+    "ai",
+    "agent",
+    "javascript",
+    "llm",
+    "help-wanted",
+    "looking-for-contributors"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-13T18:10:21.477Z"
+}

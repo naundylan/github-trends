@@ -1,0 +1,39 @@
+{
+  "id": "87435252-b7df-439a-8a58-179a269c5407",
+  "repo": "tbphp/gpt-load",
+  "url": "https://github.com/tbphp/gpt-load",
+  "category": "AI/LLM",
+  "summary": "Một cổng AI tự-hosted cho phép quản lý nhiều khóa API và tài khoản đăng ký từ các nhà cung cấp LLM khác nhau, hỗ trợ cân bằng tải, failover và ghi log sử dụng.",
+  "usecases": [
+    "Quản lý và phân phối yêu cầu đến các mô hình như OpenAI, Gemini, Claude để tránh vượt quá giới hạn rate limit.",
+    "Cung cấp một endpoint thống nhất cho các ứng dụng nội bộ gọi AI mà không cần phải xử lý từng khóa API riêng.",
+    "Theo dõi và báo cáo mức độ sử dụng tài nguyên AI để tối ưu chi phí."
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ cho các mô hình nguồn mở chạy trên GPU nội bộ để giảm phụ thuộc vào dịch vụ bên ngoài.",
+    "Thêm chức năng cache câu trả lời để giảm latency và chi phí cho các truy vấn lặp lại.",
+    "Tích hợp với hệ thống CI/CD để tự động thay đổi cấu hình cân bằng tải dựa trên hiệu suất thực tế của từng provider."
+  ],
+  "stars": 6720,
+  "starsToday": 80,
+  "language": "Go",
+  "topics": [
+    "go",
+    "golang",
+    "openai",
+    "gemini",
+    "gin",
+    "anthropic",
+    "claude",
+    "ai-gateway",
+    "claude-code",
+    "codex",
+    "llm",
+    "llm-gateway",
+    "load-balancer",
+    "api-gateway",
+    "self-hosted"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-13T18:10:21.477Z"
+}

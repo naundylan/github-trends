@@ -1,0 +1,27 @@
+{
+  "id": "9d082e75-3ab6-4457-af9f-83abb2692b45",
+  "repo": "waditu/czsc",
+  "url": "https://github.com/waditu/czsc",
+  "category": "Other",
+  "summary": "Czsc là một công cụ phân tích kỹ thuật dựa trên lý luận Chan, hỗ trợ giao dịch chứng khoán và futures thông qua quant trading.",
+  "usecases": [
+    "Phân tích kỹ thuật cho giao dịch cổ phiếu.",
+    "Backtest các chiến lược dựa trên lý luận Chan.",
+    "Tích hợp với các nền tảng quant trading."
+  ],
+  "ideas": [
+    "Kết hợp với mô hình machine learning để cải thiện dự đoán.",
+    "Sử dụng trong hệ thống robo-advisor.",
+    "Mở rộng thị trường sang tiền điện tử."
+  ],
+  "stars": 6188,
+  "starsToday": 59,
+  "language": "Rust",
+  "topics": [
+    "tushare",
+    "czsc",
+    "quant"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-13T18:10:21.477Z"
+}

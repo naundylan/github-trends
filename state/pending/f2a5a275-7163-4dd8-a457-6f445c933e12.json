@@ -1,0 +1,23 @@
+{
+  "id": "f2a5a275-7163-4dd8-a457-6f445c933e12",
+  "repo": "microsoft/AI-Engineering-Coach",
+  "url": "https://github.com/microsoft/AI-Engineering-Coach",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án cung cấp công cụ hỗ trợ phát triển các agent AI, giúp tối ưu hóa quy trình thiết kế và điều khiển agent tự động.",
+  "usecases": [
+    "Tự động hóa việc test và debug agent",
+    "Hỗ trợ thiết kế agent đa bước",
+    "Tích hợp vào CI/CD để triển khai agent"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý dự án để giao việc tự động cho agent",
+    "Tích hợp với công cụ phân hiệu suất agent",
+    "Dùng làm nền tảng cho chatbot doanh nghiệp"
+  ],
+  "stars": 4008,
+  "starsToday": 184,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-13T18:10:21.477Z"
+}

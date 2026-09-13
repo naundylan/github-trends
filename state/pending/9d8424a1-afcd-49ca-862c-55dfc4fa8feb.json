@@ -1,0 +1,30 @@
+{
+  "id": "9d8424a1-afcd-49ca-862c-55dfc4fa8feb",
+  "repo": "Swordfish90/cool-retro-term",
+  "url": "https://github.com/Swordfish90/cool-retro-term",
+  "category": "Developer Tool",
+  "summary": "Một terminal emulator đẹp mắt mô phỏng màn hình hơi hơi cũ của CRT, mang lại trải nghiệm sử dụng terminal cổ điển trên hệ điều hành hiện đại.",
+  "usecases": [
+    "Sử dụng làm terminal chính cho developers yêu thích giao diện retro.",
+    "Trình diễn hoặc demo các lệnh terminal trong các buổi thuyết trình với phong cách vintage.",
+    "Tích hợp vào môi trường làm việc để tăng cảm giác nostalgia và giảm stress."
+  ],
+  "ideas": [
+    "Kết hợp với các plugin hiển thị thông tin hệ thống (CPU, RAM) dưới dạng đồng hồ analog rétro.",
+    "Tạo theme thay đổi màu sắc theo thời gian của ngày (sáng, tối) để mô phỏng ánh sáng ban ngày/đêm trên màn hình CRT.",
+    "Phát hành phiên bản nhẹ nhàng chạy trên Raspberry Pi để dùng làm terminal hiển thị thông tin trong các thiết bị IoT."
+  ],
+  "stars": 26172,
+  "starsToday": 98,
+  "language": "QML",
+  "topics": [
+    "retro",
+    "qml",
+    "qt",
+    "macos",
+    "linux",
+    "terminal"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-13T18:10:21.477Z"
+}

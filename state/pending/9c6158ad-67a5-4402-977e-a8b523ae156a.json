@@ -1,0 +1,23 @@
+{
+  "id": "9c6158ad-67a5-4402-977e-a8b523ae156a",
+  "repo": "mattpocock/dictionary-of-ai-coding",
+  "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+  "category": "Documentation/Learning Resource",
+  "summary": "Từ điển giải thích thuật ngữ lập trình AI bằng tiếng Anh dễ hiểu, giúp nhà phát triển hiểu rõ các thuật ngữ trong lĩnh vực AI-assisted coding.",
+  "usecases": [
+    "Tham khảo nhanh cho các nhà phát triển mới làm quen với các công cụ lập trình AI.",
+    "Tài liệu giáo dục cho đội ngũ áp dụng các assistants lập trình AI.",
+    "Từ điển cho các kỹ thuật viên viết tài liệu cho các công cụ AI."
+  ],
+  "ideas": [
+    "Tích hợp như một trình duyệt mở rộng giải thích thuật ngữ trực tiếp.",
+    "Tạo ứng dụng di động để tra cứu nhanh trong các buổi làm việc.",
+    "Mở rộng sang các bản dịch đa ngôn ngữ cho các đội toàn cầu."
+  ],
+  "stars": 4562,
+  "starsToday": 207,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-13T18:10:21.477Z"
+}
