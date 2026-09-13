@@ -1,0 +1,34 @@
+{
+  "id": "1b742668-0b0d-477a-92d0-9489e8bfcdb8",
+  "repo": "junegunn/fzf",
+  "url": "https://github.com/junegunn/fzf",
+  "category": "CLI Tool",
+  "summary": "Một công cụ tìm kiếm mờ trên dòng lệnh, hỗ trợ nhiều shell và trình soạn thảo, giúp người dùng nhanh chóng tìm kiếm tệp, dòng lệnh, biến môi trường và nhiều nội dung khác một cách trực quan.",
+  "usecases": [
+    "Tìm kiếm nhanh các lệnh trong terminal",
+    "Điều hướng tệp trong dự án và lọc danh sách đầu ra của lệnh",
+    "Thực hiện tìm kiếm trong buffer của trình soạn thảo"
+  ],
+  "ideas": [
+    "Tích hợp với các công cụ CI/CD để tìm kiếm các bước xây dựng",
+    "Kết hợp với các plugin editor để tìm kiếm trong mã nguồn",
+    "Tạo ra một công cụ tìm kiếm toàn diện cho môi trường phát triển"
+  ],
+  "stars": 82952,
+  "starsToday": 27,
+  "language": "Go",
+  "topics": [
+    "fzf",
+    "go",
+    "bash",
+    "zsh",
+    "fish",
+    "vim",
+    "neovim",
+    "cli",
+    "unix",
+    "tmux"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-13T08:08:39.737Z"
+}

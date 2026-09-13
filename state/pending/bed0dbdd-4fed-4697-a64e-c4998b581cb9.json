@@ -1,0 +1,38 @@
+{
+  "id": "bed0dbdd-4fed-4697-a64e-c4998b581cb9",
+  "repo": "navidrome/navidrome",
+  "url": "https://github.com/navidrome/navidrome",
+  "category": "Productivity/Personal Tool",
+  "summary": "Một dịch vụ phát nhạc tự host cho phép bạn lưu trữ và phát nhạc trên nhiều thiết bị, hỗ trợ nhiều định dạng và có giao diện web thân thiện.",
+  "usecases": [
+    "Phát nhạc offline trên điện thoại và máy tính",
+    "Tạo thư viện nhạc cá nhân và chia sẻ trong mạng gia đình",
+    "Tích hợp với các thiết bị Raspberry Pi"
+  ],
+  "ideas": [
+    "Kết hợp với dịch vụ đồng bộ hóa đám mây để tự động đồng bộ thư viện nhạc",
+    "Tạo ra một radio cá nhân hóa dựa trên AI từ thư viện nhạc",
+    "Tích hợp với hệ thống chiếu sáng nhà thông minh để thay đổi nhạc theo tâm trạng"
+  ],
+  "stars": 23501,
+  "starsToday": 26,
+  "language": "Go",
+  "topics": [
+    "music",
+    "subsonic-server",
+    "subsonic",
+    "music-server",
+    "airsonic",
+    "streaming-audio",
+    "streaming-api",
+    "madsonic",
+    "streamer",
+    "self-hosted",
+    "media-server",
+    "navidrome",
+    "raspberry-pi",
+    "opensubsonic"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-13T08:08:39.737Z"
+}

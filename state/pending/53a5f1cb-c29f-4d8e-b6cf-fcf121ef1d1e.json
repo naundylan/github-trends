@@ -1,0 +1,41 @@
+{
+  "id": "53a5f1cb-c29f-4d8e-b6cf-fcf121ef1d1e",
+  "repo": "superradcompany/microsandbox",
+  "url": "https://github.com/superradcompany/microsandbox",
+  "category": "Developer Tool",
+  "summary": "Runtime và library nhẹ tạo microVM sandbox cho ứng dụng local-first.",
+  "usecases": [
+    "Chạy ứng dụng trong môi trường cô lập an toàn để test code và dependency.",
+    "Cung cấp sandbox cho plugin hoặc script user-facing trong ứng dụngdesktop.",
+    "Tối ưu tài nguyên so với VM truyền thống cho development local nhanh."
+  ],
+  "ideas": [
+    "Kết hợp với Docker runtime để cung cấp sandbox an toàn hơn cho CI/CD.",
+    "Phát triển framework microVM multi-tenant cho các ứng dụng SaaS.",
+    "Sử dụng cho edge computing hoặc local AI inference isolation."
+  ],
+  "stars": 8240,
+  "starsToday": 38,
+  "language": "Rust",
+  "topics": [
+    "agents",
+    "docker",
+    "linux",
+    "macos",
+    "sandbox",
+    "virtualization",
+    "vm",
+    "security",
+    "self-hosted",
+    "rust",
+    "windows",
+    "nodejs",
+    "typescript",
+    "local",
+    "microvm",
+    "golang",
+    "python"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-13T08:08:39.737Z"
+}

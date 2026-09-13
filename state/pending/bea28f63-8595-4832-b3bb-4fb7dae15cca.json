@@ -1,0 +1,31 @@
+{
+  "id": "bea28f63-8595-4832-b3bb-4fb7dae15cca",
+  "repo": "NVlabs/cuda-oxide",
+  "url": "https://github.com/NVlabs/cuda-oxide",
+  "category": "Other",
+  "summary": "cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
+  "usecases": [
+    "Khám phá và đánh giá NVlabs/cuda-oxide cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 3303,
+  "starsToday": 31,
+  "language": "Rust",
+  "topics": [
+    "compiler-backend",
+    "async",
+    "cuda",
+    "gpu",
+    "high-performance-computing",
+    "nvidia",
+    "programming-languages",
+    "rust",
+    "heterogeneous-computing"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-13T08:08:39.737Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "5ab53e3f-380d-4120-a0f0-46a71b5bcc44",
+  "repo": "rustfs/rustfs",
+  "url": "https://github.com/rustfs/rustfs",
+  "category": "Cloud/Hosting",
+  "summary": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+  "usecases": [
+    "Storing large-scale data in a distributed, scalable manner",
+    "Providing alternative S3-compatible storage solutions for cloud-native applications",
+    "Enabling hybrid storage architectures combining different object storage backends"
+  ],
+  "ideas": [
+    "Integrate with Kubernetes for dynamic scaling of object storage instances",
+    "Combine with serverless functions for on-demand data processing workflows",
+    "Implement cross-platform compatibility with multiple cloud providers"
+  ],
+  "stars": 32033,
+  "starsToday": 30,
+  "language": "Rust",
+  "topics": [
+    "bigdata",
+    "cloud-native",
+    "filesystem",
+    "object-storage",
+    "rust",
+    "s3",
+    "minio",
+    "amazon-s3",
+    "objectstorage",
+    "ai-native",
+    "multi-cloud",
+    "ai-storage"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-09-13T08:08:39.737Z"
+}

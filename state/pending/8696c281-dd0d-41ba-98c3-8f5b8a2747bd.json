@@ -1,0 +1,39 @@
+{
+  "id": "8696c281-dd0d-41ba-98c3-8f5b8a2747bd",
+  "repo": "0xranx/OpenContext",
+  "url": "https://github.com/0xranx/OpenContext",
+  "category": "AI Agent/Automation",
+  "summary": "OpenContext là một kho lưu trữ ngữ cảnh cá nhân cho các AI agent và trợ lý, cho phép tái sử dụng các CLI agent hiện có với các công cụ tích hợp và giao diện desktop để capture, tìm kiếm và tái sử dụng kiến thức dự án.",
+  "usecases": [
+    "Tái sử dụng ngữ cảnh giữa các agent AI khác nhau như Codex hoặc Claude",
+    "Tìm kiếm và truy xuất kiến thức dự án một cách nhanh chóng qua nhiều repository",
+    "Tích hợp với các công cụ phát triển hiện có để tự động capture ngữ cảnh làm việc"
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng quản lý dự án như Jira để tự động lưu ngữ cảnh task",
+    "Phát triển plugin cho các IDE phổ biến như VS Code để tăng tính tiện dụng",
+    "Tích hợp vào hệ thống CI/CD để capture và chia sẻ ngữ cảnh tự động trong quy trình build"
+  ],
+  "stars": 1127,
+  "starsToday": 46,
+  "language": "JavaScript",
+  "topics": [
+    "agent",
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "context",
+    "context-management",
+    "cursor",
+    "desktop-app",
+    "developer-tools",
+    "knowledge-base",
+    "mcp",
+    "opencode",
+    "tauri"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-13T08:08:39.737Z"
+}

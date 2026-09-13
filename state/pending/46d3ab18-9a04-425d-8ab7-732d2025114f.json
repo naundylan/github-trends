@@ -1,0 +1,37 @@
+{
+  "id": "46d3ab18-9a04-425d-8ab7-732d2025114f",
+  "repo": "DioxusLabs/dioxus",
+  "url": "https://github.com/DioxusLabs/dioxus",
+  "category": "Web Framework",
+  "summary": "Dioxus là một khung phần mềm fullstack cho web, desktop và mobile, sử dụng Rust và virtual DOM để xây dựng ứng dụng hiệu quả trên nhiều nền tảng.",
+  "usecases": [
+    "Xây dựng ứng dụng cross-platform với một codebase duy nhất",
+    "Phát triển web app với hiệu suất cao bằng Rust",
+    "Tạo ứng dụng mobile và desktop có cảm giác native"
+  ],
+  "ideas": [
+    "Kết hợp với các backend như Axum để tạo full-stack apps",
+    "Sử dụng WebAssembly để tăng hiệu suất web",
+    "Mở rộng cho các thiết bị IoT với khả năng nhúng của Rust"
+  ],
+  "stars": 39075,
+  "starsToday": 33,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "virtualdom",
+    "react",
+    "ui",
+    "wasm",
+    "web",
+    "html",
+    "css",
+    "ssr",
+    "ios",
+    "android",
+    "native",
+    "desktop"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-09-13T08:08:39.737Z"
+}
