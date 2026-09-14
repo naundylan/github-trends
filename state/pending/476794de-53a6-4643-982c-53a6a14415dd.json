@@ -1,0 +1,42 @@
+{
+  "id": "476794de-53a6-4643-982c-53a6a14415dd",
+  "repo": "ever-co/ever-gauzy",
+  "url": "https://github.com/ever-co/ever-gauzy",
+  "category": "Other",
+  "summary": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+  "usecases": [
+    "Khám phá và đánh giá ever-co/ever-gauzy cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 5507,
+  "starsToday": 191,
+  "language": "TypeScript",
+  "topics": [
+    "hr",
+    "salary",
+    "accounting",
+    "expenses",
+    "billing",
+    "productivity",
+    "time-tracker",
+    "team-management",
+    "invoices",
+    "invoicing",
+    "bookkeeping",
+    "payroll",
+    "crm",
+    "erp",
+    "timetracking",
+    "time-tracking",
+    "crm-platform",
+    "human-resources",
+    "issue-tracker",
+    "project-management"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-14T08:40:47.336Z"
+}

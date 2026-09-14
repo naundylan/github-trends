@@ -1,0 +1,30 @@
+{
+  "id": "a47af111-0457-4746-a1d9-dfc68b7406af",
+  "repo": "restic/restic",
+  "url": "https://github.com/restic/restic",
+  "category": "CLI Tool",
+  "summary": "Fast, secure, and efficient backup program written in Go.",
+  "usecases": [
+    "Backup personal files",
+    "Backup server data",
+    "Disaster recovery"
+  ],
+  "ideas": [
+    "Integrate with cloud storage providers",
+    "Automate backups via scheduled jobs",
+    "Add granular restore options"
+  ],
+  "stars": 36040,
+  "starsToday": 27,
+  "language": "Go",
+  "topics": [
+    "go",
+    "restic",
+    "backup",
+    "deduplication",
+    "dedupe",
+    "secure-by-default"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-14T08:40:47.337Z"
+}

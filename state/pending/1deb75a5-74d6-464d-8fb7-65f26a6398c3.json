@@ -1,0 +1,28 @@
+{
+  "id": "1deb75a5-74d6-464d-8fb7-65f26a6398c3",
+  "repo": "nektos/act",
+  "url": "https://github.com/nektos/act",
+  "category": "CLI Tool",
+  "summary": "Act là công cụ dòng lệnh cho phép chạy các công việc GitHub Actions trên máy tính local, giúp phát triển và debug workflow mà không cần push lên repository.",
+  "usecases": [
+    "Kiểm tra workflow CI/CD trước khi commit lên GitHub",
+    "Phát triển và thử nghiệm các script tự động hóa mà không cần mạng",
+    "Chạy các tác vụ định kỳ trong môi trường development"
+  ],
+  "ideas": [
+    "Tích hợp với IDE để chạy và debug workflow trực tiếp trong editor",
+    "Tạo giao diện đồ họa để thiết kế workflow bằng kéo thả",
+    "Kết hợp với công cụ monitoring để ghi lại hiệu suất của từng bước trong workflow"
+  ],
+  "stars": 71994,
+  "starsToday": 38,
+  "language": "Go",
+  "topics": [
+    "github-actions",
+    "golang",
+    "ci",
+    "devops"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-14T08:40:47.336Z"
+}

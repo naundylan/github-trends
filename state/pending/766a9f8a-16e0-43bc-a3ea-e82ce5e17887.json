@@ -1,0 +1,37 @@
+{
+  "id": "766a9f8a-16e0-43bc-a3ea-e82ce5e17887",
+  "repo": "DioxusLabs/dioxus",
+  "url": "https://github.com/DioxusLabs/dioxus",
+  "category": "Web Framework",
+  "summary": "Khung ứng dụng fullstack bằng Rust cho web, desktop và di động, sử dụng mô hình VirtualDOM quen thuộc với React. Dự án hỗ trợ JSX, SSR, WASM và khả năng triển khai trên nhiều nền tảng từ một mã nguồn.",
+  "usecases": [
+    "Xây dựng web app và dashboard dùng chung logic nghiệp vụ với ứng dụng desktop hoặc di động.",
+    "Phát triển ứng dụng nội bộ có giao diện React-like nhưng triển khai bằng Rust và WebAssembly.",
+    "Tạo ứng dụng đa nền tảng với hỗ trợ render server và giao diện native."
+  ],
+  "ideas": [
+    "Kết hợp Dioxus với AI để tạo giao diện dashboard tự động từ dữ liệu nghiệp vụ.",
+    "Xây dựng ứng dụng quản trị nội bộ có phiên bản web, Windows/macOS và di động từ một codebase.",
+    "Tích hợp SSR và edge rendering để tối ưu tốc độ cho portal khách hàng."
+  ],
+  "stars": 39122,
+  "starsToday": 37,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "virtualdom",
+    "react",
+    "ui",
+    "wasm",
+    "web",
+    "html",
+    "css",
+    "ssr",
+    "ios",
+    "android",
+    "native",
+    "desktop"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-09-14T08:40:47.336Z"
+}

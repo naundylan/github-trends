@@ -1,0 +1,27 @@
+{
+  "id": "3f2bf435-379c-4d5d-80f8-a8050e96d87b",
+  "repo": "pdone/lx-music-source",
+  "url": "https://github.com/pdone/lx-music-source",
+  "category": "Other",
+  "summary": "Kho nguồn nhạc JavaScript cho LX Music, cung cấp các nguồn tìm kiếm và phát nhạc có thể tích hợp vào LX Music Desktop và mobile. Điểm nổi bật là mở rộng khả năng tìm kiếm nội dung âm nhạc cho ứng dụng.",
+  "usecases": [
+    "Thêm nguồn nhạc mới vào LX Music để mở rộng khả năng tìm kiếm.",
+    "Tích hợp các API hoặc cơ chế truy xuất nhạc vào LX Music Desktop và mobile.",
+    "Phát triển plugin nguồn nhạc tùy biến theo nhu cầu người dùng."
+  ],
+  "ideas": [
+    "Tạo bộ nguồn nhạc theo danh mục, ngôn ngữ hoặc khu vực để tìm kiếm chính xác hơn.",
+    "Kết hợp plugin với cơ sở dữ liệu người dùng để đề xuất bài hát cá nhân hóa.",
+    "Chuẩn hóa nguồn nhạc để dễ dàng đóng góp và quản lý nhiều nhà cung cấp nội dung."
+  ],
+  "stars": 8770,
+  "starsToday": 35,
+  "language": "JavaScript",
+  "topics": [
+    "lx-music",
+    "lx-music-desktop",
+    "lx-music-mobile"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-14T08:40:47.336Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "d5f08fc6-a181-43d9-a580-d2731570ffdf",
+  "repo": "usememos/memos",
+  "url": "https://github.com/usememos/memos",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "Open-source self-hosted note-taking tool for quick capture, Markdown-native and lightweight.",
+  "usecases": [
+    "Personal note taking",
+    "Team knowledge base",
+    "Knowledge sharing"
+  ],
+  "ideas": [
+    "Integrate AI summarization",
+    "Provide API for third-party integrations",
+    "Add collaborative editing features"
+  ],
+  "stars": 63022,
+  "starsToday": 35,
+  "language": "Go",
+  "topics": [
+    "react",
+    "go",
+    "sqlite",
+    "markdown",
+    "self-hosted",
+    "note-taking",
+    "memo",
+    "docker",
+    "microblog",
+    "social-network",
+    "notecard",
+    "foss",
+    "own-your-data"
+  ],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-09-14T08:40:47.337Z"
+}

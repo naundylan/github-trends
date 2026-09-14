@@ -1,0 +1,27 @@
+{
+  "id": "7e0923cc-bc35-4825-8591-c2e5a3631567",
+  "repo": "git-ai-project/git-ai",
+  "url": "https://github.com/git-ai-project/git-ai",
+  "category": "Developer Tool",
+  "summary": "Mở rộng Git để theo dõi và đánh dấu code do AI tạo ra, giúp team kiểm soát nguồn gốc và chất lượng code AI.",
+  "usecases": [
+    "Theo dõi code AI trong commits và pull requests",
+    "Kiểm soát nguồn gốc code AI cho đội ngũ phát triển",
+    "Tích hợp vào quy trình CI/CD để đánh dấu code tự động"
+  ],
+  "ideas": [
+    "Kết hợp với AI coding agents để tự động review code AI",
+    "Phát triển plugin VS Code hiển thị AI blame trực tiếp trong editor",
+    "Tạo báo cáo định kỳ về tỷ lệ code AI trong repository"
+  ],
+  "stars": 2701,
+  "starsToday": 44,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "coding-agents",
+    "ai-blame"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-14T08:40:47.336Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "d22b629e-e0f1-4c35-871e-245a234f38f1",
+  "repo": "davila7/claude-code-templates",
+  "url": "https://github.com/davila7/claude-code-templates",
+  "category": "CLI Tool",
+  "summary": "Cung cấp CLI để cấu hình và giám sát Claude Code, giúp quản lý và theo dõi tác vụ code AI hiệu quả.",
+  "usecases": [
+    "Cấu hình và khởi chạy Claude Code với các preset tùy chỉnh",
+    "Giám sát tiến độ và kết quả code AI trong các dự án lớn",
+    "Tích hợp vào quy trình tự động hóa của developer"
+  ],
+  "ideas": [
+    "Phát triển dashboard trực quan theo dõi hiệu suất và chi phí code AI",
+    "Tạo template đa ngôn ngữ cho các dự án sử dụng Claude Code",
+    "Kết hợp với CI/CD để tự động deploy và monitor sessions"
+  ],
+  "stars": 30719,
+  "starsToday": 40,
+  "language": "Python",
+  "topics": [
+    "anthropic",
+    "anthropic-claude",
+    "claude",
+    "claude-code"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-14T08:40:47.336Z"
+}

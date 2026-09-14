@@ -1,0 +1,38 @@
+{
+  "id": "8824dd8d-2a1f-4530-888f-cd595797ff45",
+  "repo": "plugin87/ux-ui-agent-skills",
+  "url": "https://github.com/plugin87/ux-ui-agent-skills",
+  "category": "Other",
+  "summary": "Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claiming success. Install as a Claude Code plugin or with npx.",
+  "usecases": [
+    "Khám phá và đánh giá plugin87/ux-ui-agent-skills cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 1260,
+  "starsToday": 63,
+  "language": "JavaScript",
+  "topics": [
+    "accessibility",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "component-library",
+    "design-system",
+    "design-to-code",
+    "design-tokens",
+    "dtcg",
+    "figma",
+    "react",
+    "tailwindcss",
+    "ui",
+    "ux",
+    "wcag"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-14T08:40:47.336Z"
+}
