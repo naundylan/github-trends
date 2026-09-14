@@ -1,0 +1,28 @@
+{
+  "id": "649828c2-7bb7-4970-b6f0-e01ce5645aed",
+  "repo": "localsend/localsend",
+  "url": "https://github.com/localsend/localsend",
+  "category": "Cross-platform Mobile",
+  "summary": "LocalSend là ứng dụng mã nguồn mở cross-platform cho phép chia sẻ tệp và thông tin giữa các thiết bị mà không cần internet, là thay thế tự do cho AirDrop.",
+  "usecases": [
+    "Chia sẻ nhanh hình ảnh và tệp giữa iPhone và laptop mà không cần cáp hoặc mạng.",
+    "Truyền dữ liệu an toàn giữa các máy tính trong mạng nội bộ (LAN) cho công việc.",
+    "Di chuyển tệp giữa các thiết bị Android và iOS trong các tình huống không có kết nối."
+  ],
+  "ideas": [
+    "Tích hợp mã hóa end-to-end cho các tệp nhạy cảm trong môi trường doanh nghiệp.",
+    "Phát triển plugin cho phép chia sẻ tệp trực tiếp từ trình duyệt web.",
+    "Tạo tính năng đồng bộ nhật ký thay đổi cho các nhà phát triển phần mềm giữa nhiều máy."
+  ],
+  "stars": 91245,
+  "starsToday": 311,
+  "language": "Dart",
+  "topics": [
+    "flutter",
+    "file-sharing",
+    "dart",
+    "flutter-apps"
+  ],
+  "notePath": "notes/Cross-platform-Mobile.md",
+  "createdAt": "2026-09-14T21:19:14.657Z"
+}

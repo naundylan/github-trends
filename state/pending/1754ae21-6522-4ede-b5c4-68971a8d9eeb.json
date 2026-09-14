@@ -1,0 +1,44 @@
+{
+  "id": "1754ae21-6522-4ede-b5c4-68971a8d9eeb",
+  "repo": "dgtlmoon/changedetection.io",
+  "url": "https://github.com/dgtlmoon/changedetection.io",
+  "category": "Developer Tool",
+  "summary": "Công cụ mã nguồn mở giám sát thay đổi website, theo dõi nội dung, giá cả và cảnh báo tự động cho mục đích monitoring và web scraping.",
+  "usecases": [
+    "Theo dõi thay đổi giá sản phẩm e-commerce và gửi cảnh báo khi giảm giá",
+    "Giám sát uptime và nội dung website cho doanh nghiệp",
+    "Tích hợp với notification systems (Slack, Email) để tự động thông báo restock hoặc defacement"
+  ],
+  "ideas": [
+    "Phát triển dashboard giám sát đa dạng website trên cùng một giao diện",
+    "Kết hợp với AI để phân tích loại thay đổi (text, image, layout)",
+    "Xây dựng SaaS multi-user cho phép team theo dõi nhiều URL cá nhân"
+  ],
+  "stars": 34118,
+  "starsToday": 135,
+  "language": "Python",
+  "topics": [
+    "website-monitor",
+    "website-monitoring",
+    "change-detection",
+    "monitoring",
+    "self-hosted",
+    "change-alert",
+    "change-monitoring",
+    "website-change-monitor",
+    "url-monitor",
+    "website-change-detector",
+    "website-change-detection",
+    "website-change-tracker",
+    "website-change-notification",
+    "notifications",
+    "web-scraping",
+    "restock-monitor",
+    "website-defacement-monitoring",
+    "back-in-stock",
+    "website-watcher",
+    "rss"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-14T21:19:14.658Z"
+}

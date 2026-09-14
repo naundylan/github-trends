@@ -1,0 +1,38 @@
+{
+  "id": "e82f29ec-a2f8-4624-866e-170a36f79beb",
+  "repo": "OpenBMB/VoxCPM",
+  "url": "https://github.com/OpenBMB/VoxCPM",
+  "category": "AI/LLM",
+  "summary": "VoxCPM2 là mô hình TTS tokenizer-free hỗ trợ sinh giọng đa ngôn ngữ, thiết kế giọng nói sáng tạo và sao chép giọng thật với chất lượng cao.",
+  "usecases": [
+    "Tạo nội dung âm thanh cho video, podcast hoặc ứng dụng giáo dục với giọng đọc tự định nghĩa và đa ngôn ngữ.",
+    "Sao chép giọng nói cho nhân vật trong trò chơi hoặc mục đích điện trí với sự đồng ý phù hợp.",
+    "Hỗ trợ người khiếm thị hoặc người mất giọng bằng cách tạo ra giọng nói cá nhân từ dữ liệu có sẵn."
+  ],
+  "ideas": [
+    "Kết hợp với mô hình LLM để tạo ra các cuộc hội thoại tự nhiên với giọng người dùng được clone.",
+    "Phát triển ứng dụng mobile cho phép người dùng tạo ra giọng nói riêng cho trợ lý ảo cá nhân.",
+    "Sử dụng trong hệ thống gọi điện tự động cho dịch vụ khách hàng với nhiều ngôn ngữ và giọng điệu khác nhau."
+  ],
+  "stars": 37323,
+  "starsToday": 204,
+  "language": "Python",
+  "topics": [
+    "audio",
+    "deeplearning",
+    "minicpm",
+    "python",
+    "pytorch",
+    "speech",
+    "speech-synthesis",
+    "text-to-speech",
+    "tts",
+    "tts-model",
+    "voice-cloning",
+    "multilingual",
+    "voice-design",
+    "voxcpm"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-14T21:19:14.657Z"
+}

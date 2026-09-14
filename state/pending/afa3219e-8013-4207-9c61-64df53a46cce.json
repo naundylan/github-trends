@@ -1,0 +1,44 @@
+{
+  "id": "afa3219e-8013-4207-9c61-64df53a46cce",
+  "repo": "ever-co/ever-gauzy",
+  "url": "https://github.com/ever-co/ever-gauzy",
+  "category": "Other",
+  "summary": "Ever Gauzy là một nền tảng quản lý kinh doanh mã nguồn mở tích hợp ERP, CRM, HRM và quản lý thời gian, giúp tự động hóa quy trình nhân sự, tài chính và quản lý dự án.",
+  "usecases": [
+    "Quản lý nhân sự và lương cho các doanh nghiệp vừa và nhỏ.",
+    "Theo dõi dự án và tài chính, tự động hóa hóa đơn và thanh toán.",
+    "Cung cấp nền tảng CRM cho đội ngũ bán hàng theo dõi khách hàng và quản lý leads."
+  ],
+  "ideas": [
+    "Tích hợp với các công thức thanh toán quốc tế để tạo hệ thống quản lý xuất khẩu.",
+    "Phát triển module AI để dự báo doanh thu dựa trên dữ liệu lịch sử.",
+    "Tạo ứng dụng di động đồng bộ để quản lý dự án tại chỗ."
+  ],
+  "stars": 5885,
+  "starsToday": 1095,
+  "language": "TypeScript",
+  "topics": [
+    "hr",
+    "salary",
+    "accounting",
+    "expenses",
+    "billing",
+    "productivity",
+    "time-tracker",
+    "team-management",
+    "invoices",
+    "invoicing",
+    "bookkeeping",
+    "payroll",
+    "crm",
+    "erp",
+    "timetracking",
+    "time-tracking",
+    "crm-platform",
+    "human-resources",
+    "issue-tracker",
+    "project-management"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-14T21:19:14.657Z"
+}

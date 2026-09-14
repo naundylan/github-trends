@@ -1,0 +1,28 @@
+{
+  "id": "3e7ef9ac-d78c-48c0-af2a-a852474d7917",
+  "repo": "reconurge/flowsint",
+  "url": "https://github.com/reconurge/flowsint",
+  "category": "Security/Pentest",
+  "summary": "Nền tảng đồ họa hiện đại cho phép điều tra bảo mật linh hoạt, giúp analyst OSINT trực quan hóa và khám phá mối quan hệ giữa các đối tượng trong các vụ tấn công hoặc gian lận.",
+  "usecases": [
+    "Phân tích và trực quan hóa đồ thị mối quan hệ giữa các địa chỉ IP, domain và hash trong các vụ phishing.",
+    "Tổng hợp dữ liệu OSINT từ nhiều nguồn để tạo bản đồ điều tra cho các vụ gian lận tài chính.",
+    "Theo dõi vectơ tấn công và hạ tầng mạng lưới thông qua bản đồ đồ họa thời gian thực."
+  ],
+  "ideas": [
+    "Kết hợp AI để tự động đề xuất các đường điều tra tiềm năng dựa trên cấu trúc đồ thị.",
+    "Phát triển xuất bản đồ sang các định dạng đồ họa cho báo cáo an ninh mạng chuyên nghiệp.",
+    "Sử dụng dữ liệu đen để cập nhật liên tục đồ thị mối quan hệ mối đe dọa mới nổi."
+  ],
+  "stars": 8300,
+  "starsToday": 279,
+  "language": "TypeScript",
+  "topics": [
+    "investigation",
+    "osint",
+    "recon",
+    "python"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-14T21:19:14.657Z"
+}

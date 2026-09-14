@@ -1,0 +1,39 @@
+{
+  "id": "33648f5d-fef0-4015-9f59-cf466c0061a0",
+  "repo": "searxng/searxng",
+  "url": "https://github.com/searxng/searxng",
+  "category": "Web Frontend",
+  "summary": "SearXNG là động cơ tìm kiếm mã nguồn mở phi tập trung, tổng hợp kết quả từ nhiều nguồn tìm kiếm để bảo vệ quyền riêng tư người dùng.",
+  "usecases": [
+    "Private and secure search as a replacement for commercial search engines",
+    "Aggregating search results from multiple APIs into a single interface",
+    "Self-hosted deployment for organizations with strict data privacy policies"
+  ],
+  "ideas": [
+    "Integrate with privacy-focused browsers for a tracking-free search experience",
+    "Create a search-as-a-service for internal enterprise applications",
+    "Leverage AI to summarize and analyze search results"
+  ],
+  "stars": 37067,
+  "starsToday": 115,
+  "language": "Python",
+  "topics": [
+    "metasearch",
+    "search",
+    "python",
+    "searxng",
+    "search-engine",
+    "searx",
+    "bing",
+    "brave",
+    "degoogle",
+    "duckduckgo",
+    "google",
+    "privacy",
+    "qwant",
+    "startpage",
+    "yahoo"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-14T21:19:14.658Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "d831abb0-ca81-49bd-bb41-bb519ae5a094",
+  "repo": "NangoHQ/nango",
+  "url": "https://github.com/NangoHQ/nango",
+  "category": "API/GraphQL",
+  "summary": "Nền tảng tích hợp API thống nhất giúp xây dựng sản phẩm kết nối AI với các dịch vụ bên ngoài thông qua OAuth và Unified API.",
+  "usecases": [
+    "Tích hợp OAuth 2.0/OAuth 1.0 cho ứng dụng web và mobile",
+    "Cung cấp Unified API để truy cập nhiều dịch vụ bên ngoài qua một điểm kết nối duy nhất",
+    "Tự động hóa luồng dữ liệu giữa các dịch vụ bên thứ ba và sản phẩm AI"
+  ],
+  "ideas": [
+    "Tạo template tích hợp AI cho các nền tảng e-commerce",
+    "Kết hợp với LangChain để xây dựng agent tự động gọi API",
+    "Phát triển marketplace plugin tích hợp cho các sản phẩm SaaS phổ biến"
+  ],
+  "stars": 12052,
+  "starsToday": 182,
+  "language": "TypeScript",
+  "topics": [
+    "oauth2",
+    "oauth1",
+    "api",
+    "api-client",
+    "integrations",
+    "api-integration",
+    "access-token",
+    "refresh-token",
+    "oauth",
+    "api-integrations",
+    "product-integration",
+    "unified-api"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-14T21:19:14.658Z"
+}

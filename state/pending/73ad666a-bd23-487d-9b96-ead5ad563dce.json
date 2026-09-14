@@ -1,0 +1,41 @@
+{
+  "id": "73ad666a-bd23-487d-9b96-ead5ad563dce",
+  "repo": "operacle/checkcle",
+  "url": "https://github.com/operacle/checkcle",
+  "category": "DevOps/CI-CD",
+  "summary": "CheckCle là nền tảng giám sát self-hosted cho hệ thống full-stack, cung cấp giám sát uptime theo thời gian thực, kiểm tra phân tán và tracking sự cố.",
+  "usecases": [
+    "Monitoring uptime and health of microservices in Kubernetes environments",
+    "Tracking application performance and availability across dev and prod stages",
+    "Incident tracking and alerting for self-hosted infrastructure"
+  ],
+  "ideas": [
+    "Integrate with incident management platforms like PagerDuty for automated response",
+    "Develop custom dashboards for specific open-source projects",
+    "Serve as a monitoring foundation for air-gapped or offline environments"
+  ],
+  "stars": 3196,
+  "starsToday": 96,
+  "language": "Go",
+  "topics": [
+    "api",
+    "monitoring",
+    "pocketbase",
+    "realtime",
+    "typescript",
+    "uptime",
+    "alternative",
+    "open-source",
+    "self-hosted",
+    "container",
+    "docker",
+    "full-stack",
+    "checkcle",
+    "go",
+    "infrastructure",
+    "server",
+    "oss"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-09-14T21:19:14.658Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "22c95ae9-ca33-47d4-8acf-f7fade6ee1f3",
+  "repo": "Mathieu2301/TradingView-API",
+  "url": "https://github.com/Mathieu2301/TradingView-API",
+  "category": "API/GraphQL",
+  "summary": "Dự án cung cấp API lấy dữ liệu thời gian thực về cổ phiếu và crypto từ TradingView, hỗ trợ truy cập giá, biểu đồ và chỉ báo kỹ thuật.",
+  "usecases": [
+    "Theo dõi giá cổ phiếu và mã hóa crypto theo thời gian thực cho ứng dụng tài chính.",
+    "Xây dựng chiến lược giao dịch tự động và backtesting dựa trên dữ liệu giá.",
+    "Hiển thị biểu đồ và chỉ báo kỹ thuật cho dashboard hoặc web app."
+  ],
+  "ideas": [
+    "Kết hợp với dashboard báo cáo tài chính tự động để tạo biểu đồ trực quan.",
+    "Phát triển bot cảnh báo giao dịch trên Telegram/Discord từ tín hiệu giá.",
+    "Sử dụng dữ liệu lịch sử để train mô hình dự báo xu hướng ngắn hạn."
+  ],
+  "stars": 4810,
+  "starsToday": 298,
+  "language": "JavaScript",
+  "topics": [
+    "tradingview",
+    "tradingview-api",
+    "realtime-stocks",
+    "stocks",
+    "stocks-api",
+    "stocks-prices",
+    "trading",
+    "tradingview-scraper",
+    "tradingview-indicator",
+    "bitcoin",
+    "ethereum",
+    "cryptocurrency",
+    "backtesting",
+    "backtesting-trading-strategies",
+    "crypto",
+    "charts",
+    "tradingview-replay"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-14T21:19:14.657Z"
+}

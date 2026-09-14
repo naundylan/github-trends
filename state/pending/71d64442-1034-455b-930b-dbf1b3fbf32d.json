@@ -1,0 +1,44 @@
+{
+  "id": "71d64442-1034-455b-930b-dbf1b3fbf32d",
+  "repo": "danny-avila/LibreChat",
+  "url": "https://github.com/danny-avila/LibreChat",
+  "category": "AI/LLM",
+  "summary": "Ứng dụng chat AI mã nguồn mở, tự hosting, hỗ trợ nhiều mô hình LLM, Code Interpreter, DALL-E-3 và tính năng agents/skills với đa người dùng an toàn.",
+  "usecases": [
+    "Chat tự nhiên với nhiều mô hình AI (GPT, Claude, Gemini, Llama) trong một giao diện duy nhất.",
+    "Sử dụng Code Interpreter để thực thi code, phân tích dữ liệu hoặc tạo đồ họa trong cuộc trò chuyện.",
+    "Triển khai cho doanh nghiệp cần tự hosting với quản lý đa người dùng và quyền an toàn."
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống nội bộ công ty để tạo trợ lý AI truy cập tài liệu và dữ liệu nội bộ.",
+    "Xây dựng workflow tự động kết hợp DALL-E-3 tạo hình ảnh và Code Interpreter xử lý code cho sáng tạo.",
+    "Phát triển plugin skills tùy chỉnh kết nối với CRM/ERP thông qua OpenAPI Actions."
+  ],
+  "stars": 43512,
+  "starsToday": 294,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "chatgpt",
+    "clone",
+    "chatgpt-clone",
+    "librechat",
+    "anthropic",
+    "claude",
+    "azure",
+    "openai",
+    "vision",
+    "google",
+    "gemini",
+    "webui",
+    "artifacts",
+    "aws",
+    "o1",
+    "deepseek",
+    "responses-api",
+    "gpt-5",
+    "mcp"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-14T21:19:14.657Z"
+}
