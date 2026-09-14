@@ -1,0 +1,44 @@
+{
+  "id": "e10a2bde-8299-4739-b235-db15ed1ba71f",
+  "repo": "melgarafael/DeskcommCRM",
+  "url": "https://github.com/melgarafael/DeskcommCRM",
+  "category": "AI Agent/Automation",
+  "summary": "CRM tự phục vụ mã nguồn mở kết hợp AI agents và WhatsApp, thay thế các nền tảng thương mại như Kommo hay Intercom cho doanh bán qua tin nhắn.",
+  "usecases": [
+    "Tự động hóa hỗ trợ khách hàng trên WhatsApp với AI agents trả lời câu hỏi và thu thập thông tin.",
+    "Quản lý leads và đường sales pipeline cho các cửa hàng ecommerce bán qua tin nhắn.",
+    "Triển khai giải pháp CRM đa tenant cho các doanh nghiệp nhỏ/midium muốn tự kiểm soát dữ liệu và tuân thủ LGPD."
+  ],
+  "ideas": [
+    "Tích hợp tính năng phân tích cảm xúc để AI agents điều chỉnh tone đáp ứng tâm lý khách hàng.",
+    "Phát triển module kết nối với các nền tảng ecommerce khác như Shopee hoặc Lazada thông qua API.",
+    "Tạo dashboard analytics trực quan theo dõi hiệu quả chuyển đổi từ các cuộc hội thoại AI."
+  ],
+  "stars": 2433,
+  "starsToday": 398,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "crm",
+    "ecommerce",
+    "lgpd",
+    "multi-tenant",
+    "nextjs",
+    "nuvemshop",
+    "rag",
+    "supabase",
+    "typescript",
+    "waha",
+    "whatsapp",
+    "ai-agents",
+    "chatbot",
+    "customer-support",
+    "mcp",
+    "open-source",
+    "sales-automation",
+    "self-hosted",
+    "whatsapp-api"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-14T15:51:19.677Z"
+}

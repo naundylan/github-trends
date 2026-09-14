@@ -1,0 +1,23 @@
+{
+  "id": "6aa757bd-6b02-44d7-9f83-06e8d0df0e30",
+  "repo": "petergyang/no-ai-slop",
+  "url": "https://github.com/petergyang/no-ai-slop",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh Python tự động phát hiện và loại bỏ hơn 20 mẫu văn bản AI slop, giúp làm sạch nội dung viết thành tựa.",
+  "usecases": [
+    "Làm sạch bài viết tự động tạo bằng AI trước khi xuất bản trên blog hoặc báo chí.",
+    "Chuẩn hóa văn bản trong các báo cáo nghiên cứu để đảm bảo tính chính xác và uy tín.",
+    "Tích hợp vào quy trình CI/CD để kiểm tra chất lượng nội dung tự động tạo."
+  ],
+  "ideas": [
+    "Phát triển plugin cho VS Code để đánh dấu các đoạn AI slop trực tiếp trong editor.",
+    "Tạo dịch vụ web nhận file văn bản và trả về bản đã làm sạch kèm báo cáo patterns bị phát hiện.",
+    "Kết hợp với các mô hình LLM để tự động rewrite các đoạn bị flagged thành tựa hơn."
+  ],
+  "stars": 9428,
+  "starsToday": 448,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-14T15:51:19.677Z"
+}

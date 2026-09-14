@@ -1,0 +1,42 @@
+{
+  "id": "0b7f51c5-2c67-4bed-8004-e2f2c13db472",
+  "repo": "ruvnet/RuView",
+  "url": "https://github.com/ruvnet/RuView",
+  "category": "Embedded/IoT",
+  "summary": "Biến tín hiệu WiFi thông thường thành khả năng nhận diện không gian, phát hiện sự hiện diện và giám sát dấu hiệu sinh tồn theo thời gian thực mà không cần camera, sử dụng ESP32 và học tự động.",
+  "usecases": [
+    "Giám sát sức khỏe người cao tuổi tại nhà qua phát hiện nhịp thở, nhịp tim từ tín hiệu WiFi",
+    "Phát hiện xâm nhập/presen ce thông minh trong hệ thống bảo mật nhà không cần camera"
+  ],
+  "ideas": [
+    "Kết hợp với Home Assistant để kích hoạt tự động hóa nhà thông minh theo presence detection",
+    "Mở rộng sang phát hiện ngã hoặc bất thường về tư thế người trong không gian sống"
+  ],
+  "stars": 93700,
+  "starsToday": 370,
+  "language": "Rust",
+  "topics": [
+    "densepose",
+    "wifi",
+    "esp32",
+    "monitoring",
+    "rf",
+    "wifi-security",
+    "self-learning",
+    "firmware",
+    "pose-estimation",
+    "spatial-intelligence",
+    "home-assistant",
+    "home-automation",
+    "skills",
+    "networking",
+    "claude",
+    "iot",
+    "react",
+    "typescript",
+    "npm",
+    "awesome"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-09-14T15:51:19.677Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "749ab159-84f1-473c-8b0e-1b4bb597aad1",
+  "repo": "Panniantong/Agent-Reach",
+  "url": "https://github.com/Panniantong/Agent-Reach",
+  "category": "CLI Tool",
+  "summary": "Agent-Reach là một công cụ dòng lệnh (CLI) giúp các AI agent tìm kiếm và đọc nội dung từ nhiều nền tảng internet như Twitter, Reddit, YouTube mà không cần sử dụng các API trả phí.",
+  "usecases": [
+    "Cung cấp năng lực tìm kiếm thông tin thực thời cho các AI agent mà không phát sinh chi phí API.",
+    "Tự động hóa việc thu thập dữ liệu từ các mạng xã hội khác nhau (Twitter, Reddit, Bilibili) cho các tác vụ research.",
+    "Tích hợp vào các hệ thống agent để thực hiện các hành động tìm kiếm và phân tích thị trường trực tuyến."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống MCP để mở rộng khả năng tương tác của các client AI như Claude Code hay Cursor.",
+    "Phát triển thêm các module hỗ trợ phân tích cảm xúc nội dung video YouTube hoặc bài viết XiaoHongShu.",
+    "Dùng làm công cụ theo dõi xu hướng trên mạng xã hội cho các chiến dịch marketing tự động."
+  ],
+  "stars": 80944,
+  "starsToday": 640,
+  "language": "Python",
+  "topics": [
+    "agent-infrastructure",
+    "ai-agent",
+    "ai-search",
+    "automation",
+    "bilibili",
+    "claude-code",
+    "cli",
+    "cursor",
+    "free-api",
+    "llm-tools",
+    "mcp",
+    "python",
+    "reddit-scraper",
+    "twitter-scraper",
+    "web-scraper",
+    "xiaohongshu",
+    "youtube-transcript"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-14T15:51:19.677Z"
+}

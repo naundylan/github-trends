@@ -1,0 +1,34 @@
+{
+  "id": "b2ca9e67-bde4-414c-901c-344e6a3e7663",
+  "repo": "peetzweg/opendisplay",
+  "url": "https://github.com/peetzweg/opendisplay",
+  "category": "Desktop App",
+  "summary": "Giải pháp mã nguồn mở thay thế Sidecar/Duet của Apple, cho phép dùng iPhone/iPad làm màn hình thứ hai cho Mac qua USB hoặc WiFi với độ trễ thấp, H.264, Retina HiDPI và hỗ trợ touch.",
+  "usecases": [
+    "Mở rộng màn hình làm việc cho Mac mà không cần mua thêm monitor vật lý",
+    "Sử dụng iPad làm bảng vẽ/màn hình phụ cho creative work trên Mac"
+  ],
+  "ideas": [
+    "Tích hợp stylus/Apple Pencil để dùng iPad như bảng vẽ chuyên dụng cho Mac",
+    "Mở rộng hỗ trợ đa nền tảng để dùng điện thoại Android làm màn hình phụ cho bất kỳ máy tính nào"
+  ],
+  "stars": 3418,
+  "starsToday": 314,
+  "language": "Swift",
+  "topics": [
+    "duet-display",
+    "external-display",
+    "ipad",
+    "iphone",
+    "macos",
+    "screen-extension",
+    "screencapturekit",
+    "second-monitor",
+    "sidecar",
+    "swift",
+    "videotoolbox",
+    "virtual-display"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-14T15:51:19.677Z"
+}
