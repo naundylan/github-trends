@@ -1,0 +1,44 @@
+{
+  "id": "0d8f2a0d-664b-49d1-b00e-190a4159abd7",
+  "repo": "Tencent/WeKnora",
+  "url": "https://github.com/Tencent/WeKnora",
+  "category": "AI/LLM",
+  "summary": "Nền tảng mã nguồn mở dùng LLM để biến tài liệu thô thành RAG có thể truy vấn, tác nhân suy luận tự động và wiki tự duy trì. Dự án nổi bật với tìm kiếm ngữ nghĩa, xếp hạng lại, đánh giá, đa thuê bao và hỗ trợ nhiều mô hình LLM.",
+  "usecases": [
+    "Xây dựng trợ lý hỏi đáp nội bộ trên tài liệu, quy trình và dữ liệu của doanh nghiệp.",
+    "Triển khai tác nhân AI tự nghiên cứu, tổng hợp và cập nhật tri thức liên tục.",
+    "Cung cấp wiki tổ chức có khả năng tìm kiếm ngữ nghĩa cho nhiều đội hoặc khách hàng."
+  ],
+  "ideas": [
+    "Kết hợp nguồn dữ liệu và lịch sử ra quyết định để tạo sổ tay dự án tự động cập nhật.",
+    "Gắn cơ chế kiểm chứng nguồn, phân quyền theo vai trò và cảnh báo khi tài liệu mâu thuẫn.",
+    "Tích hợp với Slack, GitHub hoặc hệ thống ticket để biến hội thoại và sự kiện thành tri thức có cấu trúc."
+  ],
+  "stars": 22906,
+  "starsToday": 209,
+  "language": "Go",
+  "topics": [
+    "agent",
+    "agentic",
+    "ai",
+    "golang",
+    "llm",
+    "ollama",
+    "rag",
+    "chatbot",
+    "generative-ai",
+    "embeddings",
+    "knowledge-base",
+    "openai",
+    "question-answering",
+    "reranking",
+    "vector-search",
+    "evaluation",
+    "multi-tenant",
+    "semantic-search",
+    "wiki",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-14T03:00:52.977Z"
+}

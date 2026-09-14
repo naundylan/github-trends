@@ -1,0 +1,22 @@
+{
+  "id": "0fe3465a-685f-4aac-861c-bb44370d3340",
+  "repo": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "category": "AI/LLM",
+  "summary": "Một engine C thuần túy để chạy các mô hình MoE tiên tiến trên phần cứng hiện có, hỗ trợ zero dependencies và truyền tải chuyên gia từ đĩa.",
+  "usecases": [
+    "Chạy các mô hình AI lớn (MoE) hiệu quả trên máy tính cá nhân",
+    "Tối ưu hóa chi phí khi triển khai các mô hình LLM lớn",
+    "Xây dựng hệ thống inference nhanh với ít phụ thuộc"
+  ],
+  "ideas": [
+    "Kết hợp với các thư viện ML khác để tạo pipeline end-to-end",
+    "Sử dụng cho các ứng dụng xử lý ngôn ngữ tự nhiên nhỏ gọn"
+  ],
+  "stars": 30013,
+  "starsToday": 868,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-14T03:00:52.976Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6b85f353-e05d-4b0d-a12f-4c5b5a7ec185",
+  "repo": "multimodal-art-projection/YuE",
+  "url": "https://github.com/multimodal-art-projection/YuE",
+  "category": "AI/LLM",
+  "summary": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+  "usecases": [
+    "Music generation using symbolic planning",
+    "Zero-shot musical cover creation",
+    "Agentic music editing"
+  ],
+  "ideas": [
+    "Combine with voice cloning for personalized music tracks",
+    "Integrate with other creative AI tools for multimedia projects",
+    "Develop a music production assistant platform"
+  ],
+  "stars": 7807,
+  "starsToday": 487,
+  "language": "Python",
+  "topics": [
+    "foundation-models",
+    "music-generation",
+    "huggingface",
+    "llama",
+    "audio-generation",
+    "voice-cloning",
+    "llms",
+    "style-transfers",
+    "ai",
+    "deep-learning",
+    "gpt"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-14T03:00:52.976Z"
+}

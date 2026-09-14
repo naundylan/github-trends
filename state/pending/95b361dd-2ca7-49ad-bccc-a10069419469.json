@@ -1,0 +1,26 @@
+{
+  "id": "95b361dd-2ca7-49ad-bccc-a10069419469",
+  "repo": "jihe520/MathModelAgent",
+  "url": "https://github.com/jihe520/MathModelAgent",
+  "category": "AI/LLM",
+  "summary": "An AI-powered agent designed to automatically complete mathematical modeling tasks and generate complete research papers ready for submission.",
+  "usecases": [
+    "Automatically build mathematical models from complex datasets",
+    "Produce full-length academic papers based on model predictions"
+  ],
+  "ideas": [
+    "Combine with specialized mathematics libraries for higher precision in calculations",
+    "Integrate citation databases to enhance the academic quality of generated papers"
+  ],
+  "stars": 5389,
+  "starsToday": 246,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "llm",
+    "mathmodel",
+    "skills"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-14T03:00:52.977Z"
+}

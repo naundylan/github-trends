@@ -1,0 +1,44 @@
+{
+  "id": "bdfca5ca-5365-4334-a40a-7eaa0ff6c6ac",
+  "repo": "melgarafael/DeskcommCRM",
+  "url": "https://github.com/melgarafael/DeskcommCRM",
+  "category": "AI/LLM",
+  "summary": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA).",
+  "usecases": [
+    "Self-hosted CRM with AI agents for sales automation",
+    "WhatsApp integration for customer support",
+    "Multi-tenant SaaS for e-commerce businesses"
+  ],
+  "ideas": [
+    "Add advanced analytics dashboard for sales insights",
+    "Integrate with external AI services for predictive lead scoring",
+    "Create customizable workflow templates for different industries"
+  ],
+  "stars": 2235,
+  "starsToday": 432,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "crm",
+    "ecommerce",
+    "lgpd",
+    "multi-tenant",
+    "nextjs",
+    "nuvemshop",
+    "rag",
+    "supabase",
+    "typescript",
+    "waha",
+    "whatsapp",
+    "ai-agents",
+    "chatbot",
+    "customer-support",
+    "mcp",
+    "open-source",
+    "sales-automation",
+    "self-hosted",
+    "whatsapp-api"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-14T03:00:52.976Z"
+}

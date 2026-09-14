@@ -1,0 +1,23 @@
+{
+  "id": "d31a9ff9-b8c9-4585-9dc5-09f2da2f9327",
+  "repo": "tashfeenahmed/freellmapi",
+  "url": "https://github.com/tashfeenahmed/freellmapi",
+  "category": "AI/LLM",
+  "summary": "API mở nguồn cung cấp truy cập đến hơn 600 mô hình ngôn ngữ lớn miễn phí từ 34 nhà cung cấp, hỗ trợ định tuyến thông minh và chuyển đổi dự phòng tự động.",
+  "usecases": [
+    "Chạy thử nghiệm và phát triển ứng dụng AI sử dụng nhiều mô hình LLM khác nhau mà không cần quản lý khóa riêng lẻ",
+    "Xây dựng công cụ hỗ trợ lập trình hoặc viết lách tự động với khả năng chuyển đổi giữa các nhà cung cấp",
+    "Phát triển ứng dụng chatbot đa nền tảng với khả năng failover tự động khi một nhà cung cấp gặp sự cố"
+  ],
+  "ideas": [
+    "Tích hợp vào nền tảng giáo dục để cung cấp dịch vụ giảng dạy AI miễn phí",
+    "Xây dựng công cụ so sánh hiệu suất giữa các mô hình LLM khác nhau",
+    "Phát triển plugin IDE hỗ trợ lập trình viên với đề xuất mã nguồn thông minh"
+  ],
+  "stars": 26011,
+  "starsToday": 229,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-14T03:00:52.977Z"
+}

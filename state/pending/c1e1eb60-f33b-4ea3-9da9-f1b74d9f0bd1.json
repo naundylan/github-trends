@@ -1,0 +1,31 @@
+{
+  "id": "c1e1eb60-f33b-4ea3-9da9-f1b74d9f0bd1",
+  "repo": "martin-olivier/airgorah",
+  "url": "https://github.com/martin-olivier/airgorah",
+  "category": "Security/Pentest",
+  "summary": "A WiFi security auditing software built with Rust that focuses on detecting and mitigating security vulnerabilities in wireless networks.",
+  "usecases": [
+    "Conduct comprehensive WiFi network security audits",
+    "Identify and remediate potential attacks on wireless infrastructure"
+  ],
+  "ideas": [
+    "Integrate with established security tools like aircrack-ng for enhanced detection capabilities",
+    "Develop a visual dashboard to present security findings to non-technical stakeholders"
+  ],
+  "stars": 3434,
+  "starsToday": 275,
+  "language": "Rust",
+  "topics": [
+    "aircrack-ng",
+    "gui",
+    "security",
+    "security-audit",
+    "wifi",
+    "wifi-security",
+    "wireless",
+    "kali",
+    "linux-app"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-14T03:00:52.977Z"
+}
