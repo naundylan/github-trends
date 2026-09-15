@@ -1,0 +1,23 @@
+{
+  "id": "e34e1152-c50a-406a-9cdd-19ef92a4f619",
+  "repo": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Kumpulan spesifikasi dan plugin resmi untuk editor kode AI Cursor, dirancang untuk memperluas fungsionalitas dan integrasi kustom.",
+  "usecases": [
+    "Memperluas fitur editor kode dengan plugin kustom",
+    "Integrasi layanan AI eksternal untuk completion kode",
+    "Membangun alur kerja pengembangan terintegrasi untuk tim"
+  ],
+  "ideas": [
+    "Plugin untuk otomasi review code dan pengecekan kualitas",
+    "Integrasi dengan sistem ticketing dan tracking issue",
+    "Plugin generasi dokumentasi otomatis dari codebase"
+  ],
+  "stars": 7853,
+  "starsToday": 122,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-09-15T18:51:07.920Z"
+}

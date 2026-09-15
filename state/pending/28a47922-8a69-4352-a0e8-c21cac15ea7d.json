@@ -1,0 +1,39 @@
+{
+  "id": "28a47922-8a69-4352-a0e8-c21cac15ea7d",
+  "repo": "Mininglamp-OSS/octo-server",
+  "url": "https://github.com/Mininglamp-OSS/octo-server",
+  "category": "AI Agent/Automation",
+  "summary": "Octo-server là backend Go cung cấp cho OCTO, một nơi làm việc mở nguồn cho con người và AI agents, cung cấp REST & WebSocket APIs, điều phối agent Lobster và control plane real-time messaging qua WuKongIM.",
+  "usecases": [
+    "Triển khai workplace kết hợp con người và AI agents cho các team nội bộ.",
+    "Cung cấp API real-time messaging và điều phối AI agents cho ứng dụng chat.",
+    "Quản lý control plane cho các hệ thống liên lạc tức thời dựa trên Go."
+  ],
+  "ideas": [
+    "Kết hợp LLM local để tạo personal assistant tự chủ quản lý tác vụ.",
+    "Dành cho internal AI orchestration trên platform doanh nghiệp self-hosted.",
+    "Mở rộng hỗ trợ multi-user AI agents cho platform tương tác."
+  ],
+  "stars": 1017,
+  "starsToday": 88,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "apache2",
+    "chat",
+    "collaboration",
+    "digital-workplace",
+    "go",
+    "golang",
+    "im",
+    "instant-messaging",
+    "lobster",
+    "openclaw",
+    "rest-api",
+    "self-hosted",
+    "websocket",
+    "wukongim"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-15T18:51:07.920Z"
+}

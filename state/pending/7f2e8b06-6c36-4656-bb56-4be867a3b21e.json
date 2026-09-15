@@ -1,0 +1,33 @@
+{
+  "id": "7f2e8b06-6c36-4656-bb56-4be867a3b21e",
+  "repo": "MG1937/ASC",
+  "url": "https://github.com/MG1937/ASC",
+  "category": "Mobile (iOS/Android)",
+  "summary": "ASC là công cụ decompiler Android siêu nhanh, mang giao diện front-end cho các nhà nghiên cứu mobile và agentic AI để phân tích và reverse engineering ứng dụng.",
+  "usecases": [
+    "Phân tích mã nguồn Android để tìm lỗ hổng bảo mật",
+    "Nghiên cứu hành vi ứng dụng mà không cần mã nguồn gốc",
+    "Tích hợp vào quy trình tự động hóa cho các agent AI tìm kiếm mã"
+  ],
+  "ideas": [
+    "Kết hợp với framework AI agent để tự động tìm và báo cáo các vấn đề bảo mật",
+    "Phát triển plugin cho các công cụ reverse engineering hiện có",
+    "Sử dụng trong đào tạo an ninh mạng và nghiên cứu mã độc an toàn"
+  ],
+  "stars": 1089,
+  "starsToday": 122,
+  "language": "Python",
+  "topics": [
+    "android",
+    "decompilation",
+    "decompile",
+    "decompiler",
+    "agent",
+    "agentic-ai",
+    "reverse",
+    "reverse-engineering",
+    "mobile"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-09-15T18:51:07.920Z"
+}

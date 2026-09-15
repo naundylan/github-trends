@@ -1,0 +1,23 @@
+{
+  "id": "749c7dbc-532b-4cb4-b64a-f06f1bc8f2db",
+  "repo": "kunchenguid/lavish-axi",
+  "url": "https://github.com/kunchenguid/lavish-axi",
+  "category": "Web Frontend",
+  "summary": "Lavish là trình soạn thảo HTML hiện đại将其将 HTML thành công cụ tạo tài liệu như Markdown, giúp người dùng tạo và quản lý các tác phẩm HTML dễ dàng hơn.",
+  "usecases": [
+    "Tạo và chỉnh sửa tài liệu HTML như thao tác với Markdown",
+    "Xây dựng và xuất các artifact HTML cho các dự án web",
+    "Phát triển nội dung có cấu trúc với giao diện nhẹ và trực quan"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý nội dung (CMS) để import/export HTML",
+    "Tạo plugin cho các trình soạn thảo code phổ biến",
+    "Sử dụng làm nền tảng cho các ứng dụng ghi chú trực quan"
+  ],
+  "stars": 3661,
+  "starsToday": 133,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-15T18:51:07.920Z"
+}

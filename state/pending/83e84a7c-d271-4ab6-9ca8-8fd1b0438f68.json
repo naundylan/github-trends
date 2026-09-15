@@ -1,0 +1,36 @@
+{
+  "id": "83e84a7c-d271-4ab6-9ca8-8fd1b0438f68",
+  "repo": "rustfs/rustfs",
+  "url": "https://github.com/rustfs/rustfs",
+  "category": "Cloud/Hosting",
+  "summary": "Sistem penyimpanan objek S3-compatible performa tinggi yang mencapai kecepatan 2.3x lebih cepat dari MinIO untuk payload 4KB, mendukung migrasi dan coexisting.",
+  "usecases": [
+    "Menjadi storage backend untuk aplikasi cloud-native yang memerlukan latensi rendah",
+    "Mengakcelerasi AI/ML workload dengan pengolahan objek 4KB yang cepat",
+    "Mengaktifkan migrasi dan coexisting multi-cloud antara MinIO, Ceph, dan RustFS"
+  ],
+  "ideas": [
+    "Implementasi caching intelligente untuk mengurangi biaya storage objek",
+    "Integrasi dengan pipeline data processing untuk vector database",
+    "Deploy sebagai layanan storage terdistribusi di edge locations"
+  ],
+  "stars": 32263,
+  "starsToday": 121,
+  "language": "Rust",
+  "topics": [
+    "bigdata",
+    "cloud-native",
+    "filesystem",
+    "object-storage",
+    "rust",
+    "s3",
+    "minio",
+    "amazon-s3",
+    "objectstorage",
+    "ai-native",
+    "multi-cloud",
+    "ai-storage"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-09-15T18:51:07.920Z"
+}

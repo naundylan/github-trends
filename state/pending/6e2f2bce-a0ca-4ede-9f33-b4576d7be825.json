@@ -1,0 +1,38 @@
+{
+  "id": "6e2f2bce-a0ca-4ede-9f33-b4576d7be825",
+  "repo": "ItzCrazyKns/Vane",
+  "url": "https://github.com/ItzCrazyKns/Vane",
+  "category": "AI Agent/Automation",
+  "summary": "Mô hình AI trả lời câu hỏi tự host, kết hợp RAG và search engine để cung cấp câu trả lời chính xác từ dữ liệu nội bộ.",
+  "usecases": [
+    "Trợ lý trả lời câu hỏi cho doanh nghiệp dựa trên tài liệu nội bộ.",
+    "Hỗ trợ tìm kiếm kiến thức và giải đáp câu hỏi học tập.",
+    "Tích hợp vào chatbot tự động để giảm tải hỗ trợ khách hàng."
+  ],
+  "ideas": [
+    "Kết hợp truy cập dữ liệu thời thực với context nội bộ cho câu trả lời chính xác.",
+    "Phát triển chế độ đa ngôn ngữ cho Vane hỗ trợ nhiều ngôn ngữ.",
+    "Tạo plugin cho Slack/Discord để Vane hoạt động như AI agent nội bộ."
+  ],
+  "stars": 36869,
+  "starsToday": 96,
+  "language": "TypeScript",
+  "topics": [
+    "ai-search-engine",
+    "search-engine",
+    "open-source-ai-search-engine",
+    "perplexica",
+    "artificial-intelligence",
+    "machine-learning",
+    "searxng",
+    "searxng-copilot",
+    "ai-agents",
+    "answering-engine",
+    "llm",
+    "rag",
+    "self-hosted-ai",
+    "vane"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-15T18:51:07.920Z"
+}

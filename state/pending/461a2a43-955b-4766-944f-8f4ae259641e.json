@@ -1,0 +1,29 @@
+{
+  "id": "461a2a43-955b-4766-944f-8f4ae259641e",
+  "repo": "rommapp/romm",
+  "url": "https://github.com/rommapp/romm",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop self-hosted quản lý và phát chơi bộ ROM game rét với giao diện đẹp và mạnh mẽ.",
+  "usecases": [
+    "Quản lý thư viện ROM game trên máy chủ riêng, dễ categorize và tìm kiếm.",
+    "Hỗ trợ chơi và emulator ROM trên nhiều thiết bị kết nối.",
+    "Đồng bộ bộ sưu tập và tiến độ giữa các thiết bị client."
+  ],
+  "ideas": [
+    "Tự động điền metadata và ảnh bìa cho ROM qua API tìm kiếm.",
+    "Phát triển ứng dụng đồng bộ cho mobile truy cập thư viện ROM.",
+    "Thêm tính năng tương tác và xếp hạng ROM giữa cộng đồng."
+  ],
+  "stars": 13012,
+  "starsToday": 102,
+  "language": "Python",
+  "topics": [
+    "retrogaming",
+    "self-hosted",
+    "open-source",
+    "emulation",
+    "rommapp"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-15T18:51:07.920Z"
+}
