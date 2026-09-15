@@ -1,0 +1,23 @@
+{
+  "id": "921706e5-8cbc-43d6-8df9-eb7144d5be5a",
+  "repo": "petergyang/no-ai-slop",
+  "url": "https://github.com/petergyang/no-ai-slop",
+  "category": "NLP",
+  "summary": "Công cụ Python tự động loại bỏ hơn 20 mẫu viết của AI (AI slop) để làm sạch và cải thiện chất lượng nội dung văn bản.",
+  "usecases": [
+    "Làm sạch văn bản tự động tạo bởi AI cho bài viết và marketing",
+    "Tích hợp vào quy trình viết documentation để lọc nội dung không mong muốn",
+    "Phát triển plugin cho code editor để lọc AI slop trong thời gian thực"
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ nhiều ngôn ngữ và tiếng Việt",
+    "Tích hợp với pipeline CI/CD để tự động kiểm tra chất lượng văn bản",
+    "Xây dựng dashboard theo dõi tỷ lệ văn bản do AI tạo"
+  ],
+  "stars": 9576,
+  "starsToday": 405,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/NLP.md",
+  "createdAt": "2026-09-15T02:53:47.513Z"
+}

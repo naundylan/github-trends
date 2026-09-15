@@ -1,0 +1,36 @@
+{
+  "id": "cf5d8d52-d93d-4851-99c4-8a0af90711f8",
+  "repo": "peetzweg/opendisplay",
+  "url": "https://github.com/peetzweg/opendisplay",
+  "category": "Mobile (iOS/Android)",
+  "summary": "OpenDisplay biến iPhone/iPad thành màn hình thứ hai cho Mac qua USB/WiFi với độ trễ thấp, hỗ trợ Retina HiDPI và cảm ứng.",
+  "usecases": [
+    "Mở rộng màn hình laptop khi làm việc di động, review code, thiết kế UI",
+    "Dùng iPad như bàn vẽ/ký số cho Mac với Apple Pencil",
+    "Giám sát log, terminal, dashboard phụ trên thiết bị iOS khi debug"
+  ],
+  "ideas": [
+    "Tích hợp với Stream Deck hoặc Shortcuts để bật/tắt màn hình phụ bằng một cú nhấn",
+    "Kết hợp Sidecar API để chuyển đổi liền mạch giữa OpenDisplay và Sidecar gốc của Apple",
+    "Phát triển plugin OBS/Streamlabs cho phép stream màn hình iPad như nguồn video độc lập"
+  ],
+  "stars": 3630,
+  "starsToday": 229,
+  "language": "Swift",
+  "topics": [
+    "duet-display",
+    "external-display",
+    "ipad",
+    "iphone",
+    "macos",
+    "screen-extension",
+    "screencapturekit",
+    "second-monitor",
+    "sidecar",
+    "swift",
+    "videotoolbox",
+    "virtual-display"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-09-15T02:53:47.513Z"
+}

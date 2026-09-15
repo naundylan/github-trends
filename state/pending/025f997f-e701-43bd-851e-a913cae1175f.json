@@ -1,0 +1,29 @@
+{
+  "id": "025f997f-e701-43bd-851e-a913cae1175f",
+  "repo": "TauricResearch/TradingAgents",
+  "url": "https://github.com/TauricResearch/TradingAgents",
+  "category": "AI Agent/Automation",
+  "summary": "Khung framework sử dụng nhiều agent LLM để tự động giao dịch tài chính, mô phỏng hành vi nhà đầu tư và thực hiện các chiến lược giao dịch dựa trên các mô hình ngôn ngữ.",
+  "usecases": [
+    "Phát triển và backtest các chiến lược giao dịch tự động trong thị trường chứng khoán/crypto.",
+    "Mô phỏng tâm lý và hành vi nhà đầu tư thông qua nhiều agent có vai trò khác nhau.",
+    "Tích hợp với dữ liệu tài chính thực thời để thực hiện giao dịch tự động có giám sát."
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu on-chain để giao dịch crypto dựa trên tin tức LLM.",
+    "Tạo ra một 'người giao dịch ảo' để train các model quyết định dựa trên dữ liệu lịch sử.",
+    "Sử dụng làm công cụ giáo dục cho sinh viên tài chính về tác động của AI đến thị trường."
+  ],
+  "stars": 106210,
+  "starsToday": 745,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "finance",
+    "llm",
+    "multiagent",
+    "trading"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-15T02:53:47.513Z"
+}

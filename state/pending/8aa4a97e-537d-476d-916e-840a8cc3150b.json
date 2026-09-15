@@ -1,0 +1,23 @@
+{
+  "id": "8aa4a97e-537d-476d-916e-840a8cc3150b",
+  "repo": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "category": "AI/LLM",
+  "summary": "Công cụ chạy mô hình MoE frontier trên phần cứng cá nhân, viết bằng C thuần, không phụ thuộc, tải chuyên gia từ đĩa. Kích thước nhẹ nhưng hỗ trợ mô hình khổng lồ.",
+  "usecases": [
+    "Chạy mô hình ngôn ngữ lớn trên laptop/PC không cần GPU đắt tiền.",
+    "Phân tán inference cho các mô hình MoE trên nhiều thiết bị phần cứng tiêu dùng.",
+    "Nghiên cứu và triển khai các kiến thức MoE hiệu quả trên hardware cá nhân."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống local AI assistant chạy hoàn toàn offline trên máy tính cũ.",
+    "Sử dụng làm nền tảng cho các mô hình tùy chỉnh trong các ứng trí trí tuệ nội bộ doanh nghiệp.",
+    "Tích hợp với các hệ thống edge computing để inference mô hình lớn tại biên mạng."
+  ],
+  "stars": 32219,
+  "starsToday": 2173,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-15T02:53:47.512Z"
+}

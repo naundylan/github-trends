@@ -1,0 +1,27 @@
+{
+  "id": "d3681c31-2d27-44ab-acee-c113c4028b2a",
+  "repo": "rust-lang/rust",
+  "url": "https://github.com/rust-lang/rust",
+  "category": "Developer Tool",
+  "summary": "Rust là ngôn ngữ lập trình hệ thống hiện đại tập trung vào an toàn bộ nhớ, hiệu năng và song song hóa mà không cần garbage collector.",
+  "usecases": [
+    "Xây dựng hệ điều hành, driver, embedded firmware yêu cầu độ tin cậy cao",
+    "Phát triển CLI tool, web backend, WebAssembly module hiệu năng cao",
+    "Viết thư viện bảo mật, cryptography, blockchain node"
+  ],
+  "ideas": [
+    "Kết hợp với WebAssembly để chạy Rust trong trình duyệt cho ứng dụng tính toán nặng",
+    "Tạo boilerplate Rust + Axum/Tauri cho full-stack type-safe từ backend đến desktop",
+    "Dùng Rust procedural macro sinh code tự động từ schema GraphQL/OpenAPI"
+  ],
+  "stars": 118907,
+  "starsToday": 299,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "compiler",
+    "language"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-15T02:53:47.513Z"
+}
