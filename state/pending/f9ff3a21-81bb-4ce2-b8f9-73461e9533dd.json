@@ -1,0 +1,23 @@
+{
+  "id": "f9ff3a21-81bb-4ce2-b8f9-73461e9533dd",
+  "repo": "Crosstalk-Solutions/project-nomad",
+  "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+  "category": "Documentation/Learning Resource",
+  "summary": "Một server offline-first chứa Wikipedia, sách, khóa bản đồ và AI cục bộ, cung cấp nền tảng giáo dục và kiến thức hoàn toàn độc lập với internet.",
+  "usecases": [
+    "Dùng làm thư viện học tập offline cho trường học hoặc vùng vùng ít kết nối.",
+    "Nền tảng kiến thức nội bộ cho công ty hoặc tổ chức mà không cần truy cập internet.",
+    "Cung cấp nội dung giáo dục và nghiên cứu trong các vùng khắc nghiệt."
+  ],
+  "ideas": [
+    "Kết hợp với mô hình AI cục bộ để trả lời câu hỏi dựa trên nội dung đã tải về.",
+    "Tạo ứng dụng đọc sách điện tử hoặc truy cứu từ điển offline từ Project NOMAD.",
+    "Phát triển giao diện tìm kiếm nội dung đa ngôn ngữ trên top của server."
+  ],
+  "stars": 37096,
+  "starsToday": 365,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-15T14:13:47.646Z"
+}

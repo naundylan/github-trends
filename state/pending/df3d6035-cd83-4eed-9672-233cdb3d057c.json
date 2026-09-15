@@ -1,0 +1,21 @@
+{
+  "id": "df3d6035-cd83-4eed-9672-233cdb3d057c",
+  "repo": "openai/codex",
+  "url": "https://github.com/openai/codex",
+  "category": "CLI Tool",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "..."
+  ],
+  "stars": 124345,
+  "starsToday": 304,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-15T14:13:47.646Z"
+}

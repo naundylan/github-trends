@@ -1,0 +1,22 @@
+{
+  "id": "fd11fc07-929e-4f57-a89c-effc76c4379f",
+  "repo": "Homebrew/BrewUI",
+  "url": "https://github.com/Homebrew/BrewUI",
+  "category": "Desktop App",
+  "summary": "Một ứng dụng GUI chính thức cho Homebrew trên macOS, cung cấp giao diện trực quan để quản lý gói phần mềm thay vì sử dụng dòng lệnh.",
+  "usecases": [
+    "Cài đặt, cập nhật và xóa các gói Homebrew thông qua giao diện đồ họa.",
+    "Quản lý dependencies và xem lịch sử cài đặt một cách trực quan trên macOS."
+  ],
+  "ideas": [
+    "Tích hợp tìm kiếm gói trực tiếp từ within the app.",
+    "Thêm hỗ trợ cài đặt từ nguồn tùy chỉnh (custom taps) qua giao diện.",
+    "Đồng bộ trạng thái cài đặt giữa CLI và GUI."
+  ],
+  "stars": 1109,
+  "starsToday": 388,
+  "language": "Swift",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-15T14:13:47.646Z"
+}

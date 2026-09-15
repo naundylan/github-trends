@@ -1,0 +1,34 @@
+{
+  "id": "1d4d040e-b236-4340-afbf-ba3130b4ff55",
+  "repo": "666ghj/MiroFish",
+  "url": "https://github.com/666ghj/MiroFish",
+  "category": "AI Agent/Automation",
+  "summary": "MiroFish là một công cụ trí tuệ tập thể đa năng, sử dụng mô phỏng đa tác nhân và đồ thị tri thức để dự đoán nhiều vấn đề khác nhau, từ tài chính đến dư luận xã hội.",
+  "usecases": [
+    "Dự báo giá cổ phiếu và xu hướng thị trường tài chính.",
+    "Phân tích dư luận xã hội và dự đoán kết quả bầu cử.",
+    "Đề xuất sản phẩm dựa trên đồ thị tri thức người dùng."
+  ],
+  "ideas": [
+    "Kết hợp MiroFish với các mô hình ngôn ngữ lớn để cải thiện độ chính xác dự đoán.",
+    "Sử dụng nó để mô phỏng các động lực thị trường phức tạp trong các trò chơi kinh tế.",
+    "Tạo một nền tảng trực quan hóa dựa trên đồ thị tri thức để khám phá mối liên hệ giữa các sự kiện."
+  ],
+  "stars": 73566,
+  "starsToday": 734,
+  "language": "Python",
+  "topics": [
+    "agent-memory",
+    "financial-forecasting",
+    "future-prediction",
+    "knowledge-graph",
+    "llms",
+    "multi-agent-simulation",
+    "public-opinion-analysis",
+    "python3",
+    "social-prediction",
+    "swarm-intelligence"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-15T14:13:47.646Z"
+}

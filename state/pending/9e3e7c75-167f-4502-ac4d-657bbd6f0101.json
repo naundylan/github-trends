@@ -1,0 +1,23 @@
+{
+  "id": "9e3e7c75-167f-4502-ac4d-657bbd6f0101",
+  "repo": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "category": "AI/LLM",
+  "summary": "Engine C zero-dependency chạy frontier MoE models trên phần cứng có sẵn, tải expert từ đĩa với overhead tối thiểu.",
+  "usecases": [
+    "Chạy inference MoE trên thiết bị không có GPU",
+    "Triển khai model lớn trên máy tính để bàn/cơ sở dữ liệu cá nhân",
+    "Nghiên cứu kiến trúc MoE với phụ trợ thấp"
+  ],
+  "ideas": [
+    "Kết hợp với Ollama cho inference CPU",
+    "Phát triển caching expert cho inference liên tục",
+    "Áp dụng vào thiết bị IoT cho AI cục bộ"
+  ],
+  "stars": 33176,
+  "starsToday": 2035,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-15T14:13:47.646Z"
+}

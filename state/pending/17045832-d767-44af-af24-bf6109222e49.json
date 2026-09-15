@@ -1,0 +1,40 @@
+{
+  "id": "17045832-d767-44af-af24-bf6109222e49",
+  "repo": "fleetbase/fleetbase",
+  "url": "https://github.com/fleetbase/fleetbase",
+  "category": "Backend Framework",
+  "summary": "Fleetbase là một hệ điều hành chuỗi cung ứng theo mô-đun, cung cấp các tính năng quản lý đội xe, kho bãi, theo dõi đơn hàng và tối ưu hóa tuyến đường cho các dịch vụ logistics theo yêu cầu.",
+  "usecases": [
+    "Theo dõi và tối ưu hóa tuyến đường cho đội xe vận chuyển theo yêu cầu.",
+    "Tự động hóa quản lý kho bãi và cân bằng hàng tồn kho.",
+    "Tích hợp nhiều nhà cung cấp dịch vụ logistics vào một bảng điều khiển quản lý duy nhất."
+  ],
+  "ideas": [
+    "Phát triển một ứng dụng di động tích hợp hệ điều hành chuỗi cung ứng của Fleetbase cho các doanh nghiệp giao hàng nhỏ.",
+    "Kết nối Fleetbase với các cảm biến IoT để theo dõi thời gian thực tình trạng hàng hóa.",
+    "Tạo một bảng điều khiển phân tích sử dụng dữ liệu từ hệ điều hành để dự báo nhu cầu."
+  ],
+  "stars": 3283,
+  "starsToday": 529,
+  "language": "JavaScript",
+  "topics": [
+    "driver-app",
+    "fleet-management",
+    "infrastructure",
+    "inventory-management",
+    "logistics",
+    "ondemand",
+    "open-source",
+    "order-management",
+    "route-optimization",
+    "supply-chain-management",
+    "transportation",
+    "warehouse-management",
+    "tracking-and-monitoring",
+    "freight-management",
+    "last-mile-delivery",
+    "transport-management-system"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-15T14:13:47.646Z"
+}
