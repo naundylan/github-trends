@@ -1,0 +1,23 @@
+{
+  "id": "4b9dbfca-6208-4d6f-910d-fb248a11f17d",
+  "repo": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "category": "AI/LLM",
+  "summary": "cách chạy các mô hình MoE frontier trên phần cứng bạn đã có, pure C, zero dependencies, chuyên stream experts từ đĩa. trình tiny nhưng hỗ trợ mô hình khổng lồ.",
+  "usecases": [
+    "chạy mô hình ngôn ngữ lớn trên máy tính cá nhân không cần GPU đắt tiền",
+    "triển khai inference MoE trên các thiết bị có tài nguyên hạn chế",
+    "nghiên cứu và tối ưu hóa mô hình MoE với chi phí hạ tầng thấp"
+  ],
+  "ideas": [
+    "kết hợp với các framework AI hiện tại để tăng tốc inference",
+    "phát triển hệ thống inference MoE trên edge devices",
+    "tạo giao diện quản lý mô hình để dễ dàng switching giữa các cấu hình expert"
+  ],
+  "stars": 33770,
+  "starsToday": 2035,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-15T23:26:42.046Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "f77602ea-2823-42a6-8a86-d4b9d334a1c0",
+  "repo": "CodeWithCJ/SparkyFitness",
+  "url": "https://github.com/CodeWithCJ/SparkyFitness",
+  "category": "AI Agent/Automation",
+  "summary": "SparkyFitness là ứng dụng self-hosted theo dõi sức khỏe và thể hình cho gia đình, sử dụng AI để theo dõi ăn uống, vận động và nước uống.",
+  "usecases": [
+    "Gia đình theo dõi mục tiêu sức khỏe chung và tiến độ cá nhân trong cùng một nền tảng.",
+    "Nhắc nhở tự động uống nước và theo dõi khẩu phần ăn thông qua AI.",
+    "Giám sát xu hướng sức khỏe theo thời gian để điều chỉnh lối sống."
+  ],
+  "ideas": [
+    "Kết nối với thiết bị đo nhịp tim và đồng hồ thông minh để thu thập dữ liệu sức khỏe tự động.",
+    "Thêm tính năng AI tư vấn dinh dưỡng cá nhân hóa dựa trên dữ liệu nhập liệu.",
+    "Cho phép tạo các cuộc thi sức khỏe nội bộ giữa thành viên gia đình."
+  ],
+  "stars": 6002,
+  "starsToday": 55,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "artificial-intelligence",
+    "fitness",
+    "fitness-app",
+    "fitness-tracker",
+    "health",
+    "health-coaching",
+    "healthcheck",
+    "self-hosted",
+    "selfhosted"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-15T23:26:42.046Z"
+}

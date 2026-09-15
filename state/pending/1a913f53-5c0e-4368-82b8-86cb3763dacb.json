@@ -1,0 +1,35 @@
+{
+  "id": "1a913f53-5c0e-4368-82b8-86cb3763dacb",
+  "repo": "multimodal-art-projection/YuE",
+  "url": "https://github.com/multimodal-art-projection/YuE",
+  "category": "AI/LLM",
+  "summary": "YuE là dự án AI tạo nhạc tiên tiến sử dụng lập kế hoạch biểu tượng, zero-shot covers và agentic music editing để sinh nhạc và clone giọng hát với kiểm soát phong cách.",
+  "usecases": [
+    "Synthesize original music tracks from text prompts or melodies",
+    "Generate zero-shot covers with voice cloning and style transfer",
+    "Enable agentic music editing for arrangement and modification"
+  ],
+  "ideas": [
+    "Integrate YuE with DAW software for AI-assisted composition workflows",
+    "Develop mobile app for AI music generation via voice commands",
+    "Use YuE to generate game or film soundtracks automatically by mood/genre"
+  ],
+  "stars": 8949,
+  "starsToday": 759,
+  "language": "Python",
+  "topics": [
+    "foundation-models",
+    "music-generation",
+    "huggingface",
+    "llama",
+    "audio-generation",
+    "voice-cloning",
+    "llms",
+    "style-transfers",
+    "ai",
+    "deep-learning",
+    "gpt"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-15T23:26:42.046Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "8e6bde6c-1cdb-4622-84e9-6e8af02263e2",
+  "repo": "fleetbase/fleetbase",
+  "url": "https://github.com/fleetbase/fleetbase",
+  "category": "Microservices",
+  "summary": "Fleetbase là hệ điều hành logistics modular (LSOS) cung cấp các chức năng quản lý đội xe, tối ưu đường đi, theo dõi hàng hóa và quản lý chuỗi cung ứng cho các ứng dụng doanh nghiệp.",
+  "usecases": [
+    "Quản lý và điều phối đội xe giao hàng trong thời gian thực cho các công ty logistics.",
+    "Tối ưu hóa đường dẫn và lịch trình giao hàng để giảm chi phí nhiên liệu và thời gian giao hàng.",
+    "Theo dõi tồn kho và quản lý chuỗi cung ứng từ kho đến tay khách."
+  ],
+  "ideas": [
+    "Kết hợp cảm biến IoT và GPS để theo dõi vị trí và trạng thái hàng hóa theo dõi thực thời.",
+    "Triển khai làm nền tảng cho các hệ thống giao hàng cuối cùng (last-mile delivery) của các cửa hàng điện tử.",
+    "Sử dụng trong chuỗi cung ứng quốc tế để phối hợp giữa nhiều bên và phương tiện vận chuyển."
+  ],
+  "stars": 3429,
+  "starsToday": 529,
+  "language": "JavaScript",
+  "topics": [
+    "driver-app",
+    "fleet-management",
+    "infrastructure",
+    "inventory-management",
+    "logistics",
+    "ondemand",
+    "open-source",
+    "order-management",
+    "route-optimization",
+    "supply-chain-management",
+    "transportation",
+    "warehouse-management",
+    "tracking-and-monitoring",
+    "freight-management",
+    "last-mile-delivery",
+    "transport-management-system"
+  ],
+  "notePath": "notes/Microservices.md",
+  "createdAt": "2026-09-15T23:26:42.046Z"
+}
