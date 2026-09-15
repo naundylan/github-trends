@@ -1,0 +1,36 @@
+{
+  "id": "64c7f3e7-a326-49ad-9aef-454f7e20eb73",
+  "repo": "blakeblackshear/frigate",
+  "url": "https://github.com/blakeblackshear/frigate",
+  "category": "Computer Vision",
+  "summary": "Framer là một hệ thống ghi hình network (NVR) với khả năng nhận diện vật thể thời gian thực tại chỗ, tích hợp dễ dàng với Home Assistant.",
+  "usecases": [
+    "Giám sát an ninh nhà thông minh",
+    "Phát hiện chuyển động và cảnh báo",
+    "Tích hợp với Home Assistant để điều khiển thiết bị"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống báo cháy để nhận diện khói",
+    "Phân tích hành vi người trong nhà để cảnh báo",
+    "Tích hợp vào robot di chuyển để điều hướng"
+  ],
+  "stars": 35898,
+  "starsToday": 45,
+  "language": "TypeScript",
+  "topics": [
+    "rtsp",
+    "realtime",
+    "tensorflow",
+    "google-coral",
+    "mqtt",
+    "nvr",
+    "camera",
+    "home-assistant",
+    "object-detection",
+    "ai",
+    "homeautomation",
+    "home-automation"
+  ],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-09-15T08:32:05.827Z"
+}

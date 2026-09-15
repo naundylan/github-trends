@@ -1,0 +1,34 @@
+{
+  "id": "e7e5198a-75df-4932-9555-5d30dda2377e",
+  "repo": "rustfs/rustfs",
+  "url": "https://github.com/rustfs/rustfs",
+  "category": "Cloud/Hosting",
+  "summary": "RustFS là một hệ thống lưu trữ đối tượng hiệu suất cao, tương thích với S3, được viết bằng Rust. Nó nhanh hơn MinIO 2.3x cho các payload 4KB và hỗ trợ di chuyển cùng với các nền tảng S3 khác.",
+  "usecases": [
+    "Lưu trữ dữ liệu lớn trong môi trường cloud-native.",
+    "Thay thế MinIO để tăng hiệu suất hệ thống."
+  ],
+  "ideas": [
+    "Kết hợp với các giải pháp backup để tạo hệ thống lưu trữ dự phòng.",
+    "Sử dụng trong các hệ thống microservices để lưu trữ file."
+  ],
+  "stars": 32202,
+  "starsToday": 79,
+  "language": "Rust",
+  "topics": [
+    "bigdata",
+    "cloud-native",
+    "filesystem",
+    "object-storage",
+    "rust",
+    "s3",
+    "minio",
+    "amazon-s3",
+    "objectstorage",
+    "ai-native",
+    "multi-cloud",
+    "ai-storage"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-09-15T08:32:05.827Z"
+}

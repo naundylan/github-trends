@@ -1,0 +1,25 @@
+{
+  "id": "4e7f3b3f-f6cd-4f5f-a2b8-badc6179db06",
+  "repo": "jetkvm/kvm",
+  "url": "https://github.com/jetkvm/kvm",
+  "category": "Networking",
+  "summary": "Phần mềm KVM remote cho phép điều khiển và xem màn hình máy tính khác qua mạng, hỗ trợ truy cập từ xa và quản lý nhiều máy chủ.",
+  "usecases": [
+    "Truy cập từ xa máy chủ trong dữ liệu center",
+    "Hỗ trợ kỹ thuật hỗ trợ từ xa cho khách hàng",
+    "Quản lý và giám sát nhiều máy tính trong mạng nội bộ"
+  ],
+  "ideas": [
+    "Tích hợp với dashboard giám sát hệ thống",
+    "Phát triển ứng dụng di động điều khiển KVM",
+    "Sử dụng WebRTC để truyền video KVM real-time mượt mà hơn"
+  ],
+  "stars": 5145,
+  "starsToday": 63,
+  "language": "TypeScript",
+  "topics": [
+    "kvm"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-15T08:32:05.827Z"
+}

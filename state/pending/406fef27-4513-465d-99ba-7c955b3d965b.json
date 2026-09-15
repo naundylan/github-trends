@@ -1,0 +1,35 @@
+{
+  "id": "406fef27-4513-465d-99ba-7c955b3d965b",
+  "repo": "usememos/memos",
+  "url": "https://github.com/usememos/memos",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "Memos là một công cụ ghi chú mở源, tự đăng ký, được xây dựng để ghi nhanh. Với hỗ trợ Markdown, nó nhẹ nhàng và hoàn toàn thuộc về bạn.",
+  "usecases": [
+    "Ghi chú nhanh trong công việc hàng ngày.",
+    "Lưu trữ ý tưởng cá nhân một cách riêng tư."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tạo ra một hệ thống ghi chú thông minh.",
+    "Tích hợp với các công cụ productivity để quản lý công việc hiệu quả."
+  ],
+  "stars": 63066,
+  "starsToday": 81,
+  "language": "Go",
+  "topics": [
+    "react",
+    "go",
+    "sqlite",
+    "markdown",
+    "self-hosted",
+    "note-taking",
+    "memo",
+    "docker",
+    "microblog",
+    "social-network",
+    "notecard",
+    "foss",
+    "own-your-data"
+  ],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-09-15T08:32:05.827Z"
+}

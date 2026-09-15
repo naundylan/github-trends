@@ -1,0 +1,33 @@
+{
+  "id": "8bda41fd-2623-4642-99c6-8ab09dda795f",
+  "repo": "rlaope/oh-my-hermes",
+  "url": "https://github.com/rlaope/oh-my-hermes",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ plugin all-in-one cho Hermes Agent, tích hợp khả năng hỗ trợ lập trình, bộ nhớ dài hạn và các gói quy trình làm việc tối ưu theo mô hình. Dự án giúp mở rộng nhanh năng lực của agent thông qua hệ sinh thái skills và công cụ AI.",
+  "usecases": [
+    "Biến Hermes Agent thành trợ lý lập trình có khả năng ghi nhớ ngữ cảnh và lịch sử dự án dài hạn.",
+    "Tự động hóa các chuỗi tác vụ phát triển phần mềm bằng những gói workflow phù hợp với từng mô hình.",
+    "Quản lý và tái sử dụng skills, công cụ AI trên nhiều dự án hoặc phiên làm việc."
+  ],
+  "ideas": [
+    "Kết hợp bộ nhớ dài hạn với dữ liệu issue, pull request và tài liệu để tạo trợ lý am hiểu sâu repository.",
+    "Xây dựng bộ định tuyến tự động chọn workflow và mô hình tối ưu theo độ phức tạp của tác vụ.",
+    "Tạo marketplace hoặc trình quản lý phiên bản riêng cho các plugin và kỹ năng Hermes."
+  ],
+  "stars": 2270,
+  "starsToday": 77,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "ai-agent",
+    "ai-tools",
+    "claude-code",
+    "codex",
+    "hermes-agent",
+    "hermes-skill",
+    "skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-15T08:32:05.827Z"
+}
