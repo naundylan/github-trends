@@ -1,0 +1,27 @@
+{
+  "id": "71177a10-3f16-46ea-b05a-7edc70ae91dd",
+  "repo": "remotion-dev/remotion",
+  "url": "https://github.com/remotion-dev/remotion",
+  "category": "Web Frontend",
+  "summary": "Remotion là thư viện React cho phép tạo và xuất video động程序matically, phù hợp cho generating nội dung video, preview real-time và automation video production.",
+  "usecases": [
+    "Tự động tạo video marketing hoặc explainer videos từ dữ liệu JSON.",
+    "Generate video thumbnails hoặc clips cho social media dựa trên template React.",
+    "Xây dựng dashboard nội bộ tạo video từ dữ liệu ứng dụng theo định kỳ."
+  ],
+  "ideas": [
+    "Kết hợp với AI generation (prompt-to-video) để tạo video từ text description.",
+    "Sử dụng cho real-time data visualization as video output cho dashboards.",
+    "Build một platform tạo video tự động cho e-commerce sản phẩm từ ảnh và dữ liệu."
+  ],
+  "stars": 59462,
+  "starsToday": 143,
+  "language": "TypeScript",
+  "topics": [
+    "react",
+    "video",
+    "javascript"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-16T14:14:44.102Z"
+}

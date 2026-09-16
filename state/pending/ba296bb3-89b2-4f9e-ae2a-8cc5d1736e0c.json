@@ -1,0 +1,27 @@
+{
+  "id": "ba296bb3-89b2-4f9e-ae2a-8cc5d1736e0c",
+  "repo": "bobeff/open-source-games",
+  "url": "https://github.com/bobeff/open-source-games",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách các trò chơi mã nguồn mở được tổng hợp, bao gồm nhiều loại game từ puzzle đến hành động.",
+  "usecases": [
+    "Tìm kiếm game mã nguồn mở để chơi hoặc học tập",
+    "Phát triển game dựa trên các dự án mở nguồn làm nền tảng",
+    "Giáo dục và khám phá các loại game khác nhau"
+  ],
+  "ideas": [
+    "Tạo thư viện game cá nhân từ các dự án trong danh sách",
+    "Xây dựng nền tảng phân tích hiệu suất game từ các dự án mã nguồn mở",
+    "Xây dựng thư viện phát triển game với các mẫu game mã nguồn mở"
+  ],
+  "stars": 14419,
+  "starsToday": 336,
+  "language": "Python",
+  "topics": [
+    "awesome-list",
+    "games",
+    "open-source"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-16T14:14:44.102Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "52855f0f-88db-427f-9eef-fc0fec17e6de",
+  "repo": "koala73/worldmonitor",
+  "url": "https://github.com/koala73/worldmonitor",
+  "category": "AI/LLM",
+  "summary": "Bảng điều khiển tình báo toàn cầu theo thời gian thực sử dụng AI để tổng hợp tin tức, theo dõi geopolitics và theo dõi cơ sở hạ tầng.",
+  "usecases": [
+    "Theo dõi sự kiện toàn cầu và tin tức thời sự",
+    "Phân tích geopolitics và theo dõi cơ sở hạ tầng",
+    "Phát triển dashboard tình báo cho doanh nghiệp hoặc nghiên cứu"
+  ],
+  "ideas": [
+    "Xây dựng hệ thống cảnh báo tai nạn dựa trên tin tức thời thực",
+    "Phát triển công cụ theo dõi chính sách quốc gia và geopolitics",
+    "Xây dựng dashboard theo dõi tài chính và thị trường dựa trên tin tức"
+  ],
+  "stars": 86566,
+  "starsToday": 251,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "dashboard",
+    "geopolitics",
+    "monitoring",
+    "news",
+    "osint",
+    "opensource",
+    "palantir",
+    "situation",
+    "agent",
+    "mcp",
+    "mcp-server"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-16T14:14:44.102Z"
+}

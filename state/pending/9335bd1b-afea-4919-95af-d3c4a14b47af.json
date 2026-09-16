@@ -1,0 +1,32 @@
+{
+  "id": "9335bd1b-afea-4919-95af-d3c4a14b47af",
+  "repo": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "category": "AI Agent/Automation",
+  "summary": "ECC là hệ thống tối ưu hoá hiệu suất cho các agent AI như Claude Code, Codex, Opencode, Cursor, tập trung vào kỹ năng, bộ nhớ, an ninh và nghiên cứu.",
+  "usecases": [
+    "Tối ưu hoá tốc độ thực thi của các script hoặc công cụ AI dựa trên Claude Code",
+    "Cải thiện hiệu suất của các pipeline xử lý trong môi trường developer tools",
+    "Giúp các nhà phát triển giảm latency cho các mô hình LLM trong môi trường production"
+  ],
+  "ideas": [
+    "Kết hợp ECC với VS Code để tự động tối ưu hoá các extension AI",
+    "Sử dụng ECC làm layer trung gian cho các agent tự động trong môi trường CI/CD",
+    "Tạo marketplace plugin cho các công cụ AI dựa trên ECC để cải thiện hiệu suất"
+  ],
+  "stars": 259789,
+  "starsToday": 1046,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "productivity"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-16T14:14:44.102Z"
+}

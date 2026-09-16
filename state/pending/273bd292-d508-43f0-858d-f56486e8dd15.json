@@ -1,0 +1,23 @@
+{
+  "id": "273bd292-d508-43f0-858d-f56486e8dd15",
+  "repo": "anthropics/claude-code",
+  "url": "https://github.com/anthropics/claude-code",
+  "category": "AI/LLM",
+  "summary": "Claude Code là một công cụ coding có khả năng agent chạy trong terminal, hiểu codebase và giúp tự động hóa các tác vụ lập trình thông qua lệnh ngôn ngữ tự nhiên, bao gồm giải thích code, quản lý git và thực hiện routine tasks.",
+  "usecases": [
+    "Tự động hóa refactoring code lớn dựa trên yêu cầu tự nhiên.",
+    "Giải thích và documentación code cũ nhanh chóng cho new team members.",
+    "Tạo branch, commit, pull request tự động theo spec tự nhiên."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động review code và sửa bugs.",
+    "Sử dụng làm pair programmer trong terminal cho các dự án mở nguồn.",
+    "Tạo plugin cho IDE để Claude Code điều khiển các tác vụ chỉnh sửa hàng loạt."
+  ],
+  "stars": 145287,
+  "starsToday": 155,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-16T14:14:44.102Z"
+}

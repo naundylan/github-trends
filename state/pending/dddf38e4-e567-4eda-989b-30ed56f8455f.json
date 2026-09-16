@@ -1,0 +1,23 @@
+{
+  "id": "dddf38e4-e567-4eda-989b-30ed56f8455f",
+  "repo": "block/buzz",
+  "url": "https://github.com/block/buzz",
+  "category": "Productivity/Personal Tool",
+  "summary": "Buzz là nền tảng giao tiếp kiểu 'hive mind' viết bằng Rust, nhằm tạo không gian trao đổi nhanh chóng và đồng bộ giữa các thành viên nhóm.",
+  "usecases": [
+    "Phòng chat nội bộ cho các team làm việc từ xa",
+    "Công cụ họp trực tuyến với tính năng đồng bộ trạng thái realtime",
+    "Hệ thống thông báo và cảnh báo cho các dịch vụ backend"
+  ],
+  "ideas": [
+    "Mở rộng Buzz thành nền tảng tích hợp công việc như Trello + chat",
+    "Thêm tính năng AI để tóm tắt cuộc trò chuyện và đề xuất hành động",
+    "Kết hợp với thiết bị IoT để gửi cảnh báo thiết bị qua Buzz"
+  ],
+  "stars": 33204,
+  "starsToday": 416,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-16T14:14:44.102Z"
+}

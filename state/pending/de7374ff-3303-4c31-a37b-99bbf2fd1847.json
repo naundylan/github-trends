@@ -1,0 +1,23 @@
+{
+  "id": "de7374ff-3303-4c31-a37b-99bbf2fd1847",
+  "repo": "abue-ammar/tinycast",
+  "url": "https://github.com/abue-ammar/tinycast",
+  "category": "Desktop App",
+  "summary": "Tinycast là trình khởi động macOS nhẹ, hỗ trợ hotkeys và lịch sử bảng hiệu, được viết bằng Swift.",
+  "usecases": [
+    "Tạo nhanh các lệnh macOS và truy cập nhanh qua hotkeys",
+    "Lưu trữ và truy xuất lịch sử clipboard trong macOS",
+    "Tích hợp vào workflow productivty để tăng tốc công việc"
+  ],
+  "ideas": [
+    "Kết hợp với Notion hoặc Obsidian để lưu trữ clipboard history và truy cập nhanh",
+    "Tạo plugin cho các IDE để kích hoạt hotkeys thông qua Tinycast",
+    "Sử dụng Tinycast làm công cụ giới thiệu macOS cho người dùng mới, tự động hiển thị hotkeys"
+  ],
+  "stars": 5273,
+  "starsToday": 1076,
+  "language": "Swift",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-16T14:14:44.102Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "9df95a48-ebed-4069-81e6-2a4ec1b8d467",
+  "repo": "n8n-io/n8n",
+  "url": "https://github.com/n8n-io/n8n",
+  "category": "AI Agent/Automation",
+  "summary": "Một nền tảng tự động hóa quy trình mã nguồn công khai theo giấy phép fair-code, cung cấp trình dựng trực quan, khả năng chèn mã tùy chỉnh và hơn 400 tích hợp. Hỗ trợ triển khai self-host hoặc cloud và có sẵn khả năng AI, MCP client lẫn MCP server.",
+  "usecases": [
+    "Tự động hóa luồng xử lý dữ liệu, thông báo và tác vụ vận hành giữa nhiều dịch vụ.",
+    "Xây dựng tác nhân AI kết nối mô hình ngôn ngữ với API, cơ sở dữ liệu và hệ thống nội bộ.",
+    "Thiết kế giải pháp no-code hoặc low-code cho các quy trình nghiệp vụ phức tạp."
+  ],
+  "ideas": [
+    "Xây dựng bộ workflow mẫu cho vận hành AI, bao gồm tiếp nhận yêu cầu, phân loại, xử lý và gửi phản hồi.",
+    "Tạo hệ thống tự động hóa đa kênh kết hợp email, chat, CRM và cơ sở dữ liệu trên một kiến trúc self-hosted.",
+    "Phát triển các node MCP tùy chỉnh để mở rộng khả năng tích hợp với công cụ và kho dữ liệu nội bộ."
+  ],
+  "stars": 204554,
+  "starsToday": 167,
+  "language": "TypeScript",
+  "topics": [
+    "automation",
+    "ipaas",
+    "n8n",
+    "workflow",
+    "typescript",
+    "self-hosted",
+    "integrations",
+    "workflow-automation",
+    "cli",
+    "development",
+    "low-code",
+    "data-flow",
+    "integration-framework",
+    "apis",
+    "low-code-platform",
+    "no-code",
+    "ai",
+    "mcp",
+    "mcp-client",
+    "mcp-server"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-16T14:14:44.102Z"
+}
