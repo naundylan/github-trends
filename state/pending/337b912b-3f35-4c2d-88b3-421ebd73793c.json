@@ -1,0 +1,28 @@
+{
+  "id": "337b912b-3f35-4c2d-88b3-421ebd73793c",
+  "repo": "sysadminsmedia/homebox",
+  "url": "https://github.com/sysadminsmedia/homebox",
+  "category": "Productivity/Personal Tool",
+  "summary": "Hệ thống quản lý kho đồ và tổ chức cho người dùng gia đình, mã nguồn mở có thể self-hosted để theo dõi và quản lý tài sản tại nhà.",
+  "usecases": [
+    "Quản lý kho đồ gia đình, theo dõi vị trí và trạng thái các món đồ.",
+    "Self-hosted inventory cho người dùng muốn kiểm soát dữ liệu cá nhân.",
+    "Dùng để organize đồ đạc, đồ dùng trong các vụ di chuyển hoặc bảo hiểm."
+  ],
+  "ideas": [
+    "Tích hợp quét mã vạch/QR để nhập kho nhanh.",
+    "API để đồng bộ với các ứng dụng quản lý tài chính hoặc dự án cải tạo nhà.",
+    "Mobile app companion để quét và cập nhật inventory trên-the-go."
+  ],
+  "stars": 7308,
+  "starsToday": 50,
+  "language": "Go",
+  "topics": [
+    "inventory",
+    "selfhosted",
+    "hacktoberfest",
+    "homebox"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-16T08:21:22.966Z"
+}

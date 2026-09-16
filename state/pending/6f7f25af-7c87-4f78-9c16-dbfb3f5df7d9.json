@@ -1,0 +1,41 @@
+{
+  "id": "6f7f25af-7c87-4f78-9c16-dbfb3f5df7d9",
+  "repo": "xuanyustudio/LocalMiniDrama",
+  "url": "https://github.com/xuanyustudio/LocalMiniDrama",
+  "category": "AI/LLM",
+  "summary": "Công cụ tạo ngắn hình AI offline, tự động chuyển từ câu chuyện đến storyboard và video, toàn bộ dữ liệu nằm trong máy.",
+  "usecases": [
+    "Tạo short drama nội bộ cho creator mà không cần gửi dữ liệu lên đám mây.",
+    "Sinh video ngắn cho giáo dục hoặc truyền thông với nội dung tùy chỉnh.",
+    "Nghiên cứu và phát triển mô hình AI tạo video trên thiết bị cá nhân."
+  ],
+  "ideas": [
+    "Kết hợp nhận dạng giọng nói để tạo drama có lời thoại tự động.",
+    "Phát triển chế độ cộng tác nhiều người chỉnh sửa storyboard cùng lúc.",
+    "Sử dụng để tạo nội dung giáo dục hoặc giải trí cá nhân an toàn dữ liệu."
+  ],
+  "stars": 1753,
+  "starsToday": 29,
+  "language": "JavaScript",
+  "topics": [
+    "ai-mini-drama",
+    "offline-short-drama",
+    "ai-agent",
+    "short-video",
+    "short-video-maker",
+    "mini-drama",
+    "ai-video",
+    "storyboard",
+    "video-generation",
+    "ai",
+    "electron",
+    "javascript",
+    "nodejs",
+    "offline",
+    "open-source",
+    "vue",
+    "vue3"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-16T08:21:22.966Z"
+}

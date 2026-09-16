@@ -1,0 +1,41 @@
+{
+  "id": "7c8beca2-279d-49db-a154-6af0197bfa4e",
+  "repo": "seaweedfs/seaweedfs",
+  "url": "https://github.com/seaweedfs/seaweedfs",
+  "category": "Cloud/Hosting",
+  "summary": "Hệ thống lưu trữ phân tán cho object storage (S3), file systems và Iceberg tables, cho phép quản lý tỷ file với truy cập đĩa O(1) và mở rộng ngang dễ dàng.",
+  "usecases": [
+    "Lưu trữ và phân phối object storage thay thế S3 cho ứng dụng quy mô lớn.",
+    "Hệ thống file system phân tán cho Kubernetes và ứng dụng đám mây.",
+    "Lưu trữ Iceberg tables cho dữ liệu lớn và analytics."
+  ],
+  "ideas": [
+    "Kết hợp với Kubernetes để cung cấp storage class động cho các workload.",
+    "Sử dụng làm backend cho các dịch vụ backup đám mây cá nhân.",
+    "Triển khai erasure coding cho lưu trữ chi phí thấp cho archive dữ liệu."
+  ],
+  "stars": 34742,
+  "starsToday": 53,
+  "language": "Go",
+  "topics": [
+    "distributed-storage",
+    "distributed-systems",
+    "s3",
+    "hdfs",
+    "fuse",
+    "distributed-file-system",
+    "hadoop-hdfs",
+    "posix",
+    "tiered-file-system",
+    "kubernetes",
+    "replication",
+    "object-storage",
+    "s3-storage",
+    "seaweedfs",
+    "erasure-coding",
+    "blob-storage",
+    "cloud-drive"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-09-16T08:21:22.965Z"
+}

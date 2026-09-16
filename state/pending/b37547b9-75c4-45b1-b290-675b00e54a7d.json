@@ -1,0 +1,36 @@
+{
+  "id": "b37547b9-75c4-45b1-b290-675b00e54a7d",
+  "repo": "aldinokemal/go-whatsapp-web-multidevice",
+  "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+  "category": "Developer Tool",
+  "summary": "go-whatsapp-web-multidevice là thư viện REST API cho WhatsApp trên Golang, hỗ trợ đa thiết bị, nhiều tài khoản, webhooks và tích hợp Chatwoot, tối ưu bộ nhớ hiệu quả.",
+  "usecases": [
+    "Xây dựng bot WhatsApp tự động cho doanh nghiệp",
+    "Tích hợp gửi tin nhắn WhatsApp vào ứng dụng nội bộ với đa tài khoản",
+    "Tạo hệ thống webhook xử lý sự kiện từ WhatsApp trong real-time"
+  ],
+  "ideas": [
+    "Kết hợp với OpenAI API để tạo bot trả lời thông minh cho WhatsApp",
+    "Phát triển module monitoring gửi liệu WhatsApp performance qua Prometheus",
+    "Sử dụng library này làm foundation cho hệ thống ticketing tự động kết nối Chatwoot"
+  ],
+  "stars": 4821,
+  "starsToday": 26,
+  "language": "Go",
+  "topics": [
+    "whatsapp",
+    "whatsapp-api",
+    "whatsapp-api-go",
+    "golang",
+    "golang-whatsapp",
+    "golang-whatsapp-api",
+    "whatsapp-web-multi-device",
+    "bot",
+    "go",
+    "whatsapp-multi-device",
+    "rest",
+    "rest-api"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-16T08:21:22.966Z"
+}

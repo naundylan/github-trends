@@ -1,0 +1,23 @@
+{
+  "id": "dd1e2ec6-5623-4173-974c-3332e2f85a12",
+  "repo": "hashicorp/nomad",
+  "url": "https://github.com/hashicorp/nomad",
+  "category": "Microservices",
+  "summary": "Nomad là trình điều phối tải trọng nhẹ và linh hoạt, cho phép triển khai hỗn hợp ứng dụng microservice, batch, container và không-containerized với khả năng scale dễ dàng và tích hợp native Consul & Vault.",
+  "usecases": [
+    "Triển khai và quản lý microservices tại quy mô lớn",
+    "Chạy các công việc batch và scheduled jobs",
+    "Orchestrate ứng dụng legacy hoặc non-containerized alongside containers"
+  ],
+  "ideas": [
+    "Kết hợp Nomad với Terraform Provider để tự động hóa infrastructure deployment",
+    "Sử dụng Nomad làm orchestrator cho edge computing devices với Consul service mesh",
+    "Xây dựng dashboard monitoring tùy chỉnh cho workload performance Nomad"
+  ],
+  "stars": 16964,
+  "starsToday": 28,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Microservices.md",
+  "createdAt": "2026-09-16T08:21:22.966Z"
+}

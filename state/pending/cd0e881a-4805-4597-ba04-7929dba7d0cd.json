@@ -1,0 +1,42 @@
+{
+  "id": "cd0e881a-4805-4597-ba04-7929dba7d0cd",
+  "repo": "e2b-dev/runtime",
+  "url": "https://github.com/e2b-dev/runtime",
+  "category": "AI Agent/Automation",
+  "summary": "E2B runtime là nền tảng chạy nền tảng cho các stack E2B, hỗ trợ AI agents và code interpreter trong môi trường sandbox an toàn với công nghệ microVM như Firecracker. Nó cho phép triển khai trên cloud, enterprise hoặc máy cá nhân.",
+  "usecases": [
+    "Chạy các AI agent một cách an toàn trong sandbox để thực hiện tasks mà không ảnh hưởng đến hệ thống chính.",
+    "Triển khai code interpreter cho các mô hình LLM để thực thi code và trả về kết quả.",
+    "Tạo môi trường phát triển tách biệt cho việc test và chạy các ứng dụng AI."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ CI/CD để tự động hóa việc test và deploy AI models.",
+    "Tích hợp vào các nền tảng SaaS để cung cấp tính năng code execution cho người dùng.",
+    "Sử dụng để tạo ra các agent tự động hóa các tác vụ doanh nghiệp như xử lý dữ liệu và báo cáo."
+  ],
+  "stars": 1537,
+  "starsToday": 33,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "code-interpreter",
+    "consul",
+    "devtools",
+    "firecracker",
+    "gcp",
+    "go",
+    "golang",
+    "gpt",
+    "llm",
+    "nomad",
+    "terraform",
+    "vm",
+    "kvm",
+    "microvm",
+    "sandbox",
+    "vmm",
+    "infra"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-16T08:21:22.966Z"
+}

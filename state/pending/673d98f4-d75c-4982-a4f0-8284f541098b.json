@@ -1,0 +1,41 @@
+{
+  "id": "673d98f4-d75c-4982-a4f0-8284f541098b",
+  "repo": "JoeanAmier/TikTokDownloader",
+  "url": "https://github.com/JoeanAmier/TikTokDownloader",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh tải video và dữ liệu từ TikTok/Douyin, hỗ trợ xuất CSV, SQLite, Xlsx và chuyển đổi định dạng bằng FFmpeg.",
+  "usecases": [
+    "Tải video TikTok/Douyin theo link hoặc hashtag hàng loạt",
+    "Xuất thông tin video thành định dạng CSV, SQLite hoặc Xlsx để phân tích dữ liệu",
+    "Tự động hóa quy trình tải video cho mục đích lưu trữ hoặc tạo nội dung"
+  ],
+  "ideas": [
+    "Kết hợp AI tóm tắt nội dung video khi tải xuống",
+    "Tạo API riêng để tích hợp vào quy trình tự động hóa khác",
+    "Phát triển giao diện đồ họa (GUI) dựa trên CLI hiện tại"
+  ],
+  "stars": 16070,
+  "starsToday": 25,
+  "language": "JavaScript",
+  "topics": [
+    "douyin",
+    "python",
+    "tiktok",
+    "api",
+    "csv",
+    "sqlite",
+    "xlsx",
+    "linux",
+    "macos",
+    "windows",
+    "ffmpeg",
+    "httpx",
+    "server",
+    "downloader",
+    "pyinstaller",
+    "docker",
+    "rich"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-16T08:21:22.966Z"
+}
