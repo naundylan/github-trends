@@ -1,0 +1,29 @@
+{
+  "id": "3cc98d22-bcf5-476d-9b34-960f0b2f353b",
+  "repo": "dora-rs/dora",
+  "url": "https://github.com/dora-rs/dora",
+  "category": "AI Agent/Automation",
+  "summary": "DORA là middleware Rust cho việc xây dựng ứng dụng AI cho robot, cung cấp kiến trúc dataflow low latency và mô hình pipeline dưới dạng đồ thị.",
+  "usecases": [
+    "Kiểm soát robot tự động trong kho hàng với thời gian phản hồi thấp",
+    "Giám sát thời gian thực cho các thiết bị IoT",
+    "Xây dựng pipeline dữ liệu cho ứng dụng AI trong sản xuất"
+  ],
+  "ideas": [
+    "Kết nối DORA với ROS 2 để tạo pipeline dữ liệu cho robot tự主控",
+    "Sử dụng DORA để xử lý video thời gian thực cho drones",
+    "Tạo plugin VS Code để quản lý và giám sát pipeline DORA"
+  ],
+  "stars": 4025,
+  "starsToday": 83,
+  "language": "Rust",
+  "topics": [
+    "dataflow",
+    "low-latency",
+    "robotics",
+    "rust",
+    "embodied-ai"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-16T23:37:23.794Z"
+}

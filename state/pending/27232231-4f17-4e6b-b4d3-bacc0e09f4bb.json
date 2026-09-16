@@ -1,0 +1,23 @@
+{
+  "id": "27232231-4f17-4e6b-b4d3-bacc0e09f4bb",
+  "repo": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "category": "AI/LLM",
+  "summary": "Một bộ plugin mã nguồn mở cho phép knowledge workers tùy chỉnh và mở rộng khả năng của Claude Cowork cho các tác vụ xử lý thông tin",
+  "usecases": [
+    "Tự động hóa việc trích xuất thông tin từ tài liệu",
+    "Tích hợp Claude vào workflow nghiên cứu hoặc viết code",
+    "Tạo các công cụ tùy chỉnh cho phân tích dữ liệu kinh doanh"
+  ],
+  "ideas": [
+    "Phát triển plugin kết nối với các cơ sở dữ liệu nội bộ",
+    "Tạo giao diện quản lý prompt cho team",
+    "Sử dụng cho việc review code và tự động tạo tài liệu"
+  ],
+  "stars": 24271,
+  "starsToday": 96,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-16T23:37:23.794Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e920173e-bb81-4b38-b018-fdf69b267dd2",
+  "repo": "remotion-dev/remotion",
+  "url": "https://github.com/remotion-dev/remotion",
+  "category": "Developer Tool",
+  "summary": "Thư viện cho phép sinh video tự động bằng React, giúp tạo nội dung động cho marketing, giáo dục và báo cáo dễ dàng.",
+  "usecases": [
+    "Tạo video quảng cáo động theo dữ liệu đầu vào cho các chiến dịch marketing.",
+    "Sinh nội dung video giáo dục hoặc giải thích tự động trong các ứng dụng web.",
+    "Tạo animation và video cho các dashboard hoặc báo cáo định kỳ."
+  ],
+  "ideas": [
+    "Kết hợp với AI tạo hình ảnh để tự động sinh video story-telling từ văn bản.",
+    "Xây dựng API để sinh video theo yêu cầu trong các hệ thống CI/CD.",
+    "Sử dụng Remotion để tạo thumbnail và video preview cho các bài viết blog tự động."
+  ],
+  "stars": 59544,
+  "starsToday": 143,
+  "language": "TypeScript",
+  "topics": [
+    "react",
+    "video",
+    "javascript"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-16T23:37:23.794Z"
+}

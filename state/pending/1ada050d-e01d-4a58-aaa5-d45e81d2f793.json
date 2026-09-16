@@ -1,0 +1,31 @@
+{
+  "id": "1ada050d-e01d-4a58-aaa5-d45e81d2f793",
+  "repo": "TencentCloud/Octop",
+  "url": "https://github.com/TencentCloud/Octop",
+  "category": "AI Agent/Automation",
+  "summary": "một trợ lý AI self-hosted thông minh, hỗ trợ nhiều người dùng và đa tác nhân với khả năng ghi nhớ dài hạn",
+  "usecases": [
+    "triển khai một trợ lý AI riêng tư cho đội ngũ làm việc, đảm bảo dữ liệu không rời server",
+    "tự động hóa các tác vụ phức tạp thông qua nhiều tác nhân phối hợp",
+    "cung cấp trải nghiệm AI cá nhân hóa với bộ nhớ dài hạn cho từng người dùng"
+  ],
+  "ideas": [
+    "kết hợp với các cơ sở dữ liệu vector để cung cấp tìm kiếm ngữ nghĩa trên dữ liệu nội bộ",
+    "triển khai trên các thiết bị IoT để tạo trợ lý nội tại cho gia đình",
+    "sử dụng làm nền tảng cho các ứng dụng giáo dục cá nhân hóa với ghi nhớ tiến độ học tập"
+  ],
+  "stars": 2915,
+  "starsToday": 419,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "local-first",
+    "long-term-memory"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-16T23:37:23.794Z"
+}

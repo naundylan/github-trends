@@ -1,0 +1,27 @@
+{
+  "id": "e0e294f0-9cdb-4e3f-b2bd-5856666f11b3",
+  "repo": "google/skills",
+  "url": "https://github.com/google/skills",
+  "category": "Documentation/Learning Resource",
+  "summary": "Skills cung cấp tài liệu và ví dụ Python để học cách sử dụng các sản phẩm và công nghệ Google Cloud.",
+  "usecases": [
+    "Học cách sử dụng Google Cloud Functions trong dự án web",
+    "Tích hợp Google Cloud Storage vào ứng dụng Python để lưu trữ dữ liệu",
+    "Đào tạo developer về các API Google Maps và Places"
+  ],
+  "ideas": [
+    "Tạo tutorial interaktive trên Jupyter Notebook sử dụng Skills để học Google Cloud",
+    "Kết hợp Skills với GitHub Classroom để cung cấp bài tập thực hành",
+    "Xây dựng extension VS Code hiển thị tài liệu Skills khi gõ lệnh Google Cloud"
+  ],
+  "stars": 20059,
+  "starsToday": 81,
+  "language": "Python",
+  "topics": [
+    "google",
+    "googlecloud",
+    "skills"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-16T23:37:23.795Z"
+}

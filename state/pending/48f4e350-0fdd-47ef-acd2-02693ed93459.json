@@ -1,0 +1,23 @@
+{
+  "id": "48f4e350-0fdd-47ef-acd2-02693ed93459",
+  "repo": "abue-ammar/tinycast",
+  "url": "https://github.com/abue-ammar/tinycast",
+  "category": "Desktop App",
+  "summary": "một ứng dụng macOS nhẹ, native, cung cấp launcher, phím tắt và lịch sử clipboard toàn diện",
+  "usecases": [
+    "tăng tốc làm việc qua launcher ứng dụng và phím tắt nhanh",
+    "theo dõi và truy xuất lịch sử clipboard một cách dễ dàng",
+    "tự động hóa tác vụ lặp trên macOS bằng các shortcut tích hợp"
+  ],
+  "ideas": [
+    "kết hợp với các công cụ automation như Keyboard Maestro để tạo luồng làm việc toàn tự động",
+    "phát triển plugin cho các trình soạn thảo code để truy nhập nhanh file/từ khóa",
+    "sử dụng làm nền tảng cho một hệ thống điều khiển nhà thông minh qua phím tắt"
+  ],
+  "stars": 5561,
+  "starsToday": 1136,
+  "language": "Swift",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-16T23:37:23.794Z"
+}
