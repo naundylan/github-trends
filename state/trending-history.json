@@ -11,8 +11,8 @@
   },
   "tt-a1i/archify": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-09-15",
-    "last_saved": "2026-08-26"
+    "last_seen": "2026-09-16",
+    "last_saved": "2026-09-16"
   },
   "public-apis/public-apis": {
     "first_seen": "2026-07-02",
@@ -41,7 +41,7 @@
   },
   "TencentCloud/CubeSandbox": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-01"
   },
   "ogulcancelik/herdr": {
@@ -116,7 +116,7 @@
   },
   "asgeirtj/system_prompts_leaks": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-08-29"
   },
   "agentskills/agentskills": {
@@ -126,7 +126,7 @@
   },
   "immich-app/immich": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-14"
   },
   "chthollyphile/folia-major": {
@@ -171,7 +171,7 @@
   },
   "TauricResearch/TradingAgents": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "bradautomates/claude-video": {
@@ -201,7 +201,7 @@
   },
   "ruvnet/RuView": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-14"
   },
   "alirezarezvani/claude-skills": {
@@ -251,7 +251,7 @@
   },
   "MadsLorentzen/ai-job-search": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-14"
   },
   "AhmadIbrahiim/Website-downloader": {
@@ -291,7 +291,7 @@
   },
   "tonhowtf/omniget": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-08-27"
   },
   "t8y2/dbx": {
@@ -301,7 +301,7 @@
   },
   "addyosmani/agent-skills": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "decolua/9router": {
@@ -336,7 +336,7 @@
   },
   "vxcontrol/pentagi": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-08-28"
   },
   "tinyhumansai/openhuman": {
@@ -346,7 +346,7 @@
   },
   "rustdesk/rustdesk": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "SmartlyDressedGames/U3-SDK": {
@@ -361,7 +361,7 @@
   },
   "unclecode/crawl4ai": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-13"
   },
   "imthenachoman/How-To-Secure-A-Linux-Server": {
@@ -371,7 +371,7 @@
   },
   "roboflow/supervision": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "jamiepine/voicebox": {
@@ -391,12 +391,12 @@
   },
   "wealthfolio/wealthfolio": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "openai/codex": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "multica-ai/andrej-karpathy-skills": {
@@ -431,7 +431,7 @@
   },
   "Panniantong/Agent-Reach": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-14"
   },
   "anomalyco/opencode": {
@@ -456,7 +456,7 @@
   },
   "dani-garcia/vaultwarden": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-14"
   },
   "anthropics/claude-code": {
@@ -466,7 +466,7 @@
   },
   "debpalash/VoiceStudio": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-13"
   },
   "bytedance/deer-flow": {
@@ -496,7 +496,7 @@
   },
   "alibaba/open-code-review": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-13"
   },
   "apache/maka": {
@@ -546,7 +546,7 @@
   },
   "Tencent/WeKnora": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-14"
   },
   "Shubhamsaboo/awesome-llm-apps": {
@@ -596,7 +596,7 @@
   },
   "cjpais/Handy": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "Alishahryar1/free-claude-code": {
@@ -656,7 +656,7 @@
   },
   "calesthio/OpenMontage": {
     "first_seen": "2026-08-27",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-08-27"
   },
   "ZhuLinsen/daily_stock_analysis": {
@@ -701,7 +701,7 @@
   },
   "anthropics/claude-plugins-official": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-08-28"
   },
   "bilawalsidhu/gods-eye-view": {
@@ -731,7 +731,7 @@
   },
   "ComposioHQ/awesome-claude-skills": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-08-28"
   },
   "nilbuild/developer-roadmap": {
@@ -801,7 +801,7 @@
   },
   "NationalSecurityAgency/ghidra": {
     "first_seen": "2026-08-30",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-08-30"
   },
   "abi/screenshot-to-code": {
@@ -851,7 +851,7 @@
   },
   "majd/ipatool": {
     "first_seen": "2026-08-31",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-08-31"
   },
   "jingyaogong/minimind": {
@@ -931,7 +931,7 @@
   },
   "rtk-ai/rtk": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-01"
   },
   "farion1231/cc-switch": {
@@ -951,7 +951,7 @@
   },
   "pacifio/atlas": {
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-02"
   },
   "blader/humanizer": {
@@ -981,7 +981,7 @@
   },
   "earendil-works/pi": {
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-02"
   },
   "slackhq/nebula": {
@@ -1186,7 +1186,7 @@
   },
   "ollama/ollama": {
     "first_seen": "2026-09-06",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-06"
   },
   "nklmilojevic/sofka": {
@@ -1411,7 +1411,7 @@
   },
   "alphaXiv/OpenResearch": {
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-11"
   },
   "react/react": {
@@ -1421,7 +1421,7 @@
   },
   "bojieli/ai-agent-book": {
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-11"
   },
   "volcengine/OpenViking": {
@@ -1456,7 +1456,7 @@
   },
   "max-sixty/worktrunk": {
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-12"
   },
   "louislam/uptime-kuma": {
@@ -1496,7 +1496,7 @@
   },
   "tech-leads-club/agent-skills": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-13"
   },
   "Swordfish90/cool-retro-term": {
@@ -1521,12 +1521,12 @@
   },
   "microsoft/AI-Engineering-Coach": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-13"
   },
   "thesysdev/openui": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-13"
   },
   "mattpocock/dictionary-of-ai-coding": {
@@ -1556,17 +1556,17 @@
   },
   "ever-co/ever-gauzy": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-14"
   },
   "reconurge/flowsint": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-14"
   },
   "Mathieu2301/TradingView-API": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-14"
   },
   "searxng/searxng": {
@@ -1576,7 +1576,7 @@
   },
   "dgtlmoon/changedetection.io": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-14"
   },
   "NangoHQ/nango": {
@@ -1586,7 +1586,7 @@
   },
   "danny-avila/LibreChat": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-14"
   },
   "operacle/checkcle": {
@@ -1596,52 +1596,97 @@
   },
   "JustVugg/colibri": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "Homebrew/BrewUI": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "melgarafael/DeskcommCRM": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "fleetbase/fleetbase": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "cloudflare/security-audit-skill": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "SnailSploit/Claude-Red": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "666ghj/MiroFish": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "multimodal-art-projection/YuE": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "CodeWithCJ/SparkyFitness": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
   },
   "Crosstalk-Solutions/project-nomad": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-16",
     "last_saved": "2026-09-15"
+  },
+  "MG1937/ASC": {
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "last_saved": "2026-09-16"
+  },
+  "kunchenguid/lavish-axi": {
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "last_saved": "2026-09-16"
+  },
+  "darkzOGx/youtube-automation-agent": {
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "last_saved": "2026-09-16"
+  },
+  "plugin87/ux-ui-agent-skills": {
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "last_saved": "2026-09-16"
+  },
+  "rommapp/romm": {
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "last_saved": "2026-09-16"
+  },
+  "ItzCrazyKns/Vane": {
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "last_saved": "2026-09-16"
+  },
+  "cursor/plugins": {
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "last_saved": "2026-09-16"
+  },
+  "Mininglamp-OSS/octo-server": {
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "last_saved": "2026-09-16"
+  },
+  "rustfs/rustfs": {
+    "first_seen": "2026-09-16",
+    "last_seen": "2026-09-16",
+    "last_saved": "2026-09-16"
   }
 }

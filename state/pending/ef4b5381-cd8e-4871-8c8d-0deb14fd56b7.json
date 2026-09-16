@@ -1,0 +1,29 @@
+{
+  "id": "ef4b5381-cd8e-4871-8c8d-0deb14fd56b7",
+  "repo": "rommapp/romm",
+  "url": "https://github.com/rommapp/romm",
+  "category": "Other",
+  "summary": "Ứng dụng self-hosted đẹp và mạnh để quản lý và phát chơi bộ ROM rét, hỗ trợ emulation trên nền tảng cá nhân.",
+  "usecases": [
+    "Quản lý thư viện ROM rét trên server cá nhân",
+    "Phát chơi games cũ trên thiết bị hiện đại qua emulator",
+    "Chia sẻ và truy cập bộ ROM từ xa qua mạng nội bộ"
+  ],
+  "ideas": [
+    "Tích hợp giao diện web hiện đại để truy cập qua mobile",
+    "Thêm tính năng scrape metadata tự động cho ROMs",
+    "Tạo plugin cho các emulator phổ biến để phát trực tiếp từ Romm"
+  ],
+  "stars": 13080,
+  "starsToday": 92,
+  "language": "Python",
+  "topics": [
+    "retrogaming",
+    "self-hosted",
+    "open-source",
+    "emulation",
+    "rommapp"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-16T02:48:42.001Z"
+}

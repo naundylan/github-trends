@@ -1,0 +1,33 @@
+{
+  "id": "9bd6559f-ccb7-4f54-89b8-004658671638",
+  "repo": "MG1937/ASC",
+  "url": "https://github.com/MG1937/ASC",
+  "category": "Security/Pentest",
+  "summary": "ASC là một front-end decompiler Android siêu nhanh cho nhà nghiên cứu Agents/Mobile, cho phép phân tích ngược ứng dụng để tìm bảo mật lỗ hổng.",
+  "usecases": [
+    "Analyze Android applications for hardcoded secrets, API keys, and insecure storage during security audits.",
+    "Facilitate malware analysis and threat research by decompiling suspicious apps for behavioral inspection.",
+    "Assist developers in recovering lost source code or understanding third-party library implementations for interoperability."
+  ],
+  "ideas": [
+    "Integrate ASC with AI agents to automatically identify potential security vulnerabilities in decompiled code.",
+    "Build a web-based UI on top of ASC for collaborative reverse-engineering and findings sharing.",
+    "Develop a plugin that maps decompiled Smali code to high-level security best practices and compliance checks."
+  ],
+  "stars": 1222,
+  "starsToday": 129,
+  "language": "Python",
+  "topics": [
+    "android",
+    "decompilation",
+    "decompile",
+    "decompiler",
+    "agent",
+    "agentic-ai",
+    "reverse",
+    "reverse-engineering",
+    "mobile"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-16T02:48:42.001Z"
+}

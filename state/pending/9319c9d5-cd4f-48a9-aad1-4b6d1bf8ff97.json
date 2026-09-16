@@ -1,0 +1,44 @@
+{
+  "id": "9319c9d5-cd4f-48a9-aad1-4b6d1bf8ff97",
+  "repo": "darkzOGx/youtube-automation-agent",
+  "url": "https://github.com/darkzOGx/youtube-automation-agent",
+  "category": "AI Agent/Automation",
+  "summary": "Agent tự động hóa YouTube sử dụng AI để tạo, tối ưu và đăng video 24/7, tương thích Gemini API miễn phí hoặc OpenAI, giúp tự động hóa tạo nội dung và quản lý kênh.",
+  "usecases": [
+    "Tự động tạo và đăng video cho kênh YouTube không cần can thiệp thủ công.",
+    "Tối ưu SEO và tạo thumbnail cho video tăng khả năng tiếp cận.",
+    "Quản lý lịch đăng và đa nền tảng nội dung cho các tác giả nội dung."
+  ],
+  "ideas": [
+    "Kết hợp với voice synthesis để tạo video có lời dẫn kèm theo.",
+    "Phát triển dashboard theo dõi hiệu suất video và ROI trong thời gian thực.",
+    "Tạo hệ thống đa kênh tự động nội dung cho mạng xã hội."
+  ],
+  "stars": 3516,
+  "starsToday": 56,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agents",
+    "ai-powered",
+    "automation",
+    "content-automation",
+    "content-creation",
+    "content-strategy",
+    "free-tool",
+    "google-gemini",
+    "javascript",
+    "nodejs",
+    "openai",
+    "seo-optimization",
+    "social-media-automation",
+    "thumbnail-generator",
+    "video-generation",
+    "youtube-api",
+    "youtube-automation",
+    "youtube-bot",
+    "youtube-channel",
+    "youtube-uploader"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-16T02:48:42.001Z"
+}

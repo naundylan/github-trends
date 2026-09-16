@@ -1,0 +1,23 @@
+{
+  "id": "bc39b6de-7a78-4c7a-bb86-f3856136f490",
+  "repo": "kunchenguid/lavish-axi",
+  "url": "https://github.com/kunchenguid/lavish-axi",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Lavish là một trình biên tập HTML được thiết kế cho các tác phẩm HTML, cho phép biên tập HTML như một tài liệu định dạng mới, thay vì markdown, với giao diện tối ưu.",
+  "usecases": [
+    "Biên tập HTML cho các trang web động.",
+    "Tạo và chỉnh sửa các mẫu email HTML.",
+    "Làm việc với các tài liệu HTML trong các dự án web."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống điều khiển phiên bản để hợp tác biên tập HTML.",
+    "Sử dụng trong các CMS không headless để biên tập nội dung HTML.",
+    "Tích hợp với các công cụ design để xuất HTML từ mockup."
+  ],
+  "stars": 3713,
+  "starsToday": 138,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-09-16T02:48:42.001Z"
+}

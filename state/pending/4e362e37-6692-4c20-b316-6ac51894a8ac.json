@@ -1,0 +1,44 @@
+{
+  "id": "4e362e37-6692-4c20-b316-6ac51894a8ac",
+  "repo": "tt-a1i/archify",
+  "url": "https://github.com/tt-a1i/archify",
+  "category": "Developer Tool",
+  "summary": "Archify là một kỹ năng agent giúp tạo các sơ đồ kiến trúc, workflow, sequence, data-flow, và lifecycle diagram một cách đẹp mắt và có thể xác thực. Các diagram được đóng gói trong HTML tự chứa với hiệu ứng motion và chất lượng xuất sắc.",
+  "usecases": [
+    "Thiết kế sơ đồ kiến trúc hệ thống cho các dự án phần mềm lớn.",
+    "Hiển thị quy trình làm việc và tương tác giữa các thành phần trong một dự án.",
+    "Tạo sơ đồ thứ tự cho các dịch vụ microservices."
+  ],
+  "ideas": [
+    "Tích hợp với các công cụ CI/CD để tự động tạo diagram từ mã nguồn.",
+    "Sử dụng cùng với các agent AI để chuyển đổi mô tả bằng ngôn ngữ tự nhiên thành diagram.",
+    "Kết hợp với các công cụ documentation để tạo sơ đồ trực quan trong tài liệu."
+  ],
+  "stars": 63696,
+  "starsToday": 1373,
+  "language": "JavaScript",
+  "topics": [
+    "architecture-diagram",
+    "claude-skill",
+    "developer-tools",
+    "diagram-as-code",
+    "mermaid-alternative",
+    "system-design",
+    "agent-skills",
+    "codex",
+    "data-flow-diagram",
+    "opencode",
+    "sequence-diagram",
+    "deepseek-harness",
+    "dsh-plugin",
+    "architecture-as-code",
+    "code-visualization",
+    "coding-agents",
+    "diagrams",
+    "diagrams-as-code",
+    "software-architecture",
+    "text-to-diagram"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-16T02:48:42.001Z"
+}

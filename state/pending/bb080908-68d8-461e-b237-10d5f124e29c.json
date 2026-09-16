@@ -1,0 +1,39 @@
+{
+  "id": "bb080908-68d8-461e-b237-10d5f124e29c",
+  "repo": "Mininglamp-OSS/octo-server",
+  "url": "https://github.com/Mininglamp-OSS/octo-server",
+  "category": "Backend Framework",
+  "summary": "Backend Go cho OCTO, nơi làm việc mở nguồn kết hợp con người và AI agents, cung cấp REST & WebSocket APIs, điều phối agent Lobster và plane tin nhắn real-time WuKongIM.",
+  "usecases": [
+    "Triển khai workplace tích hợp AI agents cho đội ngũ làm việc.",
+    "Quản lý tin nhắn real-time và giao tiếp giữa agents và người dùng.",
+    "Cung cấp API cho ứng dụng bên ngoài kết nối hệ thống AI orchestration."
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng chat để tạo bot hội thoại tự động cho doanh nghiệp.",
+    "Phát triển module phân tích tương tác giữa agent và người dùng.",
+    "Triển khai self-hosted AI collaboration suite cho các công ty bảo mật dữ liệu."
+  ],
+  "stars": 1027,
+  "starsToday": 80,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "apache2",
+    "chat",
+    "collaboration",
+    "digital-workplace",
+    "go",
+    "golang",
+    "im",
+    "instant-messaging",
+    "lobster",
+    "openclaw",
+    "rest-api",
+    "self-hosted",
+    "websocket",
+    "wukongim"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-16T02:48:42.001Z"
+}
