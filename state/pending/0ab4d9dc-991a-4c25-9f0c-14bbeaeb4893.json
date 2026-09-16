@@ -1,0 +1,42 @@
+{
+  "id": "0ab4d9dc-991a-4c25-9f0c-14bbeaeb4893",
+  "repo": "e2b-dev/runtime",
+  "url": "https://github.com/e2b-dev/runtime",
+  "category": "Backend Framework",
+  "summary": "The runtime behind every E2B stack: Cloud, Enterprise, and your own machine. A comprehensive backend framework supporting AI agents, code interpretation, containerization, and orchestration across multiple platforms.",
+  "usecases": [
+    "Building scalable AI agent applications",
+    "Running code interpreters in distributed environments",
+    "Managing cloud and enterprise workloads with flexible deployment options"
+  ],
+  "ideas": [
+    "Leverage the runtime for building AI-powered automation workflows",
+    "Integrate with other E2B services like Nomad and Terraform for infrastructure management",
+    "Use the Go-based architecture for high-performance microservices"
+  ],
+  "stars": 1552,
+  "starsToday": 115,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "code-interpreter",
+    "consul",
+    "devtools",
+    "firecracker",
+    "gcp",
+    "go",
+    "golang",
+    "gpt",
+    "llm",
+    "nomad",
+    "terraform",
+    "vm",
+    "kvm",
+    "microvm",
+    "sandbox",
+    "vmm",
+    "infra"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-16T18:58:01.838Z"
+}

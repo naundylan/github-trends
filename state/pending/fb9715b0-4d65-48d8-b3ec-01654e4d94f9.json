@@ -1,0 +1,43 @@
+{
+  "id": "fb9715b0-4d65-48d8-b3ec-01654e4d94f9",
+  "repo": "supabase/supabase",
+  "url": "https://github.com/supabase/supabase",
+  "category": "Database",
+  "summary": "Nền tảng backend mã nguồn mở xây dựng quanh PostgreSQL, cung cấp database, API, xác thực, truyền dữ liệu thời gian thực, lưu trữ và Edge Functions. Supabase tích hợp sẵn các công cụ như pgvector, PostGIS và WebSocket để phát triển nhanh ứng dụng web, di động và AI.",
+  "usecases": [
+    "Thiết lập cơ sở dữ liệu, API và xác thực người dùng cho ứng dụng web hoặc di động.",
+    "Xây dựng tính năng cộng tác thời gian thực, thông báo và đồng bộ trạng thái giữa nhiều thiết bị.",
+    "Lưu vectơ và dữ liệu không gian để phát triển tìm kiếm ngữ nghĩa, RAG và bản đồ."
+  ],
+  "ideas": [
+    "Kết hợp Realtime với mô hình AI để tạo trợ lý phản hồi theo sự kiện và cập nhật trực tiếp trên giao diện.",
+    "Dùng Edge Functions tự động làm sạch dữ liệu, tạo embedding và đồng bộ kho tri thức.",
+    "Tạo bộ boilerplate ngành kết hợp Auth, PostGIS, thanh toán và bảng điều khiển quản trị."
+  ],
+  "stars": 109542,
+  "starsToday": 118,
+  "language": "TypeScript",
+  "topics": [
+    "firebase",
+    "supabase",
+    "realtime",
+    "postgrest",
+    "postgres",
+    "postgresql",
+    "websockets",
+    "deno",
+    "embeddings",
+    "vectors",
+    "alternative",
+    "auth",
+    "database",
+    "example",
+    "nextjs",
+    "oauth2",
+    "pgvector",
+    "postgis",
+    "ai"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-09-16T18:58:01.838Z"
+}

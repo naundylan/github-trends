@@ -1,0 +1,23 @@
+{
+  "id": "1c614bb4-0f09-4490-8256-d73d9fa87291",
+  "repo": "kunchenguid/lavish-axi",
+  "url": "https://github.com/kunchenguid/lavish-axi",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Lavish là trình soạn thảo HTML hiện đại hoạt động như thay thế cho markdown, cho phép tạo và chỉnh sửa artifact HTML một cách trực quan và linh hoạt.",
+  "usecases": [
+    "Soạn thảo mã HTML với giao diện trực quan thay vì văn bản thô",
+    "Tạo và quản lý các artifact HTML cho documentation",
+    "Nhúng trình soạn thảo HTML vào các ứng dụng web khác"
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động sinh HTML từ prompt",
+    "Phát triển plugin cho VS Code hoặc Notion",
+    "Tạo chế độ soạn thảo cho các định dạng tài liệu chuyên biệt"
+  ],
+  "stars": 3749,
+  "starsToday": 105,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-09-16T18:58:01.838Z"
+}

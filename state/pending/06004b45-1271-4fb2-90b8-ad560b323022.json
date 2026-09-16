@@ -1,0 +1,41 @@
+{
+  "id": "06004b45-1271-4fb2-90b8-ad560b323022",
+  "repo": "xuanyustudio/LocalMiniDrama",
+  "url": "https://github.com/xuanyustudio/LocalMiniDrama",
+  "category": "AI/LLM",
+  "summary": "Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. Seedance2接入 开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。",
+  "usecases": [
+    "Local AI short drama production platform",
+    "Offline video generation workflow management",
+    "AI-driven storytelling pipeline"
+  ],
+  "ideas": [
+    "Integrate with Seedance2 for enhanced AI short drama capabilities",
+    "Create a complete end-to-end solution from story to final video",
+    "Support both short dramas and comics locally without internet dependency"
+  ],
+  "stars": 1784,
+  "starsToday": 115,
+  "language": "JavaScript",
+  "topics": [
+    "ai-mini-drama",
+    "offline-short-drama",
+    "ai-agent",
+    "short-video",
+    "short-video-maker",
+    "mini-drama",
+    "ai-video",
+    "storyboard",
+    "video-generation",
+    "ai",
+    "electron",
+    "javascript",
+    "nodejs",
+    "offline",
+    "open-source",
+    "vue",
+    "vue3"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-16T18:58:01.838Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cfdec116-095c-468d-9e60-32d6d4b73fc5",
+  "repo": "meituan-longcat/LongCat-Video",
+  "url": "https://github.com/meituan-longcat/LongCat-Video",
+  "category": "AI/LLM",
+  "summary": "Dự án mã nguồn mở của Meituan LongCat về mô hình ngôn ngữ-video để hiểu và suy luận trên các video dài. LongCat-Video hỗ trợ phân tích lượng lớn khung hình và tương tác với nội dung video qua các tác vụ như hỏi đáp, tóm tắt và tra cứu sự kiện.",
+  "usecases": [
+    "Hỏi đáp và tóm tắt nội dung từ video dài như bài giảng, cuộc họp hoặc chương trình truyền hình.",
+    "Tìm kiếm và xác định thời điểm xảy ra sự kiện, hành động hoặc đối tượng trong video.",
+    "Phân tích video giám sát, thể thao hoặc quy trình sản xuất để phát hiện hoạt động đáng chú ý."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống RAG để tạo trợ lý có thể đối thoại và trích dẫn phân cảnh video làm bằng chứng.",
+    "Xây dựng bộ tự động gắn nhãn, phân cảnh và lập chỉ mục cho kho video doanh nghiệp.",
+    "Ghép với mô hình đa phương thức để biến phân tích video thành báo cáo, phụ đề hoặc cảnh báo theo thời gian thực."
+  ],
+  "stars": 8193,
+  "starsToday": 138,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-16T18:58:01.838Z"
+}
