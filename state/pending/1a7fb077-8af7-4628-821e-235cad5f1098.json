@@ -1,0 +1,36 @@
+{
+  "id": "1a7fb077-8af7-4628-821e-235cad5f1098",
+  "repo": "yyjeqhc/webcodex",
+  "url": "https://github.com/yyjeqhc/webcodex",
+  "category": "Developer Tool",
+  "summary": "Công cụ mã nguồn mở cho phép AI agent có môi trường phát triển thực tế trên máy cá nhân, hỗ trợ tự-hosted.",
+  "usecases": [
+    "AI agent có thể thực thi code, debug và quản lý dự án trên môi trường local.",
+    "Phát triển và tự động hóa quy trình công việc (workflow) cho lập trình viên cá nhân hoặc đội nhóm.",
+    "Tạo môi trường lập trình cá nhân an toàn và 격離 hóa cho thử thách code hoặc bảo mật."
+  ],
+  "ideas": [
+    "Kết hợp với các LLM để tạo ra một 'AI pair programmer' hoàn toàn self-hosted.",
+    "Sử dụng làm nền tảng cho platform học tập code dựa trên AI.",
+    "Triển khai làm dịch vụ dev environment cá nhân với kiểm soát dữ liệu toàn diện."
+  ],
+  "stars": 1070,
+  "starsToday": 130,
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "chatgpt",
+    "codex",
+    "developer-tools",
+    "gpt-actions",
+    "mcp",
+    "rust",
+    "self-hosted",
+    "claude",
+    "claude-code",
+    "gemini",
+    "grok"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-17T14:15:29.015Z"
+}

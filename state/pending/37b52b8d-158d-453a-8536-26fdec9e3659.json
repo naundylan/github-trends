@@ -1,0 +1,36 @@
+{
+  "id": "37b52b8d-158d-453a-8536-26fdec9e3659",
+  "repo": "rustfs/rustfs",
+  "url": "https://github.com/rustfs/rustfs",
+  "category": "Cloud/Hosting",
+  "summary": "RustFS là hệ thống lưu trữ đối tượng mã nguồn mở, tương thích S3, cung cấp hiệu suất cao và hỗ trợ di chuyển/chồng chéo với MinIO và Ceph.",
+  "usecases": [
+    "Thay thế hoặc mở rộng lưu trữ đám mây cho ứng dụng cần lưu trữ dữ liệu lớn với chi phí thấp.",
+    "Cấu trúc lưu trữ đa đám mây (multi-cloud) cho doanh nghiệp cần đồng bộ dữ liệu giữa các provider.",
+    "Hệ thống lưu trữ cho AI/ML workloads cần truy cập dữ liệu nhanh và khả năng mở rộng."
+  ],
+  "ideas": [
+    "Kết hợp RustFS với Apache Spark để tạo pipeline ETL phân tán và xử lý dữ liệu lớn.",
+    "Triển khai làm lưu trữ chính cho ứng dụng Web3 hoặc decentralized storage.",
+    "Sử dụng làm nền tảng lưu trữ cho môi trường phát triển local-first với sync offline."
+  ],
+  "stars": 32937,
+  "starsToday": 156,
+  "language": "Rust",
+  "topics": [
+    "bigdata",
+    "cloud-native",
+    "filesystem",
+    "object-storage",
+    "rust",
+    "s3",
+    "minio",
+    "amazon-s3",
+    "objectstorage",
+    "ai-native",
+    "multi-cloud",
+    "ai-storage"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-09-17T14:15:29.015Z"
+}

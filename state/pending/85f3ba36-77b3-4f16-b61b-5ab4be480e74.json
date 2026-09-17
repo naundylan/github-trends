@@ -1,0 +1,27 @@
+{
+  "id": "85f3ba36-77b3-4f16-b61b-5ab4be480e74",
+  "repo": "Tencent/BrowserSkill",
+  "url": "https://github.com/Tencent/BrowserSkill",
+  "category": "AI Agent/Automation",
+  "summary": "Cho phép AI agent sử dụng trình duyệt thực đã đăng nhập của người dùng mà không làm gián đoạn công việc, kết hợp CLI và extension để tự động hóa duyệt web trên mọi AI agent chạy trên shell.",
+  "usecases": [
+    "Tự động hóa tác vụ lặp lại trên web (như điền form, thu thập dữ liệu) mà không cần can thiệp thủ công.",
+    "Tích hợp với CI/CD để chạy kiểm thử giao diện trên trình duyệt thật theo yêu cầu.",
+    "Cung cấp môi trường kiểm tra hành vi AI agent trên trình duyệt thực mà không cần thiết lập máy ảo."
+  ],
+  "ideas": [
+    "Phát triển một 'browser copilot' có thể điều khiển nhiều tab/web app cùng lúc thông qua các AI agent khác nhau.",
+    "Tích hợp với các framework agent như AutoGPT hay LangChain để mở rộng khả năng tự động hóa.",
+    "Sử dụng cho các kịch bản test tự động trên thực tế mà không cần môi trường mô phỏng."
+  ],
+  "stars": 3718,
+  "starsToday": 1350,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "dsh-plugin",
+    "browser-use"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-17T14:15:29.015Z"
+}

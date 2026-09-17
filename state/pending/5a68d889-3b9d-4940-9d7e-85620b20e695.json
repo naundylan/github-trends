@@ -1,0 +1,43 @@
+{
+  "id": "5a68d889-3b9d-4940-9d7e-85620b20e695",
+  "repo": "supabase/supabase",
+  "url": "https://github.com/supabase/supabase",
+  "category": "Backend Framework",
+  "summary": "nền tảng phát triển Postgres cung cấp cơ sở dữ liệu riêng để xây dựng ứng dụng web, mobile và AI, được xem là thay thế mã nguồn mở cho Firebase",
+  "usecases": [
+    "xây dựng ứng dụng web có cơ sở dữ liệu Postgres với cập nhật real-time",
+    "triển khai backend cho mobile app với authentication, storage và API tự động",
+    "sử dụng pgvector cho tìm kiếm vector AI trực tiếp trên database"
+  ],
+  "ideas": [
+    "kết hợp với AI để thực hiện semantic search trên dữ liệu bài viết hoặc tài liệu sử dụng pgvector",
+    "xây dựng platform AI riêng nơi người dùng sở hữu dữ liệu và query trực tiếp trên Postgres",
+    "sử dụng Supabase làm backend cho Chrome extension hoặc desktop app cần auth & realtime"
+  ],
+  "stars": 109999,
+  "starsToday": 602,
+  "language": "TypeScript",
+  "topics": [
+    "firebase",
+    "supabase",
+    "realtime",
+    "postgrest",
+    "postgres",
+    "postgresql",
+    "websockets",
+    "deno",
+    "embeddings",
+    "vectors",
+    "alternative",
+    "auth",
+    "database",
+    "example",
+    "nextjs",
+    "oauth2",
+    "pgvector",
+    "postgis",
+    "ai"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-17T14:15:29.015Z"
+}

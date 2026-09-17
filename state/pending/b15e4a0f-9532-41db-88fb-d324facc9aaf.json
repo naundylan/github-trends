@@ -1,0 +1,39 @@
+{
+  "id": "b15e4a0f-9532-41db-88fb-d324facc9aaf",
+  "repo": "freeCodeCamp/freeCodeCamp",
+  "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+  "category": "Documentation/Learning Resource",
+  "summary": "Dự án mã nguồn mở cung cấp chương trình học miễn phí cho lập trình, Toán học và Khoa học máy tính thông qua nền web interactive.",
+  "usecases": [
+    "Học lập trình từ cơ bản đến nâng cao cho người mới bắt đầu.",
+    "Giáo viên và trường học sử dụng làm tài liệu học tập có cấu trúc.",
+    "Thực hành dự án theo curriculum định hướng nghiệp vụ."
+  ],
+  "ideas": [
+    "Kết hợp AI để tự động tạo và đánh giá bài tập học tập.",
+    "Phát triển ứng dụng di động đồng bộ tiến độ học tập cho người dùng.",
+    "Tạo cộng đồng nội bộ cho doanh nghiệp đào tạo nhân viên qua nền tảng."
+  ],
+  "stars": 455668,
+  "starsToday": 135,
+  "language": "TypeScript",
+  "topics": [
+    "learn-to-code",
+    "nonprofits",
+    "programming",
+    "nodejs",
+    "react",
+    "d3",
+    "careers",
+    "education",
+    "teachers",
+    "javascript",
+    "certification",
+    "curriculum",
+    "math",
+    "community",
+    "freecodecamp"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-17T14:15:29.015Z"
+}

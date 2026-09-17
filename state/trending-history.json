@@ -126,7 +126,7 @@
   },
   "immich-app/immich": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "last_saved": "2026-09-14"
   },
   "chthollyphile/folia-major": {
@@ -486,8 +486,8 @@
   },
   "microsoft/TypeScript": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-09-08",
-    "last_saved": "2026-08-23"
+    "last_seen": "2026-09-17",
+    "last_saved": "2026-09-17"
   },
   "google/sam": {
     "first_seen": "2026-08-23",
@@ -596,7 +596,7 @@
   },
   "cjpais/Handy": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-17",
     "last_saved": "2026-09-15"
   },
   "Alishahryar1/free-claude-code": {
@@ -621,8 +621,8 @@
   },
   "DietrichGebert/ponytail": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-09",
-    "last_saved": "2026-08-26"
+    "last_seen": "2026-09-17",
+    "last_saved": "2026-09-17"
   },
   "VoltAgent/awesome-agent-skills": {
     "first_seen": "2026-08-26",
@@ -926,7 +926,7 @@
   },
   "golang/go": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-09-17",
     "last_saved": "2026-09-01"
   },
   "rtk-ai/rtk": {
@@ -946,7 +946,7 @@
   },
   "google-research/timesfm": {
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-05",
+    "last_seen": "2026-09-17",
     "last_saved": "2026-09-02"
   },
   "pacifio/atlas": {
@@ -1131,12 +1131,12 @@
   },
   "Gentleman-Programming/gentle-ai": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-09-17",
     "last_saved": "2026-09-05"
   },
   "vercel-labs/agent-browser": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-17",
     "last_saved": "2026-09-05"
   },
   "jlcodes99/cockpit-tools": {
@@ -1694,52 +1694,47 @@
     "last_seen": "2026-09-17",
     "last_saved": "2026-09-16"
   },
-  "ankitects/anki": {
+  "Tencent/BrowserSkill": {
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
     "last_saved": "2026-09-17"
   },
-  "kunchenguid/lavish-axi": {
+  "cline/cline": {
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
     "last_saved": "2026-09-17"
   },
-  "Mintplex-Labs/anything-llm": {
+  "arnegiacomo/fugleramme": {
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
     "last_saved": "2026-09-17"
   },
-  "Q00/ouroboros": {
+  "supabase/supabase": {
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
     "last_saved": "2026-09-17"
   },
-  "wshobson/agents": {
+  "freeCodeCamp/freeCodeCamp": {
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
     "last_saved": "2026-09-17"
   },
-  "vercel/eve": {
+  "rowboatlabs/rowboat": {
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
     "last_saved": "2026-09-17"
   },
-  "vercel/ai": {
+  "multica-ai/multica": {
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
     "last_saved": "2026-09-17"
   },
-  "projectdiscovery/nuclei": {
+  "yyjeqhc/webcodex": {
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
     "last_saved": "2026-09-17"
   },
-  "coder/coder": {
-    "first_seen": "2026-09-17",
-    "last_seen": "2026-09-17",
-    "last_saved": "2026-09-17"
-  },
-  "netbirdio/netbird": {
+  "rustfs/rustfs": {
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-17",
     "last_saved": "2026-09-17"

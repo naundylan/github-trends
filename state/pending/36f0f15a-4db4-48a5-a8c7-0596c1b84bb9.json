@@ -1,0 +1,34 @@
+{
+  "id": "36f0f15a-4db4-48a5-a8c7-0596c1b84bb9",
+  "repo": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "category": "AI Agent/Automation",
+  "summary": "Skill cho AI agent tư duy như lập trình viên senior lười biếng, ưu tiên 'code ít nhất' (yagni) để giảm lượng code thừa và cải thiện hiệu suất phát triển.",
+  "usecases": [
+    "Giảm lượng code tạo ra bởi AI agent bằng cách nhận diện và loại bỏ các logic không cần thiết (yagni).",
+    "Cải thiện prompt cho các LLM (Claude, Cursor) để agent tư duy theo phong cách 'lười biếng' nhưng hiệu quả.",
+    "Dùng làm rule phát triển software để giảm code thừa trong dự án thực tế."
+  ],
+  "ideas": [
+    "Áp dụng nguyên tắc yagni vào các dự án nội bộ để tự động refactor code thừa sau khi agent tạo xong.",
+    "Tạo một bộ prompt chuẩn cho các team developer để agent luôn tuân theo nguyên tắc 'code ít nhất'.",
+    "Kết hợp với analytics để đo lường lượng code được tiết kiệm và chất lượng dự án cải thiện."
+  ],
+  "stars": 141033,
+  "starsToday": 1062,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "cursor-rules",
+    "developer-tools",
+    "llm",
+    "prompt-engineering",
+    "yagni"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-17T14:15:29.015Z"
+}

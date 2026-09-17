@@ -1,0 +1,23 @@
+{
+  "id": "03573bc4-c55c-4964-997e-4f138ffe6498",
+  "repo": "multica-ai/multica",
+  "url": "https://github.com/multica-ai/multica",
+  "category": "AI Agent/Automation",
+  "summary": "Multica là nền tảng mã nguồn mở cho phép con người và các tác nhân AI làm việc cùng nhau như một đội nhóm, hỗ trợ self-hosting và tích hợp linh hoạt.",
+  "usecases": [
+    "Tự động hóa quy trình làm việc kết hợp giữa nhân lực và AI cho phát triển phần mềm.",
+    "Tạo các đội nhóm AI tùy chỉnh cho hỗ trợ khách hàng, tạo nội dung hoặc phân tích dữ liệu.",
+    "Triển khai môi trường AI self-hosted an toàn cho doanh nghiệp có yêu cầu bảo mật dữ liệu nghiêm ngặt."
+  ],
+  "ideas": [
+    "Kết hợp Multica với các công cụ quản lý dự án như Jira để các tác nhân AI tự động gán issue và theo dõi tiến độ.",
+    "Sử dụng trong giáo dục để tạo ra các gia sư AI cá nhân tương tác với sinh viên.",
+    "Phát triển plugin cho trình soạn thảo code để AI agents tham gia pair programming trực tiếp."
+  ],
+  "stars": 50277,
+  "starsToday": 213,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-17T14:15:29.015Z"
+}

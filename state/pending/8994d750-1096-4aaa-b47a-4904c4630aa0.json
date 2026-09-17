@@ -1,0 +1,39 @@
+{
+  "id": "8994d750-1096-4aaa-b47a-4904c4630aa0",
+  "repo": "rowboatlabs/rowboat",
+  "url": "https://github.com/rowboatlabs/rowboat",
+  "category": "AI Agent/Automation",
+  "summary": "Rowboat là một đồng nghiệp AI mã nguồn mở có khả năng ghi nhớ, giúp tự động hóa các tác vụ và tương tác như một người làm việc thực tế.",
+  "usecases": [
+    "Tự động trả lời email và tin nhắn dựa trên lịch sử hội thoại",
+    "Giúp quản lý dự án bằng cách ghi nhận và theo dõi các nhiệm vụ",
+    "Tích hợp vào Slack/Teams để hỗ trợ tự động hóa làm việc hàng ngày"
+  ],
+  "ideas": [
+    "Sử dụng làm bộ nhớ dài hạn cho các dự án phát triển phần mềm, ghi lại các quyết định kỹ thuật",
+    "Tích hợp với cơ sở dữ liệu để tự động tạo báo cáo tiến độ từ cuộc thảo luận",
+    "Triển khai làm trợ lý quản lý thời gian cá nhân có khả năng học hỏi từ comportement người dùng"
+  ],
+  "stars": 17869,
+  "starsToday": 243,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "agents-sdk",
+    "ai",
+    "ai-agents",
+    "ai-agents-automation",
+    "chatgpt",
+    "generative-ai",
+    "llm",
+    "multiagent",
+    "opeani",
+    "open-source",
+    "orchestration",
+    "claude-code",
+    "claude-cowork",
+    "productivity"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-17T14:15:29.015Z"
+}

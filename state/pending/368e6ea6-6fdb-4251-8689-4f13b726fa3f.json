@@ -1,0 +1,23 @@
+{
+  "id": "368e6ea6-6fdb-4251-8689-4f13b726fa3f",
+  "repo": "cline/cline",
+  "url": "https://github.com/cline/cline",
+  "category": "AI Agent/Automation",
+  "summary": "Cline là một tựa agent tự viết code hoạt động như SDK, tiện ích IDE hoặc CLI, giúp tự động hóa các tác vụ phát triển phần mềm.",
+  "usecases": [
+    "Tự động hoàn thành và viết code trong môi trường phát triển",
+    "Tự động sửa lỗi và refactor code dựa trên lệnh tự nhiên",
+    "Tích hợp vào IDE để hỗ trợ lập trình viên thực hiện các tác vụ lặp lại"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống ticket để tự động tạo code từ yêu cầu khách hàng",
+    "Sử dụng làm assistant trong quá trình review code để đề xuất cải tiến",
+    "Triển khai làm agent tự quản lý và triển khai dự án CI/CD"
+  ],
+  "stars": 68575,
+  "starsToday": 381,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-17T14:15:29.015Z"
+}
