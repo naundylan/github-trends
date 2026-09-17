@@ -1,0 +1,41 @@
+{
+  "id": "e75a2fc6-28c0-46bb-be28-e8452ce8df84",
+  "repo": "xuanyustudio/LocalMiniDrama",
+  "url": "https://github.com/xuanyustudio/LocalMiniDrama",
+  "category": "AI/LLM",
+  "summary": "Local AI-powered tool for generating short dramas and manga from story concepts, fully offline with data privacy preserved.",
+  "usecases": [
+    "Creating short video content from story prompts without cloud dependencies",
+    "Generating AI-powered comic/manga storyboards and videos locally",
+    "Rapid prototyping of AI video narratives for creators and developers"
+  ],
+  "ideas": [
+    "Add multilingual subtitle generation for global distribution",
+    "Integrate with text-to-speech for audio-narrated dramas",
+    "Enable collaborative story editing with AI-assisted plot generation"
+  ],
+  "stars": 1999,
+  "starsToday": 196,
+  "language": "JavaScript",
+  "topics": [
+    "ai-mini-drama",
+    "offline-short-drama",
+    "ai-agent",
+    "short-video",
+    "short-video-maker",
+    "mini-drama",
+    "ai-video",
+    "storyboard",
+    "video-generation",
+    "ai",
+    "electron",
+    "javascript",
+    "nodejs",
+    "offline",
+    "open-source",
+    "vue",
+    "vue3"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-17T18:54:48.386Z"
+}

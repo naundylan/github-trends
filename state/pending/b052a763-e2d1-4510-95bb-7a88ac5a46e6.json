@@ -1,0 +1,30 @@
+{
+  "id": "b052a763-e2d1-4510-95bb-7a88ac5a46e6",
+  "repo": "uutils/coreutils",
+  "url": "https://github.com/uutils/coreutils",
+  "category": "CLI Tool",
+  "summary": "uutils/coreutils là phiên bản ghi đè bằng Rust cho GNU coreutils, cung cấp các lệnh dòng lệnh đa nền tảng với hiệu suất cao và an toàn hơn về bộ nhớ.",
+  "usecases": [
+    "Thay thế GNU coreutils trên macOS và Linux để cải thiện hiệu suất và tính bảo mật",
+    "Sử dụng trong các container có dung lượng nhẹ và bắt đầu nhanh",
+    "Tích hợp vào scripts tự động hóa cần các lệnh chuẩn như ls, cp, mv, cat với hành vi tương thích GNU"
+  ],
+  "ideas": [
+    "Tái viết thêm các util hệ thống thành Rust để tạo bộ công cụ thay thế hoàn toàn cho userland",
+    "Tạo bản phân phối Linux nhẹ dựa trên uutils/coreutils cho thiết bị nhúng",
+    "Kết hợp với shell tùy chỉnh để cung cấp trải nghiệm command-line hiện đại với màu sắc và autocomplete nâng cao"
+  ],
+  "stars": 24284,
+  "starsToday": 169,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "coreutils",
+    "gnu-coreutils",
+    "busybox",
+    "cross-platform",
+    "command-line-tool"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-17T18:54:48.386Z"
+}

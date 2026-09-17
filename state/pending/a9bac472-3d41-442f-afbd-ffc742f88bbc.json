@@ -1,0 +1,23 @@
+{
+  "id": "a9bac472-3d41-442f-afbd-ffc742f88bbc",
+  "repo": "ankitects/anki",
+  "url": "https://github.com/ankitects/anki",
+  "category": "Desktop App",
+  "summary": "Anki là phần mềm flashcard lặp lại khoảng cách thông minh giúp tối ưu hóa quá trình học và ghi nhớ dài hạn thông qua thuật toán spaced repetition.",
+  "usecases": [
+    "Học từ vựng ngôn ngữ mới với lịch trình lặp lại tự động",
+    "Chuẩn bị kỳ thi bằng cách tạo thẻ flash tùy chỉnh cho các môn học",
+    "Giữ lại kiến thức dài hạn cho chuyên gia cần refresher định kỳ"
+  ],
+  "ideas": [
+    "Kết hợp với đồng hồ thông minh để hiển thị thẻ flash khi tập thể dục",
+    "Tạo hệ thống spaced repetition tự động từ tài liệu PDF hoặc trang web",
+    "Đồng bộ thẻ flash an toàn qua đám mây giữa nhiều thiết bị"
+  ],
+  "stars": 31140,
+  "starsToday": 443,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-17T18:54:48.386Z"
+}
