@@ -1,0 +1,43 @@
+{
+  "id": "a75bde2f-e7f4-432a-b259-ad70a716f338",
+  "repo": "supabase/supabase",
+  "url": "https://github.com/supabase/supabase",
+  "category": "Backend Framework",
+  "summary": "Nền tảng phát triển toàn-stack dựa trên Postgres, cung cấp cơ sở dữ liệu, xác thực và thời gian thực để xây dựng ứng dụng web, mobile và AI, là thay thế mã nguồn mở cho Firebase.",
+  "usecases": [
+    "Xây dựng backend cho ứng dụng web/mobile với Postgres, auth và realtime tích hợp.",
+    "Phát triển ứng dụng collaborative với cập nhật dữ liệu thời gian thực.",
+    "Sử dụng pgvector để xây dựng tính năng AI và semantic search trực tiếp trên database."
+  ],
+  "ideas": [
+    "Tạo AI-agent sử dụng pgvector Supabase để lưu trữ truy vấn embeddings.",
+    "Kết hợp với Deno Deploy xây dựng full-stack edge applications có database tại edge.",
+    "Xây dựng hệ thống SaaS auth và billing mà không cần quản lý infrastructure."
+  ],
+  "stars": 109913,
+  "starsToday": 602,
+  "language": "TypeScript",
+  "topics": [
+    "firebase",
+    "supabase",
+    "realtime",
+    "postgrest",
+    "postgres",
+    "postgresql",
+    "websockets",
+    "deno",
+    "embeddings",
+    "vectors",
+    "alternative",
+    "auth",
+    "database",
+    "example",
+    "nextjs",
+    "oauth2",
+    "pgvector",
+    "postgis",
+    "ai"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-17T23:27:22.619Z"
+}

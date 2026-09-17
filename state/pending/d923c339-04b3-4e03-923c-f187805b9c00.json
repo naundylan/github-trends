@@ -1,0 +1,40 @@
+{
+  "id": "d923c339-04b3-4e03-923c-f187805b9c00",
+  "repo": "arnegiacomo/fugleramme",
+  "url": "https://github.com/arnegiacomo/fugleramme",
+  "category": "Embedded/IoT",
+  "summary": "Một khung hiển thị E-ink cho Raspberry Pi thực hiện phát hiện chim theo thời gian thực qua âm thanh bằng AI cục bộ, và hiển thị các tác phẩm vẽ tay 1800s, phù hợp cho kiosk hoặc homelab tự chủ.",
+  "usecases": [
+    "Displaying real-time bird songs and species information on an E-ink screen at home",
+    "Educational project for local AI and embedded hardware development",
+    "Creating a birdwatching kiosk for public parks or gardens"
+  ],
+  "ideas": [
+    "Expanding detection to other animal sounds and displaying on various E-ink devices",
+    "Integrating weather or geographic data to show seasonal bird species",
+    "Building an IoT network that sends rare bird alerts to mobile devices"
+  ],
+  "stars": 2899,
+  "starsToday": 712,
+  "language": "Python",
+  "topics": [
+    "bird-detection",
+    "birding",
+    "birdnet",
+    "birdnet-go",
+    "birdwatching",
+    "e-ink",
+    "inky-impression",
+    "kiosk-software",
+    "raspberry-pi",
+    "self-hosted",
+    "docker",
+    "epaper",
+    "homelab",
+    "public-domain-art",
+    "python",
+    "pimoroni"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-09-17T23:27:22.619Z"
+}

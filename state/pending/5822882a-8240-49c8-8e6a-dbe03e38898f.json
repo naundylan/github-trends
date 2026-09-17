@@ -1,0 +1,36 @@
+{
+  "id": "5822882a-8240-49c8-8e6a-dbe03e38898f",
+  "repo": "rustfs/rustfs",
+  "url": "https://github.com/rustfs/rustfs",
+  "category": "Cloud/Hosting",
+  "summary": "Hệ thống lưu trữ đối tượng high-performance tương thích S3, hỗ trợ di chuyển và giao hòa với MinIO/Ceph, được viết bằng Rust cho workload cloud-native và AI.",
+  "usecases": [
+    "Lưu trữ và phục vụ object cho ứng dụng cloud-native với độ tương thích S3.",
+    "Di chuyển dữ liệu giữa MinIO, Ceph và AWS S3 mà không cần thay đổi code ứng dụng.",
+    "Cung cấp backend lưu trữ cho workload AI/ML cần lưu trữ vector và training data."
+  ],
+  "ideas": [
+    "Triển khai storage layer cho AI-native systems cần high-performance object storage.",
+    "Xây dựng multi-cloud storage gateway cho enterprises đồng bộ dữ liệu on-premise và cloud.",
+    "Sử dụng RustFS làm foundation cho decentralized storage hoặc blockchain-based solutions."
+  ],
+  "stars": 32763,
+  "starsToday": 556,
+  "language": "Rust",
+  "topics": [
+    "bigdata",
+    "cloud-native",
+    "filesystem",
+    "object-storage",
+    "rust",
+    "s3",
+    "minio",
+    "amazon-s3",
+    "objectstorage",
+    "ai-native",
+    "multi-cloud",
+    "ai-storage"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-09-17T23:27:22.619Z"
+}

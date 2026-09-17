@@ -1,0 +1,27 @@
+{
+  "id": "787e210e-72e6-4b5d-b81c-2e51df41b5f7",
+  "repo": "Tencent/BrowserSkill",
+  "url": "https://github.com/Tencent/BrowserSkill",
+  "category": "AI Agent/Automation",
+  "summary": "Cho phép các AI agent sử dụng trình duyệt thật đã đăng nhập mà không làm gián đoạn công việc, kết hợp CLI và extension để tự động hóa duyệt web trên mọi AI agent có thể chạy trên shell.",
+  "usecases": [
+    "Automated web data collection by AI agents",
+    "Integration into existing AI workflows for browser interaction",
+    "Enabling AI agents to access login-required websites without manual intervention"
+  ],
+  "ideas": [
+    "Combining with local AI agent platforms for complex task automation",
+    "Developing plugins for popular AI agents like Claude or ChatGPT to control the browser",
+    "Using for dynamic web scraping that requires maintaining login state"
+  ],
+  "stars": 4075,
+  "starsToday": 1350,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "dsh-plugin",
+    "browser-use"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-17T23:27:22.619Z"
+}

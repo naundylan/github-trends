@@ -1,0 +1,40 @@
+{
+  "id": "bce26257-437f-4f41-b0e5-7ef4eaab063b",
+  "repo": "cilium/cilium",
+  "url": "https://github.com/cilium/cilium",
+  "category": "Networking",
+  "summary": "Một giải pháp networking và security dựa trên eBPF cho Kubernetes, cung cấp monitoring, load balancing và observability.",
+  "usecases": [
+    "Thay thế CNI truyền thống cho Kubernetes clusters với eBPF-based networking",
+    "Cung cấp security policies cấp network layer cho pods và services",
+    "Monitoring và troubleshooting hiệu suất mạng trong môi trường container"
+  ],
+  "ideas": [
+    "Tích hợp với các tool observability như Prometheus/Grafana để dashboard eBPF metrics",
+    "Phát triển module security tự động hóa dựa trên eBPF rules",
+    "Mở rộng hỗ trợ cho các môi trường ngoài Kubernetes (bare metal, edge computing)"
+  ],
+  "stars": 25254,
+  "starsToday": 153,
+  "language": "Go",
+  "topics": [
+    "containers",
+    "bpf",
+    "security",
+    "kubernetes",
+    "kubernetes-networking",
+    "cni",
+    "kernel",
+    "loadbalancing",
+    "monitoring",
+    "troubleshooting",
+    "xdp",
+    "ebpf",
+    "k8s",
+    "observability",
+    "networking",
+    "cncf"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-17T23:27:22.619Z"
+}
