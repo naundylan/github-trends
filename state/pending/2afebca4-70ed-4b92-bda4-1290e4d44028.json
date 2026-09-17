@@ -1,0 +1,23 @@
+{
+  "id": "2afebca4-70ed-4b92-bda4-1290e4d44028",
+  "repo": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Cursor/plugins cung cấp tài liệu đặc tả plugin và các plugin chính thức cho trình soạn thảo mã Cursor, giúp mở rộng chức năng của IDE.",
+  "usecases": [
+    "Tạo plugin tùy chỉnh để thêm các tính năng mới như đoạn mã, công cụ hỗ trợ kiểm tra lỗi hoặc tích hợp công cụ bên thứ ba vào Cursor.",
+    "Tích hợp các công cụ phân tích tĩnh hoặc kiểm tra chất lượng mã thông qua plugin để cải thiện quy trình phát triển.",
+    "Chia sẻ plugin tái sử dụng trong cộng đồng hoặc doanh nghiệp để nâng cao năng suất."
+  ],
+  "ideas": [
+    "Xây dựng một marketplace plugin cho Cursor, nơi các nhà phát triển có thể xuất bản và chia sẻ plugin.",
+    "Phát triển một plugin chuyển đổi mã nguồn (ví dụ: TypeScript sang JavaScript) trực tiếp trong Cursor.",
+    "Tạo một plugin kiểm tra phong cách mã dựa trên các quy tắc tùy chỉnh và hiển thị cảnh báo trong thời gian thực."
+  ],
+  "stars": 8089,
+  "starsToday": 171,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-09-17T03:03:35.723Z"
+}

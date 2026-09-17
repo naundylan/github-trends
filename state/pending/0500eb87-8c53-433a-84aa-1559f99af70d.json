@@ -1,0 +1,41 @@
+{
+  "id": "0500eb87-8c53-433a-84aa-1559f99af70d",
+  "repo": "e2b-dev/runtime",
+  "url": "https://github.com/e2b-dev/runtime",
+  "category": "AI/LLM",
+  "summary": "Runtime nền tảng của E2B, cung cấp môi trường sandbox dựa trên microVM (Firecracker) để thực thi code an toàn cho AI agents và code interpreter.",
+  "usecases": [
+    "Chạy code do AI sinh ra trong môi trường cô lập và an toàn",
+    "Cung cấp sandbox cho AI agents thực hiện tác vụ lập trình tự động",
+    "Xây dựng nền tảng code interpreter đám mây cho doanh nghiệp"
+  ],
+  "ideas": [
+    "Kết hợp với Cline để tạo pipeline AI agent viết code → chạy thử trong sandbox → báo kết quả",
+    "Dùng làm backend cho nền tảng dạy lập trình trực tuyến với sandbox an toàn"
+  ],
+  "stars": 1616,
+  "starsToday": 109,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "code-interpreter",
+    "consul",
+    "devtools",
+    "firecracker",
+    "gcp",
+    "go",
+    "golang",
+    "gpt",
+    "llm",
+    "nomad",
+    "terraform",
+    "vm",
+    "kvm",
+    "microvm",
+    "sandbox",
+    "vmm",
+    "infra"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-17T03:03:35.723Z"
+}

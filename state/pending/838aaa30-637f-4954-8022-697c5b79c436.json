@@ -1,0 +1,23 @@
+{
+  "id": "838aaa30-637f-4954-8022-697c5b79c436",
+  "repo": "meituan-longcat/LongCat-Video",
+  "url": "https://github.com/meituan-longcat/LongCat-Video",
+  "category": "Machine Learning",
+  "summary": "Dự án là một mô hình học máy được phát triển bởi Meituan cho việc sinh video tự động, với điểm nổi bật là khả năng xử lý video cao và hiệu năng tối ưu.",
+  "usecases": [
+    "Tạo video nội dung tự động cho các nền tảng mạng xã hội",
+    "Hỗ trợ sản xuất video bằng AI trong lĩnh vực giải trí",
+    "Tối ưu hóa quy trình edit video bằng công nghệ học máy"
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ thiết kế đồ họa để tạo video cá nhân hóa",
+    "Ứng dụng trong giáo dục để sinh video bài học tương tác",
+    "Tích hợp vào hệ thống CRM để tạo video tiếp thị tự động"
+  ],
+  "stars": 8222,
+  "starsToday": 120,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-09-17T03:03:35.723Z"
+}

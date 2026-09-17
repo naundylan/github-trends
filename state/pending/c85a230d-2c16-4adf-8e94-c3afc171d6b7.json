@@ -1,0 +1,22 @@
+{
+  "id": "c85a230d-2c16-4adf-8e94-c3afc171d6b7",
+  "repo": "cline/cline",
+  "url": "https://github.com/cline/cline",
+  "category": "AI/LLM",
+  "summary": "Cline là một autonomous coding agent có thể sử dụng như SDK, IDE extension hoặc CLI assistant, hỗ trợ phát triển phần mềm tự động bằng AI.",
+  "usecases": [
+    "Tự động viết, sửa lỗi và refactor code trong IDE",
+    "Tích hợp vào pipeline CI/CD để tự động xử lý code review và pull request",
+    "Dùng như CLI assistant để hỗ trợ developer trong terminal"
+  ],
+  "ideas": [
+    "Kết hợp với e2b runtime để chạy code tự động trong sandbox an toàn",
+    "Xây dựng plugin cho các IDE khác dựa trên SDK của Cline"
+  ],
+  "stars": 68402,
+  "starsToday": 112,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-17T03:03:35.723Z"
+}

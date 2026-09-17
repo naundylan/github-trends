@@ -1,0 +1,41 @@
+{
+  "id": "5cddbc91-7946-4ab1-bbeb-31b986fec54a",
+  "repo": "xuanyustudio/LocalMiniDrama",
+  "url": "https://github.com/xuanyustudio/LocalMiniDrama",
+  "category": "Desktop App",
+  "summary": "Công cụ开源 AI cho phép tạo ra các bộ phim ngắn và comic drama trực tiếp trên máy tính, với toàn bộ dữ liệu được bảo mật và quy trình làm việc từ story đến video một cách linh hoạt.",
+  "usecases": [
+    "Tạo phim ngắn cho nội dung giải trí cá nhân",
+    "Sản xuất comic drama cho các nền tảng trực tuyến",
+    "Hỗ trợ quá trình viết story và storyboard bằng AI"
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng mạng xã hội để chia sẻ nội dung",
+    "Sử dụng trong field giải trí để tạo nội dung tương tác",
+    "Kết hợp với công nghệ VR để tạo trải nghiệm immersive"
+  ],
+  "stars": 1888,
+  "starsToday": 116,
+  "language": "JavaScript",
+  "topics": [
+    "ai-mini-drama",
+    "offline-short-drama",
+    "ai-agent",
+    "short-video",
+    "short-video-maker",
+    "mini-drama",
+    "ai-video",
+    "storyboard",
+    "video-generation",
+    "ai",
+    "electron",
+    "javascript",
+    "nodejs",
+    "offline",
+    "open-source",
+    "vue",
+    "vue3"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-17T03:03:35.723Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "6e0458ab-ba34-4c9c-bff3-ed598b667746",
+  "repo": "tonhowtf/omniget",
+  "url": "https://github.com/tonhowtf/omniget",
+  "category": "Desktop App",
+  "summary": "OmniGet là ứng dụng máy tính để bàn mã nguồn mở cho phép tải xuống khóa học, video, nhạc và sách từ hơn 1.800 trang web mà không cần terminal, tích hợp sẵn trình phát khóa học, trình đọc PDF/EPUB và thư viện nhạc, được xây dựng bằng Rust và sử dụng yt-dlp.",
+  "usecases": [
+    "Tải xuống khóa học trực tuyến để xem ngoại tuyến trên nhiều nền tảng như Udemy và Hotmart.",
+    "Lưu video từ YouTube, TikTok, Instagram, Reddit và các trang khác để xem sau.",
+    "Quản lý thư viện tài liệu cá nhân với hỗ trợ PDF/EPUB, tích hợp spaced-repetition để học tập."
+  ],
+  "ideas": [
+    "Tích hợp OmniGet với các ứng dụng quản lý tác vụ (ví dụ: Todoist) để tự động tải xuống và sắp xếp tài liệu học tập.",
+    "Thêm tính năng tải xuống theo lịch trình cho các khóa học định kỳ hoặc các kênh yêu thích.",
+    "Xây dựng một nền tảng học tập cá nhân kết hợp flashcard (như Anki) được đồng bộ hóa từ các tài liệu đã tải xuống."
+  ],
+  "stars": 13593,
+  "starsToday": 869,
+  "language": "Rust",
+  "topics": [
+    "download-manager",
+    "instagram-downloader",
+    "media-downloader",
+    "reddit-downloader",
+    "tiktok-downloader",
+    "twitter-downloader",
+    "video-downloader",
+    "youtube-downloader",
+    "hotmart-downloader",
+    "udemy-downloader",
+    "yt-dlp",
+    "bilibili-downloader",
+    "course-downloader",
+    "downloader",
+    "yt-dlp-gui",
+    "epub-reader",
+    "spaced-repetition",
+    "telegram-downloader",
+    "twitch-downloader",
+    "subtitle-downloader"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-17T03:03:35.723Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "a714876c-647b-4e55-83d7-73c2e9653e73",
+  "repo": "rustfs/rustfs",
+  "url": "https://github.com/rustfs/rustfs",
+  "category": "Database",
+  "summary": "RustFS là hệ thống lưu trữ object mã nguồn mở tương thích S3, được tối ưu hiệu năng cao bằng Rust. Nó hỗ trợ triển khai cloud-native, di chuyển dữ liệu và cùng tồn tại với MinIO hoặc Ceph.",
+  "usecases": [
+    "Lưu trữ và phân phối lượng lớn object nhỏ cho ứng dụng cloud-native.",
+    "Xây dựng backend lưu trữ tương thích S3 cho dữ liệu AI, log hoặc media.",
+    "Di chuyển hoặc vận hành song song hạ tầng object storage giữa RustFS, MinIO và Ceph."
+  ],
+  "ideas": [
+    "Kết hợp RustFS với pipeline ML để làm lớp lưu trữ dataset và model versioning.",
+    "Tích hợp cơ chế phân loại dữ liệu tự động nhằm tối ưu chi phí lưu trữ theo tần suất truy cập.",
+    "Xây dựng cổng đa cloud cho phép chuyển object giữa RustFS và các nhà cung cấp S3 mà không thay đổi ứng dụng."
+  ],
+  "stars": 32619,
+  "starsToday": 156,
+  "language": "Rust",
+  "topics": [
+    "bigdata",
+    "cloud-native",
+    "filesystem",
+    "object-storage",
+    "rust",
+    "s3",
+    "minio",
+    "amazon-s3",
+    "objectstorage",
+    "ai-native",
+    "multi-cloud",
+    "ai-storage"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-09-17T03:03:35.723Z"
+}
