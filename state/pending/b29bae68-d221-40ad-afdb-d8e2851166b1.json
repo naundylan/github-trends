@@ -1,0 +1,39 @@
+{
+  "id": "b29bae68-d221-40ad-afdb-d8e2851166b1",
+  "repo": "Mintplex-Labs/anything-llm",
+  "url": "https://github.com/Mintplex-Labs/anything-llm",
+  "category": "AI Agent/Automation",
+  "summary": "AnythingLLM là nền tảng AI agent local-first cho phép tự host toàn bộ pipeline RAG, vector database, LLM và agent orchestration mà không phụ thuộc cloud. Hỗ trợ multimodal, computer use, và workflow agentic phức tạp.",
+  "usecases": [
+    "Triển khai trợ lý AI nội bộ cho doanh nghiệp với dữ liệu nhạy cảm không rời khỏi server",
+    "Xây dựng agent tự động hóa quy trình: đọc email, trích xuất dữ liệu, cập nhật CRM, sinh báo cáo",
+    "Tạo knowledge base chatbot cho tài liệu kỹ thuật, policy HR, hoặc hỗ trợ khách hàng"
+  ],
+  "ideas": [
+    "Kết hợp với n8n/Zapier để agent tự động thực hiện hành động trên 5000+ ứng dụng SaaS",
+    "Phát triển plugin marketplace cho agent skills chuyên ngành (legal, medical, finance, code review)",
+    "Xây dựng multi-agent swarm: một agent planner phân rã task, các agent worker thực thi song song"
+  ],
+  "stars": 66238,
+  "starsToday": 45,
+  "language": "JavaScript",
+  "topics": [
+    "rag",
+    "localai",
+    "vector-database",
+    "llm",
+    "ai-agents",
+    "multimodal",
+    "agent-harness",
+    "agentic-ai",
+    "hermes-agent",
+    "local-ai",
+    "self-hosted-ai",
+    "agent-computer",
+    "computer-use",
+    "agent-orchestration",
+    "agentic-workflow"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-17T08:30:53.828Z"
+}

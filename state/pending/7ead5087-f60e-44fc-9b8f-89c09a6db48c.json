@@ -1,0 +1,39 @@
+{
+  "id": "7ead5087-f60e-44fc-9b8f-89c09a6db48c",
+  "repo": "vercel/ai",
+  "url": "https://github.com/vercel/ai",
+  "category": "AI/LLM",
+  "summary": "AI Toolkit là thư viện open-source miễn phí từ creators của Next.js, giúp phát triển ứng dụng AI-powered và agent sử dụng các ngôn ngữ mô hình như OpenAI, Anthropic, Gemini một cách dễ dàng.",
+  "usecases": [
+    "Thêm tính năng chat AI vào ứng dụng web React, Svelte hoặc Vue",
+    "Sử dụng LLM APIs thông qua giao diện thống nhất để tạo nội dung, code hoặc tóm tắt",
+    "Xây dựng các tính năng AI trong ứng dụng full-stack TypeScript mà không cần quản lý nhiều SDK"
+  ],
+  "ideas": [
+    "Tạo widget trợ lý AI plug-and-play có thể chèn vào bất kỳ website nào",
+    "Phát triển công cụ so sánh nhiều mô hình cho phép người dùng test prompt trên OpenAI, Anthropic và Gemini",
+    "Xây dựng ứng dụng ghi chú AI chạy trên máy local, lưu dữ liệu riêng và dùng LLM để tóm tắt"
+  ],
+  "stars": 26891,
+  "starsToday": 33,
+  "language": "TypeScript",
+  "topics": [
+    "artificial-intelligence",
+    "javascript",
+    "language-model",
+    "llm",
+    "openai",
+    "react",
+    "svelte",
+    "typescript",
+    "vercel",
+    "nextjs",
+    "vue",
+    "generative-ai",
+    "generative-ui",
+    "anthropic",
+    "gemini"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-17T08:30:53.828Z"
+}

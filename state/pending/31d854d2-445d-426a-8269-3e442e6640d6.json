@@ -1,0 +1,23 @@
+{
+  "id": "31d854d2-445d-426a-8269-3e442e6640d6",
+  "repo": "ankitects/anki",
+  "url": "https://github.com/ankitects/anki",
+  "category": "Productivity/Personal Tool",
+  "summary": "Anki là chương trình thẻ nhớ thông minh sử dụng thuật toán spaced repetition (lặp lại theo khoảng cách) để giúp người dùng ghi nhớ kiến thức lâu dài hiệu quả. Được viết bằng Rust, hỗ trợ đa nền tảng và có hệ sinh thái add-on phong phú.",
+  "usecases": [
+    "Học từ vựng ngôn ngữ ngoại ngữ với thuật toán tối ưu hóa thời gian ôn tập",
+    "Ôn thi chứng chỉ chuyên nghiệp (y khoa, luật, IT) với ngân hàng thẻ lớn",
+    "Ghi nhớ kiến thức chuyên môn, công thức toán học, ngày tháng lịch sử"
+  ],
+  "ideas": [
+    "Tích hợp AI để tự động sinh thẻ nhóm từ PDF, video lecture hoặc bài viết web",
+    "Xây dựng marketplace chia sẻ bộ thẻ đã được kiểm chứng chất lượng bởi cộng đồng",
+    "Kết hợp với pomodoro timer và habit tracker để xây dựng thói quen học tập bền vững"
+  ],
+  "stars": 31005,
+  "starsToday": 58,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-17T08:30:53.828Z"
+}

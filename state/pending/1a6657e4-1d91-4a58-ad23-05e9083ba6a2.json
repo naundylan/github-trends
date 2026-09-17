@@ -1,0 +1,34 @@
+{
+  "id": "1a6657e4-1d91-4a58-ad23-05e9083ba6a2",
+  "repo": "coder/coder",
+  "url": "https://github.com/coder/coder",
+  "category": "DevOps/CI-CD",
+  "summary": "Coder cung cấp môi trường phát triển an toàn và linh hoạt cho các nhà phát triển và agent, hỗ trợ IDE như VSCode và JetBrains, cùng tích hợp với Terraform để đơn giản hóa việc thiết lập cơ sở hạ tầng.",
+  "usecases": [
+    "Thiết lập môi trường phát triển nhất quán cho các đội ngũ làm việc từ xa.",
+    "Tự động hóa việc cài đặt và cấu hình môi trường làm việc cho dự án mới.",
+    "Hỗ trợ các agent AI trong việc thực hiện các tác vụ phát triển phần mềm một cách an toàn."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ bảo mật để tăng cường bảo vệ môi trường phát triển.",
+    "Tích hợp với các nền tảng CI/CD để tự động hóa quy trình build, test, và deploy.",
+    "Sử dụng cho việc đào tạo kỹ năng phát triển trong môi trường ảo hóa và mô phỏng thực tế."
+  ],
+  "stars": 14642,
+  "starsToday": 83,
+  "language": "Go",
+  "topics": [
+    "remote-development",
+    "development-environment",
+    "ide",
+    "dev-tools",
+    "vscode",
+    "jetbrains",
+    "terraform",
+    "go",
+    "golang",
+    "agents"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-09-17T08:30:53.828Z"
+}

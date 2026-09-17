@@ -1,0 +1,43 @@
+{
+  "id": "3d919c9e-1d22-438d-ae2e-ff1f6ae240ff",
+  "repo": "Q00/ouroboros",
+  "url": "https://github.com/Q00/ouroboros",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ điều hành agent AI tự học và tiến hóa, phối hợp nhiều LLM và công cụ phát triển để tự động hóa quy trình coding và đánh giá.",
+  "usecases": [
+    "Tự động hóa quy trình phát triển code với nhiều LLM",
+    "Tạo agent AI tự học và tiến hóa cho dự án phần mềm",
+    "phối hợp Claude Code, Codex CLI để thực hiện tác vụ phức tạp"
+  ],
+  "ideas": [
+    "Tạo ra một developer AI cá nhân có thể tự viết và review code",
+    "Sử dụng làm nền tảng cho tự động hóa quy trình DevOps kết hợp AI",
+    "Phát triển hệ thống tự đánh giá và cải thiện kỹ năng code của team"
+  ],
+  "stars": 5968,
+  "starsToday": 32,
+  "language": "Python",
+  "topics": [
+    "ai-agent",
+    "agent-os",
+    "llm-orchestration",
+    "agentic-ai",
+    "claude-code",
+    "cli",
+    "developer-tools",
+    "mcp",
+    "ai-coding-agent",
+    "codex",
+    "opencode",
+    "llm-evaluation",
+    "coding-agent",
+    "loop-engineering",
+    "deepseek",
+    "dsh",
+    "dsh-plugin",
+    "skill",
+    "skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-17T08:30:53.828Z"
+}

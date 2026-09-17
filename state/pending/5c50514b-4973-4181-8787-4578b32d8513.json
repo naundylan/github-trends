@@ -1,0 +1,33 @@
+{
+  "id": "5c50514b-4973-4181-8787-4578b32d8513",
+  "repo": "vercel/eve",
+  "url": "https://github.com/vercel/eve",
+  "category": "AI Agent/Automation",
+  "summary": "Eve là một framework mã nguồn mở cho phép phát triển và quản lý AI agent với khả năng xử lý workflow, tích hợp markdown và chạy trong môi trường sandbox an toàn.",
+  "usecases": [
+    "Xây dựng các AI agent tự động hóa nhiệm vụ lặp lại",
+    "Tạo các pipeline workflow dựa trên markdown với các trigger tự động",
+    "Deploy các AI agent an toàn trong môi trường sandbox cho production"
+  ],
+  "ideas": [
+    "Kết hợp với Vercel serverless functions để triển khai agent quy mô lớn",
+    "Xây dựng trình biên tập workflow trực quan cho người dùng không chuyên",
+    "Tạo các trợ lý chuyên ngành cho customer support hoặc dữ liệu bằng tích hợp API bên ngoài"
+  ],
+  "stars": 5319,
+  "starsToday": 36,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "framework",
+    "harness",
+    "javascript",
+    "markdown",
+    "typescript",
+    "vercel",
+    "sandbox",
+    "workflows"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-17T08:30:53.828Z"
+}

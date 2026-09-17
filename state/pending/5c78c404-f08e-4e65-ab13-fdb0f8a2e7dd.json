@@ -1,0 +1,44 @@
+{
+  "id": "5c78c404-f08e-4e65-ab13-fdb0f8a2e7dd",
+  "repo": "wshobson/agents",
+  "url": "https://github.com/wshobson/agents",
+  "category": "AI/LLM",
+  "summary": "Marketplace cài đặt plugin đa năng cho các trợ lý AI như Claude Code, Codex, Cursor, và GitHub Copilot. Dùng Python để xây dựng nền tảng đa công cụ.",
+  "usecases": [
+    "Tự động hóa quy trình viết code với nhiều trợ lý AI khác nhau",
+    "Tích hợp đa dạng các công cụ AI vào workflow phát triển phần mềm",
+    "Xây dựng hệ sinh thái plugin mở rộng cho các IDE hiện đại"
+  ],
+  "ideas": [
+    "Tích hợp với các công cụ CI/CD để tự động hóa test và deploy",
+    "Xây dựng dashboard tổng hợp kết quả từ nhiều AI assistant",
+    "Phát triển plugin cho các IDE khác như JetBrains hoặc VS Code"
+  ],
+  "stars": 39748,
+  "starsToday": 41,
+  "language": "Python",
+  "topics": [
+    "anthropic",
+    "agent-skills",
+    "agentic-ai",
+    "ai-agents",
+    "cursor",
+    "cursor-rules",
+    "mcp",
+    "multi-agent",
+    "opencode",
+    "claude-code",
+    "antigravity",
+    "claude",
+    "claude-skills",
+    "subagents",
+    "codex",
+    "claude-code-marketplace",
+    "claude-code-plugin",
+    "github-copilot",
+    "pi-coding-agent",
+    "coding-agents"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-17T08:30:53.828Z"
+}
