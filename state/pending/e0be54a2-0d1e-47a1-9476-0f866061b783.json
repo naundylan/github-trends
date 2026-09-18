@@ -1,0 +1,28 @@
+{
+  "id": "e0be54a2-0d1e-47a1-9476-0f866061b783",
+  "repo": "actualbudget/actual",
+  "url": "https://github.com/actualbudget/actual",
+  "category": "Productivity/Personal Tool",
+  "summary": "Actual là ứng dụng tài chính cá nhân local-first, giúp quản lý tài chính với dữ liệu lưu trữ cục bộ và nguồn mở.",
+  "usecases": [
+    "Theo dõi chi tiêu và thu nhập cá nhân hàng ngày/tháng/năm.",
+    "Quản lý ngân sách cá nhân và tạo báo cáo tài chính.",
+    "Lưu trữ an toàn dữ liệu tài chính mà không phụ thuộc dịch vụ cloud."
+  ],
+  "ideas": [
+    "Kết hợp API ngân hàng để nhập giao dịch tự động vào ứng dụng.",
+    "Phát triển tính năng đồng bộ mã hóa end-to-end giữa nhiều thiết bị.",
+    "Tạo plugin cho công cụ quản lý dự án để theo dõi chi phí cá nhân."
+  ],
+  "stars": 28985,
+  "starsToday": 65,
+  "language": "TypeScript",
+  "topics": [
+    "budgeting",
+    "finance",
+    "money",
+    "personal-finance"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-18T08:04:43.349Z"
+}

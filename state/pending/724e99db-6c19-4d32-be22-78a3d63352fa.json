@@ -1,0 +1,39 @@
+{
+  "id": "724e99db-6c19-4d32-be22-78a3d63352fa",
+  "repo": "nats-io/nats-server",
+  "url": "https://github.com/nats-io/nats-server",
+  "category": "Microservices",
+  "summary": "Server messaging cao hiệu suất cho NATS.io, hỗ trợ giao tiếp giữa microservices, cloud-native và edge computing.",
+  "usecases": [
+    "Thông messaging giữa các microservices trong kiến trúc phân tán",
+    "Hỗ trợ giao tiếp edge computing với latency thấp",
+    "Xây dựng hệ thống event-driven real-time cho connected vehicle hoặc IoT"
+  ],
+  "ideas": [
+    "Xây dựng hệ thống notification real-time cho ứng dụng edge AI",
+    "Sử dụng làm message bus cho microservices giao tiếp với thiết bị IoT tại edge",
+    "Kết hợp với Kubernetes để thực hiện service mesh communication nâng cao"
+  ],
+  "stars": 20743,
+  "starsToday": 112,
+  "language": "Go",
+  "topics": [
+    "go",
+    "golang",
+    "messaging",
+    "message-bus",
+    "message-queue",
+    "cloud-native",
+    "microservices-architecture",
+    "nats-server",
+    "distributed-systems",
+    "cloud",
+    "cloud-computing",
+    "connected-vehicle",
+    "edge",
+    "edge-ai",
+    "edge-computing"
+  ],
+  "notePath": "notes/Microservices.md",
+  "createdAt": "2026-09-18T08:04:43.349Z"
+}

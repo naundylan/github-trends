@@ -1,0 +1,37 @@
+{
+  "id": "c75cf978-2287-4725-b574-7b23390ac961",
+  "repo": "Stirling-Tools/Stirling-PDF",
+  "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+  "category": "Web Frontend",
+  "summary": "Ứng dụng web self-hosted cho phép sửa chữa, chuyển đổi và thao tác PDF trên mọi thiết bị, tích hợp OCR và nhiều công cụ xử lý tài liệu.",
+  "usecases": [
+    "Sửa PDF nội bộ an toàn mà không cần upload lên đám mây thứ ba.",
+    "Thao tác nhanh merge/split PDF trực tiếp trên trình duyệt web hoặc mobile.",
+    "Thay thế phần mềm desktop như Adobe Acrobat cho tổ chức."
+  ],
+  "ideas": [
+    "Thêm tính năng tóm tắt hoặc viết lại nội dung PDF bằng AI.",
+    "Kết nối với Drive, S3 để quản lý file mượt mà.",
+    "Phiên bản touch-friendly cho mobile với tối ưu hóa tương tác."
+  ],
+  "stars": 92471,
+  "starsToday": 128,
+  "language": "Java",
+  "topics": [
+    "docker",
+    "java",
+    "pdf",
+    "pdf-converter",
+    "pdf-manipulation",
+    "pdf-merger",
+    "pdf-tools",
+    "pdf-web-apps",
+    "pdf-ocr",
+    "pdfmerger",
+    "pdf-editor",
+    "hacktoberfest",
+    "self-hosted"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-18T08:04:43.348Z"
+}

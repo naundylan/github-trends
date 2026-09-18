@@ -1,0 +1,42 @@
+{
+  "id": "d0496ae5-31f5-4662-aa55-c7d11f2468af",
+  "repo": "e2b-dev/runtime",
+  "url": "https://github.com/e2b-dev/runtime",
+  "category": "DevOps/CI-CD",
+  "summary": "Runtime cho phép tạo và quản lý các môi trường sandbox/VM隔离 cho AI agents và code execution trên đám mây hoặc máy local.",
+  "usecases": [
+    "Chạy code AI agents trong môi trường sandbox an toàn",
+    "Cung cấp môi trường dev container tức thời cho lập trình viên",
+    "Triển khai code interpreter cho ứng dụng LLM trên đám mây"
+  ],
+  "ideas": [
+    "Kết hợp với AI agent frameworks để tự động tạo sandbox cho từng request",
+    "Sử dụng làm layer hạ tầng cho IDE-based code execution tools",
+    "Tích hợp với Terraform để provision môi trường runtime tự động"
+  ],
+  "stars": 1571,
+  "starsToday": 126,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "code-interpreter",
+    "consul",
+    "devtools",
+    "firecracker",
+    "gcp",
+    "go",
+    "golang",
+    "gpt",
+    "llm",
+    "nomad",
+    "terraform",
+    "vm",
+    "kvm",
+    "microvm",
+    "sandbox",
+    "vmm",
+    "infra"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-09-18T08:04:43.348Z"
+}

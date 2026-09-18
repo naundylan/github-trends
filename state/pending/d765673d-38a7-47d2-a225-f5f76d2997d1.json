@@ -1,0 +1,23 @@
+{
+  "id": "d765673d-38a7-47d2-a225-f5f76d2997d1",
+  "repo": "CodebuffAI/freebuff",
+  "url": "https://github.com/CodebuffAI/freebuff",
+  "category": "AI Agent/Automation",
+  "summary": "một agent tự viết code miễn phí, giúp tự động hóa các tác vụ lập trình",
+  "usecases": [
+    "tự động hoàn thành và viết code dựa trên yêu cầu tự nhiên",
+    "giúp review và debug code nhanh chóng",
+    "tích hợp vào workflow phát triển để tăng năng suất"
+  ],
+  "ideas": [
+    "kết hợp với terminal để thực thi code trực tiếp",
+    "tạo ra một personal coding assistant cá nhân hóa",
+    "hỗ trợ multi-language code generation tự động"
+  ],
+  "stars": 12290,
+  "starsToday": 97,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-18T08:04:43.349Z"
+}
