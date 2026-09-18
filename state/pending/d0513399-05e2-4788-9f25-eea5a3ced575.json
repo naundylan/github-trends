@@ -1,0 +1,23 @@
+{
+  "id": "d0513399-05e2-4788-9f25-eea5a3ced575",
+  "repo": "tradesdontlie/tradingview-mcp",
+  "url": "https://github.com/tradesdontlie/tradingview-mcp",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ kết nối Claude Code với TradingView Desktop để phân tích biểu đồ tự động, giúp tối ưu hóa quy trình giao dịch bằng AI. Nổi bật với khả năng tích hợp AI trực tiếp vào môi trường trading desktop.",
+  "usecases": [
+    "Tự động phân tích biểu đồ TradingView khi có sự thay đổi thị trường mới.",
+    "Tích hợp vào hệ thống bot giao dịch để ra quyết định dựa trên phân tích AI.",
+    "Automate việc ghi chép nhật ký giao dịch từ các phân tích biểu đồ."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống cảnh báo giá để AI phân tích và đưa ra khuyến nghị giao dịch.",
+    "Sử dụng trong công cụ giáo dục để hướng dẫn phân tích biểu đồ qua AI tương tác.",
+    "Tích hợp với nhiều nền tảng trading khác để so sánh và tổng hợp phân tích."
+  ],
+  "stars": 6405,
+  "starsToday": 64,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-18T18:17:20.295Z"
+}

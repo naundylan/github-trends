@@ -1,0 +1,23 @@
+{
+  "id": "1eec7413-c434-441b-a65d-f8c3932d7bf3",
+  "repo": "yynxxxxx/Codex-X",
+  "url": "https://github.com/yynxxxxx/Codex-X",
+  "category": "Desktop App",
+  "summary": "Cross-platform visualization and management tool for OpenAI Codex featuring provider/API switching, session synchronization, prompt injection, and skills/MCP management.",
+  "usecases": [
+    "Centralized management of multiple LLM providers and APIs in a single interface",
+    "Synchronize sessions across different development environments for collaboration",
+    "Inject custom prompts and manage skills within the application"
+  ],
+  "ideas": [
+    "Add multi-language support to expand usability across global teams",
+    "Implement real-time collaboration features for shared codex instances",
+    "Provide export functionality for model configurations and training data"
+  ],
+  "stars": 3295,
+  "starsToday": 86,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-18T18:17:20.295Z"
+}

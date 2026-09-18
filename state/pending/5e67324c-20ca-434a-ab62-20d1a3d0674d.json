@@ -1,0 +1,34 @@
+{
+  "id": "5e67324c-20ca-434a-ab62-20d1a3d0674d",
+  "repo": "coder/coder",
+  "url": "https://github.com/coder/coder",
+  "category": "Developer Tool",
+  "summary": "Secure development environments for developers and their agents built with Go, supporting VSCode integration, Terraform infrastructure provisioning, and agent-based workflows.",
+  "usecases": [
+    "Providing isolated, secure coding environments for development teams",
+    "Enabling agent-assisted development through integrated tooling",
+    "Managing consistent development setups via Terraform configurations"
+  ],
+  "ideas": [
+    "Integrate directly with popular IDEs like VSCode for seamless developer experience",
+    "Build automated CI/CD pipelines leveraging agent automation capabilities",
+    "Create reusable infrastructure-as-code templates for reproducible environments"
+  ],
+  "stars": 15174,
+  "starsToday": 478,
+  "language": "Go",
+  "topics": [
+    "remote-development",
+    "development-environment",
+    "ide",
+    "dev-tools",
+    "vscode",
+    "jetbrains",
+    "terraform",
+    "go",
+    "golang",
+    "agents"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-18T18:17:20.295Z"
+}

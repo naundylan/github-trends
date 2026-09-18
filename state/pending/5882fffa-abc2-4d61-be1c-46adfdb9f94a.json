@@ -1,0 +1,29 @@
+{
+  "id": "5882fffa-abc2-4d61-be1c-46adfdb9f94a",
+  "repo": "microsoft/agent-lightning",
+  "url": "https://github.com/microsoft/agent-lightning",
+  "category": "AI Agent/Automation",
+  "summary": "microsoft/agent-lightning là framework huấn luyện để phát triển và triển khai AI agents, tích hợp LLM, reinforcement learning và MLOps.",
+  "usecases": [
+    "Automate complex research and data analysis with AI agents.",
+    "Deploy continuous MLOps pipelines for agent training and iteration.",
+    "Build strategic decision-support systems using reinforcement learning."
+  ],
+  "ideas": [
+    "Combine with real-time graphics to create game characters with self-learning AI behaviors.",
+    "Develop a personal financial automation system that analyzes market trends via AI agents.",
+    "Create a personal AI assistant that improves through continuous feedback loops."
+  ],
+  "stars": 18333,
+  "starsToday": 70,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "llm",
+    "mlops",
+    "reinforcement-learning"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-18T18:17:20.295Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d12915d2-2e3c-4bd8-934c-cfd45e7c82f7",
+  "repo": "junegunn/fzf",
+  "url": "https://github.com/junegunn/fzf",
+  "category": "CLI Tool",
+  "summary": "fzf là fuzzy finder dòng lệnh nhẹ và nhanh, cho phép tìm kiếm và lọc nội dung trong terminal một cách hiệu quả, tích hợp với vim, neovim và shell như bash, zsh, fish.",
+  "usecases": [
+    "Quickly search and open files in large projects directly from the terminal.",
+    "Filter and select command history or text content in bash/zsh with high speed.",
+    "Integrate into vim/neovim for rapid in-editor search and replacement without leaving the editor."
+  ],
+  "ideas": [
+    "Build a personal fuzzy menu for system configurations or shell aliases.",
+    "Create a script combining fzf with git for fast branch checkout or diff viewing.",
+    "Develop a cross-platform smart search widget for terminal with preview functionality."
+  ],
+  "stars": 83111,
+  "starsToday": 69,
+  "language": "Go",
+  "topics": [
+    "fzf",
+    "go",
+    "bash",
+    "zsh",
+    "fish",
+    "vim",
+    "neovim",
+    "cli",
+    "unix",
+    "tmux"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-18T18:17:20.295Z"
+}

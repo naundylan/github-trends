@@ -1,0 +1,37 @@
+{
+  "id": "e5c5d5a0-8363-47f5-ab31-1beacb6a9359",
+  "repo": "PaddlePaddle/PaddleOCR",
+  "url": "https://github.com/PaddlePaddle/PaddleOCR",
+  "category": "Computer Vision",
+  "summary": "một bộ công cụ OCR nhẹ và mạnh mẽ将任何 PDF hoặc hình ảnh thành dữ liệu có cấu trúc cho AI, hỗ trợ 100+ ngôn ngữ và liên kết giữa hình ảnh/tập tin PDF với các mô hình LLM",
+  "usecases": [
+    "trích xuất văn bản từ PDF và hình ảnh để đưa vào hệ thống RAG hoặc phân tích tài liệu",
+    "chuyển đổi tài liệu in hoặc quét thành dữ liệu có cấu trúc cho các mô hình ngôn ngữ",
+    "hỗ trợ đa ngôn ngữ cho ứng dụng nhận diện văn bản toàn cầu trong các ngành y tế, tài chính hoặc giáo dục"
+  ],
+  "ideas": [
+    "tích hợp vào quy trình làm việc tự động hóa để chuyển đổi hợp đồng in hoặc hóa đơn thành dữ liệu JSON có cấu trúc",
+    "xây dựng ứng dụng trợ lý đọc sách cho người khiếm thị bằng cách kết hợp OCR với đọc văn đọc tự động",
+    "phát triển hệ thống phân tích tài liệu y tế để trích xuất thông tin từ kết quả chụp X-quang hoặc hồ sơ bệnh án quét"
+  ],
+  "stars": 89780,
+  "starsToday": 72,
+  "language": "Python",
+  "topics": [
+    "ocr",
+    "chineseocr",
+    "pdf2markdown",
+    "pp-ocr",
+    "pp-structure",
+    "document-parsing",
+    "document-translation",
+    "kie",
+    "ai4science",
+    "pdf-extractor-rag",
+    "pdf-parser",
+    "rag",
+    "paddleocr-vl"
+  ],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-09-18T18:17:20.295Z"
+}

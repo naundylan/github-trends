@@ -1,0 +1,44 @@
+{
+  "id": "95a3ba73-e3e2-403f-b8a2-f233448f6b96",
+  "repo": "unslothai/unsloth",
+  "url": "https://github.com/unslothai/unsloth",
+  "category": "AI/LLM",
+  "summary": "một giao diện người dùng cục bộ để chạy và huấn luyện các mô hình LLM và diffusion, hỗ trợ nhiều định dạng model như GGUF, MLX, Gemma, FLUX và hơn 100 ngôn ngữ khác, tối ưu hóa hiệu suất cho phát triển AI cục bộ",
+  "usecases": [
+    "huấn luyện và tinh chỉnh LLM cục bộ với tốc độ nhanh hơn so với các framework truyền thống",
+    "chạy các mô hình diffusion để sinh ảnh trong môi trường không cần kết nối internet",
+    "phát triển ứng dụng AI cá nhân với giao diện đồ họa thân thiện cho các mô hình LLM và TTS"
+  ],
+  "ideas": [
+    "kết hợp với các thiết bị cục bộ (Edge AI) để tạo ra một 'AI Studio' di động hoàn toàn tự chủ",
+    "tạo plugin cho VS Code để huấn luyện và đánh giá LLM trực tiếp từ trình biên tập code",
+    "phát triển hệ thống tự động tạo dữ liệu huấn luyện cho các mô hình ngôn ngữ từ dữ liệu âm thanh hoặc video"
+  ],
+  "stars": 76374,
+  "starsToday": 78,
+  "language": "Python",
+  "topics": [
+    "fine-tuning",
+    "llama",
+    "llms",
+    "gemma",
+    "unsloth",
+    "llm",
+    "deepseek",
+    "text-to-speech",
+    "tts",
+    "qwen",
+    "agent",
+    "openai",
+    "reinforcement-learning",
+    "self-hosted",
+    "ui",
+    "image-generation",
+    "stable-diffusion",
+    "chatgpt",
+    "ai",
+    "python"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-18T18:17:20.295Z"
+}

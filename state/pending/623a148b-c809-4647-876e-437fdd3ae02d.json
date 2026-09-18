@@ -1,0 +1,23 @@
+{
+  "id": "623a148b-c809-4647-876e-437fdd3ae02d",
+  "repo": "makepad/makepad",
+  "url": "https://github.com/makepad/makepad",
+  "category": "UI/Component Library",
+  "summary": "Nền tảng phát triển phần mềm sáng tạo bằng Rust, compile sang web (wasm/webGL) và desktop (OSX, Windows, Linux). Cho phép xây dựng giao diện người dùng đa nền tảng với hiệu năng cao từ ngôn ngữ Rust.",
+  "usecases": [
+    "Phát triển ứng dụng web tương tác cao sử dụng Rust.",
+    "Tạo giao diện desktop cho các ứng dụng cần hiệu năng và tương thích đa nền tảng.",
+    "Xây dựng các dự án creative như game hoặc ứng dụng nghệ thuật với giao diện phong phú."
+  ],
+  "ideas": [
+    "Kết hợp với WebAssembly để tăng tốc độ chạy ứng dụng web.",
+    "Sử dụng trong phát triển các công cụ cross-platform cho nhà phát triển.",
+    "Tích hợp với các library Rust khác để mở rộng tính năng UI và tương tác."
+  ],
+  "stars": 6963,
+  "starsToday": 61,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-18T18:17:20.295Z"
+}

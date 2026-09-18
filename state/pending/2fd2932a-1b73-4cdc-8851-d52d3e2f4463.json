@@ -1,0 +1,26 @@
+{
+  "id": "2fd2932a-1b73-4cdc-8851-d52d3e2f4463",
+  "repo": "remorses/gpuix",
+  "url": "https://github.com/remorses/gpuix",
+  "category": "UI/Component Library",
+  "summary": "Cung cấp Node.js và React bindings cho GPUI của Zed, cho phép xây dựng ứng dụng native tiết kiệm bộ nhớ bằng React mà không cần Electron. Nó kết nối hệ sinh thái React với hiệu năng và độ mượt của GPUI.",
+  "usecases": [
+    "Phát triển ứng dụng desktop native với giao diện React mà không phải chịu chi phí tài nguyên của Electron",
+    "Tái sử dụng kiến thức React để xây dựng các công cụ lập trình hoặc trình soạn thảo nhẹ dựa trên GPUI",
+    "Tạo các widget và component UI phức tạp cho ứng dụng desktop với hiệu suất cao"
+  ],
+  "ideas": [
+    "Xây dựng một bộ component UI hoàn chỉnh dành riêng cho GPUI, tương tự shadcn/ui nhưng cho desktop",
+    "Tích hợp gpuix với một framework state management như Zustand để quản lý trạng thái ứng dụng desktop phức tạp",
+    "Tạo ra một CLI scaffold để nhanh chóng khởi tạo dự án React + GPUI với cấu hình sẵn"
+  ],
+  "stars": 1989,
+  "starsToday": 58,
+  "language": "Rust",
+  "topics": [
+    "gpui",
+    "zed"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-18T18:17:20.295Z"
+}
