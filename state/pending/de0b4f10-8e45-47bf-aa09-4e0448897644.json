@@ -1,0 +1,44 @@
+{
+  "id": "de0b4f10-8e45-47bf-aa09-4e0448897644",
+  "repo": "decolua/9router",
+  "url": "https://github.com/decolua/9router",
+  "category": "API/GraphQL",
+  "summary": "Một cổng AI miễn phí kết nối Claude Code, Codex, Cursor, Cline, Copilot và nhiều provider AI khác, tự động fallback và tiết kiệm token",
+  "usecases": [
+    "Kết nối nhiều provider AI (Claude, GPT, Gemini, Qwen, Deepseek) vào một luồng phát triển",
+    "Tự động fallback khi provider nào đó lỗi hoặc hết quota",
+    "Tiết kiệm token và tránh giới hạn API bằng RTK -40%"
+  ],
+  "ideas": [
+    "Xây dựng luồng tự động chuyển đổi provider khi một trong bị chặn",
+    "Thiết lập chi phí dự báo chi phí API dựa trên sử dụng token",
+    "Xây dựng dashboard quản lý chi phí và hiệu suất cho nhiều dự án AI"
+  ],
+  "stars": 29241,
+  "starsToday": 164,
+  "language": "JavaScript",
+  "topics": [
+    "claude-code",
+    "cursor",
+    "ai-agents",
+    "ai-gateway",
+    "anthropic",
+    "chatgpt",
+    "claude",
+    "cline",
+    "codex",
+    "copilot",
+    "deepseek",
+    "free-ai",
+    "gemini",
+    "gemini-cli",
+    "llm",
+    "llm-gateway",
+    "openai",
+    "openai-proxy",
+    "qwen",
+    "token-saver"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-18T13:36:31.234Z"
+}

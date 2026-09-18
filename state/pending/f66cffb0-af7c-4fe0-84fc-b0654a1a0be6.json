@@ -1,0 +1,28 @@
+{
+  "id": "f66cffb0-af7c-4fe0-84fc-b0654a1a0be6",
+  "repo": "ahmedkhaleel2004/gitdiagram",
+  "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+  "category": "Developer Tool",
+  "summary": "Công cụ đồ họ hóa Developer Tool giúp tạo các sơ đồ tương tác minh bạch, nhanh chóng và trực quan cho bất kỳ kho mã nguồn GitHub nào, hỗ trợ thiết kế hệ thống và tài liệu hóa kiến trúc.",
+  "usecases": [
+    "Tự động hóa việc tạo sơ đồ luồng dữ liệu và kiến trúc hệ thống từ mã nguồn GitHub để tài liệu hóa dự án.",
+    "Trình bày cấu trúc module và mối quan hệ giữa các thành phần trong dự án một cách trực quan cho đội ngũ mới.",
+    "Hỗ trợ thiết kế và phác thảo hệ thống trong các buổi họp kỹ thuật hoặc báo cáo dự án."
+  ],
+  "ideas": [
+    "Tích hợp công cụ này vào các quy trình CI/CD để tự động cập nhật sơ đồ kiến trúc khi có thay đổi code.",
+    "Kết hợp với các hệ thống wiki nội bộ để cung cấp các sơ đồ tương tác trực quan cho người tham gia dự án.",
+    "Phát triển tính năng xuất sơ đồ dưới dạng mã SVG hoặc tương thích với các phần mềm vẽ kiến trúc khác."
+  ],
+  "stars": 16262,
+  "starsToday": 145,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "github",
+    "system-design",
+    "code"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-18T13:36:31.234Z"
+}

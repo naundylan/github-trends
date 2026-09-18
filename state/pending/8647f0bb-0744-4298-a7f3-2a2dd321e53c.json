@@ -1,0 +1,23 @@
+{
+  "id": "8647f0bb-0744-4298-a7f3-2a2dd321e53c",
+  "repo": "shiyu-coder/Kronos",
+  "url": "https://github.com/shiyu-coder/Kronos",
+  "category": "AI/LLM",
+  "summary": "Kronos là mô hình foundation cho ngôn ngữ thị trường tài chính, được thiết kế để hiểu và sinh nội dung tài chính, hỗ trợ phân tích và dự báo tài chính.",
+  "usecases": [
+    "Phân tích xu hướng và tin tức tài chính từ dữ liệu ngôn ngữ tự nhiên.",
+    "Tạo các báo cáo dự báo thị trường hoặc tín hiệu giao dịch dựa trên mô hình ngôn ngữ.",
+    "Hỗ trợ nghiên cứu và viết bài về tài chính với dữ liệu chính xác, giảm thời gian thủ công."
+  ],
+  "ideas": [
+    "Tích hợp vào nền tảng giao dịch tự động để dự báo giá dựa trên tin tức.",
+    "Sử dụng làm base model cho ứng dụng tư vấn tài chính cá nhân.",
+    "Mở rộng mô hình để cover nhiều asset class như cổ phiếu, crypto v.v."
+  ],
+  "stars": 39160,
+  "starsToday": 232,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-18T13:36:31.234Z"
+}

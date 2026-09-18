@@ -1,0 +1,38 @@
+{
+  "id": "fbc7caca-42ba-46c8-9575-ce7573cb3843",
+  "repo": "asciimoo/hister",
+  "url": "https://github.com/asciimoo/hister",
+  "category": "Productivity/Personal Tool",
+  "summary": "Hister là công cụ tìm kiếm cá nhân mã nguồn mở viết bằng Go, tập trung vào quyền riêng tư và khả năng lập chỉ mục lịch sử duyệt web. Dự án hỗ trợ tìm kiếm ngữ nghĩa và có thể hoạt động như một máy chủ MCP để các trợ lý AI truy vấn dữ liệu cá nhân.",
+  "usecases": [
+    "Tìm nhanh trang web, tài liệu hoặc nội dung đã truy cập trong lịch sử duyệt web.",
+    "Cung cấp cho trợ lý AI nguồn dữ liệu cá nhân có thể tìm kiếm qua giao diện MCP.",
+    "Tự xây dựng công cụ tìm kiếm nội bộ cho dữ liệu cá nhân mà không phụ thuộc dịch vụ đám mây."
+  ],
+  "ideas": [
+    "Kết hợp lịch sử duyệt web, bookmark và ghi chú để tạo bộ tìm kiếm tri thức cá nhân thống nhất.",
+    "Thêm tiện ích trình duyệt cho phép đánh dấu và tìm kiếm nội dung ngay trong trang đang mở.",
+    "Xây dựng tác nhân AI tự động tổng hợp nguồn nghiên cứu dựa trên lịch sử duyệt web."
+  ],
+  "stars": 4714,
+  "starsToday": 842,
+  "language": "Go",
+  "topics": [
+    "go",
+    "golang",
+    "history",
+    "index",
+    "search",
+    "search-engine",
+    "web",
+    "mcp",
+    "mcp-server",
+    "privacy",
+    "semantic-search",
+    "browser-history",
+    "personal-search",
+    "personal-search-engine"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-18T13:36:31.234Z"
+}

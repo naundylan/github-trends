@@ -1,0 +1,31 @@
+{
+  "id": "03933a90-a1a0-4819-9cfd-8e137267e1f7",
+  "repo": "jarrodwatts/claude-hud",
+  "url": "https://github.com/jarrodwatts/claude-hud",
+  "category": "Developer Tool",
+  "summary": "Một plugin Claude Code hiển thị thông tin trạng thái thời thực - sử dụng ngữ cảnh, công cụ đang hoạt động, các agent đang chạy và tiến độ todo",
+  "usecases": [
+    "Theo dõi tiến độ tác vụ khi dùng Claude Code",
+    "Hiển thị tài nguyên ngữ cảnh đang được sử dụng",
+    "Quản lý trạng thái agent và công cụ đang hoạt động"
+  ],
+  "ideas": [
+    "Tích hợp với dashboard cá nhân để theo dõi hiệu suất Claude Code",
+    "Thêm cảnh báo khi sử dụng vượt quá ngưỡng ngữ cảnh",
+    "Xây dựng dashboard tổng hợp cho nhiều agent Claude Code cùng lúc"
+  ],
+  "stars": 28037,
+  "starsToday": 190,
+  "language": "JavaScript",
+  "topics": [
+    "anthropic",
+    "claude",
+    "claude-code",
+    "cli",
+    "plugin",
+    "statusline",
+    "typescript"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-18T13:36:31.234Z"
+}

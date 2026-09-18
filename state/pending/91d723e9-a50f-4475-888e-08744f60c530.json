@@ -1,0 +1,43 @@
+{
+  "id": "91d723e9-a50f-4475-888e-08744f60c530",
+  "repo": "Graphify-Labs/graphify",
+  "url": "https://github.com/Graphify-Labs/graphify",
+  "category": "Developer Tool",
+  "summary": "Graphify biến codebase cùng tài liệu, schema SQL, cấu hình và PDF thành đồ thị tri thức có thể truy vấn bằng ngôn ngữ tự nhiên. Công cụ phân tích AST cục bộ và tất định, giải thích từng liên kết, đồng thời không yêu cầu vector store.",
+  "usecases": [
+    "Giúp lập trình viên nhanh chóng khám phá kiến trúc, luồng dữ liệu và quan hệ giữa các thành phần trong codebase lớn.",
+    "Hỗ trợ Claude Code, Cursor, Codex hoặc Gemini CLI tìm mã nguồn và tài liệu liên quan với ngữ cảnh chính xác hơn.",
+    "Phân tích tác động của thay đổi mã nguồn, cấu hình hoặc schema cơ sở dữ liệu trước khi triển khai."
+  ],
+  "ideas": [
+    "Tích hợp vào CI để tạo đồ thị khác biệt và cảnh báo các thay đổi có nguy cơ ảnh hưởng rộng.",
+    "Kết hợp với tác nhân bảo mật nhằm phát hiện luồng dữ liệu nhạy cảm và quan hệ tin cậy bất thường.",
+    "Tự động tạo tài liệu kiến trúc luôn đồng bộ với mã nguồn và schema hiện tại."
+  ],
+  "stars": 119220,
+  "starsToday": 437,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "graphrag",
+    "knowledge-graph",
+    "codex",
+    "openclaw",
+    "skills",
+    "antigravity",
+    "gemini",
+    "leiden",
+    "rag",
+    "tree-sitter",
+    "ai-agents",
+    "ast",
+    "code-analysis",
+    "code-search",
+    "cursor",
+    "developer-tools",
+    "llm",
+    "mcp"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-18T13:36:31.234Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "7f82991a-ca37-466a-873f-967cb5b95ef0",
+  "repo": "router-for-me/CLIProxyAPI",
+  "url": "https://github.com/router-for-me/CLIProxyAPI",
+  "category": "API/GraphQL",
+  "summary": "Dịch vụ API proxy linh hoạt bọc các mô hình AI hàng đầu như Gemini, GPT, Claude và Grok thành một chuẩn API tương thích OpenAI/Gemini, cho phép truy cập các model miễn phí một cách dễ dàng và tập trung.",
+  "usecases": [
+    "Xây dựng các ứng dụng AI mà không cần phải đăng ký và quản lý nhiều khóa API khác nhau từ các nhà cung cấp.",
+    "Thực hiện test và so sánh hiệu suất giữa các mô hình AI khác nhau thông qua cùng một giao diện API chuẩn.",
+    "Phát triển các hệ thống multi-agent hoặc agent automation sử dụng các model miễn phí thông qua một lớp proxy tập trung."
+  ],
+  "ideas": [
+    "Triển khai hệ thống này locally để đảm bảo bảo mật dữ liệu đầu vào khi gọi các mô hình bên thứ ba.",
+    "Kết hợp với hệ thống quản lý chi phí (billing) nội bộ để theo dõi và giới hạn việc sử dụng các API free tier.",
+    "Tạo một lớp abstraction cho các agent khác nhau, cho phép chuyển đổi giữa các model một cách động dựa trên yêu cầu任务."
+  ],
+  "stars": 52395,
+  "starsToday": 141,
+  "language": "Go",
+  "topics": [
+    "claude-code",
+    "cluade",
+    "gemini",
+    "openai",
+    "codex",
+    "antigravity"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-18T13:36:31.234Z"
+}

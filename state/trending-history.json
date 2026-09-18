@@ -286,8 +286,8 @@
   },
   "Wei-Shaw/sub2api": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-09-11",
-    "last_saved": "2026-08-22"
+    "last_seen": "2026-09-18",
+    "last_saved": "2026-09-18"
   },
   "tonhowtf/omniget": {
     "first_seen": "2026-07-07",
@@ -306,8 +306,8 @@
   },
   "decolua/9router": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-09-11",
-    "last_saved": "2026-08-22"
+    "last_seen": "2026-09-18",
+    "last_saved": "2026-09-18"
   },
   "byoungd/up": {
     "first_seen": "2026-07-08",
@@ -321,7 +321,7 @@
   },
   "NVIDIA/SkillSpector": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-09-06",
+    "last_seen": "2026-09-18",
     "last_saved": "2026-09-01"
   },
   "dream-num/univer": {
@@ -386,7 +386,7 @@
   },
   "stablyai/orca": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-18",
     "last_saved": "2026-09-12"
   },
   "wealthfolio/wealthfolio": {
@@ -421,8 +421,8 @@
   },
   "Graphify-Labs/graphify": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-09-04",
-    "last_saved": "2026-08-22"
+    "last_seen": "2026-09-18",
+    "last_saved": "2026-09-18"
   },
   "anthropics/claude-plugins-community": {
     "first_seen": "2026-08-22",
@@ -481,8 +481,8 @@
   },
   "heygen-com/hyperframes": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-09-11",
-    "last_saved": "2026-08-23"
+    "last_seen": "2026-09-18",
+    "last_saved": "2026-09-18"
   },
   "microsoft/TypeScript": {
     "first_seen": "2026-08-23",
@@ -506,7 +506,7 @@
   },
   "tashfeenahmed/freellmapi": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-18",
     "last_saved": "2026-09-14"
   },
   "Anil-matcha/Open-Generative-AI": {
@@ -521,13 +521,13 @@
   },
   "marin-community/marin": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-29",
-    "last_saved": "2026-08-24"
+    "last_seen": "2026-09-18",
+    "last_saved": "2026-09-18"
   },
   "lfnovo/open-notebook": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-25",
-    "last_saved": "2026-08-24"
+    "last_seen": "2026-09-18",
+    "last_saved": "2026-09-18"
   },
   "garrytan/gstack": {
     "first_seen": "2026-08-24",
@@ -541,8 +541,8 @@
   },
   "asciimoo/hister": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-28",
-    "last_saved": "2026-08-24"
+    "last_seen": "2026-09-18",
+    "last_saved": "2026-09-18"
   },
   "Tencent/WeKnora": {
     "first_seen": "2026-08-24",
@@ -756,7 +756,7 @@
   },
   "every-app/open-seo": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-18",
     "last_saved": "2026-08-29"
   },
   "chuspeeism/dashi-ppt-skill": {
@@ -816,7 +816,7 @@
   },
   "D4Vinci/Scrapling": {
     "first_seen": "2026-08-30",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-18",
     "last_saved": "2026-08-30"
   },
   "kaifcodec/user-scanner": {
@@ -1056,7 +1056,7 @@
   },
   "WorldFlowAI/everything-claude-code": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-08",
+    "last_seen": "2026-09-18",
     "last_saved": "2026-09-04"
   },
   "Sumanth077/Hands-On-AI-Engineering": {
@@ -1326,7 +1326,7 @@
   },
   "supermemoryai/supermemory": {
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-18",
     "last_saved": "2026-09-09"
   },
   "getopenscreen/openscreen": {
@@ -1461,7 +1461,7 @@
   },
   "louislam/uptime-kuma": {
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-18",
     "last_saved": "2026-09-12"
   },
   "drawdb-io/drawdb": {
@@ -1666,7 +1666,7 @@
   },
   "bobeff/open-source-games": {
     "first_seen": "2026-09-16",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-18",
     "last_saved": "2026-09-16"
   },
   "google/skills": {
@@ -1744,52 +1744,32 @@
     "last_seen": "2026-09-18",
     "last_saved": "2026-09-17"
   },
-  "coder/coder": {
+  "Fission-AI/OpenSpec": {
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
     "last_saved": "2026-09-18"
   },
-  "JoeanAmier/TikTokDownloader": {
+  "ankitects/anki": {
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
     "last_saved": "2026-09-18"
   },
-  "LLMQuant/quant-mind": {
+  "ahmedkhaleel2004/gitdiagram": {
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
     "last_saved": "2026-09-18"
   },
-  "CodebuffAI/freebuff": {
+  "jarrodwatts/claude-hud": {
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
     "last_saved": "2026-09-18"
   },
-  "Stirling-Tools/Stirling-PDF": {
+  "shiyu-coder/Kronos": {
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
     "last_saved": "2026-09-18"
   },
-  "actualbudget/actual": {
-    "first_seen": "2026-09-18",
-    "last_seen": "2026-09-18",
-    "last_saved": "2026-09-18"
-  },
-  "e2b-dev/runtime": {
-    "first_seen": "2026-09-18",
-    "last_seen": "2026-09-18",
-    "last_saved": "2026-09-18"
-  },
-  "gastownhall/beads": {
-    "first_seen": "2026-09-18",
-    "last_seen": "2026-09-18",
-    "last_saved": "2026-09-18"
-  },
-  "nats-io/nats-server": {
-    "first_seen": "2026-09-18",
-    "last_seen": "2026-09-18",
-    "last_saved": "2026-09-18"
-  },
-  "CapSoftware/Cap": {
+  "router-for-me/CLIProxyAPI": {
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-18",
     "last_saved": "2026-09-18"

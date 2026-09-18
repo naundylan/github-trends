@@ -1,0 +1,35 @@
+{
+  "id": "7c9796c9-cae3-48d6-be85-20ad4e181aa3",
+  "repo": "heygen-com/hyperframes",
+  "url": "https://github.com/heygen-com/hyperframes",
+  "category": "AI/LLM",
+  "summary": "Hyperframes là một thư viện TypeScript cho phép viết HTML và render video, được thiết kế đặc biệt cho các ứng dụng AI agent tự động tạo và xử lý nội dung video.",
+  "usecases": [
+    "AI agent tự động tạo video promotional hoặc giải설 từ các template HTML.",
+    "Render động họp setting hoặc dữ liệu trực quan trong các ứng dụng training và simulation.",
+    "Tích hợp với ffmpeg/GSAP để tạo animation và video hiệu ứng cho các dự án web-based AI."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tự động sinh video từ prompt text, tạo nội dung cho marketing hoặc giáo dục.",
+    "Sử dụng làm nền tảng để build visual interface cho AI agents trong môi trường làm việc tự động.",
+    "Tích hợp với real-time streaming để AI agents tạo video live phản hồi từ dữ liệu đầu vào."
+  ],
+  "stars": 51265,
+  "starsToday": 322,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "animation",
+    "ffmpeg",
+    "framework",
+    "gsap",
+    "html",
+    "mcp",
+    "puppeteer",
+    "rendering",
+    "typescript",
+    "video"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-18T13:36:31.234Z"
+}

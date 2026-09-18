@@ -1,0 +1,23 @@
+{
+  "id": "ae47c9f1-ed45-4370-8731-bb6bbd11d99e",
+  "repo": "ankitects/anki",
+  "url": "https://github.com/ankitects/anki",
+  "category": "Productivity/Personal Tool",
+  "summary": "Anki là một chương trình flashcard thông minh sử dụng spaced repetition để giúp người dùng học và ghi nhớ hiệu quả, phù hợp cho việc học ngôn ngữ, chuyên môn hoặc tự học.",
+  "usecases": [
+    "Học từ vựng ngôn ngữ nước ngoài với khả năng lặp lại dựa trên khoảng cách thời gian.",
+    "Chuẩn bị kỳ thi hoặc chứng chỉ chuyên môn bằng cách quản lý thẻ kiến thức.",
+    "Tự học các chủ đề phức tạp như y học, luật hoặc khoa học bằng cách tạo bộ thẻ cá nhân."
+  ],
+  "ideas": [
+    "Kết hợp với ứng dụng di động để học nghe nói đồng thời với lặp lại thẻ.",
+    "Sử dụng API Rust để tạo hệ thống spaced repetition tùy chỉnh cho doanh nghiệp đào tạo.",
+    "Đồng bộ hóa đám mây giữa các thiết bị để tiếp tục học tập mà không mất tiến độ."
+  ],
+  "stars": 31079,
+  "starsToday": 430,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-18T13:36:31.234Z"
+}
