@@ -1,0 +1,36 @@
+{
+  "id": "7a8f43d5-7966-455b-9dc6-f31e82301e4e",
+  "repo": "tirth8205/code-review-graph",
+  "url": "https://github.com/tirth8205/code-review-graph",
+  "category": "Developer Tool",
+  "summary": "Công cụ code intelligence local-first viết bằng Python xây dựng đồ thị mã nguồn liên tục, giúp các công cụ AI đọc chỉ những phần quan trọng trong code review và workflows lớn repository với giảm context được benchmark.",
+  "usecases": [
+    "Giảm lượng context cần thiết cho code review bằng AI, tăng tốc độ review.",
+    "Phân tích codebase lớn để tìm bugs hoặc areas cải thiện mà không cần đọc toàn bộ code.",
+    "Tích hợp với MCP/CLI cho các workflow AI coding tự động."
+  ],
+  "ideas": [
+    "Tích hợp với VS Code extension để hiển thị đồ thị code trực tiếp trong editor.",
+    "Sử dụng đồ thị này cho automated testing và coverage analysis.",
+    "Phát triển tính năng so sánh codebase khác nhau để phát hiện plagiarism hoặc copy-paste."
+  ],
+  "stars": 31590,
+  "starsToday": 50,
+  "language": "Python",
+  "topics": [
+    "ai-coding",
+    "claude",
+    "claude-code",
+    "code-review",
+    "graphrag",
+    "incremental",
+    "knowledge-graph",
+    "llm",
+    "mcp",
+    "python",
+    "static-analysis",
+    "tree-sitter"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-18T20:45:29.623Z"
+}

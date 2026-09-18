@@ -1,0 +1,28 @@
+{
+  "id": "97fe0d80-2ee0-475b-962e-033c22aa4799",
+  "repo": "ahmedkhaleel2004/gitdiagram",
+  "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+  "category": "Developer Tool",
+  "summary": "gitdiagram là công cụ tạo đồ họa tương tác và nhanh cho bất kỳ repository GitHub nào, giúp trực quan hóa cấu trúc mã và mối quan hệ.",
+  "usecases": [
+    "Phân tích cấu trúc dự án và dependency khi gia nhập team mới",
+    "Hướng dẫn sinh viên hoặc cộng sự về kiến trúc hệ thống qua đồ thị",
+    "Tìm bugs hoặc code paths phức tạp bằng đồ thị tương tác"
+  ],
+  "ideas": [
+    "Thêm xuất đồ thị ra PNG/PDF cho báo cáo dự án",
+    "Tích hợp AI giải thích các nút và đường trong đồ thị",
+    "Tùy chỉnh chủ đề và layout cho presentation hoặc blog tech"
+  ],
+  "stars": 16416,
+  "starsToday": 145,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "github",
+    "system-design",
+    "code"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-18T20:45:29.623Z"
+}

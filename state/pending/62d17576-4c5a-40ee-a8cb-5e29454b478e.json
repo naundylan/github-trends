@@ -1,0 +1,32 @@
+{
+  "id": "62d17576-4c5a-40ee-a8cb-5e29454b478e",
+  "repo": "router-for-me/CLIProxyAPI",
+  "url": "https://github.com/router-for-me/CLIProxyAPI",
+  "category": "AI/LLM",
+  "summary": "Dịch vụ proxy API cho các mô hình AI tạo code, cung cấp endpoints tương thích OpenAI/Gemini/Codex để truy cập Gemini, GPT, Claude, Grok và các mô hình khác qua một giao diện thống nhất.",
+  "usecases": [
+    "Truy cập miễn phí các mô hình AI tạo code cao cấp thông qua API thống nhất.",
+    "Chuyển đổi yêu cầu giữa các nền tảng OpenAI, Gemini, Claude một cách liền mạch.",
+    "Giảm chi phí và phức tạp khi phát triển ứng dụng sử dụng nhiều mô hình AI."
+  ],
+  "ideas": [
+    "Bao bọc thêm các mô hình AI khác (như Llama, Mistral) để mở rộng khả năng tương thích.",
+    "Thêm tính năng theo dõi sử dụng và hạn mức API cho từng mô hình bên trong.",
+    "Tích hợp với các framework backend để tự động chọn mô hình tối ưu dựa trên tác vụ."
+  ],
+  "stars": 52420,
+  "starsToday": 141,
+  "language": "Go",
+  "topics": [
+    "claude-code",
+    "cluade",
+    "gemini",
+    "openai",
+    "codex",
+    "antigravity",
+    "devin",
+    "muse"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-18T20:45:29.623Z"
+}

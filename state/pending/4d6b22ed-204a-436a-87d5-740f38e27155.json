@@ -1,0 +1,23 @@
+{
+  "id": "4d6b22ed-204a-436a-87d5-740f38e27155",
+  "repo": "shiyu-coder/Kronos",
+  "url": "https://github.com/shiyu-coder/Kronos",
+  "category": "AI/LLM",
+  "summary": "Mô hình Foundation (Foundation Model) cho ngôn ngữ tài chính, được train trên dữ liệu thị trường tài chính lớn để thực hiện các tác vụ dự báo và phân tích.",
+  "usecases": [
+    "Dự báo giá cổ phiếu và biến động thị trường",
+    "Phân tích xu hướng tài chính và tín hiệu giao dịch",
+    "Tạo báo cáo tài chính tự động từ dữ liệu thô"
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu thời thực để tạo tín hiệu giao dịch tức thời",
+    "Phát triển ứng dụng chatbot tư vấn đầu tư cá nhân",
+    "Sử dụng cho quản lý rủi ro trong ngân hàng"
+  ],
+  "stars": 39196,
+  "starsToday": 232,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-18T20:45:29.623Z"
+}

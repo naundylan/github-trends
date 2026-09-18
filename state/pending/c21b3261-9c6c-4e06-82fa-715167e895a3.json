@@ -1,0 +1,35 @@
+{
+  "id": "c21b3261-9c6c-4e06-82fa-715167e895a3",
+  "repo": "yikart/AiToEarn",
+  "url": "https://github.com/yikart/AiToEarn",
+  "category": "AI Agent/Automation",
+  "summary": "Ứng dụng desktop tự động hóa sử dụng AI để đăng nội dung lên các nền tảng xã hội như Douyin, Xiaohongshu, Kuaishou và Kwai, giúp người dùng tạo thu nhập thụ động thông qua tự động hóa việc đăng bài.",
+  "usecases": [
+    "Tự động đăng video/tin tức lên Douyin để tăng view và thu nhập.",
+    "Đăng cross-platform nội dung lên Xiaohongshu, Kuaishou, Kwai cùng lúc.",
+    "Tự động hóa marketing nội dung cho creators và agencies."
+  ],
+  "ideas": [
+    "Kết hợp với API thanh toán để tự động rút tiền khi đạt ngưỡng nhất định.",
+    "Phát triển plugin cho các trình duyệt để tự động tương tác với bài đăng.",
+    "Sử dụng AI tạo nội dung kèm theo tự động đăng bài."
+  ],
+  "stars": 26049,
+  "starsToday": 52,
+  "language": "TypeScript",
+  "topics": [
+    "auto-publish",
+    "douyin",
+    "electron-app",
+    "electron-react",
+    "kuaishou",
+    "tool",
+    "xiaohongshu",
+    "kwai",
+    "published",
+    "shipinhao",
+    "douyin-api"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-18T20:45:29.623Z"
+}

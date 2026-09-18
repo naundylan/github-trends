@@ -1,0 +1,23 @@
+{
+  "id": "400415f5-4635-4a97-ace3-700dc7b9a5fe",
+  "repo": "ankitects/anki",
+  "url": "https://github.com/ankitects/anki",
+  "category": "Productivity/Personal Tool",
+  "summary": "Anki là một chương trình flashcard sử dụng spaced repetition để tối ưu hóa quá trình học và ghi nhớ lâu dài.",
+  "usecases": [
+    "Học từ vựng ngôn ngữ mới với lịch tái xuất khoa học",
+    "Chuẩn bị kỳ thi hoặc chứng chỉ chuyên nghiệp theo dõi tiến độ ghi nhớ",
+    "Giữ lại kiến thức dài hạn trong y học, pháp lý hoặc kỹ thuật"
+  ],
+  "ideas": [
+    "Kết hợp API nhận dạng giọng nói để người dùng nói đáp án",
+    "Đồng bộ hóa qua đám mây với các ứng dụng học tập khác",
+    "Tạo chế độ học tập nhóm chia sẻ bộ thẻ flashcard"
+  ],
+  "stars": 31168,
+  "starsToday": 177,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-18T20:45:29.623Z"
+}

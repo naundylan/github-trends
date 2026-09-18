@@ -1,0 +1,34 @@
+{
+  "id": "80dd1cc9-828c-4616-a82b-dc8e9217044d",
+  "repo": "BurntSushi/ripgrep",
+  "url": "https://github.com/BurntSushi/ripgrep",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh Rust quét đệ quy thư mục bằng biểu thức chính quy, tuân thủ .gitignore để tìm kiếm nhanh và hiệu quả trong mã nguồn.",
+  "usecases": [
+    "Tìm kiếm nhanh các pattern hoặc từ khóa trong mã nguồn lớn với respect .gitignore.",
+    "Thay thế grep truyền thống trong quy trình phát triển hàng ngày.",
+    "Tích hợp vào CI/CD pipelines để kiểm tra mã nguồn và phát hiện vấn đề."
+  ],
+  "ideas": [
+    "Tích hợp với các editor code (VS Code, Neovim) để tìm kiếm trên-the-fly.",
+    "Phát triển plugin cho các hệ thống quản lý dự án để quét mã lỗi tiềm ẩn.",
+    "Mở rộng hỗ trợ cho các ngôn ngữ truy vấn logic phức tạp hoặc tìm kiếm AST."
+  ],
+  "stars": 68413,
+  "starsToday": 57,
+  "language": "Rust",
+  "topics": [
+    "ripgrep",
+    "recursively-search",
+    "search",
+    "regex",
+    "gitignore",
+    "grep",
+    "command-line-tool",
+    "command-line",
+    "cli",
+    "rust"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-18T20:45:29.623Z"
+}
