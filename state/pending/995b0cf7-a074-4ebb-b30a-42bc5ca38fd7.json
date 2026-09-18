@@ -1,0 +1,44 @@
+{
+  "id": "995b0cf7-a074-4ebb-b30a-42bc5ca38fd7",
+  "repo": "darkzOGx/youtube-automation-agent",
+  "url": "https://github.com/darkzOGx/youtube-automation-agent",
+  "category": "AI Agent/Automation",
+  "summary": "Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
+  "usecases": [
+    "Managing a YouTube channel autonomously with AI, publishing videos 24/7 without manual intervention",
+    "Generating and optimizing video content with AI for continuous channel growth",
+    "Generating SEO-optimized thumbnails and video metadata for enhanced discoverability"
+  ],
+  "ideas": [
+    "Schedule recurring video series with AI agents for passive income channels",
+    "Integrate with free Gemini/OpenAI APIs to automate content creation for niche markets",
+    "Combine with social media scheduling tools for cross-platform content distribution"
+  ],
+  "stars": 3532,
+  "starsToday": 168,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agents",
+    "ai-powered",
+    "automation",
+    "content-automation",
+    "content-creation",
+    "content-strategy",
+    "free-tool",
+    "google-gemini",
+    "javascript",
+    "nodejs",
+    "openai",
+    "seo-optimization",
+    "social-media-automation",
+    "thumbnail-generator",
+    "video-generation",
+    "youtube-api",
+    "youtube-automation",
+    "youtube-bot",
+    "youtube-channel",
+    "youtube-uploader"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-18T02:39:36.896Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2c56bc79-b9f5-4aec-a338-f6461d768042",
+  "repo": "dbt-labs/dbt",
+  "url": "https://github.com/dbt-labs/dbt",
+  "category": "Data Engineering/ETL",
+  "summary": "dbt là công cụ biến đổi dữ liệu cho phép nhà phân tích và kỹ sư dữ liệu chuyển đổi dữ liệu trong kho lưu trữ bằng cách sử dụng các thực hành kỹ thuật phần mềm như kiểm soát phiên bản, kiểm thử và triển khai. Điểm nổi bật là mô hình hóa dữ liệu theo hướng modular, tái sử dụng được và dễ dàng tích hợp vào quy trình ELT.",
+  "usecases": [
+    "Xây dựng pipeline biến đổi dữ liệu trong kho dữ liệu như BigQuery, Snowflake, Redshift",
+    "Thiết lập quy trình kiểm tra dữ liệu tự động và tài liệu hóa cho các bảng dữ liệu",
+    "Quản lý các tầng dữ liệu (staging, marts, metrics) theo phiên bản và môi trường"
+  ],
+  "ideas": [
+    "Kết hợp dbt với Airflow để tự động hóa lịch chạy và giám sát pipeline dữ liệu",
+    "Xây dựng thư viện dbt packages dùng chung cho toàn công ty để chuẩn hóa logic kinh doanh",
+    "Tích hợp dbt với các nền tảng BI để tự động cập nhật mô hình dữ liệu và tài liệu"
+  ],
+  "stars": 13856,
+  "starsToday": 180,
+  "language": "Rust",
+  "topics": [
+    "dbt-viewpoint",
+    "slack",
+    "pypa",
+    "data-modeling",
+    "business-intelligence",
+    "analytics",
+    "elt"
+  ],
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-09-18T02:39:36.896Z"
+}

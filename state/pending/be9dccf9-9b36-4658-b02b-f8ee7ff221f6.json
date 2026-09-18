@@ -1,0 +1,40 @@
+{
+  "id": "be9dccf9-9b36-4658-b02b-f8ee7ff221f6",
+  "repo": "temporalio/temporal",
+  "url": "https://github.com/temporalio/temporal",
+  "category": "Microservices",
+  "summary": "Temporal là nền tảng orchestration workflows phânributed, cho phép quản lý các quy trình phức tạp, long-running tasks và microservices với durability và scalability.",
+  "usecases": [
+    "Quản lý các quy trình nghiệp vụ dài hạn (e.g., đơn hàng, thanh toán) trong microservices.",
+    "Scheduler cron jobs phức tạp với guaranteed execution và recovery sau crash.",
+    "Orchestration các tác vụ IoT hoặc data collection có thời gian không xác định."
+  ],
+  "ideas": [
+    "Tự động hóa quy trình onboarding employee với state persistence qua workflow.",
+    "Build notification system guaranteed delivery across nhiều dịch vụ độc lập.",
+    "Kết hợp với IoT devices để manage long-running data collection workflows."
+  ],
+  "stars": 23140,
+  "starsToday": 161,
+  "language": "Go",
+  "topics": [
+    "workflows",
+    "workflow-engine",
+    "workflow-automation",
+    "workflow-management",
+    "workflow-management-system",
+    "distributed-systems",
+    "golang",
+    "service-bus",
+    "service-fabric",
+    "microservices-architecture",
+    "microservice-framework",
+    "microservice-orchestration",
+    "cronjob-scheduler",
+    "distributed-cron",
+    "orchestrator",
+    "durable-execution"
+  ],
+  "notePath": "notes/Microservices.md",
+  "createdAt": "2026-09-18T02:39:36.896Z"
+}

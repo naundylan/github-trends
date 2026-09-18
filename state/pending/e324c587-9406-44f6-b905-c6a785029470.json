@@ -1,0 +1,23 @@
+{
+  "id": "e324c587-9406-44f6-b905-c6a785029470",
+  "repo": "ankitects/anki",
+  "url": "https://github.com/ankitects/anki",
+  "category": "Desktop App",
+  "summary": "A Rust-based spaced repetition flashcard program designed for efficient learning and long-term memory retention.",
+  "usecases": [
+    "Language vocabulary acquisition with adaptive scheduling",
+    "Medical and certification exam preparation using custom decks",
+    "Long-term skill retention for musicians and programmers"
+  ],
+  "ideas": [
+    "Integrate Anki with calendar apps to schedule reviews before important events",
+    "Develop a cloudless sync mechanism for deck updates across devices",
+    "Create a learning analytics dashboard leveraging Anki's interval data"
+  ],
+  "stars": 31008,
+  "starsToday": 430,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-18T02:39:36.896Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "3a6eb8ea-5363-4d43-9bc3-35ff5b4b1270",
+  "repo": "uutils/coreutils",
+  "url": "https://github.com/uutils/coreutils",
+  "category": "CLI Tool",
+  "summary": "Cross-platform Rust rewrite of GNU coreutils, providing familiar command-line utilities across Linux, macOS, and Windows with enhanced performance and compatibility.",
+  "usecases": [
+    "Replacing GNU coreutils on Linux/macOS/Windows for better performance and compatibility",
+    "Providing a lightweight, cross-platform alternative to GNU coreutils and BusyBox for embedded systems",
+    "Serving as a direct replacement for core utilities on modern OSes with enhanced compatibility"
+  ],
+  "ideas": [
+    "Port to Windows and macOS as a drop-in replacement for GNU coreutils",
+    "Integrate with embedded systems for IoT edge computing",
+    "Add GUI-friendly flags or scripts for developer workflow automation"
+  ],
+  "stars": 24123,
+  "starsToday": 169,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "coreutils",
+    "gnu-coreutils",
+    "busybox",
+    "cross-platform",
+    "command-line-tool"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-18T02:39:36.896Z"
+}

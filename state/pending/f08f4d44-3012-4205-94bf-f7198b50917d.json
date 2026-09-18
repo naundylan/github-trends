@@ -1,0 +1,39 @@
+{
+  "id": "f08f4d44-3012-4205-94bf-f7198b50917d",
+  "repo": "Mintplex-Labs/anything-llm",
+  "url": "https://github.com/Mintplex-Labs/anything-llm",
+  "category": "AI/LLM",
+  "summary": "A local-first, open-source platform for building custom AI agents, RAG pipelines, and multimodal workflows with full data ownership.",
+  "usecases": [
+    "Private company chat assistant trained on internal documentation",
+    "Custom AI agent for task automation without external API costs",
+    "Multimodal RAG processing both images and text locally"
+  ],
+  "ideas": [
+    "Deploy as a local alternative to ChatGPT for teams handling sensitive data",
+    "Integrate with voice assistants for hands-free AI interaction in smart homes",
+    "Build a multi-agent collaboration system for complex project execution"
+  ],
+  "stars": 66149,
+  "starsToday": 205,
+  "language": "JavaScript",
+  "topics": [
+    "rag",
+    "localai",
+    "vector-database",
+    "llm",
+    "ai-agents",
+    "multimodal",
+    "agent-harness",
+    "agentic-ai",
+    "hermes-agent",
+    "local-ai",
+    "self-hosted-ai",
+    "agent-computer",
+    "computer-use",
+    "agent-orchestration",
+    "agentic-workflow"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-18T02:39:36.896Z"
+}
