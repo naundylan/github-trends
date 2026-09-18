@@ -1,0 +1,42 @@
+{
+  "id": "23e44ca8-d4b8-4ac6-823e-ff8e68ba0ee9",
+  "repo": "unslothai/unsloth",
+  "url": "https://github.com/unslothai/unsloth",
+  "category": "AI/LLM",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "..."
+  ],
+  "stars": 76389,
+  "starsToday": 78,
+  "language": "Python",
+  "topics": [
+    "fine-tuning",
+    "llama",
+    "llms",
+    "gemma",
+    "unsloth",
+    "llm",
+    "deepseek",
+    "text-to-speech",
+    "tts",
+    "qwen",
+    "agent",
+    "openai",
+    "reinforcement-learning",
+    "self-hosted",
+    "ui",
+    "image-generation",
+    "stable-diffusion",
+    "chatgpt",
+    "ai",
+    "python"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-18T23:06:10.277Z"
+}

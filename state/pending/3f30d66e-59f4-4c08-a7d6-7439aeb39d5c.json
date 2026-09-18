@@ -1,0 +1,33 @@
+{
+  "id": "3f30d66e-59f4-4c08-a7d6-7439aeb39d5c",
+  "repo": "NVlabs/cuda-oxide",
+  "url": "https://github.com/NVlabs/cuda-oxide",
+  "category": "Developer Tool",
+  "summary": "cuda-oxide là trình biên dịch Rust-to-CUDA cho phép viết kernel GPU SIMT bằng Rust an toàn và idiomatic, biên dịch trực tiếp sang PTX mà không cần DSL hay liên ngôn ngoại ngữ. Dự án này mở door cho phát triển hiệu suất cao trên GPU bằng Rust thuần túy.",
+  "usecases": [
+    "Viết kernel GPU hiệu suất cao cho ứng dụng khoa học tính toán",
+    "Tích hợp tính năng GPU acceleration vào các dự án Rust hiện có mà không cần C/C++",
+    "Phát triển heterogenous computing ứng dụng kết hợp CPU và GPU một cách an toàn bằng Rust"
+  ],
+  "ideas": [
+    "Tạo DSL tối ưu cho mô hình AI chạy trên GPU thuần Rust",
+    "Kết hợp với framework Rust khác để build engine đồ họa lightweight",
+    "Phát triển toolchain biên dịch Rust tự động cho các accelerator card NVIDIA khác"
+  ],
+  "stars": 3502,
+  "starsToday": 59,
+  "language": "Rust",
+  "topics": [
+    "compiler-backend",
+    "async",
+    "cuda",
+    "gpu",
+    "high-performance-computing",
+    "nvidia",
+    "programming-languages",
+    "rust",
+    "heterogeneous-computing"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-18T23:06:10.277Z"
+}

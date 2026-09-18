@@ -1,0 +1,26 @@
+{
+  "id": "2d3a34de-3945-48a3-873e-372f862c381a",
+  "repo": "remorses/gpuix",
+  "url": "https://github.com/remorses/gpuix",
+  "category": "UI/Component Library",
+  "summary": "gpuix cung cấp bindings Node.js và React cho GPUI của Zed, cho phép xây dựng ứng dụng native memory-efficient với React mà không cần Electron, sử dụng GPU để render UI.",
+  "usecases": [
+    "Xây dựng editor code hoặc IDE nhẹ nhàng sử dụng React và GPU acceleration",
+    "Tạo ứng dụng trực quan hiển thị dữ liệu lớn với performance cao nhờ GPU rendering",
+    "Phát triển giao diện người dùng cho các ứng dụng khoa học hoặc đồ họa chạy trên desktop không Electron"
+  ],
+  "ideas": [
+    "Kết hợp gpuix với các framework Rust khác để build IDE hoàn toàn bằng Rust/React",
+    "Sử dụng cho visualizer dữ liệu thời gian thực trong các ứng dụng monitoring",
+    "Phát triển giao diện cho các ứng trí AR/VR nhẹ nhàng dựa trên web"
+  ],
+  "stars": 1997,
+  "starsToday": 58,
+  "language": "Rust",
+  "topics": [
+    "gpui",
+    "zed"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-18T23:06:10.277Z"
+}

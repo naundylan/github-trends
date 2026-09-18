@@ -1,0 +1,23 @@
+{
+  "id": "49e85daa-d34a-4402-b18d-68d91adad732",
+  "repo": "makepad/makepad",
+  "url": "https://github.com/makepad/makepad",
+  "category": "Desktop App",
+  "summary": "Nền tảng phát triển phần mềm sáng tạo cho Rust, biên dịch sang WebGL/WASM và các nền tảng desktop (macOS, Windows, Linux) để xây dựng ứng dụng đồ họa và giao diện tương tác.",
+  "usecases": [
+    "Xây dựng các ứng dụng đồ họa tương tác và trình chỉnh sửa ảnh/video trực tiếp trên desktop.",
+    "Phát triển game hoặc trải nghiệm 3D nhẹ chạy trên web qua WebGL.",
+    "Tạo các công cụ thiết kế UI/UX chuyên dụng dùng Rust với hiệu năng cao."
+  ],
+  "ideas": [
+    "Sử dụng Makepad để xây dựng một trình soạn thảo markdown trực tiếp trong trình duyệt với khả năng render đồ họa.",
+    "Kết hợp với AI để tạo ra các hiệu ứng hình ảnh động dựa trên đầu vào người dùng.",
+    "Phát triển một nền tảng học tập lập trình đồ họa cho sinh viên với môi trường phát triển tích hợp."
+  ],
+  "stars": 6977,
+  "starsToday": 61,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-18T23:06:10.277Z"
+}

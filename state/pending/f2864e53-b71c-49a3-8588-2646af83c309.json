@@ -1,0 +1,29 @@
+{
+  "id": "f2864e53-b71c-49a3-8588-2646af83c309",
+  "repo": "microsoft/agent-lightning",
+  "url": "https://github.com/microsoft/agent-lightning",
+  "category": "AI Agent/Automation",
+  "summary": "Mục tiêu là cung cấp một trình trainer toàn diện để kích hoạt và huấn luyện các AI agents, kết hợp LLM, MLOps và reinforcement learning để phát triển các ứng dụng agentic AI.",
+  "usecases": [
+    "Huấn luyện và tối ưu hóa các AI agent cho các tác vụ phức tạp trong môi trường production.",
+    "Phát triển các hệ thống agentic AI với khả năng reinforcement learning và MLOps.",
+    "Tích hợp vào pipeline tự động hóa để cải thiện hiệu suất các mô hình AI."
+  ],
+  "ideas": [
+    "Kết hợp với các framework agent hiện tại như AutoGPT hay LangChain để tăng khả năng tự động hóa.",
+    "Phát triển một dashboard giám sát hiệu suất training cho các AI agents trong thời gian thực.",
+    "Sử dụng reinforcement learning để tự động tối ưu cấu trúc prompt cho các LLM."
+  ],
+  "stars": 18338,
+  "starsToday": 70,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "llm",
+    "mlops",
+    "reinforcement-learning"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-18T23:06:10.277Z"
+}

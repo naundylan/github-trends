@@ -1,0 +1,23 @@
+{
+  "id": "653a3a9c-390d-4a85-beec-d0be109c9962",
+  "repo": "tradesdontlie/tradingview-mcp",
+  "url": "https://github.com/tradesdontlie/tradingview-mcp",
+  "category": "AI Agent/Automation",
+  "summary": "Mở rộng TradingView bằng AI để tự động phân tích biểu đồ và kết nối với Claude Code, giúp tự động hóa quy trình giao dịch cá nhân.",
+  "usecases": [
+    "Tự động phân tích kỹ thuật và tạo báo cáo hàng ngày cho các cặp tiền crypto.",
+    "Tích hợp với Claude Code để thực hiện các lệnh giao dịch hoặc điều chỉnh cài đặt TradingView theo lịch trình.",
+    "Giúp nhà giao dịch tự động hóa các chiến lược dựa trên các tín hiệu kỹ thuật mà không cần can thiệp thủ công."
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu thị trường thực thời để tạo ra các báo cáo phân tích tự động gửi qua email/Slack.",
+    "Phát triển một agent AI có thể thực hiện backtesting chiến lược dựa trên các biểu đồ TradingView.",
+    "Tạo giao diện quản lý nhiều tài khoản TradingView cùng một lúc thông qua Claude Code."
+  ],
+  "stars": 6452,
+  "starsToday": 64,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-18T23:06:10.277Z"
+}

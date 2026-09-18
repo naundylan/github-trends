@@ -1,0 +1,34 @@
+{
+  "id": "b99b29bf-d039-423b-8a33-5ae144a0d5ef",
+  "repo": "junegunn/fzf",
+  "url": "https://github.com/junegunn/fzf",
+  "category": "CLI Tool",
+  "summary": "Một công cụ tìm kiếm fuzzy command-line (CLI) nhanh và nhẹ, được tích hợp phổ biến với shell, vim, neovim và tmux để cải thiện hiệu suất tương tác.",
+  "usecases": [
+    "Tìm kiếm nhanh các file, commit history hoặc nội dung trong repository lớn thông qua CLI.",
+    "Tăng tốc độ làm việc trong terminal bằng cách chọn nhanh các branch, tag hoặc lệnh git.",
+    "Tích hợp với vim/neovim để thực hiện fuzzy search nội dung code hoặc text một cách mượt mà."
+  ],
+  "ideas": [
+    "Tạo một script tự động để dọn dẹp file hoặc di chuyển dựa trên kết quả fuzzy search.",
+    "Tích hợp vào workflow CI/CD để nhanh chóng tìm và sửa lỗi trong lịch sử commit.",
+    "Phát triển plugin cho IDE khác ngoài vim để cung cấp trải nghiệm fuzzy search đa nền tảng."
+  ],
+  "stars": 83118,
+  "starsToday": 69,
+  "language": "Go",
+  "topics": [
+    "fzf",
+    "go",
+    "bash",
+    "zsh",
+    "fish",
+    "vim",
+    "neovim",
+    "cli",
+    "unix",
+    "tmux"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-18T23:06:10.277Z"
+}

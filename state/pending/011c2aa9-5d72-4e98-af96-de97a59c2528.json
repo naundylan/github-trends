@@ -1,0 +1,34 @@
+{
+  "id": "011c2aa9-5d72-4e98-af96-de97a59c2528",
+  "repo": "coder/coder",
+  "url": "https://github.com/coder/coder",
+  "category": "Developer Tool",
+  "summary": "Secure, reproducible development environments for developers and AI agents, integrating with IDEs like VSCode and JetBrains, enabling remote coding with full local tooling support.",
+  "usecases": [
+    "Remote development with consistent environments across teams.",
+    "AI agent development and execution in isolated, secure sandboxes.",
+    "On-demand dev environment spin-up for CI/CD or collaborative coding."
+  ],
+  "ideas": [
+    "Integrate with cloud providers for ephemeral dev environments per PR.",
+    "Add AI-powered environment optimization suggestions.",
+    "Support for multi-user collaborative editing within coder environments."
+  ],
+  "stars": 15264,
+  "starsToday": 478,
+  "language": "Go",
+  "topics": [
+    "remote-development",
+    "development-environment",
+    "ide",
+    "dev-tools",
+    "vscode",
+    "jetbrains",
+    "terraform",
+    "go",
+    "golang",
+    "agents"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-18T23:06:10.277Z"
+}

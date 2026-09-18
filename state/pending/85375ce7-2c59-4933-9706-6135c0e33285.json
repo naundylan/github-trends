@@ -1,0 +1,35 @@
+{
+  "id": "85375ce7-2c59-4933-9706-6135c0e33285",
+  "repo": "PaddlePaddle/PaddleOCR",
+  "url": "https://github.com/PaddlePaddle/PaddleOCR",
+  "category": "Computer Vision",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "..."
+  ],
+  "stars": 89791,
+  "starsToday": 72,
+  "language": "Python",
+  "topics": [
+    "ocr",
+    "chineseocr",
+    "pdf2markdown",
+    "pp-ocr",
+    "pp-structure",
+    "document-parsing",
+    "document-translation",
+    "kie",
+    "ai4science",
+    "pdf-extractor-rag",
+    "pdf-parser",
+    "rag",
+    "paddleocr-vl"
+  ],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-09-18T23:06:10.277Z"
+}

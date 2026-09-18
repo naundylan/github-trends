@@ -1,0 +1,23 @@
+{
+  "id": "567e60de-d71a-410d-8056-98e320e68dbe",
+  "repo": "yynxxxxx/Codex-X",
+  "url": "https://github.com/yynxxxxx/Codex-X",
+  "category": "Developer Tool",
+  "summary": "Cross-platform visual management tool for OpenAI Codex, featuring provider/API switching, session sync, prompt injection, Skills/MCP management, and TOML config visualization.",
+  "usecases": [
+    "Switching between multiple OpenAI providers/APIs seamlessly within one interface.",
+    "Managing and syncing Codex sessions across desktop and CLI workflows.",
+    "Visualizing and editing TOML-based Codex configurations and prompt templates."
+  ],
+  "ideas": [
+    "Add built-in prompt optimization and version comparison.",
+    "Integrate with MCP (Model Context Protocol) registries for shared skills.",
+    "Enable team-wide provider quotas and usage analytics dashboard."
+  ],
+  "stars": 3300,
+  "starsToday": 86,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-18T23:06:10.277Z"
+}
