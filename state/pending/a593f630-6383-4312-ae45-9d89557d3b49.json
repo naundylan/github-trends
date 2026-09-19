@@ -1,0 +1,39 @@
+{
+  "id": "a593f630-6383-4312-ae45-9d89557d3b49",
+  "repo": "docling-project/docling",
+  "url": "https://github.com/docling-project/docling",
+  "category": "Data Engineering/ETL",
+  "summary": "Thư viện Python chuyển PDF, DOCX, PPTX, XLSX và các định dạng tài liệu khác thành Markdown, JSON, HTML hoặc văn bản có cấu trúc. Nó hỗ trợ trích xuất bố cục, bảng và nội dung phục vụ hệ thống AI tạo sinh.",
+  "usecases": [
+    "Tạo kho tài liệu có cấu trúc để xây dựng hệ thống RAG và tìm kiếm ngữ nghĩa.",
+    "Tự động hóa quá trình số hóa và nhập liệu từ hồ sơ PDF hoặc văn phòng sang định dạng máy đọc được.",
+    "Tiền xử lý tài liệu trước khi phân tích bằng mô hình ngôn ngữ hoặc mô hình thị giác."
+  ],
+  "ideas": [
+    "Kết hợp OCR, nhận dạng bảng và mô hình xác minh để nâng cao độ chính xác của tài liệu số hóa.",
+    "Tạo pipeline tự động chuyển tài liệu doanh nghiệp sang schema JSON phục vụ nhiều hệ thống khác nhau.",
+    "Xây dựng hệ thống hỏi đáp đa phương thức trên tài liệu có bảng biểu và bố cục phức tạp."
+  ],
+  "stars": 66893,
+  "starsToday": 94,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "convert",
+    "documents",
+    "pdf",
+    "tables",
+    "document-parser",
+    "document-parsing",
+    "docx",
+    "html",
+    "markdown",
+    "pdf-converter",
+    "pdf-to-json",
+    "pdf-to-text",
+    "pptx",
+    "xlsx"
+  ],
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-09-19T17:58:39.086Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "67b6bbd5-d4c5-438a-aa65-1b94c04d28c9",
+  "repo": "rui314/mold",
+  "url": "https://github.com/rui314/mold",
+  "category": "Build Tool/Bundler",
+  "summary": "mold là một trình liên kết hiện đại được viết bằng Rust, mang lại hiệu suất cao và tính tương thích tốt cho quá trình liên kết mã.",
+  "usecases": [
+    "Sử dụng mold làm trình liên kết mặc định trong các dự án Rust để biên dịch nhanh hơn và giảm thời gian xây dựng.",
+    "Tích hợp mold vào CI/CD pipeline để tăng tốc quá trình xây dựng trong các quy trình phát triển liên tục.",
+    "Sử dụng mold cho các dự án lớn với nhiều module để cải thiện hiệu suất liên kết và giảm thời gian tổng thể."
+  ],
+  "ideas": [
+    "Tích hợp mold với các công cụ Rust khác như Cargo để tối ưu hóa quy trình làm việc từ đầu đến cuối.",
+    "Phát triển các plugin mở rộng hỗ trợ mold cho các IDE và môi trường phát triển, giúp các nhà phát triển có thể sử dụng nó một cách liền mạch.",
+    "Sử dụng mold làm nền tảng cho một công cụ liên kết đa ngôn ngữ, hỗ trợ nhiều ngôn ngữ lập trình ngoài Rust."
+  ],
+  "stars": 17154,
+  "starsToday": 69,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Build-Tool-Bundler.md",
+  "createdAt": "2026-09-19T17:58:39.087Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "140e8982-266f-41cf-932f-3bf4a3e132a2",
+  "repo": "opendatalab/MinerU",
+  "url": "https://github.com/opendatalab/MinerU",
+  "category": "Data Engineering/ETL",
+  "summary": "MinerU chuyển đổi tài liệu phức tạp (PDF, Office) thành markdown/JSON sẵn sàng cho LLM, hỗ trợ OCR, phân tích layout và trích xuất dữ liệu có cấu trúc.",
+  "usecases": [
+    "Xử lý hàng loạt báo cáo PDF để đưa vào pipeline RAG cho chatbot nội bộ",
+    "Trích xuất bảng dữ liệu từ file Excel/PDF để nạp vào data warehouse",
+    "Chuyển đổi tài liệu pháp lý, hợp đồng thành định dạng có cấu trúc để review tự động"
+  ],
+  "ideas": [
+    "Kết hợp với vector database để xây dựng knowledge base đa ngôn ngữ từ tài liệu scan",
+    "Tích hợp vào CI/CD để tự động parse tài liệu kỹ thuật thành markdown cho docs site",
+    "Xây dựng microservice OCR-as-a-service cho các ứng dụng mobile quét hóa đơn, chứng từ"
+  ],
+  "stars": 80257,
+  "starsToday": 62,
+  "language": "Python",
+  "topics": [
+    "extract-data",
+    "layout-analysis",
+    "ocr",
+    "parser",
+    "pdf",
+    "pdf-converter",
+    "python",
+    "document-analysis",
+    "pdf-parser",
+    "pdf-extractor-llm",
+    "pdf-extractor-pretrain",
+    "pdf-extractor-rag",
+    "ai4science",
+    "docx",
+    "pptx",
+    "xlsx"
+  ],
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-09-19T17:58:39.087Z"
+}

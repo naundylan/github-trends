@@ -1,0 +1,31 @@
+{
+  "id": "580c683b-8f4d-4bf3-9dd3-38d77d600e90",
+  "repo": "weave-os/router",
+  "url": "https://github.com/weave-os/router",
+  "category": "AI Agent/Automation",
+  "summary": "Model router định tuyến prompt đến model tối ưu trong <50ms, tương thích OpenAI API, giúp giảm 40-70% chi phí inference cho hệ thống agentic.",
+  "usecases": [
+    "Định tuyến tự động giữa GPT-4o, Claude, model local tùy theo độ phức tạp task coding",
+    "Cân bằng tải và fallback giữa nhiều provider LLM để đảm bảo uptime cao",
+    "Tối ưu chi phí cho ứng dụng AI coding assistant bằng cách dùng model nhỏ cho task đơn giản"
+  ],
+  "ideas": [
+    "Kết hợp với MinerU: router chọn model phù hợp để xử lý output markdown từ tài liệu phức tạp",
+    "Xây dựng AI gateway enterprise với policy routing theo department, budget, compliance",
+    "Tích hợp observability để auto-tune routing strategy dựa trên latency, cost, quality metrics"
+  ],
+  "stars": 4504,
+  "starsToday": 56,
+  "language": "Go",
+  "topics": [
+    "agentic-coding",
+    "ai-gateway",
+    "anthropic",
+    "claude-code",
+    "codex",
+    "model-router",
+    "openai-compatible"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-19T17:58:39.087Z"
+}

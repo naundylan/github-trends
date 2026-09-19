@@ -1,0 +1,23 @@
+{
+  "id": "2df82214-7c01-49d6-971b-8920f1d8420a",
+  "repo": "ruanyf/weekly",
+  "url": "https://github.com/ruanyf/weekly",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Một tạp chí công nghệ phát hành hàng tuần, tổng hợp phần mềm, dự án mã nguồn mở, công cụ AI, blog và các xu hướng đáng chú ý. Điểm nổi bật là bộ sưu tập tài nguyên đa dạng, có giá trị tham khảo lâu dài.",
+  "usecases": [
+    "Theo dõi công cụ, dự án mã nguồn mở và xu hướng công nghệ mới.",
+    "Tìm tài liệu học tập và nguồn tham khảo chất lượng về lập trình, AI và phần mềm.",
+    "Xây dựng kho lưu trữ liên kết công nghệ được phân loại theo thời gian."
+  ],
+  "ideas": [
+    "Tạo bộ tổng hợp hằng tuần được cá nhân hóa theo ngôn ngữ lập trình và lĩnh vực quan tâm.",
+    "Phân tích chủ đề thịnh hành theo thời gian để phát hiện xu hướng công nghệ mới nổi.",
+    "Xây dựng công cụ tìm kiếm và gợi ý liên kết dựa trên nội dung đã lưu."
+  ],
+  "stars": 103076,
+  "starsToday": 151,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-19T17:58:39.086Z"
+}

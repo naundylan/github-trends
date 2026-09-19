@@ -1,0 +1,38 @@
+{
+  "id": "59cb380d-63f5-4d60-898a-27bf13e839d6",
+  "repo": "mem0ai/mem0",
+  "url": "https://github.com/mem0ai/mem0",
+  "category": "AI Agent/Automation",
+  "summary": "mem0 cung cấp lớp bộ nhớ có thể tích hợp sẵn cho các tác nhân AI, giúp duy trì ngữ cảnh một cách liên tục trong môi trường sản xuất.",
+  "usecases": [
+    "Xây dựng các tác nhân AI cần ghi nhớ tương tác trước đó, chẳng hạn như trợ lý cá nhân, chatbot và hệ thống hỗ trợ khách hàng.",
+    "Tích hợp bộ nhớ lâu dài vào các ứng dụng LLM để cải thiện chất lượng trả lời và duy trì hội thoại có ngữ cảnh.",
+    "Cung cấp hạ tầng bộ nhớ có thể mở rộng cho các dịch vụ sản xuất sử dụng tác nhân AI."
+  ],
+  "ideas": [
+    "Kết hợp mem0 với các mô hình ngôn ngữ để tạo ra các tác nhân có khả năng học hỏi theo thời gian.",
+    "Sử dụng mem0 làm nền tảng cho các nền tảng phân tích dữ liệu theo thời gian thực, nơi các tác nhân theo dõi các xu hướng đang phát triển.",
+    "Tích hợp mem0 vào các framework chatbot để duy trì lịch sử hội thoại phức tạp và cung cấp trải nghiệm người dùng liền mạch."
+  ],
+  "stars": 65643,
+  "starsToday": 75,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "chatgpt",
+    "llm",
+    "python",
+    "rag",
+    "long-term-memory",
+    "memory",
+    "memory-management",
+    "state-management",
+    "ai-agents",
+    "agents",
+    "genai",
+    "agentic-memory",
+    "agentic-memory-system"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-19T17:58:39.087Z"
+}

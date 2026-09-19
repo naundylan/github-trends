@@ -1,0 +1,28 @@
+{
+  "id": "fdabd0f2-088d-4b36-9e69-c25f19883af0",
+  "repo": "zed-industries/zed",
+  "url": "https://github.com/zed-industries/zed",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Zed là trình soạn thảo code cao tốc, đa người dùng, do tác giả Atom và Tree-sitter tạo ra, prioritize tốc độ và collaboration.",
+  "usecases": [
+    "Collaborative real-time code editing for distributed teams",
+    "Fast editing and navigation in large codebases with minimal latency",
+    "Extensible plugin ecosystem for custom developer workflows"
+  ],
+  "ideas": [
+    "Integrate GPUI visualizations directly into editor workflows",
+    "Build a distributed pair-programming platform leveraging Zed's multiplayer core",
+    "Create theme syncing between editor UI and ambient system status"
+  ],
+  "stars": 90566,
+  "starsToday": 79,
+  "language": "Rust",
+  "topics": [
+    "text-editor",
+    "zed",
+    "gpui",
+    "rust-lang"
+  ],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-09-19T17:58:39.087Z"
+}

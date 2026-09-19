@@ -1,0 +1,23 @@
+{
+  "id": "304cedfb-69dd-418c-9194-0aa0ca6e214d",
+  "repo": "virattt/ai-hedge-fund",
+  "url": "https://github.com/virattt/ai-hedge-fund",
+  "category": "AI/LLM",
+  "summary": "Dự án sử dụng Python để xây dựng đội ngũ giao dịch tự động mô phỏng hoạt động của hedge fund, tập trung vào phân tích tài chính và thực hiện giao dịch dựa trên trí tuệ nhân tạo.",
+  "usecases": [
+    "Tự động phân tích xu hướng thị trường và thực hiện giao dịch dựa trên chiến lược AI.",
+    "Giám sát portfolio đầu tư trong thời gian thực với các chỉ báo và tín hiệu do AI tạo ra.",
+    "Thực hiện backtest và tối ưu hóa các chiến lược đầu tư dựa trên dữ liệu lịch sử."
+  ],
+  "ideas": [
+    "Kết hợp dữ liệu thời thực từ các sàn crypto và thị trường chứng khoán để tạo bot giao dịch tự động toàn diện.",
+    "Áp dụng reinforcement learning để tự động điều chỉnh và cải thiện chiến lược theo thời gian.",
+    "Phát triển dashboard trực quan hóa hiệu suất giao dịch, risk metrics và quyết định của AI."
+  ],
+  "stars": 63536,
+  "starsToday": 92,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-19T17:58:39.086Z"
+}
