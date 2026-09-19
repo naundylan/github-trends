@@ -1,0 +1,29 @@
+{
+  "id": "c62dfdfa-d026-40ee-bc53-89aace3b6fd2",
+  "repo": "cloudflare/quiche",
+  "url": "https://github.com/cloudflare/quiche",
+  "category": "Networking",
+  "summary": "Thư viện Rust triển khai giao thức transport QUIC và HTTP/3, cho phép phát triển các ứng dụng mạng tốc độ cao an toàn và hiệu quả.",
+  "usecases": [
+    "Triển khai HTTP/3 cho web server và client",
+    "Xây dựng các dịch vụ mạng real-time với độ trễ thấp",
+    "Tối ưu hóa truyền dữ liệu an toàn cho các ứng dụng phân tán"
+  ],
+  "ideas": [
+    "Kết hợp với Cloudflare Workers để tạo các edge network thực hiện HTTP/3",
+    "Xây dựng protocol adapter cho các ứng dụng IoT cần truyền dữ liệu real-time",
+    "Phát triển công cụ monitor QUIC performance cho các nhà phát triển mạng"
+  ],
+  "stars": 12001,
+  "starsToday": 84,
+  "language": "Rust",
+  "topics": [
+    "quic",
+    "http3",
+    "network-programming",
+    "protocol",
+    "rust"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-19T22:45:22.515Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "35c0b350-4cf7-4791-8a33-1688b9d6e2a7",
+  "repo": "mem0ai/mem0",
+  "url": "https://github.com/mem0ai/mem0",
+  "category": "AI Agent/Automation",
+  "summary": "mem0 là lớp nhớ (memory layer) cho AI agents, cung cấp cơ sở hạ tầng nhớ dài hạn có thể chèn ngay lập tức, giúp ứng dụng AI giữ context và trạng thái liên tục cho production.",
+  "usecases": [
+    "AI agents giữ lại lịch hội thoại và context giữa nhiều session.",
+    "Ứng dụng GenAI cần quản lý trạng thái dài hạn mà không cần cơ sở dữ liệu phức tạp.",
+    "Hỗ trợ RAG với bộ nhớ dài hạn cho các agent."
+  ],
+  "ideas": [
+    "Kết hợp mem0 với AutoGPT hay LangChain để tăng khả năng tự học của agent.",
+    "Sử dụng mem0 làm lớp nhớ chung cho hệ thống nhiều agent phân tán.",
+    "Phát triển plugin cho chatbot doanh nghiệp lưu trữ偏好用户 và lịch sử cá nhân."
+  ],
+  "stars": 65649,
+  "starsToday": 75,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "chatgpt",
+    "llm",
+    "python",
+    "rag",
+    "long-term-memory",
+    "memory",
+    "memory-management",
+    "state-management",
+    "ai-agents",
+    "agents",
+    "genai",
+    "agentic-memory",
+    "agentic-memory-system"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-19T22:45:22.515Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "25a146dc-5967-4ebf-ac5a-fb1ef2456686",
+  "repo": "rui314/mold",
+  "url": "https://github.com/rui314/mold",
+  "category": "Developer Tool",
+  "summary": "mold là trình liên kết (linker) hiện đại viết bằng Rust, tối ưu tốc độ biên dịch và liên kết cho dự án C/C++ so với ld truyền thống.",
+  "usecases": [
+    "Tăng tốc độ biên dịch lớn cho dự án C/C++ trong quá trình phát triển.",
+    "Thay thế ld mặc định trong CI/CD pipelines để giảm thời gian build.",
+    "Hỗ trợ cho các dự án game engine hoặc hệ điềunh cần liên kết nhanh."
+  ],
+  "ideas": [
+    "Kết hợp mold với Clang/GCC để tạo ra toolchain nhanh hơn.",
+    "Sử dụng mold làm linker trong các container lightweight để giảm kích thước image.",
+    "Phát triển wrapper để mold hỗ trợ cho các ngôn ngữ besides C/C++ như Rust hoặc Go."
+  ],
+  "stars": 17163,
+  "starsToday": 69,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-19T22:45:22.515Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "afed1f4a-9e2a-453a-87eb-62b8485a27d9",
+  "repo": "ruanyf/weekly",
+  "url": "https://github.com/ruanyf/weekly",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Tuần tự cập nhật và phân phối các bài viết, dự án và resources về công nghệ cho cộng đồng yêu thích tech, xuất bản mỗi thứ năm.",
+  "usecases": [
+    "Thu thập và phân phối các bài viết tech hàng tuần",
+    "Tìm tòi mới công nghệ và project mở source",
+    "Theo dõi xu hướng phát triển của ngành lập trình"
+  ],
+  "ideas": [
+    "Tích hợp bot Telegram để gửi nội dung tự động mỗi tuần",
+    "Tạo website static từ nội dung weekly",
+    "Phát triển newsletter cá nhân dựa trên cấu trúc tương tự"
+  ],
+  "stars": 103105,
+  "starsToday": 151,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-19T22:45:22.515Z"
+}

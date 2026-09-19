@@ -1,0 +1,39 @@
+{
+  "id": "b64ea0b3-0d2c-43d3-9074-905044449eac",
+  "repo": "docling-project/docling",
+  "url": "https://github.com/docling-project/docling",
+  "category": "AI/LLM",
+  "summary": "Thư viện Python chuyển đổi và phân tích tài liệu (PDF, Word, HTML) thành định dạng có thể dùng cho ứng dụng Gen AI, hỗ trợ bảng phức tạp và đa dạng định dạng.",
+  "usecases": [
+    "Chuyển đổi tài liệu PDF thành định dạng JSON có thể prompt cho LLM",
+    "Trích xuất bảng dữ liệu từ tài liệu Word/PowerPoint cho AI",
+    "Xây dựng pipeline xử lý tài liệu cho RAG (Retrieval-Augmented Generation)"
+  ],
+  "ideas": [
+    "Kết hợp với LangChain làm loader tài liệu",
+    "Phát triển API dịch chuyển tài liệu sang định dạng Markdown/AI-ready",
+    "Tạo công cụ trực quan hóa cấu trúc tài liệu cho lập trình viên"
+  ],
+  "stars": 67005,
+  "starsToday": 94,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "convert",
+    "documents",
+    "pdf",
+    "tables",
+    "document-parser",
+    "document-parsing",
+    "docx",
+    "html",
+    "markdown",
+    "pdf-converter",
+    "pdf-to-json",
+    "pdf-to-text",
+    "pptx",
+    "xlsx"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-19T22:45:22.515Z"
+}

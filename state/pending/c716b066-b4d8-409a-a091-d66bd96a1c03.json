@@ -1,0 +1,38 @@
+{
+  "id": "c716b066-b4d8-409a-a091-d66bd96a1c03",
+  "repo": "opendatalab/MinerU",
+  "url": "https://github.com/opendatalab/MinerU",
+  "category": "Other",
+  "summary": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+  "usecases": [
+    "Khám phá và đánh giá opendatalab/MinerU cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 80261,
+  "starsToday": 62,
+  "language": "Python",
+  "topics": [
+    "extract-data",
+    "layout-analysis",
+    "ocr",
+    "parser",
+    "pdf",
+    "pdf-converter",
+    "python",
+    "document-analysis",
+    "pdf-parser",
+    "pdf-extractor-llm",
+    "pdf-extractor-pretrain",
+    "pdf-extractor-rag",
+    "ai4science",
+    "docx",
+    "pptx",
+    "xlsx"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-19T22:45:22.515Z"
+}

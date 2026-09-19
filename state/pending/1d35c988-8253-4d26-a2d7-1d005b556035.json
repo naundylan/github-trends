@@ -1,0 +1,28 @@
+{
+  "id": "1d35c988-8253-4d26-a2d7-1d005b556035",
+  "repo": "zed-industries/zed",
+  "url": "https://github.com/zed-industries/zed",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Trình soạn thảo code高性能, đa người dùng được xây dựng bằng Rust, cung cấp trải nghiệm viết code 'tốc tư duy' với các tính năng hiện đại.",
+  "usecases": [
+    "Soạn thảo code cùng lúc với đồng nghiệp trên nhiều thiết bị",
+    "Phát triển IDE cá nhân hoặc plugin tùy chỉnh",
+    "Tích hợp vào các luồng làm việc AI-assisted coding"
+  ],
+  "ideas": [
+    "Tạo IDE cá nhân hóa cho các ngôn ngữ lập trình đặc thù",
+    "Kết hợp với LLM để tạo ra 'AI-powered code editor' real-time collaboration",
+    "Phát triển plugin cho các hệ thống quản lý dự án để hiển thị code flow trực quan"
+  ],
+  "stars": 90575,
+  "starsToday": 79,
+  "language": "Rust",
+  "topics": [
+    "text-editor",
+    "zed",
+    "gpui",
+    "rust-lang"
+  ],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-09-19T22:45:22.515Z"
+}

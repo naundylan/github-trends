@@ -1,0 +1,29 @@
+{
+  "id": "37adccd7-1309-42a4-b108-956f38045ece",
+  "repo": "weave-os/router",
+  "url": "https://github.com/weave-os/router",
+  "category": "Other",
+  "summary": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+  "usecases": [
+    "Khám phá và đánh giá weave-os/router cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 4511,
+  "starsToday": 56,
+  "language": "Go",
+  "topics": [
+    "agentic-coding",
+    "ai-gateway",
+    "anthropic",
+    "claude-code",
+    "codex",
+    "model-router",
+    "openai-compatible"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-19T22:45:22.516Z"
+}

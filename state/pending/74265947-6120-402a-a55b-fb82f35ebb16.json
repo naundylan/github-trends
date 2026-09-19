@@ -1,0 +1,23 @@
+{
+  "id": "74265947-6120-402a-a55b-fb82f35ebb16",
+  "repo": "grafana/gcx",
+  "url": "https://github.com/grafana/gcx",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh quản lý tài nguyên Grafana và Grafana Cloud, tối ưu cho việc sử dụng bởi các agent tự động.",
+  "usecases": [
+    "Quản lý tài nguyên Grafana và Grafana Cloud qua dòng lệnh trong môi trường agentic",
+    "Tích hợp vào luồng làm việc tự động cho monitoring và observability",
+    "Tự động hóa cấu hình và deployment dashboards và alerts"
+  ],
+  "ideas": [
+    "Tích hợp với script CI/CD để tự động deploy monitoring stacks",
+    "Tạo plugin cho AI agents để tương tác với Grafana metrics",
+    "Phát triển multi-cloud resource management cho tổ chức lớn"
+  ],
+  "stars": 706,
+  "starsToday": 86,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-19T22:45:22.515Z"
+}
