@@ -1,0 +1,30 @@
+{
+  "id": "93f44ab3-8bde-4f95-a971-6cc2905ef2b9",
+  "repo": "bevyengine/bevy",
+  "url": "https://github.com/bevyengine/bevy",
+  "category": "Game Engine",
+  "summary": "Bevy là một engine game dữ liệu đơn giản và hiện đại được xây dựng bằng Rust, mang đến trải nghiệm phát triển game hiệu quả.",
+  "usecases": [
+    "Xây dựng engine game hiện đại từ đầu bằng Rust",
+    "Tạo trò chơi có hiệu năng cao với API dễ sử dụng",
+    "Sử dụng các mẫu thiết kế dữ liệu cho phát triển game linh hoạt"
+  ],
+  "ideas": [
+    "Tích hợp với các engine game hiện có như Unity hoặc Unreal thông qua các plugin",
+    "Tạo trình duyệt trực quan cho các dự án dựa trên Bevy",
+    "Thêm hỗ trợ cho các backend hiển thị mới như Vulkan và DirectX"
+  ],
+  "stars": 48272,
+  "starsToday": 49,
+  "language": "Rust",
+  "topics": [
+    "bevy",
+    "gamedev",
+    "game-engine",
+    "open-source",
+    "rust",
+    "game-development"
+  ],
+  "notePath": "notes/Game-Engine.md",
+  "createdAt": "2026-09-19T08:01:01.491Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "9e6a398c-bffa-478e-817f-9c4208813cdf",
+  "repo": "tirth8205/code-review-graph",
+  "url": "https://github.com/tirth8205/code-review-graph",
+  "category": "AI/LLM",
+  "summary": "Graph trình bày sơ đồ trí tuệ mã nguồn địa phương cho MCP và CLI, tạo bản đồ mã liên tục để công cụ lập trình AI đọc được.",
+  "usecases": [
+    "Cải thiện hiệu quả kiểm tra mã bằng cách tập trung vào các phần liên quan của bộ code lớn",
+    "Nâng cao khả năng lập trình hỗ trợ bởi AI thông qua hiểu biết ngữ cảnh tốt hơn",
+    "Đơn giản hóa việc cộng tác bằng cách có công cụ điều hướng mã thông minh"
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng AI như Claude để phân tích mã nâng cao",
+    "Xây dựng công cụ trực quan hóa các mối quan hệ giữa các module",
+    "Tạo hệ thống plugin cho nhiều ngôn ngữ và khung phần mềm khác nhau"
+  ],
+  "stars": 31600,
+  "starsToday": 45,
+  "language": "Python",
+  "topics": [
+    "ai-coding",
+    "claude",
+    "claude-code",
+    "code-review",
+    "graphrag",
+    "incremental",
+    "knowledge-graph",
+    "llm",
+    "mcp",
+    "python",
+    "static-analysis",
+    "tree-sitter"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-19T08:01:01.491Z"
+}

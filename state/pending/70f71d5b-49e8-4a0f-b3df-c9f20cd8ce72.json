@@ -1,0 +1,34 @@
+{
+  "id": "70f71d5b-49e8-4a0f-b3df-c9f20cd8ce72",
+  "repo": "iii-hq/iii",
+  "url": "https://github.com/iii-hq/iii",
+  "category": "Other",
+  "summary": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+  "usecases": [
+    "Khám phá và đánh giá iii-hq/iii cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 18791,
+  "starsToday": 28,
+  "language": "Rust",
+  "topics": [
+    "agents",
+    "ai",
+    "api",
+    "backend",
+    "developer-tools",
+    "genai",
+    "javascript",
+    "python",
+    "typescript",
+    "primitives",
+    "rust",
+    "engine"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-19T08:01:01.491Z"
+}

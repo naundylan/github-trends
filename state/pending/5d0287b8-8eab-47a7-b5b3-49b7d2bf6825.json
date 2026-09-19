@@ -1,0 +1,29 @@
+{
+  "id": "5d0287b8-8eab-47a7-b5b3-49b7d2bf6825",
+  "repo": "jarrodwatts/claude-hud",
+  "url": "https://github.com/jarrodwatts/claude-hud",
+  "category": "Other",
+  "summary": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+  "usecases": [
+    "Khám phá và đánh giá jarrodwatts/claude-hud cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 28049,
+  "starsToday": 43,
+  "language": "JavaScript",
+  "topics": [
+    "anthropic",
+    "claude",
+    "claude-code",
+    "cli",
+    "plugin",
+    "statusline",
+    "typescript"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-19T08:01:01.491Z"
+}

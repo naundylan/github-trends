@@ -1,0 +1,23 @@
+{
+  "id": "524ab1d3-a471-4621-a733-d807ce9ec277",
+  "repo": "NVIDIA/OpenShell",
+  "url": "https://github.com/NVIDIA/OpenShell",
+  "category": "AI Agent/Automation",
+  "summary": "Runtime an toàn viết bằng Rust cho phép thực thi và quản lý các AI agent một cách riêng tư và격격.",
+  "usecases": [
+    "Chạy quy trình AI agent với môi trường격격 (sandbox) trong doanh nghiệp.",
+    "Triển khai các agent tự động hóa mà không cần tiết lộ dữ liệu nhạy cảm.",
+    "Tích hợp với các LLM riêng tư để tự động hóa tác vụ phức tạp."
+  ],
+  "ideas": [
+    "Xây dựng marketplace các module agent có thể tái sử dụng.",
+    "Cho phép agent hoạt động hoàn toàn offline với các model cục bộ.",
+    "Sử dụng làm nền tảng cho DevOps tự động hóa bởi AI."
+  ],
+  "stars": 8703,
+  "starsToday": 37,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-19T08:01:01.491Z"
+}

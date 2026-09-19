@@ -1,0 +1,29 @@
+{
+  "id": "56c4c5a1-adaf-4411-bd51-3bcf84dc5991",
+  "repo": "juliangarnier/anime",
+  "url": "https://github.com/juliangarnier/anime",
+  "category": "Other",
+  "summary": "JavaScript animation engine",
+  "usecases": [
+    "Khám phá và đánh giá juliangarnier/anime cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 72908,
+  "starsToday": 29,
+  "language": "JavaScript",
+  "topics": [
+    "animation",
+    "anime",
+    "javascript-library",
+    "svg",
+    "canvas",
+    "css",
+    "javascript"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-19T08:01:01.491Z"
+}

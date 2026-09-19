@@ -1,0 +1,31 @@
+{
+  "id": "0d4f921a-6efa-4756-a9c1-c8a8c51cc028",
+  "repo": "backnotprop/plannotator",
+  "url": "https://github.com/backnotprop/plannotator",
+  "category": "Other",
+  "summary": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.",
+  "usecases": [
+    "Khám phá và đánh giá backnotprop/plannotator cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 8797,
+  "starsToday": 39,
+  "language": "TypeScript",
+  "topics": [
+    "claude-code",
+    "opencode",
+    "obsidian",
+    "pi-mono",
+    "plan-mode",
+    "codex",
+    "agents",
+    "code-review",
+    "skills"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-19T08:01:01.491Z"
+}

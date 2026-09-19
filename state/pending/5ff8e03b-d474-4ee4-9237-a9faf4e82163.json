@@ -1,0 +1,38 @@
+{
+  "id": "5ff8e03b-d474-4ee4-9237-a9faf4e82163",
+  "repo": "NanmiCoder/cc-haha",
+  "url": "https://github.com/NanmiCoder/cc-haha",
+  "category": "AI Agent/Automation",
+  "summary": "cc-haha là một workspace desktop cross-platform dành cho các agente AI và Claude Code, cung cấp đa môi trường làm việc, quản lý Git, diff code, marketplace kỹ năng và tích hợp các ứng dụng nhắn tin.",
+  "usecases": [
+    "Tạo và quản lý các dự án đa agente AI trên desktop",
+    "Tương tác với các công cụ nhắn tin (WeChat, Telegram, WhatsApp) để nhận lệnh và kết quả",
+    "Sử dụng marketplace kỹ năng để mở rộng chức năng của các agente AI"
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng cloud để cung cấp môi trường làm việc AI đa thiết bị",
+    "Thêm tính năng tùy chỉnh desktop pets để tăng tính hấp dẫn và tương tác",
+    "Tích hợp với các công cụ CI/CD để tự động hoá quy trình triển khai ứng dụng AI"
+  ],
+  "stars": 14632,
+  "starsToday": 33,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "ai",
+    "ai-agent",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "coding-agent",
+    "computer-use",
+    "desktop-app",
+    "electron",
+    "llm",
+    "mcp",
+    "react",
+    "typescript"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-19T08:01:01.491Z"
+}

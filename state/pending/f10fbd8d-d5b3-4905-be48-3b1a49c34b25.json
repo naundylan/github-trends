@@ -1,0 +1,23 @@
+{
+  "id": "f10fbd8d-d5b3-4905-be48-3b1a49c34b25",
+  "repo": "fastino-ai/GLiNER2",
+  "url": "https://github.com/fastino-ai/GLiNER2",
+  "category": "NLP",
+  "summary": "GLiNER2 là một framework Python cho việc trích xuất thông tin thống nhất dựa trên lược đồ, cho phép nhận diện và khai trương dữ liệu không có cấu trúc trong văn bản.",
+  "usecases": [
+    "Trích xuất các thực thể và mối quan hệ từ tài liệu không có cấu trúc",
+    "Hỗ trợ phân tích tài liệu pháp lý, tài chính để tự động lấy các thông tin quan trọng",
+    "Tích hợp vào pipeline xử lý ngôn ngữ tự nhiên để cải thiện chất lượng dữ liệu training"
+  ],
+  "ideas": [
+    "Kết hợp với chatbot để trích xuất thông tin từ hội thoại người dùng",
+    "Sử dụng trong hệ thống quản lý tài liệu pháp lý để tự động tạo các báo cáo",
+    "Tích hợp vào công cụ phân tích tài chính để khai trích dữ liệu từ báo cáo tài chính"
+  ],
+  "stars": 1971,
+  "starsToday": 35,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/NLP.md",
+  "createdAt": "2026-09-19T08:01:01.491Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ac13d384-1d17-4058-8f97-ade782799e29",
+  "repo": "prettier/prettier",
+  "url": "https://github.com/prettier/prettier",
+  "category": "Developer Tool",
+  "summary": "Formatter tự động mã nguồn duy nhất duy trì phong cách code nhất quán cho nhiều ngôn ngữ và trình biên tập.",
+  "usecases": [
+    "Giữ codebase đồng nhất trong các dự án team lớn.",
+    "Tích hợp vào CI/CD để kiểm tra định dạng trước khi merge.",
+    "Cải thiện khả đọc code trong các repository mở lớn."
+  ],
+  "ideas": [
+    "Kết hợp với linter để tạo bộ chất lượng code hoàn chỉnh.",
+    "Phát triển preset định dạng cho các ngôn ngữ niche hoặc domain-specific.",
+    "Sử dụng trong IDE web để format code trên thực thời."
+  ],
+  "stars": 52279,
+  "starsToday": 37,
+  "language": "JavaScript",
+  "topics": [
+    "formatter",
+    "printer",
+    "prettier",
+    "ast",
+    "javascript",
+    "flow",
+    "typescript",
+    "css",
+    "scss",
+    "less",
+    "jsx",
+    "vue",
+    "graphql",
+    "json",
+    "markdown",
+    "yaml",
+    "html",
+    "angular"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-19T08:01:01.491Z"
+}
