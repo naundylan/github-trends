@@ -1,0 +1,34 @@
+{
+  "id": "6aa63693-8265-4e4c-9860-d36b5ed79cff",
+  "repo": "Fission-AI/OpenSpec",
+  "url": "https://github.com/Fission-AI/OpenSpec",
+  "category": "AI Agent/Automation",
+  "summary": "Khung phát triển hướng đặc tả dành cho AI coding assistant, biến yêu cầu sản phẩm thành đặc tả kỹ thuật và kế hoạch triển khai thống nhất. Dự án giúp quá trình lập kế hoạch, thực thi và truy vết quyết định của agent minh bạch, kiểm soát hơn.",
+  "usecases": [
+    "Chuyển PRD hoặc yêu cầu nghiệp vụ thành đặc tả kỹ thuật và kế hoạch thực thi cho coding agent.",
+    "Quản lý ngữ cảnh nhất quán khi nhiều agent phối hợp phát triển một tính năng lớn.",
+    "Dùng tiêu chí chấp nhận trong đặc tả để kiểm tra kết quả code và giới hạn phạm vi thay đổi."
+  ],
+  "ideas": [
+    "Kết nối OpenSpec với issue tracker và CI để tự động cập nhật đặc tả, sinh kiểm thử và đối chiếu kết quả triển khai.",
+    "Kết hợp generator kiểm thử và review diff nhằm tạo vòng lặp SDD khép kín từ yêu cầu đến xác nhận chất lượng.",
+    "Xây dựng bộ mẫu đặc tả và thư viện miền riêng để agent tạo giải pháp phù hợp chuẩn kỹ thuật của tổ chức."
+  ],
+  "stars": 69518,
+  "starsToday": 464,
+  "language": "TypeScript",
+  "topics": [
+    "spec",
+    "ai",
+    "context-engineering",
+    "engineering",
+    "planning",
+    "prd",
+    "sdlc",
+    "spec-driven-development",
+    "specification",
+    "sdd"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-19T13:10:04.434Z"
+}

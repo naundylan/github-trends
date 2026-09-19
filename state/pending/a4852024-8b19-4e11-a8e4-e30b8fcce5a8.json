@@ -1,0 +1,27 @@
+{
+  "id": "a4852024-8b19-4e11-a8e4-e30b8fcce5a8",
+  "repo": "byoungd/up",
+  "url": "https://github.com/byoungd/up",
+  "category": "Awesome List/Curated Resource",
+  "summary": "một hướng dẫn toàn diện và curate về học tiếng Anh, AI và kỹ năng cuộc sống, được thiết kế để hỗ trợ quá trình học tập tự chủ",
+  "usecases": [
+    "tài liệu tham khảo cho người học tiếng Anh tự study với các nguồn chất lượng",
+    "hướng dẫn lộ trình học AI từ cơ bản đến nâng cao cho người mới",
+    "tài nguyên tham khảo cho các buổi hackathon hoặc dự án cá nhân liên quan AI"
+  ],
+  "ideas": [
+    "tạo ứng dụng web động dựa trên danh sách này để cá nhân hóa trải nghiệm học tập",
+    "kết hợp với AI chatbot để tạo câu hỏi luyện tập theo từng chủ đề",
+    "phát triển bot Telegram/ Discord phân phối nội dung định kỳ từ repo"
+  ],
+  "stars": 63227,
+  "starsToday": 243,
+  "language": "JavaScript",
+  "topics": [
+    "chinese",
+    "tutorial",
+    "english-learning"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-19T13:10:04.434Z"
+}

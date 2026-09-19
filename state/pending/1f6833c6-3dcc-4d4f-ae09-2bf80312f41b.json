@@ -1,0 +1,23 @@
+{
+  "id": "1f6833c6-3dcc-4d4f-ae09-2bf80312f41b",
+  "repo": "mcncarl/yichen-skills",
+  "url": "https://github.com/mcncarl/yichen-skills",
+  "category": "Developer Tool",
+  "summary": "một bộ thu thập kỹ năng và script hữu ích cho Python, giúp nhà phát triển tối ưu quy trình làm việc",
+  "usecases": [
+    "tự động hóa các tác vụ lặp lại trong phát triển Python",
+    "cung cấp các hàm tiện ích cho xử lý dữ liệu và file",
+    "giúp học tập và thực hành các kỹ năng Python nâng cao"
+  ],
+  "ideas": [
+    "kết hợp với CI/CD để chạy tự động kiểm tra chất lượng code",
+    "phát triển thành package publishable lên PyPI",
+    "sử dụng làm foundation cho một IDE extension Python"
+  ],
+  "stars": 3840,
+  "starsToday": 260,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-19T13:10:04.434Z"
+}

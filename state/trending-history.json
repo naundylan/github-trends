@@ -101,8 +101,8 @@
   },
   "openai/codex-plugin-cc": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-09",
-    "last_saved": "2026-08-25"
+    "last_seen": "2026-09-19",
+    "last_saved": "2026-09-19"
   },
   "alibaba/page-agent": {
     "first_seen": "2026-07-04",
@@ -111,8 +111,8 @@
   },
   "ChromeDevTools/chrome-devtools-mcp": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-05",
-    "last_saved": "2026-08-28"
+    "last_seen": "2026-09-19",
+    "last_saved": "2026-09-19"
   },
   "asgeirtj/system_prompts_leaks": {
     "first_seen": "2026-07-04",
@@ -311,8 +311,8 @@
   },
   "byoungd/up": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-09-10",
-    "last_saved": "2026-08-22"
+    "last_seen": "2026-09-19",
+    "last_saved": "2026-09-19"
   },
   "fastapi/fastapi": {
     "first_seen": "2026-07-08",
@@ -511,8 +511,8 @@
   },
   "Anil-matcha/Open-Generative-AI": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-09-09",
-    "last_saved": "2026-08-24"
+    "last_seen": "2026-09-19",
+    "last_saved": "2026-09-19"
   },
   "langchain-ai/deepagents": {
     "first_seen": "2026-08-24",
@@ -1171,7 +1171,7 @@
   },
   "browser-use/browser-use": {
     "first_seen": "2026-09-06",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-19",
     "last_saved": "2026-09-06"
   },
   "experientiallabs/experiential": {
@@ -1341,7 +1341,7 @@
   },
   "Automattic/harper": {
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-11",
+    "last_seen": "2026-09-19",
     "last_saved": "2026-09-09"
   },
   "armory3d/armorpaint": {
@@ -1681,7 +1681,7 @@
   },
   "koala73/worldmonitor": {
     "first_seen": "2026-09-16",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-19",
     "last_saved": "2026-09-16"
   },
   "openobserve/openobserve": {
@@ -1794,52 +1794,47 @@
     "last_seen": "2026-09-19",
     "last_saved": "2026-09-18"
   },
-  "jarrodwatts/claude-hud": {
+  "trycua/cua": {
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19",
     "last_saved": "2026-09-19"
   },
-  "prettier/prettier": {
+  "Open-Dev-Society/OpenStock": {
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19",
     "last_saved": "2026-09-19"
   },
-  "juliangarnier/anime": {
+  "higgsfield-ai/higgsfield": {
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19",
     "last_saved": "2026-09-19"
   },
-  "fastino-ai/GLiNER2": {
+  "cactus-compute/needle": {
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19",
     "last_saved": "2026-09-19"
   },
-  "tirth8205/code-review-graph": {
+  "mcncarl/yichen-skills": {
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19",
     "last_saved": "2026-09-19"
   },
-  "NanmiCoder/cc-haha": {
+  "shiyu-coder/Kronos": {
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19",
     "last_saved": "2026-09-19"
   },
-  "backnotprop/plannotator": {
+  "vercel-labs/json-render": {
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19",
     "last_saved": "2026-09-19"
   },
-  "NVIDIA/OpenShell": {
+  "ahmedkhaleel2004/gitdiagram": {
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19",
     "last_saved": "2026-09-19"
   },
-  "iii-hq/iii": {
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "last_saved": "2026-09-19"
-  },
-  "bevyengine/bevy": {
+  "Fission-AI/OpenSpec": {
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19",
     "last_saved": "2026-09-19"
