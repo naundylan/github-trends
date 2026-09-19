@@ -1,0 +1,23 @@
+{
+  "id": "fa04b8c0-08cb-4bd9-a227-5f05b05d9649",
+  "repo": "mcncarl/yichen-skills",
+  "url": "https://github.com/mcncarl/yichen-skills",
+  "category": "Productivity/Personal Tool",
+  "summary": "Một trang web cá nhân đơn giản để hiển thị các kỹ năng và thành tích của Yichen, được thiết kế để nổi bật nhanh chóng và dễ dàng.",
+  "usecases": [
+    "Hiển thị kỹ năng cho nhà tuyển dụng hoặc khách hàng tiềm năng",
+    "Cập nhật hồ sơ xin việc một cách chuyên nghiệp",
+    "Tích hợp với mạng xã hội để quảng bá hồ sơ trực tuyến"
+  ],
+  "ideas": [
+    "Thêm biểu đồ tiến độ tương tác để theo dõi sự phát triển kỹ năng theo thời gian",
+    "Tích hợp với GitHub để tự động đồng bộ hóa các repo và commit gần đây",
+    "Tạo phiên bản di động hoặc ứng dụng web tiến bộ để xem trên điện thoại"
+  ],
+  "stars": 3897,
+  "starsToday": 260,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-19T20:06:05.829Z"
+}

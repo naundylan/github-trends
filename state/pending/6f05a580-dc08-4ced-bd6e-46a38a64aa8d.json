@@ -1,0 +1,33 @@
+{
+  "id": "6f05a580-dc08-4ced-bd6e-46a38a64aa8d",
+  "repo": "higgsfield-ai/higgsfield",
+  "url": "https://github.com/higgsfield-ai/higgsfield",
+  "category": "Machine Learning",
+  "summary": "Nền tảng điều phối GPU chịu lỗi, có khả năng mở rộng cao, kết hợp với framework machine learning để huấn luyện mô hình từ hàng tỷ đến hàng nghìn tỷ tham số. Điểm nổi bật là khả năng chịu lỗi và tối ưu cho distributed training.",
+  "usecases": [
+    "Huấn luyện các mô hình ngôn ngữ lớn (LLM) quy mô hàng trăm tỷ tham số trên cụm GPU.",
+    "Xây dựng pipeline distributed training cho các nghiên cứu deep learning phức tạp.",
+    "Quản lý tài nguyên GPU linh hoạt trong môi trường MLOps doanh nghiệp."
+  ],
+  "ideas": [
+    "Kết hợp với Kubernetes để tạo nền tảng orchestration GPU tự động cho các nhóm ML.",
+    "Xây dựng lớp abstraction giúp chuyển đổi liền mạch giữa huấn luyện đơn node và đa node.",
+    "Tích hợp cơ chế checkpointing thông minh để giảm thời gian khôi phục khi gặp sự cố phần cứng."
+  ],
+  "stars": 4879,
+  "starsToday": 325,
+  "language": "Jupyter Notebook",
+  "topics": [
+    "cluster-management",
+    "deep-learning",
+    "distributed",
+    "llama",
+    "llama2",
+    "llm",
+    "machine-learning",
+    "mlops",
+    "pytorch"
+  ],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-09-19T20:06:05.829Z"
+}
