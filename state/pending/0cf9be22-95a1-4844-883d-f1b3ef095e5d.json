@@ -1,0 +1,39 @@
+{
+  "id": "0cf9be22-95a1-4844-883d-f1b3ef095e5d",
+  "repo": "JoeanAmier/TikTokDownloader",
+  "url": "https://github.com/JoeanAmier/TikTokDownloader",
+  "category": "Other",
+  "summary": "抖音 / TikTok 平台作品下载/数据采集工具",
+  "usecases": [
+    "Khám phá và đánh giá JoeanAmier/TikTokDownloader cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 16103,
+  "starsToday": 58,
+  "language": "JavaScript",
+  "topics": [
+    "douyin",
+    "python",
+    "tiktok",
+    "api",
+    "csv",
+    "sqlite",
+    "xlsx",
+    "linux",
+    "macos",
+    "windows",
+    "ffmpeg",
+    "httpx",
+    "server",
+    "downloader",
+    "pyinstaller",
+    "docker",
+    "rich"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-19T02:40:25.296Z"
+}

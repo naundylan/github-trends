@@ -1,0 +1,23 @@
+{
+  "id": "2adf948f-343d-43c4-a9ec-64cf2f4ed5c4",
+  "repo": "ankitects/anki",
+  "url": "https://github.com/ankitects/anki",
+  "category": "Productivity/Personal Tool",
+  "summary": "Ứng dụng flashcard spaced repetition giúp tối ưu hóa khả năng ghi nhớ kiến thức cho mục đích học tập, thi chứng chỉ hoặc tự cải thiện.",
+  "usecases": [
+    "Học tiếng Anh/Chuẩn bị thi bằng cách lặp lại các từ vựng và ngữ pháp.",
+    "Ôn tập kiến thức chuyên ngành cho lập trình viên hoặc y sĩ.",
+    "Ghi nhớ quy trình làm việc hoặc tài liệu dự án cho đội nhóm phát triển."
+  ],
+  "ideas": [
+    "Sử dụng LLM để tự động tạo bộ thẻ từ tài liệu PDF hoặc trang web.",
+    "Đồng bộ bộ thẻ qua đám mây giữa desktop và mobile với tiến độ học tập cá nhân hóa.",
+    "Phân tích dữ liệu hiệu suất review để đề xuất lịch review tối ưu cho từng người dùng."
+  ],
+  "stars": 31221,
+  "starsToday": 174,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-19T02:40:25.296Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ae5e9477-840a-4a0f-bf91-1d2b80d5c17d",
+  "repo": "Fission-AI/OpenSpec",
+  "url": "https://github.com/Fission-AI/OpenSpec",
+  "category": "AI/LLM",
+  "summary": "Spec-driven development (SDD) for AI coding assistants. Spec-driven development (SDD) for AI coding assistants.",
+  "usecases": [
+    "AI coding assistant workflow specification and planning",
+    "PRD and SDLC management for AI projects"
+  ],
+  "ideas": [
+    "Integrating SDD with existing AI coding pipelines",
+    "Using spec artifacts to improve AI assistant context engineering"
+  ],
+  "stars": 69383,
+  "starsToday": 296,
+  "language": "TypeScript",
+  "topics": [
+    "spec",
+    "ai",
+    "context-engineering",
+    "engineering",
+    "planning",
+    "prd",
+    "sdlc",
+    "spec-driven-development",
+    "specification",
+    "sdd"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-19T02:40:25.295Z"
+}

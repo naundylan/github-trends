@@ -1,0 +1,35 @@
+{
+  "id": "b9219c7a-f341-464f-a1e1-7a20a49d6b4e",
+  "repo": "every-app/open-seo",
+  "url": "https://github.com/every-app/open-seo",
+  "category": "Developer Tool",
+  "summary": "Open-source nền tảng cung cấp bộ công cụ hoàn chỉnh cho nghiên cứu từ khóa, phân tích backlink và audit website, thay thế cho các giải pháp thương mại như Semrush và Ahrefs.",
+  "usecases": [
+    "Phân tích cấu trúc backlink và đo lường authority cho website thương mại.",
+    "Tự động hóa theo dõi ranking từ khóa trên nhiều công cụ tìm kiếm.",
+    "Thực hiện audit kỹ thuật SEO định kỳ cho nhiều domain cùng lúc."
+  ],
+  "ideas": [
+    "Kết hợp AI tạo nội dung để đề xuất từ khóa và tối ưu nội dung trực tiếp.",
+    "Phát triển plugin cho WordPress đưa dữ liệu SEO vào dashboard quản trị.",
+    "Xây dựng dashboard trực quan theo dõi tiến độ SEO theo thời gian thực."
+  ],
+  "stars": 19313,
+  "starsToday": 189,
+  "language": "TypeScript",
+  "topics": [
+    "backlink-analysis",
+    "keyword-research",
+    "mcp",
+    "seo",
+    "seo-tools",
+    "site-audit",
+    "google-search-console-mcp",
+    "seo-agent",
+    "seo-skills",
+    "seo-audit",
+    "seo-automation"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-19T02:40:25.296Z"
+}

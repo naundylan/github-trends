@@ -1,0 +1,32 @@
+{
+  "id": "850b4fe3-8c85-4280-8de8-ac3b3032dafa",
+  "repo": "BurntSushi/ripgrep",
+  "url": "https://github.com/BurntSushi/ripgrep",
+  "category": "Other",
+  "summary": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+  "usecases": [
+    "Khám phá và đánh giá BurntSushi/ripgrep cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 68419,
+  "starsToday": 51,
+  "language": "Rust",
+  "topics": [
+    "ripgrep",
+    "recursively-search",
+    "search",
+    "regex",
+    "gitignore",
+    "grep",
+    "command-line-tool",
+    "command-line",
+    "cli",
+    "rust"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-19T02:40:25.296Z"
+}

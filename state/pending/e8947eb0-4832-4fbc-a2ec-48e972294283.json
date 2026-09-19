@@ -1,0 +1,28 @@
+{
+  "id": "e8947eb0-4832-4fbc-a2ec-48e972294283",
+  "repo": "ahmedkhaleel2004/gitdiagram",
+  "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+  "category": "Developer Tool",
+  "summary": "Free, simple, fast interactive diagrams for any GitHub repository - generates interactive system design diagrams from repository analysis",
+  "usecases": [
+    "Visualize repository structure and dependencies",
+    "Generate system architecture diagrams from code",
+    "Create interactive flow diagrams for repository navigation"
+  ],
+  "ideas": [
+    "Generate interactive diagrams from any GitHub repo without local setup",
+    "Enable team collaboration on repository visualization",
+    "Integrate with CI/CD pipelines for diagram generation"
+  ],
+  "stars": 16479,
+  "starsToday": 152,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "github",
+    "system-design",
+    "code"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-19T02:40:25.296Z"
+}
