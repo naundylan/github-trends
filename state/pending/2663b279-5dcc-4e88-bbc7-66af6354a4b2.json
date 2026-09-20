@@ -1,0 +1,37 @@
+{
+  "id": "2663b279-5dcc-4e88-bbc7-66af6354a4b2",
+  "repo": "zhouxiaoka/autoclip",
+  "url": "https://github.com/zhouxiaoka/autoclip",
+  "category": "AI Agent/Automation",
+  "summary": "Autoclip là công cụ AI tự động tạo video highlight và cắt clip từ video dài, hỗ trợ việc tạo nội dung ngắn gọn cho mạng xã hội và truyền thông.",
+  "usecases": [
+    "Tự động tạo highlight reel từ trận đấu thể thao hoặc sự kiện trực tiếp.",
+    "Cắt clip quảng cáo ngắn từ video sản phẩm để chạy trên TikTok, Instagram Reels.",
+    "Tạo bản tóm tắt video giáo dục hoặc khóa học để học sinh nhanh chóng nắm nội dung."
+  ],
+  "ideas": [
+    "Kết hợp với mô hình ngôn ngữ lớn để tạo tiêu đề và mô tả tự động cho mỗi clip được cắt.",
+    "Phát triển plugin cho các phần mềm chỉnh sửa video chuyên nghiệp (Premiere, DaVinci) để tự động đề xuất highlight.",
+    "Ứng dụng trong hệ thống an ninh để trích xuất các sự kiện đáng chú ý từ video giám sát 24/7."
+  ],
+  "stars": 7766,
+  "starsToday": 325,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "ai-video",
+    "ai-video-editor",
+    "auto",
+    "auto-highlight",
+    "highlight",
+    "llm",
+    "video",
+    "video-editing",
+    "video-processing",
+    "videos"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-20T13:40:27.396Z"
+}

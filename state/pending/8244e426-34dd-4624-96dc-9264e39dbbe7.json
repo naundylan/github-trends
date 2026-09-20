@@ -1,0 +1,28 @@
+{
+  "id": "8244e426-34dd-4624-96dc-9264e39dbbe7",
+  "repo": "ahmedkhaleel2004/gitdiagram",
+  "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+  "category": "Developer Tool",
+  "summary": "Công cụ miễn phí tạo đồ họa tương tác nhanh chóng cho bất kỳ repository GitHub nào, giúp trực quan hóa cấu trúc code và hệ thống architecture.",
+  "usecases": [
+    "Phân tích cấu trúc code và mối quan hệ giữa các module trong dự án lớn",
+    "Giúp sinh viên hoặc reviewer hiểu nhanh architecture hệ thống mà không cần đọc code",
+    "Sử dụng trong presentation hoặc báo cáo kỹ thuật để minh họa hệ thống phân tán"
+  ],
+  "ideas": [
+    "Tích hợp vào VS Code extension để xem diagram trực tiếp trong editor",
+    "Kết hợp với CI/CD để tự động cập nhật diagram mỗi khi có commit",
+    "Xuất đồ họa ra PNG/PDF cho tài liệu dự án"
+  ],
+  "stars": 16712,
+  "starsToday": 285,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "github",
+    "system-design",
+    "code"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-20T13:40:27.396Z"
+}

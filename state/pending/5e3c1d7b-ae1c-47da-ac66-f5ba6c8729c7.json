@@ -1,0 +1,23 @@
+{
+  "id": "5e3c1d7b-ae1c-47da-ac66-f5ba6c8729c7",
+  "repo": "anthropics/financial-services",
+  "url": "https://github.com/anthropics/financial-services",
+  "category": "Backend Framework",
+  "summary": "Một dự án Python cung cấp các công cụ và dịch vụ tài chính, cho phép xây dựng các ứng dụng tài chính trên nền tảng backend.",
+  "usecases": [
+    "Xây dựng ứng dụng ngân hàng điện tử",
+    "Phân tích dữ liệu tài chính",
+    "Tích hợp API dịch vụ tài chính"
+  ],
+  "ideas": [
+    "Kết hợp với blockchain để tạo token tài chính",
+    "Sử dụng AI để dự báo thị trường tài chính",
+    "Tạo nền tảng giáo dục tài chính interaktive"
+  ],
+  "stars": 35216,
+  "starsToday": 236,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-20T13:40:27.396Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2f569338-85e5-4d5f-b249-3e401510245e",
+  "repo": "FareedKhan-dev/train-llm-from-scratch",
+  "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+  "category": "AI/LLM",
+  "summary": "Một dự án hướng dẫn cách huấn luyện mô hình ngôn ngữ lớn từ đầu đến cuối bằng Python, sử dụng dữ liệu và thư viện Transformers.",
+  "usecases": [
+    "Huấn luyện mô hình LLM cho chatbot",
+    "Tạo mô hình tùy chỉnh cho lĩnh vực y tế",
+    "Phát triển công cụ tự động hóa tạo nội dung"
+  ],
+  "ideas": [
+    "Kết hợp với UI để tạo ứng dụng chat AI",
+    "Dùng để tạo mô hình chuyên môn trong lĩnh vực y tế",
+    "Kết hợp với dữ liệu thời gian thực để xây dựng trợ lý ảo"
+  ],
+  "stars": 10046,
+  "starsToday": 196,
+  "language": "Python",
+  "topics": [
+    "gemini",
+    "large-language-models",
+    "llm",
+    "openai",
+    "training",
+    "transformers"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-20T13:40:27.396Z"
+}

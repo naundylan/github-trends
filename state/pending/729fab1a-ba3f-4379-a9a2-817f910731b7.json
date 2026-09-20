@@ -1,0 +1,32 @@
+{
+  "id": "729fab1a-ba3f-4379-a9a2-817f910731b7",
+  "repo": "cactus-compute/needle",
+  "url": "https://github.com/cactus-compute/needle",
+  "category": "AI/LLM",
+  "summary": "Needle là mô hình foundation AI siêu nhẹ (2‑bit, 8‑29 MB) được thiết kế để chạy trên thiết bị nhỏ như điện thoại, thiết bị indossable, nhà thông minh, robot và xe hơi, hỗ trợ gọi công cụ và trích xuất có cấu trúc.",
+  "usecases": [
+    "Trích xuất thông tin có cấu trúc từ cảm biến hoặc dữ liệu văn bản trên thiết bị nhúng.",
+    "Thực hiện các chức năng gọi công cụ (tool calling) để điều khiển thiết bị IoT mà không cần kết nối cloud.",
+    "Tạo embeddings nhẹ cho tìm kiếm sémantic trên thiết bị di động và wearable."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống gia thông minh để thực hiện lệnh thoại phức tạp mà không phụ thuộc vào máy chủ xa.",
+    "Ứng dụng trong xe tự lái để xử lý tín hiệu camera và lidar ở mức thấp latency.",
+    "Phát triển SDK cho các nhà sản xuất chip để tích hợp khả năng AI vào bộ vi xử lý siêu nhỏ."
+  ],
+  "stars": 11823,
+  "starsToday": 404,
+  "language": "Python",
+  "topics": [
+    "cactus",
+    "llm",
+    "on-device-ai",
+    "edge-ai",
+    "foundation-model",
+    "function-calling",
+    "tinyml",
+    "tool-calling"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-20T13:40:27.396Z"
+}
