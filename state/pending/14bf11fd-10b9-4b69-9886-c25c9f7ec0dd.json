@@ -1,0 +1,32 @@
+{
+  "id": "14bf11fd-10b9-4b69-9886-c25c9f7ec0dd",
+  "repo": "cactus-compute/needle",
+  "url": "https://github.com/cactus-compute/needle",
+  "category": "AI Agent/Automation",
+  "summary": "Mô hình nền tảng tự động hóa cho các thiết bị nhỏ gọn với kích thước chỉ 8-29 MB, hỗ trợ gọi công cụ, trích xuất cấu trúc và embeddings trên điện thoại, thiết bị đeo, nhà thông minh, robot, xe và vi điều khiển.",
+  "usecases": [
+    "Chạy mô hình AI trên điện thoại để sử dụng offline.",
+    "Tự động hóa các tác vụ trong các thiết bị nhà thông minh.",
+    "Kích hoạt AI trong các môi trường bị hạn chế tài nguyên như vi điều khiển."
+  ],
+  "ideas": [
+    "Kết hợp với cảm biến IoT để ra quyết định theo thời gian thực.",
+    "Sử dụng trong robot giáo dục để dạy khái niệm AI.",
+    "Tích hợp với dịch vụ cloud để xử lý AI lai."
+  ],
+  "stars": 11632,
+  "starsToday": 234,
+  "language": "Python",
+  "topics": [
+    "cactus",
+    "llm",
+    "on-device-ai",
+    "edge-ai",
+    "foundation-model",
+    "function-calling",
+    "tinyml",
+    "tool-calling"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-20T02:56:53.651Z"
+}

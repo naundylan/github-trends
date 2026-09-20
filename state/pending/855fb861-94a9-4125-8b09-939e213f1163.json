@@ -1,0 +1,28 @@
+{
+  "id": "855fb861-94a9-4125-8b09-939e213f1163",
+  "repo": "ahmedkhaleel2004/gitdiagram",
+  "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+  "category": "Developer Tool",
+  "summary": "Công cụ tạo sơ đồ tương tác miễn phí, đơn giản và nhanh chóng cho bất kỳ kho GitHub nào, giúp trực quan hóa cấu trúc mã nguồn.",
+  "usecases": [
+    "Trực quan hóa kiến trúc mã nguồn cho thành viên mới.",
+    "Tạo tài liệu minh họa cho API hoặc thiết kế hệ thống.",
+    "Debug bằng cách hiểu dependencies giữa các mô-đun."
+  ],
+  "ideas": [
+    "Tích hợp với CI/CD để tạo sơ đồ tự động trên mỗi push.",
+    "Sử dụng AI để đề xuất cải tiến dựa trên sơ đồ.",
+    "Xuất sơ đồ thành bài thuyết trình tương tác."
+  ],
+  "stars": 16666,
+  "starsToday": 285,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "github",
+    "system-design",
+    "code"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-20T02:56:53.651Z"
+}

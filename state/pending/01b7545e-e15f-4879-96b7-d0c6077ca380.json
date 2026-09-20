@@ -1,0 +1,42 @@
+{
+  "id": "01b7545e-e15f-4879-96b7-d0c6077ca380",
+  "repo": "trycua/cua",
+  "url": "https://github.com/trycua/cua",
+  "category": "AI Agent/Automation",
+  "summary": "Cua là một nền tảng mã nguồn mở cho phép điều khiển máy tính qua AI agent, hỗ trợ đa hệ điều hành như macOS, Windows và Linux. Dự án cung cấp các driver mở rộng, công cụ ảo hóa và bộ chuẩn đánh giá để huấn luyện và triển khai các agent tự động hóa màn hình.",
+  "usecases": [
+    "Tự động hóa các tác vụ lặp lại trên máy tính như điền form, click chuột hoặc thu thập dữ liệu từ giao diện người dùng.",
+    "Huấn luyện và đánh giá các mô hình AI agent có khả năng điều khiển giao diện người dùng trên nhiều hệ điều hành khác nhau.",
+    "Tạo ra các bộ dữ liệu huấn luyện từ hoạt động thực tế của người dùng thông qua việc ghi lại và phân tích hành vi tương tác."
+  ],
+  "ideas": [
+    "Kết hợp Cua với các nền tảng học máy như TensorFlow hoặc PyTorch để phát triển các agent thông minh hơn cho việc kiểm thử phần mềm tự động.",
+    "Xây dựng một hệ thống giám sát và điều khiển từ xa dựa trên Cua cho các thiết bị IoT hoặc máy tính để bàn trong môi trường doanh nghiệp.",
+    "Phát triển công cụ chuyển đổi hành động người dùng thành script tự động bằng cách sử dụng mô hình ngôn ngữ lớn kết hợp với khung làm việc Cua."
+  ],
+  "stars": 24497,
+  "starsToday": 859,
+  "language": "HTML",
+  "topics": [
+    "apple",
+    "cua",
+    "lume",
+    "macos",
+    "virtualization",
+    "virtualization-framework",
+    "swift",
+    "ai-agent",
+    "computer-use",
+    "manus",
+    "operator",
+    "agent",
+    "containerization",
+    "windows",
+    "windows-sandbox",
+    "hacktoberfest",
+    "computer-use-agent",
+    "desktop-automation"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-20T02:56:53.651Z"
+}

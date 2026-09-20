@@ -1,0 +1,23 @@
+{
+  "id": "3fd2a638-1106-4b42-8422-40f848308f35",
+  "repo": "vercel-labs/json-render",
+  "url": "https://github.com/vercel-labs/json-render",
+  "category": "Web Frontend",
+  "summary": "JSON Render là một khung UI sinh học (Generative UI framework) do Vercel Labs phát triển, cho phép tạo giao diện người dùng động dựa trên đầu vào JSON. Dự án tận dụng công nghệ React và TypeScript để biến các cấu trúc dữ liệu thành giao diện trực quan một cách nhanh chóng.",
+  "usecases": [
+    "Xây dựng các ứng dụng web có giao diện được sinh tự động từ API trả về dữ liệu JSON mà không cần viết code frontend thủ công.",
+    "Tạo các công cụ trực quan hóa dữ liệu hoặc dashboard cho phép người dùng tùy chỉnh bố cục và nội dung thông qua cấu hình JSON.",
+    "Phát triển các trang web nội dung động như blog, landing page hoặc marketing site với khả năng cập nhật giao diện chỉ bằng thay đổi dữ liệu JSON."
+  ],
+  "ideas": [
+    "Kết hợp JSON Render với các mô hình ngôn ngữ lớn để sinh giao diện người dùng tự động từ mô tả bằng ngôn ngữ tự nhiên.",
+    "Xây dựng một nền tảng thiết kế hệ thống cho phép designer tạo giao diện bằng JSON và xuất ra code React tự động.",
+    "Phát triển một công cụ chuyển đổi file thiết kế (như Figma hoặc Adobe XD) thành JSON để sinh giao diện web bằng JSON Render."
+  ],
+  "stars": 16871,
+  "starsToday": 585,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-20T02:56:53.651Z"
+}

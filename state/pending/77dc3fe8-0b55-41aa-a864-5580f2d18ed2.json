@@ -1,0 +1,28 @@
+{
+  "id": "77dc3fe8-0b55-41aa-a864-5580f2d18ed2",
+  "repo": "cloudflare/cloudflared",
+  "url": "https://github.com/cloudflare/cloudflared",
+  "category": "Networking",
+  "summary": "Cloudflared là client tunnel của Cloudflare, hỗ trợ tạo các đường truyền an toàn giữa người dùng và hệ thống Cloudflare.",
+  "usecases": [
+    "Dùng để tạo tunnel an toàn cho các ứng dụng web",
+    "Hỗ trợ việc truy cập an toàn qua VPN",
+    "Tích hợp với các dịch vụ CDN của Cloudflare"
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ bảo mật để tăng cường an ninh mạng",
+    "Sử dụng để xây dựng các ứng dụng remote access",
+    "Tích hợp với các hệ thống CI/CD để tự động hóa deployment"
+  ],
+  "stars": 15770,
+  "starsToday": 53,
+  "language": "Go",
+  "topics": [
+    "cloudflare",
+    "reverse-proxy",
+    "cloudflare-tunnel",
+    "zero-trust-network-access"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-20T02:56:53.651Z"
+}
