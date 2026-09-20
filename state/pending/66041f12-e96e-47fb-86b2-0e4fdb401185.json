@@ -1,0 +1,37 @@
+{
+  "id": "66041f12-e96e-47fb-86b2-0e4fdb401185",
+  "repo": "eval-exec/neomacs",
+  "url": "https://github.com/eval-exec/neomacs",
+  "category": "Code Editor/IDE Extension",
+  "summary": "eval-exec/neomacs là một phiên bản Emacs hiện đại được viết bằng Rust, tận dụng GPU và động cơ hiển thị mới để mang lại hiệu suất cao hơn, cùng với khả năng tương thích 100% với Elisp truyền thống. Dự án hướng đến thiết kế hiện đại, xử lý đa luồng và thu gom rác không gián đoạn, giúp trải nghiệm soạn thảo nhanh và mượt mà.",
+  "usecases": [
+    "Thay thế Emacs truyền thống bằng một phiên bản có hiệu suất cao hơn, hỗ trợ đa luồng.",
+    "Sử dụng như một trình soạn thảo mã nguồn cho các nhà phát triển cần tốc độ xử lý nhanh.",
+    "Tích hợp các tính năng của Neovim trong khi vẫn giữ nguyên cú pháp Elisp."
+  ],
+  "ideas": [
+    "Thêm hỗ trợ cho các phím tắt tương thích với Vim để thu hút người dùng Neovim.",
+    "Tích hợp với các công cụ AI để tự động hoàn thành Elisp.",
+    "Xây dựng một giao diện người dùng có thể tùy chỉnh cao với các thành phần đồ họa theo phong cách hiện đại."
+  ],
+  "stars": 1407,
+  "starsToday": 62,
+  "language": "Rust",
+  "topics": [
+    "emacs",
+    "rust",
+    "neomacs",
+    "elisp",
+    "wgpu",
+    "lisp",
+    "winit",
+    "editor",
+    "neovim",
+    "productivity",
+    "vim",
+    "lambda",
+    "terminal"
+  ],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-09-20T18:02:37.048Z"
+}

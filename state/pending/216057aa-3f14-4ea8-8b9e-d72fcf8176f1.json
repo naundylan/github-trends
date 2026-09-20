@@ -1,0 +1,37 @@
+{
+  "id": "216057aa-3f14-4ea8-8b9e-d72fcf8176f1",
+  "repo": "mnfst/awesome-free-llm-apis",
+  "url": "https://github.com/mnfst/awesome-free-llm-apis",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách tổng hợp các API LLM mãi mãi miễn phí, cung cấp khóa truy cập không giới hạn cho các mô hình ngôn ngữ phổ biến.",
+  "usecases": [
+    "Phát triển ứng dụng AI không chi phí cao cho dự án hoặc đồ án",
+    "Kết hợp với LLM router để định tuyến yêu cầu tiết kiệm chi phí",
+    "Prototype nhanh các tính năng AI trong startup"
+  ],
+  "ideas": [
+    "Xây dựng dashboard theo dõi sử dụng và chi phí API LLM",
+    "Tạo plugin tự động định tuyến request đến API miễn phí nhất",
+    "Phát triển hệ thống chatbot nội bộ sử dụng các API này cho công ty"
+  ],
+  "stars": 7927,
+  "starsToday": 138,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agents",
+    "anthropic",
+    "gemini",
+    "llm",
+    "llm-router",
+    "llm-routing",
+    "ollama",
+    "openai",
+    "openclaw",
+    "openclaw-plugin",
+    "router",
+    "awesome",
+    "awesome-list"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-20T18:02:37.048Z"
+}

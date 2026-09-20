@@ -1,0 +1,23 @@
+{
+  "id": "39574ee7-3602-4d18-b04a-51e0864e9f2e",
+  "repo": "ZuodaoTech/everyone-can-use-english",
+  "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+  "category": "Documentation/Learning Resource",
+  "summary": "Dự án cung cấp tài liệu và lộ trình học tiếng Anh theo phương pháp “mọi người đều có thể học được”. Điểm nổi bật là kiến thức được tổ chức dễ tiếp cận, phù hợp để người tự học xây dựng nền tảng ngôn ngữ.",
+  "usecases": [
+    "Xây dựng lộ trình tự học tiếng Anh từ cơ bản đến nâng cao.",
+    "Làm tài liệu tham khảo cho lớp học hoặc khóa đào tạo tiếng Anh.",
+    "Tạo bài tập và hoạt động luyện tập dựa trên nội dung trong dự án."
+  ],
+  "ideas": [
+    "Tích hợp tài liệu với hệ thống kiểm tra năng lực và gợi ý bài học cá nhân hóa.",
+    "Chuyển nội dung thành ứng dụng ôn từ vựng, nghe nói hoặc luyện phát âm hằng ngày.",
+    "Xây cộng đồng học tập có cơ chế theo dõi tiến độ và chia sẻ thành tích."
+  ],
+  "stars": 38110,
+  "starsToday": 436,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-20T18:02:37.048Z"
+}

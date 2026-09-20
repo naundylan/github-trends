@@ -1,0 +1,26 @@
+{
+  "id": "18978021-c860-4320-94bc-e3e3a7d69873",
+  "repo": "guohuiyuan/go-music-dl",
+  "url": "https://github.com/guohuiyuan/go-music-dl",
+  "category": "CLI Tool",
+  "summary": "go-music-dl là công cụ tìm kiếm và tải nhạc viết bằng Go, hỗ trợ cả chế độ CLI và web service. Dự án kết nối hơn 10 nền tảng âm nhạc, thực hiện tìm kiếm đa nguồn song song và phân tích liên kết âm thanh chất lượng cao.",
+  "usecases": [
+    "Tìm kiếm và tải bài hát từ nhiều nền tảng thông qua một lệnh duy nhất.",
+    "Chạy tác vụ tải hàng loạt hoặc tự động hóa trong môi trường máy chủ.",
+    "Dùng giao diện web để tìm nhạc và quản lý kết quả trên trình duyệt."
+  ],
+  "ideas": [
+    "Thêm chế độ xuất playlist và đồng bộ danh sách nhạc sang các dịch vụ lưu trữ.",
+    "Kết hợp lịch tải tự động với cơ chế ưu tiên nguồn và chất lượng âm thanh.",
+    "Tạo giao diện web có tìm kiếm nhanh, tiền cảnh tải và quản lý thư viện."
+  ],
+  "stars": 4597,
+  "starsToday": 178,
+  "language": "Go",
+  "topics": [
+    "go",
+    "music"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-20T18:02:37.048Z"
+}

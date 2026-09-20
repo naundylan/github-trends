@@ -1,0 +1,38 @@
+{
+  "id": "db8ecb21-769b-472e-a80b-af7d8d96bc9a",
+  "repo": "browserbase/stagehand",
+  "url": "https://github.com/browserbase/stagehand",
+  "category": "Developer Tool",
+  "summary": "Stagehand là SDK giúp trích xuất dữ liệu và tương tác với bất kỳ trang web nào, hỗ trợ tích hợp với các mô hình AI như Claude Code, Codex, Eve, Mastra và nhiều mô hình khác.",
+  "usecases": [
+    "Tự động hóa thu thập dữ liệu từ các trang web động cho các ứng dụng phân tích.",
+    "Thử nghiệm chức năng ứng dụng web trên nhiều trình duyệt mà không cần can thiệp thủ công.",
+    "Tích hợp với các agent AI để thực hiện các tác vụ trên web như điền form, đăng nhập và trích xuất dữ liệu."
+  ],
+  "ideas": [
+    "Xây dựng một pipeline ETL kết hợp Stagehand để trích xuất dữ liệu thương mại điện tử và đưa vào kho dữ liệu.",
+    "Tạo một nền tảng test automation cho các ứng dụng web SaaS sử dụng Stagehand và các mô hình AI để tạo kịch bản test.",
+    "Phát triển một chatbot hỗ trợ AI có thể điều hướng trang web và thực hiện các tác vụ như điền form, đăng nhập."
+  ],
+  "stars": 24633,
+  "starsToday": 146,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "ai",
+    "playwright",
+    "ai-agents",
+    "browser-agent",
+    "browser-automation",
+    "cdp",
+    "cloud-browser",
+    "data-extraction",
+    "headless-chrome",
+    "python",
+    "typescript",
+    "web-automation",
+    "web-scraping"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-20T18:02:37.048Z"
+}

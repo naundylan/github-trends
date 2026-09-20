@@ -1,0 +1,29 @@
+{
+  "id": "a6de812a-1956-48c4-acc2-e766e8fac1f4",
+  "repo": "BuilderIO/agent-native",
+  "url": "https://github.com/BuilderIO/agent-native",
+  "category": "AI Agent/Automation",
+  "summary": "Framework TypeScript để xây dựng các ứng dụng agentic, hỗ trợ tích hợp React và các công cụ AI để tự động hóa quy trình làm việc.",
+  "usecases": [
+    "Tự động hóa tác vụ trên web thông qua AI agents",
+    "Tích hợp khả năng agent vào ứng dụng React hiện có",
+    "Xây dựng workflow tự động cho DevOps và phát triển phần mềm"
+  ],
+  "ideas": [
+    "Kết hợp với vector database để agent có memory dài hạn",
+    "Phát triển plugin VS Code để tạo agent nhanh chóng",
+    "Áp dụng trong tự động hóa kiểm thử (test automation) cho web apps"
+  ],
+  "stars": 5092,
+  "starsToday": 89,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "ai",
+    "react",
+    "agent-native",
+    "typescript"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-20T18:02:37.048Z"
+}

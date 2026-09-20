@@ -1,0 +1,23 @@
+{
+  "id": "2a1b20f0-ce48-4e63-80a1-9e582e20d50d",
+  "repo": "mihail911/modern-software-dev-assignments",
+  "url": "https://github.com/mihail911/modern-software-dev-assignments",
+  "category": "Documentation/Learning Resource",
+  "summary": "Các bài tập thực hành cho khóa học CS146S về phát triển phần mềm hiện đại của Stanford, bao gồm các dự án Python nhằm củng cố các khái niệm thiết kế phần mềm.",
+  "usecases": [
+    "Bài tập thực hành lập trình Python cho sinh viên ngành máy tính.",
+    "Ví dụ về thiết kế phần mềm hiện đại, bao gồm kiểm thử, kiểm tra tích hợp và CI/CD.",
+    "Tài liệu tham khảo cho giảng viên để xây dựng và đánh giá nội dung khóa học."
+  ],
+  "ideas": [
+    "Tự động hóa các bài tập thành các bài kiểm tra trên GitHub Actions để phản hồi tức thì.",
+    "Tạo một bộ công cụ đánh giá hỗ trợ AI nhằm cung cấp phản hồi chi tiết cho sinh viên.",
+    "Biên dịch các bài tập thành một khóa học trực tuyến với video hướng dẫn và slide."
+  ],
+  "stars": 4489,
+  "starsToday": 174,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-20T18:02:37.048Z"
+}

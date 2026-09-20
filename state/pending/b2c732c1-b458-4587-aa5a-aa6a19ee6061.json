@@ -1,0 +1,44 @@
+{
+  "id": "b2c732c1-b458-4587-aa5a-aa6a19ee6061",
+  "repo": "CapSoftware/Cap",
+  "url": "https://github.com/CapSoftware/Cap",
+  "category": "Desktop App",
+  "summary": "Ứng dụng quay màn hình mã nguồn mở thay thế Loom, tạo các video quay màn hình đẹp và dễ chia sẻ.",
+  "usecases": [
+    "Ghi lại các bước hướng dẫn sử dụng phần mềm để chia sẻ với team",
+    "Tạo nội dung demo sản phẩm hoặc video bug report",
+    "Ghi lại các cuộc họp hoặc trình duyệt để lưu lại lưu lượng thông tin"
+  ],
+  "ideas": [
+    "Tích hợp AI tự động tạo tiêu đề và tóm tắt cho các video quay màn hình",
+    "Xây dựng plugin cho phép lưu video trực tiếp lên cloud với mã hóa end-to-end",
+    "Phát triển tính năng biên tập nhẹ trong ứng dụng để cắt/xóa đoạn không cần thiết"
+  ],
+  "stars": 22558,
+  "starsToday": 103,
+  "language": "Rust",
+  "topics": [
+    "app",
+    "cap",
+    "coss",
+    "mac",
+    "open-source",
+    "oss",
+    "react",
+    "record",
+    "screen-capture",
+    "screen-recorder",
+    "screenshot",
+    "tauri",
+    "tauri-app",
+    "typescript",
+    "vite",
+    "solidjs",
+    "loom",
+    "nextjs",
+    "rust",
+    "nextjs15"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-20T18:02:37.048Z"
+}
