@@ -1,0 +1,26 @@
+{
+  "id": "53c589de-8504-4257-ae2e-3929034107ed",
+  "repo": "rust-unofficial/awesome-rust",
+  "url": "https://github.com/rust-unofficial/awesome-rust",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách nguồn tài liệu Rust được curate bởi cộng đồng, cung cấp các thư viện và công cụ cho lập trình hệ thống.",
+  "usecases": [
+    "Khám phá các crate Rust chất lượng cao cho các lĩnh vực web, CLI hoặc embedded",
+    "Onboard nhà phát triển mới đến Rust với lộ trình học tập có cấu trúc",
+    "Xây dựng toolchain Rust tùy chỉnh bằng cách chọn lọc các thư viện đã kiểm chứng"
+  ],
+  "ideas": [
+    "Tạo dashboard hoặc giao diện web phân loại danh sách nguồn này",
+    "Tự động hóa cập nhật và tạo báo cáo về độ phổ biến/sức khỏe của crate",
+    "Kết hợp với rust-analyzer để gợi ý thư viện trực tiếp trong IDE"
+  ],
+  "stars": 59443,
+  "starsToday": 24,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "awesome"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-20T08:25:32.758Z"
+}

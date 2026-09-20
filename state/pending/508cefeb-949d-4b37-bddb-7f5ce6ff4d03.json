@@ -1,0 +1,35 @@
+{
+  "id": "508cefeb-949d-4b37-bddb-7f5ce6ff4d03",
+  "repo": "yikart/AiToEarn",
+  "url": "https://github.com/yikart/AiToEarn",
+  "category": "Desktop App",
+  "summary": "基于 Electron + React 的跨平台桌面工具，利用 AI 自动生成文案并一键分发至抖音、快手、小红书等短视频平台，支持多账号管理与定时发布。",
+  "usecases": [
+    "自媒体运营者批量生产并分发短视频内容",
+    "MCN 机构统一管理多平台多账号发布流程",
+    "电商商家自动化推广商品视频获取流量"
+  ],
+  "ideas": [
+    "接入多模态大模型实现视频剪辑与字幕自动生成",
+    "增加数据看板对接各平台 API 实时监控播放/转化",
+    "开发插件市场支持第三方扩展新平台发布渠道"
+  ],
+  "stars": 26144,
+  "starsToday": 45,
+  "language": "TypeScript",
+  "topics": [
+    "auto-publish",
+    "douyin",
+    "electron-app",
+    "electron-react",
+    "kuaishou",
+    "tool",
+    "xiaohongshu",
+    "kwai",
+    "published",
+    "shipinhao",
+    "douyin-api"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-20T08:25:32.758Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1ab00637-e704-4f24-944d-8929a9945385",
+  "repo": "PenglongHuang/chinese-novelist-skill",
+  "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
+  "category": "AI/LLM",
+  "summary": "Kỹ năng AI viết小说 tự động sinh ra truyện Trung Quốc dài 10-50 chương bằng cách sử dụng nhiều lớp hỏi-đáp, bộ nhớ tạo suspense và tự kiểm tra, thích hợp với các coding agent phổ biến.",
+  "usecases": [
+    "Hỗ trợ nhà văn tạo bản nháp nhanh cho truyện dài hoặc serial webnovel",
+    "Giáo dục sáng tạo: sinh ra câu chuyện để học sinh phân tích cấu trúc trama",
+    "Tạo nội dung cho trò chơi nhập vai dựa trên câu chuyện được AI sinh ra"
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ nhiều ngôn ngữ ngoài Trung Quốc để phục vụ thị trường quốc tế",
+    "Kết hợp với mô hình tạo hình ảnh để minh họa tự động các chương truyện",
+    "Tích hợp với hệ thống đọc aloud để chuyển đổi truyện thành audiobook tự động"
+  ],
+  "stars": 3122,
+  "starsToday": 28,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai-fiction",
+    "ai-novel",
+    "ai-writing",
+    "chinese",
+    "chinese-novel",
+    "claude",
+    "claude-code",
+    "creative-writing",
+    "llm",
+    "novel-writing",
+    "prompt-engineering",
+    "skill",
+    "webnovel",
+    "writing-assistant"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-20T08:25:32.758Z"
+}

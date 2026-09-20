@@ -1,0 +1,23 @@
+{
+  "id": "66432a62-3259-460d-9e3c-1d0b8cbf1d1e",
+  "repo": "ZuodaoTech/everyone-can-use-english",
+  "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+  "category": "Documentation/Learning Resource",
+  "summary": "面向中文用户的系统性英语学习指南，涵盖语法、词汇、听说读写等核心板块，提供结构化学习路径与实用资源推荐。",
+  "usecases": [
+    "零基础或进阶学习者按阶段自学英语",
+    "教师或培训机构参考大纲设计课程",
+    "职场人士快速查阅商务英语常用表达"
+  ],
+  "ideas": [
+    "结合 AI 语音评测打造互动式练习小程序",
+    "接入间隔重复算法生成个性化单词复习计划",
+    "开发浏览器扩展实现网页沉浸式双语阅读"
+  ],
+  "stars": 38030,
+  "starsToday": 48,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-20T08:25:32.758Z"
+}

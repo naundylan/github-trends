@@ -1,0 +1,36 @@
+{
+  "id": "25fed04d-7787-467a-99a7-cfa37fa279d2",
+  "repo": "VectifyAI/PageIndex",
+  "url": "https://github.com/VectifyAI/PageIndex",
+  "category": "AI/LLM",
+  "summary": "Hệ thống lập chỉ mục tài liệu cho RAG dựa trên reasoning, cho phép agent LLM truy xuất và suy luận trên tài liệu mà không phụ thuộc vector database.",
+  "usecases": [
+    "Truy xuất và reasoning trên tài liệu lớn cho các ứng dụng AI agent",
+    "Xây dựng hệ thống RAG không cần vector database với chi phí thấp hơn",
+    "Hỗ trợ agent LLM truy cập và tổng hợp thông tin từ nhiều nguồn văn bản"
+  ],
+  "ideas": [
+    "Kết hợp với knowledge graph để thực hiện reasoning đa-hop trên tài liệu",
+    "Triển khai assistant tài liệu riêng tư chạy trên thiết bị local với LLM cục bộ",
+    "Sử dụng làm nền tảng cho công cụ nghiên cứu khoa học cần trích dẫn nguồn"
+  ],
+  "stars": 35766,
+  "starsToday": 24,
+  "language": "Python",
+  "topics": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "ai-agents",
+    "context-engineering",
+    "llm",
+    "rag",
+    "reasoning",
+    "retrieval",
+    "retrieval-augmented-generation",
+    "vector-database",
+    "information-retrieval"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-20T08:25:32.758Z"
+}

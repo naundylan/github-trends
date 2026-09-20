@@ -1,0 +1,44 @@
+{
+  "id": "589e3586-fae0-48d0-b772-3f2b492619ff",
+  "repo": "warp-tech/warpgate",
+  "url": "https://github.com/warp-tech/warpgate",
+  "category": "Backend Framework",
+  "summary": "Giao diện trung gian hoàn toàn minh bạch cho SSH, HTTPS, Kubernetes, cơ sở dữ liệu và RDP/VNC bastion/PAM mà không cần phần mềm khách hàng bổ sung",
+  "usecases": [
+    "Cung cấp quyền truy cập từ xa bảo mật thông qua các bastion host mà không cần ứng dụng khách hàng bổ sung",
+    "Hỗ trợ kết nối đa dịch vụ bao gồm các cluster Kubernetes và cơ sở dữ liệu",
+    "Tạo đường truyền mã hóa SSH và HTTPS cho giao tiếp an toàn giữa các môi trường khác nhau"
+  ],
+  "ideas": [
+    "Tích hợp với Kubernetes để tự động hóa việc cấp phát và quản lý bastion",
+    "Xây dựng lớp proxy thống nhất có thể xử lý đồng thời cả SSH và HTTPS",
+    "Phát triển một lớp gateway đa giao thức hỗ trợ RDP/VNC cho truy cập hệ thống cũ"
+  ],
+  "stars": 7943,
+  "starsToday": 37,
+  "language": "Rust",
+  "topics": [
+    "bastion",
+    "bastion-host",
+    "infrastructure",
+    "ssh",
+    "ssh-server",
+    "proxy",
+    "rust",
+    "https",
+    "https-proxy",
+    "mysql",
+    "mysql-proxy",
+    "postgresql-proxy",
+    "pam",
+    "privileged-access-management",
+    "kubectl",
+    "kubernetes",
+    "rdp",
+    "rdp-access",
+    "rdp-gateway",
+    "vnc-server"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-20T08:25:32.758Z"
+}

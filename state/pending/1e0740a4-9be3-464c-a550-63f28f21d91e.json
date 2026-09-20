@@ -1,0 +1,28 @@
+{
+  "id": "1e0740a4-9be3-464c-a550-63f28f21d91e",
+  "repo": "typst/typst",
+  "url": "https://github.com/typst/typst",
+  "category": "Developer Tool",
+  "summary": "Typst là hệ thống typesetting dựa trên markup, mạnh mẽ và dễ học, làm việc như một thay thế hiện đại cho LaTeX.",
+  "usecases": [
+    "Soạn thảo tài liệu học thuật, báo cáo với công thức toán học phức tạp thay thế LaTeX.",
+    "Tạo tự động hóa xuất PDF/HTML cho các dự án documentation.",
+    "Tích hợp vào các editor code (VS Code) để viết và preview tài liệu trực tiếp."
+  ],
+  "ideas": [
+    "Tạo hệ thống sinh báo cáo tự động cho doanh nghiệp dựa trên template Typst.",
+    "Kết hợp với AI để tạo nội dung tài liệu và định dạng tự động.",
+    "Phát triển plugin cho mobile để soạn thảo và xem tài liệu typesetting trên tablet."
+  ],
+  "stars": 56134,
+  "starsToday": 23,
+  "language": "Rust",
+  "topics": [
+    "typesetting",
+    "compiler",
+    "markup",
+    "typst"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-20T08:25:32.758Z"
+}

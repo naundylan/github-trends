@@ -1,0 +1,25 @@
+{
+  "id": "bf8abac1-c427-4c4a-86a0-d9b1dd46967c",
+  "repo": "EpicGames/lore",
+  "url": "https://github.com/EpicGames/lore",
+  "category": "Developer Tool",
+  "summary": "Lore là hệ thống quản lý phiên bản mã nguồn open-source tiếp theo, viết bằng Rust, hướng tới thay thế Git với thiết kế hiện đại.",
+  "usecases": [
+    "Quản lý phiên bản cho dự án phần mềm lớn với lịch sử commit nhanh và an toàn.",
+    "Tích hợp vào quy trình CI/CD để theo dõi thay đổi và phát triển branch.",
+    "Phát triển công cụ tùy chỉnh hoặc plugin cho VCS tùy chỉnh."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động tạo commit messages và phân tích thay đổi.",
+    "Sử dụng làm nền tảng cho hệ thống version control trong các môi trường không kết nối (offline-first).",
+    "Phát triển giao diện web quản lý repository dựa trên Lore backend."
+  ],
+  "stars": 8692,
+  "starsToday": 23,
+  "language": "Rust",
+  "topics": [
+    "open-source"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-20T08:25:32.758Z"
+}
