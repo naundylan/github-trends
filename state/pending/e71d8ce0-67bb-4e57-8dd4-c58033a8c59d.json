@@ -1,0 +1,26 @@
+{
+  "id": "e71d8ce0-67bb-4e57-8dd4-c58033a8c59d",
+  "repo": "guohuiyuan/go-music-dl",
+  "url": "https://github.com/guohuiyuan/go-music-dl",
+  "category": "CLI Tool",
+  "summary": "Công cụ tìm kiếm và tải nhạc dựa trên Go, hỗ trợ CLI và Web, tích hợp 10+ nền tảng nhạc chính với tìm đa nguồn và âm thanh không mất chất lượng.",
+  "usecases": [
+    "Tìm và tải nhạc từ NetEase Cloud, QQ, Bilibili v.v. qua lệnh dòng lệnh",
+    "Chế độ Web cho phép nghe trực tiếp hoặc tải qua trình duyệt cho các thiết bị không cài CLI",
+    "Tích hợp vào các script tự động hoặc các ứng dụng khác để xử lý nhạc"
+  ],
+  "ideas": [
+    "Thêm tính năng streaming trực tuyến cho các nền tảng chưa hỗ trợ",
+    "Tích hợp AI phân loại tự động thể loại/ca sĩ cho thư viện nhạc",
+    "Xây dựng dashboard đa người dùng để quản lý lịch sử tải và yêu thích"
+  ],
+  "stars": 4603,
+  "starsToday": 178,
+  "language": "Go",
+  "topics": [
+    "go",
+    "music"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-20T23:01:15.520Z"
+}

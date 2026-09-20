@@ -1,0 +1,38 @@
+{
+  "id": "4d315516-d9f7-4df1-bc18-9cf6c3eae007",
+  "repo": "browserbase/stagehand",
+  "url": "https://github.com/browserbase/stagehand",
+  "category": "AI Agent/Automation",
+  "summary": "SDK cho phép tự động hóa tương tác với trình duyệt, trích xuất dữ liệu và điều khiển trang web thông qua AI agents.",
+  "usecases": [
+    "Tự động thu thập dữ liệu từ các trang web động bằng Playwright và CDP",
+    "Tích hợp với Claude Code hoặc Mastra để tự động hóa quy trình phát triển",
+    "Tạo bot tự động test web UI trong môi trường headless"
+  ],
+  "ideas": [
+    "Xây dựng agent tự động báo cáo lỗi cho các dự án web",
+    "Kết hợp với LLM để tự động sửa lỗi UI dựa trên phản hồi người dùng",
+    "Phát triển công cụ trích xuất dữ liệu cho nghiên cứu thị trường không cần code nhiều"
+  ],
+  "stars": 24648,
+  "starsToday": 146,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "ai",
+    "playwright",
+    "ai-agents",
+    "browser-agent",
+    "browser-automation",
+    "cdp",
+    "cloud-browser",
+    "data-extraction",
+    "headless-chrome",
+    "python",
+    "typescript",
+    "web-automation",
+    "web-scraping"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-20T23:01:15.520Z"
+}

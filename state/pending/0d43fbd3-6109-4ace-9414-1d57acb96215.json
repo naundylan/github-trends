@@ -1,0 +1,23 @@
+{
+  "id": "0d43fbd3-6109-4ace-9414-1d57acb96215",
+  "repo": "diffusionstudio/editor",
+  "url": "https://github.com/diffusionstudio/editor",
+  "category": "Web Frontend",
+  "summary": "Editor video mã nguồn mở dành cho các agent, nơi các tác vụ chỉnh sửa được chuyển thành code, sau đó được render thành video.",
+  "usecases": [
+    "Tự động chỉnh sửa video cho các ứng dụng AI agent thông qua code.",
+    "Tích hợp khả năng tạo/sửa video trong luồng phát triển phần mềm.",
+    "Tạo nội dung video tự động cho dự án open-source hoặc giáo dục."
+  ],
+  "ideas": [
+    "Kết hợp với framework AI agent để tạo video tự động từ yêu cầu ngôn ngữ tự nhiên.",
+    "Phát triển plugin cho VS Code hoặc trình duyệt để edit video trực tiếp.",
+    "Sử dụng trong sản xuất media tự động cho campaign marketing hoặc giáo trình."
+  ],
+  "stars": 2979,
+  "starsToday": 81,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-20T23:01:15.520Z"
+}

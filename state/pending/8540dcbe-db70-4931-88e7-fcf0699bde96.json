@@ -1,0 +1,38 @@
+{
+  "id": "8540dcbe-db70-4931-88e7-fcf0699bde96",
+  "repo": "browser-use/browser-harness",
+  "url": "https://github.com/browser-use/browser-harness",
+  "category": "AI Agent/Automation",
+  "summary": "Self-healing harness cho phép LLMs tự động hóa và hoàn thành bất kỳ tác vụ nào trên browser, hỗ trợ kiểm soát qua CDP, Playwright và môi trường đám mây.",
+  "usecases": [
+    "Tự động hóa kiểm thử web và tương tác với giao diện người dùng thông qua LLM.",
+    "Xây dựng các bot tự động thực hiện tác vụ trên web (như điền form, đặt vé, scraping) mà không cần script cứng.",
+    "Giúp LLM 'hiểu' và điều khiển browser trong môi trường sản xuất hoặc thử nghiệm với khả năng phục hồi tự động."
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống VPS management để tự động hóa vận hành server thông qua lệnh tự nhiên.",
+    "Phát triển công cụ giáo dục/interactive storytelling nơi LLM điều khiển môi trường virtual.",
+    "Kết hợp với dữ liệu IoT để tạo các agent điều khiển thiết bị thông qua giao diện web."
+  ],
+  "stars": 17869,
+  "starsToday": 86,
+  "language": "Python",
+  "topics": [
+    "ai-agent",
+    "browser-agent",
+    "browser-automation",
+    "browser-use",
+    "cdp",
+    "cloud-browser",
+    "llm",
+    "playwright",
+    "web-automation",
+    "browser-use-box",
+    "browser-use-cloud",
+    "persistent-browser",
+    "telegram-agent",
+    "vps-agent"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-20T23:01:15.520Z"
+}

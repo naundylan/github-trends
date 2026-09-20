@@ -1,0 +1,23 @@
+{
+  "id": "7189108d-808e-4fff-84c7-09d457fd78e0",
+  "repo": "ZuodaoTech/everyone-can-use-english",
+  "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+  "category": "Web Frontend",
+  "summary": "Nền web TypeScript giúp mọi người dễ dàng học và tiếp cận tiếng English thông qua các bài tập tương tác và nội dung đa phương tiện.",
+  "usecases": [
+    "Tự học tiếng English qua các bài tập trực quan trên web",
+    "Giáo viên sử dụng làm nguồn bài tập và tài liệu hỗ trợ",
+    "Theo dõi tiến độ học tập và quản lý từ vựng cá nhân"
+  ],
+  "ideas": [
+    "Tích hợp AI tạo bài tập tùy theo trình độ người dùng",
+    "Phát triển phiên bản Progressive Web App (PWA) để dùng offline",
+    "Kết nối với ứng dụng nhớ từ khác để đồng bộ từ vựng"
+  ],
+  "stars": 38111,
+  "starsToday": 436,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-20T23:01:15.520Z"
+}

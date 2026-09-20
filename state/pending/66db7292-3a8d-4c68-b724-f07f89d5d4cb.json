@@ -1,0 +1,37 @@
+{
+  "id": "66db7292-3a8d-4c68-b724-f07f89d5d4cb",
+  "repo": "mnfst/awesome-free-llm-apis",
+  "url": "https://github.com/mnfst/awesome-free-llm-apis",
+  "category": "AI/LLM",
+  "summary": "Danh sách tổng hợp các API LLM miễn phí vĩnh viễn kèm khóa API, hỗ trợ nhiều nhà cung cấp như OpenAI, Anthropic, Gemini và Ollama. Dự án giúp dễ dàng khám phá và truy cập các mô hình ngôn ngữ lớn mà không tốn chi phí.",
+  "usecases": [
+    "Phát triển ứng dụng AI mà không cần chi phí cho API LLM thông qua các khóa API miễn phí.",
+    "Nghiên cứu và so sánh hiệu suất của các mô hình LLM khác nhau từ nhiều nhà cung cấp.",
+    "Xây dựng công cụ định tuyến LLM (LLM router) để tối ưu chi phí và hiệu năng."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ định tuyến LLM để tự động chuyển đổi giữa các API miễn phí khi một nguồn giới hạn.",
+    "Xây dựng dashboard giám sát thời gian thực cho các API LLM miễn phí, cảnh báo khi hết lượt.",
+    "Phát triển plugin trình soạn thảo mã (IDE extension) gợi ý và truy cập nhanh các API LLM miễn phí."
+  ],
+  "stars": 7944,
+  "starsToday": 138,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agents",
+    "anthropic",
+    "gemini",
+    "llm",
+    "llm-router",
+    "llm-routing",
+    "ollama",
+    "openai",
+    "openclaw",
+    "openclaw-plugin",
+    "router",
+    "awesome",
+    "awesome-list"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-20T23:01:15.520Z"
+}

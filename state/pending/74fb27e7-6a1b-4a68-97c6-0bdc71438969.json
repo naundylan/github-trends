@@ -1,0 +1,23 @@
+{
+  "id": "74fb27e7-6a1b-4a68-97c6-0bdc71438969",
+  "repo": "mihail911/modern-software-dev-assignments",
+  "url": "https://github.com/mihail911/modern-software-dev-assignments",
+  "category": "Documentation/Learning Resource",
+  "summary": "Bộ bài tập cho môn CS146S The Modern Software Dev tại Stanford, cung cấp các nhiệm vụ Python thực hành về phát triển phần mềm hiện đại.",
+  "usecases": [
+    "Sinh viên tự học và hoàn thành các bài tập về kiến trúc phần mềm hiện đại",
+    "Giảng viên sử dụng làm tài liệu tham khảo và bài tập cuối kỳ",
+    "Lập trình viên mới rèn kỹ năng thông qua các dự án thực tế"
+  ],
+  "ideas": [
+    "Xây dựng nền tảng tự động chấm bài dựa trên Python",
+    "Tích hợp AI để tự động review code và đưa ra góp ý",
+    "Phát triển dashboard theo dõi tiến độ học tập của sinh viên"
+  ],
+  "stars": 4540,
+  "starsToday": 174,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-20T23:01:15.520Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1e284663-cde5-409d-8d24-0d98783de3a0",
+  "repo": "CapSoftware/Cap",
+  "url": "https://github.com/CapSoftware/Cap",
+  "category": "Desktop App",
+  "summary": "Công cụ quay màn hình và chụp ảnh màn hình nguồn mở, làm thay thế cho Loom, hỗ trợ chia sẻ video đẹp và dễ dàng. Được xây dựng bằng Rust, Tauri, SolidJS và TypeScript, chạy trên macOS.",
+  "usecases": [
+    "Ghi lại màn hình và chia sẻ video nhanh chóng cho các buổi trình bày hoặc hướng dẫn sử dụng phần mềm.",
+    "Thay thế Loom trong môi trường doanh nghiệp để tiết kiệm chi phí đăng ký dịch vụ trả phí.",
+    "Chụp ảnh màn hình và tạo GIF hoặc video ngắn để hỗ trợ kỹ thuật hoặc đào tạo nội bộ."
+  ],
+  "ideas": [
+    "Tích hợp AI tự động chèn phụ đề hoặc tóm tắt nội dung video sau khi quay.",
+    "Mở rộng hỗ trợ đa nền tảng (Windows, Linux) và thêm tính năng biên tập video cơ bản.",
+    "Kết hợp với công cụ quản lý dự án để tự động đăng tải video hướng dẫn lên nền tảng học tập."
+  ],
+  "stars": 22572,
+  "starsToday": 103,
+  "language": "Rust",
+  "topics": [
+    "app",
+    "cap",
+    "coss",
+    "mac",
+    "open-source",
+    "oss",
+    "react",
+    "record",
+    "screen-capture",
+    "screen-recorder",
+    "screenshot",
+    "tauri",
+    "tauri-app",
+    "typescript",
+    "vite",
+    "solidjs",
+    "loom",
+    "nextjs",
+    "rust",
+    "nextjs15"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-20T23:01:15.520Z"
+}
