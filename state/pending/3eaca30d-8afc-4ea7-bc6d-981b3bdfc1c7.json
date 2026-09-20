@@ -1,0 +1,33 @@
+{
+  "id": "3eaca30d-8afc-4ea7-bc6d-981b3bdfc1c7",
+  "repo": "higgsfield-ai/higgsfield",
+  "url": "https://github.com/higgsfield-ai/higgsfield",
+  "category": "AI/LLM",
+  "summary": "Khung framework phân tán cho huấn luyện mô hình LLM quy mô tỷ số billion đến trillion, cung cấp khả năng orchestrate GPU chịu lỗi và mở rộng cao.",
+  "usecases": [
+    "Huấn luyện mô hình ngôn ngữ quy mô lớn trên nhiều GPU/cluster",
+    "Phân phối tải đào tạo AI cho doanh nghiệp với tính sẵn sàng cao",
+    "Hỗ trợ MLOps cho vòng đời mô hình từ nghiên cứu đến sản xuất"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống ghi chép phân tán để training không gián đoạn dài hạn",
+    "Phát triển plugin cho các nền tảng cloud hiện có như Kubernetes",
+    "Tạo giao diện quản lý trực quan cho việc theo dõi tiến độ training"
+  ],
+  "stars": 5306,
+  "starsToday": 461,
+  "language": "Jupyter Notebook",
+  "topics": [
+    "cluster-management",
+    "deep-learning",
+    "distributed",
+    "llama",
+    "llama2",
+    "llm",
+    "machine-learning",
+    "mlops",
+    "pytorch"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-20T20:24:01.648Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "805d778d-0095-47c1-b5c7-134a67396afe",
+  "repo": "zhouxiaoka/autoclip",
+  "url": "https://github.com/zhouxiaoka/autoclip",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ dùng AI, LLM và xử lý video để tự động phát hiện điểm nhấn, cắt và tạo video ngắn cho nhiều nền tảng. Điểm nổi bật là tự động hóa toàn bộ quy trình biến video dài thành các đoạn highlight có thể tái sử dụng.",
+  "usecases": [
+    "Tạo video ngắn từ podcast, webinar hoặc buổi quay dài cho mạng xã hội.",
+    "Tự động trích xuất các khoảnh khắc quan trọng từ video hướng dẫn hoặc khóa học.",
+    "Tối ưu video thành nhiều phiên bản cho YouTube Shorts, TikTok hoặc Reels."
+  ],
+  "ideas": [
+    "Kết hợp nhận diện thương hiệu để tự thêm logo, phụ đề và định dạng theo kênh phân phối.",
+    "Dùng phản hồi của người xem để học cách chọn thời điểm và tiêu đề tạo tương tác tốt hơn.",
+    "Tạo kho highlight có thể tìm kiếm theo chủ đề, cảm xúc hoặc diễn giả."
+  ],
+  "stars": 7851,
+  "starsToday": 325,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "ai-video",
+    "ai-video-editor",
+    "auto",
+    "auto-highlight",
+    "highlight",
+    "llm",
+    "video",
+    "video-editing",
+    "video-processing",
+    "videos"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-20T20:24:01.648Z"
+}

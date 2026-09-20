@@ -1,0 +1,23 @@
+{
+  "id": "c80f64b8-211f-497f-b1ea-abc7a0381b04",
+  "repo": "anthropics/financial-services",
+  "url": "https://github.com/anthropics/financial-services",
+  "category": "AI/LLM",
+  "summary": "Tham khảo triển khai và best practices từ Anthropic cho việc áp dụng LLM (Claude) trong ngành dịch vụ tài chính, bao gồm tuân thủ, đánh giá rủi ro và tự động hóa quy trình.",
+  "usecases": [
+    "Xây dựng chatbot hỗ trợ khách hàng tuân thủ quy định tài chính (KYC, AML, GDPR)",
+    "Tự động phân tích báo cáo tài chính, hợp đồng và tài liệu tuân thủ bằng LLM",
+    "Hệ thống đánh giá rủi ro tín dụng/đầu tư hỗ trợ bằng AI với giải thích minh bạch"
+  ],
+  "ideas": [
+    "Kết hợp với framework RAG để xây dựng knowledge base nội bộ cho bộ phận compliance",
+    "Mở rộng thành starter kit cho fintech startup cần tuân thủ từ ngày đầu",
+    "Tích hợp với công cụ giám sát giao dịch real-time để phát hiện gian lận bằng LLM"
+  ],
+  "stars": 35300,
+  "starsToday": 236,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-20T20:24:01.648Z"
+}
