@@ -1,0 +1,26 @@
+{
+  "id": "f6cda13e-940c-48ea-8003-57ed2244ca8f",
+  "repo": "fmhy/edit",
+  "url": "https://github.com/fmhy/edit",
+  "category": "Productivity/Personal Tool",
+  "summary": "Công cụ hỗ trợ chỉnh sửa và quản lý danh sách tài nguyên miễn phí của FMHY ngay trên giao diện người dùng. Dự án giúp việc đóng góp và duy trì bộ sưu tập media mã nguồn mở thuận tiện hơn.",
+  "usecases": [
+    "Thêm, chỉnh sửa hoặc loại bỏ mục trong danh sách FMHY.",
+    "Kiểm tra và chuẩn hóa thông tin tài nguyên trước khi đóng góp.",
+    "Theo dõi các thay đổi đối với bộ sưu tập tài nguyên miễn phí."
+  ],
+  "ideas": [
+    "Tích hợp xác thực liên kết và phát hiện nội dung trùng lặp khi nhập mục mới.",
+    "Hỗ trợ chỉnh sửa cộng tác với cơ chế phát hiện xung đột giữa các bản sửa đổi.",
+    "Đề xuất tài nguyên liên quan hoặc phân loại mục dựa trên nội dung hiện có."
+  ],
+  "stars": 11988,
+  "starsToday": 80,
+  "language": "JavaScript",
+  "topics": [
+    "freemediaheckyeah",
+    "fmhy"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-21T21:45:23.711Z"
+}

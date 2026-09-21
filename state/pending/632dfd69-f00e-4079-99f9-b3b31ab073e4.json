@@ -1,0 +1,31 @@
+{
+  "id": "632dfd69-f00e-4079-99f9-b3b31ab073e4",
+  "repo": "juliangarnier/anime",
+  "url": "https://github.com/juliangarnier/anime",
+  "category": "UI/Component Library",
+  "summary": "Thư viện JavaScript cung cấp động cơ animation mạnh mẽ, hỗ trợ SVG, canvas và CSS, giúp tạo ra các hiệu ứng mượt mà và trực quan.",
+  "usecases": [
+    "Tạo animation cho các trang web và ứng dụng web",
+    "Phát triển hiệu ứng UI cho game browser hoặc ứng dụng tương tác",
+    "Tối ưu hóa animation cho các thiết bị di động và desktop"
+  ],
+  "ideas": [
+    "Tích hợp với các framework như React hoặc Vue để dễ dàng sử dụng",
+    "Ứng dụng trong educational content để giải thích các khái niệm phức tạp qua animation",
+    "Kết hợp với công nghệ WebGL để nâng cao hiệu suất animation 3D"
+  ],
+  "stars": 73015,
+  "starsToday": 44,
+  "language": "JavaScript",
+  "topics": [
+    "animation",
+    "anime",
+    "javascript-library",
+    "svg",
+    "canvas",
+    "css",
+    "javascript"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-21T21:45:23.711Z"
+}

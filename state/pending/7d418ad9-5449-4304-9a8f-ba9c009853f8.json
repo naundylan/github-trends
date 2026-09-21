@@ -1,0 +1,33 @@
+{
+  "id": "7d418ad9-5449-4304-9a8f-ba9c009853f8",
+  "repo": "bendlang/bend",
+  "url": "https://github.com/bendlang/bend",
+  "category": "AI/LLM",
+  "summary": "Bend 2 là một ngôn ngữ lập trình nhanh sử dụng kiểm chứng và kiểu phụ thuộc để ngăn chặn lỗi của AI, đảm bảo tính đúng đắn cho các ứng dụng đòi hỏi tính toán cao performance và an toàn logic.",
+  "usecases": [
+    "Thực hiện tính toán song song trên GPU an toàn cho các mô hình AI.",
+    "Phát triển các ứng dụng cần chứng minh toán học như tài chính hoặc an ninh mạng.",
+    "Thay thế hoặc bổ trợ Solidity trong phát triển smart contract có kiểm chứng."
+  ],
+  "ideas": [
+    "Kết hợp với các framework AI để tạo ra các model có thể kiểm chứng tự động.",
+    "Xây dựng hệ thống biên dịch code an toàn cho các ứng dụng y tế hoặc xe tự lái.",
+    "Sử dụng trong khoa học tính toán để đảm bảo kết quả nghiên cứu không bị sai do lỗi logic."
+  ],
+  "stars": 22288,
+  "starsToday": 188,
+  "language": "TypeScript",
+  "topics": [
+    "bend",
+    "cuda",
+    "dependent-types",
+    "gpu",
+    "metal",
+    "parallel",
+    "programming-language",
+    "proof",
+    "theorem-proving"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-21T21:45:23.711Z"
+}

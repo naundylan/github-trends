@@ -1,0 +1,35 @@
+{
+  "id": "5651b604-ae57-42c8-9d8d-6840cc7fa9f1",
+  "repo": "yikart/AiToEarn",
+  "url": "https://github.com/yikart/AiToEarn",
+  "category": "AI Agent/Automation",
+  "summary": "Ứng dụng máy trạm Electron/React giúp tự động hóa việc xuất bản nội dung do AI hỗ trợ lên nhiều nền tảng xã hội. Điểm nổi bật là tích hợp các API như Douyin, Kuaishou, Xiaohongshu, Kwai và Shipinhao để hỗ trợ kiếm thu nhập từ nội dung.",
+  "usecases": [
+    "Xuất bản tự động bài viết hoặc video lên nhiều nền tảng mạng xã hội Trung Quốc.",
+    "Lập lịch và quản lý nội dung AI phục vụ hoạt động tạo doanh thu.",
+    "Tái sử dụng một nguồn nội dung cho nhiều kênh để tối đa hóa phạm vi tiếp cận."
+  ],
+  "ideas": [
+    "Tự động biến một nội dung gốc thành nhiều biến thể tối ưu riêng cho từng nền tảng.",
+    "Dùng dữ liệu hiệu quả của bài đăng để đề xuất chủ đề và lịch xuất bản tiếp theo.",
+    "Kiểm tra tự động lỗi định dạng, bản quyền và giới hạn tần suất trước khi đăng."
+  ],
+  "stars": 26268,
+  "starsToday": 93,
+  "language": "TypeScript",
+  "topics": [
+    "auto-publish",
+    "douyin",
+    "electron-app",
+    "electron-react",
+    "kuaishou",
+    "tool",
+    "xiaohongshu",
+    "kwai",
+    "published",
+    "shipinhao",
+    "douyin-api"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-21T21:45:23.711Z"
+}

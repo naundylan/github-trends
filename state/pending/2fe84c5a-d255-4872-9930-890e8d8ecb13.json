@@ -1,0 +1,30 @@
+{
+  "id": "2fe84c5a-d255-4872-9930-890e8d8ecb13",
+  "repo": "mvt-project/mvt",
+  "url": "https://github.com/mvt-project/mvt",
+  "category": "Mobile (iOS/Android)",
+  "summary": "MVT (Mobile Verification Toolkit) là bộ công cụ để thực hiện kiểm tra pháp lý trên thiết bị di động, giúp tìm phát hiện dấu hiệu xâm nhập hoặc compromise trên Android và iOS.",
+  "usecases": [
+    "Phân tích dấu hiệu xâm nhập trên thiết bị bị cướp cắp để lấy bằng chứng pháp lý.",
+    "Kiểm tra an ninh cho doanh nghiệp khi nghi ngờ thiết bị nhân viên bị compromise.",
+    "Nghiên cứu bảo mật để phát hiện malware hoặc spyware ẩn trên mobile."
+  ],
+  "ideas": [
+    "Tích hợp vào các nền tảng Phân tích Threat Intelligence tự động để cảnh báo nguy cơ.",
+    "Phát triển plugin cho các bộ quản lý thiết bị di động (MDM) để kiểm tra an ninh định kỳ.",
+    "Sử dụng trong các vụ án tính criminal để phục vụ cơ quan chức năng lấy dữ liệu pháp lý."
+  ],
+  "stars": 13535,
+  "starsToday": 177,
+  "language": "Python",
+  "topics": [
+    "forensics",
+    "mobile",
+    "security",
+    "android",
+    "ios",
+    "forensics-tools"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-09-21T21:45:23.711Z"
+}

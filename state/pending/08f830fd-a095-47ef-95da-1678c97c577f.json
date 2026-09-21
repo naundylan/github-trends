@@ -1,0 +1,23 @@
+{
+  "id": "08f830fd-a095-47ef-95da-1678c97c577f",
+  "repo": "xai-org/x-algorithm",
+  "url": "https://github.com/xai-org/x-algorithm",
+  "category": "AI/LLM",
+  "summary": "Thuật toán này động viên nội dung cho nguồn cấp dữ liệu 'For You' trên X, được phát triển bằng Rust để tối ưu hiệu suất và độ tin cậy.",
+  "usecases": [
+    "Tối ưu hóa nguồn cấp dữ liệu cá nhân hóa cho người dùng trên nền tảng xã hội",
+    "Phân tích và dự đoán hành vi người dùng để đề xuất nội dung phù hợp",
+    "Tích hợp vào hệ thống backend để cải thiện trải nghiệm người dùng"
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình machine learning khác để tăng độ chính xác đề xuất",
+    "Ứng dụng vào các nền tảng khác như TikTok hoặc YouTube để cải thiện feed",
+    "Tối ưu hóa thuật toán cho các thiết bị di động với tài nguyên hạn chế"
+  ],
+  "stars": 33339,
+  "starsToday": 45,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-21T21:45:23.711Z"
+}

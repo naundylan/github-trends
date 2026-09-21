@@ -1,0 +1,26 @@
+{
+  "id": "72ab67ad-66e6-4bd0-9495-83981272ad90",
+  "repo": "davila7/claude-code-templates",
+  "url": "https://github.com/davila7/claude-code-templates",
+  "category": "CLI Tool",
+  "summary": "Claude Code Templates là công cụ dòng lệnh giúp cấu hình, quản lý và giám sát Claude Code một cách dễ dàng trong nhiều dự án.",
+  "usecases": [
+    "Tự động hóa việc thiết lập cấu hình Claude Code trên nhiều dự án phát triển phần mềm.",
+    "Giám sát hoạt động và hiệu suất của Claude Code trong môi trường CI/CD."
+  ],
+  "ideas": [
+    "Tạo thư viện mẫu cho các quy trình phát triển phần mềm phổ biến.",
+    "Tích hợp công cụ với CI/CD pipeline để tự động hóa việc kiểm tra và triển khai."
+  ],
+  "stars": 30889,
+  "starsToday": 45,
+  "language": "Python",
+  "topics": [
+    "anthropic",
+    "anthropic-claude",
+    "claude",
+    "claude-code"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-21T21:45:23.711Z"
+}

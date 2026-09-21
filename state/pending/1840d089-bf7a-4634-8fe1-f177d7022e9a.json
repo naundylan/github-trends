@@ -1,0 +1,36 @@
+{
+  "id": "1840d089-bf7a-4634-8fe1-f177d7022e9a",
+  "repo": "paperless-ngx/paperless-ngx",
+  "url": "https://github.com/paperless-ngx/paperless-ngx",
+  "category": "Other",
+  "summary": "Paperless-ngx là hệ thống quản lý tài liệu mã nguồn mở dùng Python/Django, cho phép quét, lập chỉ mục và lưu trữ tài liệu với OCR và hỗ trợ AI/ML.",
+  "usecases": [
+    "Quản lý và lưu trữ tài liệu công nghiệp với tìm kiếm nhanh qua OCR.",
+    "Tích hợp vào quy trình tự động hóa để chuyển đổi tài liệu vật lý thành định dạng số.",
+    "Sử dụng AI/ML để phân loại và trích xuất thông tin từ các tệp PDF và hình ảnh."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ OCR khác để hỗ trợ nhận dạng handwriting.",
+    "Phát triển plugin cho các hệ thống quản lý dự án để nhập tài liệu trực tiếp.",
+    "Sử dụng LLM để tạo tóm tắt tự động cho các tài liệu được lưu."
+  ],
+  "stars": 45830,
+  "starsToday": 436,
+  "language": "Python",
+  "topics": [
+    "angular",
+    "archiving",
+    "django",
+    "dms",
+    "document-management",
+    "document-management-system",
+    "machine-learning",
+    "ocr",
+    "optical-character-recognition",
+    "pdf",
+    "ai",
+    "llm"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-21T21:45:23.711Z"
+}

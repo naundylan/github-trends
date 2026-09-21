@@ -1,0 +1,30 @@
+{
+  "id": "4c5f68bb-a4ef-48de-a81e-d06b9e7f3cd2",
+  "repo": "Jakubantalik/thinking-orbs",
+  "url": "https://github.com/Jakubantalik/thinking-orbs",
+  "category": "UI/Component Library",
+  "summary": "Thinking-orbs là thư viện UI TypeScript cung cấp các loại indicator tải hình cầu được tinh chỉnh cho giao diện AI và agent, hỗ trợ dark/light tự động.",
+  "usecases": [
+    "Hiển thị trạng thái xử lý cho các cuộc hội thoại AI hoặc agent.",
+    "Cung cấp feedback trực quan cho người dùng khi các tác vụ nền đang chạy.",
+    "Tùy chỉnh giao diện ứng dụng AI với các indicator tải theo chủ đề dark/light."
+  ],
+  "ideas": [
+    "Kết hợp với các framework AI agent để hiển thị trạng thái tư duy thực thời.",
+    "Sử dụng làm component trong các dashboard quản lý dự án phát triển phần mềm.",
+    "Tạo phiên bản tùy chỉnh cho các ứng dụng di động cross-platform."
+  ],
+  "stars": 3101,
+  "starsToday": 203,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "chat",
+    "loader",
+    "ui",
+    "ux"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-21T21:45:23.711Z"
+}
