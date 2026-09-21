@@ -1,0 +1,29 @@
+{
+  "id": "45a2f791-d9ab-4ef0-ae8e-906376d45051",
+  "repo": "krillinai/OpenCreator",
+  "url": "https://github.com/krillinai/OpenCreator",
+  "category": "AI Agent/Automation",
+  "summary": "Không gian làm việc AI mã nguồn mở dành cho nhà sáng tạo nội dung, tích hợp nhiều tác nhân để tạo và chỉnh sửa video, hình ảnh, giọng nói, avatar và phụ đề. Nổi bật ở khả năng tự động hóa quy trình sản xuất đa phương tiện, đặc biệt là lồng tiếng và bản địa hóa video.",
+  "usecases": [
+    "Tự động tạo video ngắn từ kịch bản, hình ảnh và giọng đọc AI.",
+    "Lồng tiếng và dịch video sang nhiều ngôn ngữ để mở rộng khán giả quốc tế.",
+    "Xây dựng avatar và giọng nói nhân vật cho nội dung giáo dục hoặc marketing."
+  ],
+  "ideas": [
+    "Kết hợp nhiều tác nhân thành dây chuyền tự động từ nghiên cứu chủ đề, viết kịch bản đến xuất bản video.",
+    "Thêm tác nhân kiểm tra bản quyền âm nhạc, hình ảnh và độ chính xác của phụ đề.",
+    "Tích hợp lịch mạng xã hội để tạo nhiều phiên bản nội dung phù hợp từng nền tảng."
+  ],
+  "stars": 12035,
+  "starsToday": 263,
+  "language": "TypeScript",
+  "topics": [
+    "video-transcription",
+    "video-translation",
+    "dubbing",
+    "localization",
+    "tts"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-21T15:44:42.560Z"
+}

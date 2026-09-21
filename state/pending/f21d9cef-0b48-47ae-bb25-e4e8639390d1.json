@@ -1,0 +1,37 @@
+{
+  "id": "f21d9cef-0b48-47ae-bb25-e4e8639390d1",
+  "repo": "virgiliojr94/book-to-skill",
+  "url": "https://github.com/virgiliojr94/book-to-skill",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ biến sách kỹ thuật dạng PDF thành kỹ năng Claude Code có cấu trúc để học, tra cứu và sử dụng trong quá trình làm việc. Dự án kết hợp xử lý tài liệu, RAG và kỹ thuật tối ưu ngữ cảnh nhằm đưa tri thức từ sách vào luồng hỗ trợ của tác nhân AI.",
+  "usecases": [
+    "Chuyển tài liệu kỹ thuật thành kỹ năng tham chiếu cho Claude Code trong dự án lập trình.",
+    "Tự xây dựng bộ tài liệu học tập có khả năng tìm kiếm từ sách PDF cá nhân.",
+    "Cung cấp ngữ cảnh chuyên môn cho tác nhân AI khi phân tích, viết hoặc kiểm thử mã."
+  ],
+  "ideas": [
+    "Tạo kho kỹ năng dùng chung cho cả nhóm từ bộ tài liệu kiến trúc và quy chuẩn nội bộ.",
+    "Kết hợp câu hỏi tự kiểm tra và lộ trình học cá nhân hóa từ nội dung sách.",
+    "Đồng bộ kỹ năng với tài liệu nguồn để tự động cập nhật khi sách hoặc tiêu chuẩn thay đổi."
+  ],
+  "stars": 31793,
+  "starsToday": 242,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "context-engineering",
+    "document-processing",
+    "edtech",
+    "knowledge-base",
+    "knowledge-management",
+    "llm",
+    "pdf-to-markdown",
+    "rag",
+    "self-study",
+    "study-tools",
+    "book-to-skill"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-21T15:44:42.560Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "aa40152a-4174-4129-b45c-d6aa4e1012ea",
+  "repo": "Leonxlnx/taste-skill",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "category": "AI Agent/Automation",
+  "summary": "Taste-Skill giúp AI có 'hương vị' tốt, ngăn chặn nội dunggeneric và nâng cao chất lượng code/thiết kế.",
+  "usecases": [
+    "Tự động cải thiện chất lượng code tạo ra bởi AI agents như Claude, Codex.",
+    "Hỗ trợ các dự án low-code/no-code tạo giao diện có style nhất quán.",
+    "Tăng tính thẩm mỹ và tính năng cho đầu ra của các hệ thống AI tạo code."
+  ],
+  "ideas": [
+    "Kết hợp với IDE để gợi ý code có style dựa trên ngữ cảnh dự án hiện tại.",
+    "Tạo plugin tự động đánh giá và sửa đổi output của AI để đạt chuẩn 'taste'.",
+    "Áp dụng vào hệ thống nội dung tự động để lọc và nâng cấp các đoạn code/thiết kế xuất sắc."
+  ],
+  "stars": 88979,
+  "starsToday": 274,
+  "language": "JavaScript",
+  "topics": [
+    "agent",
+    "ai",
+    "coding",
+    "lowcode",
+    "nocode",
+    "skill",
+    "skills",
+    "vibecoding",
+    "claude",
+    "claude-code",
+    "codex",
+    "design",
+    "frontend"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-21T15:44:42.560Z"
+}

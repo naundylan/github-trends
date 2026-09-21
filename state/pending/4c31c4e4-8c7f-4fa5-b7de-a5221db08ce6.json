@@ -1,0 +1,21 @@
+{
+  "id": "4c31c4e4-8c7f-4fa5-b7de-a5221db08ce6",
+  "repo": "agent-substrate/substrate",
+  "url": "https://github.com/agent-substrate/substrate",
+  "category": "Other",
+  "summary": "Agent Substrate: the core system",
+  "usecases": [
+    "Khám phá và đánh giá agent-substrate/substrate cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 2508,
+  "starsToday": 438,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-21T15:44:42.560Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3fb44996-6bc2-41e2-accc-bfe64a0a65fe",
+  "repo": "anthropics/financial-services",
+  "url": "https://github.com/anthropics/financial-services",
+  "category": "AI/LLM",
+  "summary": "Dự án Python cung cấp các dịch vụ và công cụ tự động hóa cho lĩnh vực tài chính, tận dụng khả năng xử lý ngôn ngữ lớn (LLM) để hỗ trợ phân tích và xử lý dữ liệu tài chính.",
+  "usecases": [
+    "Tự động hóa báo cáo tài chính định kỳ",
+    "Phân tích xu hướng thị trường tài chính bằng AI",
+    "Hỗ trợ giao dịch và quản lý portfólio thông minh"
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu thời thực để đưa ra quyết định đầu tư",
+    "Tạo chatbot tư vấn tài chính cá nhân",
+    "Tích hợp nhiều mô hình LLM để so sánh kết quả"
+  ],
+  "stars": 35674,
+  "starsToday": 425,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-21T15:44:42.560Z"
+}

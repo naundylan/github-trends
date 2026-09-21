@@ -1,0 +1,37 @@
+{
+  "id": "89a445cc-2f35-4e50-8cde-779616e34db5",
+  "repo": "zhouxiaoka/autoclip",
+  "url": "https://github.com/zhouxiaoka/autoclip",
+  "category": "Computer Vision",
+  "summary": "AutoClip sử dụng AI để tự động cắt đoạn và tạo highlight từ video, tối ưu hóa quy trình chỉnh sửa.",
+  "usecases": [
+    "Tự động tạo highlight cho các trận đấu thể thao và video sự kiện.",
+    "Giúp creators và marketer tiết kiệm thời gian cắt dựng video cho mạng xã hội.",
+    "Trích xuất các đoạn thiết yếu từ bài giảng hoặc video dài trong giáo dục."
+  ],
+  "ideas": [
+    "Kết hợp nhận dạng giọng nói để tạo highlight theo cảm xúc hoặc từ khóa cụ thể.",
+    "Tự động điều chỉnh định dạng video cho nhiều nền tảng (Shorts, Reels, TikTok) cùng một lúc.",
+    "Xây dựng hệ thống phân loại và tìm kiếm video dựa trên nội dung highlight tự động."
+  ],
+  "stars": 8078,
+  "starsToday": 266,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "ai-video",
+    "ai-video-editor",
+    "auto",
+    "auto-highlight",
+    "highlight",
+    "llm",
+    "video",
+    "video-editing",
+    "video-processing",
+    "videos"
+  ],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-09-21T15:44:42.560Z"
+}
