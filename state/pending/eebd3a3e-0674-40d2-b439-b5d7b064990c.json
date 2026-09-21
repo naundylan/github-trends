@@ -1,0 +1,30 @@
+{
+  "id": "eebd3a3e-0674-40d2-b439-b5d7b064990c",
+  "repo": "Open-Dev-Society/OpenStock",
+  "url": "https://github.com/Open-Dev-Society/OpenStock",
+  "category": "Web Frontend",
+  "summary": "Nền tảng web nguồn mở theo dõi giá thị trường, gửi cảnh báo cá nhân hóa và cung cấp thông tin doanh nghiệp. Dự án hướng tới một lựa chọn minh bạch, miễn phí thay thế các nền tảng tài chính trả phí.",
+  "usecases": [
+    "Theo dõi biến động giá cổ phiếu và danh sách quan sát theo thời gian thực.",
+    "Thiết lập cảnh báo giá hoặc điều kiện thị trường phù hợp với từng nhà đầu tư.",
+    "Nghiên cứu hồ sơ và các chỉ số công ty trước khi đưa ra quyết định đầu tư."
+  ],
+  "ideas": [
+    "Kết hợp tóm tắt tin tức và báo cáo tài chính bằng AI cho từng cổ phiếu.",
+    "Thêm mô phỏng danh mục và backtesting chiến lược ngay trên giao diện web.",
+    "Xây dựng danh sách theo dõi cộng đồng kèm thảo luận và chia sẻ kịch bản đầu tư."
+  ],
+  "stars": 16899,
+  "starsToday": 755,
+  "language": "TypeScript",
+  "topics": [
+    "coderabbit",
+    "inngest",
+    "nextjs",
+    "shadcn-ui",
+    "stock-market",
+    "tailwindcss"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-21T02:56:36.954Z"
+}

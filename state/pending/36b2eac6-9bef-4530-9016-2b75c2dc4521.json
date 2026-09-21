@@ -1,0 +1,33 @@
+{
+  "id": "36b2eac6-9bef-4530-9016-2b75c2dc4521",
+  "repo": "higgsfield-ai/higgsfield",
+  "url": "https://github.com/higgsfield-ai/higgsfield",
+  "category": "AI/LLM",
+  "summary": "Higgsfield là nền tảng điều phối GPU chịu lỗi và framework học máy được thiết kế để huấn luyện các mô hình có hàng tỷ đến hàng nghìn tỷ tham số, hỗ trợ phân tán quy mô lớn với PyTorch.",
+  "usecases": [
+    "Huấn luyện mô hình LLM quy mô lớn (billions đến trillions parameters) trên cụm GPU phân tán.",
+    "Quản lý và điều phối tài nguyên GPU trong cụm máy chủ với khả năng chịu lỗi.",
+    "Triển khai pipeline MLOps cho việc huấn luyện và giám sát mô hình deep learning quy mô lớn."
+  ],
+  "ideas": [
+    "Tích hợp Higgsfield làm backend huấn luyện cho các ứng dụng fine-tune mô hình Llama/Llama2 trên hạ tầng cloud.",
+    "Kết hợp Higgsfield với hệ thống serving để tạo vòng đời hoàn chỉnh từ huấn luyện đến triển khai mô hình LLM.",
+    "Sử dụng Higgsfield làm nền tảng cho nghiên cứu AI quy mô lớn tại các trường đại học hoặc viện nghiên cứu."
+  ],
+  "stars": 5415,
+  "starsToday": 465,
+  "language": "Jupyter Notebook",
+  "topics": [
+    "cluster-management",
+    "deep-learning",
+    "distributed",
+    "llama",
+    "llama2",
+    "llm",
+    "machine-learning",
+    "mlops",
+    "pytorch"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-21T02:56:36.954Z"
+}

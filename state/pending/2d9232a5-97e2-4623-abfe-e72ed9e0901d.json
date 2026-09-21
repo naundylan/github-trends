@@ -1,0 +1,37 @@
+{
+  "id": "2d9232a5-97e2-4623-abfe-e72ed9e0901d",
+  "repo": "zhouxiaoka/autoclip",
+  "url": "https://github.com/zhouxiaoka/autoclip",
+  "category": "AI/LLM",
+  "summary": "AutoClip là công cụ AI-powered tự động trích xuất các đoạn video nổi bật (highlight) và tạo bản剪辑 thông minh từ video thô, hỗ trợ người dùng nhanh chóng tạo ra các đoạn video ngắn chất lượng cao.",
+  "usecases": [
+    "Tự động tạo các đoạn highlight từ video thể thao, sự kiện hoặc gameplay để chia sẻ trên mạng xã hội.",
+    "Hỗ trợ người sáng tạo nội dung (content creator) nhanh chóng biên tập và cắt ghép video từ lượng lớn footage.",
+    "Tự động hóa quy trình biên tập video cho các kênh tin tức hoặc tường thuật sự kiện."
+  ],
+  "ideas": [
+    "Tích hợp AutoClip vào nền tảng quản lý video để tự động sinh ra các đoạn trailer hoặc teaser từ video dài.",
+    "Kết hợp AutoClip với hệ thống recommendation engine để gợi ý các highlight phù hợp với sở thích người xem.",
+    "Mở rộng AutoClip sang lĩnh vực giáo dục bằng cách tự động trích xuất các đoạn giảng dạy quan trọng từ bài giảng video dài."
+  ],
+  "stars": 7911,
+  "starsToday": 395,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "ai-video",
+    "ai-video-editor",
+    "auto",
+    "auto-highlight",
+    "highlight",
+    "llm",
+    "video",
+    "video-editing",
+    "video-processing",
+    "videos"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-21T02:56:36.954Z"
+}

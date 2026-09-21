@@ -1,0 +1,28 @@
+{
+  "id": "4ed42155-def1-4741-8ce5-b0ce159e2138",
+  "repo": "ahmedkhaleel2004/gitdiagram",
+  "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+  "category": "Developer Tool",
+  "summary": "Dự án TypeScript tạo ra các bản đồ tương tác miễn phí và nhanh chóng cho bất kỳ repository GitHub nào, giúp trực quan hóa cấu trúc mã và mối quan hệ giữa các thành phần",
+  "usecases": [
+    "Phân tích cấu trúc codebase cho nhà phát triển mới gia nhập dự án",
+    "Trực quan hóa phụ thuộc và mối quan hệ giữa các module trong dự án lớn",
+    "Sử dụng trong bài thuyết trình hoặc tài liệu để giới thiệu kiến trúc phần mềm"
+  ],
+  "ideas": [
+    "Tích hợp với CI/CD để tự động tạo diagram mỗi khi có commit mới",
+    "Phát triển extension cho VS Code hiển thị diagram trực tiếp trong editor",
+    "Cho phép so sánh diagram giữa các branch hoặc tag khác nhau"
+  ],
+  "stars": 16785,
+  "starsToday": 118,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "github",
+    "system-design",
+    "code"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-21T02:56:36.954Z"
+}

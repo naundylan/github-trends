@@ -1,0 +1,42 @@
+{
+  "id": "4aa224e3-11c9-46dd-81bd-880083f5861c",
+  "repo": "trycua/cua",
+  "url": "https://github.com/trycua/cua",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng nguồn mở để vận hành và mở rộng các agent điều khiển máy tính trên nhiều hệ điều hành. Dự án cung cấp driver, môi trường ảo hóa, benchmark và công cụ tạo dữ liệu cho huấn luyện, đánh giá computer-use agents.",
+  "usecases": [
+    "Tự động hóa tác vụ desktop lặp lại trên macOS và Windows.",
+    "Huấn luyện và đánh giá agent computer-use bằng benchmark thống nhất.",
+    "Vận hành hàng loạt agent trong fleet đa nền tảng để thu thập dữ liệu tương tác."
+  ],
+  "ideas": [
+    "Kết hợp agent với phê duyệt theo từng bước để tự động xử lý quy trình nghiệp vụ an toàn hơn.",
+    "Xây dựng bộ dữ liệu tương tác máy tính theo ngành từ các task được ghi lại và ẩn danh.",
+    "Tích hợp giám sát chi phí, tỷ lệ thành công và phát hiện hành vi rủi ro theo thời gian thực."
+  ],
+  "stars": 25206,
+  "starsToday": 1018,
+  "language": "HTML",
+  "topics": [
+    "apple",
+    "cua",
+    "lume",
+    "macos",
+    "virtualization",
+    "virtualization-framework",
+    "swift",
+    "ai-agent",
+    "computer-use",
+    "manus",
+    "operator",
+    "agent",
+    "containerization",
+    "windows",
+    "windows-sandbox",
+    "hacktoberfest",
+    "computer-use-agent",
+    "desktop-automation"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-21T02:56:36.954Z"
+}

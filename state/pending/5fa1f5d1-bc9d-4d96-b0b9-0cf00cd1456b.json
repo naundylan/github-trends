@@ -1,0 +1,30 @@
+{
+  "id": "5fa1f5d1-bc9d-4d96-b0b9-0cf00cd1456b",
+  "repo": "FareedKhan-dev/train-llm-from-scratch",
+  "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+  "category": "AI/LLM",
+  "summary": "Một phương pháp trực tiếp để huấn luyện mô hình LLM từ đầu, bao gồm tải dữ liệu cho đến khi sinh văn bản.",
+  "usecases": [
+    "Huấn luyện mô hình ngôn ngữ riêng cho doanh nghiệp hoặc dự án cụ thể.",
+    "Nghiên cứu và phát triển các mô hình LLM tùy chỉnh với dữ liệu riêng.",
+    "Tạo ra các chatbot hoặc trợ lý ảo dựa trên mô hình đã huấn luyện."
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu đa ngôn ngữ để tạo LLM hỗ trợ tiếng Việt và tiếng Anh.",
+    "Tối ưu hóa quy trình huấn luyện bằng cách sử dụng các kỹ thuật quantization và distributed training.",
+    "Tạo một giao diện web đơn giản để theo dõi tiến độ huấn luyện và sinh văn bản."
+  ],
+  "stars": 10394,
+  "starsToday": 265,
+  "language": "Python",
+  "topics": [
+    "gemini",
+    "large-language-models",
+    "llm",
+    "openai",
+    "training",
+    "transformers"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-21T02:56:36.954Z"
+}
