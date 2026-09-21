@@ -1,0 +1,44 @@
+{
+  "id": "05eb5775-cfeb-43a4-866f-326c0afc40ab",
+  "repo": "akiralereal/iptv",
+  "url": "https://github.com/akiralereal/iptv",
+  "category": "Other",
+  "summary": "Hệ thống IPTV tự hosting tích hợp 800+ kênh ổn định, cung cấp quản lý nguồn, EPG và giao diện GUI, hỗ trợ Docker và Node.js cho NAS/Server gia đình.",
+  "usecases": [
+    "Quản lý và phát kênh TV live qua mạng nội bộ cho gia đình.",
+    "Tích hợp và đồng bộ playlist M3U/M3U8 từ các nguồn Bilibili, Douyu, Huya và tự định nghĩa.",
+    "Cung cấp bảng điều khiển trực quan để phân phối nội dung live cho nhiều thiết bị."
+  ],
+  "ideas": [
+    "Kết hợp với Home Assistant để tự động hóa điều khiển IPTV theo lịch trình hoặc giọng nói.",
+    "Phát triển plugin đồng bộ kênh với các ứng dụng TV thông minh.",
+    "Xây dựng báo cáo xem live real-time dựa trên truy cập kênh."
+  ],
+  "stars": 807,
+  "starsToday": 27,
+  "language": "JavaScript",
+  "topics": [
+    "iptv",
+    "iptv-channels",
+    "iptv-free",
+    "iptv-links",
+    "iptv-m3u",
+    "iptv-m3u8",
+    "iptv-playlist",
+    "bilibili",
+    "bilibili-live",
+    "migu",
+    "epg",
+    "live",
+    "live-tv",
+    "livetv",
+    "m3u",
+    "m3u8",
+    "nas",
+    "cctv",
+    "iptv-live",
+    "yangshipin"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-21T08:42:37.165Z"
+}

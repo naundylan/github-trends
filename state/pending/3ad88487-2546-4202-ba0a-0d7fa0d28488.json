@@ -1,0 +1,30 @@
+{
+  "id": "3ad88487-2546-4202-ba0a-0d7fa0d28488",
+  "repo": "smol-machines/smolvm",
+  "url": "https://github.com/smol-machines/smolvm",
+  "category": "AI Agent/Automation",
+  "summary": "SmolVM là virtual machine nhúng, portable và hỗ trợ branch, dùng để chạy agents an toàn trên máy tính local bằng Rust.",
+  "usecases": [
+    "Chạy AI agents trong môi trường sandbox an toàn",
+    "Phân nhánh trạng thái VM để thử nghiệm workflow agents",
+    "Nhúng VM vào ứng dụng desktop để tự động hóa tác vụ"
+  ],
+  "ideas": [
+    "Kết hợp local LLMs tạo agent có trạng thái nhánh",
+    "Sử dụng격리 code execution không đáng tin cậy",
+    "Hệ thống multi-agent coordination qua state branching"
+  ],
+  "stars": 6209,
+  "starsToday": 45,
+  "language": "Rust",
+  "topics": [
+    "containers",
+    "crun",
+    "libkrun",
+    "microvm",
+    "rust",
+    "virtual-machine"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-21T08:42:37.165Z"
+}

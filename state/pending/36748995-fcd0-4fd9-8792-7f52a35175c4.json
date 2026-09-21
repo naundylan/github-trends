@@ -1,0 +1,30 @@
+{
+  "id": "36748995-fcd0-4fd9-8792-7f52a35175c4",
+  "repo": "atuinsh/atuin",
+  "url": "https://github.com/atuinsh/atuin",
+  "category": "CLI Tool",
+  "summary": "Atuin là công cụ shell enhancement bằng Rust, cung cấp giao diện quản lý lịch sử lệnh thông minh với khả năng sync đám mây, thay thế shell history truyền thống của bash, zsh, fish.",
+  "usecases": [
+    "Quản lý và tìm kiếm lịch sử lệnh với giao diện thân thiện thay vì chỉ dùng arrow keys",
+    "Sync lịch sử lệnh giữa nhiều thiết bị khác nhau qua cloud services",
+    "Tìm kiếm nhanh lệnh cũ dựa trên nội dung, ngày tháng hoặc flag"
+  ],
+  "ideas": [
+    "Tích hợp Atuin vào môi trường phát triển team để chia sẻ câu lệnh hữu ích",
+    "Kết hợp với AI assistant để gợi ý câu lệnh dựa trên lịch sử người dùng",
+    "Sử dụng Atuin như một công cụ debug để phân tích quy trình làm việc qua lịch sử lệnh"
+  ],
+  "stars": 31772,
+  "starsToday": 44,
+  "language": "Rust",
+  "topics": [
+    "shell",
+    "rust",
+    "zsh",
+    "history",
+    "fish",
+    "bash"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-21T08:42:37.165Z"
+}

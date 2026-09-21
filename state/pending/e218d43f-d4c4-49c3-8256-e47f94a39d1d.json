@@ -1,0 +1,36 @@
+{
+  "id": "e218d43f-d4c4-49c3-8256-e47f94a39d1d",
+  "repo": "paperless-ngx/paperless-ngx",
+  "url": "https://github.com/paperless-ngx/paperless-ngx",
+  "category": "AI/LLM",
+  "summary": "Hệ thống quản lý tài liệu mã nguồn mở sử dụng AI và OCR để quét, lập индекс và lưu trữ tài liệu, tự động hóa việc chuyển đổi tài liệu vật lý sang định dạng số可搜索.",
+  "usecases": [
+    "Quản lý và tìm kiếm tài liệu công việc cho doanh nghiệp",
+    "Trích xuất thông tin tự động từ hóa đơn và hợp đồng bằng OCR",
+    "Tìm kiếm nội dung trong tài liệu quét bằng từ khóa nhờ lập индекс AI"
+  ],
+  "ideas": [
+    "Kết nối với Zapier hoặc Make để tự động hóa workflow xử lý tài liệu",
+    "Phát triển plugin xuất tài liệu sang PDF/A cho mục đích bảo quản lâu dài",
+    "Sử dụng LLM để tóm tắt nội dung tài liệu và tạo tag tự động"
+  ],
+  "stars": 45729,
+  "starsToday": 57,
+  "language": "Python",
+  "topics": [
+    "angular",
+    "archiving",
+    "django",
+    "dms",
+    "document-management",
+    "document-management-system",
+    "machine-learning",
+    "ocr",
+    "optical-character-recognition",
+    "pdf",
+    "ai",
+    "llm"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-21T08:42:37.164Z"
+}

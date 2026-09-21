@@ -1,0 +1,30 @@
+{
+  "id": "efcb3054-d75d-43a1-bb19-e0c3c3bd9b56",
+  "repo": "screego/server",
+  "url": "https://github.com/screego/server",
+  "category": "Developer Tool",
+  "summary": "Dịch vụ chia sẻ màn hình cho lập trình viên dựa trên WebRTC, cho phép truy cập và kiểm soát máy tính từ xa an toàn, mã nguồn mở và có thể self-hosted.",
+  "usecases": [
+    "Hỗ trợ kỹ thuật từ xa cho đội ngũ phát triển phần mềm",
+    "Pair programming trực tiếp giữa các thành viên không cùng địa điểm",
+    "Demo ứng dụng hoặc giao diện từ môi trường local cho khách hàng"
+  ],
+  "ideas": [
+    "Tích hợp xác thực hai yếu tố (2FA) và quyền truy cập theo role cho các phòng làm việc lớn",
+    "Phát triển ứng dụng di động kết nối với server Go này để chia sẻ màn hình từ phone/tablet",
+    "Thêm tính năng ghi lại phiên chia sẻ màn hình để review hoặc training sau này"
+  ],
+  "stars": 10684,
+  "starsToday": 49,
+  "language": "Go",
+  "topics": [
+    "webrtc",
+    "screensharing-tool",
+    "privacy",
+    "selfhosted",
+    "docker",
+    "go"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-21T08:42:37.165Z"
+}

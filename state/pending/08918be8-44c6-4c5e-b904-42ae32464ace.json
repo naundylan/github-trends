@@ -1,0 +1,36 @@
+{
+  "id": "08918be8-44c6-4c5e-b904-42ae32464ace",
+  "repo": "lahfir/agent-desktop",
+  "url": "https://github.com/lahfir/agent-desktop",
+  "category": "Desktop App",
+  "summary": "Agent Desktop là nền tảng cho phép AI agents điều khiển máy tính qua accessibility trees, cung cấp giao diện ứng dụng đáng tin cậy cho computer use agents với hỗ trợ macOS và Rust.",
+  "usecases": [
+    "Cho phép AI agents tương tác với bất kỳ ứng dụng nào trên desktop thông qua accessibility APIs thay vì xử lý ảnh",
+    "Cung cấp giao diện điều khiển và giám sát cho các agent làm việc trên máy tính cá nhân",
+    "Tạo môi trường automation an toàn với khả năng retry action và refs ổn định"
+  ],
+  "ideas": [
+    "Xây dựng AI assistant cá nhân hóa để tự động hóa quy trình công việc lặp lại trên desktop",
+    "Kết hợp với các nền tảng AI để tạo sản phẩm demo tương tác trực tiếp với giao diện người dùng",
+    "Phát triển hệ thống giáo dục AI agents để học tập và thực hành với các ứng dụng desktop khác nhau"
+  ],
+  "stars": 1369,
+  "starsToday": 43,
+  "language": "Rust",
+  "topics": [
+    "accessibility",
+    "accessibility-api",
+    "ai-agents",
+    "automation",
+    "cli",
+    "desktop-automation",
+    "macos",
+    "mcp",
+    "rust",
+    "computer-use",
+    "computer-use-agent",
+    "computer-use-agents"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-21T08:42:37.165Z"
+}

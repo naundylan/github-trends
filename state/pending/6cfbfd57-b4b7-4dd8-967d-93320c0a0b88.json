@@ -1,0 +1,22 @@
+{
+  "id": "6cfbfd57-b4b7-4dd8-967d-93320c0a0b88",
+  "repo": "xai-org/x-algorithm",
+  "url": "https://github.com/xai-org/x-algorithm",
+  "category": "Machine Learning",
+  "summary": "Thuật toán cốt lõi xếp hạng và đề xuất nội dung cho bảng feed 'For You' trên mạng xã hội X, được viết bằng Rust để tối ưu hiệu năng xử lý dữ liệu lớn.",
+  "usecases": [
+    "Xây dựng hệ thống đề xuất nội dung (recommendation engine) cho các nền tảng xã hội hoặc chia sẻ video.",
+    "Xếp thứ tự bài đăng trong feed dựa trên hành vi tương tác và sở thích của người dùng.",
+    "Xử lý luồng dữ liệu recommendation real-time với độ trễ cực kỳ thấp."
+  ],
+  "ideas": [
+    "Áp dụng mô hình tương tự cho các hệ thống thương mại điện tử để cá nhân hóa đề xuất sản phẩm.",
+    "Kết hợp với các mô hình xử lý ngôn ngữ tự nhiên (NLP) để đánh giá cảm xúc và tăng tính liên quan của nội dung đề xuất."
+  ],
+  "stars": 33317,
+  "starsToday": 29,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-09-21T08:42:37.165Z"
+}

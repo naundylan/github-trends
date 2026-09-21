@@ -1,0 +1,23 @@
+{
+  "id": "7d5d8ff7-9a90-4e42-88ff-e4ecff1f3533",
+  "repo": "cloudflare/mcp-server-cloudflare",
+  "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+  "category": "Serverless",
+  "summary": "MCP Server cho Cloudflare Workers, cho phép thực hiện Model Context Protocol tại biên (edge) với môi trường serverless, hỗ trợ kết nối LLMs và các dịch vụ Cloudflare một cách hiệu quả.",
+  "usecases": [
+    "Chạy inference LLM tại edge để giảm latency",
+    "Tích hợp AI agents với Workers API",
+    "Deploy model serving không cần quản lý server"
+  ],
+  "ideas": [
+    "Kết hợp Workers AI cho inference phân tán",
+    "Tạo pipeline tự động deploy sang edge",
+    "Sử dụng cho ứng dụng real-time cần response tức thì"
+  ],
+  "stars": 4262,
+  "starsToday": 46,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Serverless.md",
+  "createdAt": "2026-09-21T08:42:37.165Z"
+}
