@@ -1,0 +1,23 @@
+{
+  "id": "6a488750-4f2b-4022-87bb-daadc99852f3",
+  "repo": "larksuite/cli",
+  "url": "https://github.com/larksuite/cli",
+  "category": "CLI Tool",
+  "summary": "Lark CLI là công cụ dòng lệnh chính thức của Lark/飞书, cung cấp hơn 200 lệnh và 20+ kỹ năng AI Agent để quản lý các dịch vụ như Messenger, Docs, Calendar, Mail, v.v.",
+  "usecases": [
+    "Quản lý tin nhắn, tài liệu và lịch trong Lark",
+    "Tự động hoá các quy trình làm việc bằng các lệnh CLI",
+    "Tích hợp AI Agent để thực hiện tác vụ qua dòng lệnh"
+  ],
+  "ideas": [
+    "Xây dựng bot AI tự động trả lời tin nhắn trên Lark",
+    "Kết nối Lark CLI với GitHub Actions để tự động triển khai tài liệu",
+    "Tạo giao diện CLI cho các dịch vụ AI như ChatGPT trong Lark"
+  ],
+  "stars": 17389,
+  "starsToday": 34,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-22T08:22:58.405Z"
+}

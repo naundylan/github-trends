@@ -1,0 +1,28 @@
+{
+  "id": "8cfd9155-2022-4726-a393-11a62eab87c7",
+  "repo": "elvisun/newsjack",
+  "url": "https://github.com/elvisun/newsjack",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ mã nguồn mở giúp nâng cấp agent để hoạt động như một đội ngũ PR hoàn chỉnh cho marketing và sản xuất nội dung.",
+  "usecases": [
+    "Tự động tạo và đăng bài viết marketing cho các nền tảng xã hội.",
+    "Giúp agent nghiên cứu xu hướng và tạo nội pitch/press release một cách tự động.",
+    "Tối ưu quy trình PR nội bộ cho startup hoặc dự án open-source."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tạo nội dung báo chí tùy theo phong cách thương hiệu.",
+    "Triển khai làm một worker tự động theo lịch để theo dõi tin tức và tạo báo cáo hàng ngày.",
+    "Mở rộng để agent quản lý đa kênh truyền thông cùng lúc với phân tích hiệu quả."
+  ],
+  "stars": 1299,
+  "starsToday": 29,
+  "language": "Go",
+  "topics": [
+    "agents",
+    "marketing",
+    "productivity",
+    "skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-22T08:22:58.405Z"
+}

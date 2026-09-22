@@ -1,0 +1,39 @@
+{
+  "id": "185ec435-c1fe-45af-b643-be15fb45bd2c",
+  "repo": "caddyserver/caddy",
+  "url": "https://github.com/caddyserver/caddy",
+  "category": "Other",
+  "summary": "Caddy là một server HTTP/HTTPS đa nền tảng, tự động cấp HTTPS và hỗ trợ HTTP/2, HTTP/3, cho phép triển khai và quản lý web service một cách nhanh chóng và an toàn.",
+  "usecases": [
+    "Hosting static and dynamic websites with automatic TLS",
+    "Acting as a reverse proxy for microservices",
+    "Managing server configuration via Caddyfile"
+  ],
+  "ideas": [
+    "Use Caddy as a reverse proxy for AI inference servers with automatic HTTPS",
+    "Combine Caddy with Terraform for infrastructure as code web environments",
+    "Create a Caddy plugin for Prometheus monitoring integration"
+  ],
+  "stars": 75961,
+  "starsToday": 36,
+  "language": "Go",
+  "topics": [
+    "go",
+    "web-server",
+    "caddyfile",
+    "http",
+    "http-server",
+    "reverse-proxy",
+    "https",
+    "tls",
+    "automatic-https",
+    "privacy",
+    "security",
+    "acme",
+    "caddy",
+    "golang",
+    "http3"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-22T08:22:58.405Z"
+}

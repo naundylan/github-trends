@@ -1,0 +1,23 @@
+{
+  "id": "d6abe116-2685-4fbc-8c39-18cd5d66d7fc",
+  "repo": "Diolinux/PhotoGIMP",
+  "url": "https://github.com/Diolinux/PhotoGIMP",
+  "category": "Desktop App",
+  "summary": "PhotoGIMP là patch cho GIMP 3+, tái thiết kế giao diện và công cụ để trải nghiệm giống Photoshop, giúp người dùng chuyển đổi mượt mà.",
+  "usecases": [
+    "Sử dụng GIMP với giao diện quen thuộc của Photoshop để thiết kế đồ họa và chỉnh sửa ảnh.",
+    "Giáo viên và sinh viên dùng để học Photoshop techniques trên nền tảng mã nguồn mở GIMP.",
+    "Nhóm thiết kế dùng patch này duy trì quy trình làm việc cũ mà không cần trả phí licencia Photoshop."
+  ],
+  "ideas": [
+    "Tích hợp thêm chủ đề tối/sáng và phím tắt Photoshop khác thông qua cập nhật patch tiếp theo.",
+    "Phát triển plugin cho GIMP tự động chuyển đổi phong cách công cụ từ Photoshop sang GIMP.",
+    "Tạo bản hướng dẫn chuyển đổi từ Photoshop sang GIMP cho người mới."
+  ],
+  "stars": 18092,
+  "starsToday": 18,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-22T08:22:58.405Z"
+}

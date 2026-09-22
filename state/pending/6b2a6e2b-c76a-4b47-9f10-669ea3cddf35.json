@@ -1,0 +1,44 @@
+{
+  "id": "6b2a6e2b-c76a-4b47-9f10-669ea3cddf35",
+  "repo": "akiralereal/iptv",
+  "url": "https://github.com/akiralereal/iptv",
+  "category": "Productivity/Personal Tool",
+  "summary": "Hệ thống IPTV tự lưu trữ giúp quản lý và phân phối hơn 800 kênh từ nhiều nguồn trong nước, quốc tế, thể thao và nền tảng livestream. Dự án hỗ trợ M3U/M3U8, EPG, nguồn tùy chỉnh, GUI, Docker Compose và Node.js, phù hợp với NAS hoặc máy chủ gia đình.",
+  "usecases": [
+    "Tập hợp nhiều kênh truyền hình và livestream vào một danh sách phát M3U dễ sử dụng.",
+    "Theo dõi lịch phát chương trình thông qua dữ liệu EPG và đồng bộ lịch xem trên nhiều thiết bị.",
+    "Quản lý kênh, nguồn dữ liệu và cấu hình hệ thống qua giao diện web hoặc Docker Compose."
+  ],
+  "ideas": [
+    "Tạo playlist động theo khu vực địa lý, ngôn ngữ, thể loại hoặc lịch xem của từng người dùng.",
+    "Kiểm tra sức khỏe đường truyền tự động và chuyển kênh dự phòng khi nguồn chính gián đoạn.",
+    "Phân tích lượt xem để đề xuất kênh mới và phát hiện các nguồn thường xuyên mất ổn định."
+  ],
+  "stars": 828,
+  "starsToday": 18,
+  "language": "JavaScript",
+  "topics": [
+    "iptv",
+    "iptv-channels",
+    "iptv-free",
+    "iptv-links",
+    "iptv-m3u",
+    "iptv-m3u8",
+    "iptv-playlist",
+    "bilibili",
+    "bilibili-live",
+    "migu",
+    "epg",
+    "live",
+    "live-tv",
+    "livetv",
+    "m3u",
+    "m3u8",
+    "nas",
+    "cctv",
+    "iptv-live",
+    "yangshipin"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-22T08:22:58.405Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6042d82f-a665-4c52-aafe-fb25a4acdf47",
+  "repo": "owainlewis/awesome-artificial-intelligence",
+  "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách nguồn tài liệu AI được tuyển tập bao gồm khóa học, sách, bài giảng video và bài nghiên cứu khoa học.",
+  "usecases": [
+    "Học sinh và sinh viên dùng để tìm nguồn học tập AI hệ thống và có cấu trúc.",
+    "Nhà nghiên cứu tìm tham khảo nhanh các paper và sách quan trọng trong lĩnh vực trí tuệ nhân tạo.",
+    "Nhà phát triển tìm các khóa course online để nâng kỹ năng ML/LLM."
+  ],
+  "ideas": [
+    "Tạo công cụ web tự động cập nhật danh sách này định kỳ từ arXiv và các nền khóa học.",
+    "Phân loại thêm theo trình độ (beginner, advanced) và lĩnh vực ứng dụng (tư vấn, tự động hóa).",
+    "Kết hợp với chatbot AI để trả lời câu hỏi về tài nguyên học tập AI."
+  ],
+  "stars": 16539,
+  "starsToday": 16,
+  "language": "Python",
+  "topics": [
+    "machine-learning",
+    "machine-intelligence",
+    "artificial-intelligence",
+    "reinforcement-learning",
+    "intelligent-systems",
+    "deep-learning",
+    "intelligent-machines",
+    "ai",
+    "statistical-learning",
+    "unsupervised-learning",
+    "neural-network"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-22T08:22:58.405Z"
+}

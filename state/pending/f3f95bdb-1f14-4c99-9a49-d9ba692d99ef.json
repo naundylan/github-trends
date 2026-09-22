@@ -1,0 +1,43 @@
+{
+  "id": "f3f95bdb-1f14-4c99-9a49-d9ba692d99ef",
+  "repo": "openai/tunnel-client",
+  "url": "https://github.com/openai/tunnel-client",
+  "category": "AI Agent/Automation",
+  "summary": "Client do khách hàng tự vận hành để kết nối máy chủ MCP riêng hoặc chạy trên localhost với ChatGPT, Codex, Responses API và AgentKit. Điểm nổi bật là cho phép mở rộng tác vụ cho agent mà không cần công khai máy chủ ra Internet.",
+  "usecases": [
+    "Kết nối công cụ nội bộ hoặc dữ liệu doanh nghiệp với ChatGPT và Codex để tự động hóa quy trình làm việc.",
+    "Triển khai gateway MCP riêng cho đội phát triển trong môi trường bảo mật hoặc mạng nội bộ.",
+    "Cung cấp chức năng tùy chỉnh cho Responses API và AgentKit thông qua các MCP server địa phương."
+  ],
+  "ideas": [
+    "Tự động hóa luồng xác thực và cấp quyền theo từng người dùng hoặc dự án khi kết nối máy chủ MCP.",
+    "Giám sát phiên tunnel, nhật ký và độ trễ để phát hiện bất thường hoặc tối ưu hiệu năng.",
+    "Kết hợp tunnel-client với một catalog công cụ nội bộ để agent tự chọn và gọi đúng nguồn dữ liệu."
+  ],
+  "stars": 470,
+  "starsToday": 19,
+  "language": "Go",
+  "topics": [
+    "agentic",
+    "agentic-ai",
+    "agentic-workflow",
+    "chatgpt",
+    "cli",
+    "codex",
+    "golang",
+    "mcp",
+    "mcp-client",
+    "mcp-gateway",
+    "mcp-protocol",
+    "mcp-server",
+    "mcp-servers",
+    "mcp-tools",
+    "model-context-protocol",
+    "openai",
+    "responses-api",
+    "secure-mcp-gateway",
+    "secure-mcp-tunnel"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-22T08:22:58.405Z"
+}

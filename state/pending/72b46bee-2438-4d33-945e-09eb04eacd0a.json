@@ -1,0 +1,28 @@
+{
+  "id": "72b46bee-2438-4d33-945e-09eb04eacd0a",
+  "repo": "cloudflare/cloudflared",
+  "url": "https://github.com/cloudflare/cloudflared",
+  "category": "Cloud/Hosting",
+  "summary": "Cloudflare Tunnel client là một công cụ cho phép tạo các tunnel an toàn từ các hệ thống nội bộ đến mạng Cloudflare, hỗ trợ zero-trust network access. Nó giúp kết nối các ứng dụng mà không cần expose cổng công cộng, tăng cường bảo mật.",
+  "usecases": [
+    "Deploy các ứng dụng nội bộ lên internet một cách an toàn mà không cần VPN.",
+    "Tích hợp vào các hệ thống CI/CD để tự động hóa việc kết nối và test.",
+    "Bảo vệ các API hoặc dịch vụ backend bằng cách sử dụng Cloudflare Tunnel."
+  ],
+  "ideas": [
+    "Kết hợp với Prometheus để监控 các kết nối tunnel.",
+    "Sử dụng trong các môi trường hybrid cloud để kết nối an toàn giữa on-premise và cloud.",
+    "Tích hợp với các công cụ như Ansible để tự động hóa cấu hình tunnel."
+  ],
+  "stars": 15857,
+  "starsToday": 26,
+  "language": "Go",
+  "topics": [
+    "cloudflare",
+    "reverse-proxy",
+    "cloudflare-tunnel",
+    "zero-trust-network-access"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-09-22T08:22:58.405Z"
+}

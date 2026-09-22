@@ -1,0 +1,38 @@
+{
+  "id": "cf7eab78-86dd-4be2-8d2b-54babe168403",
+  "repo": "mesamirh/MovieBox-Tui",
+  "url": "https://github.com/mesamirh/MovieBox-Tui",
+  "category": "CLI Tool",
+  "summary": "Phần mềm terminal (TUI) để tìm kiếm, tải và phát phim/TVshows sử dụng các phát nhạc/phim cục bộ như mpv, với giao diện nhờ ratatui.",
+  "usecases": [
+    "Tìm và xem phim/TVshows trực tiếp từ terminal mà không cần trình duyệt đồ họa.",
+    "Tải xuống nội dung phim/TVshows sử dụng các player cục bộ và quản lý tập tin.",
+    "Phù hợp cho môi trường headless hoặc SSH nơi chỉ có giao diện dòng lệnh."
+  ],
+  "ideas": [
+    "Tích hợp với cơ sở dữ liệu phim cá nhân để theo dõi lịch sử xem.",
+    "Tạo plugin cho phép điều khiển qua lệnh giọng nói hoặc script tự động.",
+    "Kết hợp với IPTV để phát live TV cùng với bộ phim trong cùng một giao diện."
+  ],
+  "stars": 2188,
+  "starsToday": 32,
+  "language": "Rust",
+  "topics": [
+    "anime",
+    "moviebox",
+    "streaming",
+    "series",
+    "cli",
+    "downloader",
+    "iptv",
+    "movies",
+    "mpv",
+    "ratatui",
+    "rust",
+    "terminal",
+    "tui",
+    "tv-shows"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-22T08:22:58.405Z"
+}
