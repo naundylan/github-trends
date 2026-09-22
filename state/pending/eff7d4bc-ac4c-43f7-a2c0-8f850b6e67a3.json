@@ -1,0 +1,29 @@
+{
+  "id": "eff7d4bc-ac4c-43f7-a2c0-8f850b6e67a3",
+  "repo": "krillinai/OpenCreator",
+  "url": "https://github.com/krillinai/OpenCreator",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng AI mã nguồn mở cho tác giả, cho phép tạo video, hình ảnh, giọng nói, avatar và chỉnh sửa video bằng các agent trong cùng một nơi.",
+  "usecases": [
+    "Tự động tạo video promotional hoặc nội dung social media từ văn bản.",
+    "Dịch và localize video cho nhiều ngôn ngữ bằng TTS và voice cloning.",
+    "Sản xuất avatar và voiceover cho các dự án game hoặc ứng dụng."
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng marketing để tạo nội dung tự động theo chủ đề.",
+    "Phát triển module cho phép người dùng tạo ra các video ngắn với avatar cá nhân hóa.",
+    "Sử dụng trong pipeline sản xuất nội dung cho các kênh YouTube hoặc TikTok."
+  ],
+  "stars": 12087,
+  "starsToday": 133,
+  "language": "TypeScript",
+  "topics": [
+    "video-transcription",
+    "video-translation",
+    "dubbing",
+    "localization",
+    "tts"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-22T02:58:23.708Z"
+}

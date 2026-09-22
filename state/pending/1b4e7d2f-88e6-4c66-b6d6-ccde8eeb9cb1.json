@@ -1,0 +1,23 @@
+{
+  "id": "1b4e7d2f-88e6-4c66-b6d6-ccde8eeb9cb1",
+  "repo": "vercel-labs/json-render",
+  "url": "https://github.com/vercel-labs/json-render",
+  "category": "UI/Component Library",
+  "summary": "json-render là framework Generative UI giúp tạo giao diện động từ dữ liệu và mô tả JSON. Điểm nổi bật là cho phép ứng dụng, đặc biệt là ứng dụng AI, tự sinh giao diện phù hợp với ngữ cảnh.",
+  "usecases": [
+    "Tự động tạo bảng điều khiển hoặc biểu mẫu từ phản hồi và dữ liệu của AI.",
+    "Xây dựng giao diện động dựa trên schema thay vì cài đặt cứng từng màn hình.",
+    "Chuẩn hóa cách các mô hình ngôn ngữ đề xuất thành phần và trải nghiệm người dùng."
+  ],
+  "ideas": [
+    "Cho phép AI sinh dashboard tùy chỉnh theo nhu cầu của từng người dùng.",
+    "Kết hợp json-render với chatbot để hiển thị kết quả phân tích dưới dạng biểu đồ và điều khiển tương tác.",
+    "Tạo thư viện mẫu JSON để các đội nhanh chóng thống nhất thiết kế và thành phần trong sản phẩm."
+  ],
+  "stars": 17962,
+  "starsToday": 763,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-22T02:58:23.708Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "e6626b1a-9268-4731-8291-253f797157b8",
+  "repo": "esengine/DeepSeek-Reasonix",
+  "url": "https://github.com/esengine/DeepSeek-Reasonix",
+  "category": "AI Agent/Automation",
+  "summary": "Tác nhân lập trình AI chạy trong terminal, được tối ưu cho DeepSeek và khả năng duy trì phiên liên tục. Cơ chế ổn định bộ nhớ đệm tiền tố giúp tận dụng prompt caching, giảm độ trễ và chi phí khi làm việc lâu dài với mã nguồn.",
+  "usecases": [
+    "Hỗ trợ viết, giải thích, sửa lỗi và tái cấu trúc mã ngay trong terminal.",
+    "Duy trì một phiên tác nhân chạy liên tục trong quá trình phát triển để tránh khởi tạo lại ngữ cảnh.",
+    "Tự động hóa các tác vụ lặp lại như tạo test, phân tích log và cập nhật nhiều tệp."
+  ],
+  "ideas": [
+    "Kết hợp với hook Git và CI để tạo bản vá, chạy kiểm thử và đề xuất sửa lỗi tự động.",
+    "Tích hợp với công cụ quản lý issue nhằm biến yêu cầu thành kế hoạch triển khai và pull request.",
+    "Xây dựng cấu hình tác nhân riêng cho từng ngôn ngữ hoặc quy ước kiến trúc của dự án."
+  ],
+  "stars": 35667,
+  "starsToday": 39,
+  "language": "Go",
+  "topics": [
+    "agent",
+    "agent-framework",
+    "deepseek",
+    "ink",
+    "llm",
+    "prompt-caching",
+    "r1",
+    "tool-use",
+    "tui",
+    "typescript",
+    "ai-agent",
+    "ai-coding",
+    "cli",
+    "coding-agent",
+    "developer-tools",
+    "terminal",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-22T02:58:23.709Z"
+}

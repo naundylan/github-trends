@@ -1,0 +1,23 @@
+{
+  "id": "3a0220fc-3c8a-43e2-a671-5a9c1db598a6",
+  "repo": "anthropics/financial-services",
+  "url": "https://github.com/anthropics/financial-services",
+  "category": "AI/LLM",
+  "summary": "Bộ ví dụ và kiến trúc tham khảo bằng Python của Anthropic về ứng dụng Claude trong lĩnh vực tài chính–ngân hàng. Dự án nổi bật ở việc kết hợp LLM với quy trình kiểm soát, tra cứu tài liệu và hỗ trợ các tác vụ nghiệp vụ có yêu cầu cao về độ tin cậy.",
+  "usecases": [
+    "Xây dựng trợ lý nội bộ tìm kiếm chính sách, báo cáo và tạo tóm tắt có dẫn nguồn.",
+    "Hỗ trợ phân loại hồ sơ, soạn thảo nội dung và tăng tốc quy trình tuân thủ hoặc chăm sóc khách hàng.",
+    "Tạo nguyên mẫu công cụ phân tích rủi ro, tín dụng với bước phê duyệt của con người."
+  ],
+  "ideas": [
+    "Kết hợp RAG với dữ liệu nội bộ và thị trường, kèm trích dẫn, mức độ tin cậy và lịch sử kiểm toán.",
+    "Thiết kế luồng nhiều tác nhân cho onboarding, phát hiện bất thường và compliance với các cổng phê duyệt.",
+    "Tích hợp Claude vào hệ thống ngân hàng qua tool có phân quyền, giới hạn tác vụ và giám sát chi phí."
+  ],
+  "stars": 35865,
+  "starsToday": 424,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-22T02:58:23.708Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "196a5a6b-094d-483a-8aff-0521739f3898",
+  "repo": "Open-Dev-Society/OpenStock",
+  "url": "https://github.com/Open-Dev-Society/OpenStock",
+  "category": "Data Visualization",
+  "summary": "OpenStock là nền tảng web mã nguồn mở để theo dõi giá cổ phiếu thời gian thực, thiết lập cảnh báo cá nhân hóa và khám phá phân tích doanh nghiệp. Dự án dùng Next.js, Shadcn UI và Tailwind, nhấn mạnh tính minh bạch và miễn phí lâu dài.",
+  "usecases": [
+    "Theo dõi danh mục cổ phiếu và biến động giá theo thời gian thực.",
+    "Thiết lập cảnh báo giá, tin tức hoặc thay đổi bất thường theo từng cổ phiếu.",
+    "So sánh thông tin và chỉ báo tài chính của nhiều doanh nghiệp."
+  ],
+  "ideas": [
+    "Tích hợp AI để tạo nhận định tài chính và danh sách cổ phiếu phù hợp khẩu vị rủi ro.",
+    "Thêm bảng điều khiển danh mục đa tài sản với biểu đồ tương tác và phân tích xu hướng.",
+    "Hợp nhất dữ liệu thị trường với lịch sự kiện để dự đoán tác động đến giá cổ phiếu."
+  ],
+  "stars": 17826,
+  "starsToday": 844,
+  "language": "TypeScript",
+  "topics": [
+    "coderabbit",
+    "inngest",
+    "nextjs",
+    "shadcn-ui",
+    "stock-market",
+    "tailwindcss"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-09-22T02:58:23.708Z"
+}
