@@ -1,7 +1,7 @@
 {
   "JuliusBrussee/caveman": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-22",
     "last_saved": "2026-09-16"
   },
   "obra/superpowers": {
@@ -76,7 +76,7 @@
   },
   "affaan-m/ECC": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "last_saved": "2026-09-16"
   },
   "langflow-ai/langflow": {
@@ -101,7 +101,7 @@
   },
   "openai/codex-plugin-cc": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-22",
     "last_saved": "2026-09-19"
   },
   "alibaba/page-agent": {
@@ -326,8 +326,8 @@
   },
   "dream-num/univer": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-09",
-    "last_saved": "2026-07-08"
+    "last_seen": "2026-09-22",
+    "last_saved": "2026-09-22"
   },
   "charmbracelet/crush": {
     "first_seen": "2026-07-08",
@@ -386,7 +386,7 @@
   },
   "stablyai/orca": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-19",
+    "last_seen": "2026-09-22",
     "last_saved": "2026-09-12"
   },
   "wealthfolio/wealthfolio": {
@@ -881,8 +881,8 @@
   },
   "browser-use/video-use": {
     "first_seen": "2026-08-31",
-    "last_seen": "2026-09-03",
-    "last_saved": "2026-08-31"
+    "last_seen": "2026-09-22",
+    "last_saved": "2026-09-22"
   },
   "MakazhanAlpamys/Soup": {
     "first_seen": "2026-08-31",
@@ -941,8 +941,8 @@
   },
   "dmtrKovalenko/fff": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-21",
-    "last_saved": "2026-09-01"
+    "last_seen": "2026-09-22",
+    "last_saved": "2026-09-22"
   },
   "google-research/timesfm": {
     "first_seen": "2026-09-02",
@@ -1456,7 +1456,7 @@
   },
   "max-sixty/worktrunk": {
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-22",
     "last_saved": "2026-09-12"
   },
   "louislam/uptime-kuma": {
@@ -1466,7 +1466,7 @@
   },
   "drawdb-io/drawdb": {
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-22",
     "last_saved": "2026-09-12"
   },
   "wechaty/wechaty": {
@@ -1536,7 +1536,7 @@
   },
   "tbphp/gpt-load": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-22",
     "last_saved": "2026-09-13"
   },
   "waditu/czsc": {
@@ -1826,7 +1826,7 @@
   },
   "weave-os/router": {
     "first_seen": "2026-09-19",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "last_saved": "2026-09-19"
   },
   "grafana/gcx": {
@@ -1944,52 +1944,47 @@
     "last_seen": "2026-09-22",
     "last_saved": "2026-09-21"
   },
-  "akiralereal/iptv": {
+  "anthropics/financial-services": {
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "last_saved": "2026-09-22"
   },
-  "owainlewis/awesome-artificial-intelligence": {
+  "agent-substrate/substrate": {
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "last_saved": "2026-09-22"
   },
-  "Diolinux/PhotoGIMP": {
+  "google/ax": {
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "last_saved": "2026-09-22"
   },
-  "elvisun/newsjack": {
+  "FareedKhan-dev/train-llm-from-scratch": {
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "last_saved": "2026-09-22"
   },
-  "caddyserver/caddy": {
+  "zhouxiaoka/autoclip": {
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "last_saved": "2026-09-22"
   },
-  "openai/tunnel-client": {
+  "vercel-labs/json-render": {
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "last_saved": "2026-09-22"
   },
-  "cloudflare/cloudflared": {
+  "Open-Dev-Society/OpenStock": {
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "last_saved": "2026-09-22"
   },
-  "larksuite/cli": {
+  "hydra-db/hydradb": {
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "last_saved": "2026-09-22"
   },
-  "longbridge/gpui-kit": {
-    "first_seen": "2026-09-22",
-    "last_seen": "2026-09-22",
-    "last_saved": "2026-09-22"
-  },
-  "mesamirh/MovieBox-Tui": {
+  "Nasiko-Labs/nasiko": {
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-22",
     "last_saved": "2026-09-22"

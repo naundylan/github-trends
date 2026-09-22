@@ -1,0 +1,35 @@
+{
+  "id": "98493c82-8fb2-472f-9188-1aa5680b4df8",
+  "repo": "Nasiko-Labs/nasiko",
+  "url": "https://github.com/Nasiko-Labs/nasiko",
+  "category": "AI Agent/Automation",
+  "summary": "Nasiko là một Developer Control Plane dành cho AI Agents, cung cấp CLI, MCP gateway và cơ chế tokenomics để quản lý, bảo mật và điều phối các agent đa năng.",
+  "usecases": [
+    "Xây dựng và triển khai hệ thống multi-agent an toàn cho doanh nghiệp",
+    "Quản lý vòng đời agent từ phát triển đến production với token-based access control",
+    "Tích hợp MCP gateway để chuẩn hóa giao tiếp giữa agent và các công cụ bên ngoài"
+  ],
+  "ideas": [
+    "Kết hợp với LangGraph hoặc AutoGen để tạo marketplace agent có thể kiếm token",
+    "Phát triển dashboard quan sát real-time cho agent swarm trong môi trường production",
+    "Tích hợp policy engine để tự động enforce compliance cho agent hành động tài chính"
+  ],
+  "stars": 7506,
+  "starsToday": 734,
+  "language": "Rust",
+  "topics": [
+    "agent-security",
+    "ai",
+    "ai-agents",
+    "cli",
+    "hacktoberfest",
+    "llms",
+    "mcp-gateway",
+    "multi-agent",
+    "rust",
+    "tokenomics",
+    "tokenops"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-22T14:06:05.866Z"
+}

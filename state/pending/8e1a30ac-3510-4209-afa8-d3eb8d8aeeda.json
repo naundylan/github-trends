@@ -1,0 +1,23 @@
+{
+  "id": "8e1a30ac-3510-4209-afa8-d3eb8d8aeeda",
+  "repo": "agent-substrate/substrate",
+  "url": "https://github.com/agent-substrate/substrate",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống nền tảng cho việc xây dựng và triển khai các AI agent tự hành, cung cấp các công cụ cơ bản để quản lý luồng làm việc, bộ nhớ và tương tác với môi trường.",
+  "usecases": [
+    "Tự động hóa các tác vụ phức tạp qua các agent có khả năng lập kế hoạch",
+    "Xây dựng hệ thống hỗ trợ quyết策决策 dựa trên AI",
+    "Tích hợp agent vào quy trình DevOps hoặc dịch vụ khách hàng"
+  ],
+  "ideas": [
+    "Tích hợp với các mô hình ngôn ngữ địa phương để tạo ra agent riêng tư",
+    "Tạo nền tảng cho các agent giao dịch tài chính tự động",
+    "Phát triển hệ thống multi-agent phối hợp giải quyết vấn đề"
+  ],
+  "stars": 2760,
+  "starsToday": 498,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-22T14:06:05.866Z"
+}

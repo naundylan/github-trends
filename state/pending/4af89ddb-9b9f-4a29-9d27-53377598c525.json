@@ -1,0 +1,28 @@
+{
+  "id": "4af89ddb-9b9f-4a29-9d27-53377598c525",
+  "repo": "Open-Dev-Society/OpenStock",
+  "url": "https://github.com/Open-Dev-Society/OpenStock",
+  "category": "Web Frontend",
+  "summary": "Open-source stock market platform providing real-time price tracking, personalized alerts, and company insights.",
+  "usecases": [
+    "Track real-time stock prices across various markets",
+    "Set up customized price alert notifications for specific stocks"
+  ],
+  "ideas": [
+    "Add social trading features allowing users to share and follow stocks",
+    "Implement advanced analytics dashboards with technical indicators"
+  ],
+  "stars": 18239,
+  "starsToday": 945,
+  "language": "TypeScript",
+  "topics": [
+    "coderabbit",
+    "inngest",
+    "nextjs",
+    "shadcn-ui",
+    "stock-market",
+    "tailwindcss"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-22T14:06:05.866Z"
+}

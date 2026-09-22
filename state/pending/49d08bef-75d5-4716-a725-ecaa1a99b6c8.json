@@ -1,0 +1,23 @@
+{
+  "id": "49d08bef-75d5-4716-a725-ecaa1a99b6c8",
+  "repo": "hydra-db/hydradb",
+  "url": "https://github.com/hydra-db/hydradb",
+  "category": "Database",
+  "summary": "HydraDB là một cơ sở dữ liệu đồ thị tốc độ cao được xây dựng trên nền lưu trữ đối tượng, cho phép lưu trữ và truy vấn các mối quan hệ phức tạp một cách hiệu quả.",
+  "usecases": [
+    "Lưu trữ và truy vấn dữ liệu đồ thị lớn trên các dịch vụ lưu trữ đám mây như S3 hoặc GCS.",
+    "Xây dựng các hệ thống đề xuất dựa trên mối quan hệ giữa các thực thể.",
+    "Phân tích mạng xã hội hoặc mạng lưới phát hiện gian lận."
+  ],
+  "ideas": [
+    "Tích hợp HydraDB với các công cụ ML để tạo ra các mô hình đồ thị dự đoán.",
+    "Sử dụng như một backend không máy chủ cho các ứng dụng di động đồng bộ hóa dữ liệu đồ thị ngoại tuyến.",
+    "Kết hợp với một API GraphQL để cung cấp các truy vấn đồ thị thông qua REST."
+  ],
+  "stars": 4083,
+  "starsToday": 794,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-09-22T14:06:05.866Z"
+}

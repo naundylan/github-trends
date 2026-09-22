@@ -1,0 +1,43 @@
+{
+  "id": "805147c0-5772-4f42-96c5-af55731e46d4",
+  "repo": "dream-num/univer",
+  "url": "https://github.com/dream-num/univer",
+  "category": "Web Framework",
+  "summary": "Runtime TypeScript cung cấp bộ công cụ toàn diện để xây dựng ứng dụng văn phòng tích hợp, bao gồm bảng tính, tài liệu, trượt slide và PDF.",
+  "usecases": [
+    "Xây dựng ứng dụng bảng tính web tương thích với Excel, hỗ trợ chỉnh sửa trực tiếp",
+    "Tạo hệ thống quản lý tài liệu và trình bày slide tự động hóa qua AI",
+    "Phát triển AI Agent có khả năng thao tác file Word, Excel, PDF trong môi trường web"
+  ],
+  "ideas": [
+    "Kết hợp AI Agent để tự động tạo báo cáo và xuất file PDF/Excel từ dữ liệu thô",
+    "Xây dựng nền tảng collaborative editing cho các ứng dụng quản lý dự án",
+    "Triển khai làm SDK cho các trình soạn thảo văn bản hiện có để thêm tính năng office"
+  ],
+  "stars": 15012,
+  "starsToday": 202,
+  "language": "TypeScript",
+  "topics": [
+    "data-table",
+    "excel",
+    "spreadsheet",
+    "xlsx",
+    "doc",
+    "word",
+    "grid",
+    "ppt",
+    "collaboration",
+    "sdk",
+    "sheet",
+    "docx",
+    "pptx",
+    "presentation",
+    "slides",
+    "table",
+    "wordprocessor",
+    "board",
+    "pdf"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-09-22T14:06:05.866Z"
+}

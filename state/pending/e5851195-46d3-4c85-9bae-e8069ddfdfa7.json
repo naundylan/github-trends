@@ -1,0 +1,21 @@
+{
+  "id": "e5851195-46d3-4c85-9bae-e8069ddfdfa7",
+  "repo": "google/ax",
+  "url": "https://github.com/google/ax",
+  "category": "AI/LLM",
+  "summary": "Google's open source agentic orchestration runtime written in Go for building autonomous AI systems.",
+  "usecases": [
+    "Orchestrate multiple AI agents to complete complex multi-step tasks",
+    "Automate repetitive workflows using large language models"
+  ],
+  "ideas": [
+    "Develop a framework for multi-agent collaboration and task delegation",
+    "Create tooling for managing agent lifecycles and monitoring performance"
+  ],
+  "stars": 6961,
+  "starsToday": 2324,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-22T14:06:05.866Z"
+}
