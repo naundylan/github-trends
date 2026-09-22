@@ -1,0 +1,44 @@
+{
+  "id": "661c4ba3-a8ac-4124-940d-5f3afca157db",
+  "repo": "juspay/hyperswitch",
+  "url": "https://github.com/juspay/hyperswitch",
+  "category": "Backend Framework",
+  "summary": "Hyperswitch là nền tảng điều phối thanh toán mã nguồn mở, có thể triển khai dưới dạng SaaS hoặc tự host. Dự án kết nối nhiều nhà cung cấp thanh toán, gian hàng, chống gian lận và token hóa, đồng thời hỗ trợ định tuyến thông minh, quan sát chi phí và đối soát.",
+  "usecases": [
+    "Tích hợp nhiều cổng thanh toán và nhà cung cấp payout qua một lớp điều phối thống nhất.",
+    "Tự host hạ tầng thanh toán với khả năng định tuyến giao dịch theo chi phí, tỷ lệ thành công hoặc khu vực.",
+    "Tự động hóa đối soát, phục hồi doanh thu và giám sát chi phí xử lý thanh toán."
+  ],
+  "ideas": [
+    "Kết hợp dữ liệu định tuyến với mô hình dự báo để chọn nhà cung cấp tối ưu theo thời gian thực.",
+    "Xây dựng môi trường giả lập nhà cung cấp nhằm kiểm thử chiến lược thanh toán và xử lý lỗi.",
+    "Tạo bảng điều hành phát hiện bất thường, so sánh phí và đề xuất cấu hình định tuyến."
+  ],
+  "stars": 43703,
+  "starsToday": 77,
+  "language": "Rust",
+  "topics": [
+    "payments",
+    "rust",
+    "orchestration",
+    "hacktoberfest",
+    "beginner-friendly",
+    "featured",
+    "high-performance",
+    "open-source",
+    "restful-api",
+    "sdk",
+    "works-with-react",
+    "finance",
+    "payment",
+    "payment-gateway",
+    "payment-integration",
+    "payment-processing",
+    "fintech",
+    "payments-platform",
+    "adyen",
+    "stripe"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-22T18:46:43.440Z"
+}

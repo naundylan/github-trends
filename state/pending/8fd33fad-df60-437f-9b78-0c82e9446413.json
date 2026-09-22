@@ -1,0 +1,36 @@
+{
+  "id": "8fd33fad-df60-437f-9b78-0c82e9446413",
+  "repo": "lahfir/agent-desktop",
+  "url": "https://github.com/lahfir/agent-desktop",
+  "category": "AI Agent/Automation",
+  "summary": "Agent Desktop giúp tác nhân AI điều khiển ứng dụng desktop thông qua cây hỗ trợ tiếp cận của hệ điều hành thay vì nhận diện hình ảnh. Tham chiếu UI ổn định và thao tác có thể thử lại an toàn giúp quá trình tự động hóa đáng tin cậy hơn.",
+  "usecases": [
+    "Tự động hóa các tác vụ lặp lại trên nhiều ứng dụng desktop.",
+    "Cho phép tác nhân AI nhập liệu, điều hướng và thu thập thông tin trực tiếp trên giao diện người dùng.",
+    "Xây dựng trợ lý desktop có khả năng thao tác ứng dụng theo lệnh tự nhiên."
+  ],
+  "ideas": [
+    "Kết hợp với MCP để biến các ứng dụng desktop thành công cụ có thể gọi bởi mô hình ngôn ngữ.",
+    "Thiết kế cơ chế phê duyệt từng bước cho những thao tác nhạy cảm như chuyển tiền hoặc xóa dữ liệu.",
+    "Dùng cây UI ổn định để xây dựng giải pháp kiểm thử tự động跨 ứng dụng."
+  ],
+  "stars": 1490,
+  "starsToday": 78,
+  "language": "Rust",
+  "topics": [
+    "accessibility",
+    "accessibility-api",
+    "ai-agents",
+    "automation",
+    "cli",
+    "desktop-automation",
+    "macos",
+    "mcp",
+    "rust",
+    "computer-use",
+    "computer-use-agent",
+    "computer-use-agents"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-22T18:46:43.440Z"
+}

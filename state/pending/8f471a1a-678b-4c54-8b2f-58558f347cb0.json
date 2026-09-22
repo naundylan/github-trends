@@ -1,0 +1,23 @@
+{
+  "id": "8f471a1a-678b-4c54-8b2f-58558f347cb0",
+  "repo": "tokio-rs/topcoat",
+  "url": "https://github.com/tokio-rs/topcoat",
+  "category": "Web Framework",
+  "summary": "Topcoat là một framework đầy đủ tính năng bằng Rust để xây dựng ứng dụng web, cung cấp các công cụ cần thiết để phát triển nhanh chóng và hiệu suất cao.",
+  "usecases": [
+    "Xây dựng ứng dụng web full-stack với Rust để có hiệu suất cao.",
+    "Tạo prototype nhanh các trang web động mà không cần phụ thuộc vào runtime bên ngoài.",
+    "Phát triển API và giao diện người dùng tích hợp trong cùng một dự án."
+  ],
+  "ideas": [
+    "Sử dụng Topcoat để xây dựng một khung làm việc cho các ứng dụng web thời gian thực như trò chơi hoặc dashboard.",
+    "Tích hợp Topcoat với các framework UI như Yew (Rust) để tạo giao diện người dùng phong phú.",
+    "Tạo một bộ công cụ CLI để khởi tạo dự án Topcoat với các cấu hình được thiết lập sẵn."
+  ],
+  "stars": 5026,
+  "starsToday": 132,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-09-22T18:46:43.440Z"
+}

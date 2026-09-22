@@ -1,0 +1,44 @@
+{
+  "id": "ac78996c-a310-4ea4-b056-55d9211d1035",
+  "repo": "CarterPerez-dev/Cybersecurity-Projects",
+  "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
+  "category": "Documentation/Learning Resource",
+  "summary": "Tập hợp 70 dự án bảo mật từ cơ bản đến nâng cao nhằm giúp người học hiểu và thực hành các khía cạnh của bảo mật mạng và pentesting.",
+  "usecases": [
+    "Người mới bắt đầu học bảo mật có thể làm theo các dự án từng bước để nắm vững các khái niệm cơ bản.",
+    "Nhà tìm việc hoặc sinh viên xây dựng portfolio bằng cách sử dụng và mở rộng các dự án này.",
+    "Giáo viên hoặc mentor sử dụng làm tài liệu tham khảo cho khóa học bảo mật."
+  ],
+  "ideas": [
+    "Biên dịch các dự án thành các bài giảng tương tác với checklist và bài tập thực hành.",
+    "Kết hợp với nền tảng gamification để tính điểm và xếp hạng người học dựa trên tiến độ hoàn thành dự án.",
+    "Tích hợp với CI/CD để tự động kiểm tra và đánh giá code của người học như một phần thi thực hành."
+  ],
+  "stars": 7271,
+  "starsToday": 105,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "certification",
+    "cloud-engineering",
+    "cyber",
+    "cybersecurity",
+    "cybersecurity-analyst",
+    "cybersecurity-certification",
+    "cybersecurity-certifications",
+    "cybersecurity-education",
+    "cybersecurity-jobs",
+    "cybersecurity-projects",
+    "cybersecurity-tools",
+    "grc",
+    "hacking",
+    "pentesting",
+    "projetcs",
+    "python",
+    "cybersecurity-portfolio",
+    "learning",
+    "project-repository"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-22T18:46:43.440Z"
+}

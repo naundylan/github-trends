@@ -1,0 +1,35 @@
+{
+  "id": "c21351de-5baa-4f1b-8395-4fabc2551d6c",
+  "repo": "superdesigndev/treg",
+  "url": "https://github.com/superdesigndev/treg",
+  "category": "CLI Tool",
+  "summary": "Treg là công cụ CLI quản lý API keys và credentials cho các agent AI, đóng vai trò như một registry/proxy giúp developers dễ dàng cấu hình và sử dụng nhiều mô hình qua OpenRouter.",
+  "usecases": [
+    "Quản lý tập trung API keys cho nhiều agent AI khác nhau trong môi trường phát triển.",
+    "Cung cấp proxy registry để chuyển đổi linh hoạt giữa các mô hình LLM mà không cần thay đổi code.",
+    "Tự động hóa việc rotate và bảo mật credentials trong pipeline CI/CD."
+  ],
+  "ideas": [
+    "Kết hợp với framework agent như LangChain/LlamaIndex để tự động inject credentials tại runtime.",
+    "Xây dựng dashboard web giám sát usage và cost của các API key qua Treg.",
+    "Tích hợp vào IDE extension để switch model nhanh chóng khi coding với AI assistant."
+  ],
+  "stars": 2108,
+  "starsToday": 197,
+  "language": "Python",
+  "topics": [
+    "dsh-plugin",
+    "agents",
+    "api-keys",
+    "cli",
+    "credentials",
+    "developer-tools",
+    "mcp",
+    "proxy",
+    "python",
+    "registry",
+    "secrets"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-22T18:46:43.440Z"
+}

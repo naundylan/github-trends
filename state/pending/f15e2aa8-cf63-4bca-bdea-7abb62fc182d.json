@@ -1,0 +1,29 @@
+{
+  "id": "f15e2aa8-cf63-4bca-bdea-7abb62fc182d",
+  "repo": "krillinai/OpenCreator",
+  "url": "https://github.com/krillinai/OpenCreator",
+  "category": "AI Agent/Automation",
+  "summary": "OpenCreator là một không gian làm việc AI mã nguồn mở dành cho nhà sáng tạo, được cung cấp bởi Codex, cho phép tạo video, hình ảnh, giọng nói, hình đại diện, dịch video và chỉnh sửa bằng các tác nhân AI tích hợp.",
+  "usecases": [
+    "Tạo video quảng cáo đã được dịch và lồng tiếng cho nhiều thị trường.",
+    "Tạo hình ảnh và avatar tùy chỉnh cho video hướng dẫn.",
+    "Tự động tạo phụ đề và bản dịch cho video của nhà sáng tạo nội dung."
+  ],
+  "ideas": [
+    "Tích hợp OpenCreator với các nền tảng mạng xã hội để đăng tải nội dung đã tạo tự động.",
+    "Xây dựng một studio sáng tạo AI dựa trên OpenCreator dành cho các doanh nghiệp truyền thông.",
+    "Phát triển một plugin cho các phần mềm chỉnh sửa video để truy cập các tác nhân AI của OpenCreator trực tiếp."
+  ],
+  "stars": 12200,
+  "starsToday": 161,
+  "language": "TypeScript",
+  "topics": [
+    "video-transcription",
+    "video-translation",
+    "dubbing",
+    "localization",
+    "tts"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-22T18:46:43.440Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2c92c48e-2eaa-45f2-a829-d9699519c2b6",
+  "repo": "upscayl/upscayl",
+  "url": "https://github.com/upscayl/upscayl",
+  "category": "Computer Vision",
+  "summary": "Upscayl là ứng dụng desktop mã nguồn mở sử dụng AI (ESRGAN) để upscale hình ảnh miễn phí, chạy cross-platform trên Linux, macOS và Windows nhờ Electron.",
+  "usecases": [
+    "Nâng cao độ phân giải ảnh cũ, ảnh chụp màn hình hoặc ảnh thu nhỏ cho in ấn hoặc hiển thị chất lượng cao.",
+    "Batch upscale hàng loạt ảnh cho dataset training machine learning hoặc archive ảnh lịch sử.",
+    "Cải thiện chất lượng ảnh cho thiết kế đồ họa, marketing mà không cần phần mềm trả phí như Topaz Gigapixel."
+  ],
+  "ideas": [
+    "Tích hợp vào pipeline xử lý ảnh tự động cho website e-commerce: upload ảnh gốc -> upscale -> optimize -> CDN.",
+    "Kết hợp với Stable Diffusion để upscale ảnh sinh ra ngay trong workflow generative AI.",
+    "Phát triển plugin cho Figma/Photoshop cho phép upscale layer trực tiếp trong công cụ thiết kế."
+  ],
+  "stars": 49775,
+  "starsToday": 197,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "esrgan",
+    "image",
+    "upscale",
+    "electron",
+    "gigapixel",
+    "gigapixel-images",
+    "image-upscaling",
+    "topaz",
+    "upscalerimage",
+    "upscayl"
+  ],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-09-22T18:46:43.440Z"
+}
