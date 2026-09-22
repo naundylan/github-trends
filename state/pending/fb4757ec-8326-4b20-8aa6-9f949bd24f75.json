@@ -1,0 +1,37 @@
+{
+  "id": "fb4757ec-8326-4b20-8aa6-9f949bd24f75",
+  "repo": "zhouxiaoka/autoclip",
+  "url": "https://github.com/zhouxiaoka/autoclip",
+  "category": "AI/LLM",
+  "summary": "AutoClip: AI-powered tool for automatic video clipping and highlight generation using LLM technology.",
+  "usecases": [
+    "Automatically generate highlight reels from long-form videos",
+    "Create short clips for social media from extended footage",
+    "AI-driven scene detection and key moment extraction"
+  ],
+  "ideas": [
+    "Integrate with popular video platforms for one-click clipping",
+    "Add user-defined topic prompts to guide AI clip generation",
+    "Combine with text-to-video models for automated highlight creation"
+  ],
+  "stars": 8711,
+  "starsToday": 654,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "ai-video",
+    "ai-video-editor",
+    "auto",
+    "auto-highlight",
+    "highlight",
+    "llm",
+    "video",
+    "video-editing",
+    "video-processing",
+    "videos"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-22T23:29:31.408Z"
+}

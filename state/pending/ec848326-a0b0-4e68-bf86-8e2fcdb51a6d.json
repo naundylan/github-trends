@@ -1,0 +1,23 @@
+{
+  "id": "ec848326-a0b0-4e68-bf86-8e2fcdb51a6d",
+  "repo": "hydra-db/hydradb",
+  "url": "https://github.com/hydra-db/hydradb",
+  "category": "Database",
+  "summary": "HydraDB là một cơ sở dữ liệu đồ thị cao tốc được xây dựng trên lưu trữ đối tượng, cung cấp hiệu suất và khả năng mở rộng cho các ứng dụng cần truy vấn đồ thị phức tạp.",
+  "usecases": [
+    "Phân tích mạng xã hội và mối quan hệ giữa các nút.",
+    "Hệ thống đề xuất dựa trên cấu trúc đồ thị.",
+    "Cảnh báo gian lận trong thời gian thực cho các giao dịch tài chính."
+  ],
+  "ideas": [
+    "Kết hợp với lưu trữ đám mây để tạo database đồ thị serverless.",
+    "Sử dụng cho mạng lưới blockchain để theo dõi giao dịch phức tạp.",
+    "Xây dựng engine tìm đường cho robot di chuyển trong môi trường có chướng ngại vật động."
+  ],
+  "stars": 4193,
+  "starsToday": 794,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-09-22T23:29:31.408Z"
+}

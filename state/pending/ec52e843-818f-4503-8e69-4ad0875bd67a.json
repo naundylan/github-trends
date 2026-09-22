@@ -1,0 +1,35 @@
+{
+  "id": "ec52e843-818f-4503-8e69-4ad0875bd67a",
+  "repo": "Nasiko-Labs/nasiko",
+  "url": "https://github.com/Nasiko-Labs/nasiko",
+  "category": "AI Agent/Automation",
+  "summary": "Nasiko là một điều khiển điều hành (control plane) cho nhà phát triển, giúp quản lý, giám sát và bảo mật các AI Agent với các tính năng tích hợp CLI, tokenomics và hỗ trợ đa tác nhân.",
+  "usecases": [
+    "Quản lý vòng đời và giao tiếp giữa nhiều AI Agent trong một ứng dụng.",
+    "Theo dõi và kiểm soát chi phí/tốc độ sử dụng token cho các LLM calls.",
+    "Cung cấp bảo mật và chính sách truy cập cho các agent hoạt động trong môi trường sản xuất."
+  ],
+  "ideas": [
+    "Tạo marketplace các AI Agent có thể giao tiếp và giao dịch an toàn qua control plane.",
+    "Kết hợp với edge computing để chạy agent locally nhưng quản lý từ xa.",
+    "Xây dựng dashboard real-time cho việc theo dõi hiệu suất và chi phí token cho từng agent."
+  ],
+  "stars": 7619,
+  "starsToday": 734,
+  "language": "Rust",
+  "topics": [
+    "agent-security",
+    "ai",
+    "ai-agents",
+    "cli",
+    "hacktoberfest",
+    "llms",
+    "mcp-gateway",
+    "multi-agent",
+    "rust",
+    "tokenomics",
+    "tokenops"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-22T23:29:31.408Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "8ca8541b-3f30-49be-9cc9-486c6d12bb58",
+  "repo": "agent-substrate/substrate",
+  "url": "https://github.com/agent-substrate/substrate",
+  "category": "AI Agent/Automation",
+  "summary": "Substrate là hệ điều hành cốt lõi cho việc xây dựng và triển khai các ứng dụng AI agent tự động hóa, cung cấp framework trong ngôn ngữ Go để quản lý luồng làm việc của agent.",
+  "usecases": [
+    "Build autonomous AI agents for task automation.",
+    "Create custom agent workflows with Go-based orchestration.",
+    "Develop multi-agent systems for complex problem solving."
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu vector để tạo agent có khả năng truy vấn thông tin thực thời.",
+    "Sử dụng làm nền tảng cho các ứng dụng AI nội bộ trong doanh nghiệp.",
+    "Phát triển hệ thống agent tự học theo phản hồi từ môi trường."
+  ],
+  "stars": 2948,
+  "starsToday": 301,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-22T23:29:31.408Z"
+}

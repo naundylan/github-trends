@@ -1,0 +1,30 @@
+{
+  "id": "9746b0a3-9c32-4ab6-8bca-9afcd2b3a883",
+  "repo": "Open-Dev-Society/OpenStock",
+  "url": "https://github.com/Open-Dev-Society/OpenStock",
+  "category": "Web Frontend",
+  "summary": "Một ứng dụng giao diện web mã nguồn mở theo dõi giá cổ phiếu thời gian thực, cung cấp cảnh báo cá nhân và insights về công ty, xây dựng trên NextJS và TailwindCSS.",
+  "usecases": [
+    "Theo dõi giá cổ phiếu và thị trường tài chính theo thời gian thực cho cá nhân",
+    "Thiết lập cảnh báo giá tự động và nhận thông báo khi đạt ngưỡng",
+    "Phân tích insights về công ty và xu hướng dữ liệu tài chính"
+  ],
+  "ideas": [
+    "Tích hợp tính năng phân tích kỹ thuật trực tiếp trong giao diện",
+    "Phát triển ứng dụng di động cross-platform sử dụng cùng backend",
+    "Kết hợp dữ liệu tin tức tài chính để cung cấp context cho các biến động giá"
+  ],
+  "stars": 18352,
+  "starsToday": 945,
+  "language": "TypeScript",
+  "topics": [
+    "coderabbit",
+    "inngest",
+    "nextjs",
+    "shadcn-ui",
+    "stock-market",
+    "tailwindcss"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-22T23:29:31.408Z"
+}

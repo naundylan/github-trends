@@ -1,0 +1,23 @@
+{
+  "id": "5a062aca-0244-4099-ada6-697976d7e7d2",
+  "repo": "google/ax",
+  "url": "https://github.com/google/ax",
+  "category": "AI/LLM",
+  "summary": "Dự án mã nguồn mở của Google cung cấp runtime điều phối agentic cho các ứng dụng AI, cho phép quản lý và điều phối các agent tự động hóa một cách linh hoạt.",
+  "usecases": [
+    "Tự động hóa quy trình làm việc phức tạp thông qua nhiều AI agent",
+    "Quản lý và điều phối tác vụ cho các ứng dụng LLM quy mô lớn",
+    "Tích hợp vào các hệ thống backend để mở rộng khả năng tự động hóa"
+  ],
+  "ideas": [
+    "Xây dựng hệ thống hỗ trợ quyết策划 tự động dựa trên nhiều agent chuyên biệt",
+    "Kết hợp với các framework LLM địa phương để tạo ra private orchestration layer",
+    "Phát triển giao diện theo dõi trạng thái tác vụ real-time cho các agent"
+  ],
+  "stars": 7534,
+  "starsToday": 2324,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-22T23:29:31.408Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "c61b4d28-c04e-461a-82ca-9d15e5375bf5",
+  "repo": "FareedKhan-dev/train-llm-from-scratch",
+  "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+  "category": "AI/LLM",
+  "summary": "Dự án cung cấp hướng dẫn rõ ràng để training LLM từ đầu, bao gồm tải dữ liệu cho đến việc sinh văn bản, được viết bằng Python và sử dụng transformers.",
+  "usecases": [
+    "Train custom domain-specific LLMs from scratch.",
+    "Experiment with LLM architecture and training pipelines.",
+    "Build cost-effective LLM models without relying on APIs."
+  ],
+  "ideas": [
+    "Kết hợp với RAG (Retrieval-Augmented Generation) để tạo ra model chuyên biệt.",
+    "Sử dụng để nghiên cứu về kỹ thuật tối ưu hóa hàm loss và quá trình hội tụ.",
+    "Triển khai trên các thiết bị edge với quantization để giảm kích thước model."
+  ],
+  "stars": 10821,
+  "starsToday": 220,
+  "language": "Python",
+  "topics": [
+    "gemini",
+    "large-language-models",
+    "llm",
+    "openai",
+    "training",
+    "transformers"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-22T23:29:31.408Z"
+}

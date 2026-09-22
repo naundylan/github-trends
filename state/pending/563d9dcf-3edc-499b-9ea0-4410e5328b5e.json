@@ -1,0 +1,23 @@
+{
+  "id": "563d9dcf-3edc-499b-9ea0-4410e5328b5e",
+  "repo": "anthropics/financial-services",
+  "url": "https://github.com/anthropics/financial-services",
+  "category": "AI/LLM",
+  "summary": "Anthropic's Python library/tool for integrating AI capabilities into financial services applications.",
+  "usecases": [
+    "Build AI-powered financial analysis assistants",
+    "Automate report generation and data extraction from financial documents",
+    "Enable conversational AI for financial customer support"
+  ],
+  "ideas": [
+    "Combine with Anthropic's Claude model for financial reasoning",
+    "Create budgeting and planning chatbots for personal or business finance",
+    "Integrate with accounting software via APIs for real-time AI insights"
+  ],
+  "stars": 36305,
+  "starsToday": 436,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-22T23:29:31.408Z"
+}

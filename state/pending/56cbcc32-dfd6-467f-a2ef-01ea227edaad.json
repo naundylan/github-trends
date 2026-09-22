@@ -1,0 +1,23 @@
+{
+  "id": "56cbcc32-dfd6-467f-a2ef-01ea227edaad",
+  "repo": "vercel-labs/json-render",
+  "url": "https://github.com/vercel-labs/json-render",
+  "category": "AI/LLM",
+  "summary": "Khung công cụ Generative UI tạo giao diện từ JSON thông qua AI",
+  "usecases": [
+    "Tạo nhanh giao diện động từ dữ liệu JSON",
+    "Phát triển ứng dụng web với UI sinh tự động từ backend",
+    "Tích hợp AI vào trình xây dựng giao diện cho non-developers"
+  ],
+  "ideas": [
+    "Kết hợp với Vercel AI SDK để tạo UI phản hồi dựa trên prompt",
+    "Sử dụng làm layer chuyển đổi design system sang code tự động",
+    "Phát triển plugin Figma sinh code từ file design"
+  ],
+  "stars": 18092,
+  "starsToday": 206,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-22T23:29:31.408Z"
+}

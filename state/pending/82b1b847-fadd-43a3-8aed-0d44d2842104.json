@@ -1,0 +1,39 @@
+{
+  "id": "82b1b847-fadd-43a3-8aed-0d44d2842104",
+  "repo": "caddyserver/caddy",
+  "url": "https://github.com/caddyserver/caddy",
+  "category": "Networking",
+  "summary": "Web server mã nguồn mở hỗ trợ HTTP/1-2-3, reverse proxy và tự động quản lý HTTPS",
+  "usecases": [
+    "Hosting đa domain với TLS tự động cho ứng dụng web",
+    "Reverse proxy an toàn cho microservices với HTTPS miễn phí",
+    "Cung cấp endpoint HTTP/3 nhanh chóng cho nội bộ"
+  ],
+  "ideas": [
+    "Tích hợp với CI/CD để tự động tái cấu hình server khi deploy",
+    "Sử dụng làm gateway bảo mật cho dịch vụ nội bộ với chính sách TLS bắt buộc",
+    "Phát triển script giám sát và renew certificate tự động cho nhiều domain"
+  ],
+  "stars": 75999,
+  "starsToday": 73,
+  "language": "Go",
+  "topics": [
+    "go",
+    "web-server",
+    "caddyfile",
+    "http",
+    "http-server",
+    "reverse-proxy",
+    "https",
+    "tls",
+    "automatic-https",
+    "privacy",
+    "security",
+    "acme",
+    "caddy",
+    "golang",
+    "http3"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-22T23:29:31.408Z"
+}
