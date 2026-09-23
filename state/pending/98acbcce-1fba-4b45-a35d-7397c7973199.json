@@ -1,0 +1,37 @@
+{
+  "id": "98acbcce-1fba-4b45-a35d-7397c7973199",
+  "repo": "flexprice/flexprice",
+  "url": "https://github.com/flexprice/flexprice",
+  "category": "Developer Tool",
+  "summary": "Hệ thống tính phí dựa trên sử dụng nguồn mở, hỗ trợ triển khai đám mây hoặc self-host với UI không cần code, đo lường sử dụng thời gian thực và quản lý tín chỉ.",
+  "usecases": [
+    "Quản lý mô hình giá theo sử dụng cho ứng dụng SaaS.",
+    "Tích hợp thanh toán và theo dõi sử dụng với Stripe và ClickHouse.",
+    "Cung cấp dashboard quản lý phí và tín chỉ cho đội ngũ sản phẩm và tài chính."
+  ],
+  "ideas": [
+    "Kết hợp với IoT để tính phí dựa trên dữ liệu thiết bị thực thời.",
+    "Tạo plugin cho các nền tảng e-commerce để tính phí sử dụng API.",
+    "Sử dụng Temporal workflows để tự động hóa phức hợp hóa đơn và hoàn tiền."
+  ],
+  "stars": 6366,
+  "starsToday": 157,
+  "language": "Go",
+  "topics": [
+    "billing",
+    "clickhouse",
+    "events",
+    "go",
+    "kafka",
+    "postgresql",
+    "pricing",
+    "usage-based-pricing",
+    "stripe",
+    "stripe-subscriptions",
+    "subscription-management",
+    "temporal",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-23T14:16:37.675Z"
+}

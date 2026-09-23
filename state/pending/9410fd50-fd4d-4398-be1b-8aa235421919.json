@@ -1,0 +1,27 @@
+{
+  "id": "9410fd50-fd4d-4398-be1b-8aa235421919",
+  "repo": "calesthio/Crucix",
+  "url": "https://github.com/calesthio/Crucix",
+  "category": "AI Agent/Automation",
+  "summary": "Trợ lý thông minh cá nhân theo dõi nhiều nguồn dữ liệu và thông báo thay đổi, sử dụng AI cho OSINT và theo dõi sự kiện toàn cầu.",
+  "usecases": [
+    "Theo dõi thay đổi chính sách hoặc giá cả của đối thủ trên mạng.",
+    "Cảnh báo về sự kiện tin tức hoặc thị trường dựa trên nhiều nguồn dữ liệu.",
+    "Tự động thông báo các cơ hội hoặc rủi ro dựa trên dữ liệu OSINT."
+  ],
+  "ideas": [
+    "Kết hợp với email/SMS để gửi báo cáo hàng ngày về thay đổi quan tâm.",
+    "Phát triển module phân tích xu hướng dựa trên dữ liệu thu thập từ nhiều nguồn.",
+    "Sử dụng để theo dõi bảo mật và rò rỉ dữ liệu trên đen web."
+  ],
+  "stars": 11970,
+  "starsToday": 105,
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "intelligence",
+    "osint"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-23T14:16:37.675Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "067fbce7-003a-4200-8828-0e4653b5fb8b",
+  "repo": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "category": "UI/Component Library",
+  "summary": "Bộ ngôn ngữ thiết kế (design language) giúp các mô hình AI tạo ra giao diện người dùng đẹp và nhất quán hơn. Dự án tập trung vào việc chuẩn hóa các nguyên tắc thiết kế để AI có thể áp dụng chúng một cách chính xác và hiệu quả.",
+  "usecases": [
+    "Tích hợp vào công cụ thiết kế AI để cải thiện chất lượng giao diện được sinh ra tự động.",
+    "Sử dụng như một khuônvực tham chiếu cho các mô hình ngôn ngữ lớn (LLM) trong việc tạo mã giao diện người dùng.",
+    "Áp dụng trong các nền tảng thiết kế hợp tác giữa con người và AI để đảm bảo độ nhất quán."
+  ],
+  "ideas": [
+    "Kết hợp với các framework frontend hiện đại như React hoặc Vue để tự động sinh component dựa trên nguyên tắc thiết kế.",
+    "Xây dựng một công cụ kiểm tra thiết kế tự động dựa trên các nguyên tắc trong Impeccable.",
+    "Phát triển một bộ plugin cho các công cụ thiết kế như Figma hoặc Sketch để đưa ra gợi ý thiết kế thông minh."
+  ],
+  "stars": 70128,
+  "starsToday": 287,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-23T14:16:37.675Z"
+}

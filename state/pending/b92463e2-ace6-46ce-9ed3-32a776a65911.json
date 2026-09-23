@@ -1,0 +1,35 @@
+{
+  "id": "b92463e2-ace6-46ce-9ed3-32a776a65911",
+  "repo": "superdesigndev/treg",
+  "url": "https://github.com/superdesigndev/treg",
+  "category": "Developer Tool",
+  "summary": "Treg là một registry công khai cho các công cụ của AI agent, cho phép đăng ký, tìm kiếm và quản lý API keys, credentials một cách tập trung.",
+  "usecases": [
+    "Tích hợp các công cụ agent vào workflow tự động hoá qua CLI.",
+    "Quản lý và xoay vòng API keys cho nhiều provider LLM trong môi trường dev.",
+    "Cung cấp proxy để định tuyến yêu cầu agent qua registry để kiểm soát truy cập."
+  ],
+  "ideas": [
+    "Kết hợp Treg với hệ thống CI/CD để tự động cấp quyền tool cho agent trong pipelines.",
+    "Phát triển plugin IDE mà từ Treg kéo danh sách công cụ agent có sẵn để one-click install.",
+    "Xây dựng marketplace thu phí dựa trên registry để các nhà phát triển công cụ agent có thể bán quyền sử dụng."
+  ],
+  "stars": 2521,
+  "starsToday": 502,
+  "language": "Python",
+  "topics": [
+    "dsh-plugin",
+    "agents",
+    "api-keys",
+    "cli",
+    "credentials",
+    "developer-tools",
+    "mcp",
+    "proxy",
+    "python",
+    "registry",
+    "secrets"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-23T14:16:37.675Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "c11cd591-d201-4b35-aa26-6a1ee8b5b9f3",
+  "repo": "can1357/oh-my-pi",
+  "url": "https://github.com/can1357/oh-my-pi",
+  "category": "AI Agent/Automation",
+  "summary": "Oh-my-pi là một coding agent chạy trong terminal, tích hợp IDE-like features và hỗ trợ nhiều mô hình LLM như Claude, OpenAI qua MCP.",
+  "usecases": [
+    "Viết, sửa và refactor code trực tiếp trong terminal mà không cần rời khỏi môi trường shell.",
+    "Tạo tự động các boilerplate hoặc unit test dựa trên mô tả ngôn ngữ tự nhiên.",
+    "Hỗ trợ debug qua chat với agent, nhận gợi ý sửa lỗi即时."
+  ],
+  "ideas": [
+    "Kết hợp oh-my-pi với trình quản lý tmux để tạo các pane làm việc chuyên biệt cho code, terminal và chat.",
+    "Mở rộng hỗ trợ cho các ngôn ngữ lập trình ít được hỗ trợ hiện tại bằng cách viết adapter cho LLM.",
+    "Tích hợp với hệ thống quản lýissue (GitHub Issues) để agent tự động tạo PR từ các comment."
+  ],
+  "stars": 32942,
+  "starsToday": 405,
+  "language": "TypeScript",
+  "topics": [
+    "bun",
+    "cli",
+    "typescript",
+    "ai-agent",
+    "coding-assistant",
+    "llm",
+    "ai-coding-agent",
+    "anthropic",
+    "claude",
+    "mcp",
+    "multi-provider",
+    "openai",
+    "rust",
+    "terminal",
+    "tui"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-23T14:16:37.675Z"
+}

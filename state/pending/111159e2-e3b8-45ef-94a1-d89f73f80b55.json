@@ -1,0 +1,44 @@
+{
+  "id": "111159e2-e3b8-45ef-94a1-d89f73f80b55",
+  "repo": "Asymptote-Labs/agent-beacon",
+  "url": "https://github.com/Asymptote-Labs/agent-beacon",
+  "category": "AI Agent/Automation",
+  "summary": "Lớp bộ nhớ tự cải thiện xuyên dải harness cho AI agent, giúp chúng lưu trữ và truy xuất kinh nghiệm để tự nâng cao hiệu suất.",
+  "usecases": [
+    "Hệ thống agent tự học trong môi trường doanh nghiệp",
+    "Cải thiện khả năng ghi nhớ ngữ cảnh cho chatbot đa luồng",
+    "Giám sát và phân tích hành vi agent qua telemetry"
+  ],
+  "ideas": [
+    "Kết hợp với framework agent phổ biến như LangChain để tạo agent có bộ nhớ dài hạn",
+    "Áp dụng vào thiết bị IoT để agent có thể học từ dữ liệu cảm biến",
+    "Phát triển plugin cho IDE để agent hỗ trợ lập trình với bộ nhớ cá nhân hóa"
+  ],
+  "stars": 1179,
+  "starsToday": 186,
+  "language": "Go",
+  "topics": [
+    "security-tools",
+    "agent-ai-cli",
+    "agent-security",
+    "mobile-device-management",
+    "security-information-and-event-management",
+    "security",
+    "ci",
+    "cloud",
+    "claude-code",
+    "codex",
+    "cursor",
+    "detection-engineering",
+    "browser-extension",
+    "agent-harnesses",
+    "jev",
+    "knowledge-base",
+    "memory",
+    "observability",
+    "telemetry",
+    "traces"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-23T14:16:37.675Z"
+}

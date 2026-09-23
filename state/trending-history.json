@@ -6,7 +6,7 @@
   },
   "obra/superpowers": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-09-23",
     "last_saved": "2026-09-12"
   },
   "tt-a1i/archify": {
@@ -141,8 +141,8 @@
   },
   "pbakaus/impeccable": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-09",
-    "last_saved": "2026-08-22"
+    "last_seen": "2026-09-23",
+    "last_saved": "2026-09-23"
   },
   "coreyhaines31/marketingskills": {
     "first_seen": "2026-07-04",
@@ -216,13 +216,13 @@
   },
   "nodejs/node": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-08-29",
-    "last_saved": "2026-08-23"
+    "last_seen": "2026-09-23",
+    "last_saved": "2026-09-23"
   },
   "thedotmack/claude-mem": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-08-30",
-    "last_saved": "2026-08-22"
+    "last_seen": "2026-09-23",
+    "last_saved": "2026-09-23"
   },
   "hesreallyhim/awesome-claude-code": {
     "first_seen": "2026-07-06",
@@ -296,8 +296,8 @@
   },
   "t8y2/dbx": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-09-13",
-    "last_saved": "2026-08-28"
+    "last_seen": "2026-09-23",
+    "last_saved": "2026-09-23"
   },
   "addyosmani/agent-skills": {
     "first_seen": "2026-07-08",
@@ -311,7 +311,7 @@
   },
   "byoungd/up": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-23",
     "last_saved": "2026-09-19"
   },
   "fastapi/fastapi": {
@@ -381,8 +381,8 @@
   },
   "can1357/oh-my-pi": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-07",
-    "last_saved": "2026-08-22"
+    "last_seen": "2026-09-23",
+    "last_saved": "2026-09-23"
   },
   "stablyai/orca": {
     "first_seen": "2026-07-09",
@@ -591,7 +591,7 @@
   },
   "bjarneo/cliamp": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-23",
     "last_saved": "2026-09-15"
   },
   "cjpais/Handy": {
@@ -1136,7 +1136,7 @@
   },
   "vercel-labs/agent-browser": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-19",
+    "last_seen": "2026-09-23",
     "last_saved": "2026-09-05"
   },
   "jlcodes99/cockpit-tools": {
@@ -1161,7 +1161,7 @@
   },
   "Comfy-Org/ComfyUI": {
     "first_seen": "2026-09-06",
-    "last_seen": "2026-09-08",
+    "last_seen": "2026-09-23",
     "last_saved": "2026-09-06"
   },
   "donnemartin/system-design-primer": {
@@ -1441,7 +1441,7 @@
   },
   "AlexsJones/llmfit": {
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-23",
     "last_saved": "2026-09-11"
   },
   "nab138/iloader": {
@@ -1491,7 +1491,7 @@
   },
   "reacherhq/check-if-email-exists": {
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-23",
     "last_saved": "2026-09-12"
   },
   "tech-leads-club/agent-skills": {
@@ -1766,7 +1766,7 @@
   },
   "PaddlePaddle/PaddleOCR": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-09-19",
+    "last_seen": "2026-09-23",
     "last_saved": "2026-09-18"
   },
   "junegunn/fzf": {
@@ -1871,7 +1871,7 @@
   },
   "browserbase/stagehand": {
     "first_seen": "2026-09-20",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-23",
     "last_saved": "2026-09-20"
   },
   "diffusionstudio/editor": {
@@ -1994,52 +1994,42 @@
     "last_seen": "2026-09-23",
     "last_saved": "2026-09-22"
   },
-  "mailcow/mailcow-dockerized": {
+  "superdesigndev/treg": {
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-23",
     "last_saved": "2026-09-23"
   },
-  "code-yeongyu/lazycodex": {
+  "DeusData/codebase-memory-mcp": {
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-23",
     "last_saved": "2026-09-23"
   },
-  "flipped-aurora/gin-vue-admin": {
+  "calesthio/Crucix": {
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-23",
     "last_saved": "2026-09-23"
   },
-  "openbkn-ai/bkn-foundry": {
+  "DmNote-App/DmNote": {
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-23",
     "last_saved": "2026-09-23"
   },
-  "zhoushoujianwork/easyeda-agent": {
+  "Asymptote-Labs/agent-beacon": {
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-23",
     "last_saved": "2026-09-23"
   },
-  "chenyme/grok2api": {
+  "flexprice/flexprice": {
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-23",
     "last_saved": "2026-09-23"
   },
-  "huggingface/tokenizers": {
+  "CarterPerez-dev/Cybersecurity-Projects": {
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-23",
     "last_saved": "2026-09-23"
   },
-  "agentgateway/agentgateway": {
-    "first_seen": "2026-09-23",
-    "last_seen": "2026-09-23",
-    "last_saved": "2026-09-23"
-  },
-  "smol-machines/smolvm": {
-    "first_seen": "2026-09-23",
-    "last_seen": "2026-09-23",
-    "last_saved": "2026-09-23"
-  },
-  "lbjlaq/Antigravity-Manager": {
+  "router-for-me/CLIProxyAPI": {
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-23",
     "last_saved": "2026-09-23"

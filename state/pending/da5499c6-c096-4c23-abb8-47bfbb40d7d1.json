@@ -1,0 +1,44 @@
+{
+  "id": "da5499c6-c096-4c23-abb8-47bfbb40d7d1",
+  "repo": "DeusData/codebase-memory-mcp",
+  "url": "https://github.com/DeusData/codebase-memory-mcp",
+  "category": "Developer Tool",
+  "summary": "Máy chủ MCP (Model Context Protocol) cung cấp khả năng phân tích mã nguồn thông minh cao. Dự án lập chỉ mục toàn bộ mã nguồn vào một đồ thị tri thức bền vững, hỗ trợ 158 ngôn ngữ lập trình, truy vấn siêu nhanh và tiết kiệm token.",
+  "usecases": [
+    "Tích hợp với các công cụ AI như Claude Code, Cursor, Aider để cung cấp bối cảnh mã nguồn phong phú cho mô hình ngôn ngữ.",
+    "Sử dụng để phân tích và hiểu rõ cấu trúc dự án lớn trong thời gian thực thông qua đồ thị tri thức.",
+    "Áp dụng trong quy trình CI/CD để kiểm tra chất lượng mã nguồn và phát hiện vấn đề tiềm ẩn."
+  ],
+  "ideas": [
+    "Kết hợp với các hệ thống quản lý phiên bản như Git để theo dõi sự thay đổi và phân tích lịch sử mã nguồn.",
+    "Xây dựng giao diện trực quan để truy vấn và khám phá đồ thị tri thức mã nguồn bằng ngôn ngữ tự nhiên.",
+    "Mở rộng hỗ trợ thêm các tính năng như phân tích bảo mật, phát hiện lỗ hổng hoặc đề xuất tối ưu hiệu suất."
+  ],
+  "stars": 44352,
+  "starsToday": 201,
+  "language": "C",
+  "topics": [
+    "claude-code",
+    "code-analysis",
+    "code-intelligence",
+    "developer-tools",
+    "knowledge-graph",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "sqlite",
+    "tree-sitter",
+    "codex",
+    "cursor",
+    "windsurf",
+    "aider",
+    "gemini-cli",
+    "graph-visualization",
+    "kilocode",
+    "opencode",
+    "ast",
+    "cypher"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-23T14:16:37.675Z"
+}

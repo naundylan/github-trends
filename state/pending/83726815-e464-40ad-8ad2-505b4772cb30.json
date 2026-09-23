@@ -1,0 +1,33 @@
+{
+  "id": "83726815-e464-40ad-8ad2-505b4772cb30",
+  "repo": "DmNote-App/DmNote",
+  "url": "https://github.com/DmNote-App/DmNote",
+  "category": "Developer Tool",
+  "summary": "Một ứng dụng key viewer tùy chỉnh cho DJMAX RESPECT V và các rhythm game, hiển thị phím được nhấn trên màn hình cho livestream hoặc theo dõi.",
+  "usecases": [
+    "Hiển thị phím được nhấn trực tiếp trên livestream DJMAX hoặc rhythm game để người xem theo dõi.",
+    "Tùy chỉnh giao diện overlay cho các bản mod hoặc game rhythm khác.",
+    "Sử dụng làm công cụ hỗ trợ luyện tập và phân tích kỹ thuật chơi game."
+  ],
+  "ideas": [
+    "Tích hợp với OBS để tự động đồng bộ overlay với game đang chạy trong thời gian thực.",
+    "Phát triển chế độ hiển thị đa ngôn ngữ hoặc biểu tượng phím tùy chỉnh cho tournament.",
+    "Tạo plugin cho các trình phát video để thêm hiệu ứng key view vào recording."
+  ],
+  "stars": 1660,
+  "starsToday": 100,
+  "language": "TypeScript",
+  "topics": [
+    "keyviewer",
+    "dmnote",
+    "kps",
+    "keyoverlay",
+    "djmax",
+    "keyboard",
+    "overlay",
+    "obs",
+    "rhythm-game"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-23T14:16:37.675Z"
+}

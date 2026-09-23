@@ -1,0 +1,32 @@
+{
+  "id": "53ac50ea-e38a-4501-89e4-c1f227a17174",
+  "repo": "router-for-me/CLIProxyAPI",
+  "url": "https://github.com/router-for-me/CLIProxyAPI",
+  "category": "API/GraphQL",
+  "summary": "Dịch vụ API thống nhất bao bọc các mô hình AI như Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin, cho phép truy xuất qua định dạng OpenAI/Gemini/Claude/Codex.",
+  "usecases": [
+    "Thay đổi mô hình AI mà không cần thay đổi mã ứng dụng",
+    "Cung cấp API AI nội bộ cho các dịch vụ microservice",
+    "Đánh giá và so sánh hiệu suất các mô hình AI qua cùng một endpoint"
+  ],
+  "ideas": [
+    "Tích hợp vào hệ thống RAG để truy xuất kiến thức từ nhiều mô hình",
+    "Xây dựng gateway AI cho doanh nghiệp với quản lý quota và logging",
+    "Kết hợp với CI/CD để tự động tạo mã bằng các mô hình khác nhau trong pipeline"
+  ],
+  "stars": 52989,
+  "starsToday": 179,
+  "language": "Go",
+  "topics": [
+    "claude-code",
+    "cluade",
+    "gemini",
+    "openai",
+    "codex",
+    "antigravity",
+    "devin",
+    "muse"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-23T14:16:37.675Z"
+}
