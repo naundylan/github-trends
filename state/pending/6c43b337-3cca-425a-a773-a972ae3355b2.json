@@ -1,0 +1,30 @@
+{
+  "id": "6c43b337-3cca-425a-a773-a972ae3355b2",
+  "repo": "chenyme/grok2api",
+  "url": "https://github.com/chenyme/grok2api",
+  "category": "API/GraphQL",
+  "summary": "grok2api là cổng API đa tài khoản cho Grok Build, Grok Web và Grok Console, giúp quản lý và định tuyến yêu cầu từ nhiều tài khoản tập trung.",
+  "usecases": [
+    "Quản lý nhiều tài khoản Grok Build để tự động hóa quy trình build và test",
+    "Cung cấp điểm tiếp cận unified cho Grok Web và Grok Console cho ứng dụng bên ngoài",
+    "Tích hợp vào CI/CD để tự động deploy và monitoring dịch vụ Grok"
+  ],
+  "ideas": [
+    "Phát triển dashboard thống kê real-time về hoạt động API từ nhiều tài khoản",
+    "Tạo plugin cho chatbot để truy cập Grok services qua lệnh tự nhiên",
+    "Triển khai multi-tenant với dữ liệu tách biệt cho doanh nghiệp"
+  ],
+  "stars": 7726,
+  "starsToday": 26,
+  "language": "Go",
+  "topics": [
+    "grok",
+    "grok-imagine",
+    "grok-build",
+    "grok-video",
+    "grok-console",
+    "grok-web"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-23T08:23:32.395Z"
+}

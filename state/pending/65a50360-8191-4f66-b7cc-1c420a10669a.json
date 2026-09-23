@@ -1,0 +1,30 @@
+{
+  "id": "65a50360-8191-4f66-b7cc-1c420a10669a",
+  "repo": "openbkn-ai/bkn-foundry",
+  "url": "https://github.com/openbkn-ai/bkn-foundry",
+  "category": "Developer Tool",
+  "summary": "BKN Foundry là nền tảng back-end ontology-driven, chuyển đổi ngữ nghĩa kinh doanh dựa vào ontology thành các dịch vụ chạy thời gian thực bao gồm dữ liệu, logic, hành động, bảo mật và quan sát.",
+  "usecases": [
+    "Xây dựng các nền tảng tri thức ontology-driven cho doanh nghiệp.",
+    "Triển khai logic nghiệp vụ và governance an ninh dựa trên ontology.",
+    "Tích hợp quan sát và theo phục vụ cho các hệ thống phức tạp."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tự động hóa việc xây dựng ontology từ văn bản tự nhiên.",
+    "Sử dụng làm nền tảng cho các hệ thống quản lý quyền truy cập dựa trên ngữ nghĩa.",
+    "Mở rộng để hỗ trợ đa ngữ cho các ontology kinh doanh toàn cầu."
+  ],
+  "stars": 547,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "context-engineering",
+    "harness-engineering",
+    "ontology",
+    "ontology-engineering",
+    "ontology-platform",
+    "opensource-ontology-platform"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-23T08:23:32.395Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "61579861-195e-485f-bfc7-1732739c629c",
+  "repo": "smol-machines/smolvm",
+  "url": "https://github.com/smol-machines/smolvm",
+  "category": "Developer Tool",
+  "summary": "smolvm là một máy ảo nhúng và di động, cho phép chạy Agent an toàn trên máy tính cục bộ với khả năng phân nhánh môi trường.",
+  "usecases": [
+    "Chạy Agent AI trong môi trường cô lập an toàn cho từng tác vụ",
+    "Tạo và quản lý nhiều môi trường VM tách biệt trên cùng một máy cho các dự án khác nhau",
+    "Tích hợp vào pipeline CI/CD để test và deploy Agent tự động và có kiểm soát"
+  ],
+  "ideas": [
+    "Kết hợp với framework AI local để tạo 'sandbox' tự động cho Agent",
+    "Phát triển desktop app quản lý nhiều Agent cùng lúc với giao diện trực quan",
+    "Tạo plugin VS Code để khởi tạo và kiểm soát VM Agent trực tiếp từ editor"
+  ],
+  "stars": 6287,
+  "starsToday": 41,
+  "language": "Rust",
+  "topics": [
+    "containers",
+    "crun",
+    "libkrun",
+    "microvm",
+    "rust",
+    "virtual-machine"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-23T08:23:32.395Z"
+}

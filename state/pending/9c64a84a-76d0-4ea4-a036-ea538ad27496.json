@@ -1,0 +1,41 @@
+{
+  "id": "9c64a84a-76d0-4ea4-a036-ea538ad27496",
+  "repo": "mailcow/mailcow-dockerized",
+  "url": "https://github.com/mailcow/mailcow-dockerized",
+  "category": "DevOps/CI-CD",
+  "summary": "Mailcow là một giải pháp mail server mã nguồn mở được đóng gói bằng Docker, tích hợp Postfix, Dovecot, Rspamd và Sogo để cung cấp đầy đủ các dịch vụ groupware qua docker-compose.",
+  "usecases": [
+    "Triển khai mail server cho doanh nghiệp với cấu hình Postfix/Dovecot.",
+    "Quản lý email và calendar (groupware) trong môi trường container.",
+    "Tích hợp Rspamd cho spam filtering và bảo mật email."
+  ],
+  "ideas": [
+    "Kết hợp với reverse proxy (Traefik/Caddy) để triển khai mail server trên cloud cá nhân.",
+    "Tự động hóa backup và restore mailbox qua scripts kết hợp với docker-compose.",
+    "Sử dụng làm基础 để xây dựng hệ thống ticketing hoặc contact management tùy chỉnh."
+  ],
+  "stars": 13485,
+  "starsToday": 20,
+  "language": "JavaScript",
+  "topics": [
+    "mailcow",
+    "mailserver",
+    "groupware",
+    "sogo",
+    "rspamd",
+    "postfix",
+    "dovecot",
+    "docker",
+    "servercow",
+    "hacktoberfest",
+    "clamav",
+    "acme",
+    "mail",
+    "docker-compose",
+    "olefy",
+    "smtp",
+    "imap"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-09-23T08:23:32.395Z"
+}

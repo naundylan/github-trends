@@ -1,0 +1,38 @@
+{
+  "id": "2cab8db6-31e9-4756-80ef-95cf87486753",
+  "repo": "code-yeongyu/lazycodex",
+  "url": "https://github.com/code-yeongyu/lazycodex",
+  "category": "AI Agent/Automation",
+  "summary": "Lazycodex là một harness agent AI giúp lập trình viên duy trì bộ nhớ dự án, lập kế hoạch, thực thi và xác minh hoàn thành công việc trong môi trường Codex, tối ưu hóa quy trình phát triển mã phức tạp.",
+  "usecases": [
+    "Tự động hóa việc lên kế hoạch và triển khai tính năng mới trong kho code lớn",
+    "Giúp duy trì ngữ cảnh và trạng thái làm việc khi chuyển đổi giữa các nhánh hoặc module",
+    "Cung cấp phản hồi xác minh hoàn thành task để giảm lỗi và tăng chất lượng code"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống CI/CD để tự động tạo pull request sau khi agent hoàn thành task",
+    "Mở rộng hỗ trợ cho nhiều mô hình LLM khác ngoài Codex như GPT-4, Claude",
+    "Thêm giao diện trực quan để người dùng can thiệp và điều chỉnh kế hoạch của agent trong thời gian thực"
+  ],
+  "stars": 3601,
+  "starsToday": 52,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "cli",
+    "codex",
+    "developer-tools",
+    "lazy",
+    "oh-my-openagent",
+    "omo",
+    "openai",
+    "orchestration",
+    "typescript",
+    "lazycodex"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-23T08:23:32.395Z"
+}

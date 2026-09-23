@@ -1,0 +1,31 @@
+{
+  "id": "913ff472-9d34-4061-bb73-9c8a79dcdcec",
+  "repo": "huggingface/tokenizers",
+  "url": "https://github.com/huggingface/tokenizers",
+  "category": "NLP",
+  "summary": "Tokenizers là thư viện tokenizer tốc độ cao, State-of-the-Art, được tối ưu cho nghiên cứu và sản xuất, hỗ trợ các mô hình NLP và LLM như BERT, GPT.",
+  "usecases": [
+    "Tăng tốc độ tiền xử lý dữ liệu cho các mô hình ngôn ngữ trong nghiên cứu.",
+    "Triển khai tokenizer hiệu quả trong sản xuất cho các ứng dụng chatbot và dịch thuật.",
+    "Hỗ trợ tùy chỉnh tokenization cho các mô hình ngôn ngữ chuyên ngành."
+  ],
+  "ideas": [
+    "Kết hợp với các framework RAG (Retrieval-Augmented Generation) để tối ưu hóa chunks tokens.",
+    "Phát triển plugin tokenizer cho các ngôn ngữ tự nhiên ít tài liệu.",
+    "Sử dụng tokenizer này để xây dựng hệ thống đánh giá sự tương đồng ngữ nghĩa nhanh."
+  ],
+  "stars": 11098,
+  "starsToday": 24,
+  "language": "Rust",
+  "topics": [
+    "nlp",
+    "natural-language-processing",
+    "natural-language-understanding",
+    "language-model",
+    "transformers",
+    "bert",
+    "gpt"
+  ],
+  "notePath": "notes/NLP.md",
+  "createdAt": "2026-09-23T08:23:32.395Z"
+}

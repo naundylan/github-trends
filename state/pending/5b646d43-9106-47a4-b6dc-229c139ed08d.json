@@ -1,0 +1,44 @@
+{
+  "id": "5b646d43-9106-47a4-b6dc-229c139ed08d",
+  "repo": "flipped-aurora/gin-vue-admin",
+  "url": "https://github.com/flipped-aurora/gin-vue-admin",
+  "category": "Web Framework",
+  "summary": "Gin-Vue-Admin là một framework quản trị web toàn-stack kết hợp Vue3 và Gin (Go), cung cấp tính năng tạo mã, quản lý quyền và hỗ trợ AI để tăng tốc phát triển ứng dụng doanh nghiệp.",
+  "usecases": [
+    "Tạo nhanh admin panel cho các ứng dụng web doanh nghiệp.",
+    "Sử dụng làm nền tảng cho hệ thống quản lý nội bộ với JWT auth và permission control.",
+    "Tự động tạo code API và giao diện dựa trên định nghĩa dữ liệu."
+  ],
+  "ideas": [
+    "Kết hợp với AI code generator để tự động tạo module CRUD cho dự án mới.",
+    "Triển khai làm admin dashboard cho microservices architecture.",
+    "Sử dụng trong các dự án cần multi-tenant với dynamic routing và i18n support."
+  ],
+  "stars": 25045,
+  "starsToday": 20,
+  "language": "Go",
+  "topics": [
+    "gin-vue-admin",
+    "gin",
+    "vue",
+    "golang",
+    "vue-admin",
+    "go-admin",
+    "go",
+    "admin",
+    "gin-admin",
+    "casbin",
+    "vue3",
+    "element-ui",
+    "gorm",
+    "jwt",
+    "i18n",
+    "ai",
+    "mcp",
+    "skills",
+    "vibecoding",
+    "claw"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-09-23T08:23:32.395Z"
+}

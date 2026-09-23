@@ -1,0 +1,40 @@
+{
+  "id": "1c53fcc5-87bf-4de0-9e49-65962fe9aed4",
+  "repo": "zhoushoujianwork/easyeda-agent",
+  "url": "https://github.com/zhoushoujianwork/easyeda-agent",
+  "category": "AI Agent/Automation",
+  "summary": "Tự động hóa thiết kế sơ đồ nguyên lý và PCB EasyEDA Pro bằng các thao tác có kiểu dữ liệu rõ ràng. Công cụ cung cấp đồng thời CLI, Agent Skill và stdio MCP để AI harness điều khiển phần mềm thiết kế điện tử.",
+  "usecases": [
+    "Tạo hoặc chỉnh sửa sơ đồ nguyên lý và bố trí PCB bằng lệnh tự động.",
+    "Kết nối AI agent với EasyEDA Pro thông qua MCP để thao tác trực tiếp trên bảng thiết kế.",
+    "Xây dựng workflow thiết kế điện tử tự động trong CLI hoặc hệ thống agent riêng."
+  ],
+  "ideas": [
+    "Cho agent phân tích yêu cầu mạch điện và tự sinh schematic cùng PCB từ thông số đầu vào.",
+    "Kiểm tra tự động các lỗi thiết kế, khoảng cách dây dẫn và khả năng sản xuất trước khi xuất file.",
+    "Tạo thư viện linh kiện thông minh và tự đề xuất tối ưu sơ đồ dựa trên dữ liệu linh kiện sẵn có."
+  ],
+  "stars": 527,
+  "starsToday": 16,
+  "language": "Go",
+  "topics": [
+    "dsh-plugin",
+    "agent-skill",
+    "ai-agent",
+    "claude-code",
+    "easyeda",
+    "eda",
+    "electronics",
+    "golang",
+    "hardware-design",
+    "jlceda",
+    "lceda",
+    "mcp",
+    "mcp-server",
+    "pcb",
+    "pcb-design",
+    "schematic"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-23T08:23:32.395Z"
+}
