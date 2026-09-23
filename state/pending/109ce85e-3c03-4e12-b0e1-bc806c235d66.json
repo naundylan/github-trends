@@ -1,0 +1,39 @@
+{
+  "id": "109ce85e-3c03-4e12-b0e1-bc806c235d66",
+  "repo": "HelixDB/helix-db",
+  "url": "https://github.com/HelixDB/helix-db",
+  "category": "Database",
+  "summary": "HelixDB là database graph OLTP viết bằng Rust, tích hợp tìm kiếm vector và full-text ngay trên object storage, phù hợp cho ứng dụng RAG và tìm kiếm vector thời thực.",
+  "usecases": [
+    "Tìm kiếm vector thời thực cho ứng dụng RAG",
+    "Phân tích đồ thị giao dịch OLTP trên object storage",
+    "Kết hợp full-text và vector search trong một lớp dữ liệu"
+  ],
+  "ideas": [
+    "Kết hợp với các framework LLM để tìm kiếm lai vector-đồ thị",
+    "Triển khai làm database nền tảng cho ứng dụng AI doanh nghiệp tại biên giới",
+    "Sử dụng làm lưu trữ vector có giao dịch cho các ứng dụng thời gian thực"
+  ],
+  "stars": 6081,
+  "starsToday": 81,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "cli",
+    "database",
+    "databases",
+    "graph-database",
+    "helix",
+    "rag",
+    "rust",
+    "rust-crate",
+    "rust-lang",
+    "vector",
+    "vector-database",
+    "vector-db",
+    "vectorsearch",
+    "helixdb"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-09-23T02:51:20.905Z"
+}

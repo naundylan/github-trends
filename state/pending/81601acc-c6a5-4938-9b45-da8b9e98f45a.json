@@ -1,0 +1,44 @@
+{
+  "id": "81601acc-c6a5-4938-9b45-da8b9e98f45a",
+  "repo": "juspay/hyperswitch",
+  "url": "https://github.com/juspay/hyperswitch",
+  "category": "API/GraphQL",
+  "summary": "Hyperswitch là một nền tảng thanh toán mã nguồn mở, có thể kết hợp linh hoạt, tuân thủ PCI, hỗ trợ cả triển khai SaaS và tự động lưu trữ. Nền tảng kết nối đến nhiều nhà cung cấp thanh toán, thanh toán, phát hiện gian lận, kho dữ liệu và dịch vụ mã hóa, đồng thời tối ưu hóa ủy quyền thanh toán và khả năng khôi phục doanh thu.",
+  "usecases": [
+    "Xây dựng hệ thống thanh toán cho nền tảng thương mại điện tử với hỗ trợ đa nhà cung cấp và tối ưu chi phí giao dịch",
+    "Triển khai giải pháp thanh toán qua nhiều kênh (thẻ tín dụng, ví điện tử, chuyển khoản) với khả năng tự động lưu trữ",
+    "Sử dụng tính năng quản lý rủi ro và phát hiện gian lận tích hợp sẵn để bảo vệ giao dịch"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống ERP để tự động đối soát và đối chiếu giao dịch thanh toán",
+    "Phát triển công cụ phân tích chi phí thanh toán theo thời gian thực để tối ưu ngân sách cho doanh nghiệp",
+    "Tích hợp với nền tảng tài chính cá nhân để hỗ trợ người dùng quản lý chi tiêu và đầu tư thông minh"
+  ],
+  "stars": 43706,
+  "starsToday": 81,
+  "language": "Rust",
+  "topics": [
+    "payments",
+    "rust",
+    "orchestration",
+    "hacktoberfest",
+    "beginner-friendly",
+    "featured",
+    "high-performance",
+    "open-source",
+    "restful-api",
+    "sdk",
+    "works-with-react",
+    "finance",
+    "payment",
+    "payment-gateway",
+    "payment-integration",
+    "payment-processing",
+    "fintech",
+    "payments-platform",
+    "adyen",
+    "stripe"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-23T02:51:20.905Z"
+}

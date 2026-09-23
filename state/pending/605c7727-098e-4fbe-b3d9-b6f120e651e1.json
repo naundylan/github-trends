@@ -1,0 +1,23 @@
+{
+  "id": "605c7727-098e-4fbe-b3d9-b6f120e651e1",
+  "repo": "tokio-rs/topcoat",
+  "url": "https://github.com/tokio-rs/topcoat",
+  "category": "Web Framework",
+  "summary": "Topcoat là framework batteries-included cho Rust, dùng để xây dựng ứng dụng web nhanh chóng và hiệu quả.",
+  "usecases": [
+    "Quickly build web backends with minimal configuration",
+    "Develop APIs and web services integrated with Tokio",
+    "Create high-performance web applications using Rust"
+  ],
+  "ideas": [
+    "Build serverless functions with Rust performance",
+    "Combine with WebAssembly for client-side execution",
+    "Create a microframework for real-time web apps"
+  ],
+  "stars": 5041,
+  "starsToday": 120,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-09-23T02:51:20.905Z"
+}

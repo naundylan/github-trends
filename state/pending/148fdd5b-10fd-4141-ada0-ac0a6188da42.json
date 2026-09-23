@@ -1,0 +1,27 @@
+{
+  "id": "148fdd5b-10fd-4141-ada0-ac0a6188da42",
+  "repo": "calesthio/Crucix",
+  "url": "https://github.com/calesthio/Crucix",
+  "category": "AI Agent/Automation",
+  "summary": "Crucix là một thông minh agent cá nhân sử dụng AI để theo dõi nhiều nguồn dữ liệu và thông báo khi có thay đổi xảy ra, giúp theo dõi OSINT và thông tin thực thời.",
+  "usecases": [
+    "Theo dõi thay đổi tin tức và phân tích an ninh mạng từ nhiều nguồn cùng lúc.",
+    "Cảnh báo về các sự kiện quan trọng trong môi trường doanh nghiệp hoặc cá nhân dựa trên dữ liệu mở.",
+    "Tích hợp với hệ thống tự động để thực hiện hành động khi có dữ liệu mới xuất hiện."
+  ],
+  "ideas": [
+    "Kết nối với các nền tảng nhắn tin (Slack/Discord) để gửi cảnh báo tức thì.",
+    "Phát triển thành công cụ theo dõi uy tín cá nhân hoặc doanh nghiệp từ nhiều nguồn tin tức.",
+    "Sử dụng làm foundation cho các agent AI cá nhân quản lý lịch/sự kiện dựa trên dữ liệu thế giới."
+  ],
+  "stars": 11944,
+  "starsToday": 105,
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "intelligence",
+    "osint"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-23T02:51:20.905Z"
+}

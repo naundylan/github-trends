@@ -1,0 +1,35 @@
+{
+  "id": "6591f51d-0932-491d-bc55-8f829e97bdef",
+  "repo": "superdesigndev/treg",
+  "url": "https://github.com/superdesigndev/treg",
+  "category": "Developer Tool",
+  "summary": "Treg is a tool for developers to manage their own personal data. It simplifies the process of managing API keys, credentials, and other secrets. It provides a developer-friendly interface for handling secrets and credentials, making it easier to integrate with various services and platforms. It is designed to be used for managing API keys, credentials, and developer tools for agent workflows.",
+  "usecases": [
+    "Quản lý và định tuyến API keys cho các agent tools",
+    "Tạo proxy proxy cho các dự án agent và API",
+    "Tích hợp quản lý credentials vào quy trình làm việc developer"
+  ],
+  "ideas": [
+    "Kết hợp với các framework agent để tự động xoay API keys",
+    "Phát triển plugin CLI cho các hệ thống CI/CD",
+    "Xây dựng dashboard quản lý chi phí API cho các dự án cá nhân"
+  ],
+  "stars": 2269,
+  "starsToday": 230,
+  "language": "Python",
+  "topics": [
+    "dsh-plugin",
+    "agents",
+    "api-keys",
+    "cli",
+    "credentials",
+    "developer-tools",
+    "mcp",
+    "proxy",
+    "python",
+    "registry",
+    "secrets"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-23T02:51:20.905Z"
+}
