@@ -1,0 +1,41 @@
+{
+  "id": "d0246c51-9a6a-4ec6-a254-37c8641f0a1f",
+  "repo": "acsandmann/rift",
+  "url": "https://github.com/acsandmann/rift",
+  "category": "Desktop App",
+  "summary": "Tiling window manager cho macOS viết bằng Rust, lấy cảm hứng từ i3, hyprland, niri, cung cấp quản lý cửa sổ kiểu tiling, scrolling workspace và keybindings tùy biến cho power user.",
+  "usecases": [
+    "Thay thế quản lý cửa sổ mặc định macOS để tăng năng suất lập trình với layout tiling tự động",
+    "Cấu hình workspace động cho nhiều monitor với keybinding giống i3/hyprland trên Linux",
+    "Tối ưu hóa screen real estate cho developer làm việc full-screen terminal và editor"
+  ],
+  "ideas": [
+    "Tích hợp với Hammerspoon/Skarab để tự động assign app vào workspace cụ thể khi launch",
+    "Phát triển companion CLI để script layout cho các project khác nhau (dev, design, meeting)",
+    "Kết hợp với yabai/skhd ecosystem để chia sẻ config cross-platform macOS/Linux"
+  ],
+  "stars": 2449,
+  "starsToday": 71,
+  "language": "Rust",
+  "topics": [
+    "i3",
+    "macos",
+    "tiling",
+    "i3wm",
+    "mac",
+    "rust",
+    "tiling-window-manager",
+    "window-manager",
+    "niri",
+    "paperwm",
+    "scrolling",
+    "rift",
+    "twm",
+    "wm",
+    "aerospace",
+    "yabai",
+    "hyprland"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-23T19:04:53.888Z"
+}

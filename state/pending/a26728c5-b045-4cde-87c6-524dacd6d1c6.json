@@ -1,0 +1,44 @@
+{
+  "id": "a26728c5-b045-4cde-87c6-524dacd6d1c6",
+  "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+  "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ 817 kỹ năng an ninh mạng có cấu trúc cho AI agent, được ánh xạ tới 6 khung chuẩn quốc tế (MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF, MITRE F3). Hỗ trợ 29 lĩnh vực bảo mật và tương thích với 20+ nền tảng AI coding.",
+  "usecases": [
+    "Xây dựng AI agent tự động thực hiện penetration testing và threat hunting theo chuẩn MITRE ATT&CK",
+    "Tự động hóa incident response và compliance checking dựa trên NIST CSF 2.0 và NIST AI RMF",
+    "Đào tạo và benchmark AI agent cho các tác vụ red teaming, malware analysis, cloud security"
+  ],
+  "ideas": [
+    "Kết hợp với SIEM/SOAR để tạo autonomous SOC agent xử lý alert end-to-end",
+    "Mở rộng thành marketplace kỹ năng bảo mật cho phép community contribute skill mới",
+    "Tích hợp vào CI/CD pipeline như DevSecOps gate tự động quét lỗ hổng trước deploy"
+  ],
+  "stars": 33274,
+  "starsToday": 98,
+  "language": "Python",
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "cybersecurity",
+    "incident-response",
+    "mitre-attack",
+    "penetration-testing",
+    "red-team",
+    "security",
+    "cloud-security",
+    "malware-analysis",
+    "devsecops",
+    "ethical-hacking",
+    "infosec",
+    "llm",
+    "mcp",
+    "osint",
+    "security-automation",
+    "threat-intelligence",
+    "nist-csf",
+    "threat-hunting"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-23T19:04:53.888Z"
+}

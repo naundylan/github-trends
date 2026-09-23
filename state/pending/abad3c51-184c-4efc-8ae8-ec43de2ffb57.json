@@ -1,0 +1,36 @@
+{
+  "id": "abad3c51-184c-4efc-8ae8-ec43de2ffb57",
+  "repo": "lahfir/agent-desktop",
+  "url": "https://github.com/lahfir/agent-desktop",
+  "category": "AI Agent/Automation",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "...",
+    "..."
+  ],
+  "stars": 1585,
+  "starsToday": 104,
+  "language": "Rust",
+  "topics": [
+    "accessibility",
+    "accessibility-api",
+    "ai-agents",
+    "automation",
+    "cli",
+    "desktop-automation",
+    "macos",
+    "mcp",
+    "rust",
+    "computer-use",
+    "computer-use-agent",
+    "computer-use-agents"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-23T19:04:53.888Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "52e29046-8887-445c-bae8-2a66cea4c402",
+  "repo": "harry7557558/spirula-studio",
+  "url": "https://github.com/harry7557558/spirula-studio",
+  "category": "Computer Vision",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "...",
+    "..."
+  ],
+  "stars": 690,
+  "starsToday": 99,
+  "language": "C++",
+  "topics": [
+    "3d-gaussian-splatting",
+    "gaussian-splatting",
+    "3d-reconstruction",
+    "3dgs",
+    "computer-vision",
+    "360-camera",
+    "mesh-generation",
+    "cross-vendor",
+    "cuda",
+    "vulkan",
+    "vram-optimization",
+    "quantized-training",
+    "3dgs-acceleration",
+    "structure-from-motion"
+  ],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-09-23T19:04:53.888Z"
+}

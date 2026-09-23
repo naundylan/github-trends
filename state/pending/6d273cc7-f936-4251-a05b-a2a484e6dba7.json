@@ -1,0 +1,44 @@
+{
+  "id": "6d273cc7-f936-4251-a05b-a2a484e6dba7",
+  "repo": "zzet/gortex",
+  "url": "https://github.com/zzet/gortex",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ phân tích mã hiệu suất cao cho AI agent và IDE, hỗ trợ 257 ngôn ngữ, dựa trên đồ thị kiến thức để tối ưu context window, giảm token lên 50x, chạy 100% local qua CLI, MCP Server và API.",
+  "usecases": [
+    "Cung cấp ngữ cảnh mã chính xác cho AI coding agent (Cursor, Copilot, Claude Code) để giảm hallucination và tiết kiệm token",
+    "Tìm hiểu và điều hướng codebase lớn đa repo mà không cần index toàn bộ vào context window",
+    "Tích hợp vào quy trình CI/CD để phân tích tác động thay đổi mã tự động"
+  ],
+  "ideas": [
+    "Kết hợp với RAG để xây dựng knowledge base tự động cập nhật cho team engineering",
+    "Phát triển plugin IDE hiển thị dependency graph real-time khi refactor",
+    "Tạo automated code review bot sử dụng graph analysis để phát hiện breaking changes"
+  ],
+  "stars": 1721,
+  "starsToday": 71,
+  "language": "Go",
+  "topics": [
+    "ai-tools",
+    "antigravity",
+    "claude-code",
+    "code-assistant",
+    "copilot",
+    "cursor",
+    "graphrag",
+    "kiro",
+    "knowledge-graph",
+    "mcp-server",
+    "windsurf",
+    "tokens",
+    "context-window",
+    "context-window-optimization",
+    "context-window-optimizer",
+    "skills",
+    "prompts",
+    "local-first",
+    "code-analysis",
+    "developer-tools"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-23T19:04:53.888Z"
+}

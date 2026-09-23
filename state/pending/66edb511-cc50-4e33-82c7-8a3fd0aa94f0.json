@@ -1,0 +1,40 @@
+{
+  "id": "66edb511-cc50-4e33-82c7-8a3fd0aa94f0",
+  "repo": "westpoint-io/mimik",
+  "url": "https://github.com/westpoint-io/mimik",
+  "category": "Developer Tool",
+  "summary": "Mimik là một phần mềm mở rộng trình duyệt ghi lại quy trình làm việc của bạn khi bạn nhấp chuột và biến thành hướng dẫn từng bước có chú giải và ảnh màn hình. Nó nổi bật với tính năng tạo hướng dẫn tự động, bảo mật và không cần kết nối internet.",
+  "usecases": [
+    "Tạo hướng dẫn kỹ thuật cho các quy trình phần mềm.",
+    "Document hóa các thủ tục làm việc nội bộ.",
+    "Tutorials cho các tính năng mới của ứng dụng."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý dự án để tự động tạo tài liệu từ các bước phát triển.",
+    "Tích hợp với công cụ ghi âm màn hình để tạo video hướng dẫn.",
+    "Sử dụng trong giáo dục để sinh viên ghi lại quá trình giải bài tập."
+  ],
+  "stars": 1191,
+  "starsToday": 96,
+  "language": "TypeScript",
+  "topics": [
+    "browser-extension",
+    "chrome-extension",
+    "documentation",
+    "firefox-extension",
+    "local-first",
+    "manifest-v3",
+    "privacy-first",
+    "productivity",
+    "react",
+    "screenshot",
+    "step-by-step-guide",
+    "tutorial",
+    "typescript",
+    "workflow",
+    "wxt",
+    "guide-generator"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-23T19:04:53.888Z"
+}

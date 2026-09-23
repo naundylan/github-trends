@@ -1,0 +1,36 @@
+{
+  "id": "ec7c5053-3ad1-4789-b09e-904e2f58ab14",
+  "repo": "tw93/Pake",
+  "url": "https://github.com/tw93/Pake",
+  "category": "Developer Tool",
+  "summary": "Pake là một công cụ dòng lệnh giúp chuyển bất kỳ trang web nào thành ứng dụng desktop chỉ với một lệnh, sử dụng Rust và Tauri để tạo ra các ứng dụng hiệu suất cao trên nhiều nền tảng như Linux, macOS và Windows.",
+  "usecases": [
+    "Nhà phát triển đóng gói ứng dụng web nội bộ hoặc công cụ thành ứng dụng desktop sẵn sàng phân phối.",
+    "Người dùng cuối chuyển đổi các trang web yêu thích (như ứng dụng web hóa học) thành ứng dụng desktop độc lập.",
+    "Doanh nghiệp tạo các ứng dụng desktop nhanh chóng cho các công cụ nội bộ hoặc demo khách hàng."
+  ],
+  "ideas": [
+    "Xây dựng một nền tảng lưu trữ ứng dụng desktop được chuyển đổi, cho phép người dùng chia sẻ ứng dụng web dưới dạng desktop.",
+    "Tích hợp với các dịch vụ AI (ChatGPT, Gemini) để tự động chuyển đổi các trang web thành ứng dụng desktop với các tính năng thông minh (như tìm kiếm tích hợp)."
+  ],
+  "stars": 61677,
+  "starsToday": 59,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "tauri",
+    "no-electron",
+    "chatgpt",
+    "youtube",
+    "gemini",
+    "claude",
+    "desktop",
+    "hight-performance",
+    "linux",
+    "macos",
+    "package",
+    "windows"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-23T19:04:53.888Z"
+}

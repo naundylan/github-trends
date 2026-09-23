@@ -1,0 +1,29 @@
+{
+  "id": "480fadf8-024c-431e-83f5-684920b293bd",
+  "repo": "XiaomiMiMo/MiMo-Code",
+  "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+  "category": "AI Agent/Automation",
+  "summary": "MiMo Code là một công cụ CLI cho phép phát triển và quản lý các agent AI, nơi các mô hình và agent cùng phát triển. Nó nổi bật với khả năng tương tác giữa các mô hình AI và agent để tự động hóa các tác vụ phức tạp.",
+  "usecases": [
+    "Tự động hóa các quy trình làm việc bằng cách sử dụng các agent AI.",
+    "Phát triển và thử nghiệm các mô hình AI mới trong môi trường agent.",
+    "Tích hợp AI vào các ứng dụng doanh nghiệp để tăng hiệu quả."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống IoT để các agent tự động điều khiển thiết bị.",
+    "Sử dụng trong y tế để các agent chẩn đoán và đề xuất điều trị.",
+    "Tích hợp với các nền tảng mạng xã hội để tự động hóa nội dung và tương tác."
+  ],
+  "stars": 13438,
+  "starsToday": 87,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "cli",
+    "mimo",
+    "mimo-code"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-23T19:04:53.888Z"
+}
