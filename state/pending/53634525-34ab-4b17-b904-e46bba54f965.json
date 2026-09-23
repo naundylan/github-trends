@@ -1,0 +1,35 @@
+{
+  "id": "53634525-34ab-4b17-b904-e46bba54f965",
+  "repo": "superdesigndev/treg",
+  "url": "https://github.com/superdesigndev/treg",
+  "category": "Developer Tool",
+  "summary": "OpenRouter proxy and credential management tool for agent tools and developer ecosystems.",
+  "usecases": [
+    "Manage and rotate API credentials for LLM agents",
+    "Proxy traffic through OpenRouter for cost optimization and routing",
+    "Provide secure credential storage and API key management for developer tools"
+  ],
+  "ideas": [
+    "Integrate with local agent frameworks for automated credential sync",
+    "Build a web dashboard for real-time API usage monitoring",
+    "Extend with support for additional LLM providers beyond OpenRouter"
+  ],
+  "stars": 2686,
+  "starsToday": 502,
+  "language": "Python",
+  "topics": [
+    "dsh-plugin",
+    "agents",
+    "api-keys",
+    "cli",
+    "credentials",
+    "developer-tools",
+    "mcp",
+    "proxy",
+    "python",
+    "registry",
+    "secrets"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-23T23:39:03.561Z"
+}

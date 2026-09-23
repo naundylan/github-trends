@@ -1,0 +1,44 @@
+{
+  "id": "1a9ebf55-8d99-473a-aaa6-bbc8d60596ad",
+  "repo": "DeusData/codebase-memory-mcp",
+  "url": "https://github.com/DeusData/codebase-memory-mcp",
+  "category": "Developer Tool",
+  "summary": "High-performance code intelligence server that indexes codebases into a persistent knowledge graph for instant code search and analysis.",
+  "usecases": [
+    "Instant codebase search and navigation across large repositories",
+    "Context-aware code completion and snippet generation for LLMs",
+    "Semantic code search and dependency analysis for security reviews"
+  ],
+  "ideas": [
+    "Build a VS Code extension for instant code navigation",
+    "Create a RAG pipeline that uses this knowledge graph for semantic search",
+    "Integrate with IDE plugins (Cursor, Windsurf) for real-time code assistance"
+  ],
+  "stars": 44545,
+  "starsToday": 266,
+  "language": "C",
+  "topics": [
+    "claude-code",
+    "code-analysis",
+    "code-intelligence",
+    "developer-tools",
+    "knowledge-graph",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "sqlite",
+    "tree-sitter",
+    "codex",
+    "cursor",
+    "windsurf",
+    "aider",
+    "gemini-cli",
+    "graph-visualization",
+    "kilocode",
+    "opencode",
+    "ast",
+    "cypher"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-23T23:39:03.561Z"
+}

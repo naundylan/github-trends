@@ -1,0 +1,39 @@
+{
+  "id": "713f4960-8370-4319-82ee-ab92e83ed71c",
+  "repo": "code-yeongyu/oh-my-openagent",
+  "url": "https://github.com/code-yeongyu/oh-my-openagent",
+  "category": "AI Agent/Automation",
+  "summary": "OmO là công cụ TUI hỗ trợ điều phối và xây dựng luồng tác vụ AI theo mô hình đồ thị, cho phép dùng các mô hình như Claude, Gemini và OpenAI thông qua câu lệnh tự nhiên. Dự án nổi bật ở khả năng orchestration linh hoạt, phù hợp để tự động hóa quy trình làm việc phức tạp.",
+  "usecases": [
+    "Tạo luồng tác vụ AI kết hợp nhiều mô hình để nghiên cứu, phân tích và tổng hợp thông tin.",
+    "Tự động hóa quy trình phát triển phần mềm như phân tích yêu cầu, tạo mã, kiểm thử và ghi tài liệu.",
+    "Xây dựng hệ thống tác nhân xử lý tác vụ lặp lại trong vận hành, hỗ trợ khách hàng hoặc quản lý nội dung."
+  ],
+  "ideas": [
+    "Kết hợp OmO với cơ sở dữ liệu vector để xây dựng trợ lý nghiên cứu có khả năng truy xuất tài liệu nội bộ.",
+    "Tích hợp với GitHub Actions nhằm biến các luồng AI thành quy trình CI/CD tự động.",
+    "Thiết kế giao diện theo dõi đồ thị tác vụ để quan sát trạng thái, chi phí và hiệu suất của từng tác nhân."
+  ],
+  "stars": 69331,
+  "starsToday": 47,
+  "language": "TypeScript",
+  "topics": [
+    "opencode",
+    "ai",
+    "anthropic",
+    "claude",
+    "claude-skills",
+    "cursor",
+    "gemini",
+    "ide",
+    "openai",
+    "orchestration",
+    "tui",
+    "typescript",
+    "ai-agents",
+    "chatgpt",
+    "codex"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-23T23:39:03.561Z"
+}

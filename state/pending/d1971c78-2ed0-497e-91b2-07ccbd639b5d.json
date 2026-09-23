@@ -1,0 +1,30 @@
+{
+  "id": "d1971c78-2ed0-497e-91b2-07ccbd639b5d",
+  "repo": "poloclub/transformer-explainer",
+  "url": "https://github.com/poloclub/transformer-explainer",
+  "category": "AI/LLM",
+  "summary": "Trình bày trực quan mô hình transformer trong LLM, giúp người dùng hiểu cơ chế hoạt động của các mô hình ngôn ngữ thông qua giao diện tương tác.",
+  "usecases": [
+    "Học sinh và giáo viên dùng để trực quan hóa khái niệm attention và transformer trong đào tạo ML.",
+    "Nghiên cứu viên ML sử dụng để phân tích luồng dữ liệu và trọng số mô hình một cách trực quan.",
+    "Giảng viên trình bày dễ dàng về cấu trúc transformer trong các khóa học deep learning."
+  ],
+  "ideas": [
+    "Kết hợp với extension trình duyệt để trực quan hóa đầu ra của các chatbot GPT/Gemini trong thời gian thực.",
+    "Phát triển ứng dụng so sánh nhiều mô hình transformer cùng lúc dựa trên cùng một đầu vào.",
+    "Sử dụng làm nền tảng cho công cụ kiểm tra bias hoặc phân tích tâm lý ngôn ngữ trong mô hình LLM."
+  ],
+  "stars": 8727,
+  "starsToday": 54,
+  "language": "JavaScript",
+  "topics": [
+    "generative-ai",
+    "gpt",
+    "deep-learning",
+    "langauge-model",
+    "llm",
+    "visualization"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-23T23:39:03.561Z"
+}

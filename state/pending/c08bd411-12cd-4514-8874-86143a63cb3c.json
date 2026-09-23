@@ -1,0 +1,28 @@
+{
+  "id": "c08bd411-12cd-4514-8874-86143a63cb3c",
+  "repo": "open-gsd/gsd-core",
+  "url": "https://github.com/open-gsd/gsd-core",
+  "category": "AI Agent/Automation",
+  "summary": "Core thư viện tự động hóa quy trình phát triển phần mềm dựa trên spec-driven development và context-engineering qua AI.",
+  "usecases": [
+    "Tự động tạo commit, PR và ghi chú thay đổi dựa trên spec dự án đã định nghĩa.",
+    "Tối ưu hóa quy trình review code bằng cách cung cấp context AI cho reviewer.",
+    "Triển khai CI/CD tự động cho repository cá nhân hoặc tổ chức với ít can thiệp thủ công."
+  ],
+  "ideas": [
+    "Kết hợp với IDE để gợi ý sửa code tuân theo spec khi developer nhập các lệnh git.",
+    "Phát triển agent AI hoàn toàn tự viết spec, code và push repository mà can thiệp người dùng tối thiểu.",
+    "Sử dụng cho quản lý nhiều repo microservices với quy trình spec-driven đồng bộ nhau."
+  ],
+  "stars": 9794,
+  "starsToday": 52,
+  "language": "JavaScript",
+  "topics": [
+    "claude-code",
+    "context-engineering",
+    "meta-prompting",
+    "spec-driven-development"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-23T23:39:03.561Z"
+}

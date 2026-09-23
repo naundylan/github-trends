@@ -1,0 +1,37 @@
+{
+  "id": "8df3e5b8-39b1-4c96-9415-cfc0b5899002",
+  "repo": "flexprice/flexprice",
+  "url": "https://github.com/flexprice/flexprice",
+  "category": "Backend Framework",
+  "summary": "Flexprice là một nền tảp thanh toán và định giá dựa trên sử dụng dành cho nhà phát triển, hỗ trợ triển khai trên đám mây hoặc tự host, với giao diện no-code, đo lường sử dụng thời gian thực, quản lý tín dụng, tín dụng và điều khiển quyền truy cập tính năng.",
+  "usecases": [
+    "Triển khai hệ thống thanh toán dựa trên sử dụng cho các dịch vụ SaaS hoặc nền tảng đa thuê bao.",
+    "Quản lý và theo dõi vi phí sử dụng sản phẩm hoặc dịch vụ theo thời gian thực thông qua tích hợp với ClickHouse và Kafka.",
+    "Tích hợp cổng thanh toán Stripe để xử lý các giao dịch, nạp tiền và quản lý đăng ký người dùng."
+  ],
+  "ideas": [
+    "Xây dựng một nền tảng thương mại điện tử cho phép người dùng trả tiền theo lượng sử dụng thực tế của sản phẩm hoặc dịch vụ.",
+    "Kết hợp với hệ thống đăng ký phần mềm để tự động điều chỉnh quyền truy cập tính năng dựa trên gói dịch vụ hoặc số dư tín dụng.",
+    "Phát triển một bảng điều khiển quản trị viên no-code giúp doanh nghiệp dễ dàng cấu hình mô hình giá và theo dõi doanh thu."
+  ],
+  "stars": 6930,
+  "starsToday": 157,
+  "language": "Go",
+  "topics": [
+    "billing",
+    "clickhouse",
+    "events",
+    "go",
+    "kafka",
+    "postgresql",
+    "pricing",
+    "usage-based-pricing",
+    "stripe",
+    "stripe-subscriptions",
+    "subscription-management",
+    "temporal",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-23T23:39:03.561Z"
+}
