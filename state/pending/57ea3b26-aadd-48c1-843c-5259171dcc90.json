@@ -1,0 +1,28 @@
+{
+  "id": "57ea3b26-aadd-48c1-843c-5259171dcc90",
+  "repo": "vectorize-io/hindsight",
+  "url": "https://github.com/vectorize-io/hindsight",
+  "category": "AI Agent/Automation",
+  "summary": "Hindsight là thư viện memori cho AI agents, cho phép các agent ghi lại và học hỏi từ trải nghiệm quá khứ để cải thiện hiệu suất.",
+  "usecases": [
+    "AI agents tự cải thiện khả năng quyết định dựa trên lịch sử tương tác",
+    "Hỗ trợ tự động hóa quy trình với ghi nhận trạng thái và khôi phục",
+    "Tăng hiệu quả cho các hệ thống multi-agent bằng cách chia sẻ bộ nhớ chung"
+  ],
+  "ideas": [
+    "Kết hợp với LangChain hoặc AutoGen để tạo bộ nhớ dài hạn cho agent",
+    "Phát triển hệ thống tự học từ sai lầm và tối ưu hóa hành vi tự động",
+    "Áp dụng cho ứng dụng trò chuyện có ngữ cảnh kéo dài mà không cần huấn luyện lại"
+  ],
+  "stars": 27747,
+  "starsToday": 1607,
+  "language": "Python",
+  "topics": [
+    "agentic-ai",
+    "memory",
+    "agents",
+    "ai-memory"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-24T23:48:42.977Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "784bdafd-f406-44c7-8d1d-2b04e79ac892",
+  "repo": "strands-agents/harness-sdk",
+  "url": "https://github.com/strands-agents/harness-sdk",
+  "category": "AI Agent/Automation",
+  "summary": "Harness-sdk là SDK mã nguồn mở để xây dựng và kiểm soát các AI agent sản xuất trên Python và TypeScript, hỗ trợ bất kỳ mô hình và đám mây nào.",
+  "usecases": [
+    "Xây dựng và triển khai AI agent sản xuất với bất kỳ LLM nào",
+    "Quản lý và điều khiển luồng làm việc của nhiều agent trong môi trường đa agent",
+    "Tích hợp AI vào ứng dụng doanh nghiệp với hỗ trợ đa đám mây"
+  ],
+  "ideas": [
+    "Tạo nền tảng cho các công cụ tự động hóa quy trình doanh nghiệp (RPA) powered by AI",
+    "Phát triển hệ thống giám sát và điều khiển agent trong thời gian thực",
+    "Kết hợp với IoT để tạo các agent vật lý thông minh có khả năng tự lập"
+  ],
+  "stars": 8240,
+  "starsToday": 463,
+  "language": "Python",
+  "topics": [
+    "agentic",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "autonomous-agents",
+    "llm",
+    "multi-agent-systems",
+    "python",
+    "anthropic",
+    "mcp",
+    "bedrock",
+    "openai",
+    "strands-agents",
+    "agent-framework",
+    "ai-agents",
+    "generative-ai",
+    "llm-agent",
+    "sdk",
+    "typescript",
+    "harness"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-24T23:48:42.977Z"
+}

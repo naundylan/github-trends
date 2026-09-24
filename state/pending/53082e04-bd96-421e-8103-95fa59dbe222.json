@@ -1,0 +1,23 @@
+{
+  "id": "53082e04-bd96-421e-8103-95fa59dbe222",
+  "repo": "FxEmbed/FxEmbed",
+  "url": "https://github.com/FxEmbed/FxEmbed",
+  "category": "Developer Tool",
+  "summary": "Thư viện TypeScript giúp sửa và cải thiện embeds từ X/Twitter và Bluesky, hỗ trợ nhiều hình ảnh, video, polls, dịch thuật và trên Discord, Telegram và các nền tảng khác.",
+  "usecases": [
+    "Hiển thị preview liên kết đẹp và phong phú trong Discord/Telegram bots",
+    "Tích hợp nội dung đa phương tiện từ X/Twitter vào ứng dụng xã hội",
+    "Trích xuất và dịch tự động nội dung từ bài viết/X post cho các nền tảng khác"
+  ],
+  "ideas": [
+    "Kết hợp AI để tự động tạo mô tả cho embeds thiếu preview",
+    "Phát triển plugin VS Code hiển thị preview khi viết code",
+    "Sử dụng cho bot tự động đăng bài trên nhiều nền tảng cùng lúc"
+  ],
+  "stars": 5360,
+  "starsToday": 165,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-24T23:48:42.977Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e2e9f063-73e3-43ea-b5e7-773315a4d646",
+  "repo": "pdone/lx-music-source",
+  "url": "https://github.com/pdone/lx-music-source",
+  "category": "Desktop App",
+  "summary": "Nguồn nhạc nguồn mở cho ứng dụng lx-music, cung cấp các kênh phát nhạc và tìm kiếm bài hát cho phiên bản desktop và mobile.",
+  "usecases": [
+    "Phát nhạc trực tuyến với nhiều nguồn kênh music khác nhau trên desktop.",
+    "Tích hợp nguồn nhạc tùy chỉnh vào ứng dụng music cá nhân.",
+    "Sử dụng làm backend nguồn nhạc cho các ứng dụng di động tương thích."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tạo playlist tự động dựa trên lịch sử nghe nhạc.",
+    "Phát triển plugin cho các trình nghe nhạc khác sử dụng nguồn này.",
+    "Tạo dashboard thống kê nghe nhạc cá nhân từ các nguồn kết hợp."
+  ],
+  "stars": 9161,
+  "starsToday": 50,
+  "language": "JavaScript",
+  "topics": [
+    "lx-music",
+    "lx-music-desktop",
+    "lx-music-mobile"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-24T23:48:42.978Z"
+}

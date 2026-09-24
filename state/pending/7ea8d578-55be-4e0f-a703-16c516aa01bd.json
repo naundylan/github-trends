@@ -1,0 +1,23 @@
+{
+  "id": "7ea8d578-55be-4e0f-a703-16c516aa01bd",
+  "repo": "op7418/Humanizer-zh",
+  "url": "https://github.com/op7418/Humanizer-zh",
+  "category": "NLP",
+  "summary": "Humanizer-zh là phiên bản tiếng Chinese cho công cụ Humanizer, nhằm loại bỏ các dấu hiệu AI trong văn bản thông qua xử lý ngôn ngữ tự nhiên.",
+  "usecases": [
+    "Tăng tính tự nhiên cho nội dung marketing hoặc báo cáo được tạo bởi AI",
+    "Chỉnh sửa văn học hoặc tài liệu tự động để tránh phát hiện bởi công cụ phát hiện AI",
+    "Tích hợp vào quy trình Claude Code để làm mịn đầu ra văn bản code"
+  ],
+  "ideas": [
+    "Xây dựng API tự động humanize cho các dự án LLM đa ngôn ngữ",
+    "Kết hợp với các model dịch để giữ phong cách văn bản khi chuyển đổi ngôn ngữ",
+    "Nghiên cứu và cải thiện khả năng chống che lén AI trong nội dung sáng tạo"
+  ],
+  "stars": 18396,
+  "starsToday": 290,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/NLP.md",
+  "createdAt": "2026-09-24T23:48:42.977Z"
+}

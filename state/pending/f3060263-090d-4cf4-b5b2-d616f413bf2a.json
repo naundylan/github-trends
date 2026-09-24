@@ -1,0 +1,25 @@
+{
+  "id": "f3060263-090d-4cf4-b5b2-d616f413bf2a",
+  "repo": "BuilderIO/skills",
+  "url": "https://github.com/BuilderIO/skills",
+  "category": "AI/LLM",
+  "summary": "Kiến thức và kỹ năng cho agent AI, cung cấp module mở rộng để tăng khả năng tự động hóa và tương tác",
+  "usecases": [
+    "Tích hợp agent AI vào chatbot để xử lý tác vụ phức tạp",
+    "Tự động hóa quy trình văn phòng và quản lý dữ liệu",
+    "Mở rộng khả năng tương tác hệ thống cho agent thông qua skill cá nhân hóa"
+  ],
+  "ideas": [
+    "Phát triển skill cho agent đọc/ghi file và tương tác GUI",
+    "Kết hợp với LangChain hoặc các framework agent khác để tạo pipeline tự động",
+    "Tạo skill cá nhân hóa cho các ngành nghề cụ thể như y tế, tài chính"
+  ],
+  "stars": 4412,
+  "starsToday": 43,
+  "language": "JavaScript",
+  "topics": [
+    "skills"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-24T23:48:42.978Z"
+}
