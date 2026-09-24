@@ -1,0 +1,38 @@
+{
+  "id": "f7b373a2-9d4c-40cd-b559-aea1668dac17",
+  "repo": "harry7557558/spirula-studio",
+  "url": "https://github.com/harry7557558/spirula-studio",
+  "category": "Computer Vision",
+  "summary": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+  "usecases": [
+    "Training 3D Gaussian Splatting models for converting videos to 3D meshes",
+    "Optimizing VR/AR applications with GPU-accelerated splatting techniques",
+    "Developing cross-vendor compatible 3D reconstruction pipelines"
+  ],
+  "ideas": [
+    "Integrate with popular game engines like Unity or Unreal for real-time splatting",
+    "Create a lightweight mobile app version for AR experiences",
+    "Build benchmark suite to compare different splatting algorithms across hardware"
+  ],
+  "stars": 753,
+  "starsToday": 69,
+  "language": "C++",
+  "topics": [
+    "3d-gaussian-splatting",
+    "gaussian-splatting",
+    "3d-reconstruction",
+    "3dgs",
+    "computer-vision",
+    "360-camera",
+    "mesh-generation",
+    "cross-vendor",
+    "cuda",
+    "vulkan",
+    "vram-optimization",
+    "quantized-training",
+    "3dgs-acceleration",
+    "structure-from-motion"
+  ],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-09-24T02:49:39.841Z"
+}

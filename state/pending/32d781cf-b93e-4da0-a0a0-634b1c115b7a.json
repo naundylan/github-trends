@@ -1,0 +1,37 @@
+{
+  "id": "32d781cf-b93e-4da0-a0a0-634b1c115b7a",
+  "repo": "tw93/Pake",
+  "url": "https://github.com/tw93/Pake",
+  "category": "Desktop App",
+  "summary": "Turn any webpage into a desktop app with one command.",
+  "usecases": [
+    "Converting web-based tools into portable desktop applications",
+    "Building cross-platform desktop utilities without complex deployment",
+    "Rapid prototyping of desktop interfaces directly from web prototypes"
+  ],
+  "ideas": [
+    "Add support for additional programming languages beyond Rust",
+    "Implement offline-first functionality for unreliable network connections",
+    "Create a marketplace for pre-built Pake templates and components"
+  ],
+  "stars": 61688,
+  "starsToday": 68,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "tauri",
+    "no-electron",
+    "chatgpt",
+    "youtube",
+    "gemini",
+    "claude",
+    "desktop",
+    "hight-performance",
+    "linux",
+    "macos",
+    "package",
+    "windows"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-24T02:49:39.841Z"
+}

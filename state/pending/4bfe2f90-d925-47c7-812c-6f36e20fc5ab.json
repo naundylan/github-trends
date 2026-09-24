@@ -1,0 +1,23 @@
+{
+  "id": "4bfe2f90-d925-47c7-812c-6f36e20fc5ab",
+  "repo": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "category": "AI Agent/Automation",
+  "summary": "Một framework Python giúp biến phần mềm thành công cụ có thể điều khiển tự động bởi AI agent. Dự án nổi bật ở khả năng tích hợp nhiều CLI và phần mềm hiện có vào tác vụ agent mà không cần viết adapter riêng.",
+  "usecases": [
+    "Tự động hóa các tác vụ lặp lại bằng cách để AI agent điều khiển phần mềm dòng lệnh.",
+    "Kết nối nhiều công cụ phần mềm khác nhau vào một luồng làm việc agent đa công cụ.",
+    "Triển khai agent nội bộ để quản lý vận hành hệ thống và dịch vụ doanh nghiệp."
+  ],
+  "ideas": [
+    "Tự động sinh adapter agent cho các công cụ nội bộ chưa hỗ trợ AI.",
+    "Kết hợp với agent runtime để lập kế hoạch và thực thi chuỗi tác vụ qua nhiều CLI.",
+    "Phân tích lịch sử lệnh CLI để đề xuất và tự động hóa thao tác bằng ngôn ngữ tự nhiên."
+  ],
+  "stars": 49968,
+  "starsToday": 57,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-24T02:49:39.841Z"
+}

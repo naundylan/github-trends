@@ -1,0 +1,40 @@
+{
+  "id": "d5041973-7bb6-47b9-a0c0-bc56b67df20c",
+  "repo": "westpoint-io/mimik",
+  "url": "https://github.com/westpoint-io/mimik",
+  "category": "Productivity/Personal Tool",
+  "summary": "Mimik là tiện ích trình duyệt ghi lại quy trình thao tác và tự tạo hướng dẫn từng bước kèm ảnh chụp có chú thích. Dự án nhấn mạnh lưu trữ cục bộ, riêng tư và hỗ trợ Chrome, Firefox cùng Manifest V3.",
+  "usecases": [
+    "Tạo hướng dẫn vận hành hoặc quy trình nội bộ từ thao tác thực tế trên web.",
+    "Hướng dẫn người dùng mới cách hoàn thành các tác vụ lặp lại trong ứng dụng.",
+    "Lưu lại và chia sẻ quy trình làm việc mà không cần lộ dữ liệu ra bên ngoài."
+  ],
+  "ideas": [
+    "Tích hợp với công cụ quản trị nội dung để tự động xuất tài liệu hướng dẫn sau mỗi lần cập nhật giao diện.",
+    "Phát hiện thao tác trùng lặp trong quy trình và đề xuất cách tối ưu hóa.",
+    "Thêm chế độ ẩn thông tin nhạy cảm trước khi lưu hoặc chia sẻ ảnh chụp."
+  ],
+  "stars": 1207,
+  "starsToday": 75,
+  "language": "TypeScript",
+  "topics": [
+    "browser-extension",
+    "chrome-extension",
+    "documentation",
+    "firefox-extension",
+    "local-first",
+    "manifest-v3",
+    "privacy-first",
+    "productivity",
+    "react",
+    "screenshot",
+    "step-by-step-guide",
+    "tutorial",
+    "typescript",
+    "workflow",
+    "wxt",
+    "guide-generator"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-24T02:49:39.841Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "c28e3724-c935-492a-8c24-4e6940bf9513",
+  "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+  "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+  "category": "Security/Pentest",
+  "summary": "Anthropic-Cybersecurity-Skills cung cấp 817 kỹ năng an ninh mạng được cấu trúc, ánh xạ đến nhiều khung tiêu chuẩn, hỗ trợ các tác nhân AI trong phản ứng sự cố và kiểm tra bảo mật.",
+  "usecases": [
+    "Tự động hóa việc đánh giá kỹ năng an ninh mạng cho các tác nhân AI.",
+    "Tích hợp với các nền tảng như Claude Code, GitHub Copilot để cung cấp gợi ý bảo mật.",
+    "Hỗ trợ kiểm toán tuân thủ các khung như MITRE ATT&CK, NIST CSF trong các hệ thống AI."
+  ],
+  "ideas": [
+    "Phát triển một bảng điều khiển trực quan để theo dõi tiến trình kỹ năng an ninh mạng của tác nhân AI.",
+    "Tích hợp với các công cụ CI/CD để tự động kiểm tra các lỗ hổng dựa trên các kỹ năng đã ánh xạ."
+  ],
+  "stars": 33284,
+  "starsToday": 84,
+  "language": "Python",
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "cybersecurity",
+    "incident-response",
+    "mitre-attack",
+    "penetration-testing",
+    "red-team",
+    "security",
+    "cloud-security",
+    "malware-analysis",
+    "devsecops",
+    "ethical-hacking",
+    "infosec",
+    "llm",
+    "mcp",
+    "osint",
+    "security-automation",
+    "threat-intelligence",
+    "nist-csf",
+    "threat-hunting"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-24T02:49:39.841Z"
+}

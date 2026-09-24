@@ -1,0 +1,28 @@
+{
+  "id": "a376240e-86b3-416b-be40-bf1fc3785fad",
+  "repo": "XiaomiMiMo/MiMo-Code",
+  "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+  "category": "AI/LLM",
+  "summary": "MiMo-Code là một công cụ TypeScript giúp các mô hình và tác nhân AI cùng phát triển và cải tiến lẫn nhau, hỗ trợ xây dựng các hệ thống tác nhân thông minh có khả năng tiến hóa đồng thời.",
+  "usecases": [
+    "Xây dựng các tác nhân AI có khả năng tự học hỏi và thích ứng trong môi trường động.",
+    "Tích hợp vào các pipeline phát triển phần mềm để tự động hóa việc cải tiến mô hình.",
+    "Thử nghiệm các chiến lược học tăng cường kết hợp mô hình và tác nhân."
+  ],
+  "ideas": [
+    "Kết hợp MiMo-Code với các mô hình ngôn ngữ lớn để tạo ra các tác nhân có khả năng lập trình tự động.",
+    "Sử dụng nó trong các môi trường simulation để thử nghiệm các cơ chế tiến hóa đồng thời."
+  ],
+  "stars": 13446,
+  "starsToday": 86,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "cli",
+    "mimo",
+    "mimo-code"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-24T02:49:39.840Z"
+}

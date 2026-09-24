@@ -1,0 +1,41 @@
+{
+  "id": "973d6595-dcf3-4022-9e60-eb5a483747be",
+  "repo": "acsandmann/rift",
+  "url": "https://github.com/acsandmann/rift",
+  "category": "Desktop App",
+  "summary": "Một trình quản lý cửa sổ xếp lớp viết bằng Rust cho macOS, mang trải nghiệm i3-style sang hệ điều hành này. Rift tập trung vào tổ chức cửa sổ bằng bàn phím, bố cục động và khả năng tùy biến cao.",
+  "usecases": [
+    "Tổ chức nhiều cửa sổ làm việc theo bố cục xếp lớp khi dùng macOS.",
+    "Tạo môi trường làm việc năng suất cho lập trình viên và người dùng thích điều khiển bằng bàn phím.",
+    "Áp dụng mô hình quản lý cửa sổ kiểu i3 hoặc PaperWM trên macOS."
+  ],
+  "ideas": [
+    "Đồng bộ tự động bố cục cửa sổ theo từng ứng dụng hoặc không gian làm việc.",
+    "Tích hợp tìm kiếm ứng dụng và lệnh nhanh để mở, di chuyển hoặc đóng cửa sổ.",
+    "Mở rộng hệ thống bằng plugin tùy biến bố cục và hành vi quản lý cửa sổ."
+  ],
+  "stars": 2457,
+  "starsToday": 55,
+  "language": "Rust",
+  "topics": [
+    "i3",
+    "macos",
+    "tiling",
+    "i3wm",
+    "mac",
+    "rust",
+    "tiling-window-manager",
+    "window-manager",
+    "niri",
+    "paperwm",
+    "scrolling",
+    "rift",
+    "twm",
+    "wm",
+    "aerospace",
+    "yabai",
+    "hyprland"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-24T02:49:39.841Z"
+}
