@@ -1,0 +1,31 @@
+{
+  "id": "1be5d2d3-4044-4e93-b9c9-3b10c9cd4633",
+  "repo": "ArvinLovegood/go-stock",
+  "url": "https://github.com/ArvinLovegood/go-stock",
+  "category": "Other",
+  "summary": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+  "usecases": [
+    "Khám phá và đánh giá ArvinLovegood/go-stock cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 7695,
+  "starsToday": 87,
+  "language": "Go",
+  "topics": [
+    "stock",
+    "golang",
+    "naiveui",
+    "wails",
+    "deepseek",
+    "lmstudio",
+    "ollama",
+    "openai",
+    "ai-tools"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-24T18:59:53.811Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "37d94289-e7e1-4592-850e-3658156242f1",
+  "repo": "juspay/hyperswitch",
+  "url": "https://github.com/juspay/hyperswitch",
+  "category": "API/GraphQL",
+  "summary": "Open-source payments orchestration platform enabling connectivity to multiple payment providers with intelligent routing, PCI compliance, and cost observability.",
+  "usecases": [
+    "Unified integration with multiple payment gateways (Stripe, Adyen) through a single API for transaction management.",
+    "Intelligent payment routing to improve authorization rates and reduce processing costs based on real-time observability.",
+    "Building PCI-compliant payment flows for SaaS or self-hosted applications without managing multiple provider integrations."
+  ],
+  "ideas": [
+    "Combining with fraud detection APIs for real-time transaction risk scoring.",
+    "Creating a white-label payment portal for resellers using hyperswitch's modular components.",
+    "Integrating local payment methods in specific regions to expand global e-commerce reach."
+  ],
+  "stars": 43909,
+  "starsToday": 149,
+  "language": "Rust",
+  "topics": [
+    "payments",
+    "rust",
+    "orchestration",
+    "hacktoberfest",
+    "beginner-friendly",
+    "featured",
+    "high-performance",
+    "open-source",
+    "restful-api",
+    "sdk",
+    "works-with-react",
+    "finance",
+    "payment",
+    "payment-gateway",
+    "payment-integration",
+    "payment-processing",
+    "fintech",
+    "payments-platform",
+    "adyen",
+    "stripe"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-24T18:59:53.811Z"
+}

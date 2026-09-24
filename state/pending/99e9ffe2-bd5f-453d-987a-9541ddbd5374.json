@@ -1,0 +1,35 @@
+{
+  "id": "99e9ffe2-bd5f-453d-987a-9541ddbd5374",
+  "repo": "aayushch/laya",
+  "url": "https://github.com/aayushch/laya",
+  "category": "Other",
+  "summary": "Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook, Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK.",
+  "usecases": [
+    "Khám phá và đánh giá aayushch/laya cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 272,
+  "starsToday": 79,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "automation",
+    "notifications",
+    "productivity",
+    "tools",
+    "byok",
+    "lmstudio",
+    "localai",
+    "notification-aggregation",
+    "ollama",
+    "local-first",
+    "local-first-ai"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-24T18:59:53.811Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "3d769ae4-820e-4e85-9c85-f0aade322589",
+  "repo": "Asymptote-Labs/agent-beacon",
+  "url": "https://github.com/Asymptote-Labs/agent-beacon",
+  "category": "AI Agent/Automation",
+  "summary": "Lớp memoire tự cải thiện xuyên harness cho AI agents, cung cấp khả năng ghi nhớ và tự tối ưu cho các agent AI.",
+  "usecases": [
+    "Quản lý và tự cải thiện memory cho AI agents trong các môi trường làm việc đa nền tảng.",
+    "Tích hợp với các CLI tool và agent harnesses để theo dõi và phát hiện bảo mật.",
+    "Cung cấp telemetry và observability cho các agent AI trong production."
+  ],
+  "ideas": [
+    "Kết hợp với các framework agent như Claude Code hay Codex để tạo ra một memory layer chung.",
+    "Phát triển plugin cho các IDE để agents có thể lưu trữ context dài hạn.",
+    "Sử dụng observability traces để đánh giá hiệu suất self-improvement."
+  ],
+  "stars": 1485,
+  "starsToday": 218,
+  "language": "Go",
+  "topics": [
+    "security-tools",
+    "agent-ai-cli",
+    "agent-security",
+    "mobile-device-management",
+    "security-information-and-event-management",
+    "security",
+    "ci",
+    "cloud",
+    "claude-code",
+    "codex",
+    "cursor",
+    "detection-engineering",
+    "browser-extension",
+    "agent-harnesses",
+    "jev",
+    "knowledge-base",
+    "memory",
+    "observability",
+    "telemetry",
+    "traces"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-24T18:59:53.811Z"
+}

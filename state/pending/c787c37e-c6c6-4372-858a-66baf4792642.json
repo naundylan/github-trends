@@ -1,0 +1,34 @@
+{
+  "id": "c787c37e-c6c6-4372-858a-66baf4792642",
+  "repo": "zeronsh/zeron",
+  "url": "https://github.com/zeronsh/zeron",
+  "category": "AI Agent/Automation",
+  "summary": "Native control plane orchestrating and managing AI coding agents like Claude Code, Codex, Cursor, and Devin for streamlined software development workflows.",
+  "usecases": [
+    "Centralized management and switching between multiple AI coding assistants within a single development environment.",
+    "Local-first execution of code generation and automation tasks ensuring data privacy and offline capability.",
+    "Automating repetitive coding tasks such as boilerplate generation, refactoring, and test creation across IDEs."
+  ],
+  "ideas": [
+    "Integrating with version control to auto-commit AI-generated code changes with proper attribution and review workflows.",
+    "Building a plugin that syncs agent context across devices, preserving conversation state and project knowledge for continuous AI assistance.",
+    "Creating a dashboard monitoring agent performance, success rates, and token usage to optimize development productivity and costs."
+  ],
+  "stars": 2205,
+  "starsToday": 129,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "cursor",
+    "developer-tools",
+    "gpui",
+    "local-first",
+    "open-source",
+    "rust"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-24T18:59:53.811Z"
+}

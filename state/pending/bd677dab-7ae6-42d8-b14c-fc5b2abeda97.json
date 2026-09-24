@@ -1,0 +1,36 @@
+{
+  "id": "bd677dab-7ae6-42d8-b14c-fc5b2abeda97",
+  "repo": "androoAGI/starnet",
+  "url": "https://github.com/androoAGI/starnet",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop local-first cho các AI agent thực hiện tác vụ, hiển thị kết quả qua giao diện pixel-art động.",
+  "usecases": [
+    "Tự động hóa tác vụ lặp đi lặp lại bằng các AI agent độc lập trên máy tính cá nhân.",
+    "Giám sát và theo dõi tiến trình tác vụ AI qua giao diện trực quan pixel-art.",
+    "Triển khai các crew AI đa tác vụ mà không phụ thuộc vào dịch vụ đám mây."
+  ],
+  "ideas": [
+    "Kết hợp mô hình LLM cục bộ để tạo công cụ tự động hóa hoàn toàn offline và riêng tư.",
+    "Mở rộng hiển thị pixel-art để thể hiện các metrics phức tạp như token sử dụng, thời gian phản hồi.",
+    "Xây dựng marketplace plugin cho các agent chuyên biệt (game AI, scraping, xử lý dữ liệu)."
+  ],
+  "stars": 237,
+  "starsToday": 95,
+  "language": "JavaScript",
+  "topics": [
+    "agent-harness",
+    "ai",
+    "ai-agents",
+    "byok",
+    "desktop-app",
+    "game-ui",
+    "llm",
+    "local-first",
+    "multi-agent",
+    "openrouter",
+    "pixel-art",
+    "tauri"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-24T18:59:53.811Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "4f5df744-5368-42fa-8bc6-bd4459210689",
+  "repo": "leejet/stable-diffusion.cpp",
+  "url": "https://github.com/leejet/stable-diffusion.cpp",
+  "category": "AI/LLM",
+  "summary": "Dự án thực hiện inference các mô hình diffusion (SD, Flux, Wan, Qwen Image, Z-Image...) hoàn toàn bằng C/C++ sử dụng ggml, cho phép tạo hình ảnh và video từ text hoặc ảnh đầu vào trên các thiết bị có tài nguyên hạn chế.",
+  "usecases": [
+    "Chạy inference diffusion trên máy tính không có GPU mạnh",
+    "Tạo hình ảnh text2img và img2img trong ứng dụng di động hoặc embedded",
+    "Sinh video từ text (text2video) cho các dự án multimedia"
+  ],
+  "ideas": [
+    "Tích hợp vào browser qua WebAssembly để generate ảnh trên client",
+    "Tối ưu cho các thiết bị IoT/Raspberry Pi để chạy model nhẹ",
+    "Tạo pipeline tự động generate ảnh cho marketing nội bộ"
+  ],
+  "stars": 7201,
+  "starsToday": 69,
+  "language": "C++",
+  "topics": [
+    "ai",
+    "cplusplus",
+    "diffusion",
+    "ggml",
+    "image-generation",
+    "latent-diffusion",
+    "stable-diffusion",
+    "text2image",
+    "txt2img",
+    "image2image",
+    "img2img",
+    "flux",
+    "flux-dev",
+    "videogeneration",
+    "wan",
+    "qwen-image",
+    "z-image",
+    "z-image-turbo",
+    "ltx-video"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-24T18:59:53.811Z"
+}
