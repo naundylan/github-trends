@@ -1,0 +1,23 @@
+{
+  "id": "c9310d04-58ee-4bef-b4ef-385ded7acc3c",
+  "repo": "op7418/Humanizer-zh",
+  "url": "https://github.com/op7418/Humanizer-zh",
+  "category": "Developer Tool",
+  "summary": "Bản dịch tiếng Trung của thư viện Humanizer, giúp loại bỏ các dấu vết do AI tạo ra trong văn bản, hỗ trợ viết nội dung tự nhiên hơn.",
+  "usecases": [
+    "Giúp các nhà phát triển loại bỏ các dấu hiệu do AI tạo ra trong văn bản, phục vụ cho việc tạo nội dung.",
+    "Hỗ trợ dịch các tính năng của Humanizer sang tiếng Trung để mở rộng phạm vi sử dụng.",
+    "Tích hợp với Claude Code Skills để cải thiện chất lượng đầu ra văn bản."
+  ],
+  "ideas": [
+    "Tích hợp bản dịch này vào các công cụ phát hiện nội dung do AI tạo ra để tự động phát hiện và sửa đổi.",
+    "Xây dựng một tiện ích mở rộng trình duyệt sử dụng bản dịch Humanizer-zh để làm cho các phản hồi do AI tạo ra nghe tự nhiên hơn trong các cuộc trò chuyện.",
+    "Kết hợp với một dịch vụ viết thư pháp để tạo ra các tác phẩm văn học được phiên âm sang tiếng Trung mà không có dấu vết của AI."
+  ],
+  "stars": 18352,
+  "starsToday": 290,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-24T14:13:49.959Z"
+}

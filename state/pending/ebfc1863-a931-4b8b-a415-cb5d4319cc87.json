@@ -1,0 +1,25 @@
+{
+  "id": "ebfc1863-a931-4b8b-a415-cb5d4319cc87",
+  "repo": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Kho chứa các kỹ năng (skills) cho Agent AI, giúp mở rộng khả năng tự động hóa và tương tác trong hệ thống AI.",
+  "usecases": [
+    "Cung cấp module kỹ năng có sẵn để Agent thực hiện tác vụ cụ thể như đặt lịch, tìm thông tin.",
+    "Phát triển nhanh ứng dụng AI Agent cho doanh nghiệp bằng cách kết hợp các skill có sẵn.",
+    "Cho phép cộng đồng đóng góp và tái sử dụng các pattern tương tác Agent."
+  ],
+  "ideas": [
+    "Xây hệ thống tự động hóa văn phòng nơi Agent gọi skill theo luồng làm việc định nghĩa.",
+    "Marketplace kỹ năng cho phép người dùng thuê hoặc cài đặt skill cho Agent riêng.",
+    "Sử dụng skills để Agent học văn hóa địa phương khi di chuyển quốc tế."
+  ],
+  "stars": 177914,
+  "starsToday": 158,
+  "language": "Python",
+  "topics": [
+    "agent-skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-24T14:13:49.959Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "9f9a9b92-9c97-4827-a335-8ce0bd1e305a",
+  "repo": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "category": "CLI Tool",
+  "summary": "CLI hub mã nguồn mở biến mọi phần mềm thành agent-native, cho phép agent AI tương tác và kiểm soát ứng dụng truyền thống.",
+  "usecases": [
+    "Cho phép agent AI điều khiển ứng dụng desktop thông qua lệnh CLI",
+    "Tự động hóa quy trình làm việc phức tạp giữa các công cụ không có API hiện đại",
+    "Tích hợp AI assistance vào phần mềm legacy qua giao diện CLI"
+  ],
+  "ideas": [
+    "Xây dựng bộ điều khiển AI toàn cầu có thể điều hướng bất kỳ phần mềm nào qua CLI",
+    "Tạo hệ thống plugin agent học cách sử dụng phần mềm mới thông qua mẫu CLI",
+    "Kết hợp với nhận dạng giọng nói để kiểm soát phần mềm hands-free qua agent AI"
+  ],
+  "stars": 50172,
+  "starsToday": 415,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-24T14:13:49.959Z"
+}

@@ -206,8 +206,8 @@
   },
   "alirezarezvani/claude-skills": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-07-09",
-    "last_saved": "2026-07-06"
+    "last_seen": "2026-09-24",
+    "last_saved": "2026-09-24"
   },
   "steipete/CodexBar": {
     "first_seen": "2026-07-06",
@@ -271,8 +271,8 @@
   },
   "anthropics/skills": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-09-06",
-    "last_saved": "2026-08-27"
+    "last_seen": "2026-09-24",
+    "last_saved": "2026-09-24"
   },
   "TencentCloud/TencentDB-Agent-Memory": {
     "first_seen": "2026-07-07",
@@ -386,7 +386,7 @@
   },
   "stablyai/orca": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-09-24",
     "last_saved": "2026-09-12"
   },
   "wealthfolio/wealthfolio": {
@@ -446,7 +446,7 @@
   },
   "block/buzz": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-09-19",
+    "last_seen": "2026-09-24",
     "last_saved": "2026-09-16"
   },
   "ruvnet/ruflo": {
@@ -566,8 +566,8 @@
   },
   "cloudflare/cloudflare-os": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-08-26",
-    "last_saved": "2026-08-25"
+    "last_seen": "2026-09-24",
+    "last_saved": "2026-09-24"
   },
   "moeru-ai/airi": {
     "first_seen": "2026-08-25",
@@ -616,8 +616,8 @@
   },
   "rohitg00/ai-engineering-from-scratch": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-12",
-    "last_saved": "2026-08-26"
+    "last_seen": "2026-09-24",
+    "last_saved": "2026-09-24"
   },
   "DietrichGebert/ponytail": {
     "first_seen": "2026-08-26",
@@ -756,7 +756,7 @@
   },
   "every-app/open-seo": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-09-19",
+    "last_seen": "2026-09-24",
     "last_saved": "2026-09-19"
   },
   "chuspeeism/dashi-ppt-skill": {
@@ -781,8 +781,8 @@
   },
   "harry0703/MoneyPrinterTurbo": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-09-15",
-    "last_saved": "2026-08-29"
+    "last_seen": "2026-09-24",
+    "last_saved": "2026-09-24"
   },
   "vercel-labs/vgpu": {
     "first_seen": "2026-08-29",
@@ -936,8 +936,8 @@
   },
   "farion1231/cc-switch": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-12",
-    "last_saved": "2026-09-01"
+    "last_seen": "2026-09-24",
+    "last_saved": "2026-09-24"
   },
   "dmtrKovalenko/fff": {
     "first_seen": "2026-09-01",
@@ -1141,7 +1141,7 @@
   },
   "jlcodes99/cockpit-tools": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-24",
     "last_saved": "2026-09-05"
   },
   "aipoch/open-science": {
@@ -1176,7 +1176,7 @@
   },
   "experientiallabs/experiential": {
     "first_seen": "2026-09-06",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-24",
     "last_saved": "2026-09-06"
   },
   "AdventDevInc/kudu": {
@@ -1566,7 +1566,7 @@
   },
   "Mathieu2301/TradingView-API": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-24",
     "last_saved": "2026-09-14"
   },
   "searxng/searxng": {
@@ -1676,7 +1676,7 @@
   },
   "remotion-dev/remotion": {
     "first_seen": "2026-09-16",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-24",
     "last_saved": "2026-09-16"
   },
   "koala73/worldmonitor": {
@@ -1791,7 +1791,7 @@
   },
   "remorses/gpuix": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-24",
     "last_saved": "2026-09-18"
   },
   "docling-project/docling": {
@@ -2044,52 +2044,32 @@
     "last_seen": "2026-09-24",
     "last_saved": "2026-09-23"
   },
-  "usebruno/bruno": {
+  "vectorize-io/hindsight": {
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
     "last_saved": "2026-09-24"
   },
-  "spotify/portal-ai-plugins": {
+  "FxEmbed/FxEmbed": {
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
     "last_saved": "2026-09-24"
   },
-  "CopilotKit/CopilotKit": {
+  "HKUDS/CLI-Anything": {
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
     "last_saved": "2026-09-24"
   },
-  "opengeos/GeoLibre": {
+  "strands-agents/harness-sdk": {
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
     "last_saved": "2026-09-24"
   },
-  "AtomicBot-ai/Atomic-Chat": {
+  "op7418/Humanizer-zh": {
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
     "last_saved": "2026-09-24"
   },
-  "zzet/gortex": {
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-09-24",
-    "last_saved": "2026-09-24"
-  },
-  "projectdiscovery/nuclei": {
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-09-24",
-    "last_saved": "2026-09-24"
-  },
-  "maximhq/bifrost": {
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-09-24",
-    "last_saved": "2026-09-24"
-  },
-  "longbridge/gpui-kit": {
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-09-24",
-    "last_saved": "2026-09-24"
-  },
-  "moghtech/komodo": {
+  "cactus-compute/needle": {
     "first_seen": "2026-09-24",
     "last_seen": "2026-09-24",
     "last_saved": "2026-09-24"

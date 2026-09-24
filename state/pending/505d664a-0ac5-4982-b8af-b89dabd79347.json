@@ -1,0 +1,44 @@
+{
+  "id": "505d664a-0ac5-4982-b8af-b89dabd79347",
+  "repo": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "category": "Documentation/Learning Resource",
+  "summary": "Dự án hướng dẫn xây dựng các hệ thống AI từ cơ bản đến nâng cao, bao gồm các chủ đề như LLM, computer vision, reinforcement learning, agents và nhiều hơn nữa, với mã nguồn mở bằng Python và TypeScript.",
+  "usecases": [
+    "Sử dụng như một khóa học toàn diện để học cách xây dựng các hệ thống AI từ đầu.",
+    "Cung cấp các ví dụ thực tế về triển khai các mô hình LLM, computer vision, reinforcement learning.",
+    "Hỗ trợ các nhà phát triển xây dựng các tác nhân AI và hệ thống swarm intelligence."
+  ],
+  "ideas": [
+    "Xây dựng một phòng thí nghiệm AI tương tác dựa trên repository này, kết hợp với các mô phỏng thực tế ảo.",
+    "Phát triển một nền tảng học tập trực tuyến tích hợp các ví dụ từ repository này với các bài kiểm tra tương tác.",
+    "Tạo một bộ công cụ CLI để tổng hợp nhanh các thành phần AI từ repository này."
+  ],
+  "stars": 56023,
+  "starsToday": 310,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-engineering",
+    "computer-vision",
+    "course",
+    "deep-learning",
+    "from-scratch",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "nlp",
+    "python",
+    "reinforcement-learning",
+    "rust",
+    "swarm-intelligence",
+    "transformers",
+    "tutorial",
+    "typescript"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-24T14:13:49.959Z"
+}
