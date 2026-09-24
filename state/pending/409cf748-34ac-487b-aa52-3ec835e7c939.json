@@ -1,0 +1,28 @@
+{
+  "id": "409cf748-34ac-487b-aa52-3ec835e7c939",
+  "repo": "longbridge/gpui-kit",
+  "url": "https://github.com/longbridge/gpui-kit",
+  "category": "UI/Component Library",
+  "summary": "GPUI Kit là một thư viện thành phần giao diện người dùng bằng Rust, cho phép xây dựng các ứng dụng desktop đa nền tảng một cách dễ dàng và hiệu suất cao thông qua framework GPUI.",
+  "usecases": [
+    "Tạo các ứng dụng desktop như trình soạn thảo mã, công cụ quản lý tác vụ hoặc phần mềm thiết kế đồ họa với giao diện người dùng mượt mà trên Windows, macOS và Linux.",
+    "Xây dựng các prototype nhanh chóng cho các sản phẩm nội bộ bằng cách tái sử dụng các thành phần có sẵn, giảm thời gian phát triển so với các công nghệ native truyền thống.",
+    "Phát triển các công cụ phân tích hoặc giám sát cung cấp giao diện người dùng phản hồi nhanh, trực quan hóa dữ liệu thời gian thực và hoạt động trơn tru mà không cần trình duyệt."
+  ],
+  "ideas": [
+    "Tích hợp GPUI Kit với các binding của hệ thống tệp Rust (ví dụ: tokio-fs) để xây dựng một trình quản lý tệp toàn tính năng với giao diện người dùng được render bằng Rust.",
+    "Kết hợp với các thư viện AI/LLM (như tokenizers) để tạo các ứng dụng hỗ trợ AI, chẳng hạn như trình soạn thảo mã thông minh hoặc công cụ hỗ trợ viết tài liệu.",
+    "Xây dựng một framework UI có thể mở rộng cho các plugin, cho phép các nhà phát triển bên thứ ba đóng góp các thành phần giao diện người dùng có thể tái sử dụng."
+  ],
+  "stars": 14707,
+  "starsToday": 43,
+  "language": "Rust",
+  "topics": [
+    "gpui",
+    "desktop-application",
+    "uikit",
+    "rust"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-24T08:18:15.706Z"
+}

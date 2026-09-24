@@ -1,0 +1,23 @@
+{
+  "id": "0815b1e8-f4cc-43a5-ae39-991dee078aa7",
+  "repo": "spotify/portal-ai-plugins",
+  "url": "https://github.com/spotify/portal-ai-plugins",
+  "category": "AI/LLM",
+  "summary": "Portal AI Plugins là bộ công cụ TypeScript cho phép phát triển các plugin AI tích hợp với Spotify Portal, hỗ trợ tạo trải nghiệm âm nhạc thông minh dựa trên mô hình ngôn ngữ lớn.",
+  "usecases": [
+    "Tạo plugin đề xuất playlist dựa trên mood và ngữ cảnh người dùng",
+    "Xây dựng trợ lý ảo trong ứng dụng Spotify để điều khiển phát nhạc bằng giọng nói",
+    "Phát triển công cụ phân tích lời bài hát và tạo bình luận tự động bằng AI"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình diffusion để tạo hình ảnh bìa album dựa trên nội dung bài hát",
+    "Sử dụng plugin để tạo bản dịch lời bài hát thời gian thực cho nhiều ngôn ngữ",
+    "Phát triển trò chơi tương tác âm nhạc nơi AI tạo ra thử thách dựa trên bản nhạc đang phát"
+  ],
+  "stars": 2223,
+  "starsToday": 32,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-24T08:18:15.707Z"
+}

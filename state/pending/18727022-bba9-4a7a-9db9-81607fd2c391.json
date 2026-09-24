@@ -1,0 +1,40 @@
+{
+  "id": "18727022-bba9-4a7a-9db9-81607fd2c391",
+  "repo": "maximhq/bifrost",
+  "url": "https://github.com/maximhq/bifrost",
+  "category": "AI/LLM",
+  "summary": "Bifrost là một gateway AI doanh nghiệp tốc độ cao, hỗ trợ hơn 1000 mô hình với khả năng cân bằng tải thích ứng, chế độ cluster và guardrails, giúp giảm chi phí và tăng hiệu suất quan sát LLM.",
+  "usecases": [
+    "Phục vụ các yêu cầu suy luận LLM cho nhiều ứng dụng doanh nghiệp với độ trễ dưới 100 µs ở quy mô 5k yêu cầu mỗi giây.",
+    "Tích hợp nhiều nhà cung cấp mô hình AI (OpenAI, Anthropic, mô hình cục bộ) thông qua một điểm cuối thống nhất, đồng thời thực thi các quy tắc bảo mật và kiểm soát chi phí.",
+    "Giám sát và ghi lại chi tiết việc sử dụng token, hiệu suất mô hình và các sự kiện bất thường để hỗ trợ LLM Ops."
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống CI/CD để tự động đánh giá và tối ưu hóa chi phí của các lời nhắc LLM trong quá trình phát triển.",
+    "Xây dựng một bảng điều khiển quan sát thời gian thực hiển thị lưu lượng truy cập vào gateway, các điểm nghẽn và các cảnh báo về guardrail.",
+    "Kết hợp với các công cụ phát hiện xâm nhập để chặn các yêu cầu độc hại trước khi chúng đến các mô hình nền tảng."
+  ],
+  "stars": 8303,
+  "starsToday": 48,
+  "language": "Go",
+  "topics": [
+    "gateway",
+    "llm",
+    "llm-gateway",
+    "mcp-client",
+    "mcp-server",
+    "guardrails",
+    "mcp-gateway",
+    "ai-gateway",
+    "gateway-services",
+    "generative-ai",
+    "llm-cost",
+    "llm-observability",
+    "llmops",
+    "load-balancing",
+    "token-management",
+    "model-router"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-24T08:18:15.706Z"
+}

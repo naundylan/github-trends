@@ -1,0 +1,43 @@
+{
+  "id": "71a44133-b94f-48e8-b97e-83527302ce1a",
+  "repo": "zzet/gortex",
+  "url": "https://github.com/zzet/gortex",
+  "category": "Developer Tool",
+  "summary": "Gortex là một engine phân tích mã hiệu suất cao, hoạt động cục bộ, hỗ trợ 257 ngôn ngữ và nhiều kho lưu trữ, được xây dựng trên đồ thị tri thức, cho phép các agent AI truy vấn mã thông qua CLI, MCP Server và API, giúp giảm đáng kể lượng token sử dụng.",
+  "usecases": [
+    "Cung cấp context cho AI coding assistant trong IDE bằng cách truy vấn graph tri thức mã nguồn.",
+    "Phân tích mã nguồn đa ngôn ngữ cho các công cụ code intelligence và phát hiện lỗ hổng bảo mật.",
+    "Tối ưu hóa cửa sổ context cho các agent AI bằng cách truy xuất thông tin liên quan từ graph, giảm lượng token cần thiết."
+  ],
+  "ideas": [
+    "Tích hợp Gortex với các IDE hiện có qua extension để cung cấp các gợi ý code dựa trên graph tri thức.",
+    "Sử dụng graph của Gortex làm backend cho các công cụ code generation như Cursor hoặc Windsurf để tăng độ chính xác và giảm token."
+  ],
+  "stars": 1732,
+  "starsToday": 37,
+  "language": "Go",
+  "topics": [
+    "ai-tools",
+    "antigravity",
+    "claude-code",
+    "code-assistant",
+    "copilot",
+    "cursor",
+    "graphrag",
+    "kiro",
+    "knowledge-graph",
+    "mcp-server",
+    "windsurf",
+    "tokens",
+    "context-window",
+    "context-window-optimization",
+    "context-window-optimizer",
+    "skills",
+    "prompts",
+    "local-first",
+    "code-analysis",
+    "developer-tools"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-24T08:18:15.707Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "808cb49a-4dea-45e4-9d0c-0376df98554f",
+  "repo": "moghtech/komodo",
+  "url": "https://github.com/moghtech/komodo",
+  "category": "DevOps/CI-CD",
+  "summary": "Komodo là một công cụ viết bằng Rust giúp tự động hóa việc build và deploy phần mềm lên nhiều server cùng lúc, tối ưu hóa quy trình DevOps cho các môi trường đa chủ máy.",
+  "usecases": [
+    "Deploy ứng dụng web lên nhiều server production cùng lúc.",
+    "Tự động hóa CI/CD cho microservices architecture across diverse environments.",
+    "Quản lý và đồng bộ bản vá (hotfixes) đến nhiều server cùng lúc mà không cần SSH thủ công."
+  ],
+  "ideas": [
+    "Kết hợp với Terraform để quản lý infrastructure as code kèm deploy.",
+    "Phát triển plugin cho các hệ thống monitoring như Prometheus để theo sát trạng thái deploy real-time.",
+    "Sử dụng làm foundation cho các platform internal developer portal cần tự service deployment."
+  ],
+  "stars": 12479,
+  "starsToday": 43,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-09-24T08:18:15.707Z"
+}

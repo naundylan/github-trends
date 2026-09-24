@@ -1,0 +1,44 @@
+{
+  "id": "d31445f5-d6a6-469b-9ba6-7f62debc5e4e",
+  "repo": "AtomicBot-ai/Atomic-Chat",
+  "url": "https://github.com/AtomicBot-ai/Atomic-Chat",
+  "category": "AI/LLM",
+  "summary": "Ứng dụng AI chạy cục bộ và engine inference cho agents, cho phép chạy open-weight LLMs hoàn toàn offline trên máy cá nhân",
+  "usecases": [
+    "Hỗ trợ AI riêng tư cho lập trình viết code mà không lo rò rỉ dữ liệu",
+    "Test và tinh chỉnh prompt cho LLMs offline cho nhà nghiên cứu",
+    "Agent AI cục bộ cho tác vụ tự động hóa trong môi trường mạng bị giới hạn"
+  ],
+  "ideas": [
+    "Kết hợp với vector database cục bộ cho RAG offline",
+    "Tạo desktop assistant đa nền tảng hoạt động hoàn toàn offline",
+    "Tích hợp vào workflow tự động hóa hệ thống cho quản trị viên"
+  ],
+  "stars": 1610,
+  "starsToday": 30,
+  "language": "TypeScript",
+  "topics": [
+    "ai-chat",
+    "ai-tools",
+    "apple-silicon",
+    "chatgpt",
+    "deepseek",
+    "desktop-app",
+    "gemma",
+    "gguf",
+    "gpt-oss",
+    "llamacpp",
+    "llm",
+    "llm-inference",
+    "local-ai",
+    "local-first",
+    "local-llm",
+    "mcp",
+    "mlx",
+    "open-source",
+    "qwen",
+    "self-hosted"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-24T08:18:15.707Z"
+}

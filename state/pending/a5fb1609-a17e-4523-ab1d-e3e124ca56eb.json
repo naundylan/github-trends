@@ -1,0 +1,43 @@
+{
+  "id": "a5fb1609-a17e-4523-ab1d-e3e124ca56eb",
+  "repo": "CopilotKit/CopilotKit",
+  "url": "https://github.com/CopilotKit/CopilotKit",
+  "category": "Web Frontend",
+  "summary": "CopilotKit là một stack frontend toàn diện dành cho các agent và giao diện người dùng sinh động, hỗ trợ React, Angular, ứng dụng di động, Slack và nhiều nền tảng khác, đồng thời cung cấp giao thức AG-UI để xây dựng assistant chat.",
+  "usecases": [
+    "Xây dựng assistant chat tích hợp AI trong ứng dụng web React/Angular.",
+    "Tích hợp giao diện người dùng sinh động cho Slack bot và các nền tảng nhắn tin khác.",
+    "Tạo UI phản hồi theo thời gian thực cho các agent AI, hiển thị các tương tác một cách tự nhiên."
+  ],
+  "ideas": [
+    "Kết hợp CopilotKit với các model LLM để tạo assistant hỗ trợ code trong môi trường phát triển.",
+    "Tạo một component library cho IDE sử dụng CopilotKit làm backend để hiển thị các đoạn mã được tạo bởi AI."
+  ],
+  "stars": 37522,
+  "starsToday": 38,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "llm",
+    "nextjs",
+    "open-source",
+    "react",
+    "reactjs",
+    "ts",
+    "typescript",
+    "agent",
+    "agents",
+    "ai-agent",
+    "ai-assistant",
+    "assistant",
+    "copilot",
+    "copilot-chat",
+    "agent-native",
+    "agentic-ai",
+    "assistant-chat-bots",
+    "generative-ui",
+    "js"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-24T08:18:15.707Z"
+}
