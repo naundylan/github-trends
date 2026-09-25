@@ -1,0 +1,23 @@
+{
+  "id": "86cd380c-9ec8-48b7-aaeb-2066f2268395",
+  "repo": "bootandy/dust",
+  "url": "https://github.com/bootandy/dust",
+  "category": "CLI Tool",
+  "summary": "một công cụ dòng lệnh viết bằng Rust cho phép xem dung lượng đĩa trực quan và trực quan hơn so với du truyền thống",
+  "usecases": [
+    "phân tích sử dụng dung lượng đĩa trên server để tìm các thư mục/file chiếm nhiều dung lượng",
+    "tối ưu hóa dung lượng lưu trữ bằng cách nhanh chóng xác định các thư mục dư thừa",
+    "tích hợp vào scripts tự động hóa để theo dõi thay đổi dung lượng thời gian thực"
+  ],
+  "ideas": [
+    "kết hợp với các trình trực quan hóa đồ họa để tạo heatmap phân bố dung lượng thư mục",
+    "phát triển plugin cho file manager để hiển thị dung lượng trực tiếp trong giao diện",
+    "tạo báo cáo tự động về sự tăng giảm dung lượng qua thời gian cho các nhà quản trị hệ thống"
+  ],
+  "stars": 12361,
+  "starsToday": 41,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-25T23:54:43.394Z"
+}

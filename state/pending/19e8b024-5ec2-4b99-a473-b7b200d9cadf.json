@@ -1,0 +1,23 @@
+{
+  "id": "19e8b024-5ec2-4b99-a473-b7b200d9cadf",
+  "repo": "paperclipai/paperclip",
+  "url": "https://github.com/paperclipai/paperclip",
+  "category": "AI Agent/Automation",
+  "summary": "Paperclip là nền tảng mã nguồn mở quản lý AI agent tại nơi làm việc, nổi bật về khả năng phối đồng nhiều agent cùng tác vụ và tích hợp mượt mà với các mô hình LLM.",
+  "usecases": [
+    "Quản lý và phân phối tác vụ cho nhiều AI agent trong team để tự động hóa quy trình làm việc.",
+    "Tích hợp agent vào các hệ thống nội bộ để thực hiện các tác vụ lặp lại và phức tạp.",
+    "Giám sát hiệu suất và lịch sử hoạt động của các agent AI trong môi trường sản xuất."
+  ],
+  "ideas": [
+    "Kết hợp với voice assistant để tạo ra đồng làm việc AI có thể nhận lệnh giọng nói.",
+    "Sử dụng làm nền tảng cho công cụ báo cáo tự động hàng ngày dựa trên output của agents.",
+    "Triển khai hệ thống agent riêng biệt cho từng department với quyền truy cập và vai trò tùy chỉnh."
+  ],
+  "stars": 84859,
+  "starsToday": 1853,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-25T23:54:43.393Z"
+}

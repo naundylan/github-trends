@@ -1,0 +1,35 @@
+{
+  "id": "9b2a3df9-7f07-4607-90f7-d6f39780ee24",
+  "repo": "google/langextract",
+  "url": "https://github.com/google/langextract",
+  "category": "AI/LLM",
+  "summary": "thư viện python sử dụng llm để trích xuất thông tin cấu trúc từ văn bản phi cấu trúc, cung cấp grounding nguồn chính xác và trực quan hóa tương tác",
+  "usecases": [
+    "trích xuất dữ liệu từ résumé ứng tuyển để điền vào hệ thống tuyển dụng",
+    "phân tích và trích xuất thông tin y tế từ sổ bệnh bác sĩ",
+    "tự động hóa nhập liệu hợp đồng từ tài liệu văn bản thuần túy"
+  ],
+  "ideas": [
+    "kết hợp với gemini api để tạo công cụ tự động điền dữ liệu vào excel từ các hợp đồng quảng cáo",
+    "sử dụng làm lớp nền cho ứng dụng đọc sách và tóm tắt nhân vật với nguồn trích dẫn chính xác",
+    "triển khai trên edge computing để trích xuất thông tin từ luồng tin tức thời thực với độ trễ thấp"
+  ],
+  "stars": 38870,
+  "starsToday": 154,
+  "language": "Python",
+  "topics": [
+    "llm",
+    "nlp",
+    "python",
+    "gemini-ai",
+    "information-extration",
+    "large-language-models",
+    "structured-data",
+    "gemini",
+    "gemini-api",
+    "gemini-flash",
+    "gemini-pro"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-25T23:54:43.394Z"
+}

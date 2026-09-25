@@ -1,0 +1,29 @@
+{
+  "id": "95b29fb2-25dd-45e2-96da-aad36e2a1da5",
+  "repo": "derv82/wifit3",
+  "url": "https://github.com/derv82/wifit3",
+  "category": "Security/Pentest",
+  "summary": "Wifite là công cụ quét bảo mật Wi-Fi tự động, nổi bật về chế độ chạy độc lập qua USB và tương thích đa nền tảng cho các tác vụ kiểm thử an ninh mạng.",
+  "usecases": [
+    "Quét và phát hiện các điểm yếu trong mạng Wi-Fi durante các bài test xâm nhập (penetration testing).",
+    "Giám sát và phân tích lưu lượng không dây trong môi trường công nghiệp để phát hiện thiết bị không phép.",
+    "Tự động hóa quá trình đánh giá bảo mật cho nhiều điểm tiếp cận Wi-Fi trong các mạng lớn."
+  ],
+  "ideas": [
+    "Kết hợp với Raspberry Pi để tạo bộ quét di động tự động cho các cuộc thi bảo mật (CTF).",
+    "Phát triển báo cáo tự động về trạng thái bảo mật Wi-Fi định kỳ cho quản trị mạng.",
+    "Sử dụng trong môi trường IoT để theo dõi và bảo vệ các thiết bị kết nối không dây trong các khu vực công cộng."
+  ],
+  "stars": 903,
+  "starsToday": 168,
+  "language": "Python",
+  "topics": [
+    "cross-platform",
+    "userland",
+    "wifi-scanner",
+    "wifi-security",
+    "wireless-security"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-25T23:54:43.394Z"
+}

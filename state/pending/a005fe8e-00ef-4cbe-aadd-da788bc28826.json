@@ -1,0 +1,31 @@
+{
+  "id": "a005fe8e-00ef-4cbe-aadd-da788bc28826",
+  "repo": "Armur-Ai/Pentest-Swarm-AI",
+  "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+  "category": "Security/Pentest",
+  "summary": "Autonomous penetration testing framework that orchestrates AI agents for reconnaissance, classification, exploitation, and reporting, supporting bug bounty, continuous monitoring, and CTF modes.",
+  "usecases": [
+    "Automated security auditing and vulnerability discovery for web applications",
+    "Bug bounty hunting and continuous security monitoring",
+    "CTF practice and automated penetration testing workflows"
+  ],
+  "ideas": [
+    "Integrate with SIEM platforms for real-time threat intelligence and reporting",
+    "Extend support to wireless, IoT, and embedded device penetration testing",
+    "Build a visual dashboard for agent workflow orchestration and findings tracking"
+  ],
+  "stars": 2620,
+  "starsToday": 35,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "bug-bounty",
+    "cybersecurity",
+    "offensive-security",
+    "penetration-testing",
+    "penetration-testing-framework",
+    "penetration-testing-tools"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-25T23:54:43.394Z"
+}

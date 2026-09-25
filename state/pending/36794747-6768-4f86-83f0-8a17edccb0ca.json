@@ -1,0 +1,44 @@
+{
+  "id": "36794747-6768-4f86-83f0-8a17edccb0ca",
+  "repo": "juspay/hyperswitch",
+  "url": "https://github.com/juspay/hyperswitch",
+  "category": "API/GraphQL",
+  "summary": "nền tảng thanh toán mã nguồn mở, có thể cấu thành, tuân pci, cung cấp kết nối đa nhà cung cấp thanh toán với định tuyến thông minh và khả năng phục hồi doanh thu",
+  "usecases": [
+    "một startup tài chính sử dụng hyperswitch để kết nối với stripe, adyen và các ngân hàng địa phương để tối đa hóa tỷ lệ thành công giao dịch",
+    "doanh hàng điện tử self-host hyperswitch để tuân thủ pci-dss nội bộ và giảm chi phí xử lý thanh toán",
+    "nền tảng nội bộ cho công ty lớn quản lý nhiều thương hiệu thanh toán với báo cáo chi phí và đàm phán routing tự động"
+  ],
+  "ideas": [
+    "kết hợp hyperswitch với ai để tạo hệ thống phán đoán routing thanh toán dựa trên xu hướng thành công lịch sử",
+    "xây dựng plugin shopify/woocommerse sử dụng hyperswitch api cho cửa hàng online",
+    "sử dụng tính năng reconciliation để tự động phê chuẩn tài chính hàng ngày cho doanh nghiệp lượng giao dịch lớn"
+  ],
+  "stars": 44076,
+  "starsToday": 147,
+  "language": "Rust",
+  "topics": [
+    "payments",
+    "rust",
+    "orchestration",
+    "hacktoberfest",
+    "beginner-friendly",
+    "featured",
+    "high-performance",
+    "open-source",
+    "restful-api",
+    "sdk",
+    "works-with-react",
+    "finance",
+    "payment",
+    "payment-gateway",
+    "payment-integration",
+    "payment-processing",
+    "fintech",
+    "payments-platform",
+    "adyen",
+    "stripe"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-25T23:54:43.394Z"
+}

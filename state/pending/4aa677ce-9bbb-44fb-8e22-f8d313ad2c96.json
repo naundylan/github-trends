@@ -1,0 +1,44 @@
+{
+  "id": "4aa677ce-9bbb-44fb-8e22-f8d313ad2c96",
+  "repo": "nobodywho-ooo/nobodywho",
+  "url": "https://github.com/nobodywho-ooo/nobodywho",
+  "category": "AI/LLM",
+  "summary": "NobodyWho là engine inference LLM nhẹ cho phép chạy mô hình ngôn ngữ lớn cục bộ trên mọi thiết bị, hỗ trợ đa nền tảng Godot, Flutter, React Native và các format gguf.",
+  "usecases": [
+    "Chạy LLM trên thiết bị di động hoặc embedded không cần kết nối internet.",
+    "Tích hợp khả năng AI vào game Godot để tạo NPC thông minh cục bộ.",
+    "Phát triển voice assistant hoặc ứng dụng AI nhẹ cho Flutter/React Native."
+  ],
+  "ideas": [
+    "Tạo ứng dụng chat riêng tư hoàn toàn trên device, dữ liệu không bao giờ lên đám mây.",
+    "Kết hợp STT/TTS với inference engine để voice assistant cục bộ offline.",
+    "Sử dụng cho edge computing trong IoT với các Small Language Models (SLM)."
+  ],
+  "stars": 1410,
+  "starsToday": 43,
+  "language": "Rust",
+  "topics": [
+    "godot",
+    "godot-engine",
+    "godot-plugin",
+    "godot4",
+    "llm",
+    "inference-engine",
+    "python",
+    "python-llm",
+    "slm",
+    "flutter",
+    "on-device-ai",
+    "ai",
+    "react-native",
+    "kotlin",
+    "swift",
+    "stt",
+    "tts",
+    "expo",
+    "gguf",
+    "local-llm"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-25T23:54:43.394Z"
+}

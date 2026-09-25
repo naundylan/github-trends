@@ -1,0 +1,41 @@
+{
+  "id": "6beef4d8-bfe7-4d35-b2f6-e7766c6c3173",
+  "repo": "seaweedfs/seaweedfs",
+  "url": "https://github.com/seaweedfs/seaweedfs",
+  "category": "Cloud/Hosting",
+  "summary": "Distributed storage system providing S3-compatible object storage, file hosting, and Iceberg table integration, designed for massive horizontal scaling and O(1) disk access.",
+  "usecases": [
+    "Scalable S3-compatible storage backend for cloud-native applications",
+    "Centralized file storage and distribution across Kubernetes clusters",
+    "Object storage for large-scale media, backup, and archival workloads"
+  ],
+  "ideas": [
+    "Add edge-node integration for geo-distributed, low-latency file access",
+    "Develop a native FUSE cache layer for hybrid cloud-local storage workflows",
+    "Extend API compatibility to include Google Cloud Storage and Azure Blob interfaces"
+  ],
+  "stars": 34981,
+  "starsToday": 33,
+  "language": "Go",
+  "topics": [
+    "distributed-storage",
+    "distributed-systems",
+    "s3",
+    "hdfs",
+    "fuse",
+    "distributed-file-system",
+    "hadoop-hdfs",
+    "posix",
+    "tiered-file-system",
+    "kubernetes",
+    "replication",
+    "object-storage",
+    "s3-storage",
+    "seaweedfs",
+    "erasure-coding",
+    "blob-storage",
+    "cloud-drive"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-09-25T23:54:43.394Z"
+}
