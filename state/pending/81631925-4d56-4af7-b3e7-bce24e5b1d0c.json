@@ -1,0 +1,33 @@
+{
+  "id": "81631925-4d56-4af7-b3e7-bce24e5b1d0c",
+  "repo": "ArvinLovegood/go-stock",
+  "url": "https://github.com/ArvinLovegood/go-stock",
+  "category": "AI/LLM",
+  "summary": "Công cụ phân tích chứng khoán bằng AI dùng Go, tích hợp nhiều mô hình LLM (DeepSeek, OpenAI, Ollama...) để cung cấp dữ liệu thị trường, phân tích tài chính, tin tức nóng và cảnh báo dao động, với toàn bộ dữ liệu lưu trữ cục bộ.",
+  "usecases": [
+    "Phân tích xu hướng cổ phiếu và tạo báo cáo tài chính tự động cho nhà đầu tư cá nhân",
+    "Giám sát giá cổ phiếu và gửi cảnh báo tức thời khi đạt ngưỡng lợi nhuận hoặc lỗ",
+    "Hỗ trợ nghiên cứu thị trường bằng tổng hợp tin tức liên quan và phân tích cảm xúc thị trường thời gian thực"
+  ],
+  "ideas": [
+    "Tích hợp với bot giao tiếp (telegram/discord) để cung cấp tín hiệu giao dịch real-time",
+    "Phát triển module đa ngôn ngữ cho phép phân tích A-share, Hong Kong stock và US stock cùng lúc",
+    "Tạo dashboard trực quan kết hợp dữ liệu thị trường và phân báo AI để hỗ trợ quyết định đầu tư"
+  ],
+  "stars": 7699,
+  "starsToday": 59,
+  "language": "Go",
+  "topics": [
+    "stock",
+    "golang",
+    "naiveui",
+    "wails",
+    "deepseek",
+    "lmstudio",
+    "ollama",
+    "openai",
+    "ai-tools"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-25T03:03:14.315Z"
+}

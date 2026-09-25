@@ -1,0 +1,36 @@
+{
+  "id": "864a1297-81b7-4d4d-90b2-12605bd82799",
+  "repo": "lahfir/agent-desktop",
+  "url": "https://github.com/lahfir/agent-desktop",
+  "category": "AI Agent/Automation",
+  "summary": "Một ứng dụng desktop viết bằng Rust cho phép các AI agent tương tác tin cậy với máy tính thông qua cây cấu trúc UI của hệ điều hành, thay vì đoán từ pixel, đảm bảo các phím tham chiếu ổn định và hành động an toàn để thử lại.",
+  "usecases": [
+    "Tự động hóa tác vụ lặp lại trên desktop bằng lệnh ngôn ngữ tự nhiên",
+    "Giúp hệ thống AI kiểm tra và tương tác với giao diện ứng dụng cũ hoặc không có API",
+    "Hỗ trợ tự động hóa quy trình làm việc trên macOS/Windows cho nhà phát triển và quản lý dự án"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình thịnh hành để tạo desktop assistant tự hành hoàn toàn cho tác vụ văn phòng",
+    "Sử dụng làm nền tảng cho robot tự động test UI trên ứng dụng heritage",
+    "Phát triển plugin cho IDE để agent thực hiện thao tác code/test trực quan"
+  ],
+  "stars": 1648,
+  "starsToday": 66,
+  "language": "Rust",
+  "topics": [
+    "accessibility",
+    "accessibility-api",
+    "ai-agents",
+    "automation",
+    "cli",
+    "desktop-automation",
+    "macos",
+    "mcp",
+    "rust",
+    "computer-use",
+    "computer-use-agent",
+    "computer-use-agents"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-25T03:03:14.315Z"
+}

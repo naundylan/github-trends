@@ -1,0 +1,36 @@
+{
+  "id": "3a1cf2d1-6e01-4258-b797-11e708c157e6",
+  "repo": "androoAGI/starnet",
+  "url": "https://github.com/androoAGI/starnet",
+  "category": "AI Agent/Automation",
+  "summary": "Starnet là station pixel-art nơi AI agent thực sự thực hiện công việc, là harness desktop local-first cho phép bring-your-own-key và theo dõi tác vụ agent thực tế.",
+  "usecases": [
+    "Tự động hóa các tác vụ lặp lại trong phát triển phần mềm bằng các AI agent phối hợp.",
+    "Tạo môi trường thử nghiệm cho agent AI tương tác với giao diện pixel-art.",
+    "Giám sát và quản lý nhiều agent AI cùng lúc cho các dự án phức tạp."
+  ],
+  "ideas": [
+    "Kết hợp mô hình LLM cục bộ để agent có thể đọc và sửa code tự động.",
+    "Phát triển hệ thống agent cho game indie tự tạo nội dung pixel-art và đồ họa.",
+    "Tạo dashboard trực quan để theo dõi hiệu suất và quyết định của từng agent thời gian thực."
+  ],
+  "stars": 264,
+  "starsToday": 113,
+  "language": "JavaScript",
+  "topics": [
+    "agent-harness",
+    "ai",
+    "ai-agents",
+    "byok",
+    "desktop-app",
+    "game-ui",
+    "llm",
+    "local-first",
+    "multi-agent",
+    "openrouter",
+    "pixel-art",
+    "tauri"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-25T03:03:14.315Z"
+}

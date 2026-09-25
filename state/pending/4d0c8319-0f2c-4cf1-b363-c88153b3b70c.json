@@ -1,0 +1,37 @@
+{
+  "id": "4d0c8319-0f2c-4cf1-b363-c88153b3b70c",
+  "repo": "aayushch/laya",
+  "url": "https://github.com/aayushch/laya",
+  "category": "AI Agent/Automation",
+  "summary": "Ứng dụng notification command center nguồn mở chạy trên thiết bị local, tổng hợp thông báo từ Slack, Gmail, GitHub, Jira, Notion, Outlook và Calendar bằng LLMs cục bộ qua Ollama/LM Studio, hỗ trợ mô hình đám mây qua BYOK.",
+  "usecases": [
+    "Tổng hợp tất cả thông báo nơi làm việc vào một dashboard duy nhất để giảm bớt chuyển đổi ngữ cảnh.",
+    "Tự động hóa các phản hồi cảnh báo dựa trên phân tích LLM của thông báo nhận được.",
+    "Giám sát các cảnh báo quan trọng từ nhiều dịch vụ trên địa phương mà không cần gửi dữ liệu đến đám mây bên thứ ba."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống tự động hóa nhà thông minh để kích hoạt các hành động dựa trên nội dung thông báo.",
+    "Xây dựng bản tóm tắt hàng ngày cá nhân hóa sử dụng LLM để đánh dấu các thông báo quan trọng.",
+    "Tạo ứng dụng compagnon di động để nhận và tương tác với thông báo từ xa."
+  ],
+  "stars": 282,
+  "starsToday": 58,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "automation",
+    "notifications",
+    "productivity",
+    "tools",
+    "byok",
+    "lmstudio",
+    "localai",
+    "notification-aggregation",
+    "ollama",
+    "local-first",
+    "local-first-ai"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-25T03:03:14.315Z"
+}

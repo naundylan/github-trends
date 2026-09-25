@@ -1,0 +1,23 @@
+{
+  "id": "260146a6-4b38-4869-91f2-4b325c829fc5",
+  "repo": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "category": "Developer Tool",
+  "summary": "Cursor plugins là đặc tả plugin và bộ plugin chính thức cho editor Cursor, cung cấp cơ chế mở rộng chức năng cho phép người dùng tùy biến và nâng cấp trải nghiệm phát triển phần mềm.",
+  "usecases": [
+    "Phát triển và cài đặt các plugin mở rộng chức năng cho editor Cursor theo nhu cầu cá nhân hoặc dự án",
+    "Tạo các plugin tích hợp công cụ và dịch vụ bên thứ ba như hệ thống quản lý phiên bản, CI/CD, hoặc dịch vụ đám mây",
+    "Xây dựng plugin hỗ trợ ngôn ngữ lập trình hoặc framework cụ thể chưa được hỗ trợ mặc định bởi Cursor"
+  ],
+  "ideas": [
+    "Phát triển một plugin AI hỗ trợ code completion thông minh hơn dựa trên ngữ cảnh dự án và phong cách đội nhóm",
+    "Tạo plugin tích hợp trực tiếp với các nền tảng cloud như AWS, Google Cloud để triển khai và giám sát ứng dụng",
+    "Xây dựng plugin quản lý workflow phát triển phần mềm tích hợp các công cụ như Jira, Slack, và GitHub"
+  ],
+  "stars": 8574,
+  "starsToday": 88,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-25T03:03:14.315Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "cd068865-cec1-4816-9e0f-fba6b5ca3425",
+  "repo": "Asymptote-Labs/agent-beacon",
+  "url": "https://github.com/Asymptote-Labs/agent-beacon",
+  "category": "AI Agent/Automation",
+  "summary": "agent-beacon là một lớp bộ nhớ tự cải tiến đa nền tảng dành cho các tác nhân AI, giúp chúng duy trì và mở rộng kiến thức một cách liên tục.",
+  "usecases": [
+    "Cung cấp bộ nhớ liên tục cho các tác nhân AI đa nền tảng trong các hệ thống bảo mật.",
+    "Tích hợp với các harness tác nhân (ví dụ: Claude Code, Cursor) để duy trì ngữ cảnh.",
+    "Giám sát và ghi lại dấu vết hoạt động của tác nhân để cải thiện hiệu suất."
+  ],
+  "ideas": [
+    "Xây dựng một hệ thống quản lý kiến thức phân tán cho các tác nhân AI đa tác vụ, kết hợp với học tăng cường.",
+    "Tích hợp với các tiện ích mở rộng trình duyệt để đồng bộ hóa trạng thái tác nhân trên nhiều thiết bị.",
+    "Sử dụng telemetry để đào tạo mô hình cải tiến bộ nhớ theo thời gian thực."
+  ],
+  "stars": 1512,
+  "starsToday": 269,
+  "language": "Go",
+  "topics": [
+    "security-tools",
+    "agent-ai-cli",
+    "agent-security",
+    "mobile-device-management",
+    "security-information-and-event-management",
+    "security",
+    "ci",
+    "cloud",
+    "claude-code",
+    "codex",
+    "cursor",
+    "detection-engineering",
+    "browser-extension",
+    "agent-harnesses",
+    "jev",
+    "knowledge-base",
+    "memory",
+    "observability",
+    "telemetry",
+    "traces"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-25T03:03:14.315Z"
+}

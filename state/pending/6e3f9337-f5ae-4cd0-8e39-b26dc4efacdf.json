@@ -1,0 +1,39 @@
+{
+  "id": "6e3f9337-f5ae-4cd0-8e39-b26dc4efacdf",
+  "repo": "julyx10/lap",
+  "url": "https://github.com/julyx10/lap",
+  "category": "Other",
+  "summary": "An offline-first photo manager for large local libraries",
+  "usecases": [
+    "Khám phá và đánh giá julyx10/lap cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 2892,
+  "starsToday": 122,
+  "language": "Vue",
+  "topics": [
+    "desktop-app",
+    "face-recognition",
+    "local-first",
+    "offline",
+    "privacy",
+    "image-search",
+    "photo-management",
+    "digital-asset-manager",
+    "duplicate-detection",
+    "family-photos",
+    "linux-app",
+    "macos-app",
+    "open-source",
+    "photo-library",
+    "photo-organizer",
+    "windows-app",
+    "large-photo-collections"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-25T03:03:14.315Z"
+}

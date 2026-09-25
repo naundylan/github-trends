@@ -1,0 +1,44 @@
+{
+  "id": "92277c2b-2005-4d2b-9703-1900a8b96f25",
+  "repo": "juspay/hyperswitch",
+  "url": "https://github.com/juspay/hyperswitch",
+  "category": "Backend Framework",
+  "summary": "hyperswitch là một nền tảng thanh toán mã nguồn mở, có thể kết hợp, tuân thủ PCI, hỗ trợ nhiều nhà cung cấp thanh toán, gian lận, vault và tokenization, đồng thời tối ưu hóa chi phí và quy trình hoạt động.",
+  "usecases": [
+    "Tích hợp nhiều cổng thanh toán (Stripe, Adyen) trong một hệ thống duy nhất.",
+    "Thực hiện định tuyến ủy quyền thông minh để giảm chi phí xử lý.",
+    "Tự động đối chiếu giao dịch và quan sát chi phí để tối ưu hóa hoạt động."
+  ],
+  "ideas": [
+    "Tạo một bảng điều khiển SaaS để theo dõi chi phí thanh toán theo thời gian thực trên nhiều nhà cung cấp.",
+    "Xây dựng một mẫu starter cho các startup fintech muốn triển khai cổng thanh toán có thể kết hợp mà không cần tuân thủ PCI.",
+    "Tích hợp với các công cụ CI/CD để tự động hóa việc thử nghiệm các quy trình thanh toán và định tuyến."
+  ],
+  "stars": 43912,
+  "starsToday": 161,
+  "language": "Rust",
+  "topics": [
+    "payments",
+    "rust",
+    "orchestration",
+    "hacktoberfest",
+    "beginner-friendly",
+    "featured",
+    "high-performance",
+    "open-source",
+    "restful-api",
+    "sdk",
+    "works-with-react",
+    "finance",
+    "payment",
+    "payment-gateway",
+    "payment-integration",
+    "payment-processing",
+    "fintech",
+    "payments-platform",
+    "adyen",
+    "stripe"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-25T03:03:14.315Z"
+}
