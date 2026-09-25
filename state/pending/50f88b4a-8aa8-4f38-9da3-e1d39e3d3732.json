@@ -1,0 +1,44 @@
+{
+  "id": "50f88b4a-8aa8-4f38-9da3-e1d39e3d3732",
+  "repo": "fastapi/full-stack-fastapi-template",
+  "url": "https://github.com/fastapi/full-stack-fastapi-template",
+  "category": "Backend Framework",
+  "summary": "Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.",
+  "usecases": [
+    "Xây dựng ứng dụng web full-stack nhanh chóng với khung FastAPI và React",
+    "Sử dụng PostgreSQL làm cơ sở dữ liệu và Docker Compose để container hóa",
+    "Triển khai trên FastAPI Cloud và kiểm thử bằng pytest"
+  ],
+  "ideas": [
+    "Kết hợp các thành phần UI/Component Library như shadcn/ui với CSS/Styling Tailwind CSS để tạo giao diện hiện đại",
+    "Xây dựng microservices pattern thông qua việc tách biệt backend FastAPI và frontend React",
+    "Tích hợp CI/CD với GitHub Actions và Playwright cho test end-to-end"
+  ],
+  "stars": 45748,
+  "starsToday": 25,
+  "language": "TypeScript",
+  "topics": [
+    "python",
+    "docker",
+    "postgresql",
+    "fastapi",
+    "jwt",
+    "openapi",
+    "react",
+    "tanstack-query",
+    "tanstack-router",
+    "typescript",
+    "sqlmodel",
+    "docker-compose",
+    "fastapi-cloud",
+    "full-stack",
+    "github-actions",
+    "playwright",
+    "pytest",
+    "shadcn-ui",
+    "tailwindcss",
+    "vite"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-25T08:46:06.675Z"
+}

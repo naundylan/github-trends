@@ -1,0 +1,23 @@
+{
+  "id": "77422492-2094-48f4-a3dd-61702b46375a",
+  "repo": "stepfun-ai/Step-Code",
+  "url": "https://github.com/stepfun-ai/Step-Code",
+  "category": "AI/LLM",
+  "summary": "Step-Code là thư viện TypeScript từ StepFun AI cho phép tạo code và tự động hóa lập trình thông qua các mô hình LLM.",
+  "usecases": [
+    "Tự động sinh code từ mô tả chức năng",
+    "Hỗ trợ hoàn thành code thông minh trong IDE",
+    "Tích hợp tự động review code trong quy trình CI/CD"
+  ],
+  "ideas": [
+    "Phát triển plugin VS Code tích hợp Step-Code để sinh code trực tiếp",
+    "Mở rộng hỗ trợ đa ngôn ngữ cho các framework phổ biến",
+    "Tạo chế độ tùy chỉnh style guide cho code do AI sinh ra"
+  ],
+  "stars": 396,
+  "starsToday": 25,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-25T08:46:06.675Z"
+}

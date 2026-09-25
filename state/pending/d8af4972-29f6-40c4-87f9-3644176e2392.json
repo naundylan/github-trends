@@ -1,0 +1,34 @@
+{
+  "id": "d8af4972-29f6-40c4-87f9-3644176e2392",
+  "repo": "gosom/google-maps-scraper",
+  "url": "https://github.com/gosom/google-maps-scraper",
+  "category": "Developer Tool",
+  "summary": "Công cụ Go dùng để thu thập dữ liệu địa điểm từ Google Maps, bao gồm thông tin liên hệ, đánh giá, đánh giá chi tiết và tọa độ. Nó hỗ trợ thu thập phân tán, phù hợp để xây dựng bộ dữ liệu kinh doanh có quy mô lớn.",
+  "usecases": [
+    "Xây dựng cơ sở dữ liệu doanh nghiệp, địa điểm và nhà cung cấp phục vụ tìm kiếm hoặc so sánh.",
+    "Thu thập dữ liệu thị trường và đối thủ để phân tích vị trí, uy tín và phạm vi hoạt động.",
+    "Tạo dữ liệu đầu vào cho hệ thống gợi ý địa điểm, định tuyến hoặc quản lý chi nhánh."
+  ],
+  "ideas": [
+    "Kết hợp dữ liệu thu thập được với bản đồ tương tác để phát hiện khoảng trống thị trường theo khu vực.",
+    "Xây dựng hệ thống theo dõi thay đổi giá, đánh giá và thông tin liên hệ của đối thủ theo thời gian.",
+    "Làm giàu hồ sơ khách hàng bằng địa chỉ, số điện thoại, website và mức độ hoạt động của từng chi nhánh."
+  ],
+  "stars": 6096,
+  "starsToday": 35,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "google-maps-scraping",
+    "web-scraper",
+    "web-scraping",
+    "distributed-scraper",
+    "distributed-scraping",
+    "google-maps",
+    "agent-skills",
+    "claude-skills",
+    "codex-skills"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-25T08:46:06.674Z"
+}

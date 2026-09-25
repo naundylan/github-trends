@@ -1,0 +1,43 @@
+{
+  "id": "fa74f38e-7294-4ac8-9efe-077393eb1831",
+  "repo": "leejet/stable-diffusion.cpp",
+  "url": "https://github.com/leejet/stable-diffusion.cpp",
+  "category": "AI/LLM",
+  "summary": "Một bộ suy luận mô hình khuếch tán được viết bằng C/C++ thuần, hỗ trợ nhiều kiến trúc tạo ảnh và video như Stable Diffusion, Flux, Wan và Qwen Image. Dự án nổi bật ở khả năng triển khai cục bộ, tối ưu bằng ggml và tận dụng nhiều loại phần cứng.",
+  "usecases": [
+    "Tạo ảnh theo văn bản hoặc biến đổi ảnh hiện có trong môi trường không phụ thuộc dịch vụ đám mây.",
+    "Chạy thử và triển khai các mô hình tạo ảnh, tạo video quy mô nhỏ đến vừa trên máy chủ riêng.",
+    "Tích hợp khả năng sinh nội dung trực quan vào ứng dụng hoặc tác vụ xử lý ảnh tự động."
+  ],
+  "ideas": [
+    "Kết hợp với giao diện web để cung cấp dịch vụ tạo ảnh riêng cho cộng đồng hoặc doanh nghiệp.",
+    "Tự động hóa việc tạo ảnh sản phẩm, nội dung mạng xã hội và tài liệu marketing theo từng bộ nhận diện.",
+    "Xây dựng pipeline tạo video ngắn từ kịch bản, sau đó dùng AI để kiểm duyệt và chỉnh sửa tự động."
+  ],
+  "stars": 7308,
+  "starsToday": 36,
+  "language": "C++",
+  "topics": [
+    "ai",
+    "cplusplus",
+    "diffusion",
+    "ggml",
+    "image-generation",
+    "latent-diffusion",
+    "stable-diffusion",
+    "text2image",
+    "txt2img",
+    "image2image",
+    "img2img",
+    "flux",
+    "flux-dev",
+    "videogeneration",
+    "wan",
+    "qwen-image",
+    "z-image",
+    "z-image-turbo",
+    "ltx-video"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-25T08:46:06.674Z"
+}

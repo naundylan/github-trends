@@ -1,0 +1,33 @@
+{
+  "id": "b0ae9601-590b-4333-a914-6059ff750123",
+  "repo": "SimplifyJobs/Summer2027-Internships",
+  "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sach cap nhat hang ngay cac hoi phi thuc tap phan mem, khoa hoc du lieu, AI, san pham va phung cung cho ky Summer 2027, bien tap boi Simplify va Pitt CSC.",
+  "usecases": [
+    "Tim kiem va ung tuyen cac vi tri thuc tap trong nghe tech theo nganh hoc va ky nang.",
+    "Theo dong cap nhat cac khoi hop viec lam va thuc tap moi nhat cho sinh vien va ung vien vao mua thu.",
+    "Phan tich xu huan tuyen dung va ky nang yeu cau trong nghe AI va phan mem."
+  ],
+  "ideas": [
+    "Tao bo loc thong minh de khop ung vien voi hoi phi theo ky nang va truong hoc.",
+    "Ket hop voi bot Telegram/Email de gui thong bao ngay khi co posting moi.",
+    "Phat triển dashboard thuc hien de visualize ty le chap nhan va yeu cau ky nang qua thoi gian."
+  ],
+  "stars": 47679,
+  "starsToday": 27,
+  "language": "Python",
+  "topics": [
+    "interview-preparation",
+    "internships",
+    "jobs",
+    "university",
+    "fall-2026",
+    "github",
+    "internship",
+    "data-science",
+    "software-engineering"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-25T08:46:06.675Z"
+}

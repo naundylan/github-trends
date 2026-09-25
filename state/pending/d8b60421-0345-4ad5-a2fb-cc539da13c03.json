@@ -1,0 +1,35 @@
+{
+  "id": "d8b60421-0345-4ad5-a2fb-cc539da13c03",
+  "repo": "projectdiscovery/nuclei",
+  "url": "https://github.com/projectdiscovery/nuclei",
+  "category": "Security/Pentest",
+  "summary": "Nuclei la scanner hieu hong nhanh va tuy chinh, su dung DSL YAML de phat hien loi hong trong ung dung, API, mang, DNS va cau hinh cham cong, duong bao bo sung boi chung minh an ninh.",
+  "usecases": [
+    "Quet loi hong CVE va kiem tra bo surface tan cong cho ung dung web va API.",
+    "Tich hop vao pipeline CI/CD de kiem tra an toan tu dong tren moi commit.",
+    "Phat hien subdomain takeover va cau hinh cham cong khong an toan."
+  ],
+  "ideas": [
+    "Tao bao cao bao mat dinh ky va gui den Slack/Email tu dong.",
+    "Ket hop voi AI de phan loai do nghiêm trọng va phien pha tang co the tu dong.",
+    "Phat triển plugin Nuclei de quet moi truong Kubernetes dac biet."
+  ],
+  "stars": 31503,
+  "starsToday": 32,
+  "language": "Go",
+  "topics": [
+    "cve-scanner",
+    "subdomain-takeover",
+    "nuclei-engine",
+    "vulnerability-detection",
+    "vulnerability-assessment",
+    "vulnerability-scanner",
+    "security",
+    "attack-surface",
+    "security-scanner",
+    "hacktoberfest",
+    "dast"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-25T08:46:06.674Z"
+}

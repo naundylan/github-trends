@@ -1,0 +1,37 @@
+{
+  "id": "3a0a5d3f-ba74-400e-8973-a0b7c28f0405",
+  "repo": "Z4nzu/hackingtool",
+  "url": "https://github.com/Z4nzu/hackingtool",
+  "category": "Security/Pentest",
+  "summary": "Công cụ hacking tất tần tật viết bằng Python cho các tác vụ bảo mật, CTF và tấn công mạng",
+  "usecases": [
+    "Thực hiện CTF challenges và web security testing",
+    "Thử nghiệm password attacks và vulnerability scanning",
+    "Tự động hóa các cuộc tấn công DDoS hoặc wireless attacks"
+  ],
+  "ideas": [
+    "Tích hợp với frameworks phân tích mã độc",
+    "Tạo báo cáo tự động từ kết quả quét",
+    "Kết hợp với tools mạng để giám sát lưu lượng"
+  ],
+  "stars": 79721,
+  "starsToday": 32,
+  "language": "Python",
+  "topics": [
+    "allinonehackingtool",
+    "web-attack",
+    "password-attack",
+    "hacking",
+    "wireless-attack",
+    "besthackingtool",
+    "ctf-tools",
+    "ddos-attack-tool",
+    "hacker",
+    "xss-attacks",
+    "xss-detection",
+    "linux",
+    "steganography"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-25T08:46:06.674Z"
+}
