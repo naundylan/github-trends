@@ -16,7 +16,7 @@
   },
   "public-apis/public-apis": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-25",
     "last_saved": "2026-09-06"
   },
   "NousResearch/hermes-agent": {
@@ -111,7 +111,7 @@
   },
   "ChromeDevTools/chrome-devtools-mcp": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-25",
     "last_saved": "2026-09-19"
   },
   "asgeirtj/system_prompts_leaks": {
@@ -136,8 +136,8 @@
   },
   "mattpocock/skills": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-07",
-    "last_saved": "2026-08-22"
+    "last_seen": "2026-09-25",
+    "last_saved": "2026-09-25"
   },
   "pbakaus/impeccable": {
     "first_seen": "2026-07-04",
@@ -151,7 +151,7 @@
   },
   "Leonxlnx/taste-skill": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-09-25",
     "last_saved": "2026-09-21"
   },
   "CoplayDev/unity-mcp": {
@@ -191,8 +191,8 @@
   },
   "openclaw/openclaw": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-09-07",
-    "last_saved": "2026-08-24"
+    "last_seen": "2026-09-25",
+    "last_saved": "2026-09-25"
   },
   "binwiederhier/ntfy": {
     "first_seen": "2026-07-05",
@@ -201,7 +201,7 @@
   },
   "ruvnet/RuView": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-25",
     "last_saved": "2026-09-14"
   },
   "alirezarezvani/claude-skills": {
@@ -216,7 +216,7 @@
   },
   "nodejs/node": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-25",
     "last_saved": "2026-09-23"
   },
   "thedotmack/claude-mem": {
@@ -246,7 +246,7 @@
   },
   "rust-lang/rust": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-25",
     "last_saved": "2026-09-15"
   },
   "MadsLorentzen/ai-job-search": {
@@ -436,8 +436,8 @@
   },
   "anomalyco/opencode": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-09-09",
-    "last_saved": "2026-08-22"
+    "last_seen": "2026-09-25",
+    "last_saved": "2026-09-25"
   },
   "nautechsystems/nautilus_trader": {
     "first_seen": "2026-08-22",
@@ -486,7 +486,7 @@
   },
   "microsoft/TypeScript": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-09-19",
+    "last_seen": "2026-09-25",
     "last_saved": "2026-09-17"
   },
   "google/sam": {
@@ -556,8 +556,8 @@
   },
   "shy3130/tick-stock-panel": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-08-26",
-    "last_saved": "2026-08-25"
+    "last_seen": "2026-09-25",
+    "last_saved": "2026-09-25"
   },
   "pipecat-ai/pipecat": {
     "first_seen": "2026-08-25",
@@ -601,8 +601,8 @@
   },
   "Alishahryar1/free-claude-code": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-10",
-    "last_saved": "2026-08-26"
+    "last_seen": "2026-09-25",
+    "last_saved": "2026-09-25"
   },
   "AgriciDaniel/claude-obsidian": {
     "first_seen": "2026-08-26",
@@ -701,8 +701,8 @@
   },
   "anthropics/claude-plugins-official": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-09-16",
-    "last_saved": "2026-08-28"
+    "last_seen": "2026-09-25",
+    "last_saved": "2026-09-25"
   },
   "bilawalsidhu/gods-eye-view": {
     "first_seen": "2026-08-28",
@@ -841,8 +841,8 @@
   },
   "kubernetes/kubernetes": {
     "first_seen": "2026-08-30",
-    "last_seen": "2026-09-17",
-    "last_saved": "2026-08-30"
+    "last_seen": "2026-09-25",
+    "last_saved": "2026-09-25"
   },
   "k1tbyte/Wand-Enhancer": {
     "first_seen": "2026-08-31",
@@ -881,7 +881,7 @@
   },
   "browser-use/video-use": {
     "first_seen": "2026-08-31",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-25",
     "last_saved": "2026-09-22"
   },
   "MakazhanAlpamys/Soup": {
@@ -916,8 +916,8 @@
   },
   "SagerNet/sing-box": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-15",
-    "last_saved": "2026-09-01"
+    "last_seen": "2026-09-25",
+    "last_saved": "2026-09-25"
   },
   "juanfont/headscale": {
     "first_seen": "2026-09-01",
@@ -926,7 +926,7 @@
   },
   "golang/go": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-09-25",
     "last_saved": "2026-09-22"
   },
   "rtk-ai/rtk": {
@@ -1131,7 +1131,7 @@
   },
   "Gentleman-Programming/gentle-ai": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-18",
+    "last_seen": "2026-09-25",
     "last_saved": "2026-09-05"
   },
   "vercel-labs/agent-browser": {
@@ -1186,7 +1186,7 @@
   },
   "ollama/ollama": {
     "first_seen": "2026-09-06",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-25",
     "last_saved": "2026-09-06"
   },
   "nklmilojevic/sofka": {
@@ -1886,7 +1886,7 @@
   },
   "CapSoftware/Cap": {
     "first_seen": "2026-09-20",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-25",
     "last_saved": "2026-09-20"
   },
   "eval-exec/neomacs": {
@@ -2094,52 +2094,32 @@
     "last_seen": "2026-09-25",
     "last_saved": "2026-09-24"
   },
-  "NVIDIA/Model-Optimizer": {
+  "paperclipai/paperclip": {
     "first_seen": "2026-09-25",
     "last_seen": "2026-09-25",
     "last_saved": "2026-09-25"
   },
-  "leejet/stable-diffusion.cpp": {
+  "androoAGI/starnet": {
     "first_seen": "2026-09-25",
     "last_seen": "2026-09-25",
     "last_saved": "2026-09-25"
   },
-  "usebruno/bruno": {
+  "derv82/wifit3": {
     "first_seen": "2026-09-25",
     "last_seen": "2026-09-25",
     "last_saved": "2026-09-25"
   },
-  "Z4nzu/hackingtool": {
+  "google/langextract": {
     "first_seen": "2026-09-25",
     "last_seen": "2026-09-25",
     "last_saved": "2026-09-25"
   },
-  "SimplifyJobs/Summer2027-Internships": {
+  "Asymptote-Labs/agent-beacon": {
     "first_seen": "2026-09-25",
     "last_seen": "2026-09-25",
     "last_saved": "2026-09-25"
   },
-  "fastapi/full-stack-fastapi-template": {
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-09-25",
-    "last_saved": "2026-09-25"
-  },
-  "stepfun-ai/Step-Code": {
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-09-25",
-    "last_saved": "2026-09-25"
-  },
-  "maximhq/bifrost": {
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-09-25",
-    "last_saved": "2026-09-25"
-  },
-  "gosom/google-maps-scraper": {
-    "first_seen": "2026-09-25",
-    "last_seen": "2026-09-25",
-    "last_saved": "2026-09-25"
-  },
-  "projectdiscovery/nuclei": {
+  "juspay/hyperswitch": {
     "first_seen": "2026-09-25",
     "last_seen": "2026-09-25",
     "last_saved": "2026-09-25"

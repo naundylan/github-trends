@@ -1,0 +1,44 @@
+{
+  "id": "646d3622-147e-47b5-a90c-6ef33ba16e6f",
+  "repo": "juspay/hyperswitch",
+  "url": "https://github.com/juspay/hyperswitch",
+  "category": "Developer Tool",
+  "summary": "Nền tảng thanh toán mã nguồn mở và modular, cung cấp giải pháp PCI compliant với tùy chọn SaaS và self-host, cho phép kết nối nhiều nhà cung cấp thanh toán, payout, fraud, vault và tokenization, kèm routing thông minh và phục hồi doanh thu.",
+  "usecases": [
+    "Kết nối nhiều cổng thanh toán (như Stripe, Adyen) trong một giao diện duy nhất cho ứng dụng thương mại điện tử",
+    "Triển khai hệ thống thanh toán self-host cho các doanh nghiệp cần tuân thủ dữ liệu nội bộ",
+    "Sử dụng routing thông minh để tối đa hóa tỷ lệ thành công giao dịch và giảm chi phí xử lý"
+  ],
+  "ideas": [
+    "Tích hợp tính năng thu hồi doanh thu (revenue recovery) cho các nền tảng SaaS",
+    "Phát triển plugin cho các framework e-commerce phổ biến như WooCommerce hoặc Shopify",
+    "Xây dựng dashboard giám sát chi phí và hiệu suất giao dịch trong thời gian thực"
+  ],
+  "stars": 43999,
+  "starsToday": 161,
+  "language": "Rust",
+  "topics": [
+    "payments",
+    "rust",
+    "orchestration",
+    "hacktoberfest",
+    "beginner-friendly",
+    "featured",
+    "high-performance",
+    "open-source",
+    "restful-api",
+    "sdk",
+    "works-with-react",
+    "finance",
+    "payment",
+    "payment-gateway",
+    "payment-integration",
+    "payment-processing",
+    "fintech",
+    "payments-platform",
+    "adyen",
+    "stripe"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-25T14:38:34.731Z"
+}

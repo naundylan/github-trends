@@ -1,0 +1,36 @@
+{
+  "id": "4d28162a-84ce-4ab8-be5c-5cfd95b2ec9a",
+  "repo": "androoAGI/starnet",
+  "url": "https://github.com/androoAGI/starnet",
+  "category": "AI Agent/Automation",
+  "summary": "một hệ điều hành desktop đầu tiên nơi các AI agent thực sự làm việc, tạo ra các tác phẩm pixel-art sống động và tự động hóa tác vụ thông qua nhiều agent cùng làm việc, được thiết kế hoạt động local-first với Tauri",
+  "usecases": [
+    "tự động hóa quy trình phát triển phần mềm bằng nhiều AI agent đồng thời",
+    "tạo và quản lý các tác phẩm pixel-art bằng cách điều khiển các AI agent local-first",
+    "nghiên cứu và triển khai các hệ thống multi-agent trên desktop với quyền kiểm soát đầy đủ (BYOK)"
+  ],
+  "ideas": [
+    "kết hợp với các mô hình TTS/VTS để tạo ra các AI agent có giao diện nhân vật pixel-art tương tác",
+    "phát triển plugin cho VS Code để kết nối trực tiếp với harness Starnet để tự động hoàn thành code",
+    "tạo dashboard theo dõi hiệu suất và chi phí cho từng AI agent trong hệ thống multi-agent"
+  ],
+  "stars": 320,
+  "starsToday": 113,
+  "language": "JavaScript",
+  "topics": [
+    "agent-harness",
+    "ai",
+    "ai-agents",
+    "byok",
+    "desktop-app",
+    "game-ui",
+    "llm",
+    "local-first",
+    "multi-agent",
+    "openrouter",
+    "pixel-art",
+    "tauri"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-25T14:38:34.731Z"
+}

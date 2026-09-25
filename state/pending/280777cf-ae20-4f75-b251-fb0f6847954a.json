@@ -1,0 +1,23 @@
+{
+  "id": "280777cf-ae20-4f75-b251-fb0f6847954a",
+  "repo": "paperclipai/paperclip",
+  "url": "https://github.com/paperclipai/paperclip",
+  "category": "AI Agent/Automation",
+  "summary": "Ứng dụng mã nguồn mở giúp quản lý và điều phối các AI agent trong môi trường làm việc, cung cấp giao diện và API để tạo, triển khai và giám sát agent.",
+  "usecases": [
+    "Quản lý fleet của agent nội bộ cho công ty",
+    "Tích hợp agent vào quy trình hỗ trợ khách hàng tự động",
+    "Giám sát hiệu suất và chi phí sử dụng agent"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống ticketing để tự động gán agent giải quyết vấn đề",
+    "Phát triển marketplace cho các agent chuyên dụng",
+    "Thêm tính năng học tập liên tục từ logs agent"
+  ],
+  "stars": 83729,
+  "starsToday": 1853,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-25T14:38:34.731Z"
+}

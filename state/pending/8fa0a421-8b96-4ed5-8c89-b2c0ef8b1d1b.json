@@ -1,0 +1,23 @@
+{
+  "id": "8fa0a421-8b96-4ed5-8c89-b2c0ef8b1d1b",
+  "repo": "anomalyco/opencode",
+  "url": "https://github.com/anomalyco/opencode",
+  "category": "AI Agent/Automation",
+  "summary": "open-source coding agent giúp tự động hóa việc viết và sửa đổi mã bằng cách hiểu ngữ cảnh mã nguồn và tạo ra các giải pháp có thể thực thi.",
+  "usecases": [
+    "Tạo các đoạn mã hoàn chỉnh dựa trên mô tả bằng ngôn ngữ tự nhiên trong IDE.",
+    "Tự động hóa việc sửa lỗi và refactor mã trong các kho lưu trữ lớn.",
+    "Tạo các prototype nhanh chóng cho các tính năng mới bằng cách tương tác với tác nhân."
+  ],
+  "ideas": [
+    "Tích hợp openencode với các hệ thống yêu cầu để tự động chuyển đổi yêu cầu thành mã.",
+    "Kết hợp với các hệ thống CI/CD để thực hiện các lần kiểm tra do tác nhân tạo ra.",
+    "Xây dựng một giao diện người dùng dựa trên tác nhân để điều chỉnh các lời nhắc mã hóa theo thời gian thực."
+  ],
+  "stars": 209982,
+  "starsToday": 198,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-25T14:38:34.731Z"
+}

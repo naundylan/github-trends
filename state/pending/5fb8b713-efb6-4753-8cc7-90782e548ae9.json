@@ -1,0 +1,23 @@
+{
+  "id": "5fb8b713-efb6-4753-8cc7-90782e548ae9",
+  "repo": "Alishahryar1/free-claude-code",
+  "url": "https://github.com/Alishahryar1/free-claude-code",
+  "category": "AI/LLM",
+  "summary": "một harness miễn phí cho nhiều mô hình code LLM (Claude Code, Codex, Pi, OpenCode...) cho phép truy cập 1.3B+ token miễn phí từ terminal, IDE, ứng dụng và trình duyệt với các phiên bản native và hỗ trợ giọng nói",
+  "usecases": [
+    "lập trình viên sử dụng nhiều code LLM khác nhau từ một giao diện duy nhất mà không cần trả phí cao",
+    "tích hợp khả năng tạo code AI vào các terminal, IDE hoặc trình duyệt để tăng tốc độ phát triển",
+    "thử nghiệm và so sánh hiệu suất các mô hình code LLM khác nhau với cùng một prompt"
+  ],
+  "ideas": [
+    "xây dựng một IDE tùy chỉnh tích hợp sẵn multi-harness này để phát triển toàn diện mà không cần nhiều API key",
+    "tích hợp tính năng giọng nói (voice supported) để điều khiển tạo code bằng lệnh thoại thông qua trình duyệt",
+    "phát triển hệ thống tự động quay lịch sử phiên làm việc code và xuất báo cáo hiệu suất từng mô hình"
+  ],
+  "stars": 55925,
+  "starsToday": 111,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-25T14:38:34.731Z"
+}

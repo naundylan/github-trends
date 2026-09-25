@@ -1,0 +1,23 @@
+{
+  "id": "3daaf166-18ad-4e6e-bc1e-520f95624863",
+  "repo": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "category": "Developer Tool",
+  "summary": "Bộ sưu tập script và công cụ shell được sử dụng bởi kỹ sư để thực hành và chia sẻ kỹ năng thực tế như tự động hóa, debug, triển khai.",
+  "usecases": [
+    "Tự động hóa thiết lập môi trường dev mới",
+    "Kiểm tra và sửa lỗi hệ thống qua các script chuẩn",
+    "Học và áp dụng các best practice trong DevOps và sysadmin"
+  ],
+  "ideas": [
+    "Mở rộng thành plugin cho các terminal phổ biến như Oh My Zsh",
+    "Tích hợp vào CI/CD để chạy kiểm tra skill trước khi deploy",
+    "Tạo phiên bản web interactive để tra cứu skill"
+  ],
+  "stars": 269471,
+  "starsToday": 671,
+  "language": "Shell",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-25T14:38:34.731Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "3d89c812-ca63-4e73-9a89-f0db80195d8e",
+  "repo": "openclaw/openclaw",
+  "url": "https://github.com/openclaw/openclaw",
+  "category": "AI Agent/Automation",
+  "summary": "Một trình hỗ trợ AI agent đa nền tảng, có khả năng thực hiện các tác vụ tự động hóa trên mọi hệ điều hành và thiết bị, tập trung vào việc tối ưu hóa công việc và trải nghiệm cá nhân.",
+  "usecases": [
+    "Tự động hóa các tác vụ lặp lại hàng ngày như gửi email, kiểm tra lịch trình và điều khiển các thiết bị thông minh.",
+    "Làm trợ lý lập trình viên thông minh, hỗ trợ viết code, debug và chạy test trên nhiều môi trường khác nhau.",
+    "Quản lý và điều phối các tác vụ agent tự động trong các hệ thống doanh nghiệp hoặc dự án cá nhân."
+  ],
+  "ideas": [
+    "Kết hợp với các API của bên thứ ba để tự động hóa quy trình đặt hàng hoặc thanh toán.",
+    "Tích hợp vào hệ thống nhà thông minh để điều khiển các thiết bị dựa trên ngữ cảnh và hành vi người dùng.",
+    "Sử dụng làm bot hỗ trợ khách hàng tự động hóa, giải đáp thắc mắc và xử lý yêu cầu trên nhiều nền tảng khác nhau."
+  ],
+  "stars": 390477,
+  "starsToday": 158,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "assistant",
+    "own-your-data",
+    "personal",
+    "crustacean",
+    "molty",
+    "openclaw"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-25T14:38:34.731Z"
+}

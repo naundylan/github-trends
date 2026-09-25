@@ -1,0 +1,29 @@
+{
+  "id": "6a78e35e-22e3-4a9f-b1d1-61dda8608a98",
+  "repo": "derv82/wifit3",
+  "url": "https://github.com/derv82/wifit3",
+  "category": "Security/Pentest",
+  "summary": "Công cụ quét và đánh giá bảo mật mạng WiFi tự động, phiên bản cross-platform và chỉ yêu cầu kết nối USB, kế thừa các tính năng của Wifite nhưng tối ưu cho môi trường không cần root phức tạp.",
+  "usecases": [
+    "Kiểm tra lỗ hổng bảo mật cho mạng WiFi trong doanh nghiệp",
+    "Phát hiện và đánh giá điểm yếu của router trong môi trường lab",
+    "Giám sát an toàn cho mạng không dây trong các tổ chức bảo mật"
+  ],
+  "ideas": [
+    "Tích hợp với Raspberry Pi tạo thiết bị giám sát di động",
+    "Phát triển giao diện web quản lý kết quả quét",
+    "Tự động tạo báo cáo bảo mật định kỳ gửi đến đội ngũ IT"
+  ],
+  "stars": 732,
+  "starsToday": 168,
+  "language": "Python",
+  "topics": [
+    "cross-platform",
+    "userland",
+    "wifi-scanner",
+    "wifi-security",
+    "wireless-security"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-25T14:38:34.731Z"
+}
