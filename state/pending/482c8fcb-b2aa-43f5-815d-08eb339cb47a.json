@@ -1,0 +1,44 @@
+{
+  "id": "482c8fcb-b2aa-43f5-815d-08eb339cb47a",
+  "repo": "vshulcz/deja-vu",
+  "url": "https://github.com/vshulcz/deja-vu",
+  "category": "AI Agent/Automation",
+  "summary": "Deja-vu là một hệ thống bộ nhớ được chia sẻ giữa các agent coding như Claude Code, Codex, Cursor, được xây dựng từ lịch sử session đã có trên đĩa. Nó cho phép một fixes được tìm thấy trong một agent được áp dụng cho các agent khác, bao gồm cả các session từ trước khi cài đặt, mà không cần LLM hay embeddings.",
+  "usecases": [
+    "Đồng bộ hóa kiến thức và fixes giữa các công cụ coding agent khác nhau trong cùng một dự án.",
+    "Tăng hiệu quả làm việc bằng cách tái sử dụng các solutions từ các agent khác mà không cần đào tạo lại.",
+    "Bảo toàn bộ nhớ từ các session quá khứ khi chuyển sang sử dụng agent mới hoặc khác."
+  ],
+  "ideas": [
+    "Kết hợp với các hệ thống quản lý dự án để tự động ghi nhận và chia sẻ lessons learned từ các agent.",
+    "Sử dụng trong các môi trường làm việc nhóm để chia sẻ kinh nghiệm coding qua các agent khác nhau.",
+    "Tích hợp vào CI/CD pipeline để lưu trữ và áp dụng tự động các fixes từ các agent testing."
+  ],
+  "stars": 1011,
+  "starsToday": 48,
+  "language": "Go",
+  "topics": [
+    "claude-code",
+    "codex",
+    "mcp",
+    "opencode",
+    "agent-memory",
+    "coding-agents",
+    "mcp-server",
+    "claude-code-hooks",
+    "claude-code-plugins",
+    "session-history",
+    "deepseek-harness",
+    "dsh-plugin",
+    "gemini-cli-extension",
+    "kimi-code",
+    "qwen-code",
+    "zed-extension",
+    "agents",
+    "ai",
+    "genai",
+    "memory"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-25T19:22:07.358Z"
+}

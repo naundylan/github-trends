@@ -1,0 +1,33 @@
+{
+  "id": "a75dc720-041c-42d8-9998-5802c755c2d5",
+  "repo": "mvschwarz/openrig",
+  "url": "https://github.com/mvschwarz/openrig",
+  "category": "Other",
+  "summary": "Multi-agent harness that runs Claude Code and Codex together as one system",
+  "usecases": [
+    "Khám phá và đánh giá mvschwarz/openrig cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 423,
+  "starsToday": 86,
+  "language": "TypeScript",
+  "topics": [
+    "agent-harness",
+    "agent-orchestration",
+    "agent-skills",
+    "ai-coding",
+    "claude-code",
+    "cli",
+    "codex-cli",
+    "multi-agent",
+    "tmux",
+    "typescript",
+    "multi-agent-systems"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-25T19:22:07.357Z"
+}

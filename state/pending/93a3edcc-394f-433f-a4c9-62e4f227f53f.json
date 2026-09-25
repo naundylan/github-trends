@@ -1,0 +1,34 @@
+{
+  "id": "93a3edcc-394f-433f-a4c9-62e4f227f53f",
+  "repo": "gosom/google-maps-scraper",
+  "url": "https://github.com/gosom/google-maps-scraper",
+  "category": "Developer Tool",
+  "summary": "Phần mềm trích xuất dữ liệu từ Google Maps, thu thập thông tin địa điểm như tên, địa chỉ, số điện thoại, đánh giá và tọa độ vị trí.",
+  "usecases": [
+    "Thu thập dữ liệu địa điểm cho nghiên cứu marketplace hoặc định vị",
+    "Theo dõi đánh giá và thông tin liên hệ của đối thủ trên Google Maps",
+    "Tích hợp vào hệ thống CRM để tự động cập nhật thông tin khách hàng"
+  ],
+  "ideas": [
+    "Xây dựng bộ công cụ phân tích cảm xúc địa điểm kết hợp với dữ liệu thời tiết",
+    "Tạo dịch vụ định giá bất động sản tự động dựa trên dữ liệu Google Maps",
+    "Kết hợp với LLM để tóm tắt đánh giá và phát hiện tin giả"
+  ],
+  "stars": 6110,
+  "starsToday": 44,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "google-maps-scraping",
+    "web-scraper",
+    "web-scraping",
+    "distributed-scraper",
+    "distributed-scraping",
+    "google-maps",
+    "agent-skills",
+    "claude-skills",
+    "codex-skills"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-25T19:22:07.358Z"
+}

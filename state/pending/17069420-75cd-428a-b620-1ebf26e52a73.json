@@ -1,0 +1,36 @@
+{
+  "id": "17069420-75cd-428a-b620-1ebf26e52a73",
+  "repo": "mrdoob/three.js",
+  "url": "https://github.com/mrdoob/three.js",
+  "category": "Web Frontend",
+  "summary": "Three.js là một thư viện JavaScript mạnh mẽ cho việc tạo đồ họa 3D trên web sử dụng WebGL. Nó cung cấp các công cụ đơn giản để xây dựng các ứng dụng thực tế ảo, thực tế tăng cường và đồ họa 3D tương tác trực tiếp trong trình duyệt.",
+  "usecases": [
+    "Tạo các trang web với đồ họa 3D tương tác như mô hình sản phẩm hoặc môi trường ảo.",
+    "Phát triển các ứng dụng thực tế ảo (VR) và thực tế tăng cường (AR) cho trình duyệt web.",
+    "Xây dựng các game browser sử dụng công nghệ WebGL mà không cần plugin."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ AI để tạo nội dung 3D tự động từ mô tả văn bản.",
+    "Sử dụng trong giáo dục để teaching các khái niệm hình học 3D qua tương tác trực quan.",
+    "Tích hợp vào các nền tảng e-commerce để hiển thị sản phẩm 3D có thể xoayrotate."
+  ],
+  "stars": 115887,
+  "starsToday": 56,
+  "language": "JavaScript",
+  "topics": [
+    "javascript",
+    "3d",
+    "virtual-reality",
+    "augmented-reality",
+    "webgl",
+    "webgl2",
+    "webgpu",
+    "webxr",
+    "webaudio",
+    "canvas",
+    "svg",
+    "html5"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-25T19:22:07.358Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4c83ddd1-6914-4167-bdc9-7cc6c7e9a5d7",
+  "repo": "NVIDIA/Model-Optimizer",
+  "url": "https://github.com/NVIDIA/Model-Optimizer",
+  "category": "AI/LLM",
+  "summary": "Thư viện thống nhất các kỹ thuật tối ưu mô hình SOTA như quantization, distillation, pruning, neural architecture search, speculative decoding để nén mô hình deep learning cho triển khai inference nhanh trên TensorRT-LLM, vLLM.",
+  "usecases": [
+    "Nén mô hình LLM lớn để chạy inference nhanh hơn trên GPU với TensorRT-LLM",
+    "Tối ưu mô hình computer vision cho triển khai edge với TensorRT",
+    "Áp dụng quantization và pruning để giảm chi phí serving mô hình production"
+  ],
+  "ideas": [
+    "Tích hợp vào pipeline CI/CD để tự động tối ưu mô hình trước khi deploy",
+    "Kết hợp với vLLM để build serving stack LLM hiệu năng cao end-to-end",
+    "Xây dựng benchmark tự động so sánh các kỹ thuật optimization cho từng loại mô hình"
+  ],
+  "stars": 4380,
+  "starsToday": 360,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-25T19:22:07.357Z"
+}
