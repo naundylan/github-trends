@@ -1,0 +1,23 @@
+{
+  "id": "bfdb923d-0032-4590-bb94-e147f4b4a07a",
+  "repo": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Cursor/plugins là bộ spec và các plugin chính thức cho trình chỉnh sửa code Cursor, cho phép mở rộng và tùy chỉnh các tính năng hỗ trợ viết code bằng AI.",
+  "usecases": [
+    "Tùy chỉnh giao diện và luồng làm việc code theo phong cách cá nhân hoặc team.",
+    "Tích hợp các tính năng AI riêng hoặc kết nối với dịch vụ ngoài để tự động hóa tác vụ code.",
+    "Phát triển plugin mở rộng khả năng debug, test hoặc tự động sinh code cho dự án cụ thể."
+  ],
+  "ideas": [
+    "Xây dựng plugin kết nối Cursor với các nền tảng cloud deployment để deploy code một click.",
+    "Tạo plugin tự động sinh tài liệu code từ comments và logic code.",
+    "Kết hợp Cursor plugins với các hệ thống quản lý dự án (Jira, Trello) để tự động tạo task từ code."
+  ],
+  "stars": 8652,
+  "starsToday": 66,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-09-26T03:02:17.664Z"
+}

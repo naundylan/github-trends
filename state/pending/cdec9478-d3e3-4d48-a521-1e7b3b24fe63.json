@@ -1,0 +1,41 @@
+{
+  "id": "cdec9478-d3e3-4d48-a521-1e7b3b24fe63",
+  "repo": "Gentleman-Programming/gentle-ai",
+  "url": "https://github.com/Gentleman-Programming/gentle-ai",
+  "category": "AI Agent/Automation",
+  "summary": "Gentle-AI cấu hình các AI coding agents bạn đang sử dụng như Claude Code, Cursor, OpenCode, Codex và Pi, cung cấp tính nhớ liên tục, Organic-Driven Development, kỹ năng được tuyển chọn, MCP servers, personas và review giới hạn. Open source, tránh khóa agent.",
+  "usecases": [
+    "Tự động hóa code review cho dự án mở source",
+    "Hỗ trợ hoàn thành code với memory liên tục across sessions",
+    "Tạo persona cho agent phù hợp với phong cách lập trình cụ thể"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động generate PR comments",
+    "Sử dụng làm nền tảng cho IDE extension personalize",
+    "Triển khai trên local server cho compliance cao"
+  ],
+  "stars": 7299,
+  "starsToday": 59,
+  "language": "Go",
+  "topics": [
+    "ai-coding",
+    "claude-code",
+    "code-review",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "golang",
+    "llm",
+    "mcp",
+    "opencode",
+    "persistent-memory",
+    "spec-driven-development",
+    "agent-skills",
+    "ai-agents",
+    "codex",
+    "coding-agents",
+    "pi"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-26T03:02:17.664Z"
+}

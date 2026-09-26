@@ -1,0 +1,23 @@
+{
+  "id": "6d7ea0d6-b8f8-46c7-9a0a-bcec2a3da0af",
+  "repo": "kelseyhightower/kubernetes-the-hard-way",
+  "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+  "category": "Documentation/Learning Resource",
+  "summary": "kubernetes-the-hard-way là một hướng dẫn thực hành giúp bạn khởi tạo cụm Kubernetes một cách thủ công, không sử dụng script, nhằm hiểu sâu về các thành phần cốt lõi của Kubernetes.",
+  "usecases": [
+    "Đào tạo đội ngũ vận hành về các thành phần cơ bản của Kubernetes.",
+    "Sử dụng như một bài lab thực hành trong khóa học hoặc chương trình chứng chỉ.",
+    "Kiểm tra kỹ năng quản trị cụm Kubernetes trong môi trường mô phỏng."
+  ],
+  "ideas": [
+    "Tạo các bài thực hành theo chủ đề (ví dụ: mạng, kiểm soát, mạng lưới) dựa trên các bước trong hướng dẫn.",
+    "Biên dịch nội dung hướng dẫn thành một khóa học trực tuyến tương tác với các máy ảo có sẵn.",
+    "Phát triển một bộ kiểm tra tự động xác minh từng bước được thực hiện chính xác."
+  ],
+  "stars": 50132,
+  "starsToday": 119,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-26T03:02:17.664Z"
+}

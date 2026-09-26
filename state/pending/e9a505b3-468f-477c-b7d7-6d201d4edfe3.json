@@ -1,0 +1,44 @@
+{
+  "id": "e9a505b3-468f-477c-b7d7-6d201d4edfe3",
+  "repo": "vshulcz/deja-vu",
+  "url": "https://github.com/vshulcz/deja-vu",
+  "category": "AI Agent/Automation",
+  "summary": "Một hệ thống mémoire chung cho các agent viết code, lưu trữ lịch sử phiên làm việc trên đĩa cục bộ, cho phép sửa lỗi tại một agent được phản ánh ngay trên các agent khác, bao gồm các session cũ, không cần LLM hay embedding.",
+  "usecases": [
+    "Đồng bộ trạng thái phiên làm việc giữa nhiều IDE/agent AI",
+    "Phục hồi lại session code cũ sau khi cài đặt lại tool",
+    "Phân tích và tái sử dụng các đoạn code đã viết trong các session quá khứ"
+  ],
+  "ideas": [
+    "Triển khai làm nền tảng cho 'memory bank' chung cho các team phát triển phần mềm",
+    "Kết hợp với version control để theo dõi thay đổi logic qua thời gian",
+    "Sử dụng để tối ưu hóa việc training agent code mới bằng dữ liệu session cũ"
+  ],
+  "stars": 1020,
+  "starsToday": 39,
+  "language": "Go",
+  "topics": [
+    "claude-code",
+    "codex",
+    "mcp",
+    "opencode",
+    "agent-memory",
+    "coding-agents",
+    "mcp-server",
+    "claude-code-hooks",
+    "claude-code-plugins",
+    "session-history",
+    "deepseek-harness",
+    "dsh-plugin",
+    "gemini-cli-extension",
+    "kimi-code",
+    "qwen-code",
+    "zed-extension",
+    "agents",
+    "ai",
+    "genai",
+    "memory"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-26T03:02:17.664Z"
+}

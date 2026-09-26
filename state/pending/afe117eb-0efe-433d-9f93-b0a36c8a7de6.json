@@ -1,0 +1,27 @@
+{
+  "id": "afe117eb-0efe-433d-9f93-b0a36c8a7de6",
+  "repo": "openbao/openbao",
+  "url": "https://github.com/openbao/openbao",
+  "category": "Security/Pentest",
+  "summary": "OpenBao là giải pháp mã nguồn mở quản lý bí mật, lưu trữ và phân phối dữ liệu nhạy cảm như mật khẩu, chứng chỉ số và khóa bảo mật, tương thích với Vault của HashiCorp.",
+  "usecases": [
+    "Quản lý bí mật cho các ứng dụng containerized (Docker/Kubernetes) trong môi trường phát triển và sản xuất.",
+    "Cung cấp truy cập an toàn cho các dịch vụ bên thứ ba cần xác thực thông tin nhạy cảm mà không lộ khóa thực.",
+    "Tích hợp vào pipeline CI/CD để tự động cung cấp khóa bảo mật cho các bước build và deploy."
+  ],
+  "ideas": [
+    "Sử dụng OpenBao làm trung tâm cấp phép linh hoạt cho các sản phẩm phần mềm thương mại dựa trên license file mã hóa.",
+    "Kết hợp với blockchain để quản lý xác thực danh tính phi trung tâm mà không cần trusted third party.",
+    "Triển khai OpenBao trên các hàm serverless (AWS Lambda Functions) để cấp quyền truy cập tạm thời cho các tài nguyên đám mây."
+  ],
+  "stars": 7749,
+  "starsToday": 49,
+  "language": "Go",
+  "topics": [
+    "go",
+    "secret-management",
+    "security"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-26T03:02:17.664Z"
+}

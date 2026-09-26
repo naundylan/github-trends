@@ -1,0 +1,23 @@
+{
+  "id": "d816430b-3716-40d5-96e2-e18f82d7be3e",
+  "repo": "NVIDIA/Model-Optimizer",
+  "url": "https://github.com/NVIDIA/Model-Optimizer",
+  "category": "AI/LLM",
+  "summary": "NVIDIA/Model-Optimizer là một thư viện thống nhất các kỹ thuật tối ưu hóa mô hình hàng đầu như định lượng, tinh chỉnh, cắt tỉa, tìm kiếm kiến trúc thần kinh, giải mã suy đoán, v.v. Nó giúp nén các mô hình học sâu để triển khai trên các framework như TensorRT-LLM, TensorRT, vLLM, v.v. nhằm tối ưu tốc độ suy luận.",
+  "usecases": [
+    "Tối ưu hóa mô hình học sâu cho môi trường sản xuất để giảm độ trễ và chi phí tính toán.",
+    "Triển khai mô hình trên các nền tảng tăng tốc phần cứng như TensorRT để đạt hiệu suất cao hơn.",
+    "Giảm dung lượng mô hình cho các thiết bị biên hoặc thiết bị di động."
+  ],
+  "ideas": [
+    "Tích hợp Model Optimizer với các pipeline CI/CD để tự động tối ưu hóa mô hình trước khi triển khai.",
+    "Xây dựng giao diện người dùng đồ họa để người dùng không chuyên có thể chọn các kỹ thuật tối ưu hóa phù hợp.",
+    "Kết hợp với các công cụ giám sát để đánh giá tác động của việc tối ưu hóa lên độ chính xác mô hình."
+  ],
+  "stars": 4491,
+  "starsToday": 359,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-26T03:02:17.663Z"
+}
