@@ -1,0 +1,29 @@
+{
+  "id": "4e30ff2e-79ec-438f-9daa-a006436327c1",
+  "repo": "microsoft/vscode",
+  "url": "https://github.com/microsoft/vscode",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Trình soạn thảo mã nguồn mở đa nền tảng, nổi bật với hệ thống extension và khả năng debug tích hợp.",
+  "usecases": [
+    "Daily code editing and debugging for software development projects.",
+    "Extensible platform for building custom developer tools and IDEs.",
+    "Lightweight remote development and container-based coding environments."
+  ],
+  "ideas": [
+    "Develop a specialized IDE for a specific language or framework using VS Code extensions.",
+    "Build a collaborative coding platform with real-time editing and AI assistance.",
+    "Create a personal knowledge base or note-taking app integrated with code features."
+  ],
+  "stars": 192978,
+  "starsToday": 78,
+  "language": "TypeScript",
+  "topics": [
+    "editor",
+    "electron",
+    "visual-studio-code",
+    "typescript",
+    "microsoft"
+  ],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-09-26T13:48:30.977Z"
+}

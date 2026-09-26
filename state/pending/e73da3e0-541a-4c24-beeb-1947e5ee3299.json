@@ -1,0 +1,23 @@
+{
+  "id": "e73da3e0-541a-4c24-beeb-1947e5ee3299",
+  "repo": "vercel-labs/scriptc",
+  "url": "https://github.com/vercel-labs/scriptc",
+  "category": "Developer Tool",
+  "summary": "Biên dịch TypeScript thành mã native (C/C++), cho phép chạy với hiệu suất cao mà không cần runtime.",
+  "usecases": [
+    "Compile TypeScript scripts for performance-critical applications without Node.js runtime.",
+    "Create standalone executables from TypeScript code for desktop or server deployment.",
+    "Enable type-safe scripting in embedded systems or environments where Node.js is unavailable."
+  ],
+  "ideas": [
+    "Combine with Vercel edge functions to compile TS on-the-fly for edge deployment.",
+    "Build a native TypeScript-based CLI tool that competes with Go or Rust CLI utilities.",
+    "Use as a transpiler for TypeScript to WebAssembly with native bindings."
+  ],
+  "stars": 5110,
+  "starsToday": 97,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-26T13:48:30.977Z"
+}

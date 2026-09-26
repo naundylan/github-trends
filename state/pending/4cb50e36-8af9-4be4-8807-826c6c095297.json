@@ -1,0 +1,23 @@
+{
+  "id": "4cb50e36-8af9-4be4-8807-826c6c095297",
+  "repo": "NVIDIA/Model-Optimizer",
+  "url": "https://github.com/NVIDIA/Model-Optimizer",
+  "category": "AI/LLM",
+  "summary": "Thư viện đồng nhất các kỹ thuật tối ưu mô hình SOTA như lượng tử hóa, distillation, pruning và neural architecture search, giúp nén các mô hình deep learning để tối ưu tốc độ suy luận cho các framework như TensorRT-LLM và vLLM.",
+  "usecases": [
+    "Tối ưu mô hình LLM cho deployment trên phần cứng NVIDIA để giảm độ trễ và tiêu tốn băng nhớ.",
+    "Áp dụng kỹ thuật pruning và quantization để giảm kích thước mô hình cho thiết bị biên giới với tài nguyên hạn hẹp.",
+    "Sử dụng neural architecture search để tìm kiếm kiến trúc mô hình hiệu quả nhất cho bài toán cụ thể."
+  ],
+  "ideas": [
+    "Kết hợp Model Optimizer với Hugging Face Transformers để tự động hóa quy trình tối ưu mô hình trước khi triển khai.",
+    "Phát triển pipeline CI/CD tích hợp Model Optimizer để tối ưu mô hình mỗi khi có bản cập nhật mới.",
+    "Tạo giao diện web đơn giản cho phép người dùng tải lên mô hình và nhận kết quả tối ưu hoá tự động."
+  ],
+  "stars": 4611,
+  "starsToday": 354,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-26T13:48:30.977Z"
+}

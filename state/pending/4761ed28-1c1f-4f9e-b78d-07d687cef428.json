@@ -1,0 +1,30 @@
+{
+  "id": "4761ed28-1c1f-4f9e-b78d-07d687cef428",
+  "repo": "putyy/res-downloader",
+  "url": "https://github.com/putyy/res-downloader",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh (CLI) viết bằng Go để tải xuống các nguồn mạng phổ biến như video Douyin, Kuaishou, Xiaohongshu, nhạc QQ/Kugou và luồng m3u8.",
+  "usecases": [
+    "Tải video và nhạc từ các nền tảng xã hội Trung Quốc.",
+    "Phân tích và lưu trữ luồng m3u8 cho phát lại hoặc xử lý.",
+    "Tự động hóa thu thập nội dung đa phương tiện cho mục đích nghiên cứu hoặc lưu trữ."
+  ],
+  "ideas": [
+    "Xây dựng nền tảng lưu trữ hoặc bảo quản nội dung cá nhân.",
+    "Kết hợp với bot nhắn tin để tự động gửi file đã tải.",
+    "Phát triển API riêng cho ứng dụng nội dung hoặc giáo dục."
+  ],
+  "stars": 20173,
+  "starsToday": 152,
+  "language": "Go",
+  "topics": [
+    "wechat-video",
+    "wechat",
+    "douyin",
+    "kuaishou",
+    "res-downloader",
+    "xiaohongshu"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-26T13:48:30.977Z"
+}

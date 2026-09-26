@@ -1,0 +1,23 @@
+{
+  "id": "9943652e-f1ad-49b7-a5c2-ccede273371e",
+  "repo": "zhaoxuya520/reverse-skill",
+  "url": "https://github.com/zhaoxuya520/reverse-skill",
+  "category": "Security/Pentest",
+  "summary": "Bộ kỹ năng reverse engineering và penetration testing được điều phối bởi AI, tự động định tuyến tác vụ, khởi tạo toolchain theo nhu cầu và xây dựng cơ sở tri thức tự tiến hóa. Hỗ trợ tích hợp với các AI coding client phổ biến như Claude Code, Cursor, Cline.",
+  "usecases": [
+    "Tự động hóa quy trình phân tích malware và reverse engineering binary",
+    "Hỗ trợ penetration testing có định hướng bằng AI routing và toolchain động",
+    "Xây dựng knowledge base bảo mật tự học cho team red team/blue team"
+  ],
+  "ideas": [
+    "Kết hợp với SIEM/SOAR để tự động triage alert và đề xuất playbook response",
+    "Tích hợp vào CI/CD pipeline để quét lỗ hổng binary và dependency tự động",
+    "Mở rộng thành platform chia sẻ skill module bảo mật cộng đồng với versioning"
+  ],
+  "stars": 37757,
+  "starsToday": 409,
+  "language": "PowerShell",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-26T13:48:30.977Z"
+}

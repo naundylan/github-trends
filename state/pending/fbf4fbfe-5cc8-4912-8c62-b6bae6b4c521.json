@@ -1,0 +1,27 @@
+{
+  "id": "fbf4fbfe-5cc8-4912-8c62-b6bae6b4c521",
+  "repo": "openbao/openbao",
+  "url": "https://github.com/openbao/openbao",
+  "category": "Security/Pentest",
+  "summary": "Giải pháp quản lý secret mã nguồn mở (fork từ Vault) để lưu trữ, phân phối và quản lý vòng đời dữ liệu nhạy cảm như mật khẩu, certificate, API key và encryption key. Viết bằng Go, tập trung vào tính bảo mật và khả năng audit.",
+  "usecases": [
+    "Quản lý secret tập trung cho microservices và Kubernetes cluster",
+    "Dynamic database credentials và certificate rotation tự động",
+    "Encryption as a service cho ứng dụng không muốn tự handle crypto"
+  ],
+  "ideas": [
+    "Tích hợp với GitOps (ArgoCD/Flux) để inject secret an toàn vào deployment",
+    "Xây dựng plugin cho IDE/CLI để developer truy xuất secret local mà không commit",
+    "Kết hợp với policy engine (OPA) để enforce least-privilege access control"
+  ],
+  "stars": 7894,
+  "starsToday": 360,
+  "language": "Go",
+  "topics": [
+    "go",
+    "secret-management",
+    "security"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-26T13:48:30.977Z"
+}
