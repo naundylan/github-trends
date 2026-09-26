@@ -1,0 +1,33 @@
+{
+  "id": "505dbd2a-c403-4cd0-8c78-c5ee1c4054b1",
+  "repo": "mobile-next/mobile-mcp",
+  "url": "https://github.com/mobile-next/mobile-mcp",
+  "category": "Mobile (iOS/Android)",
+  "summary": "MCP Server cho tự động hóa và scraping trên iOS, Android, emulator và thiết bị thực. Hỗ trợ kiểm soát và tương tác với môi trường mobile qua giao thức mở.",
+  "usecases": [
+    "Tự động hóa kiểm thử và quy trình CI/CD cho ứng dụng trên nhiều thiết bị và mô phỏng.",
+    "Scraping và trích xuất dữ liệu từ giao diện ứng dụng mobile và hệ điều hành.",
+    "Xây dựng AI agent tương tác với môi trường mobile thông qua lệnh và giao thức MCP."
+  ],
+  "ideas": [
+    "Kết hợp MCP với đa mô hình agent để điều khiển phone bằng giọng văn hoặc văn bản tự nhiên.",
+    "Phát triển nền tảng quản lý tập trung cho hàng trăm thiết bị mobile thực trong môi trường sản xuất.",
+    "Tích hợp với chuỗi công cụ tự động hóa test để sinh dữ liệu test thực từ hành vi người dùng trên mobile."
+  ],
+  "stars": 7321,
+  "starsToday": 143,
+  "language": "TypeScript",
+  "topics": [
+    "android",
+    "ios",
+    "mcp",
+    "mobile",
+    "agent",
+    "emulator",
+    "physical",
+    "real",
+    "simulator"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-09-26T23:19:26.963Z"
+}

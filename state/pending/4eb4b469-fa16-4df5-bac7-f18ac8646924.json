@@ -1,0 +1,23 @@
+{
+  "id": "4eb4b469-fa16-4df5-bac7-f18ac8646924",
+  "repo": "NVIDIA/Model-Optimizer",
+  "url": "https://github.com/NVIDIA/Model-Optimizer",
+  "category": "AI/LLM",
+  "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc., compressing deep learning models for downstream deployment frameworks.",
+  "usecases": [
+    "Optimizing deep learning models for faster inference speed",
+    "Reducing model size without significant accuracy loss",
+    "Deploying optimized models in production environments"
+  ],
+  "ideas": [
+    "Develop integration tools for PyTorch and TensorFlow",
+    "Provide automated end-to-end model optimization pipelines",
+    "Enable efficient edge deployment of compressed models"
+  ],
+  "stars": 4731,
+  "starsToday": 354,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-26T23:19:26.963Z"
+}

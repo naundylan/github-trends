@@ -1,0 +1,29 @@
+{
+  "id": "838bf3be-352f-4ab8-b153-4367c9051db1",
+  "repo": "microsoft/vscode",
+  "url": "https://github.com/microsoft/vscode",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Trình soạn thảo code mã nguồn mở phong bàng, tích hợp debugging, git và hàng nghìn extension, là môi trường phát triển mặc định cho nhiều lập trình viên.",
+  "usecases": [
+    "Sử dụng hàng ngày cho việc viết code, debug và quản lý dự án phần mềm",
+    "Phát triển các extension tùy chỉnh cho ngôn ngữ hoặc domain chuyên biệt",
+    "Tạo môi trường phát triển nhẹ cho remote coding và SSH connections"
+  ],
+  "ideas": [
+    "Xây dựng IDE cá nhân tích hợp các dịch vụ AI để hỗ trợ review code",
+    "Sử dụng làm nền tảng cho các khóa học lập trình trực tiếp trong editor",
+    "Tích hợp real-time collaboration cho các team phát triển phân tán"
+  ],
+  "stars": 193063,
+  "starsToday": 78,
+  "language": "TypeScript",
+  "topics": [
+    "editor",
+    "electron",
+    "visual-studio-code",
+    "typescript",
+    "microsoft"
+  ],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-09-26T23:19:26.963Z"
+}

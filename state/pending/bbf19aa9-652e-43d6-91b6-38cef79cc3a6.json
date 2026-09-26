@@ -1,0 +1,27 @@
+{
+  "id": "bbf19aa9-652e-43d6-91b6-38cef79cc3a6",
+  "repo": "openbao/openbao",
+  "url": "https://github.com/openbao/openbao",
+  "category": "Security/Pentest",
+  "summary": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+  "usecases": [
+    "Managing and securing confidential credentials and secrets",
+    "Storing and distributing protected data across systems",
+    "Certificate and key lifecycle management"
+  ],
+  "ideas": [
+    "Integrate with CI/CD pipelines for automated secret injection",
+    "Build an enterprise-grade secret management platform",
+    "Create automated key rotation and audit features"
+  ],
+  "stars": 7990,
+  "starsToday": 360,
+  "language": "Go",
+  "topics": [
+    "go",
+    "secret-management",
+    "security"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-26T23:19:26.963Z"
+}

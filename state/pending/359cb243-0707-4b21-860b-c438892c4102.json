@@ -1,0 +1,23 @@
+{
+  "id": "359cb243-0707-4b21-860b-c438892c4102",
+  "repo": "vercel-labs/scriptc",
+  "url": "https://github.com/vercel-labs/scriptc",
+  "category": "Developer Tool",
+  "summary": "Compiler TypeScript thành mã native, cho phép chạy TypeScript trực tiếp trên các nền tảng không có môi trường JavaScript và cải thiện hiệu suất.",
+  "usecases": [
+    "Biến dịch TypeScript thành binary chạy trên desktop không cần runtime JavaScript",
+    "Tạo CLI tools với hiệu suất gần native cho các tác vụ hệ thống",
+    "Deploy TypeScript serverless functions với latency thấp hơn thông qua compilation native"
+  ],
+  "ideas": [
+    "Kết hợp với Electron để build ứng dụng desktop hoàn toàn từ TypeScript",
+    "Sử dụng trong CI/CD để thay thế Docker images bằng native binaries",
+    "Tạo DSL nội bộ cho dự án, compile thành script chạy độc lập"
+  ],
+  "stars": 5148,
+  "starsToday": 97,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-26T23:19:26.963Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2b8f3f58-8b21-4312-a724-6e1aa6a18e05",
+  "repo": "lightningpixel/modly",
+  "url": "https://github.com/lightningpixel/modly",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop local tạo mô hình 3D từ ảnh hoặc prompt sử dụng AI, chạy hoàn toàn trên GPU người dùng mà không cần kết nối internet.",
+  "usecases": [
+    "Tạo asset 3D nhanh từ ảnh thực tế cho thiết kế sản phẩm và marketing.",
+    "Sinh mô hình 3D từ prompt văn bản cho game development và animation.",
+    "Dùng làm công cụ tạo nội dung 3D cho các creative project không có hạn chế về mạng."
+  ],
+  "ideas": [
+    "Xuất kết quả sang format GLB/FBX để import trực tiếp vào Unity, Unreal hoặc Blender.",
+    "Kết hợp với pipeline texture generation để tự động hoàn thiện mesh và material.",
+    "Phát triển plugin cho các DAW hoặc creative tools để chèn mô hình 3D sinh ra vào dự án đa phương tiện."
+  ],
+  "stars": 7827,
+  "starsToday": 116,
+  "language": "TypeScript",
+  "topics": [
+    "3d",
+    "ai-local",
+    "ai-tools",
+    "open-source",
+    "modly",
+    "desktop-app",
+    "self-hosted"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-26T23:19:26.963Z"
+}

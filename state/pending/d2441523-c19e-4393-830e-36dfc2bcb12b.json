@@ -1,0 +1,33 @@
+{
+  "id": "d2441523-c19e-4393-830e-36dfc2bcb12b",
+  "repo": "grafana/k6",
+  "url": "https://github.com/grafana/k6",
+  "category": "Testing/QA",
+  "summary": "Công cụ test tải hiện đại dùng Go và JavaScript, đo lường hiệu suất web/API.",
+  "usecases": [
+    "Test tải API/web trước khi deploy lên production",
+    "Đo lường hiệu suất dưới các tải truy cập đồng thời lớn",
+    "Tích hợp vào CI/CD pipeline cho test tự động"
+  ],
+  "ideas": [
+    "Kết hợp Grafana dashboard để visualisasi kết quả test real-time",
+    "Mô phỏng hành vi user phức tạp cho microservices thông qua script JavaScript",
+    "Tạo các scenario test load tự động cho serverless functions"
+  ],
+  "stars": 31638,
+  "starsToday": 33,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "load-testing",
+    "load-generator",
+    "javascript",
+    "es6",
+    "performance",
+    "go",
+    "hacktoberfest",
+    "k6"
+  ],
+  "notePath": "notes/Testing-QA.md",
+  "createdAt": "2026-09-26T23:19:26.963Z"
+}
