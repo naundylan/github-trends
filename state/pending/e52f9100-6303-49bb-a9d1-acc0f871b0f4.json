@@ -1,0 +1,43 @@
+{
+  "id": "e52f9100-6303-49bb-a9d1-acc0f871b0f4",
+  "repo": "payloadcms/payload",
+  "url": "https://github.com/payloadcms/payload",
+  "category": "Web Framework",
+  "summary": "Payload là một khung Next.js fullstack mã nguồn mở, cung cấp backend mạnh mẽ và panel quản trị ngay lập tức. Nó có thể được sử dụng như một CMS headless hoặc để xây dựng các ứng dụng phức tạp.",
+  "usecases": [
+    "Xây dựng một website CMS mà không cần viết backend từ scratch.",
+    "Tạo ra một API cho các ứng dụng di động hoặc frontend khác.",
+    "Phát triển các ứng dụng nội bộ với panel quản trị tích hợp."
+  ],
+  "ideas": [
+    "Kết hợp Payload với các công cụ phân tích dữ liệu để tạo một CMS thông minh.",
+    "Sử dụng làm nền tảng cho các hệ thống quản lý nội dung đa ngôn ngữ.",
+    "Tích hợp với các dịch vụ third-party như payment gateways để xây dựng ứng dụng thương mại điện tử."
+  ],
+  "stars": 44969,
+  "starsToday": 26,
+  "language": "TypeScript",
+  "topics": [
+    "headless-cms",
+    "cms",
+    "express",
+    "graphql",
+    "react",
+    "payload",
+    "nodejs",
+    "typescript",
+    "javascript",
+    "mongodb",
+    "headless",
+    "content-management-system",
+    "content-management",
+    "mit-license",
+    "open-source",
+    "payloadcms",
+    "jamstack",
+    "postgres",
+    "nextjs"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-09-26T08:33:46.910Z"
+}

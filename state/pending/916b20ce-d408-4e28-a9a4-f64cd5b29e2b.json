@@ -1,0 +1,40 @@
+{
+  "id": "916b20ce-d408-4e28-a9a4-f64cd5b29e2b",
+  "repo": "kitao/pyxel",
+  "url": "https://github.com/kitao/pyxel",
+  "category": "Game Engine",
+  "summary": "Pyxel là một engine trò chơi retro được viết bằng Rust, cho phép phát triển game 2D kiểu pixel art bằng Python.",
+  "usecases": [
+    "Phát triển game arcade 2D",
+    "Tạo demo hoặc bản mẫu game nhanh",
+    "Học lập trình game và đồ họa cơ bản"
+  ],
+  "ideas": [
+    "Kết hợp với AI để sinh nội dung game thủ tục",
+    "Phát hành game trên web qua WebAssembly",
+    "Tạo công cụ chỉnh sửa sprite hoặc tilemap"
+  ],
+  "stars": 17984,
+  "starsToday": 24,
+  "language": "Rust",
+  "topics": [
+    "game",
+    "game-development",
+    "game-engine",
+    "gamedev",
+    "graphics",
+    "html",
+    "opengl",
+    "pico-8",
+    "pixel-art",
+    "python",
+    "pyxel",
+    "rust",
+    "tic-80",
+    "webgl",
+    "retro-game",
+    "wasm"
+  ],
+  "notePath": "notes/Game-Engine.md",
+  "createdAt": "2026-09-26T08:33:46.910Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "7d28ec6b-03cd-402f-87bd-6ba4ee016b35",
+  "repo": "Alban1911/Rose",
+  "url": "https://github.com/Alban1911/Rose",
+  "category": "Developer Tool",
+  "summary": "Rose là dự án Python liên quan đến League of Legends, tập trung vào việc mở khóa hoặc xử lý thông tin skins trong game.",
+  "usecases": [
+    "Tự động lấy dữ liệu skin và thông số cho tài khoản LoL",
+    "Phân tích và tùy chỉnh đồ họo trong game thông qua script Python",
+    "Tích hợp vào các công cụ modding hoặc bot game"
+  ],
+  "ideas": [
+    "Kết hợp với API chính thức Riot Games để hiển thị skin có sẵn và giá trị",
+    "Phát triển dashboard trực quan hóa collection skins người dùng",
+    "Tạo plugin cho trình tự động hóa test game hoặc kiểm tra skin"
+  ],
+  "stars": 590,
+  "starsToday": 18,
+  "language": "Python",
+  "topics": [
+    "league-of-legends",
+    "lol",
+    "skins"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-26T08:33:46.910Z"
+}

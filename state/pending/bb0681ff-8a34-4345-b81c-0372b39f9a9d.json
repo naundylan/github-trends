@@ -1,0 +1,44 @@
+{
+  "id": "bb0681ff-8a34-4345-b81c-0372b39f9a9d",
+  "repo": "qdrant/qdrant",
+  "url": "https://github.com/qdrant/qdrant",
+  "category": "Database",
+  "summary": "Qdrant là một cơ sở dữ liệu vector hiệu năng cao, được thiết kế cho thế hệ AI tiếp theo. Nó hỗ trợ tìm kiếm vector và tương đồng embeddings, phù hợp cho các ứng dụng như tìm kiếm hình ảnh, hệ thống gợi ý.",
+  "usecases": [
+    "Xây dựng hệ thống tìm kiếm hình ảnh dựa trên nội dung.",
+    "Ứng dụng trong hệ thống gợi ý sản phẩm dựa trên độ tương đồng.",
+    "Hỗ trợ cho các mô hình machine learning trong việc lưu trữ và truy vấn embeddings."
+  ],
+  "ideas": [
+    "Kết hợp Qdrant với các mô hình NLP để tạo ra một công cụ tìm kiếm ngữ nghĩa.",
+    "Sử dụng trong hệ thống phát hiện gian lận bằng cách so sánh embeddings của giao dịch.",
+    "Tích hợp với các nền tảng cloud như AWS để cung cấp dịch vụ vector database dưới dạng SaaS."
+  ],
+  "stars": 34831,
+  "starsToday": 29,
+  "language": "Rust",
+  "topics": [
+    "neural-network",
+    "search-engine",
+    "knn-algorithm",
+    "hnsw",
+    "vector-search",
+    "nearest-neighbor-search",
+    "image-search",
+    "embeddings-similarity",
+    "recommender-system",
+    "vector-search-engine",
+    "mlops",
+    "search-engines",
+    "neural-search",
+    "similarity-search",
+    "vector-database",
+    "machine-learning",
+    "search",
+    "ai-search",
+    "ai-search-engine",
+    "hybrid-search"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-09-26T08:33:46.910Z"
+}

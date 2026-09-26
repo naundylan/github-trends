@@ -1,0 +1,28 @@
+{
+  "id": "4738696f-20b2-4368-961a-f803453de788",
+  "repo": "vega-org/vega-app",
+  "url": "https://github.com/vega-org/vega-app",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Vega-app là ứng dụng streaming đa phương tiện cho Android, cho phép phát video trực tuyến với giao diện hiện đại dựa trên React Native.",
+  "usecases": [
+    "Phát trực tiếp các kênh truyền hình và nội dung video trên thiết bị di động",
+    "Tùy chỉnh trải nghiệm xem video với các tùy chọn đa phương tiện",
+    "Hỗ trợ chạy nền và nhận thông báo cho luồng video"
+  ],
+  "ideas": [
+    "Tích hợp casting lên TV (Chromecast/AirPlay) để xem trên màn hình lớn",
+    "Thêm chế độ xem ngoại tuyến bằng cache video local",
+    "Kết hợp AI đề xuất nội dung dựa trên lịch sử xem"
+  ],
+  "stars": 1432,
+  "starsToday": 20,
+  "language": "TypeScript",
+  "topics": [
+    "android-app",
+    "multimedia",
+    "video-streaming",
+    "react-native"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-09-26T08:33:46.910Z"
+}

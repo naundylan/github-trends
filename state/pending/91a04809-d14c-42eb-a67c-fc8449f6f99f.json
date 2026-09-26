@@ -1,0 +1,26 @@
+{
+  "id": "91a04809-d14c-42eb-a67c-fc8449f6f99f",
+  "repo": "NginxProxyManager/nginx-proxy-manager",
+  "url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+  "category": "DevOps/CI-CD",
+  "summary": "Nginx Proxy Manager là công cụ Docker cung cấp giao diện web để quản lý các host proxy Nginx một cách đơn giản.",
+  "usecases": [
+    "Quản lý nhiều trang web trên cùng một server",
+    "Tự động hóa việc cấp SSL Let's Encrypt",
+    "Đảo ngược proxy cho các dịch vụ nội bộ"
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống CI/CD để tự động cấu hình proxy khi triển khai mới",
+    "Phát triển plugin để hỗ trợ xác thực OAuth",
+    "Kết hợp với monitoring để cảnh báo khi host proxy gặp lỗi"
+  ],
+  "stars": 34239,
+  "starsToday": 21,
+  "language": "TypeScript",
+  "topics": [
+    "nginx",
+    "nginx-proxy"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-09-26T08:33:46.910Z"
+}

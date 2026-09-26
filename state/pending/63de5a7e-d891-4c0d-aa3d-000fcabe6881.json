@@ -1,0 +1,31 @@
+{
+  "id": "63de5a7e-d891-4c0d-aa3d-000fcabe6881",
+  "repo": "run-llama/liteparse",
+  "url": "https://github.com/run-llama/liteparse",
+  "category": "Data Engineering/ETL",
+  "summary": "Công cụ phân tích tài liệu nhanh và mã nguồn mở bằng Rust, hỗ trợ trích xuất văn bản và OCR từ PDF và các định dạng tài liệu khác.",
+  "usecases": [
+    "Trích xuất văn bản từ tài liệu PDF để xây dựng cơ sở dữ liệu tri thức doanh nghiệp",
+    "Xử lý hàng loạt tài liệu quy phạm pháp lý hoặc học thuật bằng OCR",
+    "Tích hợp pipeline ETL để chuyển đổi tài liệu thành dữ liệu có cấu trúc cho hệ thống AI"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống RAG để xây dựng chatbot hỗ trợ tìm kiếm thông tin trong tài liệu nội bộ",
+    "Phát triển API dịch vụ để cung cấp dịch vụ phân tích tài liệu qua cloud",
+    "Mở rộng hỗ trợ đa ngôn ngữ và định dạng tài liệu phức tạp như bảng tính và bản trình bày"
+  ],
+  "stars": 12646,
+  "starsToday": 33,
+  "language": "Rust",
+  "topics": [
+    "document-ocr",
+    "document-processing",
+    "ocr",
+    "ocr-recognition",
+    "pdf",
+    "pdf-parser",
+    "text-extraction"
+  ],
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-09-26T08:33:46.910Z"
+}

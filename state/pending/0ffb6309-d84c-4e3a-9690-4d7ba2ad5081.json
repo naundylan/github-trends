@@ -1,0 +1,42 @@
+{
+  "id": "0ffb6309-d84c-4e3a-9690-4d7ba2ad5081",
+  "repo": "DuarteSantos8/openGym",
+  "url": "https://github.com/DuarteSantos8/openGym",
+  "category": "Web Frontend",
+  "summary": "Ứng dụng web tự động lưu trữ cho theo dõi phòng tập gym và cơ bắp, cho phép lên kế hoạch bài tập, ghi nhận kết quả tập luyện và phân tích nhóm cơ, hỗ trợ đăng nhập bằng passkey và PWA.",
+  "usecases": [
+    "Theo dõi tiến độ tập luyện cá nhân với lưu trữ dữ liệu trên server riêng",
+    "Quản lý và lên kế hoạch bài tập gym kèm theo dõi mệt mỏi và phát triển cơ",
+    "Chuyển đổi dữ liệu từ các ứng dụng như FitNotes, Strong, Hevy sang nền tảng mới"
+  ],
+  "ideas": [
+    "Tích hợp AI đề xuất bài tập dựa trên mục tiêu cơ thể và tiến độ hiện tại",
+    "Xây dựng cộng đồng chia sẻ chương trình tập luyện giữa người dùng",
+    "Kết hợp cảm biến thể thao để đồng bộ dữ liệu tập luyện thời gian thực"
+  ],
+  "stars": 1403,
+  "starsToday": 38,
+  "language": "JavaScript",
+  "topics": [
+    "bodyweight",
+    "docker",
+    "fitness",
+    "fitness-tracker",
+    "gym",
+    "health",
+    "nodejs",
+    "passkeys",
+    "progressive-web-applications",
+    "pwa",
+    "react",
+    "self-hosted",
+    "self-hosting",
+    "vite",
+    "webauthn",
+    "weightlifting",
+    "workout-tracker",
+    "mcp"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-26T08:33:46.910Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "b67bff52-3d23-47ae-b44e-aff1a28f4209",
+  "repo": "traefik/traefik",
+  "url": "https://github.com/traefik/traefik",
+  "category": "Backend Framework",
+  "summary": "Công cụ reverse proxy và load balancer tự động cho các ứng dụng cloud native, hỗ trợ Kubernetes, Docker và nhiều công cụ service discovery khác.",
+  "usecases": [
+    "Phân phối traffic cho microservices trong Kubernetes",
+    "Tự động cấp SSL certificate với Let's Encrypt",
+    "Load balancing cho các container Docker"
+  ],
+  "ideas": [
+    "Kết hợp với monitoring tools để có dashboard traffic real-time",
+    "Sử dụng làm API Gateway cho hệ thống microservices"
+  ],
+  "stars": 64969,
+  "starsToday": 17,
+  "language": "Go",
+  "topics": [
+    "microservice",
+    "docker",
+    "marathon",
+    "mesos",
+    "consul",
+    "etcd",
+    "kubernetes",
+    "load-balancer",
+    "reverse-proxy",
+    "zookeeper",
+    "letsencrypt",
+    "golang",
+    "go",
+    "traefik"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-26T08:33:46.910Z"
+}
