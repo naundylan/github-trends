@@ -1,0 +1,28 @@
+{
+  "id": "dcbca266-5c71-4882-8c42-5a046e078dce",
+  "repo": "pydantic/monty",
+  "url": "https://github.com/pydantic/monty",
+  "category": "AI/LLM",
+  "summary": "Một trình thông dịch Python tối giản, bảo mật được viết bằng Rust, dành cho các ứng dụng AI và thực thi mã an toàn trong môi trường sandbox.",
+  "usecases": [
+    "Chạy mã Python an toàn trong các môi trường nhúng hoặc edge không đáng tin cậy",
+    "Triển khai các mô hình AI trên các thiết bị có tài nguyên hạn chế với khả năng sandboxing",
+    "Cung cấp một runtime Python nhẹ cho các ứng dụng bảo mật cao như hệ thống kiểm soát truy cập hoặc pipeline CI"
+  ],
+  "ideas": [
+    "Kết hợp với các framework AI để triển khai các mô hình trên thiết bị di động với khả năng sandboxing",
+    "Tích hợp với các công cụ container hóa để chạy mã Python an toàn trong các môi trường đa năng",
+    "Xây dựng một sandbox mã nguồn mở cho các dịch vụ web để thực thi mã người dùng một cách an toàn"
+  ],
+  "stars": 8330,
+  "starsToday": 48,
+  "language": "Rust",
+  "topics": [
+    "python",
+    "rust",
+    "sandbox",
+    "sandboxing"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-26T18:28:18.645Z"
+}

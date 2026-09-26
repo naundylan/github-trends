@@ -1,0 +1,34 @@
+{
+  "id": "60691f3c-f60b-4db7-b492-6bf26e2e52f2",
+  "repo": "zenbu-labs/terminal-browser",
+  "url": "https://github.com/zenbu-labs/terminal-browser",
+  "category": "CLI Tool",
+  "summary": "Một trình duyệt web mini được tích hợp vào dòng lệnh terminal, cho phép người dùng tương tác với web mà không cần trình duyệt đồ họa truyền thống, được xây dựng bằng TypeScript và Rust.",
+  "usecases": [
+    "Duyệt web trực tiếp từ terminal trong môi trường SSH hoặc hệ thống headless.",
+    "Debug và kiểm tra cấu trúc HTML, CSS của các trang web trực qua dòng lệnh.",
+    "Tự động hóa các tác vụ web complex bằng cách điều khiển thông qua CLI commands."
+  ],
+  "ideas": [
+    "Kết hợp với mô hình AI để tóm tắt nội dung trang web hiện thị trên terminal chỉ bằng một lệnh.",
+    "Phát triển thành công cụ test tự động hóa UI (UI testing) cho nhà phát triển phần mềm.",
+    "Hỗ trợ bookmark và lưu lại các trang đã xem để truy cập offline trong terminal."
+  ],
+  "stars": 3454,
+  "starsToday": 68,
+  "language": "TypeScript",
+  "topics": [
+    "browser",
+    "cli",
+    "rust",
+    "terminal",
+    "web",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "herdr-plugin",
+    "claude-code-plugin"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-26T18:28:18.645Z"
+}

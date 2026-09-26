@@ -1,0 +1,29 @@
+{
+  "id": "a1be31f3-8a64-4c9b-9bab-b99a6be7710a",
+  "repo": "bmad-code-org/BMAD-METHOD",
+  "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+  "category": "Developer Tool",
+  "summary": "Một phương pháp Breakthrough để phát triển phần mềm Driven by AI theo Agile, tập trung vào Context Engineering và Spec-driven Development để tối ưu hóa quy trình SDLC.",
+  "usecases": [
+    "Áp dụng trong các dự án Agile để tích hợp AI vào quy trình phát triển hàng ngày",
+    "Giúp định nghĩa và quản lý specs (specs-driven development) cho các dự án AI-assisted",
+    "Tối ưu hóa quy trình SDLC bằng cách tự động hóa các bước context engineering và đánh giá hiệu quả AI"
+  ],
+  "ideas": [
+    "Kết hợp với các framework AI hiện có (như LangChain) để tạo ra một pipeline development hoàn toàn tự động",
+    "Áp dụng trong giáo dục để dạy sinh viên cách phát triển software kèm AI",
+    "Sử dụng làm nền tảng cho các công cụ quản lý dự án AI-driven trong doanh nghiệp"
+  ],
+  "stars": 53488,
+  "starsToday": 36,
+  "language": "Python",
+  "topics": [
+    "agile",
+    "ai",
+    "context-engineering",
+    "spec-driven-development",
+    "sdlc"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-26T18:28:18.646Z"
+}

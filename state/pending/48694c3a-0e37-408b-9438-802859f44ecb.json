@@ -1,0 +1,43 @@
+{
+  "id": "48694c3a-0e37-408b-9438-802859f44ecb",
+  "repo": "bregman-arie/devops-exercises",
+  "url": "https://github.com/bregman-arie/devops-exercises",
+  "category": "DevOps/CI-CD",
+  "summary": "Kho câu hỏi và bài tập DevOps toàn diện bao gồm Linux, AWS, Docker, Kubernetes, Terraform, Prometheus, Ansible và các công nghệ cloud/infrastructure hiện đại, dùng cho phỏng vấn và luyện tập kỹ năng.",
+  "usecases": [
+    "Luyện tập và chuẩn bị cho phỏng vấn vị trí DevOps, SRE hoặc Production Engineer.",
+    "Học quen và làm việc với các công nghệ container, orchestration và infrastructure as code.",
+    "Tạo bài test tự động để đánh giá kỹ năng candidates DevOps."
+  ],
+  "ideas": [
+    "Build một platform tự động đánh giá kỹ năng thực hành DevOps cho recruiter.",
+    "Tạo môi trường học tập tương thích cho sinh viên hoặc team nội bộ.",
+    "Phát triển dashboard nội bộ theo dõi quy trình CI/CD và hiệu suất hệ thống."
+  ],
+  "stars": 84666,
+  "starsToday": 64,
+  "language": "Python",
+  "topics": [
+    "devops",
+    "aws",
+    "linux",
+    "ansible",
+    "python",
+    "docker",
+    "prometheus",
+    "containers",
+    "git",
+    "kubernetes",
+    "interview",
+    "interview-questions",
+    "terraform",
+    "azure",
+    "openstack",
+    "sql",
+    "coding",
+    "sre",
+    "production-engineer"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-09-26T18:28:18.645Z"
+}

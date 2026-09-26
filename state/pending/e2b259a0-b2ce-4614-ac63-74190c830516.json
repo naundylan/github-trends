@@ -1,0 +1,44 @@
+{
+  "id": "e2b259a0-b2ce-4614-ac63-74190c830516",
+  "repo": "hmjz100/LinkSwift",
+  "url": "https://github.com/hmjz100/LinkSwift",
+  "category": "Developer Tool",
+  "summary": "Công cụ script JavaScript (Tampermonkey) giúp trích xuất đường link download trực tiếp từ 8 mạng lưới clouddrive phổ biến như Baidu, Aliyun, Quark, hỗ trợ tải xuống nhanh qua Motrix hoặc Aria2.",
+  "usecases": [
+    "Trích xuất direct link từ các dịch vụ cloud (Baidu, Aliyun...) để tải bằng downloader bên ngoài.",
+    "Tải xuống nhiều file cùng lúc từ một thư mục trên cloud drive mà không cần đăng nhập mỗi lần.",
+    "Tích hợp seamlessly với Motrix, Aria2 để tối ưu tốc độ và quản lý downloads."
+  ],
+  "ideas": [
+    "Phát triển thành plugin browser tự động nhận diện trang cloud và inject nút trích xuất link.",
+    "Tạo công cụ CLI chỉ cần paste URL cloud là nhận được link download ngay lập tức.",
+    "Tính năng tự động phân loại và chọn chất lượng video/định dạng file khi trích xuất."
+  ],
+  "stars": 20914,
+  "starsToday": 74,
+  "language": "JavaScript",
+  "topics": [
+    "aliyun-drive",
+    "baidu",
+    "baidu-netdisk",
+    "quark-netdisk",
+    "tianyi-netdisk",
+    "xunlei-netdisk",
+    "yidong-netdisk",
+    "tampermonkey",
+    "tampermonkey-script",
+    "tampermonkey-userscript",
+    "userscript",
+    "baidunetdisk",
+    "baiduyun",
+    "123pan",
+    "uc-netdisk",
+    "motrix",
+    "aria2",
+    "aliyunpan",
+    "baidupan",
+    "guangya-netdisk"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-26T18:28:18.645Z"
+}

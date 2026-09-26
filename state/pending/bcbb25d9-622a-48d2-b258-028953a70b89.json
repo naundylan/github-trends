@@ -1,0 +1,36 @@
+{
+  "id": "bcbb25d9-622a-48d2-b258-028953a70b89",
+  "repo": "mrdoob/three.js",
+  "url": "https://github.com/mrdoob/three.js",
+  "category": "Web Frontend",
+  "summary": "Thư viện JavaScript tạo hiệu ứng đồ họa 3D tương tác trên trình duyệt web, hỗ trợ WebGL, VR/AR và nhiều định dạng đồ họa.",
+  "usecases": [
+    "Tạo hình ảnh 3D trong trình duyệt cho các trang web nghệ thuật, trò chơi và mô phỏng",
+    "Xây dựng trải nghiệm thực tế ảo (VR) và thực tế tăng cường (AR) trên web",
+    "Trực quan hóa dữ liệu 3D tương tác cho các bảng điều khiển và ứng dụng giáo dục"
+  ],
+  "ideas": [
+    "Tích hợp với các framework UI hiện có (React, Vue) để tạo các thành phần 3D",
+    "Sử dụng với WebGPU để mang lại hiệu suất đồ họa cao hơn",
+    "Xây dựng một công cụ thiết kế 3D dựa trên trình duyệt cho các nhà thiết kế không chuyên"
+  ],
+  "stars": 115933,
+  "starsToday": 50,
+  "language": "JavaScript",
+  "topics": [
+    "javascript",
+    "3d",
+    "virtual-reality",
+    "augmented-reality",
+    "webgl",
+    "webgl2",
+    "webgpu",
+    "webxr",
+    "webaudio",
+    "canvas",
+    "svg",
+    "html5"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-26T18:28:18.645Z"
+}
