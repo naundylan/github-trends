@@ -1,0 +1,23 @@
+{
+  "id": "3d33cce9-afd3-467b-b163-aecbd3523d13",
+  "repo": "llvm/llvm-project",
+  "url": "https://github.com/llvm/llvm-project",
+  "category": "Backend Framework",
+  "summary": "LLVM Project là bộ công cụ compiler và toolchain modular, hỗ trợ biên dịch, tối ưu và tạo mã cho nhiều ngôn ngữ và nền tảng.",
+  "usecases": [
+    "Biên dịch code C/C++/Rust thành mã máy hiệu quả cho các hệ điều hành và kiến trúc khác.",
+    "Tối ưu hiệu năng ứng dụng thông qua phân tích luồng dữ liệu và tối ưu code LLVM IR.",
+    "Xây dựng các công cụ debug và profile tùy chỉnh cho các dự án compiler."
+  ],
+  "ideas": [
+    "Tạo compiler riêng cho ngôn ngữ AI domain-specific (DSL) với tối ưu hiệu năng cao.",
+    "Xây dựng hệ thống chuyển đổi code giữa các ngôn ngữ tự động thông qua LLVM IR.",
+    "Phát triển toolchain tích hợp cho embedded systems với tối ưu tài nguyên."
+  ],
+  "stars": 40757,
+  "starsToday": 41,
+  "language": "LLVM",
+  "topics": [],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-27T03:03:21.397Z"
+}

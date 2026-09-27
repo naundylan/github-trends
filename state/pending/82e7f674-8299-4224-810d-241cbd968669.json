@@ -1,0 +1,44 @@
+{
+  "id": "82e7f674-8299-4224-810d-241cbd968669",
+  "repo": "hmjz100/LinkSwift",
+  "url": "https://github.com/hmjz100/LinkSwift",
+  "category": "CLI Tool",
+  "summary": "LinkSwift là một công cụ JavaScript để lấy địa chỉ tải xuống từ các dịch vụ mạng đám mây lớn như Baidu, Alibaba, Tianyi, Thunder, Quark, UC, 123 Cloud, hỗ trợ qua Tampermonkey và Aria2/Motrix.",
+  "usecases": [
+    "Tự động lấy link tải xuống cho các file lớn từ mạng đám mây trong nước",
+    "Tích hợp với Aria2/Motrix để tải file nhanh chóng qua dòng lệnh",
+    "Dùng như script Tampermonkey để mở rộng khả năng tải của trình duyệt"
+  ],
+  "ideas": [
+    "Phát triển phiên bản CLI độc lập chạy trên Node.js để tự động hóa tải hàng loạt",
+    "Kết hợp với các dịch vụ cloud storage API chính thức thay thế hack link",
+    "Tạo giao diện web quản lý để monitor và chọn link tải từ nhiều nguồn cùng lúc"
+  ],
+  "stars": 20925,
+  "starsToday": 68,
+  "language": "JavaScript",
+  "topics": [
+    "aliyun-drive",
+    "baidu",
+    "baidu-netdisk",
+    "quark-netdisk",
+    "tianyi-netdisk",
+    "xunlei-netdisk",
+    "yidong-netdisk",
+    "tampermonkey",
+    "tampermonkey-script",
+    "tampermonkey-userscript",
+    "userscript",
+    "baidunetdisk",
+    "baiduyun",
+    "123pan",
+    "uc-netdisk",
+    "motrix",
+    "aria2",
+    "aliyunpan",
+    "baidupan",
+    "guangya-netdisk"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-27T03:03:21.397Z"
+}

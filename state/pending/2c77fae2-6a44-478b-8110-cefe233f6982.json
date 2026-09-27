@@ -1,0 +1,36 @@
+{
+  "id": "2c77fae2-6a44-478b-8110-cefe233f6982",
+  "repo": "mrdoob/three.js",
+  "url": "https://github.com/mrdoob/three.js",
+  "category": "Game Dev",
+  "summary": "Thư viện JavaScript mạnh mẽ để render đồ họa 3D trên trình duyệt bằng WebGL, hỗ trợ VR/AR và nhiều hiệu ứng hình ảnh.",
+  "usecases": [
+    "Phát triển trò chơi 3D chạy trực tiếp trên web",
+    "Trực quan hóa dữ liệu khoa học, kiến trúc hoặc sản phẩm",
+    "Xây dựng trải nghiệm augmented reality và virtual reality trên trình duyệt"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình AI sinh văn bản để tạo cảnh 3D tự động từ mô tả",
+    "Xây dựng công cụ thiết kế nội thất trực tuyến cho phép người dùng kéo thả mô hình 3D",
+    "Tạo bản đồ du lịch ảo tương tác cho phép khám phá các điểm danh sách trong môi trường 3D"
+  ],
+  "stars": 115952,
+  "starsToday": 55,
+  "language": "JavaScript",
+  "topics": [
+    "javascript",
+    "3d",
+    "virtual-reality",
+    "augmented-reality",
+    "webgl",
+    "webgl2",
+    "webgpu",
+    "webxr",
+    "webaudio",
+    "canvas",
+    "svg",
+    "html5"
+  ],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-09-27T03:03:21.397Z"
+}

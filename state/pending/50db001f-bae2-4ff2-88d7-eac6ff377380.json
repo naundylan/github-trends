@@ -1,0 +1,44 @@
+{
+  "id": "50db001f-bae2-4ff2-88d7-eac6ff377380",
+  "repo": "wshobson/agents",
+  "url": "https://github.com/wshobson/agents",
+  "category": "AI/LLM",
+  "summary": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+  "usecases": [
+    "Integrate multiple AI coding assistants into a unified development workflow",
+    "Enhance developer productivity through specialized agent-based plugins",
+    "Enable seamless collaboration between different AI models in coding tasks"
+  ],
+  "ideas": [
+    "Create a universal interface that connects all major AI coding assistants",
+    "Develop custom agent chains tailored for specific programming languages",
+    "Build a marketplace where developers can discover and deploy pre-built agent solutions"
+  ],
+  "stars": 40008,
+  "starsToday": 56,
+  "language": "Python",
+  "topics": [
+    "anthropic",
+    "agent-skills",
+    "agentic-ai",
+    "ai-agents",
+    "cursor",
+    "cursor-rules",
+    "mcp",
+    "multi-agent",
+    "opencode",
+    "claude-code",
+    "antigravity",
+    "claude",
+    "claude-skills",
+    "subagents",
+    "codex",
+    "claude-code-marketplace",
+    "claude-code-plugin",
+    "github-copilot",
+    "pi-coding-agent",
+    "coding-agents"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-27T03:03:21.397Z"
+}

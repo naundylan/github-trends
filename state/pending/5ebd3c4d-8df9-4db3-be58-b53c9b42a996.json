@@ -1,0 +1,30 @@
+{
+  "id": "5ebd3c4d-8df9-4db3-be58-b53c9b42a996",
+  "repo": "Jakubantalik/Libraries.dev",
+  "url": "https://github.com/Jakubantalik/Libraries.dev",
+  "category": "UI/Component Library",
+  "summary": "Libraries.dev cung cấp bộ thư viện UI sắc nét cho các AI agent, bao gồm Border beam, Orbs, Metal, Gooey, Voice, Image, Avatar bots, giúp tạo giao diện tương tác và trực quan cho ứng dụng trí tuệ nhân tạo.",
+  "usecases": [
+    "Tích hợp các hiệu ứng UI động vào các ứng dụng AI chatbot",
+    "Thiết kế giao diện cho các ứng dụng AI tạo hình ảnh hoặc âm thanh",
+    "Sử dụng các thư viện UI làm móc để tăng trải nghiệm người dùng trong sản phẩm AI"
+  ],
+  "ideas": [
+    "Kết hợp với các framework AI agent để tạo ra các avatar có biểu cảm động",
+    "Phát triển plugin cho các nền tảng chatbot phổ biến sử dụng các component này",
+    "Tạo mẫu starter kit kết hợp các library này cho các dự án AI generative"
+  ],
+  "stars": 3871,
+  "starsToday": 72,
+  "language": "TypeScript",
+  "topics": [
+    "beam",
+    "design",
+    "effect",
+    "glow",
+    "motion",
+    "product"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-27T03:03:21.397Z"
+}

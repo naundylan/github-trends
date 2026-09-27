@@ -1,0 +1,28 @@
+{
+  "id": "155b5b03-4bbc-45b8-90b9-b93b7ca2638d",
+  "repo": "pydantic/monty",
+  "url": "https://github.com/pydantic/monty",
+  "category": "AI/LLM",
+  "summary": "Monty là interpreter Python viết bằng Rust, cung cấp môi trường chạy an toàn (sandbox) chuyên dụng cho các ứng dụng AI.",
+  "usecases": [
+    "Chạy code Python an toàn trong ứng dụng AI không lo mã độc thay đổi hệ thống.",
+    "Tích hợp làm engine thực thi prompt an toàn cho các LLM.",
+    "Phân phối môi trường Python nhẹ cho các dịch vụ backend cần cách ly execution."
+  ],
+  "ideas": [
+    "Kết hợp với các framework LLM để cho phép thực thi code Python do người dùng viết, với bảo vệ sandbox.",
+    "Xây dựng một REPL an toàn cho các ứng dụng desktop AI.",
+    "Sử dụng làm cơ sở cho các môi trường chạy code trong các nền tảng giáo dục lập trình an toàn."
+  ],
+  "stars": 8350,
+  "starsToday": 43,
+  "language": "Rust",
+  "topics": [
+    "python",
+    "rust",
+    "sandbox",
+    "sandboxing"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-27T03:03:21.397Z"
+}

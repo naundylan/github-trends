@@ -1,0 +1,32 @@
+{
+  "id": "7f4b0851-98b3-467f-8e0f-298e81da2e98",
+  "repo": "tensorflow/tensorflow",
+  "url": "https://github.com/tensorflow/tensorflow",
+  "category": "Machine Learning",
+  "summary": "TensorFlow là thư viện mã nguồn mở cho machine learning và deep learning, hỗ trợ xây dựng và triển khai các mô hình phức tạp trên nhiều nền tảng.",
+  "usecases": [
+    "Xây dựng và huấn luyện mạng nơ-ron sâu cho tác vụ nhận diện hình ảnh và xử lý ngôn ngữ tự nhiên.",
+    "Triển khai mô hình ML trên thiết bị di động và biên qua TensorFlow Lite.",
+    "Phân tích dữ liệu lớn và dự báo xu hướng trong tài chính hoặc môi trường."
+  ],
+  "ideas": [
+    "Sử dụng TensorFlow.js để chạy mô hình ML trực tiếp trong trình duyệt web mà không cần backend.",
+    "Kết hợp TensorFlow với các mô hình LLM để tạo nội dung tự động hoặc chatbot cá nhân hóa.",
+    "Phát triển hệ thống nhận dạng thực thời trên camera sử dụng TensorFlow Lite trên Raspberry Pi hoặc các thiết bị IoT."
+  ],
+  "stars": 200473,
+  "starsToday": 46,
+  "language": "C++",
+  "topics": [
+    "tensorflow",
+    "machine-learning",
+    "python",
+    "deep-learning",
+    "deep-neural-networks",
+    "neural-network",
+    "ml",
+    "distributed"
+  ],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-09-27T03:03:21.397Z"
+}
