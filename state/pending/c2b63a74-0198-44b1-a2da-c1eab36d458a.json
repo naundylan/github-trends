@@ -1,0 +1,29 @@
+{
+  "id": "c2b63a74-0198-44b1-a2da-c1eab36d458a",
+  "repo": "git-bug/git-bug",
+  "url": "https://github.com/git-bug/git-bug",
+  "category": "Developer Tool",
+  "summary": "git-bug là một hệ thống theo dõi lỗi phân tán và offline-first được tích hợp trực tiếp với Git, cho phép theo dõi và quản lý bug mà không cần kết nối mạng liên tục.",
+  "usecases": [
+    "Theo dõi bug cho các dự án phát triển phần mềm phân tán hoặc làm việc offline (như phát triển ở vùng sâu vùng xa).",
+    "Quản lý lỗi trong các repository git cá nhân hoặc tổ chức mà không phụ thuộc vào server trung tâm.",
+    "Phát triển và kiểm tra ứng dụng trong môi trường có kết nối mạng không ổn định."
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng messaging (như Telegram/Slack) để báo cáo bug trực tiếp từ chat.",
+    "Xây dựng giao diện web nhẹ để xem lịch sử bug mà không cần clone repository.",
+    "Kết hợp với CI/CD để tự động đánh dấu bug đã fix khi commit thay đổi liên quan."
+  ],
+  "stars": 10615,
+  "starsToday": 59,
+  "language": "Go",
+  "topics": [
+    "bugtracker",
+    "git",
+    "decentralized-application",
+    "distributed-systems",
+    "gitdb"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-27T23:41:58.485Z"
+}

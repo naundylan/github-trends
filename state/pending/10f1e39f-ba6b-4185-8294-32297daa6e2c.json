@@ -1,0 +1,34 @@
+{
+  "id": "10f1e39f-ba6b-4185-8294-32297daa6e2c",
+  "repo": "Gimanh/taskview-community",
+  "url": "https://github.com/Gimanh/taskview-community",
+  "category": "Productivity/Personal Tool",
+  "summary": "TaskView là nền tảng quản lý dự án và nhiệm vụ tự lưu trữ (self-hosted) tập trung vào sự rõ ràng, quyền sở hữu và kiểm soát. Cung cấp nhiều chế độ xem như Kanban, Graph view để trực quan hóa công việc.",
+  "usecases": [
+    "Đội ngũ phát triển phần mềm tự host công cụ quản lý sprint, backlog thay vì dùng Jira/Linear SaaS",
+    "Cá nhân hoặc nhóm nhỏ tổ chức công việc cá nhân, side-project với đầy đủ tính năng Kanban, graph dependency miễn phí",
+    "Doanh nghiệp cần tuân thủ dữ liệu nội bộ (on-premise) cho quản lý task, dự án nhạy cảm"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub/GitLab webhook để tự động cập nhật trạng thái task khi PR merged",
+    "Xây dựng plugin Obsidian/Notion sync hai chiều để note-taking và task management thống nhất",
+    "Tích hợp AI assistant gợi ý chia nhỏ task, ưu tiên dựa trên lịch sử velocity của team"
+  ],
+  "stars": 1067,
+  "starsToday": 115,
+  "language": "TypeScript",
+  "topics": [
+    "project-management",
+    "self-hosted",
+    "todoapp",
+    "graphview",
+    "kanban-board",
+    "task",
+    "task-management",
+    "task-manager",
+    "nodejs",
+    "productivity"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-27T23:41:58.485Z"
+}

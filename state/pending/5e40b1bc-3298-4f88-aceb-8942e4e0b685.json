@@ -1,0 +1,29 @@
+{
+  "id": "5e40b1bc-3298-4f88-aceb-8942e4e0b685",
+  "repo": "InfinityLoop1308/PipePipe",
+  "url": "https://github.com/InfinityLoop1308/PipePipe",
+  "category": "Mobile (iOS/Android)",
+  "summary": "PipePipe là ứng dụng Android mã nguồn mở cho phép duyệt YouTube và các dịch vụ video khác mà không quảng cáo, hỗ trợ phát nền và tùy chỉnh nguồn.",
+  "usecases": [
+    "Xem video YouTube không quảng cáo trên thiết bị di động.",
+    "Phát nhạc hoặc video nền khi sử dụng ứng dụng khác.",
+    "Truy cập nội dung video từ các nguồn thay thế với sự kiểm soát quyền riêng tư."
+  ],
+  "ideas": [
+    "Kết hợp PipePipe với API sponsorblock để tự động bỏ qua các quảng cáo trong video.",
+    "Phát triển phiên bản mở rộng cho iOS (alternative frontend) dựa trên cùng codebase.",
+    "Thêm tính năng tải video offline với tùy chọn chất lượng đa dạng."
+  ],
+  "stars": 6554,
+  "starsToday": 274,
+  "language": "Shell",
+  "topics": [
+    "android",
+    "mediaplayer",
+    "youtube",
+    "newpipe",
+    "sponsorblock"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-09-27T23:41:58.485Z"
+}

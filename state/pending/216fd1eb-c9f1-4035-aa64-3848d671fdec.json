@@ -1,0 +1,23 @@
+{
+  "id": "216fd1eb-c9f1-4035-aa64-3848d671fdec",
+  "repo": "willfaust/Madeira",
+  "url": "https://github.com/willfaust/Madeira",
+  "category": "Developer Tool",
+  "summary": "Cho phép chạy trò chơi PC x86-64 trên iOS thông qua FEX-Emu, Wine và DXMT.",
+  "usecases": [
+    "Chơi game Windows yêu thích trên iPhone hoặc iPad mà không cần PC",
+    "Test và demo game trên thiết bị di động",
+    "Chạy ứng dụng legacy Windows trên môi trường iOS"
+  ],
+  "ideas": [
+    "Tối ưu hiệu suất đồ họa cho các game chạy qua layer emulation",
+    "Tích hợp hỗ trợ controller để trải nghiệm game hành động mượt mà",
+    "Phát triển công cụ chuyển đổi game Windows sang iOS tự động"
+  ],
+  "stars": 797,
+  "starsToday": 117,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-27T23:41:58.485Z"
+}

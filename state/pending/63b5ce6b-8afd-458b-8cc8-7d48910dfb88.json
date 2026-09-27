@@ -1,0 +1,29 @@
+{
+  "id": "63b5ce6b-8afd-458b-8cc8-7d48910dfb88",
+  "repo": "EbookFoundation/free-programming-books",
+  "url": "https://github.com/EbookFoundation/free-programming-books",
+  "category": "Documentation/Learning Resource",
+  "summary": "Tổng hợp miễn phí các sách và tài liệu học lập trình cho mọi trình độ.",
+  "usecases": [
+    "Tìm kiếm và truy cập sách giáo dục lập trình chất lượng",
+    "Học lập trình tự định hướng theo các nguồn tài liệu được sắp xếp",
+    "Tài liệu tham khảo cho sinh viên và chuyên gia về các ngôn ngữ mới"
+  ],
+  "ideas": [
+    "Tạo ứng dụng mó trợ giúp tìm sách theo ngôn ngữ hoặc chủ đề",
+    "Phát triển bot phân phối sách mới hàng tuần qua kênh xã hội",
+    "Xây dựng danh sách đọc cá nhân với đánh giá và lưu trữ"
+  ],
+  "stars": 397979,
+  "starsToday": 169,
+  "language": "Python",
+  "topics": [
+    "education",
+    "books",
+    "list",
+    "resource",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-27T23:41:58.485Z"
+}

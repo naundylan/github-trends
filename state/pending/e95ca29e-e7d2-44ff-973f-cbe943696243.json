@@ -1,0 +1,44 @@
+{
+  "id": "e95ca29e-e7d2-44ff-973f-cbe943696243",
+  "repo": "hmjz100/LinkSwift",
+  "url": "https://github.com/hmjz100/LinkSwift",
+  "category": "Developer Tool",
+  "summary": "Script userscript Tampermonkey tự động trích xuất đường link tải trực tiếp cho các nền tảng mạng quảng cáo như Baidu, Alibaba Cloud, Quark, v.v.",
+  "usecases": [
+    "Tự động lấy link tải tài liệu học tập từ mạng quảng cáo Baidu",
+    "Giúp tải nhanh file từ Quark hay UC Netdisk mà không cần can thiệp thủ công",
+    "Tích hợp với Aria2/Motrix để thực hiện tải hàng loạt tự động"
+  ],
+  "ideas": [
+    "Chuyển thành CLI tool để devs có thể tải file nhanh qua lệnh dòng lệnh",
+    "Kết hợp AI để dự đoán và tối ưu link trực tiếp cho từng loại tài khoản người dùng",
+    "Phát triển bản Chrome Extension hỗ trợ thêm các nền tảng lưu trữ mây mới"
+  ],
+  "stars": 20962,
+  "starsToday": 48,
+  "language": "JavaScript",
+  "topics": [
+    "aliyun-drive",
+    "baidu",
+    "baidu-netdisk",
+    "quark-netdisk",
+    "tianyi-netdisk",
+    "xunlei-netdisk",
+    "yidong-netdisk",
+    "tampermonkey",
+    "tampermonkey-script",
+    "tampermonkey-userscript",
+    "userscript",
+    "baidunetdisk",
+    "baiduyun",
+    "123pan",
+    "uc-netdisk",
+    "motrix",
+    "aria2",
+    "aliyunpan",
+    "baidupan",
+    "guangya-netdisk"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-27T23:41:58.485Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "b633062f-e1da-42d1-8166-09e8ca7c2b3f",
+  "repo": "microsoft/data-formulator",
+  "url": "https://github.com/microsoft/data-formulator",
+  "category": "Data Visualization",
+  "summary": "Data Formulator là một hệ thống phân tích dữ liệu tương tác được hỗ trợ bởi AI, giúp người dùng dễ dàng kết nối, khám phá và trực quan hóa dữ liệu.",
+  "usecases": [
+    "Phân tích dữ liệu nhanh cho các dự án khoa học và kinh doanh mà không cần viết code phức tạp.",
+    "Tạo biểu đồ và dashboard trực quan từ dữ liệu thô thông qua tương tác đơn giản.",
+    "Hỗ trợ người không chuyên in dữ liệu để đưa ra quyết định dựa trên dữ liệu."
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM để tự động tạo câu hỏi phân tích dữ liệu dựa trên biểu đồ.",
+    "Phát triển plugin cho Excel/Google Sheets để import dữ liệu và trực quan hóa qua Data Formulator.",
+    "Sử dụng trong giáo dục để dạy sinh viên cách khám phá dữ liệu một cách tương tác và trực quan."
+  ],
+  "stars": 17435,
+  "starsToday": 111,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-09-27T23:41:58.485Z"
+}
