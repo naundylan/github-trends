@@ -1,0 +1,29 @@
+{
+  "id": "a5c2f49a-5738-4e60-a438-41e41d543469",
+  "repo": "bmad-code-org/BMAD-METHOD",
+  "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+  "category": "AI/LLM",
+  "summary": "BMAD-METHOD là phương pháp phát triển phần mềm kết hợp Agile và AI, tập trung vào Context Engineering và development được định nghĩa bằng Spec để tự động hóa SDLC.",
+  "usecases": [
+    "Tự động tạo và quản lý tài liệu dự án dựa trên spec",
+    "Hỗ trợ quyết định phát triển bằng phân tích context AI",
+    "Tối ưu hóa quy trình Agile với gợi ý do AI tạo ra"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD pipeline để tự động hóa release",
+    "Phát triển plugin IDE hỗ trợ viết spec và review code bởi AI",
+    "Áp dụng trong dự án cần tuân thủ compliance và documentation nghiêm ngặt"
+  ],
+  "stars": 53528,
+  "starsToday": 38,
+  "language": "Python",
+  "topics": [
+    "agile",
+    "ai",
+    "context-engineering",
+    "spec-driven-development",
+    "sdlc"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-27T08:54:23.534Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "968a3df7-4272-4379-9ceb-aaeef6829a2a",
+  "repo": "withastro/astro",
+  "url": "https://github.com/withastro/astro",
+  "category": "Web Framework",
+  "summary": "Astro là framework web cho các website nội dung, hỗ trợ tạo trang tĩnh, hiệu ứng island và render lai server/client linh hoạt.",
+  "usecases": [
+    "Xây dựng blog cá nhân hoặc trang tin tức tốc độ cực nhanh với static site generation.",
+    "Phát triển trang web nội dung đa ngôn ngữ với hiệu ứng island giảm tải JavaScript.",
+    "Tạo landing page hoặc marketing site với hiệu suất cao và tích hợp dễ dàng với CMS bên ngoài."
+  ],
+  "ideas": [
+    "Kết hợp Astro với Tailwind CSS và headless CMS như Contentful để tạo workflow nội dung hiện đại.",
+    "Phát triển PWA hoặc ứng dụng desktop qua Electron sử dụng Astro làm layer render.",
+    "Sử dụng Astro cho các trang web thương mại điện tử với server-side rendering và tối ưu hiệu suất trên mobile."
+  ],
+  "stars": 62850,
+  "starsToday": 28,
+  "language": "TypeScript",
+  "topics": [
+    "static-site-generator",
+    "blog",
+    "islands",
+    "components",
+    "node",
+    "browser",
+    "server",
+    "hybrid",
+    "universal",
+    "astro",
+    "static"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-09-27T08:54:23.534Z"
+}

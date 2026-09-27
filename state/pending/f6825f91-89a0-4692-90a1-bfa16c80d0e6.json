@@ -1,0 +1,38 @@
+{
+  "id": "f6825f91-89a0-4692-90a1-bfa16c80d0e6",
+  "repo": "navidrome/navidrome",
+  "url": "https://github.com/navidrome/navidrome",
+  "category": "Backend Framework",
+  "summary": "Dịch vụ streaming music self-hosted, tương thích Subsonic/Airsonic, cho phép quản lý và phát nhạc cá nhân qua mạng.",
+  "usecases": [
+    "Phát nhạc từ thư viện cá nhân trên mọi thiết bị có kết nối mạng",
+    "Tạo radio cá nhân hoặc server music cho gia đình/ban phòng",
+    "Tích hợp với ứng dụng client Subsonidroid, Navidrome mobile và các nền tảng khác"
+  ],
+  "ideas": [
+    "Thêm tính năng đề xuất bài hát dựa trên AI/ML",
+    "Xây dựng API GraphQL bổ sung cho truy cập linh hoạt",
+    "Tích hợp xác thực OAuth2/OpenID cho truy cập đa người dùng"
+  ],
+  "stars": 23831,
+  "starsToday": 23,
+  "language": "Go",
+  "topics": [
+    "music",
+    "subsonic-server",
+    "subsonic",
+    "music-server",
+    "airsonic",
+    "streaming-audio",
+    "streaming-api",
+    "madsonic",
+    "streamer",
+    "self-hosted",
+    "media-server",
+    "navidrome",
+    "raspberry-pi",
+    "opensubsonic"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-09-27T08:54:23.534Z"
+}

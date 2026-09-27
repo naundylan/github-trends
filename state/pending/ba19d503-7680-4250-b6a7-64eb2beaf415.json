@@ -1,0 +1,37 @@
+{
+  "id": "ba19d503-7680-4250-b6a7-64eb2beaf415",
+  "repo": "rohitg00/agentmemory",
+  "url": "https://github.com/rohitg00/agentmemory",
+  "category": "AI Agent/Automation",
+  "summary": "hệ thống cung cấp bộ nhớ dài hạn cho các AI coding agents, cho phép ghi nhớ và tái sử dụng kiến thức giữa các phiên làm việc dựa trên benchmark thực tế",
+  "usecases": [
+    "AI coding agents nhớ lại lỗi đã sửa và kiến thức dự án để không tái tạo bug trong các phiên sau",
+    "tích hợp với IDE để agent nhớ cấu trúc codebase và đề xuất cải tiến có ngữ cảnh",
+    "cho phép nhiều agent chia sẻ và tái sử dụng cùng một bộ nhớ dài hạn cho các dự án lớn"
+  ],
+  "ideas": [
+    "kết hợp với framework agent như Claude Code hoặc Copilot để tạo ra agent có khả năng học liên tục từ codebase",
+    "xây dựng lưu trữ mémoire phân tán cho teams phát triển phần mềm lớn",
+    "tạo personal AI coding companion nhớ phong cách code và quyết định architecture của từng developer"
+  ],
+  "stars": 28909,
+  "starsToday": 41,
+  "language": "TypeScript",
+  "topics": [
+    "agentmemory",
+    "agents",
+    "ai",
+    "claude",
+    "claudecode",
+    "codex",
+    "copilot",
+    "cursor",
+    "genai",
+    "harness",
+    "hermes",
+    "memory",
+    "openclaw"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-27T08:54:23.534Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a1d2babe-b44f-4363-a435-e780ec574df2",
+  "repo": "gastownhall/beads",
+  "url": "https://github.com/gastownhall/beads",
+  "category": "AI/LLM",
+  "summary": "Mở rộng khả năng nhớ và context cho các coding agent, giúp duy trì trạng thái và kiến thức code qua các phiên làm việc liên tục.",
+  "usecases": [
+    "Cải thiện retention ngữ cảnh cho LLM trong các session code dài",
+    "Cho phép agent nhớ các mẫu code và quyết định trước đó",
+    "Giảm lượng token cần thiết bằng cách cache các đoạn code liên quan"
+  ],
+  "ideas": [
+    "Tích hợp với nhiều provider LLM khác nhau",
+    "Phát triển plugin cho các IDE phổ biến",
+    "Xây dựng lớp memory phân tán cho các agent tự trị"
+  ],
+  "stars": 27461,
+  "starsToday": 27,
+  "language": "Go",
+  "topics": [
+    "agents",
+    "claude-code",
+    "coding"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-27T08:54:23.534Z"
+}

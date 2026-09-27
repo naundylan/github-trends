@@ -1,0 +1,44 @@
+{
+  "id": "5bb95262-e4da-4a0e-a706-aa0adf33798d",
+  "repo": "vshulcz/deja-vu",
+  "url": "https://github.com/vshulcz/deja-vu",
+  "category": "Developer Tool",
+  "summary": "một hệ thống lưu trữ bộ nhớ chung cho các agent viết code, sử dụng lịch sử session trên đĩa để đồng bộ sửa đổi và tính năng giữa các agent, không cần LLM, chỉ một binary Go cục bộ",
+  "usecases": [
+    "đồng bộ memory giữa nhiều coding agents như Claude Code, Copilot và Cursor",
+    "phát hiện và áp dụng fix cho các session cũ và nhiều agent cùng một lúc",
+    "tái sử dụng lịch sử phát triển dự án mà không cần cơ sở dữ liệu hay embeddings"
+  ],
+  "ideas": [
+    "tích hợp vào IDE để khôi phục trạng thái dự án trước với một lệnh",
+    "tạo nền tảng lịch sử phiên làm việc chung cho team sử dụng nhiều agent AI",
+    "phát triển plugin cho agent khác để dùng chung cơ sở memory cục bộ"
+  ],
+  "stars": 1057,
+  "starsToday": 32,
+  "language": "Go",
+  "topics": [
+    "claude-code",
+    "codex",
+    "mcp",
+    "opencode",
+    "agent-memory",
+    "coding-agents",
+    "mcp-server",
+    "claude-code-hooks",
+    "claude-code-plugins",
+    "session-history",
+    "deepseek-harness",
+    "dsh-plugin",
+    "gemini-cli-extension",
+    "kimi-code",
+    "qwen-code",
+    "zed-extension",
+    "agents",
+    "ai",
+    "genai",
+    "memory"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-27T08:54:23.534Z"
+}

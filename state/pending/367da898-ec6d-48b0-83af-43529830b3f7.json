@@ -1,0 +1,23 @@
+{
+  "id": "367da898-ec6d-48b0-83af-43529830b3f7",
+  "repo": "anthropics/claude-code-action",
+  "url": "https://github.com/anthropics/claude-code-action",
+  "category": "DevOps/CI-CD",
+  "summary": "một GitHub Action cho Claude Code của Anthropic, cho phép tự động hóa quy trình làm việc với AI coding assistant trực tiếp từ các workflow CI/CD",
+  "usecases": [
+    "tự động commit code và tạo PR sau khi Claude Code hoàn thành tác vụ",
+    "triển khai hoặc test code thông qua workflow GitHub Actions được kích hoạt bởi Claude Code",
+    "kích hoạt Claude Code để review code và báo cáo kết quả trong pull request"
+  ],
+  "ideas": [
+    "kết hợp với các trigger để tự động sửa lỗi và push fix vào repository",
+    "sử dụng để tạo báo cáo tự động về chất lượng code và tiến độ từ Claude Code",
+    "tạo workflow đa bước để Claude Code xử lý issues và cập nhật tài liệu tự động"
+  ],
+  "stars": 9165,
+  "starsToday": 31,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-09-27T08:54:23.534Z"
+}
