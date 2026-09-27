@@ -1,0 +1,23 @@
+{
+  "id": "1f46ac68-a59e-4b25-a37d-294589a874a7",
+  "repo": "microsoft/data-formulator",
+  "url": "https://github.com/microsoft/data-formulator",
+  "category": "Data Visualization",
+  "summary": "Hệ thống phân tích dữ liệu dựa trên AI giúp người dùng kết nối, khám phá và trực quan hóa dữ liệu một cách dễ dàng và tương tác.",
+  "usecases": [
+    "Phân tích dữ liệu nhanh mà không cần viết code phức tạp",
+    "Trực quan hóa dữ liệu cho các dự án khoa học hoặc kinh doanh",
+    "Tích hợp với AI để đề xuất insight từ dữ liệu"
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM để tự động tạo báo cáo từ dữ liệu",
+    "Phát triển plugin cho Excel hoặc Google Sheets",
+    "Sử dụng cho giáo dục dạy thống kê và phân tích dữ liệu"
+  ],
+  "stars": 17404,
+  "starsToday": 111,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-09-27T14:43:52.474Z"
+}

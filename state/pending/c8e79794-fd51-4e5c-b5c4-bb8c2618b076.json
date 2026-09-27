@@ -1,0 +1,35 @@
+{
+  "id": "c8e79794-fd51-4e5c-b5c4-bb8c2618b076",
+  "repo": "mvschwarz/openrig",
+  "url": "https://github.com/mvschwarz/openrig",
+  "category": "AI Agent/Automation",
+  "summary": "Openrig là hệ thống điều phối đa-agent cho phép chạy Claude Code và Codex cùng nhau như một hệ thống thống nhất để tự động hóa tác vụ lập trình.",
+  "usecases": [
+    "Tự động hóa việc viết code cho các dự án lớn, tận dụng sức mạnh của cả hai model Claude và Codex.",
+    "Phát triển và test các tính năng code song song trong môi trường tmux, tăng hiệu suất cho lập trình viên.",
+    "Tích hợp vào pipeline CI/CD để tự động review và sinh code dựa trên yêu cầu."
+  ],
+  "ideas": [
+    "Mở rộng hệ thống để hỗ trợ đa ngôn ngữ lập trình với khả năng tự động chuyển đổi ngữ cảnh giữa Claude và Codex.",
+    "Tạo giao diện trực quan để theo dõi và quản lý luồng làm việc của các agent trong thời gian thực.",
+    "Kết hợp với cơ sở dữ liệu kiến thức kỹ thuật để agent có thể truy xuất và áp dụng best practices tự động."
+  ],
+  "stars": 671,
+  "starsToday": 114,
+  "language": "TypeScript",
+  "topics": [
+    "agent-harness",
+    "agent-orchestration",
+    "agent-skills",
+    "ai-coding",
+    "claude-code",
+    "cli",
+    "codex-cli",
+    "multi-agent",
+    "tmux",
+    "typescript",
+    "multi-agent-systems"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-27T14:43:52.474Z"
+}

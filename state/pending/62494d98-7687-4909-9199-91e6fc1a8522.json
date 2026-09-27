@@ -1,0 +1,44 @@
+{
+  "id": "62494d98-7687-4909-9199-91e6fc1a8522",
+  "repo": "hmjz100/LinkSwift",
+  "url": "https://github.com/hmjz100/LinkSwift",
+  "category": "Developer Tool",
+  "summary": "Userscript JavaScript tự động lấy đường link tải file từ các nền tảng mạng quảng cáo lớn, hỗ trợ nhiều nền tảng như Baidu, Alibaba, Quark, Tianyi v.v.",
+  "usecases": [
+    "Tải nhanh file từ Baidu Netdisk mà không cần tài khoản VIP",
+    "Lấy link tải cho nhiều nền tảng khác nhau (Aliyun, Quark, Tianyi) trong một script",
+    "Tích hợp với các trình quản lý tải như aria2 để tự động tải"
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ cho các nền tảng mạng quảng cáo mới nổi lên",
+    "Tạo giao diện web riêng để quản lý và chọn link tải",
+    "Kết hợp với API tự tạo để tự động hóa quy trình tải hàng loạt"
+  ],
+  "stars": 20953,
+  "starsToday": 68,
+  "language": "JavaScript",
+  "topics": [
+    "aliyun-drive",
+    "baidu",
+    "baidu-netdisk",
+    "quark-netdisk",
+    "tianyi-netdisk",
+    "xunlei-netdisk",
+    "yidong-netdisk",
+    "tampermonkey",
+    "tampermonkey-script",
+    "tampermonkey-userscript",
+    "userscript",
+    "baidunetdisk",
+    "baiduyun",
+    "123pan",
+    "uc-netdisk",
+    "motrix",
+    "aria2",
+    "aliyunpan",
+    "baidupan",
+    "guangya-netdisk"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-27T14:43:52.474Z"
+}

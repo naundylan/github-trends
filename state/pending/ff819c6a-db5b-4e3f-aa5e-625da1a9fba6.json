@@ -1,0 +1,23 @@
+{
+  "id": "ff819c6a-db5b-4e3f-aa5e-625da1a9fba6",
+  "repo": "willfaust/Madeira",
+  "url": "https://github.com/willfaust/Madeira",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Dự án này cho phép chạy các trò chơi Windows x86-64 trên iOS bị giam giữ bằng cách kết hợp FEX-Emu, Wine và DXMT, mang lại trải nghiệm chơi game trên PC ngay trên thiết bị di động.",
+  "usecases": [
+    "Chạy các trò chơi PC yêu thích trên iPad hoặc iPhone khi di chuyển.",
+    "Cung cấp thư viện game cho nhà phát triển iOS trong các tình huống thử nghiệm.",
+    "Tạo nền tảng chơi game đa nền tảng cho các streamer."
+  ],
+  "ideas": [
+    "Tích hợp với dịch vụ chơi game đám mây để phát trực tiếp các trò chơi Windows trên iOS.",
+    "Xây dựng một cửa hàng ứng dụng game được kiểm duyệt cho các thiết bị jailbroken.",
+    "Tạo một công cụ benchmark để đo hiệu suất của các trò chơi trên iOS thông qua giả lập."
+  ],
+  "stars": 711,
+  "starsToday": 171,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-09-27T14:43:52.474Z"
+}

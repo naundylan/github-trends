@@ -1,0 +1,29 @@
+{
+  "id": "5c692338-bf64-46d9-aa64-cdbbaa4a42f2",
+  "repo": "git-bug/git-bug",
+  "url": "https://github.com/git-bug/git-bug",
+  "category": "Testing/QA",
+  "summary": "Trình theo dõi lỗi (bug tracker) phân tán và offline-first được tích hợp sâu vào git, cho phép quản lý lỗi mà không cần server trung tâm.",
+  "usecases": [
+    "Theo dõi lỗi trong các dự án mã nguồn mở hoặc nội bộ mà không phụ thuộc vào server trung tâm.",
+    "Phát triển phần mềm phân tán nơi các nhà phát triển làm việc offline và đồng bộ lỗi khi kết nối lại.",
+    "Giám sát và quản lý bug cho các repository git phân tán mà không cần dịch vụ bên thứ ba."
+  ],
+  "ideas": [
+    "Tích hợp vào quy trình CI/CD để tự động đánh dấu bug khi build thất bại.",
+    "Phát triển ứng dụng di động theo dõi trạng thái bug cho các dự án git phân tán.",
+    "Sử dụng cho các dự án bảo mật nguồn mở nơi an toàn dữ liệu là tiên quyết."
+  ],
+  "stars": 10596,
+  "starsToday": 59,
+  "language": "Go",
+  "topics": [
+    "bugtracker",
+    "git",
+    "decentralized-application",
+    "distributed-systems",
+    "gitdb"
+  ],
+  "notePath": "notes/Testing-QA.md",
+  "createdAt": "2026-09-27T14:43:52.474Z"
+}

@@ -466,7 +466,7 @@
   },
   "debpalash/VoiceStudio": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-27",
     "last_saved": "2026-09-13"
   },
   "bytedance/deer-flow": {
@@ -481,7 +481,7 @@
   },
   "heygen-com/hyperframes": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-09-19",
+    "last_seen": "2026-09-27",
     "last_saved": "2026-09-18"
   },
   "microsoft/TypeScript": {
@@ -621,7 +621,7 @@
   },
   "DietrichGebert/ponytail": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-18",
+    "last_seen": "2026-09-27",
     "last_saved": "2026-09-17"
   },
   "VoltAgent/awesome-agent-skills": {
@@ -761,8 +761,8 @@
   },
   "chuspeeism/dashi-ppt-skill": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-30",
-    "last_saved": "2026-08-29"
+    "last_seen": "2026-09-27",
+    "last_saved": "2026-09-27"
   },
   "yifanfeng97/Hyper-Extract": {
     "first_seen": "2026-08-29",
@@ -951,8 +951,8 @@
   },
   "pacifio/atlas": {
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-16",
-    "last_saved": "2026-09-02"
+    "last_seen": "2026-09-27",
+    "last_saved": "2026-09-27"
   },
   "blader/humanizer": {
     "first_seen": "2026-09-02",
@@ -1476,7 +1476,7 @@
   },
   "dagucloud/dagu": {
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-09-27",
     "last_saved": "2026-09-12"
   },
   "raine/workmux": {
@@ -1606,7 +1606,7 @@
   },
   "melgarafael/DeskcommCRM": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-27",
     "last_saved": "2026-09-15"
   },
   "fleetbase/fleetbase": {
@@ -1721,7 +1721,7 @@
   },
   "freeCodeCamp/freeCodeCamp": {
     "first_seen": "2026-09-17",
-    "last_seen": "2026-09-18",
+    "last_seen": "2026-09-27",
     "last_saved": "2026-09-17"
   },
   "rowboatlabs/rowboat": {
@@ -1771,7 +1771,7 @@
   },
   "junegunn/fzf": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-27",
     "last_saved": "2026-09-18"
   },
   "NVlabs/cuda-oxide": {
@@ -2194,52 +2194,47 @@
     "last_seen": "2026-09-27",
     "last_saved": "2026-09-26"
   },
-  "anthropics/claude-code-action": {
+  "InfinityLoop1308/PipePipe": {
     "first_seen": "2026-09-27",
     "last_seen": "2026-09-27",
     "last_saved": "2026-09-27"
   },
-  "bmad-code-org/BMAD-METHOD": {
+  "mvschwarz/openrig": {
     "first_seen": "2026-09-27",
     "last_seen": "2026-09-27",
     "last_saved": "2026-09-27"
   },
-  "withastro/astro": {
+  "willfaust/Madeira": {
     "first_seen": "2026-09-27",
     "last_seen": "2026-09-27",
     "last_saved": "2026-09-27"
   },
-  "zenbu-labs/terminal-browser": {
+  "vercel/next.js": {
     "first_seen": "2026-09-27",
     "last_seen": "2026-09-27",
     "last_saved": "2026-09-27"
   },
-  "rohitg00/agentmemory": {
+  "darkzOGx/youtube-automation-agent": {
     "first_seen": "2026-09-27",
     "last_seen": "2026-09-27",
     "last_saved": "2026-09-27"
   },
-  "payloadcms/payload": {
+  "hmjz100/LinkSwift": {
     "first_seen": "2026-09-27",
     "last_seen": "2026-09-27",
     "last_saved": "2026-09-27"
   },
-  "prometheus/prometheus": {
+  "microsoft/data-formulator": {
     "first_seen": "2026-09-27",
     "last_seen": "2026-09-27",
     "last_saved": "2026-09-27"
   },
-  "navidrome/navidrome": {
+  "EbookFoundation/free-programming-books": {
     "first_seen": "2026-09-27",
     "last_seen": "2026-09-27",
     "last_saved": "2026-09-27"
   },
-  "vshulcz/deja-vu": {
-    "first_seen": "2026-09-27",
-    "last_seen": "2026-09-27",
-    "last_saved": "2026-09-27"
-  },
-  "gastownhall/beads": {
+  "git-bug/git-bug": {
     "first_seen": "2026-09-27",
     "last_seen": "2026-09-27",
     "last_saved": "2026-09-27"
