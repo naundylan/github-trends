@@ -1,0 +1,33 @@
+{
+  "id": "54422a97-eafe-43fe-945f-1632fcb7fdc1",
+  "repo": "SinaXhpm/Submarine",
+  "url": "https://github.com/SinaXhpm/Submarine",
+  "category": "Other",
+  "summary": "Modern SSH & SFTP client — terminal, SFTP, port forwarding, folder mirror, encrypted sync. Windows · macOS · Linux · Android.",
+  "usecases": [
+    "Khám phá và đánh giá SinaXhpm/Submarine cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 363,
+  "starsToday": 57,
+  "language": "TypeScript",
+  "topics": [
+    "sftp",
+    "sftp-client",
+    "ssh",
+    "ssh-client",
+    "android",
+    "cross-platform",
+    "desktop-app",
+    "folder-sync",
+    "port-forwarding",
+    "socks5",
+    "terminal"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-27T19:07:31.606Z"
+}

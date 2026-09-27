@@ -1,0 +1,23 @@
+{
+  "id": "15623ac1-98d9-435b-af28-18582aeb9794",
+  "repo": "qist/tvbox",
+  "url": "https://github.com/qist/tvbox",
+  "category": "Web Frontend",
+  "summary": "Kho cấu hình TV streaming cho TVBox, cung cấp các liên kết OK资源 và cấu hình kênh được chọn lọc để phát nội dung trên các nền tảng TV thông minh.",
+  "usecases": [
+    "Thiết lập các kênh TV streaming cá nhân trên thiết bị TV thông minh.",
+    "Tổng hợp và tổ chức nguồn OK视频 cho nhiều instances TVBox.",
+    "Tùy chỉnh danh sách kênh và dữ liệu EPG theo khu vực."
+  ],
+  "ideas": [
+    "Kết hợp với dashboard web frontend để quản lý và cập nhật configs từ xa.",
+    "Xây dựng CLI tool tự động xác thực và hợp nhất các nguồn config mới.",
+    "Kết hợp với scraper metadata để tự động tạo thumbnail và mô tả cho kênh."
+  ],
+  "stars": 11510,
+  "starsToday": 24,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-27T19:07:31.607Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "8153186d-1724-4055-b60f-41596cd5125d",
+  "repo": "mlmvpn/mlmvpn_windows",
+  "url": "https://github.com/mlmvpn/mlmvpn_windows",
+  "category": "Networking",
+  "summary": "MLMVPN là công cụ chống lọc và quét IP dựa trên JavaScript, thiết kế để vượ qua các rào cản mạng và hỗ trợ kết nối bảo mật.",
+  "usecases": [
+    "Dùng để vượ qua tường lửa và lọc nội dung mạng xã hội ở môi trường công cộng hoặc doanh nghiệp.",
+    "Quét và phân tích địa chỉ IP để phát hiện lỗ hổng hoặc thiết bị kết nối mạng."
+  ],
+  "ideas": [
+    "Kết hợp với công nghệ proxy hoặc VPN để xây dựng giải pháp du lịch mạng đa lớp.",
+    "Tích hợp thuật toán mã hóa mạnh hơn để nâng cao bảo mật kênh truyền."
+  ],
+  "stars": 150,
+  "starsToday": 27,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-27T19:07:31.606Z"
+}

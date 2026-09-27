@@ -1,0 +1,31 @@
+{
+  "id": "2326cd9f-022f-4ecf-a1a9-a577a14e3abb",
+  "repo": "django/django",
+  "url": "https://github.com/django/django",
+  "category": "Web Framework",
+  "summary": "Django là framework web Python mạnh mẽ, cung cấp hệ thống ORM, routing, template engine và cấu trúc MVC giúp phát triển ứng dụng web nhanhan chóng.",
+  "usecases": [
+    "Xây dựng trang web thương mại điện tử hoặc blog cá nhân với hệ thống quản lý nội dung.",
+    "Phát triển API backend cho ứng dụng di động hoặc hệ thống quản lý doanh nghiệp."
+  ],
+  "ideas": [
+    "Kết hợp Django Rest Framework để tạo API RESTful mạnh mẽ cho các dịch vụ đám mây.",
+    "Sử dụng Django kết hợp Docker và CI/CD để triển khai hệ thống web quy mô lớn."
+  ],
+  "stars": 91212,
+  "starsToday": 27,
+  "language": "Python",
+  "topics": [
+    "python",
+    "django",
+    "web",
+    "framework",
+    "orm",
+    "templates",
+    "models",
+    "views",
+    "apps"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-09-27T19:07:31.606Z"
+}

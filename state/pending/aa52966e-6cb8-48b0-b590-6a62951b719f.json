@@ -1,0 +1,28 @@
+{
+  "id": "aa52966e-6cb8-48b0-b590-6a62951b719f",
+  "repo": "bevyengine/bevy",
+  "url": "https://github.com/bevyengine/bevy",
+  "category": "Other",
+  "summary": "A refreshingly simple data-driven game engine built in Rust",
+  "usecases": [
+    "Khám phá và đánh giá bevyengine/bevy cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 48426,
+  "starsToday": 32,
+  "language": "Rust",
+  "topics": [
+    "bevy",
+    "gamedev",
+    "game-engine",
+    "open-source",
+    "rust",
+    "game-development"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-27T19:07:31.606Z"
+}

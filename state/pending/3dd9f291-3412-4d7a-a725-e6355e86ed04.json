@@ -1,0 +1,38 @@
+{
+  "id": "3dd9f291-3412-4d7a-a725-e6355e86ed04",
+  "repo": "kitao/pyxel",
+  "url": "https://github.com/kitao/pyxel",
+  "category": "Other",
+  "summary": "A retro game engine for Python",
+  "usecases": [
+    "Khám phá và đánh giá kitao/pyxel cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 18102,
+  "starsToday": 39,
+  "language": "Rust",
+  "topics": [
+    "game",
+    "game-development",
+    "game-engine",
+    "gamedev",
+    "graphics",
+    "html",
+    "opengl",
+    "pico-8",
+    "pixel-art",
+    "python",
+    "pyxel",
+    "rust",
+    "tic-80",
+    "webgl",
+    "retro-game",
+    "wasm"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-27T19:07:31.606Z"
+}

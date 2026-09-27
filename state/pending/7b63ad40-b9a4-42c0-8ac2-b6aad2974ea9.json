@@ -1,0 +1,21 @@
+{
+  "id": "7b63ad40-b9a4-42c0-8ac2-b6aad2974ea9",
+  "repo": "freemocap/freemocap",
+  "url": "https://github.com/freemocap/freemocap",
+  "category": "Other",
+  "summary": "Free Motion Capture for Everyone 💀✨",
+  "usecases": [
+    "Khám phá và đánh giá freemocap/freemocap cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 10326,
+  "starsToday": 35,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-27T19:07:31.606Z"
+}
