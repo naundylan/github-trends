@@ -1,0 +1,30 @@
+{
+  "id": "6c8f0f60-af92-427f-913a-2199119394b2",
+  "repo": "fishjar/kiss-translator",
+  "url": "https://github.com/fishjar/kiss-translator",
+  "category": "Web Frontend",
+  "summary": "Mở rộng trình duyệt mã nguồn mở cho dịch song ngữ, hiển thị song ngữ đối照 và hỗ trợ cài đặt qua Greasemonkey script.",
+  "usecases": [
+    "Học ngôn ngữ bằng cách xem bản dịch song ngữ khi đọc các trang web nước ngoài.",
+    "Dịch nhanh nội dung trên các trang không có bản tiếng Việt sẵn.",
+    "Tích hợp vào quy trình làm việc để hiểu tài liệu và bài viết bằng tiếng Anh một cách hiệu quả."
+  ],
+  "ideas": [
+    "Thêm hỗ trợ nhận diện chuyên ngành (y học, pháp lý, kỹ thuật) cho bản dịch chính xác hơn.",
+    "Kết hợp với TTS (Text-to-Speech) để đọc bản dịch tiếng Việt theo lời nói.",
+    "Phát triển phiên bản mở rộng cho ứng dụng mobile hoặc webview trong ứng dụng nội địa."
+  ],
+  "stars": 12666,
+  "starsToday": 21,
+  "language": "JavaScript",
+  "topics": [
+    "extension",
+    "translation",
+    "translator",
+    "translate",
+    "userscripts",
+    "userscript"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-28T09:26:11.593Z"
+}

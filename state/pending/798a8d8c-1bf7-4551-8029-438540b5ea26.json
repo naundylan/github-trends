@@ -1,0 +1,36 @@
+{
+  "id": "798a8d8c-1bf7-4551-8029-438540b5ea26",
+  "repo": "calcom/cal.diy",
+  "url": "https://github.com/calcom/cal.diy",
+  "category": "Productivity/Personal Tool",
+  "summary": "HInfrastructure lập lịch open-source cho mọi người, xây dựng với Next.js, Prisma và các công nghệ hiện đại. Hỗ trợ đặt lịch trực tuyến, quản lý lịch hẹn và tích hợp nhiều tính năng.",
+  "usecases": [
+    "Cá nhân sử dụng để quản lý lịch hẹn hàng ngày.",
+    "Doanh nghiệp nhỏ tạo hệ thống đặt lịch cho khách hàng.",
+    "Đội nhóm lập lịch họp và phân công công việc hiệu quả.",
+    "Tích hợp với website cá nhân hoặc blog để cho phép đặt lịch trực tuyến."
+  ],
+  "ideas": [
+    "Kết hợp với AI để đề xuất thời gian lịch phù hợp dựa trên lịch sử.",
+    "Tích hợp với các dịch vụ video conferencing như Zoom hoặc Google Meet.",
+    "Sử dụng làm phần mềm quản lý lịch làm việc cho nhân viên trong doanh nghiệp."
+  ],
+  "stars": 48704,
+  "starsToday": 24,
+  "language": "TypeScript",
+  "topics": [
+    "open-source",
+    "typescript",
+    "nextjs",
+    "next-auth",
+    "postgresql",
+    "prisma",
+    "t3-stack",
+    "tailwindcss",
+    "trpc",
+    "turborepo",
+    "zod"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-09-28T09:26:11.593Z"
+}

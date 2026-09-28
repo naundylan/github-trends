@@ -1,0 +1,40 @@
+{
+  "id": "921e7a20-13a4-43a3-ae6a-0274998ec0fd",
+  "repo": "expo/expo",
+  "url": "https://github.com/expo/expo",
+  "category": "Cross-platform Mobile",
+  "summary": "Expo là framework mã nguồn mở cho phép tạo ứng dụng native cho Android, iOS và web bằng React, cung cấp bộ công cụ để build, test và deploy nhanh chóng mà không cần cấu hình môi trường native phức tạp.",
+  "usecases": [
+    "Phát triển ứng dụng mobile cho startup nhanh chóng mà không cần đội ngũ native.",
+    "Build ứng dụng cross-platform một codebase cho cả iOS, Android và web cùng lúc.",
+    "Prototyping và tạo MVPs cho apps với thời gian triển khai ngắn."
+  ],
+  "ideas": [
+    "Kết hợp Expo với AR/VR để phát triển trải nghiệm tương tác trên mobile.",
+    "Xây dựng ecosystem plugin cho Expo để tự động hóa CI/CD cho React Native apps.",
+    "Tạo app quản lý dự án tích hợp AI assistant và các dịch vụ cloud."
+  ],
+  "stars": 52472,
+  "starsToday": 15,
+  "language": "TypeScript",
+  "topics": [
+    "mobile",
+    "expo",
+    "native",
+    "web",
+    "universal",
+    "react",
+    "android",
+    "ios",
+    "app-framework",
+    "web-framework",
+    "native-apps",
+    "javascript",
+    "framework",
+    "frontend",
+    "react-native",
+    "typescript"
+  ],
+  "notePath": "notes/Cross-platform-Mobile.md",
+  "createdAt": "2026-09-28T09:26:11.594Z"
+}

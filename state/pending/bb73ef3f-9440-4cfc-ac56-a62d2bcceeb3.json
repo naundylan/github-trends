@@ -1,0 +1,24 @@
+{
+  "id": "bb73ef3f-9440-4cfc-ac56-a62d2bcceeb3",
+  "repo": "huilang-me/CF-Server-Monitor",
+  "url": "https://github.com/huilang-me/CF-Server-Monitor",
+  "category": "DevOps/CI-CD",
+  "summary": "Hệ thống monitoring server đa node miễn phí sử dụng Cloudflare Workers, D1 và Durable Objects. Hỗ trợ monitoring thời gian thực, cảnh báo offline, thông báo hết hạn, xem lịch sử, theo dõi延迟 và hiển thị bản đồ.",
+  "usecases": [
+    "Monitoring các server cá nhân hoặc doanh nghiệp để phát hiện sự cố sớm.",
+    "Cảnh báo khi server offline hoặc hết hạn dịch vụ, phù hợp cho quản trị hệ thống.",
+    "Theo dõi延迟 và hiệu suất server qua thời gian để tối ưu hóa.",
+    "Hiển thị vị trí server trên bản đồ để quản lý cơ sở hạ tầng phân tán."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống cảnh báo SMS hoặc email khi có sự cố.",
+    "Tích hợp với IoT để monitoring thiết bị thông minh trong nhà.",
+    "Sử dụng dữ liệu延迟 để tối ưu hóa routing hoặc chọn nhà cung cấp dịch vụ tốt hơn."
+  ],
+  "stars": 2292,
+  "starsToday": 30,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-09-28T09:26:11.593Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cf69d704-1d3c-46b1-8fe4-c75d974bf674",
+  "repo": "qist/tvbox",
+  "url": "https://github.com/qist/tvbox",
+  "category": "Desktop App",
+  "summary": "TVBox là ứng dụng phát video cho thiết bị TV/desktop, cung cấp cấu hình và scripts để truy cập nội dung đa nguồn như OKViet.",
+  "usecases": [
+    "Cấu hình TVBox để xem phim và series từ nhiều nguồn phát trực tuyến.",
+    "Tự động cập nhật và quản lý các nguồn phát (sources) cho nội dung đa dạng.",
+    "Tạo playlist cá nhân và giao diện tùy chỉnh cho trải nghiệm xem trên TV."
+  ],
+  "ideas": [
+    "Kết hợp API cá nhân để lọc và đề xuất nội dung dựa trên sở thích người dùng.",
+    "Phát triển plugin cho các nền tảng streaming khác để đồng bộ lịch sử xem.",
+    "Thêm tính năng tìm kiếm nội dung qua giọng nói hoặc nhận diện hình ảnh."
+  ],
+  "stars": 11522,
+  "starsToday": 23,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-28T09:26:11.593Z"
+}

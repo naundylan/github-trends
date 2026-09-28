@@ -1,0 +1,32 @@
+{
+  "id": "aa7f7b9c-c138-4bb2-9fcb-59c035dc6b8f",
+  "repo": "pnpm/pnpm",
+  "url": "https://github.com/pnpm/pnpm",
+  "category": "Package Manager",
+  "summary": "pnpm là trình quản lý gói nhanh và tiết kiệm dung lượng đĩa, sử dụng cấu trúc liên kết kép để quản lý dependencies cho dự án Node.js/JavaScript",
+  "usecases": [
+    "Quản lý dependencies cho dự án Node.js với kích thước repository tối ưu",
+    "Tích hợp trong CI/CD để cài đặt nhanh và ổn định môi trường phát triển",
+    "Sử dụng trong monorepos để chia sẻ packages giữa nhiều project không trùng lặp"
+  ],
+  "ideas": [
+    "Phát triển dashboard visualiza dependency tree cho pnpm",
+    "Tạo plugin VS Code hiển thị kích thước và nguồn gốc package",
+    "Kết hợp pnpm với Docker layer caching để tối ưu build container"
+  ],
+  "stars": 36684,
+  "starsToday": 20,
+  "language": "Rust",
+  "topics": [
+    "npm",
+    "dependency-manager",
+    "package-manager",
+    "node",
+    "nodejs",
+    "install",
+    "modules",
+    "javascript"
+  ],
+  "notePath": "notes/Package-Manager.md",
+  "createdAt": "2026-09-28T09:26:11.594Z"
+}

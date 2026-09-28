@@ -1,0 +1,44 @@
+{
+  "id": "9b887e96-aa45-444d-8ca5-472ac0733531",
+  "repo": "YoanWai/agent-manager",
+  "url": "https://github.com/YoanWai/agent-manager",
+  "category": "AI Agent/Automation",
+  "summary": "Agent-manager là một giao diện TUI cho terminal, giúp theo dõi và quản lý các AI coding agent với live status, prompts nhanh và review diff.",
+  "usecases": [
+    "Theo dõi trạng thái và output của nhiều AI coding agents đồng thời trong một cửa sổ TUI",
+    "Quản lý worktrees và review diff khi làm việc với các branch song song",
+    "Gửi prompts nhanh và tương tác với agents (Claude, Code, v.v.) mà không cần rời terminal"
+  ],
+  "ideas": [
+    "Tích hợp với nhiều agent khác nhau (Claude, Code, Gemini) trong một dashboard TUI duy nhất",
+    "Tự động hóa quy trình code review bằng cách theo dõi diff và status của agents",
+    "Sử dụng cho pair programming từ xa với các agent AI trên các hệ điều hành khác nhau (WSL, macOS, Linux)"
+  ],
+  "stars": 532,
+  "starsToday": 16,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "bubbletea",
+    "claude-code",
+    "cli",
+    "developer-tools",
+    "golang",
+    "opencode",
+    "terminal",
+    "tmux",
+    "tui",
+    "code-review",
+    "codex",
+    "grok",
+    "gemini-cli",
+    "wsl",
+    "mcp-server",
+    "model-context-protocol",
+    "command-code",
+    "hermes-agent",
+    "pi"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-28T09:26:11.594Z"
+}
