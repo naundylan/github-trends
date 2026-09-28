@@ -1,0 +1,35 @@
+{
+  "id": "bc5937f0-e226-4e90-876b-5d084cc424c5",
+  "repo": "Billionmail/BillionMail",
+  "url": "https://github.com/Billionmail/BillionMail",
+  "category": "API/GraphQL",
+  "summary": "An open-source, self-hosted platform for email marketing, mail server management, and newsletter distribution, built with Go and free from recurring fees.",
+  "usecases": [
+    "Self-hosting a custom email marketing platform without monthly subscription costs.",
+    "Managing transactional emails and SMTP services for web applications.",
+    "Running a private newsletter service with built-in subscriber management."
+  ],
+  "ideas": [
+    "Combining with AI to auto-generate email content for marketing campaigns.",
+    "Deploying as a white-label email infrastructure for agencies serving multiple clients.",
+    "Integrating with analytics tools to track open rates and engagement via custom APIs."
+  ],
+  "stars": 15693,
+  "starsToday": 26,
+  "language": "Go",
+  "topics": [
+    "email-marketing",
+    "mail",
+    "mailserver",
+    "email",
+    "server",
+    "smtp",
+    "dovecot",
+    "postfix",
+    "rspamd",
+    "newsletter",
+    "newsletters"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-28T02:59:21.130Z"
+}

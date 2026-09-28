@@ -1,0 +1,23 @@
+{
+  "id": "076ecf1e-8bf3-42f2-be9d-561129d16ed5",
+  "repo": "mlmvpn/mlmvpn_windows",
+  "url": "https://github.com/mlmvpn/mlmvpn_windows",
+  "category": "Networking",
+  "summary": "MLMVPN là ứng dụng Windows dùng để quét IP và vượt qua các hạn chế lọc nội dung, cung cấp công cụ tự do truy cập mạng và phân tích địa chỉ IP.",
+  "usecases": [
+    "Bypass cấm truy cập internet và lọc nội dung tại nhà trường/doanh nghiệp.",
+    "Quét và phân tích địa chỉ IP để kiểm tra bảo mật mạng.",
+    "Giúp người dùng duy trì ẩn danh và truy cập tài nguyên toàn cầu an toàn."
+  ],
+  "ideas": [
+    "Kết hợp với DNS-over-HTTPS để tạo VPN cá nhân an toàn hơn.",
+    "Phát triển plugin cho trình duyệt giúp người dùng kiểm tra bảo mật mạng một-click.",
+    "Sử dụng công cụ này để giáo dục người dùng về an ninh mạng và vệ sinh IP."
+  ],
+  "stars": 152,
+  "starsToday": 27,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-28T02:59:21.130Z"
+}

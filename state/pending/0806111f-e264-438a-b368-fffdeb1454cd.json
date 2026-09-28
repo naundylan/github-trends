@@ -1,0 +1,36 @@
+{
+  "id": "0806111f-e264-438a-b368-fffdeb1454cd",
+  "repo": "trufflesecurity/trufflehog",
+  "url": "https://github.com/trufflesecurity/trufflehog",
+  "category": "Security/Pentest",
+  "summary": "TruffleHog là công cụ bảo mật dùng để quét và phát hiện credentials bị rò rỉ trong lịch sử git, mã nguồn và môi trường phát triển, giúp tổ chức bảo mật phòng ngừa rò rỉ thông tin nhạy cảm.",
+  "usecases": [
+    "Quét repository opensource để tìm và xoá các token API, mật khẩu bị commit vô tình.",
+    "Tích hợp vào pipeline CI/CD để kiểm tra bảo mật trước khi deploy.",
+    "Phát hiện credentials bị rò rỉ trong các container và môi trường cloud."
+  ],
+  "ideas": [
+    "Kết hợp TruffleHog với AI để phân loại và ưu tiên độ nguy cấp của các secret bị rò rỉ.",
+    "Xây dựng dashboard real-time monitoring cho team về việc credentials nào đang được sử dụng sau khi được phát hiện.",
+    "Tự động tạo ra các policy bảo mật tùy theo loại secret bị rò rỉ và cảnh báo cho các nhà phát triển liên quan."
+  ],
+  "stars": 28140,
+  "starsToday": 53,
+  "language": "Go",
+  "topics": [
+    "secret",
+    "trufflehog",
+    "credentials",
+    "security",
+    "devsecops",
+    "dynamic-analysis",
+    "security-tools",
+    "secrets",
+    "verification",
+    "secret-management",
+    "precommit",
+    "scanning"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-28T02:59:21.130Z"
+}

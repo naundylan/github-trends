@@ -1,0 +1,23 @@
+{
+  "id": "2205f5f2-c8a4-4b14-a2cb-b0194e9d02e1",
+  "repo": "freemocap/freemocap",
+  "url": "https://github.com/freemocap/freemocap",
+  "category": "Computer Vision",
+  "summary": "Freemocap là hệ thống bắt động lực mã nguồn mở cho phép theo dõi và bắt động lực người thể hiện không cần thiết bị đắt giá, sử dụng thị giác máy tính để theo dõi chuyển động trong thời gian thực.",
+  "usecases": [
+    "Theo dõi chuyển động cho nghiên cứu khoa học và giáo dục thể chất.",
+    "Tạo nội dung animation và game với dữ liệu chuyển động real-time.",
+    "Phát triển các ứng dụng IoT và robot điều khiển bằng cử chỉ."
+  ],
+  "ideas": [
+    "Kết hợp với AR/VR để tạo trải nghiệm giao diện điều khiển bằng cử chỉ沉浸.",
+    "Phát triển ứng dụng di động kết nối qua Bluetooth để theo dõi chuyển động trong nhà.",
+    "Sử dụng dữ liệu chuyển động để phục hồi chức năng bộ mặt hoặc thể thao nhẹ."
+  ],
+  "stars": 10336,
+  "starsToday": 31,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-09-28T02:59:21.130Z"
+}

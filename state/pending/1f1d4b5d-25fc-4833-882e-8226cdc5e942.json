@@ -1,0 +1,35 @@
+{
+  "id": "1f1d4b5d-25fc-4833-882e-8226cdc5e942",
+  "repo": "SinaXhpm/Submarine",
+  "url": "https://github.com/SinaXhpm/Submarine",
+  "category": "Desktop App",
+  "summary": "Submarine là một client SSH & SFTP hiện đại cho các hệ điều hành đa nền tảng, cung cấp terminal, truyền file, forward port, đồng bộ thư mục và mã hóa an toàn. Phù hợp cho phát triển viên và quản trị hệ thống cần quản lý remote một cách trực quan và hiệu quả.",
+  "usecases": [
+    "Phát triển viên kết nối an toàn đến các server để triển khai code và quản lý dự án",
+    "Quản trị hệ thống quản lý nhiều môi trường remote với đồng bộ thư mục và forward port",
+    "Người dùng đa nền tảng cần trải nghiệm SSH/SFTP thống nhất trên Windows, macOS, Linux và Android"
+  ],
+  "ideas": [
+    "Kết hợp AI để gợi ý lệnh terminal tăng tốc quy trình làm việc",
+    "Xây dựng hệ thống plugin cho các script đồng bộ tùy chỉnh hoặc kiểm tra bảo mật",
+    "Kết hợp với VPN/SSH tunnel manager để tự động tạo các mạng an toàn"
+  ],
+  "stars": 372,
+  "starsToday": 40,
+  "language": "TypeScript",
+  "topics": [
+    "sftp",
+    "sftp-client",
+    "ssh",
+    "ssh-client",
+    "android",
+    "cross-platform",
+    "desktop-app",
+    "folder-sync",
+    "port-forwarding",
+    "socks5",
+    "terminal"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-28T02:59:21.130Z"
+}
