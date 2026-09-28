@@ -1,0 +1,29 @@
+{
+  "id": "0c2e6b87-a2ff-43ea-b775-65fca32e2b35",
+  "repo": "ashhart/TensorFold",
+  "url": "https://github.com/ashhart/TensorFold",
+  "category": "AI/LLM",
+  "summary": "TensorFold cung cấp endpoint tương thích OpenAI để chạy LLM decoding nhanh và chính xác trên Apple Silicon thông qua MLX, tối ưu hóa hiệu suất inference cho các mô hình ngôn ngữ.",
+  "usecases": [
+    "Triển khai các mô hình LLM với latency thấp cho các ứng dụng chatbot trên máy tính cá nhân.",
+    "Giảm chi phí cloud inference bằng cách chạy inference cục bộ trên hardware Apple Silicon.",
+    "Tích hợp vào các pipeline AI hiện có cần giao diện OpenAI-compatible mà không cần thay đổi code."
+  ],
+  "ideas": [
+    "Kết hợp với các framework tách âm thanh để tạo hệ thống dịch speech-to-text thực-time trên device.",
+    "Sử dụng cho các ứng dụng AI offline cần bảo mật dữ liệu cao (ví dụ: y tế, tài chính).",
+    "Phát triển một desktop client AI assistant chạy hoàn toàn trên macOS mà không phụ thuộc vào internet."
+  ],
+  "stars": 546,
+  "starsToday": 160,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ai-tools",
+    "llm",
+    "llm-inference",
+    "llm-tools"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-28T19:11:21.931Z"
+}

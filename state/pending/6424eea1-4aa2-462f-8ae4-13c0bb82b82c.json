@@ -1,0 +1,29 @@
+{
+  "id": "6424eea1-4aa2-462f-8ae4-13c0bb82b82c",
+  "repo": "satnaing/shadcn-admin",
+  "url": "https://github.com/satnaing/shadcn-admin",
+  "category": "UI/Component Library",
+  "summary": "Admin dashboard UI sử dụng Shadcn-ui và Vite, cung cấp bộ component sẵn dựng để xây dựng giao diện quản trị nhanh và đẹp.",
+  "usecases": [
+    "Xây dựng admin panel cho web application nhanh chóng",
+    "Tùy chỉnh giao diện dashboard cho SaaS sản phẩm",
+    "Prototyping hệ thống quản trị nội bộ"
+  ],
+  "ideas": [
+    "Kết hợp với Auth để tạo hệ thống quản trị người dùng hoàn chỉnh",
+    "Đóng gói thành npm package để chia sẻ giữa các dự án",
+    "Thêm hỗ trợ dark mode và responsive design nâng cao"
+  ],
+  "stars": 14986,
+  "starsToday": 379,
+  "language": "TypeScript",
+  "topics": [
+    "admin-dashboard",
+    "admin-panel",
+    "dashboard",
+    "shadcn-ui",
+    "shadcn-admin"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-09-28T19:11:21.931Z"
+}

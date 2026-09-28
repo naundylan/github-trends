@@ -1,0 +1,35 @@
+{
+  "id": "60e07a30-b278-468d-a34d-4cd871531d06",
+  "repo": "moeru-ai/airi",
+  "url": "https://github.com/moeru-ai/airi",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án mã nguồn mở tự host đồng hành AI với khả năng trò chuyện giọng nói thời thực, chơi game Minecraft và Factorio, mang đến trải nghiệm VTuber và AI companion cá nhân.",
+  "usecases": [
+    "Trò chuyện giọng nói AI thời thực với người dùng",
+    "Tự động chơi game Minecraft và Factorio như AI agent",
+    "Tạo ra avatar VTuber/đigital companion cá nhân hóa"
+  ],
+  "ideas": [
+    "Kết hợp với VR/AR để tạo trải nghiệm avatar沉浸 hóa",
+    "Phát triển plugin cho các game khác nhau thông qua AI agent",
+    "Tạo ra hệ thống AI companion có personality tùy chỉnh cho từng user"
+  ],
+  "stars": 49721,
+  "starsToday": 216,
+  "language": "TypeScript",
+  "topics": [
+    "ai-vtuber",
+    "live2d",
+    "neuro-sama",
+    "neurosama",
+    "vrm",
+    "vtuber",
+    "grok-companion",
+    "ai-companion",
+    "digital-life",
+    "openclaw",
+    "airi"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-28T19:11:21.931Z"
+}

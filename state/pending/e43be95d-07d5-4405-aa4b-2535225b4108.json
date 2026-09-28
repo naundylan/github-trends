@@ -1,0 +1,39 @@
+{
+  "id": "e43be95d-07d5-4405-aa4b-2535225b4108",
+  "repo": "rorkai/App-Store-Connect-CLI",
+  "url": "https://github.com/rorkai/App-Store-Connect-CLI",
+  "category": "CLI Tool",
+  "summary": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, and more",
+  "usecases": [
+    "Automated TestFlight build distribution and management",
+    "Automated app submissions and metadata updates",
+    "Automated analytics retrieval and reporting"
+  ],
+  "ideas": [
+    "Integration with CI/CD pipelines for automated release workflows",
+    "Cross-platform build automation for iOS and macOS apps",
+    "Advanced signing and provisioning automation for enterprise distributions"
+  ],
+  "stars": 7502,
+  "starsToday": 102,
+  "language": "Go",
+  "topics": [
+    "app-store-connect",
+    "automation",
+    "cicd",
+    "cli",
+    "devops",
+    "golang",
+    "ios",
+    "macos",
+    "testflight",
+    "xcode",
+    "apple",
+    "developer-tools",
+    "command-line-tool",
+    "go",
+    "swift"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-28T19:11:21.931Z"
+}

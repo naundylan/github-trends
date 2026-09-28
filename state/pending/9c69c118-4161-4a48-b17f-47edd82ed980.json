@@ -1,0 +1,32 @@
+{
+  "id": "9c69c118-4161-4a48-b17f-47edd82ed980",
+  "repo": "practical-tutorials/project-based-learning",
+  "url": "https://github.com/practical-tutorials/project-based-learning",
+  "category": "Documentation/Learning Resource",
+  "summary": "Danh sách tuyển tập các hướng dẫn dự án thực hành giúp người mới bắt đầu học lập trình thông qua các dự án thực tế đa ngôn ngữ.",
+  "usecases": [
+    "Học lập trình qua các dự án có cấu trúc cho người mới",
+    "Xây dựng portfolio dự án cho việc xin việc hoặc học tập",
+    "Self-study và chuyển đổi nghề qua các hướng dẫn từng bước"
+  ],
+  "ideas": [
+    "Tạo roadmap dự án theo lộ trình chuyên môn (roadmap)",
+    "Phát triển platform tương tác theo dõi tiến độ học tập",
+    "Kết hợp video hướng dẫn và code mẫu trong danh sách"
+  ],
+  "stars": 285102,
+  "starsToday": 215,
+  "language": "Python",
+  "topics": [
+    "tutorial",
+    "project",
+    "beginner-project",
+    "webdevelopment",
+    "python",
+    "javascript",
+    "cpp",
+    "golang"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-28T19:11:21.931Z"
+}

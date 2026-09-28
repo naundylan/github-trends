@@ -1,0 +1,26 @@
+{
+  "id": "9c6aa356-18a4-480b-80d3-a108bb20a71d",
+  "repo": "microsoft/SkillOpt",
+  "url": "https://github.com/microsoft/SkillOpt",
+  "category": "AI Agent/Automation",
+  "summary": "Tối ưu hóa không gian văn bản để train kỹ năng tự nhiên reusable cho các LLM agent đã đóng băng, tạo ra các artifact best_skill.md deployable.",
+  "usecases": [
+    "Tự động hóa quy trình training kỹ năng cho các agent LLM trong các ứng dụng doanh nghiệp",
+    "Phát triển agent có khả năng tự cải thiện qua các trajectory edit",
+    "Tích hợp kỹ năng reusable vào các hệ thống AI hiện có để tăng hiệu suất"
+  ],
+  "ideas": [
+    "Tạo thư viện kỹ năng tự động cho các domain như tài chính, y tế hoặc giáo dục",
+    "Xây dựng hệ thống agent đa tác vụ dùng chung các skill module có thể giao dịch",
+    "Kết hợp với prompt engineering để tối ưu hiệu năng LLM trên thiết bị edge"
+  ],
+  "stars": 17790,
+  "starsToday": 111,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "self-evolving-agents"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-28T19:11:21.931Z"
+}

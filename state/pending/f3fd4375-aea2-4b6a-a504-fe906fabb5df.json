@@ -1,0 +1,43 @@
+{
+  "id": "f3fd4375-aea2-4b6a-a504-fe906fabb5df",
+  "repo": "topoteretes/cognee",
+  "url": "https://github.com/topoteretes/cognee",
+  "category": "AI/LLM",
+  "summary": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
+  "usecases": [
+    "AI agents with persistent long-term memory",
+    "Knowledge graph integration for context engineering",
+    "Small model deployment for cost-effective AI memory"
+  ],
+  "ideas": [
+    "Integration with RAG pipelines for enhanced context retrieval",
+    "Hybrid memory architecture combining vector and graph databases",
+    "Automated knowledge extraction from unstructured data sources"
+  ],
+  "stars": 31128,
+  "starsToday": 103,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "cognitive-architecture",
+    "vector-database",
+    "ai-agents",
+    "graph-database",
+    "ai-memory",
+    "cognitive-memory",
+    "knowledge",
+    "knowledge-graph",
+    "graph-rag",
+    "contributions-welcome",
+    "good-first-issue",
+    "good-first-pr",
+    "help-wanted",
+    "open-source",
+    "context-engineering",
+    "agent-memory",
+    "agent-skills",
+    "memory-management"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-28T19:11:21.931Z"
+}

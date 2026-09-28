@@ -1,0 +1,23 @@
+{
+  "id": "24ca64e8-93d3-4c05-92e8-9a602bab6cdd",
+  "repo": "NawfalMotii79/PLFM_RADAR",
+  "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+  "category": "Embedded/IoT",
+  "summary": "Hệ thống RADAR phased array tần số 10.5 GHz mã nguồn mở, chi phí thấp, dùng cho phát hiện và theo dõi vật thể.",
+  "usecases": [
+    "Phát hiện vật thể trong điều kiện môi trường khắc nghiệt",
+    "Hệ thống an ninh và trộm cảnh",
+    "Nghiên cứu và phát triển kỹ thuật RADAR cho dự án cá nhân"
+  ],
+  "ideas": [
+    "Kết hợp với drone để phát hiện chướng ngại vật tự động",
+    "Xây dựng hệ thống RADAR di động bằng Raspberry Pi hoặc FPGA",
+    "Phát triển phần mềm xử lý tín hiệu RADAR bằng Python cho thị giác máy tính"
+  ],
+  "stars": 25688,
+  "starsToday": 145,
+  "language": "PLSQL",
+  "topics": [],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-09-28T19:11:21.931Z"
+}

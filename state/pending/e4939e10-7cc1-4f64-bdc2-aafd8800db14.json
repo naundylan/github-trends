@@ -1,0 +1,31 @@
+{
+  "id": "e4939e10-7cc1-4f64-bdc2-aafd8800db14",
+  "repo": "cs341-illinois/coursebook",
+  "url": "https://github.com/cs341-illinois/coursebook",
+  "category": "Documentation/Learning Resource",
+  "summary": "Giao trình mở đầu hệ thống sử dụng LaTeX, hướng dẫn C, Linux và POSIX cho sinh viên University of Illinois.",
+  "usecases": [
+    "Học tập môn lập trình hệ thống cho sinh viên mới",
+    "Tài liệu tham khảo cho các khóa học C/Linux tại trường đại học",
+    "Nền tảng để viết và tùy chỉnh giáo trình hệ điều hành"
+  ],
+  "ideas": [
+    "Chuyển đổi sang định dạng interactive web với các ví dụ chạy được",
+    "Tạo bộ câu hỏi tự động từ nội dung LaTeX",
+    "Kết hợp với CI/CD để tự động build PDF cho từng phiên khóa học"
+  ],
+  "stars": 2412,
+  "starsToday": 316,
+  "language": "TeX",
+  "topics": [
+    "wikibook",
+    "latex",
+    "awesome",
+    "c",
+    "linux",
+    "posix",
+    "system-programming"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-09-28T19:11:21.931Z"
+}

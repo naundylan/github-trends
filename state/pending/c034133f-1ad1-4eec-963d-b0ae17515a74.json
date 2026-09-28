@@ -1,0 +1,40 @@
+{
+  "id": "c034133f-1ad1-4eec-963d-b0ae17515a74",
+  "repo": "kitao/pyxel",
+  "url": "https://github.com/kitao/pyxel",
+  "category": "Game Engine",
+  "summary": "Pyxel là một engine trò chơi retro cho Python, cho phép tạo các game pixel art và đồ họa tương tự PICO-8 một cách dễ dàng thông qua code Python.",
+  "usecases": [
+    "Phát triển game 2D pixel art nhanh chóng cho người mới bắt đầu.",
+    "Học và giảng dạy lập trình game development với Python.",
+    "Tạo prototyping game đơn giản cho các dự án cá nhân hoặc học tập."
+  ],
+  "ideas": [
+    "Kết hợp với thư viện âm thanh để tạo game rhythm đơn giản.",
+    "Xuất game thành WebAssembly (WASM) chạy trực tiếp trên browser mà không cần cài đặt.",
+    "Sử dụng làm nền tảng cho các cuộc thi game hackathon hoặc giáo dục lập trình sinh viên."
+  ],
+  "stars": 18246,
+  "starsToday": 196,
+  "language": "Rust",
+  "topics": [
+    "game",
+    "game-development",
+    "game-engine",
+    "gamedev",
+    "graphics",
+    "html",
+    "opengl",
+    "pico-8",
+    "pixel-art",
+    "python",
+    "pyxel",
+    "rust",
+    "tic-80",
+    "webgl",
+    "retro-game",
+    "wasm"
+  ],
+  "notePath": "notes/Game-Engine.md",
+  "createdAt": "2026-09-28T19:11:21.931Z"
+}
