@@ -1,0 +1,35 @@
+{
+  "id": "64fcedcf-87c2-4f5a-9926-5f67da1f85bd",
+  "repo": "Billionmail/BillionMail",
+  "url": "https://github.com/Billionmail/BillionMail",
+  "category": "Developer Tool",
+  "summary": "Mail server và nền tảng marketing email mã nguồn mở, self-hosted hoàn toàn, giúp developers quản lý email marketing và transactional email mà không có phí định kỳ.",
+  "usecases": [
+    "Triển khai server email riêng cho doanh nghiệp gửi transactional emails",
+    "Xây dựng và quản lý newsletter tự chủ không phụ thuộc vào dịch vụ trả phí",
+    "Tích hợp với hệ thống nội bộ tự động hóa gửi email marketing theo hành vi người dùng"
+  ],
+  "ideas": [
+    "Kết hợp công cụ phân tích dữ liệu tạo dashboard theo dõi hiệu quả gửi email real-time",
+    "Phát triển plugin cho e-commerce tự động đồng bộ khách hàng và kampanye email",
+    "Sử dụng làm foundation cho hệ thống email automation trong dự án IoT hoặc hệ thống phân tán cần gửi cảnh báo"
+  ],
+  "stars": 15765,
+  "starsToday": 44,
+  "language": "Go",
+  "topics": [
+    "email-marketing",
+    "mail",
+    "mailserver",
+    "email",
+    "server",
+    "smtp",
+    "dovecot",
+    "postfix",
+    "rspamd",
+    "newsletter",
+    "newsletters"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-29T22:00:08.527Z"
+}

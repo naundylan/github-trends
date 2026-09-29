@@ -1,0 +1,38 @@
+{
+  "id": "bf9a3a4c-f5c4-4bef-a709-2f74b18937cc",
+  "repo": "temporalio/temporal",
+  "url": "https://github.com/temporalio/temporal",
+  "category": "Other",
+  "summary": "Temporal service",
+  "usecases": [
+    "Khám phá và đánh giá temporalio/temporal cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 23368,
+  "starsToday": 20,
+  "language": "Go",
+  "topics": [
+    "workflows",
+    "workflow-engine",
+    "workflow-automation",
+    "workflow-management",
+    "workflow-management-system",
+    "distributed-systems",
+    "golang",
+    "service-bus",
+    "service-fabric",
+    "microservices-architecture",
+    "microservice-framework",
+    "microservice-orchestration",
+    "cronjob-scheduler",
+    "distributed-cron",
+    "orchestrator",
+    "durable-execution"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-29T22:00:08.527Z"
+}

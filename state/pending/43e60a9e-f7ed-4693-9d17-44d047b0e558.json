@@ -1,0 +1,32 @@
+{
+  "id": "43e60a9e-f7ed-4693-9d17-44d047b0e558",
+  "repo": "warpdotdev/warp",
+  "url": "https://github.com/warpdotdev/warp",
+  "category": "Developer Tool",
+  "summary": "Môi trường phát triển agentic dựa trên terminal, kết hợp AI để hỗ trợ viết lệnh, tự động hoàn thành và quản lý dự án.",
+  "usecases": [
+    "Làm terminal hiện đại với tính năng tự động hoàn thành lệnh AI",
+    "Tích hợp với LLM để tạo script hoặc sửa lỗi mã",
+    "Cung cấp giao diện phân panel để làm việc với nhiều dự án cùng lúc"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý nhiệm vụ để tự động tạo commit message từ lịch sử terminal",
+    "Phát triển plugin cho các dịch vụ cloud để triển khai ứng dụng trực tiếp từ Warp",
+    "Tạo môi trường học tập tương tác cho sinh viên lập trình với hướng dẫn AI trong terminal"
+  ],
+  "stars": 65275,
+  "starsToday": 30,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "linux",
+    "macos",
+    "terminal",
+    "bash",
+    "zsh",
+    "wasm",
+    "shell"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-29T22:00:08.527Z"
+}

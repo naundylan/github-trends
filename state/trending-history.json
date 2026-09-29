@@ -2289,37 +2289,52 @@
     "last_seen": "2026-09-29",
     "last_saved": "2026-09-28"
   },
-  "NVIDIA/OpenShell": {
+  "rakyll/hey": {
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-29",
     "last_saved": "2026-09-29"
   },
-  "VectifyAI/PageIndex": {
+  "citrolabs/ego-lite": {
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-29",
     "last_saved": "2026-09-29"
   },
-  "cloudflare/vinext": {
+  "vllm-project/semantic-router": {
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-29",
     "last_saved": "2026-09-29"
   },
-  "Gaurav-Gosain/tuios": {
+  "temporalio/temporal": {
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-29",
     "last_saved": "2026-09-29"
   },
-  "timhartmann7/omnyssh": {
+  "trufflesecurity/trufflehog": {
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-29",
     "last_saved": "2026-09-29"
   },
-  "Pumpkin-MC/Pumpkin": {
+  "Billionmail/BillionMail": {
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-29",
     "last_saved": "2026-09-29"
   },
-  "magnitudedev/magnitude": {
+  "keploy/keploy": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29",
+    "last_saved": "2026-09-29"
+  },
+  "kubernetes-sigs/agent-sandbox": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29",
+    "last_saved": "2026-09-29"
+  },
+  "gastownhall/beads": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29",
+    "last_saved": "2026-09-29"
+  },
+  "warpdotdev/warp": {
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-29",
     "last_saved": "2026-09-29"

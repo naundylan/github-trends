@@ -1,0 +1,35 @@
+{
+  "id": "6bf6e303-7938-4716-9790-6aa3a74553c1",
+  "repo": "vllm-project/semantic-router",
+  "url": "https://github.com/vllm-project/semantic-router",
+  "category": "AI/LLM",
+  "summary": "Bộ định tuyến ngữ nghĩa sử dụng Mixture-of-Models để phân phối yêu cầu inference LLM trên nhiều mô hình một cách linh hoạt, tối ưu hóa hiệu suất và áp dụng guardrails, tích hợp dễ dàng với Kubernetes và VLLM.",
+  "usecases": [
+    "Phân phối yêu cầu inference LLM trên nhiều mô hình để cân bằng tải và giảm chi phí.",
+    "Áp dụng các quy tắc guardrail động để lọc đầu ra không mong muốn dựa trên ngữ cảnh.",
+    "Chọn mô hình phù hợp dựa trên đặc điểm ngữ nghĩa của truy vấn người dùng để nâng cao chất lượng phản hồi."
+  ],
+  "ideas": [
+    "Kết hợp semantic-router với hệ thống caching để tăng tốc độ phản hồi cho các truy vấn phổ biến.",
+    "Sử dụng router như một API gateway cho các dịch vụ AI đa mô hình trong môi trường production.",
+    "Tích hợp router với hệ thống giám sát để ghi lại và phân tích mẫu sử dụng mô hình theo thời gian thực."
+  ],
+  "stars": 5980,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "mixture-of-models",
+    "semantic-router",
+    "vllm",
+    "ai-gateway",
+    "kubernetes",
+    "llmrouter",
+    "llm",
+    "guardrails",
+    "inference",
+    "pytorch",
+    "transformer"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-29T22:00:08.527Z"
+}

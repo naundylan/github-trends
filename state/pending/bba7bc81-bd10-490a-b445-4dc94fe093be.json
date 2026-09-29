@@ -1,0 +1,38 @@
+{
+  "id": "bba7bc81-bd10-490a-b445-4dc94fe093be",
+  "repo": "keploy/keploy",
+  "url": "https://github.com/keploy/keploy",
+  "category": "Testing/QA",
+  "summary": "Nền tảng mã nguồn mở tạo môi trường sandbox sản xuất an toàn, cô lập để thử nghiệm API, tích hợp và E2E, hỗ trợ tự động hóa kiểm thử, tạo dữ liệu giả lập và tích hợp AI để đảm bảo chất lượng mã.",
+  "usecases": [
+    "Thử nghiệm API và tích hợp trong môi trường giống production mà không ảnh hưởng đến dữ liệu thực.",
+    "Tự động hóa quy trình kiểm thử end-to-end trong CI/CD để phát hiện sớm lỗi.",
+    "Tạo dữ liệu giả lập và mô phỏng dịch vụ phụ thuộc để kiểm tra tính ổn định của ứng dụng."
+  ],
+  "ideas": [
+    "Tích hợp keploy với các công cụ quan sát (ví dụ: Prometheus, Grafana) để theo dõi hiệu suất kiểm thử.",
+    "Sử dụng keploy để tạo bộ kiểm thử tự động cho các dịch vụ vi mô mới trong quá trình phát triển.",
+    "Kết hợp keploy với hệ thống quản lý cấu hình để ghi lại và tái hiện lại môi trường test một cách nhất quán."
+  ],
+  "stars": 18508,
+  "starsToday": 24,
+  "language": "Go",
+  "topics": [
+    "testing",
+    "test-automation",
+    "api-testing",
+    "testing-tools",
+    "test-automation-framework",
+    "test-generation",
+    "testing-library",
+    "mock",
+    "mock-data-generator",
+    "mock-framework",
+    "agentic-ai",
+    "ai-testing-tool",
+    "testing-tool",
+    "code-quality"
+  ],
+  "notePath": "notes/Testing-QA.md",
+  "createdAt": "2026-09-29T22:00:08.527Z"
+}

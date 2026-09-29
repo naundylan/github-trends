@@ -1,0 +1,23 @@
+{
+  "id": "2f91fbfa-5408-4e7e-928a-11832acb8269",
+  "repo": "rakyll/hey",
+  "url": "https://github.com/rakyll/hey",
+  "category": "CLI Tool",
+  "summary": "Công cụ tạo tải HTTP dòng lệnh, thay thế cho ApacheBench (ab), viết bằng Go, cho phép đo hiệu suất API và web server.",
+  "usecases": [
+    "Kiểm tra tải API REST",
+    "Đo thời gian phản hồi của trang web dưới tải đồng thời",
+    "Tích hợp vào pipeline CI để giám sát hiệu suất"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống cảnh báo để tự động mở ticket khi latency vượt ngưỡng",
+    "Phát triển plugin Grafana để visualize kết quả hey",
+    "Tạo bản đồ tải phân tán bằng cách chạy nhiều agent hey"
+  ],
+  "stars": 20454,
+  "starsToday": 31,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-29T22:00:08.527Z"
+}

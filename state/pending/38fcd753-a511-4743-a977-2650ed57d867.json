@@ -1,0 +1,29 @@
+{
+  "id": "38fcd753-a511-4743-a977-2650ed57d867",
+  "repo": "kubernetes-sigs/agent-sandbox",
+  "url": "https://github.com/kubernetes-sigs/agent-sandbox",
+  "category": "AI Agent/Automation",
+  "summary": "Agent-sandbox cung cấp quản lý dễ dàng cho các workloads izolasi, có trạng thái và singleton, rất phù hợp cho AI agent runtimes và reinforcement learning (RL).",
+  "usecases": [
+    "Chạy AI agents với môi trường izolated và duy nhất để tránh xung đột trạng thái.",
+    "Thử nghiệm reinforcement learning với sandbox tạm thời, dễ dàng reset và theo dõi.",
+    "Triển khai workloads có trạng thái trong Kubernetes một cách an toàn và kiểm soát."
+  ],
+  "ideas": [
+    "Kết hợp với các framework AI như LangChain để tạo ra các agent có khả năng quản lý tài nguyên tự động.",
+    "Sử dụng cho các môi trường RL training có tính mở rộng (scale-out) trên Kubernetes cluster.",
+    "Tạo ra một platform quản lý sandbox cá nhân cho developers test code AI an toàn."
+  ],
+  "stars": 4086,
+  "starsToday": 27,
+  "language": "Go",
+  "topics": [
+    "kubernetes",
+    "agent",
+    "ai",
+    "rl",
+    "sandbox"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-29T22:00:08.527Z"
+}
