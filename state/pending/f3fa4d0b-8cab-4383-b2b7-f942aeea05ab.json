@@ -1,0 +1,22 @@
+{
+  "id": "f3fa4d0b-8cab-4383-b2b7-f942aeea05ab",
+  "repo": "fish2018/pansou",
+  "url": "https://github.com/fish2018/pansou",
+  "category": "API/GraphQL",
+  "summary": "Dịch vụ tìm kiếm tài nguyên đám mây hiệu suất cao bằng Go, hỗ trợ tìm kiếm đa kênh Telegram và plugin, tích hợp Docker dễ triển khai.",
+  "usecases": [
+    "Tìm kiếm tài nguyên mạng chia sẻ qua Telegram",
+    "Xây dựng công cụ tìm kiếm file đám mây cá nhân",
+    "Hệ thống tìm kiếm phân tán với nhiều nguồn dữ liệu"
+  ],
+  "ideas": [
+    "Tích hợp AI phân loại và tóm tắt nội dung file tìm được",
+    "Kết hợp với hệ thống download tự động và quản lý tài nguyên"
+  ],
+  "stars": 14738,
+  "starsToday": 15,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-09-29T09:37:45.338Z"
+}

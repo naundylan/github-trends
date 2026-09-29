@@ -1,0 +1,30 @@
+{
+  "id": "ac1c8c25-e0d9-4147-b9ee-81332617c93f",
+  "repo": "agent0ai/agent-zero",
+  "url": "https://github.com/agent0ai/agent-zero",
+  "category": "AI Agent/Automation",
+  "summary": "Agent Zero là framework AI cho phép tạo các ứng dụng tự hành và trợ lý thông minh, hỗ trợ tự động hóa tác vụ trên môi trường Linux.",
+  "usecases": [
+    "Tự động hóa báo cáo định kỳ và quản lý lịch trình cho các dự án phức tạp.",
+    "Xây dựng trợ lý AI có thể thực thi lệnh hệ thống và xử lý dữ liệu theo yêu cầu.",
+    "Phát triển hệ thống giám sát và bảo trì hạ tầng tự động cho DevOps."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tạo ra các agent có khả năng tự học và điều chỉnh chiến lược dựa trên kết quả thực tế.",
+    "Áp dụng cho các trường hợp AI trong bảo mật mạng, tự động phát hiện và phản ứng mối đe dọa.",
+    "Xây dựng ecosystem agent cho phép các module độc lập giao tiếp và giao dịch giữa nhau."
+  ],
+  "stars": 19341,
+  "starsToday": 18,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "assistant",
+    "autonomous",
+    "linux",
+    "zero"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-29T09:37:45.338Z"
+}

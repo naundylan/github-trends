@@ -1,0 +1,30 @@
+{
+  "id": "dacfea3f-d086-4b42-a7f9-6d30efefbe02",
+  "repo": "fishjar/kiss-translator",
+  "url": "https://github.com/fishjar/kiss-translator",
+  "category": "Developer Tool",
+  "summary": "Một tiện ích trình duyệt mở nguồn đơn giản cho phép dịch song ngữ (bilingual) trực tiếp trên trang web, hỗ trợ cả extension và userscript.",
+  "usecases": [
+    "Đọc tài liệu kỹ thuật tiếng Anh với bản dịch tiếng Việt song song ngay trên trang",
+    "Học ngôn ngữ ngoại ngữ bằng cách so sánh văn bản gốc và bản dịch real-time",
+    "Nghiên cứu tài liệu nước ngoài mà không cần chuyển tab sang Google Translate"
+  ],
+  "ideas": [
+    "Tích hợp vào quy trình code review để hiểu nhanh comment/documentation tiếng Anh",
+    "Kết hợp với hệ thống quản lý kiến thức cá nhân (Obsidian/Notion) để lưu cặp câu song ngữ",
+    "Mở rộng thành công cụ dịch thuật cho phụ đề video học tập trực tuyến"
+  ],
+  "stars": 12683,
+  "starsToday": 19,
+  "language": "JavaScript",
+  "topics": [
+    "extension",
+    "translation",
+    "translator",
+    "translate",
+    "userscripts",
+    "userscript"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-29T09:37:45.338Z"
+}

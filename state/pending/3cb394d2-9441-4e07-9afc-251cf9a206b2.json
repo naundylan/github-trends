@@ -1,0 +1,37 @@
+{
+  "id": "3cb394d2-9441-4e07-9afc-251cf9a206b2",
+  "repo": "AminMGMT/BackPack",
+  "url": "https://github.com/AminMGMT/BackPack",
+  "category": "Networking",
+  "summary": "Một engine tunnel viết bằng Go cao performance, thiết kế cho các cấu hình kết nối edge ⇄ origin server, hỗ trợ tunneling TCP/UDP qua WebSocket/KCP cho các setup VPN hoặc reverse proxy.",
+  "usecases": [
+    "Tạo kết nối reverse tunnel an toàn giữa server edge và origin server nằm sau NAT/firewall",
+    "Hỗ trợ cho ứng dụng IoT cần tunnel UDP qua mạng không ổn định",
+    "Thay thế VPN truyền thống cho microservices cần communication giữa các zone"
+  ],
+  "ideas": [
+    "Kết hợp với WireGuard để tạo tunnel đa protocol",
+    "Deploy làm agent trên các device edge để collect và forward data về central server",
+    "Sử dụng cho game server relay hoặc real-time data streaming giữa edge và cloud"
+  ],
+  "stars": 403,
+  "starsToday": 13,
+  "language": "Go",
+  "topics": [
+    "backpack",
+    "kcp",
+    "reverse-tunnel",
+    "tcp",
+    "tunnel",
+    "udp",
+    "vpn",
+    "websocket",
+    "ip-spoof",
+    "ip-spoofing",
+    "ip-spoofing-tunnel",
+    "spoof",
+    "tunneling"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-29T09:37:45.338Z"
+}

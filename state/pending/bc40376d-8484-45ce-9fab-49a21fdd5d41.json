@@ -1,0 +1,27 @@
+{
+  "id": "bc40376d-8484-45ce-9fab-49a21fdd5d41",
+  "repo": "sveltejs/svelte",
+  "url": "https://github.com/sveltejs/svelte",
+  "category": "Web Framework",
+  "summary": "Framework web hiện đại dựa trên compiler, biên dịch component thành vanilla JS tối ưu tại build time thay vì dùng virtual DOM tại runtime.",
+  "usecases": [
+    "Xây dựng ứng dụng web hiệu năng cao với bundle size nhỏ cho mobile-first",
+    "Phát triển dashboard real-time, SPA phức tạp với DX đơn giản, ít boilerplate",
+    "Tạo component library chia sẻ đa framework nhờ output chuẩn web components"
+  ],
+  "ideas": [
+    "Kết hợp với SvelteKit để full-stack type-safe end-to-end (shared types client/server)",
+    "Dùng Svelte 5 runes để xây dựng state management reactive không cần store bên ngoài",
+    "Tích hợp WebAssembly (Rust/Go) cho các tác vụ tính toán nặng trong component Svelte"
+  ],
+  "stars": 88234,
+  "starsToday": 18,
+  "language": "JavaScript",
+  "topics": [
+    "template",
+    "ui",
+    "compiler"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-09-29T09:37:45.338Z"
+}

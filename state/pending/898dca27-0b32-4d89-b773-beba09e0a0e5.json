@@ -1,0 +1,44 @@
+{
+  "id": "898dca27-0b32-4d89-b773-beba09e0a0e5",
+  "repo": "akiralereal/iptv",
+  "url": "https://github.com/akiralereal/iptv",
+  "category": "Web Frontend",
+  "summary": "Hệ thống IPTV tự-hosting cung cấp hơn 800 kênh phát live ổn định, kèm giao diện GUI quản lý, hỗ trợ Docker Compose và Node.js, tích hợp EPG và khả năng抓取 tùy chỉnh.",
+  "usecases": [
+    "Quản lý và phân phối kênh IPTV cho mạng nội gia đình hoặc NAS",
+    "Cung cấp giao diện web để theo dõi live TV với EPG chương trình",
+    "Tích hợp nguồn stream tùy chỉnh và tự động cập nhật playlist"
+  ],
+  "ideas": [
+    "Kết hợp với Home Assistant để hiển thị kênh IPTV trong giao diện nhà thông minh",
+    "Phát triển plugin cho trình duyệt để phát trực tiếp từ danh sách playlist",
+    "Tạo dashboard theo dõi trạng thái stream và thời gian hoạt động kênh"
+  ],
+  "stars": 951,
+  "starsToday": 20,
+  "language": "JavaScript",
+  "topics": [
+    "iptv",
+    "iptv-channels",
+    "iptv-free",
+    "iptv-links",
+    "iptv-m3u",
+    "iptv-m3u8",
+    "iptv-playlist",
+    "bilibili",
+    "bilibili-live",
+    "migu",
+    "epg",
+    "live",
+    "live-tv",
+    "livetv",
+    "m3u",
+    "m3u8",
+    "nas",
+    "cctv",
+    "iptv-live",
+    "yangshipin"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-29T09:37:45.338Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "6899e86b-9a33-4cde-8ba1-b679dff5ee3f",
+  "repo": "daeuniverse/dae",
+  "url": "https://github.com/daeuniverse/dae",
+  "category": "Networking",
+  "summary": "Dự án sử dụng eBPF để tạo giải pháp proxy trực tiếp cao performance cho Linux, cho phép định tuyến chính sách và quản lý traffic tại cấp kernel với latency thấp.",
+  "usecases": [
+    "Transparent proxying for enterprise networks without client configuration",
+    "SD-WAN traffic optimization and policy-based routing",
+    "Secure traffic forwarding for Shadowsocks/V2Ray with kernel-level performance"
+  ],
+  "ideas": [
+    "Kết hợp với firewall eBPF để tạo giải pháp security toàn bộ mạng",
+    "Deploy làm sidecar trong Kubernetes để traffic routing transparently",
+    "Sử dụng cho mesh networking giữa các edge nodes trong môi trường offline/remote"
+  ],
+  "stars": 6259,
+  "starsToday": 13,
+  "language": "Go",
+  "topics": [
+    "ebpf",
+    "transparent-proxy",
+    "dae",
+    "golang",
+    "policy-routing",
+    "sdwan",
+    "shadowsocks",
+    "v2ray"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-09-29T09:37:45.338Z"
+}

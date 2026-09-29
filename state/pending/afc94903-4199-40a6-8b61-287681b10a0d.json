@@ -1,0 +1,26 @@
+{
+  "id": "afc94903-4199-40a6-8b61-287681b10a0d",
+  "repo": "mealie-recipes/mealie",
+  "url": "https://github.com/mealie-recipes/mealie",
+  "category": "Web Frontend",
+  "summary": "Ứng dụng quản lý công thức nấu ăn và lập kế hoạch bữa ăn tự lưu trữ, tích hợp frontend Vue reactive và backend REST API bằng Python.",
+  "usecases": [
+    "Quản lý và lưu trữ công thức nấu ăn gia đình",
+    "Lập kế hoạch bữa ăn hàng tuần tự động",
+    "Nhập công thức từ URL web tự động"
+  ],
+  "ideas": [
+    "Tích hợp AI gợi ý công thức theo nguyên liệu có sẵn",
+    "Kết hợp với ứng dụng IoT nhà thông minh để lên kế hoạch nấu ăn"
+  ],
+  "stars": 13374,
+  "starsToday": 17,
+  "language": "Python",
+  "topics": [
+    "meal-plans",
+    "self-hosted",
+    "recipe-manager"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-29T09:37:45.338Z"
+}

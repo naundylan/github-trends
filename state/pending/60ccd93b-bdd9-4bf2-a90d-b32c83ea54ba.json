@@ -1,0 +1,44 @@
+{
+  "id": "60ccd93b-bdd9-4bf2-a90d-b32c83ea54ba",
+  "repo": "gitleaks/gitleaks",
+  "url": "https://github.com/gitleaks/gitleaks",
+  "category": "Security/Pentest",
+  "summary": "Công cụ mã nguồn mở quét mật khẩu bí mật, khóa API và dữ liệu nhạy cảm trong lịch sử git, hỗ trợ tích hợp CI/CD cho DevSecOps.",
+  "usecases": [
+    "Quét mã nguồn để phát hiện mật khẩu và khóa API bị rò rỉ trước khi deploy",
+    "Tích hợp vào pipeline CI/CD để kiểm tra an ninh liên tục",
+    "Giám sát repository công khai để ngăn chặn dữ liệu nhạy cảm bị mở放"
+  ],
+  "ideas": [
+    "Tích hợp với LLM để phân loại và đánh giá mức độ nguy hiểm của bí mật tìm được",
+    "Tự động tạo báo cáo an ninh định kỳ cho các tổ chức phát triển phần mềm",
+    "Sử dụng làm middleware bảo mật cho các repository đa nền tảng trong môi trường đa đám mây"
+  ],
+  "stars": 29546,
+  "starsToday": 20,
+  "language": "Go",
+  "topics": [
+    "security",
+    "security-tools",
+    "git",
+    "golang",
+    "go",
+    "secret",
+    "gitleaks",
+    "devsecops",
+    "hacktoberfest",
+    "ci-cd",
+    "cicd",
+    "cli",
+    "data-loss-prevention",
+    "dlp",
+    "open-source",
+    "ai-powered",
+    "llm",
+    "llm-inference",
+    "llm-training",
+    "nhi"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-29T09:37:45.338Z"
+}
