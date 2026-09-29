@@ -1,0 +1,35 @@
+{
+  "id": "4daf1ad2-3b18-4d2d-b113-54ec8809164d",
+  "repo": "Billionmail/BillionMail",
+  "url": "https://github.com/Billionmail/BillionMail",
+  "category": "Other",
+  "summary": "BillionMail là một mail server, hệ thống newsletter và email marketing mã nguồn mở, cho phép tự hosting hoàn toàn và tiết kiệm chi phí hàng tháng.",
+  "usecases": [
+    "Tự hosting mail server cho doanh nghiệp",
+    "Quản lý và gửi newsletter",
+    "Email marketing tựhosted"
+  ],
+  "ideas": [
+    "Tích hợp với CRM để gửi email cá nhân hóa",
+    "Sử dụng trong pipeline CI/CD để gửi thông báo",
+    "Kết hợp với hệ thống phân tích log để phát hiện spam"
+  ],
+  "stars": 15735,
+  "starsToday": 55,
+  "language": "Go",
+  "topics": [
+    "email-marketing",
+    "mail",
+    "mailserver",
+    "email",
+    "server",
+    "smtp",
+    "dovecot",
+    "postfix",
+    "rspamd",
+    "newsletter",
+    "newsletters"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-29T01:01:06.822Z"
+}

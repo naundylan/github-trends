@@ -1,0 +1,33 @@
+{
+  "id": "3d64ae42-61d7-4b9c-8b60-59b6cea0705d",
+  "repo": "denisidoro/navi",
+  "url": "https://github.com/denisidoro/navi",
+  "category": "CLI Tool",
+  "summary": "Navi là một công cụ cheatsheet tương tác cho dòng lệnh, giúp người dùng dễ dàng truy cập các lệnh và đoạn mã một cách nhanh chóng.",
+  "usecases": [
+    "Dùng để học các lệnh shell một cách hiệu quả.",
+    "Tăng tốc độ làm việc với terminal bằng cách xem cheatsheet trực quan.",
+    "Hỗ trợ phát triển phần mềm bằng cách cung cấp các đoạn mã mẫu."
+  ],
+  "ideas": [
+    "Kết hợp với AI để đề xuất lệnh dựa trên ngữ cảnh.",
+    "Tích hợp vào IDE để hiển thị cheatsheet trực tiếp.",
+    "Tạo cheatsheet cá nhân hóa cho các dự án cụ thể."
+  ],
+  "stars": 17679,
+  "starsToday": 22,
+  "language": "Rust",
+  "topics": [
+    "command-line",
+    "cheatsheets",
+    "terminal",
+    "shell",
+    "snippets",
+    "rust",
+    "bash",
+    "snippet",
+    "cli"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-29T01:01:06.823Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "e42fa63e-51ad-4d23-b3a5-0434bd513bf6",
+  "repo": "Axorax/awesome-free-apps",
+  "url": "https://github.com/Axorax/awesome-free-apps",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách tổng hợp các ứng dụng miễn phí tốt nhất cho PC và thiết bị di động, bao gồm các ứng dụng cho Linux, macOS, Windows, Android và iOS.",
+  "usecases": [
+    "Tìm kiếm và khuyến nghị các ứng dụng miễn phí chất lượng cho cá nhân và doanh nghiệp.",
+    "Giúp người dùng chuyển đổi từ phần mềm thương mại sang miễn phí.",
+    "Tài nguyên cho nhà phát triển tìm các công cụ hỗ trợ phát triển và thiết kế."
+  ],
+  "ideas": [
+    "Phát triển web app tương tác để lọc và tìm kiếm ứng dụng theo danh mục và hệ điều hành.",
+    "Thêm tính năng đánh giá và bình luận từ cộng đồng cho từng ứng dụng.",
+    "Tích hợp với extension trình duyệt để đề xuất ứng dụng miễn phí phù hợp khi dùng máy tính."
+  ],
+  "stars": 7783,
+  "starsToday": 23,
+  "language": "JavaScript",
+  "topics": [
+    "awesome",
+    "awesome-list",
+    "free-apps",
+    "linux",
+    "macos",
+    "windows",
+    "microsoft",
+    "android",
+    "ios",
+    "mobile"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-29T01:01:06.823Z"
+}

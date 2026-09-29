@@ -1,0 +1,23 @@
+{
+  "id": "496cf943-ba2e-454d-a259-218c2ed3ed90",
+  "repo": "huilang-me/CF-Server-Monitor",
+  "url": "https://github.com/huilang-me/CF-Server-Monitor",
+  "category": "Developer Tool",
+  "summary": "Hệ thống giám sát đa máy chủ miễn phí dựa trên Cloudflare Workers, D1 và Durable Objects, hỗ trợ theo dõi thời gian thực, cảnh báo khi offline, thông báo hết hạn, xem dữ liệu lịch sử, theo dõi độ trễ và hiển thị bản đồ. Tương thích với hầu hết các hệ điều hành bao gồm Linux, Alpine, OpenWrt, macOS, DSM, fnOS và Windows.",
+  "usecases": [
+    "Giám sát hiệu suất và trạng thái máy chủ trong môi trường sản xuất.",
+    "Theo dõi độ trễ mạng và bản đồ vị trí cho các server phân tán.",
+    "Nhận cảnh báo về tình trạng server và thông báo khi sắp hết hạn dịch vụ."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống cảnh báo qua Telegram/Discord cho các nhà quản trị hệ thống.",
+    "Phát triển plugin cho các panel quản lý như Ajenti hoặc Ajenti V.",
+    "Sử dụng dữ liệu histórico để dự đoán tải tài nguyên và tự động scale."
+  ],
+  "stars": 2302,
+  "starsToday": 25,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-29T01:01:06.823Z"
+}

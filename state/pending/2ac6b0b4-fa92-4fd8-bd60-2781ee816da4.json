@@ -1,0 +1,30 @@
+{
+  "id": "2ac6b0b4-fa92-4fd8-bd60-2781ee816da4",
+  "repo": "bevyengine/bevy",
+  "url": "https://github.com/bevyengine/bevy",
+  "category": "Game Engine",
+  "summary": "Một engine game đơn giản và dựa trên dữ liệu viết bằng Rust, cho phép phát triển game 2D/3D nhanh với ít boilerplate.",
+  "usecases": [
+    "Rapid prototyping and development of indie 2D/3D games.",
+    "Educational purposes for learning game development with Rust.",
+    "Creating cross-platform games without engine licensing fees."
+  ],
+  "ideas": [
+    "Build an ECS-based game framework for educational tutorials.",
+    "Integrate with WebGPU for browser-based Rust games.",
+    "Develop a visual editor plugin for level design within the engine."
+  ],
+  "stars": 48450,
+  "starsToday": 22,
+  "language": "Rust",
+  "topics": [
+    "bevy",
+    "gamedev",
+    "game-engine",
+    "open-source",
+    "rust",
+    "game-development"
+  ],
+  "notePath": "notes/Game-Engine.md",
+  "createdAt": "2026-09-29T01:01:06.823Z"
+}

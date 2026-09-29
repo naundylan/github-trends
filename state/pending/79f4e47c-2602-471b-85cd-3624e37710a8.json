@@ -1,0 +1,32 @@
+{
+  "id": "79f4e47c-2602-471b-85cd-3624e37710a8",
+  "repo": "samugit83/redamon",
+  "url": "https://github.com/samugit83/redamon",
+  "category": "Other",
+  "summary": "An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention.",
+  "usecases": [
+    "Khám phá và đánh giá samugit83/redamon cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 2749,
+  "starsToday": 84,
+  "language": "Python",
+  "topics": [
+    "agentic-ai",
+    "cybersecurity",
+    "ethical-hacking",
+    "ethical-hacking-tools",
+    "metasploit",
+    "osint",
+    "penetration-testing",
+    "red-team",
+    "ai",
+    "exploitation"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-09-29T01:01:06.822Z"
+}

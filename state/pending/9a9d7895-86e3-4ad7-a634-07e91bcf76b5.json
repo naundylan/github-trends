@@ -1,0 +1,28 @@
+{
+  "id": "9a9d7895-86e3-4ad7-a634-07e91bcf76b5",
+  "repo": "ffuf/ffuf",
+  "url": "https://github.com/ffuf/ffuf",
+  "category": "Security/Pentest",
+  "summary": "Trình fuzzer web nhanh viết bằng Go, dùng để phát hiện các endpoint ẩn, tham số và lỗ hổng trong ứng dụng web.",
+  "usecases": [
+    "Fuzzing web applications to find hidden routes and parameters.",
+    "Security testing and vulnerability discovery in REST APIs.",
+    "Automated reconnaissance and bug bounty hunting."
+  ],
+  "ideas": [
+    "Integrate with CI/CD pipelines for continuous security testing.",
+    "Combine with other tools for comprehensive web application security scanning.",
+    "Develop custom wordlists for specific target domains."
+  ],
+  "stars": 16767,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "fuzzer",
+    "pentesting",
+    "infosec",
+    "web"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-29T01:01:06.823Z"
+}
