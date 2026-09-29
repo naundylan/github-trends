@@ -1,0 +1,42 @@
+{
+  "id": "9edb6a0c-4beb-4a7f-9430-a05adbd57822",
+  "repo": "timhartmann7/omnyssh",
+  "url": "https://github.com/timhartmann7/omnyssh",
+  "category": "Desktop App",
+  "summary": "Timhartmann7/omnyssh là một client/manager SSH đa nền tảng, cung cấp giao diện GUI và TUI với các tính năng như SFTP, forward port, quản lý khóa và giám sát live metrics, được viết bằng Rust.",
+  "usecases": [
+    "Quản lý các server SSH từ một GUI duy nhất trên macOS, Windows, Linux",
+    "Tải và quản lý file qua SFTP trong cùng một ứng dụng",
+    "Tạo các tunnel SSH nhanh chóng cho các dịch vụ nội bộ"
+  ],
+  "ideas": [
+    "Tích hợp với CI/CD pipeline để thực hiện deployment SSH tự động",
+    "Xây dựng plugin cho VS Code để quản lý SSH tunnel từ trong IDE",
+    "Kết hợp với công cụ monitoring để hiển thị live metrics trong dashboard tổng thể"
+  ],
+  "stars": 1066,
+  "starsToday": 114,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "sftp",
+    "ssh",
+    "ssh-client",
+    "ssh-manager",
+    "terminal",
+    "tui",
+    "cross-platform",
+    "desktop-app",
+    "devops",
+    "gui",
+    "homelab",
+    "port-forwarding",
+    "server-monitoring",
+    "sftp-client",
+    "ssh-tunnel",
+    "sysadmin",
+    "tauri"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-29T17:37:40.451Z"
+}

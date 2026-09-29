@@ -1,0 +1,28 @@
+{
+  "id": "dd92d3d8-c38d-432c-b43b-014d61ec770d",
+  "repo": "oblien/openship",
+  "url": "https://github.com/oblien/openship",
+  "category": "DevOps/CI-CD",
+  "summary": "Nền tảng self-hosted cho phép deploy và quản lý ứng dụng với tự động hóa CI/CD trên môi trường riêng tư.",
+  "usecases": [
+    "Deploy ứng dụng TypeScript lên server own mà không cần external cloud provider",
+    "Quản lý lifecycle services và container trong mạng nội bộ doanh nghiệp",
+    "Tự động hóa pipeline deployment với AI agents cho testing và release"
+  ],
+  "ideas": [
+    "Tự động sửa lỗi và deploy fix dựa trên feedback từ AI agents",
+    "Hỗ trợ multi-node deployment cho edge computing devices từ một lệnh duy nhất",
+    "Plugin cho phép define deployment qua natural language prompts cho non-technical teams"
+  ],
+  "stars": 13697,
+  "starsToday": 436,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "ai",
+    "deployments",
+    "self-hosted"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-09-29T17:37:40.451Z"
+}

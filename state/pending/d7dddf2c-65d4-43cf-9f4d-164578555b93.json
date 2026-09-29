@@ -1,0 +1,23 @@
+{
+  "id": "d7dddf2c-65d4-43cf-9f4d-164578555b93",
+  "repo": "averygan/reclip",
+  "url": "https://github.com/averygan/reclip",
+  "category": "Web Frontend",
+  "summary": "Averygan/reclip là một trình downloader video self‑hosted nhẹ, cho phép tải video từ hầu hết các trang web qua giao diện web sạch sẽ.",
+  "usecases": [
+    "Tải video từ YouTube, TikTok và các nền tảng khác để lưu trữ offline",
+    "Hỗ trợ developer hoặc creator lấy video để chỉnh sửa",
+    "Tự động hóa việc tải video qua API hoặc script cho hệ thống media"
+  ],
+  "ideas": [
+    "Kết hợp với trình duyệt để tự động tải video khi mở trang",
+    "Tạo plugin cho trình duyệt để tải video một cú click",
+    "Sử dụng AI để chọn chất lượng video và lưu trữ tự động"
+  ],
+  "stars": 9932,
+  "starsToday": 114,
+  "language": "HTML",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-29T17:37:40.451Z"
+}

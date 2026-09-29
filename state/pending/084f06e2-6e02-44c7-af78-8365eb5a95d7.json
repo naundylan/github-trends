@@ -1,0 +1,44 @@
+{
+  "id": "084f06e2-6e02-44c7-af78-8365eb5a95d7",
+  "repo": "Gaurav-Gosain/tuios",
+  "url": "https://github.com/Gaurav-Gosain/tuios",
+  "category": "Developer Tool",
+  "summary": "Terminal window manager cho coding agents, cung cấp tiling panes, workspaces bền vững và inbox tập trung cho các agent AI.",
+  "usecases": [
+    "Quản lý nhiều session terminal cho cùng một AI agent mà không mất context sau restart",
+    "Tiling layout cho nhiều project/lô code cùng lúc trên cùng màn hình",
+    "Centralize logs và commands từ các coding agents vào một inbox duy nhất"
+  ],
+  "ideas": [
+    "Tích hợp local LLM để tự động định hướng commands dựa trên context workspace",
+    "Plugin cho VS Code đồng bộ tuios layout với editor session",
+    "Quản lý remote SSH sessions như local workspaces thông qua tuios"
+  ],
+  "stars": 4288,
+  "starsToday": 215,
+  "language": "Go",
+  "topics": [
+    "bubbletea",
+    "charm",
+    "go",
+    "multiplexer",
+    "pty",
+    "terminal",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "golang",
+    "ssh",
+    "terminal-emulator",
+    "terminal-multiplexer",
+    "tiling-window-manager",
+    "tmux-alternative",
+    "tui",
+    "window-manager"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-29T17:37:40.451Z"
+}

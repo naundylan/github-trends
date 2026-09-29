@@ -1,0 +1,42 @@
+{
+  "id": "1a794e79-fc40-47a5-9f4a-90cc80f28e6d",
+  "repo": "bytedance/deer-flow",
+  "url": "https://github.com/bytedance/deer-flow",
+  "category": "AI Agent/Automation",
+  "summary": "Deer-flow là framework mã nguồn mở cho các agent dài hạn, cho phép nghiên cứu, viết code và tạo sản phẩm tự động với các agent phụ, bộ nhớ và các công cụ trong thời gian từ phút đến giờ.",
+  "usecases": [
+    "Tự động hóa nghiên cứu sâu và tạo báo cáo dài hạn.",
+    "Phát triển và triển khai code tự động cho dự án phần mềm.",
+    "Tạo podcast hoặc nội dung đa phương tiện bằng đa dạng agent."
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu vector để agent có thể truy cập kiến thức chuyên sâu.",
+    "Triển khai trên môi trường sandbox an toàn cho việc thực thi code nguy hiểm.",
+    "Xây dựng hệ thống tự động hóa quy trình làm việc (workflow) cho devops nội bộ."
+  ],
+  "stars": 83220,
+  "starsToday": 79,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agentic",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai",
+    "ai-agents",
+    "deep-research",
+    "langchain",
+    "langgraph",
+    "llm",
+    "multi-agent",
+    "nodejs",
+    "podcast",
+    "python",
+    "langmanus",
+    "typescript",
+    "harness",
+    "superagent"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-29T17:37:40.451Z"
+}

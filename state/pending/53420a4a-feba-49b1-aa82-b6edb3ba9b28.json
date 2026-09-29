@@ -1,0 +1,24 @@
+{
+  "id": "53420a4a-feba-49b1-aa82-b6edb3ba9b28",
+  "repo": "cloudflare/vinext",
+  "url": "https://github.com/cloudflare/vinext",
+  "category": "Web Framework",
+  "summary": "Vinext là plugin Vite tái triển bề mặt API của Next.js, cho phép triển khai các route API Next.js trên mọi nền tảng, giúp chuyển dịch từ Next.js đến Vite mượt mà hơn.",
+  "usecases": [
+    "Deploy Next, I need to carefully review the instructions:",
+    "Chỉnh sửa",
+    "Use Vite as a lightweight alternative for full-stack apps with API routes.",
+    "Migrate existing Next.js projects to Vite while preserving API route functionality."
+  ],
+  "ideas": [
+    "Combine with Cloudflare D1 for serverless databases in Vinext apps.",
+    "Build a full-stack framework that auto-generates Vite config from Next.js structure.",
+    "Integrate edge runtime features directly into Vinext API routes."
+  ],
+  "stars": 8970,
+  "starsToday": 91,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-09-29T17:37:40.451Z"
+}
