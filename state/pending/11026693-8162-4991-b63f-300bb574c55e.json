@@ -1,0 +1,44 @@
+{
+  "id": "11026693-8162-4991-b63f-300bb574c55e",
+  "repo": "makeplane/plane",
+  "url": "https://github.com/makeplane/plane",
+  "category": "Developer Tool",
+  "summary": "An open-source alternative to Jira, Linear, Monday, and ClickUp for managing tasks, sprints, docs, and triage.",
+  "usecases": [
+    "Manage project tasks and sprints",
+    "Track issue status and triage",
+    "Generate project reports and dashboards"
+  ],
+  "ideas": [
+    "Build a self-hosted project management platform",
+    "Integrate with code editors for task context",
+    "Build a mobile app to view project status on the go"
+  ],
+  "stars": 60153,
+  "starsToday": 102,
+  "language": "TypeScript",
+  "topics": [
+    "django",
+    "docker",
+    "kanban",
+    "project-management",
+    "python",
+    "react",
+    "jira",
+    "jira-alternative",
+    "linear",
+    "postgresql",
+    "redis",
+    "issue-tracker",
+    "product-management",
+    "work-management",
+    "vite",
+    "boards",
+    "bug-tracker",
+    "gantt",
+    "project-planning",
+    "typescipt"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-30T11:51:00.655Z"
+}

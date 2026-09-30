@@ -1,0 +1,29 @@
+{
+  "id": "808c4603-6e04-44d2-a6e8-23d43e609b4f",
+  "repo": "qbittorrent/search-plugins",
+  "url": "https://github.com/qbittorrent/search-plugins",
+  "category": "Developer Tool",
+  "summary": "Search plugins cho qBittorrent cho phép tìm kiếm và truy xuất nội dung từ nhiều engine trực tiếp, mở rộng tính năng tìm kiếm của client BitTorrent.",
+  "usecases": [
+    "Tìm kiếm và tải torrent theo từ khóa từ nhiều engine tìm kiếm khác nhau cùng lúc.",
+    "Tự động hóa việc tìm nội dung phù hợp với bộ lọc chủ đề mà không cần mở rộng client mặc định.",
+    "Phát triển plugin tùy chỉnh cho nhu cầu tìm kiếm nội dung riêng (ví dụ: tìm anime, phim, phần mềm)."
+  ],
+  "ideas": [
+    "Kết hợp với CLI qBittorrent để tự động tải file dựa trên kết quả tìm kiếm plugin.",
+    "Phát triển hệ thống tìm kiếm đa ngôn ngữ cho plugin, hỗ trợ tìm nội dung quốc tế.",
+    "Tạo marketplace plugin cho qBittorrent tương tự app store, người dùng chia sẻ plugin tìm kiếm."
+  ],
+  "stars": 7030,
+  "starsToday": 174,
+  "language": "Python",
+  "topics": [
+    "python",
+    "search-engine",
+    "plugin",
+    "qbittorrent",
+    "search"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-30T11:51:00.655Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "51103e6d-f077-4c3c-aac7-e7966908c977",
+  "repo": "ComposioHQ/awesome-claude-skills",
+  "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Awesome Claude Skills là một danh sách tổng hợp các kỹ năng, tài nguyên và công cụ dành cho Claude AI, giúp người dùng tùy chỉnh quy trình làm việc tự động hóa.",
+  "usecases": [
+    "Khám phá và tích hợp các kỹ năng Claude để tự động hóa tác vụ phát triển.",
+    "Xây dựng quy trình làm việc tùy chỉnh cho Claude Code và các agent AI.",
+    "Sử dụng làm tài liệu tham khảo để học hỏi các kỹ năng Claude hiệu quả."
+  ],
+  "ideas": [
+    "Tạo bộ lọc kỹ năng theo chủ đề hoặc ngôn ngữ lập trình.",
+    "Xây dựng công cụ đề xuất kỹ năng dựa trên yêu cầu người dùng.",
+    "Kết hợp với các nền tảng MCP để mở rộng khả năng của Claude."
+  ],
+  "stars": 75941,
+  "starsToday": 118,
+  "language": "Python",
+  "topics": [
+    "claude",
+    "claude-code",
+    "agent-skills",
+    "ai-agents",
+    "antigravity",
+    "automation",
+    "codex",
+    "composio",
+    "cursor",
+    "gemini-cli",
+    "mcp",
+    "rube",
+    "saas",
+    "skill",
+    "workflow-automation",
+    "developer-tools",
+    "openai-codex"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-09-30T11:51:00.655Z"
+}

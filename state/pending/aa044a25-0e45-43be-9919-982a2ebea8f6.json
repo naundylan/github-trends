@@ -1,0 +1,43 @@
+{
+  "id": "aa044a25-0e45-43be-9919-982a2ebea8f6",
+  "repo": "HunxByts/GhostTrack",
+  "url": "https://github.com/HunxByts/GhostTrack",
+  "category": "Security/Pentest",
+  "summary": "Công cụ Python dùng để thu thập vị trí địa lý và thông tin số điện thoại, nổi bật trong nghiên cứu OSINT và kiểm bảo an ninh mạng.",
+  "usecases": [
+    "OSINT investigations for tracing phone numbers and IP geolocation",
+    "Cybersecurity pentesting to locate and profile target assets",
+    "Termux-based mobile security research on Android environments"
+  ],
+  "ideas": [
+    "Integrate with threat intelligence platforms for automated alert correlation",
+    "Develop a privacy-conscious dashboard for users to monitor their own digital footprint",
+    "Combine with SMS parsing to detect and flag spam/scam number patterns"
+  ],
+  "stars": 15747,
+  "starsToday": 579,
+  "language": "Python",
+  "topics": [
+    "fyp",
+    "hacking",
+    "hacking-tool",
+    "indonesia",
+    "information",
+    "information-gathering",
+    "ip-geolocation",
+    "linux",
+    "osint",
+    "osint-python",
+    "osint-tool",
+    "phone-number",
+    "python",
+    "python-hacking",
+    "termux",
+    "termux-hacks",
+    "termux-tool",
+    "cybersecurity",
+    "pentesting"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-30T11:51:00.655Z"
+}

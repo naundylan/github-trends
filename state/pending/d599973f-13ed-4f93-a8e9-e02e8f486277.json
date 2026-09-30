@@ -1,0 +1,33 @@
+{
+  "id": "d599973f-13ed-4f93-a8e9-e02e8f486277",
+  "repo": "OpenHands/OpenHands",
+  "url": "https://github.com/OpenHands/OpenHands",
+  "category": "AI/LLM",
+  "summary": "Nền tảng AI-driven development dùng TypeScript, hoạt động như agent để tương tác với LLM (Claude, GPT) và tự động hóa các tác vụ code và phát triển phần mềm.",
+  "usecases": [
+    "Tự động hoàn thành code và tạo PR dựa trên ý cầu.",
+    "Tương tác với CLI để thực hiện tác vụ phát triển phức tạp thông qua lệnh tự nhiên.",
+    "Giúp review code và sửa bug bằng cách gọi LLM."
+  ],
+  "ideas": [
+    "Triển khai một 'developer agent' tự chạy các tác vụ CI/CD, test, deploy.",
+    "Sử dụng làm nền tảng cho IDE extension hỗ trợ code review tự động.",
+    "Kết hợp với nhiều LLM (Claude, GPT, Gemini) để so sánh kết quả và tối ưu hóa."
+  ],
+  "stars": 89596,
+  "starsToday": 127,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "artificial-intelligence",
+    "llm",
+    "chatgpt",
+    "claude-ai",
+    "cli",
+    "developer-tools",
+    "gpt",
+    "openai"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-30T11:51:00.655Z"
+}

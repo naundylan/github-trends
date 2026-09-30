@@ -1,0 +1,35 @@
+{
+  "id": "425d2eab-e0f6-49cb-a6d2-cd31e9d47766",
+  "repo": "yorukot/superfile",
+  "url": "https://github.com/yorukot/superfile",
+  "category": "CLI Tool",
+  "summary": "Superfile là một trình quản lý tệp hiện đại và đẹp mắt trên terminal, được viết bằng Go, cung cấp giao diện người dùng dạng TUI để thao tác tệp nhanh chóng.",
+  "usecases": [
+    "Điều hướng và thao tác tệp nhanh trong terminal mà không cần GUI.",
+    "Thực hiện các tác vụ quản lý tệp hàng loạt qua script.",
+    "Tích hợp vào quy trình làm việc của nhà phát triển sử dụng terminal."
+  ],
+  "ideas": [
+    "Thêm plugin hỗ trợ dịch vụ cloud storage (Google Drive, Dropbox).",
+    "Tích hợp với công cụ tìm kiếm tệp.",
+    "Phát triển phiên bản cho Windows Terminal."
+  ],
+  "stars": 23543,
+  "starsToday": 120,
+  "language": "Go",
+  "topics": [
+    "bubbletea",
+    "cli",
+    "file-manager",
+    "filesystem",
+    "golang",
+    "linux-app",
+    "terminal-app",
+    "tui",
+    "filemanager",
+    "terminal-based",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-30T11:51:00.655Z"
+}

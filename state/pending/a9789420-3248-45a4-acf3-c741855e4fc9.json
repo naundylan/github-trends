@@ -1,0 +1,31 @@
+{
+  "id": "a9789420-3248-45a4-acf3-c741855e4fc9",
+  "repo": "github/spec-kit",
+  "url": "https://github.com/github/spec-kit",
+  "category": "Developer Tool",
+  "summary": "Bộ công cụ Python hỗ trợ phát triển theo hướng Specification-Driven (SDD), tự động hóa tạo spec và tích hợp với các trợ lý AI để tăng hiệu suất phát triển.",
+  "usecases": [
+    "Tự động tạo spec project từ yêu cầu tự nhiên.",
+    "Tích hợp với Copilot/IDE để hỗ trợ phát triển dựa trên spec.",
+    "Thiết lập quy trình SDD mới cho đội ngũ/doanh nghiệp."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để validate spec trước khi merge.",
+    "Tạo template spec cho các loại project khác nhau (web, mobile, API).",
+    "Sử dụng spec làm基础 cho generate documentation tự động."
+  ],
+  "stars": 139496,
+  "starsToday": 170,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "copilot",
+    "development",
+    "engineering",
+    "prd",
+    "spec",
+    "spec-driven"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-30T11:51:00.655Z"
+}

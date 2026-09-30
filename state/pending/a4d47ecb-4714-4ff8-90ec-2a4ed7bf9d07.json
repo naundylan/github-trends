@@ -1,0 +1,23 @@
+{
+  "id": "a4d47ecb-4714-4ff8-90ec-2a4ed7bf9d07",
+  "repo": "colbymchenry/codegraph",
+  "url": "https://github.com/colbymchenry/codegraph",
+  "category": "Developer Tool",
+  "summary": "A pre-indexed code knowledge graph that auto-syncs on code changes, designed for AI coding assistants like Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent. It provides a local, token-efficient way to understand codebases.",
+  "usecases": [
+    "Analyze code structure without full repository cloning",
+    "Generate intelligent code completion suggestions",
+    "Perform automated refactoring or impact analysis"
+  ],
+  "ideas": [
+    "Create a VS Code extension for real-time code understanding",
+    "Build a CLI tool to query code patterns",
+    "Develop a web dashboard to visualize code dependency graphs"
+  ],
+  "stars": 72438,
+  "starsToday": 116,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-30T11:51:00.655Z"
+}

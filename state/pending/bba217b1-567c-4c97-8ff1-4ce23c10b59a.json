@@ -1,0 +1,43 @@
+{
+  "id": "bba217b1-567c-4c97-8ff1-4ce23c10b59a",
+  "repo": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "category": "AI/LLM",
+  "summary": "API TypeScript quét web và trích xuất dữ liệu thành markdown, nổi bật là cung cấp nguồn dữ liệu sẵn cho AI agent và LLM.",
+  "usecases": [
+    "Feeding real-time web data into LLM prompts for up-to-date knowledge retrieval",
+    "Building autonomous AI agents that can research and summarize topics from the web",
+    "Extracting structured data from websites for training machine learning datasets"
+  ],
+  "ideas": [
+    "Create a self-healing RAG pipeline that automatically scrapes and updates knowledge bases",
+    "Develop a browser-automation alternative that bypasses anti-bot measures for academic research",
+    "Combine with vector databases to enable semantic search over live web content"
+  ],
+  "stars": 186882,
+  "starsToday": 579,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "crawler",
+    "markdown",
+    "scraper",
+    "html-to-markdown",
+    "llm",
+    "scraping",
+    "web-crawler",
+    "ai-scraping",
+    "webscraping",
+    "web-scraping",
+    "web-data",
+    "web-data-extraction",
+    "ai-agents",
+    "data-extraction",
+    "ai-crawler",
+    "ai-search",
+    "web-scraper",
+    "web-search"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-30T11:51:00.655Z"
+}
