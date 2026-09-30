@@ -1,0 +1,27 @@
+{
+  "id": "59cffb3e-c8a6-4a76-8f33-79192a4cf0ae",
+  "repo": "ffuf/ffuf",
+  "url": "https://github.com/ffuf/ffuf",
+  "category": "Security/Pentest",
+  "summary": "Fast web fuzzer written in Go, dùng để tìm lỗi bảo mật trên các ứng dụng web thông qua việc gửi các yêu cầu bị sai lệch.",
+  "usecases": [
+    "Tìm lỗi bảo mật trên các trang web bằng cách gửi các yêu cầu bị sai lệch.",
+    "Kiểm tra tính ổn định của ứng dụng web trước khi triển khai.",
+    "Phát hiện các lỗ hổng trong mã nguồn web."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ khác như Burp Suite để tự động hóa quy trình fuzzing.",
+    "Sử dụng để test các API REST có thể bị tấn công."
+  ],
+  "stars": 16780,
+  "starsToday": 20,
+  "language": "Go",
+  "topics": [
+    "fuzzer",
+    "pentesting",
+    "infosec",
+    "web"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-09-30T03:33:29.496Z"
+}

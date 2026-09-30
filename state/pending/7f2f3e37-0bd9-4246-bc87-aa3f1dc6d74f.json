@@ -1,0 +1,42 @@
+{
+  "id": "7f2f3e37-0bd9-4246-bc87-aa3f1dc6d74f",
+  "repo": "timhartmann7/omnyssh",
+  "url": "https://github.com/timhartmann7/omnyssh",
+  "category": "Developer Tool",
+  "summary": "Client và quản lý server SSH nhanh, mở源, có GUI và TUI, hỗ trợ dashboard metrics, tabbed terminal, SFTP, port forwarding, và keys/snippets.",
+  "usecases": [
+    "Quản lý nhiều kết nối SSH một cách dễ dàng trên macOS, Windows và Linux.",
+    "Sử dụng để quản lý server homelab hoặc server doanh nghiệp với giao diện trực quan.",
+    "Chia sẻ keys và snippets giữa các thành viên trong đội để tăng hiệu suất làm việc."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ quản lý infrastructure để tự động thêm server vào danh sách SSH.",
+    "Tích hợp với hệ thống authentication để tăng cường bảo mật kết nối SSH.",
+    "Sử dụng như công cụ đào tạo người mới làm quen với SSH và quản lý server."
+  ],
+  "stars": 1079,
+  "starsToday": 102,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "sftp",
+    "ssh",
+    "ssh-client",
+    "ssh-manager",
+    "terminal",
+    "tui",
+    "cross-platform",
+    "desktop-app",
+    "devops",
+    "gui",
+    "homelab",
+    "port-forwarding",
+    "server-monitoring",
+    "sftp-client",
+    "ssh-tunnel",
+    "sysadmin",
+    "tauri"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-30T03:33:29.496Z"
+}

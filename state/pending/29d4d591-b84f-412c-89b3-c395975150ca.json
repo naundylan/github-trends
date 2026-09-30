@@ -1,0 +1,31 @@
+{
+  "id": "29d4d591-b84f-412c-89b3-c395975150ca",
+  "repo": "livekit/livekit",
+  "url": "https://github.com/livekit/livekit",
+  "category": "AI Agent/Automation",
+  "summary": "Stack thực tế end-to-end cho kết nối giữa con người và AI, cung cấp cơ sở hạ tầng media server WebRTC cho video, voice và giao tiếp AI agent.",
+  "usecases": [
+    "Xây dựng các AI voice agent thực thời tương tác với người dùng qua lời nói tự nhiên.",
+    "Triển khai ứng dụng video conferencing và streaming可扩展 với kiến trúc SFU.",
+    "Tích hợp cộng tác con người-AI trong y tế từ xa, giáo dục hoặc các nền tảng media tương tác."
+  ],
+  "ideas": [
+    "Kết hợp với OpenAI Realtime API hoặc tương tự để có AI assistants đa phương thức trong các cuộc gọi video trực tiếp.",
+    "Sử dụng làm media backend cho game streaming qua trình duyệt hoặc các sự kiện live tương tác.",
+    "Triển khai trên các mạng edge (Cloudflare, Fastly) để giảm latency cho giao tiếp realtime toàn cầu."
+  ],
+  "stars": 21192,
+  "starsToday": 23,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "webrtc",
+    "sfu",
+    "media-server",
+    "video",
+    "voice",
+    "voice-ai"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-30T03:33:29.496Z"
+}
