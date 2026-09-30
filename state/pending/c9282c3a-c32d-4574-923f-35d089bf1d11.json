@@ -1,0 +1,44 @@
+{
+  "id": "c9282c3a-c32d-4574-923f-35d089bf1d11",
+  "repo": "ifixai-ai/iFixAi",
+  "url": "https://github.com/ifixai-ai/iFixAi",
+  "category": "AI/LLM",
+  "summary": "Dự án cung cấp công cụ độc lập để kiểm tra và đánh giá các AI Agent, giúp xác định xem chúng có đang thực hiện đúng nhiệm vụ hay không trong vòng dưới 120 giây.",
+  "usecases": [
+    "Đánh giá hiệu suất và độ tin cậy của các AI Agent trong môi trường sản xuất",
+    "Kiểm tra tính trung thực và an toàn của các mô hình AI trước khi triển khai",
+    "Xác minh rằng AI Agent đang tuân thủ các quy tắc và hướng dẫn đã định nghĩa"
+  ],
+  "ideas": [
+    "Tích hợp công cụ này vào hệ thống quản lý rủi ro doanh nghiệp để giám sát liên tục",
+    "Sử dụng iFixAi như một phần của nghiên cứu về AI alignment và responsible AI",
+    "Phát triển phiên bản tự động hóa để kiểm tra hàng loạt AI Agent trong quy trình phát triển"
+  ],
+  "stars": 17341,
+  "starsToday": 250,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "diagnostic-tool",
+    "agent-evaluation",
+    "ai-alignment",
+    "ai-evaluation",
+    "ai-governance",
+    "ai-safety",
+    "cli",
+    "eu-ai-act",
+    "hallucination-detection",
+    "iso-42001",
+    "llm-evaluation",
+    "llm-security",
+    "nist-ai-rmf",
+    "owasp-llm",
+    "prompt-injection",
+    "python",
+    "responsible-ai",
+    "risk-management",
+    "risk-assessment"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-30T21:59:06.469Z"
+}

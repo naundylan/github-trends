@@ -1,0 +1,29 @@
+{
+  "id": "b118cb24-3fcb-4745-bf9f-a07bbd8bde15",
+  "repo": "qbittorrent/search-plugins",
+  "url": "https://github.com/qbittorrent/search-plugins",
+  "category": "CLI Tool",
+  "summary": "Dự án cung cấp các plugin tìm kiếm bổ sung cho tính năng tìm kiếm của qBittorrent, giúp người dùng tìm kiếm file torrent nhanh chóng và hiệu quả hơn.",
+  "usecases": [
+    "Tìm kiếm file torrent trên mạng với tốc độ cao và chính xác",
+    "Tối ưu hóa trải nghiệm người dùng khi tìm kiếm và quản lý thư mục torrent",
+    "Hỗ trợ việc lọc và lọc đa chiều các tài nguyên tải xuống"
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng chia sẻ dữ liệu khác để mở rộng nguồn tìm kiếm",
+    "Thêm khả năng lọc theo nhiều tiêu chí phức tạp như dung lượng, loại file, trạng thái tải",
+    "Xây dựng giao diện trực quan cho người dùng mới bắt đầu sử dụng qBittorrent"
+  ],
+  "stars": 7051,
+  "starsToday": 174,
+  "language": "Python",
+  "topics": [
+    "python",
+    "search-engine",
+    "plugin",
+    "qbittorrent",
+    "search"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-30T21:59:06.469Z"
+}

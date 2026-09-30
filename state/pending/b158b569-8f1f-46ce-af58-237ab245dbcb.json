@@ -1,0 +1,35 @@
+{
+  "id": "b158b569-8f1f-46ce-af58-237ab245dbcb",
+  "repo": "yorukot/superfile",
+  "url": "https://github.com/yorukot/superfile",
+  "category": "CLI Tool",
+  "summary": "một file manager hiện đại và bắt mắt cho terminal, viết bằng Go sử dụng bubbletea, cung cấp giao diện TUI phong phú cho quản lý file trên Linux/màn hình lệnh",
+  "usecases": [
+    "thay thế cho các lệnh ls, find, mc (Midnight Commander) với giao diện trực quan và tương tác mượt mà hơn",
+    "quản lý file và thư mục trong các session SSH hoặc môi trường có hạn chế giao diện đồ họa nhưng cần năng suất cao",
+    "tích hợp vào các script automation hoặc workflow DevOps để thao tác file dựa trên lựa chọn TUI"
+  ],
+  "ideas": [
+    "thêm hỗ trợ kết nối remote (SFTP/SSH) trực tiếp trong giao diện TUI để quản lý file trên server từ local",
+    "tích hợp preview file nội dung (code, log, markdown) khi di chuyển cursor, giống như các file manager hiện đại",
+    "phát triển plugin cho tmux hoặc terminal để superfile có thể hoạt động như một pane quản lý file bên trong terminal session"
+  ],
+  "stars": 23573,
+  "starsToday": 120,
+  "language": "Go",
+  "topics": [
+    "bubbletea",
+    "cli",
+    "file-manager",
+    "filesystem",
+    "golang",
+    "linux-app",
+    "terminal-app",
+    "tui",
+    "filemanager",
+    "terminal-based",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-09-30T21:59:06.469Z"
+}

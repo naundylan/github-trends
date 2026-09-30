@@ -1,0 +1,30 @@
+{
+  "id": "0121d39d-1aad-47ea-bfe7-d66d4bcb037a",
+  "repo": "VectifyAI/OpenKB",
+  "url": "https://github.com/VectifyAI/OpenKB",
+  "category": "AI/LLM",
+  "summary": "Hệ thống knowledge base mã nguồn mở sử dụng LLM và RAG, cho phép xây dựng cơ sở tri thức thông minh với khả năng truy xuất và sinh câu trả lời tự động từ tài liệu.",
+  "usecases": [
+    "Xây dựng hệ thống hỏi đáp tự động cho doanh nghiệp dựa trên tài liệu nội bộ",
+    "Tạo chatbot hỗ trợ khách hàng thông minh với khả năng truy xuất thông tin chính xác",
+    "Quản lý tri thức tổ chức với tìm kiếm ngữ nghĩa và tóm tắt tự động"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống ERP/CRM nội bộ để tạo knowledge base thông minh cho doanh nghiệp",
+    "Xây dựng phiên bản đa ngôn ngữ hỗ trợ tiếng Việt cho các tổ chức tại Việt Nam",
+    "Tích hợp với hệ thống giám sát để tự động cập nhật knowledge base từ log sự cố"
+  ],
+  "stars": 4678,
+  "starsToday": 46,
+  "language": "Python",
+  "topics": [
+    "knowledge-base",
+    "rag",
+    "ai",
+    "llm",
+    "agents",
+    "retrieval"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-30T21:59:06.469Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "c140ddc8-dbbd-4280-b4f1-2ff51b78e317",
+  "repo": "WesselKroos/youtube-ambilight",
+  "url": "https://github.com/WesselKroos/youtube-ambilight",
+  "category": "Web Frontend",
+  "summary": "Tiện mở rộng trình duyệt thêm ánh sáng xung quanh cho video YouTube, điều chỉnh theo màu sắc trên màn hình để giảm mỏi mắt và tăng trải nghiệm xem.",
+  "usecases": [
+    "Enhance long YouTube viewing sessions by reducing eye fatigue through ambient lighting.",
+    "Create immersive environments for gaming or movie watching syncing with video content.",
+    "Assist creators in visualizing color themes and lighting design while previewing videos."
+  ],
+  "ideas": [
+    "Extend ambient light effects to other streaming platforms like Netflix or Twitch.",
+    "Add user-customizable color palettes and brightness settings per video genre.",
+    "Integrate with smart lighting systems (e.g., Philips Hue) for real-world ambient light synchronization."
+  ],
+  "stars": 229,
+  "starsToday": 39,
+  "language": "JavaScript",
+  "topics": [
+    "ambient-light",
+    "ambilight",
+    "chrome",
+    "chrome-extension",
+    "edge",
+    "edge-extension",
+    "extension",
+    "opera",
+    "opera-extension",
+    "youtube",
+    "firefox-extension",
+    "browser-extension",
+    "extensions",
+    "firefox",
+    "firefox-addon",
+    "webextension"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-09-30T21:59:06.469Z"
+}

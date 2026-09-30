@@ -1,0 +1,29 @@
+{
+  "id": "cbc6e90e-2737-43af-a4cf-a9d4cb6fc8b3",
+  "repo": "bmad-code-org/BMAD-METHOD",
+  "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+  "category": "AI Agent/Automation",
+  "summary": "Phương pháp phát triển phần mềm agile dựa trên AI, cung cấp framework và ngữ cảnh để AI hỗ trợ toàn bộ vòng đời phát triển phần mềm từ yêu cầu đến triển khai.",
+  "usecases": [
+    "Tự động hóa quy trình phát triển phần mềm với AI hỗ trợ viết spec, code, test",
+    "Tạo agent AI chuyên biệt cho từng giai đoạn trong SDLC (yêu cầu, thiết kế, triển khai)",
+    "Áp dụng context engineering để tối ưu hóa tương tác giữa developer và AI assistant"
+  ],
+  "ideas": [
+    "Kết hợp với OpenKB để tạo hệ thống phát triển phần mềm hoàn toàn bằng AI",
+    "Xây dựng plugin IDE tự động áp dụng phương pháp BMAD trong quá trình coding",
+    "Tạo marketplace cho các agent BMAD chuyên biệt theo ngành (fintech, healthtech, v.v.)"
+  ],
+  "stars": 53673,
+  "starsToday": 45,
+  "language": "Python",
+  "topics": [
+    "agile",
+    "ai",
+    "context-engineering",
+    "spec-driven-development",
+    "sdlc"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-30T21:59:06.469Z"
+}

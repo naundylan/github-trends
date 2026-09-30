@@ -1,0 +1,44 @@
+{
+  "id": "49fba6ee-49ce-4323-903c-f9793a476e9c",
+  "repo": "xiufengsun/TokenTracker",
+  "url": "https://github.com/xiufengsun/TokenTracker",
+  "category": "Developer Tool",
+  "summary": "Trình theo dõi token và chi phí AI local-first cho hơn 30 công cụ viết code như Claude Code, Cursor và Gemini, có ứng dụng desktop native và không đọc prompt người dùng.",
+  "usecases": [
+    "Monitor AI token consumption across multiple coding assistants to manage API costs.",
+    "Track usage patterns for individual developers or teams to optimize prompt engineering.",
+    "Maintain privacy-sensitive tracking on local machine without external data transmission."
+  ],
+  "ideas": [
+    "Integrate with encrypted cross-device sync for team collaboration while preserving local-first design.",
+    "Add visual reports linking token usage to specific projects or code changes.",
+    "Combine with energy-saving modes to reduce hardware load during heavy AI sessions."
+  ],
+  "stars": 1917,
+  "starsToday": 43,
+  "language": "JavaScript",
+  "topics": [
+    "claude-code",
+    "cli",
+    "codex-cli",
+    "cost-tracker",
+    "cursor",
+    "gemini-cli",
+    "local-first",
+    "privacy-first",
+    "token-tracker",
+    "antigravity",
+    "ai-tools",
+    "dashboard",
+    "developer-tools",
+    "observability",
+    "ai-coding-tools",
+    "desktop-pet",
+    "desktop-widget",
+    "macos-app",
+    "usage-tracker",
+    "windows-app"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-30T21:59:06.469Z"
+}

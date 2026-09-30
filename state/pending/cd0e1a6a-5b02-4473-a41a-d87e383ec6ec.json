@@ -1,0 +1,28 @@
+{
+  "id": "cd0e1a6a-5b02-4473-a41a-d87e383ec6ec",
+  "repo": "dmtrKovalenko/fframes",
+  "url": "https://github.com/dmtrKovalenko/fframes",
+  "category": "Developer Tool",
+  "summary": "Framework render video lập trình bằng Rust, tập trung vào hiệu năng cao, hỗ trợ motion graphics và tích hợp AI agent.",
+  "usecases": [
+    "Tự động tạo video marketing, tutorial từ code/script",
+    "Render động hình (motion graphics) realtime cho ứng dụng web/app",
+    "Pipeline video generative AI (text-to-video, agentic video editing)"
+  ],
+  "ideas": [
+    "Kết hợp với LLM để sinh storyboard → render tự động video ngắn cho TikTok/Reels",
+    "Xây dựng plugin cho Remotion/After Effects dùng fframes làm backend render tốc độ cao",
+    "Tạo dịch vụ API render video serverless cho các ứng dụng no-code/low-code"
+  ],
+  "stars": 1540,
+  "starsToday": 722,
+  "language": "Rust",
+  "topics": [
+    "agentic-ai",
+    "motion-graphics",
+    "remotion",
+    "video"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-30T21:59:06.469Z"
+}

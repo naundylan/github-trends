@@ -1,0 +1,23 @@
+{
+  "id": "3f1518b8-c374-4732-b045-6a1e49a014ac",
+  "repo": "colbymchenry/codegraph",
+  "url": "https://github.com/colbymchenry/codegraph",
+  "category": "Developer Tool",
+  "summary": "một đồ thị kiến thức code được tiền-index, đồng bộ tự động trên thay đổi code, giúp các trợ lý AI giảm token và số lượng gọi tool, hoạt động hoàn toàn local",
+  "usecases": [
+    "tăng tốc độ phản hồi cho các IDE/code assistants bằng cách index code trước và cung cấp context liên quan mà không cần quét lại toàn bộ project",
+    "giảm chi phí token và latency khi dùng LLM để refactor, debug hoặc generate code trên các dự án lớn",
+    "cho phép truy vấn code và tìm kiếm logic nhanh qua graph traversal thay vì regex hoặc file scanning"
+  ],
+  "ideas": [
+    "kết hợp với local LLM chạy trên máy để tạo ra một code companion hoàn toàn offline có khả năng hiểu toàn bộ codebase",
+    "sử dụng knowledge graph để tự động tạo tài liệu dự án (docs) hoặc diagram architecture dựa trên cấu trúc code thực tế",
+    "phát triển plugin cho các editor phổ biến (VS Code, Vim) để hiển thị các mối quan hệ giữa các module/class trực tiếp trong editor"
+  ],
+  "stars": 72566,
+  "starsToday": 159,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-30T21:59:06.469Z"
+}
