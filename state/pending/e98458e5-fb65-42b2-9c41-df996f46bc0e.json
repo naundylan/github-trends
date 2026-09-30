@@ -1,0 +1,34 @@
+{
+  "id": "e98458e5-fb65-42b2-9c41-df996f46bc0e",
+  "repo": "Pumpkin-MC/Pumpkin",
+  "url": "https://github.com/Pumpkin-MC/Pumpkin",
+  "category": "Game Dev",
+  "summary": "Một phần mềm server Minecraft được viết bằng Rust, giúp người dùng dễ dàng đăng ký và vận hành các server Minecraft nhanh và hiệu quả. Hỗ trợ cả phiên bản Bedrock.",
+  "usecases": [
+    "Đăng ký và quản lý server Minecraft cho các cộng đồng game thủ.",
+    "Triển khai server Minecraft trong môi trường phát triển game hoặc test hiệu năng.",
+    "Sử dụng trong các sự kiện esports hoặc các thế giới game trực tuyến."
+  ],
+  "ideas": [
+    "Kết hợp với công nghệ containerization như Docker để dễ dàng triển khai server trên nhiều nền tảng.",
+    "Tích hợp với các công cụ monitoring để theo dõi hiệu năng server trong real-time.",
+    "Phát triển thêm các mod hoặc plugin để mở rộng tính năng server."
+  ],
+  "stars": 11750,
+  "starsToday": 147,
+  "language": "Rust",
+  "topics": [
+    "minecraft",
+    "minecraft-server",
+    "rust",
+    "game-server",
+    "minecraft-protocol",
+    "gamedev",
+    "networking",
+    "docker",
+    "server",
+    "minecraft-bedrock-edition"
+  ],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-09-30T17:36:21.710Z"
+}

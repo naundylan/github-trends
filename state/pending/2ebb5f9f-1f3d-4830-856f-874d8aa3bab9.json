@@ -1,0 +1,21 @@
+{
+  "id": "2ebb5f9f-1f3d-4830-856f-874d8aa3bab9",
+  "repo": "JayWebtech/autoshorts",
+  "url": "https://github.com/JayWebtech/autoshorts",
+  "category": "Desktop App",
+  "summary": "AutoShorts là ứng dụng desktop đầu tiên để chuyển đổi các bản ghi video hoặc âm thanh dài thành các đoạn clip ngắn có tác động cao theo định dạng dọc (9:16) với khả năng xếp hạng khoảnh khắc viral bằng AI.",
+  "usecases": [
+    "Tạo nội dung TikTok/Reels từ video dài",
+    "Xác định khoảnh khắc viral trong nội dung video trước khi cắt ghép"
+  ],
+  "ideas": [
+    "Tích hợp thêm tính năng AI để phân tích giọng nói và tự động chọn khoảnh khắc quan trọng nhất",
+    "Cung cấp dashboard trực quan cho người dùng theo dõi hiệu suất sản xuất nội dung"
+  ],
+  "stars": 1014,
+  "starsToday": 93,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-09-30T17:36:21.710Z"
+}

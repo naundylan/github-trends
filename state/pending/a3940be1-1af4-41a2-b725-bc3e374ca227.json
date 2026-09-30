@@ -1,0 +1,34 @@
+{
+  "id": "a3940be1-1af4-41a2-b725-bc3e374ca227",
+  "repo": "zeronsh/zeron",
+  "url": "https://github.com/zeronsh/zeron",
+  "category": "AI Agent/Automation",
+  "summary": "A native control plane managing and orchestrating AI coding agents like Claude Code, Codex, and Cursor, providing local-first coordination and developer tooling.",
+  "usecases": [
+    "Centralized management of multiple AI coding agents in a development workflow",
+    "Local-first execution of coding tasks with privacy and offline support",
+    "Coordination of agent-based pipelines for automated refactoring or code generation"
+  ],
+  "ideas": [
+    "Build a dashboard to monitor and switch between different coding agents in real-time",
+    "Integrate with CI/CD pipelines to trigger agent-based code reviews or PR generation",
+    "Enable plugin architecture for custom coding agents to register with the control plane"
+  ],
+  "stars": 2503,
+  "starsToday": 52,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "cursor",
+    "developer-tools",
+    "gpui",
+    "local-first",
+    "open-source",
+    "rust"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-30T17:36:21.710Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "adf7b9d9-6d86-4c4b-aeeb-11c6b0a1771f",
+  "repo": "pydantic/monty",
+  "url": "https://github.com/pydantic/monty",
+  "category": "AI Agent/Automation",
+  "summary": "A minimal, secure Python interpreter written in Rust, designed to safely execute Python code within AI applications and sandboxing scenarios.",
+  "usecases": [
+    "Safe execution of user-generated Python code in AI-powered applications",
+    "Sandboxed code evaluation for LLM agents and tool use",
+    "Secure Python scripting in embedded or desktop AI tools"
+  ],
+  "ideas": [
+    "Integrate with local LLMs to allow code-based tool use with automatic sandbox cleanup",
+    "Use as a secure backend for AI-powered code editors or IDE plugins",
+    "Combine with Rust-based AI frameworks to enable safe, on-device code generation and execution"
+  ],
+  "stars": 8494,
+  "starsToday": 61,
+  "language": "Rust",
+  "topics": [
+    "python",
+    "rust",
+    "sandbox",
+    "sandboxing"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-09-30T17:36:21.710Z"
+}

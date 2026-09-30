@@ -1,0 +1,21 @@
+{
+  "id": "57cd811e-b2c2-4a89-8d12-58871fdf1621",
+  "repo": "cloudflare/vinext",
+  "url": "https://github.com/cloudflare/vinext",
+  "category": "Web Framework",
+  "summary": "Vinext là plugin Vite tái hiện giao diện API của Next.js để triển khai ở bất kỳ đâu, hỗ trợ phát triển ứng dụng web hiện đại.",
+  "usecases": [
+    "Tối ưu hóa việc triển khai ứng dụng Next.js trên nhiều nền tảng khác nhau",
+    "Giúp các nhà phát triển dễ dàng chuyển đổi từ Next.js sang Vite với cùng một API"
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ CI/CD để tự động hóa quá trình build và deploy",
+    "Sử dụng như một layer abstraction cho các dự án web cần linh hoạt triển khai"
+  ],
+  "stars": 9030,
+  "starsToday": 65,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-09-30T17:36:21.710Z"
+}

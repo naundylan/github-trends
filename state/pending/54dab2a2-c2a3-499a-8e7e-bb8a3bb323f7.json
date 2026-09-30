@@ -1,0 +1,44 @@
+{
+  "id": "54dab2a2-c2a3-499a-8e7e-bb8a3bb323f7",
+  "repo": "Gaurav-Gosain/tuios",
+  "url": "https://github.com/Gaurav-Gosain/tuios",
+  "category": "Developer Tool",
+  "summary": "Một trình quản lý cửa sổ terminal dành cho các agent AI, hỗ trợ giao diện lát gạch, không gian làm việc và các phiên làm việc bền vững sau khi khởi động lại. Điểm nổi bật là có một hộp thư tiếp nhận cho mỗi agent coding.",
+  "usecases": [
+    "Sử dụng để quản lý nhiều agent coding trong cùng một terminal, tăng hiệu quả làm việc.",
+    "Áp dụng trong môi trường phát triển phần mềm để theo dõi và điều khiển các agent AI như Claude Code hoặc Codex.",
+    "Phù hợp cho các nhà phát triển cần một giải pháp thay thế tmux với tính năng tích hợp AI."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ CI/CD để tự động hóa quá trình test và deploy bằng các agent AI.",
+    "Tích hợp vào một IDE hiện đại để cung cấp giao diện terminal trực quan hơn.",
+    "Sử dụng trong hệ thống phân tán để quản lý các agent trên nhiều máy khác nhau."
+  ],
+  "stars": 4397,
+  "starsToday": 147,
+  "language": "Go",
+  "topics": [
+    "bubbletea",
+    "charm",
+    "go",
+    "multiplexer",
+    "pty",
+    "terminal",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "golang",
+    "ssh",
+    "terminal-emulator",
+    "terminal-multiplexer",
+    "tiling-window-manager",
+    "tmux-alternative",
+    "tui",
+    "window-manager"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-09-30T17:36:21.710Z"
+}

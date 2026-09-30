@@ -1,0 +1,23 @@
+{
+  "id": "c6519f32-d91f-4775-ac09-1756fe440aca",
+  "repo": "modelcontextprotocol/servers",
+  "url": "https://github.com/modelcontextprotocol/servers",
+  "category": "AI/LLM",
+  "summary": "Model Context Protocol Servers cung cấp một bộ máy chủ chuẩn hóa để kết nối các ứng dụng với các mô hình ngôn ngữ lớn, cho phép trao đổi context và công cụ một cách linh hoạt.",
+  "usecases": [
+    "Tích hợp các mô hình AI vào các ứng dụng khách, cho phép chúng gọi các hàm và truy xuất context một cách thống nhất.",
+    "Xây dựng các pipeline xử lý dữ liệu hỗ trợ AI, trong đó các bước khác nhau có thể trao đổi trạng thái và kết quả thông qua giao thức chung.",
+    "Triển khai các dịch vụ hỗ trợ AI có thể mở rộng cho các nền tảng SaaS, cho phép quản lý tập trung các kết nối mô hình và công cụ."
+  ],
+  "ideas": [
+    "Kết hợp các máy chủ MCP với các framework giao diện người dùng để tạo ra các thành phần AI hỗ trợ trực tiếp trong quá trình phát triển.",
+    "Phát triển một bảng điều khiển giám sát để theo dõi hoạt động của máy chủ MCP, hiệu suất và việc sử dụng công cụ.",
+    "Tạo một hệ thống plugin cho IDE, cho phép các nhà phát triển gọi các mô hình AI và thực hiện các tác vụ thông qua các máy chủ MCP."
+  ],
+  "stars": 90757,
+  "starsToday": 48,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-09-30T17:36:21.710Z"
+}
