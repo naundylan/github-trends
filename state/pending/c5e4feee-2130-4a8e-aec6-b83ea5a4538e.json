@@ -1,0 +1,27 @@
+{
+  "id": "c5e4feee-2130-4a8e-aec6-b83ea5a4538e",
+  "repo": "LibreTranslate/LibreTranslate",
+  "url": "https://github.com/LibreTranslate/LibreTranslate",
+  "category": "API/GraphQL",
+  "summary": "API dịch máy miễn phí, mã nguồn mở, tự lưu trữ (self-hosted), hoạt động offline, dễ triển khai cho hơn 100 cặp ngôn ngữ.",
+  "usecases": [
+    "Nhúng dịch thuật vào ứng dụng nội bộ mà không gửi dữ liệu ra bên ngoài",
+    "Cung cấp endpoint dịch thuật cho chatbot đa ngôn ngữ chạy on-premise"
+  ],
+  "ideas": [
+    "Kết hợp với RAG pipeline để dịch tài liệu trước khi embedding vào vector DB",
+    "Tạo microservice gateway dịch thuật tự động cho các microservice khác trong kiến trúc polyglot"
+  ],
+  "stars": 16963,
+  "starsToday": 35,
+  "language": "Python",
+  "topics": [
+    "translation",
+    "translate",
+    "api",
+    "machine",
+    "translator"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-01T03:38:50.401Z"
+}

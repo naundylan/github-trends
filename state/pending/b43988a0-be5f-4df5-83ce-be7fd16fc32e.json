@@ -1,0 +1,23 @@
+{
+  "id": "b43988a0-be5f-4df5-83ce-be7fd16fc32e",
+  "repo": "cloudflare/vinext",
+  "url": "https://github.com/cloudflare/vinext",
+  "category": "Web Framework",
+  "summary": "Vinext là plugin Vite tái hiện lại API surface của Next.js, cho phép triển khai ứng dụng Next.js ở bất kỳ đâu.",
+  "usecases": [
+    "Di chuyển các ứng dụng Next.js hiện có sang hệ sinh thái Vite trong khi vẫn giữ nguyên API quen thuộc.",
+    "Xây dựng các hàm serverless và trang tĩnh sử dụng các tính năng định tuyến và API của Next.js trên bất kỳ môi trường triển khai nào.",
+    "Tạo các dự án mới với cấu trúc tương thích Next.js trong khi tận dụng tốc độ xây dựng nhanh của Vite."
+  ],
+  "ideas": [
+    "Tích hợp với Cloudflare Workers để triển khai plugin ở edge, mang lại hiệu suất cao hơn.",
+    "Mở rộng hỗ trợ cho các tính năng nâng cao của Next.js như routing động, các hàm API và tích hợp ISR.",
+    "Tạo một bộ công cụ khởi động (boilerplate) cho các dự án hybrid Next.js-Vite để đơn giản hóa quá trình phát triển."
+  ],
+  "stars": 9041,
+  "starsToday": 66,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-01T03:38:50.401Z"
+}

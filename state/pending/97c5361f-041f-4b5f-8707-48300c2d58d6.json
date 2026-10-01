@@ -1,0 +1,23 @@
+{
+  "id": "97c5361f-041f-4b5f-8707-48300c2d58d6",
+  "repo": "JayWebtech/autoshorts",
+  "url": "https://github.com/JayWebtech/autoshorts",
+  "category": "Desktop App",
+  "summary": "AutoShorts là ứng dụng desktop local-first giúp chuyển đổi video hoặc ghi âm dài thành các clip ngắn dọc (9:16) có khả năng trở thành viral, được xếp hạng bởi AI.",
+  "usecases": [
+    "Tạo clip ngắn từ bài giảng, podcast hoặc ghi âm cuộc họp để chia sẻ trên mạng xã hội.",
+    "Tự động hóa sản xuất nội dung bằng cách chuyển đổi các video dài thành các đoạn clip ngắn có khả năng thu hút người xem.",
+    "Chuyển đổi webinar hoặc hội thảo thành các đoạn clip ngắn dễ tiêu hóa cho khán giả trên các nền tảng như TikTok, Instagram Reels."
+  ],
+  "ideas": [
+    "Tích hợp với phần mềm ghi màn hình để trích xuất clip ngay lập tức mà không cần xử lý thủ công.",
+    "Thêm tính năng chỉnh sửa thời gian thực và tự động thêm phụ đề cho các clip được tạo.",
+    "Kết nối với dịch vụ lưu trữ video để xuất bản tự động các clip đã tạo lên các kênh."
+  ],
+  "stars": 1026,
+  "starsToday": 83,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-01T03:38:50.401Z"
+}

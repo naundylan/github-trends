@@ -1,0 +1,42 @@
+{
+  "id": "6ed0a6d7-efb0-414b-8f68-7f42ef8b3969",
+  "repo": "Javis603/token-monitor",
+  "url": "https://github.com/Javis603/token-monitor",
+  "category": "Desktop App",
+  "summary": "Widget máy tính để bàn local-first theo dõi lượng token, chi phí và giới hạn của 43+ công cụ AI coding như Claude Code, Cursor, Codex, hỗ trợ đồng bộ đa thiết bị.",
+  "usecases": [
+    "Giám sát chi phí token real-time khi dùng nhiều AI coding assistant song song",
+    "Cảnh báo khi sắp vượt quota token hàng ngày/tuần của các nhà cung cấp LLM"
+  ],
+  "ideas": [
+    "Tích hợp webhook gửi cảnh báo về Slack/Discord khi chi phí vượt ngưỡng",
+    "Kết hợp với dashboard team để phân bổ budget token cho từng developer"
+  ],
+  "stars": 2527,
+  "starsToday": 35,
+  "language": "JavaScript",
+  "topics": [
+    "ai-tools",
+    "claude-code",
+    "codex",
+    "llm",
+    "local-first",
+    "self-hosted",
+    "token-tracker",
+    "token-usage",
+    "cursor",
+    "openclaw",
+    "opencode",
+    "ai",
+    "linux",
+    "macos",
+    "windows",
+    "hermes-agent",
+    "antigravity",
+    "deepseek",
+    "deepseek-harness",
+    "dsh"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-01T03:38:50.401Z"
+}

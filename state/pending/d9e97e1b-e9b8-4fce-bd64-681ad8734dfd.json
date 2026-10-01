@@ -1,0 +1,23 @@
+{
+  "id": "d9e97e1b-e9b8-4fce-bd64-681ad8734dfd",
+  "repo": "modelcontextprotocol/servers",
+  "url": "https://github.com/modelcontextprotocol/servers",
+  "category": "AI/LLM",
+  "summary": "Dự án cung cấp các server triển khai Model Context Protocol, giúp quản lý và truyền tải context cho các mô hình AI/LLM trong các ứng dụng.",
+  "usecases": [
+    "Tích hợp context AI vào ứng dụng web để tăng tốc độ phản hồi.",
+    "Cung cấp context cho nhiều mô hình LLM khác nhau trong cùng một quy trình làm việc.",
+    "Tự động hóa việc tải và quản lý prompt/context cho các tác vụ inference."
+  ],
+  "ideas": [
+    "Kết hợp với VS Code extension để hiển thị context model trực tiếp trong editor.",
+    "Xây dựng dashboard quản lý các phiên model và context tương ứng.",
+    "Sử dụng trong các hệ thống RAG để tối ưu truy xuất context."
+  ],
+  "stars": 90840,
+  "starsToday": 50,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-01T03:38:50.401Z"
+}

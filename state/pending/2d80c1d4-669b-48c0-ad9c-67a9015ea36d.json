@@ -1,0 +1,44 @@
+{
+  "id": "2d80c1d4-669b-48c0-ad9c-67a9015ea36d",
+  "repo": "Gaurav-Gosain/tuios",
+  "url": "https://github.com/Gaurav-Gosain/tuios",
+  "category": "Developer Tool",
+  "summary": "A Go-based tiling window manager for terminal sessions, designed to organize coding agents, workspaces, and persistent sessions.",
+  "usecases": [
+    "Managing multiple terminal sessions for different projects within a single window.",
+    "Persisting agent workflows across machine restarts for AI-assisted development.",
+    "Tilting panes for simultaneous code, log, and agent output viewing."
+  ],
+  "ideas": [
+    "Integrate with VS Code or terminal APIs for seamless IDE integration.",
+    "Add plugin system for custom agent inboxes and workflows.",
+    "Support remote SSH session management for distributed development teams."
+  ],
+  "stars": 4422,
+  "starsToday": 117,
+  "language": "Go",
+  "topics": [
+    "bubbletea",
+    "charm",
+    "go",
+    "multiplexer",
+    "pty",
+    "terminal",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "golang",
+    "ssh",
+    "terminal-emulator",
+    "terminal-multiplexer",
+    "tiling-window-manager",
+    "tmux-alternative",
+    "tui",
+    "window-manager"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-01T03:38:50.401Z"
+}
