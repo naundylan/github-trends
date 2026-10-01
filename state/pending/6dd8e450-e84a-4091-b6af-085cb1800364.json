@@ -1,0 +1,36 @@
+{
+  "id": "6dd8e450-e84a-4091-b6af-085cb1800364",
+  "repo": "VectifyAI/PageIndex",
+  "url": "https://github.com/VectifyAI/PageIndex",
+  "category": "AI/LLM",
+  "summary": "PageIndex cung cấp index tài liệu cho RAG dựa trên reasoning, cho phép truy xuất và reasoning trên tài liệu mà không phụ thuộc vector database.",
+  "usecases": [
+    "Tạo hệ thống RAG cho doanh nghiệp tìm kiếm và phân tích tài liệu văn bản hiệu quả.",
+    "Hỗ trợ reasoning trên tài liệu dài phức tạp mà không cần xây dựng vector database.",
+    "Tích hợp vào ứng dụng chatbot hoặc trợ lý AI cần hiểu sâu nội dung tài liệu."
+  ],
+  "ideas": [
+    "Kết hợp PageIndex với knowledge graph để reasoning đa chiều trên tài liệu.",
+    "Sử dụng PageIndex làm lớp index cho hệ thống tài liệu pháp lý hoặc y tế cần truy xuất chính xác.",
+    "Phát triển tính năng multi-hop reasoning cho phép AI duyệt qua nhiều tài liệu liên quan linh hoạt."
+  ],
+  "stars": 38411,
+  "starsToday": 543,
+  "language": "Python",
+  "topics": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "ai-agents",
+    "context-engineering",
+    "llm",
+    "rag",
+    "reasoning",
+    "retrieval",
+    "retrieval-augmented-generation",
+    "vector-database",
+    "information-retrieval"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-01T20:15:23.387Z"
+}

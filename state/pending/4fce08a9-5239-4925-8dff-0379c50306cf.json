@@ -1,0 +1,32 @@
+{
+  "id": "4fce08a9-5239-4925-8dff-0379c50306cf",
+  "repo": "github/gh-aw",
+  "url": "https://github.com/github/gh-aw",
+  "category": "DevOps/CI-CD",
+  "summary": "Một tiện ích mở rộng GitHub Actions sử dụng AI agent để tự động hóa quy trình làm việc, hỗ trợ tạo mã, kiểm tra và triển khai thông qua Claude Code, Copilot, v.v.",
+  "usecases": [
+    "Tự động hóa việc tạo mã và kiểm tra trong GitHub Actions bằng cách sử dụng các mô hình AI như Claude Code hay Copilot.",
+    "Tích hợp quy trình CI/CD với các tác vụ do AI điều khiển để triển khai nhanh chóng các thay đổi.",
+    "Tạo các workflow tùy chỉnh để thực hiện refactoring, ghi docstring, hoặc xử lý các tác vụ lặp lại."
+  ],
+  "ideas": [
+    "Xây dựng một marketplace các agent workflow được tạo sẵn, cho phép người dùng chia sẻ và tái sử dụng các quy trình tự động hóa AI.",
+    "Tích hợp với GitHub Issues để tự động tạo các PR dựa trên mô tả vấn đề bằng cách sử dụng AI.",
+    "Thêm tính năng đánh giá và kiểm tra an toàn cho các thay đổi do AI tạo ra trước khi merge."
+  ],
+  "stars": 5321,
+  "starsToday": 53,
+  "language": "Go",
+  "topics": [
+    "gh-extension",
+    "actions",
+    "cai",
+    "ci",
+    "claude-code",
+    "codex",
+    "copilot",
+    "github-actions"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-01T20:15:23.387Z"
+}

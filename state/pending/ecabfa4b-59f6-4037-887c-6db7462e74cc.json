@@ -1,0 +1,34 @@
+{
+  "id": "ecabfa4b-59f6-4037-887c-6db7462e74cc",
+  "repo": "Pumpkin-MC/Pumpkin",
+  "url": "https://github.com/Pumpkin-MC/Pumpkin",
+  "category": "Game Dev",
+  "summary": "Pumpkin là server Minecraft viết bằng Rust, cho phép host server Minecraft nhanh và hiệu quả, hỗ trợ cả Java và Bedrock editions.",
+  "usecases": [
+    "Host server Minecraft cá nhân với hiệu suất cao",
+    "Chạy server Minecraft trên Docker với tài nguyên tối thiểu",
+    "Phát triển mod và gameplay tùy chỉnh cho server"
+  ],
+  "ideas": [
+    "Kết hợp AI agent để tự động quản lý và tối ưu server",
+    "Tạo dashboard giám sát real-time hiệu suất và lượng người chơi",
+    "Hỗ trợ cross-platform server giữa Java và Bedrock qua protocol chuẩn"
+  ],
+  "stars": 11823,
+  "starsToday": 79,
+  "language": "Rust",
+  "topics": [
+    "minecraft",
+    "minecraft-server",
+    "rust",
+    "game-server",
+    "minecraft-protocol",
+    "gamedev",
+    "networking",
+    "docker",
+    "server",
+    "minecraft-bedrock-edition"
+  ],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-10-01T20:15:23.387Z"
+}

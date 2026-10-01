@@ -1,0 +1,23 @@
+{
+  "id": "a80ee346-6f98-479a-a94b-c59d7f570cf3",
+  "repo": "modelcontextprotocol/servers",
+  "url": "https://github.com/modelcontextprotocol/servers",
+  "category": "AI/LLM",
+  "summary": "MCP Servers triển khai giao thức Model Context Protocol, cho phép các mô hình LLM truy cập và quản lý ngữ cảnh một cách đồng nhất và an toàn.",
+  "usecases": [
+    "Deploy các ứng dụng LLM cần ngữ cảnh đồng nhất Across nhiều mô hình và dịch vụ.",
+    "Cho phép chia sẻ an toàn prompt context giữa các hệ thống phân tán.",
+    "Hỗ trợ hợp tác multi-agent với bộ nhớ và ngữ cảnh chung."
+  ],
+  "ideas": [
+    "Tích hợp với local LLMs để quản lý context offline.",
+    "Xây dựng marketplace context nơi người dùng mua bán prompt/context được tinh chế.",
+    "Dùng MCP làm cầu nối giữa APIs truyền thống và quy trình LLM-driven."
+  ],
+  "stars": 90932,
+  "starsToday": 216,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-01T20:15:23.387Z"
+}

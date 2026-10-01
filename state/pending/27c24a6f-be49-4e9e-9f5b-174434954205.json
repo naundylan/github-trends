@@ -1,0 +1,44 @@
+{
+  "id": "27c24a6f-be49-4e9e-9f5b-174434954205",
+  "repo": "Gaurav-Gosain/tuios",
+  "url": "https://github.com/Gaurav-Gosain/tuios",
+  "category": "Developer Tool",
+  "summary": "Terminal window manager viết bằng Go với tiling panes, workspaces bền vững và Inbox cho coding agents.",
+  "usecases": [
+    "Quản lý nhiều session terminal với layout tiling để multitasking hiệu quả",
+    "Phục hồi workspace sau restart để phát triển liên tục",
+    "Inbox tích hợp cho AI coding agents nhận lệnh và output"
+  ],
+  "ideas": [
+    "Thêm plugin system cho các layout pane tùy chỉnh",
+    "Integrate với VS Code API cho workflow mượt mà",
+    "Hỗ trợ GPU-accelerated terminal rendering cho debugging nặng"
+  ],
+  "stars": 4452,
+  "starsToday": 54,
+  "language": "Go",
+  "topics": [
+    "bubbletea",
+    "charm",
+    "go",
+    "multiplexer",
+    "pty",
+    "terminal",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "golang",
+    "ssh",
+    "terminal-emulator",
+    "terminal-multiplexer",
+    "tiling-window-manager",
+    "tmux-alternative",
+    "tui",
+    "window-manager"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-01T20:15:23.387Z"
+}

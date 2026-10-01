@@ -1,0 +1,29 @@
+{
+  "id": "b93b1c36-5a27-48f2-876b-63f2a7f3cc79",
+  "repo": "ag-ui-protocol/ag-ui",
+  "url": "https://github.com/ag-ui-protocol/ag-ui",
+  "category": "AI Agent/Automation",
+  "summary": "AG-UI là giao thức tương tác Agent-User, cho phép AI agent giao tiếp và điều khiển ứng dụng frontend một cách nhất quán.",
+  "usecases": [
+    "Tích hợp AI agent vào web app để tự động thực hiện tác vụ người dùng",
+    "Cho phép agent điều khiển giao diện đồ họ thông qua protocol chuẩn",
+    "Xây dựng công cụ debug và theo dõi luồng tương tác agent"
+  ],
+  "ideas": [
+    "Tạo hệ thống agent tự động điền form và test UI tự động",
+    "Phát triển framework UI cho phép agent điều khiển qua voice hoặc text",
+    "Kết hợp với RAG để agent truy xuất thông tin và thao tác trên app cùng lúc"
+  ],
+  "stars": 16205,
+  "starsToday": 68,
+  "language": "TypeScript",
+  "topics": [
+    "ag-ui-protocol",
+    "agent-frontend",
+    "agent-ui",
+    "agentic-workflow",
+    "ai-agents"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-01T20:15:23.387Z"
+}

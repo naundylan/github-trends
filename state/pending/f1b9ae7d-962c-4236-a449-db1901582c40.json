@@ -1,0 +1,42 @@
+{
+  "id": "f1b9ae7d-962c-4236-a449-db1901582c40",
+  "repo": "sgl-project/sglang",
+  "url": "https://github.com/sgl-project/sglang",
+  "category": "AI/LLM",
+  "summary": "SGLang là một framework phục vụ hiệu suất cao cho các mô hình ngôn ngữ lớn và đa phương thức, tối ưu hóa suy luận và triển khai các mô hình như Llama, Qwen, DeepSeek, v.v.",
+  "usecases": [
+    "Triển khai và phục vụ các mô hình LLM như Llama, Qwen, DeepSeek trên phần cứng GPU với tốc độ cao.",
+    "Tối ưu hóa độ trễ và thông lượng cho các ứng dụng chatbot, trợ lý ảo, và các hệ thống trả lời câu hỏi.",
+    "Hỗ trợ các mô hình đa phương thức (VLT) để nhận diện hình ảnh, xử lý văn bản và tạo nội dung đa phương thức."
+  ],
+  "ideas": [
+    "Tích hợp SGLang với các nền tảng inference trên cloud (AWS SageMaker, GCP AI Platform) để triển khai dễ dàng.",
+    "Phát triển một giao diện dòng lệnh để so sánh hiệu suất của nhiều mô hình trên các kiến trúc phần cứng khác nhau.",
+    "Xây dựng một công cụ trực quan hóa để giám sát độ trễ, thông lượng và sử dụng bộ nhớ trong quá trình phục vụ mô hình."
+  ],
+  "stars": 36699,
+  "starsToday": 39,
+  "language": "Python",
+  "topics": [
+    "cuda",
+    "inference",
+    "llama",
+    "llm",
+    "moe",
+    "transformer",
+    "vlm",
+    "deepseek",
+    "blackwell",
+    "gpt-oss",
+    "diffusion",
+    "attention",
+    "glm",
+    "minimax",
+    "qwen",
+    "qwen-image",
+    "reinforcement-learning",
+    "wan"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-01T20:15:23.387Z"
+}

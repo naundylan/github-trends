@@ -1,0 +1,37 @@
+{
+  "id": "fd0bba17-1c85-40ef-a5a6-f3b04fb54bd0",
+  "repo": "Z4nzu/hackingtool",
+  "url": "https://github.com/Z4nzu/hackingtool",
+  "category": "Security/Pentest",
+  "summary": "Python-based toa hacking tất cả trong một cho hackers, hỗ trợ web-attack, password-attack, wireless-attack, CTFs và steganography.",
+  "usecases": [
+    "Thử nghiệm 침 web application",
+    "Đánh giá và cracking mật khẩu",
+    "Giải CTF và phân tích wireless network"
+  ],
+  "ideas": [
+    "Tích hợp AI để phát hiện vulnerability",
+    "Thêm module báo cáo cho compliance audits",
+    "Tạo Docker container để deploy dễ dàng"
+  ],
+  "stars": 80004,
+  "starsToday": 61,
+  "language": "Python",
+  "topics": [
+    "allinonehackingtool",
+    "web-attack",
+    "password-attack",
+    "hacking",
+    "wireless-attack",
+    "besthackingtool",
+    "ctf-tools",
+    "ddos-attack-tool",
+    "hacker",
+    "xss-attacks",
+    "xss-detection",
+    "linux",
+    "steganography"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-01T20:15:23.387Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "6173be9c-b261-4d6b-95ab-a0d51fc5db33",
+  "repo": "NVIDIA/OpenShell",
+  "url": "https://github.com/NVIDIA/OpenShell",
+  "category": "AI Agent/Automation",
+  "summary": "OpenShell là runtime an toàn và riêng tư cho các AI agent tự hành, cung cấp môi trường thực thi bảo mật cho các tác vụ tự động hóa.",
+  "usecases": [
+    "Triển khai các AI agent tự hành trong môi trường sản xuất với sự bảo mật cao.",
+    "Chạy các tác vụ tự động hóa phức tạp mà vẫn đảm bảo quyền riêng tư dữ liệu.",
+    "Cung cấp môi trường thực thi lập trình cho các mô hình AI cần tương tác với hệ thống bên ngoài."
+  ],
+  "ideas": [
+    "Kết hợp OpenShell với các framework AI agent để tạo hệ thống tự hành trên thiết bị biên (edge).",
+    "Sử dụng OpenShell làm nền tảng cho các hệ thống giám sát an ninh AI thời gian thực.",
+    "Phát triển plugin cho phép AI agent truy cập tài nguyên hệ thống có kiểm soát và audit được."
+  ],
+  "stars": 13918,
+  "starsToday": 2503,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-01T20:15:23.387Z"
+}

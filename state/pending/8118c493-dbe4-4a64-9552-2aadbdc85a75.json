@@ -1,0 +1,23 @@
+{
+  "id": "8118c493-dbe4-4a64-9552-2aadbdc85a75",
+  "repo": "humanlayer/skills",
+  "url": "https://github.com/humanlayer/skills",
+  "category": "AI Agent/Automation",
+  "summary": "humanlayer/skills cung cấp thư viện kỹ năng cho AI agents, cho phép tương tác human-in-the-loop an toàn và可控 trong quy trình tự động hóa.",
+  "usecases": [
+    "AI hỗ trợ khách hàng với khả năng can thiệp human khi gặp tình huống phức tạp.",
+    "Autonomous research agents phân bổ tác vụ dựa trên kỹ năng được định nghĩa.",
+    "Quy trình tuân thủ compliance yêu cầu bước xác nhận human tại các điểm kiểm soát."
+  ],
+  "ideas": [
+    "Tạo hệ thống đánh giá kỹ năng cho AI agents trong các dự án cộng tác.",
+    "Phát triển plugin IDE gợi ý các điểm can thiệp human trong luồng làm việc.",
+    "Xây dựng lớp reputation phân tán cho kỹ năng agent sử dụng blockchain."
+  ],
+  "stars": 4783,
+  "starsToday": 103,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-01T20:15:23.387Z"
+}
