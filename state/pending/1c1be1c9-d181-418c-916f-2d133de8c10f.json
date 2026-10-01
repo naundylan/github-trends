@@ -1,0 +1,23 @@
+{
+  "id": "1c1be1c9-d181-418c-916f-2d133de8c10f",
+  "repo": "Friedrich-M/UniMate",
+  "url": "https://github.com/Friedrich-M/UniMate",
+  "category": "Computer Vision",
+  "summary": "Nghiên cứu về mô hình thống nhất để tạo hoạt hình đa dạng từ xương sống, áp dụng trong thiết kế game và truyền thông kỹ thuật số. Hệ thống sử dụng thuật toán phân tích hình ảnh và chuyển động để tạo ra nhân vật động.",
+  "usecases": [
+    "Tạo hoạt hình 3D cho game development",
+    "Phát triển ứng dụng sinh hoạt ảo với các nhân vật động",
+    "Ứng dụng trong thiết kế nội dung truyền thông hiện đại"
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ game engine để tạo character animation tự động",
+    "Sử dụng để mô phỏng chuyển động người thật thật trong các ứng dụng VR/AR",
+    "Xây dựng hệ thống quản lý nhân vật cho các trò chơi indie"
+  ],
+  "stars": 933,
+  "starsToday": 225,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-10-01T12:23:34.298Z"
+}

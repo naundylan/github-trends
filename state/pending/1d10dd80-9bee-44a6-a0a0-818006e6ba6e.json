@@ -1,0 +1,36 @@
+{
+  "id": "1d10dd80-9bee-44a6-a0a0-818006e6ba6e",
+  "repo": "bilawalsidhu/gods-eye-view",
+  "url": "https://github.com/bilawalsidhu/gods-eye-view",
+  "category": "Data Visualization",
+  "summary": "Một ứng dụng web hiển thị dữ liệu địa lý thực-time trên quả cầu 3D photorealistic, cung cấp khả năng truy sát không gian mở (OSINT) trực tiếp trên trình duyệt.",
+  "usecases": [
+    "Theo dõi và visualizing dữ liệu vệ tinh/thời tiết cho các nhà nghiên cứu khí hậu.",
+    "Giúp phán đoán vị trí phi cơ và đường bay cho các nhà aviation/photogrammetry.",
+    "Cung cấp dữ liệu địa lý thời gian thực cho các báo cáo OSINT an ninh quốc gia."
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu thời tiết để tạo bản đồ bão tố 3D tương tác.",
+    "Sử dụng trong game simulation phiêu lưu không gian với vật lý thực tế.",
+    "Phát triển plugin cho các hệ thống quản lý tài sản không gian."
+  ],
+  "stars": 45940,
+  "starsToday": 601,
+  "language": "JavaScript",
+  "topics": [
+    "3d-globe",
+    "cesium",
+    "flight-tracking",
+    "geospatial",
+    "geospatial-intelligence",
+    "gis",
+    "osint",
+    "photogrammetry",
+    "satellite-tracking",
+    "spatial-intelligence",
+    "webgl",
+    "worldview"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-10-01T12:23:34.297Z"
+}

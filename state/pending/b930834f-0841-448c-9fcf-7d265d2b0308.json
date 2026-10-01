@@ -1,0 +1,23 @@
+{
+  "id": "b930834f-0841-448c-9fcf-7d265d2b0308",
+  "repo": "tile-ai/tilelang",
+  "url": "https://github.com/tile-ai/tilelang",
+  "category": "Developer Tool",
+  "summary": "Ngôn ngữ miền (DSL) dựa Python nhằm tự động hóa và tối ưu hóa phát triển kernel hiệu suất cao cho GPU, CPU và accelerator.",
+  "usecases": [
+    "Tạo kernel GPU tối ưu cho ứng dụng khoa học tính toán mà không cần viết CUDA trực tiếp",
+    "Tối ưu hiệu suất cho các accelerator phần cứng trong các dự án AI/ML",
+    "Giảm thiểu thời gian phát triển kernel cho ứng dụng biên và nhúng"
+  ],
+  "ideas": [
+    "Biến đổi thuật toán DSP truyền thống thành kernel hiệu suất cao tự động",
+    "Tích hợp vào chuỗi công cụ LLVM cho các dự án hardware mới",
+    "Cho phép nhà phát triển phần cứng mô tả kernel bằng Python thay vì ngôn ngữ low-level"
+  ],
+  "stars": 7973,
+  "starsToday": 157,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-01T12:23:34.298Z"
+}
