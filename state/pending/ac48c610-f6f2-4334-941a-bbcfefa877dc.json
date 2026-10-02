@@ -1,0 +1,23 @@
+{
+  "id": "ac48c610-f6f2-4334-941a-bbcfefa877dc",
+  "repo": "zerx-lab/FluxDown",
+  "url": "https://github.com/zerx-lab/FluxDown",
+  "category": "Productivity/Personal Tool",
+  "summary": "FluxDown là quản lý tải đa protocoll Rust-driven hỗ trợ HTTP/FTP/BitTorrent và luồng HLS/DASH, với tốc độ đa luồng thông minh và giao diện đẹp, miễn phí vĩnh viễn không quảng cáo.",
+  "usecases": [
+    "Tải xuống file lớn với khả năng tiếp tục lại và tối ưu tốc độ đa luồng",
+    "Phát sóng và tải luồng truyền hình trực tuyến qua HLS/DASH",
+    "Tải torrent với tốc độ tăng tốc đa luồng cho các tập tin lớn"
+  ],
+  "ideas": [
+    "Tích hợp với lưu trữ đám mây tự động upload sau khi tải xong",
+    "Phát triển tiện ích trình duyệt cho tải một nhấp từ các trang web",
+    "Tạo quản lý tải lịch trình cho các giao dịch trong giờ không bận"
+  ],
+  "stars": 3362,
+  "starsToday": 33,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-10-02T21:51:51.089Z"
+}

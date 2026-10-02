@@ -1,0 +1,35 @@
+{
+  "id": "a7d2f510-cc84-4c9c-8603-59908528d504",
+  "repo": "rmyndharis/OpenWA",
+  "url": "https://github.com/rmyndharis/OpenWA",
+  "category": "API/GraphQL",
+  "summary": "Cổng API WhatsApp mã nguồn mở, tự lưu trữ cho phép tích hợp nhắn tin WhatsApp vào ứng dụng mà không cần dùng chính thức.",
+  "usecases": [
+    "Gửi thông báo tự động cho người dùng",
+    "Xây dựng chatbot hỗ trợ khách hàng",
+    "Tự động hóa marketing qua WhatsApp"
+  ],
+  "ideas": [
+    "Kết hợp với CRM để tự động hóa quy trình bán hàng",
+    "Tích hợp vào hệ thống ticket support để nhận thông báo"
+  ],
+  "stars": 14962,
+  "starsToday": 66,
+  "language": "TypeScript",
+  "topics": [
+    "api",
+    "gateway",
+    "whatsapp",
+    "self-hosted",
+    "whatsapp-api",
+    "whatsapp-gateway",
+    "whatsapp-gateway-api",
+    "bot",
+    "whatsapp-automation",
+    "whatsapp-bot",
+    "whatsapp-web",
+    "whatsapp-web-api"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-02T21:51:51.088Z"
+}

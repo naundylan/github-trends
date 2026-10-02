@@ -1,0 +1,32 @@
+{
+  "id": "48e77736-081d-4bf7-9cbd-ddbf4712bead",
+  "repo": "LuxAlgo/Vela",
+  "url": "https://github.com/LuxAlgo/Vela",
+  "category": "Data Visualization",
+  "summary": "LuxAlgo Vela là thư viện charting tài chính nhanh và hiện đại với renderer native riêng được hỗ trợ bởi WebGL2 hoặc Canvas2D, cung cấp các biểu đồ tương tác cho ứng dụng giao dịch.",
+  "usecases": [
+    "Thay thế cho các thư viện charting truyền thống trong các nền tảng giao dịch trực quan",
+    "Hiển thị kỹ thuật phân tích và chỉ báo tài chính theo thời gian thực",
+    "Xây dựng dashboard đầu tư cá nhân với biểu đồ tương tác mượt mà"
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu thời gian thực từ API tài chính để tạo dashboard giao dịch live",
+    "Phát triển hệ thống cảnh báo giá tự động với trực quan biểu đồ động",
+    "Tích hợp với các nền tảng broker API để hiển thị lịch sử giao dịch và PnL"
+  ],
+  "stars": 651,
+  "starsToday": 36,
+  "language": "TypeScript",
+  "topics": [
+    "canvas",
+    "chart",
+    "charting",
+    "charting-library",
+    "finance",
+    "indicator",
+    "typescript",
+    "trading"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-10-02T21:51:51.089Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "14f6fab6-28cf-4d08-aa3d-fd2142b9f432",
+  "repo": "mrifqidaffaaditya/WA-AKG",
+  "url": "https://github.com/mrifqidaffaaditya/WA-AKG",
+  "category": "API/GraphQL",
+  "summary": "Cổng kết nối WhatsApp tự lưu trữ với bảng điều khiển, cho phép quản lý nhiều phiên, lên lịch tin nhắn và tích hợp qua Webhook.",
+  "usecases": [
+    "Xây dựng bot tự động trả lời tin nhắn khách hàng trên WhatsApp",
+    "Gửi thông báo hoặc tin nhắn tiếp thị hàng loạt qua API"
+  ],
+  "ideas": [
+    "Kết nối API này với hệ thống CRM để đồng bộ lịch sử hội thoại",
+    "Tích hợp mô hình AI để phân tích và phản hồi tự động nội dung tin nhắn"
+  ],
+  "stars": 405,
+  "starsToday": 31,
+  "language": "TypeScript",
+  "topics": [
+    "automation",
+    "baileys",
+    "chatbot",
+    "dashboard",
+    "gateway",
+    "multi-client",
+    "multi-connection",
+    "next-auth",
+    "nextjs",
+    "prisma",
+    "rest-api",
+    "self-hosted",
+    "webhook",
+    "whatsapp",
+    "whatsapp-api",
+    "whatsapp-bot",
+    "whatsapp-web",
+    "multi-session"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-02T21:51:51.089Z"
+}

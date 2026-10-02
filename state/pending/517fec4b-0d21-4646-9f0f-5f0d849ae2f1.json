@@ -1,0 +1,21 @@
+{
+  "id": "517fec4b-0d21-4646-9f0f-5f0d849ae2f1",
+  "repo": "JayWebtech/autoshorts",
+  "url": "https://github.com/JayWebtech/autoshorts",
+  "category": "Other",
+  "summary": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
+  "usecases": [
+    "Khám phá và đánh giá JayWebtech/autoshorts cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 1120,
+  "starsToday": 64,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-02T21:51:51.088Z"
+}

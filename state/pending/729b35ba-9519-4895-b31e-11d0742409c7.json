@@ -1,0 +1,38 @@
+{
+  "id": "729b35ba-9519-4895-b31e-11d0742409c7",
+  "repo": "tabler/tabler-icons",
+  "url": "https://github.com/tabler/tabler-icons",
+  "category": "UI/Component Library",
+  "summary": "Huge collection of 6000+ free MIT-licensed SVG icons designed for modern web projects, easily usable with React, Svelte, CSS, and frameworks like Bootstrap.",
+  "usecases": [
+    "Adding scalable icons to web interfaces without font loading issues",
+    "Design systems and UI components requiring custom SVG icons",
+    "Rapid prototyping with ready-to-use icon sets for dashboards and apps"
+  ],
+  "ideas": [
+    "Integrate as a lightweight icon system in a design system platform",
+    "Build a custom icon search and preview tool for developers",
+    "Combine with CSS variables for themable icon sets in dark/light mode"
+  ],
+  "stars": 21875,
+  "starsToday": 41,
+  "language": "JavaScript",
+  "topics": [
+    "icons",
+    "iconset",
+    "svg-icons",
+    "svg",
+    "icons-pack",
+    "bootstrap-icons",
+    "css",
+    "icon-pack",
+    "tabler-icons",
+    "quality-svg-icons",
+    "react",
+    "icon",
+    "components",
+    "svelte"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-10-02T21:51:51.088Z"
+}

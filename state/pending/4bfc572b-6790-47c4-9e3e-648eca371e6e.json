@@ -1,0 +1,33 @@
+{
+  "id": "4bfc572b-6790-47c4-9e3e-648eca371e6e",
+  "repo": "spicetify/cli",
+  "url": "https://github.com/spicetify/cli",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh cho phép tùy chỉnh giao diện và mở rộng chức năng của ứng dụng Spotify trên Windows, macOS và Linux.",
+  "usecases": [
+    "Áp dụng theme tùy chỉnh để thay đổi giao diện nghe nhạc Spotify",
+    "Cài đặt các extension để thêm tính năng mới vào client Spotify"
+  ],
+  "ideas": [
+    "Tự động chuyển đổi theme Spotify dựa trên thể loại nhạc đang phát",
+    "Kết hợp với script để đồng bộ danh sách phát từ terminal"
+  ],
+  "stars": 24754,
+  "starsToday": 31,
+  "language": "JavaScript",
+  "topics": [
+    "spotify",
+    "customization",
+    "golang",
+    "macos",
+    "linux",
+    "windows",
+    "command-line",
+    "command-line-tool",
+    "hacktoberfest",
+    "spicetify-extensions",
+    "spicetify-cli"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-02T21:51:51.089Z"
+}

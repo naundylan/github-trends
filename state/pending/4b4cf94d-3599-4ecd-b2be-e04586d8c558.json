@@ -1,0 +1,23 @@
+{
+  "id": "4b4cf94d-3599-4ecd-b2be-e04586d8c558",
+  "repo": "microsoft/VibeVoice",
+  "url": "https://github.com/microsoft/VibeVoice",
+  "category": "AI/LLM",
+  "summary": "Open-source advanced voice AI model enabling high-quality speech synthesis and voice interaction capabilities.",
+  "usecases": [
+    "Building custom TTS systems for accessibility tools",
+    "Creating voice-enabled chatbots or virtual assistants",
+    "Integrating natural-sounding voice output into gaming or simulation applications"
+  ],
+  "ideas": [
+    "Develop multilingual voice support for global applications",
+    "Create a real-time voice conversion tool for streaming",
+    "Build a voice cloning demo with ethical usage guidelines"
+  ],
+  "stars": 54602,
+  "starsToday": 36,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-02T21:51:51.089Z"
+}

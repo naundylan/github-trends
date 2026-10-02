@@ -1,0 +1,36 @@
+{
+  "id": "09c57438-2fe9-4461-93b7-f23c7dc1a288",
+  "repo": "Effect-TS/effect",
+  "url": "https://github.com/Effect-TS/effect",
+  "category": "Backend Framework",
+  "summary": "Thư viện TypeScript giúp xây dựng ứng dụng production-ready với các tính năng mạnh mẽ như xử lý lỗi, đồng thời hóa, dependency injection và observability tích hợp.",
+  "usecases": [
+    "Xây dựng backend service hoặc API server",
+    "Phát triển CLI tool phức tạp",
+    "Quản lý workflow và concurrency trong ứng dụng"
+  ],
+  "ideas": [
+    "Kết hợp với OpenTelemetry để giám sát hiệu năng và tracing",
+    "Triển khai trên serverless để xử lý event-driven"
+  ],
+  "stars": 16516,
+  "starsToday": 76,
+  "language": "TypeScript",
+  "topics": [
+    "effect",
+    "javascript",
+    "cli",
+    "opentelemetry",
+    "platform",
+    "schema",
+    "typescript",
+    "dependency-injection",
+    "error-handling",
+    "observability",
+    "clustering",
+    "concurrency",
+    "workflows"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-10-02T21:51:51.088Z"
+}
