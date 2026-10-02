@@ -1,0 +1,33 @@
+{
+  "id": "95ccac65-2371-47de-af2e-fb30867958c8",
+  "repo": "FalkorDB/FalkorDB",
+  "url": "https://github.com/FalkorDB/FalkorDB",
+  "category": "Database",
+  "summary": "FalkorDB là một cơ sở dữ liệu đồ thị siêu nhanh sử dụng GraphBLAS để biểu diễn ma trận kề mảnh, tập trung cung cấp GraphRAG cho các mô hình LLM.",
+  "usecases": [
+    "Tăng cường khả năng truy vấn kiến thức cho LLM thông qua GraphRAG",
+    "Phân tích và trực quan hóa mạng lưới mối quan hệ phức tạp",
+    "Hỗ trợ hệ thống đề xuất thông minh dựa trên cấu trúc đồ thị"
+  ],
+  "ideas": [
+    "Kết hợp FalkorDB với LangChain để tạo agent có khả năng duyệt đồ thị tự chủ",
+    "Xây dựng Knowledge Graph cá nhân đồng bộ giữa nhiều ứng dụng LLM",
+    "Phát triển hệ thống phán đoán rủi ro tài chính thời gian thực dựa trên đồ thị"
+  ],
+  "stars": 6623,
+  "starsToday": 200,
+  "language": "Rust",
+  "topics": [
+    "graph-database",
+    "knowledge-graph",
+    "database-as-a-service",
+    "cloud-database",
+    "database",
+    "developer-tools",
+    "devtools",
+    "realtime-database",
+    "graphrag"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-10-02T17:20:15.709Z"
+}

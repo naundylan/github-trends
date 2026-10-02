@@ -1,0 +1,23 @@
+{
+  "id": "0a99abf3-75bf-49b9-9f97-8227a29e15f6",
+  "repo": "pablostanley/yoinks",
+  "url": "https://github.com/pablostanley/yoinks",
+  "category": "CLI Tool",
+  "summary": "Một công cụ CLI TypeScript giúp yank video từ terminal mà không có quảng cáo hay phiền toái.",
+  "usecases": [
+    "Tải nhanh video học tập hoặc tài liệu từ terminal mà không cần mở trình duyệt.",
+    "Script automation để trích xuất video từ các nguồn trực tiếp trong quy trình phát triển.",
+    "Sử dụng trong môi trường headless/server để trích xuất nội dung video an toàn."
+  ],
+  "ideas": [
+    "Kết hợp với playlist manager để tạo bộ video offline chỉ qua lệnh terminal.",
+    "Xây dựng bot cá nhân yank video theo yêu cầu qua chat hoặc voice command.",
+    "Sử dụng trong CI/CD để tự động trích xuất video demo cho repository."
+  ],
+  "stars": 3346,
+  "starsToday": 629,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-02T17:20:15.709Z"
+}

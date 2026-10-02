@@ -1,0 +1,35 @@
+{
+  "id": "0f22daa5-ee41-4fd0-b382-1faaa88e5f1e",
+  "repo": "NVIDIA/SkillSpector",
+  "url": "https://github.com/NVIDIA/SkillSpector",
+  "category": "Security/Pentest",
+  "summary": "SkillSpector là công cụ quét bảo mật cho kỹ năng AI agent, phát hiện prompt injection, rủi ro cung cấp chuỗi cung cấp và các mối nguy an ninh trước khi cài đặt Claude Code, Codex hoặc MCP skills.",
+  "usecases": [
+    "Phát hiện và chặn prompt injection trong các skill AI agent trước khi triển khai vào production.",
+    "Quét cung cấp chuỗi cung cấp (supply-chain) để phát hiện các dependency độc hại hoặc đã bị xâm nhập.",
+    "Cảnh báo real-time về rủi ro leakage dữ liệu khi AI agent thực thi tác vụ."
+  ],
+  "ideas": [
+    "Tích hợp vào pipeline CI/CD để quét tự động mỗi khi repo skill được cập nhật.",
+    "Phát triển báo cáo bảo mật định kỳ cho tổ chức sử dụng nhiều AI agent.",
+    "Mở rộng khả năng quét cho các framework AI agent nguồn mở và thương mại khác."
+  ],
+  "stars": 19063,
+  "starsToday": 167,
+  "language": "Python",
+  "topics": [
+    "agent-security",
+    "agent-skills",
+    "agentic-ai",
+    "ai-security",
+    "claude-code",
+    "mcp",
+    "prompt-injection",
+    "security-scanner",
+    "security-tools",
+    "security-workflow",
+    "supply-chain-security"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-02T17:20:15.709Z"
+}

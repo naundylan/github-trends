@@ -1,0 +1,23 @@
+{
+  "id": "cb664de1-4f43-4b24-aacf-8eae8a87e6ec",
+  "repo": "Friedrich-M/UniMate",
+  "url": "https://github.com/Friedrich-M/UniMate",
+  "category": "Machine Learning",
+  "summary": "UniMate là mô hình duy nhất dùng để hoạt hình hóa đa dạng skeleton, cho phép tạo động tác mượt mà và hiệu quả cho nhiều loại xương khung khác nhau.",
+  "usecases": [
+    "Hoạt hình tự động cho phim hoạt hình và game",
+    "Xử lý motion capture và làm sạch dữ liệu xương khung",
+    "Tạo avatar động trong thực tế ảo"
+  ],
+  "ideas": [
+    "Kết hợp với motion capture real-time cho virtual influencers",
+    "Phát triển plugin cho Blender/Maya tự động rigging",
+    "Áp dụng trong giáo dục trực tuyến để tạo nội dung hoạt hình"
+  ],
+  "stars": 1185,
+  "starsToday": 240,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-10-02T17:20:15.709Z"
+}

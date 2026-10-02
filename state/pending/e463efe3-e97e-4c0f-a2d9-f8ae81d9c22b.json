@@ -1,0 +1,30 @@
+{
+  "id": "e463efe3-e97e-4c0f-a2d9-f8ae81d9c22b",
+  "repo": "ayghri/i-have-adhd",
+  "url": "https://github.com/ayghri/i-have-adhd",
+  "category": "Developer Tool",
+  "summary": "Một skill Python cho coding agents cung cấp đầu ra thân thiện ADHD, giúp developers nhận câu trả lời nhanh chóng và tập trung.",
+  "usecases": [
+    "Giúp developer nhận câu trả lời từ coding agent một cách tức giản, giảm tải cho người ADHD.",
+    "Tích hợp vào quy trình làm việc hàng ngày để tối ưu hiệu suất review code và debug.",
+    "Tự động hóa định dạng phản hồi agent phù hợp với phong cách làm việc cá nhân."
+  ],
+  "ideas": [
+    "Phát triển plugin IDE tương tự hiển thị kết quả agent theo cách ADHD-friendly.",
+    "Kết hợp TTS để đọc aloud câu trả lời ngắn gọn cho người dùng trong mọi môi trường.",
+    "Tạo dashboard tùy chỉnh theo dõi phong cách output và hiệu suất của coding agents."
+  ],
+  "stars": 52873,
+  "starsToday": 277,
+  "language": "Python",
+  "topics": [
+    "adhd",
+    "claude-",
+    "claude-code-plugin",
+    "claude-skills",
+    "developer-tools",
+    "productivity"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-02T17:20:15.709Z"
+}

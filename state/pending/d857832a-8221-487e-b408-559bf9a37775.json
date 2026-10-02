@@ -1,0 +1,23 @@
+{
+  "id": "d857832a-8221-487e-b408-559bf9a37775",
+  "repo": "tile-ai/tilelang",
+  "url": "https://github.com/tile-ai/tilelang",
+  "category": "Developer Tool",
+  "summary": "Tilelang là ngôn ngữ miền cụm (DSL) nhằm đơn giản hóa phát triển kernel hiệu suất cao cho GPU, CPU và accelerator.",
+  "usecases": [
+    "Tối ưu kernel cho deep learning frameworks như PyTorch/TensorFlow",
+    "Phát triển kernel HPC cho khoa tính và khoa học dữ liệu",
+    "Tối ưu hiệu suất trên các accelerator phần cứng khác nhau"
+  ],
+  "ideas": [
+    "Tự động hóa tối ưu kernel trong pipeline build CI/CD",
+    "Tạo DSL tùy chỉnh cho ứng dụng đồ họa real-time",
+    "Kết hợp với biên toán để tối ưu hiệu suất trên edge devices"
+  ],
+  "stars": 8225,
+  "starsToday": 237,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-02T17:20:15.709Z"
+}
