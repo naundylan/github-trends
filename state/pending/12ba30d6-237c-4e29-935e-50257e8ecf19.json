@@ -1,0 +1,37 @@
+{
+  "id": "12ba30d6-237c-4e29-935e-50257e8ecf19",
+  "repo": "Snailclimb/JavaGuide",
+  "url": "https://github.com/Snailclimb/JavaGuide",
+  "category": "Documentation/Learning Resource",
+  "summary": "JavaGuide là repository hướng dẫn học tập và phỏng vấn Java toàn diện, bao gồm cơ bản máy tính, database, system design và ứng dụng AI hiện đại.",
+  "usecases": [
+    "Học sinh lập trình Java review kiến thức cơ bản và nâng cao theo cấu trúc bài học",
+    "Chuẩn bị phỏng vấn kỹ thuật cho vị trí backend Java tại các công ty top",
+    "Tìm reference nhanh về system design và distributed systems cho developer"
+  ],
+  "ideas": [
+    "Tạo bot AI tự động sinh câu hỏi phỏng vấn từ từng section nội dung",
+    "Phát triển extension VS Code hiển thị nội dung JavaGuide khi debug hoặc review code",
+    "Kết hợp với hệ thống điểm số để tạo roadmap học tập tự động cho sinh viên"
+  ],
+  "stars": 159008,
+  "starsToday": 30,
+  "language": "JavaScript",
+  "topics": [
+    "java",
+    "interview",
+    "redis",
+    "mysql",
+    "system-design",
+    "redisson",
+    "agent",
+    "context-engineering",
+    "mcp",
+    "skills",
+    "springai",
+    "ai",
+    "deepseek"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-02T09:23:26.719Z"
+}

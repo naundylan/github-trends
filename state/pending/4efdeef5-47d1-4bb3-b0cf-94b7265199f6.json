@@ -1,0 +1,28 @@
+{
+  "id": "4efdeef5-47d1-4bb3-b0cf-94b7265199f6",
+  "repo": "cordiverse/cordis",
+  "url": "https://github.com/cordiverse/cordis",
+  "category": "Web Framework",
+  "summary": "Meta-framework cho Node.js bằng TypeScript, cung cấp composability spatiotemporal cho plugin và ứng dụng.",
+  "usecases": [
+    "Xây dựng hệ thống plugin modular cho ứng dụng Node.js",
+    "Quản lý luồng dữ liệu và trạng thái theo thời gian thực",
+    "Tạo foundation cho micro-frontends hoặc serverless functions"
+  ],
+  "ideas": [
+    "Kết hợp với Effect.ts để quản lý side effects và composability nâng cao",
+    "Phát triển hệ thống plugin tự động hóa cho workflow CI/CD",
+    "Sử dụng làm framework cho các ứng dụng đòi hỏi tính thời gian thực cao"
+  ],
+  "stars": 8957,
+  "starsToday": 18,
+  "language": "TypeScript",
+  "topics": [
+    "framework",
+    "nodejs",
+    "effect",
+    "plugin"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-02T09:23:26.720Z"
+}

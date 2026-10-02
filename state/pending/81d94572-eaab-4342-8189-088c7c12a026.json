@@ -1,0 +1,23 @@
+{
+  "id": "81d94572-eaab-4342-8189-088c7c12a026",
+  "repo": "elder-plinius/OBLITERATUS",
+  "url": "https://github.com/elder-plinius/OBLITERATUS",
+  "category": "CLI Tool",
+  "summary": "OBLITERATUS là công cụ dòng lệnh Python tự động hóa quá trình xóa bỏ hoặc làm sạch các thành phần không mong muốn trong dự án.",
+  "usecases": [
+    "Tự động gỡ bỏ dependencies cũ hoặc không an toàn trong môi trường development.",
+    "Dọn dẹp cache và file tạm thời theo quy trình định制化.",
+    "Tích hợp vào workflow git để xử lý các branch hoặc commit cũ."
+  ],
+  "ideas": [
+    "Tạo chế độ tương tác cho developers review trước khi xóa các chuỗi dữ liệu.",
+    "Kết hợp với hooks pre-commit để tự động kiểm soát chất lượng code.",
+    "Phát triển báo cáo về các phần bị xóa để theo dõi thay đổi dự án."
+  ],
+  "stars": 8556,
+  "starsToday": 21,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-02T09:23:26.719Z"
+}

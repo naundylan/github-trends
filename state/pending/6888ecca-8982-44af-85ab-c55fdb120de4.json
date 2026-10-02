@@ -1,0 +1,28 @@
+{
+  "id": "6888ecca-8982-44af-85ab-c55fdb120de4",
+  "repo": "cli/cli",
+  "url": "https://github.com/cli/cli",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh chính thức của GitHub, cho phép quản lý repository, issues, pull requests và các tính năng GitHub trực tiếp từ terminal",
+  "usecases": [
+    "Tạo repository, issue, pull request mới trực tiếp từ terminal",
+    "Quản lý xác thực và phân quyền GitHub tự động trong scripts CI/CD",
+    "Tùy chỉnh và mở rộng workflow GitHub thông qua các lệnh CLI"
+  ],
+  "ideas": [
+    "Tự động hóa release notes và publishing package khi merge vào main branch",
+    "Tích hợp với IDEs để cung cấp lệnh GitHub nhanh mà không rời editor",
+    "Xây dựng bot nội bộ company để quản lý issue tracking và code review workflow"
+  ],
+  "stars": 46504,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "github-api-v4",
+    "cli",
+    "git",
+    "golang"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-02T09:23:26.719Z"
+}

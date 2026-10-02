@@ -1,0 +1,33 @@
+{
+  "id": "dbd8cf4d-bef4-439c-b49b-b2214c74611a",
+  "repo": "firecracker-microvm/firecracker",
+  "url": "https://github.com/firecracker-microvm/firecracker",
+  "category": "Serverless",
+  "summary": "Firecracker cung cấp microVMs an toàn và nhanh cho serverless, cho phép isolation và hiệu suất cao cho workloads đa tenant.",
+  "usecases": [
+    "Chạy AWS Lambda và các dịch vụ serverless khác với overhead thấp và startup nhanh",
+    "Deploy microservice cần isolation mạnh mẽ nhưng nhanh hơn container truyền thống",
+    "Hỗ trợ FaaS (Function as a Service) cho các workload an ninh cao trong đám mây"
+  ],
+  "ideas": [
+    "Tích hợp Firecracker với edge computing để deploy microVMs gần user cho latency thấp",
+    "Tạo nền tảng serverless tùy chỉnh cho các doanh nghiệp cần kiểm soát môi trường cứng",
+    "Kết hợp với Kubernetes để quản lý microVMs như pods trong cluster"
+  ],
+  "stars": 37109,
+  "starsToday": 28,
+  "language": "Rust",
+  "topics": [
+    "virtual-machine",
+    "sandbox",
+    "virtualization",
+    "rust",
+    "containers",
+    "minimalist",
+    "open-source",
+    "serverless",
+    "oversubscription"
+  ],
+  "notePath": "notes/Serverless.md",
+  "createdAt": "2026-10-02T09:23:26.719Z"
+}

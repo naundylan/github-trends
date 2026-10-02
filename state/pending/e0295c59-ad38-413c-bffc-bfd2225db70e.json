@@ -1,0 +1,39 @@
+{
+  "id": "e0295c59-ad38-413c-bffc-bfd2225db70e",
+  "repo": "aquasecurity/trivy",
+  "url": "https://github.com/aquasecurity/trivy",
+  "category": "Security/Pentest",
+  "summary": "Trivy là công cụ quét lỗ hổng mã nguồn mở giúp phát hiện lỗ hổng bảo mật, cấu hình sai và bí mật trong containers, Kubernetes và cơ sở hạ tầng.",
+  "usecases": [
+    "Quét container images để phát hiện CVE trước khi deploy vào production.",
+    "Kiểm tra cấu hình an toàn cho Kubernetes và Infrastructure as Code trong CI/CD.",
+    "Tích hợp tự động vào pipeline phát triển để đảm bảo tuân thủ bảo mật."
+  ],
+  "ideas": [
+    "Kết hợp với policy-as-code để tự động từ chối deploy có lỗ hổng nghiêm trọng.",
+    "Phát triển cảnh báo real-time cho developers khi phát hiện bí mật trong code.",
+    "Sử dụng kết quả quét để tạo báo cáo compliance tự động cho các dự án quy định."
+  ],
+  "stars": 38184,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "security",
+    "security-tools",
+    "docker",
+    "containers",
+    "vulnerability-scanners",
+    "vulnerability-detection",
+    "vulnerability",
+    "golang",
+    "go",
+    "kubernetes",
+    "hacktoberfest",
+    "devsecops",
+    "misconfiguration",
+    "infrastructure-as-code",
+    "iac"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-02T09:23:26.719Z"
+}

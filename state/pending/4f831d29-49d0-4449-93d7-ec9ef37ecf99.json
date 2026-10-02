@@ -1,0 +1,38 @@
+{
+  "id": "4f831d29-49d0-4449-93d7-ec9ef37ecf99",
+  "repo": "hashgraph-online/awesome-codex-plugins",
+  "url": "https://github.com/hashgraph-online/awesome-codex-plugins",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Một danh sách tuyển tập plugin, kỹ năng và tài nguyên cho OpenAI Codex và ChatGPT, hoạt động như thư viện #1 cho Codex.",
+  "usecases": [
+    "Discover and install Codex plugins to extend AI coding assistance for specific languages or frameworks.",
+    "Integrate Codex skills into CI/CD pipelines to auto-generate boilerplate, tests, or documentation.",
+    "Serve as a reference for building custom AI-powered developer tools or marketplace platforms."
+  ],
+  "ideas": [
+    "Develop a VS Code extension that fetches and displays this list inline for one-click plugin activation.",
+    "Build a community-driven ranking and review system for Codex plugins based on user feedback.",
+    "Create a starter kit for developers to publish their own Codex plugins following marketplace conventions."
+  ],
+  "stars": 1142,
+  "starsToday": 19,
+  "language": "Python",
+  "topics": [
+    "ai-coding",
+    "awesome",
+    "awesome-list",
+    "codex",
+    "codex-plugins",
+    "openai",
+    "codex-skill",
+    "codex-skills",
+    "marketplace",
+    "codex-marketplace",
+    "best-ai-plugins",
+    "best-codex-plugins",
+    "chatgpt",
+    "chatgpt-plugins"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-10-02T09:23:26.719Z"
+}

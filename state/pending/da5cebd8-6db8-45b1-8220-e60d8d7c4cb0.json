@@ -1,0 +1,28 @@
+{
+  "id": "da5cebd8-6db8-45b1-8220-e60d8d7c4cb0",
+  "repo": "helix-editor/helix",
+  "url": "https://github.com/helix-editor/helix",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Một trình soạn thảo văn bản modal hiện đại viết bằng Rust, nhanh và có thể tùy biến, được thiết kế để thay thế vim và kakoune.",
+  "usecases": [
+    "Daily code editing with modal vim-like keybindings in terminal or GUI environments.",
+    "Lightweight editing for large codebases with fast startup and low resource usage.",
+    "Custom plugin development for personalized workflows and language integration."
+  ],
+  "ideas": [
+    "Integrate real-time collaborative editing using CRDT technology for pair programming.",
+    "Add built-in Language Server Protocol support for enhanced autocomplete and refactoring.",
+    "Create themed distributions targeting specific developer communities like data scientists or systems programmers."
+  ],
+  "stars": 46430,
+  "starsToday": 21,
+  "language": "Rust",
+  "topics": [
+    "text-editor",
+    "vim",
+    "rust",
+    "kakoune"
+  ],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-10-02T09:23:26.719Z"
+}

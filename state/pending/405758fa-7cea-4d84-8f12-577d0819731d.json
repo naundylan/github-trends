@@ -1,0 +1,30 @@
+{
+  "id": "405758fa-7cea-4d84-8f12-577d0819731d",
+  "repo": "open-telemetry/opentelemetry-collector",
+  "url": "https://github.com/open-telemetry/opentelemetry-collector",
+  "category": "DevOps/CI-CD",
+  "summary": "Bộ thu thập telemetry (metrics, logs, traces) cho OpenTelemetry, hỗ trợ monitoring và observability cho ứng dụng phân tán.",
+  "usecases": [
+    "Thu thập và chuyển tiếp metrics từ microservices đến backend monitoring",
+    "Tổng hợp logs và traces từ nhiều nguồn vào một nơi duy nhất",
+    "Cấu hình pipeline dữ liệu telemetry cho môi trường cloud-native"
+  ],
+  "ideas": [
+    "Kết hợp AI để dự đoán sự cố dựa trên dữ liệu telemetry",
+    "Xây dựng custom observability dashboard tùy chỉnh",
+    "Tự động hóa instrument code mới thông qua configuration collector"
+  ],
+  "stars": 7633,
+  "starsToday": 18,
+  "language": "Go",
+  "topics": [
+    "opentelemetry",
+    "open-telemetry",
+    "telemetry",
+    "metrics",
+    "monitoring",
+    "observability"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-02T09:23:26.720Z"
+}

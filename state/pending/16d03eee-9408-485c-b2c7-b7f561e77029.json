@@ -1,0 +1,23 @@
+{
+  "id": "16d03eee-9408-485c-b2c7-b7f561e77029",
+  "repo": "cloudflare/vinext",
+  "url": "https://github.com/cloudflare/vinext",
+  "category": "Web Framework",
+  "summary": "Plugin Vite tái triển bề mặt API Next.js, cho phép triển khai ứng dụng Next.js trên Vite và deploy mọi nơi",
+  "usecases": [
+    "Chuyển đổi dự án Next.js sang Vite với tương thích API đầy đủ",
+    "Deploy Next.js-like apps lên các nền tảng không có Vercel (Cloudflare Pages, Netlify, v.v.)",
+    "Phát triển nhanh các ứng dụng full-stack React mà không cần cấu hình phức tạp của Next.js"
+  ],
+  "ideas": [
+    "Kết hợp với Cloudflare Workers để chạy API routes serverless mà không cần Next.js",
+    "Tạo starter template kết hợp Vite + Next.js API cho các dự án nhẹ",
+    "Sử dụng làm nền tảng cho các framework meta như Remix hoặc SvelteKit tương thích Vite"
+  ],
+  "stars": 9068,
+  "starsToday": 23,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-02T09:23:26.719Z"
+}
