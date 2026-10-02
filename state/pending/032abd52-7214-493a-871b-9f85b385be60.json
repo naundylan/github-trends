@@ -1,0 +1,23 @@
+{
+  "id": "032abd52-7214-493a-871b-9f85b385be60",
+  "repo": "magnitudedev/magnitude",
+  "url": "https://github.com/magnitudedev/magnitude",
+  "category": "AI/LLM",
+  "summary": "Mô inference engine open-source tự biên dịch và tối ưu kernel cho phần cứng, tăng tốc inference mô hình open lên 2x so với llama.cpp trên Apple Silicon, NVIDIA, AMD và CPU.",
+  "usecases": [
+    "Chạy inference LLM tối ưu trên phần cứng địa phương mà không cần tinh chỉnh kernel thủ công",
+    "Tăng tốc hiệu suất mô hình open-source trên các thiết bị đa dạng như Apple Silicon và GPU AMD",
+    "Triển khai AI agents hiệu quả trên thiết bị biên với tối ưu hóa phần cứng tự động"
+  ],
+  "ideas": [
+    "Kết hợp với vector database local để tạo pipeline RAG",
+    "Xây dựng trợ lý AI đa nền tảng tự tinh chỉnh theo cấu hình phần cứng của người dùng",
+    "Tạo wrapper benchmark tốc độ model trước và sau khi tối ưu"
+  ],
+  "stars": 6144,
+  "starsToday": 538,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-02T00:36:12.613Z"
+}

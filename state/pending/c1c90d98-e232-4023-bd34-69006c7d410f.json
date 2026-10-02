@@ -1,0 +1,28 @@
+{
+  "id": "c1c90d98-e232-4023-bd34-69006c7d410f",
+  "repo": "Neet-Nestor/Telegram-Media-Downloader",
+  "url": "https://github.com/Neet-Nestor/Telegram-Media-Downloader",
+  "category": "Other",
+  "summary": "A script allowing you to download images and videos from Telegram web even if the group restricts downloading.",
+  "usecases": [
+    "Khám phá và đánh giá Neet-Nestor/Telegram-Media-Downloader cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 5951,
+  "starsToday": 179,
+  "language": "JavaScript",
+  "topics": [
+    "greasyfork",
+    "greasymonkey",
+    "greasymonkey-userscript",
+    "javascript",
+    "telegram",
+    "userscript"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-02T00:36:12.614Z"
+}

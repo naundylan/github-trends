@@ -1,0 +1,21 @@
+{
+  "id": "35f1578d-53f3-4bba-b96c-8cf4161668b4",
+  "repo": "Friedrich-M/UniMate",
+  "url": "https://github.com/Friedrich-M/UniMate",
+  "category": "Other",
+  "summary": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+  "usecases": [
+    "Khám phá và đánh giá Friedrich-M/UniMate cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 1071,
+  "starsToday": 217,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-02T00:36:12.614Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "260f7b69-5903-4167-99bd-7f46b5a25c5d",
+  "repo": "JayWebtech/autoshorts",
+  "url": "https://github.com/JayWebtech/autoshorts",
+  "category": "Desktop App",
+  "summary": "Ứ dụng desktop local-first chuyển đổi video dài hoặc audio thành các đoạn ngắn dọc (9:16) có tính viral cao thông qua AI ranking.",
+  "usecases": [
+    "Tạo nhanh nội dung TikTok/Reels từ video dài cho các nhà sáng tạo",
+    "Trích xuất và phân hạng các đoạn có潜力 viral cho các kênh truyền thông xã hội",
+    "Tự động hóa cắt dựng video cho đa nền tảng mà không cần can thiệp thủ công"
+  ],
+  "ideas": [
+    "Kết hợp với API social media để đăng tự động đoạn video đã cắt",
+    "Tính năng voiceover và subtitle tạo bởi AI tùy chỉnh",
+    "Hỗ trợ workflow kết hợp local processing với cloud backup an toàn"
+  ],
+  "stars": 1077,
+  "starsToday": 34,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-02T00:36:12.614Z"
+}

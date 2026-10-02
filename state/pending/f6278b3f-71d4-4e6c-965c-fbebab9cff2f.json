@@ -1,0 +1,23 @@
+{
+  "id": "f6278b3f-71d4-4e6c-965c-fbebab9cff2f",
+  "repo": "tile-ai/tilelang",
+  "url": "https://github.com/tile-ai/tilelang",
+  "category": "Developer Tool",
+  "summary": "TileLang là một ngôn ngữ miền chức năng (DSL) nhằm đơn giản hóa quá trình phát triển các kernel hiệu suất cao cho GPU, CPU và các accelerator phần cứng, giúp tối ưu hóa hiệu suất tính toán.",
+  "usecases": [
+    "Tối ưu hóa kernel cho các mô hình AI lớn trên GPU",
+    "Phát triển các kernel hiệu suất cho ứng dụng HPC (Tính toán cao hiệu suất)",
+    "Tự động tối ưu hóa mã cho các accelerator phần cứng khác"
+  ],
+  "ideas": [
+    "Kết hợp TileLang với TVM/LLVM để tạo pipeline biên tập kernel tự động",
+    "Tạo DSL riêng cho ứng dụng đồ họa thời thực trên Vulkan/OpenGL",
+    "Phát triển plugin IDE hỗ trợ viết và debug kernel TileLang"
+  ],
+  "stars": 8099,
+  "starsToday": 163,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-02T00:36:12.614Z"
+}

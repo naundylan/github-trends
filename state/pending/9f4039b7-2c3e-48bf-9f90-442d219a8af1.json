@@ -1,0 +1,41 @@
+{
+  "id": "9f4039b7-2c3e-48bf-9f90-442d219a8af1",
+  "repo": "firebase/firebase-ios-sdk",
+  "url": "https://github.com/firebase/firebase-ios-sdk",
+  "category": "Mobile (iOS/Android)",
+  "summary": "SDK Firebase native cho iOS, cung cấp các dịch vụ backend như cơ sở dữ liệu, xác thực, lưu trữ và thông báo đẩy trực tiếp trong ứng dụng Apple.",
+  "usecases": [
+    "Thêm tính năng xác thực và cơ sở dữ liệu thời gian thực vào ứng dụng iOS",
+    "Triển khai push notification và analytics cho app Apple",
+    "Lưu trữ tệp và nội dung đa phương tiện qua Firebase Storage trên iOS"
+  ],
+  "ideas": [
+    "Tích hợp Firebase SDK với SwiftUI để xây dựng ứng dụng serverless hoàn toàn trên Apple platform",
+    "Tự động hóa báo cáo crash và analytics cho nhiều ứng dụng iOS qua dashboard Firebase",
+    "Xây dựng hệ thống xác thực đa yếu tố kết hợp biometric trên iOS sử dụng Firebase Auth"
+  ],
+  "stars": 6857,
+  "starsToday": 112,
+  "language": "C++",
+  "topics": [
+    "firebase",
+    "ios-sdk",
+    "objective-c",
+    "database-as-a-service",
+    "push-notifications",
+    "storage-service",
+    "authentication",
+    "firebase-database",
+    "firebase-auth",
+    "firebase-authentication",
+    "firebase-storage",
+    "firebase-messaging",
+    "database",
+    "ai",
+    "crash-reporting",
+    "analytics",
+    "gemini"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-10-02T00:36:12.614Z"
+}

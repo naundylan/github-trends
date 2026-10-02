@@ -1,0 +1,23 @@
+{
+  "id": "411e0ce5-5735-4e8a-9f3b-afd76ba9bcc5",
+  "repo": "pablostanley/yoinks",
+  "url": "https://github.com/pablostanley/yoinks",
+  "category": "CLI Tool",
+  "summary": "Công cụ CLI terminal để tải video trực tiếp, ưu tiên trải nghiệm không quảng cáo và bảo mật riêng.",
+  "usecases": [
+    "Tải nhanh video giáo dục hoặc tutorial để xem offline",
+    "Tự động hóa thu thập video cho quy trình tạo nội dung",
+    "Lấy video trong scripts mà không cần tương tác trình duyệt hoặc theo dõi"
+  ],
+  "ideas": [
+    "Kết hợp với downloader phụ đề để tạo công cụ học ngôn ngữ",
+    "Xây dựng quản lý thư viện video dựa trên CLI",
+    "Kết hợp API playlist để tải hàng loạt video tự động"
+  ],
+  "stars": 2926,
+  "starsToday": 361,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-02T00:36:12.614Z"
+}
