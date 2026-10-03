@@ -1,0 +1,39 @@
+{
+  "id": "0064f6d0-a8fd-47f3-aaf5-a9106b2cc4cb",
+  "repo": "aquasecurity/trivy",
+  "url": "https://github.com/aquasecurity/trivy",
+  "category": "Security/Pentest",
+  "summary": "Trình quét lỗ hổng toàn diện cho containers, Kubernetes và mã nguồn để tìm vulnerabilities, misconfigurations và secrets.",
+  "usecases": [
+    "Scanning container images in CI/CD pipelines to catch vulnerabilities before production deployment.",
+    "Identifying misconfigurations and hardcoded secrets in Kubernetes manifests and Helm charts.",
+    "Generating SBOMs for open-source dependency tracking and compliance auditing."
+  ],
+  "ideas": [
+    "Integrate Trivy reports into custom dashboards for real-time security posture monitoring across environments.",
+    "Build a policy-as-code framework using Trivy's exit codes to enforce organizational security standards.",
+    "Extend scanning to private cloud artifact registries for hybrid environment security coverage."
+  ],
+  "stars": 38209,
+  "starsToday": 29,
+  "language": "Go",
+  "topics": [
+    "security",
+    "security-tools",
+    "docker",
+    "containers",
+    "vulnerability-scanners",
+    "vulnerability-detection",
+    "vulnerability",
+    "golang",
+    "go",
+    "kubernetes",
+    "hacktoberfest",
+    "devsecops",
+    "misconfiguration",
+    "infrastructure-as-code",
+    "iac"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-03T20:26:53.407Z"
+}

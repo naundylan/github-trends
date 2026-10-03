@@ -1,0 +1,34 @@
+{
+  "id": "1a1f1a69-563a-4b1c-a6ab-1cf1f8d70cd3",
+  "repo": "breferrari/obsidian-mind",
+  "url": "https://github.com/breferrari/obsidian-mind",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "Mở rộng cho Obsidian tự tổ chức vault và cung cấp bộ nhớ dài hạn cho các agent viết code, kết hợp AI với quản lý kiến thức để tăng hiệu suất làm việc.",
+  "usecases": [
+    "Agent AI giữ context và ghi nhớ qua các phiên làm việc trong Obsidian cho các tác vụ lập trình",
+    "Quản lý kiến thức cá nhân với tổ chức tự động và truy xuất thông minh bởi AI",
+    "Tổ chức bộ nhớ dự án nhóm với AI tự động tạo liên kết và tóm tắt"
+  ],
+  "ideas": [
+    "Tích hợp với các LLM cục bộ chạy offline để đảm bảo quyền riêng tư",
+    "Xây dựng plugin tự động sinh tài liệu từ nội dung vault",
+    "Kết hợp với hệ thống quản lý nhiệm vụ để AI prioritize và lên kế hoạch dựa trên nội dung ghi chép"
+  ],
+  "stars": 4877,
+  "starsToday": 45,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "codex-cli",
+    "gemini-cli",
+    "knowledge-management",
+    "obsidian",
+    "obsidian-vault",
+    "persistent-memory",
+    "second-brain",
+    "template"
+  ],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-10-03T20:26:53.407Z"
+}

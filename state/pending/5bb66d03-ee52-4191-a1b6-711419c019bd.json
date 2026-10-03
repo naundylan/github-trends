@@ -1,0 +1,35 @@
+{
+  "id": "5bb66d03-ee52-4191-a1b6-711419c019bd",
+  "repo": "Tracer-Cloud/opensre",
+  "url": "https://github.com/Tracer-Cloud/opensre",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ công cụ mã nguồn mở để xây dựng AI SRE agents, tự động hóa phân tích nguyên nhân gốc rễ và quản lý sự kiện quan quan trong môi trường observability.",
+  "usecases": [
+    "Tự động hóa triage và phản ứng với cảnh báo trong production, giảm thời gian downtime.",
+    "Phân tích nguyên nhân gốc rễ (RCA) bằng cách tổng hợp logs, metrics và dữ liệu code changes.",
+    "Tích hợp với Datadog, Grafana và Slack để tạo ra các agent SRE chủ động."
+  ],
+  "ideas": [
+    "Triển khai marketplace các agent SRE có thể chia sẻ và tái sử dụng giữa các tổ chức.",
+    "Tùy chỉnh các agent bằng LLM riêng tư để phù hợp với quy trình remediation doanh nghiệp.",
+    "Tự động tạo tài liệu quá trình incident response dựa trên hành vi của các agent."
+  ],
+  "stars": 11358,
+  "starsToday": 27,
+  "language": "Python",
+  "topics": [
+    "ai-sre",
+    "alerting",
+    "datadog",
+    "grafana",
+    "observability",
+    "remediation",
+    "root-cause-analysis",
+    "site-reliability-engineering",
+    "slack",
+    "sre",
+    "incident-management"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-03T20:26:53.407Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "c8f83cd2-6cc6-421c-ba1d-7e79ccea92ef",
+  "repo": "Autumn-27/ARTEX",
+  "url": "https://github.com/Autumn-27/ARTEX",
+  "category": "Security/Pentest",
+  "summary": "Hệ thống kiểm thử xâm nhập tự do bằng AI, được thiết kế để tự động hóa các cuộc tấn công và phòng thủ trong các cuộc thi tấn công‑phòng thủ, đạt giải vô địch tại cuộc thi Baidu Agent+.",
+  "usecases": [
+    "Tự động phát hiện và khai thác lỗ hổng trong môi trường CTF hoặc hệ thống thực tế",
+    "Hỗ trợ training và luyện tập kỹ năng tấn‑phòng cho đội nhóm bảo mật",
+    "Tạo nhanh các vectơ tấn công cho nghiên cứu an ninh mạng"
+  ],
+  "ideas": [
+    "Kết hợp với honeypot để tăng khả năng thu thập mối đe dọa",
+    "Phát triển giao diện điều khiển trực quan cho việc theo dõi tiến trình xâm nhập",
+    "Tích hợp mô hình LLM riêng để tùy chỉnh phong cách tấn công"
+  ],
+  "stars": 1464,
+  "starsToday": 78,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-03T20:26:53.407Z"
+}

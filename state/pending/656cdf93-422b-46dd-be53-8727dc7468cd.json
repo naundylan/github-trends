@@ -1,0 +1,29 @@
+{
+  "id": "656cdf93-422b-46dd-be53-8727dc7468cd",
+  "repo": "agno-agi/agno",
+  "url": "https://github.com/agno-agi/agno",
+  "category": "AI Agent/Automation",
+  "summary": "Framework Python để xây dựng, chạy và quản lý các nền tảng AI agent một cách dễ dàng.",
+  "usecases": [
+    "Rapid prototyping and deployment of autonomous AI agents for task automation.",
+    "Building multi-agent systems for complex workflow orchestration.",
+    "Integrating AI agents into existing developer tools or internal business workflows."
+  ],
+  "ideas": [
+    "Combine with vector databases to enable Retrieval-Augmented Generation (RAG) capabilities for agents.",
+    "Develop a visual agent builder UI on top of the framework for non-technical users.",
+    "Deploy agents as serverless functions for scalable, on-demand AI execution."
+  ],
+  "stars": 42533,
+  "starsToday": 41,
+  "language": "Python",
+  "topics": [
+    "developer-tools",
+    "python",
+    "agents",
+    "ai",
+    "ai-agents"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-03T20:26:53.407Z"
+}

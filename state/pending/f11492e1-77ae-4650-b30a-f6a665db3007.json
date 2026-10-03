@@ -1,0 +1,23 @@
+{
+  "id": "f11492e1-77ae-4650-b30a-f6a665db3007",
+  "repo": "minghinmatthewlam/pi-gui",
+  "url": "https://github.com/minghinmatthewlam/pi-gui",
+  "category": "Desktop App",
+  "summary": "Ứng dụng giao diện đồ họa (GUI) dựa trên Electron để tương tác với pi coding agent runtime, cung cấp trải nghiệm desktop quản lý tác vụ code.",
+  "usecases": [
+    "Cung cấp giao diện trực quan để theo dõi và điều khiển các tác vụ chạy bởi pi coding agent runtime.",
+    "Giúp quản lý và visualizar tiến độ viết code hoặc tự động hóa phát triển software thông qua GUI.",
+    "Tích hợp với môi trường phát triển (IDE) để thực hiện các lệnh automation một cách dễ dàng hơn."
+  ],
+  "ideas": [
+    "Phát triển plugin VS Code để kết nối trực tiếp với pi-gui runtime từ bên trong editor.",
+    "Sử dụng làm nền tảng quản lý nhiều coding agents cùng lúc trong một dự án lớn.",
+    "Tích hợp với CI/CD để tự động trigger các tác vụ code dựa trên đầu vào từ giao diện desktop."
+  ],
+  "stars": 1140,
+  "starsToday": 24,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-03T20:26:53.407Z"
+}

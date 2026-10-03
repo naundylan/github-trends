@@ -1,0 +1,23 @@
+{
+  "id": "99e0aae9-d11b-4b98-8985-9c993e9bb7f7",
+  "repo": "meituan-longcat/LongCat-Video",
+  "url": "https://github.com/meituan-longcat/LongCat-Video",
+  "category": "CLI Tool",
+  "summary": "LongCat-Video là một công cụ Python dùng cho xử lý video, hỗ trợ các tác vụ cắt, ghép và chuyển đổi định dạng.",
+  "usecases": [
+    "Tự động cắt và chỉnh sửa video cho các nền tảng truyền thông xã hội",
+    "Xử lý hàng loạt video cho dịch vụ streaming hoặc lưu trữ dài hạn",
+    "Tích hợp vào pipeline CI/CD để validate chất lượng video"
+  ],
+  "ideas": [
+    "Xây dựng web app tự động tạo thumbnail và clip teaser từ video dài",
+    "Kết hợp AI để tách đối tượng/video nền tự động",
+    "Tạo CLI để đồng bộ và backup video giữa local và cloud storage"
+  ],
+  "stars": 8705,
+  "starsToday": 43,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-03T20:26:53.407Z"
+}

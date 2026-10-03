@@ -1,0 +1,23 @@
+{
+  "id": "6bf3f9e6-0fd4-4425-8644-cd207823fc9f",
+  "repo": "samwhosung/benilla",
+  "url": "https://github.com/samwhosung/benilla",
+  "category": "Game Dev",
+  "summary": "Benilla là client World of Warcraft 1.12.1 được viết từ đầu bằng Rust và Bevy, cung cấp trải nghiệm game tùy chỉnh hoặc bảo tồn phiên bản cũ.",
+  "usecases": [
+    "Nghiên cứu và phát triển client game sử dụng Rust và game engine hiện đại",
+    "Tạo server private WoW hoặc môi trường chơi game tùy chỉnh",
+    "Khảo sát hiệu suất và kỹ thuật lập trình game bằng Rust trong môi trường thực tế"
+  ],
+  "ideas": [
+    "Tích hợp AI cho NPC hoặc hệ thống tự động chơi (bot) với mã nguồn mở",
+    "Phát triển plugin hoặc module mở rộng cho client Benilla",
+    "Sử dụng làm nền tảng giáo dục cho lập trình game Rust hiện đại"
+  ],
+  "stars": 529,
+  "starsToday": 95,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-10-03T20:26:53.407Z"
+}

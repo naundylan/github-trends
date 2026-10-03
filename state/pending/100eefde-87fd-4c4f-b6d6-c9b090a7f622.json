@@ -1,0 +1,29 @@
+{
+  "id": "100eefde-87fd-4c4f-b6d6-c9b090a7f622",
+  "repo": "tursodatabase/turso",
+  "url": "https://github.com/tursodatabase/turso",
+  "category": "Database",
+  "summary": "Turso là một cơ sở dữ liệu SQL viết bằng Rust, tương thích SQLite và đang thử nghiệm hỗ trợ Postgres, cung cấp khả năng embedding và triển khai WebAssembly, được ví như 'LLVM của cơ sở dữ liệu'.",
+  "usecases": [
+    "Triển khai cơ sở dữ liệu địa phương-first trong ứng dụng di động và desktop với đồng bộ tự động",
+    "Sử dụng trong các hàm serverless và edge computing cần SQL lightweight",
+    "Phát triển ứng dụng WebAssembly cần lưu trữ dữ liệu cục bộ với tương tác backend"
+  ],
+  "ideas": [
+    "Xây dựng ứng dụng offline-first đồng bộ giữa browser và server thông qua WASM",
+    "Sử dụng làm backend database cho các thiết bị IoT với tài nguyên hạn chế",
+    "Tạo nền tảng Database-as-a-Service cá nhân với quyền kiểm soát mã hóa và lưu trữ"
+  ],
+  "stars": 24545,
+  "starsToday": 44,
+  "language": "Rust",
+  "topics": [
+    "database",
+    "embedded-database",
+    "sql",
+    "sqlite3",
+    "webassembly"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-10-03T20:26:53.407Z"
+}
