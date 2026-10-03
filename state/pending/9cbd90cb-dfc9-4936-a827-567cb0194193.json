@@ -1,0 +1,23 @@
+{
+  "id": "9cbd90cb-dfc9-4936-a827-567cb0194193",
+  "repo": "jamwithai/production-agentic-rag-course",
+  "url": "https://github.com/jamwithai/production-agentic-rag-course",
+  "category": "AI Agent/Automation",
+  "summary": "Khóa học hướng dẫn xây dựng hệ thống RAG agentic production-ready sử dụng Python, tích hợp retrieval, generation và logic tự hành.",
+  "usecases": [
+    "Học cách xây dựng pipeline RAG production-ready với agent automation.",
+    "Triển khai hệ thống trả lời câu hỏi tự động hóa dựa trên tài liệu nội bộ.",
+    "Nghiên cứu và áp dụng các pattern agentic cho LLM applications."
+  ],
+  "ideas": [
+    "Kết hợp với LangChain/LlamaIndex để xây dựng agent tự phản hồi và sử dụng tools.",
+    "Deploy làm microservice FastAPI với monitoring cho pipeline RAG.",
+    "Tạo blog/video series giải thích concept agentic RAG cho cộng đồng."
+  ],
+  "stars": 9322,
+  "starsToday": 192,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-03T15:43:48.529Z"
+}

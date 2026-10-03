@@ -1,0 +1,23 @@
+{
+  "id": "b8110be4-7f2e-426b-8b77-3d1ca5e326e5",
+  "repo": "pingdotgg/t3code",
+  "url": "https://github.com/pingdotgg/t3code",
+  "category": "Boilerplate/Starter Template",
+  "summary": "T3 Stack boilerplate cung cấp sẵn cấu hình TypeScript, Next.js, tRPC, Tailwind CSS, Prisma và NextAuth để khởi động dự án full-stack nhanh chóng.",
+  "usecases": [
+    "Khởi tạo dự án SaaS full-stack với type-safety end-to-end",
+    "Xây dựng ứng dụng web real-time với tRPC và WebSocket",
+    "Prototype nhanh MVP với authentication và database sẵn có"
+  ],
+  "ideas": [
+    "Kết hợp với shadcn/ui để tạo starter kit component-rich cho team nội bộ",
+    "Tích hợp thêm tRPC React Query v5 và Server Actions cho pattern hybrid rendering",
+    "Mở rộng thành template monorepo với Turborepo cho nhiều apps/packages"
+  ],
+  "stars": 24485,
+  "starsToday": 251,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Boilerplate-Starter-Template.md",
+  "createdAt": "2026-10-03T15:43:48.529Z"
+}

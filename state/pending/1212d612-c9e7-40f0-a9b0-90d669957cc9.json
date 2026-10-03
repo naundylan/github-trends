@@ -1,0 +1,30 @@
+{
+  "id": "1212d612-c9e7-40f0-a9b0-90d669957cc9",
+  "repo": "avelino/awesome-go",
+  "url": "https://github.com/avelino/awesome-go",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách curate các framework, library và phần mềm nổi bật cho ngôn ngữ Go, hỗ trợ phát triển nhanh và tìm giải pháp.",
+  "usecases": [
+    "Tìm kiếm nhanh các library Go có sẵn cho các tác vụ cụ thể (HTTP, database, caching).",
+    "Kickstart dự án Go mới bằng cách tham khảo các framework được community đánh giá.",
+    "Học best practices Go thông qua các project nổi bật trong danh sách."
+  ],
+  "ideas": [
+    "Sử dụng list làm starting point cho assessment tech stack nội bộ công ty.",
+    "Contribute library vào list để tăng visibility và hacktoberfest participation.",
+    "So sánh hiệu năng giữa các framework nổi bật trong list cho use case cụ thể."
+  ],
+  "stars": 186721,
+  "starsToday": 165,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "golang-library",
+    "go",
+    "awesome",
+    "awesome-list",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-10-03T15:43:48.529Z"
+}

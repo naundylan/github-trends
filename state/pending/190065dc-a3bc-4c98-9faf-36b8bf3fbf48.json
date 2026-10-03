@@ -1,0 +1,29 @@
+{
+  "id": "190065dc-a3bc-4c98-9faf-36b8bf3fbf48",
+  "repo": "handsomestWei/patent-disclosure-skill",
+  "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+  "category": "AI/LLM",
+  "summary": "Công cụ hỗ trợ khai thác ý tưởng và viết bản tuyên bố bảo hộ bằng tiếng Trung, giúp hiểu rõ các điểm phát minh và hỗ trợ nghiên cứu chính sách.",
+  "usecases": [
+    "Giúp các nhà phát triển hiểu nhanh hơn về các bản quyền sáng chế và viết tài liệu bảo hộ",
+    "Phân tích xu hướng chính sách liên quan đến công nghệ trí tuệ nhân tạo",
+    "Hỗ trợ các doanh nghiệp trong việc xây dựng chiến lược bảo hộ sở hữu trí tuệ"
+  ],
+  "ideas": [
+    "Tích hợp với các cơ sở dữ liệu luật để cung cấp thông tin cập nhật nhất",
+    "Xây dựng hệ thống học máy để phân loại và phân tích các đề nghị bảo hộ",
+    "Tạo giao diện trực quan cho người dùng không có kiến thức pháp lý"
+  ],
+  "stars": 10946,
+  "starsToday": 151,
+  "language": "Python",
+  "topics": [
+    "chinese",
+    "disclosure",
+    "patent",
+    "skill",
+    "obsidian"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-03T15:43:48.529Z"
+}

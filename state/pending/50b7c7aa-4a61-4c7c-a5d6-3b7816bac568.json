@@ -1,0 +1,27 @@
+{
+  "id": "50b7c7aa-4a61-4c7c-a5d6-3b7816bac568",
+  "repo": "p-e-w/heretic",
+  "url": "https://github.com/p-e-w/heretic",
+  "category": "AI/LLM",
+  "summary": "Heretic tự động loại bỏ các lớp censorship/safety alignment khỏi LLM thông qua kỹ thuật abliteration, cho phép model trả lời không bị giới hạn bởi guardrails.",
+  "usecases": [
+    "Nghiên cứu hành vi model khi bỏ qua safety training",
+    "Fine-tune model cho use case đặc thù cần ít giới hạn nội dung",
+    "So sánh hiệu suất model trước/sau abliteration trên benchmark"
+  ],
+  "ideas": [
+    "Tích hợp vào pipeline evaluation để đo lường độ an toàn vsutility trade-off",
+    "Kết hợp với LoRA/QLoRA để abliteration hiệu quả trên model lớn (70B+)",
+    "Xây dựng dashboard so sánh response của model gốc vs abliterated cho red-teaming"
+  ],
+  "stars": 33009,
+  "starsToday": 233,
+  "language": "Python",
+  "topics": [
+    "abliteration",
+    "llm",
+    "transformer"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-03T15:43:48.529Z"
+}

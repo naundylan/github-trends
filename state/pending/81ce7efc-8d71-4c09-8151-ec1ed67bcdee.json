@@ -1,0 +1,23 @@
+{
+  "id": "81ce7efc-8d71-4c09-8151-ec1ed67bcdee",
+  "repo": "pablostanley/yoinks",
+  "url": "https://github.com/pablostanley/yoinks",
+  "category": "CLI Tool",
+  "summary": "Công cụ CLI giúp tải xuống bất kỳ video nào trực tiếp từ terminal, không có quảng cáo đáng chú ý.",
+  "usecases": [
+    "Tải video nhanh cho phát triển/test mà không cần trình duyệt.",
+    "Tích hợp vào scripts tự động hóa để trích xuất nội dung video.",
+    "Dùng làm công cụ cá nhân để lưu trữ video từ các nguồn trực tuyến thông qua terminal."
+  ],
+  "ideas": [
+    "Kết hợp với yt-dlp để hỗ trợ đa nền tảng và định dạng.",
+    "Thêm tùy chọn chọn chất lượng video trực tiếp từ terminal.",
+    "Tạo plugin cho các shell (zsh/bash) để lệnh yoink được hoàn thành tự động."
+  ],
+  "stars": 3734,
+  "starsToday": 508,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-03T15:43:48.529Z"
+}
