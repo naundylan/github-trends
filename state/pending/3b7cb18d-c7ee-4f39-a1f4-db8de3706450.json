@@ -1,0 +1,23 @@
+{
+  "id": "3b7cb18d-c7ee-4f39-a1f4-db8de3706450",
+  "repo": "pablostanley/yoinks",
+  "url": "https://github.com/pablostanley/yoinks",
+  "category": "CLI Tool",
+  "summary": "Yoinks là công cụ dòng lệnh bằng TypeScript cho phép tải video từ nhiều nguồn khác nhau trực tiếp trên terminal mà không cần qua quảng cáo đáng ngờ. Dự án nổi bật với giao diện người dùng đơn giản và hỗ trợ đa định dạng video.",
+  "usecases": [
+    "Tải video từ các nền tảng như YouTube, Twitter, Facebook để xem ngoại tuyến.",
+    "Tích hợp vào script tự động hóa để lưu trữ video theo chương trình.",
+    "Sử dụng trong môi trường server để tải video mà không cần trình duyệt."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ chuyển đổi định dạng để tự động mã hóa video sau khi tải.",
+    "Xây dựng giao diện web quản lý dan sách tải video sử dụng Yoinks như engine xử lý.",
+    "Phát triển plugin hỗ trợ tải video từ các nền tảng chuyên ngành như khóa học trực tuyến."
+  ],
+  "stars": 3544,
+  "starsToday": 623,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-03T03:16:54.085Z"
+}

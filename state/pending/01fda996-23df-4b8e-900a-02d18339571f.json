@@ -1,0 +1,36 @@
+{
+  "id": "01fda996-23df-4b8e-900a-02d18339571f",
+  "repo": "tinyhumansai/openhuman",
+  "url": "https://github.com/tinyhumansai/openhuman",
+  "category": "AI Agent/Automation",
+  "summary": "OpenHuman là harness agent mã nguồn mở nhanh, rẻ và hiệu quả nhất viết bằng Rust, dùng để xây dựng AI assistants và tự động hóa desktop.",
+  "usecases": [
+    "Orchestration agent AI cục bộ cho ứng dụng desktop mà không phụ thuộc cloud.",
+    "Xây dựng AI assistant bảo mật riêng tư chạy hoàn toàn trên phần cứng người dùng.",
+    "Prototyping nhanh các workflow tự động hóa powered by LLM cho tác vụ thực tế."
+  ],
+  "ideas": [
+    "Kết hợp với Tauri để xây dựng desktop AI assistant đa nền tảng nhẹ.",
+    "Tạo hệ thống 'second brain' agent truy xuất và tổng hợp thông tin từ notes/files người dùng cục bộ.",
+    "Phát triển hệ điều khiển đa agent cho tự động hóa nhà thông minh hoặc phân bổ workflow."
+  ],
+  "stars": 40462,
+  "starsToday": 78,
+  "language": "Rust",
+  "topics": [
+    "ai-agents",
+    "llm",
+    "local-first",
+    "rust",
+    "agent-orchestration",
+    "ai-assistant",
+    "desktop",
+    "mcp",
+    "personal-ai",
+    "privacy",
+    "second-brain",
+    "tauri"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-03T03:16:54.085Z"
+}

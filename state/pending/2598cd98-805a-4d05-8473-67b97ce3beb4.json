@@ -1,0 +1,23 @@
+{
+  "id": "2598cd98-805a-4d05-8473-67b97ce3beb4",
+  "repo": "Friedrich-M/UniMate",
+  "url": "https://github.com/Friedrich-M/UniMate",
+  "category": "Computer Vision",
+  "summary": "Mô hình AI thống nhất để hoạt hình hóa các xương khung đa dạng, cho phép tạo chuyển động mượt mà cho nhiều loại skeleton khác nhau trong animation 3D.",
+  "usecases": [
+    "Tạo animation tự động cho nhân vật game hoặc phim hoạt hình dựa trên skeleton",
+    "Phát triển mô hình chuyển động cho các thiết bị VR/AR",
+    "Tích hợp vào pipeline rigging để giảm thời gian animate thủ công"
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu motion capture để tạo animation hybrid real-time",
+    "Phát triển plugin cho Blender hoặc Unity để import model UniMate",
+    "Mở rộng để hỗ trợ animate cho vật thể không gian hoặc soft body dynamics"
+  ],
+  "stars": 1211,
+  "starsToday": 248,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-10-03T03:16:54.085Z"
+}

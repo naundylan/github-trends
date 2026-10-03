@@ -1,0 +1,23 @@
+{
+  "id": "5548e027-e006-478c-86c7-6c8b6e579f8f",
+  "repo": "tile-ai/tilelang",
+  "url": "https://github.com/tile-ai/tilelang",
+  "category": "Developer Tool",
+  "summary": "Tilelang là một ngôn ngữ miền (domain-specific language) nhằm đơn giản hóa và tối ưu hóa việc phát triển các kernel hiệu suất cao cho GPU, CPU và các accelerator.",
+  "usecases": [
+    "Tối ưu hóa hiệu suất kernel cho ứng dụng AI/ML trên GPU",
+    "Phát triển kernel cho các accelerator phần cứng tùy chỉnh",
+    "Tự động hóa tối ưu mã cho các ứng dụng tính toán nặng"
+  ],
+  "ideas": [
+    "Kết hợp với frameworks AI như TensorFlow/PyTorch để tự động tối ưu kernel",
+    "Tạo DSL riêng cho ứng dụng đồ họa/hiệu ứng thời gian thực",
+    "Sử dụng trong hệ thống biên (edge computing) để tối ưu hiệu suất trên phần cứng có hạn"
+  ],
+  "stars": 8252,
+  "starsToday": 244,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-03T03:16:54.085Z"
+}
