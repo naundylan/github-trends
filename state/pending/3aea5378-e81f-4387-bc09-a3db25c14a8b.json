@@ -1,0 +1,40 @@
+{
+  "id": "3aea5378-e81f-4387-bc09-a3db25c14a8b",
+  "repo": "gitleaks/gitleaks",
+  "url": "https://github.com/gitleaks/gitleaks",
+  "category": "Security/Pentest",
+  "summary": "Công cụ mã nguồn mở dùng để tìm và quét các bí mật rò rỉ trong các kho lưu trữ Git.",
+  "usecases": [
+    "Quét lịch sử kho lưu trữ để phát hiện thông tin đăng nhập rò rỉ",
+    "Kết hợp vào pipeline CI/CD để ngăn chặn rò rỉ trước khi triển khai",
+    "Sử dụng hook pre‑commit để kiểm tra khi thay đổi mã"
+  ],
+  "ideas": [],
+  "stars": 29631,
+  "starsToday": 20,
+  "language": "Go",
+  "topics": [
+    "security",
+    "security-tools",
+    "git",
+    "golang",
+    "go",
+    "secret",
+    "gitleaks",
+    "devsecops",
+    "hacktoberfest",
+    "ci-cd",
+    "cicd",
+    "cli",
+    "data-loss-prevention",
+    "dlp",
+    "open-source",
+    "ai-powered",
+    "llm",
+    "llm-inference",
+    "llm-training",
+    "nhi"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-03T11:08:08.985Z"
+}

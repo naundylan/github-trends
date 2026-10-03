@@ -1,0 +1,28 @@
+{
+  "id": "653291e5-b86c-4a37-800e-19f337c6d912",
+  "repo": "lharries/whatsapp-mcp",
+  "url": "https://github.com/lharries/whatsapp-mcp",
+  "category": "AI Agent/Automation",
+  "summary": "A WhatsApp MCP (Model Context Protocol) server implemented in Go, designed to bridge AI agents with WhatsApp messaging capabilities. It allows AI systems to send and receive messages via WhatsApp using the WhatsApp API, enabling conversational automation.",
+  "usecases": [
+    "Enabling AI chatbots to communicate with users over WhatsApp for customer support or personal assistance.",
+    "Integrating WhatsApp messaging into AI agent workflows for notifications, alerts, or interactive conversations.",
+    "Building automated marketing or survey bots that leverage WhatsApp as a communication channel through AI-driven logic."
+  ],
+  "ideas": [
+    "Combining this server with LLM-powered agents to create intelligent WhatsApp assistants that can schedule meetings or answer FAQs autonomously.",
+    "Developing a multi-channel communication hub where AI agents can interact via WhatsApp, Slack, and email using unified MCP interfaces.",
+    "Creating a no-code automation platform that uses this MCP server as a trigger/action module for WhatsApp-based workflows in business processes."
+  ],
+  "stars": 6382,
+  "starsToday": 23,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "mcp",
+    "whatsapp",
+    "whatsapp-api"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-03T11:08:08.985Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "764d3189-71a0-4231-b71d-4c99344e90f7",
+  "repo": "tradingview/lightweight-charts",
+  "url": "https://github.com/tradingview/lightweight-charts",
+  "category": "UI/Component Library",
+  "summary": "Thư viện vẽ biểu đồ tài chính hiệu suất cao sử dụng HTML5 canvas, cho phép tạo biểu đồ tương tác cho ứng dụng giao dịch và tài chính.",
+  "usecases": [
+    "Hiển thị giá thời gian thực trên các nền giao dịch",
+    "Nhúng biểu đồ tương tác vào các bảng điều khiển fintech",
+    "Phân tích kỹ thuật trong phần mềm tài chính dựa trên web"
+  ],
+  "ideas": [
+    "Kết nối với các nguồn dữ liệu giá crypto thời gian thực để tạo dashboard DeFi",
+    "Kết hợp mô hình AI/ML để đè xu hướng dự báo lên biểu đồ",
+    "Tạo các widget biểu đồ nhẹ cho dashboard mobile/web với kích thước gói tối thiểu"
+  ],
+  "stars": 17454,
+  "starsToday": 25,
+  "language": "TypeScript",
+  "topics": [
+    "financial-charting-library",
+    "charting-library",
+    "html5-charts",
+    "canvas",
+    "typescript",
+    "charting",
+    "charts",
+    "finance",
+    "javascript"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-10-03T11:08:08.985Z"
+}

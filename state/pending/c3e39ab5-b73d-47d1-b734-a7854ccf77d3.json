@@ -1,0 +1,29 @@
+{
+  "id": "c3e39ab5-b73d-47d1-b734-a7854ccf77d3",
+  "repo": "hicccc77/WeFlow",
+  "url": "https://github.com/hicccc77/WeFlow",
+  "category": "Desktop App",
+  "summary": "Ứng dụngdesktop xuất bản chat WeChat và tạo báo cáo năm hàng hóa.",
+  "usecases": [
+    "Xuất lịch sử chat WeChat sang file/local storage để lưu giữ.",
+    "Tạo báo cáo tổng hợp hoạt động giao tiếp hàng năm.",
+    "Phân tích xu hướng tin nhắn và hoạt động qua thời gian."
+  ],
+  "ideas": [
+    "Đồng bộ báo cáo hàng năm lên đám mây để chia sẻ với ban lãnh đạo.",
+    "Thêm tính năng xuất báo cáo định dạng PDF/PowerPoint tự động.",
+    "Phát triển phiên bản di động để xem thống kê chat trên smartphone."
+  ],
+  "stars": 14665,
+  "starsToday": 20,
+  "language": "TypeScript",
+  "topics": [
+    "annual-report",
+    "data-analysis",
+    "data-visualization",
+    "message",
+    "wechat"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-03T11:08:08.985Z"
+}

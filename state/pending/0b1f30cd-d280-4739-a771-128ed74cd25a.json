@@ -1,0 +1,28 @@
+{
+  "id": "0b1f30cd-d280-4739-a771-128ed74cd25a",
+  "repo": "cli/cli",
+  "url": "https://github.com/cli/cli",
+  "category": "CLI Tool",
+  "summary": "GitHub's official command line tool written in Go, enabling users to interact with GitHub directly from the terminal. It supports GitHub API v4, Git operations, and streamlines workflows like issue management, pull requests, and repository administration.",
+  "usecases": [
+    "Managing GitHub issues and pull requests directly from the terminal without leaving the development environment.",
+    "Automating repository setup, branch management, and release publishing through scripting with gh CLI.",
+    "Integrating GitHub workflows into CI/CD pipelines by leveraging gh commands for status checks and deployment triggers."
+  ],
+  "ideas": [
+    "Building custom GitHub automation scripts that combine gh CLI with other terminal tools for enhanced developer productivity.",
+    "Creating a dashboard or TUI (text-based user interface) that wraps gh CLI to visualize project activity and metrics in real-time.",
+    "Developing GitHub Actions that use gh CLI internally to perform complex repository operations during workflow execution."
+  ],
+  "stars": 46520,
+  "starsToday": 24,
+  "language": "Go",
+  "topics": [
+    "github-api-v4",
+    "cli",
+    "git",
+    "golang"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-03T11:08:08.985Z"
+}

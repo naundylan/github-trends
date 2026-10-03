@@ -2489,37 +2489,52 @@
     "last_seen": "2026-10-03",
     "last_saved": "2026-10-02"
   },
-  "cursor/plugins": {
+  "getsentry/sentry": {
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-03",
     "last_saved": "2026-10-03"
   },
-  "pablostanley/yoinks": {
+  "webbrain-one/webbrain": {
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-03",
     "last_saved": "2026-10-03"
   },
-  "Neet-Nestor/Telegram-Media-Downloader": {
+  "Tracer-Cloud/opensre": {
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-03",
     "last_saved": "2026-10-03"
   },
-  "tile-ai/tilelang": {
+  "tradingview/lightweight-charts": {
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-03",
     "last_saved": "2026-10-03"
   },
-  "Friedrich-M/UniMate": {
+  "hicccc77/WeFlow": {
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-03",
     "last_saved": "2026-10-03"
   },
-  "magnitudedev/magnitude": {
+  "lharries/whatsapp-mcp": {
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-03",
     "last_saved": "2026-10-03"
   },
-  "FalkorDB/FalkorDB": {
+  "aquasecurity/trivy": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "last_saved": "2026-10-03"
+  },
+  "gitleaks/gitleaks": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "last_saved": "2026-10-03"
+  },
+  "cli/cli": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "last_saved": "2026-10-03"
+  },
+  "agentgateway/agentgateway": {
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-03",
     "last_saved": "2026-10-03"
