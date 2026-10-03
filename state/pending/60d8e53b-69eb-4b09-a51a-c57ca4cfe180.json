@@ -1,0 +1,26 @@
+{
+  "id": "60d8e53b-69eb-4b09-a51a-c57ca4cfe180",
+  "repo": "datalab-to/chandra",
+  "url": "https://github.com/datalab-to/chandra",
+  "category": "Computer Vision",
+  "summary": "Mô hình OCR Python xử lý phức tạp các bảng, biểu mẫu và viết handwriting với bố cục toàn cảnh.",
+  "usecases": [
+    "Trích xuất dữ liệu từ các loại biểu mẫu và bảng phức tạp trong tài liệu quét.",
+    "Tự động hóa nhập liệu từ hóa đơn, phiếu thu và tài liệu hành chính.",
+    "Cung cấp giải pháp đọc sách cho người khiếm thị với nhận dạng viết handwriting."
+  ],
+  "ideas": [
+    "Mở rộng mô hình hỗ trợ nhiều ngôn ngữ (multilingual OCR) cho tài liệu toàn cầu.",
+    "Kết hợp với Large Language Models (LLM) để hiểu biểu mẫu và trích xuất dữ liệu có cấu trúc.",
+    "Triển khai trên thiết bị biên (edge) để quét văn bản không cần internet."
+  ],
+  "stars": 12400,
+  "starsToday": 20,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ocr"
+  ],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-10-03T23:30:45.059Z"
+}

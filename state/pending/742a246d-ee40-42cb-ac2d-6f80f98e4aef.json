@@ -1,0 +1,28 @@
+{
+  "id": "742a246d-ee40-42cb-ac2d-6f80f98e4aef",
+  "repo": "modelcontextprotocol/python-sdk",
+  "url": "https://github.com/modelcontextprotocol/python-sdk",
+  "category": "AI/LLM",
+  "summary": "SDK Python chính thức cho Model Context Protocol, cho phép xây dựng và tương tác với các server/client MCP để cung cấp context cho các mô hình LLM.",
+  "usecases": [
+    "Xây dựng các MCP server tùy chỉnh cho các nguồn dữ liệu cụ thể để cung cấp context cho LLMs.",
+    "Phát triển các công cụ LLM-powered có thể truy cập và thao tác dữ liệu bên ngoài qua giao thức chuẩn.",
+    "Tạo các MCP client Python để tích hợp các API bên ngoài với các mô hình AI."
+  ],
+  "ideas": [
+    "Kết hợp với vector database để tạo các hệ thống RAG động sử dụng MCP làm lớp context.",
+    "Phát triển MCP adapter chung để dịch giữa các nhà cung cấp LLM và hệ sinh thái công cụ.",
+    "Xây dựng MCP server cục bộ cho thử nghiệm LLM offline với dữ liệu riêng."
+  ],
+  "stars": 24473,
+  "starsToday": 20,
+  "language": "Python",
+  "topics": [
+    "python",
+    "mcp",
+    "mcp-server",
+    "mcp-client"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-03T23:30:45.059Z"
+}

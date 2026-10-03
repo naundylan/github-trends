@@ -1,0 +1,34 @@
+{
+  "id": "34e38194-51c7-4e7a-b24c-9f0ed7d05a50",
+  "repo": "zeronsh/zeron",
+  "url": "https://github.com/zeronsh/zeron",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án cung cấp một plane điều khiển native cho các công cụ viết code AI như Claude Code, Codex, Cursor và Devin, giúp quản lý và phối hợp các agent phát triển phần mềm một cách hiệu quả.",
+  "usecases": [
+    "Quản lý và điều phối nhiều coding agents cùng lúc trong các dự án phát triển phần mềm lớn",
+    "Tích hợp với IDE để tự động hóa các tác vụ viết code và review code",
+    "Giảm thiểu tương tác thủ công khi sử dụng AI để tạo code nhanh chóng"
+  ],
+  "ideas": [
+    "Tạo dashboard theo dõi hiệu suất và kết quả của các coding agents qua thời gian",
+    "Kết hợp với local-first storage để lưu trữ lịch sử code do AI tạo và phục hồi trạng thái",
+    "Phát triển plugin cho các IDE phổ biến sử dụng control plane này làm trung tâm điều khiển"
+  ],
+  "stars": 2938,
+  "starsToday": 155,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "cursor",
+    "developer-tools",
+    "gpui",
+    "local-first",
+    "open-source",
+    "rust"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-03T23:30:45.059Z"
+}

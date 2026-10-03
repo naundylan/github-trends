@@ -1,0 +1,23 @@
+{
+  "id": "57d624cf-8339-423f-948e-25431e83e60e",
+  "repo": "pablostanley/yoinks",
+  "url": "https://github.com/pablostanley/yoinks",
+  "category": "CLI Tool",
+  "summary": "công cụ dòng lệnh TypeScript để tải video trực tiếp từ terminal mà không có quảng cáo",
+  "usecases": [
+    "tải video cho xem offline nhanh",
+    "tích hợp vào scripts tự động hóa",
+    "giải pháp nhẹ thay thế các downloader có giao diện"
+  ],
+  "ideas": [
+    "tích hợp preview video trong terminal",
+    "thêm hỗ trợ đa nguồn và định dạng",
+    "tạo plugin cho các terminal phổ biến như iTerm hoặc Windows Terminal"
+  ],
+  "stars": 3839,
+  "starsToday": 508,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-03T23:30:45.059Z"
+}

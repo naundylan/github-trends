@@ -1,0 +1,30 @@
+{
+  "id": "d6596698-0330-4090-8675-310aae1cacc9",
+  "repo": "rubys/roundhouse",
+  "url": "https://github.com/rubys/roundhouse",
+  "category": "Build Tool/Bundler",
+  "summary": "Thư viện Rust làm transpiler specification Rails, cho phép triển khai và build ứng dụng thông qua cờ build với hỗ trợ inference kiểu.",
+  "usecases": [
+    "Tối ưu hóa quy trình CI/CD cho ứng dụng Rails bằng cách compile specification thành binary.",
+    "Giảm thiểu lỗi runtime thông qua inference kiểu tại thời điểm build.",
+    "Hỗ trợ deploy đa nền tảng cho Rails mà không phụ thuộc môi trường Ruby gốc."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống plugin để hỗ trợ các framework web ngoài Rails.",
+    "Phát triển giao diện CLI trực quan để tùy chỉnh cờ build.",
+    "Áp dụng cho microservices architecture để giảm kích thước container Rails."
+  ],
+  "stars": 374,
+  "starsToday": 23,
+  "language": "Rust",
+  "topics": [
+    "compiler",
+    "rails",
+    "ruby",
+    "rust",
+    "transpiler",
+    "type-inference"
+  ],
+  "notePath": "notes/Build-Tool-Bundler.md",
+  "createdAt": "2026-10-03T23:30:45.059Z"
+}

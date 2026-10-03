@@ -1,0 +1,23 @@
+{
+  "id": "7ce06b1b-0451-4798-84c1-6a67470d4dcc",
+  "repo": "jamwithai/production-agentic-rag-course",
+  "url": "https://github.com/jamwithai/production-agentic-rag-course",
+  "category": "AI Agent/Automation",
+  "summary": "một khóa học hướng dẫn xây dựng các hệ thống RAG (Retrieval-Augmented Generation) có khả năng tự hành agentic trong sản xuất sử dụng Python",
+  "usecases": [
+    "tự động trích xuất và tổng hợp thông tin từ tài liệu lớn cho báo cáo doanh nghiệp",
+    "xây dựng chatbot hỗ trợ khách hàng có khả năng reasoning và truy cập dữ liệu thời gian thực",
+    "tích hợp vào pipeline CI/CD để tự động hóa đánh giá chất lượng câu trả lời AI"
+  ],
+  "ideas": [
+    "triển khai hệ thống agentic RAG kết hợp với cơ sở dữ liệu vector để tùy chỉnh theo ngành y học hoặc pháp lý",
+    "tự động hóa quá trình fine-tuning và đánh giá performance của các agent qua nhiều vòng tương tác",
+    "xây dựng nền tảng nội bộ cho phép các team tạo ra các agent RAG cá nhân hóa mà không cần code từ đầu"
+  ],
+  "stars": 9396,
+  "starsToday": 192,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-03T23:30:45.059Z"
+}

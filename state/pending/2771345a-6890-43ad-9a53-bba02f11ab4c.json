@@ -1,0 +1,23 @@
+{
+  "id": "2771345a-6890-43ad-9a53-bba02f11ab4c",
+  "repo": "pingdotgg/t3code",
+  "url": "https://github.com/pingdotgg/t3code",
+  "category": "Code Editor/IDE Extension",
+  "summary": "extension hoặc công cụ TypeScript cho trình soạn thảo code, hỗ trợ tính năng liên quan đến t3code",
+  "usecases": [
+    "tăng tốc viết code và refactor",
+    "quản lý và chèn snippet code",
+    "tích hợp vào workflow phát triển hiện tại"
+  ],
+  "ideas": [
+    "tích hợp AI để hoàn thành code tự động",
+    "hỗ trợ nhiều ngôn ngữ lập trình",
+    "tùy chỉnh shortcuts và commands cá nhân hóa"
+  ],
+  "stars": 24668,
+  "starsToday": 251,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-10-03T23:30:45.059Z"
+}
