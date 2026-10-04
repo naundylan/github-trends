@@ -1,0 +1,27 @@
+{
+  "id": "49d8b987-d307-4887-b437-47f00d888f6d",
+  "repo": "kanoqwq/UFI-TOOLS",
+  "url": "https://github.com/kanoqwq/UFI-TOOLS",
+  "category": "CLI Tool",
+  "summary": "Bộ công cụ dòng lệnh JavaScript để quản lý, mở khóa và cấu hình thiết bị MIFI ZTE F50 và U30 Air.",
+  "usecases": [
+    "Mở khóa bootloader và root thiết bị ZTE F50",
+    "Cấu hình settings mạng không dây và tín hiệu MIFI",
+    "Sao lưu và khôi phục firmware thiết bị qua giao diện CLI"
+  ],
+  "ideas": [
+    "Tích hợp giao diện web trực quan cho các lệnh CLI",
+    "Tự động hóa kiểm tra tín hiệu và báo cáo trạng thái định kỳ",
+    "Phát triển plugin cho các công cụ quản lý mạng khác"
+  ],
+  "stars": 2186,
+  "starsToday": 151,
+  "language": "JavaScript",
+  "topics": [
+    "mifi",
+    "ufi",
+    "zte-f50"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-04T20:47:44.690Z"
+}

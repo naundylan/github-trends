@@ -1,0 +1,24 @@
+{
+  "id": "c61eff7d-601f-4de3-8932-70db6f3d79a0",
+  "repo": "v2fly/domain-list-community",
+  "url": "https://github.com/v2fly/domain-list-community",
+  "category": "Other",
+  "summary": "Community managed domain list. Generate geosite.dat for V2Ray.",
+  "usecases": [
+    "Khám phá và đánh giá v2fly/domain-list-community cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 9625,
+  "starsToday": 8,
+  "language": "Go",
+  "topics": [
+    "v2ray",
+    "geosite"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-04T20:47:44.691Z"
+}

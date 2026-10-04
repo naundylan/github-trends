@@ -1,0 +1,34 @@
+{
+  "id": "c9ed48a3-cc85-42f0-a0c2-9ba6368e8b9e",
+  "repo": "Bennettxai/FounderOS-DEMO",
+  "url": "https://github.com/Bennettxai/FounderOS-DEMO",
+  "category": "Productivity/Personal Tool",
+  "summary": "FounderOS-DEMO là dashboard quản lý doanh nghiệp cho một người vận hành, tích hợp các bộ phận AI hỗ trợ (comm, funnel, social, tài chính, agents, knowledge graph) để chạy một công ty cá nhân toàn diện.",
+  "usecases": [
+    "Quản lý toàn bộ hoạt động công ty cá nhân (marketing, tài chính, xã hội) từ một dashboard duy nhất",
+    "Tự động hóa và hỗ trợ quyết định qua AI cho các bộ phận funnel, comms và social media",
+    "Theo dõi và phân tích dữ liệu doanh nghiệp qua knowledge graph và SQLite integration"
+  ],
+  "ideas": [
+    "Tích hợp voice assistant để điều khiển dashboard bằng giọng nói trên di động",
+    "Mở rộng knowledge graph liên kết với external APIs để có insight thị trường thời gian thực",
+    "Phát triển mobile app để theo dõi và điều khiển dashboard trên di động"
+  ],
+  "stars": 962,
+  "starsToday": 9,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "dashboard",
+    "founder-os",
+    "nextjs",
+    "open-source",
+    "operator-os",
+    "personal-productivity",
+    "sqlite",
+    "tailwindcss",
+    "typescript"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-10-04T20:47:44.691Z"
+}

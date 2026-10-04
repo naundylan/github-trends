@@ -1,0 +1,44 @@
+{
+  "id": "d11c5ac6-6b59-4b76-af51-a33f72dc4226",
+  "repo": "ys-ll/uniterm",
+  "url": "https://github.com/ys-ll/uniterm",
+  "category": "AI Agent/Automation",
+  "summary": "Uniterm là terminal nhẹ nhàng hỗ trợ hơn 30 giao thức mạng (SSH, RDP, SFTP, Kubernetes, database) và tích hợp Agent AI tự động lên lịch thực thi các lệnh shell đa 턴.",
+  "usecases": [
+    "Truy cập và quản lý đa dạng server, database, Kubernetes thông qua một giao diện terminal duy nhất",
+    "Tự động hóa các tác vụ shell phức tạp bằng Agent AI, giảm can thiệp thủ công",
+    "Hỗ trợ remote access với nhiều protocol (SSH, RDP, VNC, telnet) cho môi trường đa nền tảng"
+  ],
+  "ideas": [
+    "Kết hợp Agent AI với LLM cục bộ để tự động hóa quy trình DevOps và sysadmin",
+    "Phát triển plugin cho IDE để terminal tương tác với môi trường phát triển thông qua lệnh tự động",
+    "Sử dụng làm nền tảng terminal cá nhân có khả năng tự sửa lỗi và tối ưu tài nguyên"
+  ],
+  "stars": 671,
+  "starsToday": 11,
+  "language": "Go",
+  "topics": [
+    "ai-agent",
+    "mosh",
+    "rdp",
+    "sftp",
+    "spice",
+    "ssh",
+    "terminal",
+    "vnc",
+    "xterm",
+    "telnet",
+    "wails",
+    "zmodem",
+    "cross-platform",
+    "database-client",
+    "containerd",
+    "docker",
+    "kubernetes",
+    "nerdctl",
+    "podman",
+    "elasticsearch"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-04T20:47:44.691Z"
+}

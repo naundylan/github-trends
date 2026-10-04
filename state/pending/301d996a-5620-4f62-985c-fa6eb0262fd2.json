@@ -1,0 +1,36 @@
+{
+  "id": "301d996a-5620-4f62-985c-fa6eb0262fd2",
+  "repo": "evcc-io/evcc",
+  "url": "https://github.com/evcc-io/evcc",
+  "category": "Other",
+  "summary": "solar charging ☀️🚘",
+  "usecases": [
+    "Khám phá và đánh giá evcc-io/evcc cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 7330,
+  "starsToday": 8,
+  "language": "Go",
+  "topics": [
+    "mqtt",
+    "golang",
+    "pv",
+    "wallbox",
+    "emobility",
+    "charger",
+    "home-automation",
+    "modbus",
+    "sunspec",
+    "ocpp",
+    "eebus",
+    "semp",
+    "battery",
+    "solar"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-04T20:47:44.691Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "034a1ad3-fb0c-4eb3-91c7-e9c71b30474a",
+  "repo": "DuarteSantos8/openGym",
+  "url": "https://github.com/DuarteSantos8/openGym",
+  "category": "Web Frontend",
+  "summary": "Self-hosted fitness tracking application for logging workouts, planning routines, and monitoring muscle fatigue and detraining status, with passkey authentication and import capabilities from popular fitness apps.",
+  "usecases": [
+    "Log and track daily workouts including sets, reps, supersets, and cardio.",
+    "Import existing workout data from FitNotes, Strong, or Hevy to migrate to a self-hosted server.",
+    "Monitor muscle fatigue and detraining status over time to optimize training routines."
+  ],
+  "ideas": [
+    "Integrate with wearable devices for automatic rep/set tracking.",
+    "Add AI-powered workout recommendations based on fatigue data.",
+    "Enable multi-user gym coaching dashboards for trainers."
+  ],
+  "stars": 2770,
+  "starsToday": 378,
+  "language": "JavaScript",
+  "topics": [
+    "bodyweight",
+    "docker",
+    "fitness",
+    "fitness-tracker",
+    "gym",
+    "health",
+    "nodejs",
+    "passkeys",
+    "progressive-web-applications",
+    "pwa",
+    "react",
+    "self-hosted",
+    "self-hosting",
+    "vite",
+    "webauthn",
+    "weightlifting",
+    "workout-tracker",
+    "mcp"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-04T20:47:44.690Z"
+}

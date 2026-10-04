@@ -1,0 +1,27 @@
+{
+  "id": "ad3251dd-04c1-4848-9f04-34fe77384cfd",
+  "repo": "hieunc229/mailflare",
+  "url": "https://github.com/hieunc229/mailflare",
+  "category": "Serverless",
+  "summary": "Dịch vụ email chuyên nghiệp cho cá nhân và đội nhóm, xây dựng trên Cloudflare Workers để cung cấp gửi nhận email nhanh, an toàn và chi phí thấp.",
+  "usecases": [
+    "Gửi newsletter và email marketing cho các team nhỏ",
+    "Email transactional cho ứng dụng web cần độ tin cậy cao",
+    "Trung tâm thông báo cho các dự án open source hoặc doanh nghiệp"
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động tạo nội dung email",
+    "Phát triển tích hợp cho các nền tảng no-code để gửi email tự động",
+    "Tạo dịch vụ email riêng tư cho các cộng đồng phát triển phần mềm"
+  ],
+  "stars": 4372,
+  "starsToday": 242,
+  "language": "TypeScript",
+  "topics": [
+    "cloudflare",
+    "cloudflare-workers",
+    "email"
+  ],
+  "notePath": "notes/Serverless.md",
+  "createdAt": "2026-10-04T20:47:44.690Z"
+}

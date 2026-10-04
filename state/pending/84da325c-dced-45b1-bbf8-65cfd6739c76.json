@@ -1,0 +1,31 @@
+{
+  "id": "84da325c-dced-45b1-bbf8-65cfd6739c76",
+  "repo": "tester-army/e2e",
+  "url": "https://github.com/tester-army/e2e",
+  "category": "Testing/QA",
+  "summary": "Next-generation e2e testing framework for web and mobile applications built with TypeScript and Playwright, enabling cross-browser and cross-platform test execution.",
+  "usecases": [
+    "Automate end-to-end user flows for web applications across multiple browsers.",
+    "Run mobile app UI tests on real devices and emulators as part of CI pipelines.",
+    "Generate detailed test reports and visual diffs for regression testing."
+  ],
+  "ideas": [
+    "Integrate AI-generated test steps from user stories or acceptance criteria.",
+    "Combine with visual regression testing for UI consistency across updates.",
+    "Support test parameterization from CSV/JSON data sources for data-driven testing."
+  ],
+  "stars": 2937,
+  "starsToday": 344,
+  "language": "TypeScript",
+  "topics": [
+    "e2e",
+    "e2e-testing",
+    "end-to-end-testing",
+    "mobile",
+    "mobile-testing",
+    "playwright",
+    "web"
+  ],
+  "notePath": "notes/Testing-QA.md",
+  "createdAt": "2026-10-04T20:47:44.690Z"
+}

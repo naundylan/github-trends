@@ -1,0 +1,31 @@
+{
+  "id": "415a25c1-a9a8-4066-9d0e-429c17c03805",
+  "repo": "ok-oldking/ok-wuthering-waves",
+  "url": "https://github.com/ok-oldking/ok-wuthering-waves",
+  "category": "AI Agent/Automation",
+  "summary": "Tự động hóa Python cho game Wuthering Waves, thực hiện chiến đấu nền tảng, nông声骸 và các nhiệm vụ hàng ngày một nhấp nháy.",
+  "usecases": [
+    "Tự động trải nghiệm cấp độ và nông声骸声骸 để tiết kiệm thời gian",
+    "Tự động hoàn thành các nhiệm vụ hàng ngày và sự kiện trong game",
+    "Theo dõi tiến độ nhân vật và báo cáo tài nguyên tự động"
+  ],
+  "ideas": [
+    "Kết hợp API dự báo thời tiết để tự động điều chỉnh chiến thuật nông",
+    "Tạo bot giao diện đồ họa theo dõi stats và hiệu quả tự động hóa",
+    "Phát triển framework tự động hóa có thể mở rộng cho các game khác cùng loại"
+  ],
+  "stars": 7548,
+  "starsToday": 69,
+  "language": "Python",
+  "topics": [
+    "wuthering-waves",
+    "wuthering-waves-hack",
+    "wuthering-waves-software",
+    "wutheringwaves",
+    "wuwa",
+    "okww",
+    "ok-ww"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-04T20:47:44.690Z"
+}
