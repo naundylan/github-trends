@@ -1,0 +1,31 @@
+{
+  "id": "882dc355-ddbf-4f69-bd2f-4888b9b16850",
+  "repo": "google/gvisor",
+  "url": "https://github.com/google/gvisor",
+  "category": "Operating System/Kernel",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "...",
+    "..."
+  ],
+  "stars": 19511,
+  "starsToday": 17,
+  "language": "Go",
+  "topics": [
+    "sandbox",
+    "containers",
+    "oci",
+    "docker",
+    "kubernetes",
+    "linux",
+    "kernel"
+  ],
+  "notePath": "notes/Operating-System-Kernel.md",
+  "createdAt": "2026-10-04T16:26:56.015Z"
+}

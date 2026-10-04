@@ -1,0 +1,32 @@
+{
+  "id": "01a5f2e0-62ca-4c6f-8b8f-362f76adac7e",
+  "repo": "mostlygeek/llama-swap",
+  "url": "https://github.com/mostlygeek/llama-swap",
+  "category": "AI/LLM",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "...",
+    "..."
+  ],
+  "stars": 5828,
+  "starsToday": 17,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "llama",
+    "llamacpp",
+    "localllama",
+    "localllm",
+    "openai",
+    "openai-api",
+    "vllm"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-04T16:26:56.015Z"
+}

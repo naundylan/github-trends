@@ -1,0 +1,23 @@
+{
+  "id": "63cd6cd2-3a54-4ee5-85be-f30e10401475",
+  "repo": "ai/nanoid",
+  "url": "https://github.com/ai/nanoid",
+  "category": "Developer Tool",
+  "summary": "Nanoid là một thư viện tạo chuỗi ID duy nhất cực nhỏ (118 bytes), an toàn và thân thiện với URL, được dùng phổ biến trong các dự án JavaScript để tạo identifier độc nhất.",
+  "usecases": [
+    "Tạo ID duy nhất cho các tài nguyên trong web app mà không va chạm.",
+    "Sử dụng làm khóa chính (primary key) trong cơ sở dữ liệu cho các request nhanh.",
+    "Tạo slug hoặc tên file an toàn trong các ứng dụng đa nền tảng."
+  ],
+  "ideas": [
+    "Kết hợp với URL shortener để tạo mã rút gọn an toàn.",
+    "Sử dụng trong distributed systems để tạo ID không trung tâm.",
+    "Tích hợp vào CI/CD pipeline để tự động tạo tên build/version duy nhất."
+  ],
+  "stars": 27041,
+  "starsToday": 34,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-04T16:26:56.015Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "13e34dca-8d7a-4092-b7ba-2151cb651f60",
+  "repo": "wilbowes/EchoMuse",
+  "url": "https://github.com/wilbowes/EchoMuse",
+  "category": "Developer Tool",
+  "summary": "EchoMuse là ứng dụng Python thay thế Alexa và điều khiển cho Echo Dot thế hệ 2, cung cấp giao diện và tính năng tùy chỉnh cho thiết bị âm thanh.",
+  "usecases": [
+    "Thay thế Alexa cá nhân hóa cho thiết bị Echo Dot trong nhà thông minh",
+    "Tích hợp điều khiển IoT/Home Assistant qua Python",
+    "Phát triển kỹ năng tự động hóa và tương tác hardware cho dự án maker"
+  ],
+  "ideas": [
+    "Biến EchoDot thành hub IoT tuỳ chỉnh cho các thiết bị riêng",
+    "Thêm nhận diện giọng nói cục bộ để thực hiện lệnh mà không cần internet",
+    "Sử dụng làm dự án giáo dục về AI voice và hardware hacking"
+  ],
+  "stars": 1029,
+  "starsToday": 50,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-04T16:26:56.015Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ec10c781-dff4-431f-9266-4eb767b1a0d1",
+  "repo": "nkaz001/hftbacktest",
+  "url": "https://github.com/nkaz001/hftbacktest",
+  "category": "AI/LLM",
+  "summary": "Công cụ backtest giao dịch tốc độ cao (HFT) và bot giao dịch mở nguồn bằng Rust, hỗ trợ phân tích chiến lược market making với dữ liệu tick Level-2/Level-3 và giả lập độ trễ thực tế.",
+  "usecases": [
+    "Phát triển và kiểm thử thuật toán giao dịch tốc độ cao trên sàn tiền mã hóa Binance và Bybit",
+    "Xây dựng chiến lược market making dựa trên vị trí hàng đợi lệnh và dữ liệu sâu order book",
+    "Mô phỏng môi trường giao dịch thực tế với độ trễ mạng và khớp lệnh giới hạn"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình học sâu để tối ưu hoá chiến lược HFT dựa trên dữ liệu tick",
+    "Xây dựng nền tảng giao dịch tự động hóa cho nhiều sàn tiền mã hóa khác nhau",
+    "Phát triển công cụ phân tích hiệu suất thời gian thực cho trader quant"
+  ],
+  "stars": 4845,
+  "starsToday": 20,
+  "language": "Rust",
+  "topics": [
+    "backtesting",
+    "high-frequency-trading",
+    "market-making",
+    "backtesting-engine",
+    "market-maker",
+    "algotrading",
+    "hft",
+    "algorithmic-trading",
+    "backtesting-trading-strategies",
+    "limit-order-book",
+    "orderbook-tick-data",
+    "quantitative-trading",
+    "trading-algorithms",
+    "binance",
+    "crypto-trading",
+    "trading-simulator",
+    "crypto-bot",
+    "orderbook",
+    "trading-strategies",
+    "tradingbot"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-04T16:26:56.015Z"
+}

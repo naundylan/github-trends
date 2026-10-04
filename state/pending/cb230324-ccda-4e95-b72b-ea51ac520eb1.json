@@ -1,0 +1,39 @@
+{
+  "id": "cb230324-ccda-4e95-b72b-ea51ac520eb1",
+  "repo": "getsentry/sentry",
+  "url": "https://github.com/getsentry/sentry",
+  "category": "DevOps/CI-CD",
+  "summary": "Sentry là nền tảng theo dõi lỗi và hiệu năng ứng dụng giúp phát hiện và sửa chữa nhanh các vấn đề trong sản xuất, với điểm nổi bật là theo dõi real-time và tích hợp sâu với nhiều framework.",
+  "usecases": [
+    "Theo dõi và báo lỗi cho ứng dụng production",
+    "Giám sát hiệu năng ứng dụng (APM) để phát hiện bottleneck",
+    "Tích hợp vào CI/CD pipeline để cảnh báo lỗi ngay khi deploy"
+  ],
+  "ideas": [
+    "Kết hợp với Slack/Discord để gửi thông báo lỗi tự động cho team",
+    "Sử dụng API Sentry để tạo ticket tự động trong hệ thống quản lý dự án",
+    "Kết hợp với Prometheus/Grafana để có cái nhìn toàn cảnh về trạng thái hệ thống"
+  ],
+  "stars": 45312,
+  "starsToday": 152,
+  "language": "Python",
+  "topics": [
+    "crash-reporting",
+    "crash-reports",
+    "error-monitoring",
+    "monitoring",
+    "devops",
+    "csp-report",
+    "django",
+    "error-logging",
+    "sentry",
+    "python",
+    "monitor",
+    "apm",
+    "hacktoberfest",
+    "tag-production",
+    "fair-source"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-04T16:26:56.015Z"
+}

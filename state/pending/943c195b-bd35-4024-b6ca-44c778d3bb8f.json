@@ -1,0 +1,44 @@
+{
+  "id": "943c195b-bd35-4024-b6ca-44c778d3bb8f",
+  "repo": "webbrain-one/webbrain",
+  "url": "https://github.com/webbrain-one/webbrain",
+  "category": "AI Agent/Automation",
+  "summary": "Trợ lý AI đa nền tảng cho trình duyệt Chrome và Firefox, hỗ trợ chạy mô hình ngôn ngữ lớn offline như Gemma, Qwen và Minimax để tự động hóa công việc.",
+  "usecases": [
+    "Tự động hóa thu thập thông tin và điền form trên web bằng AI agent",
+    "Chạy mô hình ngôn ngữ lớn ngoại tuyến trên trình duyệt để bảo vệ quyền riêng tư",
+    "Phát triển tiện ích mở rộng AI hỗ trợ đa trình duyệt"
+  ],
+  "ideas": [
+    "Kết hợp với công cụ đọc PDF và xử lý tài liệu để tạo trợ lý cá nhân đa năng",
+    "Xây dựng agent AI tự động hóa kiểm thử phần mềm trên giao diện web",
+    "Phát triển plugin hỗ trợ lập trình viên với khả năng gợi ý code và giải thích logic"
+  ],
+  "stars": 1217,
+  "starsToday": 19,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agent",
+    "ai-tools",
+    "browser-extension",
+    "chrome-extension",
+    "firefox-addon",
+    "ai-agents",
+    "browser-ai",
+    "browser-automation",
+    "chrome-ai",
+    "chrome-devtools",
+    "chrome-extensions",
+    "firefox-addons",
+    "firefox-extension",
+    "firefox-extensions",
+    "offline-ai",
+    "offline-llm",
+    "gemma",
+    "gemma4",
+    "minimax",
+    "qwen"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-04T16:26:56.015Z"
+}
