@@ -1,0 +1,39 @@
+{
+  "id": "5c6076fa-9212-40e1-92cf-2b1a7b963d7c",
+  "repo": "getsentry/sentry",
+  "url": "https://github.com/getsentry/sentry",
+  "category": "Developer Tool",
+  "summary": "Nền tracking lỗi và monitoring hiệu suất developer-first, giúp theo dõi, phân tích và fix lỗi trong production cùng monitoring performance cho ứng dụng.",
+  "usecases": [
+    "Theo dõi và báo cáo lỗi real-time cho ứng dụng production.",
+    "Monitoring hiệu suất (APM) để phát hiện bottleneck và tối ưu tốc độ.",
+    "Tích hợp với DevOps pipeline để cảnh báo và triage tự động lỗi."
+  ],
+  "ideas": [
+    "Tích hợp với Slack/Discord để cảnh báo lỗi tức thời cho team DevOps.",
+    "Sử dụng dữ liệu error tracking để tự động generate test cases cho các trường hợp lỗi thường gặp.",
+    "Kết hợp với feature flag để theo dõi hiệu suất sau khi rollout mới."
+  ],
+  "stars": 45376,
+  "starsToday": 152,
+  "language": "Python",
+  "topics": [
+    "crash-reporting",
+    "crash-reports",
+    "error-monitoring",
+    "monitoring",
+    "devops",
+    "csp-report",
+    "django",
+    "error-logging",
+    "sentry",
+    "python",
+    "monitor",
+    "apm",
+    "hacktoberfest",
+    "tag-production",
+    "fair-source"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-04T23:48:32.783Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "9264035a-3a8c-4921-834d-9eee272b2d29",
+  "repo": "michael-denyer/pstack-claude",
+  "url": "https://github.com/michael-denyer/pstack-claude",
+  "category": "AI Agent/Automation",
+  "summary": "Phiên bản Poteto's pstack cho Claude Code, Codex, Pi, OpenCode, Gemini và Prime Agent, cung cấp các quy trình agent nghiêm ngặt với primitives từ Cursor, hỗ trợ nhiều harness AI khác.",
+  "usecases": [
+    "Tự động hóa code review và tự sửa lỗi cho các dự án AI coding.",
+    "Tạo workflow agent tùy chỉnh cho các harness như OpenCode, Gemini CLI.",
+    "Tăng hiệu suất phát triển bằng đồng bộ primitives Cursor giữa các nền tảng khác."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để deploy agents sau khi review code.",
+    "Tạo plugin VS Code hiển thị trạng thái agent workflow trực tiếp trong editor.",
+    "Xây dựng hệ thống tự sửa bug dựa trên feedback từ production."
+  ],
+  "stars": 1134,
+  "starsToday": 242,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "agentic-ai",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-code-skills",
+    "claude-skills",
+    "code-review",
+    "codex",
+    "coding-agent",
+    "developer-tools",
+    "gemini-cli",
+    "opencode",
+    "pstack",
+    "chatgpt",
+    "codex-cli",
+    "codex-plugin",
+    "codex-skills",
+    "agent-plugin"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-04T23:48:32.782Z"
+}

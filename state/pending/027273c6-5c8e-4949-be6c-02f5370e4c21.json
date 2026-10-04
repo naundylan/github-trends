@@ -1,0 +1,23 @@
+{
+  "id": "027273c6-5c8e-4949-be6c-02f5370e4c21",
+  "repo": "wilbowes/EchoMuse",
+  "url": "https://github.com/wilbowes/EchoMuse",
+  "category": "Embedded/IoT",
+  "summary": "Phần mềm thay thế và điều khiển thiết bị Echo Dot thế hệ thứ 2, cho phép người dùng tùy biến và tự động hóa lệnh thoại thay vì sử dụng Alexa.",
+  "usecases": [
+    "Tự động hóa các lệnh thoại cụ thể cho gia đình thông minh mà không cần Alexa.",
+    "Tích hợp Echo Dot với các hệ thống nội bộ hoặc các nền tảng khác thông qua Python.",
+    "Phát triển kỹ năng cá nhân hoặc giáo dục về tương tác phần cứng và giao diện lệnh giọng nói."
+  ],
+  "ideas": [
+    "Tạo một trợ lý giọng nói đa nền tảng kết hợp với các dịch vụ AI khác.",
+    "Phát triển ứng dụng giám sát sức khỏe kết nối với Echo Dot qua lệnh thoại.",
+    "Xây dựng giao diện điều khiển đồ họa cho các kịch tự động thoại."
+  ],
+  "stars": 1042,
+  "starsToday": 50,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-04T23:48:32.783Z"
+}

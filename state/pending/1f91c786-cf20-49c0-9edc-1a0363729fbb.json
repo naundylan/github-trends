@@ -1,0 +1,44 @@
+{
+  "id": "1f91c786-cf20-49c0-9edc-1a0363729fbb",
+  "repo": "webbrain-one/webbrain",
+  "url": "https://github.com/webbrain-one/webbrain",
+  "category": "AI Agent/Automation",
+  "summary": "Trình duyệt AI mã nguồn mở cho Chrome và Firefox, cho phép tự động hóa tác vụ web và tự hành duyệt trực tiếp.",
+  "usecases": [
+    "tự động thu thập dữ liệu và nghiên cứu web qua nhiều tab/site",
+    "tự động hóa các quy trình lặp lại trên web cho tăng năng suất",
+    "trợ lý AI hỗ trợ điền form và tương tác trang web"
+  ],
+  "ideas": [
+    "tích hợp LLM cục bộ để duyệt web hoàn toàn ngoại tuyến",
+    "xây dựng plugin tự động báo lỗi từ tương tác browser",
+    "kết hợp với các công cụ remote desktop cho tự hành web phân tán"
+  ],
+  "stars": 1221,
+  "starsToday": 19,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agent",
+    "ai-tools",
+    "browser-extension",
+    "chrome-extension",
+    "firefox-addon",
+    "ai-agents",
+    "browser-ai",
+    "browser-automation",
+    "chrome-ai",
+    "chrome-devtools",
+    "chrome-extensions",
+    "firefox-addons",
+    "firefox-extension",
+    "firefox-extensions",
+    "offline-ai",
+    "offline-llm",
+    "gemma",
+    "gemma4",
+    "minimax",
+    "qwen"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-04T23:48:32.783Z"
+}

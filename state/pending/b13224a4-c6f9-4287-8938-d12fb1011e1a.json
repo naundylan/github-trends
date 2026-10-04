@@ -1,0 +1,44 @@
+{
+  "id": "b13224a4-c6f9-4287-8938-d12fb1011e1a",
+  "repo": "nkaz001/hftbacktest",
+  "url": "https://github.com/nkaz001/hftbacktest",
+  "category": "Blockchain/Web3",
+  "summary": "Bot backtesting và giao dịch cao tần (HFT) mã nguồn mở bằng Rust, mô phỏng giới hạn lệnh, vị trí hàng đợi và độ trễ với dữ liệu tick đầy đủ cho Binance và Bybit",
+  "usecases": [
+    "Backtesting các chiến thuật giao dịch cao tần trước khi triển khai thực tế",
+    "Mô phỏng thị trường crypto với dữ liệu Level-2/Level-3 để phân tích hiệu quả market making",
+    "Hỗ trợ đào tạo và nghiên cứu các chiến thuật giao dịch algorithmic trên dữ liệu thực tế"
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu thời gian thực để chuyển từ backtesting sang live trading tự động",
+    "Mở rộng hỗ trợ cho các sàn crypto khác ngoài Binance/Bybit",
+    "Sử dụng AI để tối ưu hóa tham số chiến thuật dựa trên kết quả backtesting"
+  ],
+  "stars": 4849,
+  "starsToday": 20,
+  "language": "Rust",
+  "topics": [
+    "backtesting",
+    "high-frequency-trading",
+    "market-making",
+    "backtesting-engine",
+    "market-maker",
+    "algotrading",
+    "hft",
+    "algorithmic-trading",
+    "backtesting-trading-strategies",
+    "limit-order-book",
+    "orderbook-tick-data",
+    "quantitative-trading",
+    "trading-algorithms",
+    "binance",
+    "crypto-trading",
+    "trading-simulator",
+    "crypto-bot",
+    "orderbook",
+    "trading-strategies",
+    "tradingbot"
+  ],
+  "notePath": "notes/Blockchain-Web3.md",
+  "createdAt": "2026-10-04T23:48:32.783Z"
+}

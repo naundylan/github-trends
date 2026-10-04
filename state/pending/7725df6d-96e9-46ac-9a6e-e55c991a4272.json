@@ -1,0 +1,23 @@
+{
+  "id": "7725df6d-96e9-46ac-9a6e-e55c991a4272",
+  "repo": "ai/nanoid",
+  "url": "https://github.com/ai/nanoid",
+  "category": "Developer Tool",
+  "summary": "một thư viện ID generator siêu nhẹ (118 bytes) cho JavaScript, tạo chuỗi định danh an toàn và thân thiện URL",
+  "usecases": [
+    "Tạo ID duy nhất cho tài liệu hoặc tài sản trong hệ thống quản lý nội dung",
+    "Sinh identifier cho các request API hoặc session trong ứng dụng web",
+    "Tạo slug hoặc tên file an toàn trong các ứng dụng lưu trữ đám mây"
+  ],
+  "ideas": [
+    "Kết hợp với framework frontend để tự động sinh ID cho components khi render",
+    "Sử dụng trong hệ thống phân tán để sinh ID có thể sắp xếp theo thời gian nhưng vẫn duy nhất",
+    "Tích hợp vào CI/CD pipeline để tự động sinh mã định danh cho build hoặc artifact"
+  ],
+  "stars": 27050,
+  "starsToday": 34,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-04T23:48:32.783Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "7e33ebc3-71ac-424b-86c2-c41449a15d72",
+  "repo": "google/gvisor",
+  "url": "https://github.com/google/gvisor",
+  "category": "Microservices",
+  "summary": "Kernel ứng dụng cho containers, cung cấp cô lập an toàn bằng kernel nhẹ riêng, giảm diện tấn công cho ứng dụng container.",
+  "usecases": [
+    "cô lập an toàn cho môi trường multi-tenant trên đám mây",
+    "chạy các tải không tin cậy trong Kubernetes với rủi ro giảm",
+    "củng cố bảo mật container trong pipeline CI/CD phát triển và sản xuất"
+  ],
+  "ideas": [
+    "triển khai làm runtime container mặc định cho các tình huống tính toán biên với cô lập",
+    "sử dụng làm sandbox cho container phục vụ mô hình AI để bảo vệ hệ điều hành",
+    "kết hợp với service mesh cho các chính sách bảo mật per-container"
+  ],
+  "stars": 19524,
+  "starsToday": 17,
+  "language": "Go",
+  "topics": [
+    "sandbox",
+    "containers",
+    "oci",
+    "docker",
+    "kubernetes",
+    "linux",
+    "kernel"
+  ],
+  "notePath": "notes/Microservices.md",
+  "createdAt": "2026-10-04T23:48:32.783Z"
+}
