@@ -1,0 +1,42 @@
+{
+  "id": "2215689c-e945-4490-a4a5-4651b0772872",
+  "repo": "DuarteSantos8/openGym",
+  "url": "https://github.com/DuarteSantos8/openGym",
+  "category": "Web Frontend",
+  "summary": "Ứng dụng web self-hosted theo dõi gym và cơ thể, lên kế hoạch routine, log workout và theo dõi trạng thái múscles, hỗ trợ import từ các app fitness và passkey login.",
+  "usecases": [
+    "Người dùng cá nhân theo dõi tiến độ training và sức khỏe trên server riêng.",
+    "Gym hoặc coach quản lý training plan cho client mà giữ dữ liệu toàn quyền.",
+    "Import và đồng bộ lịch training từ FitNotes/Strong/Hevy qua PWA trên nhiều thiết bị."
+  ],
+  "ideas": [
+    "Thêm tính năng AI gợi luyện tập và phân tích cơ địa dựa trên dữ liệu lịch sử.",
+    "Phát triển ứng dụng mobile native đồng bộ với PWA thông qua backend chung.",
+    "Tích hợp với Apple Health/Google Fit cho import/export dữ liệu an toàn."
+  ],
+  "stars": 1999,
+  "starsToday": 378,
+  "language": "JavaScript",
+  "topics": [
+    "bodyweight",
+    "docker",
+    "fitness",
+    "fitness-tracker",
+    "gym",
+    "health",
+    "nodejs",
+    "passkeys",
+    "progressive-web-applications",
+    "pwa",
+    "react",
+    "self-hosted",
+    "self-hosting",
+    "vite",
+    "webauthn",
+    "weightlifting",
+    "workout-tracker",
+    "mcp"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-04T11:40:45.864Z"
+}

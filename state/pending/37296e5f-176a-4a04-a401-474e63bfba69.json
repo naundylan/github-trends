@@ -1,0 +1,23 @@
+{
+  "id": "37296e5f-176a-4a04-a401-474e63bfba69",
+  "repo": "antirez/ds4",
+  "url": "https://github.com/antirez/ds4",
+  "category": "AI/LLM",
+  "summary": "Mô hình inference engine local cao tốc cho DeepSeek 4 Flash và PRO, tối ưu chạy trên Metal, CUDA và ROCm để chạy LLM trên thiết bị cục bộ.",
+  "usecases": [
+    "Chạy DeepSeek 4 Flash trên GPU NVIDIA CUDA mà không cần dịch vụ cloud",
+    "Tận dụng GPU AMD ROCm để inference LLM chi phí thấp",
+    "Triển khai inference trên macOS thông qua Metal để chạy LLM trên Mac"
+  ],
+  "ideas": [
+    "Kết hợp với Ollama hay các framework LLM local khác để cung cấp API inference riêng",
+    "Tối ưu hóa cho chip ARM để inference LLM trên thiết bị di động",
+    "Tích hợp với hệ thống tự động hóa cho fine-tuning và inference hàng loạt"
+  ],
+  "stars": 23258,
+  "starsToday": 211,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-04T11:40:45.864Z"
+}

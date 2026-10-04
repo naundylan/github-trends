@@ -1,0 +1,31 @@
+{
+  "id": "44cda29a-4c2f-4c19-926b-a3830a18216a",
+  "repo": "ok-oldking/ok-wuthering-waves",
+  "url": "https://github.com/ok-oldking/ok-wuthering-waves",
+  "category": "AI Agent/Automation",
+  "summary": "Tự động hóa cho Wuthering Waves, cho phép chạy battle và farm声骸 trong chế độ nền để hoàn thành nhiệm vụ hàng ngày.",
+  "usecases": [
+    "Tự động farm tài nguyên và声骸 mỗi ngày mà không cần can thiệp thủ công.",
+    "Chạy nền trên PC để nâng cấp nhân vật và thu thập vật phẩm khi người chơi không online.",
+    "Tích hợp với lịch trình để tối ưu hóa thời gian hoạt động game mỗi ngày."
+  ],
+  "ideas": [
+    "Phát triển bot thông minh điều chỉnh chiến thuật dựa trên cấu hình đội ngũ và tình huống battle.",
+    "Kết hợp với API game để theo dõi tiến độ và gửi thông báo khi nhiệm vụ hoàn thành.",
+    "Tạo dashboard quản lý nhiều tài khoản game cùng lúc với thống kê hiệu quả farm."
+  ],
+  "stars": 7529,
+  "starsToday": 69,
+  "language": "Python",
+  "topics": [
+    "wuthering-waves",
+    "wuthering-waves-hack",
+    "wuthering-waves-software",
+    "wutheringwaves",
+    "wuwa",
+    "okww",
+    "ok-ww"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-04T11:40:45.864Z"
+}

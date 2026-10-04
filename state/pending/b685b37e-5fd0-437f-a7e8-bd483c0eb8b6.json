@@ -1,0 +1,33 @@
+{
+  "id": "b685b37e-5fd0-437f-a7e8-bd483c0eb8b6",
+  "repo": "earthtojake/text-to-cad",
+  "url": "https://github.com/earthtojake/text-to-cad",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án sử dụng AI agents để tự động tạo mô hình CAD từ lệnh văn bản, hỗ trợ thiết kế cơ khí và mô hình hóa cho robotics.",
+  "usecases": [
+    "Tự động tạo mô hình cơ khí từ mô tả văn bản cho dự án robotics.",
+    "Tạo nhanh mẫu CAD Step/STL cho sản xuất mà không cần kiến thức CAD thủ công.",
+    "Tích hợp vào agent AI để thực hiện tác vụ thiết kế và sửa đổi mô hình."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tạo quy trình thiết kế sản phẩm từ ý tưởng đến mô hình CAD sẵn xuất.",
+    "Sử dụng trong simulación robotics để tạo môi trường hành động dựa trên lệnh ngôn ngữ tự nhiên.",
+    "Phát triển plugin cho CAD software phổ biến để agent điều khiển qua văn bản."
+  ],
+  "stars": 16645,
+  "starsToday": 75,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai-agents",
+    "cad",
+    "text-to-cad",
+    "mechanical-engineering",
+    "robotics",
+    "step",
+    "stl",
+    "stp"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-04T11:40:45.864Z"
+}

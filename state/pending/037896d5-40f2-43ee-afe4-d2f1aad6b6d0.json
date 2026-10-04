@@ -1,0 +1,30 @@
+{
+  "id": "037896d5-40f2-43ee-afe4-d2f1aad6b6d0",
+  "repo": "AlexsJones/llmfit",
+  "url": "https://github.com/AlexsJones/llmfit",
+  "category": "AI/LLM",
+  "summary": "Công cụ giúp tìm và khớp mô hình LLM với cấu hình phần cứng, hỗ trợ nhiều định dạng và provider với một lệnh duy nhất.",
+  "usecases": [
+    "Tìm mô hình LLM tối ưu cho GPU/CPU trước khi tải hoặc triển khai vào dự án.",
+    "So sánh hiệu năng và khả năng tương thích giữa các provider (localai, MLX, Unsloth) trên cùng một máy.",
+    "Tự động hóa cài đặt mô hình phù hợp với hardware trong quy trình phát triển AI/ML."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động test và chọn mô hình phù hợp cho từng môi trường triển khai.",
+    "Xây dựng hệ thống quản lý mô hình LLM cá nhân, đề xuất phiên bản dựa trên hiệu năng thực tế.",
+    "Tạo plugin cho các nền tảng AI chat để tự động chọn mô hình phù hợp với thiết bị người dùng."
+  ],
+  "stars": 37576,
+  "starsToday": 99,
+  "language": "Rust",
+  "topics": [
+    "llm",
+    "skill",
+    "localai",
+    "gguf",
+    "mlx",
+    "unsloth"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-04T11:40:45.864Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "7fac9b91-36d4-451d-b4fb-131249100a82",
+  "repo": "kanoqwq/UFI-TOOLS",
+  "url": "https://github.com/kanoqwq/UFI-TOOLS",
+  "category": "CLI Tool",
+  "summary": "Cụm công cụ JavaScript để mở khóa, cấu hình và quản lý thiết bị ZTE F50/U30 Air, hỗ trợ thao tác trên modem và router.",
+  "usecases": [
+    "Mở khóa simlock cho modem ZTE F50 theo dõi nhà mạng",
+    "Sao lưu và khôi phục cấu hình firmware ZTE U30 Air không cần phần mềm chính thức",
+    "Tích hợp vào quy trình tự động hóa triển khai thiết bị mạng"
+  ],
+  "ideas": [
+    "Phát triển giao diện web quản lý nhiều thiết bị ZTE cùng lúc",
+    "Tạo plugin cho công cụ mạng như NetBox để tích hợp quản lý ZTE",
+    "Mở rộng hỗ trợ cho các dòng modem ZTE khác cùng chipset"
+  ],
+  "stars": 2147,
+  "starsToday": 151,
+  "language": "JavaScript",
+  "topics": [
+    "mifi",
+    "ufi",
+    "zte-f50"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-04T11:40:45.864Z"
+}

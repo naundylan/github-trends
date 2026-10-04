@@ -1,0 +1,29 @@
+{
+  "id": "02a0352e-023b-4a87-9c46-ff5a7001cb9b",
+  "repo": "iptv-org/iptv",
+  "url": "https://github.com/iptv-org/iptv",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Bộ sưu tập kênh TV trực tuyến và danh sách phát IPTV từ khắp thế giới, hỗ trợ phát trên nhiều nền tảng và thiết bị.",
+  "usecases": [
+    "Phát trực tiếp kênh TV trên Smart TV và bộ phát media như VLC, Kodi.",
+    "Tạo danh sách phát IPTV cá nhân cho ứng dụng streaming hoặc tự phát.",
+    "Phân tích và theo dõi độ ổn định của các luồng phát IPTV cho mục đích nghiên cứu."
+  ],
+  "ideas": [
+    "Xây dựng dashboard theo dõi thời gian hoạt động và chất lượng của các kênh IPTV.",
+    "Tích hợp với AI để gợi ý kênh dựa trên lịch sử xem và sở thích người dùng.",
+    "Tự động tạo mã QR hoặc link rút gọn cho từng kênh để chia sẻ dễ dàng qua mạng xã hội."
+  ],
+  "stars": 140283,
+  "starsToday": 106,
+  "language": "TypeScript",
+  "topics": [
+    "iptv",
+    "m3u",
+    "playlist",
+    "tv",
+    "streams"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-10-04T11:40:45.864Z"
+}

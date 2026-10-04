@@ -1,0 +1,43 @@
+{
+  "id": "3fbb0af1-07ba-4256-a5cd-8af7c86caa19",
+  "repo": "michael-denyer/pstack-claude",
+  "url": "https://github.com/michael-denyer/pstack-claude",
+  "category": "AI Agent/Automation",
+  "summary": "Hộp công cụ đa-agent cho các mô hình AI code, cung cấp workflows nghiêm ngặt và primitives từ Cursor để tương thích với các harness khác.",
+  "usecases": [
+    "Automated code review and refactoring using Claude/Claude Code",
+    "Multi-model AI coding agent workflows for different platforms",
+    "Integrating AI code assistance into custom developer toolchains"
+  ],
+  "ideas": [
+    "Unified AI coding platform switching between Claude, GPT-4, and Gemini",
+    "VS Code extension using pstack primitives for real-time code review",
+    "Benchmarking suite for comparing agent workflows across LLMs"
+  ],
+  "stars": 1065,
+  "starsToday": 242,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "agentic-ai",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-code-skills",
+    "claude-skills",
+    "code-review",
+    "codex",
+    "coding-agent",
+    "developer-tools",
+    "gemini-cli",
+    "opencode",
+    "pstack",
+    "chatgpt",
+    "codex-cli",
+    "codex-plugin",
+    "codex-skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-04T11:40:45.864Z"
+}

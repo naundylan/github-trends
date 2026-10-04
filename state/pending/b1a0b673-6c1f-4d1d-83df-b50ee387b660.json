@@ -1,0 +1,31 @@
+{
+  "id": "b1a0b673-6c1f-4d1d-83df-b50ee387b660",
+  "repo": "tester-army/e2e",
+  "url": "https://github.com/tester-army/e2e",
+  "category": "Testing/QA",
+  "summary": "Framework e2e hiện đại cho ứng dụng web và mobile, sử dụng TypeScript và Playwright để tự động hóa kiểm thử kết thúc đến đầu.",
+  "usecases": [
+    "Automated end-to-end testing for web applications",
+    "Cross-platform mobile app testing with TypeScript",
+    "CI/CD integration for regression testing"
+  ],
+  "ideas": [
+    "Integrating AI-based visual diffing for UI testing",
+    "Extending support to Electron desktop applications",
+    "Building a test result analytics dashboard with flaky test detection"
+  ],
+  "stars": 2375,
+  "starsToday": 344,
+  "language": "TypeScript",
+  "topics": [
+    "e2e",
+    "e2e-testing",
+    "end-to-end-testing",
+    "mobile",
+    "mobile-testing",
+    "playwright",
+    "web"
+  ],
+  "notePath": "notes/Testing-QA.md",
+  "createdAt": "2026-10-04T11:40:45.864Z"
+}

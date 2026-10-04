@@ -1,0 +1,23 @@
+{
+  "id": "7a0ba7d0-ff12-445b-9050-f064a30e88fd",
+  "repo": "experientiallabs/experiential",
+  "url": "https://github.com/experientiallabs/experiential",
+  "category": "AI/LLM",
+  "summary": "Cổng gateway mã nguồn mở self-hosted cho AI/ML, hỗ trợ BYOK, hơn 1000 mô hình marketplace và tối ưu chi phí bằng cách học từ traffic để đề xuất và train mô hình riêng.",
+  "usecases": [
+    "Self-hosted gateway quản lý và tối ưu chi phí inference cho các mô hình AI.",
+    "Đề xuất mô hình phù hợp nhất dựa trên patterns traffic và sử dụng.",
+    "Train mô hình chuyên dụng riêng tư mà không cần dữ liệu rời rạc."
+  ],
+  "ideas": [
+    "Tích hợp dashboard real-time monitoring chi phí và hiệu suất model.",
+    "Tự động hóa việc swap model giữa các provider dựa trên chi phí và latency.",
+    "Xây marketplace nội bộ team chia sẻ và tái sử dụng các model đã train."
+  ],
+  "stars": 8768,
+  "starsToday": 570,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-04T11:40:45.864Z"
+}
