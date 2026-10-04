@@ -1,0 +1,39 @@
+{
+  "id": "b1a09b46-c061-4f4f-9493-c7dedb36c929",
+  "repo": "getsentry/sentry",
+  "url": "https://github.com/getsentry/sentry",
+  "category": "DevOps/CI-CD",
+  "summary": "Nền tảng theo dõi lỗi và hiệu suất cho nhà phát triển, hỗ trợ nhiều ngôn ngữ với insights thời gian thực.",
+  "usecases": [
+    "Track and monitor application crashes in production.",
+    "Performance profiling and APM for backend services.",
+    "Real-time error alerts and deployment tracking for DevOps teams."
+  ],
+  "ideas": [
+    "Integrate with CI/CD pipelines to block merges on critical errors.",
+    "Combine with LLM analysis to auto-categorize and suggest fixes for recurring errors.",
+    "Use error data to automatically generate feature prioritization reports."
+  ],
+  "stars": 45222,
+  "starsToday": 214,
+  "language": "Python",
+  "topics": [
+    "crash-reporting",
+    "crash-reports",
+    "error-monitoring",
+    "monitoring",
+    "devops",
+    "csp-report",
+    "django",
+    "error-logging",
+    "sentry",
+    "python",
+    "monitor",
+    "apm",
+    "hacktoberfest",
+    "tag-production",
+    "fair-source"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-04T03:39:17.165Z"
+}

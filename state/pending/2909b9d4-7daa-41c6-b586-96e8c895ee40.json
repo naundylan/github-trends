@@ -1,0 +1,23 @@
+{
+  "id": "2909b9d4-7daa-41c6-b586-96e8c895ee40",
+  "repo": "samwhosung/benilla",
+  "url": "https://github.com/samwhosung/benilla",
+  "category": "Game Engine",
+  "summary": "Client game WoW 1.12.1 được viết từ đầu bằng Rust và Bevy, cung cấp trải nghiệm WoW tùy chỉnh.",
+  "usecases": [
+    "Run a customized private WoW server with modified gameplay.",
+    "Study and learn game client architecture and Rust/Bevy game development.",
+    "Create private WoW realms with specific rule sets and content."
+  ],
+  "ideas": [
+    "Build a cross-platform WoW modding framework using Bevy plugins.",
+    "Develop a WoW client analytics dashboard tracking player behavior and server performance.",
+    "Port the client to run natively on Linux/macOS/Windows with enhanced graphics via Bevy."
+  ],
+  "stars": 548,
+  "starsToday": 77,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Game-Engine.md",
+  "createdAt": "2026-10-04T03:39:17.165Z"
+}

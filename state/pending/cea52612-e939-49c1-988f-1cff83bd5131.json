@@ -1,0 +1,44 @@
+{
+  "id": "cea52612-e939-49c1-988f-1cff83bd5131",
+  "repo": "webbrain-one/webbrain",
+  "url": "https://github.com/webbrain-one/webbrain",
+  "category": "AI Agent/Automation",
+  "summary": "Mở rộng trình duyệt AI mã nguồn mở cho Chrome và Firefox, tự động hóa tác vụ duyệt web và tương tác với LLM.",
+  "usecases": [
+    "Tự động điền form và thu thập dữ liệu từ nhiều trang web",
+    "Giúp viết code hoặc giải đáp câu hỏi trực tiếp trên trình duyệt bằng LLM",
+    "Tự động hóa quy trình nghiên cứu so sánh sản phẩm trên web"
+  ],
+  "ideas": [
+    "Triển khai chế độ offline-only với mô hình Gemma nhẹ trên trình duyệt",
+    "Tạo hệ thống plugin cho nhà phát triển test UI/UX tự động",
+    "Kết hợp nhiều LLM (mixture of experts) để tối ưu hiệu quả cho các tác vụ khác nhau"
+  ],
+  "stars": 1206,
+  "starsToday": 19,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agent",
+    "ai-tools",
+    "browser-extension",
+    "chrome-extension",
+    "firefox-addon",
+    "ai-agents",
+    "browser-ai",
+    "browser-automation",
+    "chrome-ai",
+    "chrome-devtools",
+    "chrome-extensions",
+    "firefox-addons",
+    "firefox-extension",
+    "firefox-extensions",
+    "offline-ai",
+    "offline-llm",
+    "gemma",
+    "gemma4",
+    "minimax",
+    "qwen"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-04T03:39:17.165Z"
+}

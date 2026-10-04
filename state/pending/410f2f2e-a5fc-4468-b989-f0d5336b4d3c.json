@@ -1,0 +1,37 @@
+{
+  "id": "410f2f2e-a5fc-4468-b989-f0d5336b4d3c",
+  "repo": "aquasecurity/trivy",
+  "url": "https://github.com/aquasecurity/trivy",
+  "category": "Other",
+  "summary": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+  "usecases": [
+    "Khám phá và đánh giá aquasecurity/trivy cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 38211,
+  "starsToday": 29,
+  "language": "Go",
+  "topics": [
+    "security",
+    "security-tools",
+    "docker",
+    "containers",
+    "vulnerability-scanners",
+    "vulnerability-detection",
+    "vulnerability",
+    "golang",
+    "go",
+    "kubernetes",
+    "hacktoberfest",
+    "devsecops",
+    "misconfiguration",
+    "infrastructure-as-code",
+    "iac"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-04T03:39:17.165Z"
+}

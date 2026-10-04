@@ -1,0 +1,23 @@
+{
+  "id": "af3c6bb4-93d0-41e3-80f7-be9b72d2ef4e",
+  "repo": "Autumn-27/ARTEX",
+  "url": "https://github.com/Autumn-27/ARTEX",
+  "category": "Security/Pentest",
+  "summary": "ARTEX là hệ thống kiểm thử xâm nhập tự do bằng AI, tự động hóa các cuộc tấn công và đánh giá bảo mật, được phát triển bởi Autumn-27 và là dự án vô địch Baidu Agent+.",
+  "usecases": [
+    "Tự động hóa kiểm tra lỗ hổng và đánh giá bảo mật cho các ứng dụng doanh nghiệp.",
+    "Giúp đội nhóm bảo mật mô phỏng các cuộc tấn công phức tạp để tìm điểm yếu trong hệ thống.",
+    "Tích hợp vào quy trình CI/CD để kiểm tra bảo mật liên tục."
+  ],
+  "ideas": [
+    "Kết hợp với các framework AI agent khác để tạo ra hệ thống bảo mật chủ động tự chữa lỗi.",
+    "Sử dụng trong các cuộc thi hackathon bảo mật hoặc luyện tập kỹ năng cho sinh viên cybersecurity.",
+    "Phát triển module phân tích logs an ninh dựa trên kết quả tự động của ARTEX."
+  ],
+  "stars": 1470,
+  "starsToday": 71,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-04T03:39:17.165Z"
+}

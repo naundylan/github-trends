@@ -1,0 +1,23 @@
+{
+  "id": "adcb9d4c-5b16-43c9-973f-b3c6d8023b86",
+  "repo": "meituan-longcat/LongCat-Video",
+  "url": "https://github.com/meituan-longcat/LongCat-Video",
+  "category": "AI/LLM",
+  "summary": "Python dự án xử lý hoặc tạo video bằng AI, tự động hóa tác vụ liên quan đến nội dung video.",
+  "usecases": [
+    "Tự động tạo video từ text hoặc hình ảnh",
+    "Phân tích và chỉnh sửa video bằng các mô hình AI",
+    "Sinh nội dung video cho marketing và social media"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình TTS và Text-to-video để tạo video hoàn toàn tự động",
+    "Xây dựng pipeline tự động cập nhật nội dung video cho kênh YouTube hoặc TikTok",
+    "Sử dụng làm generative AI cho sản xuất quảng cáo video tùy chỉnh"
+  ],
+  "stars": 8786,
+  "starsToday": 44,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-04T03:39:17.165Z"
+}

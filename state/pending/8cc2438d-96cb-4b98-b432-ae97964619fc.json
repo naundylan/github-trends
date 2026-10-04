@@ -1,0 +1,27 @@
+{
+  "id": "8cc2438d-96cb-4b98-b432-ae97964619fc",
+  "repo": "agno-agi/agno",
+  "url": "https://github.com/agno-agi/agno",
+  "category": "Other",
+  "summary": "Build, run, and manage agent platforms.",
+  "usecases": [
+    "Khám phá và đánh giá agno-agi/agno cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 42540,
+  "starsToday": 32,
+  "language": "Python",
+  "topics": [
+    "developer-tools",
+    "python",
+    "agents",
+    "ai",
+    "ai-agents"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-04T03:39:17.165Z"
+}
