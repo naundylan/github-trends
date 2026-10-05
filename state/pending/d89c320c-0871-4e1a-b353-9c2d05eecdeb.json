@@ -1,0 +1,32 @@
+{
+  "id": "d89c320c-0871-4e1a-b353-9c2d05eecdeb",
+  "repo": "mostlygeek/llama-swap",
+  "url": "https://github.com/mostlygeek/llama-swap",
+  "category": "AI/LLM",
+  "summary": "Dự án Go giúp chuyển đổi mượt mà giữa các mô hình LLM địa phương (llama.cpp, vllm) cho server OpenAI/Anthropic compatible, tối ưu hiệu suất.",
+  "usecases": [
+    "Chuyển đổi giữa llama.cpp và vllm không cần restart server",
+    "Triển khai nhiều phiên bản mô hình cho user khác nhau trên cùng server",
+    "Giảm downtime khi cập nhật hoặc thay đổi mô hình trong production"
+  ],
+  "ideas": [
+    "Hệ thống tự động scale mô hình dựa trên tải truy vấn real-time",
+    "Dashboard monitoring so sánh hiệu suất các mô hình LLM",
+    "Plugin cho OpenAI-compatible server hỗ trợ switching mô hình qua API"
+  ],
+  "stars": 5839,
+  "starsToday": 16,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "llama",
+    "llamacpp",
+    "localllama",
+    "localllm",
+    "openai",
+    "openai-api",
+    "vllm"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-05T03:28:06.619Z"
+}

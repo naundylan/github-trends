@@ -1,0 +1,42 @@
+{
+  "id": "aad63fc4-cd2c-40b4-ae0d-bb5d751bf806",
+  "repo": "DuarteSantos8/openGym",
+  "url": "https://github.com/DuarteSantos8/openGym",
+  "category": "Productivity/Personal Tool",
+  "summary": "Ứng dụng theo dõi gym và cơ thể self-hosted, cho phép lên kế hoạch luyện tập, ghi log training, theo dõi trạng thái mỏi cơ và nhập dữ liệu từ FitNotes/Strong/Hevy, kèm login passkey.",
+  "usecases": [
+    "Người dùng cá nhân theo dõi tiến độ training và mỏi cơ theo thời gian",
+    "Những fan fitness muốn sở hữu dữ liệu health bằng cách self-host trên server riêng",
+    "Huấn luyện viên hoặc trener quản lý routine cho khách hàng với nhập liệu từ các ứng dụng fitness phổ biến"
+  ],
+  "ideas": [
+    "Tích hợp thiết bị đeo để theo dõi tự động số lượng lặp và set",
+    "Thêm theo dõi dinh dưỡng và biểu đồ trực quan tiến độ",
+    "Tạo companion PWA di động để ghi log training trên đường"
+  ],
+  "stars": 3094,
+  "starsToday": 570,
+  "language": "JavaScript",
+  "topics": [
+    "bodyweight",
+    "docker",
+    "fitness",
+    "fitness-tracker",
+    "gym",
+    "health",
+    "nodejs",
+    "passkeys",
+    "progressive-web-applications",
+    "pwa",
+    "react",
+    "self-hosted",
+    "self-hosting",
+    "vite",
+    "webauthn",
+    "weightlifting",
+    "workout-tracker",
+    "mcp"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-10-05T03:28:06.619Z"
+}

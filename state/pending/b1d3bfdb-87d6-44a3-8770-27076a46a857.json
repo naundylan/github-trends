@@ -1,0 +1,38 @@
+{
+  "id": "b1d3bfdb-87d6-44a3-8770-27076a46a857",
+  "repo": "evcc-io/evcc",
+  "url": "https://github.com/evcc-io/evcc",
+  "category": "Embedded/IoT",
+  "summary": "Phần mềm mã nguồn mở viết bằng Go để tích hợp sạc xe điện và năng lượng mặt trời. Nó cho phép kiểm soát và tự động hóa hệ sạc tại nhà kết nối với Wallbox, PV, battery và các giao thức như MQTT, OCPP, Modbus.",
+  "usecases": [
+    "Tự động hóa sạc xe điện tại nhà bằng nguồn năng lượng mặt trời.",
+    "Kết nối Wallbox và thiết bị sạc với hệ thống home automation qua MQTT/OCPP.",
+    "Theo dõi và tối ưu hóa hiệu suất PV và battery discharge/charge."
+  ],
+  "ideas": [
+    "Tích hợp với dự án home automation như Home Assistant để điều khiển sạc thông minh.",
+    "Phát triển dashboard dự báo năng lượng dựa trên thời tiết và nhu cầu sạc.",
+    "Tạo hệ thống bán/bán lại năng lượng thừa giữa các nhà sử dụng trong khu phố."
+  ],
+  "stars": 7329,
+  "starsToday": 8,
+  "language": "Go",
+  "topics": [
+    "mqtt",
+    "golang",
+    "pv",
+    "wallbox",
+    "emobility",
+    "charger",
+    "home-automation",
+    "modbus",
+    "sunspec",
+    "ocpp",
+    "eebus",
+    "semp",
+    "battery",
+    "solar"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-05T03:28:06.619Z"
+}

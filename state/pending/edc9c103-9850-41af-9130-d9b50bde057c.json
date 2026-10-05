@@ -1,0 +1,31 @@
+{
+  "id": "edc9c103-9850-41af-9130-d9b50bde057c",
+  "repo": "tester-army/e2e",
+  "url": "https://github.com/tester-army/e2e",
+  "category": "Testing/QA",
+  "summary": "Framework e2e thử nghiệm cho ứng dụng web và mobile, cung cấp API hiện đại và tích hợp Playwright để tự động hóa kiểm thử xuyên suốt.",
+  "usecases": [
+    "Tự động hóa test xuyên suốt cho web apps trên nhiều trình duyệt",
+    "Chạy test cho mobile apps trên thực thiết bị và mô phỏng",
+    "Tích hợp CI/CD để phát hiện sớm bug trước khi deploy"
+  ],
+  "ideas": [
+    "Phát triển plugin VS Code hiển thị kết quả test trực tiếp trong editor",
+    "Tạo dashboard báo cáo test tự động cho teams lớn",
+    "Kết hợp với visual testing để kiểm tra UI thay đổi"
+  ],
+  "stars": 3265,
+  "starsToday": 345,
+  "language": "TypeScript",
+  "topics": [
+    "e2e",
+    "e2e-testing",
+    "end-to-end-testing",
+    "mobile",
+    "mobile-testing",
+    "playwright",
+    "web"
+  ],
+  "notePath": "notes/Testing-QA.md",
+  "createdAt": "2026-10-05T03:28:06.619Z"
+}

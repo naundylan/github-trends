@@ -1,0 +1,23 @@
+{
+  "id": "17322e0c-496b-4d50-b38e-88acf0ff7408",
+  "repo": "antirez/ds4",
+  "url": "https://github.com/antirez/ds4",
+  "category": "AI/LLM",
+  "summary": "Engine inference local cho DeepSeek 4 Flash và PRO, tối ưu cho Metal, CUDA và ROCm, cho phép chạy mô hình LLM trên máy tính riêng mà không phụ thuộc cloud.",
+  "usecases": [
+    "Chạy DeepSeek 4 locally trên GPU Metal (macOS) cho tạo nội dung và chatbot",
+    "Triển khai inference LLM offline cho ứng dụng nhạy cảm về dữ liệu",
+    "Hỗ trợ nghiên cứu và prototyping mô hình AI trên hardware đa nền tảng"
+  ],
+  "ideas": [
+    "Build chatbot local hoàn toàn không cần internet cho doanh nghiệp",
+    "Sử dụng làm engine inference cho ứng dụng desktop/mobile có tính năng AI",
+    "Kết hợp với RAG cho knowledge base cá nhân hoặc nội bộ"
+  ],
+  "stars": 23467,
+  "starsToday": 211,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-05T03:28:06.619Z"
+}

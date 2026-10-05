@@ -1,0 +1,34 @@
+{
+  "id": "d30a2307-45a8-466a-bd11-8f95fc8fec1f",
+  "repo": "Bennettxai/FounderOS-DEMO",
+  "url": "https://github.com/Bennettxai/FounderOS-DEMO",
+  "category": "Web Frontend",
+  "summary": "Một dashboard web Next.js mã nguồn mở hoạt động như trung tâm điều hành cho doanh nghiệp cá nhân. Nó tích hợp các bộ phận AI hỗ trợ (tin tức, funnel, mạng xã hội, tài chính, agents, knowledge graph) để quản lý một công ty một người duy nhất trên một giao diện live.",
+  "usecases": [
+    "Quản lý hoạt động kinh doanh hàng ngày cho người tự làm việc tự do thông qua dashboard duy nhất.",
+    "Tích hợp các agent AI để tự động hóa funnel bán hàng và communications.",
+    "Theo dõi tài chính và knowledge graph cá nhân trong thời gian thực."
+  ],
+  "ideas": [
+    "Phát triển mobile app companion để theo dõi và điều khiển dashboard trên di động.",
+    "Kết hợp với các nền tảng social media API để tự động hóa marketing cá nhân.",
+    "Sử dụng knowledge graph để gợi ý quyết định kinh doanh dựa trên dữ liệu lịch sử."
+  ],
+  "stars": 967,
+  "starsToday": 10,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "dashboard",
+    "founder-os",
+    "nextjs",
+    "open-source",
+    "operator-os",
+    "personal-productivity",
+    "sqlite",
+    "tailwindcss",
+    "typescript"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-05T03:28:06.619Z"
+}

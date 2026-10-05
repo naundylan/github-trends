@@ -1,0 +1,27 @@
+{
+  "id": "d3f78277-8a9a-4b2c-a29b-64e760eed29a",
+  "repo": "kanoqwq/UFI-TOOLS",
+  "url": "https://github.com/kanoqwq/UFI-TOOLS",
+  "category": "Developer Tool",
+  "summary": "Cung cấp các công cụ chức năng cho thiết bị ZTE F50 và U30 Air, hỗ trợ quản lý và thao tác với các thiết bị MIFI thông qua JavaScript.",
+  "usecases": [
+    "Flash firmware cho modem ZTE F50",
+    "Mở khóa và quản lý cài đặt MIFI U30 Air",
+    "Tự động hóa tác vụ quản lý thiết bị di động"
+  ],
+  "ideas": [
+    "Tích hợp giao diện web để theo dõi trạng thái thiết bị theo thời gian thực",
+    "Tạo script CI/CD để tự động cập nhật firmware cho nhiều thiết bị",
+    "Phát triển plugin cho các nền tảng quản lý mạng doanh nghiệp"
+  ],
+  "stars": 2209,
+  "starsToday": 126,
+  "language": "JavaScript",
+  "topics": [
+    "mifi",
+    "ufi",
+    "zte-f50"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-05T03:28:06.619Z"
+}
