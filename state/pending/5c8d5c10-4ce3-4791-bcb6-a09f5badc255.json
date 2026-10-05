@@ -1,0 +1,23 @@
+{
+  "id": "5c8d5c10-4ce3-4791-bcb6-a09f5badc255",
+  "repo": "achillean/shodan-python",
+  "url": "https://github.com/achillean/shodan-python",
+  "category": "Security/Pentest",
+  "summary": "Shodan-python là thư viện chính thức để tương tác với API Shodan, cho phép quét và tìm kiếm các thiết bị kết nối internet để đánh giá bảo mật.",
+  "usecases": [
+    "Quét mạng nội bộ để tìm thiết bị không an toàn hoặc lỗ hổng",
+    "Theo dõi footprints bảo mật và phát hiện các dịch vụ exposed",
+    "Tích hợp vào các công cụ monitoring an toàn cho doanh nghiệp"
+  ],
+  "ideas": [
+    "Tạo dashboard real-time hiển thị các thiết bị mới xuất hiện trên internet",
+    "Kết hợp với SIEM để cảnh báo xâm nhập bất thường",
+    "Phát triển bot tự động báo cáo và khắc phục lỗ hổng cho tổ chức"
+  ],
+  "stars": 3299,
+  "starsToday": 57,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-05T21:53:05.322Z"
+}

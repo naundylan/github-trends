@@ -1,0 +1,31 @@
+{
+  "id": "011e8f98-39e1-423d-89c2-9923ca96cc9b",
+  "repo": "tester-army/e2e",
+  "url": "https://github.com/tester-army/e2e",
+  "category": "Testing/QA",
+  "summary": "Khung testing e2e thế hệ mới cho ứng dụng web và mobile, hỗ trợ Playwright và tự động hóa kiểm thử trên nhiều nền tảng.",
+  "usecases": [
+    "Chạy kiểm thử tự động cho các ứng dụng web trên nhiều trình duyệt",
+    "Kiểm thử end-to-end cho ứng dụng mobile trên iOS/Android",
+    "Tích hợp vào CI/CD để phát hiện lỗi sớm trên mỗi commit"
+  ],
+  "ideas": [
+    "Tạo plugin AI tự động tạo test case từ lịch sử bug",
+    "Hỗ trợ chạy test trên thiết bị thật qua cloud grid",
+    "Tích hợp visual regression testing cho UI components"
+  ],
+  "stars": 4612,
+  "starsToday": 1430,
+  "language": "TypeScript",
+  "topics": [
+    "e2e",
+    "e2e-testing",
+    "end-to-end-testing",
+    "mobile",
+    "mobile-testing",
+    "playwright",
+    "web"
+  ],
+  "notePath": "notes/Testing-QA.md",
+  "createdAt": "2026-10-05T21:53:05.322Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "b912af8d-08f6-496a-a5a2-404b36ee2c8c",
+  "repo": "qeeqbox/social-analyzer",
+  "url": "https://github.com/qeeqbox/social-analyzer",
+  "category": "Security/Pentest",
+  "summary": "Công cụ OSINT cho phép phân tích và tìm kiếm hồ sơ cá nhân trên hơn 1000 trang mạng xã hội và website, hỗ trợ thu thập thông qua username và reconnaissance.",
+  "usecases": [
+    "Thu thập thông tin mở (OSINT) cho mục đích bảo mật và kiểm tra xâm nhập.",
+    "Theo dõi và theo dõi hoạt động cá nhân trên các nền tảng mạng xã hội.",
+    "Tích hợp vào các công cụ an ninh mạng để theo dõi nguy cơ lộ thông tin."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ phishing detection để cảnh báo khi thông tin cá nhân xuất hiện trên mạng tối tuyến.",
+    "Phát triển plugin cho các trình duyệt để cảnh báo nguy cơ lộ dữ liệu khi đăng nhập tài khoản.",
+    "Tạo dashboard báo cáo bảo mật tổng hợp từ nhiều nguồn OSINT."
+  ],
+  "stars": 24236,
+  "starsToday": 54,
+  "language": "JavaScript",
+  "topics": [
+    "osint",
+    "social-media",
+    "analyzer",
+    "username",
+    "profile",
+    "reconnaissance",
+    "pentest",
+    "information-gathering",
+    "pentesting",
+    "social-analyzer",
+    "person-profile",
+    "javascript",
+    "nodejs",
+    "python",
+    "security-tools",
+    "analysis",
+    "nodejs-cli",
+    "cli",
+    "sosint"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-05T21:53:05.322Z"
+}

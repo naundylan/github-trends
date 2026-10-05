@@ -1,0 +1,33 @@
+{
+  "id": "771716b5-56de-4be5-be9e-8634cd4bf48a",
+  "repo": "M-Abozaid/esp32-c3-adblock",
+  "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+  "category": "Embedded/IoT",
+  "summary": "Ứng dụng DNS ad-blocker trên ESP32-C3, sử dụng 537k domain hash FNV-1a 40-bit trong flash và tìm kiếm nhị phân, kèm web dashboard và UDP DNS sinkhole.",
+  "usecases": [
+    "Triển khai ad-blocking toàn nhà với chi phí phần cứng thấp.",
+    "Chặn domain độc hại cho mạng IoT thông qua DNS sinkhole.",
+    "Cung cấp dashboard web tùy chỉnh theo dõi hiệu quả chặn."
+  ],
+  "ideas": [
+    "Kết hợp với Home Assistant để tạo bộ lọc ad theo lịch.",
+    "Mở rộng kỹ thuật hash nhị phân cho các nền tảng nhúng khác.",
+    "Phát triển ứng dụng theo dõi từ xa cho dashboard."
+  ],
+  "stars": 1301,
+  "starsToday": 196,
+  "language": "C++",
+  "topics": [
+    "adblocker",
+    "arduino",
+    "dns",
+    "dns-sinkhole",
+    "esp32",
+    "esp32-c3",
+    "iot",
+    "pi-hole",
+    "platformio"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-05T21:53:05.322Z"
+}

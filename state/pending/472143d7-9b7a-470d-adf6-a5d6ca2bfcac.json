@@ -1,0 +1,23 @@
+{
+  "id": "472143d7-9b7a-470d-adf6-a5d6ca2bfcac",
+  "repo": "ltaoo/wx_channels_download",
+  "url": "https://github.com/ltaoo/wx_channels_download",
+  "category": "CLI Tool",
+  "summary": "Một công cụ downloader cho WeChat Video Channel, cho phép người dùng tải video từ Video Number (Video Channel) xuống local.",
+  "usecases": [
+    "Tải video từ Video Channel để lưu trữ hoặc phân tích.",
+    "Tích hợp vào quy trình tự động hóa nội dung truyền thông.",
+    "Phát triển nội dung cần trích xuất video từ nền tảng WeChat."
+  ],
+  "ideas": [
+    "Kết hợp với API để tạo dịch vụ lưu trữ video tự động.",
+    "Thêm hỗ trợ tải playlist hoặc lịch sử Video Channel.",
+    "Tích hợp với công cụ phân tích để theo dõi hiệu suất video."
+  ],
+  "stars": 9627,
+  "starsToday": 36,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-05T21:53:05.322Z"
+}

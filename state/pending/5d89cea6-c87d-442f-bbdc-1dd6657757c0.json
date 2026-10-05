@@ -1,0 +1,23 @@
+{
+  "id": "5d89cea6-c87d-442f-bbdc-1dd6657757c0",
+  "repo": "meituan-longcat/LongCat-Video",
+  "url": "https://github.com/meituan-longcat/LongCat-Video",
+  "category": "AI/LLM",
+  "summary": "LongCat-Video là một dự án Python hướng đến tạo sinh hoặc xử lý video bằng các mô hình AI generative, giúp tự động hóa việc tạo nội dung video với chất lượng cao.",
+  "usecases": [
+    "Tự động tạo video promotional từ text",
+    "Sinh video cho các ứng dụng giải trí và deepfake",
+    "Tạo nội dung video cho social media nhanh chóng"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình sinh âm để tạo video có nhạc và lời hát tự động",
+    "Sử dụng làm dữ liệu training cho mô hình thị giác máy tính",
+    "Phát triển plugin tích hợp với các phần mềm chỉnh sửa video chính thống"
+  ],
+  "stars": 8962,
+  "starsToday": 63,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-05T21:53:05.322Z"
+}

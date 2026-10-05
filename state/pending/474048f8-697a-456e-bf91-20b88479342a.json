@@ -1,0 +1,27 @@
+{
+  "id": "474048f8-697a-456e-bf91-20b88479342a",
+  "repo": "kanoqwq/UFI-TOOLS",
+  "url": "https://github.com/kanoqwq/UFI-TOOLS",
+  "category": "Developer Tool",
+  "summary": "Bộ công cụ thao tác và sửa đổi firmware cho thiết bị ZTE F50/U30 Air (mifi), hỗ trợ quản lý và flash thiết bị.",
+  "usecases": [
+    "Mở khóa và sửa đổi firmware cho các thiết bị ZTE cũ.",
+    "Phục hồi hoặc thay đổi cấu hình mạng cho thiết bị mifi.",
+    "Tích hợp vào quy trình sửa chữa hoặc phát triển thiết bị di động."
+  ],
+  "ideas": [
+    "Xây giao diện web thay thế CLI cho việc flash firmware.",
+    "Tự động hóa backup/restore cấu hình thiết bị trước/sau khi sửa.",
+    "Kết hợp với pipeline CI/CD cho testing firmware trên thiết bị thực tế."
+  ],
+  "stars": 2246,
+  "starsToday": 65,
+  "language": "JavaScript",
+  "topics": [
+    "mifi",
+    "ufi",
+    "zte-f50"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-05T21:53:05.322Z"
+}

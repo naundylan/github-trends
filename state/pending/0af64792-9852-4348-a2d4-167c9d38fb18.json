@@ -1,0 +1,28 @@
+{
+  "id": "0af64792-9852-4348-a2d4-167c9d38fb18",
+  "repo": "dortania/OpenCore-Legacy-Patcher",
+  "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+  "category": "Developer Tool",
+  "summary": "Patcher giúp cài đặt và chạy macOS trên phần cứng không phải Apple (Hackintosh), duy trì trải nghiệm hệ điều hành cũ và hỗ trợ phần cứng cũ.",
+  "usecases": [
+    "Cài đặt macOS trên PC gaming hoặc công việc với phần cứng cũ hơn.",
+    "Khôi phục hệ thống macOS trên máy tính cũ sau khi cập nhật macOS mới.",
+    "Tối ưu hóa driver và kecho cho cấu hình phần cứng không tương thích chính thức."
+  ],
+  "ideas": [
+    "Tạo GUI trực quan để chọn cấu hình patch phù hợp với từng mainboard.",
+    "Tích hợp tự động hóa script để cập nhật patch khi macOS phát hành bản mới.",
+    "Phát triển công cụ báo cáo tương thích phần cứng cho cộng đồng Hackintosh."
+  ],
+  "stars": 18445,
+  "starsToday": 42,
+  "language": "Python",
+  "topics": [
+    "opencore",
+    "patcher",
+    "big-sur",
+    "macos"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-05T21:53:05.322Z"
+}

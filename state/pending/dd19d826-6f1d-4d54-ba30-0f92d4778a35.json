@@ -1,0 +1,44 @@
+{
+  "id": "dd19d826-6f1d-4d54-ba30-0f92d4778a35",
+  "repo": "skyhook-io/radar",
+  "url": "https://github.com/skyhook-io/radar",
+  "category": "Developer Tool",
+  "summary": "Một giao diện UI mã nguồn mở cho Kubernetes, tích hợp MCP server cho AI agents, cung cấp cái nhìn tổng quan về topology, sự kiện, Helm, GitOps và traffic dịch vụ.",
+  "usecases": [
+    "Giám sát và debug cluster Kubernetes trong môi trường sản xuất.",
+    "Triển khai AI agents để tự động phân tích vấn đề cluster dựa trên dữ liệu topology và events.",
+    "Hỗ trợ GitOps workflow bằng cách trực quan hóa trạng thái Helm releases và cấu hình cluster."
+  ],
+  "ideas": [
+    "Kết hợp với các LLM để tạo ra các bản sửa chữa tự động cho các vấn đề cluster được phát hiện.",
+    "Phát triển plugin cho các IDE để truy cập radar trực tiếp từ môi trường phát triển.",
+    "Mở rộng hỗ trợ cho multi-cluster management với một dashboard thống nhất."
+  ],
+  "stars": 3644,
+  "starsToday": 34,
+  "language": "Go",
+  "topics": [
+    "argocd",
+    "cloud-native",
+    "gitops",
+    "helm",
+    "k8s",
+    "kubectl-plugin",
+    "kubernetes",
+    "kubernetes-dashboard",
+    "kubernetes-monitoring",
+    "kubernetes-tools",
+    "kubernetes-ui",
+    "mcp-server",
+    "ai-agents",
+    "fluxcd",
+    "kubernetes-debugging",
+    "kubernetes-mcp",
+    "kubernetes-troubleshooting",
+    "mcp",
+    "model-context-protocol",
+    "self-hosted"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-05T21:53:05.322Z"
+}
