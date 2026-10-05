@@ -66,8 +66,8 @@
   },
   "msitarzewski/agency-agents": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-04",
-    "last_saved": "2026-07-03"
+    "last_seen": "2026-10-05",
+    "last_saved": "2026-10-05"
   },
   "santifer/career-ops": {
     "first_seen": "2026-07-03",
@@ -131,8 +131,8 @@
   },
   "chthollyphile/folia-major": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-09-12",
-    "last_saved": "2026-09-11"
+    "last_seen": "2026-10-05",
+    "last_saved": "2026-10-05"
   },
   "mattpocock/skills": {
     "first_seen": "2026-07-04",
@@ -201,8 +201,8 @@
   },
   "ruvnet/RuView": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-10-02",
-    "last_saved": "2026-09-14"
+    "last_seen": "2026-10-05",
+    "last_saved": "2026-10-05"
   },
   "alirezarezvani/claude-skills": {
     "first_seen": "2026-07-06",
@@ -506,8 +506,8 @@
   },
   "tashfeenahmed/freellmapi": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-09-19",
-    "last_saved": "2026-09-14"
+    "last_seen": "2026-10-05",
+    "last_saved": "2026-10-05"
   },
   "Anil-matcha/Open-Generative-AI": {
     "first_seen": "2026-08-24",
@@ -601,7 +601,7 @@
   },
   "Alishahryar1/free-claude-code": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-26",
+    "last_seen": "2026-10-05",
     "last_saved": "2026-09-25"
   },
   "AgriciDaniel/claude-obsidian": {
@@ -1181,12 +1181,12 @@
   },
   "AdventDevInc/kudu": {
     "first_seen": "2026-09-06",
-    "last_seen": "2026-09-09",
-    "last_saved": "2026-09-06"
+    "last_seen": "2026-10-05",
+    "last_saved": "2026-10-05"
   },
   "ollama/ollama": {
     "first_seen": "2026-09-06",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-05",
     "last_saved": "2026-10-03"
   },
   "nklmilojevic/sofka": {
@@ -1221,8 +1221,8 @@
   },
   "Stremio/stremio-web": {
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-08",
-    "last_saved": "2026-09-07"
+    "last_seen": "2026-10-05",
+    "last_saved": "2026-10-05"
   },
   "k2-fsa/OmniVoice": {
     "first_seen": "2026-09-07",
@@ -1406,8 +1406,8 @@
   },
   "p1neappleXpress/OpenFlux": {
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-27",
-    "last_saved": "2026-09-11"
+    "last_seen": "2026-10-05",
+    "last_saved": "2026-10-05"
   },
   "alphaXiv/OpenResearch": {
     "first_seen": "2026-09-11",
@@ -1626,7 +1626,7 @@
   },
   "666ghj/MiroFish": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-27",
+    "last_seen": "2026-10-05",
     "last_saved": "2026-09-15"
   },
   "multimodal-art-projection/YuE": {
@@ -2091,7 +2091,7 @@
   },
   "longbridge/gpui-kit": {
     "first_seen": "2026-09-24",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-05",
     "last_saved": "2026-09-24"
   },
   "paperclipai/paperclip": {
@@ -2516,7 +2516,7 @@
   },
   "pablostanley/yoinks": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-05",
     "last_saved": "2026-10-03"
   },
   "github/github-mcp-server": {
@@ -2589,42 +2589,27 @@
     "last_seen": "2026-10-05",
     "last_saved": "2026-10-04"
   },
-  "tester-army/e2e": {
+  "boykopovar/AnyPS5": {
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-05",
     "last_saved": "2026-10-05"
   },
-  "antirez/ds4": {
+  "VictorTaelin/OptMem": {
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-05",
     "last_saved": "2026-10-05"
   },
-  "kanoqwq/UFI-TOOLS": {
+  "shiyu-coder/Kronos": {
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-05",
     "last_saved": "2026-10-05"
   },
-  "DuarteSantos8/openGym": {
+  "linshenkx/prompt-optimizer": {
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-05",
     "last_saved": "2026-10-05"
   },
-  "ok-oldking/ok-wuthering-waves": {
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
-    "last_saved": "2026-10-05"
-  },
-  "Bennettxai/FounderOS-DEMO": {
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
-    "last_saved": "2026-10-05"
-  },
-  "evcc-io/evcc": {
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
-    "last_saved": "2026-10-05"
-  },
-  "mostlygeek/llama-swap": {
+  "storytold/artcraft": {
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-05",
     "last_saved": "2026-10-05"

@@ -1,0 +1,44 @@
+{
+  "id": "a3e8ef56-3d78-4087-a4a8-937d88a902d1",
+  "repo": "ruvnet/RuView",
+  "url": "https://github.com/ruvnet/RuView",
+  "category": "Embedded/IoT",
+  "summary": "RuView biến tín hiệu WiFi thông thường thành thông tin không gian thời gian thực, giám sát dấu hiệu sinh tồn và phát hiện sự hiện diện mà không cần camera.",
+  "usecases": [
+    "Giám sát sức khỏe cư dân trong nhà thông qua các thay đổi tín hiệu WiFi.",
+    "Phát hiện sự hiện diện và chuyển động của người trong nhà để kích hoạt hệ thống nhà thông minh.",
+    "Thu thập dữ liệu không gian địa lý cho các thiết bị IoT mà không cần camera."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống chiếu sáng để tự động điều chỉnh cường độ dựa trên sự hiện diện của người dùng.",
+    "Sử dụng dữ liệu WiFi để phát hiện các thiết bị bất thường, tăng cường an ninh mạng.",
+    "Xây dựng hệ thống giám sát sức khỏe từ xa sử dụng thay đổi tín hiệu WiFi để theo dõi nhịp tim, nhịp thở."
+  ],
+  "stars": 96475,
+  "starsToday": 250,
+  "language": "Rust",
+  "topics": [
+    "densepose",
+    "wifi",
+    "esp32",
+    "monitoring",
+    "rf",
+    "wifi-security",
+    "self-learning",
+    "firmware",
+    "pose-estimation",
+    "spatial-intelligence",
+    "home-assistant",
+    "home-automation",
+    "skills",
+    "networking",
+    "claude",
+    "iot",
+    "react",
+    "typescript",
+    "npm",
+    "awesome"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-05T13:29:01.781Z"
+}

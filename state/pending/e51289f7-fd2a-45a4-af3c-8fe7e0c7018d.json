@@ -1,0 +1,23 @@
+{
+  "id": "e51289f7-fd2a-45a4-af3c-8fe7e0c7018d",
+  "repo": "tashfeenahmed/freellmapi",
+  "url": "https://github.com/tashfeenahmed/freellmapi",
+  "category": "API/GraphQL",
+  "summary": "freellmapi tổng hợp 34 nhà cung cấp LLM miễn phí với 635 endpoint mô hình, tất cả được truy cập qua một endpoint /v1 duy nhất, hỗ trợ định tuyến thông minh, dự phòng tự động và mã hóa khóa, phù hợp cho thử nghiệm cá nhân.",
+  "usecases": [
+    "Tích hợp nhiều mô hình LLM miễn phí vào ứng dụng mà không cần quản lý nhiều API key.",
+    "Cung cấp giải pháp dự phòng tự động cho các dịch vụ LLM, đảm bảo độ trễ thấp và khả năng sẵn sàng cao.",
+    "Thử nghiệm và đánh giá nhanh các mô hình ngôn ngữ lớn mà không tốn chi phí."
+  ],
+  "ideas": [
+    "Xây dựng bảng điều khiển để theo dõi việc sử dụng các nhà cung cấp LLM miễn phí và chi phí (mặc dù miễn phí).",
+    "Tích hợp với các nền tảng CI/CD để tự động đánh giá hiệu suất của các mô hình mới.",
+    "Tạo một dịch vụ phụ trợ cho các nhà phát triển ứng dụng di động để gọi LLM một cách dễ dàng."
+  ],
+  "stars": 30796,
+  "starsToday": 300,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-05T13:29:01.781Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "c01ae0ff-f0d2-4a70-9bdf-1eab60105892",
+  "repo": "storytold/artcraft",
+  "url": "https://github.com/storytold/artcraft",
+  "category": "AI/LLM",
+  "summary": "ArtCraft là engine tạo tác phẩm nghệ thuật bằng Rust, cho phép nghệ sĩ, thiết kế và nhà làm phim tạo hình ảnh, video 3D và nội dung AI nâng cao sáng tạo.",
+  "usecases": [
+    "Tạo nội dung hình ảnh và video cho dự án điện ảnh, game và animation.",
+    "Tối ưu hoá quy trình thiết kế 3D, giảm thời gian tạo mô hình.",
+    "Hỗ trợ hợp tác giữa các chuyên gia nghệ thuật qua nền tảng chung."
+  ],
+  "ideas": [
+    "Kết hợp với Unreal Engine để xuất trực tiếp mô hình 3D vào game.",
+    "Tự động tạo video trailer cho các bộ phim độc lập.",
+    "Tích hợp với các công cụ AI image generation khác để phong phú nội dung."
+  ],
+  "stars": 2389,
+  "starsToday": 177,
+  "language": "Rust",
+  "topics": [
+    "3d-graphics",
+    "ai",
+    "aivideo",
+    "filmmaking",
+    "imagegeneration"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-05T13:29:01.781Z"
+}

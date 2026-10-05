@@ -1,0 +1,34 @@
+{
+  "id": "a315f35b-26ae-468a-8450-2e0cd029d119",
+  "repo": "chthollyphile/folia-major",
+  "url": "https://github.com/chthollyphile/folia-major",
+  "category": "Web Frontend",
+  "summary": "Trình phát nhạc web với hiệu ứng animasi歌词 nổi bật, hỗ trợ đa nền tảng từ music local đến các dịch vụ online như Navidrome.",
+  "usecases": [
+    "Phát nhạc với lyrics động trên web browser.",
+    "Tích hợp với Navidrome để phát nhạc từ server cá nhân.",
+    "Sử dụng như Progressive Web App trên thiết bị di động."
+  ],
+  "ideas": [
+    "Kết hợp AI để tạo lyrics tự động từ file âm thanh.",
+    "Tích hợp với các dịch vụ music streaming như Spotify hoặc NetEase Music.",
+    "Hỗ trợ đa ngôn ngữ cho lyrics và giao diện người dùng."
+  ],
+  "stars": 3529,
+  "starsToday": 131,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "music",
+    "netease-music",
+    "player",
+    "pwa",
+    "react",
+    "typescript",
+    "vercel-deployment",
+    "music-player",
+    "navidrome-client"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-05T13:29:01.781Z"
+}

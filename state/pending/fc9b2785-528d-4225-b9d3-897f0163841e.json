@@ -1,0 +1,23 @@
+{
+  "id": "fc9b2785-528d-4225-b9d3-897f0163841e",
+  "repo": "VictorTaelin/OptMem",
+  "url": "https://github.com/VictorTaelin/OptMem",
+  "category": "AI Agent/Automation",
+  "summary": "OptMem cung cấp bộ nhớ vĩnh viễn cho AI agents thông qua prompt 426-token, hoạt động như script plug-and-play để duy trì trạng thái và ngữ cảnh.",
+  "usecases": [
+    "Cung cấp bộ nhớ dài hạn cho các AI agent trong tự động hóa.",
+    "Giảm kích thước prompt và tăng hiệu suất cho hệ thống AI agent.",
+    "Tích hợp dễ dàng (plug-and-play) vào các framework AI hiện có."
+  ],
+  "ideas": [
+    "Kết hợp với LangChain/LangGraph để quản lý trạng thái hội话 persistently.",
+    "Dùng làm cơ sở cho AI assistant đa tác vụ nhớ dài.",
+    "Triển khai trên thiết bị edge cho AI agent offline."
+  ],
+  "stars": 1895,
+  "starsToday": 106,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-05T13:29:01.781Z"
+}

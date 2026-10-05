@@ -1,0 +1,23 @@
+{
+  "id": "6ec5d3ea-39d5-4706-a69d-1911444b4961",
+  "repo": "msitarzewski/agency-agents",
+  "url": "https://github.com/msitarzewski/agency-agents",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống AI agency tích hợp nhiều tác nhân chuyên biệt (frontend, Reddit, v.v.) với tính cách, quy trình và deliverable, tự động hóa tác vụ sáng tạo và phân tích.",
+  "usecases": [
+    "Tự động tạo nội dung và tương tác cho cộng đồng Reddit",
+    "Thiết kế giao diện UI/UX bằng các tác nhân AI chuyên môn",
+    "Phản biện và review dự án phát triển phần mềm tự động"
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng chatbot để tạo ra trợ lý AI đa tác nhân",
+    "Phát triển hệ thống quản lý dự án dựa trên tác nhân AI",
+    "Tạo ra thị trường dịch vụ AI tự động cho các doanh nghiệp nhỏ"
+  ],
+  "stars": 156968,
+  "starsToday": 595,
+  "language": "Shell",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-05T13:29:01.781Z"
+}

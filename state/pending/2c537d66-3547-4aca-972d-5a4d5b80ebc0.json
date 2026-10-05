@@ -1,0 +1,26 @@
+{
+  "id": "2c537d66-3547-4aca-972d-5a4d5b80ebc0",
+  "repo": "Stremio/stremio-web",
+  "url": "https://github.com/Stremio/stremio-web",
+  "category": "Web Frontend",
+  "summary": "Ứng dụng web cho Stremio, cho phép stream media từ các nguồn đa dạng một cách tự do và dễ dàng, với giao diện thân thiện.",
+  "usecases": [
+    "Stream phim và TV show từ các nguồn khác nhau.",
+    "Quản lý library media cá nhân với tính năng tổ chức.",
+    "Sử dụng add-ons để mở rộng chức năng stream."
+  ],
+  "ideas": [
+    "Tích hợp với các dịch vụ streaming có sẵn như Netflix hoặc Amazon Prime.",
+    "Cải thiện chất lượng stream dựa trên adaptive bitrate.",
+    "Hỗ trợ thực tế ảo (VR) cho trải nghiệm xem phim immersiv."
+  ],
+  "stars": 14146,
+  "starsToday": 111,
+  "language": "JavaScript",
+  "topics": [
+    "stremio",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-05T13:29:01.781Z"
+}
