@@ -1,0 +1,27 @@
+{
+  "id": "63c48bfa-5219-47ea-94f4-6c05ad28b752",
+  "repo": "henrygd/beszel",
+  "url": "https://github.com/henrygd/beszel",
+  "category": "DevOps/CI-CD",
+  "summary": "Bảng điều khiển giám sát server nhẹ, theo dõi metrics Docker, dữ liệu lịch sử và cảnh báo cho môi trường self-hosted.",
+  "usecases": [
+    "Giám sát hiệu suất và uptime cho các server self-hosted trong homelab.",
+    "Theo dõi tài nguyên Docker containers và nhận cảnh báo khi vượt ngưỡng.",
+    "Phân tích lịch sử hiệu suất để tối ưu hóa tài nguyên hạ tầng."
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống cảnh báo (alerting) như Prometheus Alertmanager cho homelab nâng cao.",
+    "Triển khai làm dashboard giám sát cho các môi trường đa-cloud.",
+    "Kết hợp với các script tự động để scale resources dựa trên metrics thu thập được."
+  ],
+  "stars": 25991,
+  "starsToday": 29,
+  "language": "Go",
+  "topics": [
+    "homelab",
+    "monitoring",
+    "self-hosted"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-06T04:17:16.597Z"
+}

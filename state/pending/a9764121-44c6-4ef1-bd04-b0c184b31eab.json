@@ -1,0 +1,30 @@
+{
+  "id": "a9764121-44c6-4ef1-bd04-b0c184b31eab",
+  "repo": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ kỹ năng kỹ thuật production-grade cho AI coding agents, nhằm tự động hóa và nâng cao chất lượng viết code.",
+  "usecases": [
+    "Tự động hoàn thành và review code trong quy trình phát triển phần mềm",
+    "Tích hợp với AI coding assistant như Claude Code và Cursor để tăng năng suất",
+    "Tạo môi trường benchmark và test cho kỹ năng của AI agents"
+  ],
+  "ideas": [
+    "Kết nối với CI/CD pipeline để tự động sửa lỗi dựa trên skills",
+    "Phát triển plugin IDE cho suggestions code real-time từ AI agents",
+    "Tạo dashboard theo dõi và cải thiện liên tục các kỹ năng của agents"
+  ],
+  "stars": 101565,
+  "starsToday": 400,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "antigravity",
+    "claude-code",
+    "cursor",
+    "skills",
+    "codex"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-06T04:17:16.597Z"
+}

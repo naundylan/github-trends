@@ -1,0 +1,29 @@
+{
+  "id": "329ea709-c8db-4d05-988c-5acc1b52b93a",
+  "repo": "storytold/artcraft",
+  "url": "https://github.com/storytold/artcraft",
+  "category": "AI/LLM",
+  "summary": "Engine tạo dựng cho artists, designers và filmmakers, kết hợp 3D graphics và AI để sinh hình ảnh và video.",
+  "usecases": [
+    "Tự động tạo storyboard và animatic từ kịch bản phim",
+    "Sinh đồ họa 3D và hiệu ứng cho các dự án filmmaking và video",
+    "Hỗ trợ tạo nội dung hình ảnh cho marketing và social media"
+  ],
+  "ideas": [
+    "Kết hợp với motion graphics tools để tạo video hoàn chỉnh",
+    "Phát triển plugin cho Blender hoặc Unreal Engine",
+    "Tạo hệ thống tùy chỉnh phong cách hình ảnh cho từng nghệ sĩ"
+  ],
+  "stars": 2565,
+  "starsToday": 222,
+  "language": "Rust",
+  "topics": [
+    "3d-graphics",
+    "ai",
+    "aivideo",
+    "filmmaking",
+    "imagegeneration"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-06T04:17:16.597Z"
+}

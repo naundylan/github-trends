@@ -1,0 +1,31 @@
+{
+  "id": "14b17e0b-01ca-4612-bef5-080b4d90fd82",
+  "repo": "boykopovar/AnyPS5",
+  "url": "https://github.com/boykopovar/AnyPS5",
+  "category": "Developer Tool",
+  "summary": "Công cụ tự động porting các executable PS5 để chạy trên Linux và Windows, hỗ trợ chuyển đổi thư viện động và Vulkan/SPIR-V",
+  "usecases": [
+    "Port PS5 exclusive games to PC Linux platform",
+    "Enable homebrew development and modding on PS5 hardware",
+    "Research and analyze PS5 executable internals for security or emulation purposes"
+  ],
+  "ideas": [
+    "Integrate with existing PS5 emulators (like RPCS3) to improve compatibility",
+    "Extend support to PS4 executable porting",
+    "Build a GUI wrapper for easier batch processing of game updates"
+  ],
+  "stars": 5056,
+  "starsToday": 997,
+  "language": "C++",
+  "topics": [
+    "dynamic-library",
+    "game-porting",
+    "ps5-tools",
+    "vulkan",
+    "spir-v",
+    "anyps5",
+    "ps5"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-06T04:17:16.596Z"
+}

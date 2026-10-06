@@ -1,0 +1,27 @@
+{
+  "id": "405b3ea2-0112-414a-9ed5-ceb3adc1ae9f",
+  "repo": "rust-lang/rust",
+  "url": "https://github.com/rust-lang/rust",
+  "category": "Developer Tool",
+  "summary": "Ngôn ngữ lập trình Rust với trình biên dịch mạnh mẽ, cho phép phát triển phần mềm hiệu suất cao và an toàn về bộ nhớ.",
+  "usecases": [
+    "Xây dựng ứng dụng hệ thống và nền tảng với tốc độ gần C/C++ nhưng an toàn về bộ nhớ.",
+    "Phát triển command-line tools và dịch vụ backend với ecosystem Cargo.",
+    "Giáo dục và nghiên cứu ngôn ngữ lập trình hiện đại về quản lý mémoire an toàn."
+  ],
+  "ideas": [
+    "Kết hợp với WebAssembly để chạy code Rust trong trình duyệt một cách an toàn.",
+    "Sử dụng trong phát triển game engine riêng nhờ hiệu suất cao.",
+    "Triển khai làm ngôn ngữ script cho các ứng dụng embedded hệ thống."
+  ],
+  "stars": 119597,
+  "starsToday": 55,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "compiler",
+    "language"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-06T04:17:16.597Z"
+}

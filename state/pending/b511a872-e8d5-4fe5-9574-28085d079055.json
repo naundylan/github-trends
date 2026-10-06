@@ -1,0 +1,34 @@
+{
+  "id": "b511a872-e8d5-4fe5-9574-28085d079055",
+  "repo": "linshenkx/prompt-optimizer",
+  "url": "https://github.com/linshenkx/prompt-optimizer",
+  "category": "AI/LLM",
+  "summary": "Prompt optimizer là công cụ AI giúp viết prompt tốt hơn và thu được kết quả từ AI chất lượng cao hơn, hỗ trợ tối ưu hóa prompt cho các mô hình LLM thông qua prompt engineering và tuning.",
+  "usecases": [
+    "Năng lượng viết prompt cho các mô hình như GPT, Claude, Gemini để đạt câu trả lời chính xác và có cấu trúc.",
+    "Giúp nhà phát triển AI tự động hóa quá trình tối ưu prompt, tiết kiệm thời gian trong nghiên cứu.",
+    "Dùng trong ứng dụng AI để cải thiện trải nghiệm người dùng khi tương tác với chatbot."
+  ],
+  "ideas": [
+    "Kết hợp với prompt management framework tạo pipeline tự động tối ưu prompt cho từng use case.",
+    "Phát triển plugin IDE cho phép test và optimize prompt trực tiếp khi code.",
+    "Sử dụng reinforcement learning từ feedback người dùng để tự động điều chỉnh prompt theo thời gian."
+  ],
+  "stars": 36529,
+  "starsToday": 146,
+  "language": "TypeScript",
+  "topics": [
+    "llm",
+    "prompt",
+    "prompt-engineering",
+    "prompt-optimization",
+    "prompt-toolkit",
+    "prompt-tuning",
+    "ai-prompts",
+    "ai-tools",
+    "prompt-optimizer",
+    "prompt-testing"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-06T04:17:16.597Z"
+}

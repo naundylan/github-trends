@@ -1,0 +1,23 @@
+{
+  "id": "7582df07-a453-4909-8f8c-3422d91852a1",
+  "repo": "VictorTaelin/OptMem",
+  "url": "https://github.com/VictorTaelin/OptMem",
+  "category": "AI Agent/Automation",
+  "summary": "OptMem provides a lightweight, plug-and-play mechanism to give AI agents permanent long-term memory using minimal prompt overhead (426 tokens), enabling persistent context across sessions.",
+  "usecases": [
+    "Maintaining consistent user persona and preferences in long-running AI assistants",
+    "Enabling multi-turn conversations without context loss across sessions",
+    "Reducing token costs while preserving agent memory in deployment"
+  ],
+  "ideas": [
+    "Combine with vector databases for scalable persistent memory",
+    "Adapt for code agents to remember past debugging sessions",
+    "Use as a foundation for autonomous agents that learn from past interactions"
+  ],
+  "stars": 1956,
+  "starsToday": 85,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-06T04:17:16.597Z"
+}

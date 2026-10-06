@@ -1,0 +1,40 @@
+{
+  "id": "a663779c-373e-4c8c-8b94-003e6faa13c5",
+  "repo": "laoma528/awesome-zhuiju-free",
+  "url": "https://github.com/laoma528/awesome-zhuiju-free",
+  "category": "Awesome List/Curated Resource",
+  "summary": "awesome-zhuiju-free là danh sách nguồn tài nguyên miễn phí cho phim/series, bao gồm IPTV, tìm kiếm magnet, TVBox configs và các dự án liên quan đến nội dung truyền hình không quảng cáo.",
+  "usecases": [
+    "Người dùng tìm kiếm các nguồn phát trực tuyến miễn phí và không quảng cáo cho phim ảnh và truyền hình.",
+    "Phát triển hoặc tùy chỉnh TVBox/phần mềm tương tự bằng các cấu hình và nguồn tài nguyên trong danh sách.",
+    "Nhóm cộng đồng chia sẻ và duy trì các nguồn IPTV, magnet search cập nhật hàng ngày."
+  ],
+  "ideas": [
+    "Tạo ứng dụng web hoặc mobile kết hợp tìm kiếm nội dung từ nhiều nguồn trong danh sách với bộ lọc chất lượng.",
+    "Phát triển bot Telegram hoặc Discord để tự động gửi link phát mới nhất từ danh sách này.",
+    "Kết hợp với các dự án mã nguồn mở khác để xây dựng nền tảng truy cập nội dung đa phương tiện toàn diện."
+  ],
+  "stars": 11310,
+  "starsToday": 120,
+  "language": "JavaScript",
+  "topics": [
+    "awesome-list",
+    "chinese",
+    "free-streaming",
+    "iptv",
+    "magnet-search",
+    "media-player",
+    "movie-guide",
+    "subtitles",
+    "tvbox",
+    "bt-search",
+    "cloud-drive-search",
+    "movie-resources",
+    "free",
+    "movie",
+    "no-ads",
+    "tvbox-config"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-10-06T04:17:16.597Z"
+}

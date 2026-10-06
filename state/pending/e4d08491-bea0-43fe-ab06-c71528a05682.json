@@ -1,0 +1,23 @@
+{
+  "id": "e4d08491-bea0-43fe-ab06-c71528a05682",
+  "repo": "shiyu-coder/Kronos",
+  "url": "https://github.com/shiyu-coder/Kronos",
+  "category": "AI/LLM",
+  "summary": "Kronos is a foundation model trained on financial market data, designed to understand and generate finance-related text and time-series analysis for market forecasting and financial NLP tasks.",
+  "usecases": [
+    "Financial time-series prediction and trend analysis",
+    "Automated financial report generation and summarization",
+    "AI-powered trading assistants and market research tools"
+  ],
+  "ideas": [
+    "Integrate with real-time data pipelines for live market alerts",
+    "Fine-tune on specific asset classes like crypto or commodities",
+    "Combine with risk management systems for scenario modeling"
+  ],
+  "stars": 40035,
+  "starsToday": 96,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-06T04:17:16.597Z"
+}
