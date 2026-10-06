@@ -1,0 +1,37 @@
+{
+  "id": "4b6e0b91-22fe-4910-a5ab-3bec809fb28f",
+  "repo": "AprilNEA/OpenLogi",
+  "url": "https://github.com/AprilNEA/OpenLogi",
+  "category": "Developer Tool",
+  "summary": "utility Rust local-first để tùy chỉnh nút bấm, DPI và SmartShift cho chuột Logitech, không cần tài khoản và không có telemetry",
+  "usecases": [
+    "tối ưu hóa hiệu suất làm việc cho người dùng chuột Logitech cao cấp (như MX Master)",
+    "cấu hình phím tắt và cảm độ cho các trò chơi hoặc ứng dụng cần đầu vào chính xác",
+    "sử dụng trên hệ điều hành không có phần mềm chính thức hỗ trợ tùy chỉnh sâu"
+  ],
+  "ideas": [
+    "mở rộng hỗ trợ đa nền tảng (Linux, Windows, macOS) đồng bộ cài đặt",
+    "tích hợp với các kịch tự động hóa (automation scripts) để thay đổi cấu hình theo ngữ cảnh",
+    "phát triển plugin cho các môi trường phát triển (IDE) để áp dụng cấu hình mouse khi code"
+  ],
+  "stars": 22940,
+  "starsToday": 152,
+  "language": "Rust",
+  "topics": [
+    "dpi",
+    "gpui",
+    "hid",
+    "hidpp",
+    "local-first",
+    "logitech",
+    "logitech-options",
+    "mouse-remapping",
+    "mx-master",
+    "privacy",
+    "rust",
+    "smartshift",
+    "logitech-mouse"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-06T12:43:58.189Z"
+}

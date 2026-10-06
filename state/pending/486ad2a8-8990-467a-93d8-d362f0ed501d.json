@@ -1,0 +1,44 @@
+{
+  "id": "486ad2a8-8990-467a-93d8-d362f0ed501d",
+  "repo": "0x4m4/hexstrike-ai",
+  "url": "https://github.com/0x4m4/hexstrike-ai",
+  "category": "Security/Pentest",
+  "summary": "HexStrike AI MCP Agents là một server MCP tiên tiến cho phép các AI agent (Claude, GPT, Copilot) tự chạy hơn 150 công cụ bảo mật để tự động pentest, khai thác lỗ hổng, tự động bug bounty và nghiên cứu an ninh, nối liền LLMs với năng lực bảo mật thực tế.",
+  "usecases": [
+    "Tự động hóa quy trình kiểm tra xâm nhập (pentest) cho các ứng dụng web và mạng.",
+    "Tự động tìm kiếm và báo cáo lỗ hổng bảo mật trong môi trường Kali Linux.",
+    "Tích hợp với LLM để tạo ra các công cụ bug bounty tự động."
+  ],
+  "ideas": [
+    "Xây dựng dashboard giám sát real-time cho các cuộc tấn công tự động.",
+    "Kết hợp với threat intelligence feeds để tự động cập nhật vectơ tấn công mới.",
+    "Phát triển plugin cho IDE để security engineers kiểm tra trực tiếp từ editor."
+  ],
+  "stars": 12450,
+  "starsToday": 59,
+  "language": "Python",
+  "topics": [
+    "0x4m4",
+    "ai",
+    "ai-agents",
+    "ai-cybersecurity",
+    "ai-hacking",
+    "ai-penetration-testing",
+    "ai-security-tool",
+    "artificial-intelligence",
+    "ctf-tools",
+    "generative-ai",
+    "kali-linux",
+    "kali-tools",
+    "llm",
+    "llm-integration",
+    "mcp",
+    "mcp-server",
+    "mcp-tools",
+    "pentesting",
+    "pentesting-tools",
+    "hexstrike"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-06T12:43:58.189Z"
+}

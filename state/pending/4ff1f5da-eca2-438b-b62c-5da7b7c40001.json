@@ -1,0 +1,44 @@
+{
+  "id": "4ff1f5da-eca2-438b-b62c-5da7b7c40001",
+  "repo": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án sử dụng AI agents để reverse engineering từ hành vi ứng dụng xuống các bản nhị phân, tích hợp Ghidra, Hopper và phân tích static/dynamic.",
+  "usecases": [
+    "Phân tích bảo mật ứng dụng để tìm lỗ hổng 0-day",
+    "Tự động tạo mã nguồn từ bản nhị phân cho mục đích nghiên cứu hoặc tương thích",
+    "Phát triển kỹ năng AI agent cho tác vụ phức tạp về phân tích code và binary"
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tự động tạo báo cáo bảo mật từ kết quả phân tích binary",
+    "Phát triển plugin IDE cho reverse engineering trực tiếp trong môi trường phát triển",
+    "Sử dụng cho các thử thách CTF phức tạp để đào tạo AI agents"
+  ],
+  "stars": 6942,
+  "starsToday": 2963,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "binary-analysis",
+    "cli",
+    "coding-agents",
+    "decompiler",
+    "disassembler",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "reverse-engineering",
+    "static-analysis",
+    "agent-skills",
+    "reverse-engineering-tools",
+    "ai-agent-tools",
+    "dsh-plugin",
+    "cordis",
+    "dsh",
+    "hopper",
+    "ghidra",
+    "ctf"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-06T12:43:58.189Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "911361be-44d0-4b37-b96d-b85f8f0d4beb",
+  "repo": "cloudflare/security-audit-skill",
+  "url": "https://github.com/cloudflare/security-audit-skill",
+  "category": "Security/Pentest",
+  "summary": "Một skill cho coding agents thực hiện kiểm tra bảo mật đa giai đoạn, kết quả được xác minh độc lập và định dạng máy-readable.",
+  "usecases": [
+    "Tự động hóa kiểm tra bảo mật cho repository code nguồn trong quy trình phát triển",
+    "Tích hợp vào CI/CD để phát hiện sớm các vấn đề bảo mật",
+    "Cung cấp kết quả audit có thể kiểm chứng và chia sẻ dễ dàng với đội ngũ bảo mật"
+  ],
+  "ideas": [
+    "Mở rộng skill để bao phủ các tiêu chuẩn compliance như OWASP, SOC 2",
+    "Tạo dashboard trực quan hóa kết quả audit theo thời gian thực",
+    "Kết hợp với các agent khác để tự động tạo patch cho lỗ hiểm được phát hiện"
+  ],
+  "stars": 25041,
+  "starsToday": 455,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-06T12:43:58.189Z"
+}

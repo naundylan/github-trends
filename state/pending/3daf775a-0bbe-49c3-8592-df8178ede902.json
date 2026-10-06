@@ -1,0 +1,40 @@
+{
+  "id": "3daf775a-0bbe-49c3-8592-df8178ede902",
+  "repo": "omnigent-ai/omnigent",
+  "url": "https://github.com/omnigent-ai/omnigent",
+  "category": "AI Agent/Automation",
+  "summary": "Omnigent là framework AI agent mã nguồn mở và meta-harness, cho phép điều phối Claude Code, Codex, Cursor, Pi và các agent tùy chỉnh, hỗ trợ thay đổi harness mà không cần sửa code, enforcing chính sách và sandboxing, cùng cộng tác real-time từ mọi thiết bị.",
+  "usecases": [
+    "Điều phối nhiều LLM/agent (Claude Code, Codex, Cursor) trong một dự án phát triển phần mềm cùng lúc.",
+    "Tạo môi trường sandbox an toàn để test code do AI sinh ra mà không ảnh hưởng hệ thống chính.",
+    "Cho phép team chuyển đổi giữa các harness agent khác nhau mà không cần rewrite code."
+  ],
+  "ideas": [
+    "Tạo hệ thống tự động hóa CI/CD nơi mỗi commit được kiểm tra bởi các agent khác nhau.",
+    "Phát triển ứng dụng đa-agent cho hỗ trợ kỹ thuật tự động.",
+    "Kết hợp với cơ sở dữ liệu kiến thức để agent có thể truy cập tài liệu pháp lý/technical khi giải quyết vấn đề."
+  ],
+  "stars": 10612,
+  "starsToday": 50,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "developer-tools",
+    "llm",
+    "ml",
+    "python",
+    "agent-framework",
+    "agent-governance",
+    "agent-orchestration",
+    "ai-agent",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "multi-agent",
+    "sandbox"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-06T12:43:58.189Z"
+}

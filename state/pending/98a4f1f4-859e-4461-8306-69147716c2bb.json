@@ -1,0 +1,43 @@
+{
+  "id": "98a4f1f4-859e-4461-8306-69147716c2bb",
+  "repo": "rustdesk/rustdesk",
+  "url": "https://github.com/rustdesk/rustdesk",
+  "category": "Desktop App",
+  "summary": "Ứng dụngdesktop mã nguồn mở cho remote access, tự-host và làm thay thế TeamViewer.",
+  "usecases": [
+    "Hỗ trợ kỹ thuật từ xa cho đội ngũ IT trên các máy tính doanh nghiệp và máy chủ.",
+    "Truy cập và làm việc trên máy tính gia đình khi di chuyển hoặc làm việc từ xa.",
+    "Các tổ chức có yêu cầu an ninh dữ liệu cứng rẽ sử dụng giải pháp self-hosted an toàn."
+  ],
+  "ideas": [
+    "Kết hợp xác thực hai yếu tố (2FA) và mã hóa end-to-end cho các tình huống an ninh cao.",
+    "Phát triển plugin cho phép điều khiển thiết bị IoT thông qua phiên remote desktop.",
+    "Tích hợp tính năng chia sẻ file và chỉnh sửa tài liệu đồng thời trong phiên remote."
+  ],
+  "stars": 125239,
+  "starsToday": 90,
+  "language": "Rust",
+  "topics": [
+    "remote-control",
+    "remote-desktop",
+    "teamviewer",
+    "anydesk",
+    "vnc",
+    "rdp",
+    "rust",
+    "p2p",
+    "flutter",
+    "flutter-apps",
+    "dart",
+    "rust-lang",
+    "wayland",
+    "linux",
+    "android",
+    "flatpak",
+    "ios",
+    "macos",
+    "windows"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-06T12:43:58.189Z"
+}

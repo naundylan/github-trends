@@ -1,0 +1,27 @@
+{
+  "id": "f8f6544f-cdec-4d7d-bd6f-fd8c17d6a521",
+  "repo": "Joooook/12306-mcp",
+  "url": "https://github.com/Joooook/12306-mcp",
+  "category": "Developer Tool",
+  "summary": "Máy chủ tìm vé tàu 12306 triển khai theo giao thức Model Context Protocol (MCP), cho phép các AI agent truy vấn và đặt vé thông qua chuẩn MCP.",
+  "usecases": [
+    "Kết nối AI assistant với hệ thống đặt vé tàu Trung Quốc",
+    "Tự động hóa quy trình tìm và đặt vé cho nhân viên doanh nghiệp",
+    "Mở rộng khả năng của MCP server sang lĩnh vực dịch vụ du lịch"
+  ],
+  "ideas": [
+    "Kết hợp với AI agent để lên lịch trình du lịch tự động hoàn chỉnh",
+    "Mở rộng sang các dịch vụ đặt phòng khách sạn và máy bay tương tự"
+  ],
+  "stars": 2135,
+  "starsToday": 310,
+  "language": "JavaScript",
+  "topics": [
+    "12306",
+    "mcp",
+    "mcp-server",
+    "train-tickets"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-06T12:43:58.189Z"
+}

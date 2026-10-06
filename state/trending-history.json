@@ -111,7 +111,7 @@
   },
   "ChromeDevTools/chrome-devtools-mcp": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-09-19"
   },
   "asgeirtj/system_prompts_leaks": {
@@ -136,7 +136,7 @@
   },
   "mattpocock/skills": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-09-25"
   },
   "pbakaus/impeccable": {
@@ -216,7 +216,7 @@
   },
   "nodejs/node": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-09-23"
   },
   "thedotmack/claude-mem": {
@@ -346,8 +346,8 @@
   },
   "rustdesk/rustdesk": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-10-03",
-    "last_saved": "2026-09-15"
+    "last_seen": "2026-10-06",
+    "last_saved": "2026-10-06"
   },
   "SmartlyDressedGames/U3-SDK": {
     "first_seen": "2026-07-09",
@@ -426,8 +426,8 @@
   },
   "anthropics/claude-plugins-community": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-08-27",
-    "last_saved": "2026-08-22"
+    "last_seen": "2026-10-06",
+    "last_saved": "2026-10-06"
   },
   "Panniantong/Agent-Reach": {
     "first_seen": "2026-08-22",
@@ -446,12 +446,12 @@
   },
   "block/buzz": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-09-16"
   },
   "ruvnet/ruflo": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-10-02"
   },
   "dani-garcia/vaultwarden": {
@@ -481,7 +481,7 @@
   },
   "heygen-com/hyperframes": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-09-18"
   },
   "microsoft/TypeScript": {
@@ -596,8 +596,8 @@
   },
   "cjpais/Handy": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-10-05",
-    "last_saved": "2026-09-15"
+    "last_seen": "2026-10-06",
+    "last_saved": "2026-10-06"
   },
   "Alishahryar1/free-claude-code": {
     "first_seen": "2026-08-26",
@@ -616,7 +616,7 @@
   },
   "rohitg00/ai-engineering-from-scratch": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-09-24"
   },
   "DietrichGebert/ponytail": {
@@ -776,7 +776,7 @@
   },
   "ayghri/i-have-adhd": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-10-02"
   },
   "harry0703/MoneyPrinterTurbo": {
@@ -931,7 +931,7 @@
   },
   "rtk-ai/rtk": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-10-03"
   },
   "farion1231/cc-switch": {
@@ -1246,8 +1246,8 @@
   },
   "cathrynlavery/diagram-design": {
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-11",
-    "last_saved": "2026-09-08"
+    "last_seen": "2026-10-06",
+    "last_saved": "2026-10-06"
   },
   "openai/skills": {
     "first_seen": "2026-09-08",
@@ -1486,8 +1486,8 @@
   },
   "RyanCodrai/turbovec": {
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-15",
-    "last_saved": "2026-09-12"
+    "last_seen": "2026-10-06",
+    "last_saved": "2026-10-06"
   },
   "reacherhq/check-if-email-exists": {
     "first_seen": "2026-09-12",
@@ -1616,8 +1616,8 @@
   },
   "cloudflare/security-audit-skill": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-09-21",
-    "last_saved": "2026-09-15"
+    "last_seen": "2026-10-06",
+    "last_saved": "2026-10-06"
   },
   "SnailSploit/Claude-Red": {
     "first_seen": "2026-09-15",
@@ -1651,7 +1651,7 @@
   },
   "anthropics/knowledge-work-plugins": {
     "first_seen": "2026-09-16",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-09-16"
   },
   "rlaope/oh-my-hermes": {
@@ -1836,7 +1836,7 @@
   },
   "rui314/mold": {
     "first_seen": "2026-09-19",
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-09-19"
   },
   "zed-industries/zed": {
@@ -1881,7 +1881,7 @@
   },
   "guohuiyuan/go-music-dl": {
     "first_seen": "2026-09-20",
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-09-20"
   },
   "CapSoftware/Cap": {
@@ -2271,7 +2271,7 @@
   },
   "topoteretes/cognee": {
     "first_seen": "2026-09-28",
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-09-28"
   },
   "satnaing/shadcn-admin": {
@@ -2461,7 +2461,7 @@
   },
   "mrifqidaffaaditya/WA-AKG": {
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-10-02"
   },
   "rmyndharis/OpenWA": {
@@ -2511,7 +2511,7 @@
   },
   "cursor/plugins": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-06",
     "last_saved": "2026-10-03"
   },
   "pablostanley/yoinks": {
@@ -2639,37 +2639,32 @@
     "last_seen": "2026-10-06",
     "last_saved": "2026-10-05"
   },
-  "boykopovar/AnyPS5": {
+  "morluto/rea": {
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
     "last_saved": "2026-10-06"
   },
-  "laoma528/awesome-zhuiju-free": {
+  "deepseek-ai/DeepGEMM": {
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
     "last_saved": "2026-10-06"
   },
-  "VictorTaelin/OptMem": {
+  "Joooook/12306-mcp": {
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
     "last_saved": "2026-10-06"
   },
-  "shiyu-coder/Kronos": {
+  "0x4m4/hexstrike-ai": {
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
     "last_saved": "2026-10-06"
   },
-  "linshenkx/prompt-optimizer": {
+  "omnigent-ai/omnigent": {
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
     "last_saved": "2026-10-06"
   },
-  "henrygd/beszel": {
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-06",
-    "last_saved": "2026-10-06"
-  },
-  "storytold/artcraft": {
+  "AprilNEA/OpenLogi": {
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
     "last_saved": "2026-10-06"

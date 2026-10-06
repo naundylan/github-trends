@@ -1,0 +1,22 @@
+{
+  "id": "9d97cedb-b16b-46c3-aec2-0c0028314dec",
+  "repo": "deepseek-ai/DeepGEMM",
+  "url": "https://github.com/deepseek-ai/DeepGEMM",
+  "category": "AI/LLM",
+  "summary": "Thư viện kernel BLAS sạch và hiệu năng cao viết bằng CUDA, tối ưu hóa các phép tính ma trận trên GPU cho các tác vụ AI.",
+  "usecases": [
+    "Tăng tốc suy luận (inference) cho các mô hình ngôn ngữ lớn (LLM)",
+    "Xây dựng backend tính toán hiệu năng cao cho ứng dụng AI",
+    "Nghiên cứu và phát triển kernel GPU tùy chỉnh"
+  ],
+  "ideas": [
+    "Tích hợp vào pipeline huấn luyện mô hình để giảm thời gian training",
+    "So sánh hiệu năng với cuBLAS để tối ưu hóa chi phí GPU"
+  ],
+  "stars": 8538,
+  "starsToday": 363,
+  "language": "Cuda",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-06T12:43:58.189Z"
+}

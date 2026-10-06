@@ -1,0 +1,28 @@
+{
+  "id": "39cbaadf-f8e8-4db0-9932-0a0f336b542d",
+  "repo": "cjpais/Handy",
+  "url": "https://github.com/cjpais/Handy",
+  "category": "NLP",
+  "summary": "Ứng dụng speech-to-text miễn phí, mã nguồn mở, hoạt động hoàn toàn ngoại tuyến trên nhiều nền tảng.",
+  "usecases": [
+    "Ghi chép ghi chú nhanh cho sinh viên và chuyên gia trong các cuộc họp hoặc lớp học.",
+    "Giúp người khiếm thính giao tiếp bằng cách chuyển đổi giọng nói thành văn bản trong thời gian thực.",
+    "Ghi âm và tạo bản đồ trích dẫn cuộc họp mà không cần kết nối internet."
+  ],
+  "ideas": [
+    "Kết hợp với các lệnh giọng để thực hiện điều khiển ứng dụngdesktop hands-free.",
+    "Triển khai phiên bản mobile để ghi âm tiếng Việt với từ vựng chuyên ngành y tế hoặc pháp lý.",
+    "Sử dụng làm nền tảng cho hệ thống tự động nhập liệu dữ liệu từ các cuộc phỏng vấn hoặc cuộc họp."
+  ],
+  "stars": 32993,
+  "starsToday": 103,
+  "language": "Rust",
+  "topics": [
+    "speech-to-text",
+    "tauri-v2",
+    "accessibility",
+    "cross-platform"
+  ],
+  "notePath": "notes/NLP.md",
+  "createdAt": "2026-10-06T12:43:58.189Z"
+}
