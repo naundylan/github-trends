@@ -1,0 +1,44 @@
+{
+  "id": "1f1673b2-1994-4f8b-8162-0ebbaf234476",
+  "repo": "ys-ll/uniterm",
+  "url": "https://github.com/ys-ll/uniterm",
+  "category": "CLI Tool",
+  "summary": "Uniterm là terminal đa nền tảng hỗ trợ hơn 30 giao thức (SSH, RDP, Docker, Kubernetes) và tích hợp AI Agent tự động để lên kế hoạch và thực thi lệnh shell đa bước.",
+  "usecases": [
+    "Quản lý và truy cập cluster Kubernetes và containers thông qua giao diện terminal duy nhất.",
+    "Kết nối và quản lý remote servers/database với nhiều protocol như SSH, RDP, SFTP trong cùng một ứng dụng.",
+    "Tự động hóa tác vụ hệ thống bằng cách sử dụng AI Agent để thực thi các lệnh phức tạp theo yêu cầu."
+  ],
+  "ideas": [
+    "Sử dụng Uniterm làm giao diện terminal cho scripts automation và CI/CD lightweight.",
+    "Kết hợp với công cụ monitoring để tạo dashboard terminal thông minh.",
+    "Phát triển plugin cho IDE để truy cập Uniterm capabilities trực tiếp từ code editor."
+  ],
+  "stars": 743,
+  "starsToday": 30,
+  "language": "Go",
+  "topics": [
+    "ai-agent",
+    "mosh",
+    "rdp",
+    "sftp",
+    "spice",
+    "ssh",
+    "terminal",
+    "vnc",
+    "xterm",
+    "telnet",
+    "wails",
+    "zmodem",
+    "cross-platform",
+    "database-client",
+    "containerd",
+    "docker",
+    "kubernetes",
+    "nerdctl",
+    "podman",
+    "elasticsearch"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-06T20:06:57.539Z"
+}

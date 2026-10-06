@@ -1,0 +1,27 @@
+{
+  "id": "53a6bf32-37d5-4098-818f-24922b9048b9",
+  "repo": "sveltejs/svelte",
+  "url": "https://github.com/sveltejs/svelte",
+  "category": "Web Framework",
+  "summary": "Svelte là framework frontend hiện đại biên dịch thành code JavaScript tối ưu tại build time, cung cấp hiệu suất cao và cú pháp gọn nhẹ.",
+  "usecases": [
+    "Xây dựng ứng dụng web động với bundle size nhỏ và hiệu suất tốt.",
+    "Phát triển components UI có reactivity tự nhiên mà không cần virtual DOM.",
+    "Tích hợp vào dự án full-stack hoặc static site generation bằng SvelteKit."
+  ],
+  "ideas": [
+    "Kết hợp Svelte với Tailwind CSS để tạo giao diện nhanh và responsive.",
+    "Xây dựng headless CMS hoặc blog personal sử dụng SvelteKit.",
+    "Phát triển browser extension sử dụng Svelte REPL."
+  ],
+  "stars": 88351,
+  "starsToday": 32,
+  "language": "JavaScript",
+  "topics": [
+    "template",
+    "ui",
+    "compiler"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-06T20:06:57.539Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "95b70c8f-5eac-4ef3-b6e9-67927b4dd711",
+  "repo": "owasp-amass/amass",
+  "url": "https://github.com/owasp-amass/amass",
+  "category": "Security/Pentest",
+  "summary": "Amass là công cụ thu thập tấn công bề mặt sâu mapping và discovery tài sản mạng, hỗ trợ enumeration DNS, subdomain finding và OSINT cho bảo mật.",
+  "usecases": [
+    "Tìm kiếm toàn bộ subdomain và asset của một domain mục tiêu cho penetration testing.",
+    "Mapping bề tấn công và theo dõi thay đổi infrastructure cho mục đích bảo mật cơ bản.",
+    "Thu thập OSINT và dữ liệu DNS cho báo cáo lỗ hổng hoặc nghiên cứu an ninh mạng."
+  ],
+  "ideas": [
+    "Tích hợp Amass vào pipeline CI/CD để monitoring liên tục bề tấn công.",
+    "Kết hợp với Grafana để trực quan hóa thay đổi subdomain qua thời gian.",
+    "Phát triển plugin để tự động báo cáo các domain mới hoặc thay đổi đến team bảo mật."
+  ],
+  "stars": 15303,
+  "starsToday": 17,
+  "language": "Go",
+  "topics": [
+    "go",
+    "dns",
+    "subdomain",
+    "enumeration",
+    "recon",
+    "osint",
+    "osint-reconnaissance",
+    "network-security",
+    "owasp",
+    "maltego",
+    "attack-surfaces",
+    "information-gathering",
+    "golang"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-06T20:06:57.539Z"
+}

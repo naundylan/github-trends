@@ -1,0 +1,44 @@
+{
+  "id": "4339c369-775d-41d1-88e8-0d204929d6ab",
+  "repo": "go-gitea/gitea",
+  "url": "https://github.com/go-gitea/gitea",
+  "category": "DevOps/CI-CD",
+  "summary": "Gitea là nền tảng self-hosted phát triển bằng Go, cung cấp Git hosting, code review, CI/CD, package registry và collaboration tools, thay thế cho GitHub/GitLab.",
+  "usecases": [
+    "Đôi nhóm phát triển sử dụng Gitea để quản lý repository code, review và merge request nội bộ.",
+    "Cấu hình CI/CD pipelines tự động build, test và deploy ứng dụng khi push code.",
+    "Quản lý packages (Docker, npm, Maven) và release artifacts trong cùng một môi trường."
+  ],
+  "ideas": [
+    "Tích hợp Gitea với LDAP/SSO để quản lý quyền truy cập tập trung cho doanh nghiệp.",
+    "Tự động hóa migration repository từ GitHub/GitLab sang Gitea sửzing API.",
+    "Phát triển plugin mở rộng tính năng báo cáo dự án hoặc tích hợp với các công cụ monitoring bên ngoài."
+  ],
+  "stars": 58337,
+  "starsToday": 25,
+  "language": "Go",
+  "topics": [
+    "gitea",
+    "golang",
+    "devops",
+    "git",
+    "gitlab",
+    "github",
+    "go",
+    "hacktoberfest",
+    "git-gui",
+    "git-server",
+    "docker-registry-v2",
+    "github-actions",
+    "maven-server",
+    "npm-registry",
+    "vue",
+    "bitbucket",
+    "cicd",
+    "typescript",
+    "self-hosted",
+    "git-lfs"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-06T20:06:57.539Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "b32549d7-523d-4d55-8044-6a9ae41bd2d7",
+  "repo": "storytold/artcraft",
+  "url": "https://github.com/storytold/artcraft",
+  "category": "AI/LLM",
+  "summary": "ArtCraft là động cơ tạo tác phẩm nghệ thuật cho nghệ sĩ, nhà thiết kế và nhà làm phim sử dụng AI.",
+  "usecases": [
+    "Tạo đồ họa 3D cho hiệu ứng hình ảnh trong phim",
+    "Tạo nội dung video thông minh dựa trên AI"
+  ],
+  "ideas": [
+    "Tích hợp công cụ này vào quy trình sáng tạo tự động của nghệ nhân",
+    "Xây dựng trải nghiệm kể chuyện tương tác với AI"
+  ],
+  "stars": 2961,
+  "starsToday": 300,
+  "language": "Rust",
+  "topics": [
+    "3d-graphics",
+    "ai",
+    "aivideo",
+    "filmmaking",
+    "imagegeneration"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-06T20:06:57.539Z"
+}

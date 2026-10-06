@@ -1,0 +1,35 @@
+{
+  "id": "0ceaaeee-8591-4926-917f-76aeee1e7c4c",
+  "repo": "SimoHypers/limusic",
+  "url": "https://github.com/SimoHypers/limusic",
+  "category": "Desktop App",
+  "summary": "Limusic là ứng dụng desktop native cho YouTube Music, xây dựng bằng Tauri + Rust + SvelteKit, nhẹ hơn Electron, không quảng cáo và hỗ trợ scrobble Last.fm.",
+  "usecases": [
+    "Nghe nhạc YouTube Music trên máy tính mà không cần mở trình duyệt web.",
+    "Theo dõi lịch sử nghe nhạc và đồng bộ lên tài khoản Last.fm.",
+    "Hiển thị trạng thái bài hát đang phát trực tiếp trên Discord Rich Presence."
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ thêm các nền tảng âm nhạc khác như Spotify hoặc SoundCloud.",
+    "Thêm tính năng tải nhạc offline để nghe khi không có kết nối mạng.",
+    "Tích hợp equalizer tùy chỉnh để nâng cao chất lượng âm thanh."
+  ],
+  "stars": 850,
+  "starsToday": 33,
+  "language": "Rust",
+  "topics": [
+    "desktop-app",
+    "music",
+    "music-application",
+    "music-player",
+    "discord-rich-presence",
+    "lastfm",
+    "rust",
+    "scrobbler",
+    "svelte",
+    "tauri",
+    "youtube-music"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-06T20:06:57.539Z"
+}

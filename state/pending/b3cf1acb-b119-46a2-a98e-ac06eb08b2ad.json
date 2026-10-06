@@ -1,0 +1,43 @@
+{
+  "id": "b3cf1acb-b119-46a2-a98e-ac06eb08b2ad",
+  "repo": "gitleaks/gitleaks",
+  "url": "https://github.com/gitleaks/gitleaks",
+  "category": "Security/Pentest",
+  "summary": "Gitleaks là công cụ CLI viết bằng Go dùng để quét và phát hiện các secret (mật khẩu, API key, token) bị lộ trong git history hoặc file hệ thống.",
+  "usecases": [
+    "Tích hợp vào CI/CD pipeline để tự động chặn commit chứa secret nhạy cảm.",
+    "Quét lại toàn bộ repository cũ để tìm và loại bỏ thông tin xác thực bị lộ trước đó.",
+    "Sử dụng làm pre-commit hook để cảnh báo lập trình viên ngay khi viết code."
+  ],
+  "ideas": [
+    "Kết hợp với HashiCorp Vault để tự động xoay vòng secret sau khi phát hiện.",
+    "Triển khai thành webhook gửi cảnh báo vào Slack/Teams khi tìm thấy mật khẩu mới."
+  ],
+  "stars": 29742,
+  "starsToday": 46,
+  "language": "Go",
+  "topics": [
+    "security",
+    "security-tools",
+    "git",
+    "golang",
+    "go",
+    "secret",
+    "gitleaks",
+    "devsecops",
+    "hacktoberfest",
+    "ci-cd",
+    "cicd",
+    "cli",
+    "data-loss-prevention",
+    "dlp",
+    "open-source",
+    "ai-powered",
+    "llm",
+    "llm-inference",
+    "llm-training",
+    "nhi"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-06T20:06:57.539Z"
+}
