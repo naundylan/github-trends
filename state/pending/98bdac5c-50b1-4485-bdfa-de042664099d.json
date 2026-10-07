@@ -1,0 +1,32 @@
+{
+  "id": "98bdac5c-50b1-4485-bdfa-de042664099d",
+  "repo": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "category": "AI/LLM",
+  "summary": "Hệ thống tối ưu hiệu năng cho AI agents và các công cụ code như Claude Code, Codex, Cursor, tập trung vào kỹ năng, bộ nhớ và bảo mật để tăng năng suất phát triển phần mềm.",
+  "usecases": [
+    "Tối ưu hóa hiệu suất các cuộc gọi LLM trong các workflow code hàng ngày.",
+    "Cung cấp bộ nhớ và kỹ năng cho AI agents để giữ context dài hơn khi viết code.",
+    "Tích hợp với IDEs để hỗ trợ tự động hoàn thành và review code thông minh hơn."
+  ],
+  "ideas": [
+    "Phát triển module phân tích chi phí và latency cho từng tác vụ LLM.",
+    "Tạo dashboard theo dõi hiệu quả của AI agents qua các dự án.",
+    "Kết hợp caching để giảm số lần gọi API đi lại cho cùng một yêu cầu code."
+  ],
+  "stars": 274290,
+  "starsToday": 727,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "productivity"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-07T00:26:46.143Z"
+}

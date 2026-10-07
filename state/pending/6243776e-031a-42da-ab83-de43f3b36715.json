@@ -1,0 +1,23 @@
+{
+  "id": "6243776e-031a-42da-ab83-de43f3b36715",
+  "repo": "block/buzz",
+  "url": "https://github.com/block/buzz",
+  "category": "Other",
+  "summary": "Buzz là nền tảng giao tiếp kiểu 'hive mind', cho phép tương tác và chia sẻ dữ liệu giữa nhiều node trong mạng lưới phân tán.",
+  "usecases": [
+    "Hệ thống tin nhắn tức thời giữa các thiết bị IoT trong mạng lưới",
+    "Plaform giao cộng đồng phi tập trung với quyền kiểm soát người dùng",
+    "Tích hợp với ứng dụng real-time cần low-latency communication"
+  ],
+  "ideas": [
+    "Triển khai cơ chế consensus dữ liệu giữa các node giống bumblebee",
+    "Sử dụng làm nền tảng game cần giao tiếp ngang hàng giữa players",
+    "Kết hợp blockchain để tạo hệ thống reputation phi tập trung"
+  ],
+  "stars": 35620,
+  "starsToday": 41,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-07T00:26:46.143Z"
+}

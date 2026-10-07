@@ -1,0 +1,23 @@
+{
+  "id": "54767cbe-2a71-4fec-a73c-1b0f89b0f83e",
+  "repo": "eolix/photosuite",
+  "url": "https://github.com/eolix/photosuite",
+  "category": "Desktop App",
+  "summary": "Trình chỉnh sửa ảnhdesktop mã nguồn mở trung thành với Adobe Photoshop, hỗ trợ đồng bộ và chỉnh sửa file PSD/PSB.",
+  "usecases": [
+    "Chỉnh sửa và tùy chỉnh ảnh với các lớp đồ họa phức tạp",
+    "Mở và sửa trực tiếp file PSD/PSB cũ mà không cần cài đặt Photoshop",
+    "Tạo thiết kế đồ họa và xử lý ảnh cho dự án in ấn và xuất bản"
+  ],
+  "ideas": [
+    "Tích hợp các hiệu ứng AI để nâng cao độ phân giải và khôi phục ảnh",
+    "Phát triển plugin mở rộng cho các định dạng vector và mô hình 3D",
+    "Tạo chế độ làm việc không mạng cho thiết bị di động cần chỉnh sửa ảnh di động"
+  ],
+  "stars": 823,
+  "starsToday": 118,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-07T00:26:46.143Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "579ede04-7a18-4a21-b2bc-900fb64a221b",
+  "repo": "JuliusBrussee/caveman",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "category": "AI Agent/Automation",
+  "summary": "Proxy và kỹ năng cho coding agents, giảm 65% token bằng cách sử dụng phong cách nói như người đá caveman để tối ưu chi phí LLM.",
+  "usecases": [
+    "Giảm chi phí token khi sử dụng Claude/Claude Code cho tác vụ code dài",
+    "Tối ưu hiệu suất agent LLM trong review code và sinh code",
+    "Hỗ trợ ứng dụng AI hoạt động trong môi trường có ràng buộc token khắt khe"
+  ],
+  "ideas": [
+    "Phát triển middleware token-optimizer cho các dự án open-source LLM",
+    "Tạo gói skill cho các agent cần tiết kiệm token trong production",
+    "Kết hợp với caching hệ thống để giảm số lượng gọi LLM"
+  ],
+  "stars": 110215,
+  "starsToday": 212,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "anthropic",
+    "caveman",
+    "claude",
+    "claude-code",
+    "llm",
+    "meme",
+    "prompt-engineering",
+    "skill",
+    "tokens"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-07T00:26:46.143Z"
+}

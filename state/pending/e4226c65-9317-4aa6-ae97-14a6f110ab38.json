@@ -1,0 +1,23 @@
+{
+  "id": "e4226c65-9317-4aa6-ae97-14a6f110ab38",
+  "repo": "deepseek-ai/DeepGEMM",
+  "url": "https://github.com/deepseek-ai/DeepGEMM",
+  "category": "AI/LLM",
+  "summary": "DeepGEMM là thư viện kernel BLAS tối ưu cho GPU, cung cấp các phép tính đại số tuyến tính nhanh và hiệu quả, thường được sử dụng để tăng tốc training và inference cho các mô hình AI/LLM.",
+  "usecases": [
+    "Tăng tốc training mô hình ngôn ngữ lớn trên GPU",
+    "Nâng cao hiệu suất inference cho các ứng dụng deep learning",
+    "Cung cấp nền tảng kernel cho các thư viện ML như PyTorch và TensorFlow"
+  ],
+  "ideas": [
+    "Kết hợp với DeepSeek models để tối ưu inference trên consumer GPU",
+    "Phát triển wrapper Python để dễ dàng tích hợp trong workflow ML",
+    "Tối ưu kernel cho các phép toán ma trận đặc thù trong khoa học dữ liệu"
+  ],
+  "stars": 8687,
+  "starsToday": 199,
+  "language": "Cuda",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-07T00:26:46.143Z"
+}

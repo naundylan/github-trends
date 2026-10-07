@@ -1,0 +1,44 @@
+{
+  "id": "9630b57c-be66-49db-a34b-584433f02fec",
+  "repo": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "category": "Security/Pentest",
+  "summary": "Dự án sử dụng AI agents để reverse engineering sâu từ hành vi ứng dụng xuống binary native, tích hợp các công cụ như Ghidra, Hopper và mô hình LLM để phân tích static và dynamic.",
+  "usecases": [
+    "Tự động phân tích binary và tạo báo cáo bảo mật cho ứng dụng native.",
+    "Giúp nghiên cứu CTF và tìm lỗ hổng trong thư viện hoặc phần mềm bên ngoài.",
+    "Tích hợp AI vào quy trình reverse engineering hiện có để tăng tốc độ phân tích code và cấu trúc dữ liệu."
+  ],
+  "ideas": [
+    "Kết hợp dynamic analysis tools để tạo ra pipeline reverse engineering tự động hoàn toàn.",
+    "Phát triển plugin IDE để trực quan hóa kết quả phân tích binary và decompilation.",
+    "Sử dụng LLM chuyên sâu để decompiler và tự động tạo tài liệu code từ binary."
+  ],
+  "stars": 9332,
+  "starsToday": 2956,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "binary-analysis",
+    "cli",
+    "coding-agents",
+    "decompiler",
+    "disassembler",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "reverse-engineering",
+    "static-analysis",
+    "agent-skills",
+    "reverse-engineering-tools",
+    "ai-agent-tools",
+    "dsh-plugin",
+    "cordis",
+    "dsh",
+    "hopper",
+    "ghidra",
+    "ctf"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-07T00:26:46.143Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "71262e54-f49a-4574-9f12-e38c7ef656f8",
+  "repo": "Joooook/12306-mcp",
+  "url": "https://github.com/Joooook/12306-mcp",
+  "category": "Developer Tool",
+  "summary": "Server tìm kiếm vé tàu 12306 dựa trên giao thức Model Context Protocol (MCP), cung cấp truy cập dữ liệu vé tàu qua MCP.",
+  "usecases": [
+    "Tìm kiếm vé tàu tự động trong ứng dụng lịch trình du lịch",
+    "Cung cấp API cho hệ thống đặt vé bên thứ ba",
+    "Tích hợp với bot nhắn tin để theo dõi tình trạng vé"
+  ],
+  "ideas": [
+    "Plugin hiển thị trạng thái vé trực tiếp trên VS Code",
+    "Dashboard real-time cho doanh nghiệp vận hành tàu",
+    "Kết hợp weather API tạo lịch trình du lịch tàu tự động"
+  ],
+  "stars": 2236,
+  "starsToday": 320,
+  "language": "JavaScript",
+  "topics": [
+    "12306",
+    "mcp",
+    "mcp-server",
+    "train-tickets"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-07T00:26:46.143Z"
+}
