@@ -341,7 +341,7 @@
   },
   "tinyhumansai/openhuman": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-07",
     "last_saved": "2026-10-03"
   },
   "rustdesk/rustdesk": {
@@ -461,8 +461,8 @@
   },
   "anthropics/claude-code": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-10-06",
-    "last_saved": "2026-09-16"
+    "last_seen": "2026-10-07",
+    "last_saved": "2026-10-07"
   },
   "debpalash/VoiceStudio": {
     "first_seen": "2026-08-23",
@@ -486,7 +486,7 @@
   },
   "microsoft/TypeScript": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-07",
     "last_saved": "2026-09-17"
   },
   "google/sam": {
@@ -681,8 +681,8 @@
   },
   "directus/directus": {
     "first_seen": "2026-08-27",
-    "last_seen": "2026-08-28",
-    "last_saved": "2026-08-27"
+    "last_seen": "2026-10-07",
+    "last_saved": "2026-10-07"
   },
   "1weiho/open-slide": {
     "first_seen": "2026-08-27",
@@ -1196,8 +1196,8 @@
   },
   "microsoft/markitdown": {
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-09",
-    "last_saved": "2026-09-07"
+    "last_seen": "2026-10-07",
+    "last_saved": "2026-10-07"
   },
   "jo-inc/camofox-browser": {
     "first_seen": "2026-09-07",
@@ -1306,7 +1306,7 @@
   },
   "smicallef/spiderfoot": {
     "first_seen": "2026-09-09",
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-07",
     "last_saved": "2026-09-30"
   },
   "OpenDCAI/GameFactory-3A": {
@@ -1561,8 +1561,8 @@
   },
   "reconurge/flowsint": {
     "first_seen": "2026-09-14",
-    "last_seen": "2026-09-17",
-    "last_saved": "2026-09-14"
+    "last_seen": "2026-10-07",
+    "last_saved": "2026-10-07"
   },
   "Mathieu2301/TradingView-API": {
     "first_seen": "2026-09-14",
@@ -1701,7 +1701,7 @@
   },
   "cilium/cilium": {
     "first_seen": "2026-09-17",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-10-07",
     "last_saved": "2026-09-17"
   },
   "cline/cline": {
@@ -1771,7 +1771,7 @@
   },
   "junegunn/fzf": {
     "first_seen": "2026-09-18",
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-10-07",
     "last_saved": "2026-09-18"
   },
   "NVlabs/cuda-oxide": {
@@ -1831,7 +1831,7 @@
   },
   "grafana/gcx": {
     "first_seen": "2026-09-19",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-07",
     "last_saved": "2026-09-19"
   },
   "rui314/mold": {
@@ -1996,7 +1996,7 @@
   },
   "superdesigndev/treg": {
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-26",
+    "last_seen": "2026-10-07",
     "last_saved": "2026-09-23"
   },
   "DeusData/codebase-memory-mcp": {
@@ -2016,7 +2016,7 @@
   },
   "calesthio/Crucix": {
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-10-07",
     "last_saved": "2026-09-23"
   },
   "open-gsd/gsd-core": {
@@ -2211,7 +2211,7 @@
   },
   "vercel/next.js": {
     "first_seen": "2026-09-27",
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-10-07",
     "last_saved": "2026-09-27"
   },
   "darkzOGx/youtube-automation-agent": {
@@ -2326,7 +2326,7 @@
   },
   "kubernetes-sigs/agent-sandbox": {
     "first_seen": "2026-09-29",
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-07",
     "last_saved": "2026-09-29"
   },
   "gastownhall/beads": {
@@ -2401,7 +2401,7 @@
   },
   "Z4nzu/hackingtool": {
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-07",
     "last_saved": "2026-10-01"
   },
   "sgl-project/sglang": {
@@ -2689,52 +2689,37 @@
     "last_seen": "2026-10-07",
     "last_saved": "2026-10-06"
   },
-  "raullenchai/Rapid-MLX": {
+  "morluto/rea": {
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07",
     "last_saved": "2026-10-07"
   },
-  "omnigent-ai/omnigent": {
+  "manaflow-ai/cmux": {
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07",
     "last_saved": "2026-10-07"
   },
-  "wonderwhy-er/DesktopCommanderMCP": {
+  "trycua/cua": {
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07",
     "last_saved": "2026-10-07"
   },
-  "msitarzewski/agency-agents-app": {
+  "eolix/photosuite": {
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07",
     "last_saved": "2026-10-07"
   },
-  "slavakurilyak/awesome-ai-agents": {
+  "fabio-rovai/open-ontologies": {
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07",
     "last_saved": "2026-10-07"
   },
-  "derailed/k9s": {
+  "AprilNEA/OpenLogi": {
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07",
     "last_saved": "2026-10-07"
   },
-  "dundee/gdu": {
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07",
-    "last_saved": "2026-10-07"
-  },
-  "podman-container-tools/podman": {
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07",
-    "last_saved": "2026-10-07"
-  },
-  "livekit/livekit": {
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-07",
-    "last_saved": "2026-10-07"
-  },
-  "helm/helm": {
+  "xerj-org/xerj": {
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-07",
     "last_saved": "2026-10-07"

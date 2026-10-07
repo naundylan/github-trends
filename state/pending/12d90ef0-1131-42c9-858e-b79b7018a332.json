@@ -1,0 +1,23 @@
+{
+  "id": "12d90ef0-1131-42c9-858e-b79b7018a332",
+  "repo": "anthropics/claude-code",
+  "url": "https://github.com/anthropics/claude-code",
+  "category": "Developer Tool",
+  "summary": "Công cụ viết code agent chạy trong terminal, hiểu codebase và giúp lập trình nhanh hơn thông qua lệnh tự nhiên, xử lý tác vụ routine, giải thích code và git workflow.",
+  "usecases": [
+    "Tự động sinh code boilerplate cho module mới dựa trên cấu trúc dự án hiện có.",
+    "Giải thích và tài liệu hóa code legacy phức tạp cho các thành viên mới.",
+    "Quản lý và thực hiện các thay đổi git (commit, branch, PR) thông qua lệnh tự nhiên."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động review code và viết test cases.",
+    "Sử dụng làm trợ lý pair programming cho developers mới bắt đầu dự án.",
+    "Phát triển chế độ 'code refactor' tự động bảo toàn logic nhưng cải thiện cấu trúc."
+  ],
+  "stars": 149736,
+  "starsToday": 161,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-07T18:27:58.181Z"
+}

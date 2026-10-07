@@ -1,0 +1,44 @@
+{
+  "id": "413554c0-a56f-4f60-941c-04632522e9ed",
+  "repo": "xerj-org/xerj",
+  "url": "https://github.com/xerj-org/xerj",
+  "category": "AI/LLM",
+  "summary": "Hệ thống tìm kiếm dữ liệu AI mới với khả năng tự chỉ định (autoindex) cho phép các agent truy cập dữ liệu mà không tốn nhiều token như grep và sed.",
+  "usecases": [
+    "Tìm kiếm dữ liệu trong codebase lớn một cách hiệu quả",
+    "Tích hợp vào hệ thống RAG (Retrieval-Augmented Generation) cho chatbot",
+    "Kiểm tra bảo mật và phân tích dữ liệu bằng AI"
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM để tạo pipeline tìm kiếm thông minh",
+    "Sử dụng vector database để tăng cường khả năng tìm kiếm ngữ nghĩa",
+    "Tích hợp với các nền tảng RAG hiện có để cải thiện chất lượng câu trả lời"
+  ],
+  "stars": 3025,
+  "starsToday": 185,
+  "language": "Rust",
+  "topics": [
+    "ai-search",
+    "ai-search-algorithms",
+    "ai-search-engine",
+    "ai-search-free",
+    "ai-search-module",
+    "ai-search-optimization",
+    "ai-searchengine",
+    "bm25-search",
+    "elastic-search",
+    "elasticsearch",
+    "elasticstack",
+    "graph-search",
+    "graph-semantic-search",
+    "hybrid-search",
+    "hybrid-semantic-search",
+    "search-api",
+    "search-engine",
+    "semantic-search",
+    "vector-database",
+    "vector-search"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-07T18:27:58.181Z"
+}

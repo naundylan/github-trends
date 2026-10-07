@@ -1,0 +1,44 @@
+{
+  "id": "20908f38-8563-44bf-b277-04d9f99bcebd",
+  "repo": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ AI-driven reverse engineering phân tích từ hành vi ứng dụng xuống native binaries, hỗ trợ decompile, disassemble và tĩnh analysis.",
+  "usecases": [
+    "Phân tích bảo mật và tìm lỗ hổng trong binaries gốc",
+    "Tự động hóa reverse engineering cho CTF hoặc nghiên cứu phần mềm",
+    "Tích hợp vào AI agents để hiểu hành vi ứng dụng thực tế"
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tự động tạo patches fix cho binary vulnerabilities",
+    "Xây dựng AI reverse engineer giải thích assembly theo cách người dùng hiểu",
+    "Sử dụng trong phát triển game để tách resources và bảo vệ IP"
+  ],
+  "stars": 13523,
+  "starsToday": 4666,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "binary-analysis",
+    "cli",
+    "coding-agents",
+    "decompiler",
+    "disassembler",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "reverse-engineering",
+    "static-analysis",
+    "agent-skills",
+    "reverse-engineering-tools",
+    "ai-agent-tools",
+    "dsh-plugin",
+    "cordis",
+    "dsh",
+    "hopper",
+    "ghidra",
+    "ctf"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-07T18:27:58.181Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6267168d-a898-45ea-a124-b9e8bc2a9a5d",
+  "repo": "AprilNEA/OpenLogi",
+  "url": "https://github.com/AprilNEA/OpenLogi",
+  "category": "Productivity/Personal Tool",
+  "summary": "Công cụ local-first viết bằng Rust để remap nút, DPI và SmartShift trên chuột Logitech mà không cần tài khoản hoặc telemetry.",
+  "usecases": [
+    "Tùy chỉnh nút chuột MX Master để tăng năng suất làm việc.",
+    "Thay đổi DPI và SmartShift cho trò chơi hoặc công việc cần độ chính xác cao."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ remap bàn phím để tạo bộ tùy chỉnh nhập thống nhất.",
+    "Phát triển hệ thống plugin cho phép cộng đồng chia sẻ các cấu hình chuột."
+  ],
+  "stars": 23073,
+  "starsToday": 105,
+  "language": "Rust",
+  "topics": [
+    "dpi",
+    "gpui",
+    "hid",
+    "hidpp",
+    "local-first",
+    "logitech",
+    "logitech-options",
+    "mouse-remapping",
+    "mx-master",
+    "privacy",
+    "rust",
+    "smartshift",
+    "logitech-mouse"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-10-07T18:27:58.182Z"
+}

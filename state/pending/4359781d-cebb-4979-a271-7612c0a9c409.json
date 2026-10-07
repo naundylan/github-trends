@@ -1,0 +1,21 @@
+{
+  "id": "4359781d-cebb-4979-a271-7612c0a9c409",
+  "repo": "eolix/photosuite",
+  "url": "https://github.com/eolix/photosuite",
+  "category": "Other",
+  "summary": "A desktop image editor, faithful to classic Adobe Photoshop, with native PSD/PSB compatibility",
+  "usecases": [
+    "Khám phá và đánh giá eolix/photosuite cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 877,
+  "starsToday": 118,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-07T18:27:58.181Z"
+}

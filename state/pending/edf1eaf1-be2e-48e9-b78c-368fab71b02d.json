@@ -1,0 +1,40 @@
+{
+  "id": "edf1eaf1-be2e-48e9-b78c-368fab71b02d",
+  "repo": "fabio-rovai/open-ontologies",
+  "url": "https://github.com/fabio-rovai/open-ontologies",
+  "category": "Other",
+  "summary": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
+  "usecases": [
+    "Khám phá và đánh giá fabio-rovai/open-ontologies cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 898,
+  "starsToday": 110,
+  "language": "Rust",
+  "topics": [
+    "ai-native",
+    "description-logics",
+    "knowledge-graph",
+    "mcp",
+    "mcp-server",
+    "ontology",
+    "owl",
+    "owl2",
+    "reasoning",
+    "rust",
+    "shacl",
+    "sparql",
+    "isabelle-language",
+    "lean",
+    "lean4",
+    "formal-verification",
+    "theorem-proving",
+    "infrastructure-as-code"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-07T18:27:58.181Z"
+}

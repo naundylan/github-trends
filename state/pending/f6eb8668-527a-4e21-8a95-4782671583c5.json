@@ -1,0 +1,40 @@
+{
+  "id": "f6eb8668-527a-4e21-8a95-4782671583c5",
+  "repo": "manaflow-ai/cmux",
+  "url": "https://github.com/manaflow-ai/cmux",
+  "category": "Developer Tool",
+  "summary": "Terminal macOS dựa trên Ghostty có tab thẳng và thông báo cho các AI coding agent, nhằm nâng cao đa nhiệm và khả năng lập trình.",
+  "usecases": [
+    "Quản lý nhiều phiên AI coding agent trong các tab thẳng riêng biệt.",
+    "Sắp xếp quy trình làm việc bằng terminal chia màn hình và thông báo tùy chỉnh."
+  ],
+  "ideas": [
+    "Tích hợp API LSTM để gợi ý mã code trực tiếp trong terminal.",
+    "Thêm tính năng đồng bộ bố cục tab giữa các thiết bị."
+  ],
+  "stars": 27773,
+  "starsToday": 96,
+  "language": "Swift",
+  "topics": [
+    "amp",
+    "claude-code",
+    "codex",
+    "gemini",
+    "ghostty",
+    "opencode",
+    "terminal",
+    "tmux",
+    "cli",
+    "coding-agents",
+    "multiplexer",
+    "parallel-agents",
+    "terminal-multiplexer",
+    "workspace-manager",
+    "multitasking",
+    "organization",
+    "programmability",
+    "macos"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-07T18:27:58.182Z"
+}
