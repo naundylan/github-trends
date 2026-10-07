@@ -1,0 +1,29 @@
+{
+  "id": "c498b8d9-cea9-4d23-9077-910cf1d4fbc2",
+  "repo": "dundee/gdu",
+  "url": "https://github.com/dundee/gdu",
+  "category": "CLI Tool",
+  "summary": "GDU là công cụ phân tích dung lượng đĩa nhanh với giao diện console, viết bằng Go, giúp người dùng dễ dàng theo dõi và quản lý không gian lưu trữ trên hệ thống file.",
+  "usecases": [
+    "Phân tích và tìm các thư mục chiếm nhiều dung lượng trên server hoặc desktop.",
+    "Theo dõi sử dụng disk space trong thời gian thực qua terminal.",
+    "Tối ưu hóa lưu trữ bằng cách xác định nhanh các file/directory dư thừa."
+  ],
+  "ideas": [
+    "Kết hợp với notification system để cảnh báo khi disk usage vượt ngưỡng.",
+    "Phát triển plugin cho các terminal phổ biến (zsh, bash) để hiển thị disk status.",
+    "Tích hợp với cloud storage reporting để so sánh local vs cloud usage."
+  ],
+  "stars": 6085,
+  "starsToday": 10,
+  "language": "Go",
+  "topics": [
+    "filesystem",
+    "golang",
+    "cli",
+    "disk-usage",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-07T09:47:10.542Z"
+}

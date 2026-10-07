@@ -1,0 +1,31 @@
+{
+  "id": "6afa7274-fed5-49d7-8091-376347315d63",
+  "repo": "livekit/livekit",
+  "url": "https://github.com/livekit/livekit",
+  "category": "Developer Tool",
+  "summary": "LiveKit là stack mã nguồn mở end-to-end cho truyền thời gian thực, cung cấp media server (SFU) và WebRTC để kết nối người dùng và AI, hỗ trợ video, voice và voice-ai.",
+  "usecases": [
+    "Xây dựng ứng dụng video call thời gian thực với độ trễ thấp",
+    "Phát triển voice AI assistant có khả năng nghe và tương tác trực tiếp",
+    "Tạo nền tảng cho các trò chơi hoặc collaboration tool cần truyền media real-time"
+  ],
+  "ideas": [
+    "Tích hợp với AI agent framework để có voice-controlled interfaces",
+    "Phát triển recording và playback pipeline cho các cuộc họp do AI tham gia",
+    "Sử dụng ở edge computing để xử lý media gần user và giảm bandwidth"
+  ],
+  "stars": 21312,
+  "starsToday": 18,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "webrtc",
+    "sfu",
+    "media-server",
+    "video",
+    "voice",
+    "voice-ai"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-07T09:47:10.542Z"
+}

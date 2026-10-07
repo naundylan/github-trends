@@ -1,0 +1,32 @@
+{
+  "id": "acc5f055-f98b-493d-ba13-88d42d01cec1",
+  "repo": "derailed/k9s",
+  "url": "https://github.com/derailed/k9s",
+  "category": "CLI Tool",
+  "summary": "Một công cụ CLI đồ họa (TUI) giúp quản lý cluster Kubernetes một cách trực quan và hiệu quả, cung cấp giao diện tương tác nhanh cho resources, logs và debugging.",
+  "usecases": [
+    "Giám sát và debug resources Kubernetes trực tiếp từ terminal mà không cần dashboard.",
+    "Tối ưu quy trình vận hành (Ops) và phát triển (DevOps) cho các cluster k8s lớn.",
+    "Thao tác nhanh với logs, events và resource configuration trong môi trường production."
+  ],
+  "ideas": [
+    "Tích hợp k9s với scripts tự động hóa để thực hiện quản lý cluster hàng loạt và monitoring.",
+    "Phát triển plugin tùy chỉnh để hiển thị thêm metrics hoặc kết nối với các hệ thống monitoring bên ngoài.",
+    "Sử dụng k9s trong môi trường có hạn chế bandwidth để quản lý clusters một cách nhẹ và nhanh chóng."
+  ],
+  "stars": 34754,
+  "starsToday": 6,
+  "language": "Go",
+  "topics": [
+    "k9s",
+    "kubernetes",
+    "kubernetes-cli",
+    "kubernetes-clusters",
+    "k8s",
+    "k8s-cluster",
+    "go",
+    "golang"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-07T09:47:10.542Z"
+}

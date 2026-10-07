@@ -1,0 +1,29 @@
+{
+  "id": "6ef49d18-36f5-4777-a92f-71b38f45b901",
+  "repo": "podman-container-tools/podman",
+  "url": "https://github.com/podman-container-tools/podman",
+  "category": "DevOps/CI-CD",
+  "summary": "Podman là công cụ quản lý containers và pods theo chuẩn OCI, cung cấp giao diện dòng lệnh thay thế Docker, hỗ trợ chạy containers không cần daemon và tích hợp tốt với Kubernetes.",
+  "usecases": [
+    "Quản lý containers và pods trên Linux/server mà không cần Docker daemon.",
+    "Tích hợp với Kubernetes để phát triển và triển khai ứng dụng containerized.",
+    "Chạy containers an toàn với quyền user không phải root (rootless containers)."
+  ],
+  "ideas": [
+    "Sử dụng trong môi trường phát triển local thay thế Docker để giảm tài nguyên.",
+    "Tích hợp vào CI/CD pipelines để build và test containers một cách nhẹ.",
+    "Triển khai edge computing solutions sử dụng khả năng chạy containers lightweight."
+  ],
+  "stars": 33006,
+  "starsToday": 8,
+  "language": "Go",
+  "topics": [
+    "containers",
+    "docker",
+    "kubernetes",
+    "linux",
+    "oci"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-07T09:47:10.542Z"
+}

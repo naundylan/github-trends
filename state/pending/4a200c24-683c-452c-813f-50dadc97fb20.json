@@ -1,0 +1,23 @@
+{
+  "id": "4a200c24-683c-452c-813f-50dadc97fb20",
+  "repo": "msitarzewski/agency-agents-app",
+  "url": "https://github.com/msitarzewski/agency-agents-app",
+  "category": "Developer Tool",
+  "summary": "Ứng dụng native nhỏ giúp duyệt, cài đặt và theo dõi các persona agent AI mà bạn sử dụng trong các công cụ viết code.",
+  "usecases": [
+    "Quản lý và chuyển đổi giữa nhiều persona agent khác nhau khi chuyển đổi giữa các công cụ AI coding",
+    "Cài đặt và cập nhật nhanh các persona agent mới mà không cần can thiệp thủ công vào cấu hình",
+    "Theo dõi hiệu suất và sử dụng của các agent AI trong quy trình làm việc hàng ngày"
+  ],
+  "ideas": [
+    "Tạo marketplace dentro-cho các persona agent do cộng đồng đóng góp",
+    "Tích hợp với nhiều nền tảng AI coding (VS Code extensions, CLI tools, v.v.) để đồng bộ persona",
+    "Phát triển tính năng phân tích để đề xuất persona phù hợp dựa trên ngữ cảnh dự án"
+  ],
+  "stars": 668,
+  "starsToday": 10,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-07T09:47:10.542Z"
+}

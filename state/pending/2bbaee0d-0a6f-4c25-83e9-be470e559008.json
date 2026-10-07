@@ -1,0 +1,44 @@
+{
+  "id": "2bbaee0d-0a6f-4c25-83e9-be470e559008",
+  "repo": "raullenchai/Rapid-MLX",
+  "url": "https://github.com/raullenchai/Rapid-MLX",
+  "category": "AI/LLM",
+  "summary": "Rapid-MLX là server inference LLM tương thích OpenAI và Anthropic cho Apple Silicon, xây dựng trên MLX và tập trung vào gọi công cụ đáng tin cậy cho coding agents, đạt tốc độ lên 4x so với MLX (mlx-lm) cùng cùng trọng lượng.",
+  "usecases": [
+    "Chạy local LLM inference với gọi công cụ cho coding agent trên macOS/Apple Silicon",
+    "Thay thế Ollama/LM Studio cho các tác vụ LLM trên chip M-series",
+    "Hỗ trợ continuous batching và speculative decoding cho ứng dụng cần latency thấp"
+  ],
+  "ideas": [
+    "Kết hợp với VS Code extension để autocompletion và debugging agentic code trên local",
+    "Triển khai làm backend desktop app quản lý nhiều model LLM cùng lúc trên macOS",
+    "Sử dụng cho edge computing trên Apple Silicon với yêu cầu tốc độ cao"
+  ],
+  "stars": 3922,
+  "starsToday": 16,
+  "language": "Python",
+  "topics": [
+    "apple-silicon",
+    "local-llm",
+    "macos",
+    "mlx",
+    "tool-calling",
+    "ollama-alternative",
+    "claude-code",
+    "anthropic-api",
+    "coding-agents",
+    "continuous-batching",
+    "inference-server",
+    "llm-inference",
+    "llm-server",
+    "local-ai",
+    "omlx-alternative",
+    "openai-compatible",
+    "lm-studio-alternative",
+    "mcp",
+    "mlx-lm",
+    "speculative-decoding"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-07T09:47:10.542Z"
+}
