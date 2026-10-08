@@ -1,0 +1,38 @@
+{
+  "id": "945e1ddc-7f35-4e9e-98b9-b96815a3cb7d",
+  "repo": "traefik/traefik",
+  "url": "https://github.com/traefik/traefik",
+  "category": "Microservices",
+  "summary": "Proxy ứng dụng đám mây mã nguồn mở, hoạt động như reverse proxy và load balancer cho microservice và container.",
+  "usecases": [
+    "Route traffic to microservices in Kubernetes clusters",
+    "Provide secure external access to internal services via TLS/Let's Encrypt",
+    "Dynamic configuration updates for changing service topologies"
+  ],
+  "ideas": [
+    "Combine with service mesh for zero-downtime deployments",
+    "Deploy as edge proxy for internal service mesh traffic",
+    "Automate TLS certificate management for dynamic microservice discovery"
+  ],
+  "stars": 65110,
+  "starsToday": 23,
+  "language": "Go",
+  "topics": [
+    "microservice",
+    "docker",
+    "marathon",
+    "mesos",
+    "consul",
+    "etcd",
+    "kubernetes",
+    "load-balancer",
+    "reverse-proxy",
+    "zookeeper",
+    "letsencrypt",
+    "golang",
+    "go",
+    "traefik"
+  ],
+  "notePath": "notes/Microservices.md",
+  "createdAt": "2026-10-08T10:03:45.012Z"
+}

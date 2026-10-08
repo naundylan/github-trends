@@ -1,0 +1,23 @@
+{
+  "id": "47685c19-763f-4973-aac0-d830b53c71bb",
+  "repo": "MiaAI-Lab/sparkDash",
+  "url": "https://github.com/MiaAI-Lab/sparkDash",
+  "category": "Data Visualization",
+  "summary": "một bảng điều khiển web theo dõi giám sát hiệu suất Apache Spark trên nhiều hệ thống NVIDIA DGX, cung cấp insight thời gian thực cho xử lý dữ liệu lớn và AI",
+  "usecases": [
+    "giám sát hiệu suất training AI trên nhiều DGX cùng lúc",
+    "phân tích bottleneck trong jobs Spark xử lý dữ liệu lớn",
+    "thu thập và hiển thị metrics tài nguyên cho distributed computing clusters"
+  ],
+  "ideas": [
+    "kết hợp với Grafana để tạo dashboard phân phối đa khu vực",
+    "phát triển plugin cảnh báo tự động khi metrics vượt ngưỡng an toàn",
+    "mở rộng visualizing metrics cho các framework khác như Hadoop hoặc Flink"
+  ],
+  "stars": 555,
+  "starsToday": 20,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-10-08T10:03:45.012Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "5f06dc7a-9e00-41a2-aafa-f6124e233fd5",
+  "repo": "liyupi/ai-guide",
+  "url": "https://github.com/liyupi/ai-guide",
+  "category": "Documentation/Learning Resource",
+  "summary": "liyupi/ai-guide là một tổng hợp tài nguyên AI dành cho lập trình viên, bao gồm hướng dẫn Vibe Coding, các khóa học về mô hình lớn, công cụ AI, khung phát triển, và hướng dẫn kiếm tiền, được trình bày dưới dạng tài liệu mã nguồn mở và trang web AI Guide.",
+  "usecases": [
+    "Người mới bắt đầu có thể học lập trình AI thông qua các hướng dẫn Vibe Coding từng bước.",
+    "Các lập trình viên chuyên nghiệp có thể khám phá các công cụ AI mới nhất (Cursor, Claude Code) và khung phát triển (LangChain, Spring AI) để tăng năng suất.",
+    "Các doanh nhân có thể tìm hiểu cách kiếm tiền từ các sản phẩm AI thông qua hướng dẫn kiếm tiền được cung cấp."
+  ],
+  "ideas": [
+    "Tạo một khóa học trực tuyến tương tác dựa trên tài liệu này, tích hợp các ví dụ mã có thể chạy.",
+    "Phát triển một plugin IDE tích hợp các snippet prompt và công cụ AI được đề xuất từ hướng dẫn.",
+    "Xây dựng một trang web cộng tác nơi người dùng có thể đóng góp các tài nguyên AI mới và đánh giá chúng."
+  ],
+  "stars": 20839,
+  "starsToday": 39,
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "artificial-intelligence",
+    "chatgpt",
+    "deep-learning",
+    "deepseek",
+    "generative-ai",
+    "gpt",
+    "llm",
+    "openai",
+    "vuepress",
+    "claude",
+    "gemini",
+    "cursor",
+    "mcp",
+    "rag",
+    "vibe-coding",
+    "vibecoding",
+    "codex",
+    "ai-agent",
+    "claude-code"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-08T10:03:45.012Z"
+}

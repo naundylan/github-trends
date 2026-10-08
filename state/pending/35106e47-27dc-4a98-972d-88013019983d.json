@@ -1,0 +1,37 @@
+{
+  "id": "35106e47-27dc-4a98-972d-88013019983d",
+  "repo": "uber/ADR",
+  "url": "https://github.com/uber/ADR",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng bảo mật cho các AI agent doanh nghiệp qua khả năng quan sát, đánh giá an ninh và phát hiện mối đe dọa.",
+  "usecases": [
+    "Giám sát và bảo vệ các agent LLM chạy trong môi trường sản xuất.",
+    "Đánh giá an ninh agent chống prompt injection và khai thác model.",
+    "Triển khai đường dẫn phát hiện mối đe dọa cho các hệ thống AI tự trị."
+  ],
+  "ideas": [
+    "Kết nối với CI/CD để tự động test an ninh agent trên mỗi commit.",
+    "Phát triển engine chính sách tùy chỉnh cho kiểm soát quyền truy cập chi tiết cho agent.",
+    "Kết hợp với model context protocol để kiểm tra và xác nhận ranh giới quyết định của agent."
+  ],
+  "stars": 1934,
+  "starsToday": 25,
+  "language": "Python",
+  "topics": [
+    "agent-security",
+    "ai-agents",
+    "ai-security",
+    "benchmark",
+    "llm-security",
+    "mcp",
+    "model-context-protocol",
+    "prompt-injection",
+    "threat-detection",
+    "claude",
+    "claude-code",
+    "codex",
+    "cursor"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-08T10:03:45.012Z"
+}

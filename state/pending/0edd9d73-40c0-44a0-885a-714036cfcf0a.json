@@ -1,0 +1,43 @@
+{
+  "id": "0edd9d73-40c0-44a0-885a-714036cfcf0a",
+  "repo": "GraphiteEditor/Graphite",
+  "url": "https://github.com/GraphiteEditor/Graphite",
+  "category": "Desktop App",
+  "summary": "Ứng dụng soạn thảo đồ họa 2D toàn diện được xây dựng bởi cộng đồng, sử dụng Rust và engine đồ họa thủ tục dựa trên node để hỗ trợ thiết kế đồ họa, nghệ thuật số và đồ họa chuyển động thời gian thực.",
+  "usecases": [
+    "Tạo hình ảnh vector và bitmap cho thiết kế thương hiệu.",
+    "Thiết kế hoạt hình 2D và đồ họa chuyển động cho video hoặc trò chơi.",
+    "Phát triển plugin hoặc nút mới trong hệ thống đồ họa thủ tục để mở rộng chức năng."
+  ],
+  "ideas": [
+    "Tích hợp với công cụ AI sinh ảnh để tự động tạo các lớp đồ họa dựa trên mô tả văn bản.",
+    "Xây dựng phiên bản web dựa trên WebAssembly để cho phép chỉnh sửa đồ họa trực tuyến mà không cần cài đặt.",
+    "Kết hợp với hệ thống quản lý tài sản số (DAM) để tự động xuất các biến thể kích thước và định dạng khác nhau."
+  ],
+  "stars": 27500,
+  "starsToday": 46,
+  "language": "Rust",
+  "topics": [
+    "graphics-editor",
+    "photo-editor",
+    "2d-graphics",
+    "art",
+    "design",
+    "procedural-drawing",
+    "image-processing",
+    "image-manipulation",
+    "node-graph",
+    "svg-editor",
+    "graphic-design",
+    "procedural",
+    "motion-graphics",
+    "motion-design",
+    "vector-graphics",
+    "graphics",
+    "procedural-generation",
+    "creative-coding",
+    "animation"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-08T10:03:45.011Z"
+}

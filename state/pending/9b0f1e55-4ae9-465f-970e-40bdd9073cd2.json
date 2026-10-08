@@ -1,0 +1,28 @@
+{
+  "id": "9b0f1e55-4ae9-465f-970e-40bdd9073cd2",
+  "repo": "lodash/lodash",
+  "url": "https://github.com/lodash/lodash",
+  "category": "Developer Tool",
+  "summary": "thư viện tiện ích JavaScript hiện đại cung cấp các hàm modular cho thao tác mảng, đối tượng và util phổ biến, tập trung vào performance và modularity",
+  "usecases": [
+    "tiền xử lý dữ liệu nhanh trong ứng dụng web (manipulation mảng và đối tượng)",
+    "chuẩn hóa dữ liệu trước khi gửi đến API hoặc database",
+    "giúp viết code JavaScript thuần nhanh hơn khi không cần hàm phụ thuộc phức tạp"
+  ],
+  "ideas": [
+    "tích hợp làm foundation cho thư viện utility riêng theo phong cách modular",
+    "kết hợp với TypeScript types để cung cấp autocomplete chính xác cho dự án large-scale",
+    "sử dụng trong các framework CSS-in-JS hoặc build step để giảm kích thước bundle"
+  ],
+  "stars": 61351,
+  "starsToday": 18,
+  "language": "JavaScript",
+  "topics": [
+    "lodash",
+    "utilities",
+    "javascript",
+    "modules"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-08T10:03:45.012Z"
+}

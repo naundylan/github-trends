@@ -1,0 +1,23 @@
+{
+  "id": "9a44a5f7-4e5f-4291-851b-60de6fb7b82f",
+  "repo": "garrytan/gbrain",
+  "url": "https://github.com/garrytan/gbrain",
+  "category": "AI Agent/Automation",
+  "summary": "Pagent brain của Garry là một framework agent được lập luận mạnh mẽ, viết bằng TypeScript, nhằm cung cấp não bộ cho các agent OpenClaw/Hermes để thực hiện quyết định và tự động hoá workflow.",
+  "usecases": [
+    "Xây dựng agent tự động thực hiện các tác vụ lập trình như sinh code, review pull request.",
+    "Tạo bot trò chuyện thông minh có khả năng suy luận và thực hiện hành động dựa trên ngữ cảnh.",
+    "Tích hợp vào hệ thống CI/CD để tự động quyết định các bước triển khai hoặc rollback dựa trên phân tích dữ liệu."
+  ],
+  "ideas": [
+    "Kết hợp với mô hình LLM lớn để增强 agent的推理和创造能力.",
+    "Phát triển giao diện đồ họa để trực quan hóa luồng suy luận và quyết định của agent.",
+    "Áp dụng trong trò chơi mô phỏng để tạo ra NPC có hành vi thích ứng và học hỏi."
+  ],
+  "stars": 30676,
+  "starsToday": 40,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-08T10:03:45.012Z"
+}
