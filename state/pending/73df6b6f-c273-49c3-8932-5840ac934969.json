@@ -1,0 +1,41 @@
+{
+  "id": "73df6b6f-c273-49c3-8932-5840ac934969",
+  "repo": "twentyhq/twenty",
+  "url": "https://github.com/twentyhq/twenty",
+  "category": "API/GraphQL",
+  "summary": "Twenty là CRM nguồn mở thay thế Salesforce, xây dựng bằng TypeScript, GraphQL và NestJS, hướng tới giải pháp quản lý khách hàng hiện đại tích hợp các tính năng AI.",
+  "usecases": [
+    "Triển khai hệ thống CRM cho doanh nghiệp nhỏ/mid muốn giảm chi phí licencia Salesforce.",
+    "Quản lý pipeline bán hàng và tương tác khách hàng thông qua GraphQL API.",
+    "Tích hợp AI để phân tích dữ liệu khách hàng và đề xuất leads tiềm năng."
+  ],
+  "ideas": [
+    "Mở rộng plugin AI tự động tạo email marketing dựa trên hồ sơ khách hàng.",
+    "Triển khai trên nền tảng cloud serverless (Vercel/Netlify Functions) để giảm chi phí hosting.",
+    "Tích hợp với các công cụ social media scheduling và analytics."
+  ],
+  "stars": 58046,
+  "starsToday": 76,
+  "language": "TypeScript",
+  "topics": [
+    "crm",
+    "customer",
+    "graphql",
+    "marketing",
+    "react",
+    "sales",
+    "typescript",
+    "crm-system",
+    "nestjs",
+    "reactjs",
+    "web",
+    "monorepo",
+    "open-source",
+    "postgresql",
+    "good-first-issue",
+    "hacktoberfest",
+    "javascript"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-08T00:52:09.959Z"
+}

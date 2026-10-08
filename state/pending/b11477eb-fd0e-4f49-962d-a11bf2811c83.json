@@ -1,0 +1,29 @@
+{
+  "id": "b11477eb-fd0e-4f49-962d-a11bf2811c83",
+  "repo": "vitejs/vite",
+  "url": "https://github.com/vitejs/vite",
+  "category": "Build Tool/Bundler",
+  "summary": "Công cụ build frontend nhanh thế hệ mới, cung cấp dev server và HMR tức thời cho hiệu suất tối ưu.",
+  "usecases": [
+    "Phát triển ứng dụng web với refresh giao diện tức thời mà không cần restart server.",
+    "Build và bundle mã nguồn frontend nhanh chóng cho môi trường production.",
+    "Tích hợp vào pipeline CI/CD để tự động hóa build frontend cho các dự án lớn."
+  ],
+  "ideas": [
+    "Sử dụng Vite làm nền tảng cho micro-frontends với hot module replacement xuyên suốt.",
+    "Kết hợp với Tailwind CSS và các framework UI để tạo prototyping siêu nhanh cho hackathons.",
+    "Phát triển plugin cho VS Code sử dụng Vite dev server để preview component React tức thời."
+  ],
+  "stars": 83250,
+  "starsToday": 51,
+  "language": "TypeScript",
+  "topics": [
+    "vite",
+    "hmr",
+    "frontend",
+    "build-tool",
+    "dev-server"
+  ],
+  "notePath": "notes/Build-Tool-Bundler.md",
+  "createdAt": "2026-10-08T00:52:09.959Z"
+}

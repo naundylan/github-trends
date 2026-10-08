@@ -1,0 +1,28 @@
+{
+  "id": "4f7733d0-4053-43cb-919d-e03dba7dd348",
+  "repo": "Joooook/12306-mcp",
+  "url": "https://github.com/Joooook/12306-mcp",
+  "category": "API/GraphQL",
+  "summary": "Mô hình máy chủ tìm kiếm vé tàu 12306 dựa trên giao thức Model Context Protocol (MCP), cung cấp khả năng truy vấn và tìm kiếm vé tàu thông qua giao thức MCP.",
+  "usecases": [
+    "Tự động tìm kiếm và đặt vé tàu trên hệ thống 12306 thông qua giao thức MCP.",
+    "Tích hợp với ứng dụng khách AI để truy cập dữ liệu vé tàu bằng ngôn ngữ tự nhiên.",
+    "Cung cấp API cho các hệ thống nội bộ hoặc ứng dụng di động để truy vé tàu."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để cho phép người dùng tìm vé bằng câu lệnh tự nhiên: 'Tìm vé từ Hà Nội đến Sapa ngày mai'.",
+    "Xây dựng dashboard theo dõi trạng thái vé tàu thời gian thực dựa trên dữ liệu MCP.",
+    "Tạo plugin cho VS Code để truy vấn vé tàu trực tiếp từ trình biên tập."
+  ],
+  "stars": 2295,
+  "starsToday": 94,
+  "language": "JavaScript",
+  "topics": [
+    "12306",
+    "mcp",
+    "mcp-server",
+    "train-tickets"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-08T00:52:09.959Z"
+}

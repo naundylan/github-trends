@@ -1,0 +1,31 @@
+{
+  "id": "5e32ed90-5ef9-4a92-bdaa-31de2a8e21d0",
+  "repo": "emilk/egui",
+  "url": "https://github.com/emilk/egui",
+  "category": "UI/Component Library",
+  "summary": "egui là thư viện GUI chế độ tức thời (immediate mode) viết bằng Rust, cho phép phát triển giao diện người dùng chạy mượt trên cả web (qua WebAssembly) và ứng dụng native với hiệu suất cao và cấu trúc đơn giản.",
+  "usecases": [
+    "Phát triển giao diện game 2D/3D trong Rust với HUD và overlay.",
+    "Tạo ứng dụng desktop đa nền tảng không cần thư viện GUI nặng.",
+    "Xây dựng công cụ điều khiển và cấu hình cho các dự án embedded hoặc WASM."
+  ],
+  "ideas": [
+    "Kết hợp với game engine Bevy để tạo giao diện chỉnh sửa level trực quan.",
+    "Sử dụng làm nền tảng cho ứng dụng giám sát thời thực trong browser.",
+    "Phát triển trình soạn thảo markdown có preview trực tiếp dựa trên egui."
+  ],
+  "stars": 30979,
+  "starsToday": 80,
+  "language": "Rust",
+  "topics": [
+    "gui",
+    "rust",
+    "game-development",
+    "wasm",
+    "imgui",
+    "gamedev",
+    "egui"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-10-08T00:52:09.959Z"
+}

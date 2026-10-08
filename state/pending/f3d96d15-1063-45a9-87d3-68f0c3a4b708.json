@@ -1,0 +1,42 @@
+{
+  "id": "f3d96d15-1063-45a9-87d3-68f0c3a4b708",
+  "repo": "vllm-project/vllm",
+  "url": "https://github.com/vllm-project/vllm",
+  "category": "AI/LLM",
+  "summary": "vLLM là engine inference và serving hiệu năng cao, tiết kiệm bộ nhớ cho các mô hình LLM, hỗ trợ PagedAttention, continuous batching và đa nền tảng GPU/TPU.",
+  "usecases": [
+    "Triển khai serving LLM production với throughput cao và latency thấp",
+    "Chạy inference các mô hình lớn (Llama, Qwen, DeepSeek) trên hardware hạn chế VRAM"
+  ],
+  "ideas": [
+    "Kết hợp với G0DM0D3 làm frontend để xây dựng hệ thống chat AI self-hosted hoàn chỉnh",
+    "Tích hợp vào pipeline RAG hoặc agent framework (LangChain, LlamaIndex) để tăng tốc độ truy xuất và sinh câu trả lời"
+  ],
+  "stars": 93346,
+  "starsToday": 67,
+  "language": "Python",
+  "topics": [
+    "gpt",
+    "llm",
+    "pytorch",
+    "model-serving",
+    "transformer",
+    "llm-serving",
+    "inference",
+    "llama",
+    "amd",
+    "cuda",
+    "tpu",
+    "deepseek",
+    "qwen",
+    "blackwell",
+    "deepseek-v3",
+    "gpt-oss",
+    "kimi",
+    "moe",
+    "openai",
+    "qwen3"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-08T00:52:09.959Z"
+}

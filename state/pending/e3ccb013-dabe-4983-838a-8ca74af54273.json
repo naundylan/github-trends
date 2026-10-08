@@ -1,0 +1,23 @@
+{
+  "id": "e3ccb013-dabe-4983-838a-8ca74af54273",
+  "repo": "EpicGames/raddebugger",
+  "url": "https://github.com/EpicGames/raddebugger",
+  "category": "Developer Tool",
+  "summary": "Trình gỡ lỗi native, đa tiến trình và đồ họa cho môi trường user-mode, cho phép debug đa tiến trình trực quan.",
+  "usecases": [
+    "Gỡ lỗi ứng dụng C/C++ đa tiến trình trên Windows một cách trực quan.",
+    "Phân tích và theo dõi luồng thực thi trong các ứng dụng phức tạp.",
+    "Trợ giúp phát triển và kiểm tra driver hoặc hệ phần low-level."
+  ],
+  "ideas": [
+    "Tích hợp vào IDE như Visual Studio Code làm extension gỡ lỗi đa tiến trình.",
+    "Phát triển giao diện debug cho các ứng dụng IoT hoặc embedded hệ điều hành.",
+    "Sử dụng làm nền tảng cho công cụ phân tích hiệu năng ứng dụng C/C++ tùy chỉnh."
+  ],
+  "stars": 7859,
+  "starsToday": 90,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-08T00:52:09.959Z"
+}

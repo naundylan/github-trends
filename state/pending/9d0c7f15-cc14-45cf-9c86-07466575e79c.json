@@ -1,0 +1,32 @@
+{
+  "id": "9d0c7f15-cc14-45cf-9c86-07466575e79c",
+  "repo": "martin-olivier/airgorah",
+  "url": "https://github.com/martin-olivier/airgorah",
+  "category": "Security/Pentest",
+  "summary": "Một phần mềm kiểm tra bảo mật WiFi viết bằng Rust, cung cấp giao diện đồ họa và các công cụ audit cho mạng không dây.",
+  "usecases": [
+    "Thi công kiểm tra bảo mật cho mạng WiFi trong môi trường kiểm tra (pentest)",
+    "Phát hiện lỗ hổng và tương tác với thiết bị wireless trong lab an ninh",
+    "Tích hợp vào các phân phối Kali Linux cho audit không dây"
+  ],
+  "ideas": [
+    "Phát triển ứng dụng mobile kết nối với airgorah để audit WiFi từ xa qua Bluetooth/Internet",
+    "Tích hợp với các cơ sở dữ liệu lỗ hổng để tự động báo cáo và phân loại risk",
+    "Xây dựng kịch tự động cho việc đánh giá hiệu quả các phương pháp bảo vệ WiFi WPA3"
+  ],
+  "stars": 3911,
+  "starsToday": 47,
+  "language": "Rust",
+  "topics": [
+    "gui",
+    "security",
+    "security-audit",
+    "wifi",
+    "wifi-security",
+    "wireless",
+    "kali",
+    "linux-app"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-08T00:52:09.959Z"
+}

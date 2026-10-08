@@ -1,0 +1,21 @@
+{
+  "id": "e3760563-b362-410e-a1e3-e980c16c6e80",
+  "repo": "elder-plinius/G0DM0D3",
+  "url": "https://github.com/elder-plinius/G0DM0D3",
+  "category": "AI Agent/Automation",
+  "summary": "G0DM0D3 là một giao diện chat AI được giải phóng, cho phép người dùng tương tác với các mô hình ngôn ngữ lớn mà không bị giới hạn bởi các bộ lọc an toàn hay chính sách nội dung.",
+  "usecases": [
+    "Nghiên cứu và thử nghiệm các khả năng của LLM mà không bị chặn bởi guardrails",
+    "Phát triển ứng dụng AI tùy chỉnh cần quyền truy cập không giới hạn vào mô hình"
+  ],
+  "ideas": [
+    "Kết hợp với vLLM để tự host một chatbot AI hoàn toàn cục bộ và không bị kiểm duyệt",
+    "Tích hợp vào quy trình phát triển để test prompt engineering và red-teaming các mô hình"
+  ],
+  "stars": 11554,
+  "starsToday": 69,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-08T00:52:09.959Z"
+}

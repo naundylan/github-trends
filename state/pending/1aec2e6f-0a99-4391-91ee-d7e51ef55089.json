@@ -1,0 +1,23 @@
+{
+  "id": "1aec2e6f-0a99-4391-91ee-d7e51ef55089",
+  "repo": "MDX-Tom/gpt-instruct",
+  "url": "https://github.com/MDX-Tom/gpt-instruct",
+  "category": "AI/LLM",
+  "summary": "Một bộ prompt và tập test để khai thác và kiểm tra các tính năng của GPT/Codex, tập trung vào việc phá vỡ bảo vệ (jailbreak) và đánh giá hành vi mô hình.",
+  "usecases": [
+    "Kiểm tra độ an toàn và khả năng chống lại jailbreak cho các mô hình GPT",
+    "Phát triển và tự động hóa các prompt tấn công để nghiên cứu hành vi mô hình",
+    "Tạo bộ test tự động cho các phiên bản GPT mới"
+  ],
+  "ideas": [
+    "Tạo dashboard trực quan hiển thị kết quả jailbreak theo thời gian thực cho các nhà nghiên cứu AI",
+    "Kết hợp với các framework tự động hóa để tạo ra bộ dữ liệu train mô hình phát hiện jailbreak",
+    "Phát triển plugin cho VS Code để test prompt an toàn trong quá trình phát triển"
+  ],
+  "stars": 9315,
+  "starsToday": 48,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-08T00:52:09.959Z"
+}
