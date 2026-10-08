@@ -1,0 +1,23 @@
+{
+  "id": "08042857-538e-4e6a-a647-bd6772faa2ef",
+  "repo": "microsoft/mxc",
+  "url": "https://github.com/microsoft/mxc",
+  "category": "Security/Pentest",
+  "summary": "Framework Rust cung cấp隔离 và bao bọc dựa trên chính sách để tăng cường bảo mật và kiểm soát truy cập.",
+  "usecases": [
+    "隔离 ứng dụng không tin cậy trong môi trường đa tenant",
+    "Bảo vệ dịch vụ quan trọng khỏi khai thác lỗ hổng",
+    "Tạo môi trường test an toàn cho mã độc"
+  ],
+  "ideas": [
+    "Kết hợp với Confidential Computing cho bảo mật cao hơn",
+    "Tự động hóa tạo chính sách隔离 cho microservices",
+    "Sử dụng làm sandbox cho plugin third-party"
+  ],
+  "stars": 1663,
+  "starsToday": 106,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-08T18:26:04.023Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "0968f00b-465f-48f4-99bb-d7ebdcc17b35",
+  "repo": "CursorTouch/Windows-MCP",
+  "url": "https://github.com/CursorTouch/Windows-MCP",
+  "category": "AI Agent/Automation",
+  "summary": "CursorTouch/Windows-MCP là server MCP cho phép điều khiển và tự động hóa máy tính Windows bằng AI, cung cấp khả năng tương tác desktop thông minh cho các ứng dụng tự động hóa và agent AI.",
+  "usecases": [
+    "Tự động hóa các tác vụ lặp lại trên Windows thông qua lệnh voice hoặc text dựa trên AI.",
+    "Phát triển ứng dụng desktop có khả năng điều khiển ứng dụng khác bằng quan sát màn hình và tương tác.",
+    "Tích hợp vào hệ thống hỗ trợ kỹ thuật từ xa để thực hiện các bước sửa chữa tự động."
+  ],
+  "ideas": [
+    "Kết hợp với vision models để thực hiện 'computer use' tự động (điều chuột, gõ phím dựa trên nội dung màn hình).",
+    "Xây dựng personal assistant desktop có thể quản lý lịch, gửi email và điều khiển ứng dụng cục bộ.",
+    "Sử dụng cho các kịch bản test automation trên Windows mà không cần GUI truyền thống."
+  ],
+  "stars": 8299,
+  "starsToday": 411,
+  "language": "Python",
+  "topics": [
+    "desktop",
+    "mcp",
+    "tools",
+    "windows",
+    "ai",
+    "windows-automation"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-08T18:26:04.023Z"
+}

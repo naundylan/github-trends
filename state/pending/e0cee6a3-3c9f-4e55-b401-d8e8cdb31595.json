@@ -1,0 +1,23 @@
+{
+  "id": "e0cee6a3-3c9f-4e55-b401-d8e8cdb31595",
+  "repo": "liquidslr/system-design-notes",
+  "url": "https://github.com/liquidslr/system-design-notes",
+  "category": "Documentation/Learning Resource",
+  "summary": "Hồ đong các ghi chú hệ thống để chuẩn bị phỏng vấn thiết kế hệ thống, dựa trên cuốn sách System Design Interview - An Insider's Guide, giúp hiểu rõ về kiến trúc phần mềm và quy trình giải quyết vấn đề quy mô lớn.",
+  "usecases": [
+    "Review kiến trúc hệ thống và patterns phổ biến trước phỏng vấn",
+    "Tìm hiểu quy trình scale ứng dụng từ zero đến production",
+    "Làm tài liệu nội bộ về design decisions cho team"
+  ],
+  "ideas": [
+    "Tạo flashcards tự động từ notes để review hàng ngày",
+    "So sánh approaches design giữa các công ty tech top",
+    "Build một website static showcase cho portfolio system design projects"
+  ],
+  "stars": 24422,
+  "starsToday": 398,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-08T18:26:04.023Z"
+}

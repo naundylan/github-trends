@@ -1,0 +1,26 @@
+{
+  "id": "9af610c2-fd8c-4a06-a3e2-6e8d81003e6e",
+  "repo": "docker/docker-agent",
+  "url": "https://github.com/docker/docker-agent",
+  "category": "AI Agent/Automation",
+  "summary": "docker/docker-agent là nền tảng xây dựng và chạy AI Agent bằng Go, cho phép tạo, quản lý và triển khai agent trí tuệ nhân tạo trên Docker, nổi bật với runtime chuyên dụng cho các agent AI.",
+  "usecases": [
+    "Triển khai AI agent tự động hóa quy trình làm việc trong môi trường production.",
+    "Scale các agent đa tác vụ trên cluster Docker.",
+    "Tích hợp AI agent vào CI/CD pipelines để tự động hóa phát triển và test."
+  ],
+  "ideas": [
+    "Kết hợp với LangChain để tạo các agent có khả năng gọi tool tự động.",
+    "Sử dụng làm nền tảng cho hệ thống RPA tự động hóa quy trình doanh nghiệp trên đám mây.",
+    "Phát triển agent có khả năng self-healing trong containerized environments."
+  ],
+  "stars": 4192,
+  "starsToday": 628,
+  "language": "Go",
+  "topics": [
+    "agents",
+    "ai"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-08T18:26:04.023Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "99fa9eda-e414-4aa1-9d06-cd441d32a105",
+  "repo": "IAmTomShaw/f1-race-replay",
+  "url": "https://github.com/IAmTomShaw/f1-race-replay",
+  "category": "Data Visualization",
+  "summary": "Một công cụ phân tích và trực quan hóa dữ liệu cuộc đua Formula 1 bằng Python, cho phép người dùng tương tác với dữ liệu race và xem biểu đồ/thống kê chi tiết.",
+  "usecases": [
+    "Phân tích hiệu suất xe và tài xế trong các cuộc đua F1 lịch sử.",
+    "Tạo báo cáo thống kê và trực quan hóa cho các nhà phân tích thể thao.",
+    "Học tập và nghiên cứu dữ liệu đua xe với Python cho sinh viên và nghiên cứu viên."
+  ],
+  "ideas": [
+    "Mở rộng để bao gồm dữ liệu thời tiết và đường đua để dự đoán kết quả cuộc đua.",
+    "Kết hợp với API F1 chính thức để tạo dashboard trực tuyến theo thời gian thực.",
+    "Phát triển tính năng so sánh nhiều cuộc đua cùng một lúc để đánh giá xu hướng."
+  ],
+  "stars": 6668,
+  "starsToday": 216,
+  "language": "Python",
+  "topics": [
+    "f1",
+    "formula1",
+    "formula1-data-analysis"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-10-08T18:26:04.023Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "336108a1-9167-400b-8763-4b2c7057ef3e",
+  "repo": "Vincentwei1021/video-shotcraft",
+  "url": "https://github.com/Vincentwei1021/video-shotcraft",
+  "category": "AI Agent/Automation",
+  "summary": "Một công cụ AI tạo video sản phẩm cinematic sử dụng Remotion, cung cấp 152 thẻ recipe shot và 209 preview chuyển động để tạo video sản phẩm và promo tự động.",
+  "usecases": [
+    "Tự động tạo video sản phẩm cho e-commerce và bán hàng trực tuyến.",
+    "Sản xuất video quảng cáo motion graphics cho các chiến dịch marketing.",
+    "Tích hợp vào pipeline CI/CD để sinh video demo tự động từ mã nguồn."
+  ],
+  "ideas": [
+    "Kết hợp với các agent AI khác để tạo video giải thích tự động từ repository code.",
+    "Sử dụng để tạo nội dung video cho các template code hoặc documentation.",
+    "Phát triển plugin cho các IDE để sinh video demo khi viết code."
+  ],
+  "stars": 10859,
+  "starsToday": 264,
+  "language": "TypeScript",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-video",
+    "claude-code",
+    "claude-code-skills",
+    "claude-skills",
+    "codex",
+    "motion-design",
+    "motion-graphics",
+    "product-video",
+    "promo-video",
+    "remotion",
+    "video-generation",
+    "video-production"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-08T18:26:04.023Z"
+}

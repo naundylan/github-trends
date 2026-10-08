@@ -151,7 +151,7 @@
   },
   "Leonxlnx/taste-skill": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-08",
     "last_saved": "2026-09-21"
   },
   "CoplayDev/unity-mcp": {
@@ -506,7 +506,7 @@
   },
   "tashfeenahmed/freellmapi": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-08",
     "last_saved": "2026-10-05"
   },
   "Anil-matcha/Open-Generative-AI": {
@@ -1136,8 +1136,8 @@
   },
   "vercel-labs/agent-browser": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-24",
-    "last_saved": "2026-09-05"
+    "last_seen": "2026-10-08",
+    "last_saved": "2026-10-08"
   },
   "jlcodes99/cockpit-tools": {
     "first_seen": "2026-09-05",
@@ -1436,7 +1436,7 @@
   },
   "HakanSeven12/OpenCADStudio": {
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-08",
     "last_saved": "2026-10-02"
   },
   "AlexsJones/llmfit": {
@@ -1681,8 +1681,8 @@
   },
   "koala73/worldmonitor": {
     "first_seen": "2026-09-16",
-    "last_seen": "2026-09-20",
-    "last_saved": "2026-09-16"
+    "last_seen": "2026-10-08",
+    "last_saved": "2026-10-08"
   },
   "openobserve/openobserve": {
     "first_seen": "2026-09-16",
@@ -2006,7 +2006,7 @@
   },
   "github/awesome-copilot": {
     "first_seen": "2026-09-23",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-08",
     "last_saved": "2026-09-23"
   },
   "poloclub/transformer-explainer": {
@@ -2031,7 +2031,7 @@
   },
   "DmNote-App/DmNote": {
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-10-08",
     "last_saved": "2026-09-23"
   },
   "flexprice/flexprice": {
@@ -2236,7 +2236,7 @@
   },
   "Gimanh/taskview-community": {
     "first_seen": "2026-09-27",
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-10-08",
     "last_saved": "2026-09-27"
   },
   "git-bug/git-bug": {
@@ -2371,7 +2371,7 @@
   },
   "bmad-code-org/BMAD-METHOD": {
     "first_seen": "2026-09-30",
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-08",
     "last_saved": "2026-09-30"
   },
   "qbittorrent/search-plugins": {
@@ -2446,7 +2446,7 @@
   },
   "tabler/tabler-icons": {
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-08",
     "last_saved": "2026-10-02"
   },
   "spicetify/cli": {
@@ -2526,7 +2526,7 @@
   },
   "rubys/roundhouse": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-08",
     "last_saved": "2026-10-03"
   },
   "zeronsh/zeron": {
@@ -2631,7 +2631,7 @@
   },
   "ltaoo/wx_channels_download": {
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-08",
     "last_saved": "2026-10-05"
   },
   "skyhook-io/radar": {
@@ -2651,7 +2651,7 @@
   },
   "backnotprop/plannotator": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-08",
     "last_saved": "2026-10-06"
   },
   "gitleaks/gitleaks": {
@@ -2724,52 +2724,47 @@
     "last_seen": "2026-10-08",
     "last_saved": "2026-10-07"
   },
-  "liyupi/ai-guide": {
+  "EpicGames/raddebugger": {
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
     "last_saved": "2026-10-08"
   },
-  "MiaAI-Lab/sparkDash": {
+  "liquidslr/system-design-notes": {
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
     "last_saved": "2026-10-08"
   },
-  "expressjs/express": {
+  "Tracer-Cloud/opensre": {
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
     "last_saved": "2026-10-08"
   },
-  "lodash/lodash": {
+  "IAmTomShaw/f1-race-replay": {
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
     "last_saved": "2026-10-08"
   },
-  "uber/ADR": {
+  "CursorTouch/Windows-MCP": {
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
     "last_saved": "2026-10-08"
   },
-  "garrytan/gbrain": {
+  "Vincentwei1021/video-shotcraft": {
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
     "last_saved": "2026-10-08"
   },
-  "maximhq/bifrost": {
+  "docker/docker-agent": {
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
     "last_saved": "2026-10-08"
   },
-  "traefik/traefik": {
+  "martin-olivier/airgorah": {
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
     "last_saved": "2026-10-08"
   },
-  "GraphiteEditor/Graphite": {
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-08",
-    "last_saved": "2026-10-08"
-  },
-  "harry0703/MangoDisk": {
+  "microsoft/mxc": {
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-08",
     "last_saved": "2026-10-08"

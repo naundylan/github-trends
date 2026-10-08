@@ -1,0 +1,23 @@
+{
+  "id": "901bf9fc-d327-426f-bad4-a2739071ad57",
+  "repo": "EpicGames/raddebugger",
+  "url": "https://github.com/EpicGames/raddebugger",
+  "category": "Developer Tool",
+  "summary": "Trình debug native, multi-process và graphical giúp phát triển và debug ứng dụng C/C++ phức tạp chạy trên nhiều tiến trình cùng lúc.",
+  "usecases": [
+    "Debug ứng dụng game hoặc phần mềm đa tiến trình gặp crash hoặc performance issue",
+    "Phân tích tương tác giữa các process trong môi trường production staging",
+    "Giải quyết bug concurrency và race condition trong code C/C++"
+  ],
+  "ideas": [
+    "Kết hợp với CI pipeline để tự động capture snapshot debug khi test fail",
+    "Develop plugin hiển thị trạng thái memory/graph cho các game engine bên ngoài",
+    "Sử dụng làm tool học tập cho sinh viên lập trình hệ thống về multi-processing"
+  ],
+  "stars": 8053,
+  "starsToday": 283,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-08T18:26:04.023Z"
+}
