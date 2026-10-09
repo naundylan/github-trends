@@ -1,0 +1,44 @@
+{
+  "id": "7c609bf5-4df7-4b86-94db-b4dd361e872e",
+  "repo": "tt-a1i/archify",
+  "url": "https://github.com/tt-a1i/archify",
+  "category": "Developer Tool",
+  "summary": "Công cụ giúp chuyển đổi ý tưởng, kế hoạch hoặc mã nguồn thành sơ đồ kiến trúc tương tác trực quan, hoạt động như một agent skill tích hợp cho Claude Code và Codex.",
+  "usecases": [
+    "Tự động hóa việc phân tích cấu trúc mã nguồn lớn và xuất sơ đồ kiến trúc cho đội ngũ thiết kế.",
+    "Trợ lý trực quan hóa ý tưởng hệ thống trong các cuộc họp phân tích yêu cầu.",
+    "Tạo sơ đồ sequence diagram để giải thích các luồng xử lý sự kiện trong hệ thống."
+  ],
+  "ideas": [
+    "Tích hợp vào môi trường IDE để người dùng nhấn một phím và nhận sơ đồ kiến trúc ngay lập tức.",
+    "Kết hợp với công cụ tạo tài liệu để tự động sinh ra phần hình ảnh minh họa cho các tài liệu kỹ thuật.",
+    "Sử dụng trong chương trình đào tạo để trực quan hóa cấu trúc class và các mối quan hệ trong dự án."
+  ],
+  "stars": 81081,
+  "starsToday": 1220,
+  "language": "JavaScript",
+  "topics": [
+    "architecture-diagram",
+    "developer-tools",
+    "system-design",
+    "agent-skills",
+    "codex",
+    "opencode",
+    "sequence-diagram",
+    "deepseek-harness",
+    "dsh-plugin",
+    "coding-agents",
+    "diagrams",
+    "diagrams-as-code",
+    "software-architecture",
+    "ai-agents",
+    "claude-code",
+    "claude-skills",
+    "flowchart",
+    "llm",
+    "mermaid",
+    "visualization"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-09T18:03:54.806Z"
+}

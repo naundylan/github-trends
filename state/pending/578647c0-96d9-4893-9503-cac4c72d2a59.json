@@ -1,0 +1,28 @@
+{
+  "id": "578647c0-96d9-4893-9503-cac4c72d2a59",
+  "repo": "datawhalechina/hello-agents",
+  "url": "https://github.com/datawhalechina/hello-agents",
+  "category": "Documentation/Learning Resource",
+  "summary": "Tutorial toàn diện về nguyên lý và thực hành xây dựng AI agent từ đầu, bao gồm LLM và RAG.",
+  "usecases": [
+    "Người mới bắt đầu có thể theo dõi từng bước tạo ra agent đầu tiên của mình",
+    "Dùng làm tham chiếu triển khai RAG và các kỹ thuật agent cho dự án AI",
+    "Giáo viên có thể sử dụng làm nội dung bài giảng về hoạt động của LLM agents"
+  ],
+  "ideas": [
+    "Mở rộng thành series video hướng dẫn deployment agent vào production",
+    "Tạo starter template project cho nhiều loại agent khác nhau (code, research, analysis)",
+    "Kết hợp với LangChain/LlamaIndex so sánh hiệu suất và khả năng tùy chỉnh"
+  ],
+  "stars": 82247,
+  "starsToday": 193,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "tutorial",
+    "llm",
+    "rag"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-09T18:03:54.806Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ea8dbf99-e8c9-4fe5-846b-62462f1ff599",
+  "repo": "Tencent-Hunyuan/Hy-MT2",
+  "url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
+  "category": "AI/LLM",
+  "summary": "Hy-MT2 là một framework hoặc mô hình ngôn ngữ từ ecosytem Tencent Hunyuan, được thiết kế để tối ưu hóa hiệu suất inference và training cho các tác vụ xử lý ngôn ngữ tự nhiên trên Python.",
+  "usecases": [
+    "Triển khai mô hình ngôn ngữ lớn trong môi trường nội bộ cho các ứng dụng doanh nghiệp.",
+    "Tích hợp vào pipeline training và deployment cho các tác vụ NLP.",
+    "Nghiên cứu và phát triển các mô hình đa ngôn ngữ với hiệu suất cao."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống retrieval-augmented generation (RAG) cho tìm kiếm doanh nghiệp.",
+    "Phát triển chatbot cá nhân hóa sử dụng dữ liệu riêng trên máy tính cá nhân.",
+    "Sử dụng cho tạo nội dung tự động trong nhiều ngôn ngữ với ít tài nguyên."
+  ],
+  "stars": 1176,
+  "starsToday": 147,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-09T18:03:54.806Z"
+}

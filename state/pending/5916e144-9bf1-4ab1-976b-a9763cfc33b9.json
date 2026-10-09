@@ -1,0 +1,23 @@
+{
+  "id": "5916e144-9bf1-4ab1-976b-a9763cfc33b9",
+  "repo": "openai/codex",
+  "url": "https://github.com/openai/codex",
+  "category": "AI Agent/Automation",
+  "summary": "Agent nhẹ chạy trong terminal để tự động hóa viết code và quy trình phát triển phần mềm.",
+  "usecases": [
+    "Tự động hoàn thành và sinh code function trực tiếp trong terminal",
+    "Giúp review code và định vị bug nhanh chóng trong quá trình phát triển",
+    "Tích hợp vào pipeline CI/CD để tự động sửa lỗi và tối ưu code"
+  ],
+  "ideas": [
+    "Kết hợp với tmux hoặc terminal đa luồng tạo nên một IDE agent toàn diện",
+    "Phát triển plugin VS Code để codex hoạt động đồng bộ với editor",
+    "Sử dụng agent để tự động generate unit tests cho codebase legacy"
+  ],
+  "stars": 128385,
+  "starsToday": 214,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-09T18:03:54.806Z"
+}

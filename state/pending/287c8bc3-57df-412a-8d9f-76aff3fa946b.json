@@ -1,0 +1,30 @@
+{
+  "id": "287c8bc3-57df-412a-8d9f-76aff3fa946b",
+  "repo": "alibaba/open-code-review",
+  "url": "https://github.com/alibaba/open-code-review",
+  "category": "AI Agent/Automation",
+  "summary": "...",
+  "usecases": [
+    "...",
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "...",
+    "..."
+  ],
+  "stars": 44997,
+  "starsToday": 323,
+  "language": "Go",
+  "topics": [
+    "agent",
+    "code-review",
+    "code-review-assistant",
+    "harness",
+    "repository-level-context",
+    "agent-skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-09T18:03:54.806Z"
+}

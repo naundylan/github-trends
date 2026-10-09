@@ -1,0 +1,44 @@
+{
+  "id": "ddb0fe92-30fe-4a5b-8bfb-f80f36d115ac",
+  "repo": "unslothai/unsloth",
+  "url": "https://github.com/unslothai/unsloth",
+  "category": "AI/LLM",
+  "summary": "Unsloth là giao diện người dùng cục bộ và framework để chạy và train LLMs cùng diffusion models, hỗ trợ GGUF, MLX, Gemma, DeepSeek-V4, FLUX và nhiều định dạng khác, giúp tự chủ và tối ưu hóa hiệu suất trên máy tính cá nhân.",
+  "usecases": [
+    "Train và fine-tuning các mô hình LLM trên máy tính cá nhân mà không cần tài nguyên cloud lớn.",
+    "Chạy các mô hình diffusion để sinh ảnh trong môi trường local an toàn và riêng tư.",
+    "Phát triển các agent AI tự động hóa tác vụ sử dụng các model được hỗ trợ."
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng self-hosted để tạo ra một 'AI Studio' cá nhân hoàn chỉnh.",
+    "Sử dụng cho việc đào tạo mô hình tùy chỉnh trên dữ liệu riêng tư cho các ngành y tế hoặc pháp lý.",
+    "Kết hợp với các framework agent để tạo ra các hệ thống tự động hóa tác vụ văn phòng."
+  ],
+  "stars": 77619,
+  "starsToday": 140,
+  "language": "Python",
+  "topics": [
+    "fine-tuning",
+    "llama",
+    "llms",
+    "gemma",
+    "unsloth",
+    "llm",
+    "deepseek",
+    "text-to-speech",
+    "tts",
+    "qwen",
+    "agent",
+    "openai",
+    "reinforcement-learning",
+    "self-hosted",
+    "ui",
+    "image-generation",
+    "stable-diffusion",
+    "chatgpt",
+    "ai",
+    "python"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-09T18:03:54.806Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "32ea17d9-d5d9-4aef-aaf5-ab56cbf3f5ad",
+  "repo": "bojieli/ai-agent-book",
+  "url": "https://github.com/bojieli/ai-agent-book",
+  "category": "Documentation/Learning Resource",
+  "summary": "Tài liệu mở nguồn toàn diện về nguyên lý thiết kế và thực hành AI Agent, bao gồm nội dung sách, PDF biên tập và mã nguồn theo từng chương.",
+  "usecases": [
+    "Học tập nguyên lý thiết kế Agent và Memory cho LLM",
+    "Triển khai coding-agent tự động hóa phát triển phần mềm",
+    "Nghiên cứu Context Engineering và Multi-agent architecture"
+  ],
+  "ideas": [
+    "Kết hợp với voice assistant để tạo ra personal AI tutor dựa trên sách",
+    "Phát triển plugin cho IDE sử dụng các nguyên lý từ book để auto-complete/code review",
+    "Tạo visualizer cho agent memory/context flow dựa trên nội dung sách"
+  ],
+  "stars": 53182,
+  "starsToday": 238,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agent-memory",
+    "ai-agent",
+    "book",
+    "coding-agent",
+    "context-engineering",
+    "large-language-models",
+    "llm",
+    "mcp",
+    "multi-agent",
+    "multimodal",
+    "rag",
+    "reinforcement-learning"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-09T18:03:54.806Z"
+}
