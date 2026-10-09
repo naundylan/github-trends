@@ -1,0 +1,44 @@
+{
+  "id": "caa252ba-c022-43cc-97a1-58c64fec33b7",
+  "repo": "headroomlabs-ai/headroom",
+  "url": "https://github.com/headroomlabs-ai/headroom",
+  "category": "AI/LLM",
+  "summary": "Thư viện và proxy nén đầu ra, logs, files và chunks RAG trước khi gửi đến LLM, giảm 20-95% token sử dụng mà vẫn giữ nguyên câu trả lời.",
+  "usecases": [
+    "Tối ưu token cho coding agents như Cursor, Claude Code và các VS Code extensions",
+    "Giảm chi phí và latency cho pipeline RAG thông qua nén chunks trước inference",
+    "Tích hợp vào automation/agent workflows để nén logs và outputs của tools"
+  ],
+  "ideas": [
+    "Phát triển plugin IDE tự động nén code trước gửi LLM hoàn thành",
+    "Sử dụng trong edge computing cho devices có tài nguyên hạn chế",
+    "Tạo proxy LLM thông minh tự động điều chỉnh độ nén dựa trên loại nội dung"
+  ],
+  "stars": 74838,
+  "starsToday": 120,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "anthropic",
+    "compression",
+    "context-engineering",
+    "context-window",
+    "fastapi",
+    "langchain",
+    "llm",
+    "mcp",
+    "openai",
+    "proxy",
+    "python",
+    "rag",
+    "token-optimization",
+    "claude-code",
+    "cursor",
+    "prompt-engineering",
+    "tokens",
+    "typescript"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-09T22:14:28.399Z"
+}

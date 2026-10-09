@@ -1,0 +1,23 @@
+{
+  "id": "d34c500c-79cc-46fa-993f-1a986d41b2e8",
+  "repo": "twostraws/SwiftUI-Agent-Skill",
+  "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+  "category": "AI Agent/Automation",
+  "summary": "SwiftUI-Agent-Skill là kỹ năng cho các công cụ AI (Claude, Codex) tạo giao diện SwiftUI để phát triển ứng dụng iOS/macOS nhanh hơn.",
+  "usecases": [
+    "Tự động tạo giao diện SwiftUI từ yêu cầu ngôn ngữ tự nhiên cho ứng dụng iOS",
+    "Tăng tốc prototyping cho ứng dụng mobile sử dụng AI coding tools",
+    "Tích hợp vào workflow Claude Code/Codex để phát triển nhanh hơn các tính năng UI"
+  ],
+  "ideas": [
+    "Xây dựng desktop app quản lý các skill SwiftUI do AI tạo, với preview trực tiếp",
+    "Kết hợp RAG để generate SwiftUI code dựa trên thiết kế UI và ngữ cảnh dự án",
+    "Phát triển marketplace skills cho SwiftUI, cho phép cộng đồng share và reuse các skill AI"
+  ],
+  "stars": 5385,
+  "starsToday": 88,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-09T22:14:28.399Z"
+}

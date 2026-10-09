@@ -1,0 +1,44 @@
+{
+  "id": "7ae00d5c-1a5d-470b-b174-78b50cba1c93",
+  "repo": "Agent-Field/CodeAF",
+  "url": "https://github.com/Agent-Field/CodeAF",
+  "category": "AI/LLM",
+  "summary": "CodeAF là factory phần mềm mã nguồn mở dùng để xây dựng và triển khai các agent AI viết code, tích hợp LLM và CLI để tự động hóa quy trình phát triển trên terminal.",
+  "usecases": [
+    "Tự động sinh code cho dự án dựa trên yêu cầu mô tả, giảm thời gian phát triển.",
+    "Tích hợp vào pipeline CI/CD để review và sửa lỗi code tự động.",
+    "Xây dựng agent cá nhân giúp viết unit test và refactor code thông qua lệnh terminal."
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM chuyên dụng cho bảo mật code để tạo ra một hệ thống review code tự động an toàn.",
+    "Xây dựng hệ thống multi-agent nơi mỗi agent负责 một phần của pipeline phát triển (design, test, deploy).",
+    "Triển khai trên các nền tảng serverless (Cloudflare Workers, AWS Lambda) để cung cấp API code generation trên demand."
+  ],
+  "stars": 370,
+  "starsToday": 51,
+  "language": "Go",
+  "topics": [
+    "agent-fleet",
+    "agentfield",
+    "coding-agent",
+    "coding-assistant",
+    "coding-cli",
+    "harness",
+    "harness-engineering",
+    "open-models",
+    "software-factory",
+    "agent-harness",
+    "agentic-coding",
+    "ai",
+    "ai-coding",
+    "cli-agent",
+    "coding-agents",
+    "coding-harness",
+    "developer-tools",
+    "llm",
+    "open-source-models",
+    "terminal-agent"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-09T22:14:28.399Z"
+}

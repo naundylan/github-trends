@@ -1,0 +1,40 @@
+{
+  "id": "95885380-ac5b-490e-aceb-e2709a6565b0",
+  "repo": "BerriAI/litellm",
+  "url": "https://github.com/BerriAI/litellm",
+  "category": "AI/LLM",
+  "summary": "Litellm là cổng giao tiếp (gateway) AI cho phép gọi 100+ API LLM bằng định dạng OpenAI, kèm theo theo dõi chi phí, cân bằng tải và tính an toàn.",
+  "usecases": [
+    "Gọi nhiều provider LLM (OpenAI, Anthropic, Azure, VertexAI) qua một endpoint duy nhất định dạng OpenAI",
+    "Theo dõi chi phí và quản lý sử dụng cho dự án AI quy mô lớn",
+    "Cân bằng tải và guardrails để đảm bảo tính ổn định và an toàn cho ứng dụng sản xuất"
+  ],
+  "ideas": [
+    "Tạo layer API thống nhất cho ứng dụng đa LLM, chuyển đổi provider suôn sẻ",
+    "Kết hợp chi phí theo dõi để tối ưu chi phí dựa trên sử dụng thực tế",
+    "Phát triển plugin cho LangChain/LlamaIndex để quản lý routing LLM"
+  ],
+  "stars": 60616,
+  "starsToday": 95,
+  "language": "Python",
+  "topics": [
+    "anthropic",
+    "langchain",
+    "llm",
+    "llmops",
+    "openai",
+    "ai-gateway",
+    "azure-openai",
+    "bedrock",
+    "gateway",
+    "openai-proxy",
+    "vertex-ai",
+    "llm-gateway",
+    "litellm",
+    "mcp-gateway",
+    "rust",
+    "rust-ai"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-09T22:14:28.399Z"
+}

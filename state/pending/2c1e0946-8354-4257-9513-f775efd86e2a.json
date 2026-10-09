@@ -1,0 +1,42 @@
+{
+  "id": "2c1e0946-8354-4257-9513-f775efd86e2a",
+  "repo": "PurpleDoubleD/locally-uncensored",
+  "url": "https://github.com/PurpleDoubleD/locally-uncensored",
+  "category": "Desktop App",
+  "summary": "mô tả",
+  "usecases": [
+    "text",
+    "text"
+  ],
+  "ideas": [
+    "text",
+    "text"
+  ],
+  "stars": 2124,
+  "starsToday": 70,
+  "language": "TypeScript",
+  "topics": [
+    "ai-chat",
+    "image-generation",
+    "llm",
+    "local-ai",
+    "local-llm",
+    "privacy",
+    "self-hosted",
+    "uncensored",
+    "video-generation",
+    "desktop-app",
+    "uncensored-ai",
+    "stable-diffusion",
+    "agent",
+    "ai-studio",
+    "all-in-one",
+    "coding-agent",
+    "flux",
+    "linux",
+    "open-source",
+    "windows"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-09T22:14:28.399Z"
+}

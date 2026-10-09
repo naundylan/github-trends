@@ -1,0 +1,23 @@
+{
+  "id": "767a42c9-94ba-44e3-a87c-0bbc2afe5c90",
+  "repo": "Robbyant/lingbot-map",
+  "url": "https://github.com/Robbyant/lingbot-map",
+  "category": "Computer Vision",
+  "summary": "Áp dụng Geometric Context Transformer cho reconstruction 3D streaming, cho phép tái tạo 3D theo thời gian thực từ luồng dữ liệu liên tục.",
+  "usecases": [
+    "Reconstruction 3D streaming cho AR/Virtual Reality live",
+    "Tự động tạo bản đồ 3D từ camera drone hoặc robot explorer trong môi trường không định cố định",
+    "Video conferencing với reconstruction 3D theo thời gian thực"
+  ],
+  "ideas": [
+    "Kết hợp với SLAM cho robot di động điều hướng tự động",
+    "Phát triển app mobile AR cho phép người dùng quét và tạo 3D ngay",
+    "Áp dụng trong giám sát tài sản và bảo trì theo thời gian thực trong công nghiệp"
+  ],
+  "stars": 17664,
+  "starsToday": 109,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-10-09T22:14:28.399Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "509fc246-43f8-4fa6-aeb1-214328259266",
+  "repo": "VERT-sh/VERT",
+  "url": "https://github.com/VERT-sh/VERT",
+  "category": "CLI Tool",
+  "summary": "VERT là trình chuyển đổi file mã nguồn mở, hoàn toàn địa phương và miễn phí mãi mãi, hỗ trợ chuyển đổi đa dạng định dạng hình ảnh và tài liệu dựa trên công nghệ WASM, FFmpeg và ImageMagick.",
+  "usecases": [
+    "Chuyển đổi định dạng hình ảnh và tài liệu trong môi trường phát triển phần mềm.",
+    "Xử lý batch conversion các file trên máy tính không cần kết nối internet.",
+    "Tích hợp vào các ứng dụng web để cung cấp tính năng chuyển file cho người dùng cuối."
+  ],
+  "ideas": [
+    "Phát triển plugin cho VS Code để chuyển file trực tiếp từ trình soạn thảo.",
+    "Kết hợp với AI để tự động nhận diện và chuyển đổi định dạng phù hợp với nội dung.",
+    "Tạo dịch vụ chuyển file an toàn cho doanh nghiệp mà dữ liệu không bao giờ rời máy chủ."
+  ],
+  "stars": 15807,
+  "starsToday": 45,
+  "language": "TypeScript",
+  "topics": [
+    "conversion",
+    "ffmpeg",
+    "wasm",
+    "svelte",
+    "sveltekit",
+    "imagemagick",
+    "magick",
+    "pandoc"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-09T22:14:28.399Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "38230c50-6ff0-4227-8b32-13ba25aec3f1",
+  "repo": "hiroi-sora/Umi-OCR",
+  "url": "https://github.com/hiroi-sora/Umi-OCR",
+  "category": "Desktop App",
+  "summary": "Umi-OCR là phần mềm OCR miễn phí, chạy offline trên desktop, hỗ trợ nhận diện hình ảnh, PDF, tạo mã QR và loại bỏ watermark với đa ngôn ngữ nhờ PaddleOCR và Qt.",
+  "usecases": [
+    "Nhận diện văn bản từ screenshot và ảnh chụp màn hình để lưu trữ hoặc xử lý dữ liệu.",
+    "Extract text từ PDF và tài liệu quét (scan) để chuyển sang định dạng editable.",
+    "Tự động tạo mã QR và xử lý ảnh có watermark cho các dự án thiết kế."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ tự động hóa desktop (như AutoHotkey) để tạo luồng làm việc OCR tự động.",
+    "Phát triển plugin cho VS Code để trực tiếp sử dụng Umi-OCR để nhận diện code hoặc tài liệu.",
+    "Sử dụng trên thiết bị di động thông qua Qt để tạo ứng dụng OCR đa nền tảng."
+  ],
+  "stars": 47730,
+  "starsToday": 51,
+  "language": "Python",
+  "topics": [
+    "paddleocr",
+    "ocr",
+    "ocr-python",
+    "umi-ocr",
+    "qml",
+    "qt",
+    "screenshot"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-09T22:14:28.399Z"
+}
