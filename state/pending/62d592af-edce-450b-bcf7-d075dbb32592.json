@@ -1,0 +1,23 @@
+{
+  "id": "62d592af-edce-450b-bcf7-d075dbb32592",
+  "repo": "XCQ0607/lxserver",
+  "url": "https://github.com/XCQ0607/lxserver",
+  "category": "Backend Framework",
+  "summary": "Server đồng bộ dữ liệu cho LX Music, hỗ trợ kết nối giữa ứng dụng desktop và web để truy cập thư viện nhạc.",
+  "usecases": [
+    "Đồng bộ thư viện nhạc và dữ liệu phát giữa desktop và web.",
+    "Cung cấp API cho ứng dụng client truy cập thư mục nhạc và lịch sử phát.",
+    "Hỗ trợ đa nền tảng truy cập thư viện nhạc qua web."
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng streaming music khác để chia sẻ thư viện.",
+    "Phát triển ứng dụng mobile kết nối với server này để phát nhạc.",
+    "Thêm tính năng phân tích nghe nhạc dựa trên dữ liệu sync."
+  ],
+  "stars": 933,
+  "starsToday": 10,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-10-09T10:07:22.562Z"
+}

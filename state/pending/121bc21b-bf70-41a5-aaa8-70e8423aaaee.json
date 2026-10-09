@@ -1,0 +1,23 @@
+{
+  "id": "121bc21b-bf70-41a5-aaa8-70e8423aaaee",
+  "repo": "abrignoni/ALEAPP",
+  "url": "https://github.com/abrignoni/ALEAPP",
+  "category": "Security/Pentest",
+  "summary": "ALEAPP là một công cụ Python phân tích và trích xuất các sự kiện log từ hệ điều hành Android, được thiết kế cho lĩnh vực công nghệ số để khôi phục và phân tích hệ thống từ các tài khoản thu thập.",
+  "usecases": [
+    "Phân tích kỹ thuật trên thiết bị Android để khôi phục log hệ thống trong các vụ điều tra pháp lý.",
+    "Phân tích protobuf events để theo dõi hành vi ứng dụng và hoạt động hệ thống trên các thiết bị bị thu giữ.",
+    "Tự động hóa trích xuất dữ liệu thời gian cho các nhà nghiên cứu bảo mật và công nghệ số."
+  ],
+  "ideas": [
+    "Tích hợp ALEAPP với các nền tảng SIEM để tự động cảnh báo các hoạt động đáng ngờ trên thiết bị di động.",
+    "Phát triển một giao diện web trực quan để trực quan hóa thời gian các sự kiện Android được phân tích.",
+    "Kết hợp xử lý ngôn ngữ tự nhiên (NLP) để tạo báo cáo tự nhiên từ các log hệ thống Android."
+  ],
+  "stars": 978,
+  "starsToday": 18,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-09T10:07:22.562Z"
+}

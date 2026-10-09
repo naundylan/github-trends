@@ -1,0 +1,31 @@
+{
+  "id": "fce70bf3-c426-4cd1-a06c-ffd627fdbb11",
+  "repo": "microsoft/power-platform-skills",
+  "url": "https://github.com/microsoft/power-platform-skills",
+  "category": "AI Agent/Automation",
+  "summary": "power-platform-skills là một thị trường plugin cho GitHub Copilot và các AI agent khác, cung cấp các kỹ năng, agent và lệnh reusable để phát triển và triển khai các giải pháp trên Power Platform.",
+  "usecases": [
+    "Tăng cường GitHub Copilot với các kỹ năng phát triển Power Platform như tạo Power Apps tự động.",
+    "Tự động hóa các quy trình kinh doanh sử dụng AI agent tích hợp với Power Automate.",
+    "Xây dựng nhanh các ứng dụng Power Pages với sự hỗ trợ của AI plugin."
+  ],
+  "ideas": [
+    "Tạo một AI agent tùy chỉnh cho các workflows ngành cụ thể sử dụng các plugin này.",
+    "Kết hợp với các công cụ AI khác để tạo ra hệ thống tự động hóa đa nền tảng.",
+    "Sử dụng để đào tạo các mô hình AI về các thực tiễn phát triển Power Platform tốt nhất."
+  ],
+  "stars": 978,
+  "starsToday": 7,
+  "language": "JavaScript",
+  "topics": [
+    "claude-code-plugin",
+    "claude-code-skills",
+    "power-apps",
+    "power-pages",
+    "power-platform",
+    "code-apps",
+    "github-copilot-plugin"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-09T10:07:22.562Z"
+}

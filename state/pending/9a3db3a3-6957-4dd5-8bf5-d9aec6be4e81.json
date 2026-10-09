@@ -1,0 +1,43 @@
+{
+  "id": "9a3db3a3-6957-4dd5-8bf5-d9aec6be4e81",
+  "repo": "yuxino/Mimi",
+  "url": "https://github.com/yuxino/Mimi",
+  "category": "Desktop App",
+  "summary": "Mimi là ứng dụng mã nguồn mở chuyển đổi âm thanh từ máy tính hoặc microphone thành phụ đề dịch thuật thời gian thực trên macOS, Windows và Linux.",
+  "usecases": [
+    "Giúp người thính lực hoặc khó nghe theo dõi nội dung phát thanh trực tiếp với phụ đề sinh lời.",
+    "Dùng trong các cuộc họp trực tuyến để dịch và hiển thị phụ đề tức thì cho người dùng đa ngôn ngữ.",
+    "Tích hợp vào hệ thống ghi âm để tạo phụ đề nhanh cho video, podcast hoặc bài giảng."
+  ],
+  "ideas": [
+    "Phát triển phiên bản mobile hiển thị phụ đề trên màn hình khi xem video hoặc nghe bài phát biểu.",
+    "Kết hợp nhận diện giọng nói đa ngôn ngữ để tự động phát hiện ngôn ngữ nguồn và dịch ra nhiều ngôn ngữ cùng lúc.",
+    "Tích hợp với trợ lý ảo để cung cấp khả năng dịch âm thanh trực tiếp trong cuộc trò chuyện."
+  ],
+  "stars": 647,
+  "starsToday": 24,
+  "language": "Rust",
+  "topics": [
+    "macos",
+    "subtitles",
+    "tauri",
+    "audio-capture",
+    "live-captions",
+    "speech-recognition",
+    "windows",
+    "desktop-app",
+    "live-translation",
+    "system-audio",
+    "real-time-translation",
+    "speech-to-text",
+    "subtitle-overlay",
+    "android",
+    "linux",
+    "pipewire",
+    "pulseaudio",
+    "realtime-translator",
+    "ubuntu"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-09T10:07:22.562Z"
+}

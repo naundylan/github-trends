@@ -1,0 +1,31 @@
+{
+  "id": "f9e1c45c-b6ff-4f6f-906f-d44435469579",
+  "repo": "aunetx/blur-my-shell",
+  "url": "https://github.com/aunetx/blur-my-shell",
+  "category": "Desktop App",
+  "summary": "Tiện ích mở rộng GNOME Shell làm mờ (blur) các thành phần giao diện như top panel, dash và overview, giúp tùy chỉnh giao diện Linux đẹp mắt và hiện đại.",
+  "usecases": [
+    "Cá nhân hóa giao diện GNOME cho người dùng Linux muốn trải nghiệm visual mượt mà, trong suốt",
+    "Tạo môi trường desktop thẩm mỹ cho content creator quay màn hình hoặc stream"
+  ],
+  "ideas": [
+    "Kết hợp với theme GTK/Icon pack tùy chỉnh để xây dựng bộ theme hoàn chỉnh cho GNOME",
+    "Phát triển thành công cụ cấu hình GUI cho phép điều chỉnh độ mờ, màu sắc, animation mà không cần chỉnh file config thủ công"
+  ],
+  "stars": 2287,
+  "starsToday": 22,
+  "language": "JavaScript",
+  "topics": [
+    "gnome",
+    "overview-blur",
+    "blur",
+    "customization",
+    "linux",
+    "extension",
+    "gnome-shell-extension",
+    "gnome-extension",
+    "gnome-shell"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-09T10:07:22.562Z"
+}

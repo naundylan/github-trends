@@ -1,0 +1,27 @@
+{
+  "id": "37028355-94de-4671-b05c-a448b7090d80",
+  "repo": "edwardkim/rhwp",
+  "url": "https://github.com/edwardkim/rhwp",
+  "category": "Web Frontend",
+  "summary": "Trình xem và sửa tệp HWP bằng Rust biên dịch thành WASM, cho phép duyệt và soạn thảo trực tiếp trên web mà không cần phần mềm gốc.",
+  "usecases": [
+    "Xem tệp HWP trên trình duyệt mà không cần cài Below HanWord.",
+    "Sửa đổi và lưu tệp HWP trong môi trường web.",
+    "Tích hợp khả năng xử lý HWP vào các ứng dụng web."
+  ],
+  "ideas": [
+    "Kết hợp với lưu trữ đám mây để xem lịch sử tài liệu HWP.",
+    "Phát triển plugin trình soạn thảo web hỗ trợ HWP.",
+    "Tạo công cụ chuyển đổi HWP sang PDF qua WASM."
+  ],
+  "stars": 3909,
+  "starsToday": 12,
+  "language": "Rust",
+  "topics": [
+    "hwp",
+    "hwpx",
+    "rust"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-09T10:07:22.562Z"
+}

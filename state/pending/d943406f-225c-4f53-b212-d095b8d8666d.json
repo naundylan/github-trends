@@ -1,0 +1,35 @@
+{
+  "id": "d943406f-225c-4f53-b212-d095b8d8666d",
+  "repo": "stacklok/toolhive",
+  "url": "https://github.com/stacklok/toolhive",
+  "category": "AI/LLM",
+  "summary": "ToolHive là một nền tảng doanh nghiệp để chạy và quản lý các máy chủ Model Context Protocol (MCP), hỗ trợ các ứng dụng AI với tính bảo mật cao và tích hợp Kubernetes.",
+  "usecases": [
+    "Chạy và quản lý các MCP server cho các trình hỗ trợ code AI như GitHub Copilot.",
+    "Triển khai các giải pháp AI an toàn trong môi trường doanh nghiệp lớn.",
+    "Tích hợp với Kubernetes để tự động hóa việc mở rộng và quản lý các dịch vụ AI."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ CI/CD để tự động hóa việc triển khai các mô hình AI.",
+    "Sử dụng làm trung tâm điều khiển cho nhiều AI agent khác nhau.",
+    "Tích hợp với hệ thống giám sát để tăng tính khả quan cho các dịch vụ AI."
+  ],
+  "stars": 2259,
+  "starsToday": 8,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "aicodeassistant",
+    "mcp",
+    "ai-security",
+    "mcp-security",
+    "mcp-servers",
+    "mcp-tools",
+    "security",
+    "golang",
+    "kubernetes",
+    "model-context-protocol"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-09T10:07:22.562Z"
+}

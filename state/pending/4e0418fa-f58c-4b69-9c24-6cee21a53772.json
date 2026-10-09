@@ -1,0 +1,42 @@
+{
+  "id": "4e0418fa-f58c-4b69-9c24-6cee21a53772",
+  "repo": "tracel-ai/burn",
+  "url": "https://github.com/tracel-ai/burn",
+  "category": "AI/LLM",
+  "summary": "Burn là một framework học máy cao hiệu suất viết bằng Rust, cung cấp tính toán tensor, phân vi tự động và hỗ trợ GPU/WebGPU/CUDA/Metal/Vulkan, tập trung vào khả năng di động và tích hợp ONNX cho quy trình ML hiện đại.",
+  "usecases": [
+    "Chạy huấn luyện và inference mô hình ML trực tiếp trong trình duyệt sử dụng WebGPU/WebAssembly.",
+    "Nghiên cứu hiệu suất cao với GPU acceleration và autodiff cho các dự án ML tiên tiến.",
+    "Triển khai inference trên thiết bị biên với hỗ trợ Metal (Apple) và Vulkan (Android/Linux)."
+  ],
+  "ideas": [
+    "Xây dựng một cỗ máy ML chạy hoàn toàn trong trình duyệt sử dụng Burn qua WebGPU không cần backend.",
+    "Tạo đường ống chuyển đổi mô hình từ PyTorch sang Burn và tối ưu cho thực thi trên GPU biên.",
+    "Phát triển plugin debug trực quan cho graph computation của Burn trong các IDE viết bằng Rust."
+  ],
+  "stars": 16074,
+  "starsToday": 15,
+  "language": "Rust",
+  "topics": [
+    "autodiff",
+    "deep-learning",
+    "machine-learning",
+    "rust",
+    "scientific-computing",
+    "ndarray",
+    "tensor",
+    "neural-network",
+    "pytorch",
+    "cross-platform",
+    "kernel-fusion",
+    "onnx",
+    "wasm",
+    "webgpu",
+    "cuda",
+    "metal",
+    "rocm",
+    "vulkan"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-09T10:07:22.562Z"
+}

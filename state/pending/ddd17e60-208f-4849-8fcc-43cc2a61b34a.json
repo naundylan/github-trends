@@ -1,0 +1,36 @@
+{
+  "id": "ddd17e60-208f-4849-8fcc-43cc2a61b34a",
+  "repo": "navidrome/navidrome",
+  "url": "https://github.com/navidrome/navidrome",
+  "category": "Backend Framework",
+  "summary": "Máy chủ phát nhạc tự lưu trữ (self-hosted) viết bằng Go, tương thích API Subsonic/OpenSubsonic, nhẹ nhàng chạy tốt trên Raspberry Pi và server nhỏ.",
+  "usecases": [
+    "Xây dựng thư viện nhạc cá nhân riêng tư, truy cập từ mọi thiết bị qua các client Subsonic (DSub, Ultrasonic, Tempo...)",
+    "Phát nhạc chất lượng cao (FLAC, Opus) trên mạng LAN/WAN mà không phụ thuộc dịch vụ streaming thương mại"
+  ],
+  "ideas": [
+    "Tích hợp với Home Assistant hoặc dashboard nhà thông minh để điều khiển phát nhạc qua giọng nói/automation",
+    "Kết hợp với công cụ quản lý metadata (beets, MusicBrainz Picard) để tự động chuẩn hóa tag, cover art cho thư viện lớn"
+  ],
+  "stars": 24053,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "music",
+    "subsonic-server",
+    "subsonic",
+    "music-server",
+    "airsonic",
+    "streaming-audio",
+    "streaming-api",
+    "madsonic",
+    "streamer",
+    "self-hosted",
+    "media-server",
+    "navidrome",
+    "raspberry-pi",
+    "opensubsonic"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-10-09T10:07:22.562Z"
+}
