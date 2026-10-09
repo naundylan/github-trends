@@ -1,0 +1,23 @@
+{
+  "id": "cf43aca4-89a5-47a6-bbee-dc8163c97611",
+  "repo": "akitaonrails/ai-memory",
+  "url": "https://github.com/akitaonrails/ai-memory",
+  "category": "AI Agent/Automation",
+  "summary": "Giải pháp cung cấp bộ nhớ dài hạn cho các CLI agent coding, hỗ trợ handoff giữa các vendor agent khác nhau.",
+  "usecases": [
+    "Persist working context for CLI agents across sessions",
+    "Enable vendor-agnostic handoff between different agent frameworks",
+    "Integrate into automation systems to maintain long-term state"
+  ],
+  "ideas": [
+    "Combine with popular agent frameworks like AutoGPT for continuous memory experience",
+    "Develop IDE plugins for automatic project state save and restore",
+    "Create a visual memory management interface for agent review and editing"
+  ],
+  "stars": 9057,
+  "starsToday": 123,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-09T01:08:19.775Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "fed96c7d-91f1-4d6a-9fc0-f23c76ea54d9",
+  "repo": "ajeetdsouza/zoxide",
+  "url": "https://github.com/ajeetdsouza/zoxide",
+  "category": "CLI Tool",
+  "summary": "Thay thế lệnh cd mặc định, nhớ và dự đoán đường dẫn thư mục để tăng tốc làm việc trên các shell chính.",
+  "usecases": [
+    "Nhảy nhanh đến thư mục dự án chỉ bằng từ khóa ngắn.",
+    "Tích hợp với fzf để chọn thư mục tương tác qua menu.",
+    "Tối ưu hóa luồng làm việc cho developers chuyển giữa nhiều thư mục liên tục."
+  ],
+  "ideas": [
+    "Phát triển plugin cho Windows Terminal và macOS Terminal có giao diện đồ họa.",
+    "Tạo tính năng đồng bộ lịch sử thư mục qua đám mây giữa các máy.",
+    "Tích hợp với trình quản lý phiên (version manager) để tự động chuyển đổi môi trường."
+  ],
+  "stars": 39981,
+  "starsToday": 30,
+  "language": "Rust",
+  "topics": [
+    "z",
+    "command-line",
+    "rust",
+    "zsh",
+    "autojump",
+    "bash",
+    "powershell",
+    "shell",
+    "fish",
+    "xonsh",
+    "xontrib",
+    "fzf",
+    "fasd",
+    "jump",
+    "command-line-tool",
+    "cli",
+    "nushell",
+    "elvish",
+    "fish-shell",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-09T01:08:19.775Z"
+}

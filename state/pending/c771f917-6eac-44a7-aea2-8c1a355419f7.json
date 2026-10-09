@@ -1,0 +1,29 @@
+{
+  "id": "c771f917-6eac-44a7-aea2-8c1a355419f7",
+  "repo": "davidmonterocrespo24/velxio",
+  "url": "https://github.com/davidmonterocrespo24/velxio",
+  "category": "Embedded/IoT",
+  "summary": "Velxio là trình mô phỏng phần cứng chạy trên trình duyệt, cho phép viết, biên dịch và chạy mã trên nhiều bo mạch Arduino, ESP32 và Raspberry Pi mà không cần phần cứng thực.",
+  "usecases": [
+    "Học lập trình nhúng và thử nghiệm mã trước khi triển khai trên bo mạch thực.",
+    "Giảng dạy trong lớp học về vi điều khiển mà không cần thiết bị phần cứng.",
+    "Kiểm tra và debug mã cho các dự án IoT trước khi sản xuất."
+  ],
+  "ideas": [
+    "Tích hợp với CI/CD để chạy tự động các test trên các bo mạch ảo trước khi triển khai.",
+    "Phát triển cộng đồng chia sẻ các dự án mô phỏng và template code.",
+    "Kết hợp với môi trường IDE như VS Code để biên dịch và debug trực tiếp trong trình duyệt."
+  ],
+  "stars": 3119,
+  "starsToday": 43,
+  "language": "TypeScript",
+  "topics": [
+    "arduino",
+    "esp32",
+    "simulation",
+    "wokwi",
+    "velxio"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-09T01:08:19.775Z"
+}

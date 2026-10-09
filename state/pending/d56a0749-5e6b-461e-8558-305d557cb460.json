@@ -1,0 +1,37 @@
+{
+  "id": "d56a0749-5e6b-461e-8558-305d557cb460",
+  "repo": "invoke-ai/InvokeAI",
+  "url": "https://github.com/invoke-ai/InvokeAI",
+  "category": "AI/LLM",
+  "summary": "Invoke là một động cơ sáng tạo hàng đầu cho các mô hình Stable Diffusion, cho phép chuyên gia, nghệ sĩ và fan tạo ra các tác phẩm hình ảnh sử dụng công nghệ AI tiên tiến, với WebUI chuyên nghiệp và nền tảng cho nhiều sản phẩm thương mại.",
+  "usecases": [
+    "Sinh ảnh từ văn bản (txt2img) cho các dự án thiết kế đồ họa.",
+    "Sửa đổi và inpainting ảnh hiện có (img2img/inpainting) cho chỉnh sửa sáng tạo.",
+    "Tích hợp vào sản phẩm thương mại hoặc quy trình tự động hóa tạo hình ảnh."
+  ],
+  "ideas": [
+    "Kết hợp với voice control để tạo ảnh bằng lệnh thoại.",
+    "Tạo plugin cho Photoshop/Figma để truy cập InvokeAI trực tiếp.",
+    "Xây dựng hệ thống tự động tạo thumbnail cho blog/video sử dụng InvokeAI backend."
+  ],
+  "stars": 28475,
+  "starsToday": 41,
+  "language": "TypeScript",
+  "topics": [
+    "ai-art",
+    "artificial-intelligence",
+    "generative-art",
+    "image-generation",
+    "img2img",
+    "inpainting",
+    "latent-diffusion",
+    "linux",
+    "macos",
+    "outpainting",
+    "txt2img",
+    "windows",
+    "stable-diffusion"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-09T01:08:19.775Z"
+}

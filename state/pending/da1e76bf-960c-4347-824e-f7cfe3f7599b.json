@@ -1,0 +1,43 @@
+{
+  "id": "da1e76bf-960c-4347-824e-f7cfe3f7599b",
+  "repo": "dyad-sh/dyad",
+  "url": "https://github.com/dyad-sh/dyad",
+  "category": "Developer Tool",
+  "summary": "Dyad là một ứng dụng builder AI nguồn mở và chạy cục bộ, giúp người dùng quyền lực nhanh chóng xây dựng các ứng dụng AI bằng cách kết hợp nhiều LLM provider, với giao diện dựa trên Next.js và React.",
+  "usecases": [
+    "Tạo nhanh prototype cho các ứng dụng AI generative mà không cần viết code backend phức tạp.",
+    "Xây dựng các công cụ nội bộ cho công ty sử dụng các LLM provider khác nhau (OpenAI, Anthropic, Gemini) trong môi trường local.",
+    "Thay thế cho các nền tảng thương mại như v0/Lovable trong phát triển ứng dụng AI nhanh."
+  ],
+  "ideas": [
+    "Tích hợp Dyad với các thiết bị IoT cục bộ để tạo các ứng trí AI chạy hoàn toàn offline.",
+    "Xây dựng marketplace plugin cho Dyad cho phép người dùng chia sẻ và cài đặt các template app AI.",
+    "Sử dụng Dyad làm nền tảng cho các khóa học học AI hands-on, cho sinh viên tự xây dựng app trong vài giờ."
+  ],
+  "stars": 21779,
+  "starsToday": 37,
+  "language": "TypeScript",
+  "topics": [
+    "ai-app-builder",
+    "bolt",
+    "lovable",
+    "v0",
+    "anthropic",
+    "artificial-intelligence",
+    "deepseek",
+    "gemini",
+    "generative-ai",
+    "github",
+    "llm",
+    "llms",
+    "nextjs",
+    "ollama",
+    "openai",
+    "qwen",
+    "react",
+    "typescript",
+    "vercel"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-09T01:08:19.775Z"
+}

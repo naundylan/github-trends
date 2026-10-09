@@ -1,0 +1,30 @@
+{
+  "id": "4325b5fb-6da4-4ab5-9e88-6c67dc741205",
+  "repo": "tailscale/tailscale",
+  "url": "https://github.com/tailscale/tailscale",
+  "category": "Networking",
+  "summary": "Mạng VPN an toàn sử dụng WireGuard để kết nối các thiết bị, server và container một cách riêng tư.",
+  "usecases": [
+    "Truy cập an toàn vào môi trường phát triển từ xa",
+    "Kết nối microservices trên nhiều nhà cung cấp cloud",
+    "Chia sẻ file an toàn giữa thiết bị cá nhân và công sở"
+  ],
+  "ideas": [
+    "Mạng lưới mesh cho thiết bị IoT",
+    "Mô hình zero-trust cho công cụ nội bộ công ty",
+    "Tích hợp với Kubernetes cho khả năng service mesh"
+  ],
+  "stars": 37279,
+  "starsToday": 46,
+  "language": "Go",
+  "topics": [
+    "wireguard",
+    "oauth",
+    "sso",
+    "2fa",
+    "vpn",
+    "tailscale"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-09T01:08:19.775Z"
+}
