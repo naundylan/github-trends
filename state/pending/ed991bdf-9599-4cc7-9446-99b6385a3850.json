@@ -1,0 +1,32 @@
+{
+  "id": "ed991bdf-9599-4cc7-9446-99b6385a3850",
+  "repo": "pytorch/pytorch",
+  "url": "https://github.com/pytorch/pytorch",
+  "category": "AI/LLM",
+  "summary": "PyTorch là framework nguồn mở cho học máy và học sâu, cung cấp tensor computation và GPU acceleration để training và inference các mạng neural.",
+  "usecases": [
+    "Training và fine-tuning các mô hình ngôn ngữ (LLM)",
+    "Nghiên cứu và phát triển các architecture neural networks mới",
+    "Computer vision tasks như detection, segmentation với torchvision"
+  ],
+  "ideas": [
+    "Kết hợp với LangGraph để xây dựng các pipeline AI động",
+    "Phát triển nền tảng edge AI inference trên thiết bị di động",
+    "Sử dụng trong các hệ thống recommendation engine cho e-commerce"
+  ],
+  "stars": 104026,
+  "starsToday": 81,
+  "language": "Python",
+  "topics": [
+    "neural-network",
+    "autograd",
+    "gpu",
+    "numpy",
+    "deep-learning",
+    "tensor",
+    "python",
+    "machine-learning"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-10T11:52:08.376Z"
+}

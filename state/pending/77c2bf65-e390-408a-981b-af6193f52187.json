@@ -1,0 +1,38 @@
+{
+  "id": "77c2bf65-e390-408a-981b-af6193f52187",
+  "repo": "GLinnik21/plx-native",
+  "url": "https://github.com/GLinnik21/plx-native",
+  "category": "Embedded/IoT",
+  "summary": "Một ứng dụng khách Plex không chính thức, tốc độ cao dành cho TV webOS của LG, được viết bằng Rust, mang lại giao diện người dùng native 60 fps, hỗ trợ phát video 4K HEVC/Dolby Vision mà không cần Chromium hay WebView.",
+  "usecases": [
+    "Xem nội dung Plex trên TV thông minh LG mà không cần thiết bị ngoại vi.",
+    "Tận dụng khả năng giải mã phần cứng native để phát video 4K với tốc độ khung hình cao.",
+    "Tích hợp với các ứng dụng webOS-homebrew để mở rộng chức năng."
+  ],
+  "ideas": [
+    "Thêm hỗ trợ cho các giao thức streaming khác (ví dụ: Jellyfin) để mở rộng khả năng tương thích.",
+    "Tích hợp điều khiển bằng giọng nói thông qua API webOS để điều hướng dễ dàng hơn.",
+    "Xây dựng một cửa hàng plugin cho phép người dùng mở rộng chức năng của trình phát."
+  ],
+  "stars": 514,
+  "starsToday": 167,
+  "language": "Rust",
+  "topics": [
+    "ffmpeg",
+    "lg-webos",
+    "media-player",
+    "opengl-es",
+    "plex",
+    "plex-client",
+    "rust",
+    "sdl2",
+    "smart-tv",
+    "video-player",
+    "webos",
+    "webos-application",
+    "webos-homebrew",
+    "webos-tv"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-10T11:52:08.376Z"
+}

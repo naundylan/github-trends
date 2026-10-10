@@ -1,0 +1,44 @@
+{
+  "id": "b7645e89-d4a0-472a-b652-a3b041f98299",
+  "repo": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "category": "AI/LLM",
+  "summary": "Open-source, local-first alternative to ElevenLabs for AI voice cloning, dubbing, transcription, and audiobook creation across 646 languages.",
+  "usecases": [
+    "Local voice cloning for privacy-sensitive applications",
+    "Programmatic video dubbing and multilingual content localization",
+    "Offline text-to-speech and transcription workflows for content creators"
+  ],
+  "ideas": [
+    "Integrate with local LLMs for interactive AI assistants with custom voices",
+    "Build a desktop app for generating audiobooks from text files using cloned voices",
+    "Combine with speech-to-text pipelines for real-time multilingual conversation translation"
+  ],
+  "stars": 56792,
+  "starsToday": 1066,
+  "language": "Python",
+  "topics": [
+    "tts",
+    "voice-cloning",
+    "voice-generation",
+    "voice-ai",
+    "ai",
+    "cuda",
+    "mlx",
+    "huggingface",
+    "transcription",
+    "translate",
+    "workflow",
+    "omnivoice-studio",
+    "dubbing",
+    "audiobook",
+    "elevenlabs-alternative",
+    "local-first",
+    "speech-to-text",
+    "tauri",
+    "text-to-speech",
+    "voicestudio"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-10T11:52:08.376Z"
+}

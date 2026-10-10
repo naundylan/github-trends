@@ -1,0 +1,36 @@
+{
+  "id": "136baa98-33fd-4049-9046-6cb0c8d505dc",
+  "repo": "BitterSecurity/Decepticon",
+  "url": "https://github.com/BitterSecurity/Decepticon",
+  "category": "Security/Pentest",
+  "summary": "Decepticon là agent tự động cho red team, sử dụng LLM và AI để thực hiện penetration testing, exploit testing và các tác vụ hacking tự động.",
+  "usecases": [
+    "Tự động hóa reconnaissance và vulnerability scanning cho red team",
+    "Thực hiện exploit testing tự động dựa trên ngữ cảnh",
+    "Giúp tạo payloads và test vecteur attack một cách lập lịch"
+  ],
+  "ideas": [
+    "Kết hợp với các framework bảo mật khác để tạo platform comprehensive cho penetration testing",
+    "Phát triển module blue team để phát hiện và phản ứng với attack do agent tạo ra",
+    "Sử dụng trong training simulations cho chuyên gia bảo mật mới"
+  ],
+  "stars": 5786,
+  "starsToday": 80,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "cybersecurity",
+    "hacking",
+    "langchain",
+    "langgraph",
+    "llm",
+    "generative-ai",
+    "pentesting",
+    "pentest",
+    "ai-penetration-testing",
+    "autonomous-exploit-testing"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-10T11:52:08.376Z"
+}

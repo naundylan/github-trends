@@ -1,0 +1,27 @@
+{
+  "id": "fd6024e1-f66c-41bc-a9a5-b729fad5685f",
+  "repo": "remotion-dev/remotion",
+  "url": "https://github.com/remotion-dev/remotion",
+  "category": "Web Frontend",
+  "summary": "React library for programmatically generating and rendering videos through code.",
+  "usecases": [
+    "Generating personalized video content for marketing campaigns at scale",
+    "Automating video production for game highlights or sports recaps from data feeds",
+    "Building internal tools for creating dynamic UI walkthroughs or tutorial videos"
+  ],
+  "ideas": [
+    "Combine with AI text generation to auto-create video scripts and visuals",
+    "Integrate with real-time data streams to produce live-update videos (e.g., stock tickers, weather)",
+    "Use as a headless rendering engine for CI/CD-based video generation in deployment pipelines"
+  ],
+  "stars": 62966,
+  "starsToday": 288,
+  "language": "TypeScript",
+  "topics": [
+    "react",
+    "video",
+    "javascript"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-10T11:52:08.376Z"
+}

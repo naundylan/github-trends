@@ -1,0 +1,23 @@
+{
+  "id": "4b319201-31a9-45c4-bdfb-787361ccc769",
+  "repo": "microsoft/TRELLIS.2",
+  "url": "https://github.com/microsoft/TRELLIS.2",
+  "category": "AI/LLM",
+  "summary": "Mô hình tạo 3D sinh học(Native and Compact Structured Latents) tối ưu hóa kích thước và chất lượng latent representation cho generative 3D generation.",
+  "usecases": [
+    "Tạo asset 3D tự động cho game và ứng dụng VR/AR từ text hoặc hình ảnh",
+    "Hỗ trợ sản xuất nội dung 3D trong thiết kế sản phẩm và không gian ảo",
+    "Tích hợp vào pipeline rendering để giảm kích thước file và tăng tốc độ load"
+  ],
+  "ideas": [
+    "Kết hợp với text-to-3D cho phép tạo nhân vật/game qua prompt tự nhiên",
+    "Sử dụng làm foundation model cho métaverse và digital twin",
+    "Phát triển phiên bản lightweight cho mobile/embedded 3D rendering"
+  ],
+  "stars": 11726,
+  "starsToday": 207,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-10T11:52:08.376Z"
+}
