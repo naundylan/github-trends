@@ -1,0 +1,23 @@
+{
+  "id": "cb9db9cd-1ee8-4d2c-a77b-aa116066b26f",
+  "repo": "chaolucky18/xuexitongScript",
+  "url": "https://github.com/chaolucky18/xuexitongScript",
+  "category": "CLI Tool",
+  "summary": "xuexitongScript là script tự động viết bằng JavaScript để tự động hóa quá trình học tập trên nền tảng Xuexitong, giúp hoàn thành các yêu cầu học tập theo thời gian.",
+  "usecases": [
+    "Tự động hoàn thành bài học và bài kiểm tra trên Xuexitong mà không can thiệp thủ công",
+    "Lên lịch định thời chạy script để theo dõi tiến độ học tập hàng ngày",
+    "Giảm tải cho sinh viên trong quản lý các nhiệm vụ học tập trên nền tảng giáo dục online"
+  ],
+  "ideas": [
+    "Tích hợp thông báo đẩy (push notification) để cảnh báo khi nhiệm vụ hôm hoàn thành",
+    "Phát triển giao diện web đơn giản để theo dõi lịch sử chạy script và kết quả",
+    "Kết hợp API Xuexitong để tùy chỉnh các yêu cầu học tập nâng cao"
+  ],
+  "stars": 2764,
+  "starsToday": 21,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-10T03:44:08.434Z"
+}

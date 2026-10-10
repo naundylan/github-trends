@@ -1,0 +1,41 @@
+{
+  "id": "32a40990-79cf-4042-9042-def13a261352",
+  "repo": "apify/crawlee",
+  "url": "https://github.com/apify/crawlee",
+  "category": "Developer Tool",
+  "summary": "Thư viện scraping và tự động hóa trình duyệt cho Node.js, giúp xây dựng các crawler đáng tin cậy để trích xuất dữ liệu cho AI, LLM hoặc RAG, hỗ trợ nhiều trình duyệt và xoay vòng proxy.",
+  "usecases": [
+    "Trích xuất dữ liệu từ web để huấn luyện hoặc cung cấp cho các mô hình LLM (RAG, fine-tuning).",
+    "Tự động thu thập nội dung sản phẩm, tin tức hoặc dữ liệu cấu trúc cho các ứng dụng dữ liệu.",
+    "Tạo nội dung tự động hoặc theo dõi thay đổi trang web trong thời gian thực."
+  ],
+  "ideas": [
+    "Kết hợp với các vector database (Chroma, Pinecone) để xây dựng pipeline RAG hoàn toàn tự động.",
+    "Thêm tính năng tự động giải quyết CAPTCHA và xoay proxy địa lý cho scraping quy mô lớn.",
+    "Phát triển module tích hợp với LangChain để tự động hóa các tác vụ AI dựa trên dữ liệu web."
+  ],
+  "stars": 26092,
+  "starsToday": 15,
+  "language": "TypeScript",
+  "topics": [
+    "web-scraping",
+    "web-crawling",
+    "npm",
+    "headless-chrome",
+    "puppeteer",
+    "automation",
+    "apify",
+    "scraping",
+    "crawling",
+    "crawler",
+    "headless",
+    "scraper",
+    "web-crawler",
+    "javascript",
+    "nodejs",
+    "playwright",
+    "typescript"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-10T03:44:08.434Z"
+}

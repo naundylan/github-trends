@@ -1,0 +1,23 @@
+{
+  "id": "a760b985-ec33-4b40-997b-03038694fb0f",
+  "repo": "fish2018/pansou",
+  "url": "https://github.com/fish2018/pansou",
+  "category": "API/GraphQL",
+  "summary": "Pansou la dich vu API cao hieu suet de tim kiem tai nguyen mang luu tru, ho tro nhieu kenh Telegram va plugin, phan loai ket qua va tim kiem song phan.",
+  "usecases": [
+    "Tìm kiếm và truy cập tài liệu, hình ảnh hoặc file từ nhiều dịch vụ mạng lưu trữ khác nhau thông qua một điểm truy cập duy nhất.",
+    "Tích hợp vào các ứng dụng client hoặc bot Telegram để cung cấp khả năng tìm file tức thời.",
+    "Sử dụng làm công cụ nội bộ cho các team cần quản lý và tìm kiếm nhanh các file trên các nền tảng cloud khác nhau."
+  ],
+  "ideas": [
+    "Phát triển một dashboard web quản lý kết quả tìm kiếm với bộ lọc nâng cao và lịch sử.",
+    "Kết hợp với hệ thống phân tích dữ liệu để theo dõi xu hướng tải file phổ biến.",
+    "Triển khai làm dịch vụ tìm kiếm file đa-tenant cho các doanh nghiệp sử dụng nhiều cloud storage."
+  ],
+  "stars": 14851,
+  "starsToday": 17,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-10T03:44:08.434Z"
+}

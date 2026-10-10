@@ -1,0 +1,44 @@
+{
+  "id": "dc01ad34-4da7-420d-a4d9-00b22ed0d166",
+  "repo": "XTLS/Xray-core",
+  "url": "https://github.com/XTLS/Xray-core",
+  "category": "Networking",
+  "summary": "Xray-core là nền tảng mã nguồn mở cho các giao thức mạng proxy, cung cấp tốc độ cao và khả năng vượt qua kiểm soát cenzus với nhiều giao thức như VLESS, VMESS, Trojan và Reality.",
+  "usecases": [
+    "Tạo VPN riêng tư để truy cập an toàn trên mạng công cộng",
+    "Bypass cenzus và truy cập nội dung bị hạn chế địa lý",
+    "Tối ưu hóa và bảo mật lưu lượng mạng với các giao thức mã hóa hiện đại"
+  ],
+  "ideas": [
+    "Kết hợp với DNS-over-HTTPS (DoH) để tăng cường quyền riêng tư mạng",
+    "Phát triển plugin cho các client v2rayNG hoặc Clash để hỗ trợ giao thức mới",
+    "Sử dụng cho mạng nội bộ (intranet) với giao thức WireGuard hoặc XTLS để truy cập tài nguyên từ xa an toàn"
+  ],
+  "stars": 42025,
+  "starsToday": 24,
+  "language": "Go",
+  "topics": [
+    "xray",
+    "vless",
+    "tunnel",
+    "anticensorship",
+    "vmess",
+    "network",
+    "shadowsocks",
+    "trojan",
+    "proxy",
+    "xtls",
+    "socks5",
+    "reality",
+    "xudp",
+    "wireguard",
+    "dns",
+    "utls",
+    "vpn",
+    "tls",
+    "vision",
+    "xhttp"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-10T03:44:08.434Z"
+}

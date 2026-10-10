@@ -1,0 +1,35 @@
+{
+  "id": "5fb4b6b6-ea2f-48c4-a090-a58a194b66ae",
+  "repo": "songquanpeng/one-api",
+  "url": "https://github.com/songquanpeng/one-api",
+  "category": "API/GraphQL",
+  "summary": "Hệ thống quản lý và phân phối API LLM, đồng nhất truy cập các mô hình như OpenAI, Claude, Gemini v.v. thông qua một giao diện API duy nhất, hỗ trợ triển khai đơn tệp và Docker.",
+  "usecases": [
+    "Quản lý và phân phối khóa API cho nhiều provider LLM trong một dự án.",
+    "Đồng nhất giao diện gọi API cho các mô hình khác nhau, dễ chuyển đổi giữa các provider.",
+    "Triển khai nhanh làm gateway cho ứng dụng AI nội bộ hoặc sản phẩm thương mại."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống theo dõi chi phí để tự động chuyển đổi provider dựa trên giá/tốc độ.",
+    "Thêm hỗ trợ cho các mô hình cục bộ (local LLMs) thông qua Ollama/vLLM.",
+    "Phát triển UI quản lý đa tài khoản cho các doanh nghiệp sử dụng nhiều dự án LLM."
+  ],
+  "stars": 37108,
+  "starsToday": 16,
+  "language": "JavaScript",
+  "topics": [
+    "openai-api",
+    "proxy",
+    "chatgpt",
+    "gpt",
+    "openai",
+    "api",
+    "api-gateway",
+    "azure-openai-api",
+    "claude",
+    "ernie-bot",
+    "gemini"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-10T03:44:08.434Z"
+}

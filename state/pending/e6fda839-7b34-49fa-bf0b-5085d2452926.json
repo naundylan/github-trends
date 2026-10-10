@@ -1,0 +1,23 @@
+{
+  "id": "e6fda839-7b34-49fa-bf0b-5085d2452926",
+  "repo": "Tencent-Hunyuan/Hy-MT2",
+  "url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
+  "category": "AI/LLM",
+  "summary": "Mô hình ngôn ngữ Hunyuan Hy-MT2 từ Tencent có khả năng xử lý đa nhiệm, hỗ trợ tạo nội dung, trả lời câu hỏi và trích xuất thông tin cho các ứng dụng AI.",
+  "usecases": [
+    "Chatbot hỗ trợ khách hàng cho doanh nghiệp với khả năng hiểu tiếng Việt và tiếng Trung",
+    "Trợ lý viết code và tạo nội dung tự động cho các dự án phát triển phần mềm",
+    "Phân tích và tóm tắt tài liệu lớn cho nghiên cứu hoặc báo cáo"
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu doanh nghiệp để tạo trợ lý nội bộ tùy chỉnh",
+    "Sử dụng cho tạo nội dung đa ngôn ngữ tự động giữa Việt, Trung, Anh",
+    "Phát triển ứng dụng AI tạo hình ảnh hoặc video từ dựa trên hiểu ngữ言语 của mô hình"
+  ],
+  "stars": 1198,
+  "starsToday": 114,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-10T03:44:08.434Z"
+}
