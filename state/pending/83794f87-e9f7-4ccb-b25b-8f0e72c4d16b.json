@@ -1,0 +1,33 @@
+{
+  "id": "83794f87-e9f7-4ccb-b25b-8f0e72c4d16b",
+  "repo": "BrandonKowalski/slot",
+  "url": "https://github.com/BrandonKowalski/slot",
+  "category": "Embedded/IoT",
+  "summary": "Slot là firmware tùy chỉnh (CFW) dành cho thiết bị handheld RG SP, tập trung vào Game Boy emulation và trải nghiệm chơi game rétro.",
+  "usecases": [
+    "Chơi các trò chơi Game Boy/GBA trên hardware RG SP",
+    "Tùy chỉnh và patch firmware cho hiệu năng game",
+    "Phát triển homebrew games chạy trên nền firmware tùy chỉnh"
+  ],
+  "ideas": [
+    "Port các trò chơi indie hiện đại để chạy trên firmware CFW",
+    "Tạo giao diện tùy chỉnh cho thư viện game riêng",
+    "Kết hợp với mạng lưới phát tán game (online multiplayer) trên thiết bị handheld"
+  ],
+  "stars": 107,
+  "starsToday": 19,
+  "language": "Rust",
+  "topics": [
+    "anbernic",
+    "emulation",
+    "gba",
+    "mgba",
+    "retrogaming",
+    "anbernic-rg-sp",
+    "gb",
+    "gbc",
+    "gpsp"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-10T21:06:24.183Z"
+}

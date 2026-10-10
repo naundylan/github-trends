@@ -1,0 +1,34 @@
+{
+  "id": "4f55c9ce-d814-4490-a0a7-99d86b01ad42",
+  "repo": "zenbu-labs/terminal-browser",
+  "url": "https://github.com/zenbu-labs/terminal-browser",
+  "category": "Developer Tool",
+  "summary": "Terminal-browser là trình duyệt web tích hợp trực tiếp vào terminal, cho phép duyệt web và tương tác với trang web qua dòng lệnh mà không cần giao diện đồ họa.",
+  "usecases": [
+    "Duyệt web trên server headless không có giao diện đồ họa.",
+    "Phát triển và test ứng dụng web trực tiếp trong môi trường terminal.",
+    "Tương tác với dịch vụ web qua CLI cho các nhà phát triển quen với terminal."
+  ],
+  "ideas": [
+    "Kết hợp AI để điều khiển browser bằng lệnh voice hoặc text trong terminal.",
+    "Sử dụng cho scraping tự động headless trực tiếp từ terminal.",
+    "Tạo terminal browser cá nhân hóa cho môi trường làm việc chuyên biệt."
+  ],
+  "stars": 3784,
+  "starsToday": 26,
+  "language": "TypeScript",
+  "topics": [
+    "browser",
+    "cli",
+    "rust",
+    "terminal",
+    "web",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "herdr-plugin",
+    "claude-code-plugin"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-10T21:06:24.183Z"
+}

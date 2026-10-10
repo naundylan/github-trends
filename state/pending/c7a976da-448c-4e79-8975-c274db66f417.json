@@ -1,0 +1,38 @@
+{
+  "id": "c7a976da-448c-4e79-8975-c274db66f417",
+  "repo": "GLinnik21/plx-native",
+  "url": "https://github.com/GLinnik21/plx-native",
+  "category": "Desktop App",
+  "summary": "Ứng dụng client Plex unofficial cho TV LG webOS, cung cấp giao diện native 60fps và hỗ trợ video 4K HEVC/Dolby Vision mà không cần Chromium hay WebView.",
+  "usecases": [
+    "Chơi nội dung media từ Plex server lên TV LG webOS với hiệu suất cao",
+    "Trải nghiệm xem phim 4K Dolby Vision mượt mà trên TV thông minh",
+    "Phát triển ứng dụng media player tùy chỉnh cho hệ điều hành LG webOS"
+  ],
+  "ideas": [
+    "Thêm hỗ trợ cho các định dạng media khác ngoài Plex",
+    "Tích hợp tính năng điều khiển bằng giọng nói hoặc cử chỉ",
+    "Phát triển phiên bản mở rộng cho các thương hiệu TV thông minh khác"
+  ],
+  "stars": 535,
+  "starsToday": 167,
+  "language": "Rust",
+  "topics": [
+    "ffmpeg",
+    "lg-webos",
+    "media-player",
+    "opengl-es",
+    "plex",
+    "plex-client",
+    "rust",
+    "sdl2",
+    "smart-tv",
+    "video-player",
+    "webos",
+    "webos-application",
+    "webos-homebrew",
+    "webos-tv"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-10T21:06:24.183Z"
+}

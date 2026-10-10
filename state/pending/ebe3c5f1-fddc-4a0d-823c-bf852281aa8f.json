@@ -1,0 +1,23 @@
+{
+  "id": "ebe3c5f1-fddc-4a0d-823c-bf852281aa8f",
+  "repo": "chaolucky18/xuexitongScript",
+  "url": "https://github.com/chaolucky18/xuexitongScript",
+  "category": "CLI Tool",
+  "summary": "Script JavaScript tự động hóa việc học và刷课 (auto-study) trên nền tảng Xuexitong, giúp người dùng tiết kiệm thời gian theo dõi tiến độ học tập.",
+  "usecases": [
+    "Tự động hoàn thành các bài học và ghi điểm cho sinh viên trên Xuexitong.",
+    "Tăng tốc độ duyệt các tài liệu học tập theo lịch trình định sẵn.",
+    "Giúp giảng viên theo dõi tiến độ học tập của lớp một cách tự động."
+  ],
+  "ideas": [
+    "Điều chỉnh script để hỗ trợ đa ngôn ngữ cho sinh viên quốc tế trên Xuexitong.",
+    "Kết hợp với báo cáo gia đình để gửi tự động tiến độ học tập cho phụ huynh.",
+    "Mở rộng script để tự động thi trắc nghiệm và đánh giá trên nền tảng học tập."
+  ],
+  "stars": 2782,
+  "starsToday": 27,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-10T21:06:24.183Z"
+}

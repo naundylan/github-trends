@@ -1,0 +1,23 @@
+{
+  "id": "9748ab2e-eb27-4fa4-a1c0-a0dbf724670b",
+  "repo": "microsoft/TRELLIS.2",
+  "url": "https://github.com/microsoft/TRELLIS.2",
+  "category": "AI/LLM",
+  "summary": "Dự án tạo ra các latent có cấu trúc và nhẹ cho việc sinh thành 3D, cho phép tạo hình 3D nhanh và hiệu quả với chất lượng cao.",
+  "usecases": [
+    "Sinh thành hình 3D tự động từ hình ảnh hoặc văn bản",
+    "Tạo nội dung 3D cho game, film, và thựcitäten ảo",
+    "Xây dựng ứng dụng trực quan hóa dữ liệu 3D trong thời gian thực"
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình AI sinh văn bản để tạo 3D từ mô tả văn bản",
+    "Tích hợp vào các công cụ thiết kế CAD để tự động hóa tạo mô hình",
+    "Phát triển ứng dụng mobile để tạo 3D từ ảnh chụp nhanh"
+  ],
+  "stars": 11775,
+  "starsToday": 207,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-10T21:06:24.183Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "da92ccaa-d859-485b-bee0-08428ca92834",
+  "repo": "BitterSecurity/Decepticon",
+  "url": "https://github.com/BitterSecurity/Decepticon",
+  "category": "Other",
+  "summary": "Autonomous Hacking Agent for Red Team",
+  "usecases": [
+    "Khám phá và đánh giá BitterSecurity/Decepticon cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 5829,
+  "starsToday": 80,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "cybersecurity",
+    "hacking",
+    "langchain",
+    "langgraph",
+    "llm",
+    "generative-ai",
+    "pentesting",
+    "pentest",
+    "ai-penetration-testing",
+    "autonomous-exploit-testing"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-10T21:06:24.183Z"
+}

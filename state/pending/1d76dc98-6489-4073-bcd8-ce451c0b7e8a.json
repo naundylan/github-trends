@@ -1,0 +1,32 @@
+{
+  "id": "1d76dc98-6489-4073-bcd8-ce451c0b7e8a",
+  "repo": "tensorflow/tensorflow",
+  "url": "https://github.com/tensorflow/tensorflow",
+  "category": "Machine Learning",
+  "summary": "TensorFlow là khung mã nguồn mở cho Machine Learning, cho phép phát triển, huấn luyện và triển khai các mô hình học máy sâu trên nhiều nền tảng và thiết bị.",
+  "usecases": [
+    "Huấn luyện các mô hình nhận diện hình ảnh và giọng nói.",
+    "Xây dựng và triển khai ứng dụng AI trên mobile và web.",
+    "Nghiên cứu và triển khai các mô hình phân tán trên đám mây."
+  ],
+  "ideas": [
+    "Kết hợp với edge computing để triển khai AI trên thiết bị IoT.",
+    "Sử dụng cho generative AI tạo nội dung đa phương tiện.",
+    "Phát triển mô hình dự báo thời tiết hoặc tài chính dựa trên dữ liệu thời gian thực."
+  ],
+  "stars": 200694,
+  "starsToday": 24,
+  "language": "C++",
+  "topics": [
+    "tensorflow",
+    "machine-learning",
+    "python",
+    "deep-learning",
+    "deep-neural-networks",
+    "neural-network",
+    "ml",
+    "distributed"
+  ],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-10-10T21:06:24.183Z"
+}

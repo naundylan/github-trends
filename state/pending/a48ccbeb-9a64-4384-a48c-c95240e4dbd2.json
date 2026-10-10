@@ -1,0 +1,31 @@
+{
+  "id": "a48ccbeb-9a64-4384-a48c-c95240e4dbd2",
+  "repo": "gin-gonic/gin",
+  "url": "https://github.com/gin-gonic/gin",
+  "category": "Web Framework",
+  "summary": "Gin là một framework HTTP cao hiệu cho Go, được thiết kế để xây dựng REST APIs, ứng dụng web và microservices với tốc độ vượt trội và cơ cấu nhẹ.",
+  "usecases": [
+    "Xây dựng API REST cho ứng dụng di động",
+    "Phát triển microservices với routing nhanh và middleware",
+    "Tạo web server cho các ứng dụng thời gian thực"
+  ],
+  "ideas": [
+    "Kết hợp với Docker để deploy microservices nhanh chóng",
+    "Sử dụng làm nền tảng cho các hệ thống theo dõi thời gian thực",
+    "Tích hợp các middleware bảo mật cho các endpoint API"
+  ],
+  "stars": 89304,
+  "starsToday": 24,
+  "language": "Go",
+  "topics": [
+    "server",
+    "middleware",
+    "framework",
+    "go",
+    "router",
+    "performance",
+    "gin"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-10T21:06:24.183Z"
+}
