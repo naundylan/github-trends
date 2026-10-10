@@ -1,0 +1,30 @@
+{
+  "id": "b77f8a5f-ece4-440b-8bca-1e1fbdf33c1f",
+  "repo": "chinese-poetry/chinese-poetry",
+  "url": "https://github.com/chinese-poetry/chinese-poetry",
+  "category": "Database",
+  "summary": "Kho dữ liệu toàn diện nhất về thơ cổ Trung Hoa, chứa gần 5.500 thơ Tang và 26.000 thơ Song, cùng với thông tin các nhà thơ và tác phẩm.",
+  "usecases": [
+    "Tìm kiếm và phân tích thơ cổ Trung Hoa",
+    "Phát triển ứng dụng giáo dục hoặc văn hóa về văn hóa Trung Hoa",
+    "Xử lý dữ liệu văn thơ cho ứng dụng AI và NLP"
+  ],
+  "ideas": [
+    "Ứng dụng mobile đọc thơ ngẫu nhiên với bộ lọc dynasty và tác giả",
+    "API cung cấp thư viện thơ cho nền tảng nội dung",
+    "Kết hợp AI tạo thơ dựa trên phong cách dữ liệu trong database"
+  ],
+  "stars": 53641,
+  "starsToday": 29,
+  "language": "JavaScript",
+  "topics": [
+    "json",
+    "chinese",
+    "poetry",
+    "ci",
+    "tangshi",
+    "chinese-poetry"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-10-10T16:53:26.592Z"
+}

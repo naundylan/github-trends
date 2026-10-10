@@ -1,0 +1,29 @@
+{
+  "id": "e15fb3e2-4fec-4cf3-99f7-ad6f4a010a7c",
+  "repo": "greensock/GSAP",
+  "url": "https://github.com/greensock/GSAP",
+  "category": "Web Frontend",
+  "summary": "thư viện animation JavaScript cho web, cho phép tạo animation cao performance dựa trên timeline",
+  "usecases": [
+    "animation khi scroll cho storytelling web",
+    "micro-interactions cho UI components",
+    "animation cho banner và quảng cáo online"
+  ],
+  "ideas": [
+    "kết hợp với Three.js để điều khiển animation 3D",
+    "sử dụng trong React Server Components tránh layout shift",
+    "ap dụng cho desktop apps Electron"
+  ],
+  "stars": 29012,
+  "starsToday": 57,
+  "language": "JavaScript",
+  "topics": [
+    "animation",
+    "gsap",
+    "javascript",
+    "javascript-library",
+    "scroll"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-10T16:53:26.592Z"
+}

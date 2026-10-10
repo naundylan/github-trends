@@ -1,0 +1,29 @@
+{
+  "id": "a13ad924-dd97-4ee4-908d-ef45c6e2e1e8",
+  "repo": "docker/compose",
+  "url": "https://github.com/docker/compose",
+  "category": "DevOps/CI-CD",
+  "summary": "Docker Compose cho phép định nghĩa và chạy ứng dụng đa-container một cách dễ dàng sử dụng file cấu hình YAML, thay thế các lệnh docker phức tạp.",
+  "usecases": [
+    "Orchestrate local development environments with multiple services (database, cache, web server).",
+    "Define reproducible CI/CD pipelines with dependent services.",
+    "Simplify testing of microservices with all dependencies up in one command."
+  ],
+  "ideas": [
+    "Combine with Terraform for complete infrastructure as code management.",
+    "Create automated dev environments on cloud (AWS/EKS) from compose files.",
+    "Use for edge computing orchestration with lightweight containers."
+  ],
+  "stars": 38346,
+  "starsToday": 50,
+  "language": "Go",
+  "topics": [
+    "docker",
+    "docker-compose",
+    "orchestration",
+    "go",
+    "golang"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-10T16:53:26.592Z"
+}

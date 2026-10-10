@@ -1,0 +1,28 @@
+{
+  "id": "b2bc7c5a-de85-4986-9107-4dd439ebd6cb",
+  "repo": "denoland/deno",
+  "url": "https://github.com/denoland/deno",
+  "category": "Developer Tool",
+  "summary": "runtime hiện đại cho JavaScript và TypeScript, an toàn mặc định và hỗ trợ TypeScript nguyên bản",
+  "usecases": [
+    "viết script server-side và API với TypeScript tích hợp sẵn",
+    "deploy function edge và workload serverless an toàn",
+    "thay thế Node.js cho CLI tools và development local"
+  ],
+  "ideas": [
+    "kết hợp với WebAssembly cho tác vụ tính toán cao performance",
+    "dùng như runtime duy nhất cho cả build frontend và backend services",
+    "deploy ứng dụng desktop qua Deno Deploy thay thế Electron"
+  ],
+  "stars": 108717,
+  "starsToday": 57,
+  "language": "Rust",
+  "topics": [
+    "deno",
+    "typescript",
+    "javascript",
+    "rust"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-10T16:53:26.592Z"
+}

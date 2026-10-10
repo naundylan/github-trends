@@ -1,0 +1,34 @@
+{
+  "id": "d4807ac9-5c2c-453e-9412-b5305821d397",
+  "repo": "hugohe3/ppt-master",
+  "url": "https://github.com/hugohe3/ppt-master",
+  "category": "AI Agent/Automation",
+  "summary": "AI agent tự động tạo ra các bài trình PowerPoint đầy đủ hình ảnh, chuyển động, biểu đồ và dữ liệu từ tài liệu hoặc chủ đề đầu vào.",
+  "usecases": [
+    "Tự động tạo slide deck từ tài liệu văn bản hoặc báo cáo cho giáo viên và doanh nhân.",
+    "Tạo slide thuyết trình nhanh với đồ họa, biểu đồ và chuyển động cho các dự án marketing.",
+    "Sinh slide cá nhân hóa từ template .pptx riêng biệt cho các doanh nghiệp."
+  ],
+  "ideas": [
+    "Kết hợp với voice synthesis để tạo video presentation có lời dẫn dắt tự động.",
+    "Tích hợp vào workflows của PowerPoint Online để tạo slide real-time từ prompts.",
+    "Phát triển plugin cho các tool quản lý dự án để sinh slide từ meeting notes."
+  ],
+  "stars": 59189,
+  "starsToday": 515,
+  "language": "Python",
+  "topics": [
+    "ai-agent",
+    "powerpoint",
+    "pptx",
+    "presentation",
+    "office",
+    "slides",
+    "powerpoint-generation",
+    "ppt",
+    "slide",
+    "aippt"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-10T16:53:26.592Z"
+}
