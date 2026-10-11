@@ -1,0 +1,28 @@
+{
+  "id": "68309d86-731d-48cd-81f3-848d60438afe",
+  "repo": "chrislgarry/Apollo-11",
+  "url": "https://github.com/chrislgarry/Apollo-11",
+  "category": "Operating System/Kernel",
+  "summary": "Nguồn code gốc của máy tính steering Apollo 11, bao gồm phần mềm cho cả hai bộ điều khiển lệnh và thuỷền. Dự án quan trọng trong lịch sử tính toán thời gian thực.",
+  "usecases": [
+    "Nghiên cứu và phân tích kỹ thuật hệ điều hành thời thực của thập niên 1960",
+    "Giáo dục và học tập về lập trình nhúng và lịch sử không gian",
+    "Phát triển mô phỏng phần mềm AGC cho các dự án trí tuệ nhân tạo hoặc mô hình hóa không gian"
+  ],
+  "ideas": [
+    "Tạo trình mô phỏng AGC tương tác để giáo dục công chúng về lịch sử NASA",
+    "Kết hợp với Arduino hoặc các nền tảng nhúng hiện đại để tái tạo các chức năng điều hướng Apollo",
+    "Phát triển thư viện Python để phân tích và trực quan hóa mã Assembly AGC"
+  ],
+  "stars": 74022,
+  "starsToday": 496,
+  "language": "Assembly",
+  "topics": [
+    "agc",
+    "nasa",
+    "apollo",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Operating-System-Kernel.md",
+  "createdAt": "2026-10-11T17:10:33.076Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "bd754398-0dfd-4038-bbb7-b0a2dd3c58f8",
+  "repo": "repowise-dev/repowise",
+  "url": "https://github.com/repowise-dev/repowise",
+  "category": "Developer Tool",
+  "summary": "Công cụ intelligence cho codebase cung cấp health scores, docs tự động, git analytics, dead code detection và architectural decisions để đánh giá và cải thiện chất lượng code cho cả AI và humans.",
+  "usecases": [
+    "Giám sát sức khỏe codebase và phát hiện dead code trong quá trình phát triển liên tục.",
+    "Tự động tạo tài liệu dự án và theo dõi architectural decisions để giữ cho team đồng bộ.",
+    "Phân tích git history và metrics để đánh giá kỹ thuật debt và chất lượng code."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD pipelines để báo cáo chất lượng code tự động mỗi lần push.",
+    "Sử dụng để tạo dashboard inner-source cho các team lớn theo dõi sức khỏe code cross-team.",
+    "Phát triển plugin cho IDE để hiển thị code health scores và dead code warnings trực tiếp trong code editor."
+  ],
+  "stars": 7506,
+  "starsToday": 68,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "code-intelligence",
+    "dead-code",
+    "developer-tools",
+    "documentation",
+    "git-analytics",
+    "mcp",
+    "open-source",
+    "python",
+    "code-complexity",
+    "code-health",
+    "code-quality",
+    "refactoring",
+    "static-analysis",
+    "technical-debt"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-11T17:10:33.076Z"
+}

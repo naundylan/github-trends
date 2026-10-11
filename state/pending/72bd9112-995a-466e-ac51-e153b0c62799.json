@@ -1,0 +1,43 @@
+{
+  "id": "72bd9112-995a-466e-ac51-e153b0c62799",
+  "repo": "langgenius/dify",
+  "url": "https://github.com/langgenius/dify",
+  "category": "AI/LLM",
+  "summary": "Nền tảng hợp nhất để xây dựng workflows Agentic và RAG pipelines với hỗ trợ đa mô hình AI, cho phép deploy trên đám mây, VPC hoặc self-hosted để chuyển từ prototype đến production.",
+  "usecases": [
+    "Xây dựng và triển khai các ứng dụng AI generative với workflows phức tạp.",
+    "Tạo RAG pipelines cho các doanh nghiệp truy xuất thông tin nội bộ.",
+    "Cho phép teams prototyping nhanh và deploy production-ready AI agents mà không cần quản lý infrastructure phức tạp."
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng nội bộ để tạo một AI Assistant cá nhân hóa cho từng department.",
+    "Sử dụng làm nền tảng cho các hệ thống tự động hóa quy trình nghiệp vụ (BPO) với các agent có khả năng gọi tool.",
+    "Triển khai trên VPC riêng để xử lý dữ liệu nhạy cảm mà vẫn tận dụng các model LLM mạnh mẽ."
+  ],
+  "stars": 158150,
+  "starsToday": 71,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "gpt",
+    "llm",
+    "openai",
+    "python",
+    "agent",
+    "nextjs",
+    "workflow",
+    "genai",
+    "automation",
+    "low-code",
+    "mcp",
+    "no-code",
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "claude",
+    "skills",
+    "deepseek"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-11T17:10:33.076Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "9bb9aa44-abbd-4624-86cd-0d1e9c9edb73",
+  "repo": "MadsLorentzen/ai-job-search",
+  "url": "https://github.com/MadsLorentzen/ai-job-search",
+  "category": "AI Agent/Automation",
+  "summary": "Khung tự động hóa tìm kiếm việc làm và nộp đơn bằng AI, sử dụng Claude Code để đánh giá tin tuyển dụng, tùy chỉnh CV và viết thư xin việc tự động.",
+  "usecases": [
+    "Tự động tìm kiếm và lọc các tin tuyển dụng phù hợp với kỹ năng CV",
+    "Tạo và gửi thư xin việc cá nhân hóa cho từng ứng viên",
+    "Trao dồi và luyện tập câu trả lời phỏng vấn dựa trên yêu cầu công việc"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống theo dõi ứng tuyển để tự động cập nhật trạng thái",
+    "Phát triển phiên bản tích hợp Claude Desktop để chạy hoàn toàn offline",
+    "Tạo dashboard trực quan hóa tỷ lệ phản hồi và thành công nộp đơn"
+  ],
+  "stars": 46043,
+  "starsToday": 511,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "career",
+    "claude-code",
+    "cover-letter",
+    "cv",
+    "interview-preparation",
+    "job-application",
+    "job-hunting",
+    "job-search",
+    "latex",
+    "resume"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-11T17:10:33.076Z"
+}

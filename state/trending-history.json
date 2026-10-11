@@ -41,7 +41,7 @@
   },
   "TencentCloud/CubeSandbox": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-11",
     "last_saved": "2026-10-09"
   },
   "ogulcancelik/herdr": {
@@ -131,7 +131,7 @@
   },
   "chthollyphile/folia-major": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-11",
     "last_saved": "2026-10-05"
   },
   "mattpocock/skills": {
@@ -191,7 +191,7 @@
   },
   "openclaw/openclaw": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-11",
     "last_saved": "2026-09-25"
   },
   "binwiederhier/ntfy": {
@@ -251,8 +251,8 @@
   },
   "MadsLorentzen/ai-job-search": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-09-30",
-    "last_saved": "2026-09-14"
+    "last_seen": "2026-10-11",
+    "last_saved": "2026-10-11"
   },
   "AhmadIbrahiim/Website-downloader": {
     "first_seen": "2026-07-07",
@@ -551,7 +551,7 @@
   },
   "Shubhamsaboo/awesome-llm-apps": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-11",
     "last_saved": "2026-10-01"
   },
   "shy3130/tick-stock-panel": {
@@ -601,7 +601,7 @@
   },
   "Alishahryar1/free-claude-code": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-11",
     "last_saved": "2026-09-25"
   },
   "AgriciDaniel/claude-obsidian": {
@@ -706,7 +706,7 @@
   },
   "bilawalsidhu/gods-eye-view": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-11",
     "last_saved": "2026-10-01"
   },
   "swoole/typephp": {
@@ -731,7 +731,7 @@
   },
   "ComposioHQ/awesome-claude-skills": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-11",
     "last_saved": "2026-09-30"
   },
   "nilbuild/developer-roadmap": {
@@ -851,8 +851,8 @@
   },
   "majd/ipatool": {
     "first_seen": "2026-08-31",
-    "last_seen": "2026-09-16",
-    "last_saved": "2026-08-31"
+    "last_seen": "2026-10-11",
+    "last_saved": "2026-10-11"
   },
   "jingyaogong/minimind": {
     "first_seen": "2026-08-31",
@@ -936,7 +936,7 @@
   },
   "farion1231/cc-switch": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-11",
     "last_saved": "2026-09-24"
   },
   "dmtrKovalenko/fff": {
@@ -1081,8 +1081,8 @@
   },
   "langgenius/dify": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-05",
-    "last_saved": "2026-09-04"
+    "last_seen": "2026-10-11",
+    "last_saved": "2026-10-11"
   },
   "basecamp/hey-cli": {
     "first_seen": "2026-09-04",
@@ -1731,7 +1731,7 @@
   },
   "multica-ai/multica": {
     "first_seen": "2026-09-17",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-11",
     "last_saved": "2026-10-09"
   },
   "yyjeqhc/webcodex": {
@@ -2366,7 +2366,7 @@
   },
   "HunxByts/GhostTrack": {
     "first_seen": "2026-09-30",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-11",
     "last_saved": "2026-09-30"
   },
   "bmad-code-org/BMAD-METHOD": {
@@ -2761,7 +2761,7 @@
   },
   "martin-olivier/airgorah": {
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-11",
     "last_saved": "2026-10-08"
   },
   "microsoft/mxc": {
@@ -2786,7 +2786,7 @@
   },
   "liyupi/ai-guide": {
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-11",
     "last_saved": "2026-10-09"
   },
   "Snailclimb/JavaGuide": {
@@ -2869,47 +2869,42 @@
     "last_seen": "2026-10-11",
     "last_saved": "2026-10-10"
   },
-  "microsoft/power-platform-skills": {
+  "lyogavin/airllm": {
     "first_seen": "2026-10-11",
     "last_seen": "2026-10-11",
     "last_saved": "2026-10-11"
   },
-  "mui/material-ui": {
+  "chrislgarry/Apollo-11": {
     "first_seen": "2026-10-11",
     "last_seen": "2026-10-11",
     "last_saved": "2026-10-11"
   },
-  "home-assistant/core": {
+  "hugohe3/ppt-master": {
     "first_seen": "2026-10-11",
     "last_seen": "2026-10-11",
     "last_saved": "2026-10-11"
   },
-  "angular/angular": {
+  "repowise-dev/repowise": {
     "first_seen": "2026-10-11",
     "last_seen": "2026-10-11",
     "last_saved": "2026-10-11"
   },
-  "appwrite/appwrite": {
+  "XiaoYouChR/Ghost-Downloader-3": {
     "first_seen": "2026-10-11",
     "last_seen": "2026-10-11",
     "last_saved": "2026-10-11"
   },
-  "higress-group/higress": {
+  "CopilotKit/OpenIntelligentUI": {
     "first_seen": "2026-10-11",
     "last_seen": "2026-10-11",
     "last_saved": "2026-10-11"
   },
-  "casdoor/casdoor": {
+  "agalwood/Motrix": {
     "first_seen": "2026-10-11",
     "last_seen": "2026-10-11",
     "last_saved": "2026-10-11"
   },
-  "llm-d/llm-d-router": {
-    "first_seen": "2026-10-11",
-    "last_seen": "2026-10-11",
-    "last_saved": "2026-10-11"
-  },
-  "dexidp/dex": {
+  "denoland/celld": {
     "first_seen": "2026-10-11",
     "last_seen": "2026-10-11",
     "last_saved": "2026-10-11"

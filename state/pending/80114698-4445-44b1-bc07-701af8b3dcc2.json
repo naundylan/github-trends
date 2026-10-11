@@ -1,0 +1,39 @@
+{
+  "id": "80114698-4445-44b1-bc07-701af8b3dcc2",
+  "repo": "CopilotKit/OpenIntelligentUI",
+  "url": "https://github.com/CopilotKit/OpenIntelligentUI",
+  "category": "AI/LLM",
+  "summary": "Open-source framework tạo giao diện người dùng bằng AI, cho phép tạo giao diện tương tác và trực quan từ các lệnh LLM.",
+  "usecases": [
+    "Tự động tạo giao diện admin dashboard từ mô tả văn bản.",
+    "Tích hợp vào chatbot/assistant để sinh UI trên fly dựa trên yêu cầu người dùng.",
+    "Giúp nhà phát triển nhanh chóng prototyping giao diện mà không cần thiết kế thủ công."
+  ],
+  "ideas": [
+    "Kết hợp với agentic AI để tự tạo và triển khai giao diện web hoàn chỉnh dựa trên yêu cầu sản phẩm.",
+    "Sử dụng trong các hệ thống nội trợ (no-code) để sinh UI tùy chỉnh thông qua lệnh thoại.",
+    "Triển khai làm plugin cho IDE để sinh mã giao diện ngay từ ý tưởng hoặc thiết kế thô."
+  ],
+  "stars": 2591,
+  "starsToday": 309,
+  "language": "TypeScript",
+  "topics": [
+    "agent-native",
+    "agentic-ai",
+    "agents",
+    "ai-agents",
+    "ai-copilot",
+    "ai-visualization",
+    "assistant-chat-bots",
+    "copilot",
+    "generative-ui",
+    "javascript",
+    "llm",
+    "open-source",
+    "typescript",
+    "visualization",
+    "agentic-visualization"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-11T17:10:33.076Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "f61fa01b-e3e3-444f-b471-078c2540951a",
+  "repo": "denoland/celld",
+  "url": "https://github.com/denoland/celld",
+  "category": "Cloud/Hosting",
+  "summary": "Một dịch vụ self-hosted cho Durable Objects phân tán, cho phép chạy ứng dụng có trạng thái trên infra Rust một cách ổn định.",
+  "usecases": [
+    "Chạy các ứng dụng có trạng thái (stateful) mà không phụ thuộc vào cloud provider duy nhất.",
+    "Phân tán tác vụ xử lý thực thời giữa nhiều node Rust.",
+    "Self-hosting cho các Worker Durable Objects với latency thấp."
+  ],
+  "ideas": [
+    "Kết hợp với Kubernetes để quản lý lifecycle của Durable Objects.",
+    "Thêm hỗ trợ cho các protocol giao tiếp giữa các node qua gRPC hoặc WebSocket.",
+    "Tạo dashboard giám sát sức khỏe và hiệu suất của các Durable Objects đang chạy."
+  ],
+  "stars": 5420,
+  "starsToday": 110,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-10-11T17:10:33.076Z"
+}
