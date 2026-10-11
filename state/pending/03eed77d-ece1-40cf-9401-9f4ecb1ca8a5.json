@@ -1,0 +1,43 @@
+{
+  "id": "03eed77d-ece1-40cf-9401-9f4ecb1ca8a5",
+  "repo": "flutter/flutter",
+  "url": "https://github.com/flutter/flutter",
+  "category": "Cross-platform Mobile",
+  "summary": "SDK cho phép phát triển ứng dụng di động, web và desktop mượt mà từ một mã nguồn duy nhất, hỗ trợ giao diện Material Design và Cupertino.",
+  "usecases": [
+    "Phát triển ứng dụng thương mại điện tử chạy trên iOS và Android cùng một codebase.",
+    "Xây dựng giao diện người dùng mượt mà cho ứng dụng nội bộ hoặc khởiups.",
+    "Tạo ứng dụng đa nền tảng (web, desktop) cho các dịch vụ nội bộ."
+  ],
+  "ideas": [
+    "Phát triển ứng dụng IoT control panel chạy trên mobile và web cùng lúc.",
+    "Tạo ứng dụng giáo dục tương tác với giao diện mượt mà trên nhiều thiết bị.",
+    "Xây dựng ứng dụng mạng xã hội nhẹ với hiệu năng cao trên cả iOS và Android."
+  ],
+  "stars": 179512,
+  "starsToday": 88,
+  "language": "Dart",
+  "topics": [
+    "mobile",
+    "android",
+    "ios",
+    "material-design",
+    "dart",
+    "skia",
+    "web",
+    "web-framework",
+    "windows",
+    "macos",
+    "fuchsia",
+    "dart-platform",
+    "linux-desktop",
+    "app-framework",
+    "desktop",
+    "cross-platform",
+    "flutter",
+    "flutter-package",
+    "mobile-development"
+  ],
+  "notePath": "notes/Cross-platform-Mobile.md",
+  "createdAt": "2026-10-11T00:15:32.097Z"
+}

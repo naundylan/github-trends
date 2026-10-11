@@ -1,0 +1,32 @@
+{
+  "id": "9ea8adc6-a2aa-489e-b47d-c15b13aeb6f1",
+  "repo": "charmbracelet/bubbletea",
+  "url": "https://github.com/charmbracelet/bubbletea",
+  "category": "CLI Tool",
+  "summary": "Bubble Tea là framework TUI (Text User Interface) cho ngôn ngữ Go, cho phép phát triển các ứng dụng terminal với kiến trúc Functional Programming và Elm Architecture.",
+  "usecases": [
+    "Xây dựng các ứng dụng terminal tương tác với giao diện đồ họa phong phú.",
+    "Tạo các CLI (Command Line Interface) có khả năng hiển thị dữ liệu động và tương tác với người dùng.",
+    "Phát triển các công cụ quản lý hệ thống và monitoring với trải nghiệm người dùng mượt mà."
+  ],
+  "ideas": [
+    "Kết hợp Bubble Tea với các dịch vụ API để tạo dashboard terminal real-time.",
+    "Sử dụng trong các hệ thống CI/CD để hiển thị trạng thái build và deploy trực tiếp trong terminal.",
+    "Phát triển game hoặc ứng dụng siêu thị (terminal-based) hoàn toàn viết bằng Go."
+  ],
+  "stars": 45426,
+  "starsToday": 53,
+  "language": "Go",
+  "topics": [
+    "cli",
+    "framework",
+    "elm-architecture",
+    "tui",
+    "functional",
+    "golang",
+    "go",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-11T00:15:32.097Z"
+}

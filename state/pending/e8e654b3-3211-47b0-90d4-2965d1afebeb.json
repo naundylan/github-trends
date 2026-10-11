@@ -1,0 +1,28 @@
+{
+  "id": "e8e654b3-3211-47b0-90d4-2965d1afebeb",
+  "repo": "denoland/deno",
+  "url": "https://github.com/denoland/deno",
+  "category": "Developer Tool",
+  "summary": "Deno là runtime hiện đại cho JavaScript và TypeScript, cung cấp bảo mật mặc định và tích hợp liền mạch với TypeScript để phát triển nhanh.",
+  "usecases": [
+    "Chạy các script và ứng dụng TypeScript an toàn mà không cần cài đặt Node.js.",
+    "Phát triển dịch vụ backend với môi trường chạy đồng nhất từ development đến production.",
+    "Tạo các ứng dụng full-stack sử dụng cùng một ngôn ngữ (TypeScript) trên cả client và server."
+  ],
+  "ideas": [
+    "Tích hợp Deno với edge computing để triển khai các hàm serverless có latency thấp.",
+    "Sử dụng Deno Deploy để xây dựng và phân phối các ứng dụng toàn cầu nhanh chóng.",
+    "Phát triển công cụ tự động hóa hệ thống và script quản trị IT dựa trên TypeScript."
+  ],
+  "stars": 108721,
+  "starsToday": 48,
+  "language": "Rust",
+  "topics": [
+    "deno",
+    "typescript",
+    "javascript",
+    "rust"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-11T00:15:32.097Z"
+}

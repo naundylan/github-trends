@@ -1,0 +1,29 @@
+{
+  "id": "cb7f5f7e-5a37-44e4-ade7-940fc914f44a",
+  "repo": "greensock/GSAP",
+  "url": "https://github.com/greensock/GSAP",
+  "category": "Web Frontend",
+  "summary": "GSAP là thư viện animation JavaScript hiện đại, cho phép tạo các hiệu ứng chuyển động mượt mà và phức tạp cho web với API dễ sử dụng và hiệu năng cao.",
+  "usecases": [
+    "Animation cho website landing page và hero sections",
+    "Scroll-based animations và interactive storytelling",
+    "Animation cho web apps và dashboard với timing control chính xác"
+  ],
+  "ideas": [
+    "Kết hợp GSAP với Three.js để animation 3D tương tác",
+    "Xây dựng animation engine cho micro-frontend architecture",
+    "Sử dụng GSAP trong Progressive Web Apps (PWA) để smooth page transitions"
+  ],
+  "stars": 29021,
+  "starsToday": 54,
+  "language": "JavaScript",
+  "topics": [
+    "animation",
+    "gsap",
+    "javascript",
+    "javascript-library",
+    "scroll"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-11T00:15:32.097Z"
+}
