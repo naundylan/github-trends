@@ -1,0 +1,29 @@
+{
+  "id": "b2962775-8a39-4d8b-a01a-017342bf77e9",
+  "repo": "mui/material-ui",
+  "url": "https://github.com/mui/material-ui",
+  "category": "UI/Component Library",
+  "summary": "Material UI là thư viện component cho React triển khai Material Design của Google, cung cấp bộ giao diện sẵn dùng để xây dựng ứng dụng web nhanh và nhất quán.",
+  "usecases": [
+    "Xây dựng dashboard quản trị nội bộ cho doanh nghiệp với các bảng điều khiển và biểu đồ.",
+    "Phát triển trang web doanh nghiệp với giao diện tuân thủ nguyên tắc Material Design.",
+    "Tạo prototype nhanh cho startup cần giao diện chuyên nghiệp trong thời gian ngắn."
+  ],
+  "ideas": [
+    "Kết hợp Tailwind CSS để tùy chỉnh theme động dựa trên chế độ sáng/tối.",
+    "Sử dụng với Next.js để xây dựng ứng dụng full-stack SEO-friendly.",
+    "Phát triển bộ component riêng cho hệ thống design system của sản phẩm SaaS lớn."
+  ],
+  "stars": 99182,
+  "starsToday": 17,
+  "language": "JavaScript",
+  "topics": [
+    "react-components",
+    "react",
+    "material-design",
+    "material-ui",
+    "design-system"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-10-11T09:34:35.540Z"
+}

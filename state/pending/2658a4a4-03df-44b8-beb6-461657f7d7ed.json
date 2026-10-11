@@ -1,0 +1,29 @@
+{
+  "id": "2658a4a4-03df-44b8-beb6-461657f7d7ed",
+  "repo": "dexidp/dex",
+  "url": "https://github.com/dexidp/dex",
+  "category": "Developer Tool",
+  "summary": "Dex là OpenID Connect (OIDC) và OAuth 2.0 provider mã nguồn mở, cho phép tích hợp xác thực linh hoạt cho ứng dụng và Kubernetes thông qua các connectors có thể mở rộng.",
+  "usecases": [
+    "Cung cấp xác thực single sign-on (SSO) cho các ứng dụng web và mobile.",
+    "Tích hợp xác thực cho Kubernetes clusters bằng cách dùng Dex như identity provider.",
+    "Kết nối nhiều provider xác thực (Google, GitHub, LDAP) vào một điểm cuối OIDC duy nhất."
+  ],
+  "ideas": [
+    "Sử dụng Dex làm trung tâm xác thực cho microservices architecture thay vì mỗi service xử lý riêng.",
+    "Tích hợp Dex với Keycloak hoặc các IdP khác để mở rộng khả năng federation.",
+    "Xây dựng dashboard quản lý người dùng và permissions dựa trên tokens OIDC từ Dex."
+  ],
+  "stars": 11182,
+  "starsToday": 10,
+  "language": "Go",
+  "topics": [
+    "oidc",
+    "kubernetes",
+    "idp",
+    "identity-provider",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-11T09:34:35.540Z"
+}

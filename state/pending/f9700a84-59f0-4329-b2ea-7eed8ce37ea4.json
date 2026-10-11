@@ -1,0 +1,44 @@
+{
+  "id": "f9700a84-59f0-4329-b2ea-7eed8ce37ea4",
+  "repo": "appwrite/appwrite",
+  "url": "https://github.com/appwrite/appwrite",
+  "category": "Backend Framework",
+  "summary": "Appwrite là một nền tảng backend mã nguồn mở cung cấp Auth, Database, Storage, Functions, Hosting và Realtime, hoạt động như một Firebase tự-hosted, giúp phát triển ứng dụng web và mobile nhanh chóng mà không cần xây dựng infrastructure từ đầu.",
+  "usecases": [
+    "Xây dựng ứng dụng mobile (iOS/Android) với xác thực và database tích hợp sẵn.",
+    "Triển khai backend cho web app với auth, storage và serverless functions.",
+    "Tự-hosting và quản lý API realtime cho các dự án nguồn mở."
+  ],
+  "ideas": [
+    "Kết hợp Appwrite với Next.js để tạo full-stack app có auth và database ngay lập tức.",
+    "Sử dụng Appwrite Functions để xây dựng webhook processor cho các dịch vụ bên ngoài.",
+    "Sử dụng Appwrite Realtime để xây dựng chat application hoặc live collaboration feature."
+  ],
+  "stars": 57632,
+  "starsToday": 11,
+  "language": "TypeScript",
+  "topics": [
+    "appwrite",
+    "docker",
+    "backend-as-a-service",
+    "javascript",
+    "flutter",
+    "backend",
+    "firebase",
+    "self-hosted",
+    "selfhosted",
+    "android",
+    "ios",
+    "swift",
+    "web",
+    "nextjs",
+    "react",
+    "reactnative",
+    "react-native",
+    "hosting",
+    "supabase",
+    "firewall"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-10-11T09:34:35.540Z"
+}

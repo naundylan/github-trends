@@ -1,0 +1,44 @@
+{
+  "id": "6eefe6a0-4084-44f4-9310-c43c22bbd8d5",
+  "repo": "casdoor/casdoor",
+  "url": "https://github.com/casdoor/casdoor",
+  "category": "Developer Tool",
+  "summary": "Mô tả...",
+  "usecases": [
+    "...",
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "...",
+    "..."
+  ],
+  "stars": 14546,
+  "starsToday": 13,
+  "language": "Go",
+  "topics": [
+    "oidc",
+    "sso",
+    "oauth",
+    "iam",
+    "saml",
+    "webauthn",
+    "mfa",
+    "single-sign-on",
+    "radius",
+    "scim",
+    "auth",
+    "authentication",
+    "mcp-gateway",
+    "ai-gateway",
+    "mcp",
+    "agent",
+    "openclaw",
+    "agentic-ai",
+    "agi",
+    "llm"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-11T09:34:35.540Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "c8cd92f5-8c76-4b33-9ce9-7ebae4dc45b6",
+  "repo": "llm-d/llm-d-router",
+  "url": "https://github.com/llm-d/llm-d-router",
+  "category": "AI/LLM",
+  "summary": "llm-d Router là điểm vào thông minh để điều phối và quản lý các yêu cầu inference đến các mô hình AI.",
+  "usecases": [
+    "Định tuyến inference request đến nhiều mô hình AI trong cluster Kubernetes",
+    "Cung cấp API gateway cho ứng dụng AI với load balancing và khả năng scale tự động",
+    "Hỗ trợ quản lý và failover cho các service inference trong môi trường production"
+  ],
+  "ideas": [
+    "Kết hợp caching prompt để giảm chi phí inference cho cùng một yêu cầu",
+    "Xây dựng nền tảng AI đa tenant cho doanh nghiệp qua llm-d Router",
+    "Phát triển plugin cho IDE để routing request inference trực tiếp từ môi trường phát triển"
+  ],
+  "stars": 394,
+  "starsToday": 2,
+  "language": "Go",
+  "topics": [
+    "inference",
+    "kubernetes",
+    "networking",
+    "ai",
+    "gateway-api"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-11T09:34:35.540Z"
+}

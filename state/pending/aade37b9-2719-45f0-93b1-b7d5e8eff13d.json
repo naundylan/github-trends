@@ -1,0 +1,29 @@
+{
+  "id": "aade37b9-2719-45f0-93b1-b7d5e8eff13d",
+  "repo": "higress-group/higress",
+  "url": "https://github.com/higress-group/higress",
+  "category": "API/GraphQL",
+  "summary": "Mô tả...",
+  "usecases": [
+    "...",
+    "...",
+    "..."
+  ],
+  "ideas": [
+    "...",
+    "...",
+    "..."
+  ],
+  "stars": 9528,
+  "starsToday": 16,
+  "language": "Go",
+  "topics": [
+    "api-gateway",
+    "ai-gateway",
+    "envoy",
+    "ai-native",
+    "cloud-native"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-11T09:34:35.540Z"
+}

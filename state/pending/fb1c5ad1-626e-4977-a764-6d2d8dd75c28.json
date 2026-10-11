@@ -1,0 +1,31 @@
+{
+  "id": "fb1c5ad1-626e-4977-a764-6d2d8dd75c28",
+  "repo": "angular/angular",
+  "url": "https://github.com/angular/angular",
+  "category": "Web Framework",
+  "summary": "Framework TypeScript để xây dựng ứng dụng web với confidence, hỗ trợ PWA và web-performance.",
+  "usecases": [
+    "Xây dựng các ứng dụng web động và responsive",
+    "Phát triển Progressive Web Apps (PWA) với hiệu suất cao",
+    "Tạo giao diện người dùng dựa trên component Angular"
+  ],
+  "ideas": [
+    "Xây dựng dashboard quản lý doanh nghiệp với Angular",
+    "Phát triển hệ thống nội bộ CRM/ERP lightweight",
+    "Tích hợp với GraphQL/APIs để tạo trải nghiệm full-stack hiện đại"
+  ],
+  "stars": 101027,
+  "starsToday": 8,
+  "language": "TypeScript",
+  "topics": [
+    "angular",
+    "typescript",
+    "web",
+    "javascript",
+    "pwa",
+    "web-framework",
+    "web-performance"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-11T09:34:35.540Z"
+}
