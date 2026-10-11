@@ -1,0 +1,39 @@
+{
+  "id": "f61dff25-f60d-4eb8-b575-f7997d3fad91",
+  "repo": "BishopFox/sliver",
+  "url": "https://github.com/BishopFox/sliver",
+  "category": "Security/Pentest",
+  "summary": "Framework mô phỏng kẻ thù cho red-team, cung cấp khả năng C2, chèn mã và mô phỏng tấn công bằng Go.",
+  "usecases": [
+    "Mô phỏng các tình huống tấn công thực tế cho training red-team",
+    "Test và phát hiện cơ chế phòng thủ chống C2",
+    "Phân tích hành vi mã độc trong môi trường kiểm soát"
+  ],
+  "ideas": [
+    "Tích hợp với Cobalt Strike hoặc Mimikatz để mở rộng khả năng",
+    "Phát triển dashboard giám sát và phân tích tráfico C2",
+    "Sử dụng trong bài tập thi đua bảo mật (CTF) để mô phỏng và phản biện"
+  ],
+  "stars": 12086,
+  "starsToday": 60,
+  "language": "Go",
+  "topics": [
+    "security-tools",
+    "implant",
+    "golang",
+    "dns-server",
+    "http",
+    "c2",
+    "command-and-control",
+    "red-team",
+    "red-teaming",
+    "red-team-engagement",
+    "adversarial-attacks",
+    "adversary-simulation",
+    "sliver",
+    "gplv3",
+    "dns"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-11T21:20:42.904Z"
+}

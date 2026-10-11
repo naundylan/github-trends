@@ -1,0 +1,41 @@
+{
+  "id": "4f5402e2-d7f1-4c98-9503-cc5ffc233e2a",
+  "repo": "Project-HAMi/HAMi",
+  "url": "https://github.com/Project-HAMi/HAMi",
+  "category": "Infrastructure as Code",
+  "summary": "HAMi là giải pháp chia sẻ GPU đa dạng trên Kubernetes, cho phép nhiều workload cùng sử dụng một GPU vật lý thông qua ảo hóa và device plugin, tối ưu tài nguyên cho các workload AI/ML.",
+  "usecases": [
+    "Chia sẻ GPU giữa nhiều container training AI trên cùng một node.",
+    "Hỗ trợ các nền tảng GPU không chuẩn như Ascend, Cambricon, HYGON.",
+    "Tăng tỷ suất sử dụng GPU trong cụm K8s để giảm chi phí cơ sở hạ tầng."
+  ],
+  "ideas": [
+    "Tích hợp với Kubernetes Cluster Autoscaler để tự động điều chỉnh node dựa trên tải GPU.",
+    "Triển khai trên môi trường edge computing để chia sẻ GPU giữa các ứng dụng thực thời.",
+    "Phát triển dashboard giám sát tương tác cho quản trị viên tài nguyên GPU."
+  ],
+  "stars": 4691,
+  "starsToday": 35,
+  "language": "Go",
+  "topics": [
+    "vgpu",
+    "gpu-virtualization",
+    "device-plugin",
+    "gpu-management",
+    "kubernetes-gpu-cluster",
+    "ascend",
+    "cambricon",
+    "gpu-shareable",
+    "kubernetes",
+    "metax",
+    "nvidia",
+    "hygon",
+    "iluvatar",
+    "mthreads",
+    "cncf",
+    "gpu-acceleration",
+    "vgpu-hypervisor"
+  ],
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-10-11T21:20:42.904Z"
+}

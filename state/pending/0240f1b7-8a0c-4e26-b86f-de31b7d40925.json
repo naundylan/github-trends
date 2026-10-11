@@ -1,0 +1,30 @@
+{
+  "id": "0240f1b7-8a0c-4e26-b86f-de31b7d40925",
+  "repo": "MagicMirrorOrg/MagicMirror",
+  "url": "https://github.com/MagicMirrorOrg/MagicMirror",
+  "category": "Desktop App",
+  "summary": "MagicMirror² là một nền tảng smart mirror mã nguồn mở, cho phép biến gương hallway hoặc bathroom thành trợ lý cá nhân với các module có thể cài đặt.",
+  "usecases": [
+    "Hiển thị thời tiết, tin tức, lịch sự kiện trên gương bathroom mỗi sáng",
+    "Hệ thống nhà thông minh hiển thị trạng thái đèn, nhiệt độ, an ninh trên gương hallway",
+    "Trang cá nhân hiển thị calendar, reminders, và thông tin transport actual time"
+  ],
+  "ideas": [
+    "Kết hợp với voice assistant (Ví dụ: Alexa/Siri) để điều khiển nhà thông minh bằng giọng nói qua gương",
+    "Tích hợp camera nhận diện khuôn mặt để tùy chỉnh nội dung cho từng thành viên gia đình",
+    "Kết hợp với dữ liệu IoT real-time để hiển thị năng lượng sử dụng, điều khiển thiết bị nhà thông minh trực tiếp từ gương"
+  ],
+  "stars": 24049,
+  "starsToday": 56,
+  "language": "JavaScript",
+  "topics": [
+    "magicmirror",
+    "javascript",
+    "raspberry-pi",
+    "smarthome",
+    "mirror",
+    "domotics"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-11T21:20:42.904Z"
+}

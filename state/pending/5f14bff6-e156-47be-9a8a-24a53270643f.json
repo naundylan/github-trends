@@ -1,0 +1,43 @@
+{
+  "id": "5f14bff6-e156-47be-9a8a-24a53270643f",
+  "repo": "getnao/nao",
+  "url": "https://github.com/getnao/nao",
+  "category": "AI/LLM",
+  "summary": "nao là agent phân tích dữ liệu mã nguồn mở, cung cấp CLI để tạo ngữ cảnh và giao diện chat để truy vấn dữ liệu qua ngôn ngữ tự nhiên, hỗ trợ kết nối BigQuery, PostgreSQL, Snowflake.",
+  "usecases": [
+    "Cho phép analyst truy vấn dữ liệu doanh nghiệp bằng câu tự nhiên thay vì SQL.",
+    "Tích hợp với Slack để nhận báo cáo và insight định kỳ tự động.",
+    "Triển khai self-hosted analytics cho các công ty muốn kiểm soát dữ liệu riêng."
+  ],
+  "ideas": [
+    "Kết hợp với pipelines ETL để tự động hóa tạo báo cáo định kỳ.",
+    "Mở rộng agent để truy cập và phân tích dữ liệu từ các nguồn không cấu trúc (logs, docs).",
+    "Phát triển module text-to-sql tự động cho các department marketing/kinh doanh."
+  ],
+  "stars": 1905,
+  "starsToday": 27,
+  "language": "TypeScript",
+  "topics": [
+    "agentic-analytics",
+    "analytics",
+    "analytics-engineering",
+    "bigquery",
+    "business-intelligence",
+    "chat-with-your-data",
+    "context-engineering",
+    "data",
+    "data-analysis",
+    "data-analyst",
+    "data-engineering",
+    "databricks",
+    "postgresql",
+    "self-hosted",
+    "snowflake",
+    "sql",
+    "text-to-sql",
+    "slackbot",
+    "slack-bot"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-11T21:20:42.904Z"
+}

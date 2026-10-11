@@ -1,0 +1,23 @@
+{
+  "id": "5897a368-a4e8-4519-b410-f27db5fa37af",
+  "repo": "MiaAI-Lab/sparkDash",
+  "url": "https://github.com/MiaAI-Lab/sparkDash",
+  "category": "Web Frontend",
+  "summary": "sparkDash là dashboard web hiện đại để theo dõi và quản lý hiệu suất các cụm Spark đa DGX, cung cấp giao diện trực quan cho các chỉ số tài nguyên, tác vụ và trạng thái cluster.",
+  "usecases": [
+    "Giám sát tài nguyên và hiệu suất job Spark trên nhiều DGX",
+    "Theo dõi trạng thái cluster và phát hiện sớm điểm nghẽn",
+    "Hiển thị báo cáo trực quan cho kỹ sư dữ liệu và quản trị cluster"
+  ],
+  "ideas": [
+    "Tích cảnh báo với Prometheus/Grafana cho các ngưỡng tự động",
+    "Thêm tính năng phân tích dự đoán hiệu suất dựa trên dữ liệu lịch sử",
+    "Phát triển phiên bản Progressive Web App (PWA) để truy cập từ thiết bị di động"
+  ],
+  "stars": 657,
+  "starsToday": 22,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-11T21:20:42.904Z"
+}

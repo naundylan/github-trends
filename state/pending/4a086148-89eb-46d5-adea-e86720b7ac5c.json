@@ -1,0 +1,23 @@
+{
+  "id": "4a086148-89eb-46d5-adea-e86720b7ac5c",
+  "repo": "gtsteffaniak/filebrowser",
+  "url": "https://github.com/gtsteffaniak/filebrowser",
+  "category": "Developer Tool",
+  "summary": "Filebrowser là một web file browser mã nguồn mở viết bằng Go, cung cấp giao diện web để quản lý, tải lên và tổ chức tệp với hỗ trợ xác thực và phân quyền.",
+  "usecases": [
+    "Self-hosted file storage and sharing for teams and individuals",
+    "Remote file access from any device without installing client software",
+    "Secure file management for personal clouds or intranets"
+  ],
+  "ideas": [
+    "Integrate OAuth login (GitHub, Google) for seamless authentication",
+    "Add image and video preview with inline playback within the browser",
+    "Combine with a media server or torrent client for personal streaming and content delivery"
+  ],
+  "stars": 8632,
+  "starsToday": 11,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-11T21:20:42.904Z"
+}

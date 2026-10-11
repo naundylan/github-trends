@@ -1,0 +1,39 @@
+{
+  "id": "4396d113-4e72-4340-8eee-b39671cff2e8",
+  "repo": "0xJacky/nginx-ui",
+  "url": "https://github.com/0xJacky/nginx-ui",
+  "category": "DevOps/CI-CD",
+  "summary": "Ngin-ui là giao diện web (WebUI) cho Nginx, cho phép quản lý cấu hình, reload và proxy settings trực tiếp từ trình duyệt mà không cần sửa file config thủ công.",
+  "usecases": [
+    "Manage multiple Nginx instances from a single dashboard in development or staging environments",
+    "Quick reload Nginx configurations after changes without SSH access to servers",
+    "Visual interface for beginners to adjust proxy rules and SSL settings"
+  ],
+  "ideas": [
+    "Auto-generate Nginx config from a visual editor and deploy automatically via CI/CD pipelines",
+    "Integrate with Let's Encrypt for automatic SSL certificate generation and renewal",
+    "Build a \"Nginx as a Service\" platform for SaaS hosting and multi-tenant environments"
+  ],
+  "stars": 11601,
+  "starsToday": 11,
+  "language": "Go",
+  "topics": [
+    "nginx",
+    "webui",
+    "vue",
+    "self-hosted",
+    "go",
+    "cron",
+    "letsencrypt",
+    "code-completion",
+    "copilot",
+    "linux",
+    "macos",
+    "windows",
+    "docker",
+    "mcp",
+    "mcp-server"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-11T21:20:42.904Z"
+}

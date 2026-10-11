@@ -1,0 +1,41 @@
+{
+  "id": "1f97f1d9-b359-4a97-ad8f-c89c268c5b17",
+  "repo": "Autumn-27/ScopeSentry",
+  "url": "https://github.com/Autumn-27/ScopeSentry",
+  "category": "Security/Pentest",
+  "summary": "ScopeSentry là công cụ bảo mật viết bằng Go thực hiện bản đồ không gian mạng, enumeration subdomain, quét cổng, phát hiện thông tin nhạy cảm và quét lỗ hổng, hỗ trợ các cuộc tìm lỗ bảo mật và nghiên cứu an ninh mạng.",
+  "usecases": [
+    "Enumeration subdomain và bản đồ không gian mạng cho bug bounty",
+    "Quét port và phát hiện thông tin nhạy cảm trên target trực tuyến",
+    "Theo dõi và báo cáo các lỗ hổng bảo mật phân tán"
+  ],
+  "ideas": [
+    "Tích hợp module AI để tự động phân loại và ưu tiên lỗ hổng",
+    "Phát triển plugin cho các nền tảng CI/CD để quét tự động trước khi deploy",
+    "Tạo dashboard real-time theo dõi bảo mật cho SOC teams"
+  ],
+  "stars": 1792,
+  "starsToday": 27,
+  "language": "Go",
+  "topics": [
+    "bugbounty",
+    "bugbounty-tool",
+    "crawler",
+    "dirscanner",
+    "pagemonitor",
+    "subdomain-enumeration",
+    "subdomain-takeovers",
+    "urlscan",
+    "vulnerability-scanners",
+    "bug-bounty",
+    "infosec",
+    "osint",
+    "scanner",
+    "security",
+    "security-tools",
+    "scope-sentry",
+    "src"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-11T21:20:42.904Z"
+}

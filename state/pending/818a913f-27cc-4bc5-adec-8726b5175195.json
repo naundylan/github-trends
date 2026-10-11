@@ -1,0 +1,28 @@
+{
+  "id": "818a913f-27cc-4bc5-adec-8726b5175195",
+  "repo": "lharries/whatsapp-mcp",
+  "url": "https://github.com/lharries/whatsapp-mcp",
+  "category": "AI Agent/Automation",
+  "summary": "MCP server cho WhatsApp, cho phép tích hợp AI với tin nhắn để tự động hóa và tương tác thông minh.",
+  "usecases": [
+    "Tự động trả lời tin nhắn WhatsApp bằng AI",
+    "Tích hợp WhatsApp với agent AI cho tác vụ tự động",
+    "Phản hồi các lệnh WhatsApp thông qua MCP"
+  ],
+  "ideas": [
+    "Xây dựng bot WhatsApp tự động phản hồi dựa trên ngữ cảnh AI",
+    "Kết hợp với LangChain để tạo agent đa kênh",
+    "Triển khai làm dịch vụ MCP server cho hỗ trợ khách hàng WhatsApp"
+  ],
+  "stars": 6537,
+  "starsToday": 63,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "mcp",
+    "whatsapp",
+    "whatsapp-api"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-11T21:20:42.904Z"
+}
