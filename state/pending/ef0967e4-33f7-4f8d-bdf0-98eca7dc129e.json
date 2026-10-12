@@ -1,0 +1,23 @@
+{
+  "id": "ef0967e4-33f7-4f8d-bdf0-98eca7dc129e",
+  "repo": "microsoft/litebox",
+  "url": "https://github.com/microsoft/litebox",
+  "category": "Operating System/Kernel",
+  "summary": "Litebox là một hệ điều hành thư viện (library OS) tập trung vào bảo mật, cho phép thực thi ở cả chế độ kernel và user-mode để cung cấp nền tảng hệ thống an toàn.",
+  "usecases": [
+    "Chạy driver và modules kernel an toàn mà không gây crash cho hệ thống.",
+    "Tạo môi trường sandbox cho ứng dụng nhạy cảm cần 격離 hệ thống.",
+    "Hỗ trợ nghiên cứu bảo mật và phân tích mã độc trong môi trường kiểm soát."
+  ],
+  "ideas": [
+    "Xây dựng hệ điều hành nhúng an toàn cho thiết bị IoT quan trọng.",
+    "Phát triển ví tiền hoặc ứng dụng đòi hỏi mã hóa cao dựa trên Litebox.",
+    "Sử dụng làm nền tảng secure bootloader hoặc enclave cho PC/Server."
+  ],
+  "stars": 3123,
+  "starsToday": 54,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Operating-System-Kernel.md",
+  "createdAt": "2026-10-12T22:22:58.897Z"
+}

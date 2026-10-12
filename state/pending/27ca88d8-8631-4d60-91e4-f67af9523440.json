@@ -1,0 +1,39 @@
+{
+  "id": "27ca88d8-8631-4d60-91e4-f67af9523440",
+  "repo": "CopilotKit/OpenIntelligentUI",
+  "url": "https://github.com/CopilotKit/OpenIntelligentUI",
+  "category": "AI Agent/Automation",
+  "summary": "Framework mã nguồn mở cho tạo giao diện người dùng generative và ứng dụng AI-native, tự động tạo UI từ các agent AI.",
+  "usecases": [
+    "Tạo giao diện chatbot động dựa trên hành vi agent",
+    "Phát triển ứng dụng AI-native tự động điều chỉnh layout theo phản hồi LLM",
+    "Xây dựng dashboard quản lý agent với visualization tự động"
+  ],
+  "ideas": [
+    "Kết hợp với voice assistant để tạo UI theo lệnh thoại",
+    "Tạo plugin cho IDE để generate component code từ prompt",
+    "Phát triển hệ thống tự động hóa quy trình làm việc (workflow) dựa trên agent visualization"
+  ],
+  "stars": 2879,
+  "starsToday": 251,
+  "language": "TypeScript",
+  "topics": [
+    "agent-native",
+    "agentic-ai",
+    "agents",
+    "ai-agents",
+    "ai-copilot",
+    "ai-visualization",
+    "assistant-chat-bots",
+    "copilot",
+    "generative-ui",
+    "javascript",
+    "llm",
+    "open-source",
+    "typescript",
+    "visualization",
+    "agentic-visualization"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-12T22:22:58.897Z"
+}

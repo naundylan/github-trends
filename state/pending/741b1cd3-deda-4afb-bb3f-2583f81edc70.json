@@ -1,0 +1,41 @@
+{
+  "id": "741b1cd3-deda-4afb-bb3f-2583f81edc70",
+  "repo": "JoeanAmier/TikTokDownloader",
+  "url": "https://github.com/JoeanAmier/TikTokDownloader",
+  "category": "CLI Tool",
+  "summary": "TikTokDownloader là công cụ downloader và thu thập dữ liệu cho TikTok/Douyin, hỗ trợ xuất nhiều định dạng và triển khai qua Docker/PyInstaller.",
+  "usecases": [
+    "Tự động tải video và bài viết để lưu trữ nội bộ hoặc phân tích.",
+    "Thu thập dữ liệu công khai để nghiên cứu xu hướng nội dung hoặc đánh giá hiệu quả.",
+    "Tích hợp vào quy trình CI/CD để tự động xử lý nội dung mới."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tóm tắt và phân tích tự động nội dung video đã tải.",
+    "Xây dựng dashboard theo thời gian thực hiển thị thống kê tương tác từ dữ liệu thu thập.",
+    "Phát triển bot tự động tương thích (like, comment) dựa trên dữ liệu được thu thập."
+  ],
+  "stars": 16745,
+  "starsToday": 45,
+  "language": "JavaScript",
+  "topics": [
+    "douyin",
+    "python",
+    "tiktok",
+    "api",
+    "csv",
+    "sqlite",
+    "xlsx",
+    "linux",
+    "macos",
+    "windows",
+    "ffmpeg",
+    "httpx",
+    "server",
+    "downloader",
+    "pyinstaller",
+    "docker",
+    "rich"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-12T22:22:58.897Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "b611fcd6-3ebe-496a-82f0-6f1530cc010e",
+  "repo": "home-assistant/core",
+  "url": "https://github.com/home-assistant/core",
+  "category": "Embedded/IoT",
+  "summary": "Home Assistant là nền tảng tự động hóa nhà thông minh mã nguồn mở chú trọng kiểm soát cục bộ và quyền riêng tư, kết nối và quản lý nhiều thiết bị IoT khác nhau từ một trung tâm duy nhất.",
+  "usecases": [
+    "Tự động hóa hệ thống chiếu sáng và điều hòa dựa trên thời gian hoặc cảm biến",
+    "Theo dõi và kiểm soát thiết bị IoT như camera, cảm biến chuyển động từ xa",
+    "Tạo các quy tắc tự động cho an ninh nhà và quản lý năng lượng"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình AI dự báo thời tiết để tự điều chỉnh nhiệt độ nhà",
+    "Phát triển plugin cho phép kiểm soát qua lệnh giọng nói bằng các trợ lý ảo",
+    "Sử dụng làm nền tảng cho các dự án cá nhân về giám sát nông trại nhỏscale"
+  ],
+  "stars": 91418,
+  "starsToday": 39,
+  "language": "Python",
+  "topics": [
+    "python",
+    "home-automation",
+    "iot",
+    "internet-of-things",
+    "mqtt",
+    "raspberry-pi",
+    "asyncio",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-12T22:22:58.897Z"
+}

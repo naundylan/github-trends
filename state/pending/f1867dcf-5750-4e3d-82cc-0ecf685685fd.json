@@ -1,0 +1,34 @@
+{
+  "id": "f1867dcf-5750-4e3d-82cc-0ecf685685fd",
+  "repo": "Bennettxai/FounderOS",
+  "url": "https://github.com/Bennettxai/FounderOS",
+  "category": "AI Agent/Automation",
+  "summary": "FounderOS là trung tâm điều khiển mã nguồn mở cho doanh nghiệp do một người vận hành, tích hợp các bộ phận AI hỗ trợ (tin tức, funnel, mạng xã hội, tài chính, agents, đồ thị kiến thức) trên một dashboard live, giúp tự động hóa và quản lý mọi khía cạnh của doanh nghiệp cá nhân.",
+  "usecases": [
+    "Tự động hóa quy trình kinh doanh và quản lý dự án cho freelancer và doanh nghiệp một người",
+    "Theo dõi và tối ưu hóa hoạt động marketing, bán hàng và tài chính trong thời gian thực thông qua dashboard",
+    "Tạo và duy trì knowledge graph cá nhân để liên kết dữ liệu và tăng năng suất"
+  ],
+  "ideas": [
+    "Kết hợp voice assistant để điều khiển dự án bằng giọng nói",
+    "Tích hợp đa kênh social media tự động đăng bài và tương tác với khách hàng",
+    "Phát triển plugin kết nối với CRM bên ngoài để đồng bộ dữ liệu khách hàng"
+  ],
+  "stars": 1086,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "dashboard",
+    "founder-os",
+    "nextjs",
+    "open-source",
+    "operator-os",
+    "personal-productivity",
+    "sqlite",
+    "tailwindcss",
+    "typescript"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-12T22:22:58.897Z"
+}

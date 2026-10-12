@@ -1,0 +1,34 @@
+{
+  "id": "668220a3-3fa5-4f18-a529-2538393d9651",
+  "repo": "hugohe3/ppt-master",
+  "url": "https://github.com/hugohe3/ppt-master",
+  "category": "AI/LLM",
+  "summary": "Sử dụng AI để tự động tạo ra các file PowerPoint đầy đủ hình dạng, chuyển động, biểu đồ và lời dẫn lời từ tài liệu hoặc chủ đề đầu vào.",
+  "usecases": [
+    "Tự động tạo bản trình bày từ tài liệu văn bản hoặc chủ đề cho mục đích giáo dục và doanh nghiệp.",
+    "Tiết kiệm thời gian thiết kế slide cho các dự án marketing và dự án cuối kỳ.",
+    "Tạo ra các slide có hình ảnh, biểu đồ và chuyển động chuyên nghiệp mà không cần kỹ năng thiết kế."
+  ],
+  "ideas": [
+    "Tích hợp với các công cụ quản lý dự án để tạo báo cáo trình bày tự động.",
+    "Tạo ra các slide đa ngôn ngữ cho giáo dục toàn cầu.",
+    "Kết hợp với voice AI để tạo ra các bài thuyết trình có lời dẫn lời tự động."
+  ],
+  "stars": 61065,
+  "starsToday": 772,
+  "language": "Python",
+  "topics": [
+    "ai-agent",
+    "powerpoint",
+    "pptx",
+    "presentation",
+    "office",
+    "slides",
+    "powerpoint-generation",
+    "ppt",
+    "slide",
+    "aippt"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-12T22:22:58.897Z"
+}

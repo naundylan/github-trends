@@ -1,0 +1,23 @@
+{
+  "id": "6f328e90-a262-404f-a168-9ea2b48790e7",
+  "repo": "NomaDamas/k-skill",
+  "url": "https://github.com/NomaDamas/k-skill",
+  "category": "AI Agent/Automation",
+  "summary": "K-skill là bộ kỹ năng JavaScript giúp AI agent hoặc LLM hiểu và tương tác theo ngữ cảnh văn hóa Korean, phù hợp cho người dùng nói tiếng Korea.",
+  "usecases": [
+    "Tăng khả năng hiểu câu lệnh giọng nói và văn phong Korea cho các chatbot",
+    "Tích hợp vào ứng dụng giáo dục ngôn ngữ để mô phỏng hội thoại thực tế",
+    "Sử dụng cho các hệ thống tự động hóa nội bộ doanh nghiệp cần xử lý dữ liệu Korea"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình LLM để tạo ra một Korean persona cho AI assistant",
+    "Phát triển extension cho VS Code giúp lập trình viên học Korean qua code",
+    "Sử dụng làm dữ liệu huấn luyện cho các model xử lý ngôn ngữ Korea"
+  ],
+  "stars": 7891,
+  "starsToday": 33,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-12T22:22:58.897Z"
+}

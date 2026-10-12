@@ -1,0 +1,37 @@
+{
+  "id": "31c12b85-c289-4c30-a361-fdd0bd44a4f9",
+  "repo": "lyogavin/airllm",
+  "url": "https://github.com/lyogavin/airllm",
+  "category": "AI/LLM",
+  "summary": "Cho phép chạy inference LLM 70B trên một GPU chỉ 4GB sử dụng qlora và tối ưu hóa bộ nhớ.",
+  "usecases": [
+    "Chạy inference LLM lớn trên phần cứng tiêu chuẩn không cần GPU cao cấp.",
+    "Tiết kiệm chi phí cơ sở hạ tầng cho các dự án AI nghiên cứu và sản xuất.",
+    "Phát triển và thử nghiệm các mô hình ngôn ngữ trên thiết bị cá nhân."
+  ],
+  "ideas": [
+    "Kết hợp với các thiết bị IoT để thực hiện inference AI trên thiết bị biên.",
+    "Sử dụng cho việc tạo nội dung tự động trong các ngôn ngữ ít được đại diện.",
+    "Phát triển hệ thống chatbot cá nhân chạy hoàn toàn trên laptop."
+  ],
+  "stars": 37464,
+  "starsToday": 886,
+  "language": "Jupyter Notebook",
+  "topics": [
+    "chinese-nlp",
+    "finetune",
+    "generative-ai",
+    "instruct-gpt",
+    "instruction-set",
+    "llama",
+    "llm",
+    "lora",
+    "open-models",
+    "open-source",
+    "open-source-models",
+    "qlora",
+    "chinese-llm"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-12T22:22:58.897Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "e18f1fed-c6da-4f3c-a8ce-052de1479e05",
+  "repo": "HEXUXIU/M365-Copilot2API",
+  "url": "https://github.com/HEXUXIU/M365-Copilot2API",
+  "category": "API/GraphQL",
+  "summary": "M365-Copilot2API là cổng API (gateway) chuyển đổi các yêu cầu từ Microsoft 365 Copilot thành định dạng tương thích với OpenAI/Anthropic, giúp tích hợp dễ dàng các tính năng AI vào ứng dụng bên ngoài.",
+  "usecases": [
+    "Cho phép nhà phát triển sử dụng các tính năng Copilot mà không cần phụ thuộc vào ecosystem Microsoft trực tiếp",
+    "Tích hợp khả năng AI của Copilot vào ứng dụng bên third-party sử dụng OpenAI SDK",
+    "Chuyển đổi và định tuyến request AI giữa các provider (OpenAI, Anthropic) linh hoạt"
+  ],
+  "ideas": [
+    "Phát triển multi-provider AI gateway hỗ trợ OpenAI, Anthropic, Google Gemini và Llama",
+    "Thêm tính năng theo dõi chi phí và sử dụng token cho từng provider",
+    "Tích hợp hệ thống prompt management và versioning cho các mô hình AI"
+  ],
+  "stars": 555,
+  "starsToday": 14,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-12T22:22:58.898Z"
+}
