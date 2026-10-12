@@ -1,0 +1,23 @@
+{
+  "id": "05f83260-25ea-4ddf-bd56-2528e8a9d4b3",
+  "repo": "fish2018/pansou",
+  "url": "https://github.com/fish2018/pansou",
+  "category": "Developer Tool",
+  "summary": "API cao tốc tìm kiếm tài nguyên mạng đĩa, tích hợp Telegram và plugin, hỗ trợ tìm kiếm đa kênh song song, phân loại loại đĩa và sắp xếp kết quả thông minh. Đã đóng gói Docker để triển khai ngay.",
+  "usecases": [
+    "Tự động tìm và tổng hợp tài nguyên từ nhiều kênh mạng đĩa vào một điểm truy cập duy nhất",
+    "Tích hợp vào bot Telegram để cung cấp tìm kiếm tài nguyên trực tiếp trong hội thoại",
+    "Cung cấp dịch vụ API cho ứng dụng bên ngoài để truy cập và tìm kiếm tài nguyên mạng đĩa"
+  ],
+  "ideas": [
+    "Triển khai hệ thống tìm kiếm đa ngôn ngữ và đa khu vực cho tài nguyên toàn cầu",
+    "Phát triển plugin cho client mạng đĩa phổ biến để hiển thị kết quả nội bộ",
+    "Kết hợp AI để cải thiện thứ hạng và lọc kết quả dựa trên ý định người dùng"
+  ],
+  "stars": 14875,
+  "starsToday": 11,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-12T03:37:33.044Z"
+}

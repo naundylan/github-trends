@@ -1,0 +1,37 @@
+{
+  "id": "93bceeb4-0e1c-4677-90ef-1dcfbadf305e",
+  "repo": "lyogavin/airllm",
+  "url": "https://github.com/lyogavin/airllm",
+  "category": "AI/LLM",
+  "summary": "Dự án cho phép chạy inference mô hình LLM 70B trên một GPU duy nhất 4GB thông qua tối ưu hóa memory và quantization.",
+  "usecases": [
+    "Cho phép các nhà nghiên cứu chạy các mô hình LLM lớn trên phần cứng tiêu dùng mà không cần cluster đắt tiền.",
+    "Tích hợp vào các ứng dụng chatbot hoặc assistant cục bộ với chi phí hạ tầng thấp.",
+    "Dùng cho finetune và thử nghiệm prompt trên máy cá nhân."
+  ],
+  "ideas": [
+    "Kết hợp với Retrieval-Augmented Generation (RAG) để tạo ra một assistant chuyên biệt chạy trên laptop.",
+    "Phát triển một nền tảng đa người dùng chia sẻ tài nguyên GPU cho inference LLM.",
+    "Sử dụng cho việc tạo nội dung tự động hoặc code assistance offline."
+  ],
+  "stars": 36626,
+  "starsToday": 548,
+  "language": "Jupyter Notebook",
+  "topics": [
+    "chinese-nlp",
+    "finetune",
+    "generative-ai",
+    "instruct-gpt",
+    "instruction-set",
+    "llama",
+    "llm",
+    "lora",
+    "open-models",
+    "open-source",
+    "open-source-models",
+    "qlora",
+    "chinese-llm"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-12T03:37:33.044Z"
+}

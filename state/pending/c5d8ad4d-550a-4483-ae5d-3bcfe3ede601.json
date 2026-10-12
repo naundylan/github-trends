@@ -1,0 +1,35 @@
+{
+  "id": "c5d8ad4d-550a-4483-ae5d-3bcfe3ede601",
+  "repo": "agalwood/Motrix",
+  "url": "https://github.com/agalwood/Motrix",
+  "category": "Desktop App",
+  "summary": "Phần mềm quản lý tải tập tin toàn diện hỗ trợ đa nền tảng, sử dụng Aria2 để tăng tốc và hỗ trợ torrent, magnet link cùng giao diện Electron hiện đại.",
+  "usecases": [
+    "Tải file và thư mục nhanh qua Aria2 với nhiều luồng",
+    "Quản lý torrent và magnet link một cách trực quan",
+    "Theo dõi và kiểm soát tốc độ tải trên Windows, macOS, Linux"
+  ],
+  "ideas": [
+    "Tích hợp với cloud storage để tự động upload file sau khi tải xong",
+    "Thiết lập làm daemon tải cho home server hoặc VPS",
+    "Thêm tính năng lịch tải tự động dựa trên lịch trình người dùng"
+  ],
+  "stars": 56501,
+  "starsToday": 158,
+  "language": "TypeScript",
+  "topics": [
+    "motrix",
+    "aria2",
+    "macos",
+    "windows",
+    "linux",
+    "magnet",
+    "electron",
+    "bt",
+    "mac",
+    "download",
+    "torrent"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-12T03:37:33.044Z"
+}

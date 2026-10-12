@@ -1,0 +1,31 @@
+{
+  "id": "0769dbcc-0358-4869-8703-b3c8f7325aa6",
+  "repo": "QuantumNous/new-api",
+  "url": "https://github.com/QuantumNous/new-api",
+  "category": "AI/LLM",
+  "summary": "New-api là hub tổng hợp mô hình AI, cho phép chuyển đổi và tổng hợp LLMs thành định dạng OpenAI, Claude hoặc Gemini, hoạt động như cổng quản lý model cho cá nhân và doanh nghiệp.",
+  "usecases": [
+    "Đa dạng hóa nguồn cung cấp AI cho ứng dụng, giảm phụ thuộc vào một provider duy nhất",
+    "Chuyển đổi mô hình giữa các nền tảng để tương thích với hệ thống đã tồn tại",
+    "Quản lý và phân phối model tùy chỉnh cho đội ngũ nghiên cứu hoặc sản xuất doanh nghiệp"
+  ],
+  "ideas": [
+    "Xây dựng AI router tự động chọn model tối ưu dựa trên chi phí, latency và tác vụ",
+    "Kết hợp với RAG để tạo knowledge base phân tán",
+    "Sử dụng cho model distillation/quantization tự động giữa các format"
+  ],
+  "stars": 49736,
+  "starsToday": 71,
+  "language": "Go",
+  "topics": [
+    "claude",
+    "gemini",
+    "openai",
+    "rerank",
+    "ai-gateway",
+    "deepseek",
+    "newapi"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-12T03:37:33.044Z"
+}

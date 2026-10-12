@@ -1,0 +1,28 @@
+{
+  "id": "92c7e77d-5696-4f3b-9518-23f48fb5d1ea",
+  "repo": "chrislgarry/Apollo-11",
+  "url": "https://github.com/chrislgarry/Apollo-11",
+  "category": "Embedded/IoT",
+  "summary": "Mã nguồn gốc của Guidance Computer (AGC) cho Apollo 11, viết bằng Assembly, là tài liệu lịch sử quan trọng về tính toán và phần cứng phi không thời kỳ đắc nhân văn.",
+  "usecases": [
+    "Educational study of historical aerospace computing and embedded Assembly programming.",
+    "Analysis of historical guidance and navigation algorithms for space mission research.",
+    "Foundation for building modern embedded system simulations or retro-computing projects."
+  ],
+  "ideas": [
+    "Create a WebAssembly-based AGC simulator running directly in browsers to demonstrate historical computing constraints.",
+    "Integrate AGC code into modern IoT firmware education curricula for teaching resource optimization.",
+    "Develop an interactive dashboard visualizing AGC real-time data alongside modern sensor inputs."
+  ],
+  "stars": 74313,
+  "starsToday": 466,
+  "language": "Assembly",
+  "topics": [
+    "agc",
+    "nasa",
+    "apollo",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-12T03:37:33.044Z"
+}

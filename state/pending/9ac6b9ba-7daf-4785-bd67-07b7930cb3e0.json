@@ -1,0 +1,23 @@
+{
+  "id": "9ac6b9ba-7daf-4785-bd67-07b7930cb3e0",
+  "repo": "denoland/celld",
+  "url": "https://github.com/denoland/celld",
+  "category": "Serverless",
+  "summary": "Celld là nền tảng self-hosted cho Distributed Objects, cho phép triển khai ứng dụng có trạng thái bền vững trên nhiều máy chủ mà không phụ thuộc dịch vụ đám mây.",
+  "usecases": [
+    "Triển khai Cloudflare Workers-style trên hạ tầng riêng tư",
+    "Xây dựng ứng dụng real-time có trạng thái như chat hoặc collaborative tools",
+    "Phân tán tính toán nặng across nhiều node với consistency guarantees"
+  ],
+  "ideas": [
+    "Kết hợp với Kubernetes để auto-scale Durable Objects dựa trên tải thực tế",
+    "Sử dụng làm foundation cho hệ thống notification đa nền tảng không phụ thuộc cloud provider",
+    "Triển khai edge computing distribution tại các data center địa lý phân tán"
+  ],
+  "stars": 5443,
+  "starsToday": 90,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Serverless.md",
+  "createdAt": "2026-10-12T03:37:33.044Z"
+}

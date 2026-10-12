@@ -1,0 +1,43 @@
+{
+  "id": "a41396c7-19d1-4053-b260-7db44d378adb",
+  "repo": "XiaoYouChR/Ghost-Downloader-3",
+  "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+  "category": "Desktop App",
+  "summary": "Downloader đa nền tảng viết bằng Python/PySide6, tích hợp HTTP/3, BT, FTP và giao diện hiện đại, cung cấp trải nghiệm tải tập tin toàn diện trên các hệ điều hành.",
+  "usecases": [
+    "Tải streaming và file qua HTTP/3 với tốc độ cao",
+    "Hỗ trợ tải torrent và FTP trong một ứng dụng duy nhất",
+    "Tự động hóa danh sách tải trên nhiều thiết bị cross-platform"
+  ],
+  "ideas": [
+    "Tích hợp AI để dự đoán thời gian hoàn thành và tối ưu luồng tải",
+    "Phát triển plugin cho các ứng dụng Qt khác để tái sử dụng logic downloader",
+    "Thêm hỗ trợ đồng bộ trạng thái tải qua cloud hoặc local network"
+  ],
+  "stars": 9728,
+  "starsToday": 128,
+  "language": "Python",
+  "topics": [
+    "downloader",
+    "pyside6",
+    "python",
+    "qt",
+    "software",
+    "streaming",
+    "async",
+    "asyncio",
+    "cross-platform",
+    "pyqt",
+    "quic",
+    "http3",
+    "bittorent",
+    "fluent-design",
+    "ftp",
+    "react",
+    "magnet",
+    "download-manager",
+    "bt"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-12T03:37:33.044Z"
+}

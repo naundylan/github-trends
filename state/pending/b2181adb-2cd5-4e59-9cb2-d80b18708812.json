@@ -1,0 +1,39 @@
+{
+  "id": "b2181adb-2cd5-4e59-9cb2-d80b18708812",
+  "repo": "CopilotKit/OpenIntelligentUI",
+  "url": "https://github.com/CopilotKit/OpenIntelligentUI",
+  "category": "AI/LLM",
+  "summary": "Open-source framework cho Generative UI, cho phép tạo giao diện động và tương tác dựa trên LLM và agent AI, hỗ trợ xây dựng chatbot và ứng dụng trực quan hóa AI.",
+  "usecases": [
+    "Build AI-powered chatbots and assistants that dynamically generate and update UI components based on LLM output.",
+    "Integrate generative UI into web applications to auto-create personalized interfaces from natural language prompts.",
+    "Enable agentic AI systems to visualize workflow results and data through adaptive UI elements in real time."
+  ],
+  "ideas": [
+    "Develop a real-time AI dashboard that auto-renders charts and controls using OpenIntelligentUI based on LLM-analyzed data streams.",
+    "Combine the framework with React to create components that self-generate code and layout from user prompts.",
+    "Build an autonomous agent platform where UI updates automatically as the agent completes tasks and reasoning steps."
+  ],
+  "stars": 2701,
+  "starsToday": 278,
+  "language": "TypeScript",
+  "topics": [
+    "agent-native",
+    "agentic-ai",
+    "agents",
+    "ai-agents",
+    "ai-copilot",
+    "ai-visualization",
+    "assistant-chat-bots",
+    "copilot",
+    "generative-ui",
+    "javascript",
+    "llm",
+    "open-source",
+    "typescript",
+    "visualization",
+    "agentic-visualization"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-12T03:37:33.044Z"
+}
