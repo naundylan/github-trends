@@ -1,0 +1,25 @@
+{
+  "id": "0229650a-01b8-4d03-8f20-6b4dfdd09088",
+  "repo": "ranxianglei/billion-context",
+  "url": "https://github.com/ranxianglei/billion-context",
+  "category": "Developer Tool",
+  "summary": "billion-context is a TypeScript plugin that compresses context windows, enabling 100K+ context capacity, 5x token savings, and month-long single-session conversations with billions of tokens.",
+  "usecases": [
+    "Running long-form document analysis or legal contract review in a single LLM session without context overflow.",
+    "Enabling month-long continuous chat assistants that retain full conversation history with massive token budgets.",
+    "Reducing API costs and latency for LLM applications by compressing prompts while preserving key information."
+  ],
+  "ideas": [
+    "Integrate with code editors to optimize large codebase contexts for AI pair programming.",
+    "Deploy as middleware for chatbots handling long-term customer service interactions with full history retention.",
+    "Combine with retrieval-augmented generation (RAG) to selectively compress irrelevant tokens while preserving retrieved knowledge."
+  ],
+  "stars": 1064,
+  "starsToday": 219,
+  "language": "TypeScript",
+  "topics": [
+    "dsh-plugin"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-12T14:05:38.702Z"
+}

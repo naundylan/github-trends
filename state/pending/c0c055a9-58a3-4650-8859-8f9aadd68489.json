@@ -1,0 +1,23 @@
+{
+  "id": "c0c055a9-58a3-4650-8859-8f9aadd68489",
+  "repo": "microsoft/BitNet",
+  "url": "https://github.com/microsoft/BitNet",
+  "category": "AI/LLM",
+  "summary": "Khung inference cho các mô hình LLM 1-bit, cho phép chạy trên phần cứng tiêu chuẩn với độ chính xác cao và chi phí tính toán thấp.",
+  "usecases": [
+    "Chạy các mô hình LLM 1-bit trên GPU/CPP mà không cần quantization phức tạp.",
+    "Triển khai inference AI trên thiết bị biên (edge) với tài nguyên hạn chế.",
+    "Nghiên cứu và triển khai các mô hình ngôn ngữ với kích thước nhớ giảm đáng kể."
+  ],
+  "ideas": [
+    "Kết hợp với các framework nhúng (embedded) để tạo các thiết bị AI trợ lý cá nhân không cần internet.",
+    "Sử dụng trong các môi trường có giới hạn băng thông/tiện ích như không gian vũ trụ hoặc hậu cần sâu.",
+    "Phát triển một phiên bản web lightweight cho phép người dùng chuyển đổi giữa các mô hình 1-bit trên fly."
+  ],
+  "stars": 40762,
+  "starsToday": 195,
+  "language": "C++",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-12T14:05:38.702Z"
+}

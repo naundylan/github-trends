@@ -1,0 +1,38 @@
+{
+  "id": "43a3539e-eec3-41e6-a816-9f6cc7ff854b",
+  "repo": "OpenBMB/VoxCPM",
+  "url": "https://github.com/OpenBMB/VoxCPM",
+  "category": "AI/LLM",
+  "summary": "VoxCPM là mô hình Text-to-Speech tokenizer-free cho sinh giọng đa ngôn ngữ, thiết kế giọng hát sáng tạo và clone giọng nói thực tế với chất lượng cao.",
+  "usecases": [
+    "Sinh giọng cho trợ lý ảo và ứng dụng truy đọc màn hình đa ngôn ngữ",
+    "Clone giọng nói cá nhân cho nội dung sáng tạo (podcast, video, game)",
+    "Hỗ trợ tạo nhạc/âm thanh bằng giọng AI cho sản xuất nội dung"
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tạo câu chuyện có giọng đọc tự động đa ngôn ngữ",
+    "Phát triển ứng dụng thay thế cho voiceover chuyên gia trong quảng cáo",
+    "Sử dụng trong môi trường học tập tiếng nước ngoài với phát âm chuẩn"
+  ],
+  "stars": 39122,
+  "starsToday": 370,
+  "language": "Python",
+  "topics": [
+    "audio",
+    "deeplearning",
+    "minicpm",
+    "python",
+    "pytorch",
+    "speech",
+    "speech-synthesis",
+    "text-to-speech",
+    "tts",
+    "tts-model",
+    "voice-cloning",
+    "multilingual",
+    "voice-design",
+    "voxcpm"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-12T14:05:38.702Z"
+}

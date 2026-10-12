@@ -1,0 +1,44 @@
+{
+  "id": "c49d7e82-b143-4202-aff3-179c45ca1852",
+  "repo": "Javis603/token-monitor",
+  "url": "https://github.com/Javis603/token-monitor",
+  "category": "Desktop App",
+  "summary": "Widget desktop local-first theo dõi sử dụng token, chi phí, giới hạn và hoạt động phiên Across 44+ AI coding tools, hỗ trợ đồng bộ nhiều thiết bị.",
+  "usecases": [
+    "Real-time token and cost monitoring across multiple AI coding platforms",
+    "Cross-device sync for developers working on different machines",
+    "Local data privacy compliance by keeping usage data on-device"
+  ],
+  "ideas": [
+    "Integrate with self-hosted analytics dashboards for team-wide usage insights",
+    "Add alerting mechanisms for token limit exhaustion or cost overruns",
+    "Extend tracking to non-AI desktop applications for generalized usage metrics"
+  ],
+  "stars": 2949,
+  "starsToday": 156,
+  "language": "JavaScript",
+  "topics": [
+    "ai-tools",
+    "claude-code",
+    "codex",
+    "llm",
+    "local-first",
+    "self-hosted",
+    "token-tracker",
+    "token-usage",
+    "cursor",
+    "openclaw",
+    "opencode",
+    "ai",
+    "linux",
+    "macos",
+    "windows",
+    "hermes-agent",
+    "antigravity",
+    "deepseek",
+    "deepseek-harness",
+    "dsh"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-12T14:05:38.702Z"
+}

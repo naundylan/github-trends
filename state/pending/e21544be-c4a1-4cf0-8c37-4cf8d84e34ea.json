@@ -1,0 +1,23 @@
+{
+  "id": "e21544be-c4a1-4cf0-8c37-4cf8d84e34ea",
+  "repo": "Crosstalk-Solutions/project-nomad",
+  "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "Mô phỏng server kiến thức offline-first, gom Wikipedia, sách, khóa học, bản đồ và AI cục bộ chạy trên phần cứng cá nhân mà không cần kết nối internet.",
+  "usecases": [
+    "Truy cập toàn bộ Wikipedia và thư viện sách giáo khoa trong môi trường offline hoàn toàn (địa lý vùng격ri, phiêu lưu ngoài trời).",
+    "Học tập và nghiên cứu tự học mà không cần kết nối internet, phù hợp cho sinh viên vùng sâu vùng xa.",
+    "Kết hợp AI cục bộ để trả lời câu hỏi, tạo nội dung dựa trên dữ liệu nội bộ đã tải về."
+  ],
+  "ideas": [
+    "Tạo ra một 'offline Wikipedia' cá nhân có khả năng tìm kiếm semantic qua AI cục bộ.",
+    "Dùng làm nền tảng cho các trường học phi kết nối hoặc các vùng khắc khổ nơi internet không đến.",
+    "Kết hợp với AR/VR để tạo ra các trải nghiệm học tập沉浸 (immersive) mà không cần cloud."
+  ],
+  "stars": 39619,
+  "starsToday": 168,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-10-12T14:05:38.702Z"
+}
