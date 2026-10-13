@@ -1,0 +1,31 @@
+{
+  "id": "769dc69e-b029-4e68-8fe7-e7b8929ac21d",
+  "repo": "jaegertracing/jaeger",
+  "url": "https://github.com/jaegertracing/jaeger",
+  "category": "Developer Tool",
+  "summary": "Jaeger là nền tảng phân tán tracing do CNCF duy trì, giúp theo dõi và phân tích luồng request qua các microservice, cung cấp khả năng quan sát cho hệ thống phức tạp.",
+  "usecases": [
+    "Phân tích hiệu năng và độ trễ của request giữa các service trong kiến trúc microservice.",
+    "Tìm gốc lỗi giao tiếp và bottle-neck trong hệ thống phân tán.",
+    "Giám sát luồng dữ liệu và kiểm tra tính toàn vẹn của giao thức communication giữa service."
+  ],
+  "ideas": [
+    "Kết hợp với OpenTelemetry để thu thập metric tự động cho các service không có tracing.",
+    "Phát triển dashboard tùy chỉnh để trực quan hóa độ phức tạp tương tác giữa service.",
+    "Sử dụng dữ liệu tracing để train model dự đoán sự cố trước khi xảy ra."
+  ],
+  "stars": 23288,
+  "starsToday": 10,
+  "language": "Go",
+  "topics": [
+    "distributed-tracing",
+    "cncf",
+    "tracing",
+    "observability",
+    "jaeger",
+    "opentelemetry",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-13T04:50:13.459Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "956d4259-1282-4022-b642-56cefbd0f99b",
+  "repo": "evcc-io/evcc",
+  "url": "https://github.com/evcc-io/evcc",
+  "category": "Embedded/IoT",
+  "summary": "Phần mềm nguồn mở điều khiển sạc xe điện bằng năng lượng mặt trời, tích hợp pin, tường sạc và tự động hóa nhà thông minh.",
+  "usecases": [
+    "Tự động sạc xe điện khi năng lượng mặt trời dư lượng cao, tối ưu chi phí điện.",
+    "Giám sát và điều khiển pin nhà và sạc xe thông qua giao diện web/MQTT.",
+    "Kết nối với các tường sạc Wallbox và inverter PV để quản lý năng lượng toàn hệ thống."
+  ],
+  "ideas": [
+    "Tạo hệ thống dự báo năng lượng mặt trời + nhu cầu sạc xe bằng AI để tối ưu hóa lịch sạc.",
+    "Kết nối với mạng lưới thông minh (Smart Grid) để bán lại năng lượng dư lượng.",
+    "Ứng dụng di động theo dõi trạng thái sạc xe và hiệu suất PV theo thời gian thực."
+  ],
+  "stars": 7356,
+  "starsToday": 7,
+  "language": "Go",
+  "topics": [
+    "mqtt",
+    "golang",
+    "pv",
+    "wallbox",
+    "emobility",
+    "charger",
+    "home-automation",
+    "modbus",
+    "sunspec",
+    "ocpp",
+    "eebus",
+    "semp",
+    "battery",
+    "solar"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-13T04:50:13.459Z"
+}

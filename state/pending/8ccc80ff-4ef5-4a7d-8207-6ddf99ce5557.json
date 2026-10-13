@@ -1,0 +1,23 @@
+{
+  "id": "8ccc80ff-4ef5-4a7d-8207-6ddf99ce5557",
+  "repo": "YouROK/TorrServer",
+  "url": "https://github.com/YouROK/TorrServer",
+  "category": "CLI Tool",
+  "summary": "Phần mềm server Go phát trực tuyến các file torrent, cho phép streaming nội dung qua mạng.",
+  "usecases": [
+    "Phát trực tuyến video/âm lượng từ torrent mà không cần tải xuống toàn bộ.",
+    "Chia sẻ nội dung torrent trong mạng nội bộ với tốc độ cao.",
+    "Tạo server torrent cá nhân để truy cập từ xa qua web."
+  ],
+  "ideas": [
+    "Kết hợp CDN để phân phối nội dung torrent qua nhiều node đồng thời.",
+    "Tính năng chuyển đổi định dạng streaming cho thiết bị di động.",
+    "Tích hợp RSS feeds để tự động cập nhật danh sách phát torrent."
+  ],
+  "stars": 3121,
+  "starsToday": 8,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-13T04:50:13.459Z"
+}

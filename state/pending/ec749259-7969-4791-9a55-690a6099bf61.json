@@ -1,0 +1,23 @@
+{
+  "id": "ec749259-7969-4791-9a55-690a6099bf61",
+  "repo": "microsoft/BitNet",
+  "url": "https://github.com/microsoft/BitNet",
+  "category": "AI/LLM",
+  "summary": "Khung inference tối ưu hóa cho các mô hình LLM 1-bit, cho phép chạy trên phần cứng tiêu thụ ít điện năng với độ chính xác cao.",
+  "usecases": [
+    "Triển khai các mô hình LLM trên thiết bị biên (edge devices) với tài nguyên tính toán hạn chế.",
+    "Giảm chi phí hạ tầng cho các dịch vụ inference AI trong quy mô lớn.",
+    "Nghiên cứu và phát triển các ứng dụng AI chạy trên CPU/GPU tiêu thụ ít điện năng."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống chat local chạy hoàn toàn trên máy tính cá nhân mà không cần kết nối internet.",
+    "Phát triển framework đa ngôn ngữ cho các mô hình 1-bit trên các thiết bị IoT.",
+    "Tối ưu hóa luồng inference cho các tác vụ tạo code trong môi trường offline."
+  ],
+  "stars": 40977,
+  "starsToday": 97,
+  "language": "C++",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-13T04:50:13.459Z"
+}

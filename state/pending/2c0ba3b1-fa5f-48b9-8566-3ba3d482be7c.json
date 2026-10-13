@@ -1,0 +1,25 @@
+{
+  "id": "2c0ba3b1-fa5f-48b9-8566-3ba3d482be7c",
+  "repo": "ranxianglei/billion-context",
+  "url": "https://github.com/ranxianglei/billion-context",
+  "category": "AI/LLM",
+  "summary": "Plugin nén ngữ cảnh cho mô hình LLM, cho phép cửa sổ ngữ cảnh nhỏ (100k token) đáp ứng yêu cầu, tiết kiệm token lên 5x và hỗ trợ phiên trò chuyện liên tục kéo dài cả tháng với hàng tỷ token.",
+  "usecases": [
+    "Cho phép chatbot duy trì phiên trò chuyện hàng tháng mà không bị giới hạn token",
+    "Giảm chi phí API cho các ứng dụng LLM bằng cách giảm số token xử lý",
+    "Tối ưu hiệu suất cho mô hình có cửa sổ ngữ cảnh nhỏ trong hệ thống nội bộ"
+  ],
+  "ideas": [
+    "Kết hợp với AI agents để duy trì trạng thái hội thoại dài hạn",
+    "Phát triển tính năng nén ngữ cảnh cho các mô hình trên thiết bị",
+    "Sử dụng trong hệ thống thu thập và phân tích log dài hạn"
+  ],
+  "stars": 1106,
+  "starsToday": 216,
+  "language": "TypeScript",
+  "topics": [
+    "dsh-plugin"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-13T04:50:13.458Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "fd60c9f2-4a8c-43f2-864f-45f7a0e8537b",
+  "repo": "breferrari/obsidian-mind",
+  "url": "https://github.com/breferrari/obsidian-mind",
+  "category": "AI Agent/Automation",
+  "summary": "Một template vault Obsidian tự tổ chức tự động, cung cấp bộ nhớ bền vững cho các agent AI viết code, giúp tạo ra second-brain thông minh liên tục.",
+  "usecases": [
+    "Giúp agent AI (như Claude, Codex, Gemini) ghi nhớ và truy xuất kiến thức từ vault Obsidian giữa các phiên làm việc.",
+    "Tự động tổ chức lưu trữ các dự án code, yêu cầu, và tài liệu tham khảo theo cấu trúc logic.",
+    "Tạo ra một bộ nhớ cá nhân liên tục cho các dự án phát triển phần mềm dài hạn."
+  ],
+  "ideas": [
+    "Kết hợp với CLI tự động để agent cập nhật vault khi hoàn thành tác vụ.",
+    "Sử dụng làm nền tảng cho công cụ quản lý dự án cá nhân có khả năng hồi tưởng kiến thức.",
+    "Mở rộng để agent tự tạo tài liệu thiết kế hệ thống dựa trên lịch sử tương tác."
+  ],
+  "stars": 5266,
+  "starsToday": 69,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "codex-cli",
+    "gemini-cli",
+    "knowledge-management",
+    "obsidian",
+    "obsidian-vault",
+    "persistent-memory",
+    "second-brain",
+    "template"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-13T04:50:13.459Z"
+}
