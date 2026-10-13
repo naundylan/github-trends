@@ -1,0 +1,29 @@
+{
+  "id": "14d4c5c2-a1b9-4e73-938c-b0d39e225f83",
+  "repo": "rommapp/romm",
+  "url": "https://github.com/rommapp/romm",
+  "category": "Desktop App",
+  "summary": "Ứng dụng self-hosted đẹp và mạnh mẽ để quản lý và phát ROM game rétro, hỗ trợ chơi lại các trò chơi cổ điển.",
+  "usecases": [
+    "Quản lý thư viện ROM game rétro tập trung trên máy chủ cá nhân với danh mục và metadata.",
+    "Chơi lại các trò chơi cổ điển với các tính năng nâng cao như lưu trạng thái (save state), cheat codes và emulator đa nền tảng.",
+    "Truy cập và chơi game từ xa qua mạng nội bộ hoặc internet an toàn cho cá nhân hoặc cộng đồng."
+  ],
+  "ideas": [
+    "Tạo ra một hệ thống game rétro cá nhân riêng biệt kết hợp với emulator đa nền tảng và giao diện web.",
+    "Phát triển plugin cho phép chia sẻ thư viện ROM và tiến trình chơi giữa các người dùng trong cùng một mạng LAN.",
+    "Kết hợp với API phát nhạc và video để tạo ra một trung tâm giải trí self-hosted toàn diện."
+  ],
+  "stars": 13595,
+  "starsToday": 158,
+  "language": "Python",
+  "topics": [
+    "retrogaming",
+    "self-hosted",
+    "open-source",
+    "emulation",
+    "rommapp"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-13T13:26:38.135Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "b9559fcf-cc86-4f9f-bc2c-0903d3880122",
+  "repo": "heygen-com/hyperframes",
+  "url": "https://github.com/heygen-com/hyperframes",
+  "category": "AI/LLM",
+  "summary": "Hyperframes là framework cho phép viết HTML và render video, được thiết kế đặc biệt cho AI agent tạo và xử lý nội dung video động.",
+  "usecases": [
+    "Tự động tạo video marketing hoặc nội dung social media dựa trên prompt text thông qua AI.",
+    "Render animation và cutscene cho game hoặc ứng dụng tương tác bằng cách viết HTML/CSS.",
+    "Giúp AI agent tạo ra video động theo yêu cầu cho các ứng dụng giáo dục hoặc giải trí."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để chuyển đổi text description thành video hoàn chỉnh tự động.",
+    "Sử dụng làm engine render video cho các AI agent điều khiển simulation hoặc game.",
+    "Xây dựng platform self-service cho creator tạo video hàng loạt theo chủ đề hoặc phong cách nhất định."
+  ],
+  "stars": 62245,
+  "starsToday": 831,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "animation",
+    "ffmpeg",
+    "framework",
+    "gsap",
+    "html",
+    "mcp",
+    "puppeteer",
+    "rendering",
+    "typescript",
+    "video"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-13T13:26:38.135Z"
+}

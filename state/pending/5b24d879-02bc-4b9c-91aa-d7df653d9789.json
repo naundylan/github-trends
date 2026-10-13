@@ -1,0 +1,44 @@
+{
+  "id": "5b24d879-02bc-4b9c-91aa-d7df653d9789",
+  "repo": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "category": "AI Agent/Automation",
+  "summary": "AI agent nghiên cứu chủ đề trên nhiều nền tảng (Reddit, X, YouTube, v.v.) và tổng hợp bản tóm tắt grounded, cung cấp thông tin chính xác và cập nhật.",
+  "usecases": [
+    "Nghiên cứu xu hướng hoặc chủ đề khoa học tổng hợp từ nhiều nguồn đa dạng.",
+    "Tạo báo cáo tự động cho các dự án hoặc newsletter.",
+    "Cung cấp tóm tắt grounded cho câu hỏi kỹ thuật hoặc pháp lý."
+  ],
+  "ideas": [
+    "Tích hợp vào chatbot tư vấn để cung cấp thông tin có nguồn gốc và cập nhật.",
+    "Tự động hóa theo dõi tin tức hàng ngày và tổng hợp vào newsletter cá nhân.",
+    "Xây dựng hệ thống research đa phương tiện kết hợp text, video, và social media."
+  ],
+  "stars": 64131,
+  "starsToday": 103,
+  "language": "Python",
+  "topics": [
+    "ai-prompts",
+    "claude",
+    "claude-code",
+    "reddit",
+    "twitter",
+    "hackernews",
+    "polymarket",
+    "research",
+    "youtube",
+    "ai-skill",
+    "bluesky",
+    "clawhub",
+    "deep-research",
+    "instagram",
+    "openclaw",
+    "recency",
+    "social-media",
+    "tiktok",
+    "trends",
+    "web-search"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-13T13:26:38.135Z"
+}

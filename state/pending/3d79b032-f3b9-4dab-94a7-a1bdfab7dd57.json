@@ -1,0 +1,23 @@
+{
+  "id": "3d79b032-f3b9-4dab-94a7-a1bdfab7dd57",
+  "repo": "baidu/Unlimited-OCR",
+  "url": "https://github.com/baidu/Unlimited-OCR",
+  "category": "Computer Vision",
+  "summary": "Hệ thống OCR không giới hạn cho phép phân tích văn bản dài một lần (one-shot long-horizon parsing), phù hợp với tài liệu dài và hình ảnh horizontalscape phức tạp.",
+  "usecases": [
+    "Trích xuất văn bản từ tài liệu dài (sách, báo cáo, hợp đồng) trong một lần xử lý.",
+    "Xử lý OCR cho video luân phiên hoặc ảnh panoramic.",
+    "Tích hợp vào pipeline dữ liệu cho ứng dụng cần đọc văn bản từ hình ảnh."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để hiểu ngữ cảnh văn bản OCR đã trích xuất.",
+    "Phát triển một web service phục vụ cho các nhà phát triển cần tính năng OCR hàng bulk.",
+    "Sử dụng cho tự động hóa nhập liệu dữ liệu từ hóa đơn hoặc ticket in tay."
+  ],
+  "stars": 27238,
+  "starsToday": 210,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-10-13T13:26:38.135Z"
+}

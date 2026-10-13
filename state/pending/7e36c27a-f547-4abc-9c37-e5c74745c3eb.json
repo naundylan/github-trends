@@ -1,0 +1,30 @@
+{
+  "id": "7e36c27a-f547-4abc-9c37-e5c74745c3eb",
+  "repo": "xtool-org/xtool",
+  "url": "https://github.com/xtool-org/xtool",
+  "category": "Developer Tool",
+  "summary": "xtool cung cấp một giải pháp cross-platform thay thế Xcode, cho phép phát triển và triển khai ứng dụng iOS sử dụng SwiftPackage Manager trên Linux, Windows và macOS.",
+  "usecases": [
+    "Phát triển ứng dụng iOS trên môi trường Windows hoặc Linux mà không cần máy Mac.",
+    "Tích hợp tự động hóa build iOS trong CI/CD pipelines trên server Linux.",
+    "Cho phép các team phát triển cross-platform dùng Swift cho cả iOS và các nền tảng khác."
+  ],
+  "ideas": [
+    "Kết hợp với các dịch vụ đám mây (như GitHub Actions trên Linux) để build và ký iOS apps tự động.",
+    "Phát triển một desktop app quản lý và monitoring nhiều project iOS cùng lúc trên một máy tính.",
+    "Tạo plugin cho IDEs phổ biến (VS Code, JetBrains) để hỗ trợ development Swift cross-platform."
+  ],
+  "stars": 8672,
+  "starsToday": 936,
+  "language": "Swift",
+  "topics": [
+    "ios",
+    "linux",
+    "swift",
+    "swift-package-manager",
+    "windows",
+    "xcode"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-13T13:26:38.135Z"
+}

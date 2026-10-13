@@ -1,0 +1,23 @@
+{
+  "id": "7210fa70-e9ee-4c75-9866-bf2ca26177f7",
+  "repo": "NVIDIA/personaplex",
+  "url": "https://github.com/NVIDIA/personaplex",
+  "category": "AI/LLM",
+  "summary": "PersonaPlex là dự án mã nguồn Python do NVIDIA phát triển, nhằm hỗ trợ tạo và quản lý các persona ảo hoặc mô hình AI tương tác.",
+  "usecases": [
+    "Phát triển ứng dụng AI chatbot với các persona tùy chỉnh",
+    "Sử dụng để tạo mô hình giả lập người dùng trong thử nghiệm UI/UX",
+    "Hỗ trợ nghiên cứu về tương tác giữa nhiều agent trong môi trường Python"
+  ],
+  "ideas": [
+    "Xây dựng ứng dụng quản lý persona cho chatbot thương mại điện tử",
+    "Kết hợp với Unity để tạo NPC ảo có personality dựa trên PersonaPlex",
+    "Sử dụng để tạo dữ liệu training cho mô hình LLM về hành vi người dùng"
+  ],
+  "stars": 11075,
+  "starsToday": 123,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-13T13:26:38.135Z"
+}

@@ -41,7 +41,7 @@
   },
   "TencentCloud/CubeSandbox": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-10-09"
   },
   "ogulcancelik/herdr": {
@@ -186,8 +186,8 @@
   },
   "mvanhorn/last30days-skill": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-09-01",
-    "last_saved": "2026-08-28"
+    "last_seen": "2026-10-13",
+    "last_saved": "2026-10-13"
   },
   "openclaw/openclaw": {
     "first_seen": "2026-07-05",
@@ -201,7 +201,7 @@
   },
   "ruvnet/RuView": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-10-05"
   },
   "alirezarezvani/claude-skills": {
@@ -336,7 +336,7 @@
   },
   "vxcontrol/pentagi": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-10-09"
   },
   "tinyhumansai/openhuman": {
@@ -481,8 +481,8 @@
   },
   "heygen-com/hyperframes": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-10-07",
-    "last_saved": "2026-09-18"
+    "last_seen": "2026-10-13",
+    "last_saved": "2026-10-13"
   },
   "microsoft/TypeScript": {
     "first_seen": "2026-08-23",
@@ -496,7 +496,7 @@
   },
   "alibaba/open-code-review": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-10-09"
   },
   "apache/maka": {
@@ -546,7 +546,7 @@
   },
   "Tencent/WeKnora": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-10-09"
   },
   "Shubhamsaboo/awesome-llm-apps": {
@@ -586,7 +586,7 @@
   },
   "QuantumNous/new-api": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-10-12"
   },
   "bjarneo/cliamp": {
@@ -731,7 +731,7 @@
   },
   "ComposioHQ/awesome-claude-skills": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-09-30"
   },
   "nilbuild/developer-roadmap": {
@@ -756,8 +756,8 @@
   },
   "every-app/open-seo": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-09-26",
-    "last_saved": "2026-09-19"
+    "last_seen": "2026-10-13",
+    "last_saved": "2026-10-13"
   },
   "chuspeeism/dashi-ppt-skill": {
     "first_seen": "2026-08-29",
@@ -781,7 +781,7 @@
   },
   "harry0703/MoneyPrinterTurbo": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-09-24"
   },
   "vercel-labs/vgpu": {
@@ -881,8 +881,8 @@
   },
   "browser-use/video-use": {
     "first_seen": "2026-08-31",
-    "last_seen": "2026-09-26",
-    "last_saved": "2026-09-22"
+    "last_seen": "2026-10-13",
+    "last_saved": "2026-10-13"
   },
   "MakazhanAlpamys/Soup": {
     "first_seen": "2026-08-31",
@@ -931,7 +931,7 @@
   },
   "rtk-ai/rtk": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-10-03"
   },
   "farion1231/cc-switch": {
@@ -1276,8 +1276,8 @@
   },
   "Tencent/teamai-cli": {
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-12",
-    "last_saved": "2026-09-08"
+    "last_seen": "2026-10-13",
+    "last_saved": "2026-10-13"
   },
   "advaitpaliwal/feynman": {
     "first_seen": "2026-09-08",
@@ -1321,7 +1321,7 @@
   },
   "vercel-labs/skills": {
     "first_seen": "2026-09-09",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-10-02"
   },
   "supermemoryai/supermemory": {
@@ -1446,8 +1446,8 @@
   },
   "nab138/iloader": {
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-15",
-    "last_saved": "2026-09-12"
+    "last_seen": "2026-10-13",
+    "last_saved": "2026-10-13"
   },
   "Flowseal/zapret-discord-youtube": {
     "first_seen": "2026-09-12",
@@ -1731,7 +1731,7 @@
   },
   "multica-ai/multica": {
     "first_seen": "2026-09-17",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-10-09"
   },
   "yyjeqhc/webcodex": {
@@ -2296,12 +2296,12 @@
   },
   "citrolabs/ego-lite": {
     "first_seen": "2026-09-29",
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-09-29"
   },
   "vllm-project/semantic-router": {
     "first_seen": "2026-09-29",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-09-29"
   },
   "temporalio/temporal": {
@@ -2406,7 +2406,7 @@
   },
   "sgl-project/sglang": {
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-10-01"
   },
   "modelcontextprotocol/servers": {
@@ -2856,7 +2856,7 @@
   },
   "larksuite/cli": {
     "first_seen": "2026-10-10",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-10-10"
   },
   "BrandonKowalski/slot": {
@@ -2901,7 +2901,7 @@
   },
   "Project-HAMi/HAMi": {
     "first_seen": "2026-10-11",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "last_saved": "2026-10-11"
   },
   "gtsteffaniak/filebrowser": {
@@ -2969,42 +2969,32 @@
     "last_seen": "2026-10-13",
     "last_saved": "2026-10-12"
   },
-  "microsoft/BitNet": {
+  "xtool-org/xtool": {
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
     "last_saved": "2026-10-13"
   },
-  "Javis603/token-monitor": {
+  "baidu/Unlimited-OCR": {
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
     "last_saved": "2026-10-13"
   },
-  "breferrari/obsidian-mind": {
+  "NVIDIA/personaplex": {
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
     "last_saved": "2026-10-13"
   },
-  "ranxianglei/billion-context": {
+  "rommapp/romm": {
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
     "last_saved": "2026-10-13"
   },
-  "evcc-io/evcc": {
+  "krillinai/OpenCreator": {
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
     "last_saved": "2026-10-13"
   },
-  "jaegertracing/jaeger": {
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "last_saved": "2026-10-13"
-  },
-  "YouROK/TorrServer": {
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "last_saved": "2026-10-13"
-  },
-  "1jehuang/jcode": {
+  "apify/apify-mcp-server": {
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-13",
     "last_saved": "2026-10-13"

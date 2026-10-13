@@ -1,0 +1,35 @@
+{
+  "id": "1ae31b9a-d66c-4343-8b51-02b5b04b7889",
+  "repo": "every-app/open-seo",
+  "url": "https://github.com/every-app/open-seo",
+  "category": "AI Agent/Automation",
+  "summary": "Open source thay thế cho Semrush và Ahrefs, cung cấp các công cụ phân tích SEO như nghiên cứu từ khóa, phân tích backlink và tự động hóa SEO thông qua agent.",
+  "usecases": [
+    "Tự động nghiên cứu từ khóa và theo dõi hạng từ cho website.",
+    "Phân tích backlink và audit website để cải thiện SEO.",
+    "Tích hợp với Google Search Console thông qua MCP để thu thập và xử lý dữ liệu SEO."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tạo nội dung SEO tự động dựa trên dữ liệu phân tích.",
+    "Triển khai as a service cho các agency SEO để giảm chi phí license.",
+    "Tích hợp với các nền tảng marketing để theo dõi hiệu quả chiến dịch liên kết và backlink."
+  ],
+  "stars": 23412,
+  "starsToday": 203,
+  "language": "TypeScript",
+  "topics": [
+    "backlink-analysis",
+    "keyword-research",
+    "mcp",
+    "seo",
+    "seo-tools",
+    "site-audit",
+    "google-search-console-mcp",
+    "seo-agent",
+    "seo-skills",
+    "seo-audit",
+    "seo-automation"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-13T13:26:38.135Z"
+}
