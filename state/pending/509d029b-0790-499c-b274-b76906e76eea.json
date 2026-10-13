@@ -1,0 +1,42 @@
+{
+  "id": "509d029b-0790-499c-b274-b76906e76eea",
+  "repo": "Javis603/token-monitor",
+  "url": "https://github.com/Javis603/token-monitor",
+  "category": "Other",
+  "summary": "Local-first desktop widget for tracking token usage, costs, limits, and session activity across 44+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.",
+  "usecases": [
+    "Khám phá và đánh giá Javis603/token-monitor cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 3037,
+  "starsToday": 75,
+  "language": "JavaScript",
+  "topics": [
+    "ai-tools",
+    "claude-code",
+    "codex",
+    "llm",
+    "local-first",
+    "self-hosted",
+    "token-tracker",
+    "token-usage",
+    "cursor",
+    "openclaw",
+    "opencode",
+    "ai",
+    "linux",
+    "macos",
+    "windows",
+    "hermes-agent",
+    "antigravity",
+    "deepseek",
+    "deepseek-harness",
+    "dsh"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-13T20:32:01.179Z"
+}

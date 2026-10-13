@@ -1,0 +1,36 @@
+{
+  "id": "8db649e4-68bc-4514-8ffd-8a3d57beee99",
+  "repo": "1jehuang/jcode",
+  "url": "https://github.com/1jehuang/jcode",
+  "category": "AI/LLM",
+  "summary": "một harness cao hiệu năng cho coding agent viết bằng Rust, giúp tự động hóa tác vụ lập trình và tương tác với LLM/CLI",
+  "usecases": [
+    "tự động hoàn thành code và review code thông qua CLI",
+    "tích hợp với Claude/OpenAI để hỗ trợ phát triển phần mềm tự động",
+    "triển khai coding agent trong quy trình làm việc hàng ngày"
+  ],
+  "ideas": [
+    "kết hợp với terminal TUI để tạo IDE tự động cho coding agent",
+    "triển khai làm coding agent trong CI/CD để tự động sửa lỗi",
+    "hỗ trợ đa ngôn ngữ cho pair programming giữa developer và AI"
+  ],
+  "stars": 20671,
+  "starsToday": 102,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "claude",
+    "cli",
+    "coding-agent",
+    "llm",
+    "mcp",
+    "openai",
+    "rust",
+    "terminal",
+    "tui",
+    "ai-agent",
+    "ai-coding-agent"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-13T20:32:01.179Z"
+}

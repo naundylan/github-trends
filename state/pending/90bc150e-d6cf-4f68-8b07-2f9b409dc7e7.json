@@ -1,0 +1,39 @@
+{
+  "id": "90bc150e-d6cf-4f68-8b07-2f9b409dc7e7",
+  "repo": "truelockmc/streambert",
+  "url": "https://github.com/truelockmc/streambert",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop cross-platform sử dụng Electron để phát tải phim, bộ phim và anime toàn cầu mà không quảng cáo hay theo dõi.",
+  "usecases": [
+    "Phát trực tiếp phim và anime trên máy tính cá nhân mà không cần đăng ký.",
+    "Tải xuống nội dung video để xem ngoại tuyến trên nhiều thiết bị.",
+    "Giám sát nội dung đa phương tiện với giao diện hiện đại và nhẹ."
+  ],
+  "ideas": [
+    "Kết hợp với mạng phân tán (P2P) để chia sẻ nội dung tự do.",
+    "Thêm bộ lọc nội dung AI để đề xuất phim theo sở thích cá nhân.",
+    "Phát triển plugin cho các hệ điều hành như Linux Flatpak hoặc macOS DMG."
+  ],
+  "stars": 6259,
+  "starsToday": 33,
+  "language": "JavaScript",
+  "topics": [
+    "anime",
+    "anime-downloader",
+    "anime-scraper",
+    "downloader",
+    "electron",
+    "modern-ui",
+    "movies",
+    "movies-streaming",
+    "piracy",
+    "series",
+    "streaming",
+    "streaming-video",
+    "tmdb-api",
+    "tv",
+    "opinionated"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-13T20:32:01.180Z"
+}

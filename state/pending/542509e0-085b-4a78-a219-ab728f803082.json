@@ -1,0 +1,25 @@
+{
+  "id": "542509e0-085b-4a78-a219-ab728f803082",
+  "repo": "ranxianglei/billion-context",
+  "url": "https://github.com/ranxianglei/billion-context",
+  "category": "Developer Tool",
+  "summary": "một plugin nén context cho phép cửa sổ context nhỏ (100k) đủ dùng, tiết kiệm token 5x và hỗ trợ phiên làm việc kéo dài hàng tháng",
+  "usecases": [
+    "giảm chi phí token cho các mô hình LLM có context window giới hạn",
+    "cho phép duy trì phiên chat dài ngày mà không cần tăng kích thước context",
+    "tối ưu hiệu suất cho các ứng dụng chatbot dài hạn"
+  ],
+  "ideas": [
+    "nén context cho edge devices hoặc môi trường có tài nguyên hạn chế",
+    "lưu trữ lịch sử chat hàng năm cho personal assistant cá nhân",
+    "tích hợp với framework RAG để tăng khả năng truy xuất thông tin dài hạn"
+  ],
+  "stars": 1162,
+  "starsToday": 80,
+  "language": "TypeScript",
+  "topics": [
+    "dsh-plugin"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-13T20:32:01.179Z"
+}

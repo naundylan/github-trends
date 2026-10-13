@@ -1,0 +1,37 @@
+{
+  "id": "43ad01bc-2cbe-4304-bb98-ae2ec4e2d524",
+  "repo": "sgl-project/sglang-omni",
+  "url": "https://github.com/sgl-project/sglang-omni",
+  "category": "Other",
+  "summary": "SGLang-Omni is a high-performance serving framework for audio models (TTS, ASR) and unified multimodal models.",
+  "usecases": [
+    "Khám phá và đánh giá sgl-project/sglang-omni cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 1436,
+  "starsToday": 42,
+  "language": "Python",
+  "topics": [
+    "asr",
+    "audio-generation",
+    "cuda",
+    "inference",
+    "model-serving",
+    "multimodal",
+    "openai-api",
+    "pytorch",
+    "sglang",
+    "tts",
+    "distributed-inference",
+    "music-generation",
+    "speech-recognition",
+    "streaming",
+    "text-to-speech"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-13T20:32:01.180Z"
+}

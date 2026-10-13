@@ -1,0 +1,29 @@
+{
+  "id": "2cfc059a-f282-4f92-a047-dc27ce4ee72e",
+  "repo": "Twigpine/openclaude",
+  "url": "https://github.com/Twigpine/openclaude",
+  "category": "AI Agent/Automation",
+  "summary": "một công cụ AI agent chạy trên mọi nền tảng và sử dụng bất kỳ mô hình nào, hỗ trợ tự động hóa tác vụ lập trình và tạo nội dung",
+  "usecases": [
+    "tự động hóa việc viết code và review pull requests",
+    "tạo nội dung và trợ lý viết mã cho các dự án phát triển phần mềm",
+    "tích hợp với các CLI khác để tự động hóa quy trình làm việc phát triển"
+  ],
+  "ideas": [
+    "kết hợp với local LLMs để tạo ra một AI agent hoàn toàn riêng tư và an toàn",
+    "phát triển plugin cho IDEs để agent có thể sửa code trực tiếp từ terminal",
+    "sử dụng agent để tự động học và chuyển đổi code giữa các ngôn ngữ lập trình"
+  ],
+  "stars": 33827,
+  "starsToday": 64,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "ai-tools",
+    "cli",
+    "coding"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-13T20:32:01.179Z"
+}

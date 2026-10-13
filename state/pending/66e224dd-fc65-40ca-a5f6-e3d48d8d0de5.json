@@ -1,0 +1,28 @@
+{
+  "id": "66e224dd-fc65-40ca-a5f6-e3d48d8d0de5",
+  "repo": "raphaelmansuy/edgequake",
+  "url": "https://github.com/raphaelmansuy/edgequake",
+  "category": "AI/LLM",
+  "summary": "Thư viện Rust high-performance tạo đồ thị tri thức từ tài liệu, inspired GraphRAG để cải thiện khả năng truy xuất và tạo nội dung.",
+  "usecases": [
+    "Xây dựng hệ thống tìm kiếm nội dung nội bộ cho doanh nghiệp với độ chính xác cao.",
+    "Cung cấp dữ liệu ngữ cảnh cho các mô hình LLM trong ứng dụng chatbot.",
+    "Phân tích tài liệu pháp lý hoặc y tế để trích xuất mối quan hệ quan trọng."
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu vector (ví dụ: Pinecone/Weaviate) để tạo pipeline RAG hoàn chỉnh.",
+    "Triển khai trên edge devices để xử lý dữ liệu nhạy cảm nội bộ mà không cần cloud.",
+    "Phát triển giao diện trực quan để người dùng tương tác và sửa đổi đồ thị tri thức trong thời gian thực."
+  ],
+  "stars": 2235,
+  "starsToday": 28,
+  "language": "Rust",
+  "topics": [
+    "graphrag",
+    "knowledge-graph",
+    "lightrag",
+    "rag"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-13T20:32:01.180Z"
+}
