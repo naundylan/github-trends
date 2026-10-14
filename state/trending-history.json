@@ -26,8 +26,8 @@
   },
   "OpenCut-app/OpenCut": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-10-07",
-    "last_saved": "2026-09-20"
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
   },
   "firecrawl/firecrawl": {
     "first_seen": "2026-07-02",
@@ -111,8 +111,8 @@
   },
   "ChromeDevTools/chrome-devtools-mcp": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-10-07",
-    "last_saved": "2026-09-19"
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
   },
   "asgeirtj/system_prompts_leaks": {
     "first_seen": "2026-07-04",
@@ -146,7 +146,7 @@
   },
   "coreyhaines31/marketingskills": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-10-02"
   },
   "Leonxlnx/taste-skill": {
@@ -246,7 +246,7 @@
   },
   "rust-lang/rust": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-10-06"
   },
   "MadsLorentzen/ai-job-search": {
@@ -296,8 +296,8 @@
   },
   "t8y2/dbx": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-10-02",
-    "last_saved": "2026-09-23"
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
   },
   "addyosmani/agent-skills": {
     "first_seen": "2026-07-08",
@@ -376,8 +376,8 @@
   },
   "jamiepine/voicebox": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-19",
-    "last_saved": "2026-09-09"
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
   },
   "can1357/oh-my-pi": {
     "first_seen": "2026-07-09",
@@ -386,8 +386,8 @@
   },
   "stablyai/orca": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-09-26",
-    "last_saved": "2026-09-12"
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
   },
   "wealthfolio/wealthfolio": {
     "first_seen": "2026-07-09",
@@ -396,7 +396,7 @@
   },
   "openai/codex": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-10-09"
   },
   "multica-ai/andrej-karpathy-skills": {
@@ -436,7 +436,7 @@
   },
   "anomalyco/opencode": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-09-26",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-09-25"
   },
   "nautechsystems/nautilus_trader": {
@@ -451,7 +451,7 @@
   },
   "ruvnet/ruflo": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-10-02"
   },
   "dani-garcia/vaultwarden": {
@@ -696,12 +696,12 @@
   },
   "K-Dense-AI/scientific-agent-skills": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-10-09"
   },
   "anthropics/claude-plugins-official": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-09-27",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-09-25"
   },
   "bilawalsidhu/gods-eye-view": {
@@ -751,7 +751,7 @@
   },
   "p-e-w/heretic": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-10-03"
   },
   "every-app/open-seo": {
@@ -801,8 +801,8 @@
   },
   "NationalSecurityAgency/ghidra": {
     "first_seen": "2026-08-30",
-    "last_seen": "2026-09-18",
-    "last_saved": "2026-08-30"
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
   },
   "abi/screenshot-to-code": {
     "first_seen": "2026-08-30",
@@ -886,7 +886,7 @@
   },
   "MakazhanAlpamys/Soup": {
     "first_seen": "2026-08-31",
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-09-26"
   },
   "hieunc229/mailflare": {
@@ -1101,8 +1101,8 @@
   },
   "nvm-sh/nvm": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-06",
-    "last_saved": "2026-09-05"
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
   },
   "vercel-labs/agent-skills": {
     "first_seen": "2026-09-05",
@@ -1416,8 +1416,8 @@
   },
   "react/react": {
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-12",
-    "last_saved": "2026-09-11"
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
   },
   "bojieli/ai-agent-book": {
     "first_seen": "2026-09-11",
@@ -1716,8 +1716,8 @@
   },
   "supabase/supabase": {
     "first_seen": "2026-09-17",
-    "last_seen": "2026-09-19",
-    "last_saved": "2026-09-17"
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
   },
   "freeCodeCamp/freeCodeCamp": {
     "first_seen": "2026-09-17",
@@ -2006,8 +2006,8 @@
   },
   "github/awesome-copilot": {
     "first_seen": "2026-09-23",
-    "last_seen": "2026-10-09",
-    "last_saved": "2026-09-23"
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
   },
   "poloclub/transformer-explainer": {
     "first_seen": "2026-09-23",
@@ -2056,7 +2056,7 @@
   },
   "HKUDS/CLI-Anything": {
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-27",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-09-24"
   },
   "strands-agents/harness-sdk": {
@@ -2156,7 +2156,7 @@
   },
   "microsoft/vscode": {
     "first_seen": "2026-09-26",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-09-26"
   },
   "mobile-next/mobile-mcp": {
@@ -2221,7 +2221,7 @@
   },
   "hmjz100/LinkSwift": {
     "first_seen": "2026-09-27",
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-09-27"
   },
   "microsoft/data-formulator": {
@@ -2361,7 +2361,7 @@
   },
   "ifixai-ai/iFixAi": {
     "first_seen": "2026-09-30",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-09-30"
   },
   "HunxByts/GhostTrack": {
@@ -2941,7 +2941,7 @@
   },
   "home-assistant/core": {
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-10-12"
   },
   "CopilotKit/OpenIntelligentUI": {
@@ -3019,27 +3019,22 @@
     "last_seen": "2026-10-14",
     "last_saved": "2026-10-13"
   },
-  "1Panel-dev/MaxKB": {
+  "xtool-org/xtool": {
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
     "last_saved": "2026-10-14"
   },
-  "kedacore/keda": {
+  "ntdevlabs/tiny11builder": {
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
     "last_saved": "2026-10-14"
   },
-  "rasonyang/ai-native-callcenter": {
+  "python/cpython": {
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
     "last_saved": "2026-10-14"
   },
-  "hashicorp/terraform": {
-    "first_seen": "2026-10-14",
-    "last_seen": "2026-10-14",
-    "last_saved": "2026-10-14"
-  },
-  "redis/go-redis": {
+  "apify/apify-mcp-server": {
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
     "last_saved": "2026-10-14"

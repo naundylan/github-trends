@@ -1,0 +1,42 @@
+{
+  "id": "5c28c684-69de-43b8-a866-9321aab57e88",
+  "repo": "t8y2/dbx",
+  "url": "https://github.com/t8y2/dbx",
+  "category": "Database",
+  "summary": "Dbx là khách hàng cơ sở dữ liệu nhẹ (25MB) chạy trên nhiều nền tảng, hỗ trợ hơn 100 loại cơ sở dữ liệu kèm AI tích hợp, CLI và Docker.",
+  "usecases": [
+    "Quản lý và truy vấn nhiều loại cơ sở dữ liệu khác nhau từ một giao diện duy nhất.",
+    "Sử dụng AI built-in để hỗ trợ viết câu truy vấn, tối ưu hóa và giải thích kết quả.",
+    "Triển khai qua Docker hoặc CLI cho automation trong pipeline CI/CD hoặc hệ thống phân tán."
+  ],
+  "ideas": [
+    "Xây dựng dashboard quản lý cơ sở dữ liệu đa nền tảng cho các đội dev/devops.",
+    "Tích hợp AI vào báo cáo tự động hiệu suất database và đề xuất tối ưu.",
+    "Sử dụng CLI dbx trong scripts automation cho việc backup, migrate dữ liệu giữa các cloud provider."
+  ],
+  "stars": 26652,
+  "starsToday": 348,
+  "language": "Rust",
+  "topics": [
+    "clickhouse",
+    "database",
+    "database-client",
+    "database-management",
+    "gui",
+    "mongodb",
+    "mysql",
+    "postgresql",
+    "redis",
+    "rust",
+    "sql-server",
+    "sqlite",
+    "tauri",
+    "vue",
+    "ai",
+    "cli",
+    "docker",
+    "mcp"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-10-14T14:18:56.600Z"
+}

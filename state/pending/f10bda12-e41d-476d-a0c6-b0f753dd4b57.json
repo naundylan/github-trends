@@ -1,0 +1,30 @@
+{
+  "id": "f10bda12-e41d-476d-a0c6-b0f753dd4b57",
+  "repo": "react/react",
+  "url": "https://github.com/react/react",
+  "category": "Web Frontend",
+  "summary": "React là thư viện JavaScript cho phép xây dựng giao diện người dùng reusable cho ứng dụng web và native, là nền tảng chính của ecosystem frontend hiện đại.",
+  "usecases": [
+    "Xây dựng ứng dụng web tương tác với cập nhật dữ liệu thời gian thực",
+    "Tạo giao diện reusable cho các project và hệ thống design system",
+    "Phát triển ứng dụng mobile qua React Native từ cùng codebase"
+  ],
+  "ideas": [
+    "Kết hợp TypeScript và React Query để tối ưu state management và fetch dữ liệu",
+    "Tích hợp Server Components và App Router để cải thiện performance và SEO",
+    "Phát triển library component riêng để tái sử dụng across web và mobile platforms"
+  ],
+  "stars": 251179,
+  "starsToday": 210,
+  "language": "JavaScript",
+  "topics": [
+    "javascript",
+    "react",
+    "frontend",
+    "declarative",
+    "ui",
+    "library"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-14T14:18:56.600Z"
+}

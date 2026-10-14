@@ -1,0 +1,23 @@
+{
+  "id": "96a6deb2-ffb8-422b-baae-bbf7d5dbb526",
+  "repo": "python/cpython",
+  "url": "https://github.com/python/cpython",
+  "category": "Developer Tool",
+  "summary": "CPython là bộ triển khai chính thức của ngôn ngữ Python, cung cấp bộ máy chạy và thư viện nền tảng cho phát triển phần mềm.",
+  "usecases": [
+    "Chạy script tự động và ứng dụng backend trên server",
+    "Phát triển dự án Machine Learning và AI sử dụng ecosystem Python",
+    "Tạo các công cụ dòng lệnh (CLI) cho quản trị hệ thống"
+  ],
+  "ideas": [
+    "Kết hợp Cython để tối hiệu hóa hiệu năng tính toán",
+    "Sử dụng làm nền tảng cho ngôn ngữ DSL tích hợp trong ứng dụng",
+    "Phát triển phiên bản Python tối dành cho thiết bị IoT/embedded"
+  ],
+  "stars": 77764,
+  "starsToday": 127,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-14T14:18:56.600Z"
+}

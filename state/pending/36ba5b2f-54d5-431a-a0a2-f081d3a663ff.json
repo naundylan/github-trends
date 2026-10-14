@@ -1,0 +1,30 @@
+{
+  "id": "36ba5b2f-54d5-431a-a0a2-f081d3a663ff",
+  "repo": "xtool-org/xtool",
+  "url": "https://github.com/xtool-org/xtool",
+  "category": "Developer Tool",
+  "summary": "Thay thế Xcode đa nền tảng, cho phép build và deploy ứng dụng iOS sử dụng SwiftPM trên Linux, Windows và macOS.",
+  "usecases": [
+    "Develop iOS apps on Windows hoặc Linux mà không cần Mac",
+    "Automated CI/CD cho ứng dụng iOS trên các runner không phải macOS",
+    "Prototyping nhanh ứng dụng iOS sử dụng SwiftPM trên nhiều nền tảng"
+  ],
+  "ideas": [
+    "Kết hợp với cloud CI để build iOS trên các server Linux bất kỳ",
+    "Tạo full-stack Swift development workflow kết thúc tại iOS trên Windows",
+    "Phát triển dashboard web quản lý build đa nền tảng cho team"
+  ],
+  "stars": 10182,
+  "starsToday": 1510,
+  "language": "Swift",
+  "topics": [
+    "ios",
+    "linux",
+    "swift",
+    "swift-package-manager",
+    "windows",
+    "xcode"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-14T14:18:56.600Z"
+}

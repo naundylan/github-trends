@@ -1,0 +1,23 @@
+{
+  "id": "9339a642-0c4c-41b1-a672-c408cd705886",
+  "repo": "ntdevlabs/tiny11builder",
+  "url": "https://github.com/ntdevlabs/tiny11builder",
+  "category": "Desktop App",
+  "summary": "Ứng dụng WinUI giúp xây dựng các hình ảnh Windows 11 nhỏ gọn và tùy chỉnh theo yêu cầu.",
+  "usecases": [
+    "Tạo bản cài đặt Windows 11 cá nhân hóa cho máy tính gaming",
+    "Giảm kích thước cài đặt cho thiết bị có dung lượng lưu trữ hạn",
+    "Xây dựng môi trường Windows 11 chuyên dụng cho doanh nghiệp hoặc giáo dục"
+  ],
+  "ideas": [
+    "Kết hợp với PowerShell scripts để tự động triển khai trên nhiều máy",
+    "Phát triển giao diện quản lý nhiều phiên bản Windows cùng lúc",
+    "Sử dụng trong chuỗi CI/CD để tạo ảnh hệ điều hành tùy chỉnh"
+  ],
+  "stars": 20063,
+  "starsToday": 132,
+  "language": "C#",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-14T14:18:56.600Z"
+}

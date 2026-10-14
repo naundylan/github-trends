@@ -1,0 +1,32 @@
+{
+  "id": "a617b0a9-e92e-4daa-bec0-db02d5b78a5b",
+  "repo": "jamiepine/voicebox",
+  "url": "https://github.com/jamiepine/voicebox",
+  "category": "AI/LLM",
+  "summary": "Open-source AI voice studio để clone voice, dictate và tạo nội dung âm thanh sử dụng Whisper và Qwen3 TTS.",
+  "usecases": [
+    "Clone voice personal/custom voice để tạo nội dung, dubbing hoặc podcast.",
+    "Dictate/create speech từ text để ứng dụng accessibility hoặc voice-assisted.",
+    "Tích hợp với workflow video editing hoặc production âm thanh."
+  ],
+  "ideas": [
+    "Thêm hỗ trợ đa ngôn ngữ cho cloning và TTS để phục vụ global users.",
+    "Kết hợp với real-time voice chat ứng dụng để tạo voice assistant personalize.",
+    "Phát triển plugin cho DAWs (Digital Audio Workstations) để tích hợp trực tiếp trong production."
+  ],
+  "stars": 57437,
+  "starsToday": 144,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "voice-clone",
+    "qwen3-tts",
+    "voice-ai",
+    "whisper",
+    "qwen3-tts-ui",
+    "cuda",
+    "mlx"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-14T14:18:56.600Z"
+}

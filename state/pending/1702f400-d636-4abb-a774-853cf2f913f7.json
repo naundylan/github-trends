@@ -1,0 +1,42 @@
+{
+  "id": "1702f400-d636-4abb-a774-853cf2f913f7",
+  "repo": "stablyai/orca",
+  "url": "https://github.com/stablyai/orca",
+  "category": "AI Agent/Automation",
+  "summary": "Orca là môi trường phát triển cho các agent song song, cho phép chạy các coding agent với tài khoản cá nhân của bạn, có sẵn trên desktop, mobile và runtime xa.",
+  "usecases": [
+    "Quản lý và phối hợp nhiều agent code song song cho dự án lớn.",
+    "Chạy agent AI trên thiết bị di động hoặc remote runtime để tự động hóa tác vụ phát triển.",
+    "Tích hợp với subscription cá nhân để tùy chỉnh môi trường agent theo ý muốn."
+  ],
+  "ideas": [
+    "Tạo hệ thống tự động sửa lỗi bằng cách phối hợp nhiều agent có nhiệm vụ khác nhau.",
+    "Kết hợp với thiết bị IoT để agent kiểm soát và viết code điều khiển thiết bị trong môi trường remote.",
+    "Phát triển một 'agent marketplace' nơi người dùng có thể share và thuê agent chuyên biệt cho tác vụ cụ thể."
+  ],
+  "stars": 92167,
+  "starsToday": 962,
+  "language": "TypeScript",
+  "topics": [
+    "claude-code",
+    "codex",
+    "ghostty",
+    "terminal",
+    "cli",
+    "cursor-agent",
+    "opencode",
+    "orchestration",
+    "worktrees",
+    "parallel-agents",
+    "pi",
+    "ade",
+    "ide",
+    "mobile-app",
+    "agent-ide",
+    "ai-agents",
+    "devtools",
+    "yc-backed"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-14T14:18:56.600Z"
+}
