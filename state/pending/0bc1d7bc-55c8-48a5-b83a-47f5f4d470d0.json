@@ -1,0 +1,42 @@
+{
+  "id": "0bc1d7bc-55c8-48a5-b83a-47f5f4d470d0",
+  "repo": "rasonyang/ai-native-callcenter",
+  "url": "https://github.com/rasonyang/ai-native-callcenter",
+  "category": "AI Agent/Automation",
+  "summary": "ai-native-callcenter là call center tự hosting sử dụng AI để trả lời realtime, cung cấp API REST + SSE và OpenAPI spec để tích hợp vào sản phẩm, hỗ trợ voice bot và human agent接管 mượt mà.",
+  "usecases": [
+    "Triển khai call center nội bộ cho công ty với bot voice tự động đáp mọi cuộc gọi",
+    "Tích hợp vào ứng dụng sản phẩm như tính năng gọi AI thông qua API OpenAPI",
+    "Hỗ trợ IVR và routing cuộc gọi dựa trên nhận dạng giọng nói và ngữ cảnh"
+  ],
+  "ideas": [
+    "Kết hợp với MaxKB để bot có thể truy xuất cơ sở dữ liệu kiến thức khi trả lời câu hỏi",
+    "Phát triển hệ thống đánh giá hiệu suất nhân viên dựa trên phân tích nội dung cuộc gọi",
+    "Triển khai đa ngôn ngữ cho call center quốc tế bằng mô hình LLM"
+  ],
+  "stars": 254,
+  "starsToday": 8,
+  "language": "Go",
+  "topics": [
+    "call-center",
+    "contact-center",
+    "freeswitch",
+    "golang",
+    "ivr",
+    "openai-realtime",
+    "openapi",
+    "postgresql",
+    "qwen",
+    "self-hosted",
+    "sip",
+    "speech-to-speech",
+    "telephony",
+    "voice-agent",
+    "voice-ai",
+    "webrtc",
+    "callcenter",
+    "voip"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-14T08:17:37.159Z"
+}

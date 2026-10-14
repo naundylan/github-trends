@@ -1,0 +1,38 @@
+{
+  "id": "5aa30a19-e1d9-423b-80c6-bc7be2652e5e",
+  "repo": "1Panel-dev/MaxKB",
+  "url": "https://github.com/1Panel-dev/MaxKB",
+  "category": "AI Agent/Automation",
+  "summary": "MaxKB là nền tảng mã nguồn mở for xây dựng enterprise-grade agents, hỗ trợ tạo chatbot và agents thông qua RAG, LLM và tích hợp vector database.",
+  "usecases": [
+    "Xây dựng chatbot hỗ trợ khách hàng cho doanh nghiệp bằng cơ sở dữ liệu riêng",
+    "Tạo agents tự động hóa quy trình làm việc với khả năng truy xuất kiến thức",
+    "Triển khai RAG với vector database cho câu trả lời chính xác và có nguồn tham chiếu"
+  ],
+  "ideas": [
+    "Kết hợp với voice AI để xây dựng hệ thống tự động trả lời cuộc gọi",
+    "Phát triển multi-agent system giải quyết vấn đề phức tạp theo từng bước",
+    "Tích hợp với các nền tảng messaging như Slack, Teams để agents hoạt động trong chat"
+  ],
+  "stars": 22974,
+  "starsToday": 14,
+  "language": "Python",
+  "topics": [
+    "llm",
+    "ollama",
+    "maxkb",
+    "knowledgebase",
+    "chatbot",
+    "langchain",
+    "pgvector",
+    "rag",
+    "deepseek-r1",
+    "llama3",
+    "mcp-server",
+    "qwen3",
+    "agent",
+    "agentic-ai"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-14T08:17:37.159Z"
+}

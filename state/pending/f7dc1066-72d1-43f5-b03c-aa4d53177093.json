@@ -1,0 +1,29 @@
+{
+  "id": "f7dc1066-72d1-43f5-b03c-aa4d53177093",
+  "repo": "redis/go-redis",
+  "url": "https://github.com/redis/go-redis",
+  "category": "Database",
+  "summary": "go-redis là client Redis chính thức cho ngôn ngữ Go, cung cấp đầy đủ các tính năng kết nối, thao tác dữ liệu và quản lý cluster Redis.",
+  "usecases": [
+    "Sử dụng làm cache cho ứng dụng web Go để giảm tải cơ sở dữ liệu chính.",
+    "Quản lý session người dùng với thời gian tồn tại ngắn trong Redis.",
+    "Tích hợp Redis Cluster để lưu trữ dữ liệu phân tán và cao khả dụng."
+  ],
+  "ideas": [
+    "Xây dựng microservice cache layer sử dụng go-redis kết hợp với gRPC.",
+    "Phát triển real-time analytics dashboard dữ liệu từ Redis Streams.",
+    "Tự động hóa việc backup và restore dữ liệu Redis thông qua go-redis trong môi trường Kubernetes."
+  ],
+  "stars": 22261,
+  "starsToday": 4,
+  "language": "Go",
+  "topics": [
+    "go",
+    "golang",
+    "redis",
+    "redis-client",
+    "redis-cluster"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-10-14T08:17:37.159Z"
+}

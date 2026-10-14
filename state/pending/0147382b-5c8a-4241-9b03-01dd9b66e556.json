@@ -1,0 +1,29 @@
+{
+  "id": "0147382b-5c8a-4241-9b03-01dd9b66e556",
+  "repo": "hashicorp/terraform",
+  "url": "https://github.com/hashicorp/terraform",
+  "category": "Infrastructure as Code",
+  "summary": "Terraform là công cụ Infrastructure as Code cho phép định nghĩa và quản lý infrastructure trên nhiều cloud provider thông qua file cấu hình声明式, enabling version control và collaboration.",
+  "usecases": [
+    "Tạo và quản lý tài nguyên cloud (VM, network, storage) trên nhiều provider trong một workflow nhất nhất.",
+    "Version control infrastructure changes cùng code source, enabling review và rollback thay đổi.",
+    "Automate deployment môi trường phát triển, staging và production reproducely."
+  ],
+  "ideas": [
+    "Kết hợp Terraform với KEDA để tự động scale infrastructure dựa trên eventos.",
+    "Sử dụng Terraform Provider cho các dịch vụ AI/ML để provision resources compute động.",
+    "Tạo pipeline CI/CD tự động infrastructure testing với Terraform plan/apply trên pull requests."
+  ],
+  "stars": 49909,
+  "starsToday": 17,
+  "language": "Go",
+  "topics": [
+    "graph",
+    "infrastructure-as-code",
+    "terraform",
+    "cloud",
+    "cloud-management"
+  ],
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-10-14T08:17:37.159Z"
+}

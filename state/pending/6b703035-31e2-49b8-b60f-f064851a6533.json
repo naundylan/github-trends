@@ -1,0 +1,30 @@
+{
+  "id": "6b703035-31e2-49b8-b60f-f064851a6533",
+  "repo": "kedacore/keda",
+  "url": "https://github.com/kedacore/keda",
+  "category": "Serverless",
+  "summary": "KEDA là một thành phần autoscaling dựa trên sự kiện cho Kubernetes, cho phép tự động mở rộng container theo yêu cầu của các sự kiện từ các nguồn bên ngoài.",
+  "usecases": [
+    "Tự động scale ứng dụng dựa trên hàng đợi sự kiện như RabbitMQ, Kafka hoặc SQS.",
+    "Scale xuống 0 khi không có tác vụ, tiết kiệm chi phí tài nguyên Kubernetes.",
+    "Xử lý tác vụ batch hoặc workflow được kích hoạt bởi webhook, thay đổi database hoặc các trigger khác."
+  ],
+  "ideas": [
+    "Kết hợp KEDA với các platform serverless khác ngoài Kubernetes để tạo hybrid scaling.",
+    "Sử dụng KEDA để autoscaling cho workloads AI inference dựa trên rate yêu cầu prompt.",
+    "Tạo hệ thống monitoring tự động scale resources dựa trên metrics custom từ business events."
+  ],
+  "stars": 10618,
+  "starsToday": 18,
+  "language": "Go",
+  "topics": [
+    "kubernetes",
+    "serverless",
+    "autoscaling",
+    "event-driven",
+    "keda",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Serverless.md",
+  "createdAt": "2026-10-14T08:17:37.159Z"
+}
