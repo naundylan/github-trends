@@ -1,0 +1,36 @@
+{
+  "id": "43524e12-b98c-412d-b0ba-157c9b67d1eb",
+  "repo": "krillinai/OpenCreator",
+  "url": "https://github.com/krillinai/OpenCreator",
+  "category": "AI/LLM",
+  "summary": "Nền tảng AI mã nguồn mở cho tác giả nội dung, tích hợp tạo video, dịch phụ đề, sinh giọng và avatar để tạo nội dung cho mạng xã hội như YouTube, TikTok.",
+  "usecases": [
+    "Tự động tạo và dịch video cho các kênh YouTube đa ngôn ngữ",
+    "Sinh nội dung hình ảnh và giọng đọc cho quảng cáo mạng xã hội",
+    "Tạo avatar động và video ngắn cho TikTok với ít tác thủ"
+  ],
+  "ideas": [
+    "Kết hợp nhận dạng khuôn mặt để cá nhân hóa video",
+    "Tạo pipeline tự động từ text sang video hoàn chỉnh cho e-commerce",
+    "Phát triển module phân tích hiệu suất nội dung để tối ưu tương tác"
+  ],
+  "stars": 13023,
+  "starsToday": 107,
+  "language": "TypeScript",
+  "topics": [
+    "video-transcription",
+    "video-translation",
+    "dubbing",
+    "localization",
+    "tts",
+    "agent-skills",
+    "codex-cli",
+    "deskop-app",
+    "image-generation",
+    "skills",
+    "video-editing",
+    "video-generation"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-14T19:10:49.286Z"
+}

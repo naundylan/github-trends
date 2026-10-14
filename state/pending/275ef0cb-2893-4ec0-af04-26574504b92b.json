@@ -1,0 +1,28 @@
+{
+  "id": "275ef0cb-2893-4ec0-af04-26574504b92b",
+  "repo": "golang/go",
+  "url": "https://github.com/golang/go",
+  "category": "Other",
+  "summary": "Ngôn ngữ lập trình Go mã nguồn mở, cung cấp compiler, thư viện chuẩn và công cụ để xây dựng ứng dụng hiệu suất cao và hệ thống phức tạp.",
+  "usecases": [
+    "Xây dựng microservices và API backend",
+    "Tạo các công cụ dòng lệnh (CLI) và hệ thống mạng",
+    "Phát triển hệ thống container và infrastructure như Docker"
+  ],
+  "ideas": [
+    "Kết hợp với AI để tối ưu hiệu suất code",
+    "Xây dựng Domain-Specific Language (DSL) trên Go",
+    "Tạo platform IoT edge computing sử dụng Go"
+  ],
+  "stars": 139162,
+  "starsToday": 146,
+  "language": "Go",
+  "topics": [
+    "programming-language",
+    "language",
+    "go",
+    "golang"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-14T19:10:49.286Z"
+}

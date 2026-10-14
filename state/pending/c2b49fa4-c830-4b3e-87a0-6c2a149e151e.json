@@ -1,0 +1,23 @@
+{
+  "id": "c2b49fa4-c830-4b3e-87a0-6c2a149e151e",
+  "repo": "agent-substrate/substrate",
+  "url": "https://github.com/agent-substrate/substrate",
+  "category": "AI Agent/Automation",
+  "summary": "Agent Substrate là hệ thống lõi bằng Go cung cấp nền tảng cơ bản để xây dựng, triển khai và quản lý các agent AI một cách linh hoạt và hiệu quả.",
+  "usecases": [
+    "Xây dựng các agent tự động hóa tác vụ lặp đi lặp lại trong môi trường phát triển phần mềm.",
+    "Triển khai hệ thống multi-agent phối hợp để giải quyết các vấn đề phức tạp.",
+    "Tích hợp agent vào các quy trình CI/CD để tự động code review hoặc test generation."
+  ],
+  "ideas": [
+    "Kết hợp với LangChain để tạo ra các agent có khả năng reasoning phức tạp.",
+    "Phát triển giao diện quản lý trực quan cho các agent và trạng thái hoạt động.",
+    "Sử dụng agent substrate để tự động hóa việc refactor code trong các repository lớn."
+  ],
+  "stars": 5141,
+  "starsToday": 106,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-14T19:10:49.286Z"
+}

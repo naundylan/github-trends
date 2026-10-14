@@ -1,0 +1,23 @@
+{
+  "id": "ad5b5ca8-f63c-4aaa-bebb-24ce1c69fc93",
+  "repo": "vuejs/core",
+  "url": "https://github.com/vuejs/core",
+  "category": "Web Framework",
+  "summary": "Vue.js là một framework JavaScript tiến진, có thể dần dần áp dụng, được dùng để xây dựng giao diện người dùng trên web với tính linh hoạt và hiệu suất cao.",
+  "usecases": [
+    "Xây dựng giao diện web động và ứng dụng trang đơn (SPA).",
+    "Tích hợp dần vào dự án cũ không cần rewrite toàn bộ.",
+    "Phát triển ứng dụng móvil qua các framework như Nuxt và Vue Native."
+  ],
+  "ideas": [
+    "Kết hợp với AI/LLM để tạo ra các giao diện tương tác dựa trên lệnh어 tự nhiên.",
+    "Sử dụng trong các hệ thống quản lý nội dung (CMS) headless để render phía client.",
+    "Phát triển các widget UI có thể lồng vào các ứng dụng khác thông qua Web Components."
+  ],
+  "stars": 54617,
+  "starsToday": 76,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-14T19:10:49.286Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dd757278-46d3-4947-b756-84af5d670712",
+  "repo": "TecharoHQ/anubis",
+  "url": "https://github.com/TecharoHQ/anubis",
+  "category": "Security/Pentest",
+  "summary": "Dự án dùng để lọc và ngăn chặn các yêu cầu HTTP từ AI crawler, bảo vệ tài lượng bằng cách đánh giá 'weight' cho từng request",
+  "usecases": [
+    "Bảo vệ API endpoints khỏi AI crawler không mong muốn",
+    "Phân loại và chặn traffic robot dựa trên hành vi HTTP",
+    "Tích hợp vào reverse proxy làm lớp bảo mật web"
+  ],
+  "ideas": [
+    "Kết hợp với firewall tạo hệ thống bảo vệ tự động chống crawler AI",
+    "Phát triển plugin cho dịch vụ hosting phổ biến để đánh dấu crawler tự động",
+    "Sử dụng làm lớp monitoring cho dự án AI training dataset"
+  ],
+  "stars": 23398,
+  "starsToday": 65,
+  "language": "Go",
+  "topics": [
+    "defense",
+    "security"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-14T19:10:49.286Z"
+}

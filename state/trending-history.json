@@ -1,7 +1,7 @@
 {
   "JuliusBrussee/caveman": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-10-07"
   },
   "obra/superpowers": {
@@ -541,8 +541,8 @@
   },
   "asciimoo/hister": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-09-21",
-    "last_saved": "2026-09-18"
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
   },
   "Tencent/WeKnora": {
     "first_seen": "2026-08-24",
@@ -841,7 +841,7 @@
   },
   "kubernetes/kubernetes": {
     "first_seen": "2026-08-30",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-09-25"
   },
   "k1tbyte/Wand-Enhancer": {
@@ -926,8 +926,8 @@
   },
   "golang/go": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-10-11",
-    "last_saved": "2026-09-22"
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
   },
   "rtk-ai/rtk": {
     "first_seen": "2026-09-01",
@@ -1406,7 +1406,7 @@
   },
   "p1neappleXpress/OpenFlux": {
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-10-05"
   },
   "alphaXiv/OpenResearch": {
@@ -1951,8 +1951,8 @@
   },
   "agent-substrate/substrate": {
     "first_seen": "2026-09-22",
-    "last_seen": "2026-10-04",
-    "last_saved": "2026-09-22"
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
   },
   "google/ax": {
     "first_seen": "2026-09-22",
@@ -2126,7 +2126,7 @@
   },
   "Gentleman-Programming/engram": {
     "first_seen": "2026-09-25",
-    "last_seen": "2026-09-27",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-09-25"
   },
   "nobodywho-ooo/nobodywho": {
@@ -2321,7 +2321,7 @@
   },
   "keploy/keploy": {
     "first_seen": "2026-09-29",
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-14",
     "last_saved": "2026-09-29"
   },
   "kubernetes-sigs/agent-sandbox": {
@@ -3019,22 +3019,42 @@
     "last_seen": "2026-10-14",
     "last_saved": "2026-10-13"
   },
-  "xtool-org/xtool": {
+  "plugin87/ux-ui-agent-skills": {
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
     "last_saved": "2026-10-14"
   },
-  "ntdevlabs/tiny11builder": {
+  "wshobson/agents": {
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
     "last_saved": "2026-10-14"
   },
-  "python/cpython": {
+  "vuejs/core": {
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
     "last_saved": "2026-10-14"
   },
-  "apify/apify-mcp-server": {
+  "krillinai/OpenCreator": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
+  },
+  "TecharoHQ/anubis": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
+  },
+  "vosen/ZLUDA": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
+  },
+  "tauri-apps/tauri": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "last_saved": "2026-10-14"
+  },
+  "astral-sh/uv": {
     "first_seen": "2026-10-14",
     "last_seen": "2026-10-14",
     "last_saved": "2026-10-14"

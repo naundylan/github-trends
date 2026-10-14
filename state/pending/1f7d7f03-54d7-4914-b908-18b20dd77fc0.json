@@ -1,0 +1,26 @@
+{
+  "id": "1f7d7f03-54d7-4914-b908-18b20dd77fc0",
+  "repo": "vosen/ZLUDA",
+  "url": "https://github.com/vosen/ZLUDA",
+  "category": "AI/LLM",
+  "summary": "ZLUDA là dự án mã nguồn mở chạy ứng dụng CUDA trên GPU không phải NVIDIA, cho phép mã AI và tính toán tốc độ cao hoạt động trên phần cứng AMD.",
+  "usecases": [
+    "Chạy mã huấn luyện mô hình AI trên GPU AMD thay vì chỉ có thể dùng GPU NVIDIA.",
+    "Tối ưu hóa hiệu suất tính toán cho ứng dụng khoa học và dữ liệu trên phần cứng không NVIDIA.",
+    "Cho phép nhà phát triển dùng GPU AMD cho workload đòi hỏi CUDA mà không cần thay đổi code."
+  ],
+  "ideas": [
+    "Kết hợp với các framework ML như PyTorch/TensorFlow để hỗ trợ đa nền tảng GPU tự động.",
+    "Xây dựng layer tương thích CUDA cho môi trường serverless cần linh hoạt phần cứng.",
+    "Sử dụng trong các dự án nghiên cứu khoa học tính toán phân tán trên các loại GPU khác nhau."
+  ],
+  "stars": 15052,
+  "starsToday": 72,
+  "language": "Rust",
+  "topics": [
+    "cuda",
+    "rust"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-14T19:10:49.286Z"
+}
