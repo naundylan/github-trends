@@ -1,0 +1,28 @@
+{
+  "id": "09839b6e-a9a3-4878-b9f3-c70f45d924b8",
+  "repo": "apify/apify-mcp-server",
+  "url": "https://github.com/apify/apify-mcp-server",
+  "category": "AI Agent/Automation",
+  "summary": "MCP server cho phép AI agent truy cập hàng nghìn công cụ scrape và automation trên Apify Store để trích xuất dữ liệu từ các website đa dạng.",
+  "usecases": [
+    "AI agent tự động thu thập dữ liệu giá sản phẩm từ các trang e-commerce để phân tích thị trường.",
+    "Bot tìm việc tự động trích xuất tin tức và bài viết từ mạng xã hội và blog.",
+    "Hệ thống theo dõi giá bất động sản theo thời gian thực từ nhiều nguồn."
+  ],
+  "ideas": [
+    "Kết hợp với LangChain để xây dựng pipeline dữ liệu tự động cho các dự án nghiên cứu AI.",
+    "Sử dụng làm nền tảng cho các AI assistant cá nhân có khả năng thu thập và tổng hợp thông tin từ web.",
+    "Phát triển plugin cho các IDE để AI có thể scrape dữ liệu trực tiếp từ codebase hoặc tài liệu."
+  ],
+  "stars": 11032,
+  "starsToday": 200,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "ai",
+    "mcp",
+    "mcp-server"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-14T00:10:30.107Z"
+}

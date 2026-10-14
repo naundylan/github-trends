@@ -1,0 +1,29 @@
+{
+  "id": "fcc5ef5d-a960-4258-9f46-7b41e26a87ef",
+  "repo": "rommapp/romm",
+  "url": "https://github.com/rommapp/romm",
+  "category": "Game Dev",
+  "summary": "Romm là một quản lý và phát nhạc ROM retro mã nguồn mở, cho phép người dùng Self-host thư viện game cổ điển và chơi qua trình emulator tích hợp.",
+  "usecases": [
+    "Quản lý và phát bộ ROM game retro cá nhân trên server riêng",
+    "Chơi game cổ điển trên thiết bị nhẹ qua web interface",
+    "Tích hợp với hệ thống emulator khác để mở rộng tương thích game"
+  ],
+  "ideas": [
+    "Phát triển ứng dụng di động điều khiển Romm qua Bluetooth hoặc WiFi",
+    "Thêm tính năng đánh giá và cộng đồng rating cho các game trong thư viện",
+    "Tích hợp tìm kiếm game qua metadata và artwork tự động"
+  ],
+  "stars": 13618,
+  "starsToday": 111,
+  "language": "Python",
+  "topics": [
+    "retrogaming",
+    "self-hosted",
+    "open-source",
+    "emulation",
+    "rommapp"
+  ],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-10-14T00:10:30.107Z"
+}

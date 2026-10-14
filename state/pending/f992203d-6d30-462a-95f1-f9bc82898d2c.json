@@ -1,0 +1,31 @@
+{
+  "id": "f992203d-6d30-462a-95f1-f9bc82898d2c",
+  "repo": "livekit/livekit",
+  "url": "https://github.com/livekit/livekit",
+  "category": "Networking",
+  "summary": "LiveKit là một máy chủ SFU mã nguồn mở cung cấp stack realtime hoàn chỉnh để truyền âm thanh, video và dữ liệu qua WebRTC, hỗ trợ kết nối người dùng và AI.",
+  "usecases": [
+    "Xây dựng ứng dụng hội nghị video chất lượng cao với khả năng mở rộng ngang hàng.",
+    "Tích hợp tính năng AI realtime như nhận dạng giọng nói, dịch ngôn ngữ hoặc phân tích cảm xúc vào luồng truyền媒体.",
+    "Phát triển dịch vụ livestreaming tương tác cho game, giáo dục hoặc sự kiện trực tuyến."
+  ],
+  "ideas": [
+    "Kết hợp LiveKit với mô hình AI tạo ra avatar ảo tham gia cuộc gọi và phản hồi dựa trên nội dung hội thoại.",
+    "Xây dựng nền tảng telehealth nơi bác sĩ và bệnh nhân có thể trao đổi video và đồng thời sử dụng AI để hỗ trợ chẩn đoán.",
+    "Tạo công cụ hợp tác sáng tạo đa người dùng (ví dụ: vẽ chung, soạn nhạc) với truyền thông low-latency và xử lý AI即时."
+  ],
+  "stars": 21420,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "webrtc",
+    "sfu",
+    "media-server",
+    "video",
+    "voice",
+    "voice-ai"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-14T00:10:30.107Z"
+}

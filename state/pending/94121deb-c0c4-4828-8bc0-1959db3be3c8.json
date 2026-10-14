@@ -1,0 +1,30 @@
+{
+  "id": "94121deb-c0c4-4828-8bc0-1959db3be3c8",
+  "repo": "poloclub/transformer-explainer",
+  "url": "https://github.com/poloclub/transformer-explainer",
+  "category": "Data Visualization",
+  "summary": "Trình bày trực quan hóa kiến trúc transformer và LLM thông qua giao diện tương tác, giúp dễ dàng hiểu các cơ chế attention và mô hình ngôn ngữ.",
+  "usecases": [
+    "Học tập và giảng dạy kiến trúc transformer cho sinh viên và nhà nghiên cứu",
+    "Khám phá trực quan cách các head attention hoạt động trong các mô hình GPT",
+    "Công cụ demo và giáo dục về AI/ML cho cộng đồng"
+  ],
+  "ideas": [
+    "Kết hợp với code extension để hiển thị attention khi thực thi code",
+    "Tạo visualizer cho các mô hình local hoặc open-source khác",
+    "Thêm tính năng so sánh nhiều architecture transformer cùng lúc"
+  ],
+  "stars": 8959,
+  "starsToday": 32,
+  "language": "JavaScript",
+  "topics": [
+    "generative-ai",
+    "gpt",
+    "deep-learning",
+    "langauge-model",
+    "llm",
+    "visualization"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-10-14T00:10:30.107Z"
+}

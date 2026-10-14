@@ -1,0 +1,23 @@
+{
+  "id": "b66b523b-5717-45df-a010-1c6c15068481",
+  "repo": "baidu/Unlimited-OCR",
+  "url": "https://github.com/baidu/Unlimited-OCR",
+  "category": "Computer Vision",
+  "summary": "Unlimited-OCR cung cấp giải pháp OCR unlimited cho phân tích dài hạn one-shot, trích xuất văn bản chính xác từ tài liệu và hình ảnh phức tạp với độ dài lớn.",
+  "usecases": [
+    "Trích xuất dữ liệu từ hợp đồng, hóa đơn dài trong quy trình tự động hóa tài chính.",
+    "Digitize sách cổ hoặc tài liệu quét nhiều trang trong thư viện số.",
+    "Hỗ trợ hệ thống tự động điền form từ hình ảnh trong ứng dụng di động hoặc web."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tóm tắt nội dung OCR kết quả, tạo ra một one-shot reader thông minh.",
+    "Triển khai trên edge devices để xử lý ảnh real-time cho ứng dụng truy cập không cần internet.",
+    "Phát triển pipeline ETL kết hợp OCR với database để tự động populate dữ liệu từ tài liệu quét."
+  ],
+  "stars": 27298,
+  "starsToday": 225,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-10-14T00:10:30.107Z"
+}

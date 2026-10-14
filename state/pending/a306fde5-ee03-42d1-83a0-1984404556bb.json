@@ -1,0 +1,23 @@
+{
+  "id": "a306fde5-ee03-42d1-83a0-1984404556bb",
+  "repo": "NVIDIA/personaplex",
+  "url": "https://github.com/NVIDIA/personaplex",
+  "category": "AI/LLM",
+  "summary": "Framework NVIDIA để tạo và quản lý AI personas, dùng để mô phỏng các đại diện nhân tạo có tính cách cho các ứng dụng LLM.",
+  "usecases": [
+    "Tạo nhân vật AI cho trò chơi tương tác hoặc câu chuyện không chéo.",
+    "Mô phỏng các tình huống khách hàng để train hoặc test các chatbot hỗ trợ.",
+    "Nghiên cứu hành vi con người bằng cách tương tác với nhiều persona AI khác nhau."
+  ],
+  "ideas": [
+    "Tích hợp vào thế giới ảo hoặc Metaverse làm nhân vật NPC có tư duy độc lập.",
+    "Dùng để tạo dữ liệu huấn luyện cho các mô hình nhận diện cảm xúc hoặc hành vi.",
+    "Xây dựng ứng dụng tư vấn đồng hành với người dùng thông qua các persona AI đa dạng."
+  ],
+  "stars": 11156,
+  "starsToday": 148,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-14T00:10:30.107Z"
+}

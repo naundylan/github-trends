@@ -1,0 +1,28 @@
+{
+  "id": "7b15f0bd-40d1-4b75-8e53-915a93d2696f",
+  "repo": "supabase/agent-skills",
+  "url": "https://github.com/supabase/agent-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện cung cấp các skill (kỹ năng) để tích hợp AI agents với Supabase, giúp developers dễ dàng xây dựng ứng dụng có khả năng tự động hóa và truy vấn dữ liệu qua ngôn ngữ tự nhiên.",
+  "usecases": [
+    "Tạo chatbot AI có thể truy vấn và cập nhật dữ liệu Supabase qua ngôn ngữ tự nhiên.",
+    "Tự động hóa quy trình làm việc như gửi thông báo, tạo báo cáo dựa trên thay đổi dữ liệu trong Supabase.",
+    "Phát triển công cụ hỗ trợ lập trình viên viết truy vấn SQL hoặc thực hiện migration qua AI agent."
+  ],
+  "ideas": [
+    "Kết hợp với framework AI agent như LangChain để tạo workflow đa bước kết hợp Supabase và các dịch vụ bên ngoài.",
+    "Xây dựng plugin cho IDE mà AI agent có thể thực hiện các thao tác CRUD trên Supabase trực tiếp từ editor.",
+    "Áp dụng vào hệ thống quản lý nội dung (CMS) để cho phép biên tập viên sử dụng lệnh thoại để thay đổi dữ liệu."
+  ],
+  "stars": 2815,
+  "starsToday": 27,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "skills",
+    "supabase"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-14T00:10:30.107Z"
+}

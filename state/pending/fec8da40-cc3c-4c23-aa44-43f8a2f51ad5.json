@@ -1,0 +1,44 @@
+{
+  "id": "fec8da40-cc3c-4c23-aa44-43f8a2f51ad5",
+  "repo": "maximhq/bifrost",
+  "url": "https://github.com/maximhq/bifrost",
+  "category": "API/GraphQL",
+  "summary": "Cổng giao (AI gateway) mã nguồn mở cao tốc cung cấp API tương thích OpenAI cho hơn 10.000 mô hình, hỗ trợ load balancing, semantic caching và quản lý chi phí.",
+  "usecases": [
+    "Route request LLM đến nhiều provider (OpenAI, Anthropic, Claude) với failover tự động",
+    "Giảm latency và chi phí thông qua semantic caching tại cấp gateway",
+    "Cho phép agent/SDK kết nối API duy nhất để truy cập nhiều model với budgets và rate limiting"
+  ],
+  "ideas": [
+    "Kết hợp mô hình self-hosted để tạo hybrid gateway giữa cloud và on-premise",
+    "Phát triển dashboard monitoring chi phí và performance real-time cho enterprises",
+    "Tích hợp với framework agent như AutoGen hay LangGraph để tối ưu routing động"
+  ],
+  "stars": 8762,
+  "starsToday": 31,
+  "language": "Go",
+  "topics": [
+    "gateway",
+    "llm-gateway",
+    "guardrails",
+    "mcp-gateway",
+    "ai-gateway",
+    "llm-cost",
+    "llm-observability",
+    "load-balancing",
+    "model-router",
+    "agent-gateway",
+    "ai-governance",
+    "api-gateway",
+    "claude-code",
+    "coding-agents",
+    "failover",
+    "llm-proxy",
+    "llm-router",
+    "model-context-protocol",
+    "openai-compatible",
+    "semantic-cache"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-14T00:10:30.107Z"
+}
