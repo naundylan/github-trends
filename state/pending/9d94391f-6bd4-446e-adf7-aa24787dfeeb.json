@@ -1,0 +1,34 @@
+{
+  "id": "9d94391f-6bd4-446e-adf7-aa24787dfeeb",
+  "repo": "razorpay/slashdocs",
+  "url": "https://github.com/razorpay/slashdocs",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án cung cấp nền tảng self-hosted cho AI agents xuất bản và review tài liệu HTML, tích hợp CLI và MCP để quản lý version và comments từ con người.",
+  "usecases": [
+    "AI agents tự động publish và version hóa tài liệu kỹ thuật",
+    "Phòng review cộng đồng với comments trên các HTML docs",
+    "Tích hợp vào workflow MCP/MCP-server cho các hệ thống agent"
+  ],
+  "ideas": [
+    "Kết hợp với các framework agent như Claude Code để tự động generate và review documentation",
+    "Sử dụng làm layer documentation cho các microservices, agent push code doc và human approve",
+    "Tạo hệ thống knowledge base tự động cập nhật từ agent interactions"
+  ],
+  "stars": 286,
+  "starsToday": 42,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "code-review",
+    "documents",
+    "golang",
+    "html",
+    "mcp",
+    "mcp-server",
+    "react",
+    "self-hosted"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-14T23:39:26.914Z"
+}

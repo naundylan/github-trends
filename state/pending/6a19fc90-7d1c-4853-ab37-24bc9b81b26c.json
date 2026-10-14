@@ -1,0 +1,44 @@
+{
+  "id": "6a19fc90-7d1c-4853-ab37-24bc9b81b26c",
+  "repo": "maximhq/bifrost",
+  "url": "https://github.com/maximhq/bifrost",
+  "category": "AI/LLM",
+  "summary": "Gateway AI high-performance cung cấp API duy nhất tương thích OpenAI cho hơn 10,000 mô hình, với failover, load balancing, semantic caching và agent gateway có overhead dưới 200µs.",
+  "usecases": [
+    "Một điểm truy cập duy nhất (single API) cho nhiều hơn 10,000 mô hình LLM trong doanh nghiệp",
+    "Quản lý chi phí và budgets cho các mô hình thông qua virtual keys và semantic caching",
+    "Failover và load balancing cho các ứng dụng sản xuất cần high availability cho LLM calls"
+  ],
+  "ideas": [
+    "Triển khai làm layer routing và cost optimization cho các hệ thống AI agent đa mô hình",
+    "Sử dụng semantic caching để tăng tốc các request repeat trong chat applications",
+    "Kết hợp với observability tools để theo dõi thực tế hiệu suất và chi phí LLM theo từng virtual key"
+  ],
+  "stars": 8806,
+  "starsToday": 41,
+  "language": "Go",
+  "topics": [
+    "gateway",
+    "llm-gateway",
+    "guardrails",
+    "mcp-gateway",
+    "ai-gateway",
+    "llm-cost",
+    "llm-observability",
+    "load-balancing",
+    "model-router",
+    "agent-gateway",
+    "ai-governance",
+    "api-gateway",
+    "claude-code",
+    "coding-agents",
+    "failover",
+    "llm-proxy",
+    "llm-router",
+    "model-context-protocol",
+    "openai-compatible",
+    "semantic-cache"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-14T23:39:26.914Z"
+}

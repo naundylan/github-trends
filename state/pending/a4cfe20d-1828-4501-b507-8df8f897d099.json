@@ -1,0 +1,23 @@
+{
+  "id": "a4cfe20d-1828-4501-b507-8df8f897d099",
+  "repo": "ntdevlabs/tiny11builder",
+  "url": "https://github.com/ntdevlabs/tiny11builder",
+  "category": "Desktop App",
+  "summary": "Ứng dụng WinUI dùng để tạo các hình ảnh Windows 11 nhỏ gọn và tùy chỉnh.",
+  "usecases": [
+    "Tạo bản cài Windows 11 tối ưu cho máy tính cũ hoặc thiết bị nhúng.",
+    "Tự động hóa việc xóa bỏ các ứng dụng bloatware khỏi image hệ điều hành.",
+    "Build image tùy chỉnh cho môi trường ảo và máy chủ đa bản."
+  ],
+  "ideas": [
+    "Tích hợp AI để tự động đề xuất các gói phần mềm nên xóa để giảm kích thước image.",
+    "Tạo giao diện CLI kết hợp với script để build image theo lệnh.",
+    "Hỗ trợ cross-platform build cho Windows 11 trên ARM và x64 cùng một workflow."
+  ],
+  "stars": 20200,
+  "starsToday": 194,
+  "language": "C#",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-14T23:39:26.914Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "f48364e9-d5b1-4bbc-a73f-1fad48a11b8c",
+  "repo": "nestjs/nest",
+  "url": "https://github.com/nestjs/nest",
+  "category": "Backend Framework",
+  "summary": "Nest là khung framework progressive cho Node.js, cho phép phát triển các ứng dụng server-side hiệu quả, mở rộng và doanh nghiệp bằng TypeScript/JavaScript. Nest hỗ trợ kiến trúc modular, microservices và WebSocket để xây dựng các dịch vụ backend mạnh mẽ.",
+  "usecases": [
+    "Xây dựng API RESTful hoặc GraphQL cho ứng dụng web và di động",
+    "Tạo microservices để xử lý các tác vụ nền và xử lý thời gian thực",
+    "Phát triển ứng dụng real-time với WebSocket như chat, đồng bộ dữ liệu"
+  ],
+  "ideas": [
+    "Kết hợp Nest với GraphQL để cung cấp API linh hoạt cho client",
+    "Sử dụng Nest để xây dựng serverless functions trên AWS Lambda hoặc Azure Functions",
+    "Tạo CLI tool để sinh ra dự án Nest mới với cấu hình tối ưu cho microservices"
+  ],
+  "stars": 76848,
+  "starsToday": 55,
+  "language": "TypeScript",
+  "topics": [
+    "nest",
+    "javascript",
+    "typescript",
+    "nodejs",
+    "framework",
+    "nodejs-framework",
+    "typescript-framework",
+    "javascript-framework",
+    "microservices",
+    "websockets",
+    "node",
+    "nestjs",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-10-14T23:39:26.914Z"
+}

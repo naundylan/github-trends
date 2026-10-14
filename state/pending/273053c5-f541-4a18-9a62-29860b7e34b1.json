@@ -1,0 +1,35 @@
+{
+  "id": "273053c5-f541-4a18-9a62-29860b7e34b1",
+  "repo": "google/agentmesh",
+  "url": "https://github.com/google/agentmesh",
+  "category": "AI Agent/Automation",
+  "summary": "Framework mesh cho phép AI agent giao tiếp, phối hợp và chia sẻ inference trong môi trường phân tán, xây dựng bằng Go.",
+  "usecases": [
+    "Cho phép nhiều AI agent hoạt động cùng nhau giải quyết bài toán phức tạp qua mesh network.",
+    "Phân phối tác vụ inference giữa các node để cân bằng tải.",
+    "Xây dựng hệ thống agent-based cho ứng dụng p2p hoặc decentralized AI."
+  ],
+  "ideas": [
+    "Sử dụng làm nền tảng cho hệ thống multi-agent tự học trong môi trường Web3.",
+    "Triển khai cho ứng dụng edge computing cần phân phối tác vụ AI giữa các thiết bị.",
+    "Tạo giao thức giao tiếp agent-to-agent chuẩn hóa cho các framework AI hiện có."
+  ],
+  "stars": 1060,
+  "starsToday": 44,
+  "language": "Go",
+  "topics": [
+    "agentic-ai",
+    "p2p-network",
+    "network-security",
+    "networking-ai",
+    "mcp",
+    "a2a",
+    "a2a-protocol",
+    "inference",
+    "mesh",
+    "mesh-network",
+    "agent-mesh"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-14T23:39:26.914Z"
+}
