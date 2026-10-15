@@ -1,0 +1,42 @@
+{
+  "id": "1924583d-5c3f-42e6-b718-dbfa77acae56",
+  "repo": "tphakala/birdnet-go",
+  "url": "https://github.com/tphakala/birdnet-go",
+  "category": "Embedded/IoT",
+  "summary": "Ứng dụng self-hosted phân tích soundscape thời gian thực cho chim, chuột và sinh vật hoang dã, chạy trên Raspberry Pi với inference AI cục bộ.",
+  "usecases": [
+    "Giám sát môi trường tự động trong nông nghiệp hoặc nghiên cứu sinh học",
+    "Phát hiện tiếng hát hoặc dấu hiệu bệnh của gia súc trên ferme",
+    "Xây dựng hệ thống cảnh báo tiếng động động vật trong không gian sống"
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ nhận diện 종 chim qua giọng hát trong tự nhiên",
+    "Kết hợp với dự báo thời tiết dựa trên dữ liệu tiếng động",
+    "Xây dựng ứng dụng chơi game tương tác với tiếng động thực tế"
+  ],
+  "stars": 2285,
+  "starsToday": 12,
+  "language": "Go",
+  "topics": [
+    "audio",
+    "bioacoustics",
+    "birds",
+    "golang",
+    "tensorflow",
+    "birdnet",
+    "birdnet-pi",
+    "wildlife",
+    "birdweather",
+    "raspberry-pi",
+    "artificial-intelligence",
+    "contributions-welcome",
+    "go",
+    "linux",
+    "raspberrypi",
+    "bats",
+    "perch",
+    "self-hosted"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-15T07:56:42.429Z"
+}

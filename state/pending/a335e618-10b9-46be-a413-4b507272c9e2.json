@@ -1,0 +1,35 @@
+{
+  "id": "a335e618-10b9-46be-a413-4b507272c9e2",
+  "repo": "evanw/esbuild",
+  "url": "https://github.com/evanw/esbuild",
+  "category": "Build Tool/Bundler",
+  "summary": "esbuild là một trình đóng gói (bundler) cho JavaScript/TypeScript cực kỳ nhanh, viết bằng Go, hỗ trợ minify, build và development server với tốc độ vượt trội so với các công cụ truyền thống.",
+  "usecases": [
+    "Build nhanh cho ứng dụng React/Vue/React Native trong quá trình phát triển.",
+    "Minify và bundle code cho production deployment để giảm kích thước file.",
+    "Compile TypeScript/JavaScript trong các pipeline CI/CD."
+  ],
+  "ideas": [
+    "Sử dụng esbuild làm foundation cho một bundler tùy chỉnh cho các framework CSS-in-JS.",
+    "Kết hợp với Docker để tạo image development container có build time tức.",
+    "Tạo một plugin VS Code extension tự động build và refresh khi lưu file."
+  ],
+  "stars": 40088,
+  "starsToday": 7,
+  "language": "Go",
+  "topics": [
+    "typescript",
+    "minifier",
+    "javascript",
+    "commonjs",
+    "compiler",
+    "jsx",
+    "tsx",
+    "css",
+    "react",
+    "bundler",
+    "esm"
+  ],
+  "notePath": "notes/Build-Tool-Bundler.md",
+  "createdAt": "2026-10-15T07:56:42.429Z"
+}

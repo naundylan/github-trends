@@ -1,0 +1,38 @@
+{
+  "id": "6423d8e1-606e-442e-af62-f3e9c63088bb",
+  "repo": "isair/jarvis",
+  "url": "https://github.com/isair/jarvis",
+  "category": "AI Agent/Automation",
+  "summary": "Jarvis là trợ lý AI riêng tư chạy trên desktop, hỗ trợ chat giọng và văn bản, có bộ nhớ cá nhân và tích hợp MCP cho các công cụ đa mục đích, có thể hoạt động offline với Ollama hoặc server tương thích OpenAI trên macOS, Windows và Linux.",
+  "usecases": [
+    "Tự động hóa các tác vụ lặp đi lặp lại cho phát triển viên thông qua lệnh giọng nói hoặc văn bản.",
+    "Hỗ trợ tư vấn sức khỏe và dinh dưỡng cá nhân với dữ liệu cục bộ đảm bảo quyền riêng tư.",
+    "Tích hợp với mô hình AI neighborhood (Ollama) để tạo ứng dụng AI an toàn cho doanh nghiệp offline."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống home automation để điều khiển thiết bị thông qua giọng nói và ngữ cảnh cá nhân.",
+    "Phát triển plugin cho các trình soạn thảo code để hỗ trợ tự động hoàn thành code và giải thích logic.",
+    "Thế chế 'học tập' nơi Jarvis ghi lại tương tác người dùng để cải thiện phản hồi sau này."
+  ],
+  "stars": 2073,
+  "starsToday": 31,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "privacy",
+    "mcp",
+    "nutrition",
+    "ai-assistant",
+    "local-ai",
+    "voice-assistant",
+    "assistant",
+    "health",
+    "machine-learning",
+    "private",
+    "search",
+    "searching",
+    "voice"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-15T07:56:42.429Z"
+}

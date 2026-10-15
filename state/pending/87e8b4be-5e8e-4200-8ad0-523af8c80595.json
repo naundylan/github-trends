@@ -1,0 +1,29 @@
+{
+  "id": "87e8b4be-5e8e-4200-8ad0-523af8c80595",
+  "repo": "Christ9038/Ydisks-Xianyu-Helper",
+  "url": "https://github.com/Christ9038/Ydisks-Xianyu-Helper",
+  "category": "Developer Tool",
+  "summary": "Ydisks-Xianyu-Helper là hệ thống tự động hóa đa tài khoản cho Xianyu, kết hợp Go backend với React frontend để thực hiện tự động gửi hàng và trả lời tin nhắn.",
+  "usecases": [
+    "Tự động quản lý và xuất hàng cho nhiều tài khoản bán hàng trên Xianyu, tiết kiệm thời gian nhân thủ.",
+    "Trả lời tự động tin nhắn khách hàng dựa trên từ khóa, cải thiện tỷ lệ phản hồi và tương tác.",
+    "Giám sát và theo dõi hoạt động của các tài khoản Xianyu trong thời gian thực qua giao diện web."
+  ],
+  "ideas": [
+    "Tích hợp giải pháp CAPTCHA giải tự động để vượt qua các kiểm tra bảo mật của Xianyu.",
+    "Mở rộng hỗ trợ cho các nền marketplace khác như Taobao hoặc eBay bằng cách điều chỉnh logic tự động hóa.",
+    "Thêm tính năng phân tích dữ liệu bán hàng để xuất báo cáo doanh thu định kỳ và dự báo."
+  ],
+  "stars": 1879,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "xianyu",
+    "xianyu-assistant",
+    "xianyu-auto-reply",
+    "xianyu-bot",
+    "xianyu-tool"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-15T07:56:42.429Z"
+}

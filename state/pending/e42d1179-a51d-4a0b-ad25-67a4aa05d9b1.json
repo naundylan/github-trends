@@ -1,0 +1,33 @@
+{
+  "id": "e42d1179-a51d-4a0b-ad25-67a4aa05d9b1",
+  "repo": "go-chi/chi",
+  "url": "https://github.com/go-chi/chi",
+  "category": "Web Framework",
+  "summary": "go-chi/chi là router nhẹ và idiomatic cho Go, dùng để xây dựng HTTP services và API với cấu trúc middleware composable.",
+  "usecases": [
+    "Xây dựng RESTful API cho microservices với routing đơn giản và hiệu suất cao.",
+    "Quản lý middleware authentication, logging, recovery cho Go HTTP servers.",
+    "Tạo routing động cho web applications và admin panels trên Go."
+  ],
+  "ideas": [
+    "Kết hợp với router khác để build full-featured Go web framework lightweight.",
+    "Sử dụng trong serverless Go functions để tối ưu cold start và routing.",
+    "Tích hợp với OpenAPI generator để tự động tạo documentation API."
+  ],
+  "stars": 22953,
+  "starsToday": 7,
+  "language": "Go",
+  "topics": [
+    "http",
+    "router",
+    "context",
+    "middleware",
+    "api",
+    "rest-api",
+    "microservices",
+    "golang",
+    "go"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-15T07:56:42.429Z"
+}

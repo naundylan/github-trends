@@ -1,0 +1,27 @@
+{
+  "id": "7ebba16b-b353-49a3-82d6-1cba74895864",
+  "repo": "rany2/edge-tts",
+  "url": "https://github.com/rany2/edge-tts",
+  "category": "AI/LLM",
+  "summary": "Thư viện Python cho phép sử dụng dịch vụ text-to-speech trực tuyến của Microsoft Edge mà không cần cài đặt trình duyệt Edge.",
+  "usecases": [
+    "Phát triển ứng dụng đọc văn bản (TTS) mà không cần trình duyệt nặng",
+    "Tích hợp vào hệ thống trợ giúp người khiếm thị hoặc chatbot",
+    "Tạo nội dung âm thanh tự động cho podcast hoặc video"
+  ],
+  "ideas": [
+    "Kết hợp với trợ lý ảo (voice assistant) chạy trên thiết bị nhẹ",
+    "Phát triển extension trình duyệt hỗ trợ đọc sách nói tức thời",
+    "Sử dụng trong giáo dục để hỗ trợ trẻ khiếm thị"
+  ],
+  "stars": 12283,
+  "starsToday": 14,
+  "language": "Python",
+  "topics": [
+    "tts",
+    "speech-synthesis",
+    "text-to-speech"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-15T07:56:42.429Z"
+}

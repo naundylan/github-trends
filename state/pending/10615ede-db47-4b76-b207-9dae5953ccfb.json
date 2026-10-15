@@ -1,0 +1,27 @@
+{
+  "id": "10615ede-db47-4b76-b207-9dae5953ccfb",
+  "repo": "tokio-rs/tokio",
+  "url": "https://github.com/tokio-rs/tokio",
+  "category": "Backend Framework",
+  "summary": "Runtime không đồng bộ cho Rust, cung cấp I/O, networking, scheduling và timers để xây dựng ứng dụng hiệu suất cao.",
+  "usecases": [
+    "Xây dựng server HTTP/WebSocket high-performance.",
+    "Quản lý I/O bất đồng bộ và kết nối database trong backend.",
+    "Phát triển game server hoặc real-time application cần xử lý nhiều kết nối cùng lúc."
+  ],
+  "ideas": [
+    "Kết hợp WebAssembly chạy Rust async trên web client.",
+    "Runtime cho AI agent viết Rust tương tác với hệ thống hạ tầng.",
+    "Framework monitoring/logging async cho microservices."
+  ],
+  "stars": 33417,
+  "starsToday": 15,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "asynchronous",
+    "networking"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-10-15T07:56:42.429Z"
+}

@@ -3069,47 +3069,52 @@
     "last_seen": "2026-10-15",
     "last_saved": "2026-10-14"
   },
-  "plugin87/ux-ui-agent-skills": {
+  "sandeco/reversa": {
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
     "last_saved": "2026-10-15"
   },
-  "wshobson/agents": {
+  "rany2/edge-tts": {
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
     "last_saved": "2026-10-15"
   },
-  "vuejs/core": {
+  "aws/agent-toolkit-for-aws": {
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
     "last_saved": "2026-10-15"
   },
-  "krillinai/OpenCreator": {
+  "isair/jarvis": {
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
     "last_saved": "2026-10-15"
   },
-  "docker/compose": {
+  "go-chi/chi": {
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
     "last_saved": "2026-10-15"
   },
-  "TecharoHQ/anubis": {
+  "evanw/esbuild": {
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
     "last_saved": "2026-10-15"
   },
-  "vosen/ZLUDA": {
+  "tphakala/birdnet-go": {
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
     "last_saved": "2026-10-15"
   },
-  "tauri-apps/tauri": {
+  "Christ9038/Ydisks-Xianyu-Helper": {
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
     "last_saved": "2026-10-15"
   },
-  "astral-sh/uv": {
+  "open-telemetry/opentelemetry-collector-contrib": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "last_saved": "2026-10-15"
+  },
+  "tokio-rs/tokio": {
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
     "last_saved": "2026-10-15"

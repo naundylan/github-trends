@@ -1,0 +1,23 @@
+{
+  "id": "f9f6ecca-d3f5-43af-90a0-c0d263b31aeb",
+  "repo": "sandeco/reversa",
+  "url": "https://github.com/sandeco/reversa",
+  "category": "AI/LLM",
+  "summary": "sandeco/reversa chuyển đổi hệ thống legacy thành specification có thể thực thi cho AI coding agents, giúp tự động hóa modernize code.",
+  "usecases": [
+    "Tự động modernize code legacy sang ngôn ngữ hiện đại bằng hỗ trợ AI.",
+    "Giúp AI coding agents hiểu và xử lý code legacy mà không can thiệp thủ công.",
+    "Tạo spec sheets để tích hợp pipeline CI/CD cho refactoring liên tục."
+  ],
+  "ideas": [
+    "Kết hợp với Claude/Cursor để tự động tạo pull request modernize.",
+    "Sử dụng làm bridge giữa monolith cũ và microservice mới thông qua AI.",
+    "Tạo dashboard theo dõi tiến độ chuyển đổi legacy sang code AI-managed."
+  ],
+  "stars": 1751,
+  "starsToday": 11,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-15T07:56:42.429Z"
+}

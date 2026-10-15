@@ -1,0 +1,26 @@
+{
+  "id": "557f9222-de33-4006-a6da-574b6c3aa0c9",
+  "repo": "open-telemetry/opentelemetry-collector-contrib",
+  "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+  "category": "DevOps/CI-CD",
+  "summary": "OpenTelemetry Collector Contrib là kho mở rộng chứa các exporters, receivers và processors bổ trợ cho OpenTelemetry Collector, giúp thu thập và chuyển đổi metric/log/trace từ nhiều nguồn khác nhau.",
+  "usecases": [
+    "Thu thập logs và metrics từ các microservice vào một nơi trung tâm cho monitoring.",
+    "Chuyển đổi và enrich dữ liệu trace trước khi gửi đến backend observability như Jaeger hoặc Prometheus.",
+    "Tích hợp các exporters đặc biệt cho các nền tảng cloud (AWS, GCP, Azure) trong các hệ thống phân tán."
+  ],
+  "ideas": [
+    "Xây dựng hệ thống monitoring riêng cho IoT devices bằng cách dùng collector để thu thập data từ edge devices.",
+    "Kết hợp với OpenAI LLM để phân tích logs và tạo ra các insight tự động về performance.",
+    "Triển khai observability cho serverless functions across multiple cloud providers."
+  ],
+  "stars": 4999,
+  "starsToday": 3,
+  "language": "Go",
+  "topics": [
+    "opentelemetry",
+    "open-telemetry"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-15T07:56:42.429Z"
+}
