@@ -1,0 +1,31 @@
+{
+  "id": "2a7fbbc1-181f-49be-b14d-334bb81e37ea",
+  "repo": "livekit/livekit",
+  "url": "https://github.com/livekit/livekit",
+  "category": "Backend Framework",
+  "summary": "Nền tảng realtime toàn diện dùng để kết nối con người và AI, cung cấp infrastructure audio/video WebRTC và voice AI bằng Go.",
+  "usecases": [
+    "Xây dựng ứng dụng video conference",
+    "Phát triển voice AI assistant realtime",
+    "Xây dựng pipeline media streaming cho IoT"
+  ],
+  "ideas": [
+    "Kết hợp với LLM tạo voice AI agent tương tác",
+    "Xây dựng platform record/playback cho telemedicine",
+    "Phân tán media streaming cho sự kiện trực tiếp khổng lồ"
+  ],
+  "stars": 21468,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "webrtc",
+    "sfu",
+    "media-server",
+    "video",
+    "voice",
+    "voice-ai"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-10-15T23:33:08.422Z"
+}

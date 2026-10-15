@@ -1,0 +1,25 @@
+{
+  "id": "5a525bfa-3ac5-4e12-9ec3-fcf2692018fb",
+  "repo": "trailofbits/skills",
+  "url": "https://github.com/trailofbits/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ kỹ năng AI Claude Code hỗ trợ nghiên cứu bảo mật, phát hiện lỗ hổng và tự động hóa quy trình audit bảo mật.",
+  "usecases": [
+    "Tự động phát hiện lỗ hổng trong codebase bằng AI mỗi khi commit.",
+    "Hỗ trợ audit bảo mật với các quy trình kiểm tra và báo cáo tự động.",
+    "Tích hợp vào CI/CD pipeline để scan code tự động."
+  ],
+  "ideas": [
+    "Phát triển plugin cho IDE để cảnh báo bảo mật real-time khi viết code.",
+    "Sử dụng kết quả audit để tạo training data cho models bảo mật tùy chỉnh.",
+    "Tự động tạo patch hoặc fix suggestion cho các lỗ hiểm phát hiện được."
+  ],
+  "stars": 7573,
+  "starsToday": 27,
+  "language": "Python",
+  "topics": [
+    "agent-skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-15T23:33:08.422Z"
+}

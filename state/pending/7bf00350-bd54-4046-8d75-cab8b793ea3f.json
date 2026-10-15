@@ -1,0 +1,44 @@
+{
+  "id": "7bf00350-bd54-4046-8d75-cab8b793ea3f",
+  "repo": "lightseekorg/tokenspeed",
+  "url": "https://github.com/lightseekorg/tokenspeed",
+  "category": "AI/LLM",
+  "summary": "TokenSpeed là một engine inference LLM tốc độ siêu tốc, tối ưu hóa tốc độ xử lý mô hình ngôn ngữ với tốc độ gần như tốc độ ánh sáng, hỗ trợ nhiều mô hình LLM như DeepSeek, Qwen, Kimi và các mô hình khác.",
+  "usecases": [
+    "Inference tốc độ cao cho ứng dụng chatbot và trợ lý ảo",
+    "Xử lý batch inference cho các ứng dụng sản xuất cần throughput cao",
+    "Hỗ trợ các ứng dụng real-time cần độ trễ thấp như phát giọng nói, video AI"
+  ],
+  "ideas": [
+    "Kết hợp với hardware Blackwell/NVIDIA GB200 để tạo inference real-time cho các ứng dụng VR/AR",
+    "Triển khai làm một inference service API cho các startup AI với chi phí thấp và throughput cao",
+    "Phát triển một desktop app so sánh tốc độ inference giữa các engine LLM khác nhau"
+  ],
+  "stars": 2470,
+  "starsToday": 25,
+  "language": "Python",
+  "topics": [
+    "deepseek",
+    "gpt-oss",
+    "kimi",
+    "lightseek",
+    "llm",
+    "minimax",
+    "qwen",
+    "speed-of-light",
+    "tokenspeed",
+    "blackwell",
+    "glm",
+    "vlm",
+    "inkling",
+    "b200",
+    "b300",
+    "gb200",
+    "gb300",
+    "mi355x",
+    "mi455x",
+    "rubin"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-15T23:33:08.422Z"
+}

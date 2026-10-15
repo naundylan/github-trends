@@ -1,0 +1,29 @@
+{
+  "id": "49407fb8-e4ef-443b-a16c-fa5d9e6beafb",
+  "repo": "danielmiessler/Fabric",
+  "url": "https://github.com/danielmiessler/Fabric",
+  "category": "AI Agent/Automation",
+  "summary": "Fabric là một framework mã nguồn mở để tăng cường con người bằng AI, cung cấp hệ thống mô-đun để giải quyết các vấn đề cụ thể bằng tập hợp prompts AI được cộng đồng tạo ra, có thể sử dụng ở mọi nơi.",
+  "usecases": [
+    "Tạo nội dung và viết văn tự động bằng AI prompts",
+    "Phân tích và giải quyết vấn đề trong công việc hàng ngày thông qua các prompt modular",
+    "Tích hợp AI vào các quy trình làm việc hiện có để tăng năng suất"
+  ],
+  "ideas": [
+    "Xây dựng một công cụ tự động hóa workflow cho các nhà văn và nhà sáng tạo nội dung",
+    "Tích hợp với các hệ thống nội bộ công ty để tạo ra các câu trả lời AI tùy chỉnh cho hỗ trợ khách hàng",
+    "Phát triển một mobile app cho phép người dùng truy cập các prompt AI anytime, anywhere"
+  ],
+  "stars": 44283,
+  "starsToday": 25,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "augmentation",
+    "flourishing",
+    "life",
+    "work"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-15T23:33:08.422Z"
+}

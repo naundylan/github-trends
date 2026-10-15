@@ -1,0 +1,42 @@
+{
+  "id": "1251351e-7612-45f0-8384-3730d93cd85a",
+  "repo": "surrealdb/surrealdb",
+  "url": "https://github.com/surrealdb/surrealdb",
+  "category": "Database",
+  "summary": "Database phân tán cộng đồng-document-graph cho web realtime, viết bằng Rust, hỗ trợ truy cập SQL/NoSQL và IoT.",
+  "usecases": [
+    "Ứng dụng web cộng đồng realtime",
+    "Lưu trữ dữ liệu IoT với quan hệ graph",
+    "Backend mobile/web cần schema linh hoạt"
+  ],
+  "ideas": [
+    "Xây dựng knowledge graph cho công cụ tìm kiếm nội bộ",
+    "Đồng bộ dữ liệu realtime offline-first giữa mobile/web",
+    "Backend serverless cho graph traversal phức tạp"
+  ],
+  "stars": 33165,
+  "starsToday": 22,
+  "language": "Rust",
+  "topics": [
+    "database",
+    "distributed",
+    "distributed-database",
+    "document-database",
+    "realtime-database",
+    "cloud-database",
+    "backend-as-a-service",
+    "database-as-a-service",
+    "serverless",
+    "web",
+    "developer-tools",
+    "devtools",
+    "sql",
+    "nosql",
+    "graph-database",
+    "surreal",
+    "surrealdb",
+    "iot-database"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-10-15T23:33:08.422Z"
+}

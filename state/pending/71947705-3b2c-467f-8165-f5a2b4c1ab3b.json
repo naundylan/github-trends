@@ -1,0 +1,30 @@
+{
+  "id": "71947705-3b2c-467f-8165-f5a2b4c1ab3b",
+  "repo": "ShawnPana/phone-harness",
+  "url": "https://github.com/ShawnPana/phone-harness",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện Python cho phép agent AI điều khiển và tự động hóa các tác vụ trên thiết bị di động, hỗ trợ developer-tools và mobile-ai.",
+  "usecases": [
+    "Tự động hóa quy trình test ứng dụng mobile bằng agent AI.",
+    "Tạo trợ lý voice điều khiển phone cho người khuyết tật.",
+    "Demo và prototyping nhanh cho các dự án mobile AI."
+  ],
+  "ideas": [
+    "Kết hợp với các framework agent như AutoGen hoặc Swarm để tạo hệ thống tự hành hoàn toàn.",
+    "Phát triển ứng dụng 'phone as a service' nơi nhiều agent cùng dùng một thiết bị.",
+    "Sử dụng cho việc thu thập dữ liệu và tự động đánh giá UI/UX trên thực device."
+  ],
+  "stars": 3667,
+  "starsToday": 203,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "automation",
+    "developer-tools",
+    "mobile-ai",
+    "mobile-development"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-15T23:33:08.422Z"
+}

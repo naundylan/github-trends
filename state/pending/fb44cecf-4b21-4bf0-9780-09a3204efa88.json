@@ -1,0 +1,23 @@
+{
+  "id": "fb44cecf-4b21-4bf0-9780-09a3204efa88",
+  "repo": "SegFault42/HeliosGen",
+  "url": "https://github.com/SegFault42/HeliosGen",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop Gen AI nguồn mở, làm miễn phí các nền tảng thương mại như Higgsfield, OpenArt, Freepik.",
+  "usecases": [
+    "Thực hiện inference và tạo hình ảnh Gen AI trên máy tính mà không phụ thuộc vào các dịch vụ cloud.",
+    "Công trình sáng tạo cá nhân cho nghệ sĩ và thiết kế viên để tạo nghệ thuật địa phương.",
+    "Tạo hình ảnh AI offline cho người dùng chú trọng quyền riêng tư."
+  ],
+  "ideas": [
+    "Kết hợp với LLMs cục bộ cho quy trình text-to-text và text-to-image.",
+    "Thêm hỗ trợ GPU-accelerated cho các phần cứng khác nhau.",
+    "Xây dựng UI có thể tùy chỉnh với nguồn mở, được thiết kế theo phong cách các nền tảng thương mại."
+  ],
+  "stars": 3101,
+  "starsToday": 426,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-15T23:33:08.422Z"
+}

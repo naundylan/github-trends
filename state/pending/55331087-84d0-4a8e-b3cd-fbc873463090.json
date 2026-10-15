@@ -1,0 +1,23 @@
+{
+  "id": "55331087-84d0-4a8e-b3cd-fbc873463090",
+  "repo": "itsPLK/ps5-payload-manager",
+  "url": "https://github.com/itsPLK/ps5-payload-manager",
+  "category": "Web Frontend",
+  "summary": "Dashboard web quản lý payload PS5, cho phép nhập và tự động tải payloads một cách trực quan.",
+  "usecases": [
+    "Quản lý và organize payloads cho modding PS5.",
+    "Tự động tải payloads mới lên console PS5 qua giao diện web.",
+    "Theo dõi trạng thái payload mà không cần kết nối cục bộ."
+  ],
+  "ideas": [
+    "Kết hợp với remote play để tải payloads trực tiếp từ browser.",
+    "Tạo plugin cho các dashboard modding PS5 khác.",
+    "Hỗ trợ multi-console quản lý payloads PS4/PS5 cùng lúc."
+  ],
+  "stars": 553,
+  "starsToday": 27,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-15T23:33:08.422Z"
+}
