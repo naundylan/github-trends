@@ -1,0 +1,44 @@
+{
+  "id": "d8523e73-4c7d-45c3-a0ca-350797ca7104",
+  "repo": "LargeModGames/spotatui",
+  "url": "https://github.com/LargeModGames/spotatui",
+  "category": "CLI Tool",
+  "summary": "một phát nhạc terminal nhanh viết bằng Rust, hỗ trợ luồng Spotify native cùng nguồn local, Subsonic, radio, Qobuz và YouTube",
+  "usecases": [
+    "phát nhạc trực tiếp từ Spotify trong terminal mà không cần trình duyệt",
+    "lắng nghe radio online và Subsonic streams từ dòng lệnh",
+    "tìm và phát bài hát/local files kèm lyric hiển thị trong terminal"
+  ],
+  "ideas": [
+    "tích hợp visualizer âm thanh real-time cho terminal",
+    "tạo bot Spotify control qua voice command hoặc chat AI",
+    "xuất playlist sang các nền tảng khác như Navidrome hoặc Subsonic server"
+  ],
+  "stars": 1630,
+  "starsToday": 43,
+  "language": "Rust",
+  "topics": [
+    "cli",
+    "multimedia",
+    "music",
+    "rust",
+    "spotify",
+    "spotify-api",
+    "spotify-tui",
+    "terminal",
+    "terminal-based",
+    "audio-visualization",
+    "music-player",
+    "navidrome",
+    "radio",
+    "ratatui",
+    "subsonic",
+    "tui",
+    "youtube",
+    "lyrics",
+    "mpris",
+    "qobuz"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-15T18:52:47.792Z"
+}

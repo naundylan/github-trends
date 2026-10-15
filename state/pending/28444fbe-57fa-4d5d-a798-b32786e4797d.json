@@ -1,0 +1,38 @@
+{
+  "id": "28444fbe-57fa-4d5d-a798-b32786e4797d",
+  "repo": "usememos/memos",
+  "url": "https://github.com/usememos/memos",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "Ứng dụng timeline cá nhân để ghi chú nhanh, tìm kiếm bằng tag, ngày hoặc nội dung, mã nguồn mở và self-hosted.",
+  "usecases": [
+    "Nhật ký cá nhân có thể tìm kiếm và phân loại bằng tag",
+    "Knowledge base cho team ghi chú nhanh và tóm tắt cuộc họp",
+    "Thay thế các ứng dụng ghi chú disposable với hệ self-hosted riêng"
+  ],
+  "ideas": [
+    "Tạo extension browser để lưu text chọn vào Memos trực tiếp",
+    "AI-powered tagging và summarization cho memos",
+    "Kết hợp với calendar để tự tạo memos cho sự kiện lên lịch"
+  ],
+  "stars": 63812,
+  "starsToday": 31,
+  "language": "Go",
+  "topics": [
+    "react",
+    "go",
+    "sqlite",
+    "markdown",
+    "self-hosted",
+    "note-taking",
+    "memo",
+    "docker",
+    "microblog",
+    "foss",
+    "own-your-data",
+    "notes",
+    "open-source",
+    "timeline"
+  ],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-10-15T18:52:47.792Z"
+}

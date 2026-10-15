@@ -1,0 +1,39 @@
+{
+  "id": "27b19be7-c805-4d92-b544-1901e5939712",
+  "repo": "microsoft/playwright",
+  "url": "https://github.com/microsoft/playwright",
+  "category": "Testing/QA",
+  "summary": "Playwright là một framework tự động hóa kiểm thử web, cho phép kiểm tra ứng dụng trên Chromium, Firefox và WebKit bằng một API duy nhất, hỗ trợ testing end-to-end trên nhiều trình duyệt và môi trường.",
+  "usecases": [
+    "Chạy tự động các test end-to-end cho web apps trên nhiều trình duyệt cùng lúc.",
+    "Tích hợp vào CI/CD để test mỗi commit và ngăn chặn regression.",
+    "Tự động hóa tác vụ lặp lại như điền form, kiểm tra UI, chụp màn hình trong quá trình phát triển."
+  ],
+  "ideas": [
+    "Kết hợp với Playwright Test Reporter để tạo báo cáo test tự động và chia sẻ cho stakeholder.",
+    "Sử dụng Playwright CLI để test local development environment và tự động sửa lỗi giao diện.",
+    "Kết hợp với AI để tự động tạo test cases từ hành vi người dùng."
+  ],
+  "stars": 97785,
+  "starsToday": 84,
+  "language": "TypeScript",
+  "topics": [
+    "playwright",
+    "testing",
+    "automation",
+    "webkit",
+    "firefox",
+    "e2e-testing",
+    "web",
+    "chrome",
+    "electron",
+    "javascript",
+    "chromium",
+    "end-to-end-testing",
+    "test",
+    "test-automation",
+    "testing-tools"
+  ],
+  "notePath": "notes/Testing-QA.md",
+  "createdAt": "2026-10-15T18:52:47.792Z"
+}

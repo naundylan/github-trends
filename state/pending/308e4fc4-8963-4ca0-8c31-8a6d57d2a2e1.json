@@ -1,0 +1,23 @@
+{
+  "id": "308e4fc4-8963-4ca0-8c31-8a6d57d2a2e1",
+  "repo": "ErTasselli/OpenTerminal",
+  "url": "https://github.com/ErTasselli/OpenTerminal",
+  "category": "Web Frontend",
+  "summary": "Bảng điều khiển giao dịch kiểu terminal sử dụng dữ liệu thị trường công khai, không yêu cầu API key hoặc đăng ký.",
+  "usecases": [
+    "Theo dõi giá và xu hướng crypto/không đồng tiền theo thời gian thực trên giao diện terminal.",
+    "Phân tích dữ liệu tài chính cho mục đích giáo dục hoặc nghiên cứu mà không chi phí API.",
+    "Giám sát nhiều cặp giao dịch cùng lúc mà không cần đăng ký broker."
+  ],
+  "ideas": [
+    "Kết hợp dữ liệu thời tiết hoặc tin tức để dự báo ngắn hạn thị trường.",
+    "Cho phép tùm tắt giao diện terminal và chuyển sang giao diện biểu đồ truyền thống.",
+    "Tích hợp với các nền tảng xã hội để chia sẻ biểu đồ trực tiếp."
+  ],
+  "stars": 1740,
+  "starsToday": 102,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-15T18:52:47.792Z"
+}

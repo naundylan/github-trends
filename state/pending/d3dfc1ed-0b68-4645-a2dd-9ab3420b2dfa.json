@@ -1,0 +1,23 @@
+{
+  "id": "d3dfc1ed-0b68-4645-a2dd-9ab3420b2dfa",
+  "repo": "Crosstalk-Solutions/unifi-toolkit",
+  "url": "https://github.com/Crosstalk-Solutions/unifi-toolkit",
+  "category": "DevOps/CI-CD",
+  "summary": "một bộ công cụ Python để quản lý và tự động hóa mạng UniFi, giúp kiểm soát, cấu hình và giám sát các thiết bị mạng UniFi",
+  "usecases": [
+    "tự động backup cấu hình mạng UniFi cho nhiều site",
+    "quản lý và thay đổi thiết lập VLAN thông qua API",
+    "tạo báo cáo sử dụng thiết bị và traffic mạng"
+  ],
+  "ideas": [
+    "kết hợp với Prometheus để dashboard mạng",
+    "tạo plugin IDE để quản lý cấu hình UniFi trực tiếp",
+    "xuất cấu hình ra Terraform để infrastructure as code"
+  ],
+  "stars": 652,
+  "starsToday": 48,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-15T18:52:47.792Z"
+}

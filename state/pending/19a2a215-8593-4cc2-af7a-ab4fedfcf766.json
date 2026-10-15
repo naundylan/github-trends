@@ -1,0 +1,30 @@
+{
+  "id": "19a2a215-8593-4cc2-af7a-ab4fedfcf766",
+  "repo": "tailscale/tailscale",
+  "url": "https://github.com/tailscale/tailscale",
+  "category": "Networking",
+  "summary": "Dịch vụ VPN mã nguồn mở sử dụng WireGuard, cung cấp truy cập mạng an toàn với xác thực SSO/2FA",
+  "usecases": [
+    "Kết nối an toàn giữa device và server trên mạng khác nhau",
+    "Truy cập tài nguyên nội bộ từ xa không cần firewall phức tạp",
+    "Zero-trust network access cho đội ngũ với SSO/2FA"
+  ],
+  "ideas": [
+    "Tích hợp với IdP để tự động onboard employee",
+    "Dùng làm mesh network cho IoT devices",
+    "Kết hợp với Kubernetes cho internal service communication"
+  ],
+  "stars": 37597,
+  "starsToday": 86,
+  "language": "Go",
+  "topics": [
+    "wireguard",
+    "oauth",
+    "sso",
+    "2fa",
+    "vpn",
+    "tailscale"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-15T18:52:47.792Z"
+}

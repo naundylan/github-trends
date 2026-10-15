@@ -1,0 +1,39 @@
+{
+  "id": "367f00ee-11c0-4d47-97c9-711ef67f080b",
+  "repo": "grafana/grafana",
+  "url": "https://github.com/grafana/grafana",
+  "category": "Data Visualization",
+  "summary": "Nền tảng trực quan hóa dữ liệu và quan sát mở cho metrics, logs, traces từ nhiều nguồn như Prometheus, Elasticsearch, InfluxDB, Postgres và nhiều hơn.",
+  "usecases": [
+    "Giám sát metrics cơ sở hạ tầng thời gian thực",
+    "Trực quan hóa logs và traces để debug ứng dụng",
+    "Tạo dashboard tương tác cho BI và theo dõi KPI"
+  ],
+  "ideas": [
+    "Kết hợp với LLM riêng để tự động cảnh báo anomaly",
+    "Build plugin tùy chỉnh để trực quan hóa metrics repository GitHub",
+    "Deploy stack quan sát trên-premise cho các ngành yêu cầu tuân thủ"
+  ],
+  "stars": 77302,
+  "starsToday": 32,
+  "language": "TypeScript",
+  "topics": [
+    "grafana",
+    "monitoring",
+    "analytics",
+    "metrics",
+    "influxdb",
+    "prometheus",
+    "elasticsearch",
+    "alerting",
+    "data-visualization",
+    "go",
+    "dashboard",
+    "business-intelligence",
+    "mysql",
+    "postgres",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-10-15T18:52:47.792Z"
+}

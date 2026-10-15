@@ -1,0 +1,34 @@
+{
+  "id": "630d9c36-0079-4940-8888-250cdcc0fd8e",
+  "repo": "dimthink/PriceAI",
+  "url": "https://github.com/dimthink/PriceAI",
+  "category": "Web Frontend",
+  "summary": "PriceAI là một ứng dụng web dùng để so sánh giá và trạng thái tồn kho của các gói đăng ký AI (ChatGPT, Claude, Gemini, Grok...) từ hơn 100 kênh cung cấp, giúp người dùng tìm thấy giá rẻ nhất và liên kết mua trực tiếp.",
+  "usecases": [
+    "Người dùng so sánh chi phí đăng ký các dịch vụ AI trước khi mua để tối ưu chi phí.",
+    "Doanh nghiệp theo dõi giá và tồn kho các gói AI để lên kế hoạch chi phí hoặc triển khai.",
+    "Phát triển viên tích hợp API so sánh giá vào các ứng dụng hoặc dashboard nội bộ."
+  ],
+  "ideas": [
+    "Thêm tính năng cảnh báo giá (price alert) khi giảm giá hoặc hết hàng.",
+    "Mở API để bên thứ ba có thể truy xuất dữ liệu giá và tích hợp vào hệ thống của riêng họ.",
+    "Mở rộng hỗ trợ cho các dịch vụ AI mới và các nền tảng thanh toán địa phương."
+  ],
+  "stars": 4122,
+  "starsToday": 59,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "nextjs",
+    "price-tracker",
+    "supabase",
+    "ai-subscription",
+    "chatgpt",
+    "claude",
+    "gemini",
+    "grok",
+    "price-comparison"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-15T18:52:47.792Z"
+}

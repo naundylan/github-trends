@@ -1,0 +1,38 @@
+{
+  "id": "10d5cdfb-4fbf-4e70-b950-4b5b5b66c5bf",
+  "repo": "usebruno/bruno",
+  "url": "https://github.com/usebruno/bruno",
+  "category": "Developer Tool",
+  "summary": "IDE mã nguồn mở cho phép khám phá và test API một cách nhẹ, là alternative đến Postman/Insomnia",
+  "usecases": [
+    "Test REST và GraphQL APIs trong phát triển",
+    "Tự động hóa workflow API trong CI/CD",
+    "Prototype và document API endpoints nhanh"
+  ],
+  "ideas": [
+    "Tích hợp plugin tự động sinh OpenAPI từ test cases",
+    "Kết hợp contract testing cho microservices",
+    "Phát triển dashboard giám sát hiệu suất API tùy chỉnh"
+  ],
+  "stars": 47646,
+  "starsToday": 93,
+  "language": "JavaScript",
+  "topics": [
+    "api-client",
+    "git",
+    "graphql-client",
+    "opensource",
+    "automation",
+    "javascript",
+    "testing",
+    "api-testing",
+    "developer-tools",
+    "http-client",
+    "openapi",
+    "openapi3",
+    "rest-api",
+    "testing-tools"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-15T18:52:47.792Z"
+}
