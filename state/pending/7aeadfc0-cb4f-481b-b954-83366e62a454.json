@@ -1,0 +1,26 @@
+{
+  "id": "7aeadfc0-cb4f-481b-b954-83366e62a454",
+  "repo": "vosen/ZLUDA",
+  "url": "https://github.com/vosen/ZLUDA",
+  "category": "Developer Tool",
+  "summary": "ZLUDA là một công cụ cho phép chạy mã CUDA trên các GPU không phải NVIDIA (như AMD, Intel) bằng ngôn ngữ Rust.",
+  "usecases": [
+    "Chạy các ứng dụng CUDA cũ trên hardware AMD mà không cần chuyển đổi code",
+    "Phát triển giải pháp ML/Training trên hardware không phải NVIDIA",
+    "Tối ưu hóa hiệu năng compute trên GPU đa-vendor trong môi trường HPC"
+  ],
+  "ideas": [
+    "Kết hợp ZLUDA với framework ML như PyTorch để hỗ trợ training trên GPU AMD",
+    "Tạo layer tương thích cho game engine sử dụng CUDA effects trên hardware đa dạng",
+    "Phát triển công cụ debug/profiling CUDA code trên các platform non-NVIDIA"
+  ],
+  "stars": 15056,
+  "starsToday": 51,
+  "language": "Rust",
+  "topics": [
+    "cuda",
+    "rust"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-15T02:37:47.251Z"
+}

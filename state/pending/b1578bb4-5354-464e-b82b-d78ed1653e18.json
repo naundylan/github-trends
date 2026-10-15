@@ -1,0 +1,28 @@
+{
+  "id": "b1578bb4-5354-464e-b82b-d78ed1653e18",
+  "repo": "astral-sh/uv",
+  "url": "https://github.com/astral-sh/uv",
+  "category": "Package Manager",
+  "summary": "uv là quản lý gói và dự án Python cực nhanh, viết bằng Rust, cung cấp giải pháp thay thế nhanh gọn đến pip và poetry để quản lý môi trường, giải quyết phụ thuộc và build project.",
+  "usecases": [
+    "Quản lý môi trường Python và cài đặt gói nhanh chóng trong phát triển dự án",
+    "Resolver và khắc phục xung đột phụ thuộc nhanh hơn nhiều trong CI/CD",
+    "Thay thế pip/poetry để build và deploy Python project với tốc độ cao"
+  ],
+  "ideas": [
+    "Tích hợp uv vào các container lightweight để tăng tốc CI",
+    "Phát triển giao diện CLI tùy chỉnh để theo dõi tiến trình resolve",
+    "Kết hợp uv với tool quản lý cache để tối ưu lưu trữ gói offline"
+  ],
+  "stars": 90779,
+  "starsToday": 88,
+  "language": "Rust",
+  "topics": [
+    "packaging",
+    "python",
+    "resolver",
+    "uv"
+  ],
+  "notePath": "notes/Package-Manager.md",
+  "createdAt": "2026-10-15T02:37:47.251Z"
+}

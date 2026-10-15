@@ -1,0 +1,40 @@
+{
+  "id": "0bb51f41-f7ca-4fbe-89b0-6d856d05b334",
+  "repo": "plugin87/ux-ui-agent-skills",
+  "url": "https://github.com/plugin87/ux-ui-agent-skills",
+  "category": "UI/Component Library",
+  "summary": "Kiến tạo một hệ thống agent AI giúp Claude hoạt động như một kiến trúc sư thiết kế cấp senior, tự động sinh 52 component, tuân thủ WCAG 2.2 AA-AAA và 138 design systems, với 50 cổng mục tiêu kiểm tra chất lượng thay vì tạo kết quả giả.",
+  "usecases": [
+    "Tự động hóa thiết kế UI/UX từ yêu cầu mô tả hoặc Figma design sang code React/Tailwind.",
+    "Kiểm tra tính tiếp cận (accessibility) tuân thủ WCAG trong quá trình phát triển frontend.",
+    "Giúp team thiết kế hệ thống design system thống nhất và sinh code tự động cho nhiều framework."
+  ],
+  "ideas": [
+    "Kết hợp với Figma API để tự động đồng bộ design tokens và component library khi có thay đổi thiết kế.",
+    "Sử dụng agent này làm gatekeeper trong pull request để đảm bảo code UI tuân chuẩn trước khi merge.",
+    "Tạo ra một designer AI assistant cá nhân có thể sinh giao diện tùy theo phong cách thương hiệu chỉ từ prompt."
+  ],
+  "stars": 1744,
+  "starsToday": 45,
+  "language": "JavaScript",
+  "topics": [
+    "accessibility",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "component-library",
+    "design-system",
+    "design-to-code",
+    "design-tokens",
+    "dtcg",
+    "figma",
+    "react",
+    "tailwindcss",
+    "ui",
+    "ux",
+    "wcag"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-10-15T02:37:47.251Z"
+}

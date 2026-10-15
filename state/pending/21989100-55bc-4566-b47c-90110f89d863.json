@@ -1,0 +1,23 @@
+{
+  "id": "21989100-55bc-4566-b47c-90110f89d863",
+  "repo": "vuejs/core",
+  "url": "https://github.com/vuejs/core",
+  "category": "Web Framework",
+  "summary": "Vue.js là một framework JavaScript tiến bộ và có thể dần dần áp dụng, được dùng để xây dựng giao diện web hiện đại và ứng dụng đơn trang (SPA). Điểm nổi bật là tính linh hoạt, hiệu năng cao và hệ sinh thái phong phú.",
+  "usecases": [
+    "Xây dựng ứng dụng đơn trang (SPA) với giao diện phản hồi tức thời.",
+    "Phát triển giao diện quản trị và dashboard phức tạp.",
+    "Tích hợp với các thư viện UI như Element UI hoặc Vuetify để tạo trải nghiệm người dùng mượt mà."
+  ],
+  "ideas": [
+    "Kết hợp Vue 3 với Composition API để xây dựng micro-frontends độc lập.",
+    "Sử dụng Vue làm layer giao diện cho ứng dụng desktop qua Electron hoặc IoT devices.",
+    "Phát triển plugin CMS headless nơi Vue hoạt động như frontend headless kết nối với các backend linh hoạt."
+  ],
+  "stars": 54629,
+  "starsToday": 78,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-15T02:37:47.251Z"
+}

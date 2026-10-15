@@ -1,0 +1,31 @@
+{
+  "id": "2524ac16-1858-4af6-b8ed-6663cd740be8",
+  "repo": "tauri-apps/tauri",
+  "url": "https://github.com/tauri-apps/tauri",
+  "category": "Desktop App",
+  "summary": "Cho phép xây dựng ứng dụng desktop và mobile nhanh, nhỏ và bảo mật sử dụng web frontend (HTML/CSS/JS) kết hợp với backend Rust.",
+  "usecases": [
+    "Xây dựng ứng dụng desktop nhẹ thay thế Electron",
+    "Phát triển ứng dụng mobile có khả năng truy cập native system",
+    "Tạo ứng dụng cross-platform với hiệu năng cao"
+  ],
+  "ideas": [
+    "Kết hợp Tauri với AI models chạy local trên Rust",
+    "Sử dụng Tauri để build dashboard quản lý hệ thống IoT",
+    "Tích hợp plugin hệ thống theme động tự động"
+  ],
+  "stars": 111904,
+  "starsToday": 62,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "webview",
+    "high-performance",
+    "desktop-app",
+    "mobile-app",
+    "native-app",
+    "web-frontend"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-15T02:37:47.251Z"
+}

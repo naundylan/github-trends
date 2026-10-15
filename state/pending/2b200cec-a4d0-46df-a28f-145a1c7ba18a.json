@@ -1,0 +1,23 @@
+{
+  "id": "2b200cec-a4d0-46df-a28f-145a1c7ba18a",
+  "repo": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "category": "CLI Tool",
+  "summary": "CLI giúp làm cho mọi phần mềm trở nên agent-native, cho phép tương tác và tự động hóa qua dòng lệnh với các ứng dụng khác.",
+  "usecases": [
+    "Tự tự động hóa quản lý file/cấu hình trên nhiều ứng dụng qua CLI.",
+    "Kết hợp với agent AI để thực thi lệnh tự nhiên trên các phần mềm khác.",
+    "Tạo script tự động hóa quy trình phát triển hoặc deployment."
+  ],
+  "ideas": [
+    "Kết hợp với các LLM để hiểu lệnh tự nhiên và thực thi qua CLI các ứng dụng.",
+    "Phát triển plugin cho CLI-Anything để hỗ trợ các ứng dụng cụ thể như Docker, VS Code.",
+    "Tạo ecosystem agent-native nơi mọi app expose API cho CLI tương tác."
+  ],
+  "stars": 52572,
+  "starsToday": 103,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-15T02:37:47.251Z"
+}
