@@ -1,0 +1,32 @@
+{
+  "id": "3d991d8b-3ed7-4853-bb5b-2afe064a05fa",
+  "repo": "router-for-me/CLIProxyAPI",
+  "url": "https://github.com/router-for-me/CLIProxyAPI",
+  "category": "AI/LLM",
+  "summary": "Dịch vụ proxy API bao bọc các công cụ AI viết code như Claude Code, Devin để tương thích với OpenAI/Gemini/Claude API, cho phép truy cập các chuỗi model miễn phí thông qua giao diện thống nhất.",
+  "usecases": [
+    "Truy cập các model AI cao cấp như Claude, Gemini qua API đồng nhất mà không cần thay đổi code.",
+    "Giảm chi phí bằng cách sử dụng các free tier thông qua proxy.",
+    "Chuyển đổi giữa các provider model (OpenAI, Grok, Claude) một cách mượt mà."
+  ],
+  "ideas": [
+    "Thêm support cho các model AI mới ra mắt.",
+    "Xây dựng dashboard quản lý hiệu suất và chi phí các model.",
+    "Kết hợp với local LLMs để tạo hybrid AI coding pipeline."
+  ],
+  "stars": 55325,
+  "starsToday": 147,
+  "language": "Go",
+  "topics": [
+    "claude-code",
+    "cluade",
+    "gemini",
+    "openai",
+    "codex",
+    "antigravity",
+    "devin",
+    "muse"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-15T13:55:27.117Z"
+}

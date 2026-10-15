@@ -1,0 +1,23 @@
+{
+  "id": "7cb85ae1-1f5d-43d0-ad76-d16da15efbca",
+  "repo": "google/ax",
+  "url": "https://github.com/google/ax",
+  "category": "AI Agent/Automation",
+  "summary": "Runtime mã nguồn mở của Google để phối hợp và điều phối các AI agent, cho phép tự động hóa quy trình phức tạp thông qua các tác vụ có liên quan đến agent.",
+  "usecases": [
+    "Tự động hóa quá trình tìm kiếm và thu thập dữ liệu bằng nhiều agent đồng thời",
+    "Tự động hóa quy trình render và xuất file bằng nhiều agent đồng thời",
+    "Tạo hệ thống hỗ trợ tự động trả lời câu hỏi kết hợp với các nguồn dữ liệu bên ngoài"
+  ],
+  "ideas": [
+    "Xây dựng hệ thống tự động báo cáo hàng ngày kết hợp với các tool tìm kiếm",
+    "Phát triển nền tảng orchestrator cho các AI agent trong môi trường edge computing",
+    "Kết hợp với cơ sở dữ liệu vector để agent có thể truy cập và xử lý thông tin cá nhân"
+  ],
+  "stars": 13667,
+  "starsToday": 119,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-15T13:55:27.117Z"
+}

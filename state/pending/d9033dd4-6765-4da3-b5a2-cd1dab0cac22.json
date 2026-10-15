@@ -1,0 +1,23 @@
+{
+  "id": "d9033dd4-6765-4da3-b5a2-cd1dab0cac22",
+  "repo": "alphaXiv/OpenResearch",
+  "url": "https://github.com/alphaXiv/OpenResearch",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện mã nguồn mở dùng để chuyển đổi coding agents thành research agents, tự động hóa quy trình nghiên cứu và thu thập thông tin bằng Rust.",
+  "usecases": [
+    "Tự động hóa nghiên cứu khoa học và thu thập dữ liệu từ nhiều nguồn.",
+    "Giúp coding agents thực hiện các tác vụ phân tích, so sánh và tổng hợp báo cáo.",
+    "Tích hợp vào quy trình nghiên cứu để tăng tốc độ phát triển hypothesis và test."
+  ],
+  "ideas": [
+    "Sử dụng làm nền tảng cho AI research assistant tự động viết bài review literature.",
+    "Kết hợp với vector database để lưu trữ và truy cứu kết quả nghiên cứu trước đó.",
+    "Tạo giao diện quản lý các research agents chạy trên nhiều môi trường khác nhau."
+  ],
+  "stars": 7247,
+  "starsToday": 114,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-15T13:55:27.118Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "b532b4b7-a86a-4301-acbf-1f6ff0a5cf5a",
+  "repo": "ahujasid/mcp-for-blender",
+  "url": "https://github.com/ahujasid/mcp-for-blender",
+  "category": "AI/LLM",
+  "summary": "Plugin Blender cho phép điều khiển phần mềm 3D thông qua bất kỳ LLM nào, tích hợp Model-Context-Protocol để tạo tương tác giữa AI và cảnh 3D.",
+  "usecases": [
+    "Tạo tự động cảnh 3D và animation bằng lệnh văn bản",
+    "Thay đổi vật thể, vật lý và ánh sáng trong Blender thông qua chat với AI",
+    "Lập trình sinh học mô hình bằng cách dùng LLM làm giao diện điều khiển"
+  ],
+  "ideas": [
+    "Kết hợp với voice commands để điều khiển Blender hands-free",
+    "Tạo pipeline tự động từ text sang 3D model cho game dev",
+    "Phát triển plugin tương tác giữa Blender và các AI agent để tự động hóa rendering"
+  ],
+  "stars": 30905,
+  "starsToday": 141,
+  "language": "Python",
+  "topics": [
+    "3d-modeling",
+    "ai",
+    "blender",
+    "blender-addon",
+    "claude",
+    "generative-ai",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "python",
+    "blender-mcp"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-15T13:55:27.117Z"
+}

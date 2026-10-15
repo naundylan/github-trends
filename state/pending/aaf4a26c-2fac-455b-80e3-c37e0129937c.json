@@ -1,0 +1,23 @@
+{
+  "id": "aaf4a26c-2fac-455b-80e3-c37e0129937c",
+  "repo": "SegFault42/HeliosGen",
+  "url": "https://github.com/SegFault42/HeliosGen",
+  "category": "AI/LLM",
+  "summary": "Ứng dụng desktop mã nguồn mở cung cấp giải pháp tạo nội dung AI tự host, miễn phí thay thế cho các nền tảng thương mại như Higgsfield, OpenArt, Freepik.",
+  "usecases": [
+    "Tạo hình ảnh và đồ họa cho thiết kế trên máy local mà không cần gửi dữ liệu lên mạng",
+    "Sinh prompt và hình ảnh AI cho dự án sáng tạo với quyền kiểm soát hoàn toàn",
+    "Công cụ nội dung trực tiếp cho nhà marketing và người dùng cá nhân trên môi trường desktop"
+  ],
+  "ideas": [
+    "Tích hợp thêm các mô hình AI local khác để mở rộng khả năng tạo đa dạng và phong cách",
+    "Phát triển plugin cho các phần mềm thiết kế đồ họa phổ biến như Photoshop, Figma",
+    "Thiết kế giao diện chủ đề và tùy chỉnh cho power user nâng cao"
+  ],
+  "stars": 3035,
+  "starsToday": 426,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-15T13:55:27.117Z"
+}
