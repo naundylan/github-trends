@@ -1,0 +1,32 @@
+{
+  "id": "0ba0b31d-7c03-4010-9712-1f9ab2e20a18",
+  "repo": "containerd/containerd",
+  "url": "https://github.com/containerd/containerd",
+  "category": "DevOps/CI-CD",
+  "summary": "containerd/containerd là runtime container open source và đáng tin cậy, được sử dụng để quản lý vòng đời và chạy các container trong môi trường Kubernetes và các hệ thống khác.",
+  "usecases": [
+    "Chạy và изолировать các ứng dụng trong container trên máy chủ hoặc CI/CD",
+    "Tích hợp với Kubernetes để quản lý pod và networking",
+    "Dùng trong pipeline CI/CD để xây dựng và triển khai ứng dụng container"
+  ],
+  "ideas": [
+    "Kết hợp với monitoring để tự động scale và tự phục hồi container",
+    "Sử dụng làm nền tảng cho serverless hoặc Function as a Service",
+    "Tích hợp với security scanning để kiểm tra hình ảnh container"
+  ],
+  "stars": 21421,
+  "starsToday": 7,
+  "language": "Go",
+  "topics": [
+    "containerd",
+    "oci",
+    "containers",
+    "docker",
+    "cncf",
+    "cri",
+    "kubernetes",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-16T08:01:05.153Z"
+}
