@@ -1,0 +1,23 @@
+{
+  "id": "0b692ef2-0277-49ee-81e0-e1da2848ef12",
+  "repo": "ErTasselli/OpenTerminal",
+  "url": "https://github.com/ErTasselli/OpenTerminal",
+  "category": "Web Frontend",
+  "summary": "Bảng điều khiển giao dịch theo phong cách terminal được xây dựng hoàn toàn trên dữ liệu thị trường công cộng miễn phí, không yêu cầu API keys hoặc đăng ký. Dự án sử dụng TypeScript để tạo giao diện terminal hiện đại cho theo dõi và giao dịch chứng khoán.",
+  "usecases": [
+    "Theo dõi thời gian thực các cổ phiếu và chỉ số tài chính miễn phí mà không cần trả phí dịch vụ",
+    "Phát triển công cụ giao dịch cá nhân với giao diện terminal cho người dùng quen với dòng lệnh",
+    "Nghiên cứu và phân tích hành vi thị trường sử dụng dữ liệu công cộng không giới hạn"
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình AI để đưa ra tín hiệu giao dịch tự động dựa trên phân tích kỹ thuật",
+    "Xây dựng plugin hỗ trợ đa sàn giao dịch và tích hợp ví điện tử để giao dịch trực tiếp từ terminal",
+    "Phát triển phiên bản mobile app với giao diện terminal tương tự cho giao dịch di động"
+  ],
+  "stars": 1747,
+  "starsToday": 66,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-16T02:53:56.341Z"
+}

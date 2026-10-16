@@ -1,0 +1,42 @@
+{
+  "id": "df7d2f6e-d796-41a2-bd7c-7f582b1250f2",
+  "repo": "paperclipai/paperclip",
+  "url": "https://github.com/paperclipai/paperclip",
+  "category": "AI Agent/Automation",
+  "summary": "Ứng dụng mã nguồn mở giúp quản lý và điều phối các agent AI tại nơi làm việc, tập trung vào tự động hóa quy trình làm việc đa agent.",
+  "usecases": [
+    "Quản lý đội nhóm agent AI tự động xử lý các tác vụ quản lý dự án và văn phòng",
+    "Tự động hóa luồng làm việc phức tạp giữa nhiều agent độc lập"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống CRM để agent tự động chăm sóc khách hàng và cập nhật dữ liệu",
+    "Xây dựng sàn chia sẻ kỹ năng agent (agent skills) giữa các tổ chức"
+  ],
+  "stars": 102763,
+  "starsToday": 577,
+  "language": "TypeScript",
+  "topics": [
+    "agent-orchestration",
+    "agentic-ai",
+    "ai-agents",
+    "autonomous-agents",
+    "claude-code",
+    "codex",
+    "mcp",
+    "multi-agent",
+    "openclaw",
+    "workflow-automation",
+    "acpx",
+    "ai-engineering",
+    "ai-governance",
+    "ai-tools",
+    "claude",
+    "claude-skills",
+    "hermes",
+    "agent-skills",
+    "llm",
+    "project-management"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-16T02:53:56.341Z"
+}

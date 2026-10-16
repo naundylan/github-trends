@@ -1,0 +1,34 @@
+{
+  "id": "189d29e8-6e36-4745-a181-0302feb94205",
+  "repo": "dimthink/PriceAI",
+  "url": "https://github.com/dimthink/PriceAI",
+  "category": "Developer Tool",
+  "summary": "AI 订阅服务比价聚合平台，整合 100+ 卡网渠道实时报价，覆盖 ChatGPT、Claude、Gemini、Grok 等主流模型，提供最低价、库存状态与直达购买链接。",
+  "usecases": [
+    "开发者快速对比不同渠道的 AI API 订阅价格以控制成本",
+    "团队采购时批量查询多模型服务的实时库存与最优报价",
+    "个人用户监控心仪模型的价格波动并在有货时第一时间下单"
+  ],
+  "ideas": [
+    "接入价格历史走势图与降价提醒 Webhook，实现自动化采购决策",
+    "扩展为浏览器扩展，在官网页面直接显示跨渠道对比价格",
+    "增加企业级报表导出与多账号额度聚合管理功能"
+  ],
+  "stars": 4135,
+  "starsToday": 52,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "nextjs",
+    "price-tracker",
+    "supabase",
+    "ai-subscription",
+    "chatgpt",
+    "claude",
+    "gemini",
+    "grok",
+    "price-comparison"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-16T02:53:56.341Z"
+}

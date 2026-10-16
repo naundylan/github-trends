@@ -1,0 +1,21 @@
+{
+  "id": "8b907cee-3d9a-4320-9bfb-d902e3717140",
+  "repo": "anomalyco/opencode",
+  "url": "https://github.com/anomalyco/opencode",
+  "category": "AI Agent/Automation",
+  "summary": "Agent mã nguồn mở hỗ trợ viết code tự động, giúp lập trình viên phát triển phần mềm nhanh hơn bằng trí tuệ nhân tạo.",
+  "usecases": [
+    "Tự động sinh mã nguồn và sửa lỗi trong dự án phát triển phần mềm",
+    "Hỗ trợ refactor code và viết tài liệu kỹ thuật cho kho code"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để agent tự động review pull request và đề xuất sửa lỗi",
+    "Tạo hệ thống agent chuyên biệt cho từng ngôn ngữ lập trình phối hợp làm việc"
+  ],
+  "stars": 213958,
+  "starsToday": 401,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-16T02:53:56.341Z"
+}

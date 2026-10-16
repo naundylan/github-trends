@@ -1,0 +1,28 @@
+{
+  "id": "8aee26fd-d81f-43d9-856e-8b76915586eb",
+  "repo": "tailscale/tailscale",
+  "url": "https://github.com/tailscale/tailscale",
+  "category": "Networking",
+  "summary": "Mạng VPN mesh bảo mật dựa trên WireGuard, hỗ trợ SSO và 2FA, giúp kết nối thiết bị dễ dàng mà không cần cấu hình phức tạp.",
+  "usecases": [
+    "Kết nối từ xa vào mạng nội bộ doanh nghiệp một cách an toàn.",
+    "Truy cập dịch vụ nội bộ giữa các nhóm phát triển phân tán mà không cần mở cổng công khai."
+  ],
+  "ideas": [
+    "Kết hợp tailscale với Kubernetes để quản lý mạng microservices đa vùng.",
+    "Xây dựng cổng truy cập an toàn cho thiết bị IoT gia đình thông qua tailscale subnet router."
+  ],
+  "stars": 37616,
+  "starsToday": 86,
+  "language": "Go",
+  "topics": [
+    "wireguard",
+    "oauth",
+    "sso",
+    "2fa",
+    "vpn",
+    "tailscale"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-16T02:53:56.341Z"
+}

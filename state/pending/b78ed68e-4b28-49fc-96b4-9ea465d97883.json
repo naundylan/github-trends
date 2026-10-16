@@ -1,0 +1,34 @@
+{
+  "id": "b78ed68e-4b28-49fc-96b4-9ea465d97883",
+  "repo": "koharu-rs/koharu",
+  "url": "https://github.com/koharu-rs/koharu",
+  "category": "AI/LLM",
+  "summary": "Bộ dịch truyện tranh manga hỗ trợ bởi học máy, được viết bằng Rust. Dự án kết hợp computer vision và GPU để xử lý và dịch văn bản tiếng Nhật trong truyện tranh một cách tự động.",
+  "usecases": [
+    "Tự động dịch truyện tranh manga từ tiếng Nhật sang các ngôn ngữ khác như Anh, Việt",
+    "Áp dụng công nghệ computer vision để nhận diện và trích xuất văn bản từ hình ảnh truyện tranh",
+    "Sử dụng GPU tăng tốc quá trình xử lý hình ảnh và dịch thuật cho các tác phẩm dài"
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ dịch thuật cho nhiều ngôn ngữ khác nhau và tích hợp cơ sở dữ liệu truyện tranh lớn",
+    "Kết hợp với các mô hình ngôn ngữ lớn để cải thiện chất lượng dịch thuật và duy trì phong cách văn bản",
+    "Phát triển phiên bản web hoặc dịch vụ đám mây cho phép người dùng tải lên và dịch truyện tranh trực tuyến"
+  ],
+  "stars": 6320,
+  "starsToday": 60,
+  "language": "Rust",
+  "topics": [
+    "deep-learning",
+    "manga",
+    "rust",
+    "japanese",
+    "computer-vision",
+    "gpu",
+    "gui",
+    "translation",
+    "text-rendering",
+    "webgpu"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-16T02:53:56.341Z"
+}

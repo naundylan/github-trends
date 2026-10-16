@@ -1,0 +1,23 @@
+{
+  "id": "279df282-8e6d-44c8-8419-6b22bcea23fa",
+  "repo": "Crosstalk-Solutions/unifi-toolkit",
+  "url": "https://github.com/Crosstalk-Solutions/unifi-toolkit",
+  "category": "Networking",
+  "summary": "面向 UniFi 网络设备的 Python 管理工具集，提供 CLI 与库接口自动化配置、监控与故障排查 Ubiquiti 网络基础设施。",
+  "usecases": [
+    "网络工程师批量推送配置变更至数十台 UniFi 交换机/AP",
+    "运维脚本定期巡检设备健康度、固件版本与客户端连接质量",
+    "MSP 服务商通过统一入口管理多租户 UniFi Controller 实例"
+  ],
+  "ideas": [
+    "集成 Prometheus Exporter 将 UniFi 指标纳入统一监控大盘",
+    "开发 Web UI 仪表盘实现可视化拓扑、流量热力图与一键修复",
+    "增加 GitOps 工作流：配置即代码，通过 PR 审核自动下发变更"
+  ],
+  "stars": 666,
+  "starsToday": 44,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-16T02:53:56.341Z"
+}
