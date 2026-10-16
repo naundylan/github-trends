@@ -1,0 +1,40 @@
+{
+  "id": "ce7ab981-fdec-4a48-b792-4337cbbd949d",
+  "repo": "plugin87/ux-ui-agent-skills",
+  "url": "https://github.com/plugin87/ux-ui-agent-skills",
+  "category": "UI/Component Library",
+  "summary": "Công cụ biến Claude thành kiến trúc sư thiết kế cao cấp với 52 thành phần, tuân thủ tiêu chuẩn WCAG 2.2 AA-AAA và 138 hệ thống thiết kế.",
+  "usecases": [
+    "Tạo giao diện người dùng trực quan cho ứng dụng AI",
+    "Hỗ trợ thiết kế UI/UX theo tiêu chuẩn tiếp cận cao nhất",
+    "Tích hợp AI vào quy trình phát triển phần mềm"
+  ],
+  "ideas": [
+    "Sử dụng để tự động hóa thiết kế UI/UX cho sản phẩm AI",
+    "Kết hợp với thư viện component xây dựng hệ sinh thái thiết kế",
+    "Phát triển công cụ kiểm tra chất lượng thiết kế"
+  ],
+  "stars": 1993,
+  "starsToday": 180,
+  "language": "JavaScript",
+  "topics": [
+    "accessibility",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "component-library",
+    "design-system",
+    "design-to-code",
+    "design-tokens",
+    "dtcg",
+    "figma",
+    "react",
+    "tailwindcss",
+    "ui",
+    "ux",
+    "wcag"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-10-16T14:01:45.364Z"
+}

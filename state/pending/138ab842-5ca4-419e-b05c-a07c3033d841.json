@@ -1,0 +1,34 @@
+{
+  "id": "138ab842-5ca4-419e-b05c-a07c3033d841",
+  "repo": "Fission-AI/OpenSpec",
+  "url": "https://github.com/Fission-AI/OpenSpec",
+  "category": "AI Agent/Automation",
+  "summary": "Phát triển dựa trên spec (SDD) cho các trợ lý AI viết code, định nghĩa và quản lý yêu cầu dự án cho mô hình AI.",
+  "usecases": [
+    "Tự động tạo code và PRs từ spec dự án.",
+    "Cung cấp context nhất cho AI coding assistants trong quy trình SDLC.",
+    "Quản lý quy trình development cho các dự án AI-assisted coding."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động review code dựa trên spec.",
+    "Sử dụng spec để generate test cases và documentation tự động.",
+    "Tạo knowledge base chung cho nhiều AI coding tools."
+  ],
+  "stars": 72129,
+  "starsToday": 113,
+  "language": "TypeScript",
+  "topics": [
+    "spec",
+    "ai",
+    "context-engineering",
+    "engineering",
+    "planning",
+    "prd",
+    "sdlc",
+    "spec-driven-development",
+    "specification",
+    "sdd"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-16T14:01:45.364Z"
+}

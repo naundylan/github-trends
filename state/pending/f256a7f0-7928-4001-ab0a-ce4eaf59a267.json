@@ -1,0 +1,43 @@
+{
+  "id": "f256a7f0-7928-4001-ab0a-ce4eaf59a267",
+  "repo": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "category": "Documentation/Learning Resource",
+  "summary": "Dự án cung cấp khóa học toàn diện về kỹ thuật AI từ cơ bản đến nâng cao, bao gồm các chủ đề như học sâu, xử lý ngôn ngữ tự nhiên, thị giác máy tính, AI agents, và triển khai mô hình, giúp người học có thể xây dựng và vận hành các ứng dụng AI thực tế.",
+  "usecases": [
+    "Đào tạo kỹ sư AI mới làm quen với quy trình phát triển, xây dựng và triển khai các mô hình học máy và LLM.",
+    "Làm nền tảng cho các công ty tổ chức khóa học kỹ thuật AI nội bộ.",
+    "Cung cấp tài liệu thực hành cho các dự án AI thực tế như xử lý hình ảnh, tạo văn bản, và ra quyết định tăng cường."
+  ],
+  "ideas": [
+    "Xây dựng một dự án AI thực tế theo từng bước dựa trên khóa học, ví dụ như hệ thống nhận diện đối tượng trên ảnh.",
+    "Tạo các bài tập thực hành tương tác với các mô phỏng reinforcement learning.",
+    "Phát triển một bộ công cụ đánh giá và so sánh các mô hình AI được dạy trong khóa học."
+  ],
+  "stars": 70069,
+  "starsToday": 613,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-engineering",
+    "computer-vision",
+    "course",
+    "deep-learning",
+    "from-scratch",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "nlp",
+    "python",
+    "reinforcement-learning",
+    "rust",
+    "transformers",
+    "tutorial",
+    "typescript"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-16T14:01:45.363Z"
+}

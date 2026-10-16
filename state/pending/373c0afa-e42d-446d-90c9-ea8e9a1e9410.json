@@ -1,0 +1,23 @@
+{
+  "id": "373c0afa-e42d-446d-90c9-ea8e9a1e9410",
+  "repo": "magnitudedev/magnitude",
+  "url": "https://github.com/magnitudedev/magnitude",
+  "category": "AI/LLM",
+  "summary": "Magnitude là engine inference mã nguồn mở tối ưu hóa kernel phần cứng để chạy mô hình AI nhanh hơn, đạt tốc độ gấp đôi Ollama. Nó hoạt động trên Apple Silicon, NVIDIA, AMD hoặc chỉ CPU.",
+  "usecases": [
+    "Chạy mô hình ngôn ngữ lớn trên laptop Apple Silicon mà không cần GPU mạnh",
+    "Tăng tốc độ inference cho các ứng dụng chatbot trên thiết bị edge",
+    "Tích hợp vào hệ thống serving để giảm latency và chi phí điện năng"
+  ],
+  "ideas": [
+    "Kết hợp với framework quantization để hỗ trợ mô hình 4-bit trên CPU",
+    "Phát triển dịch vụ cloud cho phép người dùng upload model và nhận binary tối ưu cho hardware của họ",
+    "Áp dụng vào việc chạy mô hình visión trên thiết bị di động để tăng trải nghiệm AR"
+  ],
+  "stars": 6953,
+  "starsToday": 196,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-16T14:01:45.364Z"
+}

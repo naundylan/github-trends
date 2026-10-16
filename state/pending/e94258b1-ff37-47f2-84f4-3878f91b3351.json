@@ -1,0 +1,30 @@
+{
+  "id": "e94258b1-ff37-47f2-84f4-3878f91b3351",
+  "repo": "Imbad0202/academic-research-skills",
+  "url": "https://github.com/Imbad0202/academic-research-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống kỹ năng nghiên cứu học thuật cho Claude Code, tự động hóa quy trình nghiên cứu, viết, đánh giá, sửa đổi và hoàn thiện bài báo khoa học.",
+  "usecases": [
+    "Hỗ trợ viết luận văn và bài báo khoa học từ giai đoạn nghiên cứu đến hoàn thiện",
+    "Tự động đánh giá và sửa đổi nội dung học thuật theo quy trình peer review"
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu tài liệu học thuật để tra cứu và trích dẫn tự động",
+    "Xây dựng trợ lý viết luận văn đa ngôn ngữ với khả năng kiểm tra đạo văn"
+  ],
+  "stars": 52371,
+  "starsToday": 254,
+  "language": "Python",
+  "topics": [
+    "academic-writing",
+    "ai-research",
+    "claude",
+    "claude-code",
+    "literature-review",
+    "peer-review",
+    "prompt-engineering",
+    "academic-pipeline"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-16T14:01:45.364Z"
+}

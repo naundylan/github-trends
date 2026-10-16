@@ -1,0 +1,23 @@
+{
+  "id": "305c19c3-a65a-44fc-a07a-fa514cda8754",
+  "repo": "jasonxu114514/opencode2api",
+  "url": "https://github.com/jasonxu114514/opencode2api",
+  "category": "Backend Framework",
+  "summary": "API proxy dựa trên Go cho OpenCode Zen/OpenGo với khả năng tương thích với OpenAI và Anthropic, hỗ trợ tự động định tuyến và giao diện web.",
+  "usecases": [
+    "Tích hợp các mô hình AI vào hệ thống phát triển mã",
+    "Xây dựng layer trung gian chuyển đổi yêu cầu API",
+    "Cải thiện hiệu suất hệ thống bằng kết nối đa dịch vụ"
+  ],
+  "ideas": [
+    "Sử dụng làm gateway chính quản lý các tác vụ phát triển mã",
+    "Kết hợp với CI/CD để tự động hóa triển khai mô hình AI",
+    "Phát triển plugin mở rộng cho nhiều nền tảng"
+  ],
+  "stars": 861,
+  "starsToday": 186,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-10-16T14:01:45.364Z"
+}

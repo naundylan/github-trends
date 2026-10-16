@@ -1,0 +1,29 @@
+{
+  "id": "f93eded0-f8b4-430f-a697-e2b0fbb48b39",
+  "repo": "google/artemis",
+  "url": "https://github.com/google/artemis",
+  "category": "AI Agent/Automation",
+  "summary": "ARTemis là công cụ tự động hóa Android dựa trên ngôn ngữ tự nhiên, cho phép chuyển đổi hướng dẫn thành kịch bản chạy trên thiết bị và ghi lại log. Nó đạt tỷ lệ thành công >99% trên benchmark AndroidWorld và tích hợp với các trợ lý AI như Antigravity, Codex, Claude Code.",
+  "usecases": [
+    "Tự động kiểm tra ứng dụng Android qua kịch bản ngôn ngữ tự nhiên",
+    "Tích hợp với trợ lý AI để sinh và chạy test tự động trong quy trình CI/CD",
+    "Thu thập log và đo lường hiệu suất để cải thiện chất lượng ứng dụng"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý issue để tự động tạo test từ mô tả bug",
+    "Phát triển plugin IDE cho phép nhà phát triển viết test bằng tiếng Việt và chạy ngay trên thiết bị",
+    "Mở rộng để hỗ trợ tự động hóa trên iOS hoặc các thiết bị IoT"
+  ],
+  "stars": 11985,
+  "starsToday": 221,
+  "language": "Python",
+  "topics": [
+    "ai-agents",
+    "android",
+    "google",
+    "test-automation",
+    "testing"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-16T14:01:45.364Z"
+}

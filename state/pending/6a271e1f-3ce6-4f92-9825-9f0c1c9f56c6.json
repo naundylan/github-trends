@@ -1,0 +1,28 @@
+{
+  "id": "6a271e1f-3ce6-4f92-9825-9f0c1c9f56c6",
+  "repo": "abcwyc/pi-agent-desktop",
+  "url": "https://github.com/abcwyc/pi-agent-desktop",
+  "category": "AI Agent/Automation",
+  "summary": "Pi là một agent mã hóa AI đa nền tảng mang lại trải nghiệm giống Claude Code ngay trên máy tính, cho phép người dùng bắt đầu lập trình ngay lập tức mà không cần thiết lập môi trường hay sử dụng terminal.",
+  "usecases": [
+    "Cung cấp một công cụ mã hóa AI sẵn sàng sử dụng cho các nhà phát triển cần viết code nhanh mà không cần thiết lập môi trường phát triển phức tạp.",
+    "Hỗ trợ người dùng không chuyên về kỹ thuật có thể tạo ứng dụng hoặc script thông qua giao diện desktop trực quan.",
+    "Tích hợp vào quy trình làm việc của nhóm phát triển để tăng năng suất và giảm thời gian cấu hình."
+  ],
+  "ideas": [
+    "Tích hợp Pi với các dịch vụ đám mây để đồng bộ hóa mã và môi trường làm việc trên nhiều thiết bị.",
+    "Thêm tính năng tự động hoàn thành mã thông minh dựa trên các mô hình ngôn ngữ lớn.",
+    "Xây dựng một plugin cho các IDE phổ biến (VS Code, IntelliJ) để mở rộng khả năng của Pi."
+  ],
+  "stars": 788,
+  "starsToday": 269,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "desktop-app",
+    "pi"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-16T14:01:45.363Z"
+}

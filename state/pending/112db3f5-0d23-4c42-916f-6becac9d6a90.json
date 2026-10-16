@@ -1,0 +1,34 @@
+{
+  "id": "112db3f5-0d23-4c42-916f-6becac9d6a90",
+  "repo": "krillinai/OpenCreator",
+  "url": "https://github.com/krillinai/OpenCreator",
+  "category": "Desktop App",
+  "summary": "Phần mềm làm việc tạo nội dung mã nguồn mở cho creators, hỗ trợ tải video, dịch phim, lồng tiếng, tạo hình ảnh, giọng nói và avatar bằng AI agents.",
+  "usecases": [
+    "Dịch và lồng tiếng video YouTube, TikTok sang nhiều ngôn ngữ cho khán giả quốc tế",
+    "Tạo video ngắn, hình ảnh và voiceover cho mạng xã hội bằng công cụ AI toàn diện"
+  ],
+  "ideas": [
+    "Kết hợp agent tạo kịch bản tự động với chỉnh sửa video để sản xuất chương trình tin tức AI",
+    "Phát triển marketplace avatar và giọng nói AI cho creators độc lập"
+  ],
+  "stars": 13403,
+  "starsToday": 226,
+  "language": "TypeScript",
+  "topics": [
+    "video-transcription",
+    "video-translation",
+    "dubbing",
+    "localization",
+    "tts",
+    "agent-skills",
+    "codex-cli",
+    "deskop-app",
+    "image-generation",
+    "skills",
+    "video-editing",
+    "video-generation"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-16T14:01:45.364Z"
+}
