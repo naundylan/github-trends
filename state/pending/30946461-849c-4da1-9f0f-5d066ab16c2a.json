@@ -1,0 +1,23 @@
+{
+  "id": "30946461-849c-4da1-9f0f-5d066ab16c2a",
+  "repo": "jasonxu114514/opencode2api",
+  "url": "https://github.com/jasonxu114514/opencode2api",
+  "category": "API/GraphQL",
+  "summary": "Một proxy API Go tương thích OpenAI & Anthropic, cung cấp pooling key/route tự động và WebUI quản lý.",
+  "usecases": [
+    "Proxy và định tuyến request giữa các provider AI (OpenAI, Anthropic) với pooling key",
+    "Quản lý và cân bằng tải các API key cho các ứng dụng cần truy cập nhiều LLM provider",
+    "Cung cấp WebUI để theo dõi và cấu hình routing request cho các developer"
+  ],
+  "ideas": [
+    "Xây dựng multi-tenant platform cho phép các team khác nhau dùng cùng một proxy nhưng có riêng key pool và routing policy",
+    "Tích hợp với monitoring stack để tự động thay thế key khi rate limit hoặc error xảy ra",
+    "Phát triển plugin cho IDE để developer có thể test và route request trực tiếp từ code"
+  ],
+  "stars": 891,
+  "starsToday": 186,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-16T23:14:14.013Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "29e88882-bfe3-4cab-90e5-32ff080547cb",
+  "repo": "odoo/odoo",
+  "url": "https://github.com/odoo/odoo",
+  "category": "Backend Framework",
+  "summary": "Odoo là một nền tảng ứng dụng doanh nghiệp mã nguồn mở toàn diện, cung cấp các module quản lý ERP, CRM, tài chính, kho hàng và nhiều chức năng nghiệp vụ khác để giúp doanh nghiệp tăng trưởng.",
+  "usecases": [
+    "Triển khai hệ thống quản lý ERP toàn diện cho doanh nghiệp vừa và nhỏ.",
+    "Tích hợp và tự động hóa quy trình CRM và bán hàng.",
+    "Quản lý kho hàng, tài chính và nhân sự trên một nền tảng thống nhất."
+  ],
+  "ideas": [
+    "Phát triển module tùy chỉnh kết nối Odoo với các nền tảng thương mại điện tử như Shopee hoặc Tiki để đồng bộ đơn hàng và tồn kho.",
+    "Sử dụng API Odoo để xây dựng dashboard quản lý doanh nghiệp tùy chỉnh trên thiết bị di động.",
+    "Kết hợp Odoo với các công cụ AI để tự động phân loại và xác nhận hóa đơn nhập kho."
+  ],
+  "stars": 55094,
+  "starsToday": 30,
+  "language": "Python",
+  "topics": [
+    "odoo",
+    "python",
+    "business",
+    "management",
+    "odoo-apps",
+    "erp",
+    "apps"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-10-16T23:14:14.014Z"
+}

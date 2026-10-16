@@ -1,0 +1,29 @@
+{
+  "id": "070fcb68-c462-4a85-be50-3d9b60599d70",
+  "repo": "google/artemis",
+  "url": "https://github.com/google/artemis",
+  "category": "AI Agent/Automation",
+  "summary": "AI-powered tool that translates natural-language instructions into reliable Android automation and end-to-end workflows.",
+  "usecases": [
+    "Automating repetitive Android tasks such as app testing and UI interactions via natural-language commands",
+    "Streamlining end-to-end mobile workflows for developers, including CI/CD and device farm management",
+    "Enabling non-technical users to control Android devices using plain text for accessibility and productivity"
+  ],
+  "ideas": [
+    "Combine with weather APIs to auto-adjust Android settings or trigger actions based on real-time data",
+    "Develop an Android Studio plugin that generates automation scripts from code comments",
+    "Extend automation to iOS, creating a cross-platform AI agent for mobile workflows"
+  ],
+  "stars": 12040,
+  "starsToday": 221,
+  "language": "Python",
+  "topics": [
+    "ai-agents",
+    "android",
+    "google",
+    "test-automation",
+    "testing"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-16T23:14:14.013Z"
+}

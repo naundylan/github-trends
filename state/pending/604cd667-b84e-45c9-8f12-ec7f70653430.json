@@ -1,0 +1,23 @@
+{
+  "id": "604cd667-b84e-45c9-8f12-ec7f70653430",
+  "repo": "tristenlammi/Arrmada",
+  "url": "https://github.com/tristenlammi/Arrmada",
+  "category": "CLI Tool",
+  "summary": "Dự án Go nhẹweight cung cấp các công cụ dòng lệnh hữu ích cho quy trình phát triển phần mềm.",
+  "usecases": [
+    "Tự động hóa tác vụ lặp đi lặp lại trong phát triển dự án",
+    "Scripting nhanh cho các hoạt động quản lý repository",
+    "Phần mềm hỗ trợ monitoring và logging cho môi trường Go"
+  ],
+  "ideas": [
+    "Biến thành CLI đa nền tảng có giao diện đồ họa",
+    "Tích hợp với Git hooks để thực hiện các kiểm tự động",
+    "Phát triển hệ thống plugin cho các tác vụ phát triển tùy chỉnh"
+  ],
+  "stars": 258,
+  "starsToday": 27,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-16T23:14:14.014Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "410110d2-c1ef-4bec-8efb-8eb9200f30ee",
+  "repo": "krillinai/OpenCreator",
+  "url": "https://github.com/krillinai/OpenCreator",
+  "category": "AI Agent/Automation",
+  "summary": "Open-source AI workspace for creators enabling video downloading, translation, dubbing, and content generation for social media platforms like YouTube and TikTok.",
+  "usecases": [
+    "Automating multilingual video translation and dubbing for social media content",
+    "Generating images, voiceovers, and avatars for rapid post creation",
+    "Creating and editing videos using AI agents for efficient content production"
+  ],
+  "ideas": [
+    "Integrate real-time multilingual live streaming with AI dubbing capabilities",
+    "Build a marketplace for AI-generated video templates and assets",
+    "Combine with data triggers to auto-generate seasonal social media content"
+  ],
+  "stars": 13486,
+  "starsToday": 226,
+  "language": "TypeScript",
+  "topics": [
+    "video-transcription",
+    "video-translation",
+    "dubbing",
+    "localization",
+    "tts",
+    "agent-skills",
+    "codex-cli",
+    "deskop-app",
+    "image-generation",
+    "skills",
+    "video-editing",
+    "video-generation"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-16T23:14:14.013Z"
+}

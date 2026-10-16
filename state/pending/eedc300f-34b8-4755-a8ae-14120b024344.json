@@ -1,0 +1,23 @@
+{
+  "id": "eedc300f-34b8-4755-a8ae-14120b024344",
+  "repo": "kunchenguid/lavish-axi",
+  "url": "https://github.com/kunchenguid/lavish-axi",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Lavish là trình soạn thảo HTML hiện đại cho các tác phẩm HTML, cho phép người dùng tạo, chỉnh sửa và quản lý nội dung HTML như cách sử dụng markdown với trải nghiệm mượt mà.",
+  "usecases": [
+    "Sử dụng làm trình soạn thảo nội dung cho các bài viết kỹ thuật hoặc tài liệu có cấu trúc HTML.",
+    "Tích hợp vào các nền tảng blog cá nhân hoặc hệ thống quản lý nội dung (CMS) để hỗ trợ viết HTML nhanh.",
+    "Dùng cho giáo dục và đào tạo về phát triển web, giúp sinh viên thao tác trực tiếp với mã HTML."
+  ],
+  "ideas": [
+    "Phát triển plugin chuyển đổi nội dung từ Markdown sang HTML tinh chỉnh bằng Lavish cho các nhà viết văn.",
+    "Kết hợp Lavish với các framework JavaScript (React/Vue) để tạo trình soạn thảo nội dung tùy chỉnh cho ứng dụng web.",
+    "Sử dụng Lavish làm nền tảng cho công cụ soạn thảo email HTML động trong hệ thống marketing."
+  ],
+  "stars": 4171,
+  "starsToday": 28,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-10-16T23:14:14.014Z"
+}

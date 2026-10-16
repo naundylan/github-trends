@@ -1,0 +1,28 @@
+{
+  "id": "9b9e66d2-8f93-40ea-a43a-6607ea3bc389",
+  "repo": "cloud-hypervisor/cloud-hypervisor",
+  "url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+  "category": "Cloud/Hosting",
+  "summary": "Virtual Machine Monitor viết bằng Rust, hỗ trợ hotplug CPU/memory, chạy khách Windows/Linux và offload thiết bị vhost-user cho workloads cloud an toàn và hiệu quả.",
+  "usecases": [
+    "Chạy máy ảo trên các server bare-metal cho các dịch vụ cloud cá nhân",
+    "Cung cấp môi trường 격 isolation cho các workloads đa tenant trong môi trường doanh nghiệp",
+    "Triển khai edge computing với overhead thấp và hiệu năng cao"
+  ],
+  "ideas": [
+    "Kết hợp với Kubernetes API để quản lý VM như custom resources",
+    "Phát triển plugin hỗ trợ accelerator AI/ML qua vhost-user",
+    "Xây dựng dashboard quản lý đa khu vực cho các instance VM"
+  ],
+  "stars": 6375,
+  "starsToday": 17,
+  "language": "Rust",
+  "topics": [
+    "rust-vmm",
+    "cloud-workloads",
+    "virtualization",
+    "kvm"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-10-16T23:14:14.014Z"
+}

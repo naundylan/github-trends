@@ -1,0 +1,23 @@
+{
+  "id": "d11ccdfc-f75e-491f-8ded-961f3e3dbb80",
+  "repo": "magnitudedev/magnitude",
+  "url": "https://github.com/magnitudedev/magnitude",
+  "category": "AI/LLM",
+  "summary": "Một engine inference mã nguồn mở tối ưu kernel dựa trên hardware để tìm cách chạy nhanh nhất cho từng model, đạt tốc độ 2x nhanh hơn Ollama, hỗ trợ Apple Silicon, NVIDIA, AMD và CPU.",
+  "usecases": [
+    "Chạy LLM trên hardware tiêu thụ thấp mà vẫn giữ hiệu suất cao",
+    "Triển khai inference nhanh cho các model AI trên các nền tảng hardware khác nhau (Apple, NVIDIA, AMD)",
+    "Giảm chi phí cơ sở hạ tầng cho inference AI bằng cách tối ưu hiệu suất trên hardware có sẵn"
+  ],
+  "ideas": [
+    "Kết hợp với edge computing để chạy inference locally trên các thiết bị có hạn chế tài nguyên",
+    "Tự động chọn kernel tối ưu cho từng model dựa trên benchmark thực tế của user",
+    "Tạo một 'auto-tuning' layer có thể插入 vào pipeline inference hiện có của các công ty AI"
+  ],
+  "stars": 7015,
+  "starsToday": 196,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-16T23:14:14.013Z"
+}
