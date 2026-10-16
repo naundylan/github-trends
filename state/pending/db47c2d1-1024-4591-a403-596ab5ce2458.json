@@ -1,0 +1,35 @@
+{
+  "id": "db47c2d1-1024-4591-a403-596ab5ce2458",
+  "repo": "superdesigndev/superdesign-skill",
+  "url": "https://github.com/superdesigndev/superdesign-skill",
+  "category": "AI Agent/Automation",
+  "summary": "Kỹ năng thiết kế dành cho Claude Code, Cursor và các coding agent khác, giúp chuyển đổi giao diện AI-slop thành frontend có thể ship và đẹp mắt. Dự án viết bằng JavaScript và cài đặt qua npx skills add.",
+  "usecases": [
+    "Tối ưu hóa giao diện người dùng được sinh bởi AI trong Claude Code hoặc Cursor để đạt chất lượng thiết kế chuyên nghiệp.",
+    "Tích hợp vào quy trình phát triển frontend để tự động cải thiện tính thẩm mỹ và trải nghiệm người dùng trước khi triển khai sản phẩm."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống thiết kế hiện có để tạo ra skill thiết kế tùy chỉnh cho từng thương hiệu.",
+    "Phát triển marketplace chia sẻ các skill thiết kế dành cho các coding agent phổ biến."
+  ],
+  "stars": 807,
+  "starsToday": 61,
+  "language": "JavaScript",
+  "topics": [
+    "dsh-plugin",
+    "agent-skills",
+    "ai-design",
+    "claude-code",
+    "claude-skill",
+    "claude-skills",
+    "coding-agent",
+    "cursor",
+    "design-agent",
+    "frontend",
+    "superdesign",
+    "ui-design",
+    "ux-design"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-16T18:57:31.209Z"
+}

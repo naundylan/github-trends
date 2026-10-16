@@ -1,0 +1,21 @@
+{
+  "id": "9e54057e-edeb-4b78-b3f1-a33129386428",
+  "repo": "superdesigndev/superdesign",
+  "url": "https://github.com/superdesigndev/superdesign",
+  "category": "AI Agent/Automation",
+  "summary": "AI Product Design Agent mã nguồn mở, viết bằng TypeScript, hỗ trợ tự động hóa quy trình thiết kế sản phẩm số bằng trí tuệ nhân tạo.",
+  "usecases": [
+    "Tự động tạo khung thiết kế và giao diện sản phẩm từ mô tả yêu cầu văn bản.",
+    "Hỗ trợ nhóm sản phẩm nhanh chóng tạo mẫu thiết kế và kiểm tra trải nghiệm người dùng trước khi phát triển."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ thiết kế phổ biến như Figma để xuất trực tiếp file thiết kế từ AI agent.",
+    "Xây dựng hệ thống phản hồi thiết kế real-time dựa trên dữ liệu hành vi người dùng thực tế."
+  ],
+  "stars": 7427,
+  "starsToday": 59,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-16T18:57:31.209Z"
+}

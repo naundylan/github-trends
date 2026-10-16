@@ -1,0 +1,23 @@
+{
+  "id": "569aab7f-6895-4c76-9ed3-0be907f20e28",
+  "repo": "GoogleCloudPlatform/scion",
+  "url": "https://github.com/GoogleCloudPlatform/scion",
+  "category": "Networking",
+  "summary": "Scion là một kiến trúc mạng thế hệ mới của Google Cloud Platform, cung cấp một giao thức mạng bảo mật, có thể mở rộng và không phụ thuộc vào cơ sở hạ tầng Internet hiện tại.",
+  "usecases": [
+    "Xây dựng các ứng dụng mạng phân tán có độ trễ thấp và định tuyến tin cậy cao.",
+    "Triển khai các dịch vụ vi mô hoặc các thành phần mạng doanh nghiệp trên một mạng độc lập, an toàn.",
+    "Tạo các mạng thử nghiệm hoặc mạng riêng cho các môi trường phát triển và kiểm tra."
+  ],
+  "ideas": [
+    "Phát triển một mạng thử nghiệm cho các thiết bị IoT sử dụng định tuyến Scion để đảm bảo liên lạc an toàn.",
+    "Xây dựng một dịch vụ VPN dựa trên Scion dành cho các doanh nghiệp cần kiểm soát mạng ở cấp độ cao.",
+    "Tạo một nền tảng CDN sử dụng kiến trúc Scion để cung cấp nội dung với độ trễ thấp và khả năng chống can thiệp."
+  ],
+  "stars": 1921,
+  "starsToday": 49,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-16T18:57:31.209Z"
+}

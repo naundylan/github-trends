@@ -1,0 +1,23 @@
+{
+  "id": "08bb38af-587d-4846-916a-8efa375ae479",
+  "repo": "pollen-robotics/microduck",
+  "url": "https://github.com/pollen-robotics/microduck",
+  "category": "Other",
+  "summary": "A tiny biped duck robot designed for educational purposes and research in robotics.",
+  "usecases": [
+    "Educational tool for teaching robotics and biomechanics",
+    "Research platform for studying locomotion patterns in birds",
+    "Potential entertainment device for small-scale robotic demonstrations"
+  ],
+  "ideas": [
+    "Develop advanced AI control systems for dynamic movement",
+    "Create sensor integration for environmental interaction",
+    "Design modular components for easy customization"
+  ],
+  "stars": 9484,
+  "starsToday": 40,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-16T18:57:31.209Z"
+}

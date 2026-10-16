@@ -1,0 +1,23 @@
+{
+  "id": "11eb0737-dfc6-4ebb-ad25-7123e47b8ca9",
+  "repo": "voidzero-dev/vite-plus",
+  "url": "https://github.com/voidzero-dev/vite-plus",
+  "category": "Build Tool/Bundler",
+  "summary": "Vite Plus là một công cụ command‑line viết bằng Rust, cung cấp một chuỗi công cụ thống nhất cho phát triển web, giúp tối ưu hoá build và dev.",
+  "usecases": [
+    "Tối ưu hoá quy trình build cho các dự án web lớn.",
+    "Cung cấp entry point thống nhất cho các công cụ dev như bundler, plugin.",
+    "Tích hợp vào CI/CD pipeline để tự động hoá build và deploy."
+  ],
+  "ideas": [
+    "Kết hợp với plugin Rust để tạo các công cụ tùy chỉnh cho dev.",
+    "Sử dụng làm nền tảng build đa ngôn ngữ (JS, TS, Rust) cho các dự án web.",
+    "Tạo giao diện desktop quản lý dự án web dựa trên Rust."
+  ],
+  "stars": 6309,
+  "starsToday": 87,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Build-Tool-Bundler.md",
+  "createdAt": "2026-10-16T18:57:31.209Z"
+}

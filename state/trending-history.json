@@ -2281,7 +2281,7 @@
   },
   "rorkai/App-Store-Connect-CLI": {
     "first_seen": "2026-09-28",
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-10-16",
     "last_saved": "2026-09-28"
   },
   "kitao/pyxel": {
@@ -3119,37 +3119,52 @@
     "last_seen": "2026-10-16",
     "last_saved": "2026-10-15"
   },
-  "plugin87/ux-ui-agent-skills": {
+  "android/skills": {
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
     "last_saved": "2026-10-16"
   },
-  "google/artemis": {
+  "superdesigndev/superdesign-skill": {
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
     "last_saved": "2026-10-16"
   },
-  "krillinai/OpenCreator": {
+  "elder-plinius/V3R1T4S": {
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
     "last_saved": "2026-10-16"
   },
-  "abcwyc/pi-agent-desktop": {
+  "Crosstalk-Solutions/unifi-toolkit": {
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
     "last_saved": "2026-10-16"
   },
-  "Fission-AI/OpenSpec": {
+  "LibreSpark/LibreTV": {
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
     "last_saved": "2026-10-16"
   },
-  "jasonxu114514/opencode2api": {
+  "superdesigndev/superdesign": {
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
     "last_saved": "2026-10-16"
   },
-  "magnitudedev/magnitude": {
+  "sipeed/picoclaw": {
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "last_saved": "2026-10-16"
+  },
+  "GoogleCloudPlatform/scion": {
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "last_saved": "2026-10-16"
+  },
+  "pollen-robotics/microduck": {
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "last_saved": "2026-10-16"
+  },
+  "voidzero-dev/vite-plus": {
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-16",
     "last_saved": "2026-10-16"

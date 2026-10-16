@@ -1,0 +1,29 @@
+{
+  "id": "51955551-70b6-431d-928e-b0534c941794",
+  "repo": "LibreSpark/LibreTV",
+  "url": "https://github.com/LibreSpark/LibreTV",
+  "category": "Other",
+  "summary": "一分钟搭建影视站，支持Docker等部署方式",
+  "usecases": [
+    "Khám phá và đánh giá LibreSpark/LibreTV cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 18793,
+  "starsToday": 850,
+  "language": "TypeScript",
+  "topics": [
+    "css",
+    "html",
+    "movie-web-app",
+    "movies-and-cinemas",
+    "tv",
+    "film",
+    "nextjs"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-16T18:57:31.209Z"
+}

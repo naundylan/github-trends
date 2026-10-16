@@ -1,0 +1,25 @@
+{
+  "id": "09091209-be48-46f9-9dff-d17539ebd4e6",
+  "repo": "android/skills",
+  "url": "https://github.com/android/skills",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Một bộ tài liệu và ví dụ Kotlin cho phát triển ứng dụng Android, tập trung các kỹ năng và best practices hiện đại.",
+  "usecases": [
+    "Tìm reference code cho các tính năng Android phổ biến",
+    "Học习习 Kotlin patterns trong context Android",
+    "Tích hợp vào project mới làm base code"
+  ],
+  "ideas": [
+    "Tạo công cụ tự động sinh code từ repo này",
+    "Kết hợp với CI/CD để validate Android patterns",
+    "Phát triển extension cho Android Studio dựa trên các snippet"
+  ],
+  "stars": 7982,
+  "starsToday": 35,
+  "language": "Kotlin",
+  "topics": [
+    "skills"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-10-16T18:57:31.209Z"
+}
