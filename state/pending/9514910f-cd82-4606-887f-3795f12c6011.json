@@ -1,0 +1,37 @@
+{
+  "id": "9514910f-cd82-4606-887f-3795f12c6011",
+  "repo": "GCWing/OpenBitFun",
+  "url": "https://github.com/GCWing/OpenBitFun",
+  "category": "AI Agent/Automation",
+  "summary": "Runtime agent AI hiệu suất cao kết hợp ứng dụng desktop, cung cấp khả năng tự động hóa đa dạng công việc ngoài phát triển phần mềm.",
+  "usecases": [
+    "Tự động hóa các tác vụ công việc đa dạng bằng agent AI",
+    "Hỗ trợ phát triển phần mềm với agent code thông minh",
+    "Phát triển hệ thống agent làm việc nhóm (cowork)"
+  ],
+  "ideas": [
+    "Kết hợp với các agent khác để tạo hệ sinh thái agent phong phú",
+    "Tích hợp vào hệ thống công việc hiện có để tăng năng suất",
+    "Ứng dụng cho các tác vụ không liên quan đến code như quản lý, nghiên cứu"
+  ],
+  "stars": 2827,
+  "starsToday": 151,
+  "language": "Rust",
+  "topics": [
+    "ai-coding",
+    "ai-ide",
+    "vibe-coding",
+    "cowork",
+    "agent-teams",
+    "openclaw",
+    "agentic-os",
+    "agentic-runtime",
+    "agentic",
+    "ai-sdk",
+    "computer-use-agent",
+    "bitfun",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-17T20:28:30.387Z"
+}

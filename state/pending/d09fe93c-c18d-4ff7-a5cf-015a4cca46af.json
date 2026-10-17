@@ -1,0 +1,31 @@
+{
+  "id": "d09fe93c-c18d-4ff7-a5cf-015a4cca46af",
+  "repo": "mixelpixx/Konnect",
+  "url": "https://github.com/mixelpixx/Konnect",
+  "category": "AI Agent/Automation",
+  "summary": "Plugin KiCAD tích hợp AI hỗ trợ thiết kế PCB, expose 217 công cụ schematic, layout, routing cho Claude hoặc LLM khác.",
+  "usecases": [
+    "Tự động hóa thiết kế mạch in với sự hỗ trợ của AI",
+    "Kiểm tra và tối ưu hóa layout PCB bằng các agent thông minh",
+    "Tích hợp quy trình thiết kế vào hệ thống CI/CD với AI"
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ thiết kế PCB khác để tạo ecosystem đầy đủ",
+    "Phát triển agent chuyên biệt cho từng loại mạch (RF, power, digital)",
+    "Tích hợp vào nền tảng giáo dục để dạy thiết kế PCB bằng AI"
+  ],
+  "stars": 1235,
+  "starsToday": 228,
+  "language": "Rust",
+  "topics": [
+    "claude",
+    "agent-skills",
+    "kicad-pcb",
+    "kicad-schematics",
+    "llm",
+    "mcp-server",
+    "mcp-tools"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-17T20:28:30.387Z"
+}

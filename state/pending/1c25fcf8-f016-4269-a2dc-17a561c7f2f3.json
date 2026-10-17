@@ -1,0 +1,25 @@
+{
+  "id": "1c25fcf8-f016-4269-a2dc-17a561c7f2f3",
+  "repo": "android/skills",
+  "url": "https://github.com/android/skills",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Kho lưu trữ liệt kê các kỹ năng phát triển Android, cung cấp cái nhìn tổng quan về các chủ đề chính và được cộng đồng đánh dấu sao cao.",
+  "usecases": [
+    "Danh sách kiểm tra dành cho người tìm việc để chứng minh trình độ chuyên môn về Android.",
+    "Bảng điều khiển học tập cá nhân để theo dõi các kỹ năng đã thành thạo.",
+    "Công cụ sàng lọc dành cho nhà tuyển dụng để đánh giá ứng viên dựa trên các kỹ năng được liệt kê."
+  ],
+  "ideas": [
+    "Tích hợp với một bảng điều khiển học tập để tự động cập nhật tiến trình kỹ năng.",
+    "Tạo hình ảnh huy hiệu hoặc chứng chỉ có thể chia sẻ dựa trên các kỹ năng được liệt kê.",
+    "Sử dụng như một bộ lọc chủ đề GitHub để khám phá các dự án liên quan đến các kỹ năng cụ thể."
+  ],
+  "stars": 8367,
+  "starsToday": 368,
+  "language": "Kotlin",
+  "topics": [
+    "skills"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-10-17T20:28:30.387Z"
+}

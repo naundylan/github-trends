@@ -1,0 +1,44 @@
+{
+  "id": "9b6d2259-89bd-400b-9775-17bd889f18bd",
+  "repo": "vshulcz/deja-vu",
+  "url": "https://github.com/vshulcz/deja-vu",
+  "category": "AI Agent/Automation",
+  "summary": "Deja-vu là một hệ thống bộ nhớ cho các agent lập trình AI, lưu trữ lịch sử hội thoại trên đĩa, hỗ trợ tìm kiếm địa phương và tích hợp MCP, không cần LLM, chỉ cần một binary Go.",
+  "usecases": [
+    "Lưu trữ và truy xuất lịch sử làm việc của agent",
+    "Tích hợp với Claude Code, Codex, Cursor",
+    "Cung cấp bộ nhớ lâu dài cho các agent tự động hóa"
+  ],
+  "ideas": [
+    "Kết hợp với công cụ quản lý dự án để ghi nhớ tiến độ",
+    "Tích hợp vào hệ thống thông báo để gửi kết quả",
+    "Dùng làm nền tảng cho agent học hỏi từ quá khứ"
+  ],
+  "stars": 1232,
+  "starsToday": 9,
+  "language": "Go",
+  "topics": [
+    "claude-code",
+    "codex",
+    "mcp",
+    "opencode",
+    "agent-memory",
+    "coding-agents",
+    "mcp-server",
+    "claude-code-hooks",
+    "claude-code-plugins",
+    "session-history",
+    "deepseek-harness",
+    "dsh-plugin",
+    "gemini-cli-extension",
+    "kimi-code",
+    "qwen-code",
+    "zed-extension",
+    "memory",
+    "ai-memory",
+    "persistent-memory",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-17T20:28:30.387Z"
+}
