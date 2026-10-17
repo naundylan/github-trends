@@ -1,0 +1,23 @@
+{
+  "id": "9fb57e16-f322-449d-8697-0cd74a83fa48",
+  "repo": "google-labs-code/stitch-skills",
+  "url": "https://github.com/google-labs-code/stitch-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện cung cấp các Agent Skills tuân thủ chuẩn mở để làm việc với máy chủ Stitch MCP, giúp tích hợp dễ dàng với các công cụ coding agent như Antigravity, Gemini CLI, Claude Code, Cursor.",
+  "usecases": [
+    "Phát triển kỹ năng AI tùy chỉnh để hỗ trợ viết mã trong các IDE phổ biến",
+    "Mở rộng khả năng của Stitch MCP server bằng cách thêm các skill mới cho các tác vụ cụ thể",
+    "Tích hợp với các công cụ CLI như Gemini CLI để tự động hóa quy trình phát triển phần mềm"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình LLM nội bộ để tạo skill chuyên ngành như tài chính hoặc y tế",
+    "Xây dựng thị trường chia sẻ Agent Skills cộng đồng để tăng tính tái sử dụng",
+    "Kết hợp với hệ thống quản lý dự án để tự động tạo issue và pull request dựa trên skill"
+  ],
+  "stars": 8528,
+  "starsToday": 4,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-17T07:47:09.180Z"
+}

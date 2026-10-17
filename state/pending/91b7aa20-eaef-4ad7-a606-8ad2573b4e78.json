@@ -1,0 +1,44 @@
+{
+  "id": "91b7aa20-eaef-4ad7-a606-8ad2573b4e78",
+  "repo": "bytebase/bytebase",
+  "url": "https://github.com/bytebase/bytebase",
+  "category": "Database",
+  "summary": "Bytebase cung cấp nền tảng quản trị cơ sở dữ liệu cho phép kiểm soát thay đổi, truy cập và migrations across các database chính, hỗ trợ cả humans và AI agents.",
+  "usecases": [
+    "Quản lý schema và migrations cho nhiều loại database (PostgreSQL, MySQL, MongoDB) thông qua một giao diện tập trung.",
+    "Kiểm soát truy cập và bảo mật cơ sở dữ liệu với audit trail cho mục đích compliance.",
+    "Tích hợp CI/CD pipelines để tự động hóa deploy schema changes và giảm thiểu lỗi human error."
+  ],
+  "ideas": [
+    "Sử dụng AI agents để tự động đề xuất tối ưu schema dựa trên patterns truy vấn thực tế.",
+    "Kết hợp với infrastructure-as-code tools để quản lý DB schema như code và tự động đồng bộ giữa môi trường.",
+    "Tạo tính năng generate ER diagram tự động từ lịch sử migrations và dữ liệu mẫu."
+  ],
+  "stars": 14587,
+  "starsToday": 9,
+  "language": "Go",
+  "topics": [
+    "mysql",
+    "tidb",
+    "postgresql",
+    "cicd",
+    "sql-client",
+    "oracle",
+    "sqlserver",
+    "schema-migrations",
+    "gitops",
+    "flyway",
+    "liquibase",
+    "devsecops",
+    "data-masking",
+    "data-security",
+    "security",
+    "database-access",
+    "mongodb",
+    "database-governance",
+    "data-governance",
+    "devops"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-10-17T07:47:09.180Z"
+}

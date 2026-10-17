@@ -1,0 +1,33 @@
+{
+  "id": "7f6cf598-dd53-45e6-99bc-72f5086841f8",
+  "repo": "prometheus/node_exporter",
+  "url": "https://github.com/prometheus/node_exporter",
+  "category": "DevOps/CI-CD",
+  "summary": "node_exporter thu thập và xuất các chỉ số hệ thống cơ bản (CPU, bộ nhớ, disk, mạng, v.v.) để Prometheus có thể giám sát tình trạng máy chủ và các nút trong cụm.",
+  "usecases": [
+    "Xuất các chỉ số máy chủ vật lý và máy ảo để tích hợp vào hệ thống giám sát Prometheus/Grafana.",
+    "Thu thập dữ liệu hiệu suất hệ thống trong môi trường Kubernetes để theo dõi tình trạng nút và phát hiện sự cố.",
+    "Cung cấp dữ liệu chỉ số cho các quy trình tự động hóa nhằm điều chỉnh tài nguyên và cảnh báo khi có sự suy giảm hiệu suất."
+  ],
+  "ideas": [
+    "Kết hợp dữ liệu node_exporter với các mô hình machine learning để phát hiện sớm các bất thường về hiệu suất hệ thống.",
+    "Tích hợp node_exporter với các công cụ thông báo (ví dụ: Slack, Teams) để cảnh báo tức thì khi có sự cố về tài nguyên.",
+    "Sử dụng node_exporter trong các môi trường edge/IoT để giám sát tình trạng phần cứng từ xa và quản lý thiết bị."
+  ],
+  "stars": 13850,
+  "starsToday": 2,
+  "language": "Go",
+  "topics": [
+    "prometheus-exporter",
+    "prometheus",
+    "node-metrics",
+    "machine-metrics",
+    "host-metrics",
+    "metrics",
+    "procfs",
+    "system-information",
+    "system-metrics"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-17T07:47:09.180Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "eee03e08-9e37-4b5c-8dc0-db479490d495",
+  "repo": "llm-d/llm-d-router",
+  "url": "https://github.com/llm-d/llm-d-router",
+  "category": "AI/LLM",
+  "summary": "llm-d Router: The intelligent entry point for inference requests, designed to handle LLM inference traffic efficiently.",
+  "usecases": [
+    "Handling inference requests for large language models",
+    "Kubernetes-based deployment for scalable AI inference services",
+    "Networking layer for connecting multiple AI model backends"
+  ],
+  "ideas": [
+    "Building a multi-model routing system that can dynamically select the best LLM backend for each request",
+    "Creating a unified API gateway that abstracts away complexity across different AI providers",
+    "Implementing auto-scaling mechanisms based on real-time inference load metrics"
+  ],
+  "stars": 415,
+  "starsToday": 6,
+  "language": "Go",
+  "topics": [
+    "inference",
+    "kubernetes",
+    "networking",
+    "ai",
+    "gateway-api"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-17T07:47:09.180Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "cb67f094-5533-4041-b064-bb2bff885ced",
+  "repo": "gotenberg/gotenberg",
+  "url": "https://github.com/gotenberg/gotenberg",
+  "category": "API/GraphQL",
+  "summary": "Gotenberg là một API thân thiện với nhà phát triển, chuyển đổi nhiều định dạng tài liệu (HTML, DOCX, XLSX, PPTX, PDF...) sang PDF bằng các công cụ như Chromium, LibreOffice, wkhtmltopdf và Puppeteer, đóng gói sẵn trong Docker.",
+  "usecases": [
+    "Tự động hóa quy trình tạo PDF từ các mẫu HTML hoặc tài liệu văn phòng trong hệ thống quản lý tài liệu doanh nghiệp.",
+    "Xây dựng dịch vụ chuyển đổi tài liệu cho ứng dụng web hoặc mobile, hỗ trợ nhiều định dạng nguồn.",
+    "Tích hợp Gotenberg vào pipeline CI/CD để sinh báo cáo, hóa đơn hoặc tài liệu kỹ thuật dưới dạng PDF."
+  ],
+  "ideas": [
+    "Phát triển một công cụ web cho phép người dùng tải lên tài liệu và nhận PDF đã được xử lý thông qua API Gotenberg.",
+    "Kết hợp Gotenberg với hệ thống lưu trữ đám mây (AWS S3, Google Cloud Storage) để tự động lưu trữ các file PDF đã chuyển đổi.",
+    "Xây dựng một dịch vụ batch conversion sử dụng Gotenberg để xử lý hàng loạt tài liệu cùng lúc với hỗ trợ queue và retry."
+  ],
+  "stars": 13314,
+  "starsToday": 10,
+  "language": "Go",
+  "topics": [
+    "api",
+    "wkhtmltopdf",
+    "unoconv",
+    "docker",
+    "puppeteer",
+    "pdftk",
+    "libreoffice",
+    "chromium",
+    "chrome",
+    "convert-to-pdf",
+    "exiftool",
+    "openoffice",
+    "qpdf",
+    "docx-to-pdf",
+    "html-to-pdf",
+    "pdf",
+    "pdf-converter",
+    "screenshots",
+    "excel",
+    "word"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-17T07:47:09.180Z"
+}

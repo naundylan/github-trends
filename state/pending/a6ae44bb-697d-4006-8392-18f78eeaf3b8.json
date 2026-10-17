@@ -1,0 +1,29 @@
+{
+  "id": "a6ae44bb-697d-4006-8392-18f78eeaf3b8",
+  "repo": "desktop/desktop",
+  "url": "https://github.com/desktop/desktop",
+  "category": "Desktop App",
+  "summary": "GitHub Desktop là ứng dụngdesktop mã nguồn mở giúp tương tác với Git và GitHub qua giao diện trực quan, thay thế các lệnh dòng lệnh phức tạp.",
+  "usecases": [
+    "Mới bắt đầu với Git: clone repository, commit changes và push/pull mà không cần dùng terminal.",
+    "Quản lý nhiều repository cùng lúc với sidebar và visualization branch dễ dàng.",
+    "Tích hợp liền mạch với GitHub Issues và Pull Requests để theo dõi tiến độ công việc trực tiếp từ ứng dụng."
+  ],
+  "ideas": [
+    "Tích hợp với IDEs khác như VS Code để cung cấp trải nghiệm Git mượt mà trên cùng một giao diện desktop.",
+    "Phát triển plugin cho phép quản lý GitOps workflows trực tiếp từ desktop mà không cần chuyển sang terminal.",
+    "Tạo tính năng 'focus mode' để ẩn các file không liên quan và chỉ hiển thị thay đổi quan trọng khi code."
+  ],
+  "stars": 21968,
+  "starsToday": 7,
+  "language": "TypeScript",
+  "topics": [
+    "electron",
+    "github",
+    "git",
+    "typescript",
+    "github-desktop"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-17T07:47:09.180Z"
+}

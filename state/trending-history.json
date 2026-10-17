@@ -3169,52 +3169,42 @@
     "last_seen": "2026-10-17",
     "last_saved": "2026-10-16"
   },
-  "android/skills": {
+  "desktop/desktop": {
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
     "last_saved": "2026-10-17"
   },
-  "superdesigndev/superdesign-skill": {
+  "google-labs-code/stitch-skills": {
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
     "last_saved": "2026-10-17"
   },
-  "elder-plinius/V3R1T4S": {
+  "llm-d/llm-d-router": {
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
     "last_saved": "2026-10-17"
   },
-  "Crosstalk-Solutions/unifi-toolkit": {
+  "zeromicro/go-zero": {
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
     "last_saved": "2026-10-17"
   },
-  "LibreSpark/LibreTV": {
+  "gotenberg/gotenberg": {
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
     "last_saved": "2026-10-17"
   },
-  "superdesigndev/superdesign": {
+  "bytebase/bytebase": {
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
     "last_saved": "2026-10-17"
   },
-  "sipeed/picoclaw": {
+  "prometheus/node_exporter": {
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
     "last_saved": "2026-10-17"
   },
-  "GoogleCloudPlatform/scion": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-17",
-    "last_saved": "2026-10-17"
-  },
-  "pollen-robotics/microduck": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-17",
-    "last_saved": "2026-10-17"
-  },
-  "voidzero-dev/vite-plus": {
+  "ai-dynamo/dynamo": {
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
     "last_saved": "2026-10-17"

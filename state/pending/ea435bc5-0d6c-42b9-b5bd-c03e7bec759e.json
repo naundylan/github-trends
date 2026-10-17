@@ -1,0 +1,44 @@
+{
+  "id": "ea435bc5-0d6c-42b9-b5bd-c03e7bec759e",
+  "repo": "zeromicro/go-zero",
+  "url": "https://github.com/zeromicro/go-zero",
+  "category": "Microservices",
+  "summary": "go-zero là một framework microservices dạng cloud-native được viết bằng Go, đi kèm công cụ dòng lệnh giúp tăng năng suất, hỗ trợ tạo mã, gateway RPC/REST và tích hợp AI-native.",
+  "usecases": [
+    "Xây dựng và triển khai các dịch vụ vi mô với quy trình tạo mã tự động, giúp giảm thời gian phát triển.",
+    "Tạo API gateway hỗ trợ cả RPC và REST để kết nối các dịch vụ và khách hàng một cách thống nhất.",
+    "Phát triển các dịch vụ hỗ trợ AI bằng cách tận dụng các tính năng AI-native tích hợp sẵn của framework."
+  ],
+  "ideas": [
+    "Tích hợp go-zero với các mô hình AI để tự động tạo các endpoint API phục vụ cho suy luận mô hình.",
+    "Sử dụng CLI của go-zero để nhanh chóng khởi tạo một microservice có sẵn các công cụ quan sát và theo dõi.",
+    "Kết hợp go-zero với service mesh (ví dụ: Istio) để quản lý giao tiếp giữa các dịch vụ một cách bảo mật."
+  ],
+  "stars": 33387,
+  "starsToday": 4,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "microservice",
+    "rpc-framework",
+    "web-framework",
+    "rpc",
+    "restful-api",
+    "code-generation",
+    "microservices",
+    "go",
+    "restful",
+    "cloud-native",
+    "microservice-framework",
+    "microservices-architecture",
+    "rest-api",
+    "framework",
+    "gateway",
+    "grpc-gateway",
+    "ai-native",
+    "ai-native-development",
+    "spec-driven-development"
+  ],
+  "notePath": "notes/Microservices.md",
+  "createdAt": "2026-10-17T07:47:09.180Z"
+}
