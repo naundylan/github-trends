@@ -1,0 +1,25 @@
+{
+  "id": "e7fa71d5-2e5a-42d3-b290-4b1b697f3709",
+  "repo": "android/skills",
+  "url": "https://github.com/android/skills",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Một kho lưu trữ Android mẫu viết bằng Kotlin giúp người phát triển luyện tập và nâng cao kỹ năng Android.",
+  "usecases": [
+    "Học sinh Android luyện tập và nâng cao kỹ năng phát triển",
+    "Thử nghiệm các mẫu UI/UX thực tế",
+    "Thêm vào portfolio để thể hiện thành果"
+  ],
+  "ideas": [
+    "Kết hợp với các khóa học trực tuyến để tạo tutorial tương tác",
+    "Sử dụng làm nền tảng cho hackathon Android",
+    "Phát triển plugin cho Android Studio"
+  ],
+  "stars": 8255,
+  "starsToday": 368,
+  "language": "Kotlin",
+  "topics": [
+    "skills"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-10-17T13:00:30.139Z"
+}

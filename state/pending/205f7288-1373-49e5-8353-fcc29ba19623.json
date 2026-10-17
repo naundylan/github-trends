@@ -1,0 +1,36 @@
+{
+  "id": "205f7288-1373-49e5-8353-fcc29ba19623",
+  "repo": "ScrapeCreators/social-media-research-skills",
+  "url": "https://github.com/ScrapeCreators/social-media-research-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Kho tài nguyên cung cấp các kỹ năng AI agent để nghiên cứu mạng xã hội, bao gồm khai báo bài viết ngoại lệ, khai thác bình luận, phân tích đối thủ và xu hướng quảng cáo trên nhiều nền tảng.",
+  "usecases": [
+    "Phân tích xu hướng nội dung và cảm nhận người dùng trên TikTok, Instagram, YouTube để điều chỉnh chiến dịch marketing.",
+    "Đào tạo agent tự động thu thập và tổng hợp bình luận từ các bài viết để nắm bắt phản hồi khách hàng.",
+    "Thực hiện teardown đối thủ bằng cách truy xuất thư viện quảng cáo và chỉ số tương tác trên các nền tảng xã hội."
+  ],
+  "ideas": [
+    "Kết hợp với workflow automation (Zapier, n8n) để tạo báo cáo hàng tuần về hiệu suất quảng cáo đối thủ tự động.",
+    "Mở rộng kỹ năng để bao gồm phân tích hình ảnh và video qua mô hình AI eyes để phát hiện xu hướng visual.",
+    "Xây dựng dashboard nội bộ hiển thị real-time các chỉ số xã hội được agent thu thập và xử lý."
+  ],
+  "stars": 3986,
+  "starsToday": 140,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "claude-skills",
+    "competitor-analysis",
+    "content-marketing",
+    "cursor",
+    "influencer-marketing",
+    "market-research",
+    "social-media",
+    "social-media-research",
+    "workflow-automation"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-17T13:00:30.139Z"
+}

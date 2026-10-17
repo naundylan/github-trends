@@ -1,0 +1,28 @@
+{
+  "id": "ef4a011b-9c67-46be-a6b1-69ae8ab55c77",
+  "repo": "microsoft/vscode",
+  "url": "https://github.com/microsoft/vscode",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Trình soạn thảo mã nguồn mở phổ biến do Microsoft phát triển, hỗ trợ nhiều ngôn ngữ lập trình và hệ thống tiện ích mở rộng phong phú.",
+  "usecases": [
+    "Viết và chỉnh sửa mã nguồn cho nhiều ngôn ngữ lập trình",
+    "Gỡ lỗi ứng dụng trực tiếp bên trong trình soạn thảo",
+    "Quản lý phiên bản và làm việc nhóm thông qua các extension"
+  ],
+  "ideas": [
+    "Kết hợp với AI agent để tự động viết code và refactor thông minh",
+    "Phát triển extension chuyên biệt cho lập trình blockchain hoặc embedded"
+  ],
+  "stars": 193775,
+  "starsToday": 65,
+  "language": "TypeScript",
+  "topics": [
+    "editor",
+    "electron",
+    "visual-studio-code",
+    "typescript",
+    "microsoft"
+  ],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-10-17T13:00:30.139Z"
+}

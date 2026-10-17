@@ -1,0 +1,22 @@
+{
+  "id": "a10d886c-70b4-4e8e-bfdf-6eb9871dd92c",
+  "repo": "voidzero-dev/vite-plus",
+  "url": "https://github.com/voidzero-dev/vite-plus",
+  "category": "Build Tool/Bundler",
+  "summary": "Toolchain thống nhất và điểm vào cho phát triển web, viết bằng Rust, nhằm tối ưu hóa quy trình build và đóng gói ứng dụng frontend hiện đại.",
+  "usecases": [
+    "Xây dựng và đóng gói ứng dụng web với tốc độ cao",
+    "Quản lý toolchain phát triển frontend trong một dự án duy nhất",
+    "Tối ưu hóa hiệu suất tải và build cho trang web hiện đại"
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động đề xuất và tối ưu cấu hình build",
+    "Tích hợp vào pipeline CI/CD để tăng tốc độ triển khai frontend"
+  ],
+  "stars": 6337,
+  "starsToday": 87,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Build-Tool-Bundler.md",
+  "createdAt": "2026-10-17T13:00:30.139Z"
+}

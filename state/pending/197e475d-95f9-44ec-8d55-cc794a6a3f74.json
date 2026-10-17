@@ -1,0 +1,23 @@
+{
+  "id": "197e475d-95f9-44ec-8d55-cc794a6a3f74",
+  "repo": "withmarbleapp/os-taxonomy",
+  "url": "https://github.com/withmarbleapp/os-taxonomy",
+  "category": "Web Frontend",
+  "summary": "Một dự án JavaScript cung cấp danh mục phân loại hệ điều hành, giúp người dùng hiểu và tương tác với các OS.",
+  "usecases": [
+    "Giáo dục về các hệ điều hành trong môi trường học",
+    "Tạo công cụ tra cứu nhanh thông tin OS",
+    "Hỗ trợ phát triển ứng dụng web hiển thị dữ liệu OS"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống giáo dục để cung cấp quiz tự động",
+    "Xây dựng API cung cấp taxonomy cho các ứng dụng khác",
+    "Sử dụng trong công cụ phân tích thị trường phần mềm"
+  ],
+  "stars": 5150,
+  "starsToday": 248,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-17T13:00:30.139Z"
+}

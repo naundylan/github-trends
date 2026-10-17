@@ -1,0 +1,37 @@
+{
+  "id": "b63d2fb1-418b-4b40-bee5-0ccdb34eaa90",
+  "repo": "GCWing/OpenBitFun",
+  "url": "https://github.com/GCWing/OpenBitFun",
+  "category": "AI Agent/Automation",
+  "summary": "Ứng dụng desktop kết hợp runtime agent Rust cao hiệu suất, cung cấp môi trường làm việc tổng quát cho các AI agent hỗ trợ lập trình và các tác vụ ngoài phần mềm.",
+  "usecases": [
+    "Phát triển phần mềm với sự hỗ trợ của agent AI viết code, debug và tự động tạo pull request.",
+    "Tự động hóa công việc văn phòng như lên lịch, soạn email, phân tích dữ liệu qua các agent có thể truy cập công cụ bên ngoài.",
+    "Xây dựng hệ thống đa agent làm việc cùng nhau để giải quyết các dự án phức tạp cần kết hợp kiến thức từ nhiều lĩnh vực."
+  ],
+  "ideas": [
+    "Tích hợp với dịch vụ đám mây để agent có thể mở rộng khả năng tính toán khi cần xử lý lớn.",
+    "Phát triển thị trường chia sẻ các agent chuyên biệt (ví dụ: agent thiết kế đồ họa, agent tài chính) để người dùng tải về và sử dụng.",
+    "Thêm tính năng ghi lại và học hỏi từ hành vi người dùng để agent cá nhân hóa phản hồi theo phong cách làm việc của từng cá nhân."
+  ],
+  "stars": 2826,
+  "starsToday": 151,
+  "language": "Rust",
+  "topics": [
+    "ai-coding",
+    "ai-ide",
+    "vibe-coding",
+    "cowork",
+    "agent-teams",
+    "openclaw",
+    "agentic-os",
+    "agentic-runtime",
+    "agentic",
+    "ai-sdk",
+    "computer-use-agent",
+    "bitfun",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-17T13:00:30.139Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a23befd2-9e60-49ee-a0ab-7adf136bfe75",
+  "repo": "mixelpixx/Konnect",
+  "url": "https://github.com/mixelpixx/Konnect",
+  "category": "Embedded/IoT",
+  "summary": "Công cụ plugin KiCAD viết bằng Rust cho phép kết hợp AI (Claude hoặc LLM khác) để hỗ trợ thiết kế PCB qua 217 chức năng như vẽ schematic, layout, routing, placement và review.",
+  "usecases": [
+    "Tự động tạo và tối ưu layout PCB dựa trên yêu cầu thiết kế từ ngôn ngữ tự nhiên.",
+    "Kiểm tra và sửa lỗi thiết kế PCB trong thời gian thực bằng cách hỏi AI về các quy tắc thiết kế.",
+    "Tích hợp vào quy trình sản xuất để tạo file Gerber và BOM tự động từ hướng dẫn của LLM."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý linh kiện để AI đề xuất thay thế linh kiện khi gặp khó khăn về nguồn cung.",
+    "Phát triển một giao diện chat trong KiCAD cho phép các thành viên team thảo luận thiết kế qua AI.",
+    "Mở rộng hỗ trợ cho các công cụ mô phỏng điện mạch (SPICE) để AI có thể chạy mô phỏng và đề xuất cải tiến."
+  ],
+  "stars": 1218,
+  "starsToday": 228,
+  "language": "Rust",
+  "topics": [
+    "claude",
+    "agent-skills",
+    "kicad-pcb",
+    "kicad-schematics",
+    "llm",
+    "mcp-server",
+    "mcp-tools"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-17T13:00:30.139Z"
+}
