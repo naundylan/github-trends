@@ -1,0 +1,23 @@
+{
+  "id": "831624fa-d516-4fff-ba16-79add247c33f",
+  "repo": "maddada/Ghostex",
+  "url": "https://github.com/maddada/Ghostex",
+  "category": "AI Agent/Automation",
+  "summary": "Ghostex là một không gian làm việc bản địa mạnh mẽ, được xây dựng bằng Rust và GPUI, hỗ trợ hơn 20 agent và ứng dụng di động, tích hợp với Ghostty.",
+  "usecases": [
+    "Tạo agent tự động hóa tác vụ trên nhiều nền tảng di động",
+    "Tích hợp với Ghostty để thực hiện lệnh terminal nhanh chóng",
+    "Xây dựng không gian làm việc agent tùy chỉnh cho các nhà phát triển"
+  ],
+  "ideas": [
+    "Kết hợp Ghostex với các dịch vụ cloud để triển khai agent trên nhiều thiết bị",
+    "Phát triển plugin cho Ghostex để mở rộng chức năng agent",
+    "Tạo giao diện người dùng đồ họa để giám sát hoạt động của agent"
+  ],
+  "stars": 1259,
+  "starsToday": 63,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-17T23:09:11.525Z"
+}

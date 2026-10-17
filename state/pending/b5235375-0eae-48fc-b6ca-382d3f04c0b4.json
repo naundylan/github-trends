@@ -1,0 +1,23 @@
+{
+  "id": "b5235375-0eae-48fc-b6ca-382d3f04c0b4",
+  "repo": "OpenBMB/PilotDeck",
+  "url": "https://github.com/OpenBMB/PilotDeck",
+  "category": "AI Agent/Automation",
+  "summary": "PilotDeck là một nền tảng năng suất dựa trên agent AI hướng đến nhiệm vụ, giúp tự động hóa và đơn giản hóa các công việc hàng ngày.",
+  "usecases": [
+    "Tự động hóa quy trình làm việc theo nhiệm vụ cho các nhóm phát triển phần mềm",
+    "Tích hợp với các công cụ năng suất để thực hiện tác vụ nhanh hơn",
+    "Cung cấp agent AI để hỗ trợ ra quyết định trong các dự án phức tạp"
+  ],
+  "ideas": [
+    "Tích hợp PilotDeck với các framework CI/CD để tự động hóa quy trình kiểm tra",
+    "Xây dựng agent đặc thù theo ngành để giải quyết các vấn đề kinh doanh",
+    "Kết nối PilotDeck với các kho dữ liệu để agent có thể truy vấn thông tin theo thời gian thực"
+  ],
+  "stars": 4583,
+  "starsToday": 60,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-17T23:09:11.525Z"
+}

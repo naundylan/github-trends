@@ -1,0 +1,35 @@
+{
+  "id": "ece88d2d-3948-4477-ac3b-9118baeeb2bb",
+  "repo": "calcom/cal.diy",
+  "url": "https://github.com/calcom/cal.diy",
+  "category": "Web Framework",
+  "summary": "Một nền tảng lịch hẹn mã nguồn mở được xây dựng bằng Next.js và TypeScript, cung cấp hạ tầng đặt lịch cho mọ người với hỗ trợ xác thực, cơ sở dữ liệu PostgreSQL và kiến trúc monorepo hiện đại.",
+  "usecases": [
+    "Xây dựng ứng dụng đặt lịch họp cá nhân hoặc doanh nghiệp với tích hợp xác thực người dùng",
+    "Triển khai hệ thống quản lý lịch hẹn cho các dịch vụ như khám bệnh, tư vấn tài chính hoặc đặt phòng",
+    "Sử dụng như nền tảng tham chiếu để học tập kiến trúc T3 stack và triển khai ứng dụng full-stack hiện đại"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống video call nội bộ để tạo nền tảng đặt lịch họp trực tuyến tích hợp đa tính năng",
+    "Phát triển plugin đồng bộ lịch với các nền tảng như Google Calendar, Outlook để mở rộng tính năng quản lý thời gian",
+    "Xây dựng phiên bản nhẹ (lightweight) cho thiết bị di động hoặc tích hợp vào ứng dụng web hiện có thông qua API"
+  ],
+  "stars": 49113,
+  "starsToday": 44,
+  "language": "TypeScript",
+  "topics": [
+    "open-source",
+    "typescript",
+    "nextjs",
+    "next-auth",
+    "postgresql",
+    "prisma",
+    "t3-stack",
+    "tailwindcss",
+    "trpc",
+    "turborepo",
+    "zod"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-17T23:09:11.525Z"
+}

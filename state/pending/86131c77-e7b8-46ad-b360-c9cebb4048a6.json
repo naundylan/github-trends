@@ -1,0 +1,23 @@
+{
+  "id": "86131c77-e7b8-46ad-b360-c9cebb4048a6",
+  "repo": "GoogleCloudPlatform/scion",
+  "url": "https://github.com/GoogleCloudPlatform/scion",
+  "category": "Networking",
+  "summary": "SCION là một kiến trúc mạng bảo mật được phát triển bởi Google Cloud Platform bằng ngôn ngữ Go, thiết kế để cung cấp đường truyền dữ liệu an toàn và có khả năng kiểm soát lượng toàn cầu.",
+  "usecases": [
+    "Triển khai mạng nội bộ doanh nghiệp với bảo mật đường truyền dữ liệu cao cấp sử dụng công nghệ SCION",
+    "Xây dựng hạ tầng mạng cho các dịch vụ đám mây đa vùng miền với khả năng quản lý lượng và bảo mật nâng cao",
+    "Nghiên cứu và phát triển các giải pháp mạng bảo mật dựa trên kiến trúc SCION cho môi trường doanh nghiệp hoặc hệ thống quốc gia"
+  ],
+  "ideas": [
+    "Kết hợp SCION với các giải pháp SDN (Software-Defined Networking) để tạo mạng quản lý tập trung thông minh",
+    "Phát triển công cụ giám sát và phân tích lư lượng mạng dựa trên SCION để phát hiện bất thường bảo mật",
+    "Xây dựng bản đồ đường đi dữ liệu toàn cầu sử dụng SCION cho các công ty vận chuyển dữ liệu quốc tế"
+  ],
+  "stars": 1950,
+  "starsToday": 30,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-17T23:09:11.525Z"
+}

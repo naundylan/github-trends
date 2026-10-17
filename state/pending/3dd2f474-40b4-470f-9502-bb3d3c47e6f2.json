@@ -1,0 +1,22 @@
+{
+  "id": "3dd2f474-40b4-470f-9502-bb3d3c47e6f2",
+  "repo": "Crosstalk-Solutions/unifi-toolkit",
+  "url": "https://github.com/Crosstalk-Solutions/unifi-toolkit",
+  "category": "Networking",
+  "summary": "Bộ công cụ quản lý mạng UniFi viết bằng Python, hỗ trợ điều khiển và giám sát các thiết bị mạng UniFi.",
+  "usecases": [
+    "Quản lý tập trung Access Point, Gateway và Switch UniFi cho doanh nghiệp.",
+    "Tự động hóa cấu hình mạng và sao lưu thiết bị qua script Python.",
+    "Giám sát trạng thái mạng và xuất báo cáo hiệu suất thiết bị."
+  ],
+  "ideas": [
+    "Kết hợp AI agent để chẩn đoán sự cố mạng và đề xuất khắc phục tự động.",
+    "Xây dựng dashboard web theo dõi thời gian thực cho hệ thống UniFi."
+  ],
+  "stars": 692,
+  "starsToday": 12,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-17T23:09:11.525Z"
+}

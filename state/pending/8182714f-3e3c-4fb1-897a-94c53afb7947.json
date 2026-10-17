@@ -1,0 +1,37 @@
+{
+  "id": "8182714f-3e3c-4fb1-897a-94c53afb7947",
+  "repo": "ygelfand/echolocal",
+  "url": "https://github.com/ygelfand/echolocal",
+  "category": "Embedded/IoT",
+  "summary": "Dự án chuyển Amazon Echo Dot hoặc Echo Show thành thiết bị cục bộ cho Home Assistant, hỗ trợ trợ lý giọng nói, phát phương tiện, hiển thị và proxy Bluetooth mà không cần đám mây Amazon.",
+  "usecases": [
+    "Điều khiển nhà thông minh cục bộ qua giọng nói bằng Echo Dot không cần cloud Amazon.",
+    "Sử dụng Echo Show làm màn hình hiển thị và phát nội dung phương tiện cho Home Assistant.",
+    "Kết nối Bluetooth proxy để điều khiển thiết bị xung quanh qua thiết bị Echo."
+  ],
+  "ideas": [
+    "Kết hợp với ESPHome để xây dựng hệ thống nhà thông minh hoàn toàn cục bộ.",
+    "Phát triển wake-word tùy chỉnh cho Echo không phụ thuộc Alexa.",
+    "Tích hợp mô hình AI ngôn ngữ cục bộ để tạo trợ lý ảo riêng tư trên Echo."
+  ],
+  "stars": 441,
+  "starsToday": 25,
+  "language": "Go",
+  "topics": [
+    "alexa",
+    "assist",
+    "echo",
+    "echo-dot",
+    "esphome",
+    "golang",
+    "home-assistant",
+    "homeassistant",
+    "sendspin",
+    "voice-assistant",
+    "wake-word",
+    "echo-show",
+    "echo-show-5"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-17T23:09:11.525Z"
+}

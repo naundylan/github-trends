@@ -1,0 +1,23 @@
+{
+  "id": "db7332e4-c2eb-49e4-bc38-dcc03217529a",
+  "repo": "awslabs/aidlc-workflows",
+  "url": "https://github.com/awslabs/aidlc-workflows",
+  "category": "AI Agent/Automation",
+  "summary": "aidlc-workflows là một bộ quy tắc điều khiển quy trình làm việc thông minh dựa trên AI (AI-Driven Life Cycle) được thiết thiết kế để hỗ trợ các tác vụ tự động hóa trong lĩnh vực phát triển phần mềm thông qua các tác nhân AI. Dự án này giúp tối ưu hóa và điều chỉnh linh hoạt quy trình làm việc dựa trên ngữ cảnh và mục tiêu của dự án.",
+  "usecases": [
+    "Áp dụng trong các hệ thống CI/CD để tự động điều chỉnh quy trình build, test và deploy dựa trên phân tích động của mã nguồn.",
+    "Sử dụng trong các công cụ lập trình hỗ trợ AI như GitHub Copilot hoặc Amazon CodeWhisperer để cải thiện đề xuất mã và quản lý vòng đời phần mềm.",
+    "Tích hợp vào các nền tảng quản lý dự án phần mềm để dự đoán rủi ro và đề xuất kế hoạch điều chỉnh thời gian hoàn thành tự động."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ quản lý công việc như Jira hoặc Asana để tự động cập nhật tiến độ và phân bổ nguồn lực dựa trên dự báo của AI.",
+    "Phát triển một mô hình ngôn ngữ lớn (LLM) chuyên biệt để phân tích và đưa ra quyết định tối ưu cho từng giai đoạn của vòng đời phần mềm.",
+    "Xây dựng một hệ thống phản hồi ngược (feedback loop) giữa các tác nhân AI và các nhà phát triển để liên tục cải tiến quy trình làm việc AI-DLC."
+  ],
+  "stars": 5370,
+  "starsToday": 25,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-17T23:09:11.525Z"
+}

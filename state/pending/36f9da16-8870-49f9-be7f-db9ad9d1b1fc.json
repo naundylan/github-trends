@@ -1,0 +1,38 @@
+{
+  "id": "36f9da16-8870-49f9-be7f-db9ad9d1b1fc",
+  "repo": "usebruno/bruno",
+  "url": "https://github.com/usebruno/bruno",
+  "category": "API/GraphQL",
+  "summary": "Bruno là một công cụ IDE mã nguồn mở nhẹ lượng dùng để khám phá, kiểm thử API, làm giải pháp thay thế nhẹ nhàng cho Postman hoặc Insomnia. Nó hỗ trợ REST API, GraphQL và OpenAPI, đồng thời tích hợp tính năng đồng bộ hóa với Git để quản lý bản thảo API một cách hiệu quả.",
+  "usecases": [
+    "Kiểm thử và xác thực các endpoint REST API hoặc GraphQL trong quá trình phát triển phần mềm.",
+    "Quản lý và đồng bộ hóa bộ sưu tập API sử dụng Git, phù hợp với các nhóm phát triển phần mềm hợp tác.",
+    "Tự động hóa quy trình kiểm thử API thông qua các script và tích hợp CI/CD."
+  ],
+  "ideas": [
+    "Xây dựng một nền tảng chia sẻ bộ sưu tập API cộng đồng dựa trên Bruno, kết hợp với Git để người dùng dễ dàng đóng góp và tái sử dụng các định nghĩa API.",
+    "Phát triển plugin hoặc extension cho Bruno hỗ trợ kiểm thử hiệu năng (performance testing) và giám sát thời gian phản hồi API theo thời gian thực.",
+    "Tích hợp Bruno với các công cụ giám sát hệ thống như Prometheus hoặc Grafana để tạo dashboard trực quan cho việc theo dõi trạng thái API."
+  ],
+  "stars": 47703,
+  "starsToday": 26,
+  "language": "JavaScript",
+  "topics": [
+    "api-client",
+    "git",
+    "graphql-client",
+    "opensource",
+    "automation",
+    "javascript",
+    "testing",
+    "api-testing",
+    "developer-tools",
+    "http-client",
+    "openapi",
+    "openapi3",
+    "rest-api",
+    "testing-tools"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-17T23:09:11.525Z"
+}
