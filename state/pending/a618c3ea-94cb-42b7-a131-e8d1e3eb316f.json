@@ -1,0 +1,23 @@
+{
+  "id": "a618c3ea-94cb-42b7-a131-e8d1e3eb316f",
+  "repo": "pollen-robotics/microduck",
+  "url": "https://github.com/pollen-robotics/microduck",
+  "category": "Embedded/IoT",
+  "summary": "Dự án này là một con robot vịt đi bộ hai chân nhỏ gọn, được viết bằng ngôn ngữ Rust. Nó nổi bật với thiết kế miniature và khả năng di chuyển linh hoạt cho các ứng dụng giáo dục và giải trí.",
+  "usecases": [
+    "Nghiên cứu về robot di động hai chân trong môi trường kiểm soát.",
+    "Giảng dạy về lập trình nhúng và nguyên lý hoạt động của robot.",
+    "Ứng dụng trong các dự án robot competition hoặc biểu diễn công nghệ."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống AI để điều khiển robot bằng lệnh voice hoặc hình ảnh.",
+    "Tích hợp cảm biến để tương tác với môi trường xung quanh, tạo ra robot thông minh hơn.",
+    "Sử dụng làm nền tảng cho các dự án IoT trong nhà thông minh hoặc công nghiệp."
+  ],
+  "stars": 9490,
+  "starsToday": 41,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-17T02:44:28.056Z"
+}

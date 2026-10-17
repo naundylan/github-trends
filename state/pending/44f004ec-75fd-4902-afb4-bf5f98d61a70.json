@@ -1,0 +1,23 @@
+{
+  "id": "44f004ec-75fd-4902-afb4-bf5f98d61a70",
+  "repo": "GoogleCloudPlatform/scion",
+  "url": "https://github.com/GoogleCloudPlatform/scion",
+  "category": "Cloud/Hosting",
+  "summary": "Một nền tảng cloud platform do Google Cloud Platform phát triển, cung cấp các dịch vụ host và quản lý hạ tầng đám mây.",
+  "usecases": [
+    "Cung cấp các dịch vụ host cho các ứng dụng web và mobile",
+    "Hỗ trợ quản lý tài nguyên máy chủ trên đám mây",
+    "Tích hợp với các công cụ CI/CD của Google Cloud"
+  ],
+  "ideas": [
+    "Xây dựng các microservice cho các ứng dụng SaaS",
+    "Tích hợp với Google Kubernetes Engine (GKE) để triển khai containerized apps",
+    "Sử dụng để quản lý và giám sát hiệu suất hệ thống cloud"
+  ],
+  "stars": 1929,
+  "starsToday": 41,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-10-17T02:44:28.056Z"
+}

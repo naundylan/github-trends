@@ -1,0 +1,23 @@
+{
+  "id": "c606d422-038d-4b9f-bb6c-d494f2571f9f",
+  "repo": "superdesigndev/superdesign",
+  "url": "https://github.com/superdesigndev/superdesign",
+  "category": "AI Agent/Automation",
+  "summary": "Superdesign là một AI Product Design Agent mở source, được viết bằng TypeScript, giúp tự động hóa quá trình thiết kế sản phẩm và giao diện. Nó cung cấp các tính năng tạo原型 và tối ưu hóa design dựa trên AI.",
+  "usecases": [
+    "Tự động tạo giao diện người dùng cho các ứng dụng web và di động",
+    "Hỗ trợ designer trong việc nhanh chóng原型 các ý tưởng thiết kế",
+    "Tích hợp vào các công cụ design như Figma hoặc Sketch để tăng năng suất"
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng low-code để tạo ứng dụng hoàn chỉnh tự động",
+    "Sử dụng trong môi trường đào tạo để giúp học viên thiết kế hiệu quả hơn",
+    "Tích hợp với các API của các mạng xã hội để phân tích xu hướng design"
+  ],
+  "stars": 7429,
+  "starsToday": 38,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-17T02:44:28.056Z"
+}

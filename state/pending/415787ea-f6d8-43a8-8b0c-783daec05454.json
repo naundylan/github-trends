@@ -1,0 +1,25 @@
+{
+  "id": "415787ea-f6d8-43a8-8b0c-783daec05454",
+  "repo": "android/skills",
+  "url": "https://github.com/android/skills",
+  "category": "Documentation/Learning Resource",
+  "summary": "Kho lưu trữ các kỹ năng phát triển Android được biên soạn, bao gồm các đoạn mã và hướng dẫn để xây dựng ứng dụng di động trên nền tảng Android.",
+  "usecases": [
+    "Học và tham khảo các mẫu code Android để nâng cao kỹ năng lập trình.",
+    "Xây dựng portfolio cá nhân bằng cách trình diễn các kỹ năng và dự án đã hoàn thành.",
+    "Sử dụng làm tài liệu tham khảo nhanh cho các developer Android khi làm việc trên các dự án mới."
+  ],
+  "ideas": [
+    "Tạo một ứng dụng di động tích hợp các kỹ năng này thành một trình hướng dẫn tương tác.",
+    "Biên dịch nội dung thành một ebook học tập hoặc khóa học trực tuyến.",
+    "Phát triển một plugin cho Android Studio để truy xuất và tìm kiếm các kỹ năng ngay trong IDE."
+  ],
+  "stars": 8097,
+  "starsToday": 36,
+  "language": "Kotlin",
+  "topics": [
+    "skills"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-17T02:44:28.056Z"
+}

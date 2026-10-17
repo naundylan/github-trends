@@ -1,0 +1,23 @@
+{
+  "id": "8b4e60e7-740b-40b5-a845-d8db6e4a4fbe",
+  "repo": "voidzero-dev/vite-plus",
+  "url": "https://github.com/voidzero-dev/vite-plus",
+  "category": "Build Tool/Bundler",
+  "summary": "vite-plus là một toolchain thống nhất viết bằng Rust, cung cấp điểm vào duy nhất để phát triển và xây dựng ứng dụng web hiện đại.",
+  "usecases": [
+    "Thiết lập môi trường phát triển nhanh cho dự án React/Vue/Svelte với cấu hình tối thiểu.",
+    "Tối ưu hóa quá trình build và đóng gói cho các ứng dụng web lớn.",
+    "Thay thế các công cụ build truyền thống như Webpack bằng một giải pháp đơn giản và nhanh."
+  ],
+  "ideas": [
+    "Mở rộng vite-plus để hỗ trợ tích hợp với các dịch vụ serverless như Vercel hoặc Netlify.",
+    "Thêm plugin để tự động tạo tài liệu API từ mã nguồn.",
+    "Kết hợp với hệ thống quản lý trạng thái như Zustand hoặc Redux để cung cấp boilerplate toàn sếp."
+  ],
+  "stars": 6327,
+  "starsToday": 87,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Build-Tool-Bundler.md",
+  "createdAt": "2026-10-17T02:44:28.056Z"
+}

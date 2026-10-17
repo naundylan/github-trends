@@ -1,0 +1,23 @@
+{
+  "id": "b4472ae9-ea79-4cc8-82fa-d282fa3155ab",
+  "repo": "Crosstalk-Solutions/unifi-toolkit",
+  "url": "https://github.com/Crosstalk-Solutions/unifi-toolkit",
+  "category": "Infrastructure as Code",
+  "summary": "Một bộ công cụ Python giúp tự động hóa việc giám sát và cấu hình các thiết bị mạng UniFi, đơn giản hóa việc quản lý mạng.",
+  "usecases": [
+    "Tự động hóa việc giám sát trạng thái thiết bị UniFi theo thời gian thực.",
+    "Thực hiện các thay đổi cấu hình hàng loạt trên nhiều điểm truy cập và bộ định tuyến UniFi.",
+    "Tích hợp với các hệ thống giám sát hiện có để theo dõi hiệu suất và tình trạng mạng."
+  ],
+  "ideas": [
+    "Kết hợp toolkit này với một bảng điều khiển Grafana để trực quan hóa dữ liệu mạng.",
+    "Triển khai toolkit dưới dạng một dịch vụ vi mô trên cloud để quản lý nhiều điểm truy cập UniFi.",
+    "Tạo một giao diện người dùng web thân thiện để các quản trị viên mạng có thể tương tác với các công cụ mà không cần dòng lệnh."
+  ],
+  "stars": 684,
+  "starsToday": 35,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-10-17T02:44:28.056Z"
+}

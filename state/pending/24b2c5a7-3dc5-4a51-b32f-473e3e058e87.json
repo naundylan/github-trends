@@ -1,0 +1,37 @@
+{
+  "id": "24b2c5a7-3dc5-4a51-b32f-473e3e058e87",
+  "repo": "superdesigndev/superdesign-skill",
+  "url": "https://github.com/superdesigndev/superdesign-skill",
+  "category": "Developer Tool",
+  "summary": "Công cụ thiết kế này dành cho các agent coding như Claude Code và Cursor, giúp chuyển đổi giao diện thô thành UI đẹp và có thể deploy ngay. Nó tập trung vào việc nâng cấp chất lượng frontend một cách nhanh chóng.",
+  "usecases": [
+    "Lập trình viên sử dụng để cải thiện giao diện người dùng trong dự án phần mềm.",
+    "Thiết kế UI một cách nhất quán cho các ứng dụng web hoặc di động.",
+    "Tích hợp vào quy trình CI/CD để tự động hóa việc kiểm tra và tối ưu hóa giao diện."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ design khác như Figma để đồng bộ hóa thiết kế.",
+    "Tạo ra một hệ thống đề xuất UI tự động dựa trên phân tích xu hướng thiết kế hiện đại.",
+    "Ứng dụng trong các dự án startup để giảm thời gian phát triển prototype giao diện."
+  ],
+  "stars": 818,
+  "starsToday": 40,
+  "language": "JavaScript",
+  "topics": [
+    "dsh-plugin",
+    "agent-skills",
+    "ai-design",
+    "claude-code",
+    "claude-skill",
+    "claude-skills",
+    "coding-agent",
+    "cursor",
+    "design-agent",
+    "frontend",
+    "superdesign",
+    "ui-design",
+    "ux-design"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-17T02:44:28.056Z"
+}

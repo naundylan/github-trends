@@ -1,0 +1,31 @@
+{
+  "id": "51528398-7920-4f57-a36f-ef363e3c3eb0",
+  "repo": "LibreSpark/LibreTV",
+  "url": "https://github.com/LibreSpark/LibreTV",
+  "category": "Web Frontend",
+  "summary": "LibreTV là một ứng dụng web dựa trên Next.js giúp người dùng nhanh chóng tạo ra trang web phim và truyền hình với hỗ trợ Docker để triển khai dễ dàng.",
+  "usecases": [
+    "Xây dựng trang web cá nhân để xem phim và series trực tuyến.",
+    "Tạo nền tảng chia sẻ nội dung video cho cộng đồng hoặc doanh nghiệp nhỏ.",
+    "Đánh dấu trang web demo hoặc prototype cho sản phẩm phim ảnh."
+  ],
+  "ideas": [
+    "Kết hợp với API của TMDB để tự động cập nhật dữ liệu phim mới.",
+    "Thêm chức năng đăng nhập người dùng và danh sách yêu thích cá nhân.",
+    "Tích hợp quảng cáo video hoặc mô hình subscription để kiếm tiền."
+  ],
+  "stars": 18856,
+  "starsToday": 900,
+  "language": "TypeScript",
+  "topics": [
+    "css",
+    "html",
+    "movie-web-app",
+    "movies-and-cinemas",
+    "tv",
+    "film",
+    "nextjs"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-17T02:44:28.056Z"
+}

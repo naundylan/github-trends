@@ -1,0 +1,23 @@
+{
+  "id": "1d922252-91a1-409b-9a91-bf8c46e89ba3",
+  "repo": "sipeed/picoclaw",
+  "url": "https://github.com/sipeed/picoclaw",
+  "category": "Developer Tool",
+  "summary": "Một công cụ Go nhỏ gọn, nhanh chóng và có thể triển khai ở bất cứ đâu để tự động hóa các tác vụ nhàm chán và kích hoạt sự sáng tạo.",
+  "usecases": [
+    "Tự động hóa các tác vụ lặp đi lặp lại như xử lý dữ liệu và script tự động",
+    "Phát triển các công cụ hỗ trợ lập trình viên trong việc triển khai nhanh",
+    "Tạo các script nhỏ cho các tác vụ quản lý hệ thống"
+  ],
+  "ideas": [
+    "Kết hợp với các framework CLI phổ biến như Cobra hoặc Bananah",
+    "Sử dụng để xây dựng các plugin cho IDE như VS Code",
+    "Ứng dụng trong tự động hóa quy trình DevOps"
+  ],
+  "stars": 30078,
+  "starsToday": 41,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-17T02:44:28.056Z"
+}
