@@ -1,0 +1,35 @@
+{
+  "id": "eedba533-583f-4e20-a645-fc7732fe147b",
+  "repo": "calcom/cal.diy",
+  "url": "https://github.com/calcom/cal.diy",
+  "category": "Web Frontend",
+  "summary": "cal.diy là một nền tảng lên lịch được xây dựng bằng Next.js và TypeScript, giúp mọi người dễ dàng tổ chức các cuộc họp và sự kiện mà không cần phụ thuộc vào các dịch vụ bên thứ ba.",
+  "usecases": [
+    "Tích hợp lịch họp cho các nhóm làm việc từ xa.",
+    "Tạo lịch trình cá nhân có thể chia sẻ cho các chuyên gia và dịch vụ.",
+    "Tích hợp với các công cụ năng suất như Slack, Discord hoặc CRM."
+  ],
+  "ideas": [
+    "Tích hợp với công cụ quản lý dự án như Jira để lên lịch các sprint.",
+    "Phát triển một plugin cho các nền tảng thương mại điện tử để lên lịch các buổi tư vấn sản phẩm.",
+    "Tạo một phiên bản PWA để lên lịch khi không có kết nối mạng."
+  ],
+  "stars": 49106,
+  "starsToday": 44,
+  "language": "TypeScript",
+  "topics": [
+    "open-source",
+    "typescript",
+    "nextjs",
+    "next-auth",
+    "postgresql",
+    "prisma",
+    "t3-stack",
+    "tailwindcss",
+    "trpc",
+    "turborepo",
+    "zod"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-17T18:02:03.957Z"
+}

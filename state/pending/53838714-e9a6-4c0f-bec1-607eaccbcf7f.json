@@ -1,0 +1,23 @@
+{
+  "id": "53838714-e9a6-4c0f-bec1-607eaccbcf7f",
+  "repo": "OpenBMB/PilotDeck",
+  "url": "https://github.com/OpenBMB/PilotDeck",
+  "category": "AI/LLM",
+  "summary": "Task-oriented AI Agent productivity platform built with TypeScript",
+  "usecases": [
+    "Automating repetitive business tasks through specialized AI agents",
+    "Enhancing developer productivity with intelligent coding assistants",
+    "Deploying domain-specific agents for customer support automation"
+  ],
+  "ideas": [
+    "Integrate PilotDeck with popular IDEs to provide context-aware code suggestions",
+    "Build a marketplace for pre-trained agent models tailored to specific industries",
+    "Add collaborative features enabling multiple agents to work together on complex projects"
+  ],
+  "stars": 4565,
+  "starsToday": 60,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-17T18:02:03.957Z"
+}

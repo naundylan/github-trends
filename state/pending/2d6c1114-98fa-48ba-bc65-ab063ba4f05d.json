@@ -1,0 +1,23 @@
+{
+  "id": "2d6c1114-98fa-48ba-bc65-ab063ba4f05d",
+  "repo": "GoogleCloudPlatform/scion",
+  "url": "https://github.com/GoogleCloudPlatform/scion",
+  "category": "Networking",
+  "summary": "Scion là một giao thức mạng hiện đại được viết bằng Go, cung cấp một kiến trúc internet an toàn và có thể mở rộng, vượt ra ngoài các giao thức TCP/IP truyền thống.",
+  "usecases": [
+    "Xây dựng các mạng riêng biệt, có khả năng cách ly cho các môi trường đám mây đa tenant.",
+    "Tạo các đường dẫn mạng có độ trễ thấp và chống kiểm duyệt cho các ứng dụng quan trọng.",
+    "Tích hợp với các nền tảng vi dịch vụ để đảm bảo truyền dữ liệu an toàn giữa các vùng."
+  ],
+  "ideas": [
+    "Tích hợp Scion với các dịch vụ Kubernetes để tự động thiết lập các mạng cluster an toàn.",
+    "Phát triển một bảng điều khiển giám sát dựa trên web để trực quan hóa lưu lượng mạng SCION.",
+    "Sử dụng Scion cho các thiết bị IoT trong môi trường có yêu cầu bảo mật cao như năng lượng hoặc y tế."
+  ],
+  "stars": 1949,
+  "starsToday": 30,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-17T18:02:03.957Z"
+}

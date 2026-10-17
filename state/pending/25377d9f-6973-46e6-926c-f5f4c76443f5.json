@@ -1,0 +1,23 @@
+{
+  "id": "25377d9f-6973-46e6-926c-f5f4c76443f5",
+  "repo": "awslabs/aidlc-workflows",
+  "url": "https://github.com/awslabs/aidlc-workflows",
+  "category": "AI Agent/Automation",
+  "summary": "Aidlc-workflows cung cấp các quy tắc điều hướng chu kỳ cuộc sống được dẫn động bởi AI (AI-DLC) dành cho các agent coding AI. Đây là công cụ giúp tối ưu hóa và tự động hóa các quy trình phát triển phần mềm bằng cách hướng dẫn các agent thực hiện các tác vụ một cách thông minh và thích ứng.",
+  "usecases": [
+    "Hỗ trợ các agent AI tự thực hiện các bước từ phân tích yêu cầu, viết code, test đến triển khai phần mềm.",
+    "Điều hướng các tác vụ coding phức tạp giữa nhiều agent AI khác nhau một cách hệ thống và hiệu quả.",
+    "Xây dựng các quy trình làm việc tự điều chỉnh dựa trên phản hồi và dữ liệu thực tế từ các dự án phần mềm."
+  ],
+  "ideas": [
+    "Kết hợp với các IDE như Cursor hoặc Copilot để tạo ra một hệ sinh thái phát triển code hoàn toàn tự động.",
+    "Áp dụng quy trình AI-DLC vào hệ thống review code tự động bằng AI để kiểm tra chất lượng và bảo mật code.",
+    "Tích hợp với các công cụ DevOps để tự động hóa việc test, phân tích rủi ro và deploy dựa trên các rule steering."
+  ],
+  "stars": 5366,
+  "starsToday": 25,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-17T18:02:03.957Z"
+}

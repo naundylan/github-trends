@@ -1,0 +1,38 @@
+{
+  "id": "9774ebae-1afc-4d70-8564-29646b930dce",
+  "repo": "usebruno/bruno",
+  "url": "https://github.com/usebruno/bruno",
+  "category": "Developer Tool",
+  "summary": "Bruno là một IDE mã nguồn mở, nhẹ nhàng và thân thiện với người dùng, chuyên dùng để khám phá và kiểm thử các API (hỗ trợ REST và GraphQL), là giải pháp thay thế hiệu quả cho Postman hoặc Insomnia. Điểm nổi bật là giao diện đơn giản và khả năng quản lý bộ sưu tập test API qua git, giúp dễ dàng hợp tác nhóm.",
+  "usecases": [
+    "Kiểm thử và debug các API REST và GraphQL trực tiếp trong giao diện đồ họa thân thiện.",
+    "Quản lý và theo dõi lịch sử thay đổi của các bộ sưu tập test API bằng hệ thống git.",
+    "Sử dụng làm công cụ thiết kế, thử nghiệm và tài liệu hóa API ngay trong quá trình phát triển backend."
+  ],
+  "ideas": [
+    "Tích hợp Bruno vào các pipeline CI/CD để tự động chạy các bộ test API regression sau mỗi commit.",
+    "Xuất kết quả test từ Bruno sang định dạng OpenAPI/Swagger để tự động hóa việc tạo tài liệu API.",
+    "Dùng làm công cụ onboard developer mới bằng cách cung cấp các bộ sưu tập API mẫu có sẵn để thử nghiệm."
+  ],
+  "stars": 47701,
+  "starsToday": 26,
+  "language": "JavaScript",
+  "topics": [
+    "api-client",
+    "git",
+    "graphql-client",
+    "opensource",
+    "automation",
+    "javascript",
+    "testing",
+    "api-testing",
+    "developer-tools",
+    "http-client",
+    "openapi",
+    "openapi3",
+    "rest-api",
+    "testing-tools"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-17T18:02:03.957Z"
+}

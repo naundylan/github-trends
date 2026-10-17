@@ -1,0 +1,37 @@
+{
+  "id": "037c3c8c-fc4e-4db5-8844-aed988e8ad87",
+  "repo": "ygelfand/echolocal",
+  "url": "https://github.com/ygelfand/echolocal",
+  "category": "Embedded/IoT",
+  "summary": "Dự án biến Amazon Echo Dot hoặc Echo Show thành voice satellite, media player và Bluetooth proxy cho Home Assistant, hoạt động hoàn toàn local không cần cloud.",
+  "usecases": [
+    "Sử dụng Echo làm voice assistant cho Home Assistant mà không cần internet.",
+    "Điều khiển thiết bị nhà thông minh bằng âm thanh qua Echo với xử lý local.",
+    "Chế độ phát nhạc qua Echo được điều khiển bởi Home Assistant."
+  ],
+  "ideas": [
+    "Kết hợp với các thiết bị IoT khác để tạo hệ thống nhà thông minh không cloud.",
+    "Tích hợp mô hình AI để nhận diện giọng nói offline.",
+    "Ứng dụng trong trường học hoặc văn phòng để tăng bảo mật."
+  ],
+  "stars": 437,
+  "starsToday": 25,
+  "language": "Go",
+  "topics": [
+    "alexa",
+    "assist",
+    "echo",
+    "echo-dot",
+    "esphome",
+    "golang",
+    "home-assistant",
+    "homeassistant",
+    "sendspin",
+    "voice-assistant",
+    "wake-word",
+    "echo-show",
+    "echo-show-5"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-17T18:02:03.957Z"
+}
