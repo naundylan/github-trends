@@ -1,0 +1,44 @@
+{
+  "id": "014c156d-769f-4f5f-9ecc-9ca5cf043693",
+  "repo": "diegosouzapw/OmniRoute",
+  "url": "https://github.com/diegosouzapw/OmniRoute",
+  "category": "AI/LLM",
+  "summary": "A free MIT AI gateway offering a single endpoint for over 359 providers and 1200+ models, featuring token compression, quota‑aware fallback, and support for desktop and PWA applications.",
+  "usecases": [
+    "Simplify integration of multiple LLM providers into a single API for developers",
+    "Manage costs by automatically falling back to cheaper providers when quotas are exceeded",
+    "Add AI capabilities to desktop or progressive web apps via a unified gateway"
+  ],
+  "ideas": [
+    "Create an IDE plug‑in that lets users query OmniRoute directly from their development environment",
+    "Build a dashboard that visualizes token usage and cost across all provider connections",
+    "Combine OmniRoute with MCP/A2A to enable agent‑based workflows that can switch models dynamically"
+  ],
+  "stars": 77929,
+  "starsToday": 411,
+  "language": "TypeScript",
+  "topics": [
+    "a2a",
+    "ai-agents",
+    "ai-gateway",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "cline",
+    "codex",
+    "copilot",
+    "cursor",
+    "deepseek",
+    "free-ai",
+    "gemini",
+    "llm-gateway",
+    "mcp",
+    "openai",
+    "openai-proxy",
+    "qwen",
+    "token-saver",
+    "kimi"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-18T13:16:43.184Z"
+}

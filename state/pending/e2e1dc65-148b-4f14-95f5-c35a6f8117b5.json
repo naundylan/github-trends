@@ -1,0 +1,23 @@
+{
+  "id": "e2e1dc65-148b-4f14-95f5-c35a6f8117b5",
+  "repo": "android/skills",
+  "url": "https://github.com/android/skills",
+  "category": "Developer Tool",
+  "summary": "Kho lưu trữ các kỹ năng và kiến thức chuyên môn cần thiết để phát triển ứng dụng Android chuyên nghiệp.",
+  "usecases": [
+    "Lộ trình học tập (learning roadmap) cho lập trình viên Android mới",
+    "Tiêu chuẩn đánh giá năng lực kỹ thuật khi tuyển dụng kỹ sư Android"
+  ],
+  "ideas": [
+    "Xây dựng ứng dụng gamification để học các kỹ năng Android theo lộ trình này",
+    "Tạo bộ câu hỏi phỏng vấn tự động dựa trên danh sách kỹ năng được liệt kê"
+  ],
+  "stars": 8615,
+  "starsToday": 381,
+  "language": "Kotlin",
+  "topics": [
+    "skills"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-18T13:16:43.184Z"
+}

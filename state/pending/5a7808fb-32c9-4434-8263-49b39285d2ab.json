@@ -1,0 +1,23 @@
+{
+  "id": "5a7808fb-32c9-4434-8263-49b39285d2ab",
+  "repo": "anthropics/claude-quickstarts",
+  "url": "https://github.com/anthropics/claude-quickstarts",
+  "category": "AI/LLM",
+  "summary": "A collection of TypeScript projects that help developers quickly build deployable applications using the Claude API.",
+  "usecases": [
+    "Prototype AI chatbot or assistant features in web or mobile apps",
+    "Integrate Claude language capabilities into existing software products for rapid testing",
+    "Create proof‑of‑concept demos for AI‑driven content generation"
+  ],
+  "ideas": [
+    "Combine the quickstart projects with static site generators to build AI‑enhanced blogs",
+    "Develop a CLI tool that uses Claude to generate code snippets or documentation automatically",
+    "Integrate the projects into CI/CD pipelines to automatically test AI responses in build steps"
+  ],
+  "stars": 18533,
+  "starsToday": 453,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-18T13:16:43.183Z"
+}

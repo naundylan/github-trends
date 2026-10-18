@@ -1,0 +1,30 @@
+{
+  "id": "e6050e37-5820-4ab1-8b52-6cb0afc6ecb1",
+  "repo": "Comfy-Org/ComfyUI",
+  "url": "https://github.com/Comfy-Org/ComfyUI",
+  "category": "AI/LLM",
+  "summary": "Giao diện đồ họa mạnh mẽ và mô-đun cho các mô hình diffusion, cung cấp API và backend với giao diện nút đồ thị. Động cơ suy luận cục bộ nhanh nhất thế giới.",
+  "usecases": [
+    "Tạo hình ảnh chất lượng cao từ mô tả văn bản bằng các mô hình diffusion tiên tiến",
+    "Hỗ trợ thiết kế đồ họa và nội dung sáng tạo bằng cách kết nối nhiều module khác nhau",
+    "Thực hiện xử lý hình ảnh tự động cho các ứng dụng như chỉnh sửa ảnh, tạo nội dung mới"
+  ],
+  "ideas": [
+    "Tích hợp ComfyUI với các nguồn dữ liệu hình ảnh để tạo ra các mẫu học máy tùy chỉnh",
+    "Xây dựng hệ sinh thái plugin mở rộng cho ComfyUI để tăng khả năng tùy biến và mở rộng chức năng",
+    "Ứng dụng ComfyUI trong lĩnh vực y tế để tạo mô hình hình ảnh từ mô tả lệnh"
+  ],
+  "stars": 138197,
+  "starsToday": 155,
+  "language": "Python",
+  "topics": [
+    "stable-diffusion",
+    "pytorch",
+    "ai",
+    "python",
+    "comfy",
+    "comfyui"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-18T13:16:43.184Z"
+}

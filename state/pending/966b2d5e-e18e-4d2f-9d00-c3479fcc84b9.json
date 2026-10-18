@@ -1,0 +1,29 @@
+{
+  "id": "966b2d5e-e18e-4d2f-9d00-c3479fcc84b9",
+  "repo": "TauricResearch/TradingAgents",
+  "url": "https://github.com/TauricResearch/TradingAgents",
+  "category": "AI/LLM",
+  "summary": "Một khung giao dịch tài chính đa agent sử dụng LLM để tự động hóa giao dịch chứng khoán thông minh.",
+  "usecases": [
+    "Tự động hóa chiến lược đầu tư dựa trên phân tích dữ liệu thị trường",
+    "Quản lý danh mục tài sản đa dạng bằng nhiều agent LLM",
+    "Phát hiện rủi ro tài chính thông qua phân tích đa phương thức"
+  ],
+  "ideas": [
+    "Kết hợp với các nguồn dữ liệu thị trường thực thời để cải thiện hiệu quả giao dịch",
+    "Sử dụng nhiều agent chuyên biệt cho các tác vụ khác nhau như phân tích kỹ thuật, định lượng, v.v.",
+    "Tích hợp với hệ thống quản lý tài sản cá nhân để tự động hóa theo dõi"
+  ],
+  "stars": 111844,
+  "starsToday": 242,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "finance",
+    "llm",
+    "multiagent",
+    "trading"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-18T13:16:43.184Z"
+}

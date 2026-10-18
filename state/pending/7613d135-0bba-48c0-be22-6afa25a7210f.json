@@ -1,0 +1,21 @@
+{
+  "id": "7613d135-0bba-48c0-be22-6afa25a7210f",
+  "repo": "withmarbleapp/os-taxonomy",
+  "url": "https://github.com/withmarbleapp/os-taxonomy",
+  "category": "Other",
+  "summary": "Một hệ thống phân loại các hệ điều hành (OS) giúp tổ chức và quản lý dữ liệu về các nền tảng phần mềm khác nhau.",
+  "usecases": [
+    "Xây dựng cơ sở dữ liệu cho các trang web so sánh hệ điều hành",
+    "Phân loại thiết bị trong các hệ thống quản lý tài sản IT"
+  ],
+  "ideas": [
+    "Tích hợp vào các công cụ kiểm kê phần mềm tự động",
+    "Xây dựng API cung cấp dữ liệu phân loại OS cho các nhà phát triển ứng dụng"
+  ],
+  "stars": 5599,
+  "starsToday": 392,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-18T13:16:43.184Z"
+}

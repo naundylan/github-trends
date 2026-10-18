@@ -1,0 +1,33 @@
+{
+  "id": "904f1eb2-7630-47e7-8fa2-67d6331a9bf8",
+  "repo": "DmNote-App/DmNote",
+  "url": "https://github.com/DmNote-App/DmNote",
+  "category": "Desktop App",
+  "summary": "Một ứng dụng hiển thị bàn phím tùy chỉnh cho DJMAX RESPECT V và các trò chơi, cho phép người dùng dễ dàng theo dõi và điều khiển các phím.",
+  "usecases": [
+    "Hiển thị bàn phím chi tiết cho các bài thi đấu DJMAX RESPECT V",
+    "Tạo giao diện tùy biến cho các game cần kiểm tra phím",
+    "Hỗ trợ phát triển nhạc điện tử bằng cách quản lý các phím ảo"
+  ],
+  "ideas": [
+    "Kết hợp với các ứng dụng âm nhạc để tạo ra màn hình hiển thị phím tương tác",
+    "Xây dựng plugin cho các nền tảng game để tích hợp tính năng theo dõi phím",
+    "Tích hợp với hệ thống âm thanh để đồng bộ dữ liệu phím theo thời gian thực"
+  ],
+  "stars": 4498,
+  "starsToday": 616,
+  "language": "TypeScript",
+  "topics": [
+    "keyviewer",
+    "dmnote",
+    "kps",
+    "keyoverlay",
+    "djmax",
+    "keyboard",
+    "overlay",
+    "obs",
+    "rhythm-game"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-18T13:16:43.183Z"
+}

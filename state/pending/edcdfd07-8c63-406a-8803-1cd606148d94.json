@@ -1,0 +1,44 @@
+{
+  "id": "edcdfd07-8c63-406a-8803-1cd606148d94",
+  "repo": "Graphify-Labs/graphify",
+  "url": "https://github.com/Graphify-Labs/graphify",
+  "category": "AI/LLM",
+  "summary": "Công cụ chuyển đổi mã nguồn, tài liệu, schema SQL, cấu hình và PDF thành đồn khả năng truy vấn. Sử dụng AST định dạng cục bộ và LLM để giải thích mọi cạnh.",
+  "usecases": [
+    "Tạo sơ đồ kiến thức từ codebase để tìm kiếm nhanh thông tin liên quan",
+    "Phân tích mã nguồn tự động bằng AI để phát hiện lỗi hoặc tối ưu hóa",
+    "Tích hợp vào các công cụ viết code như Claude Code, Cursor, Codex để hỗ trợ phát triển"
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ AI để tạo ra hệ sinh thái kiến thức liên tục cho đội ngũ phát triển",
+    "Sử dụng đồn khả năng truy vấn để xây dựng dashboard trực quan cho quy trình phát triển phần mềm",
+    "Phát triển plugin cho IDE giúp lập trình viên tìm hiểu nhanh hơn về cấu trúc mã của họ"
+  ],
+  "stars": 128063,
+  "starsToday": 592,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "graphrag",
+    "knowledge-graph",
+    "codex",
+    "openclaw",
+    "skills",
+    "antigravity",
+    "gemini",
+    "leiden",
+    "rag",
+    "tree-sitter",
+    "ai-agents",
+    "ast",
+    "code-analysis",
+    "code-search",
+    "cursor",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "graphify"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-18T13:16:43.183Z"
+}
