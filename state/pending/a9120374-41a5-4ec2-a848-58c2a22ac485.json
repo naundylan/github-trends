@@ -1,0 +1,29 @@
+{
+  "id": "a9120374-41a5-4ec2-a848-58c2a22ac485",
+  "repo": "mlabonne/llm-course",
+  "url": "https://github.com/mlabonne/llm-course",
+  "category": "AI/LLM",
+  "summary": "Khoá học miễn phí giúp người mới bắt đầu tiếp cận Large Language Models (LLMs) thông qua lộ trình chi tiết và các notebook Colab thực hành.",
+  "usecases": [
+    "Tự học chuyên sâu LLMs từ cơ bản đến nâng cao với bài tập thực hành trên Colab.",
+    "Xây dựng lộ trình học tập cá nhân hoá dựa trên cấu trúc khóa học và tài nguyên được cập nhật.",
+    "Áp dụng kiến thức vào dự án cá nhân như fine-tuning mô hình ngôn ngữ lớn."
+  ],
+  "ideas": [
+    "Kết hợp khóa học với các dự án mã nguồn mở để xây dựng cộng đồng học tập thực tiễn.",
+    "Phát triển phiên bản khóa học dành cho lĩnh vực chuyên biệt như y tế hoặc pháp lý.",
+    "Tạo công cụ đánh giá tiến độ học tập dựa trên các notebook Colab trong khóa học."
+  ],
+  "stars": 83898,
+  "starsToday": 81,
+  "language": "",
+  "topics": [
+    "course",
+    "llm",
+    "machine-learning",
+    "roadmap",
+    "large-language-models"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-18T18:11:48.622Z"
+}

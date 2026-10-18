@@ -1,0 +1,44 @@
+{
+  "id": "be61f645-ce3b-4301-9091-51cfb1502816",
+  "repo": "heartleo/zlib",
+  "url": "https://github.com/heartleo/zlib",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh để tìm kiếm, tải xuống sách từ Z-Library, hỗ trợ gửi tới Kindle và tích hợp với các AI agent như ChatGPT, Claude.",
+  "usecases": [
+    "Tải sách điện tử để đọc offline",
+    "Gửi sách tự động tới Kindle sau khi tải",
+    "Kết hợp với AI agent để tạo tóm tắt hoặc trả lời câu hỏi về nội dung sách"
+  ],
+  "ideas": [
+    "Phát triển plugin cho Calibre để tự động cập nhật metadata từ Z-Library",
+    "Xây dựng web frontend cho công cụ để tra cứu sách qua trình duyệt",
+    "Tích hợp với hệ thống quản lý thư viện cá nhân để đồng bộ sách tự động"
+  ],
+  "stars": 1069,
+  "starsToday": 126,
+  "language": "Go",
+  "topics": [
+    "book",
+    "cli",
+    "ebook",
+    "go",
+    "golang",
+    "kindle",
+    "z-library",
+    "zlibrary",
+    "command-line",
+    "tui",
+    "chatgpt",
+    "claude",
+    "codex",
+    "gemini",
+    "openai",
+    "calibre",
+    "calibre-plugin",
+    "calibre-web",
+    "koreader",
+    "annas-archive"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-18T18:11:48.622Z"
+}

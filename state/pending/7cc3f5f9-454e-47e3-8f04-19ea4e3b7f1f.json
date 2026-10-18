@@ -1,0 +1,41 @@
+{
+  "id": "7cc3f5f9-454e-47e3-8f04-19ea4e3b7f1f",
+  "repo": "twentyhq/twenty",
+  "url": "https://github.com/twentyhq/twenty",
+  "category": "Web Framework",
+  "summary": "Twenty là một nền tảng CRM mã nguồn mở được thiết kế cho AI, làm giải pháp thay thế cho Salesforce. Dự án sử dụng TypeScript và được xây dựng trên kiến trúc monorepo với React và NestJS, hỗ trợ quản lý khách hàng, bán hàng và marketing.",
+  "usecases": [
+    "Quản lý quan hệ khách hàng (CRM) cho doanh nghiệp vừa và lớn",
+    "Theo dõi và quản lý hoạt động bán hàng cũng như chiến dịch marketing",
+    "Tích hợp các công cụ AI để phân tích dữ liệu khách hàng và dự báo doanh số"
+  ],
+  "ideas": [
+    "Phát triển các plugin AI giúp tự động hóa quy trình bán hàng và chăm sóc khách hàng",
+    "Mở rộng tích hợp với các nền tảng thương mại điện tử như Shopify hoặc WooCommerce",
+    "Xây dựng dashboard trực quan cho phép người dùng tùy chỉnh báo cáo và số liệu thời gian thực"
+  ],
+  "stars": 58490,
+  "starsToday": 36,
+  "language": "TypeScript",
+  "topics": [
+    "crm",
+    "customer",
+    "graphql",
+    "marketing",
+    "react",
+    "sales",
+    "typescript",
+    "crm-system",
+    "nestjs",
+    "reactjs",
+    "web",
+    "monorepo",
+    "open-source",
+    "postgresql",
+    "good-first-issue",
+    "hacktoberfest",
+    "javascript"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-18T18:11:48.622Z"
+}

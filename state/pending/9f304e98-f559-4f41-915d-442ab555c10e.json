@@ -1,0 +1,23 @@
+{
+  "id": "9f304e98-f559-4f41-915d-442ab555c10e",
+  "repo": "guoyue2010/lxmusic-",
+  "url": "https://github.com/guoyue2010/lxmusic-",
+  "category": "Web Frontend",
+  "summary": "lxmusic (洛雪音乐) là một ứng dụng nghe nhạc web dựa trên JavaScript, cung cấp nguồn nhạc đa dạng và cập nhật liên tục từ nhiều nền tảng khác nhau. Dự án nổi bật với giao diện người dùng thân thiện và khả năng tìm kiếm bài hát chính xác.",
+  "usecases": [
+    "Nghe nhạc trực tuyến miễn phí từ nhiều nguồn khác nhau như QQ Music, NetEase Cloud Music",
+    "Tìm kiếm và phát nhạc theo tên bài hát, nghệ sĩ hoặc danh sách phát",
+    "Xây dựng danh sách phát cá nhân và quản lý thư viện nhạc"
+  ],
+  "ideas": [
+    "Kết hợp với công nghệ AI để đề xuất bài hát dựa trên sở thích người dùng",
+    "Phát triển phiên bản di động để người dùng có thể nghe nhạc mọi lúc mọi nơi",
+    "Thêm tính năng chia sẻ danh sách phát và cộng tác chỉnh sửa giữa nhiều người dùng"
+  ],
+  "stars": 6466,
+  "starsToday": 41,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-18T18:11:48.622Z"
+}

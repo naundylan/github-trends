@@ -1,0 +1,44 @@
+{
+  "id": "54839b10-bab2-4b68-8630-30e9829e1bf6",
+  "repo": "mozilla-ai/otari",
+  "url": "https://github.com/mozilla-ai/otari",
+  "category": "API/GraphQL",
+  "summary": "Gateway LLM mở rộng, tương AI OpenAI, hỗ 40+ nhà cung cấp, với quản lý API key, ngớ phí và theo dõi sử dụng.",
+  "usecases": [
+    "Tạo một endpoint duy nhất để truyán LLM từ nhiều nhà cung cấp",
+    "Giám phí và theo dắt sử dụng LLM trên toàn tổông",
+    "Tạo virtual keys để phân quyền truy LLM cho từng người dùng"
+  ],
+  "ideas": [
+    "Tạo hệ thống phân luợn request dựa trên nhu cầu thực thời để giảm phí",
+    "Kết hợp với observability tool để theo dắt hiệu xuất LLM",
+    "Xây dựng tíchư quản phí trên dashboard để cảnh báo khi phí vượt ngưỡ",
+    "Tạo extension cho IDE để quản lý và thay đổi LLM gateway dễ dàng"
+  ],
+  "stars": 650,
+  "starsToday": 46,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "gateway",
+    "llm",
+    "ai-gateway",
+    "anthropic",
+    "api-key-management",
+    "budgets",
+    "cost-tracking",
+    "litellm-alternative",
+    "llm-gateway",
+    "llm-proxy",
+    "llm-routing",
+    "llmops",
+    "multi-provider",
+    "open-source",
+    "openai",
+    "openai-compatible",
+    "python",
+    "self-hosted"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-18T18:11:48.622Z"
+}

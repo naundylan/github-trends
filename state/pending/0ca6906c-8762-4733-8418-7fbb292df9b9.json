@@ -1,0 +1,23 @@
+{
+  "id": "0ca6906c-8762-4733-8418-7fbb292df9b9",
+  "repo": "Kruk2/jasna",
+  "url": "https://github.com/Kruk2/jasna",
+  "category": "Developer Tool",
+  "summary": "Công cụ phục hồi video, cải thiện chất lượng hình ảnh và giảm nhiễu bằng các thuật toán xử lý hình ảnh.",
+  "usecases": [
+    "Khôi phục phim gia đình cũ bị mờ hoặc nhiễu",
+    "Nâng chất lượng video từ các nguồn độ phân辨率 thấp trước khi up lên YouTube",
+    "Chuẩn bị materiale video cho các dự án phim documentaries"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình AI deep learning để tự động phát hiện và sửa lỗi cụng",
+    "Phát triển phiên bản real-time để sử dụng trong livestream",
+    "Tạo plugin cho các phần mềm chỉnh sửa video như Premiere Pro hoặc DaVinci Resolve"
+  ],
+  "stars": 2317,
+  "starsToday": 115,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-18T18:11:48.622Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "417f46d3-5885-4bab-bf70-0b67961e6d73",
+  "repo": "mixelpixx/Konnect",
+  "url": "https://github.com/mixelpixx/Konnect",
+  "category": "AI Agent/Automation",
+  "summary": "Plugin KiCAD 10 bằng Rust kết nLLM (Claude) để hỗ trợ thiết kế PCB: schematic, layout, routing, placement, design-review và manufacturing.",
+  "usecases": [
+    "Tạo mạch PCB từ ý tức thiết kế bằng Claude qua KiCAD plugin",
+    "Tự động hóa routing, placement và kiểm tra thiết kế",
+    "Tạo và quản lý các mẹan thiết kế PCB cho sản xuất",
+    "Tạo các bản in kỹ siet (Gerber) và kiểm tra tính khả sản xuất"
+  ],
+  "ideas": [
+    "Kết hợp với KiCAD để tạo trợិ giúp thiết kế PCB tự động hóa hoàn toàn từ ý tức đến bản in",
+    "Xây dựng mô trình học để tự động đề xuất giải pháp routing tốt nhất",
+    "Tạo plugin cho các EDA khác như AltCAD hoặc Cadence để mở rờ rộng",
+    "Xây dựng dịch vụ đăng dùng trực tiế để chia sẻ thiết kế PCB với cộng đồng"
+  ],
+  "stars": 1275,
+  "starsToday": 47,
+  "language": "Rust",
+  "topics": [
+    "claude",
+    "agent-skills",
+    "kicad-pcb",
+    "kicad-schematics",
+    "llm",
+    "mcp-server",
+    "mcp-tools"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-18T18:11:48.622Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0838631c-3c4f-4910-baa4-bdc418811750",
+  "repo": "NVlabs/ASPIRE",
+  "url": "https://github.com/NVlabs/ASPIRE",
+  "category": "AI Agent/Automation",
+  "summary": "ASPIRE là một nền tảng khám phá kỹ năng dạng agentic dành cho robotics, giúp robot học hỏi và áp dụng các kỹ năng một cách linh hoạt trong các môi trường khác nhau.",
+  "usecases": [
+    "Hỗ trợ robot học các kỹ năng vận hành mới thông qua khám phá theo kinh nghiệm.",
+    "Tích hợp với hệ thống điều khiển robot để khám phá kỹ năng theo thời gian thực.",
+    "Cung cấp framework cho việc huấn luyện agentic skills trong môi trường mô phỏng robotics."
+  ],
+  "ideas": [
+    "Kết hợp với thị giác máy tính để nhận diện đối tượng và điều chỉnh kỹ năng vận hành tương ứng.",
+    "Tạo môi trường mô phỏng robotics để thử nghiệm và tinh chỉnh các kỹ năng đã khám phá.",
+    "Tích hợp với các nền tảng IoT để triển khai các kỹ năng đã học lên robot thực tế."
+  ],
+  "stars": 536,
+  "starsToday": 99,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-18T18:11:48.622Z"
+}
