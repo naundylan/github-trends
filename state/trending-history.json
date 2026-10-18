@@ -3219,42 +3219,52 @@
     "last_seen": "2026-10-18",
     "last_saved": "2026-10-17"
   },
-  "android/skills": {
+  "etcd-io/etcd": {
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
     "last_saved": "2026-10-18"
   },
-  "withmarbleapp/os-taxonomy": {
+  "llm-d/llm-d-router": {
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
     "last_saved": "2026-10-18"
   },
-  "ScrapeCreators/social-media-research-skills": {
+  "spf13/cobra": {
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
     "last_saved": "2026-10-18"
   },
-  "elie222/rakazo": {
+  "argoproj/argo-cd": {
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
     "last_saved": "2026-10-18"
   },
-  "mixelpixx/Konnect": {
+  "bia-pain-bache/BPB-Wizard": {
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
     "last_saved": "2026-10-18"
   },
-  "GCWing/OpenBitFun": {
+  "pion/webrtc": {
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
     "last_saved": "2026-10-18"
   },
-  "voidzero-dev/vite-plus": {
+  "owncast/owncast": {
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
     "last_saved": "2026-10-18"
   },
-  "pydantic/monty": {
+  "vshulcz/deja-vu": {
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "last_saved": "2026-10-18"
+  },
+  "ai-dynamo/dynamo": {
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "last_saved": "2026-10-18"
+  },
+  "foundry-rs/foundry": {
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
     "last_saved": "2026-10-18"

@@ -1,0 +1,42 @@
+{
+  "id": "bde0685e-344f-402d-a84c-52889ce61afd",
+  "repo": "vshulcz/deja-vu",
+  "url": "https://github.com/vshulcz/deja-vu",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ bộ nhớ cục bộ cho các coding agent như Claude Code, Codex và Cursor, sử dụng lịch sử phiên đã có trên đĩa, hỗ trợ tìm kiếm, MCP và hooks, không cần LLM, đóng gói thành một nhị phân Go.",
+  "usecases": [
+    "Lưu trữ và truy xuất lịch sử phiên làm việc của coding agent để duy trì bối cảnh dài hạn mà không cần gọi LLM.",
+    "Tích hợp vào Claude Code, Cursor và các công cụ code AI khác qua MCP và hooks để cung cấp bộ nhớ liên tục."
+  ],
+  "ideas": [
+    "Kết hợp với vector database để mở rộng khả năng tìm kiếm ngữ nghĩa trong lịch sử phiên agent.",
+    "Xây dựng dashboard trực quan hóa bộ nhớ agent và phân tích xu hướng sửa lỗi qua các phiên làm việc."
+  ],
+  "stars": 1237,
+  "starsToday": 7,
+  "language": "Go",
+  "topics": [
+    "claude-code",
+    "codex",
+    "mcp",
+    "opencode",
+    "agent-memory",
+    "coding-agents",
+    "mcp-server",
+    "claude-code-hooks",
+    "claude-code-plugins",
+    "session-history",
+    "deepseek-harness",
+    "dsh-plugin",
+    "gemini-cli-extension",
+    "kimi-code",
+    "qwen-code",
+    "zed-extension",
+    "memory",
+    "ai-memory",
+    "persistent-memory",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-18T08:01:37.619Z"
+}

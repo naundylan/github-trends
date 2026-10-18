@@ -1,0 +1,40 @@
+{
+  "id": "79aafcea-e4bb-435d-a1bb-f0e4b85b8d9a",
+  "repo": "spf13/cobra",
+  "url": "https://github.com/spf13/cobra",
+  "category": "CLI Tool",
+  "summary": "Framework CLI mạnh mẽ cho Go, hỗ trợ subcommand, flag POSIX, auto-completion, generation code và documentation tự động — được dùng bởi Kubernetes, Hugo, Docker CLI.",
+  "usecases": [
+    "Viết CLI tool nội bộ quản trị infrastructure (deploy, migrate DB, scale service) với UX nhất quán",
+    "Xây dựng CLI công khai cho SaaS product (như `vercel`, `netlify`, `supabase`) với nested command và shell completion",
+    "Tạo generator scaffolding project (cobra init) để team bootstrap service Go mới trong giây"
+  ],
+  "ideas": [
+    "Kết hợp với `viper` (cùng tác giả) để config từ file/env/flag tự động merge, thêm `cobra-cli` plugin để generate command CRUD từ protobuf/OpenAPI spec",
+    "Dùng `markdown` output của cobra để auto-gen docs site (Docusaurus/VitePress) đồng bộ với CLI version",
+    "Wrap cobra vào TUI framework như `bubbletea` hoặc `tview` để biến CLI thành interactive dashboard cho ops"
+  ],
+  "stars": 44703,
+  "starsToday": 1,
+  "language": "Go",
+  "topics": [
+    "cobra",
+    "cobra-library",
+    "cobra-generator",
+    "posix-compliant-flags",
+    "command-cobra",
+    "cli-app",
+    "command-line",
+    "commandline",
+    "command",
+    "cli",
+    "go",
+    "golang",
+    "golang-library",
+    "golang-application",
+    "subcommands",
+    "posix"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-18T08:01:37.619Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "69f38a7e-0099-4e6e-a34e-9c3f1011de2c",
+  "repo": "foundry-rs/foundry",
+  "url": "https://github.com/foundry-rs/foundry",
+  "category": "Blockchain/Web3",
+  "summary": "Công cụ phát triển ứng dụng Ethereum nhanh chóng và linh hoạt được viết bằng Rust, cung cấp bộ công cụ toàn diện cho phát triển smart contract.",
+  "usecases": [
+    "Xây dựng các ứng dụng phi tập trung (dApp) trên hệ sinh thái Ethereum",
+    "Phát triển smart contract với mức độ an toàn cao thông qua test và fuzzing",
+    "Tạo các giải pháp blockchain cho lĩnh vực chuỗi cung ứng, tài chính hoặc xác thực danh tính"
+  ],
+  "ideas": [
+    "Kết hợp với các dự án Web3 khác để xây dựng nền tảng phân tán toàn diện",
+    "Sử dụng bộ công cụ để tạo prototype nhanh của các smart contract phức tạp trước khi triển khai",
+    "Tích hợp với các công cụ khám phá blockchain hiện có để cải thiện trải nghiệm nhà phát triển"
+  ],
+  "stars": 10675,
+  "starsToday": 3,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "solidity",
+    "evm",
+    "testing",
+    "fuzzing",
+    "blockchain",
+    "ethereum",
+    "tooling",
+    "framework",
+    "eth",
+    "dapp",
+    "alloy",
+    "bytecode",
+    "compiler",
+    "compilers",
+    "ir",
+    "smart-contracts",
+    "tempo",
+    "vyper",
+    "toolkit"
+  ],
+  "notePath": "notes/Blockchain-Web3.md",
+  "createdAt": "2026-10-18T08:01:37.619Z"
+}

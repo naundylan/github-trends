@@ -1,0 +1,44 @@
+{
+  "id": "6a2fb8c9-a7d1-4981-9ccf-d7b3705b81c5",
+  "repo": "pion/webrtc",
+  "url": "https://github.com/pion/webrtc",
+  "category": "Networking",
+  "summary": "Thư viện Go thuần túy triển khai chuẩn WebRTC API, hỗ trợ truyền tải video/audio real-time P2P qua trình duyệt và server mà không cần plugin.",
+  "usecases": [
+    "Xây dựng ứng dụng video conference, live streaming hoặc VoIP chạy trên backend Go",
+    "Tạo SFU/MCU server để relay stream WebRTC cho hàng nghìn viewer đồng thời",
+    "Phát triển ứng dụng IoT truyền camera real-time qua mạng không ổn định (ICE/STUN/TURN)"
+  ],
+  "ideas": [
+    "Kết hợp với WASM (pion/webrtc đã hỗ trợ) để chạy WebRTC hoàn toàn trong browser mà không cần JS library nặng",
+    "Tích hợp với MediaMTX hoặc GStreamer để ingest RTSP/RTMP camera IP rồi phân phối qua WebRTC cho dashboard giám sát",
+    "Dùng làm core signaling + media cho ứng dụng remote desktop hoặc cloud gaming latency thấp"
+  ],
+  "stars": 16846,
+  "starsToday": 2,
+  "language": "Go",
+  "topics": [
+    "go",
+    "golang",
+    "webrtc",
+    "pion-webrtc",
+    "ortc",
+    "rtp",
+    "srtp",
+    "webrtc-api",
+    "webrtc-server",
+    "pion",
+    "webcam",
+    "video",
+    "wasm",
+    "webassembly",
+    "live-video",
+    "audio",
+    "voip",
+    "streaming",
+    "p2p",
+    "webrtc-libraries"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-18T08:01:37.619Z"
+}

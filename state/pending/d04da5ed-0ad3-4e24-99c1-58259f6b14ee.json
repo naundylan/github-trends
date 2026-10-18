@@ -1,0 +1,25 @@
+{
+  "id": "d04da5ed-0ad3-4e24-99c1-58259f6b14ee",
+  "repo": "bia-pain-bache/BPB-Wizard",
+  "url": "https://github.com/bia-pain-bache/BPB-Wizard",
+  "category": "DevOps/CI-CD",
+  "summary": "Công cụ hướng dẫn cài đặt và quản lý BPB Panel, giúp triển khai dịch vụ trên Cloudflare Pages và Workers dễ dàng hơn.",
+  "usecases": [
+    "Triển khai nhanh BPB Panel cho quản lý nội dung hoặc ứng dụng",
+    "Quản lý cấu hình Cloudflare Workers và Pages thông qua giao diện hướng dẫn"
+  ],
+  "ideas": [
+    "Tích hợp pipeline CI/CD tự động hóa bản cập nhật panel khi có thay đổi mã",
+    "Mở rộng wizard hỗ trợ quản lý nhiều môi trường staging và production"
+  ],
+  "stars": 1074,
+  "starsToday": 6,
+  "language": "Go",
+  "topics": [
+    "bpb-worker-panel",
+    "pages",
+    "workers"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-18T08:01:37.619Z"
+}

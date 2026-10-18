@@ -1,0 +1,27 @@
+{
+  "id": "93c2df74-9a08-47fe-a31d-63658d75cc70",
+  "repo": "llm-d/llm-d-router",
+  "url": "https://github.com/llm-d/llm-d-router",
+  "category": "AI/LLM",
+  "summary": "Trình định tuyến thông minh làm điểm vào cho các yêu cầu suy luận AI/LLM, tối ưu hóa lưu lượng inference trên Kubernetes.",
+  "usecases": [
+    "Quản lý và định tuyến yêu cầu inference LLM trong môi trường Kubernetes",
+    "Cân bằng tải và bảo mật truy cập vào các mô hình AI phục vụ"
+  ],
+  "ideas": [
+    "Kết hợp với Gateway API để điều hướng đa mô hình dựa trên chi phí và độ trễ",
+    "Xây dựng hệ thống giới hạn tốc độ và quota cho từng tenant sử dụng LLM"
+  ],
+  "stars": 419,
+  "starsToday": 6,
+  "language": "Go",
+  "topics": [
+    "inference",
+    "kubernetes",
+    "networking",
+    "ai",
+    "gateway-api"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-18T08:01:37.619Z"
+}

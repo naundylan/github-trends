@@ -1,0 +1,40 @@
+{
+  "id": "d6134ecb-63b3-4029-855a-9111d4420d15",
+  "repo": "owncast/owncast",
+  "url": "https://github.com/owncast/owncast",
+  "category": "Web Frontend",
+  "summary": "Nền tảng phát trực tiếp tự chủ với khả năng truyền hình trực tiếp và bình luận tích hợp ngay từ ban đầu, viết bằng Go.",
+  "usecases": [
+    "Phát trực tiếp nội dung cho người sáng tạo nội dung muốn kiểm soát hoàn toàn mà không phụ thuộc vào dịch vụ thứ ba",
+    "Kết hợp với các tính năng bình luận thời gian thực để tăng tương tác giữa streamer và khán giả",
+    "Triển khai tự chủ trên hạ tầng riêng để đảm bảo quyền sở hữu dữ liệu và chi phí thấp"
+  ],
+  "ideas": [
+    "Tích hợp với các công cụ hội thoại trực tuyến phổ biến để hỗ trợ sự kiện lai giữa truyền hình trực tiếp và thảo luận",
+    "Thêm hỗ trợ đa ngôn ngữ để mở rộng phạm vi tiếp cận khán giả toàn cầu",
+    "Xây dựng bảng phân tích hiệu suất phát trực tiếp để theo dõi và tối ưu hóa chất lượng truyền hình"
+  ],
+  "stars": 11612,
+  "starsToday": 5,
+  "language": "Go",
+  "topics": [
+    "video",
+    "streaming-video",
+    "livestream",
+    "hls",
+    "chat",
+    "rtmp",
+    "broadcasting",
+    "self-hosted",
+    "golang",
+    "live",
+    "owncast",
+    "activitypub",
+    "decentralized",
+    "federation",
+    "fediverse",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-18T08:01:37.619Z"
+}
