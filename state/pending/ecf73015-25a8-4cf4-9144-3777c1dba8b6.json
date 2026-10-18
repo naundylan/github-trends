@@ -1,0 +1,23 @@
+{
+  "id": "ecf73015-25a8-4cf4-9144-3777c1dba8b6",
+  "repo": "withmarbleapp/os-taxonomy",
+  "url": "https://github.com/withmarbleapp/os-taxonomy",
+  "category": "CLI Tool",
+  "summary": "Một dự án JavaScript cung cấp danh sách và phân loại các hệ điều hành (OS taxonomy) để dễ dàng tham khảo và xử lý.",
+  "usecases": [
+    "Thu thập và phân loại dữ liệu OS cho báo cáo",
+    "Tạo công cụ kiểm tra môi trường hệ thống",
+    "Hỗ trợ các ứng dụng đa nền tảng cần thông tin OS"
+  ],
+  "ideas": [
+    "Kết hợp với công cụ CI để tự động kiểm tra môi trường CI",
+    "Sử dụng dữ liệu taxonomy để đào tạo mô hình dự đoán OS",
+    "Tạo giao diện web hiển thị taxonomy để người dùng lựa chọn OS"
+  ],
+  "stars": 5700,
+  "starsToday": 431,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-18T20:18:13.978Z"
+}

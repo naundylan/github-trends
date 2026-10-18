@@ -1,0 +1,23 @@
+{
+  "id": "6f09f618-2c24-4f36-8a37-1ef59601d9e0",
+  "repo": "pollen-robotics/microduck",
+  "url": "https://github.com/pollen-robotics/microduck",
+  "category": "Embedded/IoT",
+  "summary": "Microduck là robot biped nhỏ dạng vịt viết bằng Rust, thiết kế nhẹ nhàng cho trải nghiệm sinh học và tương tác trong các dự án nhúng.",
+  "usecases": [
+    "Dự án giáo dục/học tập robotics và lập trình nhúng (Rust).",
+    "Nghiên cứu chuyển động biped và cơ học nhẹ.",
+    "Platform tương tác sinh học cho maker community."
+  ],
+  "ideas": [
+    "Kết hợp voice control/NLP để robot duck phản hồi lệnh giọng nói.",
+    "Sử dụng làm pet robot sinh học cho trẻ em hoặc ứng dụng therapy.",
+    "Kết hợp sensor môi trường để tạo device IoT giám sát chất không khí dạng sinh động."
+  ],
+  "stars": 9559,
+  "starsToday": 25,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-18T20:18:13.978Z"
+}

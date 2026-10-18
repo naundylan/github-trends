@@ -1,0 +1,23 @@
+{
+  "id": "b90a0143-b974-44db-8160-c1b428e2fba9",
+  "repo": "android/skills",
+  "url": "https://github.com/android/skills",
+  "category": "Documentation/Learning Resource",
+  "summary": "Kho tài nguyên học tập và mẫu code Android chính thức từ Google, bao gồm các kỹ năng cốt lõi và thực hành tốt nhất cho phát triển ứng dụng Android hiện đại.",
+  "usecases": [
+    "Học phát triển Android từ cơ bản đến nâng cao qua các bài tập có hướng dẫn",
+    "Tham khảo mẫu code chuẩn cho Jetpack Compose, Architecture Components, Testing"
+  ],
+  "ideas": [
+    "Tích hợp vào chương trình đào tạo Android nội bộ cho team junior",
+    "Xây dựng bộ flashcard/interactive quiz từ các skill để ôn tập phỏng vấn"
+  ],
+  "stars": 8707,
+  "starsToday": 381,
+  "language": "Kotlin",
+  "topics": [
+    "skills"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-18T20:18:13.978Z"
+}

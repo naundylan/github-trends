@@ -1,0 +1,31 @@
+{
+  "id": "76f1b4f9-fcab-47c6-b571-1c98ea6d546b",
+  "repo": "elie222/rakazo",
+  "url": "https://github.com/elie222/rakazo",
+  "category": "AI Agent/Automation",
+  "summary": "Chatbot AI tự host mã nguồn mở thay thế Grok, cho phép tự chọn mô hình LLM và sandbox thực thi code, hỗ trợ đa nền tảng (Electron, Expo, Docker).",
+  "usecases": [
+    "Triển khai trợ lý AI riêng tư cho team với kiểm soát dữ liệu hoàn toàn",
+    "Chạy agent có khả năng thực thi code an toàn trong sandbox cho tự động hóa devops"
+  ],
+  "ideas": [
+    "Kết hợp với RAG để tạo internal knowledge bot truy xuất tài liệu công ty",
+    "Mở rộng plugin system để agent tương tác với Jira, GitHub, Slack tự động"
+  ],
+  "stars": 4568,
+  "starsToday": 113,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "chatgpt",
+    "docker",
+    "electron",
+    "expo",
+    "grok",
+    "llm",
+    "self-hosted",
+    "typescript"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-18T20:18:13.978Z"
+}

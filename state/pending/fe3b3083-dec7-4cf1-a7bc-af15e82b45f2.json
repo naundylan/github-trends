@@ -1,0 +1,23 @@
+{
+  "id": "fe3b3083-dec7-4cf1-a7bc-af15e82b45f2",
+  "repo": "anthropics/claude-quickstarts",
+  "url": "https://github.com/anthropics/claude-quickstarts",
+  "category": "AI/LLM",
+  "summary": "Một tập hợp các dự án TypeScript giúp lập trình nhanh chóng xây dựng các ứng dụng có thể triển khai bằng API Claude.",
+  "usecases": [
+    "Xây dựng ứng dụng chat AI",
+    "Tích hợp LLM vào dịch vụ nội bộ",
+    "Prototype nhanh cho các tính năng AI"
+  ],
+  "ideas": [
+    "Kết hợp với frontend React để tạo giao diện chat",
+    "Sử dụng để tạo bot tự động cho các workflow",
+    "Tích hợp với các nền tảng serverless để triển khai API AI"
+  ],
+  "stars": 18608,
+  "starsToday": 453,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-18T20:18:13.978Z"
+}

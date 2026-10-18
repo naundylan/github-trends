@@ -1,0 +1,35 @@
+{
+  "id": "b4461072-ea9d-46c9-8615-fa29acb9dc52",
+  "repo": "starship/starship",
+  "url": "https://github.com/starship/starship",
+  "category": "Developer Tool",
+  "summary": "Starship là prompt cho shell cực nhanh, tối giản và tùy biến vô hạn, hỗ trợ zsh, fish, bash và PowerShell. Viết bằng Rust, nó hiển thị thông tin ngữ cảnh như git và ngôn ngữ lập trình trên terminal.",
+  "usecases": [
+    "Tùy biến prompt terminal để hiển thị nhánh git, phiên bản Node/Python/Rust cho lập trình viên.",
+    "Tích hợp vào dotfiles để giữ môi trường shell nhất quán trên nhiều máy Linux và macOS.",
+    "Sử dụng trên terminal từ xa hoặc CI/CD để nhanh chóng nhận diện môi trường làm việc hiện tại."
+  ],
+  "ideas": [
+    "Kết hợp Starship với theme terminal tự động thay đổi theo thời gian hoặc trạng thái hệ thống.",
+    "Phát triển plugin hiển thị chỉ số carbon footprint hoặc thời gian compile của dự án Rust."
+  ],
+  "stars": 60329,
+  "starsToday": 25,
+  "language": "Rust",
+  "topics": [
+    "zsh-theme",
+    "fish-theme",
+    "zsh-prompt",
+    "fish-prompt",
+    "shell-prompt",
+    "oh-my-zsh",
+    "rust",
+    "starship",
+    "zsh",
+    "powershell",
+    "fish",
+    "bash"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-18T20:18:13.978Z"
+}
