@@ -1,0 +1,25 @@
+{
+  "id": "08937e08-66fa-4aed-8871-6b29e2ee2193",
+  "repo": "android/skills",
+  "url": "https://github.com/android/skills",
+  "category": "Documentation/Learning Resource",
+  "summary": "android/skills là một kho lưu trữ Kotlin tổng hợp các kỹ năng phát triển Android, đóng vai trò như một tài liệu tham khảo và hướng dẫn học tập cho các nhà phát triển.",
+  "usecases": [
+    "Làm tài liệu tham khảo cho các lập trình viên Android để xác định các kỹ năng cần thiết và lộ trình học tập.",
+    "Được các nhà tuyển dụng và chuyên gia HR sử dụng để đánh giá và xác định các yêu cầu về kỹ năng Android.",
+    "Được học sinh, sinh viên sử dụng như một tài liệu hướng dẫn để học và ôn tập các kỹ năng Android."
+  ],
+  "ideas": [
+    "Tạo một lộ trình học tập cá nhân hóa dựa trên các kỹ năng hiện có của người dùng.",
+    "Tích hợp với CI/CD để tự động phát hiện các lỗ hổng kỹ năng trong quá trình đánh giá mã.",
+    "Xây dựng một ứng dụng di động tương tác để kiểm tra kiến thức về các kỹ năng được liệt kê."
+  ],
+  "stars": 8448,
+  "starsToday": 355,
+  "language": "Kotlin",
+  "topics": [
+    "skills"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-18T02:45:15.287Z"
+}

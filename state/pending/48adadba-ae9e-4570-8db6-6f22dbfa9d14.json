@@ -1,0 +1,36 @@
+{
+  "id": "48adadba-ae9e-4570-8db6-6f22dbfa9d14",
+  "repo": "ScrapeCreators/social-media-research-skills",
+  "url": "https://github.com/ScrapeCreators/social-media-research-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ kỹ năng AI giúp nghiên cứu mạng xã hội, thu thập bài đăng ngoại lệ, bình luận, phân tích đối thủ cạnh tranh, thư viện quảng cáo và xu hướng trên nhiều nền tảng như TikTok, Instagram, YouTube, Reddit, X, LinkedIn. Được cung cấp bởi ScrapeCreators và tương thích với Claude Code, Cursor, Codex, Gemini CLI.",
+  "usecases": [
+    "Thu thập dữ liệu bình luận người dùng để phân tích cảm xúc trên TikTok.",
+    "Thực hiện phân tích cạnh tranh bằng cách trích xuất bài đăng và quảng cáo từ đối thủ trên Instagram.",
+    "Tự động hóa quy trình nghiên cứu thị trường bằng cách tổng hợp xu hướng từ Reddit và LinkedIn."
+  ],
+  "ideas": [
+    "Tích hợp với nền tảng phân tích dữ liệu để trực quan hóa xu hướng theo thời gian thực.",
+    "Xây dựng một agent tự động gửi cảnh báo khi phát hiện các từ khóa mới nổi trên mạng xã hội.",
+    "Kết hợp với công cụ tạo nội dung để đề xuất chủ đề dựa trên dữ liệu nghiên cứu."
+  ],
+  "stars": 4043,
+  "starsToday": 103,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "claude-skills",
+    "competitor-analysis",
+    "content-marketing",
+    "cursor",
+    "influencer-marketing",
+    "market-research",
+    "social-media",
+    "social-media-research",
+    "workflow-automation"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-18T02:45:15.287Z"
+}

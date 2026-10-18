@@ -1,0 +1,23 @@
+{
+  "id": "ef6375c6-466e-475a-b680-b5a3f501e180",
+  "repo": "voidzero-dev/vite-plus",
+  "url": "https://github.com/voidzero-dev/vite-plus",
+  "category": "Build Tool/Bundler",
+  "summary": "Công cụ hợp nhất giúp đơn giản hóa quy trình phát triển web, cung cấp điểm khởi đầu và chuỗi công cụ tích hợp cho các dự án frontend hiện đại.",
+  "usecases": [
+    "Thiết lập nhanh một dự án Vite với cấu hình được tối ưu hóa sẵn cho sản xuất.",
+    "Tích hợp với các plugin tùy chỉnh để tự động hóa việc biên dịch và tối ưu hóa tài nguyên.",
+    "Sử dụng như entry point chung cho nhiều dự án web trong một tổ chức."
+  ],
+  "ideas": [
+    "Tạo một CLI plugin mở rộng hỗ trợ các framework mới nổi như Qwik hoặc Solid.",
+    "Xây dựng một giao diện người dùng bảng điều khiển để giám sát hiệu suất build.",
+    "Kết hợp với dịch vụ CI/CD để tự động trigger rebuild khi có thay đổi code."
+  ],
+  "stars": 6350,
+  "starsToday": 37,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Build-Tool-Bundler.md",
+  "createdAt": "2026-10-18T02:45:15.288Z"
+}

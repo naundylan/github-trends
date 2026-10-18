@@ -1,0 +1,23 @@
+{
+  "id": "b852e10d-7eab-49a5-a8fa-ffc1f1264143",
+  "repo": "withmarbleapp/os-taxonomy",
+  "url": "https://github.com/withmarbleapp/os-taxonomy",
+  "category": "Developer Tool",
+  "summary": "A JavaScript project focused on classifying and organizing operating system information, likely providing taxonomy data or utilities.",
+  "usecases": [
+    "Develop tools that need OS detection or classification",
+    "Integrate OS taxonomy data into analytics or logging systems",
+    "Use as a reference library for building system‑management applications"
+  ],
+  "ideas": [
+    "Create a web interface to explore OS categories interactively",
+    "Expose the taxonomy as a REST API for other services",
+    "Combine with machine‑learning models to predict OS types from logs"
+  ],
+  "stars": 5398,
+  "starsToday": 392,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-18T02:45:15.287Z"
+}

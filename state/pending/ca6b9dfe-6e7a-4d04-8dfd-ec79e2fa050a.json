@@ -1,0 +1,44 @@
+{
+  "id": "ca6b9dfe-6e7a-4d04-8dfd-ec79e2fa050a",
+  "repo": "hmjz100/LinkSwift",
+  "url": "https://github.com/hmjz100/LinkSwift",
+  "category": "Web Frontend",
+  "summary": "JavaScript userscript that extracts direct download URLs from major Chinese cloud storage services such as Baidu, Alibaba, and others.",
+  "usecases": [
+    "Quickly download files from cloud storage without manual link parsing",
+    "Integrate into browser automation scripts for batch downloading",
+    "Enhance personal download workflows with one‑click access"
+  ],
+  "ideas": [
+    "Add a popup UI to display and copy download links",
+    "Combine with a download manager to auto‑save files to local storage",
+    "Extend support to additional cloud services or custom APIs"
+  ],
+  "stars": 24396,
+  "starsToday": 1060,
+  "language": "JavaScript",
+  "topics": [
+    "aliyun-drive",
+    "baidu",
+    "baidu-netdisk",
+    "quark-netdisk",
+    "tianyi-netdisk",
+    "xunlei-netdisk",
+    "yidong-netdisk",
+    "tampermonkey",
+    "tampermonkey-script",
+    "tampermonkey-userscript",
+    "userscript",
+    "baidunetdisk",
+    "baiduyun",
+    "123pan",
+    "uc-netdisk",
+    "motrix",
+    "aria2",
+    "aliyunpan",
+    "baidupan",
+    "guangya-netdisk"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-18T02:45:15.287Z"
+}

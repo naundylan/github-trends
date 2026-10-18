@@ -1,0 +1,38 @@
+{
+  "id": "6573c814-593b-4a5a-9d32-e09de2b0e2d9",
+  "repo": "vercel/next.js",
+  "url": "https://github.com/vercel/next.js",
+  "category": "Web Framework",
+  "summary": "Next.js là một framework React hỗ trợ server-side rendering, static site generation và hybrid rendering, giúp xây dựng các ứng dụng web hiệu năng cao với trải nghiệm phát triển tối ưu.",
+  "usecases": [
+    "Xây dựng trang web blog cá nhân hoặc doanh nghiệp với hệ thống SEO tốt nhờ SSG",
+    "Phát triển ứng dụng web đa trang (multi-page) với khả năng render phía máy chủ cho nội dung động",
+    "Tạo ra các ứng dụng hybrid kết hợp cả SSG và SSR tùy theo từng trang cụ thể"
+  ],
+  "ideas": [
+    "Kết hợp Next.js với headless CMS để xây dựng nền tảng nội dung đa kênh (web, mobile) một cách nhanh chóng",
+    "Sử dụng tính năng Image Optimization và Incremental Static Regeneration của Next.js để cải thiện hiệu suất tải trang",
+    "Xây dựng dashboard admin với Next.js và TypeScript, tích hợp xác thực người dùng qua OAuth hoặc JWT"
+  ],
+  "stars": 143059,
+  "starsToday": 28,
+  "language": "JavaScript",
+  "topics": [
+    "react",
+    "server-rendering",
+    "universal",
+    "node",
+    "components",
+    "browser",
+    "nextjs",
+    "vercel",
+    "static-site-generator",
+    "hybrid",
+    "ssg",
+    "static",
+    "blog",
+    "compiler"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-18T02:45:15.288Z"
+}

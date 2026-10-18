@@ -1,0 +1,31 @@
+{
+  "id": "81d8e816-b0f0-40b6-a9cb-094cf1339850",
+  "repo": "mixelpixx/Konnect",
+  "url": "https://github.com/mixelpixx/Konnect",
+  "category": "Developer Tool",
+  "summary": "Konnect là một plugin gốc cho KiCAD, cung cấp hơn 200 công cụ thiết kế PCB (sơ đồ, bố cục, định tuyến, đánh giá thiết kế) được điều khiển bởi AI thông qua Rust, giúp người dùng dễ dàng tương tác với LLM để thiết kế mạch.",
+  "usecases": [
+    "Tạo sơ đồ và bố trí PCB tự động với hỗ trợ AI.",
+    "Thực hiện đánh giá thiết kế và phát hiện lỗi dựa trên kiến thức của LLM.",
+    "Xuất các tham số sản xuất hàng loạt từ thiết kế để chuẩn bị cho quá trình gia công."
+  ],
+  "ideas": [
+    "Tích hợp với phần mềm mô phỏng in 3D để xác minh khả năng sản xuất.",
+    "Mở rộng hỗ trợ cho các phần mềm EDA khác ngoài KiCAD.",
+    "Xây dựng một nền tảng thiết kế cộng tác dựa trên đám mây cho các nhóm kỹ sư."
+  ],
+  "stars": 1250,
+  "starsToday": 112,
+  "language": "Rust",
+  "topics": [
+    "claude",
+    "agent-skills",
+    "kicad-pcb",
+    "kicad-schematics",
+    "llm",
+    "mcp-server",
+    "mcp-tools"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-18T02:45:15.287Z"
+}

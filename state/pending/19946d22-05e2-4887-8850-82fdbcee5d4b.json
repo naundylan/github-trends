@@ -1,0 +1,33 @@
+{
+  "id": "19946d22-05e2-4887-8850-82fdbcee5d4b",
+  "repo": "elie222/rakazo",
+  "url": "https://github.com/elie222/rakazo",
+  "category": "AI Agent/Automation",
+  "summary": "rakazo là một giải pháp thay thế mã nguồn mở cho Grok Bot, cho phép người dùng chọn mô hình LLM tùy ý và triển khai trong môi trường sandbox, hỗ trợ tự host với các công nghệ hiện đại như Electron, Expo và Docker.",
+  "usecases": [
+    "Các nhà phát triển xây dựng các chatbot tùy chỉnh bằng mô hình LLM mà họ lựa chọn.",
+    "Các tổ chức self-host các agent AI để xử lý dữ liệu nhạy cảm trong môi trường riêng.",
+    "Những người yêu thích công nghệ tạo ra các trợ lý AI ngoại tuyến với giao diện người dùng trên desktop và di động."
+  ],
+  "ideas": [
+    "Tích hợp Rakazo với một cơ sở kiến thức để cung cấp các câu trả lời có ngữ cảnh và cập nhật.",
+    "Mở rộng hệ thống để hỗ trợ các plugin tùy chỉnh, cho phép thêm các hành động và tích hợp.",
+    "Phát triển một bảng điều khiển quản trị dựa trên web để giám sát và quản lý nhiều instance agent."
+  ],
+  "stars": 4472,
+  "starsToday": 153,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "chatgpt",
+    "docker",
+    "electron",
+    "expo",
+    "grok",
+    "llm",
+    "self-hosted",
+    "typescript"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-18T02:45:15.287Z"
+}
