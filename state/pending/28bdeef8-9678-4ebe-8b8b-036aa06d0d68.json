@@ -1,0 +1,41 @@
+{
+  "id": "28bdeef8-9678-4ebe-8b8b-036aa06d0d68",
+  "repo": "twentyhq/twenty",
+  "url": "https://github.com/twentyhq/twenty",
+  "category": "Web Frontend",
+  "summary": "twenty 是一个开源的、基于 AI 设计的 CRM 平台，旨在替代 Salesforce，提供现代化的客户管理和营销自动化功能。",
+  "usecases": [
+    "企业客户关系管理与销售漏斗追踪",
+    "营销活动自动化与线索处理",
+    "AI 辅助的客户洞察与个性化推荐"
+  ],
+  "ideas": [
+    "将其作为 AI 原生的客服平台，集成聊天机器人与工单系统",
+    "与现有 ERP/会计软件集成，实现业务全链路自动化",
+    "开发移动端客户访问应用，支持销售团队移动化办公"
+  ],
+  "stars": 58501,
+  "starsToday": 36,
+  "language": "TypeScript",
+  "topics": [
+    "crm",
+    "customer",
+    "graphql",
+    "marketing",
+    "react",
+    "sales",
+    "typescript",
+    "crm-system",
+    "nestjs",
+    "reactjs",
+    "web",
+    "monorepo",
+    "open-source",
+    "postgresql",
+    "good-first-issue",
+    "hacktoberfest",
+    "javascript"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-18T22:44:22.011Z"
+}

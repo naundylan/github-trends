@@ -1,0 +1,29 @@
+{
+  "id": "a9835219-8644-4fc7-99f7-96d1a526c186",
+  "repo": "mlabonne/llm-course",
+  "url": "https://github.com/mlabonne/llm-course",
+  "category": "AI/LLM",
+  "summary": "Khóa học hướng dẫn Large Language Models qua roadmaps và notebooks Colab, giúp người mới bắt đầu nắm vững các khái niệm và kỹ thuật LLM một cách tiếp cận thực hành.",
+  "usecases": [
+    "Học sinh tự nghiên cứu LLM tại Colab không cần cấu hình môi trường phức tạp.",
+    "Giảng viên tham khảo roadmaps và ví dụ code để dạy môn AI/LLM.",
+    "Nhà phát triển học习习 các mẫu notebook để nắm vững hành vi của LLM."
+  ],
+  "ideas": [
+    "Tạo nền tảng học tập thích nghi đề xuất roadmap dựa trên tiến độ và sở thích của người dùng.",
+    "Phát triển ứng dụng web hiển thị roadmap LLM tương tác với chạy mã ngay trong trình duyệt.",
+    "Tự động sinh cheat sheet và tài liệu tóm tắt từ các notebook Colab phổ biến."
+  ],
+  "stars": 83991,
+  "starsToday": 81,
+  "language": "",
+  "topics": [
+    "course",
+    "llm",
+    "machine-learning",
+    "roadmap",
+    "large-language-models"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-18T22:44:22.011Z"
+}

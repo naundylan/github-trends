@@ -1,0 +1,44 @@
+{
+  "id": "4ae0e92f-8071-4140-b2c8-efa9dd07575c",
+  "repo": "LibreChat-AI/LibreChat",
+  "url": "https://github.com/LibreChat-AI/LibreChat",
+  "category": "AI/LLM",
+  "summary": "Ứng dụng chat AI mã nguồn mở hỗ trợ nhiều mô hình LLM, tích hợp agent, code interpreter và chuyển đổi mô hình liền mạch cho mục đích tự host.",
+  "usecases": [
+    "Nhóm phát triển thay thế ChatGPT chính thức bằng giao diện self-hosting an toàn.",
+    "Doanh nghiệp triển khai chatbot nội bộ với kiểm soát dữ liệu hoàn toàn.",
+    "Người dùng tận dụng code interpreter và agent để tự động hóa tác vụ và viết code."
+  ],
+  "ideas": [
+    "Tích hợp RAG với dữ liệu nội bộ company để LibreChat trả lời câu hỏi dựa trên tài liệu riêng.",
+    "Phát triển plugin cho phép kết nối LibreChat với CRM/Helpdesk để hỗ trợ khách tự phục vụ.",
+    "Tạo môi trường đa người dùng cho các nhóm nghiên cứu AI chia sẻ cuộc hội thoại và mô hình tùy chỉnh."
+  ],
+  "stars": 45934,
+  "starsToday": 69,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "chatgpt",
+    "clone",
+    "chatgpt-clone",
+    "librechat",
+    "anthropic",
+    "claude",
+    "azure",
+    "openai",
+    "vision",
+    "google",
+    "gemini",
+    "webui",
+    "artifacts",
+    "aws",
+    "o1",
+    "deepseek",
+    "responses-api",
+    "gpt-5",
+    "mcp"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-18T22:44:22.011Z"
+}

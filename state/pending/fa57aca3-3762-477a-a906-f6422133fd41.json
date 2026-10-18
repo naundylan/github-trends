@@ -1,0 +1,21 @@
+{
+  "id": "fa57aca3-3762-477a-a906-f6422133fd41",
+  "repo": "guoyue2010/lxmusic-",
+  "url": "https://github.com/guoyue2010/lxmusic-",
+  "category": "Other",
+  "summary": "lxmusic(洛雪音乐)全网最新最全音源",
+  "usecases": [
+    "Khám phá và đánh giá guoyue2010/lxmusic- cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 6466,
+  "starsToday": 41,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-18T22:44:22.011Z"
+}

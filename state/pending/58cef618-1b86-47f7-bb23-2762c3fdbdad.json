@@ -1,0 +1,44 @@
+{
+  "id": "58cef618-1b86-47f7-bb23-2762c3fdbdad",
+  "repo": "alvinunreal/lazyskills",
+  "url": "https://github.com/alvinunreal/lazyskills",
+  "category": "CLI Tool",
+  "summary": "Công cụ CLI điều hành mission cho quản lý kỹ năng AI agents, cung cấp giao diện terminal để kiểm soát và khám phá kỹ năng.",
+  "usecases": [
+    "Quản lý tập trung nhiều kỹ năng AI agents từ một giao diện terminal",
+    "Khám phá và tổ chức khả năng agents trong các quy trình AI phức tạp",
+    "Tự động hóa tác vụ dựa trên kỹ năng thông qua lệnh dòng lệnh"
+  ],
+  "ideas": [
+    "Tích hợp với Claude Code hoặc OpenCode để điều phối kỹ năng mượt mà",
+    "Xây dựng marketplace kỹ năng trong TUI để chia sẻ kỹ năng agents",
+    "Mở rộng hỗ trợ quản lý kỹ năng remote cho các hệ thống phân tán"
+  ],
+  "stars": 555,
+  "starsToday": 107,
+  "language": "Go",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "cli",
+    "developer-tools",
+    "go",
+    "skill-management",
+    "terminal-ui",
+    "tui",
+    "coding-agents",
+    "skills",
+    "agent-tools",
+    "ai-tools",
+    "ai-workflow",
+    "command-line-tool",
+    "productivity-tools",
+    "skill-discovery",
+    "terminal-app",
+    "workflow-automation",
+    "claude-code",
+    "opencode"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-18T22:44:22.011Z"
+}

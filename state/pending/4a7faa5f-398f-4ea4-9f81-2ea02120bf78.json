@@ -1,0 +1,23 @@
+{
+  "id": "4a7faa5f-398f-4ea4-9f81-2ea02120bf78",
+  "repo": "Kruk2/jasna",
+  "url": "https://github.com/Kruk2/jasna",
+  "category": "Computer Vision",
+  "summary": "Công cụ phục hồi video sử dụng AI để giảm nhiễu, tăng độ phân giải và khôi phục chi tiết cho đoạn video.",
+  "usecases": [
+    "Khôi phục video cũ hoặc có chất lượng thấp lên độ phân giải 4K cho mục đích lưu trữ",
+    "Tăng độ sắc nét và giảm nhiễu cho video quay thực tế trong điều kiện ánh sáng kém",
+    "Xử lý tự động bộ video trước khi đưa vào pipeline huấn luyện mô hình AI"
+  ],
+  "ideas": [
+    "Xây dựng API nhận video upload và trả về phiên bản đã phục hồi qua mạng neural",
+    "Tích hợp với generative AI để hallucinate và bổ sung chi tiết mô tả cho từng khung hình",
+    "Tạo công cụ batch xử lý cho các nhà sản xuất phim độc lập để cải thiện chất lượng cũ"
+  ],
+  "stars": 2366,
+  "starsToday": 115,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-10-18T22:44:22.011Z"
+}

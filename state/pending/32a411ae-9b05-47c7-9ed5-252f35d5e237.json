@@ -1,0 +1,23 @@
+{
+  "id": "32a411ae-9b05-47c7-9ed5-252f35d5e237",
+  "repo": "NVlabs/ASPIRE",
+  "url": "https://github.com/NVlabs/ASPIRE",
+  "category": "AI Agent/Automation",
+  "summary": "Khung Python cho khám phá kỹ năng agentic trong robotics, cho phép thu nhận kỹ năng tự động và phối hợp cho hệ thống robot.",
+  "usecases": [
+    "Cho phép robot tự động khám phá và học kỹ năng mới trong môi trường động",
+    "phối hợp nhiều robotic agents bằng cách phân bổ và quản lý kỹ năng động",
+    "Kiểm tra hành vi agentic trong môi trường mô phỏng trước triển khai thực tế"
+  ],
+  "ideas": [
+    "Kết hợp với Large Language Models để khám phá và thực thi kỹ năng bằng ngôn ngữ tự nhiên",
+    "Phát triển dashboard trực quan để trực quan hóa đồ thị kỹ năng trong hệ thống robot đa",
+    "Tạo hệ thống plugin để tích hợp các module kỹ năng tùy chỉnh vào các đường ống robot hiện có"
+  ],
+  "stars": 544,
+  "starsToday": 99,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-18T22:44:22.011Z"
+}

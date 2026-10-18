@@ -1,0 +1,43 @@
+{
+  "id": "0c0906a6-a4a7-4798-8e7b-e283243950a4",
+  "repo": "mozilla-ai/otari",
+  "url": "https://github.com/mozilla-ai/otari",
+  "category": "AI/LLM",
+  "summary": "LLM gateway mã nguồn mở tương thích OpenAI, cho phép quản lý 40+ provider API keys, budgets và tracking usage qua một endpoint duy nhất.",
+  "usecases": [
+    "Chuyển đổi giữa các LLM provider (OpenAI, Anthropic, Gemini) mà không cần thay đổi code ứng dụng.",
+    "Giới hạn chi phí và theo dõi sử dụng cho các dự án hoặc team lớn.",
+    "Giúp tuân thủ chính sách bảo mật bằng cách ẩn key gốc bên dưới gateway."
+  ],
+  "ideas": [
+    "Triển khai sebagai layer routing cho AI Agent đa provider với tự động fallback khi provider down.",
+    "Kết hợp cost optimization để tự động chuyển provider dựa trên giá và performance.",
+    "Phát triển dashboard monitoring real-time usage và budget alerts cho các dự án self-hosted."
+  ],
+  "stars": 658,
+  "starsToday": 46,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "gateway",
+    "llm",
+    "ai-gateway",
+    "anthropic",
+    "api-key-management",
+    "budgets",
+    "cost-tracking",
+    "litellm-alternative",
+    "llm-gateway",
+    "llm-proxy",
+    "llm-routing",
+    "llmops",
+    "multi-provider",
+    "open-source",
+    "openai",
+    "openai-compatible",
+    "python",
+    "self-hosted"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-18T22:44:22.011Z"
+}
