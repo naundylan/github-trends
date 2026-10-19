@@ -1,0 +1,36 @@
+{
+  "id": "a143f0bb-71e6-41b8-9db8-213cc9b117d4",
+  "repo": "starship/starship",
+  "url": "https://github.com/starship/starship",
+  "category": "CLI Tool",
+  "summary": "Prompt tối thiểu, blazing-fast và vô hạn tùy chỉnh cho bất kỳ shell nào, viết bằng Rust.",
+  "usecases": [
+    "Customize terminal prompts for daily development workflow.",
+    "Provide consistent prompt experience across zsh, bash, fish, and PowerShell.",
+    "Enable prompt theming for CI dashboards and live demonstrations."
+  ],
+  "ideas": [
+    "Integrate Starship prompt themes into VS Code status bar for unified developer experience.",
+    "Build a dynamic theme switcher that adjusts prompt appearance based on time of day or system state.",
+    "Create a natural language generator for custom Starship configuration files."
+  ],
+  "stars": 60333,
+  "starsToday": 27,
+  "language": "Rust",
+  "topics": [
+    "zsh-theme",
+    "fish-theme",
+    "zsh-prompt",
+    "fish-prompt",
+    "shell-prompt",
+    "oh-my-zsh",
+    "rust",
+    "starship",
+    "zsh",
+    "powershell",
+    "fish",
+    "bash"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-19T02:45:43.408Z"
+}

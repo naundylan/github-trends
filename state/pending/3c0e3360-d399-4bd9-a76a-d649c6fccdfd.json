@@ -1,0 +1,37 @@
+{
+  "id": "3c0e3360-d399-4bd9-a76a-d649c6fccdfd",
+  "repo": "Mag1cFall/AIStudio2API",
+  "url": "https://github.com/Mag1cFall/AIStudio2API",
+  "category": "API/GraphQL",
+  "summary": "Dự án này là một proxy API Go将AI Studio Playground và Build chuyển thành API tương thích OpenAI, Anthropic và Gemini, cho phép truy cập mô hình Gemini thông qua các client chuẩn không cần thay đổi mã nguồn.",
+  "usecases": [
+    "Truy cập mô hình Gemini của Google qua các client OpenAI chuẩn không cần mã hóa API key riêng.",
+    "Tích hợp AI Studio vào các ứng dụng hiện có sử dụng SDK OpenAI/Anthropic mà không cần thay đổi logic.",
+    "Giảm chi phí và độ trễ bằng cách định tuyến yêu cầu qua proxy cục bộ trước khi gửi đến AI Studio."
+  ],
+  "ideas": [
+    "Xây dựng một nền tảng thống nhất cho nhiều provider AI (OpenAI, Anthropic, Gemini, Google AI) thông qua một API duy nhất.",
+    "Thêm hỗ trợ cho các tính năng TTS và các tính năng đặc thù của AI Studio thông qua proxy.",
+    "Phát triển một dashboard quản lý truy cập và sử dụng tài nguyên AI Studio cho nhiều dự án cùng lúc."
+  ],
+  "stars": 358,
+  "starsToday": 29,
+  "language": "Go",
+  "topics": [
+    "ai-studio",
+    "aistudio",
+    "api-proxy",
+    "camoufox",
+    "gemini",
+    "openai-api",
+    "playwright",
+    "proxy",
+    "tts",
+    "golang",
+    "google",
+    "google-gemini",
+    "api"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-19T02:45:43.408Z"
+}

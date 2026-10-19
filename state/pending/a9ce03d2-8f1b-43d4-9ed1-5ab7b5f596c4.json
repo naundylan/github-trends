@@ -1,0 +1,23 @@
+{
+  "id": "a9ce03d2-8f1b-43d4-9ed1-5ab7b5f596c4",
+  "repo": "withmarbleapp/os-taxonomy",
+  "url": "https://github.com/withmarbleapp/os-taxonomy",
+  "category": "Developer Tool",
+  "summary": "Thư viện JavaScript cung cấp taxonomy và phân loại thống nhất cho các loại hệ điều hành, giúp nhận diện và categorize môi trường OS một cách nhất quán.",
+  "usecases": [
+    "Tự động phân loại OS trong báo cáo hệ thống và monitoring",
+    "Tích hợp vào scripts DevOps để gắn tag môi trường deploy",
+    "Hỗ trợ ứng dụng cross-platform điều chỉnh hành vi dựa trên loại OS"
+  ],
+  "ideas": [
+    "Phát triển plugin cho VS Code hiển thị taxonomy OS khi hover file cấu hình",
+    "Kết hợp với CI pipelines để tự động tạo bản đồ phân bố OS cho team",
+    "Xây dựng API service taxonomy OS có thể query qua các dự án khác"
+  ],
+  "stars": 5761,
+  "starsToday": 427,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-19T02:45:43.408Z"
+}

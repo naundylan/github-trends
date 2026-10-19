@@ -1,0 +1,33 @@
+{
+  "id": "c11ab412-f435-4808-b0f5-095f14d69a31",
+  "repo": "elie222/rakazo",
+  "url": "https://github.com/elie222/rakazo",
+  "category": "AI Agent/Automation",
+  "summary": "Ứng dụng Grok Bot mã nguồn mở cho phép chọn mô hình và sandbox để tương tác và tự động hóa.",
+  "usecases": [
+    "Self-hosted AI chat assistant with model selection flexibility",
+    "Automated workflow bot for development tasks using custom LLM backends",
+    "Educational sandbox for testing and comparing different LLM models"
+  ],
+  "ideas": [
+    "Deploy as a desktop Electron app for local AI assistance",
+    "Integrate with Docker-based model runners for portable AI sandboxes",
+    "Build a marketplace of model configurations within the sandbox"
+  ],
+  "stars": 4604,
+  "starsToday": 114,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "chatgpt",
+    "docker",
+    "electron",
+    "expo",
+    "grok",
+    "llm",
+    "self-hosted",
+    "typescript"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-19T02:45:43.408Z"
+}

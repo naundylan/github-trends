@@ -1,0 +1,23 @@
+{
+  "id": "657fc198-921d-41c5-b6cb-06c2d396741a",
+  "repo": "anthropics/claude-quickstarts",
+  "url": "https://github.com/anthropics/claude-quickstarts",
+  "category": "API/GraphQL",
+  "summary": "Bộ sưu tập dự án giúp nhà phát triển nhanh chóng xây dựng ứng dụng triển khai sử dụng Claude API.",
+  "usecases": [
+    "Prototype AI-powered chat applications using Claude API",
+    "Build serverless backend services with Claude integration",
+    "Develop desktop or mobile apps with embedded Claude capabilities"
+  ],
+  "ideas": [
+    "Combine with local LLMs for hybrid AI workflows",
+    "Create starter templates for specific domains like coding assistants",
+    "Integrate with deployment platforms for instant scaling"
+  ],
+  "stars": 18657,
+  "starsToday": 370,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-19T02:45:43.408Z"
+}

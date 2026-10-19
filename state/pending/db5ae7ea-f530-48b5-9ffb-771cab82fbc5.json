@@ -1,0 +1,25 @@
+{
+  "id": "db5ae7ea-f530-48b5-9ffb-771cab82fbc5",
+  "repo": "android/skills",
+  "url": "https://github.com/android/skills",
+  "category": "Documentation/Learning Resource",
+  "summary": "Kho tàng kỹ năng và lộ trình học tập Kotlin/Android, cung cấp các chủ đề được curate để phát triển năng lực lập trình Android.",
+  "usecases": [
+    "Hướng dẫn sinh viên mới về lộ trình học Kotlin từ cơ bản đến nâng cao",
+    "Tài liệu tham khảo nhanh cho các kỹ năng Android development trong dự án thực tế",
+    "Dùng làm checklist đánh giá năng lực và định hướng nâng cao cho dev"
+  ],
+  "ideas": [
+    "Phát triển ứng dụng mobile tương tác để duyệt kỹ năng và theo dõi tiến độ học tập",
+    "Tích hợp với platform học online để gửi daily skill tip qua push notification",
+    "Tạo bot Telegram/Twitter auto-post các tip kỹ năng Android hàng ngày"
+  ],
+  "stars": 8812,
+  "starsToday": 375,
+  "language": "Kotlin",
+  "topics": [
+    "skills"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-19T02:45:43.408Z"
+}

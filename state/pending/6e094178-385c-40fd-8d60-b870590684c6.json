@@ -1,0 +1,23 @@
+{
+  "id": "6e094178-385c-40fd-8d60-b870590684c6",
+  "repo": "pollen-robotics/microduck",
+  "url": "https://github.com/pollen-robotics/microduck",
+  "category": "Embedded/IoT",
+  "summary": "Một con vịt bộ đôi nhỏ gọn dùng Rust, tập trung vào cơ học nhẹ và điều khiển động cơ chính xác.",
+  "usecases": [
+    "Nghiên cứu động học và cơ học robot cơ bản",
+    "Platform giáo dục học lập trình nhúng với Rust",
+    "Nền tảng để thử nghiệm thuật toán di chuyển tự chủ"
+  ],
+  "ideas": [
+    "Thêm cảm biến và AI để thực hiện di chuyển tự chủ trong môi trường phức tạp",
+    "Xây dựng群体 robot (swarm) từ nhiều con microduck tương tác",
+    "Dùng làm dự án maker/STEM để dạy cơ bản về robotics và lập trình Rust"
+  ],
+  "stars": 9577,
+  "starsToday": 29,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-19T02:45:43.408Z"
+}
