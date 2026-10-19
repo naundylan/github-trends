@@ -1,0 +1,21 @@
+{
+  "id": "7114b9d7-ebfc-4006-b82f-329f385ad51d",
+  "repo": "anthropics/claude-quickstarts",
+  "url": "https://github.com/anthropics/claude-quickstarts",
+  "category": "Developer Tool",
+  "summary": "Bộ sưu tập các dự án mẫu giúp lập trình viên nhanh chóng bắt đầu xây dựng và triển khai các ứng dụng thực tế sử dụng Claude API.",
+  "usecases": [
+    "Triển khai nhanh các ứng dụng có khả năng xử lý ngôn ngữ tự nhiên phức tạp bằng Claude.",
+    "Làm mẫu (boilerplate) để tích hợp khả năng suy luận của Claude vào các ứng dụng TypeScript/JavaScript hiện có."
+  ],
+  "ideas": [
+    "Phát triển một thư viện các mẫu ứng dụng chuyên biệt cho từng ngành nghề (như luật, y tế) dựa trên các quickstarts này.",
+    "Xây dựng một công cụ so sánh hiệu năng giữa các mẫu ứng dụng Claude với các mô hình AI khác để tối ưu hóa chi phí và tốc độ."
+  ],
+  "stars": 18803,
+  "starsToday": 233,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-19T16:17:09.061Z"
+}

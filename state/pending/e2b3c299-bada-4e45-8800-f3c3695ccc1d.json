@@ -1,0 +1,21 @@
+{
+  "id": "e2b3c299-bada-4e45-8800-f3c3695ccc1d",
+  "repo": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "category": "AI/LLM",
+  "summary": "A design language toolkit built for AI applications that enhances visual design consistency across AI projects.",
+  "usecases": [
+    "AI researchers can apply consistent design patterns to improve model interpretability",
+    "Designers working on AI interfaces can maintain brand consistency across multiple AI products"
+  ],
+  "ideas": [
+    "Combine with LLM frameworks to create standardized prompt templates",
+    "Use as a component library for building AI-powered UIs"
+  ],
+  "stars": 83041,
+  "starsToday": 415,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-19T16:17:09.061Z"
+}

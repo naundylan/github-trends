@@ -1,0 +1,42 @@
+{
+  "id": "d6704c1d-c2b0-4cf4-90cb-d70e85c82a78",
+  "repo": "datawhalechina/easy-vibe",
+  "url": "https://github.com/datawhalechina/easy-vibe",
+  "category": "Documentation/Learning Resource",
+  "summary": "Một khóa học hướng dẫn về 'Vibe Coding' dành cho những người xây dựng sản phẩm AI, tập trung vào việc sử dụng các công cụ low-code/no-code và AI Agent.",
+  "usecases": [
+    "Học cách xây dựng ứng dụng nhanh chóng bằng cách sử dụng các mô hình ngôn ngữ lớn (LLM) và AI Agent.",
+    "Hướng dẫn quy trình làm việc (workflow) kết hợp giữa lập trình truyền thống và tư duy điều khiển AI."
+  ],
+  "ideas": [
+    "Xây dựng một nền tảng học tập tương tác kết hợp giữa lý thuyết Vibe Coding và thực hành trực tiếp trên VS Code.",
+    "Tạo một bộ công cụ (toolkit) hỗ trợ người không chuyên lập trình có thể tạo ra các ứng dụng web cơ bản thông qua câu lệnh tự nhiên."
+  ],
+  "stars": 20020,
+  "starsToday": 235,
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "course",
+    "vibe-coding",
+    "coding",
+    "genai",
+    "low-code",
+    "no-code",
+    "programming",
+    "tutorial",
+    "vibecoding",
+    "vscode",
+    "agent",
+    "gemini",
+    "gpt",
+    "llm",
+    "nextjs",
+    "openai",
+    "workflow",
+    "mcp",
+    "deepseek"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-19T16:17:09.061Z"
+}

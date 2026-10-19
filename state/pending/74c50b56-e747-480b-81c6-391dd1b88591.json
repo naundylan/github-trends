@@ -1,0 +1,44 @@
+{
+  "id": "74c50b56-e747-480b-81c6-391dd1b88591",
+  "repo": "usestrix/strix",
+  "url": "https://github.com/usestrix/strix",
+  "category": "Security/Pentest",
+  "summary": "Strix là công cụ AI mã nguồn mở thực hiện kiểm tra xuyên thấu tự động để phát hiện và sửa chữa các lỗ hổng bảo mật trong ứng dụng.",
+  "usecases": [
+    "Tự động hóa kiểm tra an ninh ứng dụng web và API để tìm lỗ hổng trước khi triển khai.",
+    "Hỗ trợ bảo mật đội ngũ red team trong các cuộc thi CTF và bài tập kiểm tra xuyên thấu.",
+    "Tích hợp vào pipeline CI/CD để quét bảo mật liên tục trên mã nguồn."
+  ],
+  "ideas": [
+    "Kết hợp Strix với các mô hình LLM để tạo ra các cuộc tấn công tự động và đề xuất bản vá an ninh.",
+    "Phát triển plugin cho IDE để developers có thể quét bảo mật ngay lúc viết code.",
+    "Tạo báo cáo tự động về độ an ninh cho các dự án open-source nhỏ."
+  ],
+  "stars": 69912,
+  "starsToday": 476,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "artificial-intelligence",
+    "cybersecurity",
+    "penetration-testing",
+    "ai-penetration-testing",
+    "ai-pentesting",
+    "ai-security",
+    "bug-bounty",
+    "ctf-tools",
+    "cybersecurity-tools",
+    "ethical-hacking",
+    "llm-security",
+    "offensive-security",
+    "pentesting-tools",
+    "red-teaming",
+    "security-automation",
+    "security",
+    "code-quality",
+    "ai-hacking",
+    "hacking"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-19T16:17:09.061Z"
+}

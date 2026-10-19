@@ -11,7 +11,7 @@
   },
   "tt-a1i/archify": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-09"
   },
   "public-apis/public-apis": {
@@ -51,8 +51,8 @@
   },
   "usestrix/strix": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-10-04",
-    "last_saved": "2026-09-26"
+    "last_seen": "2026-10-19",
+    "last_saved": "2026-10-19"
   },
   "facebook/astryx": {
     "first_seen": "2026-07-03",
@@ -141,8 +141,8 @@
   },
   "pbakaus/impeccable": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-10-07",
-    "last_saved": "2026-09-23"
+    "last_seen": "2026-10-19",
+    "last_saved": "2026-10-19"
   },
   "coreyhaines31/marketingskills": {
     "first_seen": "2026-07-04",
@@ -316,7 +316,7 @@
   },
   "fastapi/fastapi": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-10"
   },
   "NVIDIA/SkillSpector": {
@@ -461,7 +461,7 @@
   },
   "anthropics/claude-code": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-07"
   },
   "debpalash/VoiceStudio": {
@@ -896,7 +896,7 @@
   },
   "Imbad0202/academic-research-skills": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-16"
   },
   "iv-org/invidious": {
@@ -1126,8 +1126,8 @@
   },
   "rclone/rclone": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-09-07",
-    "last_saved": "2026-09-05"
+    "last_seen": "2026-10-19",
+    "last_saved": "2026-10-19"
   },
   "Gentleman-Programming/gentle-ai": {
     "first_seen": "2026-09-05",
@@ -1291,7 +1291,7 @@
   },
   "superplanehq/superplane": {
     "first_seen": "2026-09-08",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-01"
   },
   "openai/plugins": {
@@ -1626,7 +1626,7 @@
   },
   "666ghj/MiroFish": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-06"
   },
   "multimodal-art-projection/YuE": {
@@ -1666,8 +1666,8 @@
   },
   "bobeff/open-source-games": {
     "first_seen": "2026-09-16",
-    "last_seen": "2026-09-19",
-    "last_saved": "2026-09-16"
+    "last_seen": "2026-10-19",
+    "last_saved": "2026-10-19"
   },
   "google/skills": {
     "first_seen": "2026-09-16",
@@ -1681,7 +1681,7 @@
   },
   "koala73/worldmonitor": {
     "first_seen": "2026-09-16",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-08"
   },
   "openobserve/openobserve": {
@@ -2491,7 +2491,7 @@
   },
   "pingdotgg/t3code": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-03"
   },
   "jamwithai/production-agentic-rag-course": {
@@ -2546,7 +2546,7 @@
   },
   "michael-denyer/pstack-claude": {
     "first_seen": "2026-10-04",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-04"
   },
   "webbrain-one/webbrain": {
@@ -2661,7 +2661,7 @@
   },
   "aquasecurity/trivy": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-06"
   },
   "ys-ll/uniterm": {
@@ -2676,7 +2676,7 @@
   },
   "go-gitea/gitea": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-06"
   },
   "storytold/artcraft": {
@@ -2761,7 +2761,7 @@
   },
   "martin-olivier/airgorah": {
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-08"
   },
   "microsoft/mxc": {
@@ -2796,7 +2796,7 @@
   },
   "headroomlabs-ai/headroom": {
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-09"
   },
   "hiroi-sora/Umi-OCR": {
@@ -2991,7 +2991,7 @@
   },
   "ranxianglei/billion-context": {
     "first_seen": "2026-10-13",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-13"
   },
   "Twigpine/openclaude": {
@@ -3106,12 +3106,12 @@
   },
   "livekit/livekit": {
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-15"
   },
   "danielmiessler/Fabric": {
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-15"
   },
   "surrealdb/surrealdb": {
@@ -3121,7 +3121,7 @@
   },
   "plugin87/ux-ui-agent-skills": {
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-16"
   },
   "kunchenguid/lavish-axi": {
@@ -3136,7 +3136,7 @@
   },
   "google/artemis": {
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-19",
     "last_saved": "2026-10-16"
   },
   "krillinai/OpenCreator": {
@@ -3269,27 +3269,37 @@
     "last_seen": "2026-10-19",
     "last_saved": "2026-10-18"
   },
-  "YuJunZhiXue/dsh-purge": {
+  "withmarbleapp/os-taxonomy": {
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
     "last_saved": "2026-10-19"
   },
-  "VersusControl/versus-incident": {
+  "shiyu-coder/Kronos": {
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
     "last_saved": "2026-10-19"
   },
-  "dolthub/dolt": {
+  "datawhalechina/easy-vibe": {
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
     "last_saved": "2026-10-19"
   },
-  "masterking32/MasterDnsVPN": {
+  "Friedrich-M/UniMate": {
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
     "last_saved": "2026-10-19"
   },
-  "claration/impactor": {
+  "anthropics/claude-quickstarts": {
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "last_saved": "2026-10-19"
+  },
+  "croffasia/itsaplan": {
+    "first_seen": "2026-10-19",
+    "last_seen": "2026-10-19",
+    "last_saved": "2026-10-19"
+  },
+  "strelov1/freehire": {
     "first_seen": "2026-10-19",
     "last_seen": "2026-10-19",
     "last_saved": "2026-10-19"

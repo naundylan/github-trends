@@ -1,0 +1,21 @@
+{
+  "id": "6c298280-5c93-40aa-9818-1f42e508fd5c",
+  "repo": "withmarbleapp/os-taxonomy",
+  "url": "https://github.com/withmarbleapp/os-taxonomy",
+  "category": "Operating System/Kernel",
+  "summary": "A project that creates a comprehensive taxonomy of operating systems, helping developers understand and classify different OS types for better software compatibility and management.",
+  "usecases": [
+    "Software developers can use the taxonomy to determine if their application supports multiple OS platforms",
+    "System administrators can quickly identify and categorize new operating systems they encounter"
+  ],
+  "ideas": [
+    "Integrate with package managers to automatically detect OS type during installation",
+    "Create a visualization tool showing relationships between different OS families"
+  ],
+  "stars": 5965,
+  "starsToday": 427,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Operating-System-Kernel.md",
+  "createdAt": "2026-10-19T16:17:09.061Z"
+}

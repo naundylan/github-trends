@@ -1,0 +1,44 @@
+{
+  "id": "dc5cb8ae-8583-41c8-b8d9-466ac79fa2ad",
+  "repo": "croffasia/itsaplan",
+  "url": "https://github.com/croffasia/itsaplan",
+  "category": "Developer Tool",
+  "summary": "Itsaplan là một công cụ quản lý dự án và theo dõi issue mã nguồn mở, self-hosted, thay thế Linear và Plane, cho phép teams và AI agents cùng lên kế hoạch và phát sản phẩm.",
+  "usecases": [
+    "Quản lý luồng làm việc Agile cho đội ngũ phát triển phần mềm",
+    "Theo dõi bug và quản lý sprint với sự hỗ trợ của AI",
+    "Tích hợp AI agents để tự động tạo và phân loại issue"
+  ],
+  "ideas": [
+    "Tạo dashboard cá nhân hóa cho từng thành viên team",
+    "Kết nối với các mô hình LLM để tạo dự án từ mô tả tự nhiên",
+    "Phát triển chế độ offline-first cho teams ở vùng có kết nối không ổn định"
+  ],
+  "stars": 1421,
+  "starsToday": 112,
+  "language": "TypeScript",
+  "topics": [
+    "agentic",
+    "agile",
+    "ai-agents",
+    "issue-tracker",
+    "jira-alternative",
+    "kanban",
+    "linear-alternative",
+    "open-source",
+    "product-management",
+    "project-management",
+    "roadmap",
+    "self-hosted",
+    "sprint-planning",
+    "team-collaboration",
+    "trello-alternative",
+    "bug-reporting",
+    "bug-tracker",
+    "gantt",
+    "jira",
+    "linear"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-19T16:17:09.061Z"
+}

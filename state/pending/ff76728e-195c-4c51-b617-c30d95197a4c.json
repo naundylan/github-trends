@@ -1,0 +1,23 @@
+{
+  "id": "ff76728e-195c-4c51-b617-c30d95197a4c",
+  "repo": "Friedrich-M/UniMate",
+  "url": "https://github.com/Friedrich-M/UniMate",
+  "category": "Machine Learning",
+  "summary": "UniMate là một mô hình AI đơn nhất có thể đồng bộ hóa và hoạt động với nhiều bộ xương (skeletons) khác nhau, tự động hóa quá trình hoạt hình 3D cho các nhân vật và đối tượng đa dạng.",
+  "usecases": [
+    "Hoạt hình tự động cho game và phim hoạt hình",
+    "Tạo chuyển động cho avatar trong thựcità ảo (VR/AR)",
+    "Nghiên cứu và phát triển bộ xương động cho các tác phẩm khoa học"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình tạo văn bản để điều khiển hoạt hình bằng lệnh thoại",
+    "Áp dụng trong sản xuất nội dung TikTok/YouTube tự động hóa",
+    "Phát triển plugin cho Blender để điều khiển hoạt hình bằng UniMate"
+  ],
+  "stars": 2004,
+  "starsToday": 142,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-10-19T16:17:09.061Z"
+}
