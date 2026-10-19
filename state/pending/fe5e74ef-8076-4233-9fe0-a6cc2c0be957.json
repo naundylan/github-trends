@@ -1,0 +1,29 @@
+{
+  "id": "fe5e74ef-8076-4233-9fe0-a6cc2c0be957",
+  "repo": "flizzywine/dsh-tavern",
+  "url": "https://github.com/flizzywine/dsh-tavern",
+  "category": "AI Agent/Automation",
+  "summary": "Client AI역役-play và trò chuyện dựa trên DSH, tương thích SillyTavern, hỗ trợ mọi mô hình và truy cập di động/máy tính để bàn.",
+  "usecases": [
+    "Trò chơi역ual-play AI với các thẻ nhân vật nhập khẩu từ SillyTavern.",
+    "Đợt trò chuyện AI cross-platform trên di động và máy tính để bàn.",
+    "Thử nghiệm với các mô hình LLM khác nhau cho các tình huống역play."
+  ],
+  "ideas": [
+    "Gam hóa tương tác AI agent với mục tiêu, tiến trình và kýức bền vững.",
+    "Kết hợp truy cập kiến thức thời gian thực vào diálog역play.",
+    "Xây dựng thư viện thẻ nhân vật do cộng đồng tạo với đánh giá và lọc."
+  ],
+  "stars": 1129,
+  "starsToday": 46,
+  "language": "JavaScript",
+  "topics": [
+    "dsh-plugin",
+    "sillytavern",
+    "agent",
+    "role-play",
+    "game"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-19T21:55:32.500Z"
+}

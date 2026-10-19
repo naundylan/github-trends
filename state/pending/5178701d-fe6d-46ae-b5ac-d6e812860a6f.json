@@ -1,0 +1,23 @@
+{
+  "id": "5178701d-fe6d-46ae-b5ac-d6e812860a6f",
+  "repo": "confeden/Antigravity",
+  "url": "https://github.com/confeden/Antigravity",
+  "category": "Networking",
+  "summary": "Antigravity là một công cụ viết bằng Rust giúp người dùng truy cập các dịch vụ Google từ Russia mà không cần VPN hay thay đổi vùng địa lý tài khoản Google.",
+  "usecases": [
+    "Truy cập Google Drive và Docs từ Russia mà không cần VPN",
+    "Phát triển và test ứng dụng cần mô phỏng địa lý Russia",
+    "Bypass các hạn chế vùng địa lý cho các dịch vụ Google"
+  ],
+  "ideas": [
+    "Kết hợp với plugin IDE để truy cập file Google Drive trực tiếp",
+    "Phát triển làm một dịch vụ proxy nhẹ cho các ứng dụng cần truy cập Google",
+    "Sử dụng để nghiên cứu về cơ chế phát hiện và ngăn chặn VPN/region spoofing của Google"
+  ],
+  "stars": 928,
+  "starsToday": 24,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-19T21:55:32.500Z"
+}

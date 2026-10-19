@@ -1,0 +1,28 @@
+{
+  "id": "ec62a6d3-88f7-4c87-aa99-dd6e1ea2c203",
+  "repo": "fish-shell/fish-shell",
+  "url": "https://github.com/fish-shell/fish-shell",
+  "category": "CLI Tool",
+  "summary": "Fish shell là một shell dòng lệnh thân thiện với người dùng, viết bằng Rust, cung cấp trải nghiệm tương tác hiện đại và nhiều tính năng nâng cao.",
+  "usecases": [
+    "Sử dụng làm shell mặc định cho terminal trên Linux/macOS/Windows",
+    "Scripting và tự động hóa tác vụ hệ thống với cú pháp thân thiện",
+    "Thay thế Bash/Zsh cho các tác vụ hàng ngày với hiệu năng cao"
+  ],
+  "ideas": [
+    "Tích hợp vào quy trình CI/CD để chạy các lệnh kiểm tra trên nhiều nền tảng",
+    "Tạo cấu hình shell tùy chỉnh cho team development để đồng nhất môi trường",
+    "Phát triển theme/plugin cho fish shell để tùy chỉnh trải nghiệm terminal"
+  ],
+  "stars": 34333,
+  "starsToday": 16,
+  "language": "Rust",
+  "topics": [
+    "fish",
+    "shell",
+    "terminal",
+    "rust"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-19T21:55:32.500Z"
+}

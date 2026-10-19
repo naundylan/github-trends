@@ -1,0 +1,23 @@
+{
+  "id": "1d9b2c67-8613-4c64-ade6-f1fac6e333f8",
+  "repo": "trycompai/crm",
+  "url": "https://github.com/trycompai/crm",
+  "category": "AI Agent/Automation",
+  "summary": "Comp AI CRM là CRM mã nguồn mở đầu tư Agentic-first, thiết kế riêng cho AI agents để quản lý và tương tác.",
+  "usecases": [
+    "Quản lý vòng đời và tương tác của AI agents trong môi trường doanh nghiệp.",
+    "Theo dõi và ghi lại các quyết định, hành động của agent cho mục đích tuân thủ và debug.",
+    "Tích hợp agent CRM vào quy trình bán hàng hoặc hỗ trợ khách tự động hóa."
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng orchestrate agent (LangGraph, AutoGen) để tạo CRM tự động cho các kịch bản bán hàng phức tạp.",
+    "Sử dụng làm nền tảng cho AI assistant cá nhân quản lý mối quan hệ khách hàng và lịch hẹn.",
+    "Mở rộng thành hệ thống quản lý tương tác đa-channel cho các agent AI trên các nền tảng messaging."
+  ],
+  "stars": 11505,
+  "starsToday": 54,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-19T21:55:32.500Z"
+}

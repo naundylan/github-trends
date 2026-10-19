@@ -1,0 +1,37 @@
+{
+  "id": "028b4040-540a-46ee-9a28-8743c8b1634f",
+  "repo": "Mag1cFall/AIStudio2API",
+  "url": "https://github.com/Mag1cFall/AIStudio2API",
+  "category": "AI/LLM",
+  "summary": "Dự án proxy API将把 Google AI Studio Playground và Build chuyển đổi thành các endpoint tương thích OpenAI, Anthropic và Gemini, giúp người dùng sử dụng mô hình AI Studio qua các client LLM tiêu chuẩn.",
+  "usecases": [
+    "Sử dụng mô hình AI Studio với các client OpenAI-compatible như langchain hoặc openai-python",
+    "Proxy các yêu cầu TTS và inference từ AI Studio qua các API đã biết",
+    "Đổi nhà cung cấp LLM (Anthropic, Gemini) mà không cần thay đổi code client"
+  ],
+  "ideas": [
+    "Kết hợp với AI Agent automation để tự động chuyển đổi giữa các LLM provider",
+    "Thêm layer caching cho response AI Studio để giảm latency",
+    "Mở rộng hỗ trợ cho Vercel AI SDK và các protocol AI khác"
+  ],
+  "stars": 379,
+  "starsToday": 26,
+  "language": "Go",
+  "topics": [
+    "ai-studio",
+    "aistudio",
+    "api-proxy",
+    "camoufox",
+    "gemini",
+    "openai-api",
+    "playwright",
+    "proxy",
+    "tts",
+    "golang",
+    "google",
+    "google-gemini",
+    "api"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-19T21:55:32.500Z"
+}

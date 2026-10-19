@@ -1,0 +1,44 @@
+{
+  "id": "2d9fdfbe-e7f6-443c-a850-b4fe4b076d2a",
+  "repo": "leepokai/Codync",
+  "url": "https://github.com/leepokai/Codync",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng mã nguồn mở chạy 40+ AI agent/bot trên iPhone, Mac, Windows, Linux và terminal, hỗ trợ Claude Code, Codex, Cursor và Gemini, dùng Rust đảm bảo cross-platform và self-hosted miễn phí.",
+  "usecases": [
+    "Hồ sơ AI cá nhân đa thiết bị di động và máy tính để bàn.",
+    "Hoành lý hóa AI agent từ xa cho lập trình viên mà không phụ thuộc vào đám mây.",
+    "Thực thi AI coding và bot cục bộ trên nhiều hệ điều hành khác nhau."
+  ],
+  "ideas": [
+    "Kết hợp với LLMs cục bộ/phiên bản mở để tạo mạng lưới agent hoàn toàn offline.",
+    "Xây dựng cụm agent theo lĩnh vực nhất định cho devops, nghiên cứu hoặc tác vụ sáng tạo.",
+    "Synchronize trạng thái và kýức agent giữa các thiết bị qua các giao thức phi trung tâm."
+  ],
+  "stars": 612,
+  "starsToday": 49,
+  "language": "Rust",
+  "topics": [
+    "acp",
+    "agent-client-protocol",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "ios",
+    "linux",
+    "macos",
+    "open-source",
+    "remote-desktop",
+    "rust",
+    "swiftui",
+    "electron",
+    "ai-agents",
+    "claude",
+    "cursor",
+    "gemini",
+    "grok-bot-alternative",
+    "iphone",
+    "self-hosted"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-19T21:55:32.500Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1ccae397-6d94-4b7a-9210-cff256fd5280",
+  "repo": "YuJunZhiXue/dsh-purge",
+  "url": "https://github.com/YuJunZhiXue/dsh-purge",
+  "category": "AI/LLM",
+  "summary": "Dsh-purge là một harness/plugin cho phép jailbreak và đổi prompt tùy chọn cho từng mô hình LLM, hỗ trợ tùy chỉnh hành vi cho DeepSeek và các mô hình khác.",
+  "usecases": [
+    "Tùy chỉnh prompt cho các mô hình LLM khác nhau trong cùng một ứng dụng để tối ưu hóa kết quả.",
+    "Nghiên cứu an ninh và test khả năng chống lại các chế độ bảo vệ của mô hình.",
+    "Tích hợp vào hệ thống AI để tự động hóa việc điều chỉnh hành vi mô hình theo ngữ cảnh."
+  ],
+  "ideas": [
+    "Kết hợp với framework prompt engineering để tạo ra một prompt router tự động chọn prompt phù hợp cho từng model.",
+    "Phát triển plugin cho VS Code hoặc nền tảng LLM để quản lý và chuyển đổi prompt trên fly.",
+    "Sử dụng để tạo ra các phiên bản mô hình đa ngôn ngữ hoặc đa tác vụ bằng cách swap prompt."
+  ],
+  "stars": 8652,
+  "starsToday": 423,
+  "language": "JavaScript",
+  "topics": [
+    "dsh-plugin",
+    "dsh-plugins",
+    "llm-jailbreak",
+    "harness-jailbreak",
+    "jailbreak",
+    "deepseek",
+    "deepseek-harness"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-19T21:55:32.500Z"
+}

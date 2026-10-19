@@ -1,0 +1,34 @@
+{
+  "id": "6854bbb2-e102-4be5-9baa-f12fa7e28d94",
+  "repo": "etcd-io/etcd",
+  "url": "https://github.com/etcd-io/etcd",
+  "category": "Database",
+  "summary": "Etcd là một key-value store phân tán đáng tin cậy sử dụng cho dữ liệu quan trọng của hệ thống phân tán, sử dụng thuật toán Raft để đảm bảo tính nhất quán và khả dụng.",
+  "usecases": [
+    "Lưu trữ cấu hình và trạng thái cho các cluster Kubernetes",
+    "Service discovery và load balancing trong microservices",
+    "Phân tán consensus và coordination giữa các dịch vụ"
+  ],
+  "ideas": [
+    "Sử dụng etcd làm cơ sở dữ liệu cho ứng dụng edge computing cần đồng bộ trạng thái",
+    "Kết hợp với các công cụ monitoring để tạo dashboard phân tán real-time",
+    "Xây dựng hệ thống backup tự động cho etcd cluster trên Kubernetes"
+  ],
+  "stars": 52402,
+  "starsToday": 12,
+  "language": "Go",
+  "topics": [
+    "etcd",
+    "raft",
+    "distributed-systems",
+    "kubernetes",
+    "go",
+    "database",
+    "key-value",
+    "consensus",
+    "distributed-database",
+    "cncf"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-10-19T21:55:32.500Z"
+}

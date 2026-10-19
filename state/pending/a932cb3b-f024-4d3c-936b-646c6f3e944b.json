@@ -1,0 +1,23 @@
+{
+  "id": "a932cb3b-f024-4d3c-936b-646c6f3e944b",
+  "repo": "anthropics/claude-code-action",
+  "url": "https://github.com/anthropics/claude-code-action",
+  "category": "AI/LLM",
+  "summary": "Claude-code-action là một GitHub Action cho phép tích hợp Claude (mô hình ngôn ngữ của Anthropic) vào quy trình phát triển phần mềm, giúp tự động hóa viết code, review và các tác vụ liên quan đến AI.",
+  "usecases": [
+    "Tự động tạo code hoặc hàm dựa trên yêu cầu tự nhiên trong pull requests",
+    "Giúp review code và đề xuất suggestions sử dụng Claude",
+    "Tích hợp AI vào CI/CD để sinh documentation hoặc test cases"
+  ],
+  "ideas": [
+    "Tạo một bot tự động fix issues bằng Claude trên GitHub Actions",
+    "Sử dụng để chuyển đổi code giữa các ngôn ngữ lập trình tự động",
+    "Kết hợp với các repository khác để xây dựng một AI developer hoàn chỉnh trên môi trường làm việc"
+  ],
+  "stars": 9577,
+  "starsToday": 10,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-19T21:55:32.500Z"
+}
