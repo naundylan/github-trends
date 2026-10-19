@@ -1,0 +1,31 @@
+{
+  "id": "22158708-1f3b-4c9f-a4ae-ec1d459493e0",
+  "repo": "YuJunZhiXue/dsh-purge",
+  "url": "https://github.com/YuJunZhiXue/dsh-purge",
+  "category": "AI/LLM",
+  "summary": "Công cụ jailbreak cho các mô hình ngôn ngữ lớn, cho phép thay đổi prompt để tương thích với từng mô hình, với prompt mặc định dành cho các mô hình Trung Quốc như '小码酱'.",
+  "usecases": [
+    "Bypass các giới hạn của mô hình AI để sử dụng tính năng đầy đủ.",
+    "Kiểm tra độ robust và an toàn của các mô hình ngôn ngữ.",
+    "Ứng dụng trong nghiên cứu và phát triển AI để mở rộng khả năng tương tác."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ tự động hóa để test hiệu suất mô hình.",
+    "Sử dụng trong các dự án AI cá nhân để tích hợp tính năng jailbreak.",
+    "Phát triển plugin để hỗ trợ thêm các mô hình mới."
+  ],
+  "stars": 7312,
+  "starsToday": 423,
+  "language": "JavaScript",
+  "topics": [
+    "dsh-plugin",
+    "dsh-plugins",
+    "llm-jailbreak",
+    "harness-jailbreak",
+    "jailbreak",
+    "deepseek",
+    "deepseek-harness"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-19T08:24:42.376Z"
+}

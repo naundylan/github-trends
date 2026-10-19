@@ -1,0 +1,36 @@
+{
+  "id": "c3f21c8a-e641-4339-b2f5-45a3a95ac1c5",
+  "repo": "masterking32/MasterDnsVPN",
+  "url": "https://github.com/masterking32/MasterDnsVPN",
+  "category": "Networking",
+  "summary": "Công cụ VPN dựa trên DNS tunneling viết bằng Go, giúp vượt qua kiểm duyệt mạng với độ trễ thấp và độ ổn định cao trong môi trường mất gói tin. Dự án tối ưu hóa so với DNSTT và SlipStream bằng cơ chế ARQ nhẹ và cân bằng tải resolver.",
+  "usecases": [
+    "Truy cập internet tự do trong các mạng bị chặn hoặc kiểm duyệt nghiêm ngặt.",
+    "Tạo kênh truyền dữ liệu ẩn qua DNS để bypass tường lửa doanh nghiệp hoặc công cộng.",
+    "Kết nối an toàn đến các dịch vụ nội bộ khi chỉ được phép truy xuất DNS ra ngoài."
+  ],
+  "ideas": [
+    "Kết hợp với proxy HTTP/SOCKS để tạo trình duyệt web ẩn danh qua DNS tunnel.",
+    "Phát triển plugin cho các công cụ pentest nhằm quét và khai thác lỗ hổng DNS tunneling.",
+    "Tích hợp vào thiết bị IoT để truyền lệnh điều khiển qua mạng có giới hạn chỉ cho phép DNS."
+  ],
+  "stars": 7125,
+  "starsToday": 6,
+  "language": "Go",
+  "topics": [
+    "dns-client",
+    "dns-proxy",
+    "dns-server",
+    "tunnel",
+    "vpn",
+    "dnstt",
+    "masterdnsvpn",
+    "slipstream",
+    "masterdns",
+    "dns-tunnel",
+    "dns-tunneling",
+    "dns"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-19T08:24:42.376Z"
+}

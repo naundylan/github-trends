@@ -1,0 +1,37 @@
+{
+  "id": "1bf76d3d-a555-451e-ab95-ef1bef35effa",
+  "repo": "claration/impactor",
+  "url": "https://github.com/claration/impactor",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Ứng dụng sideloading đa nền tảng cho iOS, iPadOS và tvOS, cho phép cài đặt ứng dụng ngoài App Store với nhiều tính năng phong phú, tiền thân là PlumeImpactor.",
+  "usecases": [
+    "Sideloading các ứng dụng không có trên App Store.",
+    "Cài đặt file IPA một cách dễ dàng mà không cần jailbreak.",
+    "Hỗ trợ phát triển và test ứng dụng trên các thiết bị Apple."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ signing để tăng cường bảo mật.",
+    "Tích hợp vào quy trình CI/CD cho ứng dụng di động.",
+    "Phát triển tính năng đồng bộ hóa với các dịch vụ cloud."
+  ],
+  "stars": 3525,
+  "starsToday": 16,
+  "language": "Rust",
+  "topics": [
+    "altstore",
+    "ios",
+    "ipa",
+    "ipados",
+    "livecontainer",
+    "sideload",
+    "sideloading",
+    "sideloadly",
+    "sidestore",
+    "signature",
+    "signer",
+    "signing",
+    "sideloader"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-10-19T08:24:42.376Z"
+}

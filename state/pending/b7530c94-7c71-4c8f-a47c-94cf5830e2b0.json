@@ -1,0 +1,44 @@
+{
+  "id": "b7530c94-7c71-4c8f-a47c-94cf5830e2b0",
+  "repo": "dolthub/dolt",
+  "url": "https://github.com/dolthub/dolt",
+  "category": "Database",
+  "summary": "Dolt là cơ sở dữ liệu phiên bản như Git, cho phép theo dõi, hợp nhất và quản lý thay đổi dữ liệu SQL với đầy đủ tính năng phiên bản phân tán.",
+  "usecases": [
+    "Theo dõi lịch sử thay đổi dữ liệu và khôi phục phiên bản dữ liệu cũ như quản lý code.",
+    "Phân phối và hợp nhất dữ liệu giữa các team/địa điểm khác nhau như Git phân tán.",
+    "Xây dựng ứng dụng cần audit trail dữ liệu đầy đủ (auditing, compliance)."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động tạo báo cáo thay đổi dữ liệu hoặc dự đoán xu hướng dựa trên lịch sử version.",
+    "Sử dụng làm nền tảng cho database decentralized trong các ứng dụng Web3 hoặc peer-to-peer.",
+    "Xây dựng công cụ ETL/version control cho dữ liệu mở nguồn trong các dự án dữ liệu lớn."
+  ],
+  "stars": 24678,
+  "starsToday": 13,
+  "language": "Go",
+  "topics": [
+    "database",
+    "data-version-control",
+    "data-versioning",
+    "sql",
+    "git",
+    "git-for-data",
+    "mysql",
+    "database-version-control",
+    "version-controlled-database",
+    "database-versioning",
+    "git-for-databases",
+    "decentralized-database",
+    "git-database",
+    "immutable-database",
+    "git-sql",
+    "mariadb",
+    "agent-memory",
+    "agent-memory-server",
+    "ai-agents",
+    "ai-database"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-10-19T08:24:42.376Z"
+}

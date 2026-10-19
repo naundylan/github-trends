@@ -1,0 +1,40 @@
+{
+  "id": "f6751d28-53c9-4e9e-a5b1-97872a717400",
+  "repo": "VersusControl/versus-incident",
+  "url": "https://github.com/VersusControl/versus-incident",
+  "category": "AI Agent/Automation",
+  "summary": "Versus Incident là agent AI self-hosted theo dõi hệ thống, phát hiện sự cố, cung cấp bằng chứng để team SRE điều tra và quản lý sự cố mà không cần can thiệp thủ công liên tục.",
+  "usecases": [
+    "Tự động theo dõi sức khỏe dịch vụ, ứng dụng và cluster Kubernetes, phát hiện bất thường ngay lập tức.",
+    "Cung cấp báo cáo chi tiết và bằng chứng (logs, metrics) để team SRE điều tra và giải quyết sự cố (incident).",
+    "Tích hợp với kênh thông báo (Slack, Telegram, PagerDuty) để cảnh báo on-call tự động."
+  ],
+  "ideas": [
+    "Triển khai làm agent nội bộ cho các doanh nghiệp có yêu cầu bảo mật cao, không gửi dữ liệu ra ngoài.",
+    "Kết hợp với LLM để tự động triage và gán priority cho các incident phát hiện.",
+    "Mở rộng để monitoring đa-cloud và tự động scale resources khi phát hiện bottleneck."
+  ],
+  "stars": 875,
+  "starsToday": 8,
+  "language": "Go",
+  "topics": [
+    "devops",
+    "monitoring-tool",
+    "sre",
+    "aws",
+    "on-call",
+    "pagerduty",
+    "helm",
+    "slack",
+    "golang",
+    "telegram",
+    "alert",
+    "ai",
+    "ai-agent",
+    "ai-tools",
+    "devops-agent",
+    "kubernetes"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-19T08:24:42.376Z"
+}
