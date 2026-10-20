@@ -1,0 +1,28 @@
+{
+  "id": "40995c62-f808-4f90-afca-6f22968d75f6",
+  "repo": "emdash-cms/emdash",
+  "url": "https://github.com/emdash-cms/emdash",
+  "category": "Web Framework",
+  "summary": "CMS full-stack TypeScript xây dựng trên Astro, định vị là successeur tinh thần của WordPress, cung cấp giải pháp quản lý nội dung nhanh và hiện đại.",
+  "usecases": [
+    "Xây dựng website/blog thay thế WordPress với hiệu suất cao",
+    "Quản lý nội dung cho doanh nghiệp tích hợp framework hiện đại",
+    "Nền tảng web nhanh cho dự án marketing hoặc e-commerce"
+  ],
+  "ideas": [
+    "Kết hợp headless CMS với frontend để trải nghiệm nội dung linh hoạt",
+    "Xây dựng marketplace plugin/theme tương tự WordPress nhưng trên Astro",
+    "Tích hợp AI tạo nội dung tự động vào CMS"
+  ],
+  "stars": 13825,
+  "starsToday": 48,
+  "language": "TypeScript",
+  "topics": [
+    "astro",
+    "cms",
+    "emdash",
+    "typescript"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-20T18:53:17.839Z"
+}

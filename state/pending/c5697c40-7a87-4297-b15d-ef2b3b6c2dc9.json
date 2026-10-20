@@ -1,0 +1,44 @@
+{
+  "id": "c5697c40-7a87-4297-b15d-ef2b3b6c2dc9",
+  "repo": "harry0703/MangoDisk",
+  "url": "https://github.com/harry0703/MangoDisk",
+  "category": "Desktop App",
+  "summary": "MangoDisk là ứng dụng dọn dẹp đĩa và phân tích không gian lưu trữ an toàn cho macOS, Windows, Linux với tính năng tìm file trùng lặp, quản lý ứng dụng khởi động và tối ưu hệ thống.",
+  "usecases": [
+    "Phân tích và giải phóng không gian đĩa trên máy tính cá nhân",
+    "Dọn dẹp file trùng lặp và ứng dụng không sử dụng để cải thiện hiệu suất",
+    "Quản lý mục startup để tăng tốc độ boot và giảm tài nguyên nền"
+  ],
+  "ideas": [
+    "Tích hợp báo cáo phân tích lưu lượng dữ liệu theo thời gian thực với đồ thị treemap",
+    "Phát triển module bảo mật xóa dữ liệu vĩnh viễn và khôi phục",
+    "Tạo dashboard trực quan hóa phân bố dung lượng đĩa qua nhiều thiết bị"
+  ],
+  "stars": 4381,
+  "starsToday": 86,
+  "language": "Rust",
+  "topics": [
+    "app-uninstaller",
+    "cache-cleaner",
+    "desktop-app",
+    "disk-cleaner",
+    "disk-space-analyzer",
+    "duplicate-files",
+    "large-files",
+    "macos",
+    "rust",
+    "tauri",
+    "windows",
+    "cross-platform",
+    "disk-cleanup",
+    "duplicate-finder",
+    "treemap",
+    "uninstaller",
+    "startup-manager",
+    "system-cleaner",
+    "system-optimization",
+    "linux"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-20T18:53:17.839Z"
+}

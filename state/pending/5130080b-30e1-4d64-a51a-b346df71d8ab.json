@@ -1,0 +1,44 @@
+{
+  "id": "5130080b-30e1-4d64-a51a-b346df71d8ab",
+  "repo": "macro-inc/macro",
+  "url": "https://github.com/macro-inc/macro",
+  "category": "Productivity/Personal Tool",
+  "summary": "khu vực làm việc tập trung nhất cho đội ngũ, kết hợp email, chat, docs, tasks, calls và CRM với bộ nhớ AI chung",
+  "usecases": [
+    "đội ngũ bán hàng quản lý leads và liên hệ khách hàng trực tiếp trong cùng một giao diện",
+    "phát triển nội bộ thay thế Notion/Slack cho startup muốn kiểm soát dữ liệu hoàn toàn",
+    "tự động hóa quy trình onboard khách hàng bằng AI agents có truy cập lịch chat và docs"
+  ],
+  "ideas": [
+    "tích hợp với API mở để đồng bộ dữ liệu với các công cụ CRM bên thứ ba",
+    "tính năng 'knowledge base' tự động sinh từ lịch sử chat và docs",
+    "mô hình phân quyền linh hoạt cho các nhóm dự án khác nhau"
+  ],
+  "stars": 4782,
+  "starsToday": 38,
+  "language": "Rust",
+  "topics": [
+    "office",
+    "rust",
+    "crm",
+    "linear",
+    "notion",
+    "slack",
+    "startup",
+    "startup-tools",
+    "agent",
+    "crm-system",
+    "email",
+    "messaging",
+    "workspace",
+    "ai",
+    "ai-agents",
+    "all-in-one",
+    "mcp",
+    "notes",
+    "slack-alternative",
+    "typescript"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-10-20T18:53:17.839Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "62b88c35-ae57-4b9d-abb8-c1ff159d5b28",
+  "repo": "mudler/LocalAI",
+  "url": "https://github.com/mudler/LocalAI",
+  "category": "AI/LLM",
+  "summary": "LocalAI là một engine AI mã nguồn mở cho phép chạy các mô hình LLM, thị giác, giọng nói, hình ảnh và video trên bất kỳ phần cứng nào, không cần GPU.",
+  "usecases": [
+    "Chạy LLM và tạo văn bản trên CPU/GPU cho các ứng dụng nội bộ hoặc edge devices.",
+    "Tạo hình ảnh và video bằng Stable Diffusion trên máy tính cá nhân mà không cần dịch vụ đám giá đắt tiền.",
+    "Xây dựng API cho các ứng dụng TTS và voice generation trên các thiết bị có tài nguyên hạn chế."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống phân tán libp2p để tạo ra một mạng lưới AI phân tán nơi các node đóng góp sức mạnh tính toán.",
+    "Sử dụng làm nền tảng cho AI Agent tự chủ có thể chạy trên thiết bị edge và giao tiếp với các service khác.",
+    "Tích hợp với MCP (Model Context Protocol) để cho phép các mô hình khác nhau giao tiếp và chung chung context trong cùng một quy trình."
+  ],
+  "stars": 49788,
+  "starsToday": 133,
+  "language": "Go",
+  "topics": [
+    "llama",
+    "ai",
+    "llm",
+    "stable-diffusion",
+    "api",
+    "tts",
+    "musicgen",
+    "mamba",
+    "audio-generation",
+    "image-generation",
+    "text-generation",
+    "rerank",
+    "distributed",
+    "libp2p",
+    "decentralized",
+    "object-detection",
+    "mcp",
+    "agents"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-20T18:53:17.839Z"
+}

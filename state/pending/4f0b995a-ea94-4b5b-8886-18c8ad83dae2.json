@@ -1,0 +1,44 @@
+{
+  "id": "4f0b995a-ea94-4b5b-8886-18c8ad83dae2",
+  "repo": "croffasia/itsaplan",
+  "url": "https://github.com/croffasia/itsaplan",
+  "category": "Developer Tool",
+  "summary": "Itsaplan là một giải pháp quản lý dự án và theo dõi issue mã nguồn mở, tự-hosted, thay thế Linear/Plane, cho phép đội ngũ và AI agents làm việc cùng nhau lên kế hoạch và phát sản phẩm.",
+  "usecases": [
+    "Đội ngũ phát triển phần mềm quản lý luồng work sprint, track bug và organize backlog trên self-hosted environment.",
+    "Tích hợp AI agents để tự động tạo tác vụ, prioritize backlog và tạo roadmap dựa trên tiến độ dự án.",
+    "Đội ngũ sản phẩm sử dụng kanban/gantt view để theo dõi tiến độ sản phẩm mà không phụ thuộc vào các dịch vụ thương mại như Linear hay Jira."
+  ],
+  "ideas": [
+    "Tích hợp với LocalAI (repo 1) để cho phép các AI agents trong dự án tương tác với các mô hình ngôn ngữ trực tiếp từ within the project tracker.",
+    "Tự động hóa quy trình release: khi issue được đánh dấu xong, hệ thống kích hoạt deployment pipeline và cập nhật roadmap.",
+    "Tạo dashboard cá nhân hóa cho từng thành viên team, hiển thị tác vụ gán riêng và đóng góp AI suggestions dựa trên lịch sử dự án."
+  ],
+  "stars": 1582,
+  "starsToday": 121,
+  "language": "TypeScript",
+  "topics": [
+    "agentic",
+    "agile",
+    "ai-agents",
+    "issue-tracker",
+    "jira-alternative",
+    "kanban",
+    "linear-alternative",
+    "open-source",
+    "product-management",
+    "project-management",
+    "roadmap",
+    "self-hosted",
+    "sprint-planning",
+    "team-collaboration",
+    "trello-alternative",
+    "bug-reporting",
+    "bug-tracker",
+    "gantt",
+    "jira",
+    "linear"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-20T18:53:17.839Z"
+}

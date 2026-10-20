@@ -1,0 +1,43 @@
+{
+  "id": "b8281588-a54b-4961-a5eb-ae1f6cab0b30",
+  "repo": "abus-aikorea/voice-pro",
+  "url": "https://github.com/abus-aikorea/voice-pro",
+  "category": "AI/LLM",
+  "summary": "Gradio WebUI cho creators và developers, tích hợp TTS, clone giọng nói zero-shot, xử lý Whisper, tải YouTube, cô lập Demucs và dịch multilingual.",
+  "usecases": [
+    "Tạo sách nói tự động cho nội dung creator",
+    "Clone giọng cho dubbing video và podcast",
+    "Trích xuất thoại và dịch phụ đề cho video"
+  ],
+  "ideas": [
+    "Kết hợp với avatar AI tạo video có lời tự động",
+    "Xây dựng ứng dụng karaoke AI tùy chỉnh giọng hát",
+    "Tích hợp vào workflow podcast để làm sạch âm thanh và tự động dịch"
+  ],
+  "stars": 13277,
+  "starsToday": 48,
+  "language": "Python",
+  "topics": [
+    "faster-whisper",
+    "tts",
+    "whisper",
+    "gradio",
+    "subtitles",
+    "transcription",
+    "translator",
+    "webui",
+    "speech-recognition",
+    "speech-synthesis",
+    "speech-to-text",
+    "text-to-speech",
+    "yt-dlp",
+    "voice-cloning",
+    "podcasts",
+    "audiobook",
+    "voice-conversion",
+    "karaoke",
+    "whisperx"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-20T18:53:17.839Z"
+}

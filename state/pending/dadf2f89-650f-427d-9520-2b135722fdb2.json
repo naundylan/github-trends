@@ -1,0 +1,34 @@
+{
+  "id": "dadf2f89-650f-427d-9520-2b135722fdb2",
+  "repo": "mifi/lossless-cut",
+  "url": "https://github.com/mifi/lossless-cut",
+  "category": "Desktop App",
+  "summary": "công cụ chỉnh sửa video/audio lossless kiểu 'dao kéo' trên desktop, hỗ trợ cắt, ghép và xử lý codec mà không làm hỏng chất lượng gốc",
+  "usecases": [
+    "cắt đoạn video ngắn cho social media không mất chất lượng",
+    "ghép nhiều file video/audio cùng codec một cách mượt mà",
+    "sửa đổi video gốc cho mục đích lưu trữ hoặc phát lại chính xác"
+  ],
+  "ideas": [
+    "kết hợp với ffmpeg pipelines tự động hóa batch editing cho creators",
+    "plugin cho các NLE như Premiere hay DaVinci Resolve",
+    "phiên bản CLI cho server-side processing tự động"
+  ],
+  "stars": 44777,
+  "starsToday": 47,
+  "language": "TypeScript",
+  "topics": [
+    "video",
+    "editor",
+    "ffmpeg",
+    "video-files",
+    "cut",
+    "codec",
+    "player",
+    "lossless",
+    "video-editor",
+    "losslesscut"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-20T18:53:17.839Z"
+}
