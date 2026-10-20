@@ -1,0 +1,31 @@
+{
+  "id": "9d36ac49-9fdf-4396-9d51-92e4c8f3acbb",
+  "repo": "urfave/cli",
+  "url": "https://github.com/urfave/cli",
+  "category": "CLI Tool",
+  "summary": "urfave/cli là một thư viện Go khai báo và nhanh chóng để xây dựng ứng dụng dòng lệnh (CLI), hỗ trợ định nghĩa lệnh, tùy chọn và đầu ra YAML/JSON/TOML.",
+  "usecases": [
+    "Xây dựng giao diện dòng lệnh cho ứng dụng doanh nghiệp",
+    "Tạo công cụ tự động hóa quản lý dự án",
+    "Phát triển script CLI cho các tác vụ hệ thống"
+  ],
+  "ideas": [
+    "Kết hợp với viper để quản lý cấu hình nâng cao",
+    "Tạo plugin CLI cho hệ thống monitoring",
+    "Xây dựng CLI đa nền tảng với hỗ trợ auto-completion"
+  ],
+  "stars": 24295,
+  "starsToday": 1,
+  "language": "Go",
+  "topics": [
+    "golang-library",
+    "command-line",
+    "go",
+    "yaml",
+    "cli",
+    "json",
+    "toml"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-20T08:05:08.569Z"
+}

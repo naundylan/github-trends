@@ -1,0 +1,28 @@
+{
+  "id": "275cd6c0-c476-4f92-88d8-a3013f3eaed2",
+  "repo": "moby/moby",
+  "url": "https://github.com/moby/moby",
+  "category": "Developer Tool",
+  "summary": "Moby là framework mã nguồn mở cho phép xây dựng và tùy chỉnh hệ thống dựa trên container, là nền tảng chính của Docker.",
+  "usecases": [
+    "Xây dựng và triển khai ứng dụng trong container trên môi trường production.",
+    "Tạo image container tùy cho các microservice.",
+    "Tích hợp container vào pipeline CI/CD để tự động hóa build và deploy."
+  ],
+  "ideas": [
+    "Kết hợp Moby với edge computing để triển khai container trên thiết bị có nguồn lực hạn chế.",
+    "Xây dựng hệ thống container riêng tư cho doanh nghiệp dựa trên Moby.",
+    "Sử dụng Moby để tạo sandbox cô lập cho các bài test tự động an toàn."
+  ],
+  "stars": 72208,
+  "starsToday": 4,
+  "language": "Go",
+  "topics": [
+    "docker",
+    "containers",
+    "go",
+    "golang"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-20T08:05:08.569Z"
+}
