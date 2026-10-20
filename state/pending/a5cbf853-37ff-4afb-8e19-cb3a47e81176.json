@@ -1,0 +1,28 @@
+{
+  "id": "a5cbf853-37ff-4afb-8e19-cb3a47e81176",
+  "repo": "PC2005-cloud/dsh-pet",
+  "url": "https://github.com/PC2005-cloud/dsh-pet",
+  "category": "Desktop App",
+  "summary": "DSH là ứng dụng desktop pet cho phép cài đặt nhanh bằng một lệnh và chạy các桌宠 trong suốt, tùy chỉnh kích thước, vị trí cũng như hỗ trợ nhiều tiến trình. Điểm nổi bật là chuỗi DIY tạo vật riêng từ video AI để làm pet cá nhân.",
+  "usecases": [
+    "Làm桌宠 hoạt hình để thay thế con trỏ hoặc trang trí màn hình làm việc.",
+    "Chạy nhiều pet cùng lúc với kích thước và vị trí tùy chỉnh khác nhau.",
+    "Tạo pet riêng từ video AI và chuyển thành tài nguyên hoạt hình để sử dụng."
+  ],
+  "ideas": [
+    "Tích hợp nhận dạng giọng nói và đồng bộ nửa đường miệng cho pet.",
+    "Cho pet phản ứng với trạng thái IDE, build, test hoặc thông báo hệ thống.",
+    "Xây dựng chợ chia sẻ tài nguyên và gói pet do cộng đồng tự tạo."
+  ],
+  "stars": 3059,
+  "starsToday": 505,
+  "language": "TypeScript",
+  "topics": [
+    "deepseek-harness",
+    "desktop-pet",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-20T23:37:36.240Z"
+}

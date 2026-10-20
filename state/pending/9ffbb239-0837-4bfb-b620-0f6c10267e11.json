@@ -1,0 +1,44 @@
+{
+  "id": "9ffbb239-0837-4bfb-b620-0f6c10267e11",
+  "repo": "ZSeven-W/openpencil",
+  "url": "https://github.com/ZSeven-W/openpencil",
+  "category": "UI/Component Library",
+  "summary": "Trình tạo thiết kế vector AI-native đầu tiên, cho phép chuyển đổi prompt thành giao diện UI trực tiếp trên canvas sống với đội ngũ Agent song song.",
+  "usecases": [
+    "Tự động tạo giao diện UI/UX từ prompt văn bản cho ứng dụng web và mobile",
+    "Thiết kế nhanh (rapid prototyping) cho sản phẩm sử dụng AI agent teams",
+    "Chuyển đổi thiết kế vector sang code React/Flutter tự động"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình AI để tạo hệ thống thiết kế tự học từ phản hồi người dùng",
+    "Phát triển plugin cho Figma/Sketch để đồng bộ giữa openpencil và các tool thương mại",
+    "Sử dụng để tạo template UI cho startup triển khai sản phẩm nhanh chóng"
+  ],
+  "stars": 6303,
+  "starsToday": 24,
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "ai",
+    "fimga",
+    "pencil",
+    "ui",
+    "openpencil",
+    "claude",
+    "codex",
+    "mcp",
+    "opencode",
+    "agent-team",
+    "claude-code",
+    "react",
+    "vibecoding",
+    "vibedesign",
+    "flutter",
+    "react-native",
+    "rust",
+    "skill",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-10-20T23:37:36.240Z"
+}

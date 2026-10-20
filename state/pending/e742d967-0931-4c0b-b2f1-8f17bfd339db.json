@@ -1,0 +1,44 @@
+{
+  "id": "e742d967-0931-4c0b-b2f1-8f17bfd339db",
+  "repo": "netdata/netdata",
+  "url": "https://github.com/netdata/netdata",
+  "category": "DevOps/CI-CD",
+  "summary": "Fastest path to AI-powered full stack observability, providing real-time metrics for containers, Kubernetes, and cloud environments.",
+  "usecases": [
+    "Real-time monitoring of Kubernetes clusters and container performance",
+    "Proactive alerting for infrastructure and application health",
+    "Comprehensive data-visualization for system metrics"
+  ],
+  "ideas": [
+    "Combine with Prometheus for enhanced metric aggregation and correlation",
+    "Create custom dashboards tailored to specific business applications",
+    "Integrate with Grafana for unified visualization across multiple services"
+  ],
+  "stars": 81064,
+  "starsToday": 37,
+  "language": "Go",
+  "topics": [
+    "monitoring",
+    "docker",
+    "kubernetes",
+    "cncf",
+    "prometheus",
+    "netdata",
+    "devops",
+    "observability",
+    "alerting",
+    "influxdb",
+    "grafana",
+    "data-visualization",
+    "database",
+    "linux",
+    "machine-learning",
+    "mysql",
+    "postgresql",
+    "mongodb",
+    "mcp",
+    "ai"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-20T23:37:36.240Z"
+}

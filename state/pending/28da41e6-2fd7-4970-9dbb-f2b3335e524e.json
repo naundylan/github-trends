@@ -1,0 +1,35 @@
+{
+  "id": "28da41e6-2fd7-4970-9dbb-f2b3335e524e",
+  "repo": "knadh/listmonk",
+  "url": "https://github.com/knadh/listmonk",
+  "category": "Other",
+  "summary": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+  "usecases": [
+    "Khám phá và đánh giá knadh/listmonk cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 23886,
+  "starsToday": 37,
+  "language": "Go",
+  "topics": [
+    "email-marketing",
+    "newsletter",
+    "newsletter-management",
+    "mailing-list",
+    "smtp",
+    "self-hosted",
+    "listmonk",
+    "email-subscription",
+    "campaign-management",
+    "campaign",
+    "sms-gateway",
+    "transactional-emails",
+    "newsletter-software"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-20T23:37:36.240Z"
+}

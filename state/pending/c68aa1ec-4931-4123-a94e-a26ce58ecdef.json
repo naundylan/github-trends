@@ -1,0 +1,23 @@
+{
+  "id": "c68aa1ec-4931-4123-a94e-a26ce58ecdef",
+  "repo": "withmarbleapp/os-taxonomy",
+  "url": "https://github.com/withmarbleapp/os-taxonomy",
+  "category": "Operating System/Kernel",
+  "summary": "os-taxonomy là một thư viện JavaScript để phân loại và tổ chức thông tin về hệ điều hành, cung cấp cấu trúc taxonomy cho các đặc điểm và phiên bản OS.",
+  "usecases": [
+    "Tự động hóa việc kiểm tra tương thích phần mềm trên nhiều hệ điều hành.",
+    "Hỗ trợ DevOps trong việc phân loại và báo cáo môi trường hệ điều hành.",
+    "Cung cấp dữ liệu taxonomy cho các công cụ giám sát và quản lý hạ tầng."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động gán nhãn môi trường trong pipeline.",
+    "Phát triển extension browser để phân loại OS người dùng truy cập.",
+    "Sử dụng trong các công cụ bảo mật để phát hiện phiên bản OS lỗ hổng."
+  ],
+  "stars": 6620,
+  "starsToday": 592,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Operating-System-Kernel.md",
+  "createdAt": "2026-10-20T23:37:36.240Z"
+}
