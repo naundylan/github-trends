@@ -1,0 +1,23 @@
+{
+  "id": "a0b8a335-ad4b-4b0d-9769-ed4cd34ca93d",
+  "repo": "Friedrich-M/UniMate",
+  "url": "https://github.com/Friedrich-M/UniMate",
+  "category": "Machine Learning",
+  "summary": "Mô hình machine learning thống nhất để animating các bộ phận đa dạng, được công bố tại SIGGRAPH Asia 2026.",
+  "usecases": [
+    "Áp dụng trong sản xuất phim hoạt hình để tạo animation tự động.",
+    "Hỗ trợ game developer trong việc animating nhân vật một cách hiệu quả.",
+    "Tạo animation thực tế ảo (VR) và tăng cường thực tế (AR)."
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu motion capture để nâng cao độ chính xác animation.",
+    "Sử dụng trong robotics để animating robot humanoid.",
+    "Tích hợp với các công cụ thiết kế 3D để tạo quy trình làm việc liên tục."
+  ],
+  "stars": 2025,
+  "starsToday": 128,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-10-20T02:52:58.745Z"
+}

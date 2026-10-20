@@ -1,0 +1,39 @@
+{
+  "id": "bbbb533f-446a-4dcd-9739-6c9af40603d3",
+  "repo": "gofiber/fiber",
+  "url": "https://github.com/gofiber/fiber",
+  "category": "Web Framework",
+  "summary": "Web framework nhanh cho Go, được thiết kế theo mô hình Express.js để xây dựng API và web app với hiệu suất cao.",
+  "usecases": [
+    "Xây dựng RESTful API và microservices với tốc độ và overhead thấp.",
+    "Tạo web server cho ứng dụng thời gian thực hoặc dashboard nhanh.",
+    "Phù hợp cho hackathon/hacktoberfest do tốc độ phát triển và tính dễ sử dụng."
+  ],
+  "ideas": [
+    "Xây dựng API cho mobile app hoặc frontend framework như React/Vue với tốc độ response cao.",
+    "Tích hợp với các dịch vụ cloud/serverless để xử lý request nặng.",
+    "Sử dụng làm base cho microframework tùy chỉnh hoặc hệ thống plugin mở rộng."
+  ],
+  "stars": 40225,
+  "starsToday": 4,
+  "language": "Go",
+  "topics": [
+    "go",
+    "golang",
+    "fiber",
+    "web",
+    "fast",
+    "flexible",
+    "friendly",
+    "rest-api",
+    "performance",
+    "nodejs",
+    "express",
+    "framework",
+    "expressjs",
+    "hacktoberfest",
+    "hacktoberfest2020"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-20T02:52:58.745Z"
+}

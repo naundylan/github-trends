@@ -1,0 +1,30 @@
+{
+  "id": "57dc2a19-5f25-48c2-a823-0bd0b9ff671f",
+  "repo": "simulot/immich-go",
+  "url": "https://github.com/simulot/immich-go",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh Go nhập tự động archive Google Photos Takeout vào Immich, thay thế immich-CLI không cần Node.js.",
+  "usecases": [
+    "Di chuyển thư viện ảnh từ Google Photos Takeout sang Immich mà không cần cài đặt Node.js.",
+    "Tự động hóa việc nhập ảnh cho người dùng muốn chuyển đổi từ Google Photos đến self-hosted Immich.",
+    "Chạy trên mọi hệ điều hành có Go cài đặt, phù hợp cho CI/CD hoặc script tự động."
+  ],
+  "ideas": [
+    "Kết hợp với script định kỳ để backup ảnh Instagram/Facebook sang Immich tự host.",
+    "Tạo plugin cho Immich hỗ trợ nhập liệu từ các nền tảng ảnh khác ngoài Google Photos.",
+    "Sử dụng trong môi trường có hạn chế cài phần mềm nhưng cần quản lý ảnh."
+  ],
+  "stars": 7071,
+  "starsToday": 9,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "immich-cli",
+    "google",
+    "immich",
+    "photos",
+    "takeout"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-20T02:52:58.745Z"
+}

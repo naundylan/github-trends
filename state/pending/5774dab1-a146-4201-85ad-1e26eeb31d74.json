@@ -1,0 +1,41 @@
+{
+  "id": "5774dab1-a146-4201-85ad-1e26eeb31d74",
+  "repo": "smg-project/smg",
+  "url": "https://github.com/smg-project/smg",
+  "category": "AI/LLM",
+  "summary": "LLM gateway mã nguồn mở bằng Rust cung cấp API tương thích OpenAI/Anthropic và routing cache-aware cho nhiều engine inference.",
+  "usecases": [
+    "Định tuyến yêu cầu LLM đến engine phù hợp (vLLM, TRT-LLM, SGLang) để tối ưu latency",
+    "Quản lý đa tenant và 격离 tài nguyên cho các ứng dụng AI doanh nghiệp",
+    "Cung cấp điểm chung (single endpoint) cho các ứng dụng truy cập nhiều provider LLM"
+  ],
+  "ideas": [
+    "Tích hợp plug-in WASM để tùy chỉnh logic routing tại runtime",
+    "Thêm monitoring real-time cho token usage và cost tracking theo provider",
+    "Triển khai edge deployment cho latency thấp trong môi trường multi-region"
+  ],
+  "stars": 641,
+  "starsToday": 10,
+  "language": "Rust",
+  "topics": [
+    "anthropic",
+    "claude",
+    "gemini",
+    "inference-gateway",
+    "llm",
+    "openai",
+    "routing",
+    "sglang",
+    "vllm",
+    "tensorrtllm",
+    "anthropic-api",
+    "chat",
+    "mcp",
+    "responses-api",
+    "trtllm",
+    "lightseek",
+    "tokenspeed"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-20T02:52:58.745Z"
+}

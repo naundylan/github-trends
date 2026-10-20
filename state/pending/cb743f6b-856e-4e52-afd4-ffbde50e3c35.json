@@ -1,0 +1,23 @@
+{
+  "id": "cb743f6b-856e-4e52-afd4-ffbde50e3c35",
+  "repo": "anthropics/claude-quickstarts",
+  "url": "https://github.com/anthropics/claude-quickstarts",
+  "category": "AI/LLM",
+  "summary": "Chuẩn bị các dự án mẫu giúp nhà phát triển nhanh chóng bắt đầu xây dựng ứng dụng triển khai được sử dụng API Claude, cung cấp mã nguồn và hướng dẫn tích hợp.",
+  "usecases": [
+    "Xây dựng chatbot thương mại tự động trả lời câu hỏi khách hàng.",
+    "Tích hợp khả năng AI vào các ứng dụng web để tạo nội dung động.",
+    "Tạo các workflow tự động xử lý dữ liệu văn bản với Claude API."
+  ],
+  "ideas": [
+    "Phát triển trợ lý AI cá nhân kết hợp với các dịch vụ khác như calendar, email.",
+    "Xây dựng hệ thống phân tích cảm xúc đa ngôn ngữ sử dụng Claude.",
+    "Kết hợp với LangChain để tạo các agent AI tự hành phức tạp."
+  ],
+  "stars": 18860,
+  "starsToday": 233,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-20T02:52:58.745Z"
+}

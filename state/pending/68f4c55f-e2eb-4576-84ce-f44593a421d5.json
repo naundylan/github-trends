@@ -1,0 +1,44 @@
+{
+  "id": "68f4c55f-e2eb-4576-84ce-f44593a421d5",
+  "repo": "strelov1/freehire",
+  "url": "https://github.com/strelov1/freehire",
+  "category": "Other",
+  "summary": "Freehire là công cụ tìm kiếm việc làm mã nguồn mở, cho phép tự host và thucollect tin tuyển dụng từ nhiều nguồn, xây dựng trên Go và Svelte.",
+  "usecases": [
+    "Tự host một trang tìm việc làm cho startup hoặc cộng đồng nhỏ.",
+    "Tích hợp scraper để thu thập và tổng hợp tin tuyển dụng từ nhiều trang web.",
+    "Cung cấp nền tảng tìm việc làm từ xa cho lập trình viên và kỹ sư."
+  ],
+  "ideas": [
+    "Thêm tính năng khớp ứng viên với việc làm bằng AI dựa trên kỹ năng và kinh nghiệm.",
+    "Phát triển ứng dụng mobile đồng bộ để người dùng có thể tìm việc trên điện thoại.",
+    "Tích hợp blockchain để xác minh và lưu trữ chứng chỉ kỹ năng ứng viên."
+  ],
+  "stars": 1470,
+  "starsToday": 295,
+  "language": "Go",
+  "topics": [
+    "ats",
+    "careers",
+    "hiring",
+    "job-aggregator",
+    "job-board",
+    "job-search",
+    "jobs",
+    "recruitment",
+    "remote-jobs",
+    "job-scraper",
+    "career",
+    "job-portal",
+    "golang",
+    "langchain",
+    "llm",
+    "meilisearch",
+    "postgresql",
+    "self-hosted",
+    "svelte",
+    "sveltekit"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-20T02:52:58.745Z"
+}

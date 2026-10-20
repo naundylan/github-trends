@@ -1,0 +1,44 @@
+{
+  "id": "000733da-65d5-455d-883a-62670f02703c",
+  "repo": "datawhalechina/easy-vibe",
+  "url": "https://github.com/datawhalechina/easy-vibe",
+  "category": "Documentation/Learning Resource",
+  "summary": "Khóa học cơ bản về Vibe Coding dành cho các nhà xây dựng sản phẩm AI, hướng dẫn sử dụng các công cụ AI như GPT, Gemini để lập trình low-code và no-code.",
+  "usecases": [
+    "Học cách xây dựng sản phẩm AI bằng cách sử dụng các công cụ AI để giảm thời gian phát triển.",
+    "Đào tạo đội ngũ phát triển phần mềm trong việc tích hợp AI vào quy trình làm việc.",
+    "Tạo các ứng dụng prototype nhanh chóng cho các ý tưởng sản phẩm bằng low-code."
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng học tập khác để tạo khóa học toàn diện về AI.",
+    "Sử dụng làm tài liệu tham khảo cho các dự án cá nhân hoặc nhóm.",
+    "Phát triển thành một cộng đồng chia sẻ kinh nghiệm về Vibe Coding."
+  ],
+  "stars": 20032,
+  "starsToday": 184,
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "course",
+    "vibe-coding",
+    "coding",
+    "genai",
+    "low-code",
+    "no-code",
+    "programming",
+    "tutorial",
+    "vibecoding",
+    "vscode",
+    "agent",
+    "gemini",
+    "gpt",
+    "llm",
+    "nextjs",
+    "openai",
+    "workflow",
+    "mcp",
+    "deepseek"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-20T02:52:58.745Z"
+}

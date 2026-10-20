@@ -1,0 +1,44 @@
+{
+  "id": "eb0b726d-c501-42db-82f1-2cc38ed03a08",
+  "repo": "croffasia/itsaplan",
+  "url": "https://github.com/croffasia/itsaplan",
+  "category": "AI Agent/Automation",
+  "summary": "Ứng dụng quản lý dự án mã nguồn mở self-hosted tích hợp AI agent, cho phép đội ngũ và tự động hóa làm việc cùng nhau lên kế hoạch và phát triển sản phẩm.",
+  "usecases": [
+    "Quản lý dự án và theo dõi issue với hỗ trợ tạo tác vụ bởi AI agent",
+    "Lập kế hoạch sprint và báo cáo tiến độ cộng tác giữa con người và AI",
+    "Self-hosted tracking cho đội ngũ cần kiểm soát dữ liệu và quy trình AI"
+  ],
+  "ideas": [
+    "AI agent tự động tạo roadmap và prioritize tác vụ từ luồng nhập liệu",
+    "Tích hợp AI agent với CI/CD để tự động cập nhật trạng thái build và deploy",
+    "Tạo dashboard phân tích hiệu suất đội ngũ dựa trên dữ liệu AI"
+  ],
+  "stars": 1446,
+  "starsToday": 104,
+  "language": "TypeScript",
+  "topics": [
+    "agentic",
+    "agile",
+    "ai-agents",
+    "issue-tracker",
+    "jira-alternative",
+    "kanban",
+    "linear-alternative",
+    "open-source",
+    "product-management",
+    "project-management",
+    "roadmap",
+    "self-hosted",
+    "sprint-planning",
+    "team-collaboration",
+    "trello-alternative",
+    "bug-reporting",
+    "bug-tracker",
+    "gantt",
+    "jira",
+    "linear"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-20T02:52:58.745Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "d1dbffad-345d-48f3-ad25-688535239bf3",
+  "repo": "withmarbleapp/os-taxonomy",
+  "url": "https://github.com/withmarbleapp/os-taxonomy",
+  "category": "Developer Tool",
+  "summary": "Thư viện JavaScript cung cấp taxonomy và phân loại chi tiết cho các hệ điều hành, giúp phát triển dễ dàng xác định và làm việc với loại OS trên nhiều nền tảng.",
+  "usecases": [
+    "Xác định hệ điều hành trong các script tự động hóa và CI/CD pipelines.",
+    "Phân loại môi trường triển khai cho ứng dụng cross-platform.",
+    "Hỗ trợ bảo mật bằng cách xác định phiên OS và điểm yếu tiềm năng."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ monitoring để theo dõi bản đồ phân phối OS của người dùng.",
+    "Tạo dashboard trực quan hiển thị thống kê OS dựa trên taxonomy.",
+    "Sử dụng trong phát triển game để tối ưu hóa yêu cầu hệ thống dựa trên OS."
+  ],
+  "stars": 6195,
+  "starsToday": 284,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-20T02:52:58.745Z"
+}
