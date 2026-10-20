@@ -66,7 +66,7 @@
   },
   "msitarzewski/agency-agents": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-10-05"
   },
   "santifer/career-ops": {
@@ -191,8 +191,8 @@
   },
   "openclaw/openclaw": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-10-13",
-    "last_saved": "2026-09-25"
+    "last_seen": "2026-10-20",
+    "last_saved": "2026-10-20"
   },
   "binwiederhier/ntfy": {
     "first_seen": "2026-07-05",
@@ -216,8 +216,8 @@
   },
   "nodejs/node": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-10-08",
-    "last_saved": "2026-09-23"
+    "last_seen": "2026-10-20",
+    "last_saved": "2026-10-20"
   },
   "thedotmack/claude-mem": {
     "first_seen": "2026-07-06",
@@ -536,7 +536,7 @@
   },
   "iptv-org/iptv": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-10-04"
   },
   "asciimoo/hister": {
@@ -556,8 +556,8 @@
   },
   "shy3130/tick-stock-panel": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-10-05",
-    "last_saved": "2026-09-25"
+    "last_seen": "2026-10-20",
+    "last_saved": "2026-10-20"
   },
   "pipecat-ai/pipecat": {
     "first_seen": "2026-08-25",
@@ -586,7 +586,7 @@
   },
   "QuantumNous/new-api": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-10-12"
   },
   "bjarneo/cliamp": {
@@ -671,7 +671,7 @@
   },
   "AgriciDaniel/claude-seo": {
     "first_seen": "2026-08-27",
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-09-30"
   },
   "open-webui/open-webui": {
@@ -841,7 +841,7 @@
   },
   "kubernetes/kubernetes": {
     "first_seen": "2026-08-30",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-10-17"
   },
   "k1tbyte/Wand-Enhancer": {
@@ -926,7 +926,7 @@
   },
   "golang/go": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-10-14"
   },
   "rtk-ai/rtk": {
@@ -936,8 +936,8 @@
   },
   "farion1231/cc-switch": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-10-12",
-    "last_saved": "2026-09-24"
+    "last_seen": "2026-10-20",
+    "last_saved": "2026-10-20"
   },
   "dmtrKovalenko/fff": {
     "first_seen": "2026-09-01",
@@ -1056,7 +1056,7 @@
   },
   "WorldFlowAI/everything-claude-code": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-10-03"
   },
   "Sumanth077/Hands-On-AI-Engineering": {
@@ -1456,7 +1456,7 @@
   },
   "max-sixty/worktrunk": {
     "first_seen": "2026-09-12",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-10-03"
   },
   "louislam/uptime-kuma": {
@@ -1651,7 +1651,7 @@
   },
   "anthropics/knowledge-work-plugins": {
     "first_seen": "2026-09-16",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-10-07"
   },
   "rlaope/oh-my-hermes": {
@@ -2091,7 +2091,7 @@
   },
   "longbridge/gpui-kit": {
     "first_seen": "2026-09-24",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-10-15"
   },
   "paperclipai/paperclip": {
@@ -2466,7 +2466,7 @@
   },
   "rmyndharis/OpenWA": {
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-10-02"
   },
   "LuxAlgo/Vela": {
@@ -2711,7 +2711,7 @@
   },
   "fabio-rovai/open-ontologies": {
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-10-07"
   },
   "AprilNEA/OpenLogi": {
@@ -2851,12 +2851,12 @@
   },
   "gin-gonic/gin": {
     "first_seen": "2026-10-10",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-10-10"
   },
   "larksuite/cli": {
     "first_seen": "2026-10-10",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-10-10"
   },
   "BrandonKowalski/slot": {
@@ -3236,7 +3236,7 @@
   },
   "NVlabs/ASPIRE": {
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-20",
     "last_saved": "2026-10-18"
   },
   "mozilla-ai/otari": {
@@ -3319,17 +3319,37 @@
     "last_seen": "2026-10-20",
     "last_saved": "2026-10-19"
   },
-  "helm/helm": {
+  "shiyu-coder/Kronos": {
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
     "last_saved": "2026-10-20"
   },
-  "urfave/cli": {
+  "withmarbleapp/os-taxonomy": {
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
     "last_saved": "2026-10-20"
   },
-  "moby/moby": {
+  "datawhalechina/easy-vibe": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
+    "last_saved": "2026-10-20"
+  },
+  "PC2005-cloud/dsh-pet": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
+    "last_saved": "2026-10-20"
+  },
+  "elie222/rakazo": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
+    "last_saved": "2026-10-20"
+  },
+  "strelov1/freehire": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
+    "last_saved": "2026-10-20"
+  },
+  "ModernRelay/omnigraph": {
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
     "last_saved": "2026-10-20"

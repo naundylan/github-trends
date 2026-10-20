@@ -1,0 +1,28 @@
+{
+  "id": "2c33ba29-7af2-4f43-a7b2-ebcfe9cd7db3",
+  "repo": "PC2005-cloud/dsh-pet",
+  "url": "https://github.com/PC2005-cloud/dsh-pet",
+  "category": "Desktop App",
+  "summary": "DSH 桌面宠物 是一个 TypeScript 编写的透明动画桌面宠物工具，支持一键安装、多实例、尺寸位置自定义，并内置 AI 视频 DIY 素材链，允许用户自制专属宠物。",
+  "usecases": [
+    "Thêm thú cưng trang trí trên màn hình làm việc để tăng niềm vui và giảm căng thẳng.",
+    "Tạo nhiều cửa sổ thú cưng để quản lý nhiều tác vụ hoặc hiển thị thông tin khác nhau.",
+    "Sử dụng AI video DIY để tạo hình ảnh thú cưng cá nhân hóa theo chủ đề hoặc sự kiện."
+  ],
+  "ideas": [
+    "Kết hợp DSH pet với lịch nhắc công việc để hiển thị trạng thái công việc qua biểu cảm của thú cưng.",
+    "Tích hợp DSH pet với Discord/Telegram bot để hiển thị thú cưng trực tuyến trên các nền tảng trò chuyện.",
+    "Sử dụng AI video để tạo thú cưng theo chủ đề mùa lễ hoặc sự kiện đặc biệt."
+  ],
+  "stars": 3019,
+  "starsToday": 505,
+  "language": "TypeScript",
+  "topics": [
+    "deepseek-harness",
+    "desktop-pet",
+    "dsh",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-20T14:03:48.344Z"
+}

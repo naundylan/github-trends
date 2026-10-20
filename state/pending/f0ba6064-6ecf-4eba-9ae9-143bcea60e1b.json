@@ -1,0 +1,44 @@
+{
+  "id": "f0ba6064-6ecf-4eba-9ae9-143bcea60e1b",
+  "repo": "strelov1/freehire",
+  "url": "https://github.com/strelov1/freehire",
+  "category": "Web Frontend",
+  "summary": "freehire là một công cụ tìm kiếm việc làm mã nguồn mở, hỗ trợ tìm kiếm và sàng lọc công việc từ nhiều nguồn, được xây dựng bằng Go và SvelteKit.",
+  "usecases": [
+    "Giúp người tìm việc khám phá cơ hội việc làm từ nhiều bảng việc làm và trang tuyển dụng.",
+    "Tự động hóa quá trình tìm kiếm việc làm và lọc hồ sơ dựa trên từ khóa, vị trí, mức lương.",
+    "Tích hợp freehire vào trang web công ty hoặc cổng thông tin nghề nghiệp để cung cấp công cụ tìm kiếm việc làm."
+  ],
+  "ideas": [
+    "Xây dựng một nền tảng nghề nghiệp cá nhân hóa sử dụng LLM để đề xuất công việc phù hợp dựa trên hồ sơ người dùng.",
+    "Tích hợp freehire vào hệ thống quản lý nhân sự hiện có để tự động đăng tin tuyển dụng.",
+    "Tạo một ứng dụng di động với tìm kiếm việc làm ngoại tuyến và thông báo việc làm mới."
+  ],
+  "stars": 1705,
+  "starsToday": 309,
+  "language": "Go",
+  "topics": [
+    "ats",
+    "careers",
+    "hiring",
+    "job-aggregator",
+    "job-board",
+    "job-search",
+    "jobs",
+    "recruitment",
+    "remote-jobs",
+    "job-scraper",
+    "career",
+    "job-portal",
+    "golang",
+    "langchain",
+    "llm",
+    "meilisearch",
+    "postgresql",
+    "self-hosted",
+    "svelte",
+    "sveltekit"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-20T14:03:48.344Z"
+}

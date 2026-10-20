@@ -1,0 +1,44 @@
+{
+  "id": "d722f397-4980-475f-ba54-a5196d653114",
+  "repo": "farion1231/cc-switch",
+  "url": "https://github.com/farion1231/cc-switch",
+  "category": "Desktop App",
+  "summary": "cc-switch là ứng dụng desktop cross-platform tích hợp tất cả các trợ lý AI code như Claude Code, Codex, OpenClaw, Grok Build và Hermes Agent, cung cấp giao diện thống nhất để quản lý và chuyển đổi giữa các provider.",
+  "usecases": [
+    "Chuyển đổi giữa nhiều AI code assistant trong cùng một giao diện.",
+    "Quản lý và so sánh kết quả từ các provider AI cho tác vụ code.",
+    "Hỗ trợ phát triển trên WSL/terminal với môi trường cross-platform."
+  ],
+  "ideas": [
+    "Thêm hệ thống plugin cho các provider AI mới.",
+    "Tính năng đồng bộ lịch sử hội thoại lên đám mây.",
+    "Chế độ AI router tự động chọn provider phù hợp nhất."
+  ],
+  "stars": 146715,
+  "starsToday": 508,
+  "language": "Rust",
+  "topics": [
+    "ai-tools",
+    "claude-code",
+    "desktop-app",
+    "open-source",
+    "rust",
+    "tauri",
+    "codex",
+    "mcp",
+    "provider-management",
+    "wsl-support",
+    "opencode",
+    "skills",
+    "skills-management",
+    "openclaw",
+    "openclaw-ui",
+    "hermes",
+    "hermes-agent",
+    "grok",
+    "grokbuild",
+    "pi"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-20T14:03:48.344Z"
+}

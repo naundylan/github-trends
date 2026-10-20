@@ -1,0 +1,33 @@
+{
+  "id": "6ae01cd8-bc07-4783-bf64-8b610ed3f672",
+  "repo": "nodejs/node",
+  "url": "https://github.com/nodejs/node",
+  "category": "Developer Tool",
+  "summary": "JavaScript runtime thực thi mã trên Linux, macOS và Windows, là nền tảng chính cho phát triển server-side và ứng dụng mạng.",
+  "usecases": [
+    "Chạy JavaScript ngoài môi trường trình duyệt để tạo ứng dụng server-side",
+    "Xây dựng CLI tools và scripts tự động hóa cho quy trình phát triển",
+    "Tạo mạng lưới và ứng dụng real-time với built-in networking capabilities"
+  ],
+  "ideas": [
+    "Kết hợp runtime với AI/LLM agents để thực thi code động an toàn",
+    "Deploy Node.js runtime trên edge computing platforms để latency thấp",
+    "Tích hợp với WebAssembly cho hiệu năng cross-platform cao hơn"
+  ],
+  "stars": 122528,
+  "starsToday": 144,
+  "language": "JavaScript",
+  "topics": [
+    "nodejs",
+    "javascript",
+    "node",
+    "js",
+    "runtime",
+    "mit",
+    "linux",
+    "macos",
+    "windows"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-20T14:03:48.344Z"
+}

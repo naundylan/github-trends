@@ -1,0 +1,35 @@
+{
+  "id": "01f6b657-ee06-4e07-9891-ec4e2141f053",
+  "repo": "ModernRelay/omnigraph",
+  "url": "https://github.com/ModernRelay/omnigraph",
+  "category": "Database",
+  "summary": "Database graph native object-storage với branching và typed ontology, xây dựng trên Apache Arrow, DataFusion và Lance để hỗ trợ versioning và context-graph.",
+  "usecases": [
+    "Quản lý knowledge graph với versioning tự động cho dữ liệu thay đổi",
+    "Phân tích dữ liệu khoa học trên lakehouse với performance Arrow-native",
+    "Xây dựng ứng dụng context-aware graph như một version control cho dữ liệu phức tạp"
+  ],
+  "ideas": [
+    "Kết hợp MCP (Model Context Protocol) để cung cấp graph database cho AI agents",
+    "Phân tán branching cho collaborative data science giữa nhiều team",
+    "Export graph state ra S3 cho backup và recovery cross-environment"
+  ],
+  "stars": 1529,
+  "starsToday": 173,
+  "language": "Rust",
+  "topics": [
+    "apache-arrow",
+    "datafusion",
+    "graph-database",
+    "knowledge-graph",
+    "lakehouse",
+    "lance",
+    "mcp",
+    "rust",
+    "s3",
+    "versioning",
+    "context-graph"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-10-20T14:03:48.344Z"
+}

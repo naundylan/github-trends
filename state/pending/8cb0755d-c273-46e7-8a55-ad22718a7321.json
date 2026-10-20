@@ -1,0 +1,23 @@
+{
+  "id": "8cb0755d-c273-46e7-8a55-ad22718a7321",
+  "repo": "withmarbleapp/os-taxonomy",
+  "url": "https://github.com/withmarbleapp/os-taxonomy",
+  "category": "Developer Tool",
+  "summary": "Một thư viện taxonomy về hệ điều hành, giúp phân loại và tổ chức thông tin hệ điều hành cho mục đích phát triển phần mềm.",
+  "usecases": [
+    "Phân loại hệ điều hành trong công cụ tự động hóa",
+    "Hỗ trợ tương thích phần mềm đa nền tảng",
+    "Tạo báo cáo thống kê về phân phối hệ điều hành"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động kiểm tra môi trường",
+    "Phát triển plugin cho code editor hiển thị taxonomy",
+    "Sử dụng làm cơ sở dữ liệu cho nghiên cứu hệ điều hành"
+  ],
+  "stars": 6488,
+  "starsToday": 592,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-20T14:03:48.344Z"
+}

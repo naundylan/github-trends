@@ -1,0 +1,31 @@
+{
+  "id": "09833a59-64f1-4811-aa92-48b1065686c3",
+  "repo": "openclaw/openclaw",
+  "url": "https://github.com/openclaw/openclaw",
+  "category": "AI Agent/Automation",
+  "summary": "OpenClaw là framework AI Agent tự hành cross-platform, cho phép tự động hóa tác vụ và tương tác với dữ liệu cá nhân trên mọi hệ điều hành.",
+  "usecases": [
+    "Tự động hóa tác vụ lặp đi lặp lại trên desktop và server.",
+    "Trợ lý AI cá nhân quản lý lịch trình và dữ liệu riêng.",
+    "Tích hợp với hệ thống bên ngoài để thực hiện hành động thực tế."
+  ],
+  "ideas": [
+    "Kết hợp với home automation để điều khiển thiết bị thông minh.",
+    "Phát triển 'second brain' tự động ghi chép và phân loại thông tin.",
+    "Tạo plugin cho code editor để AI tự viết và sửa code."
+  ],
+  "stars": 392961,
+  "starsToday": 568,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "assistant",
+    "own-your-data",
+    "personal",
+    "crustacean",
+    "molty",
+    "openclaw"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-20T14:03:48.344Z"
+}

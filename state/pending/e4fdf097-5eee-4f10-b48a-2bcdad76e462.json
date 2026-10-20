@@ -1,0 +1,44 @@
+{
+  "id": "e4fdf097-5eee-4f10-b48a-2bcdad76e462",
+  "repo": "datawhalechina/easy-vibe",
+  "url": "https://github.com/datawhalechina/easy-vibe",
+  "category": "Documentation/Learning Resource",
+  "summary": "Easy-vibe là khoá học miễn phí hướng dẫn người mới bắt đầu xây dựng sản phẩm AI từ zero, với phương pháp vibe coding sử dụng Next.js, Gemini, GPT và các công cụ low-code/no-code.",
+  "usecases": [
+    "Người mới bắt đầu có thể tạo ra sản phẩm AI mà không cần kiến thức sâu về lập trình.",
+    "Giáo viên và cộng đồng có thể dùng làm tài liệu hướng dẫn dự án AI nhanh chóng.",
+    "Lập trình viên có thể làm nhanh prototype cho các ứng dụng AI tích hợp LLM."
+  ],
+  "ideas": [
+    "Phát triển thành platform học tập tương tác với các bài tập tự động và đánh giá.",
+    "Kết hợp với GitHub Codespaces để người dùng code ngay trong trình duyệt.",
+    "Tạo bộ mẫu starter kit cho các dự án AI vibe coding theo hướng tiếp cận."
+  ],
+  "stars": 20048,
+  "starsToday": 184,
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "course",
+    "vibe-coding",
+    "coding",
+    "genai",
+    "low-code",
+    "no-code",
+    "programming",
+    "tutorial",
+    "vibecoding",
+    "vscode",
+    "agent",
+    "gemini",
+    "gpt",
+    "llm",
+    "nextjs",
+    "openai",
+    "workflow",
+    "mcp",
+    "deepseek"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-20T14:03:48.344Z"
+}
