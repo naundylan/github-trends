@@ -1,0 +1,27 @@
+{
+  "id": "d467b16b-2652-4485-b561-5c6c66a58516",
+  "repo": "luongnv89/claude-howto",
+  "url": "https://github.com/luongnv89/claude-howto",
+  "category": "AI/LLM",
+  "summary": "Hướng dẫn trực quan và dựa trên ví dụ cho Claude Code, từ các khái niệm cơ bản đến các agent nâng cao, cung cấp các mẫu copy-paste mang lại giá trị tức thời.",
+  "usecases": [
+    "Học cách sử dụng Claude Code để tự động hóa viết code.",
+    "Sử dụng các template để nhanh tạo dự án hoặc tính năng.",
+    "Hiểu cấu trúc và khả năng của các AI agent trong phát triển software."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động review code.",
+    "Tạo tutorial riêng cho team nội bộ về prompt engineering cho Claude Code.",
+    "Phát triển extension cho VS Code tích hợp các template này."
+  ],
+  "stars": 42452,
+  "starsToday": 429,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "guide",
+    "tutorial"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-21T14:20:08.291Z"
+}

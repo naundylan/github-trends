@@ -1,0 +1,35 @@
+{
+  "id": "61d202bc-1a4b-4f6e-b284-5e65a1df9a64",
+  "repo": "shaobeichen/dsh-pocket",
+  "url": "https://github.com/shaobeichen/dsh-pocket",
+  "category": "Developer Tool",
+  "summary": "Dsh-pocket cho phép chạy web server DeepSeek Harness trên máy tính và truy cập qua mã QR trên điện thoại, hỗ trợ LAN và công cộng với đồng bộ màn hình thời thực.",
+  "usecases": [
+    "Kiểm tra ứng dụng web trên điện thoại mà không cần deploy",
+    "Truy cập cục bộ (localhost) từ xa qua tunnel và QR code",
+    "Đồng bộ development environment giữa desktop và mobile"
+  ],
+  "ideas": [
+    "Tích hợp với ngrok-like tunnel services để tăng bảo mật",
+    "Phát triển app quản lý QR cho nhiều service cùng lúc",
+    "Sử dụng cho remote debugging trên thiết bị thực"
+  ],
+  "stars": 2153,
+  "starsToday": 189,
+  "language": "JavaScript",
+  "topics": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "mobile",
+    "qr",
+    "remote",
+    "tunnel",
+    "deepseek",
+    "deepseek-harness-plugin",
+    "dsh-plugin-market",
+    "dsh-plugins"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-21T14:20:08.291Z"
+}

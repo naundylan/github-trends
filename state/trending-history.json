@@ -11,7 +11,7 @@
   },
   "tt-a1i/archify": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-09"
   },
   "public-apis/public-apis": {
@@ -51,7 +51,7 @@
   },
   "usestrix/strix": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-19"
   },
   "facebook/astryx": {
@@ -396,7 +396,7 @@
   },
   "openai/codex": {
     "first_seen": "2026-07-09",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-09"
   },
   "multica-ai/andrej-karpathy-skills": {
@@ -431,7 +431,7 @@
   },
   "Panniantong/Agent-Reach": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-05"
   },
   "anomalyco/opencode": {
@@ -506,7 +506,7 @@
   },
   "tashfeenahmed/freellmapi": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-05"
   },
   "Anil-matcha/Open-Generative-AI": {
@@ -641,8 +641,8 @@
   },
   "github/spec-kit": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-10-01",
-    "last_saved": "2026-09-30"
+    "last_seen": "2026-10-21",
+    "last_saved": "2026-10-21"
   },
   "makeplane/plane": {
     "first_seen": "2026-08-26",
@@ -1186,7 +1186,7 @@
   },
   "ollama/ollama": {
     "first_seen": "2026-09-06",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-03"
   },
   "nklmilojevic/sofka": {
@@ -1226,7 +1226,7 @@
   },
   "k2-fsa/OmniVoice": {
     "first_seen": "2026-09-07",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-18"
   },
   "vinta/awesome-python": {
@@ -1681,7 +1681,7 @@
   },
   "koala73/worldmonitor": {
     "first_seen": "2026-09-16",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-08"
   },
   "openobserve/openobserve": {
@@ -1706,7 +1706,7 @@
   },
   "cline/cline": {
     "first_seen": "2026-09-17",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-17"
   },
   "arnegiacomo/fugleramme": {
@@ -1716,7 +1716,7 @@
   },
   "supabase/supabase": {
     "first_seen": "2026-09-17",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-14"
   },
   "freeCodeCamp/freeCodeCamp": {
@@ -1731,7 +1731,7 @@
   },
   "multica-ai/multica": {
     "first_seen": "2026-09-17",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-09"
   },
   "yyjeqhc/webcodex": {
@@ -2151,8 +2151,8 @@
   },
   "openbao/openbao": {
     "first_seen": "2026-09-26",
-    "last_seen": "2026-09-29",
-    "last_saved": "2026-09-26"
+    "last_seen": "2026-10-21",
+    "last_saved": "2026-10-21"
   },
   "microsoft/vscode": {
     "first_seen": "2026-09-26",
@@ -2296,8 +2296,8 @@
   },
   "citrolabs/ego-lite": {
     "first_seen": "2026-09-29",
-    "last_seen": "2026-10-14",
-    "last_saved": "2026-09-29"
+    "last_seen": "2026-10-21",
+    "last_saved": "2026-10-21"
   },
   "vllm-project/semantic-router": {
     "first_seen": "2026-09-29",
@@ -2571,7 +2571,7 @@
   },
   "google/gvisor": {
     "first_seen": "2026-10-04",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-04"
   },
   "nkaz001/hftbacktest": {
@@ -2586,7 +2586,7 @@
   },
   "tursodatabase/turso": {
     "first_seen": "2026-10-04",
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-04"
   },
   "tester-army/e2e": {
@@ -2666,7 +2666,7 @@
   },
   "ys-ll/uniterm": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-06"
   },
   "owasp-amass/amass": {
@@ -2701,7 +2701,7 @@
   },
   "trycua/cua": {
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-07"
   },
   "eolix/photosuite": {
@@ -3251,7 +3251,7 @@
   },
   "twentyhq/twenty": {
     "first_seen": "2026-10-18",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-21",
     "last_saved": "2026-10-18"
   },
   "heartleo/zlib": {
@@ -3369,52 +3369,42 @@
     "last_seen": "2026-10-21",
     "last_saved": "2026-10-20"
   },
-  "emdash-cms/emdash": {
+  "vllm-project/vllm": {
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
     "last_saved": "2026-10-21"
   },
-  "helm/helm": {
+  "shaobeichen/dsh-pocket": {
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
     "last_saved": "2026-10-21"
   },
-  "gosom/google-maps-scraper": {
+  "luongnv89/claude-howto": {
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
     "last_saved": "2026-10-21"
   },
-  "samber/cc-skills-golang": {
+  "croffasia/itsaplan": {
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
     "last_saved": "2026-10-21"
   },
-  "hashicorp/vault": {
+  "ItzCrazyKns/Vane": {
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
     "last_saved": "2026-10-21"
   },
-  "kenn-io/agentsview": {
+  "Asymptote-Labs/agent-beacon": {
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
     "last_saved": "2026-10-21"
   },
-  "goharbor/harbor": {
+  "mudler/LocalAI": {
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
     "last_saved": "2026-10-21"
   },
-  "macro-inc/macro": {
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-10-21",
-    "last_saved": "2026-10-21"
-  },
-  "Jamailar/Beav": {
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-10-21",
-    "last_saved": "2026-10-21"
-  },
-  "agentgateway/agentgateway": {
+  "harry0703/MangoDisk": {
     "first_seen": "2026-10-21",
     "last_seen": "2026-10-21",
     "last_saved": "2026-10-21"

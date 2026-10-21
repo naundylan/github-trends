@@ -1,0 +1,42 @@
+{
+  "id": "55698356-25f8-4db9-a1eb-46e7d76dfc35",
+  "repo": "mudler/LocalAI",
+  "url": "https://github.com/mudler/LocalAI",
+  "category": "AI/LLM",
+  "summary": "Mô hình AI mã nguồn mở chạy trên bất kỳ phần cứng nào không cần GPU, hỗ trợ LLMs, thị giác, giọng nói, hình ảnh và video.",
+  "usecases": [
+    "Chạy LLM cục bộ trên máy tính hoặc server để giữ dữ liệu nhạy cảm không rời khỏi môi trường nội bộ.",
+    "Cung cấp API sinh giọng (TTS) và nhạc cho ứng dụng mà không cần gọi dịch vụ đám mây.",
+    "Triển khai mô hình detection hoặc phân loại hình ảnh cho các thiết bị biên (edge) với tài nguyên hạn chế."
+  ],
+  "ideas": [
+    "Xây dựng 'AI assistant' hoàn toàn riêng tư chạy trên thiết bị cá nhân cho công việc và giải trí.",
+    "Sử dụng làm engine cho các ứng dụng desktop/mobile offline xử lý ngôn ngữ và hình ảnh cùng lúc.",
+    "Phát triển hệ thống phân tán sử dụng libp2p để chia sẻ tải tính toán AI across nhiều máy tính trong mạng lân cận."
+  ],
+  "stars": 49826,
+  "starsToday": 126,
+  "language": "Go",
+  "topics": [
+    "llama",
+    "ai",
+    "llm",
+    "stable-diffusion",
+    "api",
+    "tts",
+    "musicgen",
+    "mamba",
+    "audio-generation",
+    "image-generation",
+    "text-generation",
+    "rerank",
+    "distributed",
+    "libp2p",
+    "decentralized",
+    "object-detection",
+    "mcp",
+    "agents"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-21T14:20:08.291Z"
+}

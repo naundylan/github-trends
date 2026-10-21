@@ -1,0 +1,34 @@
+{
+  "id": "3f117c24-ce0f-42d7-931c-31b54dc8bfea",
+  "repo": "citrolabs/ego-lite",
+  "url": "https://github.com/citrolabs/ego-lite",
+  "category": "AI Agent/Automation",
+  "summary": "Trình duyệt nhẹ cho AI agents thực hiện tự động hóa browser, cho phép chia sẻ trạng thái browser đã đăng nhập với AI như Codex hoặc Claude Code mà không làm phiền người dùng. Không chi phí, không cấu hình.",
+  "usecases": [
+    "AI agents tự động thực hiện tác vụ lướt web (điền form, click, scrape) mà không can thiệp người dùng.",
+    "Chia sẻ phiên browser đã đăng nhập để AI tiếp tục tác vụ trên thiết bị khác.",
+    "Tự động hóa quy trình làm việc cho phát triển hoặc marketing mà không cần setup phức tạp."
+  ],
+  "ideas": [
+    "Kết hợp với Claude Code để tự động test web apps thông qua browser.",
+    "Phát triển plugin cho phép AI agents quản lý nhiều session browser cùng lúc.",
+    "Sử dụng cho tự động hóa marketing/ads placement qua browser."
+  ],
+  "stars": 18445,
+  "starsToday": 427,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "ai-agent",
+    "skills-sh",
+    "skills",
+    "browser",
+    "browser-automation",
+    "automation",
+    "claude-code",
+    "codex",
+    "hermes-agent"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-21T14:20:08.291Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "6359928b-90af-4c14-a785-101b69144ab1",
+  "repo": "vllm-project/vllm",
+  "url": "https://github.com/vllm-project/vllm",
+  "category": "AI/LLM",
+  "summary": "Trình inference và máy chủ phục vụ LLM cao throughput và tiết kiệm bộ nhớ, tối ưu hóa hiệu suất cho các mô hình ngôn ngữ lớn.",
+  "usecases": [
+    "Phục vụ các model LLM trong ứng dụng chatbot với latency thấp.",
+    "Triển khai serving cho các mô hình open-source trên GPU/TPU trong môi trường sản xuất."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quantization để giảm chi phí inference trên phần cứng tiêu dùng.",
+    "Phát triển API gateway tự động scale cho các model LLM theo demanda."
+  ],
+  "stars": 94713,
+  "starsToday": 439,
+  "language": "Python",
+  "topics": [
+    "gpt",
+    "llm",
+    "pytorch",
+    "model-serving",
+    "transformer",
+    "llm-serving",
+    "inference",
+    "llama",
+    "amd",
+    "cuda",
+    "tpu",
+    "deepseek",
+    "qwen",
+    "blackwell",
+    "deepseek-v3",
+    "gpt-oss",
+    "kimi",
+    "moe",
+    "openai",
+    "qwen3"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-21T14:20:08.291Z"
+}

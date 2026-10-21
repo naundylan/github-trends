@@ -1,0 +1,42 @@
+{
+  "id": "f0e8ef92-7eec-4c96-a22f-7884d2c829d7",
+  "repo": "Asymptote-Labs/agent-beacon",
+  "url": "https://github.com/Asymptote-Labs/agent-beacon",
+  "category": "AI Agent/Automation",
+  "summary": "Lớp bộ nhớ tự cải thiện xuyên suốt cho các AI agent, cung cấp lớp nền tảng quản lý trạng thái và triệt để cho các tác vụ an ninh và tự động hóa.",
+  "usecases": [
+    "Quản lý bộ nhớ và trạng thái cho các AI agent chạy trên nhiều nền tảng.",
+    "Tích hợp với các công cụ CLI và trình duyệt để theo dõi và bảo mật hành vi agent."
+  ],
+  "ideas": [
+    "Kết hợp với các hệ thống SIEM để phân tích dấu hiệu xâm nhập dựa trên hành vi agent.",
+    "Phát triển plugin cho các framework AI hiện có như Claude Code hay Cursor để mở rộng khả năng tự học."
+  ],
+  "stars": 2320,
+  "starsToday": 447,
+  "language": "Go",
+  "topics": [
+    "security-tools",
+    "agent-ai-cli",
+    "agent-security",
+    "mobile-device-management",
+    "security-information-and-event-management",
+    "security",
+    "ci",
+    "cloud",
+    "claude-code",
+    "codex",
+    "cursor",
+    "detection-engineering",
+    "browser-extension",
+    "agent-harnesses",
+    "jev",
+    "knowledge-base",
+    "memory",
+    "observability",
+    "telemetry",
+    "traces"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-21T14:20:08.291Z"
+}
