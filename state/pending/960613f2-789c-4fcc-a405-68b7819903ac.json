@@ -1,0 +1,34 @@
+{
+  "id": "960613f2-789c-4fcc-a405-68b7819903ac",
+  "repo": "mifi/lossless-cut",
+  "url": "https://github.com/mifi/lossless-cut",
+  "category": "Desktop App",
+  "summary": "Phần mềm cắt ghép video/audio lossless chuyên nghiệp, hoạt động như 'dao bì đa năng' cho việc xử lý tệp video và âm thanh mà không làm giảm chất lượng.",
+  "usecases": [
+    "Cắt và ghép video không mất chất lượng cho sản xuất phim và truyền hình.",
+    "Trích xuất đoạn audio từ video để chỉnh sửa riêng lẻ mà không nén lại.",
+    "Tạo preview nhanh video cho các dự ánตัด dựng cần độ chính xác cao."
+  ],
+  "ideas": [
+    "Kết hợp với CLI automation để tạo dựng tự động highlight reel từ video dài.",
+    "Sử dụng làm backend cho các ứng dụng web edit video real-time.",
+    "Tích hợp vào quy trình làm phim animation để cắt khung hình chính xác."
+  ],
+  "stars": 44795,
+  "starsToday": 43,
+  "language": "TypeScript",
+  "topics": [
+    "video",
+    "editor",
+    "ffmpeg",
+    "video-files",
+    "cut",
+    "codec",
+    "player",
+    "lossless",
+    "video-editor",
+    "losslesscut"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-21T02:48:10.759Z"
+}

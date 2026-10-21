@@ -1,0 +1,31 @@
+{
+  "id": "c52801ce-9c92-44b8-9aa0-071be961d6c6",
+  "repo": "AgriciDaniel/claude-seo",
+  "url": "https://github.com/AgriciDaniel/claude-seo",
+  "category": "AI Agent/Automation",
+  "summary": "Claude Code skill cung cấp 26 kỹ năng và 19 agent cho SEO, bao gồm kỹ thuật SEO, E-E-A-T, schema, GEO/AEO, báo cáo PDF/Excel và tích hợp dữ liệu live, giúp tự động hóa tối ưu hóa công cụ tìm kiếm cho các dự án AI.",
+  "usecases": [
+    "Tự động tạo và phân tích báo cáo SEO cho websites doanh nghiệp.",
+    "Tối ưu content và schema markup cho ranking Google dựa trên AI.",
+    "Tích hợp live SEO data vào quy trình làm việc Claude Code cho marketing automation."
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu backlink thực tế để tạo chiến lược SEO tự động.",
+    "Tạo agent SEO cho nhiều ngôn ngữ và khu vực địa lý cùng lúc.",
+    "Phát triển extension cho các trình duyệt để hiển thị metrics SEO trực tiếp trong Claude Code."
+  ],
+  "stars": 19478,
+  "starsToday": 191,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "seo",
+    "ai",
+    "ai-seo",
+    "claude-code-skill",
+    "marketing-automation",
+    "open-source"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-21T02:48:10.758Z"
+}

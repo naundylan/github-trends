@@ -1,0 +1,43 @@
+{
+  "id": "d35aaf91-34b0-402a-b31a-018953066790",
+  "repo": "abus-aikorea/voice-pro",
+  "url": "https://github.com/abus-aikorea/voice-pro",
+  "category": "Web Frontend",
+  "summary": "WebUI dựa trên Gradio giúp tạo và phát triển ứng dụng TTS, clon giọng và xử lý âm thanh với Whisper, Demucs và dịch multilingual.",
+  "usecases": [
+    "Synthesize giọng nói cho video tự động, e-learning hoặc nội dung quảng cáo.",
+    "Clon giọng nói để tạo podcast hoặc audiobook với giọng riêng.",
+    "Tách vocal/nhạc từ bài hát kèm theo dịch tiếng Việt sang tiếng Anh hoặc ngược lại."
+  ],
+  "ideas": [
+    "Tạo hệ thống trợ lý giọng nói cá nhân hóa với giọng dùng户的.",
+    "Kết hợp với dịch máy để tạo video có phụ đề tự động và giọng đọc đa ngôn ngữ.",
+    "Phát triển ứng dụng karaoke AI cho phép thay đổi giọng hát theo ý thích."
+  ],
+  "stars": 13283,
+  "starsToday": 40,
+  "language": "Python",
+  "topics": [
+    "faster-whisper",
+    "tts",
+    "whisper",
+    "gradio",
+    "subtitles",
+    "transcription",
+    "translator",
+    "webui",
+    "speech-recognition",
+    "speech-synthesis",
+    "speech-to-text",
+    "text-to-speech",
+    "yt-dlp",
+    "voice-cloning",
+    "podcasts",
+    "audiobook",
+    "voice-conversion",
+    "karaoke",
+    "whisperx"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-21T02:48:10.759Z"
+}

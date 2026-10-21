@@ -1,0 +1,44 @@
+{
+  "id": "f3de0c49-5285-450f-8289-644d9d36677d",
+  "repo": "croffasia/itsaplan",
+  "url": "https://github.com/croffasia/itsaplan",
+  "category": "Productivity/Personal Tool",
+  "summary": "Itsaplan là công cụ quản lý dự án và theo dõi issue tự-hosted, thay thế cho Linear/Plane, cho phép teams và agent AI cùng lên kế hoạch và phát triển sản phẩm.",
+  "usecases": [
+    "Teams sử dụng làm giải pháp self-hosted cho Jira/Linear với hỗ trợ AI",
+    "Agent AI cộng tác theo dõi tiến độ, báo lỗi và lên roadmap",
+    "Doanh nghiệp giữ dữ liệu dự án nội bộ để đảm bảo bảo mật"
+  ],
+  "ideas": [
+    "Tích hợp với pipeline CI/CD để tự động cập nhật trạng thái task dựa trên build",
+    "Agent AI tự động tạo user story từ commit code hoặc mô tả issue",
+    "Kết hợp với calendar để lên lịch sprint tự động theo khả năng team"
+  ],
+  "stars": 1648,
+  "starsToday": 114,
+  "language": "TypeScript",
+  "topics": [
+    "agentic",
+    "agile",
+    "ai-agents",
+    "issue-tracker",
+    "jira-alternative",
+    "kanban",
+    "linear-alternative",
+    "open-source",
+    "product-management",
+    "project-management",
+    "roadmap",
+    "self-hosted",
+    "sprint-planning",
+    "team-collaboration",
+    "trello-alternative",
+    "bug-reporting",
+    "bug-tracker",
+    "gantt",
+    "jira",
+    "linear"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-10-21T02:48:10.758Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "9425377b-6a14-4101-8e7d-144706651a08",
+  "repo": "sickn33/agentic-awesome-skills",
+  "url": "https://github.com/sickn33/agentic-awesome-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ điều khiển cục bộ agent-first cung khả năng khám phá catalog, lựa chọn tự động và kiểm tra stack cho hơn 2.600 skill agent, kèm CLI, local MCP và Workbench.",
+  "usecases": [
+    "Manage and distribute agent skills across development teams.",
+    "Automate pipeline planning and stack validation before deployment.",
+    "Provide a Workbench for developers to test and combine agent skills intuitively."
+  ],
+  "ideas": [
+    "Integrate with CI/CD to automatically validate skill compatibility on pull requests.",
+    "Build a dashboard monitoring agent skill performance and interaction metrics.",
+    "Create a distributed skill marketplace based on local MCP for the open-source community."
+  ],
+  "stars": 48135,
+  "starsToday": 83,
+  "language": "Python",
+  "topics": [
+    "agentic-skills",
+    "ai-agents",
+    "antigravity",
+    "claude-code",
+    "mcp",
+    "ai-workflows",
+    "codex-cli",
+    "developer-tools",
+    "gemini-cli",
+    "skill-library",
+    "agent-skills",
+    "ai-agent-skills",
+    "antigravity-skills",
+    "claude-code-skills",
+    "codex-skills",
+    "cursor-skills",
+    "gemini-skills",
+    "ai-coding",
+    "cursor",
+    "kiro"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-21T02:48:10.759Z"
+}
