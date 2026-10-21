@@ -1,0 +1,38 @@
+{
+  "id": "6c7e8c69-d0b2-4076-a64b-3daa0941a2ac",
+  "repo": "ItzCrazyKns/Vane",
+  "url": "https://github.com/ItzCrazyKns/Vane",
+  "category": "AI/LLM",
+  "summary": "Vane là engine trả lời được AI hỗ trợ, tích hợp LLM và RAG để cung cấp câu trả lời chính xác, được thiết kế self-hosted cho tìm kiếm và trả lời thông minh.",
+  "usecases": [
+    "Trả lời tự động cho hỗ trợ kỹ thuật hoặc nhân viên dựa trên knowledge base nội bộ.",
+    "Tìm kiếm và tổng hợp thông tin từ nhiều nguồn để đưa ra câu trả lời có nguồn tham khảo.",
+    "Triển khai search engine self-hosted cho doanh nghiệp với kiểm soát dữ liệu hoàn toàn."
+  ],
+  "ideas": [
+    "Tích hợp Vane với Slack/Teams làm trợ lý AI trả lời câu hỏi nội bộ.",
+    "Chế độ \"agentic search\" Vane thực hiện tác vụ (tạo ticket, schedule) dựa trên câu hỏi.",
+    "Dùng Vane làm base cho ứng dụng domain-specific knowledge với RAG tùy chỉnh."
+  ],
+  "stars": 37605,
+  "starsToday": 107,
+  "language": "TypeScript",
+  "topics": [
+    "ai-search-engine",
+    "search-engine",
+    "open-source-ai-search-engine",
+    "perplexica",
+    "artificial-intelligence",
+    "machine-learning",
+    "searxng",
+    "searxng-copilot",
+    "ai-agents",
+    "answering-engine",
+    "llm",
+    "rag",
+    "self-hosted-ai",
+    "vane"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-21T23:54:26.821Z"
+}

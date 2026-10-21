@@ -1,0 +1,35 @@
+{
+  "id": "e7bdeb22-d126-4973-ae63-5569f522900c",
+  "repo": "shaobeichen/dsh-pocket",
+  "url": "https://github.com/shaobeichen/dsh-pocket",
+  "category": "Developer Tool",
+  "summary": "Công cụ cho phép chạy dsh web trên máy tính và truy cập qua quét mã QR trên điện thoại, đồng bộ truy cập LAN và công cộng với miroir màn hình thời gian thực.",
+  "usecases": [
+    "Lập trình viên kiểm soát DeepSeek Harness từ điện thoại di động khi không ở trước máy tính.",
+    "Truy cập và theo dõi kết quả agent trên màn hình điện thoại trong môi trường LAN nội bộ.",
+    "Phát triển và test các plugin dsh trên thiết bị di động với mạng công cộng."
+  ],
+  "ideas": [
+    "Tích hợp tính năng này vào một ứng dụng quản lý AI agent chuyên dụng cho developer.",
+    "Mở rộng hỗ trợ cho nhiều harness AI khác nhau thông qua cùng cơ chế QR tunnel.",
+    "Xây dựng giao diện web riêng để theo dõi lịch sử và hiệu suất các agent qua điện thoại."
+  ],
+  "stars": 2182,
+  "starsToday": 189,
+  "language": "JavaScript",
+  "topics": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "mobile",
+    "qr",
+    "remote",
+    "tunnel",
+    "deepseek",
+    "deepseek-harness-plugin",
+    "dsh-plugin-market",
+    "dsh-plugins"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-21T23:54:26.821Z"
+}

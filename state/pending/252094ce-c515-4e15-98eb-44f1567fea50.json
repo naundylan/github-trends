@@ -1,0 +1,27 @@
+{
+  "id": "252094ce-c515-4e15-98eb-44f1567fea50",
+  "repo": "hashicorp/vault",
+  "url": "https://github.com/hashicorp/vault",
+  "category": "Security/Pentest",
+  "summary": "HashiCorp Vault là công cụ quản lý bí mật, cung cấp dịch vụ mã hoá và quản lý quyền truy cập cho các ứng dụng và hạ tầng.",
+  "usecases": [
+    "Quản lý và lưu trữ bí mật cho CI/CD pipelines",
+    "Cung cấp secrets động cho ứng dụng Kubernetes",
+    "Bảo mật dữ liệu nhạy cảm bằng mã hoá tại rest"
+  ],
+  "ideas": [
+    "Kết hợp Vault với Terraform để quản lý secret trong môi trường cloud",
+    "Sử dụng Vault làm PKI để cấp và rút ngắn chứng chỉ TLS động",
+    "Tích hợp Vault với Kubernetes để cung cấp secret như volume"
+  ],
+  "stars": 36415,
+  "starsToday": 6,
+  "language": "Go",
+  "topics": [
+    "vault",
+    "go",
+    "secrets"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-21T23:54:26.821Z"
+}
