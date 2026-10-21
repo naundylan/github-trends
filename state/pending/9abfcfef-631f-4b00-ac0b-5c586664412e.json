@@ -1,0 +1,43 @@
+{
+  "id": "9abfcfef-631f-4b00-ac0b-5c586664412e",
+  "repo": "samber/cc-skills-golang",
+  "url": "https://github.com/samber/cc-skills-golang",
+  "category": "AI Agent/Automation",
+  "summary": "cc-skills-golang là bộ thu thập kỹ năng agentic cho Go, cho phép các AI agent thực hiện tác vụ coding và tự động hóa qua các plugin kết nối Claude, Gemini, OpenAI v.v.",
+  "usecases": [
+    "Tự động hoàn thành code và review bằng AI trong môi trường phát triển Go.",
+    "Xây dựng agent tự động sửa lỗi và refactor code Go.",
+    "Tích hợp vào CLI để hỗ trợ lập trình viên với các tác vụ agentic."
+  ],
+  "ideas": [
+    "Tạo agent cá nhân dùng cho dự án Go riêng, kết nối với nhiều LLM theo yêu cầu.",
+    "Phát triển extension cho VS Code dùng skills này hỗ trợ viết code nhanh hơn.",
+    "Kết hợp với hệ thống CI để tự động fix issue và push commit."
+  ],
+  "stars": 3536,
+  "starsToday": 7,
+  "language": "Go",
+  "topics": [
+    "agent",
+    "ai",
+    "antigravity",
+    "claude",
+    "claude-code",
+    "code",
+    "codex",
+    "coding",
+    "copilot",
+    "cursor",
+    "gemini",
+    "opencode",
+    "plugin",
+    "skills",
+    "vibe-coding",
+    "openclaw",
+    "gemini-cli-extension",
+    "agent-skills",
+    "skillsmp"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-21T08:13:40.897Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "0e59d63d-da88-4e69-af7e-688f77feab87",
+  "repo": "hashicorp/vault",
+  "url": "https://github.com/hashicorp/vault",
+  "category": "Security/Pentest",
+  "summary": "Cung cấp quản lý bí mật, mã hóa như dịch vụ và quản lý quyền truy cập có quyền hạn cho ứng dụng và infrastructure.",
+  "usecases": [
+    "Lưu trữ và quản lý bí mật (API keys, passwords) cho ứng dụng và developer.",
+    "Tự động quay vòng bí mật và cấp quyền tạm thời cho dịch vụ.",
+    "Encode và bảo mật dữ liệu nhạy cảm với encryption as a service."
+  ],
+  "ideas": [
+    "Triển khai Vault làm Identity Proxy để truy cập an toàn vào các service khác.",
+    "Kết hợp với Kubernetes Agent Injector để tự động inject secrets vào pod.",
+    "Sử dụng Vault Policy để tách biệt quyền truy cập giữa các team/environment."
+  ],
+  "stars": 36412,
+  "starsToday": 9,
+  "language": "Go",
+  "topics": [
+    "vault",
+    "go",
+    "secrets"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-21T08:13:40.897Z"
+}

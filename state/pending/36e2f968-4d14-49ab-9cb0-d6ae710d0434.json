@@ -1,0 +1,36 @@
+{
+  "id": "36e2f968-4d14-49ab-9cb0-d6ae710d0434",
+  "repo": "goharbor/harbor",
+  "url": "https://github.com/goharbor/harbor",
+  "category": "DevOps/CI-CD",
+  "summary": "Harbor là một registry container mã nguồn mở tin cậy, giúp lưu trữ, ký và quét nội dung container để đảm bảo an toàn cho các quy trình cloud-native.",
+  "usecases": [
+    "Lưu trữ và phân phối image an toàn trong môi trường Kubernetes.",
+    "Quét lỗ hổng bảo mật cho image container trước khi triển khai.",
+    "Ký và xác minh chữ ký image tuân thủ chuẩn CNCF."
+  ],
+  "ideas": [
+    "Kết hợp Harbor với CI/CD tự động để scan image mỗi khi push code.",
+    "Sử dụng Harbor làm registry riêng cho doanh nghiệp với chính sách truy soát truy cập chi tiết.",
+    "Tích hợp quét phần mềm độc hại và bảo mật vào quy trình phát triển liên tục."
+  ],
+  "stars": 29582,
+  "starsToday": 9,
+  "language": "Go",
+  "topics": [
+    "cncf",
+    "container",
+    "registry",
+    "helm",
+    "cloud-native",
+    "containers",
+    "docker",
+    "kubernetes",
+    "cncf-project",
+    "container-management",
+    "container-registry",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-21T08:13:40.897Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "fb684485-26e2-4168-b219-1281e75b1eb4",
+  "repo": "agentgateway/agentgateway",
+  "url": "https://github.com/agentgateway/agentgateway",
+  "category": "API/GraphQL",
+  "summary": "Proxy API tiếp thị cho AI agents và MCP servers, cung cấp điểm tiếp cận trung tâm để quản lý, định tuyến và kết nối các dịch vụ AI trên Kubernetes và service mesh.",
+  "usecases": [
+    "Quản lý và định tuyến nhiều AI agents cùng một lúc thông qua một điểm truy cập duy nhất.",
+    "Tích hợp với Kubernetes và service mesh để cung cấp reverse proxy và tải cân bằng cho các dịch vụ AI.",
+    "Hỗ trợ giao tiếp giữa MCP servers và các model AI khác nhau trong môi trường phân tán."
+  ],
+  "ideas": [
+    "Kết hợp với các hệ thống monitoring để theo sát hiệu suất và latency của các agent AI theo thời gian thực.",
+    "Phát triển plugin tự động scale tài nguyên dựa trên tải truy vấn đến các agent AI.",
+    "Hỗ trợ đa ngôn ngữ và đa mô hình cho các agent AI thông qua gateway chuyển đổi request đến model phù hợp."
+  ],
+  "stars": 5444,
+  "starsToday": 15,
+  "language": "Rust",
+  "topics": [
+    "agents",
+    "ai",
+    "mcp",
+    "rust",
+    "ai-gateway",
+    "gateway-api",
+    "kubernetes",
+    "mcp-gateway",
+    "reverse-proxy",
+    "service-mesh",
+    "api-gateway"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-21T08:13:40.897Z"
+}

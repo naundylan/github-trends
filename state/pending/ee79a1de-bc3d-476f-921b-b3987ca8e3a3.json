@@ -1,0 +1,36 @@
+{
+  "id": "ee79a1de-bc3d-476f-921b-b3987ca8e3a3",
+  "repo": "Jamailar/Beav",
+  "url": "https://github.com/Jamailar/Beav",
+  "category": "AI Agent/Automation",
+  "summary": "Beav là workbench vận hành nội dung AI dành cho Xiaohongshu, hỗ trợ thu thập dữ liệu, tải bình luận, quản lý kho素材, chọn đề tài, viết bài và tự động bố trí hình ảnh. Ứng dụng desktop local-first, xây bằng Rust/Tauri, nhằm tự động hóa quy trình sáng tạo và vận hành nội dung.",
+  "usecases": [
+    "Thu thập bài đăng và bình luận Xiaohongshu để xây dựng kho素材 nghiên cứu nội dung.",
+    "Phân tích xu hướng, chọn đề tài và tạo bài viết cùng hình ảnh phù hợp với nhu cầu từng tài khoản.",
+    "Quản lý kho nội dung và vận hành nhiều kênh như Xiaohongshu, Douyin trong một môi trường local-first."
+  ],
+  "ideas": [
+    "Tạo agent khép kín vòng lặp: thu thập dữ liệu, phát hiện xu hướng, chọn đề tài, viết bài, dựng ảnh và lên lịch đăng.",
+    "Xây dựng brand knowledge base để AI giữ nhất quán giọng điệu, hình ảnh và thông điệp trên nhiều nền tảng.",
+    "Bổ sung dashboard đánh giá hiệu quả bài viết, so sánh chủ đề và đề xuất tối ưu nội dung dựa trên phản hồi thực tế."
+  ],
+  "stars": 2102,
+  "starsToday": 26,
+  "language": "Rust",
+  "topics": [
+    "skills",
+    "ai-agents",
+    "content-creation",
+    "xiaohongshu",
+    "xiaohongshu-downloader",
+    "browser-extension",
+    "desktop-app",
+    "knowledge-base",
+    "local-first",
+    "typescript",
+    "rust",
+    "tauri"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-21T08:13:40.897Z"
+}

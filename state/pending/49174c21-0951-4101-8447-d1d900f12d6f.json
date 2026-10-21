@@ -1,0 +1,29 @@
+{
+  "id": "49174c21-0951-4101-8447-d1d900f12d6f",
+  "repo": "helm/helm",
+  "url": "https://github.com/helm/helm",
+  "category": "Package Manager",
+  "summary": "Quản lý gói ứng dụng cho Kubernetes, giúp định nghĩa, cài đặt và phiên bản hóa các ứng dụng kèm theo Charts.",
+  "usecases": [
+    "Cài đặt và quản lý ứng dụng trên cluster Kubernetes với versioning.",
+    "Chia sẻ và tái sử dụng cấu hình ứng dụng qua Helm Charts.",
+    "Tự động deployment các Kubernetes resources phức tạp."
+  ],
+  "ideas": [
+    "Kết hợp với GitOps workflows để tự động cập nhật charts khi code thay đổi.",
+    "Tạo custom charts cho internal services và publish vào registry riêng.",
+    "Sử dụng Helm trong môi trường multi-cluster để đồng bộ deployment."
+  ],
+  "stars": 30352,
+  "starsToday": 10,
+  "language": "Go",
+  "topics": [
+    "cncf",
+    "chart",
+    "kubernetes",
+    "helm",
+    "charts"
+  ],
+  "notePath": "notes/Package-Manager.md",
+  "createdAt": "2026-10-21T08:13:40.897Z"
+}

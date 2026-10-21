@@ -1,0 +1,34 @@
+{
+  "id": "3649ff85-29fa-4933-86d8-8146926e3e24",
+  "repo": "gosom/google-maps-scraper",
+  "url": "https://github.com/gosom/google-maps-scraper",
+  "category": "Developer Tool",
+  "summary": "Thư mục thu thập dữ liệu từ Google Maps, trích xuất tên, địa chỉ, số điện thoại, URL, rating, đánh giá và tọa độ cho từng địa điểm.",
+  "usecases": [
+    "Collect retail location data for market analysis and competitor research.",
+    "Build geographic databases for location-based applications and taxi services.",
+    "Extract reviews and contact info for customer sentiment analysis."
+  ],
+  "ideas": [
+    "Combine with AI to automatically classify and summarize collected reviews.",
+    "Create a real-time price and inventory tracking system across multiple Google Maps locations.",
+    "Generate heatmaps showing service popularity in specific areas."
+  ],
+  "stars": 6687,
+  "starsToday": 40,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "google-maps-scraping",
+    "web-scraper",
+    "web-scraping",
+    "distributed-scraper",
+    "distributed-scraping",
+    "google-maps",
+    "agent-skills",
+    "claude-skills",
+    "codex-skills"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-21T08:13:40.897Z"
+}

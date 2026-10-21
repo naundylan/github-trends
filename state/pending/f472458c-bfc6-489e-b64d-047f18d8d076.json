@@ -1,0 +1,28 @@
+{
+  "id": "f472458c-bfc6-489e-b64d-047f18d8d076",
+  "repo": "emdash-cms/emdash",
+  "url": "https://github.com/emdash-cms/emdash",
+  "category": "Web Framework",
+  "summary": "CMS full-stack TypeScript dựa trên Astro, cung cấp nền tảng quản lý nội dung hiện đại và nhẹ như kế tinh thần của WordPress.",
+  "usecases": [
+    "Deploy content websites and blogs with easy management and high performance.",
+    "Develop enterprise websites requiring SEO optimization and fast loading speeds.",
+    "Allow teams to customize themes and plugins for the Astro-based CMS."
+  ],
+  "ideas": [
+    "Integrate AI agent to automatically generate and manage website content.",
+    "Use as a foundation for event registration and ticketing systems with built-in user management.",
+    "Develop multilingual CMS capabilities with cross-platform content export."
+  ],
+  "stars": 13844,
+  "starsToday": 36,
+  "language": "TypeScript",
+  "topics": [
+    "astro",
+    "cms",
+    "emdash",
+    "typescript"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-21T08:13:40.897Z"
+}
