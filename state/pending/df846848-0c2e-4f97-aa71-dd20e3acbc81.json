@@ -1,0 +1,40 @@
+{
+  "id": "df846848-0c2e-4f97-aa71-dd20e3acbc81",
+  "repo": "argoproj/argo-cd",
+  "url": "https://github.com/argoproj/argo-cd",
+  "category": "DevOps/CI-CD",
+  "summary": "Trình quản lý triển khai liên tục (CD) cho Kubernetes sử dụng GitOps, tự động hóa deploy, quản lý trạng thái ứng dụng và đồng bộ môi trường phát triển.",
+  "usecases": [
+    "Triển khai ứng dụng microservices lên Kubernetes tự động qua Git",
+    "Quản lý và đồng bộ môi trường phát triển, staging, production",
+    "Phát triển và rollback ứng dụng theo mô hình GitOps an toàn"
+  ],
+  "ideas": [
+    "Kết hợp với Argo Workflows để tự động hóa CI/CD hoàn chỉnh",
+    "Sử dụng để quản lý infrastructure as code trên nhiều cluster Kubernetes",
+    "Triển khai ứng dụng edge computing qua các cluster Kubernetes phân tán"
+  ],
+  "stars": 24443,
+  "starsToday": 11,
+  "language": "Go",
+  "topics": [
+    "argo",
+    "kubernetes",
+    "continuous-deployment",
+    "gitops",
+    "continuous-delivery",
+    "docker",
+    "cd",
+    "cicd",
+    "pipeline",
+    "devops",
+    "ci-cd",
+    "argo-cd",
+    "helm",
+    "hacktoberfest",
+    "jsonnet",
+    "kustomize"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-21T19:06:19.113Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "3c9ff3c8-5b72-41cd-84f1-ec64b1a3b3b5",
+  "repo": "NomaDamas/CozyClay",
+  "url": "https://github.com/NomaDamas/CozyClay",
+  "category": "Web Frontend",
+  "summary": "CozyClay là phần mềm previs mã nguồn mở chạy trên trình duyệt, cho phép người dùng dựng cảnh 3D, tạo hoạt hình nhân vật, điều khiển camera và cắt đoạn, sau đó gửi các shot đến mô hình AI sinh video.",
+  "usecases": [
+    "Tự động previz cho sản xuất phim hoạt hình và sản xuất ảo, giảm phụ thuộc vào các công cụ desktop đắt tiền.",
+    "Cho phép sáng tạo phối hợp với AI video models để sinh scene nhanh chóng từ các pose và camera moves.",
+    "Cung cấp giao diện web trực quan dựa trên Three.js/React Three Fiber để soạn thảo cảnh và camera."
+  ],
+  "ideas": [
+    "Kết hợp với mô hình TTS/STT để tạo storyboard tự động từ kịch bản văn bản.",
+    "Phát triển plugin cho Blender để đồng bộ cảnh giữa CozyClay và môi trường desktop.",
+    "Sử dụng multi-agent AI để tự động tối ưu camera moves, lighting và compositing dựa trên kịch bản."
+  ],
+  "stars": 884,
+  "starsToday": 29,
+  "language": "JavaScript",
+  "topics": [
+    "3d",
+    "ai",
+    "animation",
+    "blender",
+    "llm-agent",
+    "python",
+    "typescript",
+    "3d-animation",
+    "motion-generation",
+    "previz",
+    "react-three-fiber",
+    "threejs",
+    "webgl",
+    "ai-video",
+    "camera-control",
+    "previs",
+    "previsualization",
+    "storyboard",
+    "virtual-production"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-21T19:06:19.113Z"
+}

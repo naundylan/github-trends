@@ -1,0 +1,31 @@
+{
+  "id": "f713acba-a9be-4310-91f8-68c1d86b7715",
+  "repo": "trymirai/uzu",
+  "url": "https://github.com/trymirai/uzu",
+  "category": "AI/LLM",
+  "summary": "Một inference engine cao tốc cho các mô hình AI, tối ưu hóa tốc độ chạy LLM và TTS trên nền tảng Rust và Metal.",
+  "usecases": [
+    "Deploy large language models locally on edge devices with low latency",
+    "Enable offline TTS and voice assistant functionality without cloud dependency",
+    "Accelerate AI inference for enterprise applications on CPU/GPU via Rust optimization"
+  ],
+  "ideas": [
+    "Combine with WebGPU/WebAssembly to run AI inference directly in browsers",
+    "Build a fully offline personal AI assistant that handles chat, summarization, and generation",
+    "Create a real-time audio modulation tool for gaming or creative production using TTS/LLM"
+  ],
+  "stars": 2474,
+  "starsToday": 15,
+  "language": "Rust",
+  "topics": [
+    "high-performance",
+    "inference",
+    "llm",
+    "metal",
+    "rust",
+    "ai",
+    "tts"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-21T19:06:19.113Z"
+}

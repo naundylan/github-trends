@@ -1,0 +1,31 @@
+{
+  "id": "68d908d3-1377-4dd5-809c-6678b672cb8d",
+  "repo": "oxc-project/oxc",
+  "url": "https://github.com/oxc-project/oxc",
+  "category": "Developer Tool",
+  "summary": "Bộ công cụ mã nguồn mở viết bằng Rust cung cấp parser, linter, minifier và transpiler JavaScript/TypeScript với hiệu suất cao.",
+  "usecases": [
+    "Dùng làm linter tĩnh trong pipeline CI để kiểm tra chất lượng code JavaScript/TypeScript",
+    "Tích hợp minifier vào quá trình build để giảm kích thước file sản xuất",
+    "Sử dụng parser để phân tích và chuyển đổi code TypeScript thành JavaScript trong các công cụ tự động hóa"
+  ],
+  "ideas": [
+    "Phát triển extension cho VS Code sử dụng oxc-parser để highlight code và phân tích lỗi ngay lập tức",
+    "Kết hợp oxc-minifier với bundler để tạo ra giải pháp tối ưu hóa performance cho ứng dụng web",
+    "Tạo plugin cho hệ thống build tùy chỉnh để tự động sửa lỗi định dạng code dựa trên quy tắc của oxc-linter"
+  ],
+  "stars": 23165,
+  "starsToday": 38,
+  "language": "Rust",
+  "topics": [
+    "compiler",
+    "javascript",
+    "linter",
+    "minifier",
+    "parser",
+    "typescript",
+    "transpiler"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-21T19:06:19.112Z"
+}

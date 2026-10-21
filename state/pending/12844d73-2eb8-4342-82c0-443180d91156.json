@@ -1,0 +1,36 @@
+{
+  "id": "12844d73-2eb8-4342-82c0-443180d91156",
+  "repo": "harness/harness",
+  "url": "https://github.com/harness/harness",
+  "category": "DevOps/CI-CD",
+  "summary": "Nền tảng phát triển end-to-end quản lý nguồn code, pipelines CI/CD, môi trường developer được host và registries artifact, tự động hóa quy trình phát triển phần mềm.",
+  "usecases": [
+    "Tự động hóa build, test và deploy ứng dụng",
+    "Quản lý môi trường developer đồng bộ cho team",
+    "Triển khai CI/CD cho microservices và containerized apps"
+  ],
+  "ideas": [
+    "Kết hợp với IaC để deploy tự động lên cloud",
+    "Tạo developer environments riêng cho từng pull request",
+    "Tích hợp monitoring và rollback tự động trong pipeline"
+  ],
+  "stars": 38649,
+  "starsToday": 31,
+  "language": "Go",
+  "topics": [
+    "continuous-delivery",
+    "continuous-integration",
+    "go",
+    "build-pipelines",
+    "build-automation",
+    "docker",
+    "ci",
+    "ci-cd",
+    "hacktoberfest",
+    "git",
+    "scm",
+    "code-repository"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-21T19:06:19.113Z"
+}

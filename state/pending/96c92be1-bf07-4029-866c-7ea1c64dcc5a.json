@@ -1,0 +1,40 @@
+{
+  "id": "96c92be1-bf07-4029-866c-7ea1c64dcc5a",
+  "repo": "zhoushoujianwork/easyeda-agent",
+  "url": "https://github.com/zhoushoujianwork/easyeda-agent",
+  "category": "CLI Tool",
+  "summary": "EasyEDA Agent là tự động hóa EDA mã nguồn mở cho EasyEDA Pro, cung cấp các tác vụ typed nguyên lý/schema và PCB qua CLI, Agent Skill và stdio MCP, nhằm hỗ trợ đào tạo kỹ sư phần cứng.",
+  "usecases": [
+    "Tự động tạo và chỉnh sửa sơ đồ nguyên lý và bố cục PCB cho các dự án lặp lại.",
+    "Kết hợp với AI coding assistants (như Claude) để thực hiện thiết kế phần cứng thông qua lệnh ngôn ngữ tự nhiên.",
+    "Tích hợp vào dòng CI/CD để tự động kiểm tra và tạo bản vẽ điện tử."
+  ],
+  "ideas": [
+    "Phát triển dashboard web giám sát tiến độ thiết kế PCB trong thời gian thực.",
+    "Tạo mô hình AI dự đoán lỗi tín hiệu dựa trên kết quả kiểm tra PCB tự động.",
+    "Mở API chung cho các công cụ EDA khác để tích hợp quy trình thiết kế phần cứng."
+  ],
+  "stars": 768,
+  "starsToday": 24,
+  "language": "Go",
+  "topics": [
+    "dsh-plugin",
+    "agent-skill",
+    "ai-agent",
+    "claude-code",
+    "easyeda",
+    "eda",
+    "electronics",
+    "golang",
+    "hardware-design",
+    "jlceda",
+    "lceda",
+    "mcp",
+    "mcp-server",
+    "pcb",
+    "pcb-design",
+    "schematic"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-21T19:06:19.113Z"
+}

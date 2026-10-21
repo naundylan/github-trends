@@ -1,0 +1,30 @@
+{
+  "id": "ce0f2c65-b7a7-421d-878a-d555fd918d23",
+  "repo": "EasyTier/EasyTier",
+  "url": "https://github.com/EasyTier/EasyTier",
+  "category": "Networking",
+  "summary": "Một VPN phân tán đơn giản sử dụng WireGuard để kết nối an toàn giữa các peer mà không cần server trung tâm.",
+  "usecases": [
+    "Secure P2P connectivity for remote teams without central servers",
+    "Bypass NAT and geographic restrictions for accessing local network resources",
+    "Low-latency mesh networking for IoT devices and online gaming"
+  ],
+  "ideas": [
+    "Integrate with blockchain for a fully decentralized, trustless VPN network",
+    "Develop a mobile client for one-click mesh VPN connections similar to Tailscale",
+    "Use as the networking layer for distributed compute clusters or edge AI networks"
+  ],
+  "stars": 14199,
+  "starsToday": 23,
+  "language": "Rust",
+  "topics": [
+    "nat-traversal",
+    "p2p",
+    "rust",
+    "tailscale",
+    "vpn",
+    "zerotier"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-21T19:06:19.113Z"
+}
