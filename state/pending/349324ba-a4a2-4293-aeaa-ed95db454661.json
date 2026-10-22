@@ -1,0 +1,44 @@
+{
+  "id": "349324ba-a4a2-4293-aeaa-ed95db454661",
+  "repo": "genspark-ai/genoffice",
+  "url": "https://github.com/genspark-ai/genoffice",
+  "category": "Productivity/Personal Tool",
+  "summary": "Bộ sản phẩm văn phòng AI mã nguồn mở bao gồm Docs, Sheets, Slides, PDF và Markdown/HTML editors, tích hợp AI agent và CLI để tạo/xử lý file cục bộ.",
+  "usecases": [
+    "Free alternative to Microsoft Office with AI-assisted .docx, .xlsx, .pptx editing.",
+    "CLI and agent skills enabling Codex, Cursor, and Claude Code to create/automate office tasks locally.",
+    "Local-first PDF editing and conversion with built-in AI capabilities."
+  ],
+  "ideas": [
+    "Offline AI suite integration with local LLMs (llama.cpp) for completely private document processing.",
+    "Plugin for design tools (Figma, Sketch) to export directly to genoffice formats via AI generation.",
+    "Automated daily report generation system triggered by schedule and powered by genoffice CLI."
+  ],
+  "stars": 10461,
+  "starsToday": 191,
+  "language": "TypeScript",
+  "topics": [
+    "office-suite",
+    "ai-agent",
+    "ai",
+    "spreadsheet",
+    "pdf-editor",
+    "docx",
+    "xlsx",
+    "pptx",
+    "excel",
+    "powerpoint",
+    "markdown-editor",
+    "libreoffice-alternative",
+    "local-first",
+    "microsoft-office-alternative",
+    "pdf-to-word",
+    "claude-code",
+    "cli",
+    "codex",
+    "cursor",
+    "skills"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-10-22T14:21:22.471Z"
+}

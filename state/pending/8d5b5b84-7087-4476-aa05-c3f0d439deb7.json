@@ -1,0 +1,23 @@
+{
+  "id": "8d5b5b84-7087-4476-aa05-c3f0d439deb7",
+  "repo": "NanmiCoder/MediaCrawler",
+  "url": "https://github.com/NanmiCoder/MediaCrawler",
+  "category": "Developer Tool",
+  "summary": "NanmiCoder/MediaCrawler là một công cụ Python tự động thu thập bài viết, bình luận và video từ nhiều nền tảng xã hội Trung Quốc như Xiaohongshu, Douyin, Bilibili, Weibo, Baidu Tieba và Zhihu.",
+  "usecases": [
+    "Thu thập dữ liệu đánh giá và bình luận khách hàng từ Xiaohongshu để nghiên cứu xu hướng thị trường.",
+    "Cào nội dung video và tương tác từ Douyin/Kuaishou để xây dựng bộ dữ liệu huấn luyện mô hình推荐.",
+    "Tích hợp dữ liệu đa nền tảng vào cơ sở dữ liệu tập trung cho phân tích nội dung."
+  ],
+  "ideas": [
+    "Xây dựng dashboard trực quan hóa xu hướng chủ đề và cảm xúc người dùng theo thời gian thực.",
+    "Kết hợp với mô hình NLP để phân tích sâu nội dung và bình luận từ các nền tảng.",
+    "Phát triển hệ thống cảnh báo sớm về sự cố uy tín dựa trên dữ liệu thu thập."
+  ],
+  "stars": 67695,
+  "starsToday": 108,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-22T14:21:22.471Z"
+}

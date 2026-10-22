@@ -1,0 +1,27 @@
+{
+  "id": "3d074156-5764-490f-b71a-1d24119312b3",
+  "repo": "Meloong-Git/PCL",
+  "url": "https://github.com/Meloong-Git/PCL",
+  "category": "Desktop App",
+  "summary": "Launcher Minecraft mã nguồn mở viết bằng Visual Basic .NET, cung cấp giao diện đồ họa để tải và chạy các phiên bản Minecraft.",
+  "usecases": [
+    "Chạy nhiều phiên bản Minecraft khác nhau trên cùng một máy.",
+    "Tự động hóa việc tải bản cập nhật và mods cho Minecraft.",
+    "Phù hợp cho người mới bắt đầu quản lý phiên bản Minecraft dễ dàng."
+  ],
+  "ideas": [
+    "Tích hợp quản lý mods và texture packs trực tiếp trong launcher.",
+    "Hỗ trợ chạy Minecraft trên Linux/macOS qua Wine hoặc chuyển sang Java launcher.",
+    "Tạo plugin mở rộng cho phép tùy chỉnh giao diện và quy trình launch."
+  ],
+  "stars": 8588,
+  "starsToday": 115,
+  "language": "Visual Basic .NET",
+  "topics": [
+    "minecraft",
+    "launcher",
+    "minecraft-launcher"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-22T14:21:22.471Z"
+}

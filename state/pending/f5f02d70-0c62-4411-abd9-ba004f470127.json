@@ -1,0 +1,43 @@
+{
+  "id": "f5f02d70-0c62-4411-abd9-ba004f470127",
+  "repo": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện TypeScript giúp AI agents thu thập và trích xuất dữ liệu từ web, cung cấp dữ liệu sạch cho các ứng dụng AI.",
+  "usecases": [
+    "Thu thập dữ liệu training cho mô hình LLM từ web",
+    "Trích xuất nội dung markdown/HTML cho RAG pipelines",
+    "Tự động hóa crawling cho ứng dụng AI agent cần dữ liệu thời gian thực"
+  ],
+  "ideas": [
+    "Kết hợp với AutoGen hoặc LangChain để cung cấp dữ liệu web live cho agent",
+    "Tạo knowledge base tự động cập nhật từ web cho agent cá nhân",
+    "Sử dụng cho monitoring web và detection thay đổi trong AI research"
+  ],
+  "stars": 194143,
+  "starsToday": 455,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "crawler",
+    "markdown",
+    "scraper",
+    "html-to-markdown",
+    "llm",
+    "scraping",
+    "web-crawler",
+    "ai-scraping",
+    "webscraping",
+    "web-scraping",
+    "web-data",
+    "web-data-extraction",
+    "ai-agents",
+    "data-extraction",
+    "ai-crawler",
+    "ai-search",
+    "web-scraper",
+    "web-search"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-22T14:21:22.471Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "d3cb5b8b-9123-4e7b-9971-403a2fdf575a",
+  "repo": "php/php-src",
+  "url": "https://github.com/php/php-src",
+  "category": "Developer Tool",
+  "summary": "Trình thông dịch PHP mã nguồn mở viết bằng C, là lõi thực hiện mã PHP và hỗ trợ hệ sinh thái phát triển web.",
+  "usecases": [
+    "Triển khai và chạy ứng dụng PHP trên server.",
+    "Phát triển và debug mã PHP trong môi trường local.",
+    "Tích hợp PHP vào các hệ thống CI/CD cho tự động hóa build/test."
+  ],
+  "ideas": [
+    "Đào tạo tự động hóa để tối ưu hiệu suất thực thi mã PHP.",
+    "Kết hợp với các ngôn ngữ khác (Rust, Go) để tạo hybrid services.",
+    "Phát triển interpreter nhẹ cho thiết bị IoT hoặc hệ thống nhúng cần chạy script PHP."
+  ],
+  "stars": 40873,
+  "starsToday": 110,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-22T14:21:22.471Z"
+}

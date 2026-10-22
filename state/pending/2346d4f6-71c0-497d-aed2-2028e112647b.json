@@ -1,0 +1,23 @@
+{
+  "id": "2346d4f6-71c0-497d-aed2-2028e112647b",
+  "repo": "NVIDIA/OpenShell",
+  "url": "https://github.com/NVIDIA/OpenShell",
+  "category": "AI Agent/Automation",
+  "summary": "Runtime an toàn và riêng tư cho AI agents tự hành, cho phép thực thi agent một cách an toàn.",
+  "usecases": [
+    "Chạy AI agents trong môi trường cô lập an toàn",
+    "Quản lý quyền và quyền riêng tư cho các agent tự hành",
+    "Triển khai agent làm việc với hệ thống bên ngoài mà không lo bảo mật"
+  ],
+  "ideas": [
+    "Môi trường cô lập cho agent xử lý dữ liệu nhạy cảm trong doanh nghiệp",
+    "Kết hợp với sandbox VM cho test agent phức tạp",
+    "Cho phép agent điều khiển hệ thống cục bộ an toàn mà không cần root"
+  ],
+  "stars": 17135,
+  "starsToday": 221,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-22T14:21:22.471Z"
+}

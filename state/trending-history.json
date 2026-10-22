@@ -31,8 +31,8 @@
   },
   "firecrawl/firecrawl": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-10-01",
-    "last_saved": "2026-09-30"
+    "last_seen": "2026-10-22",
+    "last_saved": "2026-10-22"
   },
   "logto-io/logto": {
     "first_seen": "2026-07-02",
@@ -86,8 +86,8 @@
   },
   "HKUDS/Vibe-Trading": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-09-09",
-    "last_saved": "2026-08-24"
+    "last_seen": "2026-10-22",
+    "last_saved": "2026-10-22"
   },
   "diegosouzapw/OmniRoute": {
     "first_seen": "2026-07-03",
@@ -216,7 +216,7 @@
   },
   "nodejs/node": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-22",
     "last_saved": "2026-10-20"
   },
   "thedotmack/claude-mem": {
@@ -316,7 +316,7 @@
   },
   "fastapi/fastapi": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-22",
     "last_saved": "2026-10-10"
   },
   "NVIDIA/SkillSpector": {
@@ -441,7 +441,7 @@
   },
   "nautechsystems/nautilus_trader": {
     "first_seen": "2026-08-22",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-22",
     "last_saved": "2026-10-12"
   },
   "block/buzz": {
@@ -486,7 +486,7 @@
   },
   "microsoft/TypeScript": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-22",
     "last_saved": "2026-10-08"
   },
   "google/sam": {
@@ -496,7 +496,7 @@
   },
   "alibaba/open-code-review": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-22",
     "last_saved": "2026-10-09"
   },
   "apache/maka": {
@@ -841,7 +841,7 @@
   },
   "kubernetes/kubernetes": {
     "first_seen": "2026-08-30",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-22",
     "last_saved": "2026-10-17"
   },
   "k1tbyte/Wand-Enhancer": {
@@ -926,7 +926,7 @@
   },
   "golang/go": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-22",
     "last_saved": "2026-10-14"
   },
   "rtk-ai/rtk": {
@@ -1456,7 +1456,7 @@
   },
   "max-sixty/worktrunk": {
     "first_seen": "2026-09-12",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-22",
     "last_saved": "2026-10-03"
   },
   "louislam/uptime-kuma": {
@@ -1676,7 +1676,7 @@
   },
   "remotion-dev/remotion": {
     "first_seen": "2026-09-16",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-22",
     "last_saved": "2026-10-10"
   },
   "koala73/worldmonitor": {
@@ -1976,8 +1976,8 @@
   },
   "Open-Dev-Society/OpenStock": {
     "first_seen": "2026-09-22",
-    "last_seen": "2026-09-24",
-    "last_saved": "2026-09-22"
+    "last_seen": "2026-10-22",
+    "last_saved": "2026-10-22"
   },
   "caddyserver/caddy": {
     "first_seen": "2026-09-22",
@@ -2391,8 +2391,8 @@
   },
   "NVIDIA/OpenShell": {
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-03",
-    "last_saved": "2026-10-01"
+    "last_seen": "2026-10-22",
+    "last_saved": "2026-10-22"
   },
   "VectifyAI/PageIndex": {
     "first_seen": "2026-10-01",
@@ -2401,8 +2401,8 @@
   },
   "Z4nzu/hackingtool": {
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-08",
-    "last_saved": "2026-10-01"
+    "last_seen": "2026-10-22",
+    "last_saved": "2026-10-22"
   },
   "sgl-project/sglang": {
     "first_seen": "2026-10-01",
@@ -2476,7 +2476,7 @@
   },
   "CarterPerez-dev/Cybersecurity-Projects": {
     "first_seen": "2026-10-02",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-22",
     "last_saved": "2026-10-02"
   },
   "zerx-lab/FluxDown": {
@@ -2631,7 +2631,7 @@
   },
   "ltaoo/wx_channels_download": {
     "first_seen": "2026-10-05",
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-22",
     "last_saved": "2026-10-05"
   },
   "skyhook-io/radar": {
@@ -2661,7 +2661,7 @@
   },
   "aquasecurity/trivy": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-22",
     "last_saved": "2026-10-06"
   },
   "ys-ll/uniterm": {
@@ -2771,7 +2771,7 @@
   },
   "BerriAI/litellm": {
     "first_seen": "2026-10-09",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-22",
     "last_saved": "2026-10-09"
   },
   "Robbyant/lingbot-map": {
@@ -3419,7 +3419,32 @@
     "last_seen": "2026-10-22",
     "last_saved": "2026-10-21"
   },
-  "DataDog/dd-trace-go": {
+  "php/php-src": {
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "last_saved": "2026-10-22"
+  },
+  "Meloong-Git/PCL": {
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "last_saved": "2026-10-22"
+  },
+  "NanmiCoder/MediaCrawler": {
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "last_saved": "2026-10-22"
+  },
+  "onyx-dot-app/onyx": {
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "last_saved": "2026-10-22"
+  },
+  "genspark-ai/genoffice": {
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "last_saved": "2026-10-22"
+  },
+  "CopilotKit/OpenBot": {
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-22",
     "last_saved": "2026-10-22"

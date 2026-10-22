@@ -1,0 +1,34 @@
+{
+  "id": "8ef793e5-bd9b-46d4-b628-2f4accb4f9e3",
+  "repo": "HKUDS/Vibe-Trading",
+  "url": "https://github.com/HKUDS/Vibe-Trading",
+  "category": "AI Agent/Automation",
+  "summary": "Khung công cụ agent AI cho giao dịch tự động và backtesting lượng tử, sử dụng LLM để thực hiện chiến lược giao dịch dựa trên ngôn ngữ tự nhiên.",
+  "usecases": [
+    "Automate algorithmic trading strategies for stocks or crypto with natural language prompts.",
+    "Enable multi-agent collaboration for portfolio optimization and risk management.",
+    "Facilitate rapid backtesting of quantitative finance models without manual coding."
+  ],
+  "ideas": [
+    "Add real-time news sentiment feeding to dynamically adjust agent behavior.",
+    "Create a visual UI for configuring trading agents via drag-and-drop interfaces.",
+    "Combine with decentralized prediction markets for autonomous, self-funding trading loops."
+  ],
+  "stars": 36289,
+  "starsToday": 166,
+  "language": "Python",
+  "topics": [
+    "backtesting",
+    "multi-agent",
+    "quantitative-finance",
+    "trading",
+    "ai-agent",
+    "algorithmic-trading",
+    "fintech",
+    "llm",
+    "mcp",
+    "python"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-22T14:21:22.471Z"
+}
