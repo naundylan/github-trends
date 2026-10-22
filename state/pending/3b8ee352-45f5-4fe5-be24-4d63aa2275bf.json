@@ -1,0 +1,31 @@
+{
+  "id": "3b8ee352-45f5-4fe5-be24-4d63aa2275bf",
+  "repo": "cloudwego/eino",
+  "url": "https://github.com/cloudwego/eino",
+  "category": "AI/LLM",
+  "summary": "Thư viện framework Go để xây dựng ứng dụng LLM và AI, cung cấp các thành phần chuẩn hóa và công cụ để phát triển nhanh.",
+  "usecases": [
+    "Xây dựng trợ lý tương tự ChatGPT bằng Go.",
+    "Phát triển các pipeline AI可扩展 và điều phối quy trình.",
+    "Nhúng mô hình LLM vào backend doanh nghiệp Go."
+  ],
+  "ideas": [
+    "Kết hợp với deployment đám mây để tự động scale dịch vụ AI.",
+    "Tạo framework đa mô hình hỗ trợ thị giác và văn bản.",
+    "Xây hệ thống plugin tùy chỉnh cho AI theo lĩnh vực riêng."
+  ],
+  "stars": 13389,
+  "starsToday": 19,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "langchaingo",
+    "ai-application",
+    "llm-application",
+    "langchain-for-go",
+    "ai-framework",
+    "langchain"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-22T02:51:28.913Z"
+}

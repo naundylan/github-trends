@@ -1,0 +1,31 @@
+{
+  "id": "67503c6c-67db-433c-be8f-22463bc2cb62",
+  "repo": "trymirai/uzu",
+  "url": "https://github.com/trymirai/uzu",
+  "category": "AI/LLM",
+  "summary": "Mô inference engine AI cao tốc viết bằng Rust, tối ưu cho độ trễ thấp và triển khai trên phần cứng Metal và GPU.",
+  "usecases": [
+    "Triển khai LLM lớn trên các thiết bị biên có tài nguyên hạn chế.",
+    "Inference thời gian thực cho sinh thành âm thanh/văn bản trong dịch vụ sản xuất.",
+    "Tăng tốc các khối công việc AI trong backend đòi hỏi throughput cao."
+  ],
+  "ideas": [
+    "Định dạng WebAssembly để inference AI trong trình duyệt.",
+    "Xây router inference đa nền tảng chuyển đổi giữa CPU, GPU và Metal động.",
+    "Tạo pipeline nén model tùy chỉnh cho kiến trúc uzu."
+  ],
+  "stars": 2512,
+  "starsToday": 15,
+  "language": "Rust",
+  "topics": [
+    "high-performance",
+    "inference",
+    "llm",
+    "metal",
+    "rust",
+    "ai",
+    "tts"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-22T02:51:28.913Z"
+}

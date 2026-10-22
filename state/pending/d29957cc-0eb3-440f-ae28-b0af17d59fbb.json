@@ -1,0 +1,40 @@
+{
+  "id": "d29957cc-0eb3-440f-ae28-b0af17d59fbb",
+  "repo": "zhoushoujianwork/easyeda-agent",
+  "url": "https://github.com/zhoushoujianwork/easyeda-agent",
+  "category": "Developer Tool",
+  "summary": "Bộ tự động hóa EDA cho EasyEDA Pro, cung cấp các tác vụ typed cho sơ đồ/PCB và tích hợp CLI, Agent Skill và stdio MCP để AI điều khiển thiết kế phần cứng.",
+  "usecases": [
+    "Tự động tạo sơ đồ và bố cục PCB từ mô tả văn bản hoặc yêu cầu chức năng.",
+    "Tích hợp với AI coding assistants (Claude, CodeGPT) để thiết kế circuit trong luồng làm việc phát triển.",
+    "Tạo nhanh prototype circuit cho dự án maker, sản phẩm khởi nghiệp hoặc giáo dục."
+  ],
+  "ideas": [
+    "Tự động hóa quy trình thiết kế cho sản phẩm điện tử hàng loạt thông qua CI/CD.",
+    "Kết hợp với LLM để tối ưu circuit theo các tiêu chí tiêu thụ điện năng, diện tích.",
+    "Phát triển plugin tương thích cho các EDA khác (KiCad, Altium) dựa trên cùng nguyên lý action-driven."
+  ],
+  "stars": 772,
+  "starsToday": 26,
+  "language": "Go",
+  "topics": [
+    "dsh-plugin",
+    "agent-skill",
+    "ai-agent",
+    "claude-code",
+    "easyeda",
+    "eda",
+    "electronics",
+    "golang",
+    "hardware-design",
+    "jlceda",
+    "lceda",
+    "mcp",
+    "mcp-server",
+    "pcb",
+    "pcb-design",
+    "schematic"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-22T02:51:28.913Z"
+}

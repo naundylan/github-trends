@@ -1,0 +1,23 @@
+{
+  "id": "5de2a768-4706-4a23-bafe-ae002142c327",
+  "repo": "Emily2040/seedance-2.0",
+  "url": "https://github.com/Emily2040/seedance-2.0",
+  "category": "AI/LLM",
+  "summary": "Pipeline sản xuất quad-modal cho tạo film AI sử dụng Seedance 2.0, kết hợp tạo hình ảnh, video, âm thanh và văn bản.",
+  "usecases": [
+    "Tự động tạo phim ngắn từ prompt văn bản với các mô hình AI đa dạng.",
+    "Sinh đồng bộ video và cho nhân vật bằng giọng đọc tự động và hiệu ứng âm thanh.",
+    "Tối ưu quy trình post-production cho nội dung video AI-generated."
+  ],
+  "ideas": [
+    "Kết hợp voice cloning tiếng Việt để tạo diễn xuất nhân vật trong phim AI.",
+    "Phát triển công cụ giáo dục tạo nội dung học liệu tương tác và giải thích khoa học.",
+    "Sử dụng trong industry giải trí để nhanh chóng prototyping storyboard và animatic."
+  ],
+  "stars": 7884,
+  "starsToday": 29,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-22T02:51:28.913Z"
+}
