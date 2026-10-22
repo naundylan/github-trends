@@ -1,0 +1,35 @@
+{
+  "id": "461bb8b1-bc34-454b-8914-105d90255a0f",
+  "repo": "DataDog/dd-trace-go",
+  "url": "https://github.com/DataDog/dd-trace-go",
+  "category": "Developer Tool",
+  "summary": "Thư viện Go cho Datadog cung cấp APM tracing, profiling và bảo mật monitoring, hỗ trợ phân tán tracing và OpenTelemetry.",
+  "usecases": [
+    "Monitor performance và latency của Go microservices trong môi trường production.",
+    "Tracing distributed requests giữa các services để debug vấn đề hiệu năng.",
+    "Thu thập profiling và security monitoring để phát hiện anomaly."
+  ],
+  "ideas": [
+    "Kết hợp với OpenTelemetry để xây dựng dashboard tracing tùy chỉnh trên Grafana.",
+    "Sử dụng profiling data để tự động scale resources dựa trên thực tế CPU/memory.",
+    "Tích hợp với CI/CD để tự động detect performance regression trên mỗi pull request."
+  ],
+  "stars": 861,
+  "starsToday": 4,
+  "language": "Go",
+  "topics": [
+    "tracing",
+    "apm",
+    "datadog",
+    "opentracing",
+    "appsec",
+    "profiling",
+    "distributed-tracing",
+    "monitoring",
+    "performance",
+    "opentelemetry",
+    "otel"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-22T08:10:15.206Z"
+}
