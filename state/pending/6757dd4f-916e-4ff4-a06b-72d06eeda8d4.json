@@ -1,0 +1,30 @@
+{
+  "id": "6757dd4f-916e-4ff4-a06b-72d06eeda8d4",
+  "repo": "tailscale/tailscale",
+  "url": "https://github.com/tailscale/tailscale",
+  "category": "Networking",
+  "summary": "Tailscale cung cấp cách đơn giản và an toàn nhất để sử dụng WireGuard kết hợp với 2FA, cho phép truy cập mạng từ xa và kết nối giữa các thiết bị một cách mã hóa và dễ dàng mà không cần cấu hình phức tạp.",
+  "usecases": [
+    "Kết nối an toàn giữa các máy chủ và thiết bị trong môi trường làm việc từ xa.",
+    "Truy cập mạng nội bộ từ bất kỳ đâu mà không cần VPN truyền thống phức tạp.",
+    "Thiết lập kết nối giữa các dịch vụ đám mây và on-premise một cách mã hóa."
+  ],
+  "ideas": [
+    "Kết hợp với Authenticator cho xác thực biometric trên thiết bị di động.",
+    "Sử dụng làm foundation cho các hệ thống Zero Trust Network Access (ZTNA) nội bộ.",
+    "Tích hợp với các nền tảng CI/CD để tự động hóa mạng giữa các container/service."
+  ],
+  "stars": 37948,
+  "starsToday": 67,
+  "language": "Go",
+  "topics": [
+    "wireguard",
+    "oauth",
+    "sso",
+    "2fa",
+    "vpn",
+    "tailscale"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-22T19:04:06.944Z"
+}

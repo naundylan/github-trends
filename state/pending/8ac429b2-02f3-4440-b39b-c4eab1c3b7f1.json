@@ -1,0 +1,30 @@
+{
+  "id": "8ac429b2-02f3-4440-b39b-c4eab1c3b7f1",
+  "repo": "bowenliang123/dsh-context",
+  "url": "https://github.com/bowenliang123/dsh-context",
+  "category": "AI Agent/Automation",
+  "summary": "Plugin DeepSeek Harness trực quan hóa và quản lý ngữ cảnh cho agent AI, bao gồm dashboard, sidebar, lệnh thống kê và phân tích tiến hóa nhóm agent.",
+  "usecases": [
+    "Giám sát và trực quan hóa lượng context agent AI sử dụng để tránh overflow và lãng phí.",
+    "Phân tích cấu trúc và tiến hóa context qua nhiều agent team để debug logic agent.",
+    "Cung cấp thống kê composition context để tối ưu hóa hiệu suất và chi phí DeepSeek Harness."
+  ],
+  "ideas": [
+    "Tích hợp với CI/CD để cảnh báo tự động khi context vượt ngưỡng hiệu quả.",
+    "Phát triển dashboard chung cho nhiều team agent theo dõi xu hướng context qua thời gian.",
+    "Sử dụng dữ liệu context để train/customize model riêng cho từng codebase."
+  ],
+  "stars": 3395,
+  "starsToday": 321,
+  "language": "TypeScript",
+  "topics": [
+    "dsh-external",
+    "dsh-plugin",
+    "dsh-plugins",
+    "cordis-plugin",
+    "deepseek-harness",
+    "deepseek-harness-plugin"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-22T19:04:06.944Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d2a9b251-904b-4211-8bef-fa5db0ccb85e",
+  "repo": "Dokploy/dokploy",
+  "url": "https://github.com/Dokploy/dokploy",
+  "category": "DevOps/CI-CD",
+  "summary": "Nền tảng tự-hosted mã nguồn mở thay thế Vercel, Netlify và Heroku, cung cấp CI/CD, quản lý cơ sở dữ liệu và triển khai ứng dụng trên VPS của bạn.",
+  "usecases": [
+    "Triển khai ứng dụng Next.js hoặc Node.js tự-hosted trên VPS cá nhân.",
+    "Quản lý CI/CD và bản sao lưu tự động cho dự án mã nguồn mở.",
+    "Cung cấp platform hosting cho startup muốn kiểm soát dữ liệu và chi phí."
+  ],
+  "ideas": [
+    "Kết hợp với Terraform để tự động triển khai infrastructure trên nhiều VPS.",
+    "Sử dụng làm nền tảng education cho học sinh lập trình về DevOps.",
+    "Triển khai môi trường đa tenant cho SaaS sản phẩm với chi phí thấp."
+  ],
+  "stars": 37956,
+  "starsToday": 39,
+  "language": "TypeScript",
+  "topics": [
+    "deployment",
+    "self-hosted",
+    "vps",
+    "backend",
+    "backups",
+    "databases",
+    "devops",
+    "docker",
+    "frontend",
+    "mariadb",
+    "mongodb",
+    "mysql",
+    "nextjs",
+    "postgresql",
+    "agents",
+    "ai",
+    "deployments"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-22T19:04:06.944Z"
+}

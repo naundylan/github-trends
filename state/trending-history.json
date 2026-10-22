@@ -151,8 +151,8 @@
   },
   "Leonxlnx/taste-skill": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-10-11",
-    "last_saved": "2026-09-21"
+    "last_seen": "2026-10-22",
+    "last_saved": "2026-10-22"
   },
   "CoplayDev/unity-mcp": {
     "first_seen": "2026-07-05",
@@ -3419,32 +3419,47 @@
     "last_seen": "2026-10-22",
     "last_saved": "2026-10-21"
   },
-  "php/php-src": {
+  "mrdoob/three.js": {
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-22",
     "last_saved": "2026-10-22"
   },
-  "Meloong-Git/PCL": {
+  "vitejs/vite": {
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-22",
     "last_saved": "2026-10-22"
   },
-  "NanmiCoder/MediaCrawler": {
+  "Dokploy/dokploy": {
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-22",
     "last_saved": "2026-10-22"
   },
-  "onyx-dot-app/onyx": {
+  "bowenliang123/dsh-context": {
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-22",
     "last_saved": "2026-10-22"
   },
-  "genspark-ai/genoffice": {
+  "EveryInc/compound-engineering-plugin": {
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-22",
     "last_saved": "2026-10-22"
   },
-  "CopilotKit/OpenBot": {
+  "tailscale/tailscale": {
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "last_saved": "2026-10-22"
+  },
+  "samber/cc-skills-golang": {
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "last_saved": "2026-10-22"
+  },
+  "agentgateway/agentgateway": {
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "last_saved": "2026-10-22"
+  },
+  "astral-sh/uv": {
     "first_seen": "2026-10-22",
     "last_seen": "2026-10-22",
     "last_saved": "2026-10-22"
