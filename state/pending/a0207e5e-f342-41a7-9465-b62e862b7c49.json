@@ -1,0 +1,38 @@
+{
+  "id": "a0207e5e-f342-41a7-9465-b62e862b7c49",
+  "repo": "onyx-dot-app/onyx",
+  "url": "https://github.com/onyx-dot-app/onyx",
+  "category": "AI/LLM",
+  "summary": "Nền tảng AI mã nguồn mở cho phép chat với nhiều LLM, tích hợp tìm kiếm doanh nghiệp, RAG và tìm kiếm vector.",
+  "usecases": [
+    "Chat nội bộ công ty với truy vấn tài liệu và tìm kiếm vector",
+    "Tích hợp vào hệ thống hỗ trợ khách tự phục vụ (customer support)",
+    "Xây dựng assistant cá nhân có thể kết nối nhiều model LLM"
+  ],
+  "ideas": [
+    "Tích hợp khả năng tự tinh chỉnh (fine-tuning) model trực tiếp trong platform",
+    "Tạo plugin kết nối với các hệ thống CRM/ERP doanh nghiệp",
+    "Phát triển chế độ offline-first với cache vector local"
+  ],
+  "stars": 32862,
+  "starsToday": 201,
+  "language": "Python",
+  "topics": [
+    "enterprise-search",
+    "rag",
+    "ai-chat",
+    "chatgpt",
+    "gen-ai",
+    "nextjs",
+    "python",
+    "information-retrieval",
+    "ai",
+    "llm",
+    "llm-ui",
+    "chatui",
+    "self-hosted",
+    "vector-search"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-22T23:51:30.289Z"
+}

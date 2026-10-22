@@ -1,0 +1,28 @@
+{
+  "id": "720e699a-d583-4444-b0c5-ffd513106bbf",
+  "repo": "redlib-org/redlib",
+  "url": "https://github.com/redlib-org/redlib",
+  "category": "Web Frontend",
+  "summary": "Giao diện frontend riêng tư cho Reddit, lấy nội dung không theo dõi hoặc quảng cáo, viết bằng Rust.",
+  "usecases": [
+    "Duyệt Reddit ẩn danh mà không lộ dữ liệu người dùng cho trackers của Reddit.",
+    "Truy cập nội dung Reddit trong mạng hoặc vùng địa lý chính sách chặn site chính.",
+    "Nhúng nội dung Reddit vào dashboard cá nhân hoặc aggregator bảo mật."
+  ],
+  "ideas": [
+    "Triển khai redlib như proxy self-hosted cùng các công cụ riêng tư khác (NextDNS, Pi-hole) cho chặn quảng cáo/tracker toàn mạng.",
+    "Kết hợp với static site generator tạo feed cá nhân bảo mật tôn vinh mạng xã hội.",
+    "Sử dụng API redlib để lấy dữ liệu bài viết cho phân tích cảm xúc, vượt qua giới hạn API chính thức Reddit."
+  ],
+  "stars": 3881,
+  "starsToday": 13,
+  "language": "Rust",
+  "topics": [
+    "privacy",
+    "privacy-friendly-alternatives",
+    "privacy-frontend",
+    "rust"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-22T23:51:30.289Z"
+}

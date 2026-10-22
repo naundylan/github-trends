@@ -1,0 +1,27 @@
+{
+  "id": "79c67271-b191-4c4b-921c-d781b8c992e2",
+  "repo": "Meloong-Git/PCL",
+  "url": "https://github.com/Meloong-Git/PCL",
+  "category": "Desktop App",
+  "summary": "Launcher khởi động Minecraft Plain Craft (PCL) mã nguồn mở viết bằng Visual Basic .NET, cung cấp giao diện nhẹ để quản lý và chạy các phiên bản Minecraft trên Windows.",
+  "usecases": [
+    "Khởi động nhanh các phiên bản Minecraft (release, snapshot, Forge, Fabric) với một-click",
+    "Quản lý và cài đặt mods, texture packs và tài nguyên tùy chỉnh dễ dàng",
+    "Cung cấp môi trường chơi Minecraft nhẹ và tùy chỉnh cho người dùng hệ điều hành Windows"
+  ],
+  "ideas": [
+    "Thêm tính năng đồng bộ cấu hình và tài khoản qua cloud cho nhiều thiết bị",
+    "Tích hợp AI gợi ý mods hoặc tự động cấu hình tối ưu dựa trên phần cứng",
+    "Phát triển plugin hỗ trợ phiên bản Minecraft giáo dục hoặc chỉnh sửa tài nguyên trực tiếp"
+  ],
+  "stars": 8681,
+  "starsToday": 115,
+  "language": "Visual Basic .NET",
+  "topics": [
+    "minecraft",
+    "launcher",
+    "minecraft-launcher"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-22T23:51:30.289Z"
+}

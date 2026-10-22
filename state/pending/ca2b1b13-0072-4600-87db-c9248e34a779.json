@@ -1,0 +1,31 @@
+{
+  "id": "ca2b1b13-0072-4600-87db-c9248e34a779",
+  "repo": "CopilotKit/OpenBot",
+  "url": "https://github.com/CopilotKit/OpenBot",
+  "category": "AI Agent/Automation",
+  "summary": "Framework mã nguồn mở cho các đồng nghiệp AI cá nhân có trình duyệt, hệ thống tệp và công cụ, tự động hóa tác vụ với mọi hành động được lập kế hoạch và ghi nhận.",
+  "usecases": [
+    "Browser-based task automation for research and data gathering",
+    "AI agent development and testing in isolated computing environments",
+    "Integration into developer workflows for automating repetitive tasks"
+  ],
+  "ideas": [
+    "Personal AI assistants with dedicated browser and file access",
+    "Educational tools for programming tutoring and automated feedback",
+    "Scheduled background task execution for nightly operations"
+  ],
+  "stars": 6936,
+  "starsToday": 89,
+  "language": "TypeScript",
+  "topics": [
+    "ag-ui",
+    "agent-governance",
+    "ai-agents",
+    "browser-automation",
+    "copilotkit",
+    "generative-ui",
+    "mcp"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-22T23:51:30.289Z"
+}

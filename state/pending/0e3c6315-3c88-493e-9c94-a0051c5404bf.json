@@ -1,0 +1,23 @@
+{
+  "id": "0e3c6315-3c88-493e-9c94-a0051c5404bf",
+  "repo": "NanmiCoder/MediaCrawler",
+  "url": "https://github.com/NanmiCoder/MediaCrawler",
+  "category": "Developer Tool",
+  "summary": "Một trình thu thập dữ liệu (crawler) Python cho các nền tảng truyền thông xã hội Trung Quốc như Xiaohongshu, Douyin, Bilibili, Weibo và Baidu Tieba, hỗ trợ trích xuất bài viết, bình luận và tương tác.",
+  "usecases": [
+    "Market research data collection",
+    "Social media trend analysis",
+    "Brand monitoring and reputation tracking"
+  ],
+  "ideas": [
+    "Support for additional platforms like Twitter and Instagram",
+    "Large-scale crawling with proxy and CAPTCHA bypass mechanisms",
+    "Visual dashboard for data visualization and export"
+  ],
+  "stars": 67708,
+  "starsToday": 108,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-22T23:51:30.289Z"
+}

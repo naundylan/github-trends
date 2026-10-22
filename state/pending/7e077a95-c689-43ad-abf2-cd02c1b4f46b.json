@@ -1,0 +1,23 @@
+{
+  "id": "7e077a95-c689-43ad-abf2-cd02c1b4f46b",
+  "repo": "php/php-src",
+  "url": "https://github.com/php/php-src",
+  "category": "Backend Framework",
+  "summary": "Dự án là bộ interpreter cho ngôn ngữ PHP, cho phép thực thi mã PHP trên server và là nền tảng cho phát triển web backend.",
+  "usecases": [
+    "Chạy ứng dụng web dựa trên PHP như WordPress, Laravel",
+    "Xử lý logic backend và tương tác với database",
+    "Tạo API và dịch vụ web bằng PHP"
+  ],
+  "ideas": [
+    "Kết hợp với Rust để tối ưu hiệu suất interpreter",
+    "Thêm hỗ trợ native cho các framework AI qua PHP extensions",
+    "Phát triển phiên interpreter chạy trên WebAssembly (WASM) để chạy PHP trong browser"
+  ],
+  "stars": 41138,
+  "starsToday": 423,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-10-22T23:51:30.289Z"
+}

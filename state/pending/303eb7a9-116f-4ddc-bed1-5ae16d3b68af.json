@@ -1,0 +1,44 @@
+{
+  "id": "303eb7a9-116f-4ddc-bed1-5ae16d3b68af",
+  "repo": "genspark-ai/genoffice",
+  "url": "https://github.com/genspark-ai/genoffice",
+  "category": "Desktop App",
+  "summary": "Suite văn phòng mã nguồn mở miễn phí tích hợp AI Agent, cho phép tạo và sửa file .docx, .xlsx, .pptx cục bộ trên macOS, Windows và Linux với Bring Your Own Key.",
+  "usecases": [
+    "Tạo và chỉnh sửa tài liệu văn phòng bằng lệnh tự nhiên hoặc tích hợp với Claude Code, Codex, Cursor",
+    "Thay thế LibreOffice/Microsoft Office trên các hệ thống ưu tiên riêng tư và không cần internet",
+    "Tự động hóa tạo báo cáo và slide thông qua AI Agent với các skill được định nghĩa"
+  ],
+  "ideas": [
+    "Kết hợp mô hình LLM cục bộ (local LLM) để hoàn toàn offline và an toàn dữ liệu",
+    "Phát triển plugin cho VS Code để tạo file office trực tiếp từ môi trường lập trình",
+    "Xây dựng hệ thống tự động hóa quy trình làm việc (workflow) sinh báo cáo định kỳ từ dữ liệu thô"
+  ],
+  "stars": 10537,
+  "starsToday": 191,
+  "language": "TypeScript",
+  "topics": [
+    "office-suite",
+    "ai-agent",
+    "ai",
+    "spreadsheet",
+    "pdf-editor",
+    "docx",
+    "xlsx",
+    "pptx",
+    "excel",
+    "powerpoint",
+    "markdown-editor",
+    "libreoffice-alternative",
+    "local-first",
+    "microsoft-office-alternative",
+    "pdf-to-word",
+    "claude-code",
+    "cli",
+    "codex",
+    "cursor",
+    "skills"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-22T23:51:30.289Z"
+}

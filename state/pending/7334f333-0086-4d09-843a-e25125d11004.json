@@ -1,0 +1,32 @@
+{
+  "id": "7334f333-0086-4d09-843a-e25125d11004",
+  "repo": "pnpm/pnpm",
+  "url": "https://github.com/pnpm/pnpm",
+  "category": "Package Manager",
+  "summary": "Quản lý gói nhanh và tiết kiệm dung lượng đĩa, là thay thế hiện đại cho npm hoặc yarn trong môi trường Node.js.",
+  "usecases": [
+    "Quản lý phụ thuộc trong monorepo với các package chia sẻ và symlinks.",
+    "Cài đặt gói nhanh hơn khi tiết kiệm dung lượng đĩa qua lưu trữ có địa chỉ nội dung.",
+    "Pipeline CI/CD nơi các cài đặt nhanh và xác định là then chốt."
+  ],
+  "ideas": [
+    "Kết hợp với registry riêng để quản lý gói nội bộ cho doanh nghiệp.",
+    "Kết hợp với build tool tạo web apps zero-install gom dependencies lúc deploy.",
+    "Sử dụng hook system để enforcing chính sách phụ thuộc và bảo mật cho team."
+  ],
+  "stars": 36900,
+  "starsToday": 17,
+  "language": "Rust",
+  "topics": [
+    "npm",
+    "dependency-manager",
+    "package-manager",
+    "node",
+    "nodejs",
+    "install",
+    "modules",
+    "javascript"
+  ],
+  "notePath": "notes/Package-Manager.md",
+  "createdAt": "2026-10-22T23:51:30.289Z"
+}

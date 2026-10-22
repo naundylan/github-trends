@@ -1,0 +1,41 @@
+{
+  "id": "838ce75b-5953-4477-855c-af9971f603ac",
+  "repo": "zitadel/zitadel",
+  "url": "https://github.com/zitadel/zitadel",
+  "category": "Security/Pentest",
+  "summary": "ZitaDel là nền tảng cơ sở hạ infrastructure identidad toàn diện, cung cấp giải pháp xác thực, ủy quyền và quản lý người dùng hiện đại với hỗ trợ SAML, OIDC, SSO, MFA và FIDO2.",
+  "usecases": [
+    "Triển khai xác thực đơn cấp cho ứng dụng doanh nghiệp",
+    "Quản lý truy cập an toàn cho nhiều tenant với SCIM và passkeys",
+    "Tích hợp đồng vị định danh liên盟 across các dịch vụ và nền tảng"
+  ],
+  "ideas": [
+    "Xây dựng mạng lưới identity federation giữa các doanh nghiệp",
+    "Sử dụng ZitaDel làm trung tâm quản lý passkeys cho các thiết bị IoT",
+    "Tích hợp biometric authentication qua FIDO2 vào quy trình CI/CD"
+  ],
+  "stars": 15395,
+  "starsToday": 20,
+  "language": "Go",
+  "topics": [
+    "saml",
+    "authentication",
+    "authorization",
+    "login",
+    "oidc",
+    "sso",
+    "2fa",
+    "fido2",
+    "mfa",
+    "oauth2",
+    "openid-connect",
+    "identity",
+    "passkeys",
+    "user",
+    "multitenancy",
+    "scim",
+    "fips-140-3"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-22T23:51:30.289Z"
+}

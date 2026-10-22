@@ -1,0 +1,32 @@
+{
+  "id": "ccda5196-f623-468f-ba39-7603dbf3a8dd",
+  "repo": "apache/iggy",
+  "url": "https://github.com/apache/iggy",
+  "category": "Developer Tool",
+  "summary": "Apache Iggy là nền tảng message streaming cao hiệu suất viết bằng Rust, cung cấp tốc độ và throughput laser-like cho các ứng dụng thời gian thực.",
+  "usecases": [
+    "Xử lý luồng sự kiện thời gian thực cho hệ thống tài chính",
+    "Cung cấp messaging backbone cho microservices cần latency thấp",
+    "Hỗ trợ dữ liệu streaming cho các ứng dụng IoT và monitoring"
+  ],
+  "ideas": [
+    "Xây dựng nền tảng chat real-time đại scale dựa trên Iggy",
+    "Tích hợp Iggy với Apache Flink để pipeline dữ liệu streaming",
+    "Sử dụng QUIC protocol của Iggy để tối ưu truyền dữ liệu giữa edge devices"
+  ],
+  "stars": 5168,
+  "starsToday": 18,
+  "language": "Rust",
+  "topics": [
+    "messaging",
+    "quic",
+    "rust",
+    "streaming",
+    "http",
+    "iggy",
+    "tcp",
+    "apache"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-22T23:51:30.289Z"
+}
