@@ -1,0 +1,28 @@
+{
+  "id": "e324100a-db37-4811-9849-3c596149985a",
+  "repo": "astral-sh/uv",
+  "url": "https://github.com/astral-sh/uv",
+  "category": "Package Manager",
+  "summary": "Quản lý gói và dự án Python viết bằng Rust. Cung cấp giải pháp giải quyết phụ thuộc cực nhanh.",
+  "usecases": [
+    "Fast installation of Python packages and dependencies in CI/CD pipelines",
+    "Managing virtual environments and Python versions across multiple projects",
+    "Offline dependency resolution for restricted network environments"
+  ],
+  "ideas": [
+    "Integrate as a backend build step in serverless Python functions for instant cold-start optimization",
+    "Use as a foundation for a multi-language project manager combining Rust and Python ecosystems",
+    "Develop a GUI dashboard for visualizing dependency trees and resolution speed comparisons"
+  ],
+  "stars": 91046,
+  "starsToday": 59,
+  "language": "Rust",
+  "topics": [
+    "packaging",
+    "python",
+    "resolver",
+    "uv"
+  ],
+  "notePath": "notes/Package-Manager.md",
+  "createdAt": "2026-10-23T02:48:40.285Z"
+}

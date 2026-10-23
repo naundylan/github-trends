@@ -1,0 +1,44 @@
+{
+  "id": "05b400a3-6295-4845-bc67-759b79b71952",
+  "repo": "CarterPerez-dev/Cybersecurity-Projects",
+  "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
+  "category": "Security/Pentest",
+  "summary": "Chứa 70 dự án cybersecurity từ cơ bản đến nâng cao, thiết kế gamified để học tập, tham khảo hoặc sao chép, viết bằng Go.",
+  "usecases": [
+    "Học tập cybersecurity từ cơ bản đến nâng cao qua các dự án thực tế",
+    "Tạo portfolio cybersecurity với các bài tập hands-on",
+    "Giáo viên/course designer sử dụng làm tài liệu tham khảo hoặc lab"
+  ],
+  "ideas": [
+    "Phát triển ứng dụng học tập gamified cho các lĩnh vực kỹ thuật khác",
+    "Kết hợp với CTF platform để tự động tạo bài test",
+    "Xây dựng hệ thống theo dõi tiến độ học tập và đạt được badge"
+  ],
+  "stars": 8469,
+  "starsToday": 31,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "certification",
+    "cloud-engineering",
+    "cyber",
+    "cybersecurity",
+    "cybersecurity-analyst",
+    "cybersecurity-certification",
+    "cybersecurity-certifications",
+    "cybersecurity-education",
+    "cybersecurity-jobs",
+    "cybersecurity-projects",
+    "cybersecurity-tools",
+    "grc",
+    "hacking",
+    "pentesting",
+    "projetcs",
+    "python",
+    "cybersecurity-portfolio",
+    "learning",
+    "project-repository"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-23T02:48:40.285Z"
+}

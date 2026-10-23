@@ -1,0 +1,30 @@
+{
+  "id": "04d6510e-3bfd-4629-a968-995592565d49",
+  "repo": "tailscale/tailscale",
+  "url": "https://github.com/tailscale/tailscale",
+  "category": "Networking",
+  "summary": "Công cụ mạng an toàn sử dụng WireGuard và 2FA để tạo kết nối VPN riêng giữa các thiết bị và máy chủ.",
+  "usecases": [
+    "Kết nối an toàn giữa các máy chủ và thiết bị trong mạng nội bộ hoặc đa đám mây",
+    "Truy cập từ xa vào development environment không cần mở port hoặc cấu hình phức tạp",
+    "Đảm bảo an toàn cho team development với xác thực 2FA và SSO tích hợp"
+  ],
+  "ideas": [
+    "Tích hợp với CI/CD pipeline để tự động thiết lập môi trường develop isolated",
+    "Sử dụng cho mesh networking trong các ứng dụng IoT hoặc edge computing",
+    "Phát triển plugin cho IDE để quản lý network context và connection status"
+  ],
+  "stars": 37968,
+  "starsToday": 68,
+  "language": "Go",
+  "topics": [
+    "wireguard",
+    "oauth",
+    "sso",
+    "2fa",
+    "vpn",
+    "tailscale"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-23T02:48:40.285Z"
+}

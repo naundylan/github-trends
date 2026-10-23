@@ -1,0 +1,41 @@
+{
+  "id": "d0f7a6b8-7958-4933-8770-f26881f65290",
+  "repo": "Dokploy/dokploy",
+  "url": "https://github.com/Dokploy/dokploy",
+  "category": "DevOps/CI-CD",
+  "summary": "Dokploy là nền tảng self-hosted mã nguồn mở cho phép triển khai và quản lý ứng dụng, cơ sở dữ liệu và dịch vụ trên VPS, là thay thế miễn phí cho Vercel, Netlify và Heroku.",
+  "usecases": [
+    "Triển khai ứng dụng Next.js hoặc Node.js trên VPS cá nhân với kiểm soát toàn bộ môi trường.",
+    "Quản lý và vận hành cơ sở dữ liệu PostgreSQL, MySQL, MongoDB thông qua giao diện web cho dự án self-hosted.",
+    "Cấu hình CI/CD tự động và backup định kỳ cho các dịch vụ web trên máy chủ riêng."
+  ],
+  "ideas": [
+    "Kết hợp AI agents để tự động hóa quy trình deploy, scaling và quản lý tài nguyên trên Dokploy.",
+    "Tạo marketplace templates cho các stackframework phổ biến (Laravel, Node, Python) thực hiện one-click deploy.",
+    "Phát triển plugin monitoring tích hợp với Prometheus/Grafana cho các instance Dokploy self-hosted."
+  ],
+  "stars": 37958,
+  "starsToday": 51,
+  "language": "TypeScript",
+  "topics": [
+    "deployment",
+    "self-hosted",
+    "vps",
+    "backend",
+    "backups",
+    "databases",
+    "devops",
+    "docker",
+    "frontend",
+    "mariadb",
+    "mongodb",
+    "mysql",
+    "nextjs",
+    "postgresql",
+    "agents",
+    "ai",
+    "deployments"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-23T02:48:40.285Z"
+}

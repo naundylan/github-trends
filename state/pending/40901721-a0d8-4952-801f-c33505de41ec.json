@@ -1,0 +1,30 @@
+{
+  "id": "40901721-a0d8-4952-801f-c33505de41ec",
+  "repo": "bowenliang123/dsh-context",
+  "url": "https://github.com/bowenliang123/dsh-context",
+  "category": "Developer Tool",
+  "summary": "Plug-in DeepSeek Harness cho quản lý và trực quan hóa ngữ cảnh, cung cấp dashboard, lệnh thống kê và phân tích cấu thành context.",
+  "usecases": [
+    "Theo dõi và phân tích cấu thành context cho các team DeepSeek Harness",
+    "Giám sát tiến hóa và thống kê context theo thời gian thực",
+    "Hỗ trợ quản lý nhiều agent team với insight về composition context"
+  ],
+  "ideas": [
+    "Kết hợp với dashboard monitoring khác để hiển thị health context real-time",
+    "Tạo báo cáo tự động về hiệu suất context cho dự án AI lớn",
+    "Phát triển plugin tương tự cho các framework LLM khác"
+  ],
+  "stars": 3415,
+  "starsToday": 296,
+  "language": "TypeScript",
+  "topics": [
+    "dsh-external",
+    "dsh-plugin",
+    "dsh-plugins",
+    "cordis-plugin",
+    "deepseek-harness",
+    "deepseek-harness-plugin"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-23T02:48:40.285Z"
+}
