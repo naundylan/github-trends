@@ -1,0 +1,23 @@
+{
+  "id": "1fc41088-e2e1-4d30-bf38-ca5746f9b3e0",
+  "repo": "genlayerlabs/genlayer-project-boilerplate",
+  "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+  "category": "Boilerplate/Starter Template",
+  "summary": "Mẫu khởi đầu TypeScript cho dự án Genlayer, cung cấp cấu trúc cơ bản để phát triển nhanh.",
+  "usecases": [
+    "Khởi tạo dự án TypeScript cho Genlayer một cách nhanh chóng",
+    "Tích hợp các tính năng mặc định cho ứng dụng Genlayer",
+    "Tiết kiệm thời cấu hình ban đầu cho nhà phát triển"
+  ],
+  "ideas": [
+    "Thêm hỗ trợ cho các ngôn ngữ ngoài TypeScript",
+    "Tích hợp CI/CD tự động cho Genlayer",
+    "Tạo plugin mở rộng cho các framework phổ biến"
+  ],
+  "stars": 19133,
+  "starsToday": 82,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Boilerplate-Starter-Template.md",
+  "createdAt": "2026-10-23T14:05:20.213Z"
+}

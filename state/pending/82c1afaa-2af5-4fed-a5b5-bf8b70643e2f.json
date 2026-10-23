@@ -1,0 +1,23 @@
+{
+  "id": "82c1afaa-2af5-4fed-a5b5-bf8b70643e2f",
+  "repo": "pollen-robotics/microduck",
+  "url": "https://github.com/pollen-robotics/microduck",
+  "category": "Embedded/IoT",
+  "summary": "Microduck là robot vị hai chân dạng vịt nhỏ mã nguồn mở, sử dụng Rust để điều khiển chuyển động, cân bằng và cơ chế di chuyển.",
+  "usecases": [
+    "Nghiên cứu và phát triển thuật toán cân bằng cho robot vị hai chân",
+    "Dùng làm nền tảng cho robot giáo dục hoặc giải trí nhỏ",
+    "Thử nghiệm cảm biến và điều khiển trong môi trường vật lý thực tế"
+  ],
+  "ideas": [
+    "Triển khai khả năng nhận diện môi trường qua camera hoặc cảm biến để robot tự chủ",
+    "Kết hợp AI di động để robot Microduck thực hiện các tác vụ phức tạp",
+    "Xây dựng phần mềm mô phỏng để test và tối ưu hóa thuật toán cơ học trước khi sản xuất phần cứng"
+  ],
+  "stars": 10356,
+  "starsToday": 430,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-23T14:05:20.213Z"
+}

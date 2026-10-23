@@ -1,0 +1,39 @@
+{
+  "id": "2fee67c3-4ea2-43cf-9766-137d5d27329f",
+  "repo": "infiniflow/ragflow",
+  "url": "https://github.com/infiniflow/ragflow",
+  "category": "AI/LLM",
+  "summary": "Mô hình RAG mã nguồn mở kết hợp khả năng Retrieval-Augmented Generation với Agent, tạo lớp ngữ cảnh cao cho LLMs.",
+  "usecases": [
+    "Xây dựng hệ thống trả lời câu hỏi dựa trên tài liệu nội bộ",
+    "Tạo trợ lý AI có khả năng truy cập và sử dụng kiến thức cập nhật",
+    "Phát triển ứng dụng chatbot có khả năng reasoning và truy xuất thông tin"
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu vector để tăng tốc độ tìm kiếm",
+    "Phát triển phiên bản tích hợp cho các mô hình LLM thương mại",
+    "Tạo giao diện quản lý cho knowledge base"
+  ],
+  "stars": 92735,
+  "starsToday": 80,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "context-engine",
+    "rag",
+    "retrieval-augmented-generation",
+    "agentic-ai",
+    "agentic-retrieval",
+    "agentic-search",
+    "context-management",
+    "knowledge-compilation",
+    "agent-harness",
+    "context-engineering",
+    "harness-engineering",
+    "agentic-nagive",
+    "search-harness"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-23T14:05:20.213Z"
+}

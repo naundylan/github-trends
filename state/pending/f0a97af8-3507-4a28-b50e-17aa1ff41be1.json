@@ -1,0 +1,26 @@
+{
+  "id": "f0a97af8-3507-4a28-b50e-17aa1ff41be1",
+  "repo": "liguobao/ds-harness-remote",
+  "url": "https://github.com/liguobao/ds-harness-remote",
+  "category": "Developer Tool",
+  "summary": "Giải pháp truy cập từ xa đa nền tảng dựa trên DeepSeek Harness, cho phép điều khiển PC, Android và Web qua mạng P2P-first an toàn và mã hóa end-to-end.",
+  "usecases": [
+    "Truy cập và điều khiển máy phát triển từ xa trên Android",
+    "Làm việc từ xa (remote work) cho các dự án code và CodeX",
+    "Hỗ trợ kỹ thuật từ xa cho các máy chủ Harness và CodeX"
+  ],
+  "ideas": [
+    "Tích hợp với container management để remote vào môi trường development",
+    "Phát triển Web client để điều khiển qua trình duyệt không cần cài đặt",
+    "Kết nối với hệ thống giám sát hiệu suất kết nối P2P"
+  ],
+  "stars": 776,
+  "starsToday": 331,
+  "language": "TypeScript",
+  "topics": [
+    "dsh-plugin",
+    "deepseek"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-23T14:05:20.213Z"
+}

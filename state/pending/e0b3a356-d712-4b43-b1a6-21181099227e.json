@@ -1,0 +1,23 @@
+{
+  "id": "e0b3a356-d712-4b43-b1a6-21181099227e",
+  "repo": "baidu/Unlimited-OCR",
+  "url": "https://github.com/baidu/Unlimited-OCR",
+  "category": "Computer Vision",
+  "summary": "Unlimited-OCR là công cụ OCR Python cho trích xuất văn bản từ hình ảnh và tài liệu với khả năng xử lý dài hạn one-shot.",
+  "usecases": [
+    "Trích xuất dữ liệu từ hợp đồng, hóa đơn và tài liệu quét",
+    "Nhận diện văn bản trong ảnh vệ tinh hoặc báo cáo dài",
+    "Tích hợp vào pipeline ETL để chuyển đổi tài liệu giấy thành dữ liệu số"
+  ],
+  "ideas": [
+    "Kết hợp với LLM để hiểu ngữ cảnh và tóm tắt nội dung tài liệu",
+    "Xây dựng hệ thống tìm kiếm tài liệu quét dựa trên nội dung",
+    "Áp dụng cho AR/Virtual overlay nhận diện text theo thời gian thực"
+  ],
+  "stars": 28260,
+  "starsToday": 93,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-10-23T14:05:20.213Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5a63ffe9-87e4-44c1-b315-ebf7d3422783",
+  "repo": "Renhuai123/ziwei-doushu",
+  "url": "https://github.com/Renhuai123/ziwei-doushu",
+  "category": "Other",
+  "summary": "Ziwei-Doushu là engine tính toán open-source cho Purple Star Astrology (紫微斗数), cung cấp các thuật toán tính toán bản đồ destiny hoàn chỉnh, hệ thống Four Transformations và cơ sở dữ liệu kiến thức cổ dựa trên体系 của Ni Hai Xia.",
+  "usecases": [
+    "Tính toán chính xác bản đồ destiny cho mục đích tư vấn hoặc nghiên cứu",
+    "Phân tích cấu trúc destiny và tương quan với các yếu tố thời gian địa lý",
+    "Tích hợp vào các ứng dụng dự đoán số phận hoặc dịch vụ tư vấn đạo học"
+  ],
+  "ideas": [
+    "Kết hợp AI sinh lời để tự động giải thích cấu trúc destiny cho người dùng",
+    "Phát triển ứng dụng di động tính toán destiny theo thời gian thực dựa trên vị trí và thời gian",
+    "Xây dựng API cung cấp dữ liệu destiny để tích hợp với các nền tảng horoscope bên thứ ba"
+  ],
+  "stars": 6648,
+  "starsToday": 547,
+  "language": "TypeScript",
+  "topics": [
+    "bazi",
+    "chinese-astrology",
+    "divination",
+    "fortune-telling",
+    "nextjs",
+    "open-source",
+    "purple-star-astrology",
+    "typescript",
+    "zi-wei-dou-shu",
+    "ziwei-doushu"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-23T14:05:20.213Z"
+}
