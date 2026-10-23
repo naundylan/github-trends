@@ -1,0 +1,23 @@
+{
+  "id": "7d74660d-3b28-4e5c-954d-b02c86b04a45",
+  "repo": "pollen-robotics/microduck",
+  "url": "https://github.com/pollen-robotics/microduck",
+  "category": "Embedded/IoT",
+  "summary": "MicroDuck là con robot bộ hai dạng vịt nhỏ, viết bằng Rust, tập trung vào cơ chế di chuyển nhịp nhàng và minh họa khả năng lập trình nhúng cho robot di chuyển.",
+  "usecases": [
+    "Nghiên cứu và giáo dục về robotics cơ bản và động cơ nhúng",
+    "Thử nghiệm algorithm điều khiển bộ hai (biped locomotion)",
+    "Dùng làm nền tảng cho các dự án maker/hobby robot di chuyển"
+  ],
+  "ideas": [
+    "Thêm cảm biến distance và chức năng theo dõi người dùng",
+    "Kết hợp AI để tự tránh chướng ngại vật và định tuyến",
+    "Phát triển phiên bản đa dạng kích thước hoặc thú chơi tương tác"
+  ],
+  "stars": 10491,
+  "starsToday": 430,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-23T23:44:11.401Z"
+}

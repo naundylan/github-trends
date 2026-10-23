@@ -1,0 +1,26 @@
+{
+  "id": "74ff7ee4-77d0-4277-92bf-eac681ad865c",
+  "repo": "liguobao/ds-harness-remote",
+  "url": "https://github.com/liguobao/ds-harness-remote",
+  "category": "Developer Tool",
+  "summary": "Một giải pháp truy cập xa đa thiết bị dựa trên hệ thống plugin DeepSeek Harness, cho phép điều khiển an toàn Harness và CodeX từ PC, Android hoặc Web qua mạng P2P mã hóa end-to-end.",
+  "usecases": [
+    "Truy cập và điều khiển remote Harness từ thiết bị di động khi di chuyển hoặc làm việc từ xa.",
+    "Sửa chữa và phát triển CodeX trực tiếp trên trình duyệt Web mà không cần cài đặt môi trường nặng.",
+    "Cung cấp kênh an toàn cho team phát triển remote vào môi trường development từ bất kỳ đâu."
+  ],
+  "ideas": [
+    "Phát triển plugin VS Code để điều khiển remote environment trực tiếp từ editor mà không cần kết nối remote desktop.",
+    "Sử dụng cấu trúc P2P này để hỗ trợ kỹ thuật từ xa hoặc học tập cộng tác giữa các nhà phát triển.",
+    "Tích hợp với hệ thống quản lý phiên bản để đồng bộ mã nguồn giữa local và remote environment."
+  ],
+  "stars": 798,
+  "starsToday": 331,
+  "language": "TypeScript",
+  "topics": [
+    "dsh-plugin",
+    "deepseek"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-23T23:44:11.401Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "73f1e363-54d7-4129-a8dd-8513ba5549f2",
+  "repo": "anomalyco/hex",
+  "url": "https://github.com/anomalyco/hex",
+  "category": "Desktop App",
+  "summary": "Phần mềm dictation giọng nói local-first cho macOS, cho phép giữ phím tắt, nói và dán vào bất kỳ ứng dụng nào. Điểm nổi bật là viết bằng Rust, nhận dạng giọng nói trên thiết bị, và bản beta Linux.",
+  "usecases": [
+    "Ghi chép nhanh ý tưởng hoặc văn bản bằng giọng nói khi làm việc trên macOS.",
+    "Điều khiển ứng dụng hoặc nhập liệu trong môi trường không thể sử dụng bàn phím.",
+    "Đồng bộ ghi chú giọng nói giữa macOS và Linux thông qua bản beta."
+  ],
+  "ideas": [
+    "Kết hợp với các phím tắt hệ thống để tạo giao diện điều khiển giọng nói cho các ứng dụng chuyên dụng.",
+    "Sử dụng trên thiết bị di động thông qua tính năng Linux beta hoặc tương thích Wine.",
+    "Kết hợp với các mô hình local LLM để thực hiện các lệnh phức hợp dựa trên lệnh thoại."
+  ],
+  "stars": 557,
+  "starsToday": 28,
+  "language": "Rust",
+  "topics": [
+    "dictation",
+    "linux",
+    "local-first",
+    "macos",
+    "rust",
+    "speech-recognition",
+    "speech-to-text",
+    "voice-control"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-23T23:44:11.401Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "f0c87e41-5976-4f55-809c-6e42b7f684f8",
+  "repo": "genlayerlabs/genlayer-project-boilerplate",
+  "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+  "category": "Boilerplate/Starter Template",
+  "summary": "Boilerplate dự án nhanh cho Genlayer, giúp developer khởi tạo dự án TypeScript với cấu hình sẵn cho AI agent và tương tác hợp đồng decentralized.",
+  "usecases": [
+    "Khởi tạo nhanh dự án TypeScript kết nối Genlayer để xây dựng AI agents trên blockchain.",
+    "Phát triển ứng dụng decentralized có tích hợp AI reasoning và tương tác hợp đồng thông minh.",
+    "Tạo prototype cho các giải pháp workforce AI decentralized với boilerplate sẵn có."
+  ],
+  "ideas": [
+    "Kết hợp boilerplate với AutoGen hoặc LangChain để tạo ra các AI agent hoạt động trên Genlayer.",
+    "Mở rộng thành full-stack dApp quản lý đội ngũ AI decentralized cho doanh nghiệp.",
+    "Sử dụng làm nền tảng build các giải pháp tự động hóa giao dịch kết hợp AI reasoning trên blockchain."
+  ],
+  "stars": 19160,
+  "starsToday": 82,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Boilerplate-Starter-Template.md",
+  "createdAt": "2026-10-23T23:44:11.401Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "da56dc22-785a-4b94-8ebb-53482fd4b161",
+  "repo": "bowenliang123/dsh-context",
+  "url": "https://github.com/bowenliang123/dsh-context",
+  "category": "Developer Tool",
+  "summary": "Plugin DeepSeek Harness cho trực quan hóa và quản lý ngữ cảnh tương tác, cung cấp dashboard, sidebar và lệnh theo dõi cấu trúc và tiến hóa của context.",
+  "usecases": [
+    "Theo dõi cách context được tạo ra và thay đổi trong hội thoại dài",
+    "Phân tích hiệu quả context cho nhiều agent trong team",
+    "Debug ứng dụng AI agent dựa trên DeepSeek Harness"
+  ],
+  "ideas": [
+    "Cảnh báo tự động khi kích thước context vượt ngưỡng an toàn",
+    "Mở rộng plugin cho các framework AI agent khác",
+    "Sử dụng dữ liệu tiến hóa context để tối ưu prompts tự động"
+  ],
+  "stars": 3476,
+  "starsToday": 83,
+  "language": "TypeScript",
+  "topics": [
+    "dsh-external",
+    "dsh-plugin",
+    "dsh-plugins",
+    "cordis-plugin",
+    "deepseek-harness",
+    "deepseek-harness-plugin"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-23T23:44:11.401Z"
+}

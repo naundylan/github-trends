@@ -1,0 +1,34 @@
+{
+  "id": "657a4405-2201-4134-967e-71b0661900d9",
+  "repo": "stalwartlabs/stalwart",
+  "url": "https://github.com/stalwartlabs/stalwart",
+  "category": "Backend Framework",
+  "summary": "Server email và cộng tác toàn diện, an toàn và có thể mở rộng, hỗ trợ mọi giao thức (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). Điểm nổi bật là mã nguồn mở, viết bằng Rust, và tích hợp nhiều giao thức mail và calendars.",
+  "usecases": [
+    "Triển khai server email riêng cho doanh nghiệp với hỗ trợ giao thức IMAP/SMTP.",
+    "Quản lý liên hệ và lịch sự (CalDAV/CardDAV) trong một hệ thống thống nhất.",
+    "Tích hợp khả năng gửi email vào ứng dụng nội bộ hoặc workflow tự động hóa."
+  ],
+  "ideas": [
+    "Triển khai làm giải pháp email riêng cho các tổ chức chú trọng quyền riêng tư (privacy-first).",
+    "Kết hợp với các công cụ workflow (như n8n hoặc Zapier) để tự động hóa xử lý email và calendar events.",
+    "Sử dụng làm nền tảng cho các dịch vụ email doanh nghiệp được host trên cloud cá nhân hoặc VPS."
+  ],
+  "stars": 15264,
+  "starsToday": 27,
+  "language": "Rust",
+  "topics": [
+    "imap",
+    "jmap",
+    "mail",
+    "rust",
+    "server",
+    "smtp",
+    "pop3",
+    "caldav",
+    "carddav",
+    "webdav"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-10-23T23:44:11.401Z"
+}

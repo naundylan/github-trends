@@ -1,0 +1,34 @@
+{
+  "id": "843aabf5-ab7e-4d5a-91f8-fe6cb376f5ec",
+  "repo": "Renhuai123/ziwei-doushu",
+  "url": "https://github.com/Renhuai123/ziwei-doushu",
+  "category": "Other",
+  "summary": "Ziwei Dou Shu là engine排盘 mã nguồn mở dựa trên hệ thống Thiên Kỷ của Ni Hải Tịch, cung cấp thuật toán tính toán hoàn chỉnh, cơ sở dữ liệu kiến thức格局 và văn bản cổ điển cho astrology tử tế.",
+  "usecases": [
+    "Tính toán và phân phối bản đồ sao tử tế cho người dùng",
+    "Hỗ trợ học tập và nghiên cứu astrology cổ điển Trung Hoa",
+    "Tích hợp vào ứng dụng dự báo số tử hoặc tư vấn destiny"
+  ],
+  "ideas": [
+    "Kết hợp AI tạo bản phân tích tự nhiên ngôn ngữ cho từng cấu hình sao",
+    "Phát triển ứng dụng di động tương tác hiển thị cung sao và tương quan",
+    "Tạo plugin cho nền tảng mạng xã hội占星 cung cấp báo cáo cá nhân"
+  ],
+  "stars": 6843,
+  "starsToday": 547,
+  "language": "TypeScript",
+  "topics": [
+    "bazi",
+    "chinese-astrology",
+    "divination",
+    "fortune-telling",
+    "nextjs",
+    "open-source",
+    "purple-star-astrology",
+    "typescript",
+    "zi-wei-dou-shu",
+    "ziwei-doushu"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-23T23:44:11.401Z"
+}

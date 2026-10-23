@@ -1,0 +1,44 @@
+{
+  "id": "357e8220-9a59-4e7c-8e4a-b6e98e7ad7ca",
+  "repo": "Anil-matcha/open-duet",
+  "url": "https://github.com/Anil-matcha/open-duet",
+  "category": "AI Agent/Automation",
+  "summary": "Thay thế mã nguồn mở, tự-hosted cho Claude Duet, cung cấp các AI coworker có tên, bộ nhớ, quy trình và cơ sở máy tính riêng, yêu cầu phê duyệt trước khi hành động.",
+  "usecases": [
+    "Tự động hóa các tác vụ văn phòng lặp lại với các AI agent có memory và routines.",
+    "Triển khai workspace AI cá nhân an toàn trên máy chủ riêng, giữ dữ liệu nội bộ và tuân thủ bảo mật.",
+    "Thay thế cho các dịch vụ AI thương mại như Claude Haystack hoặc OpenAI agents trong môi trường có yêu cầu bảo mật cao."
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu vector để mở rộng khả năng tìm kiếm và memory cho các agent.",
+    "Tạo hệ thống multi-agent phối hợp để quản lý dự án phát triển phần mềm hoặc quy trình làm việc.",
+    "Sử dụng làm nền tảng cho các AI employee trong các công ty remote, với khả năng kiểm soát và phê duyệt thủ công trước khi hành động."
+  ],
+  "stars": 6108,
+  "starsToday": 68,
+  "language": "Python",
+  "topics": [
+    "agentic-ai",
+    "ai-agent",
+    "ai-assistant",
+    "ai-workspace",
+    "computer-use",
+    "computer-use-agent",
+    "open-source",
+    "open-source-alternative",
+    "self-hosted",
+    "self-hosted-ai",
+    "chatgpt-agent",
+    "claude-cowork",
+    "grok-bot",
+    "meta-muse",
+    "personal-ai-agent",
+    "manus-cue",
+    "ai-coworker",
+    "ai-employees",
+    "claude-duet",
+    "grok-bot-alternative"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-23T23:44:11.401Z"
+}
