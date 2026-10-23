@@ -1,0 +1,32 @@
+{
+  "id": "203c937f-5108-4fa2-8dfb-27c58844b02f",
+  "repo": "grafana/alloy",
+  "url": "https://github.com/grafana/alloy",
+  "category": "Developer Tool",
+  "summary": "Phân phối OpenTelemetry Collector với khả năng pipeline lập trình để thu thập, xử lý và xuất telemetry dữ liệu.",
+  "usecases": [
+    "Collecting metrics and logs from microservices and forwarding to Grafana Loki or Prometheus",
+    "Transforming and enriching telemetry data before storage or visualization",
+    "Standardizing observability data across heterogeneous infrastructure"
+  ],
+  "ideas": [
+    "Building custom pipeline plugins to integrate proprietary metrics sources with Grafana dashboards",
+    "Using Alloy as a lightweight sidecar for edge device telemetry aggregation",
+    "Combining Alloy with OpenTelemetry SDKs for automated tracing in serverless environments"
+  ],
+  "stars": 3633,
+  "starsToday": 3,
+  "language": "Go",
+  "topics": [
+    "collector",
+    "grafana",
+    "loki",
+    "monitoring",
+    "observability",
+    "opentelemetry",
+    "opentelemetry-collector",
+    "prometheus"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-23T08:10:26.167Z"
+}

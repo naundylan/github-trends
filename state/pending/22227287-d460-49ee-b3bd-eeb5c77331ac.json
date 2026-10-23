@@ -1,0 +1,26 @@
+{
+  "id": "22227287-d460-49ee-b3bd-eeb5c77331ac",
+  "repo": "open-telemetry/opentelemetry-collector-contrib",
+  "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+  "category": "DevOps/CI-CD",
+  "summary": "Kho mở rộng cho OpenTelemetry Collector, cung cấp các receiver, processor và exporter bổ sung để thu thập và xuất dữ liệu telemetry (tracs, metrics, logs) từ nhiều nguồn đến các hệ thống hậu cần.",
+  "usecases": [
+    "Thu thập logs và metrics từ các microservices phức tạp và gửi đến backend OpenTelemetry để phân tích hiệu suất.",
+    "Tích hợp các exporter tùy chỉnh để xuất telemetry data đến các hệ thống giám sát như Datadog, New Relic hoặc Prometheus.",
+    "Phân tích đường dẫn yêu cầu (traces) trong các ứng dụng phân tán để debug hiệu năng và tìm bottlenecks."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động tạo báo cáo hiệu suất từ dữ liệu telemetry thu thập.",
+    "Xây dựng pipeline tự động hóa để deploy các receiver/processor tùy chỉnh vào cluster Kubernetes dựa trên traffic.",
+    "Tạo dashboard tùy chỉnh trong Grafana để trực quan hóa dữ liệu từ các exporter contrib không chuẩn."
+  ],
+  "stars": 5015,
+  "starsToday": 2,
+  "language": "Go",
+  "topics": [
+    "opentelemetry",
+    "open-telemetry"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-23T08:10:26.167Z"
+}

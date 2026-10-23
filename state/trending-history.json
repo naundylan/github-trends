@@ -3469,47 +3469,27 @@
     "last_seen": "2026-10-23",
     "last_saved": "2026-10-22"
   },
-  "mrdoob/three.js": {
+  "adobe/skills": {
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23",
     "last_saved": "2026-10-23"
   },
-  "vitejs/vite": {
+  "github/docs": {
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23",
     "last_saved": "2026-10-23"
   },
-  "Dokploy/dokploy": {
+  "helm/helm": {
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23",
     "last_saved": "2026-10-23"
   },
-  "bowenliang123/dsh-context": {
+  "open-telemetry/opentelemetry-collector-contrib": {
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23",
     "last_saved": "2026-10-23"
   },
-  "EveryInc/compound-engineering-plugin": {
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23",
-    "last_saved": "2026-10-23"
-  },
-  "tailscale/tailscale": {
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23",
-    "last_saved": "2026-10-23"
-  },
-  "samber/cc-skills-golang": {
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23",
-    "last_saved": "2026-10-23"
-  },
-  "agentgateway/agentgateway": {
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23",
-    "last_saved": "2026-10-23"
-  },
-  "astral-sh/uv": {
+  "grafana/alloy": {
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23",
     "last_saved": "2026-10-23"

@@ -1,0 +1,26 @@
+{
+  "id": "6ff4137c-9997-43af-bd85-98fa0de8d4b1",
+  "repo": "github/docs",
+  "url": "https://github.com/github/docs",
+  "category": "Documentation/Learning Resource",
+  "summary": "Nguồn mở cho docs.github.com, cung cấp tài liệu và công cụ hỗ trợ phát triển docs kèm Codespaces",
+  "usecases": [
+    "Contribute tài liệu GitHub locally bằng Codespaces",
+    "Tự động hóa génération docs cho dự án open-source",
+    "Học cách GitHub xây dựng và publish tài liệu kỹ thuật"
+  ],
+  "ideas": [
+    "Xây dựng personal doc site dùng cấu trúc giống GitHub Docs",
+    "Tạo script sync markdown local lên GitHub Docs tự động",
+    "Phát triển tìm kiếm nội dung docs qua GitHub API"
+  ],
+  "stars": 21080,
+  "starsToday": 12,
+  "language": "TypeScript",
+  "topics": [
+    "docs",
+    "works-with-codespaces"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-23T08:10:26.167Z"
+}
