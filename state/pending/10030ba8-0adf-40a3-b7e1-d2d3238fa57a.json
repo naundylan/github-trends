@@ -1,0 +1,31 @@
+{
+  "id": "10030ba8-0adf-40a3-b7e1-d2d3238fa57a",
+  "repo": "SehajveerSingh2005/bloom",
+  "url": "https://github.com/SehajveerSingh2005/bloom",
+  "category": "Desktop App",
+  "summary": "Một ứng dụng desktop companion cho Windows, thay thế giao diện tĩnh bằng một workspace tự nhiên, lỏng lẻo và phản hồi nhanh.",
+  "usecases": [
+    "Tùy chỉnh giao diện Windows theo phong cách cá nhân, thay thế menu bắt đầu truyền thống",
+    "Tạo môi trường làm việc mượt mà cho đa nhiệm mà không cần chuyển giữa nhiều cửa sổ",
+    "Phù hợp cho thiết bị cảm ứng hoặc thiết bị có lỗ h Notch, cung trải nghiệm trực quan hiện đại"
+  ],
+  "ideas": [
+    "Tích hợp widget hiển thị thời tiết, tin tức hoặc nhanh tay mà không cần mở ứng dụng",
+    "Phát triển chủ đề cộng đồng cho phép tùy chỉnh sâu hiệu ứng chuyển động và tương tác",
+    "Kết hợp API voice command để điều khiển desktop bằng giọng nói"
+  ],
+  "stars": 337,
+  "starsToday": 31,
+  "language": "TypeScript",
+  "topics": [
+    "bloom",
+    "customization",
+    "desktop-customization",
+    "docker",
+    "notch",
+    "tauri",
+    "windows"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-23T18:52:30.598Z"
+}

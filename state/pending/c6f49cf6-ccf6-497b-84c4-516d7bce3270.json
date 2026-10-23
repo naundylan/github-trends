@@ -1,0 +1,42 @@
+{
+  "id": "c6f49cf6-ccf6-497b-84c4-516d7bce3270",
+  "repo": "promptfoo/promptfoo",
+  "url": "https://github.com/promptfoo/promptfoo",
+  "category": "AI/LLM",
+  "summary": "Dự án test, đánh giá và red teaming cho prompts, agents và RAGs AI, hỗ trợ so sánh hiệu suất LLM và tích hợp CI/CD.",
+  "usecases": [
+    "Test và so sánh hiệu suất prompts giữa các LLM provider",
+    "Red teaming và tìm lỗ hổng bảo mật cho ứng dụng AI",
+    "Tích hợp tự động evaluation prompts trong CI/CD pipeline"
+  ],
+  "ideas": [
+    "Tạo dashboard real-time theo dõi hiệu suất và chi phí giữa các mô hình AI",
+    "Tự động hóa đánh giá chất lượng prompts cho các trường hợp dùng cụ thể",
+    "Kết hợp với monitoring để phát hiện suy giảm hiệu suất LLM theo thời gian"
+  ],
+  "stars": 26344,
+  "starsToday": 68,
+  "language": "TypeScript",
+  "topics": [
+    "llm",
+    "prompt-engineering",
+    "prompts",
+    "llmops",
+    "prompt-testing",
+    "testing",
+    "rag",
+    "evaluation",
+    "evaluation-framework",
+    "llm-eval",
+    "llm-evaluation",
+    "llm-evaluation-framework",
+    "ci",
+    "ci-cd",
+    "cicd",
+    "pentesting",
+    "red-teaming",
+    "vulnerability-scanners"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-23T18:52:30.598Z"
+}
