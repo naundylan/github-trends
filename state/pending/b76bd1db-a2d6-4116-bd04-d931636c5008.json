@@ -1,0 +1,44 @@
+{
+  "id": "b76bd1db-a2d6-4116-bd04-d931636c5008",
+  "repo": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "category": "AI/LLM",
+  "summary": "Claude-mem là một công cụ mã nguồn mở giúp agent AI giữ context liên tục giữa các session, nén thông tin với AI và đưa context liên quan vào các lần tương tác sau, tương thích với nhiều nền tảng agent.",
+  "usecases": [
+    "Giữ context liên tục giữa các session phát triển phần mềm.",
+    "Hỗ trợ agent nhớ préférence của người dùng qua thời gian.",
+    "Tăng hiệu quả cho Claude Code trong các dự án dài."
+  ],
+  "ideas": [
+    "Tích hợp với nhiều LLM khác nhau để đồng bộ memory.",
+    "Sử dụng cho personal assistant có memory dài hạn.",
+    "Phát triển hệ thống tự học từ tương tác user."
+  ],
+  "stars": 102699,
+  "starsToday": 274,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-memory",
+    "anthropic",
+    "artificial-intelligence",
+    "claude",
+    "claude-agent-sdk",
+    "claude-agents",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-skills",
+    "long-term-memory",
+    "mem0",
+    "openmemory",
+    "supermemory",
+    "chromadb",
+    "sqlite",
+    "embeddings",
+    "memory-engine",
+    "rag"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-24T13:04:52.450Z"
+}

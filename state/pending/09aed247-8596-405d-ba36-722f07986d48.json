@@ -1,0 +1,28 @@
+{
+  "id": "09aed247-8596-405d-ba36-722f07986d48",
+  "repo": "vectorize-io/hindsight",
+  "url": "https://github.com/vectorize-io/hindsight",
+  "category": "AI/LLM",
+  "summary": "Hindsight là một thư viện Python giúp agent AI ghi nhận, nén và học hỏi từ trải nghiệm quá khứ, nâng cao khả năng ghi nhớ dài hạn trong tác vụ agentic.",
+  "usecases": [
+    "Tự động cải thiện hiệu suất agent dựa trên kinh nghiệm trước.",
+    "Ghi lại các bước thất bại để tránh lặp lại lỗi.",
+    "Tối ưu hóa quyết định trong các tác vụ dài hạn."
+  ],
+  "ideas": [
+    "Kết hợp với RAG để agent truy xuất mémoire cá nhân.",
+    "Sử dụng trong tự động hóa quy trình làm việc phức tạp.",
+    "Phát triển hệ thống agent đa tác vụ chia sẻ mémoire."
+  ],
+  "stars": 53313,
+  "starsToday": 342,
+  "language": "Python",
+  "topics": [
+    "agentic-ai",
+    "memory",
+    "agents",
+    "ai-memory"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-24T13:04:52.450Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "c16a6e2e-e954-4d93-aace-09123895a9d6",
+  "repo": "Gaurav-Gosain/tuios",
+  "url": "https://github.com/Gaurav-Gosain/tuios",
+  "category": "Developer Tool",
+  "summary": "Tuios là terminal window manager cho coding agents, cung cấp tiling panes, workspaces, sessions chịu lỗi restart và Inbox riêng cho từng agent, giúp quản lý nhiều agent cùng lúc.",
+  "usecases": [
+    "Quản lý nhiều coding agents với tiling layout trên terminal",
+    "Giữ persistent sessions và workspace giữa các restart terminal",
+    "Cung cấp Inbox riêng cho mỗi agent để nhận tác vụ hoặc trạng thái"
+  ],
+  "ideas": [
+    "Tích hợp với terminal emulator phổ biến để tạo workspace chung cho team phát triển",
+    "Phát triển plugin cho tmux/zellij để sync state với AI agents",
+    "Tạo hệ thống đa-agent collaboration thông qua giao diện TUI của tuios"
+  ],
+  "stars": 5702,
+  "starsToday": 121,
+  "language": "Go",
+  "topics": [
+    "bubbletea",
+    "charm",
+    "go",
+    "multiplexer",
+    "terminal",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "golang",
+    "ssh",
+    "terminal-emulator",
+    "terminal-multiplexer",
+    "tiling-window-manager",
+    "tmux-alternative",
+    "tui",
+    "window-manager",
+    "omarchy",
+    "zellij-alternative"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-24T13:04:52.450Z"
+}

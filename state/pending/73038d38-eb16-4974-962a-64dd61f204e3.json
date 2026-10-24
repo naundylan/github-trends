@@ -1,0 +1,23 @@
+{
+  "id": "73038d38-eb16-4974-962a-64dd61f204e3",
+  "repo": "jbiaojerry/ebook-treasure-chest",
+  "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Một kho chứa liên kết tải xuống các loại sách điện tử, tổng hợp từ các ứng dụng đọc phổ biến như FanDeng, WeRead, JD Read và Himalaya, đáp ứng nhu cầu đọc sách của nhiều chủ thể.",
+  "usecases": [
+    "Tìm và tải sách điện tử từ các nguồn tổng hợp này",
+    "Theo dõi và cập nhật nguồn sách mới từ các nền đọc sách chính thức",
+    "Tích hợp vào các ứng dụng đọc sách hoặc nghiên cứu nguồn cung sách"
+  ],
+  "ideas": [
+    "Xây dựng bot tự động kiểm tra và cập nhật liên kết sách hoạt động",
+    "Phát triển extension trình duyệt để lưu và phân loại sách điện tử",
+    "Kết hợp với API tìm kiếm sách để tạo danh sách đọc cá nhân tùy chỉnh"
+  ],
+  "stars": 22318,
+  "starsToday": 220,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-10-24T13:04:52.450Z"
+}

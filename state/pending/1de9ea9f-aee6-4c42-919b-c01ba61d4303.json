@@ -1,0 +1,23 @@
+{
+  "id": "1de9ea9f-aee6-4c42-919b-c01ba61d4303",
+  "repo": "basketikun/infinite-canvas",
+  "url": "https://github.com/basketikun/infinite-canvas",
+  "category": "AI Agent/Automation",
+  "summary": "Cơ sở làm việc vô hạn cho tạo tác AI, tích hợp sinh hình, chỉnh sửa, tạo video, nhiều Agent và phối hợp luồng làm việc trực quan, hỗ trợ kết nối API OpenAI đa kênh.",
+  "usecases": [
+    "Tạo nội dung đa phương tiện bằng cách điều khiển luồng AI qua canvas trực quan.",
+    "Phối hợp nhiều Agent AI để tự động hóa các tác vụ sáng tạo phức tạp.",
+    "Quản lý prompt, tài liệu tham khảo và nguyên liệu trên một canvas chung cho các dự án AI."
+  ],
+  "ideas": [
+    "Kết hợp với đồ họa thời gian thực để tạo storyboard động cho phim hoặc quảng cáo.",
+    "Sử dụng làm nền tảng AI cho các trò chơi hoặc nhân vật tương tác có khả năng sáng tạo tự động.",
+    "Tích hợp local LLMs để xây dựng canvas AI riêng tư cho doanh nghiệp hoặc studio."
+  ],
+  "stars": 8920,
+  "starsToday": 549,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-24T13:04:52.450Z"
+}

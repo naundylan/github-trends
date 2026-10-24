@@ -1,0 +1,23 @@
+{
+  "id": "7c1f6f39-aa21-4a11-98e4-1336a58a4254",
+  "repo": "Nutlope/hallmark",
+  "url": "https://github.com/Nutlope/hallmark",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Kỹ năng thiết kế chống 'AI-slop', giúp cải thiện và lọc chất lượng đầu ra giao diện từ các công cụ AI code như Claude Code, Cursor và Codex.",
+  "usecases": [
+    "Lọc và cải thiện bố cục CSS do AI tạo ra cho dự án thực tế.",
+    "Tự động sửa lỗi giao diện khi dùng Claude Code hoặc Cursor để tạo code nhanh.",
+    "Giữ cho thiết kế sản phẩm tránh các mẫu thiết kế generic hoặc kém chất lượng từ AI."
+  ],
+  "ideas": [
+    "Phát triển bộ lọc chung cho nhiều nền tảng AI code khác.",
+    "Kết hợp với linting tools để tự động đánh giá chất lượng giao diện.",
+    "Tạo dashboard theo dõi độ 'sạch' của code design do AI sinh ra."
+  ],
+  "stars": 31547,
+  "starsToday": 567,
+  "language": "CSS",
+  "topics": [],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-10-24T13:04:52.450Z"
+}
