@@ -1,0 +1,42 @@
+{
+  "id": "f37c4a85-241f-4094-af71-dfd3e11962aa",
+  "repo": "fleetdm/fleet",
+  "url": "https://github.com/fleetdm/fleet",
+  "category": "Developer Tool",
+  "summary": "Nền tảng quản lý thiết bị mã nguồn mở sử dụng osquery để cung cấp visibility, compliance, patching và telemetry trên Linux, macOS, iOS và Windows.",
+  "usecases": [
+    "Quản lý inventory và compliance các endpoint trong tổ chức lớn",
+    "Triển khai đồng bộ patching và cấu hình bảo mật qua nhiều OS",
+    "Thu thập telemetry và phát hiện vulnerability qua osquery queries"
+  ],
+  "ideas": [
+    "Tích hợp với CI/CD để tự động cập nhật cấu hình dev environment",
+    "Dùng làm基础 cho Zero Trust device authentication",
+    "Phát triển module script tùy chỉnh cho onboarding thiết bị mới"
+  ],
+  "stars": 7039,
+  "starsToday": 10,
+  "language": "Go",
+  "topics": [
+    "osquery",
+    "gitops",
+    "device-management",
+    "vulnerability-management",
+    "binary-authorization",
+    "configuration-management",
+    "mdm",
+    "orchestration",
+    "security",
+    "software-management",
+    "telemetry",
+    "ios",
+    "patching",
+    "scripting",
+    "linux",
+    "open-source",
+    "macos",
+    "powershell"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-24T07:51:04.820Z"
+}

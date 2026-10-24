@@ -1,0 +1,28 @@
+{
+  "id": "548cf119-6b06-4cb2-a497-c8a2920b6520",
+  "repo": "github/gh-stack",
+  "url": "https://github.com/github/gh-stack",
+  "category": "CLI Tool",
+  "summary": "Mở rộng CLI GitHub để quản lý và xem các Pull Request dạng stacked, tối ưu quy trình review và phát triển tính năng liên quan.",
+  "usecases": [
+    "Quản lý luồng Pull Request phức tạp với nhiều branch phụ thuộc.",
+    "Duy trì và review các PR stacked nhanh chóng trên terminal.",
+    "Tích hợp vào quy trình CI/CD để tự động hóa kiểm tra các PR trong stack."
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Actions để tự động tạo stacked PRs từ commits.",
+    "Phát triển plugin hiển thị stacked PRs trực tiếp trong VS Code.",
+    "Tạo dashboard trực quan hóa cấu trúc dependencies và trạng thái giữa các PR trong stack."
+  ],
+  "stars": 1718,
+  "starsToday": 3,
+  "language": "Go",
+  "topics": [
+    "cli",
+    "gh-extension",
+    "github",
+    "stacked-prs"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-24T07:51:04.820Z"
+}

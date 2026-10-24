@@ -1,0 +1,44 @@
+{
+  "id": "81a5e3de-0c73-424b-ba3a-5af6e870c869",
+  "repo": "chaitin/SafeLine",
+  "url": "https://github.com/chaitin/SafeLine",
+  "category": "Security/Pentest",
+  "summary": "SafeLine là firewall WAF self-hosted và reverse proxy, bảo vệ ứng dụng web khỏi tấn công và khai thác lỗ hổng.",
+  "usecases": [
+    "Protecting public-facing web applications from SQL injection and XSS attacks.",
+    "Providing a customizable security layer for self-hosted services and APIs.",
+    "Acting as a reverse proxy with security rules for internal network exposure."
+  ],
+  "ideas": [
+    "Integrate with SIEM for centralized threat monitoring and alerting.",
+    "Combine with API gateway for unified request validation and routing.",
+    "Deploy as edge security for distributed web services."
+  ],
+  "stars": 22924,
+  "starsToday": 24,
+  "language": "Go",
+  "topics": [
+    "firewall",
+    "http-flood",
+    "security",
+    "sql-injection",
+    "waf",
+    "web-application-firewall",
+    "web-security",
+    "xss",
+    "captcha",
+    "api-gateway",
+    "appsec",
+    "cve",
+    "cybersecurity",
+    "hackers",
+    "vulnerability",
+    "websecurity",
+    "application-security",
+    "bruteforce",
+    "blueteam",
+    "self-hosted"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-24T07:51:04.820Z"
+}

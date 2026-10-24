@@ -1,0 +1,31 @@
+{
+  "id": "53e5fe5e-df62-44a8-b5b9-60674a110ed8",
+  "repo": "SehajveerSingh2005/bloom",
+  "url": "https://github.com/SehajveerSingh2005/bloom",
+  "category": "Desktop App",
+  "summary": "bloom là ứng dụng desktop tùy chỉnh cho Windows, mang lại trải nghiệm giao diện tự nhiên, mượt mà và tương tác linh hoạt.",
+  "usecases": [
+    "Enhancing user productivity with a customizable desktop companion interface.",
+    "Serving as a dynamic dashboard for system metrics or notifications.",
+    "Providing an interactive personal assistant experience on Windows desktops."
+  ],
+  "ideas": [
+    "Integrate with Tauri plugins for deep system access (e.g., file management, clipboard).",
+    "Build theming/skins support for visual personalization.",
+    "Combine with AI assistants for context-aware actions on the desktop."
+  ],
+  "stars": 344,
+  "starsToday": 23,
+  "language": "TypeScript",
+  "topics": [
+    "bloom",
+    "customization",
+    "desktop-customization",
+    "docker",
+    "notch",
+    "tauri",
+    "windows"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-24T07:51:04.820Z"
+}

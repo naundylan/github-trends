@@ -1,0 +1,37 @@
+{
+  "id": "b7204789-2798-43e9-96f3-4a6125380790",
+  "repo": "Mailu/Mailu",
+  "url": "https://github.com/Mailu/Mailu",
+  "category": "Security/Pentest",
+  "summary": "Mailu là mail server mã nguồn mở đóng gói Docker, cung cấp SMTP, IMAP, POP3, webmail kèm hỗ trợ DKIM, DMARC và Let's Encrypt tự động.",
+  "usecases": [
+    "Thiết lập server email riêng cho doanh nghiệp với domain tùy chỉnh",
+    "Cung cấp dịch vụ email an toàn cho ứng dụng cần gửi/receive email",
+    "Dùng làm mail server cho môi trường development và test nhanh"
+  ],
+  "ideas": [
+    "Tích hợp Mailu với Kubernetes cluster để quản lý email scalable",
+    "Tự động hóa renew certificate và cấu hình DKIM/DMARC qua CI/CD",
+    "Sử dụng làm infrastructure email cho các ứng dụng tuân thủ bảo mật"
+  ],
+  "stars": 7587,
+  "starsToday": 4,
+  "language": "Python",
+  "topics": [
+    "docker",
+    "email",
+    "imap",
+    "pop3",
+    "webmail",
+    "mailserver",
+    "mail",
+    "smtp",
+    "docker-compose",
+    "dkim",
+    "dmarc",
+    "fetchmail",
+    "letsencrypt"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-24T07:51:04.820Z"
+}

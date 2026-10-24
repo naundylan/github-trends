@@ -1,0 +1,28 @@
+{
+  "id": "f930f741-3ce0-495d-833b-56cca35d7ae7",
+  "repo": "chenyme/grok2api",
+  "url": "https://github.com/chenyme/grok2api",
+  "category": "Other",
+  "summary": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+  "usecases": [
+    "Khám phá và đánh giá chenyme/grok2api cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 7847,
+  "starsToday": 10,
+  "language": "Go",
+  "topics": [
+    "grok",
+    "grok-imagine",
+    "grok-build",
+    "grok-video",
+    "grok-console",
+    "grok-web"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-24T07:51:04.820Z"
+}

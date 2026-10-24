@@ -1,0 +1,30 @@
+{
+  "id": "539f207e-1e4c-42d3-8f01-ffd04e8f2375",
+  "repo": "php/frankenphp",
+  "url": "https://github.com/php/frankenphp",
+  "category": "Backend Framework",
+  "summary": "FrankenPHP là ứng dụng server PHP hiện đại viết bằng Go, cung cấp môi trường chạy PHP nhanh và hiệu quả qua SAPI, thay thế cho PHP-FPM truyền thống.",
+  "usecases": [
+    "Chạy ứng dụng PHP động với hiệu suất cao và latency thấp",
+    "Deploy kèm Caddy web server để quản lý tự động SSL/TLS và reverse proxy",
+    "Hỗ trợ microservices PHP cần khởi động nhanh và tài nguyên thấp"
+  ],
+  "ideas": [
+    "Tối ưu Docker image FrankenPHP cho deployment trên cloud",
+    "Kết hợp với Go services để tạo ecosystem ứng dụng full-stack",
+    "Sử dụng làm backend cho các platform web cần xử lý nhiều request đồng thời"
+  ],
+  "stars": 11458,
+  "starsToday": 7,
+  "language": "Go",
+  "topics": [
+    "caddy",
+    "go",
+    "php",
+    "sapi",
+    "worker",
+    "frankenphp"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-10-24T07:51:04.820Z"
+}
