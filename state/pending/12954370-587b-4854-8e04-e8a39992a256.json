@@ -1,0 +1,33 @@
+{
+  "id": "12954370-587b-4854-8e04-e8a39992a256",
+  "repo": "umami-software/umami",
+  "url": "https://github.com/umami-software/umami",
+  "category": "Data Visualization",
+  "summary": "Nền tảng phân tích web và sản phẩm chú trọng quyền riêng tư, cung cấp insights lưu lượng truy cập, chiến dịch và hành vi mà không dùng cookie, có thể self-host hoặc cloud.",
+  "usecases": [
+    "Theo dõi lưu lượng truy cập và hành vi người dùng cho các doanh nghiệp chú trọng quyền riêng tư",
+    "Phân tích hiệu quả chiến dịch marketing thay thế Google Analytics",
+    "Phân tích sản phẩm cho nền SaaS để hiểu hành trình người dùng và chuyển đổi"
+  ],
+  "ideas": [
+    "Tích hợp với các CMS chú trọng quyền riêng tư để có đồng hồ điều khiển kết hợp nội dung và analytics",
+    "Triển khai nhẹ nhàng cho theo dõi metrics nội bộ công ty",
+    "Kết hợp với các công cụ replay session (chính sách quyền riêng tư được duy trì) để tối ưu UX"
+  ],
+  "stars": 39643,
+  "starsToday": 43,
+  "language": "TypeScript",
+  "topics": [
+    "analytics",
+    "charts",
+    "statistics",
+    "google-analytics",
+    "web-analytics",
+    "audience-segmentation",
+    "cohort-analysis",
+    "product-analytics",
+    "user-journey"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-10-24T22:52:10.581Z"
+}

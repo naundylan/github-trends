@@ -1,0 +1,43 @@
+{
+  "id": "d7d852a9-c145-41da-aaef-d53dc98bfa52",
+  "repo": "NomaDamas/CozyClay",
+  "url": "https://github.com/NomaDamas/CozyClay",
+  "category": "AI/LLM",
+  "summary": "Phần mềm previs (tiền hình dựng) mã nguồn mở chạy trên trình duyệt, cho phép người dùng xây dựng cảnh quan khối, điều chỉnh tư thế nhân vật, lập kế hoạch chuyển động và cảnh quay camera bằng Three.js và React Three Fiber. Dự án kết hợp AI và LLM agent để hỗ trợ sáng tạo nội dung video.",
+  "usecases": [
+    "Nhà đạo diễn trước khi quay phim có thể sử dụng để lên kế hoạch cảnh quay, xác định góc máy và chuyển động nhân vật một cách nhanh chóng trên trình duyệr.",
+    "Các nhà sáng tạo nội dung AI video có thể thiết kế storyboard và cảnh quay ảo để sau đó đưa vào các mô hình video AI như Sora hoặc RunwayML.",
+    "Nhóm phát triển game hoặc phần mềm 3D có thể dùng để nguyên mẫu hóa các cảnh quay phức tạp trước khi triển khai trong môi trường engine thực tế như Blender."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ sinh âm thanh AI để tự động tạo nhạc nền và hiệu ứng âm thanh phù hợp với từng cảnh quay đã được lên kế hoạch.",
+    "Phát triển tính năng xuất file GLTF hoặc FBX để người dùng dễ dàng nhập các cảnh đã tạo vào phần mềm đồ họa 3D chuyên nghiệp như Blender.",
+    "Tích hợp mô hình ngôn ngữ lớn (LLM) để người dùng có thể mô tả ý tưởng bằng ngôn ngữ tự nhiên và nhận được gợi ý cảnh quay, tư thế nhân vật hoặc chuyển động camera tự động."
+  ],
+  "stars": 1004,
+  "starsToday": 30,
+  "language": "JavaScript",
+  "topics": [
+    "3d",
+    "ai",
+    "animation",
+    "blender",
+    "llm-agent",
+    "python",
+    "typescript",
+    "3d-animation",
+    "motion-generation",
+    "previz",
+    "react-three-fiber",
+    "threejs",
+    "webgl",
+    "ai-video",
+    "camera-control",
+    "previs",
+    "previsualization",
+    "storyboard",
+    "virtual-production"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-24T22:52:10.582Z"
+}

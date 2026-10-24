@@ -1,0 +1,43 @@
+{
+  "id": "a4f77b07-2cc0-4639-aee1-71d79a8b0de3",
+  "repo": "TriliumNext/Trilium",
+  "url": "https://github.com/TriliumNext/Trilium",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "Trilium là ứng dụng note-taking và knowledge base local-first, giúp người dùng xây dựng cá nhân wiki và quản lý đồ thị kiến thức một cách tự chủ và toàn diện.",
+  "usecases": [
+    "Quản lý cá nhân cơ sở kiến thức và ghi chú nghiên cứu với đồ thị liên kết",
+    "Tạo wiki nội bộ cho đội nhóm với self-hosting và kiểm soát dữ liệu",
+    "Sử dụng làm nền tảng productivity cá nhân với workflow scriptable"
+  ],
+  "ideas": [
+    "Kết hợp với visualization đồ thị để khám phá mối liên hệ giữa ghi chú",
+    "Sử dụng API để import/export dữ liệu giữa hệ thống quản lý dự án",
+    "Triển khai trên thiết bị IoT làm hub ghi chú cá nhân voice-first"
+  ],
+  "stars": 38538,
+  "starsToday": 47,
+  "language": "TypeScript",
+  "topics": [
+    "knowledge-graph",
+    "note-taking",
+    "notebook",
+    "knowledge-base",
+    "knowledge-management",
+    "knowledge-management-graph",
+    "electron",
+    "electron-app",
+    "local-first",
+    "self-hosted",
+    "self-hosting",
+    "personal-knowledge-base",
+    "personal-wiki",
+    "wiki",
+    "note-managment",
+    "note-taker",
+    "notes",
+    "notes-app",
+    "scriptable"
+  ],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-10-24T22:52:10.581Z"
+}

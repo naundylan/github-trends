@@ -1,0 +1,35 @@
+{
+  "id": "0efa58e8-6028-4d6f-a9d3-fc1d398ddf36",
+  "repo": "medusajs/medusa",
+  "url": "https://github.com/medusajs/medusa",
+  "category": "Backend Framework",
+  "summary": "Nền tảng thương mại điện tử headless cho phép phát triển các cửa hàng trực tuyến linh hoạt với Node.js và TypeScript, cung cấp APIs backend và các thành phần frontend.",
+  "usecases": [
+    "Phát triển các website thương mại điện tử tùy chỉnh với toàn quyền kiểm soát UI và logic",
+    "Xây dựng các nền marketplace kết nối nhiều bán hàng và mua hàng",
+    "Tích hợp thương mại headless với hệ thống tồn tại để bán đa kênh và POS tại bán lẻ"
+  ],
+  "ideas": [
+    "Kết hợp AI để đề xuất sản phẩm cá nhân hóa thông qua APIs Medusa",
+    "Tích hợp với headless CMS để trải nghiệm mua sắm dựa trên nội dung",
+    "Xây dựng backend ứng dụng di động sử dụng APIs Medusa cho các hệ thống bán lẻ thống nhất"
+  ],
+  "stars": 36928,
+  "starsToday": 44,
+  "language": "TypeScript",
+  "topics": [
+    "nodejs",
+    "medusa",
+    "commerce",
+    "e-commerce",
+    "react",
+    "ecommerce",
+    "javascript",
+    "typescript",
+    "framework",
+    "ai-coding",
+    "ai-tools"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-10-24T22:52:10.581Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "8bf8dfe7-14a5-4241-a210-6bbc061c2677",
+  "repo": "google-gemini/gemini-cli",
+  "url": "https://github.com/google-gemini/gemini-cli",
+  "category": "AI Agent/Automation",
+  "summary": "CLI công cụ mang khả năng AI Gemini trực tiếp vào terminal, cho phép tương tác và tự động hóa thông qua lệnh dòng lệnh.",
+  "usecases": [
+    "Tương tác với Gemini AI thông qua terminal để tự động hóa tác vụ",
+    "Phát triển và triển khai các AI agent tùy chỉnh cho quy trình làm việc",
+    "Tích hợp Gemini API vào các script và lệnh CLI hiện có"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống tự động hóa để tạo tác vụ CLI thông minh",
+    "Phát triển plugin IDE sử dụng Gemini CLI làm nền tảng",
+    "Tạo terminal AI cá nhân có thể điều khiển ứng dụng hệ thống"
+  ],
+  "stars": 108011,
+  "starsToday": 38,
+  "language": "TypeScript",
+  "topics": [
+    "gemini",
+    "gemini-api",
+    "ai",
+    "ai-agents",
+    "cli",
+    "mcp-client",
+    "mcp-server"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-24T22:52:10.581Z"
+}

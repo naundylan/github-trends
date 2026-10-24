@@ -1,0 +1,43 @@
+{
+  "id": "7f651a05-5601-4e02-a265-f7559f9dc90f",
+  "repo": "langfuse/langfuse",
+  "url": "https://github.com/langfuse/langfuse",
+  "category": "AI/LLM",
+  "summary": "Nền tảng mã nguồn mở cho phép trace, evaluate và cải thiện ứng dụng LLM với một giao diện duy nhất, hỗ trợ LLM ops và prompt management.",
+  "usecases": [
+    "Theo dõi hiệu suất và hành vi mô hình LLM trong ứng dụng sản xuất",
+    "Đánh giá và so sánh hiệu quả các prompt và cấu hình model",
+    "Cung cấp dữ liệu observability để cải thiện quy trình LLMops và debugging"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động đánh giá chất lượng LLM mỗi khi deploy mới",
+    "Xây dựng UI tùy chỉnh cho team visualizes traces và evaluation metrics",
+    "Sử dụng dữ liệu observability để fine-tuning mô hình hoặc tạo hệ thống agent tự cải thiện"
+  ],
+  "stars": 36370,
+  "starsToday": 45,
+  "language": "TypeScript",
+  "topics": [
+    "analytics",
+    "llm",
+    "llmops",
+    "large-language-models",
+    "openai",
+    "self-hosted",
+    "ycombinator",
+    "monitoring",
+    "observability",
+    "open-source",
+    "langchain",
+    "llama-index",
+    "evaluation",
+    "prompt-engineering",
+    "prompt-management",
+    "playground",
+    "llm-evaluation",
+    "llm-observability",
+    "autogen"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-24T22:52:10.581Z"
+}

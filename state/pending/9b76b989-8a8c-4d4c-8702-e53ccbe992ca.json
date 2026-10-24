@@ -1,0 +1,30 @@
+{
+  "id": "9b76b989-8a8c-4d4c-8702-e53ccbe992ca",
+  "repo": "Neet-Nestor/Telegram-Media-Downloader",
+  "url": "https://github.com/Neet-Nestor/Telegram-Media-Downloader",
+  "category": "Web Frontend",
+  "summary": "Một userscript JavaScript chạy trên trình duyệt cho phép tải xuống hình ảnh và video từ Telegram Web ngay cả khi nhóm đã vô hiệu hóa tính năng tải lên. Dự án nổi bật với khả năng vượt qua hạn chế tải từ phía server thông qua Greasemonkey/Tampermonkey.",
+  "usecases": [
+    "Tự động hóa việc lưu trữ nội dung hình ảnh và video từ các nhóm Telegram công cộng hoặc riêng tư mà không cần chia sẻ lại.",
+    "Thu thập dữ liệu phương tiện cho mục đích nghiên cứu hoặc tạo dữ liệu huấn luyện mô hình AI mà không cần sự cho phép chủ động từ người dùng khác.",
+    "Sao lưu nội dung quan trọng từ các cuộc trò chuyện hoặc kênh Telegram trước khi chúng bị xóa."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ OCR để tự động gán nhãn nội dung hình ảnh tải về, hỗ trợ xây dựng bộ dữ liệu hình ảnh có nhãn cho học máy.",
+    "Phát triển phiên bản mở rộng hỗ trợ tải lên cả tài liệu, âm thanh hoặc các định dạng đa phương tiện khác từ Telegram.",
+    "Tích hợp tính năng lên lịch tải về tự động theo thời gian thực để theo dõi và lưu trữ li contenu mới từ các kênh Telegram yêu thích."
+  ],
+  "stars": 6286,
+  "starsToday": 36,
+  "language": "JavaScript",
+  "topics": [
+    "greasyfork",
+    "greasymonkey",
+    "greasymonkey-userscript",
+    "javascript",
+    "telegram",
+    "userscript"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-24T22:52:10.581Z"
+}
