@@ -1,0 +1,23 @@
+{
+  "id": "a80e73f3-d732-4bf8-b2d6-6be6ff8ae80e",
+  "repo": "xingkongliang/skills-manager",
+  "url": "https://github.com/xingkongliang/skills-manager",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop nhẹ dùng để quản lý, đồng bộ và tổ chức kỹ năng của AI agent trên hơn 50 công cụ lập trình như Claude Code, Codex, Cursor, Copilot và Gemini CLI.",
+  "usecases": [
+    "Quản lý và chuyển đổi kỹ năng AI giữa các công cụ code generation",
+    "Tổ chức prompt và kỹ năng cho nhiều dự án AI agent cùng lúc",
+    "Đồng bộ môi trường làm việc AI agent trên nhiều thiết bị"
+  ],
+  "ideas": [
+    "Tích hợp với CLI để xuất khẩu kỹ năng khi cài đặt môi trường mới",
+    "Phát triển plugin cho các editor code để import/export kỹ năng",
+    "Tạo dashboard theo dõi hiệu suất sử dụng kỹ năng trên các công cụ khác nhau"
+  ],
+  "stars": 6779,
+  "starsToday": 38,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-24T17:47:55.301Z"
+}

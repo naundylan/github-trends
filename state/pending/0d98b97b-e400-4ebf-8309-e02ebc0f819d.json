@@ -1,0 +1,27 @@
+{
+  "id": "0d98b97b-e400-4ebf-8309-e02ebc0f819d",
+  "repo": "slavakurilyak/awesome-ai-agents",
+  "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Tập hợp tài nguyên phong phú hơn 300 về các hệ thống AI agent, hữu ích cho nhà phát triển muốn khám phá hoặc xây dựng các ứng dụng agentic.",
+  "usecases": [
+    "Tìm hiểu về các framework và mẫu thiết kế cho AI agents.",
+    "So sánh các thư viện agentic khác nhau để chọn phù hợp cho dự án.",
+    "Tài liệu tham khảo cho nghiên cứu và triển khai các hệ thống tự động hóa bằng AI."
+  ],
+  "ideas": [
+    "Tạo một dashboard trực quan để đánh giá hiệu năng các agent từ danh sách này.",
+    "Phát triển một starter template kết hợp nhiều agent khác nhau vào một workflow thống nhất.",
+    "Xây dựng một bài học hoặc cuốn sách hướng dẫn từ cơ bản đến nâng cao về AI agents dựa trên nguồn này."
+  ],
+  "stars": 2647,
+  "starsToday": 47,
+  "language": "Go",
+  "topics": [
+    "agent",
+    "agentic",
+    "agents"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-10-24T17:47:55.300Z"
+}

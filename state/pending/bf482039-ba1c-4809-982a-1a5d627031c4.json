@@ -1,0 +1,23 @@
+{
+  "id": "bf482039-ba1c-4809-982a-1a5d627031c4",
+  "repo": "chuma-beep/mathua",
+  "url": "https://github.com/chuma-beep/mathua",
+  "category": "CLI Tool",
+  "summary": "Dự án Go không có mô tả chi tiết, có thể là công cụ dòng lệnh hoặc thư viện toán học.",
+  "usecases": [
+    "Thực hiện các phép tính toán học trên terminal",
+    "Tích hợp vào pipeline CI/CD cho kiểm toán số học",
+    "Dùng làm công cụ hỗ trợ giáo dục toán học"
+  ],
+  "ideas": [
+    "Kết hợp với AI Gemini để tạo solver bài toán tự động",
+    "Phát triển giao diện web đơn giản để tương tác",
+    "Mở rộng hỗ trợ cho các biểu thức toán học phức tạp"
+  ],
+  "stars": 351,
+  "starsToday": 40,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-24T17:47:55.301Z"
+}
