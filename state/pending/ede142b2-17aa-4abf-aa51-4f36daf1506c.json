@@ -1,0 +1,23 @@
+{
+  "id": "ede142b2-17aa-4abf-aa51-4f36daf1506c",
+  "repo": "basketikun/infinite-canvas",
+  "url": "https://github.com/basketikun/infinite-canvas",
+  "category": "AI/LLM",
+  "summary": "Canvas vô hạn cho tác tạo AI, tích hợp sinh ảnh, video, agent và quản lý prompt, tự động hóa quy trình sáng tạo trực quan.",
+  "usecases": [
+    "Sử dụng làm bảng vẽ trực quan để tạo hình ảnh và video bằng AI.",
+    "Tổ chức và phối hợp nhiều Agent AI để tự động hóa quy trình sáng tạo phức tạp.",
+    "Quản lý thư viện prompt và tài liệu tham khảo để tái sử dụng trong các dự án AI."
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu tài liệu để tạo hệ thống tư liệu minh họa tự động.",
+    "Phát triển plugin cho các nền tảng thiết kế đồ họa hiện có.",
+    "Cho phép xuất ra các luồng làm việc có thể chia sẻ và tái sử dụng giữa các nhóm tạo nội dung AI."
+  ],
+  "stars": 8992,
+  "starsToday": 549,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-24T20:06:44.413Z"
+}

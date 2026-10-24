@@ -1,0 +1,37 @@
+{
+  "id": "40d2ceae-621a-44b8-a594-df6cc6ef15ba",
+  "repo": "makecindy/cindy",
+  "url": "https://github.com/makecindy/cindy",
+  "category": "AI Agent/Automation",
+  "summary": "AI agent mã nguồn mở dùng ngay trên desktop và mobile, hỗ trợ tự động hóa tác vụ đa nền tảng.",
+  "usecases": [
+    "Tự động hóa tác vụ lặp đi lặp lại như sắp xếp lịch, trích xuất dữ liệu trên desktop.",
+    "Hoạt động như trợ lý AI cá nhân trên thiết bị mobile và desktop xuyên suốt.",
+    "Giúp lập trình viên viết code hoặc debug thông qua lệnh tự nhiên trên nhiều ngôn ngữ."
+  ],
+  "ideas": [
+    "Tích hợp với các dịch vụ nội bộ công ty để tạo agent xử lý email và lịch họp.",
+    "Phát triển phiên bản mở rộng cho các kịch bản tự động hóa thương mại điện tử.",
+    "Sử dụng làm nền tảng giáo dục để học cách xây dựng AI agent mà không cần cấu hình phức tạp."
+  ],
+  "stars": 4003,
+  "starsToday": 471,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "ai-agent",
+    "ai-assistant",
+    "android",
+    "claude-code",
+    "codex",
+    "electron",
+    "ios",
+    "llm",
+    "macos",
+    "react-native",
+    "typescript",
+    "windows"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-24T20:06:44.413Z"
+}

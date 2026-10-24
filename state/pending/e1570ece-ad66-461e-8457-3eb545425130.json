@@ -1,0 +1,23 @@
+{
+  "id": "e1570ece-ad66-461e-8457-3eb545425130",
+  "repo": "Nutlope/hallmark",
+  "url": "https://github.com/Nutlope/hallmark",
+  "category": "CSS/Styling",
+  "summary": "Kỹ năng thiết kế chống 'AI-slop' cho Claude Code, Cursor và Codex, cải thiện chất lượng đầu ra CSS từ AI.",
+  "usecases": [
+    "Lọc và cải thiện mã CSS được tạo tự động bởi AI code editors",
+    "Đảm bảo phong cách thiết kế nhất quán xuyên suốt dự án",
+    "Giảm thời gian sửa lỗi giao diện do nội dung AI kém chất lượng"
+  ],
+  "ideas": [
+    "Phát triển thành plugin chung cho nhiều IDE và code editors",
+    "Kết hợp với prompt engineering hướng AI tạo CSS đẹp hơn",
+    "Train model nội bộ cho hệ thống design tự động"
+  ],
+  "stars": 31961,
+  "starsToday": 570,
+  "language": "CSS",
+  "topics": [],
+  "notePath": "notes/CSS-Styling.md",
+  "createdAt": "2026-10-24T20:06:44.413Z"
+}
