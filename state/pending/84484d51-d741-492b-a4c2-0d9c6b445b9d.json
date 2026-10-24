@@ -1,0 +1,34 @@
+{
+  "id": "84484d51-d741-492b-a4c2-0d9c6b445b9d",
+  "repo": "projectdiscovery/nuclei-templates",
+  "url": "https://github.com/projectdiscovery/nuclei-templates",
+  "category": "Security/Pentest",
+  "summary": "Nuclei-templates là danh sách mẫu cộng đồng cho engine Nuclei, dùng để quét và phát hiện các lỗ hổng bảo mật, fingerprint dịch vụ và khai thác điểm yếu trên ứng dụng web và API.",
+  "usecases": [
+    "Các nhà bảo mật quét target trong bug bounty programs để tìm XSS, SQL injection hoặc cấu hình sai.",
+    "Đội ngũ DevOps tích hợp vào CI/CD để quét tự động môi trường staging/production và phát hiện sớm lỗ hổng.",
+    "Học tập và nghiên cứu các kỹ thuật fingerprint và khai thác exploits qua các template mở."
+  ],
+  "ideas": [
+    "Tự động tạo báo cáo bảo mật định kỳ bằng chạy Nuclei trên inventory công ty và xuất kết quả ra CSV/JSON cho phân tích.",
+    "Phát triển template tùy chỉnh để quét các lỗ hổng riêng cho dịch vụ nội bộ (internal services, intranet).",
+    "Kết hợp AI để phân loại và ưu tiên các lỗ hổng dựa trên severity và tác động thực tế."
+  ],
+  "stars": 13201,
+  "starsToday": 24,
+  "language": "JavaScript",
+  "topics": [
+    "nuclei-templates",
+    "nuclei",
+    "bugbounty",
+    "security",
+    "nuclei-checks",
+    "exploits",
+    "exploit-development",
+    "vulnerability-detection",
+    "fingerprint",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-24T02:46:27.509Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "836f304f-86ec-4001-99b0-a832330fbeb0",
+  "repo": "vitejs/vite",
+  "url": "https://github.com/vitejs/vite",
+  "category": "Build Tool/Bundler",
+  "summary": "Công cụ build frontend thế hệ tiếp theo, cung cấp khởi động server tức thì, hot module replacement và build tối tốc độ cho ứng dụng web hiện đại.",
+  "usecases": [
+    "Phát triển nhanh ứng dụng đơn trang với phản hồi tức thời qua HMR.",
+    "Build và tối ưu hóa tài sản frontend cho ứng dụng yêu cầu hiệu năng.",
+    "Tích hợp vào monorepo hoặc dự án phức tạp cho quy trình build nhất quán."
+  ],
+  "ideas": [
+    "Kết hợp với Nuxt hoặc Next để dev full-stack không cấu hình.",
+    "Sử dụng làm lớp build cho desktop app qua Electron hoặc Tauri.",
+    "Power các công cụ cộng tác thời gian thực nhờ HMR nhanh và dev server dựa trên websocket."
+  ],
+  "stars": 83495,
+  "starsToday": 42,
+  "language": "TypeScript",
+  "topics": [
+    "vite",
+    "hmr",
+    "frontend",
+    "build-tool",
+    "dev-server"
+  ],
+  "notePath": "notes/Build-Tool-Bundler.md",
+  "createdAt": "2026-10-24T02:46:27.509Z"
+}

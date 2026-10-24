@@ -1,0 +1,31 @@
+{
+  "id": "cbcf6eb6-5b4e-49ec-b3f6-d61cdb6d68e1",
+  "repo": "prometheus/prometheus",
+  "url": "https://github.com/prometheus/prometheus",
+  "category": "DevOps/CI-CD",
+  "summary": "Hệ thống giám sát và cơ sở dữ liệu thời gian thực, thu thập metrics, cảnh báo và trực quan hóa hiệu suất hệ thống trên quy mô lớn.",
+  "usecases": [
+    "Giám sát hiệu suất và sức khỏe của các microservices trong môi trường production.",
+    "Cảnh báo tự động khi các chỉ số vượt ngưỡng an toàn (CPU, memory, latency).",
+    "Thu thập và lưu trữ metrics thời gian thực cho báo cáo và dashboards."
+  ],
+  "ideas": [
+    "Kết hợp với Grafana để tạo dashboard real-time cho các ứng dụng serverless.",
+    "Sử dụng Prometheus metrics để training mô hình ML dự đoán sự cố hệ thống.",
+    "Triển khai hệ thống alerting thông qua Slack, Email cho teams phân tán."
+  ],
+  "stars": 66723,
+  "starsToday": 34,
+  "language": "Go",
+  "topics": [
+    "monitoring",
+    "metrics",
+    "alerting",
+    "graphing",
+    "time-series",
+    "prometheus",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-24T02:46:27.509Z"
+}

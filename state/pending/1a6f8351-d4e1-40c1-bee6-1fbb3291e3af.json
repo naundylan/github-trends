@@ -1,0 +1,35 @@
+{
+  "id": "1a6f8351-d4e1-40c1-bee6-1fbb3291e3af",
+  "repo": "agentgateway/agentgateway",
+  "url": "https://github.com/agentgateway/agentgateway",
+  "category": "AI Agent/Automation",
+  "summary": "Proxy cho AI agents và MCP servers viết bằng Rust, cho phép định tuyến an toàn, quản lý gateway API và tính năng service mesh cho các agent AI tự trị.",
+  "usecases": [
+    "Định tuyến và quản lý nhiều instance AI agent trong Kubernetes với bảo mật và quan sát tích hợp.",
+    "Cung cấp API gateway nhất quán cho các server MCP trong ứng dụng AI.",
+    "Hoạt động như reverse proxy và service mesh cho microservices điều khiển bởi agent AI."
+  ],
+  "ideas": [
+    "Đồng bộ với LangChain hoặc các framework tương tự để proxy agent gọi tool an toàn.",
+    "Dùng như gateway đa thuê cho nền tảng AI SaaS tách workload agent.",
+    "Kết hợp tự động scale Kubernetes để định tuyến traffic agent dựa trên tải."
+  ],
+  "stars": 5532,
+  "starsToday": 36,
+  "language": "Rust",
+  "topics": [
+    "agents",
+    "ai",
+    "mcp",
+    "rust",
+    "ai-gateway",
+    "gateway-api",
+    "kubernetes",
+    "mcp-gateway",
+    "reverse-proxy",
+    "service-mesh",
+    "api-gateway"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-24T02:46:27.509Z"
+}

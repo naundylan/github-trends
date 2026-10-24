@@ -1,0 +1,41 @@
+{
+  "id": "002c01db-3478-4db2-a8d5-1160bd1c269d",
+  "repo": "Dokploy/dokploy",
+  "url": "https://github.com/Dokploy/dokploy",
+  "category": "DevOps/CI-CD",
+  "summary": "Nền tảng self-hosted mã nguồn mở để deploy ứng dụng và quản lý cơ sở dữ liệu, là thay thế cho Vercel, Netlify và Heroku.",
+  "usecases": [
+    "Self-hosted deployment of web applications on personal VPS",
+    "Managed database deployment and backup for hosted projects",
+    "CI/CD pipeline automation for containerized applications"
+  ],
+  "ideas": [
+    "Adding built-in domain management and SSL automation",
+    "Integrating with GitHub Actions for push-to-deploy workflows",
+    "Creating a marketplace of one-click app templates for quick deployment"
+  ],
+  "stars": 37989,
+  "starsToday": 30,
+  "language": "TypeScript",
+  "topics": [
+    "deployment",
+    "self-hosted",
+    "vps",
+    "backend",
+    "backups",
+    "databases",
+    "devops",
+    "docker",
+    "frontend",
+    "mariadb",
+    "mongodb",
+    "mysql",
+    "nextjs",
+    "postgresql",
+    "agents",
+    "ai",
+    "deployments"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-24T02:46:27.509Z"
+}

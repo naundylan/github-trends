@@ -1,0 +1,42 @@
+{
+  "id": "6052f510-0b71-4b60-acb4-03f7d644af44",
+  "repo": "promptfoo/promptfoo",
+  "url": "https://github.com/promptfoo/promptfoo",
+  "category": "AI/LLM",
+  "summary": "Công cụ test và đánh giá prompts, agents và RAGs cho các mô hình LLM, hỗ trợ red teaming, pentesting và so sánh hiệu năng nhiều provider AI như GPT, Claude, Gemini.",
+  "usecases": [
+    "Tự động test và đánh giá prompts trong CI/CD pipeline cho ứng dụng LLM",
+    "Thực hiện red teaming và quét lỗ hổng bảo mật cho các prompt AI",
+    "So sánh hiệu năng và độ chính xác giữa các mô hình LLM khác nhau (GPT, Claude, Gemini)"
+  ],
+  "ideas": [
+    "Tạo hệ thống tự động generate và test biến thể prompt để tìm phiên bản tối ưu cho từng tác vụ",
+    "Báo cáo dashboard real-time về sức khỏe prompt và hiệu năng LLM cho các team phát triển",
+    "Kết hợp với code analysis để phát hiện prompt injection và các lỗ hổng bảo mật trong ứng dụng AI"
+  ],
+  "stars": 26355,
+  "starsToday": 56,
+  "language": "TypeScript",
+  "topics": [
+    "llm",
+    "prompt-engineering",
+    "prompts",
+    "llmops",
+    "prompt-testing",
+    "testing",
+    "rag",
+    "evaluation",
+    "evaluation-framework",
+    "llm-eval",
+    "llm-evaluation",
+    "llm-evaluation-framework",
+    "ci",
+    "ci-cd",
+    "cicd",
+    "pentesting",
+    "red-teaming",
+    "vulnerability-scanners"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-24T02:46:27.509Z"
+}
