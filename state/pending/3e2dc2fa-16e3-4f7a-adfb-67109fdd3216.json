@@ -1,0 +1,27 @@
+{
+  "id": "3e2dc2fa-16e3-4f7a-adfb-67109fdd3216",
+  "repo": "henrygd/beszel",
+  "url": "https://github.com/henrygd/beszel",
+  "category": "DevOps/CI-CD",
+  "summary": "Beszel là giải pháp giám sát server nhẹ, cung cấp dữ liệu lịch sử, stats Docker và cảnh báo, giúp theo dõi hiệu suất và trạng thái máy chủ trong môi trường self-hosted.",
+  "usecases": [
+    "Theo dõi hiệu suất và tài nguyên server trong môi trường homelab hoặc production.",
+    "Thu thập dữ liệu sử dụng Docker và gửi cảnh báo khi vượt ngưỡng tài nguyên được cấu hình.",
+    "Giữ monitoring tập trung cho nhiều máy chủ từ một điểm duy nhất cho đội nhóm phát triển và vận hành."
+  ],
+  "ideas": [
+    "Kết hợp với Grafana để trực quan hóa dữ liệu giám sát dài hạn và tạo báo cáo tùy chỉnh.",
+    "Phát triển hệ thống cảnh báo qua email/SMS cho các sự kiện quan trọng như CPU cao hoặc disk đầy.",
+    "Tích hợp với các công cụ quản lý chi phí đám mây để tối ưu hóa tài nguyên dựa trên dữ liệu sử dụng thực tế."
+  ],
+  "stars": 26509,
+  "starsToday": 23,
+  "language": "Go",
+  "topics": [
+    "homelab",
+    "monitoring",
+    "self-hosted"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-25T02:36:29.185Z"
+}

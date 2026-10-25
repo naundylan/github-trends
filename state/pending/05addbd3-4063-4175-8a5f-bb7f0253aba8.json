@@ -1,0 +1,29 @@
+{
+  "id": "05addbd3-4063-4175-8a5f-bb7f0253aba8",
+  "repo": "crewAIInc/crewAI",
+  "url": "https://github.com/crewAIInc/crewAI",
+  "category": "AI Agent/Automation",
+  "summary": "CrewAI là một framework cho phép điều phối các AI agent có vai trò tự hành, giúp các agent hợp tác để giải quyết các tác vụ phức tạp.",
+  "usecases": [
+    "Tự động hóa nghiên cứu thị trường bằng cách phối hợp nhiều agent thu thập và phân tích dữ liệu.",
+    "Xây dựng hệ thống hỗ trợ khách tự động với các agent có chuyên môn khác nhau.",
+    "Tối ưu hóa quy trình phát triển phần mềm qua việc agent viết code, test và review."
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu vector để agent có memory dài hạn và tùy chỉnh.",
+    "Tạo giao diện quản lý trực quan cho luồng làm việc của các agent.",
+    "Sử dụng agent để tự động hóa báo cáo định kỳ trong các doanh nghiệp."
+  ],
+  "stars": 60076,
+  "starsToday": 35,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "llms",
+    "aiagentframework"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-25T02:36:29.184Z"
+}

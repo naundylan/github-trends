@@ -1,0 +1,23 @@
+{
+  "id": "7c29766b-ba67-4c27-b824-362ed8c400ed",
+  "repo": "anthropics/sandbox-runtime",
+  "url": "https://github.com/anthropics/sandbox-runtime",
+  "category": "Security/Pentest",
+  "summary": "một công cụ sandbox nhẹ dùng để enforcing giới hạn truy cập filesystem và network cho các process bất kỳ tại cấp OS, không cần container",
+  "usecases": [
+    "chạy các process không tin cậy trong môi trường cô lập an toàn trên máy chủ",
+    "giới hạn quyền truy cập file và mạng cho các ứng dụng bên thứ ba hoặc script",
+    "thay thế container nhẹ cho các workload an toàn hơn và tốn ít tài nguyên"
+  ],
+  "ideas": [
+    "kết hợp với CI/CD pipelines để sandbox mỗi bước build/test một cách 격리",
+    "sử dụng làm lớp bảo mật cho AI agents chạy code user-submitted",
+    "phát triển plugin cho code editor để sandbox chạy snippet code trực tiếp"
+  ],
+  "stars": 6501,
+  "starsToday": 650,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-25T02:36:29.184Z"
+}

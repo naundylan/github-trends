@@ -1,0 +1,23 @@
+{
+  "id": "f0fcabee-ce83-4424-b8b1-758620412eb2",
+  "repo": "Nutlope/hallmark",
+  "url": "https://github.com/Nutlope/hallmark",
+  "category": "CSS/Styling",
+  "summary": "Bộ kỹ năng CSS chống lại AI slop, giúp cải thiện chất lượng thiết kế cho Claude Code, Cursor và Codex.",
+  "usecases": [
+    "Tự động tinh chỉnh CSS đầu ra từ code generation AI để tuân thủ phong cách dự án.",
+    "Kiểm tra chất lượng giao diện trong quy trình CI/CD để phát hiện nội dung AI kém chất lượng.",
+    "Giáo dục developers về pattern CSS hand-crafted so sánh với kết quả AI."
+  ],
+  "ideas": [
+    "Phát triển VS Code extension cảnh báo khi code CSS có dấu hiệu AI slop.",
+    "Tạo CLI tool để lint CSS dựa trên các rule chống AI slop.",
+    "Xây dựng mẫu tài liệu hướng dẫn viết CSS trong môi trường AI-assisted coding."
+  ],
+  "stars": 32224,
+  "starsToday": 455,
+  "language": "CSS",
+  "topics": [],
+  "notePath": "notes/CSS-Styling.md",
+  "createdAt": "2026-10-25T02:36:29.184Z"
+}

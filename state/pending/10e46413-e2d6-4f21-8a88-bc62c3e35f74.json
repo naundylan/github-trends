@@ -1,0 +1,42 @@
+{
+  "id": "10e46413-e2d6-4f21-8a88-bc62c3e35f74",
+  "repo": "herdrdev/herdr",
+  "url": "https://github.com/herdrdev/herdr",
+  "category": "AI Agent/Automation",
+  "summary": "Runtime viết bằng Rust để chạy và quản lý coding agent, cung cấp môi trường terminal và workspace cho các agente AI như Claude Code và Codex.",
+  "usecases": [
+    "Chạy các agente tự viết code trong môi trường terminal được 격리 và an toàn.",
+    "Tích hợp với quy trình CI/CD để tự động hóa review và sửa đổi code.",
+    "Tạo workspace đa tác vụ cho các dự án phát triển phần mềm phức tạp."
+  ],
+  "ideas": [
+    "Phát triển CLI tự động hóa quy trình review code bằng AI thông qua runtime này.",
+    "Kết hợp với nền tảng cloud tạo môi trường coding agent trên demand cho từng dự án.",
+    "Xây dựng hệ thống tự động hóa tài liệu code dựa trên output của coding agents."
+  ],
+  "stars": 45710,
+  "starsToday": 144,
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "agent-orchestration",
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "devtools",
+    "multiplexer",
+    "rust",
+    "terminal",
+    "terminal-multiplexer",
+    "terminal-ui",
+    "tmux",
+    "tui",
+    "workspace-manager"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-25T02:36:29.184Z"
+}

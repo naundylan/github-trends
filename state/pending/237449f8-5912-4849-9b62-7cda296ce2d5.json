@@ -1,0 +1,23 @@
+{
+  "id": "237449f8-5912-4849-9b62-7cda296ce2d5",
+  "repo": "jbiaojerry/ebook-treasure-chest",
+  "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Thư viện Python này thu thập và cung cấp liên kết tải xuống cho nhiều loại sách điện tử, bao gồm kinh điển, kỹ thuật, kinh doanh và các nền đọc như Fan Đăng, WeChat Reading, JD Reading và Himalaya.",
+  "usecases": [
+    "Tìm kiếm và tải sách điện tử nhanh chóng cho nhu cầu đọc cá nhân.",
+    "Tích hợp vào ứng dụng đọc sách để cung cấp nguồn tài liệu đa dạng và cập nhật.",
+    "Hỗ trợ học tập tự nghiên cứu bằng cách tổng hợp các nguồn tài liệu mở từ nhiều ứng dụng."
+  ],
+  "ideas": [
+    "Xây dựng ứng dụng đọc sách cá nhân hóa kết hợp thuật toán gợi ý dựa trên thư viện này.",
+    "Tạo bot Telegram tự động chia sẻ liên kết sách mới cập nhật hàng ngày.",
+    "Phát triển extension trình duyệt quản lý và phân loại các nguồn sách điện tử."
+  ],
+  "stars": 22682,
+  "starsToday": 227,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-10-25T02:36:29.184Z"
+}

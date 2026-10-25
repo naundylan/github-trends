@@ -1,0 +1,23 @@
+{
+  "id": "c9529d6e-50d0-49c8-a8aa-8a1fa8eb7e75",
+  "repo": "basketikun/infinite-canvas",
+  "url": "https://github.com/basketikun/infinite-canvas",
+  "category": "AI/LLM",
+  "summary": "Bảng vẽ vô hạn mã nguồn mở cho tác tạo AI, tích hợp sinh ảnh, video, Agent và quản lý luồng làm việc trực quan.",
+  "usecases": [
+    "Tạo và phối hợp nhiều Agent AI để sản xuất đồ họy/illustration cho dự án game hoặc truyền thông.",
+    "Xây dựng luồng sáng tạo AI trực quan cho các nhóm thiết kế, kết hợp nhiều provider API (OpenAI, Grok, v.v.).",
+    "Quản lý prompt library và tài liệu tham khảo trực tiếp trên canvas cho các dự án lớn."
+  ],
+  "ideas": [
+    "Xuất tự động assets game-ready hoặc print-ready từ canvas.",
+    "Tích hợp plugin cho Figma/Adobe Creative Suite để đồng bộ workflow.",
+    "Sử dụng làm nền tảng học tập về prompt engineering và multi-agent collaboration."
+  ],
+  "stars": 9016,
+  "starsToday": 376,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-25T02:36:29.184Z"
+}
