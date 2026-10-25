@@ -1,0 +1,30 @@
+{
+  "id": "e4a85a9c-1be2-4edd-96a3-b3c94a546af7",
+  "repo": "maboloshi/github-chinese",
+  "url": "https://github.com/maboloshi/github-chinese",
+  "category": "Web Frontend",
+  "summary": "Plugin userscript tự động将GitHub giao diện汉化成 Chinese, cung cấp giao diện Chinese cho GitHub.",
+  "usecases": [
+    "Hiển thị giao diện GitHub tiếng Trung cho người dùng không quen với English",
+    "Dùng trong môi trường làm việc đa ngôn어를 để cải thiện trải nghiệm",
+    "Tích hợp với Tampermonkey để tùy chỉnh thêm các tính năng khác"
+  ],
+  "ideas": [
+    "Mở rộng plugin hỗ trợ nhiều ngôn ngữ khác nhau dựa trên địa lý người dùng",
+    "Kết hợp AI để dịch real-time commit message và issue descriptions",
+    "Phát triển bản mở rộng trình duyệt tương tự cho GitLab và Bitbucket"
+  ],
+  "stars": 36641,
+  "starsToday": 124,
+  "language": "JavaScript",
+  "topics": [
+    "github",
+    "userscript",
+    "tampermonkey",
+    "violentmonkey",
+    "greasyfork",
+    "macaque"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-25T18:03:46.415Z"
+}

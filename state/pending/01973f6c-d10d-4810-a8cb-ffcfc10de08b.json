@@ -1,0 +1,37 @@
+{
+  "id": "01973f6c-d10d-4810-a8cb-ffcfc10de08b",
+  "repo": "ayangweb/BongoCat",
+  "url": "https://github.com/ayangweb/BongoCat",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop pet tương tác đa nền tảng dùng Rust và Tauri, hiện chú mèo BongoCat sống trên desktop người dùng.",
+  "usecases": [
+    "Giảm stress và thư giãn cho người dùng làm việc dài giờ trước màn hình.",
+    "Tạo trải nghiệm cá nhân hóa cho môi trường desktop trên Linux, macOS, Windows.",
+    "Mô hình thử nghiệm cho các ứng dụng tương tác desktop dùng ngôn ngữ Rust."
+  ],
+  "ideas": [
+    "Thêm các chú vật động vật ảo khác với hành vi AI phức tạp hơn.",
+    "Tích hợp hiển thị thông báo hệ thống hoặc lịch sự qua chú pet.",
+    "Phát triển chế độ multi-pet tương tác giữa nhiều người dùng trên cùng mạng."
+  ],
+  "stars": 24200,
+  "starsToday": 39,
+  "language": "Rust",
+  "topics": [
+    "bongocat",
+    "desktop-app",
+    "desktop-pet",
+    "linux",
+    "macos",
+    "windows",
+    "cross-platform",
+    "pet",
+    "bongo-cat",
+    "pet-project",
+    "rust",
+    "tauri",
+    "tauri-app"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-25T18:03:46.415Z"
+}

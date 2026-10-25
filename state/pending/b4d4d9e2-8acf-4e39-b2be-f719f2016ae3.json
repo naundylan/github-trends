@@ -1,0 +1,23 @@
+{
+  "id": "b4d4d9e2-8acf-4e39-b2be-f719f2016ae3",
+  "repo": "aws/agent-toolkit-for-aws",
+  "url": "https://github.com/aws/agent-toolkit-for-aws",
+  "category": "AI Agent/Automation",
+  "summary": "Kit chính thức AWS cung cấp các server MCP, kỹ năng và plugin để AI agents xây dựng và tự động hóa trên AWS.",
+  "usecases": [
+    "AI agents tự động deploy và quản lý tài nguyên AWS",
+    "Tạo quy trình tự động hóa CI/CD kết hợp với AI để triển khai ứng dụng",
+    "Tích hợp AI assistance với AWS Bedrock cho các tác vụ vận hành hệ thống"
+  ],
+  "ideas": [
+    "Xây dựng AI agent tự hoàn thiện infrastructure dựa trên cost optimization",
+    "Kết hợp với Terraform provider cho AI-driven resource management",
+    "Phát triển plugin cho các kịch bản tự động bảo trì và monitoring"
+  ],
+  "stars": 3269,
+  "starsToday": 304,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-25T18:03:46.415Z"
+}

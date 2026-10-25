@@ -1,0 +1,28 @@
+{
+  "id": "13d72db0-638b-4f78-86bf-f4d84f2d9021",
+  "repo": "OpenListTeam/OpenList",
+  "url": "https://github.com/OpenListTeam/OpenList",
+  "category": "Web Frontend",
+  "summary": "Một fork của AList nhằm mục tiêu chống lại khủng hoảng niềm tin, cung cấp giải pháp directory listing cloud storage dựa trên Go.",
+  "usecases": [
+    "Quản lý và truy cập các tài liệu trên nhiều cloud storage khác nhau (Aliyun, Baidu)",
+    "Tích hợp vào hệ thống nội bộ để chia sẻ file nội bộ",
+    "Tự hosting directory cá nhân với quyền kiểm soát cao"
+  ],
+  "ideas": [
+    "Kết hợp với các chính sách mã nguồn mở để tạo nền tảng lưu trữ phân tán",
+    "Thêm tính năng mã hóa end-to-end cho các file nhạy cảm",
+    "Phát triển plugin hệ sinh thái cho các dịch vụ cloud khác"
+  ],
+  "stars": 25273,
+  "starsToday": 34,
+  "language": "Go",
+  "topics": [
+    "alist",
+    "aliyunpan",
+    "baidupan",
+    "openlist"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-25T18:03:46.415Z"
+}

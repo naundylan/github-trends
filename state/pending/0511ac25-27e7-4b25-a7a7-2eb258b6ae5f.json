@@ -1,0 +1,34 @@
+{
+  "id": "0511ac25-27e7-4b25-a7a7-2eb258b6ae5f",
+  "repo": "dagger/dagger",
+  "url": "https://github.com/dagger/dagger",
+  "category": "DevOps/CI-CD",
+  "summary": "Dagger là engine tự động hóa mã nguồn mở cho phép build, test và ship code trên mọi môi trường thông qua container và GraphQL workflows.",
+  "usecases": [
+    "Chạy pipeline CI/CD hoàn toàn trong container đảm bảo tính nhất quán giữa local và production.",
+    "Tự động hóa testing và deployment microservices với caching và triggers GraphQL.",
+    "Cho developer viết pipeline là code chạy ngay local như CI, giảm thời gian feedback loop."
+  ],
+  "ideas": [
+    "Kết hợp Docker Compose với Dagger tạo CI/CD local mock cho microservices phức tạp.",
+    "Phát triển plugin VS Code để quản lý workflow Dagger trực tiếp từ editor.",
+    "Sử dụng Dagger Agents để tự động code review và refactoring dựa trên GraphQL queries."
+  ],
+  "stars": 16496,
+  "starsToday": 59,
+  "language": "Go",
+  "topics": [
+    "ci-cd",
+    "containers",
+    "continuous-deployment",
+    "continuous-integration",
+    "devops",
+    "docker",
+    "agents",
+    "caching",
+    "graphql",
+    "workflows"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-25T18:03:46.415Z"
+}

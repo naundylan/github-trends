@@ -1,0 +1,37 @@
+{
+  "id": "9382e160-b1dc-4836-b509-7b753c1bff43",
+  "repo": "JetBrains/thinkrail",
+  "url": "https://github.com/JetBrains/thinkrail",
+  "category": "AI Agent/Automation",
+  "summary": "Thinkrail là IDE nhẹ AI-driven tùy chỉnh tự động theo phong cách làm việc developer, tích hợp pi-agent hỗ trợ vibe-coding và spec-driven development.",
+  "usecases": [
+    "Tự động tạo boilerplate và giải thích logic code dựa trên spec-driven coding thông qua pi-agent.",
+    "Tối ưu hóa refactoring và code review trong quá trình viết code, giảm mental load cho developer.",
+    "Tích hợp vào workflow hiện có để hỗ trợ agentic-ai cho tác vụ lập trình lặp lại và debugging."
+  ],
+  "ideas": [
+    "Kết hợp Knowledge Management để pi-agent ghi nhớ context dự án dài hạn và đề xuất cải tiến.",
+    "Xây dựng extension cho phép team chia sẻ các vibe-coding patterns qua spec files.",
+    "Sử dụng agentic workflow để tự động tạo tài liệu API và test cases từ codebase."
+  ],
+  "stars": 1275,
+  "starsToday": 52,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "agent-skills",
+    "agentic-ai",
+    "agentic-workflow",
+    "ai-coding",
+    "ai-tools",
+    "spec-driven",
+    "spec-driven-coding",
+    "spec-driven-development",
+    "vibe-coding",
+    "vibecoding",
+    "pi-agent",
+    "pi-agent-extension"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-25T18:03:46.415Z"
+}

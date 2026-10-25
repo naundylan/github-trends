@@ -1,0 +1,23 @@
+{
+  "id": "b18c837b-9a24-49f4-b9d3-db46b8b9d944",
+  "repo": "garrytan/gbrain",
+  "url": "https://github.com/garrytan/gbrain",
+  "category": "AI Agent/Automation",
+  "summary": "Một bộ khung AI Agent theo kiểu Garry's Opinionated, tích hợp OpenClaw/Hermes để xây dựng các agent tự động hóa thông minh bằng TypeScript.",
+  "usecases": [
+    "Tự động hóa luồng làm việc phức tạp cho ứng dụng AI",
+    "Xây dựng agent có thể gọi function và tương tác với hệ thống bên ngoài",
+    "Prototyping các assistant AI có reasoning khả năng"
+  ],
+  "ideas": [
+    "Kết hợp với các tool gọi function để agent tự hành động trong môi trường production",
+    "Sử dụng làm nền tảng cho các agent tự học và thích nghi",
+    "Triển khai agent đa luồng cho enterprise automation và ticket solving"
+  ],
+  "stars": 31198,
+  "starsToday": 38,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-25T18:03:46.415Z"
+}

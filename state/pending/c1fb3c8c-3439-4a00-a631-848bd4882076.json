@@ -1,0 +1,23 @@
+{
+  "id": "c1fb3c8c-3439-4a00-a631-848bd4882076",
+  "repo": "mantrakp04/ardia",
+  "url": "https://github.com/mantrakp04/ardia",
+  "category": "Desktop App",
+  "summary": "Một trình duyệt Chromium miễn phí cho Mac, tái tạo giao diện sidebar của Arc và giao diện tinh tế của Dia, cung cấp trải nghiệm duyệt web mượt mà và hiện đại.",
+  "usecases": [
+    "Duyệt web hàng ngày trên macOS với giao diện tùy chỉnh.",
+    "Nghiên cứu và phát triển giao diện người dùng cho các ứng dụng browser.",
+    "Sử dụng làm nền tảng để xây dựng các tính năng riêng tư hoặc mở rộng trình duyệt."
+  ],
+  "ideas": [
+    "Kết hợp với các extension quản lý mật khẩu hoặc công cụ sản năng để tạo bộ công cụ browser cá nhân.",
+    "Phát triển chủ đề/hộp sẵn tùy chỉnh cho người dùng thích giao diện tối/đẹp.",
+    "Sử dụng API của Chromium để xây dựng công cụ thu thập dữ liệu web hoặc tự động hóa."
+  ],
+  "stars": 804,
+  "starsToday": 102,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-25T18:03:46.415Z"
+}
