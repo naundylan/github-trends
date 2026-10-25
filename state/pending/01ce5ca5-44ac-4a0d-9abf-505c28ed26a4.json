@@ -1,0 +1,31 @@
+{
+  "id": "01ce5ca5-44ac-4a0d-9abf-505c28ed26a4",
+  "repo": "HKUDS/DeepTutor",
+  "url": "https://github.com/HKUDS/DeepTutor",
+  "category": "Other",
+  "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+  "usecases": [
+    "Khám phá và đánh giá HKUDS/DeepTutor cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 42637,
+  "starsToday": 213,
+  "language": "Python",
+  "topics": [
+    "ai-tutor",
+    "deepresearch",
+    "interactive-learning",
+    "multi-agent-systems",
+    "rag",
+    "ai-agents",
+    "cli-tool",
+    "clawbot",
+    "learning"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-25T13:33:25.942Z"
+}

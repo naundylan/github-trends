@@ -1,0 +1,23 @@
+{
+  "id": "6cf8e20b-5fba-49a9-aed4-f3a15cb33ec8",
+  "repo": "Nutlope/hallmark",
+  "url": "https://github.com/Nutlope/hallmark",
+  "category": "CSS/Styling",
+  "summary": "Hallmark là một bộ kỹ năng và pattern CSS chống lại thiết bị AI-slop, giúp Claude Code, Cursor và Codex tạo ra giao diện nhất quán, đẹp và tuân thủ nguyên tắc thiết kế tốt.",
+  "usecases": [
+    "Kiểm tra và sửa lỗi CSS do AI tạo ra cho các dự án frontend.",
+    "Tham chiếu chuẩn mực khi hướng dẫn AI thiết kế giao diện web.",
+    "Tài liệu training để cải thiện chất lượng output CSS từ code assistants."
+  ],
+  "ideas": [
+    "Tích hợp làm plugin VS Code để feedback real-time về chất lượng thiết kế CSS.",
+    "Tự động lint CSS trong CI/CD pipeline để phát hiện anti-patterns do AI tạo.",
+    "Kết hợp với prompt engineering để hướng dẫn AI tạo CSS sạch và maintainable."
+  ],
+  "stars": 32967,
+  "starsToday": 1359,
+  "language": "CSS",
+  "topics": [],
+  "notePath": "notes/CSS-Styling.md",
+  "createdAt": "2026-10-25T13:33:25.942Z"
+}

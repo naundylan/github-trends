@@ -1,0 +1,39 @@
+{
+  "id": "4f3ad0dc-55a5-49dc-9a4d-1f46670fd180",
+  "repo": "AstrBotDevs/AstrBot",
+  "url": "https://github.com/AstrBotDevs/AstrBot",
+  "category": "Other",
+  "summary": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+  "usecases": [
+    "Khám phá và đánh giá AstrBotDevs/AstrBot cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 43361,
+  "starsToday": 225,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "chatbot",
+    "chatgpt",
+    "openai",
+    "qqbot",
+    "gpt",
+    "qq",
+    "agent",
+    "docker",
+    "llm",
+    "python",
+    "telegram",
+    "gemini",
+    "llama",
+    "mcp",
+    "discord",
+    "astrbot"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-25T13:33:25.942Z"
+}

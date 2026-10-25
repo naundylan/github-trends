@@ -1,0 +1,44 @@
+{
+  "id": "1aa09ec3-81a1-4eeb-8c4a-bc9f381cadf9",
+  "repo": "coollabsio/coolify",
+  "url": "https://github.com/coollabsio/coolify",
+  "category": "DevOps/CI-CD",
+  "summary": "Coolify là một nền tảng PaaS mã nguồn mở self-hosted, cho phép triển khai nhanh các trang web tĩnh, ứng dụng full-stack và hơn 360 dịch vụ một-click trên máy chủ cá nhân, là thay thế tự chủ cho Vercel/Heroku/Netlify.",
+  "usecases": [
+    "Triển khai các ứng dụng web và API của startup lên server cá nhân để tránh phụ thuộc vào các nền tảng đám mây trả phí.",
+    "Quản lý và triển khai cơ sở dữ liệu (PostgreSQL, MySQL, MariaDB) cùng với ứng dụng thông qua giao diện đồ họa duy nhất.",
+    "Cung cấp môi trường staging/production cho các dự án mã nguồn mở trên infra nội bộ doanh nghiệp mà không cần quyền truy cập đám mây."
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống CI/CD tự xây dựng để tự động triển khai mỗi khi push code vào repository.",
+    "Sử dụng làm nền tảng cho các dịch vụ nội bộ doanh nghiệp (như GitLab, Mattermost) với một-click deployment.",
+    "Tạo marketplace cá nhân các dịch vụ one-click (như Pi-hole, Home Assistant) để chia sẻ cho bạn bè hoặc cộng đồng."
+  ],
+  "stars": 63900,
+  "starsToday": 192,
+  "language": "PHP",
+  "topics": [
+    "nodejs",
+    "mysql",
+    "php",
+    "docker",
+    "self-hosting",
+    "redis",
+    "svelte",
+    "databases",
+    "nextjs",
+    "coolify",
+    "deployment",
+    "docker-compose",
+    "inertiajs",
+    "laravel",
+    "mariadb",
+    "postgres",
+    "self-hosted",
+    "server",
+    "static-site",
+    "svelte5"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-25T13:33:25.942Z"
+}

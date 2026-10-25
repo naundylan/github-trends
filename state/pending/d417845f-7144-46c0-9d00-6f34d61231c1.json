@@ -1,0 +1,37 @@
+{
+  "id": "d417845f-7144-46c0-9d00-6f34d61231c1",
+  "repo": "makecindy/cindy",
+  "url": "https://github.com/makecindy/cindy",
+  "category": "AI Agent/Automation",
+  "summary": "Cindy là AI agent mã nguồn mở hoạt động ngay lập tức, hỗ trợ nhiều nền tảng để tự động hóa tác vụ và tương tác với LLM.",
+  "usecases": [
+    "Tự động hóa luồng làm việc phát triển phần mềm",
+    "Trợ lý AI đa nền tảng cho sản xuất sáng tạo",
+    "Tích hợp với các mô hình LLM để thực hiện tác vụ trên desktop/mobile"
+  ],
+  "ideas": [
+    "Tích Cindy với hệ thống tự động test code",
+    "Sử dụng làm nền tảng cho AI assistant cá nhân trên mobile",
+    "Phát triển plugin cho IDE sử dụng Cindy để tự động sinh code"
+  ],
+  "stars": 4486,
+  "starsToday": 677,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "ai-agent",
+    "ai-assistant",
+    "android",
+    "claude-code",
+    "codex",
+    "electron",
+    "ios",
+    "llm",
+    "macos",
+    "react-native",
+    "typescript",
+    "windows"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-25T13:33:25.942Z"
+}

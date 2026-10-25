@@ -1,0 +1,28 @@
+{
+  "id": "e80c49b8-48bb-4a24-9ad3-4d27fbdb3216",
+  "repo": "521xueweihan/HelloGitHub",
+  "url": "https://github.com/521xueweihan/HelloGitHub",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Một dự án chia sẻ các dự án mã nguồn mở thú vị và dễ bắt đầu trên GitHub, giúp người mới bắt đầu khám phá và học tập từ các dự án thực tế.",
+  "usecases": [
+    "Giảng viên sử dụng để tìm dự án thực hành cho sinh viên học lập trình.",
+    "Lập trình viên mới tìm được các dự án mở để đóng góp hoặc học hỏi kỹ năng mới.",
+    "Các nhà tuyển dụng quét danh sách để tìm ứng viên có tham gia các dự án open source đáng chú ý."
+  ],
+  "ideas": [
+    "Tạo ra một bản phát triển riêng (clone) tập trung vào lĩnh vực AI hoặc phát triển ứng dụng di động.",
+    "Kết hợp với newsletter để tự động gửi các dự án mới qua email định kỳ.",
+    "Phát triển ứng dụng di động để duyệt và theo dõi các dự án open source trên GoGitHub."
+  ],
+  "stars": 184362,
+  "starsToday": 252,
+  "language": "Python",
+  "topics": [
+    "github",
+    "hellogithub",
+    "python",
+    "awesome"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-10-25T13:33:25.942Z"
+}
