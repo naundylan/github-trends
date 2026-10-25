@@ -1,0 +1,23 @@
+{
+  "id": "7c9d4905-ea20-4626-968a-54b2a20685e1",
+  "repo": "google/brotli",
+  "url": "https://github.com/google/brotli",
+  "category": "Developer Tool",
+  "summary": "Brotli là định dạng nén cao hiệu suất được Google phát triển, thường dùng để nén nội dung web và cải thiện tốc độ tải trang.",
+  "usecases": [
+    "Nén phản hồi HTTP trên web server để giảm kích thước tải về.",
+    "Tối ưu hóa tốc độ truyền dữ liệu trong các ứng dụng CDN.",
+    "Giảm băng thông cho các API dịch vụ đang chạy."
+  ],
+  "ideas": [
+    "Kết hợp Brotli với QUIC protocol để tối ưu tốc độ truyền tải trên mạng hiện đại.",
+    "Tạo middleware nén tự động cho các framework web không đồng nhất.",
+    "Phát triển plugin nén cho các dịch vụ lưu trữ đám mây để tiết kiệm chi phí lưu trữ."
+  ],
+  "stars": 15003,
+  "starsToday": 21,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-25T08:01:14.357Z"
+}

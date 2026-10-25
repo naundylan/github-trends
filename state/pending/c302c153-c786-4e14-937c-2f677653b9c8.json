@@ -1,0 +1,39 @@
+{
+  "id": "c302c153-c786-4e14-937c-2f677653b9c8",
+  "repo": "vercel/ai",
+  "url": "https://github.com/vercel/ai",
+  "category": "AI/LLM",
+  "summary": "Thư viện TypeScript mã nguồn mở giúp xây dựng ứng dụng và agent AI một cách nhanh chóng, do creators của Next.js phát triển.",
+  "usecases": [
+    "Xây dựng ứng dụng chat AI tích hợp với React hoặc Vue",
+    "Thêm khả năng generative AI vào web apps để tạo nội dung động",
+    "Phát triển AI agents tự động hóa tác vụ trên nền TypeScript"
+  ],
+  "ideas": [
+    "Kết hợp với Vercel Edge Functions để chạy inference gần user",
+    "Tạo starter template cho sản phẩm SaaS có tính năng AI",
+    "Build plugin AI cho VS Code sử dụng SDK này"
+  ],
+  "stars": 27502,
+  "starsToday": 12,
+  "language": "TypeScript",
+  "topics": [
+    "artificial-intelligence",
+    "javascript",
+    "language-model",
+    "llm",
+    "openai",
+    "react",
+    "svelte",
+    "typescript",
+    "vercel",
+    "nextjs",
+    "vue",
+    "generative-ai",
+    "generative-ui",
+    "anthropic",
+    "gemini"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-25T08:01:14.358Z"
+}

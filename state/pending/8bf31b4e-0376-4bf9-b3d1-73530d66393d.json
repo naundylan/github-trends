@@ -1,0 +1,32 @@
+{
+  "id": "8bf31b4e-0376-4bf9-b3d1-73530d66393d",
+  "repo": "grafana/alloy",
+  "url": "https://github.com/grafana/alloy",
+  "category": "DevOps/CI-CD",
+  "summary": "Alloy la phan phoi OpenTelemetry Collector the co lap trinh, cho phep dinh nghia pipelines thu thập, xử lý và xuất telemetry data metrics, logs, traces cho Grafana ecosystem.",
+  "usecases": [
+    "Thu thập metrics và traces từ cac service Go và gui len Grafana Cloud",
+    "Dinh nghia pipelines du lieu monitoring cho microservices architecture bang code-based",
+    "Giam overhead quan ly Collector riêng lẻ bang cach su dung cau hinh Alloy declarative"
+  ],
+  "ideas": [
+    "Kết hợp Alloy với Loki de unified logging va tracing trong mot pipeline",
+    "Sử dụng Alloy de export observability data den cac backend thu ba như Datadog hoac Prometheus",
+    "Tao custom receiver/processor cho cac use case niche nhu monitoring IoT devices"
+  ],
+  "stars": 3639,
+  "starsToday": 3,
+  "language": "Go",
+  "topics": [
+    "collector",
+    "grafana",
+    "loki",
+    "monitoring",
+    "observability",
+    "opentelemetry",
+    "opentelemetry-collector",
+    "prometheus"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-25T08:01:14.358Z"
+}

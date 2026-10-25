@@ -1,0 +1,23 @@
+{
+  "id": "31456451-6930-48b6-9f26-ef3a1f21b28e",
+  "repo": "aws/agent-toolkit-for-aws",
+  "url": "https://github.com/aws/agent-toolkit-for-aws",
+  "category": "AI Agent/Automation",
+  "summary": "AWS Agent Toolkit là bộ công cụ chính thức giúp AI agent tương tác và xây dựng ứng dụng trên AWS bằng cách cung cấp các MCP servers, skills và plugins được hỗ trợ.",
+  "usecases": [
+    "Tự động hóa việc deploy và quản lý tài nguyên AWS thông qua lệnh ngôn ngữ tự nhiên.",
+    "Giúp AI agent tạo ra và tối ưu hóa cấu hình CloudFormation hay Terraform.",
+    "Cho phép xây dựng hệ thống tự phục vụ (self-service) cho phép nhân viên nội bộ tương tác với AWS an toàn."
+  ],
+  "ideas": [
+    "Kết hợp với LangChain để tạo ra các agent tự động deploy, monitor và tối ưu ứng dụng trên AWS.",
+    "Sử dụng làm foundation cho AI assistant nội bộ quản lý tài khoản cloud và chi phí.",
+    "Phát triển plugin tự động refactor code để tuân thủ Well-Architected Framework."
+  ],
+  "stars": 3223,
+  "starsToday": 13,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-25T08:01:14.358Z"
+}

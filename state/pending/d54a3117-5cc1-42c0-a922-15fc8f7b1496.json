@@ -1,0 +1,23 @@
+{
+  "id": "d54a3117-5cc1-42c0-a922-15fc8f7b1496",
+  "repo": "actions/checkout",
+  "url": "https://github.com/actions/checkout",
+  "category": "DevOps/CI-CD",
+  "summary": "Action GitHub checkout repository, cho phép workflow CI/CD truy cập mã nguồn để build và deploy.",
+  "usecases": [
+    "Chạy các bước build, test sau khi checkout trong GitHub Actions",
+    "Deploy ứng dụng lên Vercel hoặc Netlify từ pipeline CI",
+    "Cấu hình cache dependencies để加速 pipelines lặp lại"
+  ],
+  "ideas": [
+    "Kết hợp actions/checkout với actions/setup-node để tự động cài dependencies",
+    "Sử shallow checkout để tối ưu tốc độ cho repo lớn",
+    "Tích hợp với caching actions để giảm thời gian build lặp"
+  ],
+  "stars": 8968,
+  "starsToday": 4,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-25T08:01:14.358Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "83e0acdb-f911-4585-ab20-9f5c7e75faf3",
+  "repo": "traefik/traefik",
+  "url": "https://github.com/traefik/traefik",
+  "category": "Microservices",
+  "summary": "Traefik là ứng dụng proxy đám mây hiện đại, cung cấp định tuyến, cân bằng tải và bảo mật TLS tự động cho container và microservice.",
+  "usecases": [
+    "Định tuyến yêu cầu HTTP/HTTPS đến các microservice trong cluster Kubernetes.",
+    "Cân bằng tải và quản lý traffic cho ứng dụng Docker Compose trong phát triển local.",
+    "Tự động cấp chứng chỉ TLS qua Let's Encrypt cho các domain động trong môi trường cloud."
+  ],
+  "ideas": [
+    "Xây dựng hệ thống API gateway tập trung kết hợp Traefik với service mesh như Istio.",
+    "Tạo bộ chart Helm tự động cấu hình Traefik cho từng microservice dựa trên annotation.",
+    "Triển khai Traefik làm reverse proxy cho các ứng dụng Edge computing với cập cấu hình động qua DNS."
+  ],
+  "stars": 65356,
+  "starsToday": 17,
+  "language": "Go",
+  "topics": [
+    "microservice",
+    "docker",
+    "consul",
+    "kubernetes",
+    "load-balancer",
+    "reverse-proxy",
+    "letsencrypt",
+    "golang",
+    "go",
+    "traefik",
+    "gateway",
+    "gatewayapi",
+    "ingress-nginx",
+    "opentelemetry"
+  ],
+  "notePath": "notes/Microservices.md",
+  "createdAt": "2026-10-25T08:01:14.357Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ece09c02-6352-4dec-9c0f-9d314ae542f2",
+  "repo": "OpenSenseNova/SenseNova-Skills",
+  "url": "https://github.com/OpenSenseNova/SenseNova-Skills",
+  "category": "AI Agent/Automation",
+  "summary": "Bộ kỹ năng modular SenseNova cho phép xây dựng các trợ lý văn phòng AI và quy trình làm việc sản phẩm, hỗ trợ xử lý dữ liệu, tài liệu và tạo slide tự động.",
+  "usecases": [
+    "Tự động hóa tạo báo cáo và phân tích dữ liệu từ tài liệu văn bản.",
+    "Xây dựng trợ lý nội bộ giúp lập trình viên sinh code và sắp xếp lịch trình.",
+    "Tích hợp xử lý slide và tài liệu vào quy trình làm việc văn phòng hàng ngày."
+  ],
+  "ideas": [
+    "Tích hợp với các công cụ CRM để tự động nhập dữ liệu từ email và tài liệu vào hệ thống.",
+    "Phát triển bot tự động lên slide dựa trên nội dung tài liệu đầu vào.",
+    "Tạo hệ thống tổng hợp hội nghị AI kết hợp nhận diện giọng nói và trích xuất ý중."
+  ],
+  "stars": 5905,
+  "starsToday": 19,
+  "language": "JavaScript",
+  "topics": [
+    "agent",
+    "agent-skills",
+    "ai-agents",
+    "ai-assistant",
+    "data-analysis",
+    "document-processing",
+    "office-automation",
+    "presentation-slides"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-25T08:01:14.357Z"
+}

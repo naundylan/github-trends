@@ -1,0 +1,30 @@
+{
+  "id": "18a422fb-7fe7-4039-9fa5-3ca03e4e2a94",
+  "repo": "goreleaser/goreleaser",
+  "url": "https://github.com/goreleaser/goreleaser",
+  "category": "DevOps/CI-CD",
+  "summary": "Goreleaser la cong cu tu dong release cho chuong trinh Go, gi p ho ta ban phan phoi nhi phan, checksum va dang ky ban phat han len GitHub nhanh va mot chuong trinh.",
+  "usecases": [
+    "Tự động build và publish release binary khi push tag moi",
+    "Tạo artifact đa nền tảng Windows, macOS, Linux với một lệnh",
+    "Tích hợp vào CI/CD pipeline GitHub Actions cho tự động hóa phát hành phiên bản"
+  ],
+  "ideas": [
+    "Kết hợp với custom domain để publish release len GitHub Pages",
+    "Tự động tạo Docker image kèm theo release binary",
+    "Sử dụng release internal tools cho công ty với quy tắc naming tự động"
+  ],
+  "stars": 16123,
+  "starsToday": 3,
+  "language": "Go",
+  "topics": [
+    "release-automation",
+    "package",
+    "hacktoberfest",
+    "github-actions",
+    "announcements",
+    "release-engineering"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-25T08:01:14.358Z"
+}
