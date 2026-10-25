@@ -1,0 +1,23 @@
+{
+  "id": "19370eb3-5274-4be8-be65-ff80f7907d35",
+  "repo": "anthropics/sandbox-runtime",
+  "url": "https://github.com/anthropics/sandbox-runtime",
+  "category": "Security/Pentest",
+  "summary": "Sandbox-runtime là công cụ nhẹ để enforcing giới hạn hệ thống tập tin và mạng cho các quy trình bất kỳ tại cấp OS, không cần container, giúp tăng bảo mật và cô lập môi trường chạy.",
+  "usecases": [
+    "Chạy ứng dụng không đáng tin cậy trong môi trường cô lập để ngăn chặn truy cập trái phép vào file hệ thống và mạng.",
+    "Sử dụng trong quá trình development/test để kiểm tra code trong môi giới có giới hạn quyền mà không overhead của container đầy đủ.",
+    "Phân phối phần mềm cho nhiều user trên cùng một máy nhưng mỗi user bị cô lập quyền truy cập của riêng họ."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD pipeline để tự động cô lập các bước test hoặc build có nguy hiểm.",
+    "Áp dụng cho edge computing/IoT để chạy script peripheral an toàn trên thiết bị có tài nguyên hạn chế.",
+    "Tạo hệ thống đatenant nơi mỗi tenant có sandbox riêng nhưng chung một kernel."
+  ],
+  "stars": 6596,
+  "starsToday": 199,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-25T23:00:39.895Z"
+}

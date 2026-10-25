@@ -1,0 +1,41 @@
+{
+  "id": "aae25afa-a64d-4949-ab00-ed0471d1bf7a",
+  "repo": "encoredev/encore",
+  "url": "https://github.com/encoredev/encore",
+  "category": "Infrastructure as Code",
+  "summary": "Dự án mã nguồn mở cung cấp orchestration hạ tầng từ local đến cloud, tự động hóa deployment microservices và quản lý infrastructure-as-code.",
+  "usecases": [
+    "Deploy và quản lý ứng dụng microservices trên môi trường local và cloud",
+    "Tự động hóa quản lý tài nguyên serverless và cơ sở dữ liệu across AWS/GCP",
+    "Tiêu chuẩn hóa workflow development-to-production với IaC và GitOps"
+  ],
+  "ideas": [
+    "Sử dụng làm local development simulator đồng bộ chính xác với production cloud",
+    "Kết hợp với Terraform/CDK để quản lý hybrid infrastructure",
+    "Tự động hóa migration schema database và scaling policies theo yêu cầu"
+  ],
+  "stars": 12577,
+  "starsToday": 24,
+  "language": "Go",
+  "topics": [
+    "go",
+    "backend",
+    "microservices",
+    "encore",
+    "cloud-native",
+    "golang",
+    "distributed-systems",
+    "cloud",
+    "database",
+    "serverless",
+    "aws",
+    "devops",
+    "gcp",
+    "typescript",
+    "infrastructure-automation",
+    "devops-automation",
+    "infrastructure-as-code"
+  ],
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-10-25T23:00:39.895Z"
+}

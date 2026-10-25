@@ -1,0 +1,41 @@
+{
+  "id": "9a8a217c-4414-4565-9bb5-d21f75cc73c2",
+  "repo": "AstrBotDevs/AstrBot",
+  "url": "https://github.com/AstrBotDevs/AstrBot",
+  "category": "AI Agent/Automation",
+  "summary": "Một framework AI Agent tích hợp nhiều nền tảng IM (QQ, Discord, Telegram) với LLMs và hệ sinh thái plugin phong phú.",
+  "usecases": [
+    "Tự động trả lời tin nhắn và tương tác trên nhóm chat đa nền tảng với AI",
+    "Xây dựng bot hỗ trợ tự động hóa tác vụ phát triển code và review",
+    "Tích hợp với LLM cá nhân để quản lý lịch hẹn, thông tin và tự động hóa quy trình làm việc"
+  ],
+  "ideas": [
+    "Triển khai bot AI tự động review code trên Pull Request cho các repository",
+    "Kết hợp với MCP (Model Context Protocol) để tự động hóa tác vụ đa nền tảng",
+    "Phát triển plugin personal assistant cho từng nền tảng chat riêng biệt"
+  ],
+  "stars": 43425,
+  "starsToday": 216,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "chatbot",
+    "chatgpt",
+    "openai",
+    "qqbot",
+    "gpt",
+    "qq",
+    "agent",
+    "docker",
+    "llm",
+    "python",
+    "telegram",
+    "gemini",
+    "llama",
+    "mcp",
+    "discord",
+    "astrbot"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-25T23:00:39.895Z"
+}

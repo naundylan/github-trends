@@ -1,0 +1,38 @@
+{
+  "id": "97c83784-392e-4f5b-9e30-91c119e202a7",
+  "repo": "is-a-dev/register",
+  "url": "https://github.com/is-a-dev/register",
+  "category": "Developer Tool",
+  "summary": "Dự án mã nguồn mở giúp developer lấy miễn phí các subdomain '.is-a.dev' đẹp mắt, tích hợp Cloudflare DNS và GitHub Pages.",
+  "usecases": [
+    "Deploy static sites nhanh chóng không cần mua domain",
+    "Cung cấp custom domain cho personal projects và hackathons",
+    "Tích hợp với GitHub Pages để tự động hóa subdomain"
+  ],
+  "ideas": [
+    "Tự động sinh subdomain cá nhân cho từng repository trên GitHub",
+    "Sử dụng làm short link tùy chỉnh cho profile developer",
+    "Kết hợp với CI/CD để deploy tự động domain khi push code"
+  ],
+  "stars": 11638,
+  "starsToday": 30,
+  "language": "JavaScript",
+  "topics": [
+    "subdomain",
+    "developer",
+    "foss",
+    "website",
+    "github-pages",
+    "dev",
+    "free",
+    "free-for-dev",
+    "free-for-developers",
+    "cloudflare",
+    "dns",
+    "domain",
+    "free-domain",
+    "oss"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-25T23:00:39.895Z"
+}

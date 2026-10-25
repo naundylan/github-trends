@@ -1,0 +1,44 @@
+{
+  "id": "00043a81-2eac-4756-9425-3cc7bf203cdd",
+  "repo": "coollabsio/coolify",
+  "url": "https://github.com/coollabsio/coolify",
+  "category": "Cloud/Hosting",
+  "summary": "Coolify là nền tảng PaaS mã nguồn mở tự triển khai, cho phép người dùng triển khai trang web tĩnh, cơ sở dữ liệu và ứng dụng full-stack cùng hơn 360 dịch vụ một cú click trên máy chủ riêng của họ. Nổi bật với hỗ trợ Docker và nhiều công nghệ như Laravel, Next.js, PostgreSQL.",
+  "usecases": [
+    "Triển khai ứng dụng web full-stack mà không cần cấu hình phức tạp bằng Docker.",
+    "Quản lý và triển khai nhiều dịch vụ cơ sở dữ liệu như MySQL, PostgreSQL, Redis trên máy chủ cá nhân.",
+    "Thay thế các dịch vụ PaaS trả phí như Heroku, Vercel hoặc Netlify bằng giải pháp tự host."
+  ],
+  "ideas": [
+    "Xây dựng một nền tảng hosting cho khách hàng doanh nghiệp với tích hợp tự động skaling và bảo mật.",
+    "Kết hợp Coolify với công cụ giám sát và logging để tạo môi trường phát triển toàn diện.",
+    "Phát triển các template triển khai nhanh cho các framework phổ biến như Laravel, Next.js để tăng tốc độ onboarding."
+  ],
+  "stars": 64317,
+  "starsToday": 192,
+  "language": "PHP",
+  "topics": [
+    "nodejs",
+    "mysql",
+    "php",
+    "docker",
+    "self-hosting",
+    "redis",
+    "svelte",
+    "databases",
+    "nextjs",
+    "coolify",
+    "deployment",
+    "docker-compose",
+    "inertiajs",
+    "laravel",
+    "mariadb",
+    "postgres",
+    "self-hosted",
+    "server",
+    "static-site",
+    "svelte5"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-10-25T23:00:39.895Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "b1f9c455-b412-4718-b0ae-937ef00a71e2",
+  "repo": "521xueweihan/HelloGitHub",
+  "url": "https://github.com/521xueweihan/HelloGitHub",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Một danh sách curated GitHub chia sẻ các dự án mã nguồn mở thú vị và dễ bắt đầu cho người mới.",
+  "usecases": [
+    "Phát triển sinh viên tìm dự án học tập và tham gia đóng code",
+    "Giáo viên tư dẫn sinh viên chọn project phù hợp với trình độ",
+    "Contributor tìm project đầu tiên để đóng góp vào mã nguồn mở"
+  ],
+  "ideas": [
+    "Tích hợp vào VS Code extension để tìm và đánh giá project trực tiếp",
+    "Tự động tạo báo cáo chi tiết về dự án dựa trên ngôn ngữ và số sao",
+    "Xây dựng website showcase tự động cập nhật các project nổi bật"
+  ],
+  "stars": 184435,
+  "starsToday": 295,
+  "language": "Python",
+  "topics": [
+    "github",
+    "hellogithub",
+    "python",
+    "awesome"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-10-25T23:00:39.895Z"
+}

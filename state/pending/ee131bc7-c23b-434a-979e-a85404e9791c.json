@@ -1,0 +1,39 @@
+{
+  "id": "ee131bc7-c23b-434a-979e-a85404e9791c",
+  "repo": "ulsklyc/yuvomi",
+  "url": "https://github.com/ulsklyc/yuvomi",
+  "category": "Productivity/Personal Tool",
+  "summary": "Yuvomi là một ứng gia đình self-hosted dạng PWA, tích hợp nhiệm vụ, lịch, ngân sách, ăn uống, mua sắm và sức khỏe vào một nền tảng riêng trên server hoặc NAS, chú trọng quyền riêng tư và không có quảng cáo.",
+  "usecases": [
+    "Quản lý gia đình tập trung các hoạt động nhà务, lịch hẹn và tài chính tại một nơi.",
+    "Cài đặt trên NAS/server own như TrueNAS, Unraid, Umbrel để giữ dữ liệu riêng và tránh phụ thuộc đám mây.",
+    "Sử dụng cho các gia đình muốn theo dõi kế hoạch ăn uống, thuốc và lịch hoạt động hàng ngày."
+  ],
+  "ideas": [
+    "Kết nối với trợ lý giọng nói (Ví dụ: Siri, Google Assistant) để thêm nhiệm vụ hoặc kiểm tra lịch bằng giọng nói.",
+    "Tích hợp với thiết bị IoT để tự động tạo danh sách mua hàng dựa trên thực phẩm hết hạn trong tủ lạnh thông minh.",
+    "Cho phép chia sẻ mẫu kế hoạch và calendar giữa nhiều người dùng trong cùng một môi trường self-hosted."
+  ],
+  "stars": 2004,
+  "starsToday": 208,
+  "language": "JavaScript",
+  "topics": [
+    "family",
+    "progressive-web-app",
+    "pwa",
+    "family-planner",
+    "open-source",
+    "selfhosted",
+    "privacy-first",
+    "selfhosted-apps",
+    "planner-app",
+    "docker",
+    "calendar",
+    "household",
+    "meal-planning",
+    "nodejs",
+    "sqlite"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-10-25T23:00:39.895Z"
+}

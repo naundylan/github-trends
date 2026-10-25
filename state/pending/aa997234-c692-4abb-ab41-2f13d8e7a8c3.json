@@ -1,0 +1,23 @@
+{
+  "id": "aa997234-c692-4abb-ab41-2f13d8e7a8c3",
+  "repo": "basketikun/infinite-canvas",
+  "url": "https://github.com/basketikun/infinite-canvas",
+  "category": "AI/LLM",
+  "summary": "Infinite Canvas là nền tảng vẽ cảnh vô hạn hỗ trợ AI sáng tạo, tích hợp các tính năng như sinh ảnh, biên tập hình ảnh, tạo video, trợ lý Agent thông minh, quản lý prompt và tài nguyên. Hỗ trợ kết nối với nhiều API như OpenAI, ChatGPT, Grok và các kênh tương thích OpenAI.",
+  "usecases": [
+    "Sáng tạo nội dung đa phương tiện như hình ảnh, video và văn bản thông qua giao diện vẽ trực quan.",
+    "Phát triển quy trình làm việc sáng tạo có hệ thống với nhiều Agent AI hợp tác cùng nhau.",
+    "Quản lý và tổ chức thư viện prompt cùng tài nguyên sáng tạo cho các dự án AI."
+  ],
+  "ideas": [
+    "Xây dựng công cụ thiết kế nội dung cho các nhà sáng tạo nội dung số với hệ thống plugin mở rộng.",
+    "Kết hợp Infinite Canvas với các nền tảng thiết kế đồ họa hiện có để tích hợp AI một cách liền mạch.",
+    "Phát triển phiên bản doanh nghiệp với quản lý dự án nhóm và kiểm soát phiên bản nội dung AI."
+  ],
+  "stars": 9121,
+  "starsToday": 148,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-25T23:00:39.895Z"
+}
