@@ -1,0 +1,23 @@
+{
+  "id": "96b41461-61de-4160-8e23-b217e9c3c13f",
+  "repo": "nicobailon/pi-subagents",
+  "url": "https://github.com/nicobailon/pi-subagents",
+  "category": "AI Agent/Automation",
+  "summary": "Mở rộng Pi hỗ trợ delegate subagent bất đồng bộ với cơ chế cắt ngắn, artifacts và chia sẻ session giữa các agent.",
+  "usecases": [
+    "Tự động phân phối tác vụ giữa nhiều AI agent trong quy trình phát triển.",
+    "Quản lý và chia sẻ artifacts giữa các agent mà không mất context.",
+    "Hỗ trợ các pipeline CI/CD gọi agent song song với trạng thái đồng bộ."
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống ticketing để agent tự động cập nhật trạng thái qua artifacts.",
+    "Phát triển dashboard theo dõi hiệu suất và session của từng agent.",
+    "Cho phép agent xuất ra file markdown/JSON có thể import vào Obsidian cùng repo đầu tiên."
+  ],
+  "stars": 4075,
+  "starsToday": 31,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-26T22:12:48.373Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "b509e62d-56be-4ac0-8bb9-359742a5d8c7",
+  "repo": "refactoringhq/tolaria",
+  "url": "https://github.com/refactoringhq/tolaria",
+  "category": "Desktop App",
+  "summary": "Ứng dụngdesktop để quản lý và tổ chức kiến thức dựa trên markdown, cung cấp giao diện trực quan cho việc duyệt, tìm kiếm và xử lý tài liệu kiến thức.",
+  "usecases": [
+    "Quản lý knowledge base cho nhóm phát triển và tài liệu kỹ thuật",
+    "Tìm kiếm và liên kết các ý tưởng trong các file markdown cá nhân hoặc tổ chức",
+    "Đồng bộ notes giữa desktop và các thiết bị di động qua file cục bộ"
+  ],
+  "ideas": [
+    "Tích hợp AI để tự động tóm tắt và liên kết nội dung giữa các file markdown",
+    "Phát triển plugin cho VS Code/Sublime để đồng bộ knowledge base",
+    "Sử dụng làm nền tảng cho ứng dụng ghi chú cá nhân cross-platform với giao diện tùy chỉnh"
+  ],
+  "stars": 20352,
+  "starsToday": 61,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-26T22:12:48.373Z"
+}

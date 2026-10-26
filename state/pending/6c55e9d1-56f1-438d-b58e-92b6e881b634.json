@@ -1,0 +1,32 @@
+{
+  "id": "6c55e9d1-56f1-438d-b58e-92b6e881b634",
+  "repo": "homeassistant-ai/ha-mcp",
+  "url": "https://github.com/homeassistant-ai/ha-mcp",
+  "category": "AI/LLM",
+  "summary": "ha-mcp là server MCP không chính thức cho Home Assistant, tích hợp mô hình LLM như Claude để mở rộng khả năng điều khiển và truy vấn hệ thống tự động hóa nhà thông minh qua AI.",
+  "usecases": [
+    "Điều khiển thiết bị Home Assistant (đèn, cửa, nhiệt độ) bằng lệnh giọng nói hoặc chat qua LLM.",
+    "Tự động tạo các quy tắc automations mới dựa trên ngữ cảnh và lịch sử tương tác với AI.",
+    "Truy vấn trạng thái nhà và tạo báo cáo tổng hợp bằng ngôn어 tự nhiên từ mô hình AI."
+  ],
+  "ideas": [
+    "Tạo trợ lý AI riêng cho nhà có thể hiểu lệnh phức tạp và thực hiện nhiều tác vụ cùng lúc thông qua TTS/TTS.",
+    "Phát triển giao diện chat trong Home Assistant để tương tác với nhiều LLM khác nhau thông qua protocol MCP.",
+    "Liên kết dữ liệu cảm biến thời tiết và dự báo, cho AI tự động điều chỉnh hệ thống nhà thông minh theo điều kiện thời tiết."
+  ],
+  "stars": 5277,
+  "starsToday": 36,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "claude",
+    "hacs",
+    "home-assistant",
+    "home-automation",
+    "llm",
+    "mcp",
+    "model-context-protocol"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-26T22:12:48.373Z"
+}

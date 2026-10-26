@@ -1,0 +1,38 @@
+{
+  "id": "b141c330-6399-468a-b69b-b49a4a5ed5be",
+  "repo": "mesamirh/MovieBox-Tui",
+  "url": "https://github.com/mesamirh/MovieBox-Tui",
+  "category": "CLI Tool",
+  "summary": "MovieBox-Tui là ứng dụng TUI trên terminal viết bằng Rust, cho phép tìm kiếm, tải xuống và phát phim/phim TV sử dụng các phát nhạc cục bộ như mpv.",
+  "usecases": [
+    "Tìm kiếm và phát nội dung trực tiếp từ terminal mà không cần giao diện đồ họa.",
+    "Tích hợp với mpv để phát luồng IPTV và truyền hình trực tiếp trong môi trường CLI.",
+    "Quản lý và tự động hóa thư viện phim cho hệ thống Home Theater trên Linux/Unix."
+  ],
+  "ideas": [
+    "Kết hợp với điều khiển giọng nói để thao tác phát phim bằng lệnh thoại trong terminal.",
+    "Phát triển plugin cho Home Assistant để tự động phát nội dung dựa trên lịch chiếu hoặc truy vấn AI.",
+    "Thêm tính năng đồng bộ thư viện phim giữa nhiều thiết bị terminal qua cloud hoặc local network."
+  ],
+  "stars": 2646,
+  "starsToday": 45,
+  "language": "Rust",
+  "topics": [
+    "anime",
+    "moviebox",
+    "streaming",
+    "series",
+    "cli",
+    "downloader",
+    "iptv",
+    "movies",
+    "mpv",
+    "ratatui",
+    "rust",
+    "terminal",
+    "tui",
+    "tv-shows"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-26T22:12:48.373Z"
+}

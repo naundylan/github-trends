@@ -1,0 +1,32 @@
+{
+  "id": "4142cb41-b100-4c28-9f2d-e89e427022a3",
+  "repo": "nightly-labs/openbot",
+  "url": "https://github.com/nightly-labs/openbot",
+  "category": "AI Agent/Automation",
+  "summary": "OpenBot là một không gian làm việc trên máy tính cục bộ, cho phép sử dụng các AI teammate như Codex, Claude và Grok một cách liên tục, với các không gian làm việc riêng biệt, hàng đợi tác vụ, chia sẻ tệp, điều khiển trình duyệt và khả năng hợp tác giữa các agent.",
+  "usecases": [
+    "Tạo môi trường làm việc riêng biệt cho từng AI để tránh xung đột tác vụ và tăng hiệu suất.",
+    "Tự động hóa quy trình làm việc bằng cách sử dụng nhiều AI cùng lúc cho các tác vụ khác nhau như nghiên cứu, viết mã và kiểm tra.",
+    "Chia sẻ tệp và điều khiển trình duyệt giữa các agent để thực hiện các tác vụ phức tạp đòi hỏi truy xuất dữ liệu và tương tác web."
+  ],
+  "ideas": [
+    "Tích hợp OpenBot với hệ thống quản lý tác vụ (ví dụ: Jira) để phân phối công việc tự động giữa các agent.",
+    "Xây dựng một không gian làm việc cộng tác cho các nhà phát triển, nơi một agent có thể tìm lỗi trong khi agent khác sửa lỗi và kiểm tra.",
+    "Sử dụng OpenBot để tạo một trợ lý nghiên cứu cá nhân có thể thu thập thông tin từ web, xử lý và lưu trữ kết quả vào một kho lưu trữ cục bộ."
+  ],
+  "stars": 1408,
+  "starsToday": 312,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "bun",
+    "codex",
+    "electron",
+    "local-first",
+    "macos",
+    "solidjs",
+    "typescript"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-26T22:12:48.373Z"
+}

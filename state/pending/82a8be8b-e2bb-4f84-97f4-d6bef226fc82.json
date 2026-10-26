@@ -1,0 +1,44 @@
+{
+  "id": "82a8be8b-e2bb-4f84-97f4-d6bef226fc82",
+  "repo": "HarnessRouter/harnessrouter",
+  "url": "https://github.com/HarnessRouter/harnessrouter",
+  "category": "AI Agent/Automation",
+  "summary": "Giao diện thống nhất mã nguồn mở (self-hosted) để quản lý và chạy nhiều agent AI (như Codex, Claude, Hermes) thông qua một API duy nhất, hỗ trợ phiên, streaming và xử lý lỗi.",
+  "usecases": [
+    "Tổng hợp truy cập nhiều LLM/agent thông qua một điểm kết nối duy nhất cho ứng dụng nội bộ.",
+    "Cho phép các team dùng các agent khác nhau trong cùng một quy trình development.",
+    "Tự động hóa quy trình development với quản lý phiên và xử lý lỗi tập trung."
+  ],
+  "ideas": [
+    "Tích hợp với CI/CD để tự động review code qua agent AI.",
+    "Xây dựng dashboard theo dõi hiệu suất và chi phí các agent khác nhau.",
+    "Tạo plugin cho IDE để kết nối với harness riêng tư cho autocompletion và refactoring."
+  ],
+  "stars": 3691,
+  "starsToday": 95,
+  "language": "Python",
+  "topics": [
+    "agent-harness",
+    "ai-infrastructure",
+    "open-protocol",
+    "open-source",
+    "unified-api",
+    "agent-api",
+    "open-standard",
+    "unified-interface",
+    "conformance-testing",
+    "self-hosted",
+    "uhp",
+    "unified-harness-protocol",
+    "agent-framework",
+    "ai-agents",
+    "coding-agent",
+    "harness-engineering",
+    "llm",
+    "deepseek-harness",
+    "hermes",
+    "pi-coding-agent"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-26T22:12:48.373Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6a34b95d-f99e-4d80-9c05-49b5e287e014",
+  "repo": "xmanrui/dsh-im",
+  "url": "https://github.com/xmanrui/dsh-im",
+  "category": "AI Agent/Automation",
+  "summary": "dsh-im giúp kết nối các bot nhắn tin trên nhiều nền tảng (Feishu, WeChat, DingTalk, Enterprise WeChat, QQ, Slack, Telegram, Discord, WhatsApp) với DeepSeek Harness thông qua mã QR hoặc thông tin xác thực, mở rộng khả năng của các agent AI trên các kênh IM.",
+  "usecases": [
+    "Triển khai nhanh bot AI trên nhiều ứng dụng nhắn tin mà không cần cấu hình thủ công, chỉ cần quét mã QR hoặc nhập thông tin xác thực.",
+    "Tự động hóa dịch vụ khách hàng bằng cách sử dụng cùng một model AI trên nhiều nền tảng để phản hồi người dùng một cách thống nhất.",
+    "Chia sẻ dữ liệu giữa các kênh IM và DeepSeek Harness để thực hiện các tác vụ như hỗ trợ đa ngôn ngữ, tổng hợp tin nhắn và phản hồi tự động."
+  ],
+  "ideas": [
+    "Tạo một plugin tích hợp với hệ thống quản lý nội dung (CMS) để xuất bản bài viết tự động lên nhiều trang web thông qua bot Telegram.",
+    "Xây dựng một hệ thống giám sát theo thời gian thực sử dụng bot Discord để nhận thông báo từ DeepSeek Harness và gửi cảnh báo đến các kênh phù hợp.",
+    "Phát triển một trợ lý cá nhân trên nhiều nền tảng, có thể đồng bộ hóa ghi chú từ WeChat sang Notion thông qua DeepSeek Harness để quản lý công việc."
+  ],
+  "stars": 2615,
+  "starsToday": 138,
+  "language": "JavaScript",
+  "topics": [
+    "dsh-plugin",
+    "ai-agents",
+    "chatbot",
+    "cordis",
+    "deepseek",
+    "deepseek-harness",
+    "dingtalk-bot",
+    "discord-bot",
+    "dsh",
+    "feishu-bot",
+    "im-bot",
+    "slack-bot",
+    "telegram-bot",
+    "wechat-bot",
+    "whatsapp-bot"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-26T22:12:48.373Z"
+}

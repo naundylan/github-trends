@@ -1,0 +1,44 @@
+{
+  "id": "8cfad6eb-9a11-4906-aaf6-e60d14a04bb8",
+  "repo": "eugeniughelbur/obsidian-second-brain",
+  "url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án cung cấp bộ nhớ bền vững cho các AI agent (Claude Code, Codex, v.v.) lưu trữ dưới dạng markdown trong Obsidian vault, hỗ trợ tìm kiếm ngữ nghĩa, tự viết lại notes và giao tiếp chung giữa các agent.",
+  "usecases": [
+    "Tích hợp bộ nhớ dài hạn cho Claude Code trong các dự án phát triển phần mềm.",
+    "Cho phép nhiều AI agent chia sẻ logbook và đồng bộ các tác vụ thực hiện.",
+    "Tự động hóa nghiên cứu và ghi chép knowledge bằng các lệnh semantic search."
+  ],
+  "ideas": [
+    "Kết hợp với vector database để thực hiện tìm kiếm cross-agent nâng cao.",
+    "Tạo giao diện UI trong Obsidian để quản lý memory graph trực quan.",
+    "Phát triển plugin cho VS Code để agent có thể ghi nhận context trực tiếp từ code editor."
+  ],
+  "stars": 4953,
+  "starsToday": 35,
+  "language": "Python",
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "obsidian",
+    "second-brain",
+    "claude",
+    "claude-skill",
+    "knowledge-management",
+    "obsidian-md",
+    "personal-knowledge-management",
+    "claude-code-skill",
+    "agent-skills",
+    "ai-note-taking",
+    "ai-second-brain",
+    "claude-memory",
+    "claude-plugin",
+    "karpathy-llm-wiki",
+    "knowledge-graph",
+    "pkm",
+    "agent-memory",
+    "codex"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-26T22:12:48.373Z"
+}

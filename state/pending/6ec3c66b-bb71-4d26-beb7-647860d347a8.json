@@ -1,0 +1,29 @@
+{
+  "id": "6ec3c66b-bb71-4d26-beb7-647860d347a8",
+  "repo": "malisper/pgrust",
+  "url": "https://github.com/malisper/pgrust",
+  "category": "Database",
+  "summary": "Postgres được viết lại hoàn toàn bằng Rust, đạt hiệu suất vượt trội hơn Postgres và Clickhouse, mang lại tốc độ truy vấn và xử lý dữ liệu nhanh hơn đáng kể.",
+  "usecases": [
+    "Tăng tốc độ truy vấn cho ứng dụng xử lý dữ liệu lớn",
+    "Thay thế cơ sở dữ liệu truyền thống trong các hệ thống AI và real-time analytics",
+    "Triển khai trên biên (edge) nhờ hiệu suất cao của Rust"
+  ],
+  "ideas": [
+    "Kết hợp với các framework AI để tạo database vector tự động",
+    "Sử dụng làm backend cho các ứng dụng streaming và real-time analytics",
+    "Đóng gói thành dịch vụ nhẹ cho môi trường edge computing và IoT"
+  ],
+  "stars": 5547,
+  "starsToday": 88,
+  "language": "Rust",
+  "topics": [
+    "ai-assisted-development",
+    "database",
+    "postgres",
+    "postgresql",
+    "rust"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-10-26T22:12:48.373Z"
+}
