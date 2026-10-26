@@ -1,0 +1,23 @@
+{
+  "id": "3478e178-0983-4c61-99b1-b68f2580fc9c",
+  "repo": "Alishahryar1/free-claude-code",
+  "url": "https://github.com/Alishahryar1/free-claude-code",
+  "category": "Developer Tool",
+  "summary": "Công cụ cho phép sử dụng miễn phí nhiều harness AI tạo code như Claude Code, Codex và OpenCode, hỗ trợ terminal, IDE và trình duyệt với hơn 1.3B token.",
+  "usecases": [
+    "Phát triển code nhanh mà không cần trả phí API AI từ terminal hoặc IDE",
+    "Kết hợp nhiều model AI (Claude, Codex, OpenCode) trong luồng làm việc để so sánh và lọc kết quả",
+    "Sử dụng trên trình duyệt để code di động hoặc trên thiết bị có hạn chế phần cứng"
+  ],
+  "ideas": [
+    "Xây dựng dashboard AI coding riêng hỗ trợ nhiều model cùng lúc cho dự án lớn",
+    "Tích hợp vào CI/CD để tự động review code hoặc sinh tài liệu",
+    "Phát triển phiên bản mobile để code khẩn cấp từ phone"
+  ],
+  "stars": 63658,
+  "starsToday": 358,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-26T15:51:51.127Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cc6a1870-93c6-40fe-918f-8033a166d99f",
+  "repo": "NVIDIA/SkillSpector",
+  "url": "https://github.com/NVIDIA/SkillSpector",
+  "category": "AI Agent/Automation",
+  "summary": "SkillSpector là công cụ quét bảo mật cho kỹ năng AI agent, phát hiện các lỗ hổng, mẫu độc hại, rủi ro injection gợi ý và cung cấp chuỗi cung ứng trước khi cài đặt Claude Code, Codex và MCP.",
+  "usecases": [
+    "Phát hiện và ngăn chặn injection gợi ý trong các kỹ năng AI agent trước khi triển khai.",
+    "Quét cung cấp chuỗi cung ứng để đánh giá bảo mật của dependency AI agent.",
+    "Giám sát và báo cáo các mẫu độc hại trong các tác vụ tự động hóa agent."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để quét tự động mỗi khi thêm kỹ năng agent mới.",
+    "Mở rộng quét cho nhiều nền tảng AI khác ngoài Claude và Codex.",
+    "Tạo dashboard trực quan hóa mức rủi ro cho từng kỹ năng agent."
+  ],
+  "stars": 21862,
+  "starsToday": 203,
+  "language": "Python",
+  "topics": [
+    "agent-security",
+    "agent-skills",
+    "agentic-ai",
+    "ai-security",
+    "claude-code",
+    "mcp",
+    "prompt-injection",
+    "security-scanner",
+    "security-tools",
+    "security-workflow",
+    "supply-chain-security"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-26T15:51:51.127Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "dd407185-ea75-4003-ba25-91552ef3cfaa",
+  "repo": "bilawalsidhu/gods-eye-view",
+  "url": "https://github.com/bilawalsidhu/gods-eye-view",
+  "category": "Web Frontend",
+  "summary": "Mô phỏng vệ tinh trên trình duyệt cung cấp dữ liệu địa lý thực-time trên quả cầu 3D photorealistic, dùng cho trí tuệ không gian (OSINT) và theo dõi chuyến bay.",
+  "usecases": [
+    "Trực quan hóa dữ liệu vệ satélite/photogrammetry theo thời gian thực",
+    "Trí tuệ không gian (OSINT) cho mục đích theo dõi di chuyển và phân tích địa lý",
+    "Giáo dục và nghiên cứu về hệ thống GIS trên web"
+  ],
+  "ideas": [
+    "Kết hợp layer dữ liệu thời tiết thời gian thực cho ứng dụng dự bão",
+    "Tạo overlay AIS/TLE cho globe thương mại và theo dõi naval",
+    "Phát triển plugin Cesium với tính năng OSINT tự động"
+  ],
+  "stars": 60304,
+  "starsToday": 388,
+  "language": "JavaScript",
+  "topics": [
+    "3d-globe",
+    "cesium",
+    "flight-tracking",
+    "geospatial",
+    "geospatial-intelligence",
+    "gis",
+    "osint",
+    "photogrammetry",
+    "satellite-tracking",
+    "spatial-intelligence",
+    "webgl",
+    "worldview"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-26T15:51:51.127Z"
+}

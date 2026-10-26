@@ -1,0 +1,37 @@
+{
+  "id": "301e97bb-66e4-4756-acdd-ec2c990ac1fe",
+  "repo": "JetBrains/thinkrail",
+  "url": "https://github.com/JetBrains/thinkrail",
+  "category": "Code Editor/IDE Extension",
+  "summary": "một IDE nhẹ và có thể tùy chỉnh dựa trên cách làm việc của bạn, tích hợp pi-agent để hỗ trợ vibe coding và phát triển theo spec-driven, tự điều chỉnh giao diện và quy trình làm việc theo phong cách của người dùng",
+  "usecases": [
+    "phát triển code nhanh với AI cắm sâu vào quy trình làm việc cá nhân",
+    "tự động hóa các tác vụ viết code dựa trên các spec định nghĩa",
+    "tạo môi trường phát triển cá nhân hóa cho các dự án riêng"
+  ],
+  "ideas": [
+    "kết hợp với các nền tảng quản lý dự án để tự động sinh spec từ yêu cầu người dùng",
+    "phát triển thêm các kỹ năng agent cho IDE để tương tác với các dịch vụ bên ngoài",
+    "sử dụng trong giáo dục lập trình để hướng dẫn sinh viên theo phong cách vibe coding"
+  ],
+  "stars": 2472,
+  "starsToday": 1156,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "agent-skills",
+    "agentic-ai",
+    "agentic-workflow",
+    "ai-coding",
+    "ai-tools",
+    "spec-driven",
+    "spec-driven-coding",
+    "spec-driven-development",
+    "vibe-coding",
+    "vibecoding",
+    "pi-agent",
+    "pi-agent-extension"
+  ],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-10-26T15:51:51.126Z"
+}

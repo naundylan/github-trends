@@ -1,0 +1,23 @@
+{
+  "id": "851e6a3f-a635-4deb-bfce-0f42ddd6c421",
+  "repo": "higgsfield-ai/skills",
+  "url": "https://github.com/higgsfield-ai/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện Python từ Higgsfield AI cung cấp framework định nghĩa và quản lý các skill (kỹ năng) cho AI agent, cho phép mô-đun hóa khả năng của agent thành các đơn vị có thể tái sử dụng, tổ hợp và chia sẻ.",
+  "usecases": [
+    "Xây dựng hệ thống multi-agent nơi mỗi agent sở hữu tập skill chuyên biệt (tìm kiếm, phân tích code, gọi API)",
+    "Tạo skill registry trung tâm để versioning, testing và deployment các capability cho agent production",
+    "Phát triển agent có khả năng tự học skill mới từ ví dụ hoặc ngôn ngữ tự nhiên"
+  ],
+  "ideas": [
+    "Kết hợp với microsoft/skill-recorder: dùng skill-recorder ghi lại thao tác, xuất ra skill package tương thích với higgsfield-ai/skills",
+    "Xây dựng visual skill builder cho phép non-technical user kéo thả tạo skill mà không cần code Python",
+    "Tích hợp với LangGraph hoặc AutoGen để orchestrate các skill thành workflow phức tạp có state management"
+  ],
+  "stars": 1658,
+  "starsToday": 253,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-26T15:51:51.127Z"
+}

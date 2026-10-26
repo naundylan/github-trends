@@ -1,0 +1,34 @@
+{
+  "id": "42630d6b-ce73-4e0b-a6dd-a5e252a28588",
+  "repo": "gitroomhq/postiz-app",
+  "url": "https://github.com/gitroomhq/postiz-app",
+  "category": "Web Framework",
+  "summary": "Postiz là một công cụ lên lịch nội dung mạng xã hội dựa trên agent thông minh, được xây dựng bằng Next.js và TypeScript. Đây là công cụ mã nguồn mở cho phép người dùng quản lý và đăng tự động nội dung lên nhiều nền tảng mạng xã hội khác nhau.",
+  "usecases": [
+    "Lên lịch và đăng tự động nội dung lên Twitter, Facebook, LinkedIn từ một giao diện duy nhất",
+    "Quản lý nội dung mạng xã hội cho cá nhân hoặc đội nhóm marketing",
+    "Triển khai phiên bản cloud hoặc self-hosted tùy theo nhu cầu sử dụng"
+  ],
+  "ideas": [
+    "Thêm tính năng phân tích hiệu suất bài đăng và đề xuất thời gian đăng tối ưu",
+    "Tích hợp AI để tự động tạo nội dung hoặc caption cho bài đăng",
+    "Phát triển tính năng quản lý nhiều tài khoản mạng xã hội cùng lúc với phân quyền chi tiết"
+  ],
+  "stars": 38138,
+  "starsToday": 146,
+  "language": "TypeScript",
+  "topics": [
+    "typescript",
+    "nextjs",
+    "redis",
+    "open-source",
+    "oss",
+    "scheduling-tool",
+    "social-media-scheduling-tool",
+    "open-source-social-media-scheduling-tool",
+    "postiz-cloud",
+    "postiz-hosted"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-26T15:51:51.127Z"
+}

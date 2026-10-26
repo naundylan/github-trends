@@ -1,0 +1,34 @@
+{
+  "id": "1b5437a7-e511-46a2-98f5-2ee4ce036d38",
+  "repo": "microsoft/skill-recorder",
+  "url": "https://github.com/microsoft/skill-recorder",
+  "category": "AI Agent/Automation",
+  "summary": "Ứng dụng desktop (Electron) ghi lại phiên làm việc trên màn hình và dùng GitHub Copilot SDK để tái cấu trúc thành ý định + các bước có thứ tự, sau đó xây dựng Skill có thể tái sử dụng cho Microsoft Autopilots như Scout, Copilot Cowork hay Copilot Studio.",
+  "usecases": [
+    "Tự động hóa quy trình lặp lại bằng cách ghi lại thao tác thủ công một lần và chuyển thành skill cho AI agent",
+    "Tài liệu hóa quy trình làm việc của team dưới dạng skill có thể chia sẻ và chạy lại bởi Copilot",
+    "Tạo bot tự động hóa cho các tác vụ phức tạp đa bước mà không cần viết code thủ công"
+  ],
+  "ideas": [
+    "Kết hợp với RPA platform để xuất skill thành workflow có thể triển khai trên server",
+    "Xây dựng marketplace skill nội bộ cho tổ chức, cho phép nhân viên chia sẻ và đánh giá các automation",
+    "Tích hợp với công cụ test tự động để ghi lại test case thủ công và chuyển thành script test có thể chạy lại"
+  ],
+  "stars": 5179,
+  "starsToday": 257,
+  "language": "TypeScript",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "automation",
+    "copilot",
+    "copilot-cli",
+    "copilot-cowork",
+    "copilot-studio",
+    "electron",
+    "microsoft-scout",
+    "screen-recording"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-26T15:51:51.127Z"
+}
