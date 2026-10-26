@@ -1,0 +1,33 @@
+{
+  "id": "63923610-b7d1-4de9-940f-9cb57b744565",
+  "repo": "biomejs/biome",
+  "url": "https://github.com/biomejs/biome",
+  "category": "Developer Tool",
+  "summary": "Chuỗi công cụ cho dự án web, cung cấp formatter và linter có thể dùng qua CLI và LSP để duy trì chất lượng code.",
+  "usecases": [
+    "Tự động định dạng code (formatter) trong CI/CD pipeline để giữ cho codebase đồng nhất.",
+    "Sử dụng làm linter trong quá trình phát triển để phát hiện statically lỗi và vi phạm style.",
+    "Tích hợp với VS Code/Nvim qua LSP để sửa code tức thời khi nhập."
+  ],
+  "ideas": [
+    "Tự động sửa đổi cấu hình Biome dựa trên dự án hiện tại thông qua một command-line utility.",
+    "Xây dựng plugin tự động sửa lỗi và format cho các ngôn ngữ không chính thức được hỗ trợ.",
+    "Kết hợp Biome với husky-like hooks để enforce code quality trên mọi commit."
+  ],
+  "stars": 25995,
+  "starsToday": 8,
+  "language": "Rust",
+  "topics": [
+    "css",
+    "formatter",
+    "javascript",
+    "jsx",
+    "linter",
+    "static-code-analysis",
+    "typescript",
+    "web",
+    "json"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-26T08:26:21.157Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "52c3a6db-f243-494b-b955-4de49970fe6a",
+  "repo": "garrytan/gbrain",
+  "url": "https://github.com/garrytan/gbrain",
+  "category": "AI Agent/Automation",
+  "summary": "Một bộ não agent AI opinionated cho OpenClaw/Hermes, tự động hóa luồng làm việc phát triển phần mềm thông qua các agent thông minh.",
+  "usecases": [
+    "Tự động hóa review code và phát hiện bug trong team development.",
+    "Hỗ trợ deployment và monitoring tự động trong các pipeline CI/CD.",
+    "Tạo ra các agent tùy chỉnh cho các tác vụ lặp lại như test, build, hay cập nhật tài liệu."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để xây dựng personal assistant tự động hóa tác vụ hệ thống.",
+    "Phát triển plugin VS Code cho agent can thiệp trực tiếp trong code editor.",
+    "Sử dụng làm nền tảng cho hệ thống ticket auto-response dựa trên nội dung issue."
+  ],
+  "stars": 31231,
+  "starsToday": 33,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-26T08:26:21.157Z"
+}

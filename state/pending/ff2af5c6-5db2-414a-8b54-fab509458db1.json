@@ -1,0 +1,44 @@
+{
+  "id": "ff2af5c6-5db2-414a-8b54-fab509458db1",
+  "repo": "kdlbs/kandev",
+  "url": "https://github.com/kdlbs/kandev",
+  "category": "Developer Tool",
+  "summary": "Kanban & môi trường phát triển AI để điều phối nhiều agent, review thay đổi và mở PR. Tự hosting, đa provider, không thucollect dữ liệu.",
+  "usecases": [
+    "Tự động hóa quy trình code review và quản lý tác vụ giữa nhiều AI agent trong team phát triển.",
+    "Self-hosting cho tổ chức cần kiểm soát dữ liệu và tích hợp provider AI cá nhân.",
+    "Tích hợp vào workflow CI/CD để tự động tạo PR và theo dõi tiến độ phát triển."
+  ],
+  "ideas": [
+    "Kết hợp với local LLMs để tạo môi trường 'offline AI developer' hoàn toàn không cần mạng.",
+    "Phát triển plugin VS Code để tương tác trực tiếp với kandev từ bên trong editor.",
+    "Sử dụng làm nền tảng cho AI pair programming tự động hóa từ viết code đến deploy."
+  ],
+  "stars": 1018,
+  "starsToday": 10,
+  "language": "Go",
+  "topics": [
+    "acp",
+    "agent-orchestration",
+    "agentic-ai",
+    "ai-agents",
+    "claude-code",
+    "code-review",
+    "coding-agents",
+    "developer-tools",
+    "github-copilot",
+    "golang",
+    "kanban",
+    "nextjs",
+    "open-source",
+    "self-hosted",
+    "task-manager",
+    "tui",
+    "vibe-coding",
+    "workflow-automation",
+    "worktrees",
+    "agentic-development-environment"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-26T08:26:21.157Z"
+}

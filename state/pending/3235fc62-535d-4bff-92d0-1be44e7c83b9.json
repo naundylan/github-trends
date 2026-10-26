@@ -1,0 +1,37 @@
+{
+  "id": "3235fc62-535d-4bff-92d0-1be44e7c83b9",
+  "repo": "bytecodealliance/wasmtime",
+  "url": "https://github.com/bytecodealliance/wasmtime",
+  "category": "DevOps/CI-CD",
+  "summary": "Wasmtime là runtime nhẹ cho WebAssembly, cung cấp tốc độ nhanh, an toàn và tuân thủ chuẩn, phù hợp cho môi trường biên và đám mây.",
+  "usecases": [
+    "Chạy module WebAssembly an toàn trong pipeline CI/CD để test và build ứng dụng.",
+    "Triển khai microservice nhẹ tại biên (edge) với overhead thấp thay thế cho container truyền thống.",
+    "Sandbox hóa ứng dụng không tin cậy trong môi trường phát triển và sản xuất."
+  ],
+  "ideas": [
+    "Sử dụng làm nền tảng cho các hàm lambda/serverless chạy code do user cung cấp an toàn.",
+    "Tích hợp vào trình duyệt để tăng tốc hiệu ứng đồ họa và logic phụ bằng WebAssembly.",
+    "Xây dựng công cụ debug và profiling chuyên dụng cho workload Wasmtime."
+  ],
+  "stars": 18774,
+  "starsToday": 11,
+  "language": "Rust",
+  "topics": [
+    "wasm",
+    "jit",
+    "sandbox",
+    "cranelift",
+    "wasi",
+    "wasmtime",
+    "webassembly",
+    "runtime",
+    "rust",
+    "aot",
+    "standalone",
+    "lightweight",
+    "portable"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-26T08:26:21.157Z"
+}

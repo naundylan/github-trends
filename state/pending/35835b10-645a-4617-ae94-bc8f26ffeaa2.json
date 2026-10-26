@@ -1,0 +1,23 @@
+{
+  "id": "35835b10-645a-4617-ae94-bc8f26ffeaa2",
+  "repo": "MoonshotAI/kimi-code",
+  "url": "https://github.com/MoonshotAI/kimi-code",
+  "category": "CLI Tool",
+  "summary": "Kimi Code CLI là công cụ dòng lệnh khởi đầu cho việc xây dựng các agent AI tiếp theo, tự động hóa việc tạo code và cấu hình dự án.",
+  "usecases": [
+    "Tự động tạo mã nguồn và cấu hình dự án từ các yêu cầu bằng ngôn ngữ tự nhiên.",
+    "Tích hợp vào quy trình phát triển phần mềm để hỗ trợ AI agent thực hiện tác vụ lập trình.",
+    "Cho phép các agent AI hoạt động độc lập trên các môi trường code với ít can thiệp người dùng."
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình thị giác để tạo code kèm giao diện người dùng tự động.",
+    "Phát triển plugin cho các trình editor như VS Code để generate code trực tiếp trong môi trường làm việc.",
+    "Xây dựng hệ thống tự động review và refactor code dựa trên phản hồi từ agent."
+  ],
+  "stars": 8023,
+  "starsToday": 16,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-26T08:26:21.157Z"
+}

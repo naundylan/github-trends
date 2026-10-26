@@ -1,0 +1,31 @@
+{
+  "id": "45570378-9502-4559-a2aa-af552132ba94",
+  "repo": "WebKit/WebKit",
+  "url": "https://github.com/WebKit/WebKit",
+  "category": "Web Framework",
+  "summary": "Dự án WebKit, bộ điều khiển trình duyệt mã nguồn mở được sử dụng bởi Safari, Mail và App Store trên macOS, iOS và Linux.",
+  "usecases": [
+    "Phát triển trình duyệt web tùy chỉnh hoặc tích hợp engine render vào ứng dụng desktop/mobile.",
+    "Nghiên cứu và tối ưu hóa hiệu năng JavaScript và CSS rendering.",
+    "Tích hợp WebKit vào ứng dụng bên trong (embedded) cho hiển thị nội dung web an toàn."
+  ],
+  "ideas": [
+    "Xây dựng trình duyệt riêng tư với các tính năng bảo mật và chống theo dõi sâu.",
+    "Tích hợp AI để tiền xử lý nội dung web trước khi render.",
+    "Tạo giao diện quản lý tab dựa trên WebKit cho môi trường làm việc đa nhiệm."
+  ],
+  "stars": 10276,
+  "starsToday": 9,
+  "language": "JavaScript",
+  "topics": [
+    "webkit",
+    "browser",
+    "web",
+    "javascript",
+    "macos",
+    "ios",
+    "gtk"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-10-26T08:26:21.157Z"
+}

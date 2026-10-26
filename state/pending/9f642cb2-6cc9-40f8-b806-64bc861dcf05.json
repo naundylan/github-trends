@@ -1,0 +1,23 @@
+{
+  "id": "9f642cb2-6cc9-40f8-b806-64bc861dcf05",
+  "repo": "google/brotli",
+  "url": "https://github.com/google/brotli",
+  "category": "Developer Tool",
+  "summary": "Brotli là một định dạng nén hiện đại cung cấp tỷ lệ nén tốt hơn gzip, được sử dụng rộng rãi trong giaoweb và tối ưu hóa mạng.",
+  "usecases": [
+    "Nén phản hồi HTTP trên web servers để giảm băng thông.",
+    "Tối ưu hóa phân phối tài liệu trong mạng phân phối nội dung.",
+    "Phát nhanh hơn trang web qua tài liệu nén."
+  ],
+  "ideas": [
+    "Tích hợp nén Brotli vào quy trình tính toán biên để tối ưu payload thời gian thực.",
+    "Kết hợp với các chiến lược nén thích nghi chuyển đổi giữa gzip và Brotli dựa trên khả năng client.",
+    "Phát triển công cụ benchmark nén Brotli cho hiệu suất trên nhiều loại nội dung khác nhau."
+  ],
+  "stars": 15018,
+  "starsToday": 20,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-26T08:26:21.157Z"
+}
