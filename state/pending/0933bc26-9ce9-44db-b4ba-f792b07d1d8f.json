@@ -1,0 +1,30 @@
+{
+  "id": "0933bc26-9ce9-44db-b4ba-f792b07d1d8f",
+  "repo": "maboloshi/github-chinese",
+  "url": "https://github.com/maboloshi/github-chinese",
+  "category": "Developer Tool",
+  "summary": "Một userscript GitHub chuyển giao diện thành tiếng Trung, cho phép tùy chỉnh giao diện GitHub thành Chinese một cách dễ dàng thông qua Tampermonkey/Violentmonkey.",
+  "usecases": [
+    "Hiển thị giao diện GitHub hoàn toàn bằng tiếng Trung cho người dùng không quen với tiếng Anh.",
+    "Tùy chỉnh các từ khóa và từ dịch riêng cho các dự án mã nguồn mở.",
+    "Giúp ích cho người học ngôn ngữ hoặc giáo viên khi hướng dẫn sử dụng GitHub."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động dịch và sửa lỗi thuật ngữ chuyên ngành trên GitHub.",
+    "Phát triển bản mở rộng cho các nền tảng khác như GitLab hoặc Bitbucket.",
+    "Thêm tùy chọn âm thanh đọc aloud cho các đoạn văn bản được dịch."
+  ],
+  "stars": 36659,
+  "starsToday": 121,
+  "language": "JavaScript",
+  "topics": [
+    "github",
+    "userscript",
+    "tampermonkey",
+    "violentmonkey",
+    "greasyfork",
+    "macaque"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-26T02:40:06.193Z"
+}

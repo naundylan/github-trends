@@ -1,0 +1,23 @@
+{
+  "id": "1e6c8e5d-432e-4b4f-97b3-bf681a426baf",
+  "repo": "apirrone/Open_Duck_Mini",
+  "url": "https://github.com/apirrone/Open_Duck_Mini",
+  "category": "Embedded/IoT",
+  "summary": "Dự án mã nguồn mở tạo ra phiên bản nhỏ gọn của robot BDX, sử dụng Python để điều khiển và mô phỏng hành vi robot.",
+  "usecases": [
+    "Phát triển và tùy chỉnh robot cho mục đích học tập và nghiên cứu",
+    "Mô phỏng hành vi robot trong môi trường giáo dục hoặc demo",
+    "Tích hợp cảm biến và điều khiển động cơ cho dự án cá nhân hoặc prototyping"
+  ],
+  "ideas": [
+    "Xây dựng robot di chuyển tự chủ sử dụng AI và thị giác máy tính",
+    "Tạo ứng dụng điều khiển robot qua kết nối Bluetooth hoặc WiFi",
+    "Phát triển thư viện Python mở rộng để hỗ trợ đa nền tảng robotics"
+  ],
+  "stars": 4490,
+  "starsToday": 37,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-10-26T02:40:06.193Z"
+}

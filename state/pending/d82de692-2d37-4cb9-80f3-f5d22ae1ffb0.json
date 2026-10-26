@@ -1,0 +1,28 @@
+{
+  "id": "d82de692-2d37-4cb9-80f3-f5d22ae1ffb0",
+  "repo": "OpenListTeam/OpenList",
+  "url": "https://github.com/OpenListTeam/OpenList",
+  "category": "Web Frontend",
+  "summary": "OpenList là một fork của AList, là một ứng dụng web quản lý lưu trữ đám mây nguồn mở, hỗ trợ truy cập các dịch vụ như Alibaba Cloud và Baidu Pan với giao diện thân thiện.",
+  "usecases": [
+    "Quản lý và truy cập các tài khoản lưu trữ đám mây (Aliyun, Baidu) từ một giao diện duy nhất.",
+    "Lưu trữ và chia sẻ tệp cá nhân với các chính sách riêng tư hơn so với các dịch vụ chính thức.",
+    "Tích hợp tự động hóa luồng làm việc (workflow) cho việc sao lưu hoặc chuyển đổi dữ liệu giữa các nền tảng đám mây."
+  ],
+  "ideas": [
+    "Kết hợp với các dịch vụ tự hoá (self-hosted) để tạo ra một 'cloud personal storage' riêng biệt hoàn toàn.",
+    "Phát triển plugin cho các nền tảng như Nextcloud hoặc ownCloud để hỗ trợ đa nền tảng cloud.",
+    "Sử dụng API của OpenList để xây dựng các báo cáo tự động về sử dụng dung lượng lưu trữ qua nhiều tài khoản."
+  ],
+  "stars": 25275,
+  "starsToday": 41,
+  "language": "Go",
+  "topics": [
+    "alist",
+    "aliyunpan",
+    "baidupan",
+    "openlist"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-26T02:40:06.193Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "6066b44a-c9c6-4f3f-ab41-aff2e5beab46",
+  "repo": "nightly-labs/openbot",
+  "url": "https://github.com/nightly-labs/openbot",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop local-first cho phép chạy nhiều AI agent (Codex, Claude, Grok) song song với workspace riêng, hàng đợi task, chia sẻ file, điều khiển trình duyệt và hợp tác agent-to-agent.",
+  "usecases": [
+    "Phát triển phần mềm với nhiều AI agent chuyên biệt làm việc đồng thời trên các task khác nhau",
+    "Tự động hóa quy trình research và coding phức tạp bằng cách phân chia công việc cho nhiều agent"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống version control để agent tự tạo PR, review code và merge",
+    "Xây dựng marketplace template workspace cho các loại dự án phổ biến (web, mobile, data pipeline)"
+  ],
+  "stars": 996,
+  "starsToday": 86,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "bun",
+    "codex",
+    "electron",
+    "local-first",
+    "macos",
+    "solidjs",
+    "typescript"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-26T02:40:06.193Z"
+}
