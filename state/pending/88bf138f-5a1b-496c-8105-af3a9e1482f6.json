@@ -1,0 +1,34 @@
+{
+  "id": "88bf138f-5a1b-496c-8105-af3a9e1482f6",
+  "repo": "alchaincyf/huashu-design",
+  "url": "https://github.com/alchaincyf/huashu-design",
+  "category": "AI Agent/Automation",
+  "summary": "Cung cấp kỹ năng thiết kế HTML-native cho AI agents, cho phép tạo ra web/App prototypes, PPTX, animation và infographics chỉ bằng một câu lệnh.",
+  "usecases": [
+    "Tạo nhanh prototype web/app từ một prompt đơn giản",
+    "Sinh ra các file PPTX và animation cho bài thuyết trình",
+    "Tùy chỉnh phong cách thiết kế theo sở thích người dùng"
+  ],
+  "ideas": [
+    "Tạo hệ thống thiết kế tự động cho sản phẩm nội bộ",
+    "Kết hợp với agent để sinh ra tài liệu marketing kèm hình ảnh",
+    "Phát triển một 'design system' cá nhân được agent cập nhật liên tục"
+  ],
+  "stars": 26999,
+  "starsToday": 251,
+  "language": "HTML",
+  "topics": [
+    "agent-skills",
+    "ai-design",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "cursor",
+    "design",
+    "html",
+    "pptx",
+    "prototype"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-27T03:12:49.519Z"
+}

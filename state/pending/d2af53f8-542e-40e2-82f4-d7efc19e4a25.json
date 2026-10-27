@@ -1,0 +1,28 @@
+{
+  "id": "d2af53f8-542e-40e2-82f4-d7efc19e4a25",
+  "repo": "cjpais/Handy",
+  "url": "https://github.com/cjpais/Handy",
+  "category": "AI/LLM",
+  "summary": "Ứng dụng mã nguồn mở miễn phí cho nhận dạng giọng nói hoạt động hoàn toàn ngoại tuyến, hỗ trợ mở rộng và truy cập dễ dàng.",
+  "usecases": [
+    "Ghi chép ghi chú bằng giọng nói cho người dùng có hạn chế động tay.",
+    "Chuyển đổi âm thanh thành văn bản cho nội dung đa phương tiện trong môi trường không có mạng.",
+    "Hỗ trợ tính năng tiếp cận cho người khiếm thính hoặc hoạt động hands-free."
+  ],
+  "ideas": [
+    "Kết hợp với thiết bị IoT để điều khiển nhà thông minh bằng lệnh giọng nói.",
+    "Phát triển extension trình duyệt để dịch video tức thời.",
+    "Tạo ứng dụng học ngôn ngữ real-time với phản hồi phát âm."
+  ],
+  "stars": 34802,
+  "starsToday": 140,
+  "language": "Rust",
+  "topics": [
+    "speech-to-text",
+    "tauri-v2",
+    "accessibility",
+    "cross-platform"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-27T03:12:49.519Z"
+}

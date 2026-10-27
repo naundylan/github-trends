@@ -1,0 +1,23 @@
+{
+  "id": "95bd1f08-09bb-4207-a718-1db532a01cb5",
+  "repo": "higgsfield-ai/skills",
+  "url": "https://github.com/higgsfield-ai/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Thư viện Python cho phát triển và triển khai các mô hình AI, tập trung trên khả năng LLM và prototyping nhanh.",
+  "usecases": [
+    "Phát triển prototype AI cho ứng dụng doanh nghiệp với ít code nhất.",
+    "Tích hợp khả năng LLM vào hệ thống nội bộ để tự động hóa tác vụ.",
+    "Hỗ trợ giáo dục và nghiên cứu về kỹ thuật prompt engineering."
+  ],
+  "ideas": [
+    "Kết hợp với các framework tự động hóa để tạo ra các agent AI thực hiện tác vụ cụ thể.",
+    "Phát triển plugin cho IDE để hỗ trợ sinh code dựa trên kỹ năng AI.",
+    "Sử dụng trong môi trường nghiên cứu để test nhanh các mô hình ngôn ngữ mới."
+  ],
+  "stars": 1691,
+  "starsToday": 226,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-27T03:12:49.519Z"
+}

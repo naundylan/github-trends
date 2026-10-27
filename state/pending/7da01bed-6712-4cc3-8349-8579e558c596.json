@@ -1,0 +1,23 @@
+{
+  "id": "7da01bed-6712-4cc3-8349-8579e558c596",
+  "repo": "CodebuffAI/freebuff",
+  "url": "https://github.com/CodebuffAI/freebuff",
+  "category": "Developer Tool",
+  "summary": "Trợ lý viết mã AI miễn phí giúp tự động hoàn thành, giải thích code và tăng năng suất cho lập trình viên.",
+  "usecases": [
+    "Tự động hoàn thành code để tăng tốc độ phát triển phần mềm.",
+    "Giải thích đoạn code và tạo tài liệu tự động cho dự án.",
+    "Trợ lý review code và đề xuất cải tiến cho lập trình viên."
+  ],
+  "ideas": [
+    "Kết hợp với terminal để tự động hóa các tác vụ lặp lại trong phát triển.",
+    "Phát triển plugin IDE để cung cấp gợi ý code contextual.",
+    "Sử dụng làm nền tảng cho hệ thống tự học lập trình cho người mới."
+  ],
+  "stars": 13784,
+  "starsToday": 29,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-27T03:12:49.519Z"
+}
