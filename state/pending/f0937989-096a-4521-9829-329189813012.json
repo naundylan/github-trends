@@ -1,0 +1,23 @@
+{
+  "id": "f0937989-096a-4521-9829-329189813012",
+  "repo": "elayadesign/ai-design-skills",
+  "url": "https://github.com/elayadesign/ai-design-skills",
+  "category": "AI/LLM",
+  "summary": "Tổng hợp các kỹ năng và phương pháp thiết kế sử dụng trí tuệ nhân tạo, giúp người dùng tạo dựng và nâng cao khả năng sáng tạo với AI.",
+  "usecases": [
+    "Người dùng học và tham khảo các kỹ năng prompt engineering cho thiết kế AI.",
+    "Nhà thiết kế sử dụng làm nguồn cảm hứng và hướng dẫn cho các dự án sáng tạo với AI.",
+    "Giảng viên dạy khóa học AI thiết kế sử dụng tài liệu này làm nội dung chính."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ tạo hình ảnh AI để tạo ra quy trình thiết kế tự động.",
+    "Xây dựng plugin cho Figma/Sketch tích hợp các kỹ năng trong repo.",
+    "Phát triển ứng dụng giáo dục AI giúp người dùng luyện tập kỹ năng thiết kế qua AI."
+  ],
+  "stars": 9129,
+  "starsToday": 1395,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-27T21:43:24.039Z"
+}

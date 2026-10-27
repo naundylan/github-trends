@@ -1,0 +1,23 @@
+{
+  "id": "81098815-956f-4b45-bc3d-b32d1cb7ec02",
+  "repo": "togg53192-cmd/jailbreaks",
+  "url": "https://github.com/togg53192-cmd/jailbreaks",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Danh sách tổng hợp các jailbreak cho iOS, cung cấp thông tin về các phương pháp mở khóa và tùy chỉnh hệ điều hành.",
+  "usecases": [
+    "Nhà nghiên cứu bảo mật nghiên cứu các lỗ hổng và phương pháp jailbreak cho iOS.",
+    "Phát triển tùy chỉnh phần cứng/phần mềm cần jailbreak thiết bị iOS.",
+    "Fan công tạo phiên bản custom firmware và mod cho iOS."
+  ],
+  "ideas": [
+    "Tạo công cụ tự động kiểm tra bảo mật cho các thiết bị iOS.",
+    "Phát triển môi trường test an toàn cho các exploit iOS.",
+    "Kết hợp với các framework reverse engineering để phân tích tính an toàn của jailbreak."
+  ],
+  "stars": 5387,
+  "starsToday": 890,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-10-27T21:43:24.039Z"
+}

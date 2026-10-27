@@ -1,0 +1,33 @@
+{
+  "id": "20c5bf93-a3d7-486a-b758-608a31b041d4",
+  "repo": "video-db/call.md",
+  "url": "https://github.com/video-db/call.md",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống ghi âm, chuyển giọng văn thành văn bản và phân tích cuộc họp bằng trí tuệ nhân tạo trong thời gian thực, cung cấp thông tin sâu từ trước, trong và sau cuộc gọi.",
+  "usecases": [
+    "Tự động tóm tắt và phân tích điểm chính từ các cuộc họp doanh nghiệp",
+    "Thu thập dữ liệu ý kiến và kỹ năng từ cuộc gọi để cải thiện sản phẩm",
+    "Theo dõi và đánh giá chất lượng cuộc gọi hỗ trợ khách hàng trong thời gian thực"
+  ],
+  "ideas": [
+    "Tích hợp với các nền tảng hội thoại như Slack hoặc Teams để bot phân tích cuộc hội thoại tự động",
+    "Phát triển tính năng phân tích cảm xúc và đề xuất hành động dựa trên nội dung cuộc gọi",
+    "Tạo dashboard quản lý cho đội ngũ bán hàng theo dõi hiệu quả cuộc gọi và kỹ năng nhân viên"
+  ],
+  "stars": 1930,
+  "starsToday": 86,
+  "language": "TypeScript",
+  "topics": [
+    "agentic-ai",
+    "agentic-workflow",
+    "ai",
+    "mcp",
+    "meeting",
+    "meeting-notes",
+    "note-taking",
+    "notes-app",
+    "skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-27T21:43:24.039Z"
+}

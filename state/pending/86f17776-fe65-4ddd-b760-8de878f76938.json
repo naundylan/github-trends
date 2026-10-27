@@ -1,0 +1,44 @@
+{
+  "id": "86f17776-fe65-4ddd-b760-8de878f76938",
+  "repo": "ShayanAbbas1/dbdelve",
+  "url": "https://github.com/ShayanAbbas1/dbdelve",
+  "category": "Database",
+  "summary": "Dbdelve là một client cơ sở dữ liệu nhanh và nhẹ nhàng được viết bằng Rust, sử dụng GPUI để giao diện hiện đại và hỗ trợ nhiều loại database phổ biến như MySQL, PostgreSQL, SQLite và MongoDB.",
+  "usecases": [
+    "Provide a lightweight desktop interface for querying and managing databases locally and remotely",
+    "Serve as a developer tool for rapid database schema exploration and debugging during software development",
+    "Support multiple database engines (MySQL, PostgreSQL, SQLite, MongoDB) for diverse project requirements"
+  ],
+  "ideas": [
+    "Integrate with GPUI visualizers to create interactive database dashboards",
+    "Develop IDE plugins for in-editor data viewing and query execution",
+    "Implement offline-first data sync for local-first application workflows"
+  ],
+  "stars": 568,
+  "starsToday": 27,
+  "language": "Rust",
+  "topics": [
+    "database",
+    "dbclient",
+    "developer-tools",
+    "gpui",
+    "local-first",
+    "mysql",
+    "open-source",
+    "postgresql",
+    "rust",
+    "sql",
+    "sqlite",
+    "snowflake",
+    "mssql-database",
+    "mssqlserver",
+    "linux",
+    "macos-app",
+    "windows",
+    "mariadb",
+    "mongodb",
+    "redis"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-10-27T21:43:24.039Z"
+}

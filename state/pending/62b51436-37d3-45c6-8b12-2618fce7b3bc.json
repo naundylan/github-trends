@@ -1,0 +1,33 @@
+{
+  "id": "62b51436-37d3-45c6-8b12-2618fce7b3bc",
+  "repo": "SimplifyJobs/Summer2027-Internships",
+  "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Summer2027-Internships là danh sách tuyển tập cập nhật hàng ngày các cơ hội thực tập phần mềm, AI, dữ liệu khoa học, sản phẩm và phần hè 2027.",
+  "usecases": [
+    "Help students find and apply for internships in top tech companies across AI, software engineering, and quant roles",
+    "Assist career counselors in guiding students to opportunities matching their major and skill set",
+    "Enable recruiters to track emerging talent pools and internship market trends"
+  ],
+  "ideas": [
+    "Add filter options by major, GPA, or required skills for personalized internship matching",
+    "Create a real-time notification bot (Telegram/Discord) for new posting alerts",
+    "Analyze hiring trends over time using historical internship data from previous years"
+  ],
+  "stars": 48189,
+  "starsToday": 22,
+  "language": "Python",
+  "topics": [
+    "interview-preparation",
+    "internships",
+    "jobs",
+    "university",
+    "fall-2026",
+    "github",
+    "internship",
+    "data-science",
+    "software-engineering"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-10-27T21:43:24.039Z"
+}

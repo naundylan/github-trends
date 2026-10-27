@@ -1,0 +1,35 @@
+{
+  "id": "b994735c-13d4-41ba-a061-81df1773c780",
+  "repo": "processing/p5.js",
+  "url": "https://github.com/processing/p5.js",
+  "category": "Developer Tool",
+  "summary": "p5.js là nền tảng client-side JavaScript cho nghệ sĩ, thiết kế viên và sinh viên để học lập trình và sáng tác sáng tạo trên web, dựa trên nguyên lý của Processing với thư viện đồ họa, âm thanh và tương tác.",
+  "usecases": [
+    "Giáo dục lập trình cho sinh viên và người mới bắt đầu qua các dự án trực quan và nghệ thuật",
+    "Tạo các tác phẩm đồ họa tương tác, animation và trải nghiệm sáng tạo trên web mà không cần cài đặt",
+    "Phát triển các bài học trực quan cho môn Toán, Vật lý hoặc Nghệ thuật số trong môi trường học online"
+  ],
+  "ideas": [
+    "Kết hợp với WebGL và Three.js để tạo ra trải nghiệm 3D tương tác trên trình duyệt",
+    "Tạo thư viện plugin cho p5.js cho phép xuất ra các định dạng in 3D hoặc AR/VR",
+    "Xây dựng nền tảng học tập AI sinh hình nơi người dùng có thể code để tạo ra các pattern và hình ảnh generative"
+  ],
+  "stars": 24242,
+  "starsToday": 41,
+  "language": "JavaScript",
+  "topics": [
+    "javascript",
+    "graphics",
+    "education",
+    "learning",
+    "art",
+    "design",
+    "sound",
+    "html",
+    "p5js",
+    "creative-coding",
+    "processing"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-27T21:43:24.039Z"
+}

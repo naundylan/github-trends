@@ -1,0 +1,28 @@
+{
+  "id": "44940458-489e-4988-a521-aac1f4e5426f",
+  "repo": "algorithm-visualizer/algorithm-visualizer",
+  "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+  "category": "Web Frontend",
+  "summary": "Nền tảng trực tuyến tương tác trực quan hóa các thuật toán từ mã nguồn, giúp người dùng hiểu và theo dõi quy trình chạy của các cấu trúc dữ liệu và thuật toán qua giao diện động.",
+  "usecases": [
+    "Giảng viên và sinh viên trực quan hóa thuật toán phức tạp trong lớp học",
+    "Phân tích hiệu suất và lỗi logic trong code qua visualization",
+    "Người dùng học tự học thông tin tác động các ví dụ thuật toán tương tác"
+  ],
+  "ideas": [
+    "Kết hợp với VR/AR để tạo trải nghiệm trực quan hóa 3D cho thuật toán",
+    "Tạo plugin cho IDE để visualize code execution trực tiếp trong trình biên tập",
+    "Phát triển trò chơi giáo dục dựa trên việc giải puzzle thuật toán qua visualization"
+  ],
+  "stars": 49214,
+  "starsToday": 157,
+  "language": "JavaScript",
+  "topics": [
+    "algorithm",
+    "data-structure",
+    "visualization",
+    "animation"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-27T21:43:24.039Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "585ed2d3-9358-480c-b668-5faa2f54c5bf",
+  "repo": "kopia/kopia",
+  "url": "https://github.com/kopia/kopia",
+  "category": "Desktop App",
+  "summary": "Kopia là công cụ sao lưu cross-platform cho Windows, macOS và Linux, cung cấp sao lưu tăng tốc, mã hóa end-to-end trên client, nén và deduplication dữ liệu, kèm giao diện CLI và GUI.",
+  "usecases": [
+    "Sao lưu tự động dữ liệu cá nhân lên cloud storage (Google Cloud Storage, S3).",
+    "Phục hồi dữ liệu nhanh sau crash hoặc ransomware do mã hóa và deduplication.",
+    "Quản lý bản sao lưu qua giao diện đồ họa hoặc dòng lệnh cho các hệ thống đa nền tảng."
+  ],
+  "ideas": [
+    "Tích hợp với các dịch vụ cloud riêng tư (self-hosted) để tạo hệ thống backup doanh nghiệp chi phí thấp.",
+    "Tạo plugin cho các hệ thống CI/CD để backup mã nguồn và cấu hình tự động.",
+    "Kết hợp với hệ thống monitoring để cảnh báo trạng thái backup qua các kênh thông báo."
+  ],
+  "stars": 14506,
+  "starsToday": 31,
+  "language": "Go",
+  "topics": [
+    "deduplication",
+    "backup",
+    "google-cloud-storage",
+    "encryption",
+    "cloud"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-27T21:43:24.039Z"
+}
