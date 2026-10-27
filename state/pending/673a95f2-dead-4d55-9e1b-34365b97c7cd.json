@@ -1,0 +1,29 @@
+{
+  "id": "673a95f2-dead-4d55-9e1b-34365b97c7cd",
+  "repo": "hanliang97/MatrixMedia",
+  "url": "https://github.com/hanliang97/MatrixMedia",
+  "category": "CLI Tool",
+  "summary": "Công cụ CLI tự động hóa phát hành video hàng loạt đến nhiều nền tảng xã hội. Nó sử dụng Vue, Electron và Puppeteer kết hợp AI để xử lý đăng tải.",
+  "usecases": [
+    "Tự động đăng video lên nhiều kênh truyền thông cùng lúc cho tự chế hoặc thương hiệu đa nền tảng.",
+    "Quản lý và lên lịch phát hành video cho các kênh xã hội từ dòng lệnh một cách hiệu quả.",
+    "Tích hợp AI để tạo thẻ mô tả, hashtag và tối ưu nội dung trước khi đăng tải."
+  ],
+  "ideas": [
+    "Thêm hỗ trợ API cho YouTube Shorts và Instagram Reels để mở rộng phạm vi đăng tải.",
+    "Xây dựng dashboard web để theo dõi hiệu suất video và dữ liệu tương tác từ các nền tảng.",
+    "Tích hợp phân tích AI để đề xuất thời điểm đăng và chủ đề nội dung dựa trên dữ liệu lịch sử."
+  ],
+  "stars": 1132,
+  "starsToday": 34,
+  "language": "JavaScript",
+  "topics": [
+    "video",
+    "autovideo",
+    "dsh-plugin",
+    "hermes-skill",
+    "workbuddy-skill"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-27T17:14:01.552Z"
+}

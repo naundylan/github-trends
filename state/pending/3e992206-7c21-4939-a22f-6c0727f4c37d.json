@@ -1,0 +1,28 @@
+{
+  "id": "3e992206-7c21-4939-a22f-6c0727f4c37d",
+  "repo": "cloudflare/cloudflared",
+  "url": "https://github.com/cloudflare/cloudflared",
+  "category": "Networking",
+  "summary": "cloudflared là client tunnel của Cloudflare, cho phép tạo kết nối an toàn từ thiết bị local đến mạng Cloudflare Zero Trust, thay thế VPN truyền thống.",
+  "usecases": [
+    "Expose local development server to internet securely for testing",
+    "Connect on-premise databases/services to Cloudflare Zero Trust network",
+    "Bypass NAT/firewalls for remote access without opening ports"
+  ],
+  "ideas": [
+    "Combine with Tailscale/DNS-over-HTTPS to create a global secure private network",
+    "Use as infrastructure for edge functions accessing internal resources",
+    "Automate tunnel setup for microservice deployment on private servers"
+  ],
+  "stars": 16299,
+  "starsToday": 45,
+  "language": "Go",
+  "topics": [
+    "cloudflare",
+    "reverse-proxy",
+    "cloudflare-tunnel",
+    "zero-trust-network-access"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-27T17:14:01.552Z"
+}

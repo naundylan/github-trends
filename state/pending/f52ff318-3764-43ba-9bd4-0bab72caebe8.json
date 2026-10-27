@@ -1,0 +1,36 @@
+{
+  "id": "f52ff318-3764-43ba-9bd4-0bab72caebe8",
+  "repo": "glanceapp/glance",
+  "url": "https://github.com/glanceapp/glance",
+  "category": "Other",
+  "summary": "A self-hosted dashboard that puts all your feeds in one place",
+  "usecases": [
+    "Khám phá và đánh giá glanceapp/glance cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 37785,
+  "starsToday": 70,
+  "language": "Go",
+  "topics": [
+    "dashboard",
+    "homepage",
+    "rss",
+    "self-hosted",
+    "docker",
+    "feed-reader",
+    "aggregator",
+    "startpage",
+    "reddit",
+    "youtube",
+    "go",
+    "monitoring",
+    "rss-reader",
+    "homelab"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-27T17:14:01.552Z"
+}

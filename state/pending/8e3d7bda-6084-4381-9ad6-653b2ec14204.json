@@ -1,0 +1,23 @@
+{
+  "id": "8e3d7bda-6084-4381-9ad6-653b2ec14204",
+  "repo": "HKUDS/AutoSwarm",
+  "url": "https://github.com/HKUDS/AutoSwarm",
+  "category": "AI Agent/Automation",
+  "summary": "AutoSwarm là framework kết hợp nhiều mô hình LLM (như Claude, DeepSeek, Grok...) thành một nhóm tác vụ (swarm) để làm việc cùng nhau tự động hóa các tác vụ phức tạp.",
+  "usecases": [
+    "Tự động hóa nghiên cứu khoa học bằng cách phối hợp nhiều agent tìm dữ liệu, viết code, phân tích kết quả",
+    "Giúp phát triển phần mềm nhanh hơn bằng cách agent viết code, review, debug cùng lúc",
+    "Tạo chatbot/assistant thông minh có khả năng gọi nhiều tool/LLM khác nhau trong một luồng hoạt động"
+  ],
+  "ideas": [
+    "Xây dựng hệ thống tự động trả lời email/phản hồi khách hàng bằng cách agent đọc tin, agent viết trả lời, agent kiểm tra",
+    "Tích hợp với IDE để agent tự động sinh code, test và deploy dựa trên yêu cầu người dùng",
+    "Tạo ra một 'cỗ máy nghiên cứu' tự chạy các thử nghiệm khoa học song song qua các agent khác nhau"
+  ],
+  "stars": 2029,
+  "starsToday": 41,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-27T17:14:01.552Z"
+}

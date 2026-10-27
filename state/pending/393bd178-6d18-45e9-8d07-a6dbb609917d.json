@@ -1,0 +1,44 @@
+{
+  "id": "393bd178-6d18-45e9-8d07-a6dbb609917d",
+  "repo": "Raktim94/nodedr-restaurant-pos",
+  "url": "https://github.com/Raktim94/nodedr-restaurant-pos",
+  "category": "Other",
+  "summary": "Hệ thống POS tự quản lý cho nhà hàng tích hợp quản lý bàn, hiển thị cocina và đặt lịch. Nó chạy trên mạng địa phương với TypeScript, NestJS và NextJS.",
+  "usecases": [
+    "Quầy thu ngân nhà hàng nhỏ vừa phải với quản lý bàn và hiển thị cocina thời gian thực.",
+    "Khách hàng quét mã QR để đặt món và thanh toán trực tiếp từ thiết bị di động.",
+    "Nhân viên quản lý tồn kho và xử lý payroll/luong thông qua hệ thống tích hợp PostgreSQL và Prisma."
+  ],
+  "ideas": [
+    "Tích hợp cổng thanh toán VNPay/UPI để hỗ trợ thanh toán nội bộ trong POS.",
+    "Phát triển ứng dụng di động cho nhân viên phục vụ theo dõi đơn hàng và trạng thái bàn.",
+    "Sử dụng AI để phân tích xu hướng món ăn và tự động đề xuất điều chỉnh menu."
+  ],
+  "stars": 178,
+  "starsToday": 35,
+  "language": "TypeScript",
+  "topics": [
+    "casaos",
+    "docker",
+    "gst",
+    "india",
+    "inventory-management",
+    "kitchen-display-system",
+    "nestjs",
+    "nextjs",
+    "offline-first",
+    "open-source",
+    "payroll",
+    "point-of-sale",
+    "pos",
+    "postgresql",
+    "prisma",
+    "restaurant-management",
+    "restaurant-pos",
+    "self-hosted",
+    "typescript",
+    "upi"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-10-27T17:14:01.552Z"
+}
