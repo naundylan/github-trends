@@ -1,0 +1,23 @@
+{
+  "id": "d9b1a081-1c08-4002-a5aa-8c28fa0ba07f",
+  "repo": "pablostanley/yoinks",
+  "url": "https://github.com/pablostanley/yoinks",
+  "category": "CLI Tool",
+  "summary": "công cụ dòng lệnh TypeScript cho phép tải bất kỳ video nào từ terminal mà không có quảng cáo đáng chú ý",
+  "usecases": [
+    "tải video nhanh cho mục đích học tập hoặc tham khảo mà không cần mở trình duyệt",
+    "tích hợp vào scripts tự động hóa để trích xuất nội dung video",
+    "giảm phụ thuộc vào các extension hoặc website có quảng cáo khi lấy nội dung video"
+  ],
+  "ideas": [
+    "kết hợp với các dịch vụ đám mây để tự động lưu video vào Drive hoặc S3",
+    "thêm tùy chọn chọn chất lượng video và định dạng xuất",
+    "tạo giao diện CLI thân thiện với zsh/bash completion"
+  ],
+  "stars": 6331,
+  "starsToday": 128,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-27T11:24:29.911Z"
+}

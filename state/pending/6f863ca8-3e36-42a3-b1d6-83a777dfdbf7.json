@@ -1,0 +1,32 @@
+{
+  "id": "6f863ca8-3e36-42a3-b1d6-83a777dfdbf7",
+  "repo": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "category": "AI/LLM",
+  "summary": "Một framework kỹ năng dựa trên AI để tự động hóa quy trình phát triển phần mềm, cho phép tạo ra các sub-agent và quy trình SDLC tự động.",
+  "usecases": [
+    "Tự động hóa quy trình code và review phần mềm qua các AI agent.",
+    "Tạo ra các dự án phần mềm bằng cách chỉ định mục đích cao cấp thay vì code thủ công.",
+    "Phát triển và thử nghiệm các kỹ năng AI trong môi trường môi giới (sub-agent-driven development)."
+  ],
+  "ideas": [
+    "Sử dụng làm nền tảng cho một công cụ quản lý dự án AI hoàn toàn tự động.",
+    "Kết hợp với CLI để tạo ra các boilerplate project dựa trên yêu cầu tự nhiên.",
+    "Phát triển hệ thống training AI agents cá nhân cho từng developer."
+  ],
+  "stars": 305872,
+  "starsToday": 608,
+  "language": "Shell",
+  "topics": [
+    "ai",
+    "brainstorming",
+    "coding",
+    "obra",
+    "sdlc",
+    "skills",
+    "superpowers",
+    "subagent-driven-development"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-27T11:24:29.911Z"
+}

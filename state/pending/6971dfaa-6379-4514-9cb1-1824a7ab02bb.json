@@ -1,0 +1,36 @@
+{
+  "id": "6971dfaa-6379-4514-9cb1-1824a7ab02bb",
+  "repo": "galaxy-s10/billd-desk",
+  "url": "https://github.com/galaxy-s10/billd-desk",
+  "category": "Desktop App",
+  "summary": "Ứng dụng điều khiển desktop từ xa và streaming game được xây dựng trên Vue3, WebRTC, Electron và Flutter, cho phép điều khiển và truyền hình màn hình từ xa mượt mà.",
+  "usecases": [
+    "Giúp kỹ sư IT hỗ trợ từ xa cho khách hàng giải quyết vấn đề phần mềm.",
+    "Cho phép người chơi stream game từ PC mạnh lên thiết bị di động với độ trễ thấp.",
+    "Dùng trong giáo dục hoặc đào tạo để chia sẻ màn hình và kiểm soát thiết bị học viên."
+  ],
+  "ideas": [
+    "Thêm mã hóa end-to-end và xác thực hai yếu tố cho an toàn hơn.",
+    "Tích hợp giao diện điều khiển bằng cử chỉ tay hoặc giọng nói.",
+    "Hỗ trợ đa nền tảng kết nối qua LAN và Internet với TURN relay tự động."
+  ],
+  "stars": 8941,
+  "starsToday": 81,
+  "language": "TypeScript",
+  "topics": [
+    "electron",
+    "vue3",
+    "webrtc",
+    "nodejs",
+    "rustdesk",
+    "todesk",
+    "coturn",
+    "remote-desktop",
+    "typescript",
+    "socket-io",
+    "flutter",
+    "parsec"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-27T11:24:29.911Z"
+}

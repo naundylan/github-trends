@@ -1,0 +1,31 @@
+{
+  "id": "bd5bb8a0-22d2-4155-b205-a5c1cbb9f534",
+  "repo": "byoungd/up",
+  "url": "https://github.com/byoungd/up",
+  "category": "Documentation/Learning Resource",
+  "summary": "hướng dẫn kép tiếng Trung-Anh về sự tiến bộ cuộc đời trong thời đại AI, bao gồm học tiếng Anh, hợp tác AI, dự án thực tế và bằng chứng tăng长成长",
+  "usecases": [
+    "là con đường học tập终身 for self-learners, hệ thống规划英语和AI技能",
+    "giáo viên hoặc huấn luyện viên có thể tham khảo cấu trúc để thiết kế khóa học hoặc chương trình hướng dẫn",
+    "thông qua nội dung kép giúp học습者 trung英双语提升语言能力和AI素养"
+  ],
+  "ideas": [
+    "phát triển ứng dụng di động hoặc nhỏ程序, mỗi ngày推送 học习任务 và tài nguyên",
+    "kết hợp AI tạo nội dung (AIGC) tự động tạo笔记 hoặc lộ trình học tập",
+    "xây dựng nền tảng cộng đồng, cho phép học习者分享真实 dự án证据 và trải nghiệm tăng长"
+  ],
+  "stars": 69526,
+  "starsToday": 89,
+  "language": "JavaScript",
+  "topics": [
+    "chinese",
+    "tutorial",
+    "english-learning",
+    "ai-literacy",
+    "lifelong-learning",
+    "open-education",
+    "self-directed-learning"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-27T11:24:29.911Z"
+}

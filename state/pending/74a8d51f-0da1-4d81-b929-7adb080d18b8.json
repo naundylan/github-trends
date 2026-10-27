@@ -1,0 +1,28 @@
+{
+  "id": "74a8d51f-0da1-4d81-b929-7adb080d18b8",
+  "repo": "algorithm-visualizer/algorithm-visualizer",
+  "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+  "category": "Data Visualization",
+  "summary": "Nền tảng trực tuyến tương tác trực quan hóa thuật toán và cấu trúc dữ liệu, giúp người dùng theo dõi quy trình chạy qua các hoạt ảnh động trực tiếp trên trình duyệt.",
+  "usecases": [
+    "Giáo viên và sinh viên trực quan hóa thuật toán trong bài giảng để dễ hiểu hơn.",
+    "Lập trình viên mới theo dõi bước chạy của mã để khắc phục lỗi logic.",
+    "Dùng làm công cụ minh họa khi giải thích giải thuật trong phỏng vấn kỹ thuật."
+  ],
+  "ideas": [
+    "Tích hợp chế độ debug step-by-step với breakpoint trực quan trên biểu đồ thuật toán.",
+    "Cho phép so sánh nhiều thuật toán cùng lúc trên cùng một canvas trực quan.",
+    "Xuất hình ảnh/video hoạt thuật toán để dùng trong bài viết hoặc bài thuyết trình."
+  ],
+  "stars": 49201,
+  "starsToday": 157,
+  "language": "JavaScript",
+  "topics": [
+    "algorithm",
+    "data-structure",
+    "visualization",
+    "animation"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-10-27T11:24:29.911Z"
+}

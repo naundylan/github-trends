@@ -1,0 +1,23 @@
+{
+  "id": "44017141-1c35-4be1-af20-660b911cb6ec",
+  "repo": "pingdotgg/t3code",
+  "url": "https://github.com/pingdotgg/t3code",
+  "category": "Developer Tool",
+  "summary": "Dự án TypeScript cung cấp các công cụ phát triển code hiện đại, giúp tối ưu hóa quy trình làm việc và tăng năng suất cho lập trình viên.",
+  "usecases": [
+    "Tự động hóa định dạng và kiểm tra code",
+    "Tích hợp với các IDE phổ biến",
+    "Tối ưu quy trình review code"
+  ],
+  "ideas": [
+    "Kết hợp với AI coding assistants để tạo code tự động",
+    "Phát triển plugin cho VS Code để hiển thị trực tiếp",
+    "Sử dụng trong pipeline CI/CD để kiểm tra chất lượng"
+  ],
+  "stars": 30646,
+  "starsToday": 348,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-27T11:24:29.911Z"
+}

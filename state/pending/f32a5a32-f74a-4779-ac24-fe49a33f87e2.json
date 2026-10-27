@@ -1,0 +1,23 @@
+{
+  "id": "f32a5a32-f74a-4779-ac24-fe49a33f87e2",
+  "repo": "togg53192-cmd/jailbreaks",
+  "url": "https://github.com/togg53192-cmd/jailbreaks",
+  "category": "Security/Pentest",
+  "summary": "Một danh sách tổng hợp các phương pháp jailbreak để bypass hạn chế hệ thống, thường dùng trong nghiên cứu bảo mật và thử thách giới hạn AI/phần mềm.",
+  "usecases": [
+    "Nghiên cứu bảo mật để đánh giá khả năng chống lại các cuộc tấn công jailbreak.",
+    "Phát triển công cụ bảo vệ cho các hệ thống AI chống bị manipulate.",
+    "Giáo dục và nâng cao nhận thức về các phương pháp bypass trong cộng đồng phát triển."
+  ],
+  "ideas": [
+    "Tạo bộ test tự động để đánh giá độ an ninh của các mô hình ngôn ngữ mới ra mắt.",
+    "Phát triển một dashboard trực quan hóa các kỹ thuật jailbreak theo thời gian.",
+    "Kết hợp với framework bảo mật để tạo ra các chính sách chống manipulative tự động."
+  ],
+  "stars": 4835,
+  "starsToday": 890,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-27T11:24:29.911Z"
+}
