@@ -1,0 +1,23 @@
+{
+  "id": "d340ac1d-8797-4376-8286-ff4677f59e74",
+  "repo": "expo/skills",
+  "url": "https://github.com/expo/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Tập hợp kỹ năng cho AI agent để tương tác với các dự án Expo và Expo Application Services.",
+  "usecases": [
+    "Tự động hóa các tác vụ phát triển mobile bằng AI agent trong môi trường Expo.",
+    "Quản lý và cấu hình Expo Application Services thông qua các skill AI.",
+    "Tích hợp khả năng AI vào ứng dụng React Native để thực hiện tác vụ phức tạp."
+  ],
+  "ideas": [
+    "Tạo AI agent toàn thể có thể quản lý vòng đời phát triển Expo từ code đến deploy.",
+    "Kết hợp với cloud services để tự động test và deploy ứng dụng Expo.",
+    "Phát triển giao diện quản lý cho phép người dùng tùy chỉnh và kết hợp các skill AI."
+  ],
+  "stars": 3352,
+  "starsToday": 212,
+  "language": "Shell",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-28T11:57:55.343Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "106aad78-9bd7-471f-9dd7-f593249e0983",
+  "repo": "DavidHDev/react-bits",
+  "url": "https://github.com/DavidHDev/react-bits",
+  "category": "UI/Component Library",
+  "summary": "Thư viện componenets React & Next.js phong phú, có hoạt hình và tùy chỉnh, hỗ trợ xây dựng nhanh sản phẩm web hiện đại.",
+  "usecases": [
+    "Rapid prototyping of animated web interfaces for startups and agencies",
+    "Building design-system-consistent UIs for SaaS products and marketing sites",
+    "Enabling AI agents to generate or render frontend components dynamically"
+  ],
+  "ideas": [
+    "Develop a Figma-to-React plugin that auto-inserts these components",
+    "Create a Storybook addon for visual testing and component documentation",
+    "Integrate with Tailwind CSS generators for automatic styling adaptation"
+  ],
+  "stars": 50503,
+  "starsToday": 131,
+  "language": "JavaScript",
+  "topics": [
+    "animations",
+    "components",
+    "components-library",
+    "components-react",
+    "javascript",
+    "react",
+    "reactjs",
+    "web",
+    "3d",
+    "component-library",
+    "css-animations",
+    "tailwind",
+    "tailwindcss",
+    "ui-components",
+    "ui-library",
+    "react-components"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-10-28T11:57:55.343Z"
+}

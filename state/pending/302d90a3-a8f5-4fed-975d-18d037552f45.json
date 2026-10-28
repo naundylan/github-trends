@@ -1,0 +1,44 @@
+{
+  "id": "302d90a3-a8f5-4fed-975d-18d037552f45",
+  "repo": "n8n-io/n8n",
+  "url": "https://github.com/n8n-io/n8n",
+  "category": "Developer Tool",
+  "summary": "n8n là nền tảng tự động hóa workflow fair-code tích hợp AI, cho phép xây dựng visual workflows và kết nối 400+ dịch vụ, hỗ trợ self-host hoặc cloud.",
+  "usecases": [
+    "Tự động hóa quy trình nhập/xuất dữ liệu giữa CRM, Email và Sheets mà không cần code.",
+    "Xây dựng bot AI kết nối với API nội bộ để tự động xử lý ticket hỗ trợ khách hàng.",
+    "Tích hợp các dịch vụ IoT để kích hoạt hành động dựa trên dữ liệu thời gian thực."
+  ],
+  "ideas": [
+    "Kết hợp với LLM cục bộ để tạo workflow tự động phân tích và đáp lại email dựa trên nội dung.",
+    "Xây dựng hệ thống tự động backup và khôi phục cấu hình cho nhiều máy dev qua mạng.",
+    "Tạo dashboard real-time theo dõi sức khỏe các dịch vụ được kết nối thông qua webhook."
+  ],
+  "stars": 208854,
+  "starsToday": 161,
+  "language": "TypeScript",
+  "topics": [
+    "automation",
+    "ipaas",
+    "n8n",
+    "workflow",
+    "typescript",
+    "self-hosted",
+    "integrations",
+    "workflow-automation",
+    "cli",
+    "development",
+    "low-code",
+    "data-flow",
+    "integration-framework",
+    "apis",
+    "low-code-platform",
+    "no-code",
+    "ai",
+    "mcp",
+    "mcp-client",
+    "mcp-server"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-28T11:57:55.343Z"
+}

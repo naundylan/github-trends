@@ -1,0 +1,23 @@
+{
+  "id": "fcb2b8b7-019a-4123-9317-98a9a570b513",
+  "repo": "xiaolai/the-craft-of-selfteaching",
+  "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+  "category": "Documentation/Learning Resource",
+  "summary": "Một bộ notebook Jupyter hướng dẫn nghệ thuật tự học, nhấn mạnh tầm quan trọng của kỹ năng tự giác cho sự phát triển cá nhân.",
+  "usecases": [
+    "Individuals building structured self-learning frameworks",
+    "Educators adopting self-directed learning methodologies",
+    "Lifelong learners organizing goal-oriented skill acquisition"
+  ],
+  "ideas": [
+    "Adapt notebook content into an AI-powered personalized learning platform",
+    "Integrate with habit-tracking apps to reinforce long-term learning routines",
+    "Create a community-driven repository of self-teaching resources based on the framework"
+  ],
+  "stars": 18256,
+  "starsToday": 143,
+  "language": "Jupyter Notebook",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-28T11:57:55.343Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "6fbc8472-da00-4ed4-8751-fffaabc53863",
+  "repo": "p-e-w/heretic",
+  "url": "https://github.com/p-e-w/heretic",
+  "category": "AI/LLM",
+  "summary": "Dự án tự động loại bỏ cenzure cho mô hình ngôn ngữ bằng kỹ thuật abliteration, phục hồi các tính năng bị hạn chế.",
+  "usecases": [
+    "Triển khai abliteration tự động trên các mô hình LLM để bỏ qua cenzure.",
+    "Tích hợp vào pipeline fine-tuning để điều chỉnh hành vi mô hình.",
+    "Nghiên cứu tác động của việc xóa cenzure đến an toàn và hiệu quả mô hình."
+  ],
+  "ideas": [
+    "Phát triển plugin chung cho các nền tảng chatbot để tùy chỉnh hành vi LLM.",
+    "Kết hợp với các framework LLM khác để tạo công cụ tùy chỉnh hành vi mô hình.",
+    "Tạo nghiên cứu so sánh về an toàn mô hình trước và sau abliteration."
+  ],
+  "stars": 36893,
+  "starsToday": 282,
+  "language": "Python",
+  "topics": [
+    "abliteration",
+    "llm",
+    "transformer"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-28T11:57:55.343Z"
+}

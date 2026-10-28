@@ -1,0 +1,35 @@
+{
+  "id": "e558f49f-6f67-44c8-923b-494f2794b821",
+  "repo": "superplanehq/superplane",
+  "url": "https://github.com/superplanehq/superplane",
+  "category": "Developer Tool",
+  "summary": "Superplane là factory mã nguồn mở cho engineering one-shot, tự động hóa quy trình phát triển phần mềm và orchestration agent để tăng tốc độ tạo sản phẩm.",
+  "usecases": [
+    "Tự động hóa pipeline CI/CD và génération code cho các dự án mới (one-shot engineering).",
+    "Orchestration các AI agent để thực hiện review code, test và deployment.",
+    "Self-hosted workflow automation cho đội ngũ muốn kiểm soát toàn bộ quy trình phát triển."
+  ],
+  "ideas": [
+    "Kết hợp với các model LLM để tạo ra các dự án code hoàn chỉnh từ một prompt duy nhất.",
+    "Phát triển plugin cho IDE để tương tác trực tiếp với Superplane factory.",
+    "Sử dụng để tự động hóa migration code hoặc upgrade version cho các dự án legacy."
+  ],
+  "stars": 8338,
+  "starsToday": 79,
+  "language": "Go",
+  "topics": [
+    "self-hosted",
+    "workflow-automation",
+    "react",
+    "go",
+    "agent-orchestration",
+    "agentic-workflows",
+    "ai-agents",
+    "ai-coding",
+    "ai-software-engineering",
+    "developer-tools",
+    "software-factory"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-28T11:57:55.343Z"
+}
