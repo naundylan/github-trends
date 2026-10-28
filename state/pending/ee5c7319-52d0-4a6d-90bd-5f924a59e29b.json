@@ -1,0 +1,40 @@
+{
+  "id": "ee5c7319-52d0-4a6d-90bd-5f924a59e29b",
+  "repo": "DavidHDev/react-bits",
+  "url": "https://github.com/DavidHDev/react-bits",
+  "category": "UI/Component Library",
+  "summary": "Thư viện components React và Next.js phong phú, tương tác và tùy biến giúp xây dựng nhanh giao diện web nổi bật.",
+  "usecases": [
+    "Tạo giao diện landing page và marketing site với các component có animation sẵn có.",
+    "Rapid prototyping UI cho web apps và AI agents cần giao diện nhanh.",
+    "Kết hợp với Tailwind CSS để xây dựng design system toàn diện cho dự án."
+  ],
+  "ideas": [
+    "Phát triển plugin Figma-to-Code tự động sinh component React từ thiết kế Figma.",
+    "Sử dụng làm foundation cho visual builder no-code cho non-coders.",
+    "Tạo hệ thống design system tự động cho startup với Tailwind integration."
+  ],
+  "stars": 50535,
+  "starsToday": 131,
+  "language": "JavaScript",
+  "topics": [
+    "animations",
+    "components",
+    "components-library",
+    "components-react",
+    "javascript",
+    "react",
+    "reactjs",
+    "web",
+    "3d",
+    "component-library",
+    "css-animations",
+    "tailwind",
+    "tailwindcss",
+    "ui-components",
+    "ui-library",
+    "react-components"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-10-28T22:06:34.121Z"
+}

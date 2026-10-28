@@ -1,0 +1,35 @@
+{
+  "id": "30288e0d-dd81-4d25-9865-20fab83334eb",
+  "repo": "anchore/syft",
+  "url": "https://github.com/anchore/syft",
+  "category": "CLI Tool",
+  "summary": "CLI tool và library tạo Software Bill of Materials (SBOM) từ container images và filesystems, dùng để bảo mật và compliance.",
+  "usecases": [
+    "Tạo SBOM cho container images trong CI/CD pipeline để kiểm tra các thành phần phần mềm",
+    "Phát hiện các thư viện/vulnerabilities cũ kỹ trong Docker images",
+    "Tuân thủ các chuẩn như SPDX/CycloneDX cho bảo mật phần mềm"
+  ],
+  "ideas": [
+    "Kết hợp với Terraform để tự động đánh giá an toàn của infrastructure as code",
+    "Tạo báo cáo SBOM tự động cho các microservices trong hệ thống distributed",
+    "Sử dụng SBOM kết hợp với AI để dự đoán các dependency có thể bị tấn công trong tương lai"
+  ],
+  "stars": 9783,
+  "starsToday": 14,
+  "language": "Go",
+  "topics": [
+    "containers",
+    "docker",
+    "go",
+    "golang",
+    "static-analysis",
+    "tool",
+    "oci",
+    "sbom",
+    "spdx",
+    "cyclonedx",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-28T22:06:34.121Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "33eb1fee-c22e-4e5f-a0c6-2efb187dc2d3",
+  "repo": "mozilla-firefox/firefox",
+  "url": "https://github.com/mozilla-firefox/firefox",
+  "category": "Web Frontend",
+  "summary": "Firefox là trình duyệt web mã nguồn mở do Mozilla phát triển, nổi bật với tốc độ cao, bảo mật mạnh mẽ và hỗ trợ các tiêu chuẩn web hiện đại.",
+  "usecases": [
+    "Duyệt web hàng ngày với tính năng bảo mật và quyền riêng tư cao.",
+    "Phát triển và test tương thích trang web trên nhiều nền tảng và thiết bị.",
+    "Nghiên cứu hiệu năng và giao diện người dùng cho các ứng dụng web."
+  ],
+  "ideas": [
+    "Tích hợp AI trực tiếp vào trình duyệt để hỗ trợ tạo nội dung và tự động hóa tác vụ trên web.",
+    "Phát triển chế độ riêng tư cực đoan kết hợp blockchain để quản lý dữ liệu người dùng.",
+    "Tạo extension kết hợp LLM để tự động hóa tương tác trang web và thu thập dữ liệu có kiểm soát."
+  ],
+  "stars": 13636,
+  "starsToday": 23,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-28T22:06:34.121Z"
+}

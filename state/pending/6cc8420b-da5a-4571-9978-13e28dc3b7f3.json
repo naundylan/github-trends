@@ -1,0 +1,38 @@
+{
+  "id": "6cc8420b-da5a-4571-9978-13e28dc3b7f3",
+  "repo": "lionsoul2014/ip2region",
+  "url": "https://github.com/lionsoul2014/ip2region",
+  "category": "Developer Tool",
+  "summary": "Ip2region là thư viện offline và framework quản lý dữ liệu IP-to-Region, hỗ trợ IPv4/IPv6 với hiệu suất truy vấn microgiây, phù hợp cho ứng dụng cần định vị địa lý IP nhanh.",
+  "usecases": [
+    "Phân tích lưu lượng truy cập web theo khu vực địa lý trong thời gian thực.",
+    "Tối ưu hóa bảo mật bằng cách chặn truy cập từ các vùng/IP đáng nghi.",
+    "Hỗ trợ hệ thống nội bộ định tuyến dựa trên địa chỉ IP của người dùng."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống log phân tích để ánh xạ hành vi người dùng đến vị trí thực tế.",
+    "Triển khai làm microservice định vị IP với latency cực thấp cho các ứng dụng phân tán.",
+    "Sử dụng trong ứng dụng IoT để định vị thiết bị dựa trên IP gateway hoặc mạng nội bộ."
+  ],
+  "stars": 19777,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "ip-address",
+    "ip-lookup",
+    "ip-location",
+    "ip-address-database",
+    "ip-address-location",
+    "xdb-engine",
+    "ipv4-address",
+    "ipv4-lookup",
+    "ipv6-address",
+    "ipv6-lookup",
+    "xdb-ipv4",
+    "xdb-ipv6",
+    "ipv4-support",
+    "ipv6-support"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-28T22:06:34.121Z"
+}

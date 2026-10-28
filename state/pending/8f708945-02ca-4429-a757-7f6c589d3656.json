@@ -1,0 +1,23 @@
+{
+  "id": "8f708945-02ca-4429-a757-7f6c589d3656",
+  "repo": "xiaolai/the-craft-of-selfteaching",
+  "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+  "category": "Documentation/Learning Resource",
+  "summary": "Một bộ tài liệu Jupyter Notebook hướng dẫn kỹ năng tự học, giúp người đọc phát triển khả năng tự nghiên cứu và rèn luyện kiến thức mới độc lập.",
+  "usecases": [
+    "Học sinh tự học lập trình hoặc kỹ năng mới dựa trên phương pháp cấu trúc hóa.",
+    "Giáo viên tham khảo để thiết kế chương trình tự học cho sinh viên.",
+    "Nhân viên phát triển kỹ năng liên tục (lifelong learning) trong công việc."
+  ],
+  "ideas": [
+    "Tích hợp với nền tảng học tập tự động để tạo lộ trình cá nhân hóa.",
+    "Phát triển ứng dụng web theo dõi tiến độ tự học dựa trên nguyên lý trong repo.",
+    "Kết hợp với AI để tạo các gợi ý học tập tùy theo trình độ và mục tiêu."
+  ],
+  "stars": 18460,
+  "starsToday": 295,
+  "language": "Jupyter Notebook",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-10-28T22:06:34.121Z"
+}

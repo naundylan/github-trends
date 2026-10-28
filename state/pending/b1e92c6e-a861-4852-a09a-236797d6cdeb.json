@@ -1,0 +1,28 @@
+{
+  "id": "b1e92c6e-a861-4852-a09a-236797d6cdeb",
+  "repo": "tulir/whatsmeow",
+  "url": "https://github.com/tulir/whatsmeow",
+  "category": "Developer Tool",
+  "summary": "Go library cho WhatsApp web multidevice API, cho phép ứng dụng gửi/receive tin nhắn WhatsApp qua web với hỗ trợ nhiều thiết bị cùng lúc.",
+  "usecases": [
+    "Build custom WhatsApp bots tự động trả lời tin nhắn",
+    "Integrate WhatsApp notification cho ứng dụng nội bộ doanh nghiệp",
+    "Phân tích tin nhắn WhatsApp cho mục đích tuân thủ hoặc AI processing"
+  ],
+  "ideas": [
+    "Kết hợp với AI assistants để tự động trả lời tin nhắn WhatsApp dựa trên context",
+    "Build một dashboard real-time theo dõi hoạt động WhatsApp cho bán hàng/trợ lý tự động",
+    "Sử dụng library này để tạo một WhatsApp-to-Email gateway"
+  ],
+  "stars": 7695,
+  "starsToday": 14,
+  "language": "Go",
+  "topics": [
+    "go",
+    "golang",
+    "whatsapp",
+    "whatsapp-web"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-28T22:06:34.121Z"
+}
