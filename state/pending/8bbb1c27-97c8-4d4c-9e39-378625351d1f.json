@@ -1,0 +1,28 @@
+{
+  "id": "8bbb1c27-97c8-4d4c-9e39-378625351d1f",
+  "repo": "cloudflare/cloudflared",
+  "url": "https://github.com/cloudflare/cloudflared",
+  "category": "CLI Tool",
+  "summary": "cloudflare/cloudflared là client tunnel Cloudflare cho Zero Trust Network Access, cung cấp kết nối an toàn đến mạng nội bộ từ xa",
+  "usecases": [
+    "Kết nối an toàn đến server nội bộ mà không cần mở port public",
+    "Triển khai Zero Trust Network Access cho ứng dụng doanh nghiệp",
+    "Tunneling cho environment development local đến cloud services"
+  ],
+  "ideas": [
+    "Kết hợp với GitHub Actions tạo tunnel tự động cho mỗi pull request",
+    "Phát triển plugin VS Code quản lý tunnel trực tiếp từ editor",
+    "Sử dụng làm layer kết nối cho edge computing workloads"
+  ],
+  "stars": 16325,
+  "starsToday": 30,
+  "language": "Go",
+  "topics": [
+    "cloudflare",
+    "reverse-proxy",
+    "cloudflare-tunnel",
+    "zero-trust-network-access"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-28T17:46:00.931Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "25a3aebd-0442-4e34-9d06-08d9ba02a1a5",
+  "repo": "shitagaki-lab/see-through",
+  "url": "https://github.com/shitagaki-lab/see-through",
+  "category": "Computer Vision",
+  "summary": "Thực hiện phân层 (layer decomposition) cho nhân vật anime từ một ảnh đơn lẻ, tách biệt các lớp line art, màu sắc và bóng đổ.",
+  "usecases": [
+    "Sửa đổi đồ án nhân vật trong manga/anime mà không cần vẽ lại toàn bộ.",
+    "Tạo tài nguyên game và hoạt hình cần tách lớp màu và선.",
+    "Hỗ trợ tự động hóa công việc màu cho tác giả webtoon và manhua."
+  ],
+  "ideas": [
+    "Kết hợp với mô hình tạo ảnh để thay đổi phong cách màu của nhân vật anime.",
+    "Xây dựng plugin cho Photoshop/Clip Studio để tách layer tự động.",
+    "Dùng cho tạo nhân động 2D tự động động tác dựa trên ảnh tĩnh."
+  ],
+  "stars": 5088,
+  "starsToday": 78,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-10-28T17:46:00.931Z"
+}

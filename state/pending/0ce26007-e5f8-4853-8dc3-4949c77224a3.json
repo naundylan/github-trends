@@ -1,0 +1,35 @@
+{
+  "id": "0ce26007-e5f8-4853-8dc3-4949c77224a3",
+  "repo": "upscayl/upscayl",
+  "url": "https://github.com/upscayl/upscayl",
+  "category": "Desktop App",
+  "summary": "Ứng dụngdesktop mã nguồn mở tăng phân giải ảnh (image upscaling) bằng AI, hỗ trợ Linux, macOS và Windows.",
+  "usecases": [
+    "Tăng phân giải ảnh cũ hoặc huyền thoại cho mục đích in ấn và sản xuất.",
+    "Nâng cấp độ phân giải cho thiết kế đồ họa và nội dung mạng xã hội.",
+    "Tối ưu hóa ảnh sản phẩm cho e-commerce mà không làm méo pixel."
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình AI tạo ảnh (như Stable Diffusion) để upscale và cải thiện chất lượng kết quả.",
+    "Xây dựng quy trình tự động upscale hàng loạt ảnh cho các nhà ảnh và đồ họa.",
+    "Thêm tính năng tăng tốc độ qua GPU trên các chip Apple Silicon/M1/M2."
+  ],
+  "stars": 51219,
+  "starsToday": 76,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "esrgan",
+    "image",
+    "upscale",
+    "electron",
+    "gigapixel",
+    "gigapixel-images",
+    "image-upscaling",
+    "topaz",
+    "upscalerimage",
+    "upscayl"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-28T17:46:00.931Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "3e873450-fbfe-4a48-b970-5cbef709a03d",
+  "repo": "alchemy-run/alchemy",
+  "url": "https://github.com/alchemy-run/alchemy",
+  "category": "Infrastructure as Code",
+  "summary": "alchemy-run/alchemy là framework TypeScript cho Infrastructure as Code, quản lý tài nguyên cloud qua effect scheduling",
+  "usecases": [
+    "Quản lý tài nguyên cloud (AWS, GCP, Azure) bằng code TypeScript thay vì GUI",
+    "Tự động hóa deployment infrastructure với dependency tracking qua effect graph",
+    "Version control và review infrastructure changes như code thường"
+  ],
+  "ideas": [
+    "Kết hợp với Terraform provider để leverage cả hai paradigm IaC",
+    "Xây dựng dashboard monitoring resource allocation dựa trên effect graph",
+    "Sử dụng trong serverless functions để dynamic resource provisioning"
+  ],
+  "stars": 1786,
+  "starsToday": 24,
+  "language": "TypeScript",
+  "topics": [
+    "alchemy",
+    "cloud",
+    "effect",
+    "iac",
+    "typescript"
+  ],
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-10-28T17:46:00.931Z"
+}

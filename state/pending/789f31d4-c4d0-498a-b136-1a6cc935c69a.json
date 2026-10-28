@@ -1,0 +1,44 @@
+{
+  "id": "789f31d4-c4d0-498a-b136-1a6cc935c69a",
+  "repo": "ParadevAI/Paradev",
+  "url": "https://github.com/ParadevAI/Paradev",
+  "category": "Developer Tool",
+  "summary": "Một IDE agentic để điều phối song song 100+ coding agents, cho phép chạy các agent với subscription cá nhân để tự động hóa quá trình phát triển code.",
+  "usecases": [
+    "Tự động hóa việc review code và generate patches cho nhiều repository cùng lúc.",
+    "Hỗ trợ pair programming agentic với nhiều agent khác nhau đồng thời cho tốc độ phát triển nhanh.",
+    "Tích hợp vào CI/CD pipeline để tự động sửa lỗi và thêm tính năng dựa trên yêu cầu."
+  ],
+  "ideas": [
+    "Tạo ra một 'super agent' phối hợp các specialized agents cho từng phần của codebase.",
+    "Phát triển plugin cho IDE phổ biến (VS Code, JetBrains) để truy cập trực tiếp Paradev orchestration.",
+    "Sử dụng cho hackathon hoặc prototyping nhanh với nhiều agent xử lý các tính năng khác nhau song song."
+  ],
+  "stars": 15676,
+  "starsToday": 53,
+  "language": "TypeScript",
+  "topics": [
+    "claude-code",
+    "codex",
+    "terminal",
+    "ai-agents",
+    "cursor-agent",
+    "opencode",
+    "parallel-agents",
+    "worktrees",
+    "cli",
+    "orchestration",
+    "coding-agents",
+    "developer-tools",
+    "ade",
+    "devtools",
+    "ide",
+    "yc-backed",
+    "agent",
+    "agent-orchestration",
+    "ai-coding",
+    "macos"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-28T17:46:00.931Z"
+}
