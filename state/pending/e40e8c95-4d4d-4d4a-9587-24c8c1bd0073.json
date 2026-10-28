@@ -1,0 +1,23 @@
+{
+  "id": "e40e8c95-4d4d-4d4a-9587-24c8c1bd0073",
+  "repo": "NVIDIA/auto-ontology",
+  "url": "https://github.com/NVIDIA/auto-ontology",
+  "category": "AI/LLM",
+  "summary": "Auto Ontology là framework Python xây dựng lớp reasoning đồ thị và ngữ nghĩa trên dữ liệu, cho phép sinh truy vấn định nghĩa, cải thiện context retrieval và cung cấp AI giải thích hơn cho workflow LLM và agent.",
+  "usecases": [
+    "Tạo lớp reasoning đồ thị cho ứng dụng LLM",
+    "Sinh tự động truy vấn để retrieval context chính xác",
+    "Cung cấp kết quả AI dễ giải thích cho agent workflows"
+  ],
+  "ideas": [
+    "Kết hợp với RAG để cải thiện accuracy câu trả lời",
+    "Dùng làm lớp trung gian cho các agent đa tác vụ",
+    "Xây dựng knowledge graph cá nhân kết hợp với local LLM"
+  ],
+  "stars": 372,
+  "starsToday": 80,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-28T03:24:07.275Z"
+}

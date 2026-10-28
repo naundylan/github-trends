@@ -1,0 +1,32 @@
+{
+  "id": "6903502c-77b7-4724-a68b-7032b18e3c59",
+  "repo": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống tối ưu hóa hiệu suất cho harness AI agents, nâng cao kỹ năng, bộ nhớ, an ninh và phát triển theo hướng nghiên cứu-first cho Claude Code, Codex, Opencode và Cursor.",
+  "usecases": [
+    "Optimizing LLM agent performance for complex code generation tasks",
+    "Enhancing security and instinct-based filtering in AI-assisted development pipelines",
+    "Research-first development workflow for evaluating and comparing agent capabilities"
+  ],
+  "ideas": [
+    "Create a benchmarking suite for AI coding agents across different models",
+    "Develop a plugin for real-time agent performance monitoring in VS Code",
+    "Integrate with CI/CD to automatically optimize agent workflows on pull requests"
+  ],
+  "stars": 290992,
+  "starsToday": 1165,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "productivity"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-28T03:24:07.275Z"
+}

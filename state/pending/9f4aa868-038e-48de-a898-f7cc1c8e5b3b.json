@@ -1,0 +1,42 @@
+{
+  "id": "9f4aa868-038e-48de-a898-f7cc1c8e5b3b",
+  "repo": "fabio-rovai/open-ontologies",
+  "url": "https://github.com/fabio-rovai/open-ontologies",
+  "category": "Infrastructure as Code",
+  "summary": "Open ontologies cung cấp khả năng lên lịch, áp dụng và hoàn tác thay đổi ontology sản xuất, kèm báo cáo blast radius và bằng chứng audit cho kiểm tra auditor.",
+  "usecases": [
+    "Quản lý thay đổi schema knowledge graph trong các dự án AI hoặc khoa học dữ liệu",
+    "Theo dõi và audit các thay đổi ontology trong môi trường nghiên cứu hoặc sản xuất",
+    "Phát triển hệ thống version control cho ontology với khả năng rollback an toàn"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD pipeline để tự động test ontology changes trước khi deploy",
+    "Sử dụng làm foundation cho knowledge graph trong các ứng dụng RAG (Retrieval-Augmented Generation)",
+    "Phát triển giao diện visualizer để trực quan hóa blast radius và thay đổi ontology"
+  ],
+  "stars": 1818,
+  "starsToday": 343,
+  "language": "Rust",
+  "topics": [
+    "ai-native",
+    "description-logics",
+    "knowledge-graph",
+    "mcp",
+    "mcp-server",
+    "ontology",
+    "owl",
+    "owl2",
+    "reasoning",
+    "rust",
+    "shacl",
+    "sparql",
+    "isabelle-language",
+    "lean",
+    "lean4",
+    "formal-verification",
+    "theorem-proving",
+    "infrastructure-as-code"
+  ],
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-10-28T03:24:07.275Z"
+}

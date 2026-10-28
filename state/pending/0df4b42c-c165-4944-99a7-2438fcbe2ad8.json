@@ -1,0 +1,34 @@
+{
+  "id": "0df4b42c-c165-4944-99a7-2438fcbe2ad8",
+  "repo": "gitroomhq/postiz-app",
+  "url": "https://github.com/gitroomhq/postiz-app",
+  "category": "Web Frontend",
+  "summary": "Postiz là công cụ scheduling mạng xã hội agentic hiện đại, cho phép tự động hóa và quản lý lịch đăng bài trên nhiều nền tảng với khả năng AI.",
+  "usecases": [
+    "Tự động lên lịch và đăng bài lên Facebook, Twitter, Instagram",
+    "Quản lý nhiều tài khoản mạng xã hội cho doanh nghiệp hoặc cá nhân",
+    "Tích hợp AI để tạo nội dung hoặc tối ưu thời gian đăng"
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng AI tạo nội dung như GPT để tự động tạo bài viết",
+    "Phát triển plugin cho các trình quản lý dự án để đồng bộ lịch đăng",
+    "Tạo dashboard phân tích hiệu suất đăng qua các kênh xã hội"
+  ],
+  "stars": 39480,
+  "starsToday": 951,
+  "language": "TypeScript",
+  "topics": [
+    "typescript",
+    "nextjs",
+    "redis",
+    "open-source",
+    "oss",
+    "scheduling-tool",
+    "social-media-scheduling-tool",
+    "open-source-social-media-scheduling-tool",
+    "postiz-cloud",
+    "postiz-hosted"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-28T03:24:07.275Z"
+}
