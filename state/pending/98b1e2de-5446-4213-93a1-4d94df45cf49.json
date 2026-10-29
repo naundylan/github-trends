@@ -1,0 +1,32 @@
+{
+  "id": "98b1e2de-5446-4213-93a1-4d94df45cf49",
+  "repo": "clash-verge-rev/clash-verge-rev",
+  "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+  "category": "Desktop App",
+  "summary": "Ứng dụng giao diện hiện đại dựa trên Tauri, cung cấp trải nghiệm proxy tùy chỉnh cho Windows, macOS và Linux.",
+  "usecases": [
+    "Quản lý và chuyển đổi nhiều cấu hình proxy Clash/Mihomo trên desktop.",
+    "Tối ưu hóa đường truyền cho game, streaming và truy cập nội địa.",
+    "Phát triển và test các rules proxy trên nhiều hệ điều hành cùng lúc."
+  ],
+  "ideas": [
+    "Thêm plugin hỗ trợ protocoxy và rules mới.",
+    "Tích hợp dashboard thống kê traffic và hiệu suất trực tiếp.",
+    "Phát triển phiên bản đồng bộ cấu hình qua cloud hoặc QR code."
+  ],
+  "stars": 154826,
+  "starsToday": 293,
+  "language": "Rust",
+  "topics": [
+    "clash",
+    "clash-meta",
+    "clash-verge",
+    "linux",
+    "mac",
+    "tauri-app",
+    "windows",
+    "mihomo"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-29T12:11:47.070Z"
+}

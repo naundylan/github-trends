@@ -1,0 +1,34 @@
+{
+  "id": "fdbf379c-dfad-4b61-97a9-ebfd91a782a6",
+  "repo": "nyakang/nyaterm",
+  "url": "https://github.com/nyakang/nyaterm",
+  "category": "Desktop App",
+  "summary": "Nyaterm là workspace terminal hiện đại bằng Rust, cung cấp giao diện đồ họa mượt mà và hỗ trợ kết nối SSH, SFTP, Telnet cho các môi trường remote.",
+  "usecases": [
+    "Kết nối và quản lý nhiều server remote qua một giao diện duy nhất.",
+    "Thay thế client terminal truyền thống cho các tác vụ bảo trì và tự động hóa.",
+    "Hỗ trợ tương tác với thiết bị serial và protocol OTP trong môi trường phát triển."
+  ],
+  "ideas": [
+    "Tích hợp AI để tự động hoàn thành và tối ưu hóa lệnh trong terminal.",
+    "Kết hợp với hệ thống giám sát để hiển thị metric trực tiếp bên trong workspace.",
+    "Phát triển plugin điều khiển IoT hoặc embedded devices thông qua kết nối remote."
+  ],
+  "stars": 2054,
+  "starsToday": 141,
+  "language": "Rust",
+  "topics": [
+    "otp",
+    "serialport",
+    "sftp",
+    "sftp-client",
+    "ssh",
+    "ssh-client",
+    "telnet",
+    "telnet-client",
+    "terminal",
+    "gpui"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-29T12:11:47.070Z"
+}

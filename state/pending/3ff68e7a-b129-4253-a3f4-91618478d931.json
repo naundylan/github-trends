@@ -1,0 +1,34 @@
+{
+  "id": "3ff68e7a-b129-4253-a3f4-91618478d931",
+  "repo": "chthollyphile/folia-major",
+  "url": "https://github.com/chthollyphile/folia-major",
+  "category": "Web Frontend",
+  "summary": "Folia-major là PWA player nhạc tập trung vào hiệu ứng lyric sang trọng, xây dựng bằng React và TypeScript, hỗ trợ tích hợp Navidrome và NetEase Music.",
+  "usecases": [
+    "Cung cấp ứng dụng music player cá nhân có thể cài đặt qua PWA trên mọi thiết bị thay thế cho ứng dụng truyền thống.",
+    "Tích hợp vào web blog hoặc trang music để hiển thị lyric động và khả năng phát nhạc trực tiếp.",
+    "Sử dụng làm client giao diện cho Navidrome với trải nghiệm nghe nhạc tùy chỉnh."
+  ],
+  "ideas": [
+    "Thêm tính năng AI tạo lyric hoặc phân tích cảm xúc nhạc để điều chỉnh hình ảnh động theo nhạc.",
+    "Tích hợp visualizer Three.js/react-three-fiber cho trải nghiệm沉浸 hóa (immersive) khi nghe nhạc.",
+    "Phát chế độ karaoke nâng cao với đồng bộ lyric thời gian thực từ nhiều nguồn music."
+  ],
+  "stars": 10136,
+  "starsToday": 241,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "music",
+    "netease-music",
+    "player",
+    "pwa",
+    "react",
+    "typescript",
+    "vercel-deployment",
+    "music-player",
+    "navidrome-client"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-29T12:11:47.070Z"
+}

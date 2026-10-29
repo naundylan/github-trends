@@ -1,0 +1,33 @@
+{
+  "id": "f775f654-cfad-4e5c-82c2-d87a84afa463",
+  "repo": "rlaope/oh-my-hermes",
+  "url": "https://github.com/rlaope/oh-my-hermes",
+  "category": "AI Agent/Automation",
+  "summary": "Môi trường phát triển tích hợp Hermes Agent vào IDE để tự động hóa tác vụ lập trình thông qua AI agent.",
+  "usecases": [
+    "Tự động hoàn thành và review code trong IDE bằng Hermes Agent.",
+    "Tạo và thực thi các skill lập trình tùy chỉnh thông qua agent.",
+    "Giảm thiểu boilerplate code và tăng tốc độ phát triển."
+  ],
+  "ideas": [
+    "Kết hợp local LLM để hỗ trợ offline và bảo mật dữ liệu.",
+    "Phát triển plugin cho VS Code và các IDE phổ biến.",
+    "Tạo hệ thống học từ phản hồi developer để cải thiện tự động hóa."
+  ],
+  "stars": 4731,
+  "starsToday": 327,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "ai-agent",
+    "ai-tools",
+    "claude-code",
+    "codex",
+    "hermes-agent",
+    "hermes-skill",
+    "skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-29T12:11:47.070Z"
+}

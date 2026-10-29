@@ -1,0 +1,28 @@
+{
+  "id": "70c23eb7-0011-475e-8d59-cf69bfdef884",
+  "repo": "hydro-project/infinity",
+  "url": "https://github.com/hydro-project/infinity",
+  "category": "AI Agent/Automation",
+  "summary": "Một runtime agent và giao thức công cụ cho phép thực hiện đồng thời các agent một cách có nguyên tắc, hỗ trợ hệ thống phân tán và xử lý song song.",
+  "usecases": [
+    "Xây dựng các hệ thống agent phân tán có thể chạy song song một cách an toàn.",
+    "Triển khai các tác vụ AI phức tạp đòi hỏi đồng thời nhiều agent.",
+    "Tạo ra một nền tảng runtime linh hoạt cho các công cụ AI dựa trên giao thức chuẩn."
+  ],
+  "ideas": [
+    "Kết hợp với các framework machine learning để tạo agent học tập.",
+    "Thiết kế các công cụ giám sát và gỡ lỗi cho các agent đang chạy.",
+    "Xây dựng một hệ sinh thái các giao thức công cụ tương tác giữa các agent."
+  ],
+  "stars": 336,
+  "starsToday": 162,
+  "language": "Rust",
+  "topics": [
+    "agents",
+    "concurrency",
+    "distributed-systems",
+    "rust"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-29T12:11:47.070Z"
+}

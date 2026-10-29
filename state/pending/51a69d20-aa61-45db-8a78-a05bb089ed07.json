@@ -1,0 +1,39 @@
+{
+  "id": "51a69d20-aa61-45db-8a78-a05bb089ed07",
+  "repo": "jub0t/Concat",
+  "url": "https://github.com/jub0t/Concat",
+  "category": "Desktop App",
+  "summary": "Concat là video editor mã nguồn mở, cross-platform, local-first, hướng tới việc thay thế CapCut, tích hợp ffmpeg và hỗ trợ tự động hóa qua API JSON-RPC & MCP.",
+  "usecases": [
+    "Tự động hóa tạo và chỉnh sửa video cho YouTube Shorts với hiệu ứng cắt dựng và cloning giọng nói.",
+    "Xây dựng quy trình làm việc video nội bộ cho đội ngũ sáng tạo, hoạt động offline trên nhiều nền tảng.",
+    "Phát triển plugin tự động hóa cho các kịch bản sản xuất video hàng loạt qua API JSON-RPC."
+  ],
+  "ideas": [
+    "Kết hợp AI sinh hiệu ứng video theo nội dung để tăng tốc độ sản xuất sáng tạo.",
+    "Tạo hệ thống quản lý dự án video phân tán cho nhiều người dùng cùng sửa file một project.",
+    "Phát triển ứng dụng điều khiển trên mobile để theo dõi tiến độ và điều khiển rendering video thực thời."
+  ],
+  "stars": 12524,
+  "starsToday": 262,
+  "language": "Rust",
+  "topics": [
+    "free-video-editor",
+    "non-linear-editor",
+    "open-source-video-editor",
+    "video-editing-software",
+    "video-editing",
+    "video-editing-automation",
+    "video-editing-tools",
+    "video-editor",
+    "ffmpeg",
+    "model-context-protocol",
+    "voice-cloning",
+    "offline-first",
+    "self-hosted",
+    "youtube-shorts",
+    "youtube-automation"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-29T12:11:47.070Z"
+}

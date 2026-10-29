@@ -1,0 +1,30 @@
+{
+  "id": "42921bef-c9a0-416c-aa07-d65d1c53e8c9",
+  "repo": "lfnovo/open-notebook",
+  "url": "https://github.com/lfnovo/open-notebook",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "Đây là một triển khai mã nguồn mở của Notebook LM, mang lại sự linh hoạt và nhiều tính năng hơn cho việc ghi chú, học tập và quản lý kiến thức.",
+  "usecases": [
+    "Cá nhân hóa trải nghiệm ghi chú và học tập với các công cụ tùy chỉnh.",
+    "Hợp tác làm việc nhóm thông qua ghi chú có thể chia sẻ và đồng bộ hóa.",
+    "Tích hợp với các nguồn học liệu khác để tạo ra hệ thống học tập tự động."
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM để tạo ghi chú tự động.",
+    "Phát triển plugin mở rộng để tích hợp với các dịch vụ bên ngoài như lịch, email.",
+    "Tạo ra một hệ thống học tập cá nhân hóa dựa trên ghi chú đã tạo."
+  ],
+  "stars": 40843,
+  "starsToday": 185,
+  "language": "TypeScript",
+  "topics": [
+    "assistant",
+    "learning",
+    "note-taking",
+    "notebook",
+    "notes-app",
+    "self-learning"
+  ],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-10-29T12:11:47.070Z"
+}
