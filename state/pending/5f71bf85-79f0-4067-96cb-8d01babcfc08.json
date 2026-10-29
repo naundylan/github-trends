@@ -1,0 +1,34 @@
+{
+  "id": "5f71bf85-79f0-4067-96cb-8d01babcfc08",
+  "repo": "gitroomhq/postiz-app",
+  "url": "https://github.com/gitroomhq/postiz-app",
+  "category": "Productivity/Personal Tool",
+  "summary": "Postiz là công cụ lịch trình mạng xã hội agentic, giúp tự động hóa và quản lý đăng tải nội dung trên nhiều nền tảng xã hội với các tính năng dựa trên AI và Redis.",
+  "usecases": [
+    "Quản lý và lịch trình tự động đăng bài cho các thương hiệu trên nhiều nền tảng xã hội.",
+    "Tự động tạo và lên lịch nội dung dựa trên AI cho chiến dịch marketing.",
+    "Theo dõi hiệu suất và tương tác các bài đăng qua dashboard thống nhất."
+  ],
+  "ideas": [
+    "Kết hợp phân tích xu hướng để tự động điều chỉnh thời gian đăng bài và nội dung.",
+    "Tạo tính năng đa ngôn ngữ tự động cho nội dung đăng trên các nền tảng quốc tế.",
+    "Phát triển API mở cho phép tích hợp với các CRM và công cụ marketing khác."
+  ],
+  "stars": 39992,
+  "starsToday": 893,
+  "language": "TypeScript",
+  "topics": [
+    "typescript",
+    "nextjs",
+    "redis",
+    "open-source",
+    "oss",
+    "scheduling-tool",
+    "social-media-scheduling-tool",
+    "open-source-social-media-scheduling-tool",
+    "postiz-cloud",
+    "postiz-hosted"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-10-29T03:48:38.100Z"
+}

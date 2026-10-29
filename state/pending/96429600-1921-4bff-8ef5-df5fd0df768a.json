@@ -1,0 +1,44 @@
+{
+  "id": "96429600-1921-4bff-8ef5-df5fd0df768a",
+  "repo": "ParadevAI/Paradev",
+  "url": "https://github.com/ParadevAI/Paradev",
+  "category": "AI Agent/Automation",
+  "summary": "IDE agentic điều phối song song 100+ coding agents để tự động hóa các tác vụ lập trình phức tạp.",
+  "usecases": [
+    "Thực hiện song lập review code và sinh hàm từ nhiều agent cùng lúc",
+    "Tự động hóa việc fix bug bằng cách kích hoạt các agent sửa lỗi khác nhau",
+    "Tối ưu hóa thời gian phát triển bằng cách phân phối tác vụ code cho các agent chuyên biệt"
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống ticket management để tự động sinh code từ yêu cầu",
+    "Phát triển chế độ chọn agent tùy theo ngôn ngữ hoặc framework",
+    "Tạo dashboard giám sát hiệu suất và kết quả của từng agent"
+  ],
+  "stars": 15697,
+  "starsToday": 48,
+  "language": "TypeScript",
+  "topics": [
+    "claude-code",
+    "codex",
+    "terminal",
+    "ai-agents",
+    "cursor-agent",
+    "opencode",
+    "parallel-agents",
+    "worktrees",
+    "cli",
+    "orchestration",
+    "coding-agents",
+    "developer-tools",
+    "ade",
+    "devtools",
+    "ide",
+    "yc-backed",
+    "agent",
+    "agent-orchestration",
+    "ai-coding",
+    "macos"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-29T03:48:38.100Z"
+}

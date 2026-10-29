@@ -1,0 +1,37 @@
+{
+  "id": "5c6081db-be56-4a80-b1fe-cb5ed4776efd",
+  "repo": "JetBrains/thinkrail",
+  "url": "https://github.com/JetBrains/thinkrail",
+  "category": "AI Agent/Automation",
+  "summary": "Một IDE nhẹ dựa trên TypeScript cho phép lập trình viên 'vibe code' với Pi agent, tự điều chỉnh theo phong cách làm việc cá nhân và hỗ trợ phát triển dựa trên spec.",
+  "usecases": [
+    "Phát triển nhanh ứng dụng với tư duy spec-driven thông qua AI agent.",
+    "Tự động hóa các tác vụ code lặp lại và hỗ trợ quyết định kỹ thuật.",
+    "Tạo môi trường phát triển cá nhân hóa cho các dự án riêng lẻ."
+  ],
+  "ideas": [
+    "Kết hợp voice commands để điều khiển code bằng giọng nói thông qua Pi agent.",
+    "Tự động tạo tài liệu dự án và spec từ hành vi code.",
+    "Phát triển plugin cho các IDE khác sử dụng cùng agentic workflow."
+  ],
+  "stars": 5230,
+  "starsToday": 1068,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "agent-skills",
+    "agentic-ai",
+    "agentic-workflow",
+    "ai-coding",
+    "ai-tools",
+    "spec-driven",
+    "spec-driven-coding",
+    "spec-driven-development",
+    "vibe-coding",
+    "vibecoding",
+    "pi-agent",
+    "pi-agent-extension"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-29T03:48:38.100Z"
+}

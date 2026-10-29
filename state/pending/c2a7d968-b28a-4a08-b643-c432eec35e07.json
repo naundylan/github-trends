@@ -1,0 +1,35 @@
+{
+  "id": "c2a7d968-b28a-4a08-b643-c432eec35e07",
+  "repo": "upscayl/upscayl",
+  "url": "https://github.com/upscayl/upscayl",
+  "category": "AI/LLM",
+  "summary": "Ứng dụng mã nguồn mở sử dụng AI để tăng kích thước ảnh chất lượng cao trên Linux, macOS và Windows.",
+  "usecases": [
+    "Tăng phân giải ảnh chân dung và sản phẩm cho e-commerce",
+    "Phục hồi và làm rõ ảnh cũ hoặc có độ phân giải thấp",
+    "Tích hợp vào quy trình làm việc thiết kế đồ họa tự động hóa"
+  ],
+  "ideas": [
+    "Kết hợp với nhận dạng đối tượng để tạo dữ liệu training tăng lên",
+    "Phát triển plugin cho các phần mềm thiết kế như Photoshop hoặc Figma",
+    "Thêm hỗ trợ xử lý hàng loạt ảnh trên đám mây"
+  ],
+  "stars": 51237,
+  "starsToday": 61,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "esrgan",
+    "image",
+    "upscale",
+    "electron",
+    "gigapixel",
+    "gigapixel-images",
+    "image-upscaling",
+    "topaz",
+    "upscalerimage",
+    "upscayl"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-29T03:48:38.100Z"
+}

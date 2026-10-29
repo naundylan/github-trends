@@ -1,0 +1,23 @@
+{
+  "id": "f38b5567-b308-45ec-850f-0f32b55b73e4",
+  "repo": "shitagaki-lab/see-through",
+  "url": "https://github.com/shitagaki-lab/see-through",
+  "category": "Computer Vision",
+  "summary": "Phương pháp tách lớp hình ảnh đơn lẻ cho nhân vật anime, cho phép điều chỉnh độc lập các thành phần như tông màu, ánh sáng và contours.",
+  "usecases": [
+    "Tự động sửa đổi tông màu cho nhân vật anime mà không làm hỏng chi tiết.",
+    "Tạo nền động cho anime bằng cách tách và tái cấu trúc các lớp hình.",
+    "Nâng cao chất lượng ảnh hoạt hình bằng cách xử lý từng lớp riêng lẻ."
+  ],
+  "ideas": [
+    "Kết hợp với AI tạo hình để thay đổi phong cách anime theo thời gian thực.",
+    "Ứng dụng trong phần mềm chỉnh sửa ảnh tự động cho artists manga.",
+    "Sử dụng trong pipeline render 3D để tách texture và ánh sáng."
+  ],
+  "stars": 5106,
+  "starsToday": 74,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-10-29T03:48:38.100Z"
+}
