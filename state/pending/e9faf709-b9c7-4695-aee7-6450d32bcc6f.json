@@ -1,0 +1,44 @@
+{
+  "id": "e9faf709-b9c7-4695-aee7-6450d32bcc6f",
+  "repo": "screenpipe/screenpipe",
+  "url": "https://github.com/screenpipe/screenpipe",
+  "category": "Productivity/Personal Tool",
+  "summary": "Screenpipe là ứng dụng ghi màn hình AI liên tục giúp tự động hóa quy trình làm việc, trích xuất ngữ cảnh cho agent và đảm bảo tính riêng tư dữ liệu trên máy tính.",
+  "usecases": [
+    "Ghi lại hoạt động làm việc và tạo bản tóm tắt cho hiệu suất cá nhân.",
+    "Cung cấp ngữ cảnh cho các agent AI hoặc trợ lý cá nhân dựa trên màn hình và âm thanh.",
+    "Phân tích quy trình làm việc để tự động hóa tác vụ lặp lại."
+  ],
+  "ideas": [
+    "Tích hợp với LLM cục bộ để tạo ra 'bộ nhớ' làm việc chủ động cho người dùng.",
+    "Xây dựng dashboard quản lý cho các remote team theo dõi sản lượng mà không cần giám sát xâm phạm.",
+    "Sử dụng dữ liệu ghi âm để training model cá nhân hóa cho từng người dùng."
+  ],
+  "stars": 22158,
+  "starsToday": 37,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "computer-vision",
+    "llm",
+    "machine-learning",
+    "multimodal",
+    "agents",
+    "agi",
+    "audio-recording",
+    "local-ai",
+    "local-first",
+    "privacy",
+    "screen-recording",
+    "speech-to-text",
+    "ycombinator",
+    "hermes",
+    "hermes-agent",
+    "openclaw",
+    "ai-memory",
+    "mcp",
+    "rewind"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-10-29T20:04:01.719Z"
+}

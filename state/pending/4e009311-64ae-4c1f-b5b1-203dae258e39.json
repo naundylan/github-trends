@@ -1,0 +1,38 @@
+{
+  "id": "4e009311-64ae-4c1f-b5b1-203dae258e39",
+  "repo": "glanceapp/glance",
+  "url": "https://github.com/glanceapp/glance",
+  "category": "Productivity/Personal Tool",
+  "summary": "Glance là dashboard tự-hosted mã nguồn mở thu thập và hiển thị các nguồn cấp tin (RSS, Reddit, YouTube) trên một trang cá nhân, phù hợp cho homelab.",
+  "usecases": [
+    "Theo dõi tin tức, blog và mạng xã hội từ một nơi duy nhất mà không cần mở nhiều tab.",
+    "Tạo trang chủ cá nhân (startpage) cho máy chủ cá nhân hoặc VPS, hiển thị thông tin quan trọng và nguồn cấp tin.",
+    "Giám sát cập nhật từ các kênh Reddit, YouTube hoặc RSS feeds theo thời gian thực cho các dự án hoặc sở thích."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ tự động hóa để tạo báo cáo định kỳ về hoạt động mạng xã hội hoặc dự án open source.",
+    "Tích hợp với hệ thống thông báo đẩy (push notifications) để nhận cập nhật tức thì từ các nguồn tin yêu thích.",
+    "Sử dụng làm nền tảng cho 'personal AI assistant' để tổng hợp và phân tích nội dung từ các nguồn RSS/Reddit đã thu thập."
+  ],
+  "stars": 37867,
+  "starsToday": 51,
+  "language": "Go",
+  "topics": [
+    "dashboard",
+    "homepage",
+    "rss",
+    "self-hosted",
+    "docker",
+    "feed-reader",
+    "aggregator",
+    "startpage",
+    "reddit",
+    "youtube",
+    "go",
+    "monitoring",
+    "rss-reader",
+    "homelab"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-10-29T20:04:01.719Z"
+}

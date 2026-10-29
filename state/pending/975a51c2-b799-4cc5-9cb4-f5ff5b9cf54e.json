@@ -1,0 +1,40 @@
+{
+  "id": "975a51c2-b799-4cc5-9cb4-f5ff5b9cf54e",
+  "repo": "agentscope-ai/QwenPaw",
+  "url": "https://github.com/agentscope-ai/QwenPaw",
+  "category": "AI Agent/Automation",
+  "summary": "Một trợ lý AI cá nhân dễ cài đặt và triển khai, hỗ trợ nhiều ứng dụng chat với khả năng mở rộng và kết nối các LLM, có thể chạy trên máy local hoặc đám mây.",
+  "usecases": [
+    "Hoạt động như trợ lý cá nhân quản lý lịch, email và câu hỏi thường gặp thông qua các ứng dụng chat.",
+    "Tích hợp với các mô hình LLM để tự động hóa tác vụ lặp đi lặp lại trong công việc hoặc cuộc sống.",
+    "Triển khai trên đám mây hoặc local để tạo chatbot riêng cho doanh nghiệp hoặc dự án cá nhân."
+  ],
+  "ideas": [
+    "Tích hợp với các cơ sở dữ liệu vector để nâng cao khả năng tìm kiếm và ngữ cảnh.",
+    "Tạo môi trường đa tác nhân nơi nhiều AI Assistant tương tác với nhau.",
+    "Phát triển giao diện voice-controlled cho assistant trên thiết bị di động."
+  ],
+  "stars": 36878,
+  "starsToday": 116,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "llm-tools",
+    "llms",
+    "skills",
+    "agentscope",
+    "agent-harness",
+    "harness-engineering",
+    "super-agent",
+    "loop-engineering",
+    "ai-agent",
+    "ai-agents",
+    "chatbot",
+    "personal-ai-assistant",
+    "self-hosted",
+    "webui",
+    "mcp"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-29T20:04:01.719Z"
+}

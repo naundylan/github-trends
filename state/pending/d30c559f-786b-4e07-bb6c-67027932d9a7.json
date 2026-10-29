@@ -1,0 +1,29 @@
+{
+  "id": "d30c559f-786b-4e07-bb6c-67027932d9a7",
+  "repo": "Mesh-LLM/mesh-llm",
+  "url": "https://github.com/Mesh-LLM/mesh-llm",
+  "category": "AI/LLM",
+  "summary": "Mesh-LLM là hệ thống phân tán cho phép chia sẻ tài nguyên tính toán để chạy mô hình AI/LLM, hỗ trợ agent và trò chuyện, có thể chạy riêng tư hoặc công khai.",
+  "usecases": [
+    "Chạy các chatbot cá nhân hoặc công ty sử dụng mô hình LLM mà không cần phụ thuộc vào các dịch vụ đám mây lớn.",
+    "Phân phối tải tính toán cho inference LLM across nhiều thiết bị hoặc server trong mạng nội bộ (intranet), bảo vệ dữ liệu nhạy cảm.",
+    "Tạo hệ thống agent tự động hóa có thể truy cập sức mạnh tính toán phân tán để thực hiện tác vụ phức tạp."
+  ],
+  "ideas": [
+    "Kết hợp với cơ chế tài chính phi tập trung (DePIN) để thưởng thức người cung cấp tài nguyên tính toán tham gia mạng lưới.",
+    "Triển khai 'private ChatGPT' cho doanh nghiệp sử dụng hạ tầng nội bộ và tài nguyên GPU phân tán.",
+    "Sử dụng cho các ứng dụng edge computing, chạy inference LLM trên thiết bị biên với đồng bộ hóa trạng thái qua mesh."
+  ],
+  "stars": 3634,
+  "starsToday": 50,
+  "language": "Rust",
+  "topics": [
+    "agents",
+    "ai",
+    "decentralized",
+    "distributed",
+    "llm"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-29T20:04:01.719Z"
+}

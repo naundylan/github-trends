@@ -1,0 +1,34 @@
+{
+  "id": "71aebd34-3367-4e16-aa4f-e87bbb333fca",
+  "repo": "gitroomhq/postiz-app",
+  "url": "https://github.com/gitroomhq/postiz-app",
+  "category": "Web Frontend",
+  "summary": "Một công cụ scheduling mạng xã hội agentic hiện đại được xây dựng với Next.js và Redis, giúp tự động hóa và quản lý lịch đăng bài trên các nền tảng xã hội.",
+  "usecases": [
+    "Tự động hóa lịch đăng bài và quản lý nội dung cho các tài khoản mạng xã hội.",
+    "Theo dõi hiệu suất và tương tác các bài đăng qua tích hợp Redis.",
+    "Cung cấp giao diện đơn giản để tạo và lập lịch các chiến dịch truyền thông."
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng AI để tạo nội dung tự động cho các bài đăng được lập lịch.",
+    "Phát triển plugin cho các trình duyệt để lên lịch trực tiếp từ dashboard.",
+    "Hỗ trợ đa ngôn ngữ và đa nền tảng cho các tài khoản xã hội toàn cầu."
+  ],
+  "stars": 40095,
+  "starsToday": 200,
+  "language": "TypeScript",
+  "topics": [
+    "typescript",
+    "nextjs",
+    "redis",
+    "open-source",
+    "oss",
+    "scheduling-tool",
+    "social-media-scheduling-tool",
+    "open-source-social-media-scheduling-tool",
+    "postiz-cloud",
+    "postiz-hosted"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-10-29T20:04:01.719Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "a58cc627-a6ef-45aa-89ae-0d184392d369",
+  "repo": "JetBrains/thinkrail",
+  "url": "https://github.com/JetBrains/thinkrail",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Trình IDE nhẹ nhàng tích hợp AI Pi để hỗ trợ viết code theo phong cách vibe-coding, tùy chỉnh tự động theo cách làm việc của người dùng.",
+  "usecases": [
+    "Quick code writing with AI agent Pi support in IDE.",
+    "Automatic spec-driven code development from natural language requests.",
+    "Personalized workflow customization for programming task automation."
+  ],
+  "ideas": [
+    "Integration with project management platforms to generate code from natural language requests.",
+    "Development of plugins for other IDEs based on the same spec-driven principle.",
+    "Use in programming education to generate code samples in the user's style."
+  ],
+  "stars": 5911,
+  "starsToday": 1116,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "agent-skills",
+    "agentic-ai",
+    "agentic-workflow",
+    "ai-coding",
+    "ai-tools",
+    "spec-driven",
+    "spec-driven-coding",
+    "spec-driven-development",
+    "vibe-coding",
+    "vibecoding",
+    "pi-agent",
+    "pi-agent-extension"
+  ],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-10-29T20:04:01.719Z"
+}

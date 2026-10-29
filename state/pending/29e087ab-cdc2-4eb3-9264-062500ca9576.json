@@ -1,0 +1,44 @@
+{
+  "id": "29e087ab-cdc2-4eb3-9264-062500ca9576",
+  "repo": "beenuar/AiSOC",
+  "url": "https://github.com/beenuar/AiSOC",
+  "category": "Security/Pentest",
+  "summary": "Hệ thống Security Operations Center dựa trên AI mã nguồn mở, tự động hóa việc fusion cảnh báo, điều tra LLM-agent và tuân theo MITRE ATT&CK, có thể self-host mà không cần khóa API.",
+  "usecases": [
+    "Automated threat detection and analysis within SOC environments.",
+    "LLM-agent triage of security alerts to reduce response time.",
+    "MITRE ATT&CK compliance investigation and replayable decision ledger for incidents."
+  ],
+  "ideas": [
+    "Integration with existing SIEM platforms to enhance analysis capabilities.",
+    "Development of automatic incident response modules.",
+    "Application in purple team exercises and security training scenarios."
+  ],
+  "stars": 5114,
+  "starsToday": 318,
+  "language": "Python",
+  "topics": [
+    "ai-security",
+    "alert-triage",
+    "cybersecurity",
+    "detection-engineering",
+    "incident-response",
+    "mitre-attack",
+    "purple-team",
+    "security-operations",
+    "self-hosted",
+    "siem",
+    "soar",
+    "soc",
+    "threat-detection",
+    "threat-intelligence",
+    "agentic-ai",
+    "langgraph",
+    "blue-team",
+    "llm-agents",
+    "mcp",
+    "model-context-protocol"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-29T20:04:01.719Z"
+}
