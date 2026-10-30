@@ -1,0 +1,28 @@
+{
+  "id": "0d24be78-4ce6-4599-a324-ae1d49f5a182",
+  "repo": "hydro-project/infinity",
+  "url": "https://github.com/hydro-project/infinity",
+  "category": "AI Agent/Automation",
+  "summary": "Runtime và protocol cho agent AI, cung cấp concurrency có tổ chức cho hệ thống phân tán.",
+  "usecases": [
+    "Triển khai nhiều agent AI cùng thực thi tác vụ phức tạp trong môi trường phân tán.",
+    "Tối ưu hóa phân phối tác vụ giữa các agent để tăng hiệu suất tổng thể.",
+    "Tích hợp agent vào hệ thống tự động hóa nghiệp vụ (RPA) với giao thức chuẩn."
+  ],
+  "ideas": [
+    "Xây dựng hệ thống multi-agent giải quyết bài toán lập trình phức tạp và debug code.",
+    "Tạo nền tảng cho agent giao tiếp qua blockchain để đảm bảo tính xác minh và không trung tâm.",
+    "Phát triển giao thức concurrency cho agent trong môi trường edge computing và IoT."
+  ],
+  "stars": 376,
+  "starsToday": 180,
+  "language": "Rust",
+  "topics": [
+    "agents",
+    "concurrency",
+    "distributed-systems",
+    "rust"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-30T00:39:20.793Z"
+}

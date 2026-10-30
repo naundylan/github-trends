@@ -1,0 +1,44 @@
+{
+  "id": "efe07d4b-0ca7-41c0-8c22-fa4c1eb93887",
+  "repo": "PurpleDoubleD/locally-uncensored",
+  "url": "https://github.com/PurpleDoubleD/locally-uncensored",
+  "category": "AI/LLM",
+  "summary": "Studio AI toàn diện chạy trên desktop, tích hợp chat, sinh ảnh/video và coding agent, hoàn toàn local không cần cloud.",
+  "usecases": [
+    "Chat AI riêng tư với dữ liệu không bao giờ rời device.",
+    "Sinh ảnh và video creative sử dụng Stable Diffusion/Flux cục bộ.",
+    "Tự động hóa tác vụ lập trình qua coding agent tích hợp."
+  ],
+  "ideas": [
+    "Kết hợp chat AI, tạo hình ảnh và viết code thành một personal assistant cục bộ duy nhất.",
+    "Triển khai trên thiết bị di động qua WebView cho AI offline trên smartphone.",
+    "Sử dụng cho prototyping game với nhân vật và dialogue AI cục bộ."
+  ],
+  "stars": 3027,
+  "starsToday": 111,
+  "language": "TypeScript",
+  "topics": [
+    "ai-chat",
+    "image-generation",
+    "llm",
+    "local-ai",
+    "local-llm",
+    "privacy",
+    "self-hosted",
+    "uncensored",
+    "video-generation",
+    "desktop-app",
+    "uncensored-ai",
+    "stable-diffusion",
+    "agent",
+    "ai-studio",
+    "all-in-one",
+    "coding-agent",
+    "flux",
+    "linux",
+    "open-source",
+    "windows"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-30T00:39:20.793Z"
+}

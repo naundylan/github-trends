@@ -1,0 +1,26 @@
+{
+  "id": "f954bf07-8dfb-438d-8b49-70139b522d56",
+  "repo": "ansible/ansible",
+  "url": "https://github.com/ansible/ansible",
+  "category": "DevOps/CI-CD",
+  "summary": "Ansible là nền tảng tự động hóa IT, cho phép triển khai ứng dụng, cấu hình hệ thống và quản lý đám mây thông qua ngôn ngữ gần tiếng Anh và SSH, không cần cài đặt agent trên các hệ thống xa.",
+  "usecases": [
+    "Tự động hóa triển khai ứng dụng (deploy) lên môi trường production hoặc staging.",
+    "Quản lý cấu hình hệ thống (configuration management) cho nhiều server cùng lúc.",
+    "Tự động hóa provisioning network và resources trên đám mây (cloud)."
+  ],
+  "ideas": [
+    "Kết hợp với Terraform để tạo pipeline tự động hóa từ infrastructure provisioning đến application deployment.",
+    "Sử dụng trong edge computing để tự động hóa quản lý các thiết bị IoT phân tán.",
+    "Phát triển module tự động hóa cho các dịch vụ quản lý container như Kubernetes clusters."
+  ],
+  "stars": 71158,
+  "starsToday": 22,
+  "language": "Python",
+  "topics": [
+    "python",
+    "ansible"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-30T00:39:20.793Z"
+}

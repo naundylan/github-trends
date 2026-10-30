@@ -1,0 +1,36 @@
+{
+  "id": "8baf2a27-3bcb-4fd2-92d3-81ec3b488be7",
+  "repo": "milind-soni/OpenMausBot",
+  "url": "https://github.com/milind-soni/OpenMausBot",
+  "category": "AI Agent/Automation",
+  "summary": "một bot AI mã nguồn mở thay thế Grok, cung cấp một máy ảo để bot có thể chạy và tương tác",
+  "usecases": [
+    "tự động hóa các tác vụ lặp lại trên desktop/web thông qua bot AI",
+    "triển khai bot tự chủ cho các môi trường game hoặc tương tác xã hội",
+    "self-hosted AI assistant có khả năng sử dụng công cụ trong môi trường bị kiểm soát"
+  ],
+  "ideas": [
+    "kết hợp với các mô hình LLM khác (Claude, Gemini) để so sánh khả năng tool use",
+    "phát triển plugin cho Electron apps để bot điều khiển ứng dụngdesktop",
+    "sử dụng làm nền tảng cho các nghiên cứu về AI safety và agent behavior in VM"
+  ],
+  "stars": 7465,
+  "starsToday": 1199,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "computer-use",
+    "docker",
+    "electron",
+    "expo",
+    "self-hosted",
+    "typescript",
+    "grok-bot",
+    "grok",
+    "grok-bot-alternative"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-30T00:39:20.793Z"
+}

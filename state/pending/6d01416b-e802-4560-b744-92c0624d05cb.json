@@ -1,0 +1,36 @@
+{
+  "id": "6d01416b-e802-4560-b744-92c0624d05cb",
+  "repo": "Donchitos/Claude-Code-Game-Studios",
+  "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "category": "Game Dev",
+  "summary": "hệ thống phối hợp 49 AI agent để biến Claude Code thành một studio phát triển game hoàn chỉnh, mô phỏng cấu trúc hiérarchie thực tế",
+  "usecases": [
+    "tự động tạo nội dung game (level, assets, scripts) qua nhiều agent AI",
+    "mô phỏng quy trình phát triển game trong môi trường học tập hoặc prototyping nhanh",
+    "hỗ trợ indie game dev tạo ra game toàn bộ bằng AI coordination"
+  ],
+  "ideas": [
+    "tạo ra một công cụ quản lý dự án game tự động cho các studio nhỏ",
+    "kết hợp với Godot/Unreal engine workflow để generate code/assets tự động",
+    "phát triển hệ thống đào tạo AI agent để làm các role trong phát triển game"
+  ],
+  "stars": 29170,
+  "starsToday": 353,
+  "language": "Shell",
+  "topics": [
+    "ai-agents",
+    "ai-assisted-development",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "game-design",
+    "game-development",
+    "gamedev",
+    "godot",
+    "indie-game-dev",
+    "unity",
+    "unreal-engine"
+  ],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-10-30T00:39:20.793Z"
+}

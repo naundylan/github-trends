@@ -1,0 +1,34 @@
+{
+  "id": "ee1bb028-8c91-4273-a4cd-41db804bb628",
+  "repo": "nyakang/nyaterm",
+  "url": "https://github.com/nyakang/nyaterm",
+  "category": "Developer Tool",
+  "summary": "Terminal remote hiện đại hỗ trợ SSH, SFTP, Telnet và serial port, tích hợp giao diện GPU-accelerated cho phát triển và quản lý xa.",
+  "usecases": [
+    "Kết nối và quản lý server remote qua SSH/SFTP với giao diện thân thiện.",
+    "Phát triển và debug ứng dụng trên thiết bị embedded qua serial port.",
+    "Thay thế terminal truyền thống với các tính năng GPU-accelerated và đa tab."
+  ],
+  "ideas": [
+    "Phát triển plugin VS Code cung cấp terminal native với giao diện GPU-accelerated.",
+    "Tích hợp lệnh tự động OTP generation cho xác thực hai yếu tố.",
+    "Tạo kịch bản tự động hóa quy trình deploy qua kết nối serial."
+  ],
+  "stars": 2099,
+  "starsToday": 169,
+  "language": "Rust",
+  "topics": [
+    "otp",
+    "serialport",
+    "sftp",
+    "sftp-client",
+    "ssh",
+    "ssh-client",
+    "telnet",
+    "telnet-client",
+    "terminal",
+    "gpui"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-30T00:39:20.793Z"
+}

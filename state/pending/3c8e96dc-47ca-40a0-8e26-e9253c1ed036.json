@@ -1,0 +1,33 @@
+{
+  "id": "3c8e96dc-47ca-40a0-8e26-e9253c1ed036",
+  "repo": "Wei-Shaw/sub2api",
+  "url": "https://github.com/Wei-Shaw/sub2api",
+  "category": "API/GraphQL",
+  "summary": "Sub2API là một dịch vụ mã nguồn mở cho phép tích hợp Claude, OpenAI, Gemini và Grok vào một API duy nhất, hỗ trợ chia sẻ chi phí và sử dụng công cụ gốc.",
+  "usecases": [
+    "Tích hợp nhiều nhà cung cấp AI vào một endpoint duy nhất cho ứng dụng",
+    "Chia sẻ tài nguyên (phishing car) để giảm chi phí sử dụng AI",
+    "Sử dụng các công cụ gốc mà không cần thay đổi cấu trúc"
+  ],
+  "ideas": [
+    "Kết hợp với các framework web để tạo chatbot đa provider",
+    "Đưa API này vào SaaS cho doanh nghiệp muốn gọi AI",
+    "Tạo plugin cho IDE để gọi AI qua Sub2API"
+  ],
+  "stars": 45098,
+  "starsToday": 75,
+  "language": "Go",
+  "topics": [
+    "2api",
+    "antigravity2api",
+    "claude",
+    "claude-code",
+    "codex",
+    "crs",
+    "gemini",
+    "cc2api",
+    "crs2"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-10-30T00:39:20.793Z"
+}

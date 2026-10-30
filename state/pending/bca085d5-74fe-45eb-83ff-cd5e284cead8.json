@@ -1,0 +1,33 @@
+{
+  "id": "bca085d5-74fe-45eb-83ff-cd5e284cead8",
+  "repo": "NVIDIA/cuda-rust",
+  "url": "https://github.com/NVIDIA/cuda-rust",
+  "category": "Developer Tool",
+  "summary": "CUDA‑Rust cung cấp các crate runtime và mô hình kernel Tile và SIMT cho phép viết mã CUDA hiệu suất cao bằng Rust.",
+  "usecases": [
+    "Tích hợp CUDA vào các ứng dụng Rust để xử lý GPU",
+    "Phát triển thuật toán HPC và machine learning trên GPU",
+    "Tạo các library cho hệ thống tính toán song song"
+  ],
+  "ideas": [
+    "Kết hợp với framework AI Rust để chạy mô hình LLM trên GPU",
+    "Sử dụng trong các ứng dụng thời gian thực như game hoặc ray tracing",
+    "Tạo công cụ biên dịch tự động cho các kernel CUDA bằng Rust"
+  ],
+  "stars": 3890,
+  "starsToday": 38,
+  "language": "Rust",
+  "topics": [
+    "compiler-backend",
+    "async",
+    "cuda",
+    "gpu",
+    "high-performance-computing",
+    "nvidia",
+    "programming-languages",
+    "rust",
+    "heterogeneous-computing"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-30T00:39:20.793Z"
+}
