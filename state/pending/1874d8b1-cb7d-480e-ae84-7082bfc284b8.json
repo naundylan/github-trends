@@ -1,0 +1,44 @@
+{
+  "id": "1874d8b1-cb7d-480e-ae84-7082bfc284b8",
+  "repo": "prisma/orm",
+  "url": "https://github.com/prisma/orm",
+  "category": "Developer Tool",
+  "summary": "ORM cho TypeScript cho phép viết truy vấn cơ sở dữ liệu bằng ngôn ngữ dễ đọc thay vì SQL, hỗ trợ hosting database trên Prisma Postgres.",
+  "usecases": [
+    "Quản lý truy vấn database trong ứng dụng Node.js/TypeScript mà không cần viết SQL thô",
+    "Tạo schema và migration tự động cho các dự án đa nền tảng",
+    "Tích hợp dễ dàng với Prisma Postgres và Prisma Compute cho backend hiện đại"
+  ],
+  "ideas": [
+    "Sử dụng Prisma làm layer abstraction để hỗ trợ đa nền tảng database (PostgreSQL, MySQL, MongoDB) trong cùng một project",
+    "Kết hợp với Prisma Accelerate để tối ưu hiệu suất query",
+    "Xây dựng CMS hoặc hệ thống nội dung với schema database được quản lý tự động"
+  ],
+  "stars": 47665,
+  "starsToday": 5,
+  "language": "TypeScript",
+  "topics": [
+    "prisma",
+    "orm",
+    "database",
+    "typescript",
+    "javascript",
+    "nodejs",
+    "mariadb",
+    "mysql",
+    "postgresql",
+    "sqlserver",
+    "sql-server",
+    "mssql",
+    "sqlite",
+    "mongodb",
+    "prisma-client",
+    "postgres",
+    "cockroachdb",
+    "query-builder",
+    "loggy-core",
+    "loggy-terminal"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-30T09:26:00.671Z"
+}

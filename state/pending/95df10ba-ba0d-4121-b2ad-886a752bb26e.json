@@ -1,0 +1,29 @@
+{
+  "id": "95df10ba-ba0d-4121-b2ad-886a752bb26e",
+  "repo": "nearai/ironclaw",
+  "url": "https://github.com/nearai/ironclaw",
+  "category": "AI Agent/Automation",
+  "summary": "IronClaw là một Agent OS tập trung vào quyền riêng tư, an toàn và khả năng mở rộng, cho phép tạo và quản lý các AI agent một cách hiệu quả.",
+  "usecases": [
+    "Tự động hóa các tác vụ lặp đi lặp lại thông qua AI agents với bảo mật cao",
+    "Xây dựng hệ thống agent cho customer service hoặc research assistance",
+    "Phát triển các workflow automation trong doanh nghiệp với quyền kiểm soát nguồn"
+  ],
+  "ideas": [
+    "Kết hợp với các LLM local để tạo ra một personal assistant offline",
+    "Sử dụng làm nền tảng cho các autonomous agents trong game hoặc simulation",
+    "Triển khai cho các hệ thống monitoring và self-healing trong infrastructure"
+  ],
+  "stars": 12692,
+  "starsToday": 15,
+  "language": "Rust",
+  "topics": [
+    "codeact",
+    "openclaw",
+    "rlm",
+    "rust",
+    "wasm"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-30T09:26:00.671Z"
+}

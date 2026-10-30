@@ -1,0 +1,23 @@
+{
+  "id": "d675412d-596d-4fd2-9668-cfe30fae1355",
+  "repo": "jackc/pgx",
+  "url": "https://github.com/jackc/pgx",
+  "category": "Database",
+  "summary": "pgx là driver và toolkit PostgreSQL cho Go, cung cấp kết nối trực tiếp với tính năng batch operation và quản lý connection pool.",
+  "usecases": [
+    "High-performance Go applications needing direct PostgreSQL connectivity",
+    "Batch inserting large datasets efficiently in microservices or data pipelines",
+    "Managing database connections and transactions in server-side Go applications"
+  ],
+  "ideas": [
+    "Use with Go's context and sync packages for scalable concurrent database access",
+    "Leverage pgx's session pooling for connection management in web servers",
+    "Combine with custom SQL queries while maintaining Go's type safety"
+  ],
+  "stars": 14366,
+  "starsToday": 2,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-10-30T09:26:00.671Z"
+}

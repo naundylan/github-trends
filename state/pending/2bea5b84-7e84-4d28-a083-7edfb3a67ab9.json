@@ -1,0 +1,31 @@
+{
+  "id": "2bea5b84-7e84-4d28-a083-7edfb3a67ab9",
+  "repo": "microsoft/power-platform-skills",
+  "url": "https://github.com/microsoft/power-platform-skills",
+  "category": "Developer Tool",
+  "summary": "Power Platform Skills là marketplace plugin cho GitHub Copilot và các AI agent, cung cấp skills, agents và reusable commands để phát triển và triển khai các giải pháp Power Apps, Power Pages trên Power Platform.",
+  "usecases": [
+    "Tự động tạo code và cấu hình cho Power Apps và Power Pages thông qua lệnh GitHub Copilot.",
+    "Tối ưu quy trình phát triển bằng reusable skills cho các dự án Power Platform lặp lại.",
+    "Giảm thiểu thời gian thiết lập môi trường mới cho các giảiution Power Platform."
+  ],
+  "ideas": [
+    "Phát triển plugin tùy chỉnh cho Power Automate sử dụng các skill đã có sẵn từ marketplace.",
+    "Kết hợp với Claude Code để tạo pipeline tự động build và deploy Power Platform solutions.",
+    "Sử dụng marketplace này làm foundation cho ecosystem skills nội bộ cho doanh nghiệp."
+  ],
+  "stars": 1083,
+  "starsToday": 8,
+  "language": "JavaScript",
+  "topics": [
+    "claude-code-plugin",
+    "claude-code-skills",
+    "power-apps",
+    "power-pages",
+    "power-platform",
+    "code-apps",
+    "github-copilot-plugin"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-30T09:26:00.671Z"
+}

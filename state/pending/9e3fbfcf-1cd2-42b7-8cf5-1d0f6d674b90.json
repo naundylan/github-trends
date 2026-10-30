@@ -1,0 +1,39 @@
+{
+  "id": "9e3fbfcf-1cd2-42b7-8cf5-1d0f6d674b90",
+  "repo": "VictoriaMetrics/VictoriaMetrics",
+  "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+  "category": "Database",
+  "summary": "VictoriaMetrics là giải pháp giám sát hiệu quả và cơ sở dữ liệu thời gian thực (time-series database) nhanh, tiết kiệm chi phí, designed để thu thập, lưu trữ và truy vấn metrics lớn 규모 cho Kubernetes và infrastructure monitoring.",
+  "usecases": [
+    "Giám sát hiệu suất và sức khỏe các container/Kubernetes trong môi trường production.",
+    "Thu thập và lưu trữ metrics dài hạn cho analytics và báo cáo doanh nghiệp.",
+    "Thay thế Prometheus/thanos với chi phí và tài nguyên thấp hơn cho monitoring thời gian thực."
+  ],
+  "ideas": [
+    "Kết hợp với Grafana để tạo dashboard monitoring tùy chỉnh cho doanh nghiệp vừa và nhỏ.",
+    "Sử dụng VictoriaMetrics làm backend cho hệ thống IoT thu thập sensor data thời gian thực.",
+    "Tích hợp với OpenTelemetry để thu thập traces và metrics thống nhất cho microservices."
+  ],
+  "stars": 17961,
+  "starsToday": 10,
+  "language": "Go",
+  "topics": [
+    "tsdb",
+    "prometheus",
+    "promql",
+    "influxdb",
+    "graphite",
+    "opentsdb",
+    "database",
+    "thanos",
+    "observability",
+    "monitoring",
+    "kubernetes",
+    "grafana",
+    "opentelemetry",
+    "metrics",
+    "otlp"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-10-30T09:26:00.671Z"
+}

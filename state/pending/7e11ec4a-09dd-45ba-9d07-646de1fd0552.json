@@ -1,0 +1,29 @@
+{
+  "id": "7e11ec4a-09dd-45ba-9d07-646de1fd0552",
+  "repo": "hashicorp/terraform",
+  "url": "https://github.com/hashicorp/terraform",
+  "category": "Infrastructure as Code",
+  "summary": "Công cụ mã nguồn mở cho Infrastructure as Code, quản lý tài nguyên cloud qua file cấu hình định nghĩa và phiên bản hóa.",
+  "usecases": [
+    "Cấp phát và quản lý tài nguyên cloud (AWS, Azure, GCP) tự động và kiểm soát.",
+    "Phiên version hạ infrastructure cùng code nguồn để teamwork và rollback an toàn.",
+    "Tích hợp trong CI/CD pipelines để tự động triển khai thay đổi infrastructure."
+  ],
+  "ideas": [
+    "Kết hợp Terraform Provider để tự động hóa workflow phức tạp trên nhiều cloud cùng lúc.",
+    "Xây dựng platform internal self-service infrastructure cho các team phát triển.",
+    "Phát triển plugin monitor auto-fix dựa trên drift detection để đồng bộ trạng thái infrastructure."
+  ],
+  "stars": 50088,
+  "starsToday": 18,
+  "language": "Go",
+  "topics": [
+    "graph",
+    "infrastructure-as-code",
+    "terraform",
+    "cloud",
+    "cloud-management"
+  ],
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-10-30T09:26:00.671Z"
+}

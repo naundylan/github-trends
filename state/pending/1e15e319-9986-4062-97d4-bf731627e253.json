@@ -1,0 +1,40 @@
+{
+  "id": "1e15e319-9986-4062-97d4-bf731627e253",
+  "repo": "webpack/webpack",
+  "url": "https://github.com/webpack/webpack",
+  "category": "Build Tool/Bundler",
+  "summary": "Webpack là trình bundler cho JavaScript, đóng gói module thành bundle tối ưu và hỗ trợ code splitting cùng loader cho nhiều loại tài nguyên.",
+  "usecases": [
+    "Bundling modern JavaScript applications with ES modules and JSX",
+    "Code splitting and lazy loading for improved performance",
+    "Transforming and packaging CSS, images, and other assets with code"
+  ],
+  "ideas": [
+    "Integrate with React or Vue for optimized production builds",
+    "Configure dynamic imports for route-level code splitting in SPAs",
+    "Combine with bundle analyzer to visualize and reduce bundle sizes"
+  ],
+  "stars": 65968,
+  "starsToday": 2,
+  "language": "JavaScript",
+  "topics": [
+    "webpack",
+    "javascript",
+    "module-bundler",
+    "loaders",
+    "plugins",
+    "build-tool",
+    "web",
+    "web-performance",
+    "compiler",
+    "javascript-compiler",
+    "commonjs",
+    "amd",
+    "esm",
+    "es6",
+    "es2015",
+    "javascript-modules"
+  ],
+  "notePath": "notes/Build-Tool-Bundler.md",
+  "createdAt": "2026-10-30T09:26:00.671Z"
+}
