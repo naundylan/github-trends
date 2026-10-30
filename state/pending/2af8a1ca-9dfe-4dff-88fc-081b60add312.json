@@ -1,0 +1,23 @@
+{
+  "id": "2af8a1ca-9dfe-4dff-88fc-081b60add312",
+  "repo": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "category": "CLI Tool",
+  "summary": "mattpocock/skills là một bộ scripts Shell và kỹ năng được tổng hợp cho kỹ sư, trực tiếp từ thư mục .agents cá nhân, cung cấp các công cụ và thủ thuật thực tế cho công việc hàng ngày.",
+  "usecases": [
+    "Tự động hóa các tác vụ quản lý hệ thống và triển khai qua CLI.",
+    "Cung cấp bộ kỹ năng shell nhanh cho kỹ sư DevOps trong các kịch bản tự động.",
+    "Tạo ra một nguồn tài liệu kỹ thuật cá nhân có thể thực thi trực tiếp từ dòng lệnh."
+  ],
+  "ideas": [
+    "Phát triển plugin cho terminal hiển thị kỹ năng và scripts trực tiếp trong giao diện shell.",
+    "Kết hợp với AI agents để tự động thực thi các lệnh shell dựa trên yêu cầu ngôn ngữ tự nhiên.",
+    "Tạo một dashboard cá nhân theo dõi và thực thi scripts từ repository skills này."
+  ],
+  "stars": 307247,
+  "starsToday": 882,
+  "language": "Shell",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-30T17:36:33.046Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "020f892c-7984-4149-bb5a-048d0d1cf7c8",
+  "repo": "daeuniverse/honk",
+  "url": "https://github.com/daeuniverse/honk",
+  "category": "Networking",
+  "summary": "Honk la mot cong cu mang luot mang proxy viet bo Rust, duoc thiet ke tren cap sing-box, cung cap giai phap dinh huong va ket noi mang lenh linh hoc va hieu qua.",
+  "usecases": [
+    "Dinh luong luong tieu cho VPN cá nhân hoặc doanh nghiệp",
+    "Phan bo bang thong va kiem tra truy cap trong mang noi bo",
+    "Ho tro truy cap an toan den tai nguyen xa trong moi truong lam viec phan bo"
+  ],
+  "ideas": [
+    "Ket hop voi cac he dieu hanh di dong de tao ung dụng VPN ca nhan toan cuc",
+    "Su dung lam lop nen tcho cho cac mang luyen dong (mesh networks) an toan",
+    "Triển khai trong đám mây (cloud) de bao mat luong tieu giua cac dich vu"
+  ],
+  "stars": 950,
+  "starsToday": 142,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-30T17:36:33.046Z"
+}

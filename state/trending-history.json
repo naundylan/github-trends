@@ -136,8 +136,8 @@
   },
   "mattpocock/skills": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-10-11",
-    "last_saved": "2026-09-25"
+    "last_seen": "2026-10-30",
+    "last_saved": "2026-10-30"
   },
   "pbakaus/impeccable": {
     "first_seen": "2026-07-04",
@@ -191,7 +191,7 @@
   },
   "openclaw/openclaw": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-30",
     "last_saved": "2026-10-20"
   },
   "binwiederhier/ntfy": {
@@ -271,8 +271,8 @@
   },
   "anthropics/skills": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-09-26",
-    "last_saved": "2026-09-24"
+    "last_seen": "2026-10-30",
+    "last_saved": "2026-10-30"
   },
   "TencentCloud/TencentDB-Agent-Memory": {
     "first_seen": "2026-07-07",
@@ -281,7 +281,7 @@
   },
   "n8n-io/n8n": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "last_saved": "2026-10-28"
   },
   "Wei-Shaw/sub2api": {
@@ -346,7 +346,7 @@
   },
   "rustdesk/rustdesk": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-30",
     "last_saved": "2026-10-27"
   },
   "SmartlyDressedGames/U3-SDK": {
@@ -496,8 +496,8 @@
   },
   "alibaba/open-code-review": {
     "first_seen": "2026-08-23",
-    "last_seen": "2026-10-29",
-    "last_saved": "2026-10-09"
+    "last_seen": "2026-10-30",
+    "last_saved": "2026-10-30"
   },
   "apache/maka": {
     "first_seen": "2026-08-24",
@@ -516,8 +516,8 @@
   },
   "langchain-ai/deepagents": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-08-28",
-    "last_saved": "2026-08-24"
+    "last_seen": "2026-10-30",
+    "last_saved": "2026-10-30"
   },
   "marin-community/marin": {
     "first_seen": "2026-08-24",
@@ -791,7 +791,7 @@
   },
   "infiniflow/ragflow": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-30",
     "last_saved": "2026-10-23"
   },
   "Lakr233/vphone-cli": {
@@ -1136,7 +1136,7 @@
   },
   "vercel-labs/agent-browser": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "last_saved": "2026-10-29"
   },
   "jlcodes99/cockpit-tools": {
@@ -1211,8 +1211,8 @@
   },
   "lightpanda-io/browser": {
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-08",
-    "last_saved": "2026-09-07"
+    "last_seen": "2026-10-30",
+    "last_saved": "2026-10-30"
   },
   "pascalorg/editor": {
     "first_seen": "2026-09-07",
@@ -1296,8 +1296,8 @@
   },
   "openai/plugins": {
     "first_seen": "2026-09-09",
-    "last_seen": "2026-10-02",
-    "last_saved": "2026-10-01"
+    "last_seen": "2026-10-30",
+    "last_saved": "2026-10-30"
   },
   "vastsa/PI-Desktop": {
     "first_seen": "2026-09-09",
@@ -1641,7 +1641,7 @@
   },
   "Crosstalk-Solutions/project-nomad": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-30",
     "last_saved": "2026-10-12"
   },
   "abue-ammar/tinycast": {
@@ -1731,8 +1731,8 @@
   },
   "multica-ai/multica": {
     "first_seen": "2026-09-17",
-    "last_seen": "2026-10-29",
-    "last_saved": "2026-10-09"
+    "last_seen": "2026-10-30",
+    "last_saved": "2026-10-30"
   },
   "yyjeqhc/webcodex": {
     "first_seen": "2026-09-17",
@@ -2006,7 +2006,7 @@
   },
   "github/awesome-copilot": {
     "first_seen": "2026-09-23",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-30",
     "last_saved": "2026-10-14"
   },
   "poloclub/transformer-explainer": {
@@ -2021,8 +2021,8 @@
   },
   "open-gsd/gsd-core": {
     "first_seen": "2026-09-23",
-    "last_seen": "2026-10-01",
-    "last_saved": "2026-09-23"
+    "last_seen": "2026-10-30",
+    "last_saved": "2026-10-30"
   },
   "code-yeongyu/oh-my-openagent": {
     "first_seen": "2026-09-23",
@@ -2431,7 +2431,7 @@
   },
   "github/gh-aw": {
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-27",
+    "last_seen": "2026-10-30",
     "last_saved": "2026-10-24"
   },
   "Pumpkin-MC/Pumpkin": {
@@ -2491,7 +2491,7 @@
   },
   "pingdotgg/t3code": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-30",
     "last_saved": "2026-10-27"
   },
   "jamwithai/production-agentic-rag-course": {
@@ -2711,7 +2711,7 @@
   },
   "fabio-rovai/open-ontologies": {
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-30",
     "last_saved": "2026-10-28"
   },
   "AprilNEA/OpenLogi": {
@@ -2756,8 +2756,8 @@
   },
   "docker/docker-agent": {
     "first_seen": "2026-10-08",
-    "last_seen": "2026-10-10",
-    "last_saved": "2026-10-08"
+    "last_seen": "2026-10-30",
+    "last_saved": "2026-10-30"
   },
   "martin-olivier/airgorah": {
     "first_seen": "2026-10-08",
@@ -3471,7 +3471,7 @@
   },
   "Renhuai123/ziwei-doushu": {
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-30",
     "last_saved": "2026-10-23"
   },
   "baidu/Unlimited-OCR": {
@@ -3516,7 +3516,7 @@
   },
   "anomalyco/hex": {
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-10-30",
     "last_saved": "2026-10-23"
   },
   "google-gemini/gemini-cli": {
@@ -3726,7 +3726,7 @@
   },
   "expo/skills": {
     "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "last_saved": "2026-10-28"
   },
   "xiaolai/the-craft-of-selfteaching": {
@@ -3819,52 +3819,27 @@
     "last_seen": "2026-10-30",
     "last_saved": "2026-10-29"
   },
-  "webpack/webpack": {
+  "milind-soni/OpenMausBot": {
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30",
     "last_saved": "2026-10-30"
   },
-  "microsoft/power-platform-skills": {
+  "Orkas-AI/Orkas": {
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30",
     "last_saved": "2026-10-30"
   },
-  "JCodesMore/ai-website-cloner-template": {
+  "MemPalace/mempalace": {
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30",
     "last_saved": "2026-10-30"
   },
-  "prisma/orm": {
+  "ethanplusai/harvey": {
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30",
     "last_saved": "2026-10-30"
   },
-  "docker/compose": {
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30",
-    "last_saved": "2026-10-30"
-  },
-  "VictoriaMetrics/VictoriaMetrics": {
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30",
-    "last_saved": "2026-10-30"
-  },
-  "nats-io/nats-server": {
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30",
-    "last_saved": "2026-10-30"
-  },
-  "jackc/pgx": {
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30",
-    "last_saved": "2026-10-30"
-  },
-  "hashicorp/terraform": {
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30",
-    "last_saved": "2026-10-30"
-  },
-  "nearai/ironclaw": {
+  "daeuniverse/honk": {
     "first_seen": "2026-10-30",
     "last_seen": "2026-10-30",
     "last_saved": "2026-10-30"

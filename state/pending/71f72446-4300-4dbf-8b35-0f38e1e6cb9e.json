@@ -1,0 +1,44 @@
+{
+  "id": "71f72446-4300-4dbf-8b35-0f38e1e6cb9e",
+  "repo": "Orkas-AI/Orkas",
+  "url": "https://github.com/Orkas-AI/Orkas",
+  "category": "AI/LLM",
+  "summary": "Open-source local-first AI desktop application that coordinates 16 built-in specialist agents and integrates with Claude Code, Codex, OpenCode, OpenClaw and Hermes for autonomous task automation.",
+  "usecases": [
+    "AI agent orchestration and workflow automation",
+    "Desktop AI productivity assistant",
+    "Multi-agent collaboration platform"
+  ],
+  "ideas": [
+    "Integrate with Claude Code for intelligent code completion and task management",
+    "Create customizable AI workflows for specific business processes",
+    "Build autonomous agents that can execute complex multi-step tasks"
+  ],
+  "stars": 4896,
+  "starsToday": 1000,
+  "language": "JavaScript",
+  "topics": [
+    "agent-collaboration",
+    "agent-orchestration",
+    "agent-team",
+    "ai-assistant",
+    "ai-team",
+    "ai-workflow",
+    "autonomous-agents",
+    "local-first",
+    "multi-agent",
+    "multi-agent-system",
+    "self-evolving-agents",
+    "agent-harness",
+    "claude-code-gui",
+    "claude-cowork",
+    "desktop-agent",
+    "agent-workflow",
+    "ai-automation",
+    "ai-employee",
+    "ai-productivity",
+    "task-automation"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-30T17:36:33.045Z"
+}

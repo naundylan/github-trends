@@ -1,0 +1,30 @@
+{
+  "id": "c281661b-308c-4c4e-8bd0-821d7bbf82b0",
+  "repo": "MemPalace/mempalace",
+  "url": "https://github.com/MemPalace/mempalace",
+  "category": "AI/LLM",
+  "summary": "Hệ thống mémoire AI mã nguồn mở được benchmark tốt nhất, cung cấp lưu trữ và truy xuất ngữ cảnh cho các mô hình LLM, hoàn toàn miễn phí.",
+  "usecases": [
+    "Cung cấp bộ nhớ dài hạn cho ứng dụng chatbot dựa trên LLM.",
+    "Tối ưu hóa truy xuất ngữ cảnh trong hệ thống RAG.",
+    "Hỗ trợ benchmark và so sánh hiệu suất các giải pháp mémoire AI."
+  ],
+  "ideas": [
+    "Kết hợp với LangChain để tạo Agent có mémoire bền vững.",
+    "Sử dụng làm nền tảng cho các ứng dụng AI cá nhân hóa với lịch sử tương tác.",
+    "Phát triển plugin cho IDE để ghi lại và truy xuất mã/project qua các phiên làm việc."
+  ],
+  "stars": 60147,
+  "starsToday": 357,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "chromadb",
+    "llm",
+    "mcp",
+    "memory",
+    "python"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-30T17:36:33.046Z"
+}

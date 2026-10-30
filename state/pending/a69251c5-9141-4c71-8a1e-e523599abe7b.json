@@ -1,0 +1,25 @@
+{
+  "id": "a69251c5-9141-4c71-8a1e-e523599abe7b",
+  "repo": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Kho công khai chứa các kỹ năng cho Agent AI, giúp mở rộng khả năng tự động hóa và tương tác của các hệ thống AI.",
+  "usecases": [
+    "Thêm các năng lực cụ thể (xử lý tệp, gọi API) cho Agent AI.",
+    "Tích hợp vào framework Agent để tự động hóa tác vụ phức tạp.",
+    "Mở rộng khả năng Agent xử lý các kịch vụ chuyên ngành như y tế hoặc pháp lý."
+  ],
+  "ideas": [
+    "Tạo Agent tự động hóa cho tác vụ nhà nước như nộp thuế hoặc đăng ký giấy tờ.",
+    "Kết hợp với mô hình đa phương tiện để Agent xử lý văn hình và âm thanh cùng lúc.",
+    "Phát triển hệ thống Agent hỗ trợ học tập cá nhân, điều chỉnh nội dung dựa trên tiến độ học viên."
+  ],
+  "stars": 185108,
+  "starsToday": 287,
+  "language": "Python",
+  "topics": [
+    "agent-skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-30T17:36:33.046Z"
+}

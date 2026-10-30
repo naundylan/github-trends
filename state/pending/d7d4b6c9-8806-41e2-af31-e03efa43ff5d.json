@@ -1,0 +1,32 @@
+{
+  "id": "d7d4b6c9-8806-41e2-af31-e03efa43ff5d",
+  "repo": "lightpanda-io/browser",
+  "url": "https://github.com/lightpanda-io/browser",
+  "category": "AI Agent/Automation",
+  "summary": "lightpanda-io/browser là trình duyệt headless viết bằng Zig, được thiết kế riêng cho tự động hóa AI và tác vụ kiểm soát trình duyệt, cung cấp hiệu suất cao và khả năng tích hợp với các công cụ tự động hóa.",
+  "usecases": [
+    "Tự động hóa kiểm thử web và tương tác với trang web cho các ứng dụng AI.",
+    "Chạy các tác vụ crawl và thu thập dữ liệu bằng trình duyệt headless trong môi trường AI.",
+    "Tích hợp vào các pipeline CI/CD để test UI/UX trên các môi trường không đầu (headless)."
+  ],
+  "ideas": [
+    "Sử dụng làm nền tảng cho agent AI điều khiển trình duyệt thực hiện các tác vụ phức tạp trên web.",
+    "Tích hợp với các mô hình LLM để tự động hóa quy trình thu thập và xử lý dữ liệu từ web.",
+    "Phát triển extension cho phép kiểm soát browser thông qua voice commands hoặc gestures trong môi trường AI."
+  ],
+  "stars": 38089,
+  "starsToday": 559,
+  "language": "Zig",
+  "topics": [
+    "browser",
+    "cdp",
+    "headless",
+    "playwright",
+    "puppeteer",
+    "zig",
+    "browser-automation",
+    "lightpanda"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-30T17:36:33.046Z"
+}

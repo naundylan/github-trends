@@ -1,0 +1,36 @@
+{
+  "id": "77b588e3-4ae5-4b90-aa71-5a3d05dec126",
+  "repo": "milind-soni/OpenMausBot",
+  "url": "https://github.com/milind-soni/OpenMausBot",
+  "category": "AI/LLM",
+  "summary": "Open-source Grok Bot alternative featuring a virtual machine that allows bots to run and interact, providing a self-hosted AI bot platform with Docker support.",
+  "usecases": [
+    "Self-hosted AI bot development and deployment",
+    "Custom bot environments with virtual machine support",
+    "Grok-compatible bot interfaces for enterprise use"
+  ],
+  "ideas": [
+    "Develop multi-agent bot ecosystems with shared virtual machines",
+    "Create Docker-based AI services for scalable bot operations",
+    "Build Grok-compatible bot frameworks for open-source communities"
+  ],
+  "stars": 8280,
+  "starsToday": 899,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "computer-use",
+    "docker",
+    "electron",
+    "expo",
+    "self-hosted",
+    "typescript",
+    "grok-bot",
+    "grok",
+    "grok-bot-alternative"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-30T17:36:33.046Z"
+}

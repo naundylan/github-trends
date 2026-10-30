@@ -1,0 +1,23 @@
+{
+  "id": "06ac8c00-0f99-4aa2-92bf-44cd792833b5",
+  "repo": "multica-ai/multica",
+  "url": "https://github.com/multica-ai/multica",
+  "category": "AI Agent/Automation",
+  "summary": "Multica la mot nguon mo source self-hostable cho phep nguoi va AI agent lam viec cung mot doi nhom, tang nghe cap va tu dong hoa qua hop tac AI-human.",
+  "usecases": [
+    "Tự động hóa hỗ trợ khách hàng với can thiệp của con người khi cần",
+    "Hỗ trợ phát triển phần mềm: AI viết code, developer review và định hướng",
+    "Tạo nội dung tự động với kiểm soát và chỉnh sửa bởi người dùng"
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng chat như Slack/Discord để quản lý luồng làm việc AI",
+    "Sử dụng làm nền tảng cho các dự án Human-in-the-loop trong y tế hoặc tài chính",
+    "Tạo hệ thống tự động hóa marketing nơi AI tạo nội dung, con người审核 và phát hành"
+  ],
+  "stars": 54371,
+  "starsToday": 142,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-30T17:36:33.046Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "09e5c4ac-e99e-42a3-af25-6df2d5490102",
+  "repo": "alibaba/open-code-review",
+  "url": "https://github.com/alibaba/open-code-review",
+  "category": "Developer Tool",
+  "summary": "Open-code-review là công cụ review code nhanh, bảo mật và hiệu quả, kết hợp pipeline xác định với agente AI để đưa ra bình luận chi tiết từng dòng, hỗ trợ nhiều ngôn ngữ và tương thích OpenAI/Anthropic.",
+  "usecases": [
+    "Tự động review code trong CI/CD pipeline, phát hiện sớm lỗ hổng bảo mật như SQL injection, XSS, NPE",
+    "Cung cấp feedback chi tiết về chất lượng code và best practices cho từng ngôn ngữ lập trình",
+    "Giúp team duy trì tiêu chuẩn code consistent trên quy mô lớn như Alibaba"
+  ],
+  "ideas": [
+    "Tích hợp với IDE để review code trên fly khi developer lưu file",
+    "Sử dụng để audit bảo mật code heritage hoặc compliance",
+    "Tạo ra dashboard tổng hợp các vấn đề code review theo thời gian thực"
+  ],
+  "stars": 49105,
+  "starsToday": 147,
+  "language": "Go",
+  "topics": [
+    "agent",
+    "code-review",
+    "code-review-assistant",
+    "harness",
+    "repository-level-context",
+    "agent-skills"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-30T17:36:33.046Z"
+}
