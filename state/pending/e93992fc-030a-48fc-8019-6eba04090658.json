@@ -1,0 +1,27 @@
+{
+  "id": "e93992fc-030a-48fc-8019-6eba04090658",
+  "repo": "jesseduffield/lazygit",
+  "url": "https://github.com/jesseduffield/lazygit",
+  "category": "CLI Tool",
+  "summary": "Lazygit là một giao diện terminal (TUI) đơn giản và trực quan cho các lệnh git, giúp quản lý repository nhanh chóng mà không cần gõ lệnh phức tạp.",
+  "usecases": [
+    "Quản lý commit, branch và merge trực tiếp từ terminal mà không cần mở editor code.",
+    "Thao tác với git history và staging files một cách trực quan cho developer hàng ngày.",
+    "Tích hợp vào script tự động hóa hoặc quy trình CI/CD cần tương tác git."
+  ],
+  "ideas": [
+    "Kết hợp với lazydocker để quản lý cả container và git cùng lúc từ một terminal.",
+    "Thêm plugin hỗ trợ AI để tự động tạo commit message dựa trên diff.",
+    "Phát triển chế độ dark/light TUI tùy theo môi trường hệ điều hành."
+  ],
+  "stars": 83542,
+  "starsToday": 43,
+  "language": "Go",
+  "topics": [
+    "cli",
+    "git",
+    "terminal"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-30T21:55:54.553Z"
+}

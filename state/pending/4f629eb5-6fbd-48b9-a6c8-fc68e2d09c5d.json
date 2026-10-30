@@ -1,0 +1,36 @@
+{
+  "id": "4f629eb5-6fbd-48b9-a6c8-fc68e2d09c5d",
+  "repo": "QwenLM/qwen-code",
+  "url": "https://github.com/QwenLM/qwen-code",
+  "category": "AI Agent/Automation",
+  "summary": "Qwen-code là AI coding agent mã nguồn mở chạy trong terminal, hỗ trợ viết code, tự động hoàn thành và xử lý tác vụ phát triển phần mềm thông qua lệnh dòng lệnh.",
+  "usecases": [
+    "Tự động hoàn thành code và sinh hàm/classes dựa trên ngữ cảnh khi viết code trong terminal.",
+    "Giúp review code, tìm bugs và tạo pull request description một cách tự động.",
+    "Tích hợp vào quy trình làm việc để sinh code boilerplate nhanh chóng."
+  ],
+  "ideas": [
+    "Kết hợp với lazygit để tự động commit và push code kèm message do AI tạo ra.",
+    "Phát triển chế độ agent có thể hiểu ý cầu thủ bằng tiếng tự nhiên và sửa đổi file trực tiếp.",
+    "Tạo plugin cho IDE phổ biến để đồng bộ với terminal AI coding agent."
+  ],
+  "stars": 28839,
+  "starsToday": 40,
+  "language": "TypeScript",
+  "topics": [
+    "agentic",
+    "ai",
+    "ai-agent",
+    "ai-coding",
+    "cli",
+    "coding-agent",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "qwen",
+    "terminal",
+    "typescript"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-30T21:55:54.553Z"
+}

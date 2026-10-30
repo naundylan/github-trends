@@ -1,0 +1,30 @@
+{
+  "id": "e2cec3bd-6b6f-4cce-beb3-84c36f855d4c",
+  "repo": "tailscale/tailscale",
+  "url": "https://github.com/tailscale/tailscale",
+  "category": "Networking",
+  "summary": "Dịch vụ VPN an toàn sử dụng WireGuard với xác thực Two-Factor Authentication và Single Sign-On.",
+  "usecases": [
+    "Connecting remote employees to internal company networks securely.",
+    "Enabling secure access to home lab services from anywhere.",
+    "Simplifying Kubernetes cluster communication across distributed nodes."
+  ],
+  "ideas": [
+    "Integrate with identity providers like Okta or Azure AD for enterprise SSO.",
+    "Develop a mesh networking feature for IoT device clusters.",
+    "Create a monitoring dashboard for VPN traffic and connection health."
+  ],
+  "stars": 38368,
+  "starsToday": 60,
+  "language": "Go",
+  "topics": [
+    "wireguard",
+    "oauth",
+    "sso",
+    "2fa",
+    "vpn",
+    "tailscale"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-30T21:55:54.553Z"
+}

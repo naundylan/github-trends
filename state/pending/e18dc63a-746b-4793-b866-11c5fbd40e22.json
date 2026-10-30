@@ -1,0 +1,34 @@
+{
+  "id": "e18dc63a-746b-4793-b866-11c5fbd40e22",
+  "repo": "AdguardTeam/AdGuardHome",
+  "url": "https://github.com/AdguardTeam/AdGuardHome",
+  "category": "Networking",
+  "summary": "AdGuard Home là một DNS server rộng rãi để chặn quảng cáo và theo dõi theo mạng, cung cấp bảo mật và quyền riêng tư cho toàn bộ thiết bị trong mạng nội địa không cần cài đặt phần mềm trên từng thiết bị.",
+  "usecases": [
+    "Chặn quảng cáo và tracker cho toàn bộ mạng Wi-Fi tại nhà.",
+    "Phòng chống truy cập đến các domain độc hại và phishing.",
+    "Giảm tải băng thông bằng cách loại bỏ nội dung không cần thiết."
+  ],
+  "ideas": [
+    "Kết hợp với router để cung cấp DNS riêng tư cho mọi thiết bị IoT.",
+    "Phát triển plugin cho các hệ điều hành di động để tùy chỉnh bộ lọc DNS.",
+    "Tích hợp với hệ thống giám sát mạng để báo cáo về hoạt động truy cập."
+  ],
+  "stars": 37970,
+  "starsToday": 107,
+  "language": "TypeScript",
+  "topics": [
+    "dns",
+    "adblock",
+    "privacy",
+    "golang",
+    "adguard",
+    "open-source",
+    "dns-over-https",
+    "dns-over-tls",
+    "dns-over-quic",
+    "dnscrypt"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-30T21:55:54.553Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "86d3fe39-d30f-499e-bca4-ce8722c13c74",
+  "repo": "fatedier/frp",
+  "url": "https://github.com/fatedier/frp",
+  "category": "Networking",
+  "summary": "Frp là một proxy ngược nhanh giúp exposing server cục bộ nằm sau NAT hoặc tường lửa ra internet.",
+  "usecases": [
+    "Exposing local development server to public for testing.",
+    "Accessing home network services remotely behind NAT.",
+    "Bypassing firewall restrictions for internal tool access."
+  ],
+  "ideas": [
+    "Combine with WireGuard for secure P2P-like tunnel.",
+    "Use as internal service mesh for micro-frontends.",
+    "Deploy as edge proxy for IoT devices behind NAT."
+  ],
+  "stars": 110343,
+  "starsToday": 49,
+  "language": "Go",
+  "topics": [
+    "proxy",
+    "reverse-proxy",
+    "tunnel",
+    "nat",
+    "go",
+    "firewall",
+    "frp",
+    "expose",
+    "http-proxy",
+    "p2p"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-30T21:55:54.553Z"
+}

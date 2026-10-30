@@ -1,0 +1,23 @@
+{
+  "id": "c8c164c5-a712-4a6d-bf34-db89bc27b065",
+  "repo": "infosave2007/aivpn",
+  "url": "https://github.com/infosave2007/aivpn",
+  "category": "Security/Pentest",
+  "summary": "aivpn là VPN dựa trên AI giúp traffic không thể bị Deep Packet Inspection phát hiện.",
+  "usecases": [
+    "Bypassing government or corporate DPI censorship.",
+    "Securely transferring sensitive data on untrusted networks.",
+    "Protecting privacy against deep inspection by ISPs."
+  ],
+  "ideas": [
+    "Integrate with obfuscation techniques like V2Ray for enhanced stealth.",
+    "Use AI to dynamically adjust encryption based on network conditions.",
+    "Combine with mesh VPNs like Tailscale for dual-layer privacy."
+  ],
+  "stars": 768,
+  "starsToday": 49,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-30T21:55:54.553Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "adced14e-b058-42fe-8f64-5fbd5b8e5a2d",
+  "repo": "IamRamgarhia/Free-GST-Billing-Software",
+  "url": "https://github.com/IamRamgarhia/Free-GST-Billing-Software",
+  "category": "Productivity/Personal Tool",
+  "summary": "Free-GST-Billing-Software là một ứng dụng hóa đơn và kế toán mã nguồn mở miễn phí cho doanh nghiệp nhỏ tại Ấn Độ, cho phép tạo hóa đơn, báo cáo GST (GSTR-1/3B) và hoạt động offline hoàn toàn.",
+  "usecases": [
+    "Nhỏ và vừa kinh doanh tạo hóa đơn GST và báo cáo thuế hàng ngày/tháng một cách tự động.",
+    "Freelancer sử dụng làm công cụ quản lý hóa đơn và theo dõi thu nhập không cần kết nối internet.",
+    "Doanh nghiệp thay thế phần mềm trả phí như Tally với giải pháp chi phí thấp và bảo mật dữ liệu trên máy local."
+  ],
+  "ideas": [
+    "Tích hợp tính năng gửi email/SMS trực tiếp từ ứng dụng để gửi hóa đơn cho khách hàng.",
+    "Phát triển ứng dụng di động (PWA) đồng bộ hóa dữ liệu giữa máy tính và điện thoại.",
+    "Mở API để tích hợp với các ngân hàng hoặc cổng thanh toán cho thanh toán hóa đơn trực tiếp."
+  ],
+  "stars": 365,
+  "starsToday": 79,
+  "language": "JavaScript",
+  "topics": [
+    "gst",
+    "billing-software-open-source",
+    "gst-billing",
+    "hsn-code",
+    "india",
+    "invoice-generator",
+    "multi-currency",
+    "offline",
+    "pwa",
+    "tax-invoice",
+    "free-gst-software",
+    "gstr-1",
+    "gstr-3b",
+    "accounting-software",
+    "billing-software",
+    "free-invoice",
+    "invoice-builder",
+    "invoice-maker",
+    "small-business",
+    "tally-alternative"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-10-30T21:55:54.553Z"
+}
