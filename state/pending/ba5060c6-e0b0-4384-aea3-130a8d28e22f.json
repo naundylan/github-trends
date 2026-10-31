@@ -1,0 +1,34 @@
+{
+  "id": "ba5060c6-e0b0-4384-aea3-130a8d28e22f",
+  "repo": "Yeachan-Heo/oh-my-claudecode",
+  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống phối hợp đa agent cho Claude Code, cho phép teams phối tác tự động hóa tác vụ viết code với khả năng chạy song song và thực thi đa agent.",
+  "usecases": [
+    "Tự động hóa review code và sinh tài liệu cho dự án lớn bằng nhiều agent cùng lúc.",
+    "Phát triển pipeline CI/CD tích hợp Claude Code để sinh function/test code tự động.",
+    "Hỗ trợ team phát triển đồng thời trên các module khác nhau với các agent chuyên biệt."
+  ],
+  "ideas": [
+    "Tích hợp với hệ thống ticket management để agent tự động tạo issue từ bug report.",
+    "Tạo orchestrator riêng cho các ngôn ngữ lập trình cụ thể (Python, Go, JS) thông qua agent.",
+    "Sử dụng multi-agent orchestration để tự động refactor code base theo quy định team."
+  ],
+  "stars": 40461,
+  "starsToday": 29,
+  "language": "TypeScript",
+  "topics": [
+    "agentic-coding",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "oh-my-opencode",
+    "opencode",
+    "vibe-coding",
+    "automation",
+    "multi-agent-systems",
+    "parallel-execution"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-31T20:53:06.326Z"
+}

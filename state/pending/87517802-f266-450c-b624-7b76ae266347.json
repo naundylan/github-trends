@@ -1,0 +1,42 @@
+{
+  "id": "87517802-f266-450c-b624-7b76ae266347",
+  "repo": "herdrdev/herdr",
+  "url": "https://github.com/herdrdev/herdr",
+  "category": "Developer Tool",
+  "summary": "Runtime cho coding agents, cung cấp terminal, workspace management và multiplexer tích hợp để hỗ trợ tự động hóa phát triển code.",
+  "usecases": [
+    "Chạy các AI coding agents như Claude Code hay Codex trong môi trường terminal có quản lý workspace",
+    "Tự động hóa quy trình develop và test thông qua CLI có multiplexer",
+    "Cung cấp môi trường đồng nhất cho nhiều agent cùng làm việc trên cùng codebase"
+  ],
+  "ideas": [
+    "Tích hợp với local LMs để tạo IDE terminal thông minh",
+    "Xây plugin cho VS Code để kết nối với herdr runtime",
+    "Tạo hệ thống monitoring agent activities và resource usage"
+  ],
+  "stars": 47113,
+  "starsToday": 264,
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "agent-orchestration",
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "devtools",
+    "multiplexer",
+    "rust",
+    "terminal",
+    "terminal-multiplexer",
+    "terminal-ui",
+    "tmux",
+    "tui",
+    "workspace-manager"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-10-31T20:53:06.326Z"
+}

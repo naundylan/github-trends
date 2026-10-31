@@ -1,0 +1,44 @@
+{
+  "id": "63fe382d-bcc6-431f-8d3c-4945044ba588",
+  "repo": "betterleaks/betterleaks",
+  "url": "https://github.com/betterleaks/betterleaks",
+  "category": "Security/Pentest",
+  "summary": "Betterleaks là công cụ mã nguồn mở quét và phát hiện bí mật (secrets), credentials và dữ liệu nhạy cảm rò rỉ trong repository, lịch sử git và môi trường CI/CD.",
+  "usecases": [
+    "Quét mã nguồn trước commit để tránh lộ khóa API, mật khẩu vào repo công khai",
+    "Tích hợp trong pipeline CI/CD để quét liên tục các secret bị rò rỉ mọi commit",
+    "Giúp team bảo mật kiểm tra và xoá credentials đã lộ trên GitHub/GitLab"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý bí mật (Vault, AWS Secrets Manager) để tự động xoá hoặc xoay vòng secret bị phát hiện",
+    "Phát triển báo cáo bảo mật định kỳ gửi qua email/Slack cho team DevOps",
+    "Tạo dashboard trực quan hóa các điểm rò rỉ secret qua thời gian và repository"
+  ],
+  "stars": 2701,
+  "starsToday": 37,
+  "language": "Go",
+  "topics": [
+    "cicd",
+    "credentials",
+    "developer-tools",
+    "devops",
+    "devsecops",
+    "git",
+    "github",
+    "gitleaks",
+    "go",
+    "golang",
+    "secret",
+    "secrets",
+    "sast",
+    "security",
+    "security-tools",
+    "static-analysis",
+    "dynamic-analysis",
+    "secrets-management",
+    "secrets-detection",
+    "secrets-scanning"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-10-31T20:53:06.326Z"
+}

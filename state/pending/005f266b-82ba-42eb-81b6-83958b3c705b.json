@@ -1,0 +1,34 @@
+{
+  "id": "005f266b-82ba-42eb-81b6-83958b3c705b",
+  "repo": "IceWhaleTech/CasaOS",
+  "url": "https://github.com/IceWhaleTech/CasaOS",
+  "category": "Cloud/Hosting",
+  "summary": "CasaOS là hệ thống cá nhân cloud mã nguồn mở đơn giản, dễ sử dụng và thanh lịch, cung cấp giao diện trực quan để quản lý dịch vụ và dữ liệu trên thiết bị cá nhân.",
+  "usecases": [
+    "Quản lý và truy cập file, hình ảnh, video cá nhân từ mọi thiết bị trên mạng nội bộ.",
+    "Triển khai các dịch vụ self-hosted như Nextcloud, Plex, hoặc ứng dụng IoT một cách dễ dàng.",
+    "Cung cấp giao diện đơn giản cho người dùng không chuyên để cấu hình và giám sát server cá nhân."
+  ],
+  "ideas": [
+    "Kết hợp với Home Assistant để tạo personal cloud toàn diện cho hệ thống nhà thông minh.",
+    "Phát triển plugin sao lưu tự động lên các dịch vụ đám mây bên thứ ba như AWS S3 hoặc Google Drive.",
+    "Tạo hệ thống truy cập từ xa an toàn qua QR code hoặc xác thực biometric cho thiết bị di động."
+  ],
+  "stars": 37471,
+  "starsToday": 37,
+  "language": "Go",
+  "topics": [
+    "docker",
+    "golang",
+    "vuejs",
+    "home-automation",
+    "home-server",
+    "raspberry",
+    "self-hosted",
+    "iot",
+    "home-cloud",
+    "casaos"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-10-31T20:53:06.326Z"
+}

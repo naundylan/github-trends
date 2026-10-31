@@ -1,0 +1,27 @@
+{
+  "id": "4f43f57c-9617-4f9f-9759-4dca62f9731d",
+  "repo": "henrygd/beszel",
+  "url": "https://github.com/henrygd/beszel",
+  "category": "DevOps/CI-CD",
+  "summary": "Phần mềm giám sát server nhẹ giúp theo dõi sử dụng tài nguyên, thống kê lịch sử và cảnh báo trạng thái, phù hợp cho môi trường homelab và self-hosted.",
+  "usecases": [
+    "Theo dõi hiệu suất CPU, RAM, disk trên các server self-hosted trong mạng nội bộ.",
+    "Cảnh báo tự động khi tài nguyên vượt ngưỡng an toàn và hiển thị thống kê qua dashboard.",
+    "Tích hợp với Docker để giám sát container stats real-time."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống notification (Slack/Email) cho các sự kiện giám sát.",
+    "Phát triển plugin hiển thị metrics trên dashboard personal homelab.",
+    "Sử dụng dữ liệu lịch sử để dự đoán nhu cầu tài nguyên và tự scale dịch vụ."
+  ],
+  "stars": 26732,
+  "starsToday": 32,
+  "language": "Go",
+  "topics": [
+    "homelab",
+    "monitoring",
+    "self-hosted"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-10-31T20:53:06.326Z"
+}
