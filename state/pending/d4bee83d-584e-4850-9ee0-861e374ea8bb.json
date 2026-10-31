@@ -1,0 +1,35 @@
+{
+  "id": "d4bee83d-584e-4850-9ee0-861e374ea8bb",
+  "repo": "wailsapp/wails",
+  "url": "https://github.com/wailsapp/wails",
+  "category": "Desktop App",
+  "summary": "Wails là framework cho phép xây dựng ứng dụng desktop cross-platform bằng Go kết hợp với các thư viện web như Vue, React hoặc Svelte, mang lại hiệu suất cao và giao diện hiện đại.",
+  "usecases": [
+    "Phát triển ứng dụng desktop nội bộ cho doanh nghiệp trên macOS, Windows, Linux dùng Go backend.",
+    "Tạo các công cụ utility có giao diện web thân thiện nhưng performance của native app.",
+    "Cho phép team frontend xây dựng desktop app mà không cần deep knowledge về GUI native."
+  ],
+  "ideas": [
+    "Build dashboard quản lý hệ thống nội bộ hoàn toàn bằng Go + Vue, dễ dàng deploy.",
+    "Tạo ứng dụng note-taking hoặc viết ký tự offline chạy trên desktop.",
+    "Kết hợp AI LLM local để phát triển desktop assistant không cần kết nối internet."
+  ],
+  "stars": 36852,
+  "starsToday": 27,
+  "language": "Go",
+  "topics": [
+    "go",
+    "golang",
+    "vuejs",
+    "desktop-application",
+    "macos",
+    "windows",
+    "linux",
+    "angular",
+    "react",
+    "svelte",
+    "javascript"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-10-31T03:33:01.508Z"
+}

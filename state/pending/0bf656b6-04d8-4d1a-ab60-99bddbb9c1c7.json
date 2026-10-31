@@ -1,0 +1,34 @@
+{
+  "id": "0bf656b6-04d8-4d1a-ab60-99bddbb9c1c7",
+  "repo": "rivet-dev/rivet",
+  "url": "https://github.com/rivet-dev/rivet",
+  "category": "AI Agent/Automation",
+  "summary": "Framework actor cho workload có trạng thái, được xây dựng cho AI agents và ứng dụng cộng tác, hỗ trợ durable execution và realtime collaboration.",
+  "usecases": [
+    "AI agents sử dụng Rivet Actors để duy trì trạng thái persistently giữa các lần gọi và tác vụ.",
+    "Các ứng dụng cộng tác realtime cần durable execution để không mất tiến độ khi server restart hoặc network interruption.",
+    "Xây dựng serverless functions có state mà không cần quản lý database phức tạp nhờ durable-objects và FoundationDB integration."
+  ],
+  "ideas": [
+    "Áp dụng mô hình actor cho hệ thống multi-agent coordination trong môi trường Cloudflare Workers.",
+    "Tích hợp với FoundationDB để xây dựng ứng dụng tài chính đòi hỏi tính nhất quán cao (strong consistency).",
+    "Tạo giao diện quản lý visual cho actor states, giúp developers theo dõi luồng thực thi của AI workloads."
+  ],
+  "stars": 6529,
+  "starsToday": 21,
+  "language": "Rust",
+  "topics": [
+    "multiplayer",
+    "rust",
+    "actor",
+    "actors",
+    "cloudflare-durable-objects",
+    "durable-objects",
+    "foundationdb",
+    "realtime",
+    "serverless",
+    "cloudflare"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-31T03:33:01.508Z"
+}

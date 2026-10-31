@@ -1,0 +1,30 @@
+{
+  "id": "9adfa4e2-89d6-4568-ba8c-b7d628c95008",
+  "repo": "mvanhorn/cli-printing-press",
+  "url": "https://github.com/mvanhorn/cli-printing-press",
+  "category": "CLI Tool",
+  "summary": "Công cụ CLI được thiết kế cho AI agents, tổng hợp tính năng từ nhiều công cụ cạnh tranh và cung cấp tìm kiếm offline, đồng bộ SQLite và các lệnh có insight kép.",
+  "usecases": [
+    "AI agents dùng để truy vấn và tổng hợp dữ liệu từ nhiều API nguồn một cách không cần kết nối liên tục.",
+    "Nhóm phát triển dùng để tạo CLI generator tự động hóa quy trình làm việc dựa trên định nghĩa OpenAPI.",
+    "Các dự án cần tìm kiếm offline và đồng bộ SQLite có thể dùng làm nền tảng cho ứng dụng desktop hoặc edge computing."
+  ],
+  "ideas": [
+    "Kết hợp với các framework AI agent như AutoGen hoặc LangChain để cung cấp khả năng truy cập API thông minh.",
+    "Phát triển plugin cho VS Code để hiển thị kết quả tìm kiếm và insight trực tiếp trong editor.",
+    "Sử dụng SQLite sync để xây dựng ứng dụng offline-first cho môi trường có kết nối không ổn định."
+  ],
+  "stars": 4896,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "cli",
+    "cli-generator",
+    "developer-tools",
+    "golang",
+    "openapi"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-31T03:33:01.508Z"
+}

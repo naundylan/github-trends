@@ -1,0 +1,23 @@
+{
+  "id": "6ed056ad-14f1-40ef-991a-5e296f399cae",
+  "repo": "daeuniverse/honk",
+  "url": "https://github.com/daeuniverse/honk",
+  "category": "Networking",
+  "summary": "Honk là một công cụ mạng mã nguồn mở viết bằng Rust, được thiết kế dựa trên ý tưởng của dae và sing-box, cung cấp khả năng proxy và rule engine mạnh mẽ.",
+  "usecases": [
+    "Dùng làm proxy client để định tuyến traffic mạng với các rule phức tạp.",
+    "Triển khai làm giải pháp lightweight thay thế cho các proxy truyền thống như Xray hay V2Ray.",
+    "Tích hợp vào scripts tự động hóa mạng cho môi trường DevOps."
+  ],
+  "ideas": [
+    "Kết hợp với sing-box để tạo hệ thống proxy tự healing cho doanh nghiệp.",
+    "Phát triển CLI quản lý rule network trực quan cho người dùng không chuyên.",
+    "Sử dụng trên các thiết bị IoT cần kết nối an toàn với tài nguyên hạn chế."
+  ],
+  "stars": 975,
+  "starsToday": 133,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-10-31T03:33:01.508Z"
+}

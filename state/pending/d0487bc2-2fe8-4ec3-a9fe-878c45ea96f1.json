@@ -1,0 +1,31 @@
+{
+  "id": "d0487bc2-2fe8-4ec3-a9fe-878c45ea96f1",
+  "repo": "ethanplusai/harvey",
+  "url": "https://github.com/ethanplusai/harvey",
+  "category": "AI Agent/Automation",
+  "summary": "Harvey là AI sales agent tự hành sử dụng Claude hoặc Codex để tìm khách hàng tiềm năng, viết email lạnh, chạy chiến dịch, xử lý phản hồi và đặt lịch, tự động hóa quy trình bán hàng không cần khóa API.",
+  "usecases": [
+    "Tự động hóa tìm kiếm và tiếp cận khách hàng tiềm năng cho đội ngũ bán hàng.",
+    "Chạy các chiến dịch email cold outreach hàng loạt với nội dung cá nhân hóa.",
+    "Lên lịch cuộc họp và quản lý luồng tương tác với khách hàng tự động."
+  ],
+  "ideas": [
+    "Mở rộng thành AI representative tự động cho thương hiệu trên nhiều kênh tiếp cận khách hàng.",
+    "Kết hợp với dữ liệu CRM để personalize outreach dựa trên lịch sử mua hàng và hành vi.",
+    "Triển khai nội bộ cho doanh nghiệp muốn tự động hóa sales nhưng tuân thủ dữ liệu trong nội bộ."
+  ],
+  "stars": 3489,
+  "starsToday": 244,
+  "language": "Python",
+  "topics": [
+    "ai-agent",
+    "autonomous-agent",
+    "claude",
+    "cold-email",
+    "prospecting",
+    "python",
+    "sales-automation"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-31T03:33:01.508Z"
+}

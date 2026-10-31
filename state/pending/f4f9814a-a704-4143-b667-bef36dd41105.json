@@ -1,0 +1,33 @@
+{
+  "id": "f4f9814a-a704-4143-b667-bef36dd41105",
+  "repo": "kirodotdev/KiroCrew",
+  "url": "https://github.com/kirodotdev/KiroCrew",
+  "category": "AI Agent/Automation",
+  "summary": "KiroCrew là một workspace bền vững cho công việc phát triển phần mềm, có khả năng tự cải thiện và tiếp tục hoạt động vượt qua một phiên làm việc.",
+  "usecases": [
+    "Tự động hóa quy trình phát triển dài hạn với trạng thái dự án được duy trì giữa các phiên",
+    "Phát triển AI agent có thể tự viết, sửa code và cải thiện nó-même",
+    "Giúp team duy trì context và tiến độ công việc mà không cần bắt đầu lại từ đầu"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động deploy các thay đổi do agent đề xuất",
+    "Sử dụng làm nền tảng cho AI pair programmer cá nhân có memory bền vững",
+    "Triển khai trên môi trường local-first để kiểm soát dữ liệu developer"
+  ],
+  "stars": 4674,
+  "starsToday": 19,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "agents",
+    "kiro",
+    "ai-agent",
+    "ai-agents",
+    "automation",
+    "devtools",
+    "llm"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-31T03:33:01.508Z"
+}
