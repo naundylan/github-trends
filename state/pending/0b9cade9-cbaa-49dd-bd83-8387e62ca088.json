@@ -1,0 +1,31 @@
+{
+  "id": "0b9cade9-cbaa-49dd-bd83-8387e62ca088",
+  "repo": "fastrepl/anarlog",
+  "url": "https://github.com/fastrepl/anarlog",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "Ứng dụng note-taking local-first mã nguồn mở, thay thế tự do cho Granola AI, xây dựng trên Tauri/Rust để hiệu suất và quyền riêng tư cao.",
+  "usecases": [
+    "Ghi chép và tổ chức ý tưởng cá nhân với tìm kiếm nội bộ nhanh",
+    "Lưu trữ an toàn dữ liệu note trên thiết bị local mà không phụ thuộc cloud",
+    "Tạo workflow tư duy thông tin cá nhân tích hợp với các công cụ productivy"
+  ],
+  "ideas": [
+    "Tích hợp mô hình AI cục bộ để tự động tóm tắt hoặc phân loại notes",
+    "Phát triển tính năng đồng bộ an toàn giữa các thiết bị qua end-to-end encryption",
+    "Mở rộng plugin hệ thống kết nối với các công cụ quản lý dự án hoặc calendar"
+  ],
+  "stars": 9718,
+  "starsToday": 45,
+  "language": "Rust",
+  "topics": [
+    "local-first",
+    "notetaking",
+    "open-source",
+    "react",
+    "rust",
+    "tauri",
+    "typescript"
+  ],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-10-31T23:54:41.400Z"
+}

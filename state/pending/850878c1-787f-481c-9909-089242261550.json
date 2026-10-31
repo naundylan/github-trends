@@ -1,0 +1,28 @@
+{
+  "id": "850878c1-787f-481c-9909-089242261550",
+  "repo": "0x0funky/agent-sprite-forge",
+  "url": "https://github.com/0x0funky/agent-sprite-forge",
+  "category": "AI Agent/Automation",
+  "summary": "Kỹ năng Agent Python tạo sprite sheet 2D, khung PNG trong suốt và GIF hoạt hình từ các yêu cầu văn bản.",
+  "usecases": [
+    "Tự động tạo nhân vật và đồ vật cho game 2D từ mô tả văn bản.",
+    "Sản xuất bộ hoạt hình cho animation độc lập hoặc game không cần vẽ tay.",
+    "Tích hợp vào pipeline tạo game để nhanh chóng prototyping đồ họa."
+  ],
+  "ideas": [
+    "Phát triển hệ thống tạo ra các phong cách pixel art khác nhau dựa trên chủ đề (thủy thế, siêu thực, rétro).",
+    "Kết hợp với mô hình ngôn ngữ để tự động tạo câu chuyện và sprite tương ứng.",
+    "Xây dựng công cụ tạo tài sản cho game đa nền tảng, xuất ra nhiều định dạng cho engine khác nhau."
+  ],
+  "stars": 4764,
+  "starsToday": 51,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "codex",
+    "pixel-art",
+    "sprite-generator"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-31T23:54:41.400Z"
+}

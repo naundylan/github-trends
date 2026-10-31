@@ -1,0 +1,31 @@
+{
+  "id": "1fc782de-8bb0-4f18-8aec-ba6083b07535",
+  "repo": "ethanplusai/harvey",
+  "url": "https://github.com/ethanplusai/harvey",
+  "category": "AI Agent/Automation",
+  "summary": "Harvey là agente AI tự động hóa bán hàng, tìm kiếm khách hàng tiềm năng, viết email lạnh và lên lịch cuộc họp tự động bằng Claude hoặc Codex, hoạt động mà không cần API key bên ngoài.",
+  "usecases": [
+    "Tự động hóa quy trình cold email outreach cho doanh nghiệp",
+    "Giúp đội ngũ bán hàng tiết kiệm thời gian trên việc tìm prospect và lên lịch",
+    "Quản lý và theo dõi các chiến dịch sales outreach một cách toàn diện"
+  ],
+  "ideas": [
+    "Kết hợp với CRM để đồng bộ dữ liệu khách hàng trong thời gian thực",
+    "Phát triển module đa ngôn ngữ hỗ trợ thị trường quốc tế",
+    "Tích hợp với Slack hoặc Email để thông báo kết quả cuộc họp tự động"
+  ],
+  "stars": 3711,
+  "starsToday": 213,
+  "language": "Python",
+  "topics": [
+    "ai-agent",
+    "autonomous-agent",
+    "claude",
+    "cold-email",
+    "prospecting",
+    "python",
+    "sales-automation"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-31T23:54:41.400Z"
+}

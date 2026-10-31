@@ -1,0 +1,44 @@
+{
+  "id": "237332f0-b900-41cd-aac6-e9f32c35c76e",
+  "repo": "Orkas-AI/Orkas",
+  "url": "https://github.com/Orkas-AI/Orkas",
+  "category": "AI Agent/Automation",
+  "summary": "AI team local-first cho desktop điều phối 16 specialist agents tự động hóa mục vụ và workflows trên macOS & Windows.",
+  "usecases": [
+    "Tự động hóa quản lý dự án và lên lịch tác vụ hàng ngày",
+    "Hỗ trợ phát triển code thông qua phối hợp nhiều AI agent",
+    "Triển khai công cụ productiveness cá nhân hoặc cho đội ngũ nhỏ local an toàn dữ liệu"
+  ],
+  "ideas": [
+    "Tích hợp kết nối APIs bên ngoài (CRM, Slack, GitHub) thông qua built-in connectors",
+    "Tạo chế độ team mode cho nhiều user cùng điều phối cùng AI workforce",
+    "Phát triển module tự học và tinh chỉnh agent dựa trên feedback user"
+  ],
+  "stars": 6120,
+  "starsToday": 1118,
+  "language": "JavaScript",
+  "topics": [
+    "agent-collaboration",
+    "agent-orchestration",
+    "agent-team",
+    "ai-assistant",
+    "ai-team",
+    "ai-workflow",
+    "autonomous-agents",
+    "local-first",
+    "multi-agent",
+    "multi-agent-system",
+    "self-evolving-agents",
+    "agent-harness",
+    "claude-code-gui",
+    "claude-cowork",
+    "desktop-agent",
+    "agent-workflow",
+    "ai-automation",
+    "ai-employee",
+    "ai-productivity",
+    "task-automation"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-31T23:54:41.400Z"
+}
