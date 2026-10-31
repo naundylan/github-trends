@@ -1,0 +1,43 @@
+{
+  "id": "5c223b06-5b17-4f96-8a54-c5b7a4c68e36",
+  "repo": "calesthio/OpenMontage",
+  "url": "https://github.com/calesthio/OpenMontage",
+  "category": "AI/LLM",
+  "summary": "Hệ thống sản xuất video mã nguồn mở dựa trên AI agent, bao gồm nhiều pipeline và công cụ (100+ tools) để biến AI coding assistant thành studio sản xuất video hoàn chỉnh, hỗ trợ text-to-video, text-to-speech và génération d'images.",
+  "usecases": [
+    "Tự động tạo video promotional hoặc nội dung marketing từ các prompt text.",
+    "Sử dụng cho creators để generate nhanh draft video cho YouTube hoặc social media.",
+    "Tích hợp trong quy trình development để tự động generate video demo cho code repositories."
+  ],
+  "ideas": [
+    "Kết hợp với voice cloning để tạo video narrator tự động từ code comments.",
+    "Tự động hóa pipeline sản xuất video cho game dev (trailer, intro) dựa trên asset list.",
+    "Tạo hệ thống AI director điều phối nhiều agent để tạo phim ngắn dài dựa trên kịch bản."
+  ],
+  "stars": 73703,
+  "starsToday": 564,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "claude",
+    "copilot",
+    "cursor",
+    "elevenlabs",
+    "ffmpeg",
+    "flux",
+    "image-generation",
+    "open-source",
+    "openai",
+    "python",
+    "remotion",
+    "stable-diffusion",
+    "text-to-speech",
+    "text-to-video",
+    "video-generation",
+    "video-production"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-31T11:32:50.535Z"
+}

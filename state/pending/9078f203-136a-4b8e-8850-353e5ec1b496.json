@@ -1,0 +1,42 @@
+{
+  "id": "9078f203-136a-4b8e-8850-353e5ec1b496",
+  "repo": "herdrdev/herdr",
+  "url": "https://github.com/herdrdev/herdr",
+  "category": "AI Agent/Automation",
+  "summary": "Herdr là runtime cho coding agents, cung cấp giao diện terminal TUI và quản lý workspace để điều phối các agent AI một cách mượt mà.",
+  "usecases": [
+    "Quản lý và điều phối nhiều coding agents cùng lúc trong terminal",
+    "Tích hợp workspace với agent AI để tự động hóa tác vụ phát triển",
+    "Cung cấp giao diện TUI tương tác để theo dõi và kiểm soát luồng làm việc agent"
+  ],
+  "ideas": [
+    "Kết hợp LLM local để tạo môi trường tự viết code và debug tự động",
+    "Phát triển plugin VS Code giao tiếp với herdr runtime",
+    "Xây dựng hệ thống tự động test và refactor code thông qua agent"
+  ],
+  "stars": 47022,
+  "starsToday": 264,
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "agent-orchestration",
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "devtools",
+    "multiplexer",
+    "rust",
+    "terminal",
+    "terminal-multiplexer",
+    "terminal-ui",
+    "tmux",
+    "tui",
+    "workspace-manager"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-31T11:32:50.535Z"
+}

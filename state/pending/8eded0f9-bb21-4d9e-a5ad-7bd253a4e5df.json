@@ -1,0 +1,23 @@
+{
+  "id": "8eded0f9-bb21-4d9e-a5ad-7bd253a4e5df",
+  "repo": "THU-MAIC/OpenMAIC",
+  "url": "https://github.com/THU-MAIC/OpenMAIC",
+  "category": "AI Agent/Automation",
+  "summary": "OpenMAIC cung cấp một phòng học tương tác đa agente, cho phép người dùng trải nghiệm học tập và tự động hóa qua nhiều agente AI cùng lúc.",
+  "usecases": [
+    "Hỗ trợ giảng dạy tự động hóa với các agente chuyên môn hóa",
+    "Tạo môi trường học tập thử nghiệm cho các dự án multi-agent",
+    "Sử dụng trong nghiên cứu về tương tác giữa các agente AI trong giáo dục"
+  ],
+  "ideas": [
+    "Kết hợp với VR/AR để tạo trải nghiệm học tập沉浸 (immersive)",
+    "Phát triển agente chủ đề về môi trường để giáo dục sinh viên về tác động xanh",
+    "Tạo hệ thống cấp phép và theo dõi tiến độ học tập qua blockchain"
+  ],
+  "stars": 41986,
+  "starsToday": 115,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-31T11:32:50.535Z"
+}

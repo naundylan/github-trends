@@ -1,0 +1,35 @@
+{
+  "id": "fd406682-d098-430b-a240-fae87bfbb268",
+  "repo": "Nasiko-Labs/nasiko",
+  "url": "https://github.com/Nasiko-Labs/nasiko",
+  "category": "AI Agent/Automation",
+  "summary": "Nasiko là runtime mã nguồn mở cho AI agents, tập trung vào bảo mật, hỗ trợ multi-agent và cơ chế tokenomics cho các hệ thống agent phức tạp.",
+  "usecases": [
+    "Triển khai hệ thống multi-agent cho tác vụ phức tạp như lập trình tự động",
+    "Cung cấp layer bảo mật agent-security để kiểm soát quyền truy cập và hành vi agent",
+    "Quản lý tokenomics và chi phí chạy agent LLM trong production"
+  ],
+  "ideas": [
+    "Xây dựng marketplace agent để đăng ký và giao dịch token dựa trên hiệu suất",
+    "Tích hợp nasiko với LangChain để mở rộng khả năng điều phối",
+    "Phát triển hệ thống monitoring real-time cho hành vi và tài nguyên agent"
+  ],
+  "stars": 10838,
+  "starsToday": 215,
+  "language": "Rust",
+  "topics": [
+    "agent-security",
+    "ai",
+    "ai-agents",
+    "cli",
+    "hacktoberfest",
+    "llms",
+    "mcp-gateway",
+    "multi-agent",
+    "rust",
+    "tokenomics",
+    "tokenops"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-31T11:32:50.535Z"
+}

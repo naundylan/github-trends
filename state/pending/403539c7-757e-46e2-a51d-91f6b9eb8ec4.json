@@ -1,0 +1,33 @@
+{
+  "id": "403539c7-757e-46e2-a51d-91f6b9eb8ec4",
+  "repo": "The-PR-Agent/pr-agent",
+  "url": "https://github.com/The-PR-Agent/pr-agent",
+  "category": "AI Agent/Automation",
+  "summary": "Pr-agent là một trợ lý AI tự động hóa việc review code pull request, giúp phát hiện bugs, cải thiện chất lượng code và giảm tải cho nhà phát triển.",
+  "usecases": [
+    "Tự động review pull request trong các dự án open source",
+    "Giúp lập trình viên mới học cách viết code tốt thông qua feedback tức thời",
+    "Tích hợp vào CI/CD để kiểm tra chất lượng code trước khi merge"
+  ],
+  "ideas": [
+    "Kết hợp với các model AI cục bộ (local LLMs) để duy trì dữ liệu riêng",
+    "Phát triển chế độ review đa ngôn ngữ cho dự án quốc tế",
+    "Tạo dashboard thống kê các vấn đề thường gặp trong codebase"
+  ],
+  "stars": 13820,
+  "starsToday": 118,
+  "language": "Python",
+  "topics": [
+    "openai",
+    "pull-request",
+    "code-review",
+    "pull-requests",
+    "coding-assistant",
+    "devtools",
+    "ai",
+    "anthropic",
+    "ollama"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-31T11:32:50.535Z"
+}

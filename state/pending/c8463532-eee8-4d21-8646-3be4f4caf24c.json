@@ -1,0 +1,23 @@
+{
+  "id": "c8463532-eee8-4d21-8646-3be4f4caf24c",
+  "repo": "openai/codex",
+  "url": "https://github.com/openai/codex",
+  "category": "CLI Tool",
+  "summary": "Coding agent nhẹ chạy trong terminal, giúp tự động hoàn thành tác vụ lập trình thông qua lệnh dòng lệnh.",
+  "usecases": [
+    "Tự động hoàn thành code boilerplate và hàm thường xuyên mà không cần rời terminal.",
+    "Giúp review code và sửa lỗi nhanh chóng thông qua các lệnh tự động trong môi trường CLI.",
+    "Tích hợp vào CI/CD pipeline để tự động generate code hoặc fix issues trong quá trình phát triển."
+  ],
+  "ideas": [
+    "Kết hợp với model LLM khác để tạo ra coding assistant cá nhân hoàn toàn chạy offline và tùy chỉnh.",
+    "Sử dụng để tự động hóa migration code từ ngôn ngữ này sang ngôn ngữ khác trong dự án legacy.",
+    "Phát triển plugin cho IDE để đồng bộ trạng thái giữa terminal và editor code."
+  ],
+  "stars": 132343,
+  "starsToday": 702,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-10-31T11:32:50.535Z"
+}
