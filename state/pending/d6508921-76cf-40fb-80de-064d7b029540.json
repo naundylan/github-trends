@@ -1,0 +1,44 @@
+{
+  "id": "d6508921-76cf-40fb-80de-064d7b029540",
+  "repo": "Orkas-AI/Orkas",
+  "url": "https://github.com/Orkas-AI/Orkas",
+  "category": "AI Agent/Automation",
+  "summary": "Orkas là đội ngũ AI local-first cho desktop, Commander chuyển mục tiêu thành to-dos và phối hợp 16 specialist agent (Claude Code, Codex, Hermes) cùng tự động hóa lịch trình và kết nối.",
+  "usecases": [
+    "Quản lý dự án và phân bổ tác vụ cho 16 specialist agent tự động.",
+    "Tự động hóa workflow hàng ngày trên macOS/Windows.",
+    "Tích hợp model AI tùy chỉnh cho tác vụ phức tạp trên desktop."
+  ],
+  "ideas": [
+    "Triển khai công nhân AI cá nhân cho từng thành viên trong công ty nhỏ.",
+    "Kết hợp Home Assistant/IoT điều khiển nhà thông minh qua lệnh tự nhiên.",
+    "Tạo hệ thống review code tự động với nhiều agent chuyên biệt cùng kiểm tra."
+  ],
+  "stars": 5977,
+  "starsToday": 1118,
+  "language": "JavaScript",
+  "topics": [
+    "agent-collaboration",
+    "agent-orchestration",
+    "agent-team",
+    "ai-assistant",
+    "ai-team",
+    "ai-workflow",
+    "autonomous-agents",
+    "local-first",
+    "multi-agent",
+    "multi-agent-system",
+    "self-evolving-agents",
+    "agent-harness",
+    "claude-code-gui",
+    "claude-cowork",
+    "desktop-agent",
+    "agent-workflow",
+    "ai-automation",
+    "ai-employee",
+    "ai-productivity",
+    "task-automation"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-31T16:45:30.448Z"
+}

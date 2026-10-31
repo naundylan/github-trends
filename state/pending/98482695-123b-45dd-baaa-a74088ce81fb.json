@@ -1,0 +1,36 @@
+{
+  "id": "98482695-123b-45dd-baaa-a74088ce81fb",
+  "repo": "mrdoob/three.js",
+  "url": "https://github.com/mrdoob/three.js",
+  "category": "Game Engine",
+  "summary": "Thư viện JavaScript 3D mạnh mẽ nhất cho web, hỗ trợ WebGL/WebGPU/WebXR để render đồ họa 3D, VR/AR trực tiếp trên trình duyệt.",
+  "usecases": [
+    "Xây dựng trò chơi 3D chạy trên trình duyệt không cần cài đặt",
+    "Tạo trải nghiệm thực tế ảo (VR) và thực tế tăng cường (AR) cho web",
+    "Trực quan hóa dữ liệu 3D, mô phỏng khoa học, cấu hình sản phẩm tương tác"
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động sinh nội dung 3D từ văn bản (text-to-3D) cho game indie",
+    "Tích hợp với WebGPU compute shaders để chạy mô phỏng vật lý/fluid real-time trên GPU",
+    "Xây dựng framework metaverse nhẹ dựa trên three.js + WebRTC cho hội thảo 3D đa người dùng"
+  ],
+  "stars": 117290,
+  "starsToday": 61,
+  "language": "JavaScript",
+  "topics": [
+    "javascript",
+    "3d",
+    "virtual-reality",
+    "augmented-reality",
+    "webgl",
+    "webgl2",
+    "webgpu",
+    "webxr",
+    "webaudio",
+    "canvas",
+    "svg",
+    "html5"
+  ],
+  "notePath": "notes/Game-Engine.md",
+  "createdAt": "2026-10-31T16:45:30.448Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "79ea4796-5ef1-4755-a9f1-c767ffc27f09",
+  "repo": "maillab/cloud-mail",
+  "url": "https://github.com/maillab/cloud-mail",
+  "category": "Serverless",
+  "summary": "Nền tảng dịch vụ email all-in-one chạy trên Cloudflare Workers, cung cấp gửi/nhận email, quản lý domain, webmail UI mà không cần server truyền thống.",
+  "usecases": [
+    "Triển khai email server riêng cho domain cá nhân/doanh nghiệp với chi phí gần như bằng 0",
+    "Xây dựng hệ thống email marketing/transactional email serverless tự quản lý",
+    "Tạo email alias, catch-all, forwarding rules tự động cho nhiều project side-project"
+  ],
+  "ideas": [
+    "Kết hợp với AI để phân loại, tóm tắt, trả lời tự động email đến (smart inbox)",
+    "Mở rộng thành platform email-as-a-service cho SaaS: multi-tenant, billing, API quản lý mailbox",
+    "Tích hợp Webhook + Queue (Cloudflare Queues) để xử lý email bất đồng bộ, retry, dead-letter cho hệ thống phân tán"
+  ],
+  "stars": 15187,
+  "starsToday": 60,
+  "language": "JavaScript",
+  "topics": [
+    "email",
+    "cloudflare-email",
+    "cloudflare",
+    "cloudflare-workers",
+    "mail"
+  ],
+  "notePath": "notes/Serverless.md",
+  "createdAt": "2026-10-31T16:45:30.448Z"
+}

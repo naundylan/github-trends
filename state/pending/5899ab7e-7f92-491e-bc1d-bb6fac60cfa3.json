@@ -1,0 +1,28 @@
+{
+  "id": "5899ab7e-7f92-491e-bc1d-bb6fac60cfa3",
+  "repo": "0x0funky/agent-sprite-forge",
+  "url": "https://github.com/0x0funky/agent-sprite-forge",
+  "category": "AI/LLM",
+  "summary": "Công cụ AI tạo ra các bản đồ sprite 2D, khung PNG trong suốt và GIF động từ các lệnh nhắc, phục vụ cho tạo đồ họa pixel art.",
+  "usecases": [
+    "Tự động tạo tài nguyên sprite cho game indie không cần thiết kế thủ công",
+    "Sinh hoạt ảnh pixel art và biểu tượng từ prompts sáng tạo",
+    "Tích hợp vào engine game hoặc toolchain tạo đồ họa tự động"
+  ],
+  "ideas": [
+    "Tạo hệ thống tự động sinh nhân vật và đồ chơi cho game dựa trên chủ đề",
+    "Kết hợp với AI tạo cảnh để tạo ra bộ assets môi trường nhất quán",
+    "Phát triển tool cho cộng đồng modding để tạo sprite nhanh chóng"
+  ],
+  "stars": 4740,
+  "starsToday": 51,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "codex",
+    "pixel-art",
+    "sprite-generator"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-10-31T16:45:30.448Z"
+}

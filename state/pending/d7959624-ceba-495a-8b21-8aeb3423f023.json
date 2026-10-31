@@ -1,0 +1,36 @@
+{
+  "id": "d7959624-ceba-495a-8b21-8aeb3423f023",
+  "repo": "milind-soni/OpenMausBot",
+  "url": "https://github.com/milind-soni/OpenMausBot",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án mã nguồn mở Grok Bot alternative với máy ảo cho bots, hỗ trợ tự động hóa AI qua Claude Code, Codex trong môi trường self-hosted.",
+  "usecases": [
+    "Tự động hóa viết code và debug thông qua AI agents.",
+    "Thực hiện computer use cho tác vụ lặp lại trên desktop/lập trình.",
+    "Deploy self-hosted AI bot cho dự án yêu cầu bảo mật dữ liệu."
+  ],
+  "ideas": [
+    "Tạo virtual employee self-hosted cho startup sử dụng các LLM nền tảng.",
+    "Phát triển VS Code plugin cho bot thực hiện thao tác code trực tiếp.",
+    "Áp dụng cho nghiên cứu khoa học tự động thu thập và phân tích dữ liệu."
+  ],
+  "stars": 9346,
+  "starsToday": 1304,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "computer-use",
+    "docker",
+    "electron",
+    "expo",
+    "self-hosted",
+    "typescript",
+    "grok-bot",
+    "grok",
+    "grok-bot-alternative"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-10-31T16:45:30.448Z"
+}
