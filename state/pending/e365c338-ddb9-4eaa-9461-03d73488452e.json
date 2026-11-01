@@ -1,0 +1,44 @@
+{
+  "id": "e365c338-ddb9-4eaa-9461-03d73488452e",
+  "repo": "ifixai-ai/iFixAi",
+  "url": "https://github.com/ifixai-ai/iFixAi",
+  "category": "AI Agent/Automation",
+  "summary": "iFixAi là công cụ đánh giá và kiểm soát độc lập cho các AI agent, cho phép xác minh hành vi agent trong vòng 120 giây, đảm bảo tuân thủ an toàn và mục tiêu được định hướng.",
+  "usecases": [
+    "Kiểm tra tính trung thực (hallucination detection) cho các AI agent trong sản xuất",
+    "Đánh giá tuân thủ chính sách AI như EU AI Act và NIST AI RMF",
+    "Giám sát và auditing hành vi agent tự động trong môi trường doanh nghiệp"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để auditing tự động mỗi khi deploy agent mới",
+    "Phát triển dashboard trực quan cho risk assessment của nhiều agent cùng lúc",
+    "Sử dụng kết quả auditing để fine-tune hoặc điều chỉnh prompt của agent"
+  ],
+  "stars": 42343,
+  "starsToday": 1654,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "diagnostic-tool",
+    "agent-evaluation",
+    "ai-alignment",
+    "ai-evaluation",
+    "ai-governance",
+    "ai-safety",
+    "cli",
+    "eu-ai-act",
+    "hallucination-detection",
+    "iso-42001",
+    "llm-evaluation",
+    "llm-security",
+    "nist-ai-rmf",
+    "owasp-llm",
+    "prompt-injection",
+    "python",
+    "responsible-ai",
+    "risk-management",
+    "risk-assessment"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-01T19:21:28.053Z"
+}

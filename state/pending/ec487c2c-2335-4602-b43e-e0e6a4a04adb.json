@@ -1,0 +1,28 @@
+{
+  "id": "ec487c2c-2335-4602-b43e-e0e6a4a04adb",
+  "repo": "hyprwm/Hyprland",
+  "url": "https://github.com/hyprwm/Hyprland",
+  "category": "Desktop App",
+  "summary": "Hyprland là một trình soạn thảo cửa sổ động, có thể tùy chỉnh cao, hoạt động trên Wayland, mang lại hiệu suất cao mà vẫn đảm bảo tính thẩm mỹ.",
+  "usecases": [
+    "Sử dụng Hyprland làm môi trường làm việc chính cho lập trình viên cần hiệu suất cao và tùy biến giao diện.",
+    "Triển khai trên máy tính cấu hình thấp để thay thế các WM truyền thống.",
+    "Tạo ra một desktop environment tích hợp cho các hệ thống nhúng hoặc kiosk."
+  ],
+  "ideas": [
+    "Tạo các theme tùy chỉnh dựa trên chủ đề công ty cho môi trường doanh nghiệp.",
+    "Tích hợp với các script tự động hóa để thay đổi động layout theo ứng dụng đang sử dụng.",
+    "Phát triển các plugin mở rộng hỗ trợ các tính năng đặc biệt như quản lý cửa sổ đa monitor, hỗ trợ cho các thiết bị ngoại vi."
+  ],
+  "stars": 39286,
+  "starsToday": 91,
+  "language": "C++",
+  "topics": [
+    "wayland",
+    "wayland-compositor",
+    "compositor",
+    "cpp26"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-01T19:21:28.053Z"
+}

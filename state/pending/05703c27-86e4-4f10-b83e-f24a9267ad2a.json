@@ -1,0 +1,34 @@
+{
+  "id": "05703c27-86e4-4f10-b83e-f24a9267ad2a",
+  "repo": "netbirdio/netbird",
+  "url": "https://github.com/netbirdio/netbird",
+  "category": "Networking",
+  "summary": "Zero Trust network access platform using peer-to-peer WireGuard to securely connect people, machines, and AI agents across any network.",
+  "usecases": [
+    "Secure remote access to internal services without VPNs",
+    "Connect distributed microservices and edge devices in a mesh network",
+    "Enable AI agent collaboration across untrusted networks"
+  ],
+  "ideas": [
+    "Combine with Tailscale or Headscale for hybrid mesh networking",
+    "Build a secure P2P collaboration platform for distributed teams",
+    "Integrate with identity providers like OIDC for seamless Zero Trust onboarding"
+  ],
+  "stars": 30522,
+  "starsToday": 84,
+  "language": "Go",
+  "topics": [
+    "wireguard",
+    "wireguard-vpn",
+    "vpn",
+    "nat-traversal",
+    "mesh-networks",
+    "mesh",
+    "golang",
+    "wiretrustee",
+    "zero-trust-network-access",
+    "netbird"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-11-01T19:21:28.053Z"
+}

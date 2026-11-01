@@ -1,0 +1,36 @@
+{
+  "id": "9bc94227-f0c2-446a-b3ca-ff989294b19a",
+  "repo": "oraios/serena",
+  "url": "https://github.com/oraios/serena",
+  "category": "AI Agent/Automation",
+  "summary": "Serena là một bộ công cụ MCP mạnh mẽ cho phép truy xuất và sửa đổi ngữ nghĩa trong lập trình, đóng vai trò như IDE cho các agent AI, hỗ trợ tự động hóa tác vụ viết code với khả năng hiểu ngữ cảnh sâu.",
+  "usecases": [
+    "Tự động hoàn thành và sửa đổi code dựa trên ngữ nghĩa dự án.",
+    "Trợ lý AI điều khiển IDE để thực hiện các tác vụ refactor phức tạp.",
+    "Tích hợp với agent AI (như Claude, CodeX) để thực hiện lập trình vibe-coding."
+  ],
+  "ideas": [
+    "Kết hợp với local LLM để tạo ra một IDE hoàn toàn tự động hóa.",
+    "Phát triển plugin cho VS Code để Serena quản lý toàn bộ luồng workflow code.",
+    "Sử dụng cho pair programming tự động giữa nhiều agent AI."
+  ],
+  "stars": 30983,
+  "starsToday": 57,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "vibe-coding",
+    "mcp-server",
+    "ai-coding",
+    "language-server",
+    "programming",
+    "claude",
+    "claude-code",
+    "codex",
+    "ide",
+    "jetbrains"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-01T19:21:28.053Z"
+}

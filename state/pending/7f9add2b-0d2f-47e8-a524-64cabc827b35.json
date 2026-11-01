@@ -1,0 +1,44 @@
+{
+  "id": "7f9add2b-0d2f-47e8-a524-64cabc827b35",
+  "repo": "scenario-labs/skills",
+  "url": "https://github.com/scenario-labs/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án cung cấp các kỹ năng giúp AI agent tạo ra hình ảnh, video, âm thanh và mô hình 3D sẵn sàng cho sản xuất, chọn mô hình phù hợp, ước tính chi phí và duy trì tính nhất quán thương hiệu thông qua Scenario MCP.",
+  "usecases": [
+    "Tự động hóa quy trình tạo tài sản cho game: tạo hình 3D, texture, animation từ AI.",
+    "Tích hợp các mô hình AI đa phương tiện trong ứng dụng doanh nghiệp với kiểm soát chi phí.",
+    "Xây dựng pipeline sản xuất media kết hợp nhiều mô hình AI và duy trì thương hiệu."
+  ],
+  "ideas": [
+    "Kết hợp skills này với hệ thống CI/CD để tự động đánh giá chi phí khi triển khai mô hình mới.",
+    "Tích hợp với các nền tảng thiết kế như Figma để tạo ra các asset dựa trên AI trực tiếp trong quy trình thiết kế.",
+    "Xây dựng một marketplace cho các kỹ năng AI chuyên dụng, cho phép người dùng mua và bán các prompt hoặc model skills."
+  ],
+  "stars": 1445,
+  "starsToday": 98,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "blender",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "game-assets",
+    "game-development",
+    "generative-ai",
+    "image-generation",
+    "mcp",
+    "model-context-protocol",
+    "skills-sh",
+    "unity",
+    "unreal-engine",
+    "video-generation",
+    "zbrush",
+    "maya",
+    "3d-models",
+    "ai-agents",
+    "ai-art"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-01T19:21:28.053Z"
+}

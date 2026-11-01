@@ -1,0 +1,30 @@
+{
+  "id": "6f3798f1-24c6-4d1f-966e-295b78629fdd",
+  "repo": "motiondivision/motion",
+  "url": "https://github.com/motiondivision/motion",
+  "category": "UI/Component Library",
+  "summary": "Motion là thư viện animation hiện đại cho React và JavaScript, cung cấp các hiệu ứng mượt mà dựa trên physics như spring, giúp tạo animation động cho giao diện web một cách dễ dàng.",
+  "usecases": [
+    "Tạo animation động cho các component UI trong ứng dụng React.",
+    "Thêm hiệu ứng chuyển cảnh mượt mà (page transitions) cho web apps.",
+    "Thực hiện animation phức tạp dựa trên physics (spring, drag, drop) cho giao diện."
+  ],
+  "ideas": [
+    "Kết hợp với Tailwind CSS để tạo animation hệ thống hoàn chỉnh cho design system.",
+    "Phát triển bộ component animation reusable cho các dự án mở.",
+    "Sử dụng trong storytelling web hoặc website landing page có tương tác cao."
+  ],
+  "stars": 34771,
+  "starsToday": 57,
+  "language": "TypeScript",
+  "topics": [
+    "animation",
+    "animation-js",
+    "motion",
+    "react",
+    "reactanimations",
+    "spring"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-11-01T19:21:28.053Z"
+}

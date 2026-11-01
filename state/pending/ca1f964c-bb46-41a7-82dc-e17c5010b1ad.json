@@ -1,0 +1,35 @@
+{
+  "id": "ca1f964c-bb46-41a7-82dc-e17c5010b1ad",
+  "repo": "kornia/kornia",
+  "url": "https://github.com/kornia/kornia",
+  "category": "Computer Vision",
+  "summary": "Geometric computer vision library for spatial AI, providing differentiable computer vision primitives optimized for PyTorch.",
+  "usecases": [
+    "Differentiable image processing in PyTorch pipelines",
+    "Spatial AI and robotics perception models",
+    "Geometric deep learning and computer vision research prototyping"
+  ],
+  "ideas": [
+    "Integrate with multimodal LLM agents for visual reasoning",
+    "Build real-time augmented reality rendering pipelines",
+    "Create self-supervised learning frameworks for 3D perception"
+  ],
+  "stars": 11719,
+  "starsToday": 88,
+  "language": "Python",
+  "topics": [
+    "computer-vision",
+    "image-processing",
+    "machine-learning",
+    "pytorch",
+    "deep-learning",
+    "neural-network",
+    "python",
+    "artificial-intelligence",
+    "robotics",
+    "spatial-ai",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-11-01T19:21:28.053Z"
+}
