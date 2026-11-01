@@ -1,0 +1,23 @@
+{
+  "id": "cd21f339-0504-410f-8da1-965735f3a760",
+  "repo": "anthropics/claude-code",
+  "url": "https://github.com/anthropics/claude-code",
+  "category": "AI Agent/Automation",
+  "summary": "Claude Code là công cụ agentic trong terminal hiểu codebase và tự động hóa tác vụ phát triển thông qua lệnh tự nhiên.",
+  "usecases": [
+    "Tự động refactor code lặp lại trên toàn codebase.",
+    "Sinh boilerplate code hoặc unit test từ mô tả tự nhiên.",
+    "Quản lý git workflows và branch thông qua lệnh thoại."
+  ],
+  "ideas": [
+    "Kết hợp Claude Code với Terraform để deploy infrastructure bằng cách mô tả state mong muốn bằng ngôn ngữ tự nhiên.",
+    "Xây dựng CLI kếtả năng lực agentic Claude Code với IaC Terraform cho tự động hóa full-stack.",
+    "Tạo trợ lý kiến thức sử dụng Claude Code giải thích code legacy và đề xuất cấu hình Terraform để hiện đại hóa infrastructure."
+  ],
+  "stars": 154128,
+  "starsToday": 146,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-01T12:30:31.001Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "33e37b0c-3fcb-43c2-8818-efb6277d712c",
+  "repo": "upscayl/upscayl",
+  "url": "https://github.com/upscayl/upscayl",
+  "category": "Desktop App",
+  "summary": "Ứng dụng AI miễn phí và mã nguồn mở để tăng kích thước và cải thiện chất lượng ảnh trên desktop Linux, macOS và Windows.",
+  "usecases": [
+    "Tăng kích thước ảnh low-resolution cho in ấn chất lượng cao.",
+    "Phát triển lại và làm rõ các ảnh cũ, xám hoặc nén nhiều.",
+    "Tối ưu hóa ảnh cho web và truyền tải mà không mất chi tiết."
+  ],
+  "ideas": [
+    "Tích hợp vào quy trình tự động hóa xử lý ảnh cho các nhà ảnh gia sản xuất.",
+    "Phát triển bot Telegram hoặc Discord để tăng kích thước ảnh trên-the-fly.",
+    "Kết hợp với các mô hình AI tạo ảnh (như Stable Diffusion) để tăng độ phân giải cho kết quả tạo ra."
+  ],
+  "stars": 51548,
+  "starsToday": 134,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "esrgan",
+    "image",
+    "upscale",
+    "electron",
+    "gigapixel",
+    "gigapixel-images",
+    "image-upscaling",
+    "topaz",
+    "upscalerimage",
+    "upscayl"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-01T12:30:31.001Z"
+}

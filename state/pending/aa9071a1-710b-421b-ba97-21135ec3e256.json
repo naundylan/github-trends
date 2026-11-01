@@ -1,0 +1,28 @@
+{
+  "id": "aa9071a1-710b-421b-ba97-21135ec3e256",
+  "repo": "techjarves/Portable-Local-Studio",
+  "url": "https://github.com/techjarves/Portable-Local-Studio",
+  "category": "Desktop App",
+  "summary": "Ứ dụng desktop cross-platform cho Windows, Linux, macOS cung cấp GUI zero-setup cho sinh hình ảnh bằng AI, chạy LLMs GGUF và TTS/STS cục bộ.",
+  "usecases": [
+    "Sinh hình ảnh bằng AI và chạy LLMs cục bộ trên bất kỳ máy tính nào không cần kết nối internet.",
+    "Công cụ nhanh để test và tương tác với các mô hình GGUF cho phát triển viên.",
+    "Cung cấp khả năng Text-to-Speech và Speech-to-Text offline cho các dự án cần truy nhập."
+  ],
+  "ideas": [
+    "Thêm hỗ trợ plugin để tích hợp các định dạng model hoặc UI tùy chỉnh.",
+    "Tạo chế độ chạy từ USB/cổng di động hoàn toàn độc lập.",
+    "Kết hợp đa mô hình để chuyển đổi giữa text, image và speech trong cùng một quy trình."
+  ],
+  "stars": 1694,
+  "starsToday": 108,
+  "language": "JavaScript",
+  "topics": [
+    "image-generation",
+    "speech-to-text",
+    "text-generation",
+    "text-to-speech"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-01T12:30:31.001Z"
+}

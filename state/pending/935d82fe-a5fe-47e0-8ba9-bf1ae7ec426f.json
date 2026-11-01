@@ -1,0 +1,29 @@
+{
+  "id": "935d82fe-a5fe-47e0-8ba9-bf1ae7ec426f",
+  "repo": "hashicorp/terraform",
+  "url": "https://github.com/hashicorp/terraform",
+  "category": "Infrastructure as Code",
+  "summary": "Terraform cho phép quản lý cơ sở hạ tầng bằng code, sử dụng file định nghĩa declarative để tạo, thay đổi và versioning tài nguyên cloud và on-premises.",
+  "usecases": [
+    "Cấp phát tài nguyên cloud across nhiều provider theo định nghĩa code.",
+    "Quản lý môi trường đồng nhất cho development, staging và production.",
+    "Version control thay đổi infrastructure để audit và rollback."
+  ],
+  "ideas": [
+    "Kết hợp Claude Code với Terraform để tạo và áp dụng cấu hình infrastructure từ prompt tự nhiên.",
+    "Xây dựng Terraform provider tự động sinh resource dựa trên pattern code dự án.",
+    "Sử dụng state Terraform để visualize drift infrastructure theo thời gian để báo cáo compliance."
+  ],
+  "stars": 50339,
+  "starsToday": 204,
+  "language": "Go",
+  "topics": [
+    "graph",
+    "infrastructure-as-code",
+    "terraform",
+    "cloud",
+    "cloud-management"
+  ],
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-11-01T12:30:31.001Z"
+}

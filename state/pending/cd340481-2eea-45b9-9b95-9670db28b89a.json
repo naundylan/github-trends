@@ -1,0 +1,30 @@
+{
+  "id": "cd340481-2eea-45b9-9b95-9670db28b89a",
+  "repo": "patchy631/ai-engineering-hub",
+  "url": "https://github.com/patchy631/ai-engineering-hub",
+  "category": "AI/LLM",
+  "summary": "Hư liệu chi tiết hướng dẫn triển khai LLMs, RAGs và xây dựng AI agent thực tế sử dụng Jupyter Notebook",
+  "usecases": [
+    "Học và triển khai các pipeline LLM từ cơ bản đến nâng cao sử dụng Jupyter Notebook",
+    "Xây dựng ứng dụng RAG (Retrieval-Augmented Generation) với dữ liệu nội bộ",
+    "Phát triển AI agent tự động thực hiện các tác vụ cụ thể dựa trên các tutorial"
+  ],
+  "ideas": [
+    "Tích hợp RAG với các dữ liệu doanh nghiệp để tạo chatbot nội bộ",
+    "Phát triển AI agent tự động hóa quy trình làm việc (workflow) dựa trên kết quả LLM",
+    "Sử dụng làm foundation cho các dự án nghiên cứu hoặc sản phẩm AI riêng"
+  ],
+  "stars": 39801,
+  "starsToday": 573,
+  "language": "Jupyter Notebook",
+  "topics": [
+    "agents",
+    "ai",
+    "llms",
+    "machine-learning",
+    "mcp",
+    "rag"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-01T12:30:31.001Z"
+}

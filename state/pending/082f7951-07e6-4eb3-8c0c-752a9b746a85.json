@@ -1,0 +1,23 @@
+{
+  "id": "082f7951-07e6-4eb3-8c0c-752a9b746a85",
+  "repo": "andreavolpato/spektrafilm",
+  "url": "https://github.com/andreavolpato/spektrafilm",
+  "category": "Other",
+  "summary": "Mô phỏng quy trình ảnh analog bằng kỹ thuật phổ học, tái tạo các đặc trưng của phim truyền thống với độ chính xác cao.",
+  "usecases": [
+    "Phục hồi và tái tạo chất lượng phim analog từ ảnh kỹ số.",
+    "Mô phỏng các đặc trưng hóa học và quang học của vật liệu ảnh.",
+    "Tạo bộ lọc ảnh có phong cách thời tiết cho các dự án sáng tạo."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ AI tạo ảnh để tự động áp dụng phong cách phim cụ thể.",
+    "Phát triển plugin cho các phần mềm chỉnh sửa ảnh như GIMP hoặc Photoshop.",
+    "Tạo API phục vụ cho các dự án in ấn và thiết kế thời trang."
+  ],
+  "stars": 1455,
+  "starsToday": 142,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-01T12:30:31.001Z"
+}

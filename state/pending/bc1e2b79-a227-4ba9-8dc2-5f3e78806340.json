@@ -1,0 +1,32 @@
+{
+  "id": "bc1e2b79-a227-4ba9-8dc2-5f3e78806340",
+  "repo": "FlashML-org/FreeToken",
+  "url": "https://github.com/FlashML-org/FreeToken",
+  "category": "AI/LLM",
+  "summary": "FreeToken mang khả năng phục vụ mô hình datacenter-scale về desktop, cho phép chạy các mô hình LLM lớn trên máy tính cá nhân với tốc độ và hiệu quả cao.",
+  "usecases": [
+    "Chạy LLM lớn trên laptop/PC không cần kết nối đám mây",
+    "Tích hợp inference AI an toàn cho ứng dụng doanh nghiệp nội bộ",
+    "Phát triển sản phẩm edge AI cho nghiên cứu hoặc thị trường tiêu dùng"
+  ],
+  "ideas": [
+    "Tạo chatbot chạy hoàn toàn local trên máy tính cá nhân",
+    "Tối ưu hóa mô hình theo cấu hình phần cứng đa dạng tự động",
+    "Kết hợp voice cloning để tạo trợ lý voice AI hoàn toàn local"
+  ],
+  "stars": 15102,
+  "starsToday": 232,
+  "language": "Python",
+  "topics": [
+    "deepseek-v4",
+    "edge",
+    "glm",
+    "inference",
+    "minimax",
+    "moe",
+    "qwen",
+    "transformer"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-01T12:30:31.001Z"
+}
