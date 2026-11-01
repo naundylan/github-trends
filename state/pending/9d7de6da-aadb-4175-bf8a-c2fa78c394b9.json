@@ -1,0 +1,42 @@
+{
+  "id": "9d7de6da-aadb-4175-bf8a-c2fa78c394b9",
+  "repo": "herdrdev/herdr",
+  "url": "https://github.com/herdrdev/herdr",
+  "category": "Developer Tool",
+  "summary": "Runtime cho coding agents viết bằng Rust. Cung cấp terminal multiplexer và quản lý workspace để agent tương tác với hệ điều hành.",
+  "usecases": [
+    "Cho coding agents (như Claude, Codex) có môi trường terminal để thực thi code",
+    "Tích hợp vào workflow developer để quản lý workspace đa luồng",
+    "Tự động hóa tác vụ terminal thông qua CLI trong các dự án Rust"
+  ],
+  "ideas": [
+    "Xây dựng IDE lightweight chạy trong terminal dựa trên herdr",
+    "Tích hợp với AI agent để quản lý môi trường develop một cách tự động",
+    "Tạo plugin cho terminal hiện đại thay thế tmux có khả năng agent control"
+  ],
+  "stars": 47167,
+  "starsToday": 246,
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "agent-orchestration",
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "devtools",
+    "multiplexer",
+    "rust",
+    "terminal",
+    "terminal-multiplexer",
+    "terminal-ui",
+    "tmux",
+    "tui",
+    "workspace-manager"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-01T03:40:23.828Z"
+}

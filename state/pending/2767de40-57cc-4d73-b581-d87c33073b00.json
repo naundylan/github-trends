@@ -1,0 +1,33 @@
+{
+  "id": "2767de40-57cc-4d73-b581-d87c33073b00",
+  "repo": "The-PR-Agent/pr-agent",
+  "url": "https://github.com/The-PR-Agent/pr-agent",
+  "category": "Developer Tool",
+  "summary": "Hệ thống AI tự động review pull requests, giúp phát triển viên kiểm tra chất lượng code, tìm bugs và tuân thủ chuẩn mực mà không cần can thiệp thủ công.",
+  "usecases": [
+    "Tự động review PRs trong repository mở source để giảm tải cho maintainer",
+    "Phát hiện lỗi logic, bảo mật và vi phạm style guide trước khi merge",
+    "Hỗ trợ review cho nhiều ngôn ngữ lập trình và các model AI như OpenAI, Anthropic, Ollama"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động comment trên PRs và block merge nếu có vấn đề nghiêm trọng",
+    "Phát triển module phân tích độ phức tạp code và đề xuất tối ưu",
+    "Tạo dashboard thống kê chất lượng code cho các dự án lớn"
+  ],
+  "stars": 13847,
+  "starsToday": 122,
+  "language": "Python",
+  "topics": [
+    "openai",
+    "pull-request",
+    "code-review",
+    "pull-requests",
+    "coding-assistant",
+    "devtools",
+    "ai",
+    "anthropic",
+    "ollama"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-01T03:40:23.828Z"
+}

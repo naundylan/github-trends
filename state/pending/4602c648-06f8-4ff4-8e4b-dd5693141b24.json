@@ -1,0 +1,31 @@
+{
+  "id": "4602c648-06f8-4ff4-8e4b-dd5693141b24",
+  "repo": "tauri-apps/tauri",
+  "url": "https://github.com/tauri-apps/tauri",
+  "category": "Desktop App",
+  "summary": "Framework cho phép phát triển ứng dụng desktop và mobile nhẹ, nhanh và an toàn bằng cách kết hợp web frontend với Rust backend, thay thế Electron cho các ứng dụng cần hiệu năng cao.",
+  "usecases": [
+    "Xây dựng ứng dụng desktop nhẹ thay thế Electron cho macOS, Windows, Linux.",
+    "Phát triển ứng dụng mobile có khả năng native performance sử dụng web technologies.",
+    "Tạo các công cụ nội bộ hoặc sản phẩm thương mại cần hiệu năng cao và kích thước cài đặt nhỏ."
+  ],
+  "ideas": [
+    "Kết hợp với Web3/crypto wallets để tạo desktop wallet apps an toàn và nhẹ.",
+    "Phát triển ứng dụng IoT dashboard chạy trên desktop với kích thước nhẹ.",
+    "Tạo extension cho browser hoặc tools developer dùng Tauri làm base thay vì Electron."
+  ],
+  "stars": 112382,
+  "starsToday": 35,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "webview",
+    "high-performance",
+    "desktop-app",
+    "mobile-app",
+    "native-app",
+    "web-frontend"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-01T03:40:23.828Z"
+}

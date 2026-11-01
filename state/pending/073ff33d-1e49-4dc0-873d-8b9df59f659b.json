@@ -1,0 +1,40 @@
+{
+  "id": "073ff33d-1e49-4dc0-873d-8b9df59f659b",
+  "repo": "vorssaint/vorssaint-utils",
+  "url": "https://github.com/vorssaint/vorssaint-utils",
+  "category": "Desktop App",
+  "summary": "Cung cấp một bộ công cụ mã nguồn mở cho thanh menu macOS, tích hợp nhiều tiện ích như chuyển đổi cửa sổ, điều khiển âm lượng, theo dõi hệ thống và hơn thế nữa.",
+  "usecases": [
+    "Tích hợp các tiện ích hệ thống vào thanh menu macOS để tăng năng suất",
+    "Thay thế các ứng dụng hệ thống riêng biệt bằng một giải pháp menu bar thống nhất",
+    "Cung cấp một giải pháp menu bar tùy biến cho các nhà phát triển hoặc người dùng cuối"
+  ],
+  "ideas": [
+    "Mở rộng toolkit để hỗ trợ các tác vụ tự động hóa tác vụ trên nhiều nền tảng",
+    "Tích hợp với các dịch vụ cloud để đồng bộ hóa cài đặt menu bar",
+    "Xây dựng một marketplace cho các plugin menu bar của bên thứ ba"
+  ],
+  "stars": 31979,
+  "starsToday": 501,
+  "language": "Swift",
+  "topics": [
+    "alt-tab",
+    "app-uninstaller",
+    "appkit",
+    "finder",
+    "free",
+    "keep-awake",
+    "mac-os",
+    "menu-bar",
+    "menubar",
+    "open-source",
+    "swift",
+    "swift-ui",
+    "system-monitor",
+    "uninstaller",
+    "volume-mixer",
+    "window-switcher"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-01T03:40:23.828Z"
+}

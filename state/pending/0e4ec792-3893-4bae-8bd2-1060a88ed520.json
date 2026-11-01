@@ -1,0 +1,42 @@
+{
+  "id": "0e4ec792-3893-4bae-8bd2-1060a88ed520",
+  "repo": "betterleaks/betterleaks",
+  "url": "https://github.com/betterleaks/betterleaks",
+  "category": "Other",
+  "summary": "Find leaked secrets everywhere.",
+  "usecases": [
+    "Khám phá và đánh giá betterleaks/betterleaks cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 2705,
+  "starsToday": 29,
+  "language": "Go",
+  "topics": [
+    "cicd",
+    "credentials",
+    "developer-tools",
+    "devops",
+    "devsecops",
+    "git",
+    "github",
+    "gitleaks",
+    "go",
+    "golang",
+    "secret",
+    "secrets",
+    "sast",
+    "security",
+    "security-tools",
+    "static-analysis",
+    "dynamic-analysis",
+    "secrets-management",
+    "secrets-detection",
+    "secrets-scanning"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-01T03:40:23.828Z"
+}

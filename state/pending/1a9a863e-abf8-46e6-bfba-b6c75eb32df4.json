@@ -1,0 +1,25 @@
+{
+  "id": "1a9a863e-abf8-46e6-bfba-b6c75eb32df4",
+  "repo": "henrygd/beszel",
+  "url": "https://github.com/henrygd/beszel",
+  "category": "Other",
+  "summary": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+  "usecases": [
+    "Khám phá và đánh giá henrygd/beszel cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 26739,
+  "starsToday": 28,
+  "language": "Go",
+  "topics": [
+    "homelab",
+    "monitoring",
+    "self-hosted"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-01T03:40:23.828Z"
+}

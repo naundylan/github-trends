@@ -1,0 +1,34 @@
+{
+  "id": "244f2b14-5df4-475a-a829-9afa3ff61a2d",
+  "repo": "IceWhaleTech/CasaOS",
+  "url": "https://github.com/IceWhaleTech/CasaOS",
+  "category": "Cloud/Hosting",
+  "summary": "Gói hệ điều hành giao diện đồ họa cho personal cloud, cho phép quản lý Docker containers, ứng dụng home automation và thiết bị IoT thông qua web dễ dàng.",
+  "usecases": [
+    "Cài đặt nhanh hệ điều hành personal cloud trên Raspberry Pi hoặc máy chủ riêng",
+    "Quản lý và triển khai các ứng dụng Docker thông qua giao diện web trực quan",
+    "Tích hợp home automation, kiểm soát thiết bị IoT từ một trung tâm duy nhất"
+  ],
+  "ideas": [
+    "Thêm hỗ trợ đa ngôn ngữ và tùy chỉnh chủ đề cho giao diện",
+    "Tích tính năng backup/restore tự động cho các container và dữ liệu cấu hình",
+    "Phát triển ứng dụng di động để theo dõi và điều khiển hệ thống personal cloud từ xa"
+  ],
+  "stars": 37478,
+  "starsToday": 40,
+  "language": "Go",
+  "topics": [
+    "docker",
+    "golang",
+    "vuejs",
+    "home-automation",
+    "home-server",
+    "raspberry",
+    "self-hosted",
+    "iot",
+    "home-cloud",
+    "casaos"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-11-01T03:40:23.828Z"
+}
