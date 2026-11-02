@@ -1,0 +1,39 @@
+{
+  "id": "9754207f-d432-40be-8d3f-13684dfe5f22",
+  "repo": "jub0t/Concat",
+  "url": "https://github.com/jub0t/Concat",
+  "category": "Desktop App",
+  "summary": "Concat là phần mềm chỉnh sửa video mã nguồn mở, chạy trên nhiều nền tảng, ưu tiên local-first và có thể script qua API JSON-RPC, đóng vai trò thay thế miễn phí cho CapCut.",
+  "usecases": [
+    "Chỉnh sửa video hoàn toàn local mà không cần đám mây",
+    "Tự động xuất video cho kênh social media qua script",
+    "Dùng làm nền tảng để xây dựng công cụ tự động hóa video"
+  ],
+  "ideas": [
+    "Tích hợp AI cắt cảnh tự động để tăng tốc độ chỉnh sửa",
+    "Phát triển plugin hiệu ứng chuyển cảnh được tạo bởi generative AI",
+    "Kết hợp voice cloning để tự động thêm lời bình và nhạc nền"
+  ],
+  "stars": 13802,
+  "starsToday": 302,
+  "language": "Rust",
+  "topics": [
+    "free-video-editor",
+    "non-linear-editor",
+    "open-source-video-editor",
+    "video-editing-software",
+    "video-editing",
+    "video-editing-automation",
+    "video-editing-tools",
+    "video-editor",
+    "ffmpeg",
+    "model-context-protocol",
+    "voice-cloning",
+    "offline-first",
+    "self-hosted",
+    "youtube-shorts",
+    "youtube-automation"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-02T21:16:36.829Z"
+}

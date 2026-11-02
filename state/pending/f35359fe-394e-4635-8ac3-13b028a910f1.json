@@ -1,0 +1,32 @@
+{
+  "id": "f35359fe-394e-4635-8ac3-13b028a910f1",
+  "repo": "FlashML-org/FreeToken",
+  "url": "https://github.com/FlashML-org/FreeToken",
+  "category": "AI/LLM",
+  "summary": "FreeToken cho phép chạy các mô hình LLM lớn như DeepSeek, Qwen, GLM trực tiếp trên máy tính để inference nhanh và tiết kiệm chi phí.",
+  "usecases": [
+    "Đánh giá và thử nghiệm mô hình LLM trên môi trường desktop mà không cần kết nối internet.",
+    "Triển khai ứng dụng RAG hoặc chatbot nội bộ cho doanh nghiệp với dữ liệu nhạy cảm.",
+    "Giải pháp cho các thiết bị edge hoặc IoT cần inference offline."
+  ],
+  "ideas": [
+    "Tạo plugin cho IDE cho phép người dùng chọn mô hình và nhập prompt trực tiếp trong môi trường phát triển.",
+    "Kết hợp với các hệ thống vector database để xây dựng ứng dụng RAG nội bộ chạy hoàn toàn trên máy tính.",
+    "Phát triển giao diện desktop đơn giản để quản lý, so sánh và tinh chỉnh các mô hình LLM địa phương."
+  ],
+  "stars": 15978,
+  "starsToday": 654,
+  "language": "Python",
+  "topics": [
+    "deepseek-v4",
+    "edge",
+    "glm",
+    "inference",
+    "minimax",
+    "moe",
+    "qwen",
+    "transformer"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-02T21:16:36.829Z"
+}

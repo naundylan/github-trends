@@ -1,0 +1,36 @@
+{
+  "id": "d0091b17-ce31-47c9-8708-d07432952a66",
+  "repo": "vercel-labs/agent-desktop",
+  "url": "https://github.com/vercel-labs/agent-desktop",
+  "category": "AI Agent/Automation",
+  "summary": "Vercel Labs Agent Desktop là một công cụ CLI cho phép AI agent tương tác với desktop, tự động hóa máy tính và thực hiện tác vụ trên macOS.",
+  "usecases": [
+    "Tự động hóa tác vụ trên desktop cho AI agent",
+    "Hỗ trợ computer use trong các ứng dụng AI agent",
+    "Tích hợp vào pipeline tự động cho testing trên desktop"
+  ],
+  "ideas": [
+    "Tạo ra một desktop assistant AI toàn cầu điều khiển chuột/phím",
+    "Kết hợp với MCP (Model Context Protocol) để tự động hóa web/desktop",
+    "Phát triển plugin cho VS Code để AI tự động viết code bằng lệnh"
+  ],
+  "stars": 9260,
+  "starsToday": 2243,
+  "language": "Rust",
+  "topics": [
+    "accessibility",
+    "accessibility-api",
+    "ai-agents",
+    "automation",
+    "cli",
+    "desktop-automation",
+    "macos",
+    "mcp",
+    "rust",
+    "computer-use",
+    "computer-use-agent",
+    "computer-use-agents"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-02T21:16:36.828Z"
+}

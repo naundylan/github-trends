@@ -1,0 +1,21 @@
+{
+  "id": "09c4d532-5986-43fd-8282-06bf9f041179",
+  "repo": "vercel-labs/skills",
+  "url": "https://github.com/vercel-labs/skills",
+  "category": "Other",
+  "summary": "The open agent skills tool - npx skills",
+  "usecases": [
+    "Khám phá và đánh giá vercel-labs/skills cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 37789,
+  "starsToday": 243,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-02T21:16:36.829Z"
+}

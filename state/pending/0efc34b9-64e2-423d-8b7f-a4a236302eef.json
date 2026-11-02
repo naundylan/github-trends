@@ -1,0 +1,34 @@
+{
+  "id": "0efc34b9-64e2-423d-8b7f-a4a236302eef",
+  "repo": "warmbly/warmbly",
+  "url": "https://github.com/warmbly/warmbly",
+  "category": "Developer Tool",
+  "summary": "Open-source B2B cold outreach and email warmup service designed to improve email deliverability and sender reputation.",
+  "usecases": [
+    "Marketing teams warming up new email domains before campaign launches",
+    "Sales outreach automation ensuring emails land in inboxes rather than spam",
+    "Agencies managing multiple client email accounts with deliverability monitoring"
+  ],
+  "ideas": [
+    "Integrate with CRM platforms like HubSpot for seamless warmup workflows",
+    "Add AI-generated email copy optimization during the warmup process",
+    "Create a dashboard analytics suite tracking domain health and spam score trends over time"
+  ],
+  "stars": 870,
+  "starsToday": 244,
+  "language": "Go",
+  "topics": [
+    "cold-email",
+    "email-marketing",
+    "email-sender",
+    "email-warmup",
+    "marketing",
+    "marketing-automation",
+    "cold-outreach",
+    "deliverability",
+    "email",
+    "sales"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-02T21:16:36.829Z"
+}

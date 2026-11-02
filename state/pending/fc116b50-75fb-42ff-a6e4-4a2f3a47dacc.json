@@ -1,0 +1,23 @@
+{
+  "id": "fc116b50-75fb-42ff-a6e4-4a2f3a47dacc",
+  "repo": "karpathy/nanochat",
+  "url": "https://github.com/karpathy/nanochat",
+  "category": "AI/LLM",
+  "summary": "Nanochat là một ứng dụng ChatGPT nhẹ và đơn giản dùng Python, cho phép tương tác với mô hình ngôn ngữ qua giao diện dòng lệnh hoặc web, nổi bật với kích thước nhỏ và tính năng cơ bản nhưng hiệu quả.",
+  "usecases": [
+    "Tự động hóa nhập liệu prompt cho các mô hình LLM",
+    "Học tập và demo khả năng của các model ngôn ngữ",
+    "Tích hợp vào các dự án cá nhân để tạo nội dung nhanh"
+  ],
+  "ideas": [
+    "Kết hợp voice cloning để tạo trợ lý thoại tự động",
+    "Phát triển multi-agent chat với các model khác nhau",
+    "Tạo giao diện web tùy chỉnh cho nanochat"
+  ],
+  "stars": 59809,
+  "starsToday": 325,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-02T21:16:36.829Z"
+}

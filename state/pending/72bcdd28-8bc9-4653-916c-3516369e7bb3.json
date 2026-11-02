@@ -1,0 +1,23 @@
+{
+  "id": "72bcdd28-8bc9-4653-916c-3516369e7bb3",
+  "repo": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "category": "AI/LLM",
+  "summary": "Colibri là engine mô hình MoE (Mixture of Experts) viết bằng C thuần túy, không phụ thuộc thư viện bên ngoài, cho phép chạy các mô hình AI lớn trên phần cứng hiện có thông qua streaming experts từ disk.",
+  "usecases": [
+    "Chạy các mô hình MoE lớn trên máy tính cá nhân không cần GPU cao cấp",
+    "Nghiên cứu và triển khai architecture MoE trên hardware có hạn",
+    "Tối ưu hóa inference cho model lớn trên CPU thông qua loading experts từ đĩa"
+  ],
+  "ideas": [
+    "Build một local LLM router phân phối request đến các experts khác nhau",
+    "Tạo ra inference engine cho edge devices với model MoE",
+    "Kết hợp hệ thống file-based caching để tăng tốc inference liên tục"
+  ],
+  "stars": 46471,
+  "starsToday": 655,
+  "language": "C",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-02T21:16:36.828Z"
+}

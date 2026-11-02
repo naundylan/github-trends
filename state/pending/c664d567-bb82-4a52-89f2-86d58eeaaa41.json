@@ -1,0 +1,21 @@
+{
+  "id": "c664d567-bb82-4a52-89f2-86d58eeaaa41",
+  "repo": "Crosstalk-Solutions/project-nomad",
+  "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+  "category": "Other",
+  "summary": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+  "usecases": [
+    "Khám phá và đánh giá Crosstalk-Solutions/project-nomad cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 41842,
+  "starsToday": 230,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-02T21:16:36.829Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "3edc5580-6879-4ad3-91b9-bc09b40e6e88",
+  "repo": "cheaper-inference/OmniRoute",
+  "url": "https://github.com/cheaper-inference/OmniRoute",
+  "category": "AI/LLM",
+  "summary": "OmniRoute là cổng vào AI miễn phí cho nhiều nhà cung cấp LLM, tự động quản lý quota và giảm chi phí token bằng nén RTK+Caveman.",
+  "usecases": [
+    "Cung cấp API thống nhất cho ứng dụng web hoặc mobile để truy cập nhiều LLM mà không cần quản lý từng provider.",
+    "Giảm chi phí API cho startup bằng việc tự động chuyển sang các provider miễn phí hoặc rẻ tiền khi quota hạn.",
+    "Tích hợp vào công cụ phát triển như VS Code, Cursor để gọi LLM trong quá trình coding."
+  ],
+  "ideas": [
+    "Xây dựng extension cho VS Code cho phép người dùng gọi LLM qua OmniRoute trong khi viết code.",
+    "Tích hợp OmniRoute vào pipeline CI/CD để chạy thử các prompt và kiểm tra chất lượng trả lời.",
+    "Kết hợp với các công cụ monitoring để tự động chuyển đổi provider dựa trên hiệu suất và chi phí thực tế."
+  ],
+  "stars": 83951,
+  "starsToday": 390,
+  "language": "TypeScript",
+  "topics": [
+    "a2a",
+    "ai-agents",
+    "ai-gateway",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "cline",
+    "codex",
+    "copilot",
+    "cursor",
+    "deepseek",
+    "free-ai",
+    "gemini",
+    "llm-gateway",
+    "mcp",
+    "openai",
+    "openai-proxy",
+    "qwen",
+    "token-saver",
+    "kimi"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-02T21:16:36.829Z"
+}

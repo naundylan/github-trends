@@ -1,0 +1,23 @@
+{
+  "id": "af4272c6-f22a-427d-9d79-b9df3dc58458",
+  "repo": "CNCKitchen/ScanRuler",
+  "url": "https://github.com/CNCKitchen/ScanRuler",
+  "category": "Developer Tool",
+  "summary": "TypeScript-based screen measurement tool for precise pixel tracking and element sizing.",
+  "usecases": [
+    "UI/UX designers measuring pixel-perfect layouts",
+    "Developers inspecting element dimensions during frontend development",
+    "Automated screenshot analysis for design system audits"
+  ],
+  "ideas": [
+    "Integrate with Figma/Sketch plugins for real-time measurements",
+    "Add AI-powered element classification for automatic dimension tagging",
+    "Build a browser extension for on-page measurements across any website"
+  ],
+  "stars": 717,
+  "starsToday": 256,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-02T21:16:36.829Z"
+}
