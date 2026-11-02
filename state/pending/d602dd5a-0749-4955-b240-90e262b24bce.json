@@ -1,0 +1,44 @@
+{
+  "id": "d602dd5a-0749-4955-b240-90e262b24bce",
+  "repo": "mayswind/ezbookkeeping",
+  "url": "https://github.com/mayswind/ezbookkeeping",
+  "category": "Productivity/Personal Tool",
+  "summary": "ezBookkeeping là ứng dụng tài chính tự-hosted mã nguồn mở nổi bật, xây dựng bằng Go và Vue, giúp theo dõi chi tiêu, quản lý ngân sách và kế toán cá nhân với toàn quyền sở hữu dữ liệu.",
+  "usecases": [
+    "Quản lý tài chính cá nhân và theo dõi chi tiêu hàng ngày cho người dùng riêng.",
+    "Triển khai cho đội nhóm nhỏ cần giải pháp kế toán nội bộ an toàn.",
+    "Tích hợp với ngân hàng API để nhập giao dịch tự động (tùy chọn)."
+  ],
+  "ideas": [
+    "Thêm tính năng dự báo tài chính dựa trên lịch sử giao dịch.",
+    "Tích hợp xác thực hai yếu tố (2FA) cho thêm bảo mật.",
+    "Phát triển ứng dụng di động đồng bộ với phiên bản web cho truy cập trên đi lại."
+  ],
+  "stars": 5937,
+  "starsToday": 23,
+  "language": "Go",
+  "topics": [
+    "self-hosted",
+    "golang",
+    "vue",
+    "app",
+    "money",
+    "personal-finance",
+    "financial",
+    "mobile",
+    "bookkeeping",
+    "accounting",
+    "money-manager",
+    "finances",
+    "docker",
+    "typescript",
+    "expenses",
+    "expense-tracker",
+    "finance-management",
+    "finance",
+    "homelab",
+    "expense-manager"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-11-02T10:29:16.969Z"
+}

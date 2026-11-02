@@ -1,0 +1,33 @@
+{
+  "id": "517156dd-3357-480f-a3bd-36ef6ab8842d",
+  "repo": "TheNetsky/Microsoft-Rewards-Script",
+  "url": "https://github.com/TheNetsky/Microsoft-Rewards-Script",
+  "category": "CLI Tool",
+  "summary": "Script tự động hóa Microsoft Rewards sử dụng TypeScript và Playwright để tích điểm thưởng hàng ngày. Nó mô phỏng tương tác người dùng trên trình duyệt để tích điểm mà không cần can thiệp thủ công.",
+  "usecases": [
+    "Tích điểm Microsoft Rewards tự động mỗi ngày mà không cần can thiệp thủ công.",
+    "Chạy trên nhiều tài khoản cùng lúc thông qua cấu hình script.",
+    "Lên lịch chạy tự động qua cron job hoặc Task Scheduler để kiếm điểm khi ngủ."
+  ],
+  "ideas": [
+    "Tích hợp với Telegram bot để nhận thông báo trạng thái điểm và tổng số tích mỗi ngày.",
+    "Phát triển thành extension trình duyệt với giao diện hiển thị tiến độ tích điểm và lịch sử.",
+    "Mở rộng script để hỗ trợ các chương trình thưởng hoặc điểm khác của Microsoft hoặc đối thủ."
+  ],
+  "stars": 1161,
+  "starsToday": 8,
+  "language": "TypeScript",
+  "topics": [
+    "bot",
+    "microsoft-rewards",
+    "microsoft-rewards-bot",
+    "microsoft-rewards-farmer",
+    "script",
+    "typescript",
+    "playwright",
+    "microsoft-rewards-script",
+    "docker"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-02T10:29:16.969Z"
+}

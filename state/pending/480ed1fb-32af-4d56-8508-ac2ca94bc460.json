@@ -1,0 +1,44 @@
+{
+  "id": "480ed1fb-32af-4d56-8508-ac2ca94bc460",
+  "repo": "bleachbit/bleachbit",
+  "url": "https://github.com/bleachbit/bleachbit",
+  "category": "Desktop App",
+  "summary": "BleachBit là công cụ dọn dẹp hệ thống đa nền tảng cho Windows và Linux, nổi bật với khả năng dọn dẹp đĩa, bảo mật và antiforensics qua giao diện GUI và TUI.",
+  "usecases": [
+    "Dọn dẹp tệp junk và thu hồi không gian đĩa trên máy tính cá nhân.",
+    "Xóa dấu vết hoạt động sử dụng ứng dụng cho mục đích bảo mật và riêng tư.",
+    "Tự động hóa dọn dẹp định kỳ trên nhiều hệ điều hành trong môi trường phát triển."
+  ],
+  "ideas": [
+    "Kết hợp với lịch trình hệ thống để dọn dẹp tự động hàng ngày.",
+    "Phát triển plugin cho các nhà cung cấp antivirus để tăng cường bảo mật.",
+    "Tạo báo cáo sử dụng đĩa để theo dõi xu hướng lưu trữ qua thời gian."
+  ],
+  "stars": 7343,
+  "starsToday": 26,
+  "language": "Python",
+  "topics": [
+    "antiforensics",
+    "security",
+    "privacy",
+    "windows",
+    "linux",
+    "disk-cleaner",
+    "gplv3",
+    "bleachbit",
+    "python",
+    "ccleaner-alternative",
+    "cleaner",
+    "cross-platform",
+    "desktop-app",
+    "open-source",
+    "system-cleaner",
+    "free",
+    "gui",
+    "linux-desktop",
+    "tui",
+    "windows-desktop"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-02T10:29:16.969Z"
+}

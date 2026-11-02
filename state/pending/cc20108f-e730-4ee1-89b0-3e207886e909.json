@@ -1,0 +1,29 @@
+{
+  "id": "cc20108f-e730-4ee1-89b0-3e207886e909",
+  "repo": "siddharthvaddem/openscreen",
+  "url": "https://github.com/siddharthvaddem/openscreen",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop mã nguồn mở sử dụng Electron và PIXIJS để tạo demo và quay màn hình đẹp mắt, miễn phí thương mại không có watermark.",
+  "usecases": [
+    "Tạo demo sản phẩm và video giới thiệu cho các dự án phần mềm",
+    "Quay màn hình cho các bài hướng dẫn và tutorial với hiệu ứng trực quan",
+    "Sử dụng làm nền tảng tùy chỉnh cho các công cụ ghi màn hình cá nhân"
+  ],
+  "ideas": [
+    "Kết hợp AI để tự động thêm chú thích và caption cho các video quay màn hình",
+    "Phát triển plugin cho phép xuất video trực tiếp lên các nền tảng mạng xã hội",
+    "Tích hợp tính năng ghi âm hệ thống và microphone cùng lúc với tùy chỉnh hiệu ứng trực quan"
+  ],
+  "stars": 40014,
+  "starsToday": 18,
+  "language": "TypeScript",
+  "topics": [
+    "electron",
+    "pixijs",
+    "screen-recorder",
+    "open-source",
+    "screen-capture"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-02T10:29:16.969Z"
+}

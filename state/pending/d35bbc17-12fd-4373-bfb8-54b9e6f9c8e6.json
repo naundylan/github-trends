@@ -1,0 +1,34 @@
+{
+  "id": "d35bbc17-12fd-4373-bfb8-54b9e6f9c8e6",
+  "repo": "DeanChensj/jiangshan-map",
+  "url": "https://github.com/DeanChensj/jiangshan-map",
+  "category": "Data Visualization",
+  "summary": "Jiangshan-map là bản đồ tương tác lịch sử Trung Quốc từ 403 BCE đến hiện đại, bao quát 18 triều đại, 164 bản chụp lãnh thổ và genealogy địa danh, nổi bật với dữ liệu thơ cổ và tuyến đường tương tác.",
+  "usecases": [
+    "Nghiên cứu lịch sử và địa lý thay đổi của Trung Quốc theo thời gian.",
+    "Giáo dục và tìm hiểu về biên giới và địa danh triều đại.",
+    "Phân tích dữ liệu genealogy và di động của các địa danh cổ."
+  ],
+  "ideas": [
+    "Kết hợp bản đồ với bản đọc thơ cổ để tạo trải nghiệm thôi thúc văn học địa lý.",
+    "Phát triển ứng dụng di động hiển thị lịch sử địa phương dựa trên vị trí GPS.",
+    "Tích hợp dữ liệu thời thực để hiển thị thay đổi lãnh thổ theo từng giai đoạn."
+  ],
+  "stars": 3342,
+  "starsToday": 850,
+  "language": "JavaScript",
+  "topics": [
+    "ancient-china",
+    "cartography",
+    "china-map",
+    "chinese-history",
+    "classical-chinese-poetry",
+    "digital-humanities",
+    "gis",
+    "historical-atlas",
+    "historical-map",
+    "interactive-map"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-11-02T10:29:16.969Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "eb8cc85a-78c1-4635-972e-895031e9d8b4",
+  "repo": "XIU2/CloudflareSpeedTest",
+  "url": "https://github.com/XIU2/CloudflareSpeedTest",
+  "category": "CLI Tool",
+  "summary": "CloudflareSpeedTest là công cụ CLI test tốc độ và độ trễ Cloudflare CDN, nổi bật khả năng tự chọn IP nhanh nhất và hỗ trợ nhiều provider CDN khác.",
+  "usecases": [
+    "Test và so sánh tốc độ truy cập CDN trong các khu vực địa lý khác.",
+    "Tìm IP tối ưu cho việc truy cập website sử dụng Cloudflare.",
+    "Giám sát hiệu suất mạng và độ trễ cho các dịch vụ triển khai trên CDN."
+  ],
+  "ideas": [
+    "Tích hợp dashboard hiển thị biến động tốc độ CDN theo thời thực.",
+    "Phát triển tính năng tự động chọn IP nhanh nhất và cấu hình DNS.",
+    "Mở rộng hỗ trợ cho các provider CDN khác như AWS CloudFront, Akamai."
+  ],
+  "stars": 29780,
+  "starsToday": 32,
+  "language": "Go",
+  "topics": [
+    "cloudflare",
+    "cdn",
+    "speedtest",
+    "golang",
+    "go"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-02T10:29:16.969Z"
+}

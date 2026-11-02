@@ -1,0 +1,26 @@
+{
+  "id": "6a5ca5ee-980f-4eb7-b612-a63cf3b325dd",
+  "repo": "k3s-io/k3s",
+  "url": "https://github.com/k3s-io/k3s",
+  "category": "Embedded/IoT",
+  "summary": "Phân phối Kubernetes nhẹ nhàng tối ưu cho môi trường edge, IoT và tài nguyên hạn chế, vẫn duy trì đầy đủ tính năng Kubernetes chuẩn.",
+  "usecases": [
+    "Triển khai cluster Kubernetes trên các thiết bị edge như Raspberry Pi và thiết bị cảm biến IoT",
+    "Tạo môi trường development/local K8s nhanh cho các dự án microservices",
+    "Quản lý và phối hợp các ứng dụng phân tán trên các thiết bị có kết nối mạng hạn chế"
+  ],
+  "ideas": [
+    "Kết hợp k3s với các framework AI inference tại edge để chạy model trực tiếp trên thiết bị",
+    "Phát triển hệ thống quản lý fleet tự động cập nhật và monitoring cho nhiều device k3s",
+    "Sử dụng k3s làm nền tảng cho các ứng dụng real-time processing tại vị trí biên (edge computing)"
+  ],
+  "stars": 34320,
+  "starsToday": 12,
+  "language": "Go",
+  "topics": [
+    "kubernetes",
+    "k8s"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-11-02T10:29:16.969Z"
+}

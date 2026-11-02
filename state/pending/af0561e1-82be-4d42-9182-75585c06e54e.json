@@ -1,0 +1,34 @@
+{
+  "id": "af0561e1-82be-4d42-9182-75585c06e54e",
+  "repo": "IceWhaleTech/CasaOS",
+  "url": "https://github.com/IceWhaleTech/CasaOS",
+  "category": "Cloud/Hosting",
+  "summary": "CasaOS cung cấp giao diện web dễ sử dụng để quản lý và tự host các dịch vụ Docker trên thiết bị cá nhân như Raspberry Pi.",
+  "usecases": [
+    "Quản lý và theo dõi trạng thái các container Docker thông qua dashboard web trực quan.",
+    "Cài đặt và tự động hóa các dịch vụ home automation như Home Assistant trên hệ thống cá nhân.",
+    "Phân chia tài nguyên và truy cập file, media giữa nhiều thiết bị trong mạng nội bộ."
+  ],
+  "ideas": [
+    "Tích hợp CasaOS với các nền tảng IoT để tạo dashboard điều khiển nhà thông minh tập trung.",
+    "Phát triển plugin mở rộng CasaOS để hỗ trợ các dịch vụ lưu trữ đám mây riêng và đồng bộ.",
+    "Sử dụng CasaOS làm nền tảng giáo dục về self-hosting và quản lý container cho cộng đồng developer."
+  ],
+  "stars": 37510,
+  "starsToday": 29,
+  "language": "Go",
+  "topics": [
+    "docker",
+    "golang",
+    "vuejs",
+    "home-automation",
+    "home-server",
+    "raspberry",
+    "self-hosted",
+    "iot",
+    "home-cloud",
+    "casaos"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-11-02T10:29:16.969Z"
+}
