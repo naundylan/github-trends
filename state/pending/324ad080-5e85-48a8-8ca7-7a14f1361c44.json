@@ -1,0 +1,32 @@
+{
+  "id": "324ad080-5e85-48a8-8ca7-7a14f1361c44",
+  "repo": "FlashML-org/FreeToken",
+  "url": "https://github.com/FlashML-org/FreeToken",
+  "category": "AI/LLM",
+  "summary": "Cho phép chạy các mô hình AI quy mô dữ liệu trung tâm trên desktop một cách nhanh chóng và hiệu quả, hỗ trợ các model như DeepSeek, Qwen, GLM.",
+  "usecases": [
+    "Chạy các mô hình LLM lớn trên máy cá nhân mà không cần phụ thuộc dịch vụ cloud",
+    "Triển khai ứng dụng AI nội bộ cho doanh nghiệp với dữ liệu nhạy cảm",
+    "Phát triển dịch vụ inference edge cho thiết bị cần hiệu năng cao nhưng có tài nguyên hạn chế"
+  ],
+  "ideas": [
+    "Tối ưu hóa phân phối mô hình qua nhiều GPU/CPU trên một máy để tăng throughput",
+    "Kết hợp quantization để giảm kích thước model và tăng tốc inference",
+    "Xây dựng platform quản lý nhiều model LLM local cho các team phát triển AI"
+  ],
+  "stars": 15382,
+  "starsToday": 242,
+  "language": "Python",
+  "topics": [
+    "deepseek-v4",
+    "edge",
+    "glm",
+    "inference",
+    "minimax",
+    "moe",
+    "qwen",
+    "transformer"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-02T00:13:01.233Z"
+}

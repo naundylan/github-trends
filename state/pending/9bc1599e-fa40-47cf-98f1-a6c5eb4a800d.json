@@ -1,0 +1,23 @@
+{
+  "id": "9bc1599e-fa40-47cf-98f1-a6c5eb4a800d",
+  "repo": "andreavolpato/spektrafilm",
+  "url": "https://github.com/andreavolpato/spektrafilm",
+  "category": "Computer Vision",
+  "summary": "Mô phỏng quang phổ các quy trình nhiếp ảnh analog, giúp tái tạo hiệu ứng film truyền thống bằng thuật toán spectral.",
+  "usecases": [
+    "Tạo preset film cho ứng dụng chỉnh sửa ảnh",
+    "Nghiên cứu và giáo dục về hóa học nhiếp ảnh",
+    "Phát triển filter film cho camera app"
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động gợi ý film phù hợp theo cảnh",
+    "Tích hợp vào pipeline render 3D để tạo texture film thực tế",
+    "Xây dựng marketplace preset film dựa trên spectral data"
+  ],
+  "stars": 1512,
+  "starsToday": 159,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-11-02T00:13:01.233Z"
+}

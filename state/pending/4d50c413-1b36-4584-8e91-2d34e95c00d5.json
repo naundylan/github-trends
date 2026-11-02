@@ -1,0 +1,37 @@
+{
+  "id": "4d50c413-1b36-4584-8e91-2d34e95c00d5",
+  "repo": "public-apis/public-apis",
+  "url": "https://github.com/public-apis/public-apis",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách tổng hợp các API công khai miễn phí, cung cấp nguồn tài nguyên mở cho nhà phát triển tìm và sử dụng các dịch vụ API.",
+  "usecases": [
+    "Tìm kiếm và so sánh các API miễn phí cho dự án mới",
+    "Tích hợp các dịch vụ API vào ứng dụng mà không cần chi phí licensing",
+    "Học tập và nghiên cứu về các giao diện lập trình ứng dụng (API) khác nhau"
+  ],
+  "ideas": [
+    "Tạo bộ lọc động để tìm API theo lĩnh vực (AI, payment, auth, v.v.)",
+    "Phát triển extension cho trình duyệt hiển thị thông tin API nhanh",
+    "Kết hợp với công cụ tự động tạo client SDK từ danh sách API"
+  ],
+  "stars": 494572,
+  "starsToday": 324,
+  "language": "Python",
+  "topics": [
+    "api",
+    "public-apis",
+    "free",
+    "apis",
+    "list",
+    "development",
+    "software",
+    "public",
+    "resources",
+    "dataset",
+    "open-source",
+    "public-api",
+    "lists"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-11-02T00:13:01.233Z"
+}

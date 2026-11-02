@@ -1,0 +1,29 @@
+{
+  "id": "4420e32a-4d14-4066-9a45-f45aefa1423a",
+  "repo": "hashicorp/terraform",
+  "url": "https://github.com/hashicorp/terraform",
+  "category": "Infrastructure as Code",
+  "summary": "Công cụ Infrastructure as Code cho phép định nghĩa, cung cấp và quản lý hạ tầng cloud qua mã khai báo, hỗ trợ đa nhà cung cấp.",
+  "usecases": [
+    "Triển khai hạ tầng multi-cloud nhất quán",
+    "Quản lý cấu hình Kubernetes cluster ở quy mô lớn",
+    "Tự động hóa provisioning môi trường dev/staging/prod"
+  ],
+  "ideas": [
+    "Kết hợp với GitOps để tự động đồng bộ infra từ PR",
+    "Xây dựng module registry nội bộ cho team platform",
+    "Tích hợp policy-as-code (OPA) để enforce compliance trước khi apply"
+  ],
+  "stars": 50346,
+  "starsToday": 151,
+  "language": "Go",
+  "topics": [
+    "graph",
+    "infrastructure-as-code",
+    "terraform",
+    "cloud",
+    "cloud-management"
+  ],
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-11-02T00:13:01.233Z"
+}

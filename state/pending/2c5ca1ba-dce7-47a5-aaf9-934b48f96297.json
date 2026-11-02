@@ -1,0 +1,43 @@
+{
+  "id": "2c5ca1ba-dce7-47a5-aaf9-934b48f96297",
+  "repo": "JCodesMore/ai-website-cloner-template",
+  "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+  "category": "Boilerplate/Starter Template",
+  "summary": "Template Next.js + TypeScript + Tailwind + shadcn/ui cho phép clone bất kỳ website nào bằng một lệnh, tận dụng AI agent (Claude Code) để reverse-engineering cấu trúc, component và style.",
+  "usecases": [
+    "Tạo nhanh bản prototype hoặc reference implementation từ landing page competitor để học tập, benchmark.",
+    "Chuyển đổi thiết kế Figma/website hiện có thành codebase React/Next.js sạch, có thể maintain.",
+    "Tự động hóa quy trình migration legacy site sang stack hiện đại (Next.js, Tailwind, TS)."
+  ],
+  "ideas": [
+    "Mở rộng thành CLI tool có UI: nhập URL → chọn framework (Next, Astro, Vite) → xuất monorepo component library.",
+    "Kết hợp với Playwright/Puppeteer để crawl dynamic content, SPA, authentication-gated pages trước khi feed cho AI.",
+    "Xây dựng marketplace template: community chia sẻ preset prompt + config cho các loại site phổ biến (e-commerce, SaaS, blog, docs)."
+  ],
+  "stars": 38365,
+  "starsToday": 112,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "automation",
+    "boilerplate",
+    "claude",
+    "claude-code",
+    "clone",
+    "developer-tools",
+    "nextjs",
+    "react",
+    "reverse-engineering",
+    "shadcn-ui",
+    "skills",
+    "tailwindcss",
+    "template",
+    "typescript",
+    "web-scraping",
+    "website-clone"
+  ],
+  "notePath": "notes/Boilerplate-Starter-Template.md",
+  "createdAt": "2026-11-02T00:13:01.233Z"
+}

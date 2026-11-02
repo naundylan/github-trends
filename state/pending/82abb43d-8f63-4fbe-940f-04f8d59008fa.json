@@ -1,0 +1,30 @@
+{
+  "id": "82abb43d-8f63-4fbe-940f-04f8d59008fa",
+  "repo": "patchy631/ai-engineering-hub",
+  "url": "https://github.com/patchy631/ai-engineering-hub",
+  "category": "AI/LLM",
+  "summary": "Tổng hợp các bài hướng dẫn sâu về LLMs, RAGs và các ứng dụng thực tế của AI agent.",
+  "usecases": [
+    "Xây dựng AI assistants tùy chỉnh với Retrieval-Augmented Generation",
+    "Phát triển các AI agent tự động hóa tác vụ trong môi trường làm việc",
+    "Tạo cơ sở dữ liệu kiến thức chuyên ngành tích hợp LLM"
+  ],
+  "ideas": [
+    "Kết hợp với Model Context Protocol (MCP) để chuẩn hóa giao tiếp giữa các AI agent",
+    "Phát triển bản local-first có thể hoạt động offline cho các dự án nhạy cảm về dữ liệu",
+    "Xây dựng hệ thống multi-agent nghiên cứu và tổng hợp báo cáo tự động"
+  ],
+  "stars": 40202,
+  "starsToday": 1191,
+  "language": "Jupyter Notebook",
+  "topics": [
+    "agents",
+    "ai",
+    "llms",
+    "machine-learning",
+    "mcp",
+    "rag"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-02T00:13:01.233Z"
+}

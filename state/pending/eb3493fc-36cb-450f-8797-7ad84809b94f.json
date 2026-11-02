@@ -1,0 +1,31 @@
+{
+  "id": "eb3493fc-36cb-450f-8797-7ad84809b94f",
+  "repo": "eriklindernoren/ML-From-Scratch",
+  "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+  "category": "Machine Learning",
+  "summary": "ML From Scratch cung cấp các triển khai NumPy cơ bản của các mô hình và thuật toán học máy, từ hồi quy tuyến tính đến học sâu, giúp người học hiểu rõ quy trình xây dựng từ đầu.",
+  "usecases": [
+    "Dùng trong giảng dạy để minh họa cách thức hoạt động bên trong của các thuật toán.",
+    "Tích hợp vào các dự án cần mô hình nhẹ, không phụ thuộc vào thư viện bên ngoài.",
+    "Làm nền tảng để tùy chỉnh và mở rộng thuật toán cho các bài toán chuyên biệt."
+  ],
+  "ideas": [
+    "Tạo một phiên bản Jupyter Notebook tương tác kèm theo hình ảnh minh họa.",
+    "Kết hợp với các bộ dữ liệu mở để tạo các ví dụ thực tế.",
+    "Xây dựng một framework mở cho phép cộng đồng đóng góp các triển khai thuật toán mới."
+  ],
+  "stars": 33248,
+  "starsToday": 42,
+  "language": "Python",
+  "topics": [
+    "machine-learning",
+    "deep-learning",
+    "deep-reinforcement-learning",
+    "machine-learning-from-scratch",
+    "data-science",
+    "data-mining",
+    "genetic-algorithm"
+  ],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-11-02T00:13:01.234Z"
+}

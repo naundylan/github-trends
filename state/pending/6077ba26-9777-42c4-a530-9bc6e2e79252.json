@@ -1,0 +1,28 @@
+{
+  "id": "6077ba26-9777-42c4-a530-9bc6e2e79252",
+  "repo": "techjarves/Portable-Local-Studio",
+  "url": "https://github.com/techjarves/Portable-Local-Studio",
+  "category": "Desktop App",
+  "summary": "Portable Local Studio là một studio AI GUI đa nền tảng, cho phép tạo hình ảnh, tương tác với mô hình LLM định dạng GGUF, chuyển đổi văn bản sang giọng nói và ngược lại mà không cần thiết lập.",
+  "usecases": [
+    "Dùng cho các nhà nghiên cứu AI cần chạy mô hình cục bộ mà không cần kết nối mạng.",
+    "Tạo hình ảnh nhanh cho thiết kế và nội dung sáng tạo.",
+    "Chuyển đổi giọng nói thành văn bản cho ghi chú và tài liệu."
+  ],
+  "ideas": [
+    "Tích hợp plugin chỉnh sửa ảnh để tự động tô màu ảnh đen trắng.",
+    "Thêm tính năng ghi âm hội thảo và chuyển đổi tự động sang ghi chú.",
+    "Kết nối với thiết bị IoT để tạo hình ảnh theo yêu cầu."
+  ],
+  "stars": 1741,
+  "starsToday": 93,
+  "language": "JavaScript",
+  "topics": [
+    "image-generation",
+    "speech-to-text",
+    "text-generation",
+    "text-to-speech"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-02T00:13:01.234Z"
+}

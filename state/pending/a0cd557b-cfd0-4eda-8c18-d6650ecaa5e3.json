@@ -1,0 +1,35 @@
+{
+  "id": "a0cd557b-cfd0-4eda-8c18-d6650ecaa5e3",
+  "repo": "upscayl/upscayl",
+  "url": "https://github.com/upscayl/upscayl",
+  "category": "Desktop App",
+  "summary": "Upscayl là ứng dụng desktop đa nền tảng (Linux, macOS, Windows) dùng AI (ESRGAN) để phóng to hình ảnh miễn phí, mã nguồn mở, thay thế các công cụ trả phí như Gigapixel/Topaz.",
+  "usecases": [
+    "Phóng to ảnh chụp màn hình, ảnh cũ, ảnh low-res để in ấn hoặc hiển thị màn hình lớn mà không bị vỡ nét.",
+    "Nâng cấp chất lượng texture, sprite cho game dev hoặc asset thiết kế khi chỉ có bản low-res.",
+    "Xử lý hàng loạt ảnh cho photographer, designer cần upscale nhanh mà không upload lên cloud."
+  ],
+  "ideas": [
+    "Tích hợp vào pipeline CI/CD tự động upscale asset cho game/app khi commit thay đổi.",
+    "Kết hợp với Stable Diffusion: upscale ảnh sinh ra từ txt2img/img2img ngay trong workflow local.",
+    "Xây dựng plugin cho Figma/Photoshop gọi Upscayl CLI để upscale layer ngay trong công cụ thiết kế."
+  ],
+  "stars": 51581,
+  "starsToday": 124,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "esrgan",
+    "image",
+    "upscale",
+    "electron",
+    "gigapixel",
+    "gigapixel-images",
+    "image-upscaling",
+    "topaz",
+    "upscalerimage",
+    "upscayl"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-02T00:13:01.233Z"
+}
