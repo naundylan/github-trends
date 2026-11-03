@@ -1,0 +1,23 @@
+{
+  "id": "af50655b-096a-4fa3-a42b-716105f3de82",
+  "repo": "mattpocock/sandcastle",
+  "url": "https://github.com/mattpocock/sandcastle",
+  "category": "AI Agent/Automation",
+  "summary": "Cung cấp khung TypeScript để điều phối và chạy các tác nhân code trong môi trường격격, tự động hóa quy trình phát triển mã nguồn một cách an toàn.",
+  "usecases": [
+    "Tự động hóa review và refactor code thông qua các tác nhân AI.",
+    "Cung cấp sandbox an toàn cho các tác nhân thực hiện tác vụ lập trình phức tạp.",
+    "Dùng trong giáo dục và demo khả năng AI cho lập trình."
+  ],
+  "ideas": [
+    "Kết nối với LangChain/AutoGen để xây dựng pipeline code AI tự động.",
+    "Phát triển plugin VS Code điều phối tác nhân trực tiếp từ editor.",
+    "Áp dụng cho test tự động và demo năng lực AI trong phát triển phần mềm."
+  ],
+  "stars": 8812,
+  "starsToday": 28,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-03T20:45:33.438Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "4d6e61a7-4f6d-4f03-841f-f11da530180b",
+  "repo": "jordan-gibbs/hyperresearch",
+  "url": "https://github.com/jordan-gibbs/hyperresearch",
+  "category": "AI Agent/Automation",
+  "summary": "Agent nghiên cứu sâu kết hợp Claude/Codex để thu thập, tìm kiếm và tổng hợp nội dung web thành wiki tìm kiếm được lưu trữ liên tục, kèm API và hỗ trợ MCP.",
+  "usecases": [
+    "Tổng hợp và tìm kiếm kiến thức từ nhiều nguồn web để tạo wiki cá nhân hoặc doanh nghiệp.",
+    "Tự động tạo báo cáo nghiên cứu từ kết quả code và tài liệu liên quan.",
+    "Hỗ trợ phân tích và tổng hợp dữ liệu cho các dự án AI lớn."
+  ],
+  "ideas": [
+    "Sử dụng vector search để tìm kiếm và liên kết nội dung trong wiki nghiên tự động.",
+    "Xây dựng hệ thống tự học liên tục từ các commit và PR mới.",
+    "Tạo dashboard quản lý tiến độ và nguồn tài liệu cho các dự án nghiên."
+  ],
+  "stars": 4364,
+  "starsToday": 27,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "agentskills",
+    "claude-code",
+    "deep-research",
+    "deep-research-agent",
+    "codex",
+    "deepresearch",
+    "research",
+    "research-agent",
+    "research-tools",
+    "codex-plugin",
+    "codex-skill",
+    "citations",
+    "mcp-server"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-03T20:45:33.438Z"
+}

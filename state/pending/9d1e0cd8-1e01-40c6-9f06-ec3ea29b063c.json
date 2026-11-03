@@ -1,0 +1,28 @@
+{
+  "id": "9d1e0cd8-1e01-40c6-9f06-ec3ea29b063c",
+  "repo": "techjarves/Portable-Local-Studio",
+  "url": "https://github.com/techjarves/Portable-Local-Studio",
+  "category": "Desktop App",
+  "summary": "Portable Local Studio là ứng dụng desktop đa nền tplatform cung cấp giao diện đồ họ không cần cài đặt phức tạp cho Image Generation, GGUF LLMs, Text-to-Speech và Speech-to-Text trên Windows, Linux và macOS.",
+  "usecases": [
+    "Sinh ảnh AI nhanh trên desktop mà không cần cấu hình máy chủ",
+    "Chạy các mô hình LLM GGUF cục bộ cho mục đích riêng hoặc học tập",
+    "Chuyển đổi giữa Text-to-Speech và Speech-to-Text cho dự án sáng tạo hoặc hỗ trợ truy cập"
+  ],
+  "ideas": [
+    "Tích hợp với mô hình AI trên đám mây để tự động chuyển đổi giữa cục bộ và đám mây",
+    "Phát triển plugin cho Visual Studio Code để truy cập trực tiếp từ editor",
+    "Tạo chế độ headless cho server hoặc thiết bị nhúng"
+  ],
+  "stars": 1837,
+  "starsToday": 48,
+  "language": "JavaScript",
+  "topics": [
+    "image-generation",
+    "speech-to-text",
+    "text-generation",
+    "text-to-speech"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-03T20:45:33.438Z"
+}

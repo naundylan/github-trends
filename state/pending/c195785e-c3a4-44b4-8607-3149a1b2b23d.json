@@ -1,0 +1,34 @@
+{
+  "id": "c195785e-c3a4-44b4-8607-3149a1b2b23d",
+  "repo": "crmne/zapfast",
+  "url": "https://github.com/crmne/zapfast",
+  "category": "Desktop App",
+  "summary": "ZapFast là một ứng dụng client WhatsApp nhanh và native viết bằng Rust và egui, chạy trên nhiều nền tplatform desktop như Linux, macOS và Windows.",
+  "usecases": [
+    "Messaging WhatsApp riêng tư trên desktop không cần trình duyệt",
+    "Thay thế WhatsApp Web với trải nghiệm native",
+    "Hỗ trợ quản lý nhiều tài khoản WhatsApp trên cùng một máy"
+  ],
+  "ideas": [
+    "Kết hợp automation scripts để gửi tin nhắn tự động",
+    "Tích hợp egui themes để tùy chỉnh giao diện cá nhân hóa",
+    "Phát triển plugin hỗ trợ tính năng AI trong tin nhắn"
+  ],
+  "stars": 2475,
+  "starsToday": 34,
+  "language": "Rust",
+  "topics": [
+    "chat",
+    "desktop-app",
+    "egui",
+    "linux",
+    "macos",
+    "messaging",
+    "rust",
+    "whatsapp",
+    "whatsapp-client",
+    "windows"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-03T20:45:33.438Z"
+}

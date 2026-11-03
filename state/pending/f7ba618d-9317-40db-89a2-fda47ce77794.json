@@ -1,0 +1,27 @@
+{
+  "id": "f7ba618d-9317-40db-89a2-fda47ce77794",
+  "repo": "Yuan1z0825/nature-skills",
+  "url": "https://github.com/Yuan1z0825/nature-skills",
+  "category": "Data Visualization",
+  "summary": "Bộ công cụ Python tạo biểu đồ khoa học tuân theo chuẩn giao thoa của tạp chí Nature cho bài nghiên cứu.",
+  "usecases": [
+    "Tự động tạo biểu đồ dữ liệu thí nghiệm theo chuẩn Nature cho bài báo khoa học.",
+    "Kết hợp với pipeline phân tích dữ liệu Python để xuất đồ họa thống nhất.",
+    "Xuất trực quan hóa chất lượng xuất bản cho nhiều bài nghiên cứu cùng lúc."
+  ],
+  "ideas": [
+    "Phát triển plugin Jupyter Notebook tự động tạo biểu đồ chuẩn Nature.",
+    "Tích hợp với LaTeX để chèn đồ họa trực tiếp vào bài viết khoa học.",
+    "Mở rộng phong cách cho các tạp chí khoa học khác (Science, Cell) bằng cấu hình tương tự."
+  ],
+  "stars": 52033,
+  "starsToday": 167,
+  "language": "Python",
+  "topics": [
+    "codex-skills",
+    "nature",
+    "nature-skills"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-11-03T20:45:33.438Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2321d259-7627-4a04-8dff-7b2e44c8e76f",
+  "repo": "AminBlg/SimpleEnglish",
+  "url": "https://github.com/AminBlg/SimpleEnglish",
+  "category": "AI/LLM",
+  "summary": "Agent Python giúp LLMs viết tài liệu tuân theo chuẩn ASD-STE100 (Technical English đơn giản) cho tài liệu kỹ thuật.",
+  "usecases": [
+    "Tự động tạo tài liệu kỹ thuật an ninh phiên bản cho hệ thống aviation hoặc quân sự",
+    "Giúp kỹ sư viết tài liệu hướng dẫn tuân thủ chuẩn ngôn ngữ đơn giản",
+    "Tích hợp vào pipeline CI để kiểm tra và sửa đổi tài liệu không tuân thủ"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống quản lý tài liệu để tự động cập nhật docs khi code thay đổi",
+    "Dùng để đào tạo LLM viết tiếng Anh kỹ thuật đơn giản cho dự án quốc tế",
+    "Phát triển extension VS Code để kiểm tra tài liệu khi viết code"
+  ],
+  "stars": 4199,
+  "starsToday": 50,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-03T20:45:33.438Z"
+}

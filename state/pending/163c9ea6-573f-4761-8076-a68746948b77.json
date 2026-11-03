@@ -1,0 +1,27 @@
+{
+  "id": "163c9ea6-573f-4761-8076-a68746948b77",
+  "repo": "csyangwen/dsh-memory-evolve",
+  "url": "https://github.com/csyangwen/dsh-memory-evolve",
+  "category": "AI Agent/Automation",
+  "summary": "Dsh-memory-evolve là plugin không cần sửa core cho DeepSeek Harness, cung cấp ghi nhớ dài hạn qua các cuộc hội thoại và tự tiến hóa kỹ năng trong nền, bao gồm nhiều luồng ghi nhớ, quản lý kỹ năng, tìm kiếm cuộc hội thoại và quản lý prompt.",
+  "usecases": [
+    "Giúp AI giữ lại ngữ cảnh và kiến thức qua nhiều phiên chat khác nhau",
+    "Tự động hóa các tác vụ dài hạn bằng cách phát triển kỹ năng mới trong suốt thời gian",
+    "Quản lý và tìm kiếm lịch sử cuộc hội thoại để tái sử dụng prompt hoặc thông tin"
+  ],
+  "ideas": [
+    "Kết hợp cơ sở dữ liệu vector để nâng cấp khả năng tìm kiếm semantic",
+    "Phát triển hệ thống tự động ghi lại kinh nghiệm và tái huấn luyện model",
+    "Tạo giao diện quản lý kỹ năng và lịch sử cho người dùng cuối"
+  ],
+  "stars": 553,
+  "starsToday": 28,
+  "language": "JavaScript",
+  "topics": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-03T20:45:33.438Z"
+}
