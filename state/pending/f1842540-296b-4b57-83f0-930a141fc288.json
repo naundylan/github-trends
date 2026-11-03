@@ -1,0 +1,34 @@
+{
+  "id": "f1842540-296b-4b57-83f0-930a141fc288",
+  "repo": "kgoedecke/doop",
+  "url": "https://github.com/kgoedecke/doop",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án mã nguồn mở thay thế Paper.design, cung cấp canvas thiết kế đa người dùng cho con người và tác nhân AI thiết kế cùng nhau theo thời gian thực.",
+  "usecases": [
+    "Thiết kế cộng đồng cùng hỗ trợ AI trong thời gian thực cho các dự án sáng tạo",
+    "Hỗ trợ giáo dục và đào tạo thiết kế với các tác nhân AI tự động",
+    "Tích hợp vào luồng làm việc sản phẩm để sinh prototyping nhanh chóng"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình tạo code để tự động sinh giao diện từ kết quả thiết kế",
+    "Cho phép người dùng đào tạo và tùy chỉnh tác nhân AI riêng cho canvas",
+    "Xây dựng môi trường cộng đồng nơi thiết kế và AI phát triển song song cùng nhau"
+  ],
+  "stars": 1577,
+  "starsToday": 125,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "claude-design",
+    "design",
+    "canvas",
+    "claude",
+    "design-tool",
+    "mcp",
+    "multiplayer",
+    "codex"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-03T04:50:49.476Z"
+}

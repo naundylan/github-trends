@@ -1,0 +1,44 @@
+{
+  "id": "c7c27bd8-af09-4238-b5a4-0c3b56c16ca2",
+  "repo": "Duecki1/CalibRaw",
+  "url": "https://github.com/Duecki1/CalibRaw",
+  "category": "Desktop App",
+  "summary": "CalibRaw la trinh so RAW ma nguon mo, da nguo hoa, ho tro Linux, Windows, macOS va Android, GPU-accelerated, chinh sua khong huy hoai, merge HDR va AI cuc bo.",
+  "usecases": [
+    "Chinh sua anh RAW tu camera tren desktop Linux/Windows/macOS voi su tot nhat tu GPU",
+    "Xu ly batch HDR va tao mask cuc bo cho photography chuyen nghiep",
+    "Su dung AI cuc bo de tang quality anh khong can ket noi internet"
+  ],
+  "ideas": [
+    "Tich hop mo hinh AI cuc bo de chinh sua mau va tac nhet cho tung anh tu dong",
+    "Xuat ra cac preset chinh sua cho cac phong cai photography cu the",
+    "Phat ban phien ban web-based de xem anh qua trinh duyet khong can cai dat desktop"
+  ],
+  "stars": 253,
+  "starsToday": 25,
+  "language": "Rust",
+  "topics": [
+    "editing",
+    "egui",
+    "image-processing",
+    "photo-editing",
+    "photography",
+    "raw",
+    "raw-editor",
+    "rust",
+    "wgpu",
+    "gpu",
+    "gpu-acceleration",
+    "masks",
+    "android",
+    "android-app",
+    "foss",
+    "linux",
+    "macos",
+    "photo-editor",
+    "photo-management",
+    "windows"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-03T04:50:49.476Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "dfce60ff-dc9f-4b5f-bb0c-5f3aa1635351",
+  "repo": "mayswind/ezbookkeeping",
+  "url": "https://github.com/mayswind/ezbookkeeping",
+  "category": "Productivity/Personal Tool",
+  "summary": "EzBookkeeping la mot ung dung tai chinh ca nhan ma nguon mo, self-hosted, cho phep theo doi va quan ly chi tieu ca nhan mot cach dang va an toan tren nen Go va Vue.",
+  "usecases": [
+    "Theo doi chi tieu hang ngay cho ca nhan",
+    "Quan ly tai chinh ca nhan self-hosted tren homelab ca nhan",
+    "Dong bo du lieu tai chinh qua Docker va API tuy chinh"
+  ],
+  "ideas": [
+    "Tich hop voi ngan hang Open Banking de nhap giao dich tu dong",
+    "Phat dung ung dung di dong dong bo de theo doi chi tieu tren di lai",
+    "Them tinh nang du bao tai chinh theo lich su giao dich"
+  ],
+  "stars": 5952,
+  "starsToday": 26,
+  "language": "Go",
+  "topics": [
+    "self-hosted",
+    "golang",
+    "vue",
+    "app",
+    "money",
+    "personal-finance",
+    "financial",
+    "mobile",
+    "bookkeeping",
+    "accounting",
+    "money-manager",
+    "finances",
+    "docker",
+    "typescript",
+    "expenses",
+    "expense-tracker",
+    "finance-management",
+    "finance",
+    "homelab",
+    "expense-manager"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-11-03T04:50:49.476Z"
+}

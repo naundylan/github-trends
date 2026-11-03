@@ -1,0 +1,23 @@
+{
+  "id": "960382a4-a07c-40b2-8aab-1a69c3bdc013",
+  "repo": "egoist/kero",
+  "url": "https://github.com/egoist/kero",
+  "category": "CLI Tool",
+  "summary": "Kero là ứng dụng terminal native chạy trên nhiều nền tảng, tối ưu hóa cho tác vụ agent với trải nghiệm dòng lệnh nhanh và nhẹ.",
+  "usecases": [
+    "Chạy làm terminal mặc định cho các agent AI trên nhiều hệ điều hành để thực hiện tác vụ tự động.",
+    "Tích hợp vào quy trình CI/CD để agent thực hiện deploy và test tự động.",
+    "Cung cấp giao diện terminal nhẹ cho các hệ thống nhúng hoặc môi trường có tài nguyên hạn chế."
+  ],
+  "ideas": [
+    "Thêm hỗ trợ plugin cho agent để tùy chỉnh lệnh và tác vụ cụ thể.",
+    "Tích hợp khả năng hiển thị kết quả AI trực tiếp trong terminal cho visual debugging.",
+    "Phát triển phiên bản web-based cho phép truy cập terminal từ xa thông qua browser."
+  ],
+  "stars": 1374,
+  "starsToday": 15,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-03T04:50:49.476Z"
+}

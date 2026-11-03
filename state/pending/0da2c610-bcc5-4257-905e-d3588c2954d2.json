@@ -1,0 +1,26 @@
+{
+  "id": "0da2c610-bcc5-4257-905e-d3588c2954d2",
+  "repo": "pocket-id/pocket-id",
+  "url": "https://github.com/pocket-id/pocket-id",
+  "category": "Security/Pentest",
+  "summary": "Nhà cung cấp OpenID Connect và OAuth 2.0 tự lưu trữ, cho phép đăng nhập ứng dụng bằng passkey với trải nghiệm người dùng thân thiện.",
+  "usecases": [
+    "Xác thực không mật khẩu cho ứng dụng web và di động bằng passkey.",
+    "Triển khai IdP tự kiểm soát cho doanh nghiệp yêu cầu lưu trữ dữ liệu danh tính nội bộ."
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống RBAC để quản lý quyền truy cập nhân viên vào các công cụ nội bộ.",
+    "Tích hợp vào cổng giáo dục trực tuyến để học sinh đăng nhập nhanh không cần nhớ mật khẩu."
+  ],
+  "stars": 9925,
+  "starsToday": 64,
+  "language": "Go",
+  "topics": [
+    "idp",
+    "oidc",
+    "passkeys",
+    "self-hosted"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-03T04:50:49.476Z"
+}

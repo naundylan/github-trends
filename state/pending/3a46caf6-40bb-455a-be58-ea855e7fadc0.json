@@ -1,0 +1,27 @@
+{
+  "id": "3a46caf6-40bb-455a-be58-ea855e7fadc0",
+  "repo": "mealie-recipes/mealie",
+  "url": "https://github.com/mealie-recipes/mealie",
+  "category": "Productivity/Personal Tool",
+  "summary": "Mealie là ứng dụng quản lý công thức ăn và lên kế hoạch ăn uống tự lưu trữ, cung cấp backend REST API và frontend Vue để trải nghiệm mượt mà cho cả gia đình.",
+  "usecases": [
+    "Quản lý và tổ chức công thức ăn cho cả gia đình trong một nơi duy nhất.",
+    "Nhập tự động thông tin công thức ăn từ URL, tiết kiệm thời gian so với nhập thủ công.",
+    "Đồng bộ và chia sẻ công thức ăn giữa nhiều thiết bị và người dùng trong gia đình."
+  ],
+  "ideas": [
+    "Tích hợp nhận dạng ảnh để tạo công thức ăn từ ảnh thực đơn hoặc nguyên liệu.",
+    "Tạo API công khai cho phép ứng dụng di động bên thứ ba truy cập và thêm công thức.",
+    "Thêm tính năng gợi ý kế hoạch ăn uống dựa trên lịch cá nhân và hạn sử dụng nguyên liệu."
+  ],
+  "stars": 13784,
+  "starsToday": 17,
+  "language": "Python",
+  "topics": [
+    "meal-plans",
+    "self-hosted",
+    "recipe-manager"
+  ],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-11-03T04:50:49.476Z"
+}

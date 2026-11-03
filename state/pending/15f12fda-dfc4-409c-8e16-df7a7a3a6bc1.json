@@ -1,0 +1,25 @@
+{
+  "id": "15f12fda-dfc4-409c-8e16-df7a7a3a6bc1",
+  "repo": "xpzouying/xiaohongshu-mcp",
+  "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+  "category": "AI Agent/Automation",
+  "summary": "Máy chủ Model Context Protocol (MCP) cho Xiaohongshu, cho phép agent AI tương tác và thao tác dữ liệu trên nền tảng mạng xã hội này.",
+  "usecases": [
+    "Agent AI tự động đăng bài viết và quản lý nội dung trên Xiaohongshu.",
+    "Trích xuất xu hướng và phân tích hành vi người dùng từ Xiaohongshu cho nghiên cứu thị trường."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ lập lịch đăng bài đa nền tảng trên mạng xã hội.",
+    "Xây dựng trợ lý mua sắm AI gợi ý sản phẩm dựa trên bài viết và đánh giá trên Xiaohongshu."
+  ],
+  "stars": 16809,
+  "starsToday": 31,
+  "language": "Go",
+  "topics": [
+    "mcp",
+    "mcp-server",
+    "xiaohongshu-mcp"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-03T04:50:49.476Z"
+}
