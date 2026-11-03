@@ -1,0 +1,40 @@
+{
+  "id": "dfaf4fc2-777a-46b3-b9e6-230cffdbbdf0",
+  "repo": "lexmount/moli",
+  "url": "https://github.com/lexmount/moli",
+  "category": "AI Agent/Automation",
+  "summary": "Moli là trình duyệt headless nhẹ, nhanh và tương thích cao viết bằng Rust, được thiết kế cho AI agents với khả năng tự động hóa trình duyệt và thu thập dữ liệu web hiệu quả.",
+  "usecases": [
+    "Tự động thu thập dữ liệu web (web scraping) cho huấn luyện và enrichment cho các mô hình AI.",
+    "Tự động hóa tương tác trình duyệt cho các AI agent thực hiện tác vụ trên web.",
+    "Chạy crawler trên đám mây với tài nguyên nhẹ và chi phí thấp."
+  ],
+  "ideas": [
+    "Kết hợp Moli với LLM cục bộ để tạo ra agent tự điều hướng web theo yêu cầu ngôn ngữ tự nhiên.",
+    "Sử dụng làm nền tảng kiểm tra UI tự động cho ứng dụng web phiêu lưu trong quy trình phát triển.",
+    "Triển khai như dịch vụ headless browser trên edge computing cho các tác vụ AI real-time scraping."
+  ],
+  "stars": 22378,
+  "starsToday": 240,
+  "language": "Rust",
+  "topics": [
+    "browser",
+    "rust",
+    "servo",
+    "browser-automation",
+    "playwright",
+    "ai-agents",
+    "ai-tools",
+    "cloud-browser",
+    "puppeteer",
+    "web-crawler",
+    "web-crawling",
+    "web-scraper",
+    "web-scraping",
+    "kitesurf",
+    "headless",
+    "headless-browser"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-03T13:25:55.238Z"
+}

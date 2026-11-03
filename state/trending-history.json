@@ -1,7 +1,7 @@
 {
   "JuliusBrussee/caveman": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-03",
     "last_saved": "2026-10-28"
   },
   "obra/superpowers": {
@@ -126,8 +126,8 @@
   },
   "immich-app/immich": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-10-11",
-    "last_saved": "2026-10-10"
+    "last_seen": "2026-11-03",
+    "last_saved": "2026-11-03"
   },
   "chthollyphile/folia-major": {
     "first_seen": "2026-07-04",
@@ -241,8 +241,8 @@
   },
   "avelino/awesome-go": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-10-05",
-    "last_saved": "2026-10-03"
+    "last_seen": "2026-11-03",
+    "last_saved": "2026-11-03"
   },
   "rust-lang/rust": {
     "first_seen": "2026-07-06",
@@ -336,8 +336,8 @@
   },
   "vxcontrol/pentagi": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-10-17",
-    "last_saved": "2026-10-09"
+    "last_seen": "2026-11-03",
+    "last_saved": "2026-11-03"
   },
   "tinyhumansai/openhuman": {
     "first_seen": "2026-07-08",
@@ -506,7 +506,7 @@
   },
   "tashfeenahmed/freellmapi": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-03",
     "last_saved": "2026-10-26"
   },
   "Anil-matcha/Open-Generative-AI": {
@@ -556,7 +556,7 @@
   },
   "shy3130/tick-stock-panel": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-11-03",
     "last_saved": "2026-10-20"
   },
   "pipecat-ai/pipecat": {
@@ -886,8 +886,8 @@
   },
   "MakazhanAlpamys/Soup": {
     "first_seen": "2026-08-31",
-    "last_seen": "2026-10-15",
-    "last_saved": "2026-09-26"
+    "last_seen": "2026-11-03",
+    "last_saved": "2026-11-03"
   },
   "hieunc229/mailflare": {
     "first_seen": "2026-08-31",
@@ -956,8 +956,8 @@
   },
   "blader/humanizer": {
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-08",
-    "last_saved": "2026-09-02"
+    "last_seen": "2026-11-03",
+    "last_saved": "2026-11-03"
   },
   "Gitlawb/openclaude": {
     "first_seen": "2026-09-02",
@@ -1701,7 +1701,7 @@
   },
   "cilium/cilium": {
     "first_seen": "2026-09-17",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-03",
     "last_saved": "2026-10-31"
   },
   "cline/cline": {
@@ -1731,7 +1731,7 @@
   },
   "multica-ai/multica": {
     "first_seen": "2026-09-17",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-03",
     "last_saved": "2026-10-30"
   },
   "yyjeqhc/webcodex": {
@@ -2006,7 +2006,7 @@
   },
   "github/awesome-copilot": {
     "first_seen": "2026-09-23",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-03",
     "last_saved": "2026-10-14"
   },
   "poloclub/transformer-explainer": {
@@ -2321,7 +2321,7 @@
   },
   "keploy/keploy": {
     "first_seen": "2026-09-29",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-03",
     "last_saved": "2026-10-29"
   },
   "kubernetes-sigs/agent-sandbox": {
@@ -2551,8 +2551,8 @@
   },
   "webbrain-one/webbrain": {
     "first_seen": "2026-10-04",
-    "last_seen": "2026-10-05",
-    "last_saved": "2026-10-04"
+    "last_seen": "2026-11-03",
+    "last_saved": "2026-11-03"
   },
   "ai/nanoid": {
     "first_seen": "2026-10-04",
@@ -2661,8 +2661,8 @@
   },
   "aquasecurity/trivy": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-24",
-    "last_saved": "2026-10-06"
+    "last_seen": "2026-11-03",
+    "last_saved": "2026-11-03"
   },
   "ys-ll/uniterm": {
     "first_seen": "2026-10-06",
@@ -3146,7 +3146,7 @@
   },
   "Fission-AI/OpenSpec": {
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-11-03",
     "last_saved": "2026-10-16"
   },
   "tristenlammi/Arrmada": {
@@ -3396,7 +3396,7 @@
   },
   "Asymptote-Labs/agent-beacon": {
     "first_seen": "2026-10-21",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-11-03",
     "last_saved": "2026-10-21"
   },
   "hashicorp/vault": {
@@ -3491,7 +3491,7 @@
   },
   "liguobao/ds-harness-remote": {
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-11-03",
     "last_saved": "2026-10-23"
   },
   "genlayerlabs/genlayer-project-boilerplate": {
@@ -3811,7 +3811,7 @@
   },
   "Mesh-LLM/mesh-llm": {
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "last_saved": "2026-10-29"
   },
   "screenpipe/screenpipe": {
@@ -3866,7 +3866,7 @@
   },
   "janhq/jan": {
     "first_seen": "2026-10-30",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-03",
     "last_saved": "2026-10-30"
   },
   "milind-soni/OpenMausBot": {
@@ -3961,7 +3961,7 @@
   },
   "herdrdev/herdr": {
     "first_seen": "2026-11-01",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "last_saved": "2026-11-01"
   },
   "vercel-labs/agent-desktop": {
@@ -3999,47 +3999,27 @@
     "last_seen": "2026-11-03",
     "last_saved": "2026-11-02"
   },
-  "DeanChensj/jiangshan-map": {
+  "floci-io/floci": {
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
     "last_saved": "2026-11-03"
   },
-  "techjarves/Portable-Local-Studio": {
+  "Usagi-org/ai-goofish-monitor": {
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
     "last_saved": "2026-11-03"
   },
-  "mealie-recipes/mealie": {
+  "andreavolpato/spektrafilm": {
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
     "last_saved": "2026-11-03"
   },
-  "kgoedecke/doop": {
+  "ivankovic/omnidiff": {
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
     "last_saved": "2026-11-03"
   },
-  "egoist/kero": {
-    "first_seen": "2026-11-03",
-    "last_seen": "2026-11-03",
-    "last_saved": "2026-11-03"
-  },
-  "mayswind/ezbookkeeping": {
-    "first_seen": "2026-11-03",
-    "last_seen": "2026-11-03",
-    "last_saved": "2026-11-03"
-  },
-  "pocket-id/pocket-id": {
-    "first_seen": "2026-11-03",
-    "last_seen": "2026-11-03",
-    "last_saved": "2026-11-03"
-  },
-  "xpzouying/xiaohongshu-mcp": {
-    "first_seen": "2026-11-03",
-    "last_seen": "2026-11-03",
-    "last_saved": "2026-11-03"
-  },
-  "Duecki1/CalibRaw": {
+  "lexmount/moli": {
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
     "last_saved": "2026-11-03"

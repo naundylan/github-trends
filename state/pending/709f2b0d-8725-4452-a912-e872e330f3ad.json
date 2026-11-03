@@ -1,0 +1,40 @@
+{
+  "id": "709f2b0d-8725-4452-a912-e872e330f3ad",
+  "repo": "immich-app/immich",
+  "url": "https://github.com/immich-app/immich",
+  "category": "Cross-platform Mobile",
+  "summary": "Immich là một giải pháp quản lý ảnh và video self-hosting cao hiệu suất, hoạt động như một thay thế hoàn toàn cho Google Photos, cho phép người dùng lưu trữ và tổ chức thư viện đa phương tiện trên máy chủ cá nhân.",
+  "usecases": [
+    "Cá nhân lưu trữ và truy cập thư viện ảnh/video lớn từ mọi thiết bị qua mạng nội bộ hoặc internet an toàn.",
+    "Đối tượng doanh nghiệp/nhà picturesystem cần giải pháp quản lý ảnh riêng tư tuân thủ GDPR, không phụ thuộc vào đám mây bên thứ ba.",
+    "Nhóm phát triển muốn tạo nền tảng chia sẻ ảnh nội bộ với khả năng tìm kiếm và album tự động."
+  ],
+  "ideas": [
+    "Tích nhận diện khuôn mặt và phân loại tự động bằng AI để tạo ra các album thông minh mà không cần gửi dữ liệu lên cloud.",
+    "Xây dựng ứng dụng đồng bộ hai chiều giữa Immich và thiết bị di động, cho phép truy cập offline và tự động backup từ camera điện thoại.",
+    "Tạo plugin cho phép tích hợp Immich với các hệ thống quản lý dự án hoặc blog để nhúng tự động album ảnh vào nội dung."
+  ],
+  "stars": 118057,
+  "starsToday": 112,
+  "language": "TypeScript",
+  "topics": [
+    "backup-tool",
+    "mobile-app",
+    "photo-gallery",
+    "photos",
+    "self-hosted",
+    "videos",
+    "flutter",
+    "nestjs",
+    "nodejs",
+    "google-photos-alternative",
+    "svelte",
+    "sveltekit",
+    "google-photos",
+    "photos-management",
+    "typescript",
+    "javascript"
+  ],
+  "notePath": "notes/Cross-platform-Mobile.md",
+  "createdAt": "2026-11-03T13:25:55.238Z"
+}

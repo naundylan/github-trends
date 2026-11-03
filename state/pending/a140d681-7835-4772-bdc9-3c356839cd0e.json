@@ -1,0 +1,42 @@
+{
+  "id": "a140d681-7835-4772-bdc9-3c356839cd0e",
+  "repo": "vxcontrol/pentagi",
+  "url": "https://github.com/vxcontrol/pentagi",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống AI tự chủ hoàn toàn capable thực hiện các tác vụ kiểm thử xâm nhập phức tạp, tích hợp nhiều agent và GraphQL để tự động hóa bảo mật.",
+  "usecases": [
+    "Tự động hóa kiểm thử xâm nhập cho doanh nghiệp để tìm lỗ hổng an ninh.",
+    "Giám sát và đánh giá bảo mật hệ thống GraphQL trong thời gian thực.",
+    "Tích hợp vào pipeline CI/CD để kiểm tra bảo mật tự động tại mỗi commit."
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM để tạo ra các tình huống tấn công thích nghi dựa trên phản hồi an ninh.",
+    "Triển khai làm agent tự chủ cho các tình huống bảo mật đám mây phức tạp.",
+    "Phát triển dashboard trực quan hóa kết quả kiểm thử xâm nhập bằng GraphQL."
+  ],
+  "stars": 33139,
+  "starsToday": 145,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "ai-security-tool",
+    "autonomous-agents",
+    "golang",
+    "graphql",
+    "multi-agent-system",
+    "penetration-testing-tools",
+    "react",
+    "security-automation",
+    "security-testing",
+    "security-tools",
+    "anthropic",
+    "gpt",
+    "offensive-security",
+    "open-source",
+    "openai",
+    "penetration-testing",
+    "self-hosted"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-03T13:25:55.238Z"
+}

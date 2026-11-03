@@ -1,0 +1,37 @@
+{
+  "id": "6a1b0b42-42ae-49fb-af3e-b4d2c4ace7e2",
+  "repo": "blader/humanizer",
+  "url": "https://github.com/blader/humanizer",
+  "category": "AI Agent/Automation",
+  "summary": "Một skill agent Python giúp loại bỏ dấu hiệu của văn bản tạo bởi AI, làm cho đầu ra của LLM trông như do con người viết.",
+  "usecases": [
+    "Làm sạch đầu ra từ các mô hình LLM để hiển thị cho người dùng cuối.",
+    "Tăng tính tự nhiên cho nội dung viết tự động trong các ứng dụng nội dung.",
+    "Giúp bài viết nghiên cứu hoặc sáng tạo tránh bị phát hiện là AI."
+  ],
+  "ideas": [
+    "Kết hợp với các agent tự động để tạo nội dung marketing nghe như con người.",
+    "Sử dụng làm bộ lọc trong các hệ thống giáo dục để kiểm tra bài tập sinh viên.",
+    "Tạo extension cho code editor để tự động humanize comments/docstrings."
+  ],
+  "stars": 64229,
+  "starsToday": 460,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "ai-writing",
+    "claude-code",
+    "codex",
+    "cursor",
+    "prompt-engineering",
+    "writing-tools",
+    "ai-humanizer",
+    "chatgpt",
+    "claude",
+    "humanize-ai-text",
+    "humanizer",
+    "llm"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-03T13:25:55.238Z"
+}

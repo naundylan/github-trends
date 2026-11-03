@@ -1,0 +1,23 @@
+{
+  "id": "b220e279-d365-4086-81ed-88e5152fc6fc",
+  "repo": "andreavolpato/spektrafilm",
+  "url": "https://github.com/andreavolpato/spektrafilm",
+  "category": "Computer Vision",
+  "summary": "Mô phỏng quy trình ảnh analog theo phổ phổ năng, mô phỏng màu và đặc tính hóa học của phim ảnh cũ bằng Python.",
+  "usecases": [
+    "Tạo hiệu ứng màu và grain phim analog cho ảnh số trong công nghệ sáng tạo số.",
+    "Nghiên cứu và phục hồi dữ liệu ảnh cũ qua mô phỏng phổ phổ năng.",
+    "Phần mềm giáo dục/khoa học về vật lý ảnh và kỹ thuật quay phim analog."
+  ],
+  "ideas": [
+    "Kết hợp với AI tạo ảnh (Text-to-Image) để thêm chất lượng phim analog cho kết quả.",
+    "Xây dựng ứng dụng di động cho nhà ảnh chụp và xem trước hiệu ứng analog ngay trên thiết bị.",
+    "Mô phỏng các loại phim hiếm và quá khứ để bảo tồn kỹ thuật ảnh truyền thống."
+  ],
+  "stars": 1803,
+  "starsToday": 139,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-11-03T13:25:55.238Z"
+}
