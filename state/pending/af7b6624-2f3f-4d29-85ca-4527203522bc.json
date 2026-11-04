@@ -1,0 +1,31 @@
+{
+  "id": "af7b6624-2f3f-4d29-85ca-4527203522bc",
+  "repo": "schollz/croc",
+  "url": "https://github.com/schollz/croc",
+  "category": "CLI Tool",
+  "summary": "Công cụ dòng lệnh Go truyền file an toàn và nhanh giữa các máy tính qua kết nối P2P.",
+  "usecases": [
+    "Chuyển file an toàn giữa các máy tính trong mạng nội bộ mà không cần server trung gian.",
+    "Truyền dữ liệu nhạy cảm giữa các máy chủ với mã hóa end-to-end.",
+    "Automate file transfers trong scripts hệ thống và CI/CD."
+  ],
+  "ideas": [
+    "Kết hợp với SSH tunnel để truyền file giữa các môi trường 격離 an toàn.",
+    "Build web UI wrapper để quản lý các phiên transfer qua browser.",
+    "Sử dụng protocol để build file sharing service đa nền tách nhẹ như Dropbox."
+  ],
+  "stars": 40859,
+  "starsToday": 18,
+  "language": "Go",
+  "topics": [
+    "file-sharing",
+    "tcp",
+    "golang",
+    "peer-to-peer",
+    "data-transfer",
+    "pake",
+    "transfer"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-04T10:14:48.456Z"
+}

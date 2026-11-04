@@ -1,0 +1,23 @@
+{
+  "id": "009bbdcf-e337-44ee-b74c-d3f421371d36",
+  "repo": "github/copilot-cli",
+  "url": "https://github.com/github/copilot-cli",
+  "category": "CLI Tool",
+  "summary": "GitHub Copilot CLI mang khả năng coding agent của GitHub Copilot trực tiếp vào terminal, giúp tự động tạo và sửa code thông qua các lệnh đơn giản.",
+  "usecases": [
+    "Tạo code nhanh chóng mà không cần mở IDE",
+    "Tự động hóa quy trình sửa lỗi và review code trong pipeline CI/CD",
+    "Hỗ trợ sinh boilerplate code cho các dự án mới chỉ bằng lệnh terminal"
+  ],
+  "ideas": [
+    "Kết hợp với shell tùy chỉnh tạo assistant code cá nhân toàn màn hình terminal",
+    "Phát triển plugin CI/CD tự động review và sửa code mỗi lần push",
+    "Sử dụng để generate mã cho nhiều ngôn ngữ khác nhau trong môi trường headless"
+  ],
+  "stars": 11344,
+  "starsToday": 13,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-04T10:14:48.456Z"
+}

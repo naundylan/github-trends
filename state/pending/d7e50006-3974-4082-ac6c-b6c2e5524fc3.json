@@ -1,0 +1,44 @@
+{
+  "id": "d7e50006-3974-4082-ac6c-b6c2e5524fc3",
+  "repo": "qax-os/excelize",
+  "url": "https://github.com/qax-os/excelize",
+  "category": "Developer Tool",
+  "summary": "Thư viện Go đọc/viết file Excel/XLSX hỗ trợ formula, chart, pivot table và định dạng Office phức tạp.",
+  "usecases": [
+    "Export báo cáo tài chính từ database Go sang file Excel có định dạng và formula tự động.",
+    "Tạo file template Excel cho bộ phận kinh doanh nhập liệu theo cấu trúc nhất quán.",
+    "Xử lý và phân tích dữ liệu lớn từ file Excel trong ứng dụng backend."
+  ],
+  "ideas": [
+    "Kết hợp với Go + React build web app edit spreadsheet trực tiếp trên browser.",
+    "Tự động hóa báo cáo hàng ngày merge nhiều file Excel thành file có tổng hợp chart.",
+    "Build microservice chuyển đổi file Excel sang CSV/JSON cho pipeline ETL."
+  ],
+  "stars": 21061,
+  "starsToday": 14,
+  "language": "Go",
+  "topics": [
+    "xlsx",
+    "excel",
+    "microsoft",
+    "office",
+    "go",
+    "excelize",
+    "spreadsheet",
+    "statistics",
+    "formula",
+    "analytics",
+    "visualization",
+    "xml",
+    "table",
+    "chart",
+    "ecma-376",
+    "ooxml",
+    "vba",
+    "ai",
+    "mcp",
+    "agent"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-04T10:14:48.456Z"
+}
