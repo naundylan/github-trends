@@ -1,0 +1,34 @@
+{
+  "id": "dbe8ea5c-2a80-4276-a97e-7651c13c56cc",
+  "repo": "floci-io/floci",
+  "url": "https://github.com/floci-io/floci",
+  "category": "DevOps/CI-CD",
+  "summary": "Một trình mô phỏng AWS cục bộ nhẹ và miễn phí cho phép phát triển và test các ứng dụng AWS (EC2, ECS, S3, SQS) mà không cần tài khoản đám mây thực tế.",
+  "usecases": [
+    "Run AWS services locally in CI/CD pipelines for automated testing.",
+    "Debug and develop serverless applications offline without incurring cloud costs.",
+    "Enable team collaboration on AWS-dependent projects in offline environments."
+  ],
+  "ideas": [
+    "Integrate with Terraform to validate infrastructure changes before deployment.",
+    "Extend emulation to additional AWS services not currently supported.",
+    "Build a marketplace of local AWS emulators for different development scenarios."
+  ],
+  "stars": 28781,
+  "starsToday": 482,
+  "language": "Java",
+  "topics": [
+    "aws",
+    "aws-emulation",
+    "localstack",
+    "devops",
+    "docker",
+    "ec2",
+    "ecs",
+    "s3",
+    "sqs",
+    "testcontainers"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-04T01:03:08.597Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "a4b11670-63b5-42eb-a4f7-671b8ec11df7",
+  "repo": "github/awesome-copilot",
+  "url": "https://github.com/github/awesome-copilot",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Awesome-Copilot là danh sách nguồn mở cộng đồng chứa hướng dẫn, agents và cấu hình để tối ưu sử dụng GitHub Copilot.",
+  "usecases": [
+    "Tạo prompt tùy chỉnh để Copilot sinh code phù hợp với cấu trúc và phong cách dự án.",
+    "Phát triển agents tự động hóa các tác vụ review code và sinh documentation.",
+    "Học và áp dụng prompt-engineering để tăng hiệu suất viết code và giảm lỗi."
+  ],
+  "ideas": [
+    "Xây dashboard quản lý và tìm kiếm skill Copilot theo ngôn ngữ, framework hoặc tác vụ.",
+    "Kết hợp với CI/CD để tự động review code và đề xuất cải tiến dựa trên cấu hình Copilot.",
+    "Phát triển VS Code extension hiển thị trực tiếp instructions Copilot trên sidebar."
+  ],
+  "stars": 40769,
+  "starsToday": 44,
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "github-copilot",
+    "prompt-engineering",
+    "hacktoberfest",
+    "agent-skills",
+    "agents",
+    "awesome",
+    "custom-agents"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-11-04T01:03:08.597Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "4579b823-28a5-4b94-9578-31d3e703e154",
+  "repo": "ivankovic/omnidiff",
+  "url": "https://github.com/ivankovic/omnidiff",
+  "category": "Developer Tool",
+  "summary": "một công cụ diffing nhanh, mạnh mẽ và chính xác dựa trên Rust, hỗ trợ phân biệt cấu trúc AST và diff code review cho Git, phù hợp cho chất lượng code và review tự động",
+  "usecases": [
+    "tích hợp vào quy trình code review để hiển thị diff cấu trúc AST thay vì diff dòng văn bản thô",
+    "giúp tự động hóa kiểm tra chất lượng code và phát hiện thay đổi không mong muốn",
+    "sử dụng làm công cụ so sánh cấu trúc cho các plugin IDE hoặc pipeline CI"
+  ],
+  "ideas": [
+    "tích hợp vào pipeline CI/CD để kiểm tự động structural diff trên mỗi pull request",
+    "phát triển plugin cho VS Code hiển thị diff AST trực tiếp trong editor",
+    "sử dụng cho việc migrate codebase từ ngôn ngữ này sang ngôn ngữ khác bằng so sánh cấu trúc"
+  ],
+  "stars": 984,
+  "starsToday": 190,
+  "language": "Rust",
+  "topics": [
+    "ast-diff",
+    "ast-diff-tool",
+    "ast-differencing",
+    "code-quality",
+    "code-review",
+    "codereview",
+    "codereview-tools",
+    "diff",
+    "difftool",
+    "git",
+    "git-diff",
+    "git-difftool",
+    "ratatui",
+    "structural-diff",
+    "syntax-aware-diff"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-04T01:03:08.597Z"
+}

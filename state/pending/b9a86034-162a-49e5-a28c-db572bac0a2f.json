@@ -1,0 +1,40 @@
+{
+  "id": "b9a86034-162a-49e5-a28c-db572bac0a2f",
+  "repo": "lexmount/moli",
+  "url": "https://github.com/lexmount/moli",
+  "category": "AI Agent/Automation",
+  "summary": "Một trình duyệt headless nhanh và nhẹ viết bằng Rust, được thiết kế đặc biệt cho các tác vụ AI agent, tự động hóa browser và web scraping.",
+  "usecases": [
+    "AI agents control browser to automate web tasks like form filling and navigation.",
+    "High-performance web scraping and crawling for data collection.",
+    "Automated testing of web applications in headless environments."
+  ],
+  "ideas": [
+    "Combine with LLMs to create autonomous web-navigation AI assistants.",
+    "Build a SaaS platform for scalable browser-based AI automation.",
+    "Integrate with Rust ecosystems to develop custom browser extensions for security analysis."
+  ],
+  "stars": 22443,
+  "starsToday": 229,
+  "language": "Rust",
+  "topics": [
+    "browser",
+    "rust",
+    "servo",
+    "browser-automation",
+    "playwright",
+    "ai-agents",
+    "ai-tools",
+    "cloud-browser",
+    "puppeteer",
+    "web-crawler",
+    "web-crawling",
+    "web-scraper",
+    "web-scraping",
+    "kitesurf",
+    "headless",
+    "headless-browser"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-04T01:03:08.597Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cb0e61c5-4853-456f-922d-afb8e8f6aac2",
+  "repo": "andreavolpato/spektrafilm",
+  "url": "https://github.com/andreavolpato/spektrafilm",
+  "category": "Developer Tool",
+  "summary": "Spectrafilm là thư viện Python mô phỏng quy trình ảnh analog qua phân tích phổ, tái tạo chính xác các đặc trưng của phim truyền thống.",
+  "usecases": [
+    "Mô phỏng hiệu ứng màu, grain và tương phản của nhiều loại phim analog trong sáng tạo số.",
+    "Tích hợp vào pipeline xử lý ảnh để tự động áp dụng phong cách film trên ảnh chụp kỹ thuật số.",
+    "Hỗ trợ giáo dục và nghiên cứu về vật lý ánh sáng tương tác với vật liệu nhạy cảm ảnh analog."
+  ],
+  "ideas": [
+    "Kết hợp AI để dự đoán kết quả spectral dựa trên điều kiện shooting và loại phim.",
+    "Phát triển plugin real-time cho phần mềm chỉnh ảnh sử dụng mô phỏng analog.",
+    "Tạo web app so sánh ảnh gốc với kết quả mô phỏng analog."
+  ],
+  "stars": 1831,
+  "starsToday": 120,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-04T01:03:08.597Z"
+}

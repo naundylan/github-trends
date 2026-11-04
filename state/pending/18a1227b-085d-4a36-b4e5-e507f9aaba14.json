@@ -1,0 +1,29 @@
+{
+  "id": "18a1227b-085d-4a36-b4e5-e507f9aaba14",
+  "repo": "Christ9038/Ydisks-Xianyu-Helper",
+  "url": "https://github.com/Christ9038/Ydisks-Xianyu-Helper",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống tự động hóa cho Xianyu sử dụng Go và React, cho phép nhiều tài khoản tự động đăng bán và trả lời tin nhắn.",
+  "usecases": [
+    "Tự động quản lý và đăng sản phẩm cho nhiều shop Xianyu cùng lúc",
+    "Trả lời tự động tin nhắn khách hàng dựa trên từ khóa hoặc kịch bản",
+    "Giảm công sức thủ công cho các chủ shop đa tài khoản trong việc vận hành"
+  ],
+  "ideas": [
+    "Kết hợp LLM để tạo câu trả lời thông minh và đa dạng hơn thay vì tĩnh",
+    "Mở rộng hỗ trợ cho các nền marketplace khác như转转 hoặc闲鱼 quốc tế",
+    "Thêm tính năng phân tích dữ liệu bán hàng và báo cáo hiệu suất qua dashboard"
+  ],
+  "stars": 2201,
+  "starsToday": 15,
+  "language": "Go",
+  "topics": [
+    "xianyu",
+    "xianyu-assistant",
+    "xianyu-auto-reply",
+    "xianyu-bot",
+    "xianyu-tool"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-04T01:03:08.597Z"
+}

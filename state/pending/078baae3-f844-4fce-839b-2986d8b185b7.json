@@ -1,0 +1,37 @@
+{
+  "id": "078baae3-f844-4fce-839b-2986d8b185b7",
+  "repo": "Usagi-org/ai-goofish-monitor",
+  "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+  "category": "AI Agent/Automation",
+  "summary": "một hệ thống giám sát đa tác vụ dựa trên Playwright và AI cho nền Xianyu, tự động theo dõi sản phẩm theo thời gian thực/lên lịch và phân tích thông minh, kèm giao diện quản lý backend đầy đủ",
+  "usecases": [
+    "theo dõi hàng loạt sản phẩm trên Xianyu theo lịch trình và báo cáo thay đổi giá/trạng thái",
+    "tự động lọc và phân tích sản phẩm phù hợp với sở thích người dùng bằng AI",
+    "cảnh báo real-time khi có sản phẩm mới hoặc thay đổi trong danh sách theo dõi"
+  ],
+  "ideas": [
+    "kết hợp với Gemini để dự đoán xu hướng giá sản phẩm trên Xianyu",
+    "phát triển bot tự động đặt mua khi có sản phẩm phù hợp xuất hiện",
+    "mở API cho phép các nhà bán hàng theo dõi tương tác khách hàng"
+  ],
+  "stars": 16369,
+  "starsToday": 228,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "playwright",
+    "automation",
+    "gemini",
+    "goofish",
+    "tool",
+    "xianyu",
+    "xian-yu",
+    "ai-assistant",
+    "ai-tools",
+    "open-source",
+    "xianyu-bot",
+    "openai"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-04T01:03:08.597Z"
+}

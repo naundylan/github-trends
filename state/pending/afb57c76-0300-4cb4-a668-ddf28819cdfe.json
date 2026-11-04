@@ -1,0 +1,44 @@
+{
+  "id": "afb57c76-0300-4cb4-a668-ddf28819cdfe",
+  "repo": "datadrivenconstruction/OpenConstructionERP",
+  "url": "https://github.com/datadrivenconstruction/OpenConstructionERP",
+  "category": "AI/LLM",
+  "summary": "OpenConstructionERP là hệ thống ERP mã nguồn mở cho xây dựng, tích hợp AI matching chi phí, xử lý BOQ/CAD/BIM takeoff và quản lý dữ liệu chi phí cho nhiều thị trường.",
+  "usecases": [
+    "Tính lượng (BOQ) và ước tính chi phí cho dự án xây dựng sử dụng dữ liệu BIM/CAD",
+    "Phân matching chi phí AI cho các vị trí dự án, giúp ước lượng chính xác cho các thị trường khác nhau",
+    "Quản lý ERP toàn diện cho công ty xây dựng: 190+ modules, đa ngôn ngữ, dữ liệu giá cho 40+ thị trường"
+  ],
+  "ideas": [
+    "Tích hợp dự báo chi phí dự án dựa trên AI và dữ liệu lịch sử từ nhiều thị trường",
+    "Tạo dashboard trực quan hóa tiến độ chi phí dự án xây dựng theo thời gian thực",
+    "Phát triển plugin cho các phần mềm CAD/BIM phổ biến để nhập liệu tự động vào ERP"
+  ],
+  "stars": 1148,
+  "starsToday": 18,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "bim",
+    "boq",
+    "cad",
+    "construction",
+    "cost-estimation",
+    "erp",
+    "fastapi",
+    "ifc",
+    "takeoff",
+    "open-source",
+    "construction-management",
+    "cost-management",
+    "postgresql",
+    "python",
+    "quantity-surveying",
+    "construction-estimating",
+    "din276",
+    "gaeb",
+    "self-hosted"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-04T01:03:08.597Z"
+}
