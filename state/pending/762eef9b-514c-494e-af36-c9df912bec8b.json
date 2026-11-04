@@ -1,0 +1,30 @@
+{
+  "id": "762eef9b-514c-494e-af36-c9df912bec8b",
+  "repo": "ConardLi/garden-skills",
+  "url": "https://github.com/ConardLi/garden-skills",
+  "category": "AI Agent/Automation",
+  "summary": "ConardLi's open-source Skills collection cung cấp các công cụ cho web design, knowledge retrieval và image generation, tập trung vào AI agents và ứng dụng LLM.",
+  "usecases": [
+    "Tự động hóa tác vụ web qua AI agents",
+    "Kiến thức retrieval cho ứng dụng LLM",
+    "Sinh ảnh và xử lý đa mô hình"
+  ],
+  "ideas": [
+    "Kết hợp voice assistant để tạo trợ lý cá nhân",
+    "Deploy làm plugin cho trình duyệt hoặc IDE",
+    "Xây dựng dashboard quản lý skills đa mô hình"
+  ],
+  "stars": 13829,
+  "starsToday": 184,
+  "language": "JavaScript",
+  "topics": [
+    "agent",
+    "claude",
+    "gpt-image-2",
+    "rag",
+    "skills",
+    "web-design"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-04T19:13:25.253Z"
+}

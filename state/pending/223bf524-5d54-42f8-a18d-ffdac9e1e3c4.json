@@ -1,0 +1,42 @@
+{
+  "id": "223bf524-5d54-42f8-a18d-ffdac9e1e3c4",
+  "repo": "t8y2/dbx",
+  "url": "https://github.com/t8y2/dbx",
+  "category": "Database",
+  "summary": "t8y2/dbx là client cơ sở dữ liệu nhẹ (25MB) hỗ trợ 100+ database như MySQL, PostgreSQL, SQLite, MongoDB, tích hợp AI, CLI, Docker và giao diện GUI.",
+  "usecases": [
+    "Quản lý nhiều loại database khác nhau trong một giao diện duy nhất",
+    "Thực hiện truy vấn và automation qua CLI",
+    "Sử dụng AI assistant để hỗ trợ viết và tối ưu câu truy vấn"
+  ],
+  "ideas": [
+    "Tích hợp với CI/CD pipelines cho database migration",
+    "Phát triển plugin cho IDE để truy vấn trực tiếp",
+    "Sử dụng MCP Server để kết nối với các ứng dụng AI bên ngoài"
+  ],
+  "stars": 29067,
+  "starsToday": 165,
+  "language": "Rust",
+  "topics": [
+    "clickhouse",
+    "database",
+    "database-client",
+    "database-management",
+    "gui",
+    "mongodb",
+    "mysql",
+    "postgresql",
+    "redis",
+    "rust",
+    "sql-server",
+    "sqlite",
+    "tauri",
+    "vue",
+    "ai",
+    "cli",
+    "docker",
+    "mcp"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-11-04T19:13:25.253Z"
+}

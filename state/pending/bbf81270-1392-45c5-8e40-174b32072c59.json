@@ -1,0 +1,32 @@
+{
+  "id": "bbf81270-1392-45c5-8e40-174b32072c59",
+  "repo": "MichaelCade/90DaysOfDevOps",
+  "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+  "category": "DevOps/CI-CD",
+  "summary": "Kế hoạch học tập 90 ngày DevOps bao gồm nguyên tắc, quy trình, công cụ và trường hợp sử dụng, là bản đồ học tập cho cộng đồng.",
+  "usecases": [
+    "Học DevOps theo lộ trình hệ thống từ cơ bản đến nâng cao",
+    "Tìm reference công cụ IaC như Terraform, Ansible, Kubernetes",
+    "Chuẩn bị kỹ năng DevOps cho phỏng vấn và thực tế dự án"
+  ],
+  "ideas": [
+    "Tạo ứng dụng theo dõi tiến độ học DevOps cá nhân",
+    "Kết hợp GitHub Actions tự động đánh giá tiến độ học",
+    "Phát triển bot tự giải bài tập DevOps thực hành"
+  ],
+  "stars": 30304,
+  "starsToday": 156,
+  "language": "Shell",
+  "topics": [
+    "devops",
+    "kubernetes",
+    "containers",
+    "iac",
+    "terraform",
+    "ansible",
+    "networking",
+    "backup"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-04T19:13:25.253Z"
+}

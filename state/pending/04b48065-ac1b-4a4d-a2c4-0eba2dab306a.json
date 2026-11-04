@@ -1,0 +1,33 @@
+{
+  "id": "04b48065-ac1b-4a4d-a2c4-0eba2dab306a",
+  "repo": "The-PR-Agent/pr-agent",
+  "url": "https://github.com/The-PR-Agent/pr-agent",
+  "category": "AI Agent/Automation",
+  "summary": "PR Agent AI tự động review Pull Requests, hỗ trợ OpenAI, Anthropic, Ollama để đánh giá code và tạo comment tự động.",
+  "usecases": [
+    "Tự động hóa review code trong quy trình CI/CD",
+    "Giúp lập trình viên nhận feedback tức thời trên Pull Requests",
+    "Hỗ trợ đánh giá chất lượng code với nhiều model LLM"
+  ],
+  "ideas": [
+    "Tích hợp agent vào hệ thống ticket management bên ngoài GitHub",
+    "Phát triển module riêng cho từng ngôn ngữ với prompts tinh chỉnh",
+    "Sử dụng làm基础 (basis) cho AI coding assistant nội bộ doanh nghiệp"
+  ],
+  "stars": 14654,
+  "starsToday": 279,
+  "language": "Python",
+  "topics": [
+    "openai",
+    "pull-request",
+    "code-review",
+    "pull-requests",
+    "coding-assistant",
+    "devtools",
+    "ai",
+    "anthropic",
+    "ollama"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-04T19:13:25.253Z"
+}

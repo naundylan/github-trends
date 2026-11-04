@@ -1,0 +1,23 @@
+{
+  "id": "4c6c0300-28bb-4c4f-942c-0f77ba95ab0c",
+  "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
+  "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+  "category": "Desktop App",
+  "summary": "DiscImageStudio là ứng dụngdesktop C# dành cho quản lý và xử lý ảnh cho Discord, cung cấp giao diện trực quan để tạo, chỉnh sửa và tổ chức tài nguyên hình ảnh.",
+  "usecases": [
+    "Quản lý tập hợp ảnh cho server Discord",
+    "Chuyển đổi và tối ưu định dạng ảnh cho emoji và banner",
+    "Tự động tạo thumbnail và avatar cho channel"
+  ],
+  "ideas": [
+    "Tích hợp API sinh ảnh AI để tạo tự động hình ảnh cho server",
+    "Thêm tính năng batch xử lý và lưu trữ đám mây",
+    "Phát triển plugin mở rộng cho các bot Discord phổ biến"
+  ],
+  "stars": 6361,
+  "starsToday": 1792,
+  "language": "C#",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-04T19:13:25.253Z"
+}

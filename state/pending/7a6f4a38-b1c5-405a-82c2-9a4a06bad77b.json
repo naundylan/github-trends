@@ -1,0 +1,44 @@
+{
+  "id": "7a6f4a38-b1c5-405a-82c2-9a4a06bad77b",
+  "repo": "Muvon/octomind",
+  "url": "https://github.com/Muvon/octomind",
+  "category": "AI Agent/Automation",
+  "summary": "Trình tự AI coding agent mã nguồn mở, hỗ trợ nhiều mô hình LLM, chạy trong terminal, CI hoặc làm daemon tự động hóa phát triển phần mềm.",
+  "usecases": [
+    "Tự động hóa review code và sinh đoạn code dựa trên yêu cầu tự nhiên",
+    "Trợ lý phát triển AI trong pipeline CI/CD để tăng hiệu suất",
+    "Tạo agent tự viết và sửa code cho nhiều ngôn ngữ lập trình"
+  ],
+  "ideas": [
+    "Tích hợp agent làm pair programmer AI cục bộ trong VS Code",
+    "Tự động sửa bug và tạo Pull Request qua agent",
+    "Kết hợp nhiều LLM (Ollama, OpenRouter) so sánh và chọn kết quả tốt nhất"
+  ],
+  "stars": 480,
+  "starsToday": 126,
+  "language": "Rust",
+  "topics": [
+    "agentic-ai",
+    "ai",
+    "cli",
+    "developer-tools",
+    "mcp",
+    "vibe-coding",
+    "ai-assistant",
+    "autonomous-agents",
+    "claude-code",
+    "code-assistant",
+    "ai-agents",
+    "rust",
+    "agent-client-protocol",
+    "ai-coding-agent",
+    "claude-code-alternative",
+    "coding-agent",
+    "deepseek",
+    "llm",
+    "ollama",
+    "openrouter"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-04T19:13:25.253Z"
+}

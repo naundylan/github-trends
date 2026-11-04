@@ -1,0 +1,44 @@
+{
+  "id": "9b2fc4ef-2b29-4969-8e83-24548e335744",
+  "repo": "FareedKhan-dev/kimi-k3-in-c",
+  "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+  "category": "AI/LLM",
+  "summary": "Trình inference LLM Kimi K3 bằng C99 chạy 2.78 tỷ tham số trên CPU đơn lẻ chỉ với 8.24 GB RAM, không phụ thuộc BLAS hay framework bên ngoài.",
+  "usecases": [
+    "Chạy inference LLM trên thiết bị có tài nguyên hạn chế",
+    "Nghiên cứu transformer từ scratch với quantization mxfp4",
+    "Tối ưu inference cho hệ thống từ-scratch không phụ thuộc thư viện"
+  ],
+  "ideas": [
+    "Kết hợp với RAG chạy hoàn toàn trên thiết bị di động",
+    "Sử dụng làm inference engine cho microcontroller cao cấp",
+    "Phát triển phiên bản hỗ trợ nhiều ngôn ngữ với MoE architecture"
+  ],
+  "stars": 10162,
+  "starsToday": 351,
+  "language": "C",
+  "topics": [
+    "avx2",
+    "c99",
+    "cpu-inference",
+    "deep-learning",
+    "from-scratch",
+    "inference-engine",
+    "kimi-k3",
+    "linear-attention",
+    "llm",
+    "llm-inference",
+    "machine-learning",
+    "memory-efficient",
+    "mixture-of-experts",
+    "moe",
+    "mxfp4",
+    "quantization",
+    "simd",
+    "systems-programming",
+    "transformer",
+    "zero-dependencies"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-04T19:13:25.253Z"
+}
