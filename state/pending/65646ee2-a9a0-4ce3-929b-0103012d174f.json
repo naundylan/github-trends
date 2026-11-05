@@ -1,0 +1,30 @@
+{
+  "id": "65646ee2-a9a0-4ce3-929b-0103012d174f",
+  "repo": "southleft/figma-console-mcp",
+  "url": "https://github.com/southleft/figma-console-mcp",
+  "category": "AI/LLM",
+  "summary": "Figma Console MCP là một API cho design system, cho phép kết nối AI với Figma để trích xuất, tạo và debug các thành phần thiết kế một cách tự động.",
+  "usecases": [
+    "Trích xuất hệ thống thiết kế từ Figma để dùng trong phát triển sản phẩm.",
+    "Tự động tạo mã nguồn hoặc tài liệu thiết kế thông qua AI.",
+    "Debug và kiểm tra tính nhất quán của design system bằng AI."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động cập nhật design system khi có thay đổi.",
+    "Sử dụng AI để tạo ra các phiên bản thiết kế tùy theo ngữ cảnh hoặc thương hiệu.",
+    "Tạo một công cụ quản lý phiên bản cho design system dựa trên dữ liệu Figma."
+  ],
+  "stars": 3131,
+  "starsToday": 242,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "design-systems",
+    "figma",
+    "figma-api",
+    "figma-plugins",
+    "mcp"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-05T19:21:20.465Z"
+}

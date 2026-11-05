@@ -1,0 +1,29 @@
+{
+  "id": "452d32a6-14b5-4ead-b9c4-c6205cf6dc2b",
+  "repo": "HunYiSage/dsh-purge",
+  "url": "https://github.com/HunYiSage/dsh-purge",
+  "category": "Other",
+  "summary": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+  "usecases": [
+    "Khám phá và đánh giá HunYiSage/dsh-purge cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 19069,
+  "starsToday": 1064,
+  "language": "JavaScript",
+  "topics": [
+    "dsh-plugin",
+    "dsh-plugins",
+    "llm-jailbreak",
+    "harness-jailbreak",
+    "jailbreak",
+    "deepseek",
+    "deepseek-harness"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-05T19:21:20.465Z"
+}

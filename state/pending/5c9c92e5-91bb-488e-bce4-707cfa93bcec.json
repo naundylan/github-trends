@@ -1,0 +1,30 @@
+{
+  "id": "5c9c92e5-91bb-488e-bce4-707cfa93bcec",
+  "repo": "Thysrael/Horizon",
+  "url": "https://github.com/Thysrael/Horizon",
+  "category": "Other",
+  "summary": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+  "usecases": [
+    "Khám phá và đánh giá Thysrael/Horizon cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 12851,
+  "starsToday": 540,
+  "language": "Python",
+  "topics": [
+    "aggregator",
+    "news",
+    "llm",
+    "python",
+    "mcp",
+    "openclaw",
+    "feishu-bot",
+    "webhook"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-05T19:21:20.465Z"
+}

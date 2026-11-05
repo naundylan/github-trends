@@ -1,0 +1,26 @@
+{
+  "id": "78403c55-1fc7-49e0-8748-b5fed12700c5",
+  "repo": "github/docs",
+  "url": "https://github.com/github/docs",
+  "category": "Documentation/Learning Resource",
+  "summary": "Kho lưu trữ chính thức cho trang docs.github.com, chứa tất cả tài liệu nguồn và cấu hình cho nền tảng GitHub.",
+  "usecases": [
+    "Đóng góp và duy trì tài liệu chính thức cho GitHub Pages và các tính năng mới.",
+    "Tự động xây dựng và triển khai docs cho các repository cá nhân/org.",
+    "Hỗ trợ developers tìm hiểu về API và tính năng GitHub thông qua docs có cấu trúc."
+  ],
+  "ideas": [
+    "Tích hợp CI/CD để tự động cập nhật docs khi merge pull request.",
+    "Xây dựng công cụ tìm kiếm nội bộ docs nâng cao cho developers.",
+    "Sử dụng làm mẫu (boilerplate) cho các dự án open-source khác cần xây dựng docs site."
+  ],
+  "stars": 21300,
+  "starsToday": 178,
+  "language": "TypeScript",
+  "topics": [
+    "docs",
+    "works-with-codespaces"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-11-05T19:21:20.465Z"
+}

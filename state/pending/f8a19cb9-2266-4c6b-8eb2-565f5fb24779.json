@@ -1,0 +1,28 @@
+{
+  "id": "f8a19cb9-2266-4c6b-8eb2-565f5fb24779",
+  "repo": "longbridge/gpui-kit",
+  "url": "https://github.com/longbridge/gpui-kit",
+  "category": "UI/Component Library",
+  "summary": "gpui-kit là thư viện component GUI viết bằng Rust giúp xây dựng ứng dụng desktop cross-platform với hiệu năng cao và giao diện hiện đại.",
+  "usecases": [
+    "Xây dựng ứng dụng desktop native cho macOS, Windows, Linux với một codebase Rust",
+    "Tạo các công cụ quản lý hệ thống hoặc CLI có giao diện đồ họa hiện đại",
+    "Phát triển các ứng dụng AI/LLM có giao diện tương tác cao"
+  ],
+  "ideas": [
+    "Kết hợp với tauri hoặc electron để tạo ứng dụng desktop nhẹ có giao diện gpui",
+    "Sử dụng làm foundation cho các plugin IDE hoặc tools developer",
+    "Phát triển giao diện cho các mô hình AI chạy local với visualisation real-time"
+  ],
+  "stars": 19348,
+  "starsToday": 262,
+  "language": "Rust",
+  "topics": [
+    "gpui",
+    "desktop-application",
+    "uikit",
+    "rust"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-11-05T19:21:20.465Z"
+}

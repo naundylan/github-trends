@@ -1,0 +1,37 @@
+{
+  "id": "7aa42f3b-787d-465c-aca9-60620cfc64e3",
+  "repo": "sandbox-quantum/switch",
+  "url": "https://github.com/sandbox-quantum/switch",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng mã nguồn mở triển khai đồng nghiệp AI trên các nền tảng giao tiếp như Slack, Teams, Discord, Telegram và Mattermost, hỗ trợ kết hợp agent harness và mô hình AI linh hoạt.",
+  "usecases": [
+    "Tự động hóa tương tác và tác vụ trong kênh Slack/Teams cho đội ngũ phát triển và tổ chức.",
+    "Tạo bot AI đa kênh cho cộng đồng, hỗ trợ trả lời tự động và thực hiện lệnh.",
+    "Triển khai đồng nghiệp AI tự hosting cho doanh nghiệp cần kiểm soát dữ liệu và tuân thủ an ninh."
+  ],
+  "ideas": [
+    "Kết hợp với LangChain để xây dựng luồng làm việc AI đa tác vụ tự động trên nhiều nền tảng.",
+    "Mở rộng hỗ trợ cho các nền tảng chat khác như Telegram Groups và IRC automation.",
+    "Tạo marketplace plugin cho phép kết nối các mô hình AI và agent harness khác nhau."
+  ],
+  "stars": 3927,
+  "starsToday": 215,
+  "language": "Python",
+  "topics": [
+    "agent-orchestration",
+    "ai-agents",
+    "discord",
+    "mcp",
+    "microsoft-teams",
+    "multi-agent",
+    "slack",
+    "ai",
+    "chatops",
+    "langchain",
+    "open-source",
+    "openai",
+    "self-hosted"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-05T19:21:20.465Z"
+}

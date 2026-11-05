@@ -1,0 +1,23 @@
+{
+  "id": "32045572-d278-4c44-bd1e-32b1125ff19a",
+  "repo": "microsoft/VibeVoice",
+  "url": "https://github.com/microsoft/VibeVoice",
+  "category": "AI/LLM",
+  "summary": "Mô hình AI giọng mở源源码 tiên phong cho Voice AI, tập trung vào tổng hợp và xử lý giọng nói chất lượng cao.",
+  "usecases": [
+    "Phát triển ứng dụng trợ lý giọng nói tùy chỉnh cho thiết bị di động, web hoặc hệ điều hành.",
+    "Tích hợp khả năng tổng hợp giọng nói real-time vào game, trải nghiệm VR/AR hoặc ứng dụng giáo dục.",
+    "Tạo nội dung voice-over, podcast hoặc bản đọc sách tự động bằng mô hình AI."
+  ],
+  "ideas": [
+    "Nghiên cứu điều chỉnh (fine-tuning) mô hình cho các giọng nói vùng miền, bản địa hoặc ngôn ngữ ít được đại diện.",
+    "Kết hợp với ASR (Automatic Speech Recognition) để tạo vòng tròn hoàn chỉnh text-to-speech-and-speech-to-text.",
+    "Áp dụng trong các trường hợp sử dụng thương mại như trợ lý gọi điện, đọc báo tin tức hoặc tạo nội dung marketing voice."
+  ],
+  "stars": 55695,
+  "starsToday": 214,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-05T19:21:20.465Z"
+}

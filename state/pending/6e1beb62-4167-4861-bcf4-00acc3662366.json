@@ -1,0 +1,27 @@
+{
+  "id": "6e1beb62-4167-4861-bcf4-00acc3662366",
+  "repo": "google/skills",
+  "url": "https://github.com/google/skills",
+  "category": "AI Agent/Automation",
+  "summary": "Một bộ thư viện kỹ năng cho các agent AI để tương tác với các sản phẩm và dịch vụ Google, giúp tự động hóa quy trình làm việc với Google Cloud và các công cụ liên quan.",
+  "usecases": [
+    "Tự động hóa quản lý tài nguyên Google Cloud thông qua agent AI.",
+    "Tích hợp agent với Google Workspace để thực hiện tác vụ văn phòng.",
+    "Phát triển assistant AI có thể điều khiển các dịch vụ Google theo lệnh ngôn ngữ tự nhiên."
+  ],
+  "ideas": [
+    "Kết hợp với LangChain để tạo agent đa-modals truy cập Google services.",
+    "Xây dựng công cụ tự động báo cáo từ dữ liệu Google Cloud.",
+    "Sử dụng cho các kịch bản tự động test và triển khai infrastructure trên Google Cloud."
+  ],
+  "stars": 22270,
+  "starsToday": 199,
+  "language": "Python",
+  "topics": [
+    "google",
+    "googlecloud",
+    "skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-05T19:21:20.465Z"
+}

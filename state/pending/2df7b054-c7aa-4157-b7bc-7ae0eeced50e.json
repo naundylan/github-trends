@@ -1,0 +1,31 @@
+{
+  "id": "2df7b054-c7aa-4157-b7bc-7ae0eeced50e",
+  "repo": "tester-army/e2e",
+  "url": "https://github.com/tester-army/e2e",
+  "category": "Testing/QA",
+  "summary": "Tester Army là framework e2e hiện đại cho ứng dụng web và mobile, hỗ trợ Playwright và tự động hóa kiểm thử trên nhiều nền tảng.",
+  "usecases": [
+    "Chạy kiểm thử end-to-end cho web apps trên các trình duyệt khác nhau.",
+    "Tự động hóa kiểm thử ứng dụng mobile trên thực thiết bị và mô phỏng.",
+    "Tích hợp vào pipeline CI/CD để phát hiện sớm các lỗi giao diện và chức năng."
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ cho các framework frontend như React Native hoặc Flutter.",
+    "Thêm khả năng tạo báo cáo chi tiết và phân tích dự đoán lỗi bằng AI.",
+    "Xây dựng dashboard quản lý kết quả kiểm thử across nhiều project."
+  ],
+  "stars": 13311,
+  "starsToday": 237,
+  "language": "TypeScript",
+  "topics": [
+    "e2e",
+    "e2e-testing",
+    "end-to-end-testing",
+    "mobile",
+    "mobile-testing",
+    "playwright",
+    "web"
+  ],
+  "notePath": "notes/Testing-QA.md",
+  "createdAt": "2026-11-05T19:21:20.465Z"
+}

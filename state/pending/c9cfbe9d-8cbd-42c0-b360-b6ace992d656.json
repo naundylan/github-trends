@@ -1,0 +1,37 @@
+{
+  "id": "c9cfbe9d-8cbd-42c0-b360-b6ace992d656",
+  "repo": "tembo/voxl",
+  "url": "https://github.com/tembo/voxl",
+  "category": "Web Frontend",
+  "summary": "Voxtream là giải pháp streaming desktop web cực nhanh cho phép truy cập và điều khiển từ xa qua trình duyệt bằng WebCodecs và VNC, phù hợp cho AI agents và công việc từ xa.",
+  "usecases": [
+    "Truy cập từ xa vào máy Linux/Mac/Windows qua web browser mà không cài đặt client",
+    "Hỗ trợ AI agents tương tác với desktop vật lý thông qua giao diện web",
+    "Phòng thực nghiệm/devOps kiểm tra môi trường phần mềm an toàn trên đám mây"
+  ],
+  "ideas": [
+    "Kết hợp với voice control để điều khiển desktop bằng giọng nói thông qua web",
+    "Triển khai làm nền tảng remote cho các mô hình AI đa tác vụ",
+    "Sử dụng làm giao diện cho desktop streaming trong các hệ thống học máy phân tán"
+  ],
+  "stars": 1149,
+  "starsToday": 285,
+  "language": "Rust",
+  "topics": [
+    "desktop-streaming",
+    "linux",
+    "macos",
+    "sandbox",
+    "windows",
+    "ai-agents",
+    "cli",
+    "computer-use",
+    "novnc",
+    "rust",
+    "vnc",
+    "webcodecs",
+    "software-factory"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-11-05T19:21:20.465Z"
+}
