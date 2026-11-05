@@ -1,0 +1,28 @@
+{
+  "id": "72c5195c-0c7e-4011-ac96-c9589e171c2f",
+  "repo": "hydro-project/infinity",
+  "url": "https://github.com/hydro-project/infinity",
+  "category": "AI Agent/Automation",
+  "summary": "Hydro Infinity là một runtime và giao thức công cụ cho phép quản lý và phối hợp các agent một cách có cấu trúc, hỗ trợ tính đồng thời và phân tán trong các hệ thống AI.",
+  "usecases": [
+    "Triển khai nhiều agent AI cùng nhau giải quyết bài toán phức tạp mà không xung đột tài nguyên.",
+    "Xây dựng hệ thống tự động hóa quy trình (workflow) nơi các agent giao tiếp và chia sẻ dữ liệu trong môi trường phân tán.",
+    "Phát triển ứng dụng real-time đòi hỏi đồng thời nhiều tác vụ như trò chơi AI, mô phỏng hoặc dịch vụ hỗ trợ khách hàng."
+  ],
+  "ideas": [
+    "Kết hợp với các framework LLM như LangChain để tạo ra hệ thống agent đa năng tự quản lý tài nguyên.",
+    "Sử dụng trong các hệ thống đám mây (cloud-native) để tự động scale tác vụ xử lý dựa trên tải.",
+    "Phát triển giao thức giao tiếp giữa agent được chuẩn hóa để interop giữa các thư viện Rust khác nhau."
+  ],
+  "stars": 695,
+  "starsToday": 79,
+  "language": "Rust",
+  "topics": [
+    "agents",
+    "concurrency",
+    "distributed-systems",
+    "rust"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-05T01:22:27.818Z"
+}

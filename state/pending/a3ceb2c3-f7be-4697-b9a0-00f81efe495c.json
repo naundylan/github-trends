@@ -1,0 +1,27 @@
+{
+  "id": "a3ceb2c3-f7be-4697-b9a0-00f81efe495c",
+  "repo": "xpzouying/xiaohongshu-mcp",
+  "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+  "category": "AI Agent/Automation",
+  "summary": "MCP server dành cho xiaohongshu.com, cho phép AI agent truy cập và tương tác với nội dung, đánh giá sản phẩm của nền xã hội thương mại.",
+  "usecases": [
+    "AI agent trích xuất thông tin đánh giá sản phẩm và xu hướng thời trang từ xiaohongshu.",
+    "Tự động hóa việc thu thập và phân loại nội dung xiaohongshu cho nghiên cứu thị trường.",
+    "Cung cấp ngữ cảnh sản phẩm cho mô hình LLM khi tư vấn hoặc so sánh mua sắm."
+  ],
+  "ideas": [
+    "Kết hợp bot tư vấn mua sắm để đề xuất sản phẩm dựa trên nội dung xiaohongshu.",
+    "Phát triển dashboard phân tích xu hướng thị trường từ dữ liệu xiaohongshu.",
+    "Tích hợp với các nền tảng e-commerce khác để đồng bộ nội dung cross-platform."
+  ],
+  "stars": 16902,
+  "starsToday": 43,
+  "language": "Go",
+  "topics": [
+    "mcp",
+    "mcp-server",
+    "xiaohongshu-mcp"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-05T01:22:27.818Z"
+}

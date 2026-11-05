@@ -1,0 +1,40 @@
+{
+  "id": "8778d243-9838-485d-bf55-9b5e22a01b44",
+  "repo": "crmne/spotifast",
+  "url": "https://github.com/crmne/spotifast",
+  "category": "Desktop App",
+  "summary": "Spotifast là ứng dụng music player nhẹ và native cho Linux, macOS, Windows, cho phép phát nhạc local và hỗ trợ Spotify Connect để điều khiển qua các thiết bị khác.",
+  "usecases": [
+    "Thay thế cho ứng dụng Spotify chính thức trên desktop khi người dùng muốn giao diện nhẹ và kiểm soát toàn bộ thư viện local.",
+    "Phát triển trải nghiệm nghe nhạc cá nhân trên máy tính không có kết nối internet liên tục nhưng vẫn muốn truy cập Spotify Connect.",
+    "Phù hợp cho thiết bị nhúng hoặc PC chuyên dụng dùng để phát nhạc trong không gian sống (home audio setup)."
+  ],
+  "ideas": [
+    "Thêm tính năng equalizer và tùy chỉnh âm thanh để cạnh tranh với các player music truyền thống.",
+    "Tích hợp voice control hoặc shortcuts để điều khiển playback mà không cần mở ứng dụng.",
+    "Mở rộng hỗ trợ các dịch vụ streaming khác thông qua protocol librespot để tạo ra một universal music player."
+  ],
+  "stars": 9696,
+  "starsToday": 76,
+  "language": "Rust",
+  "topics": [
+    "audio",
+    "cross-platform",
+    "desktop-app",
+    "egui",
+    "gui",
+    "librespot",
+    "linux",
+    "macos",
+    "mpris",
+    "music",
+    "music-player",
+    "rust",
+    "spotify",
+    "spotify-client",
+    "spotify-connect",
+    "windows"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-05T01:22:27.818Z"
+}

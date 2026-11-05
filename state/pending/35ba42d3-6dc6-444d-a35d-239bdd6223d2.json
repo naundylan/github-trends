@@ -1,0 +1,28 @@
+{
+  "id": "35ba42d3-6dc6-444d-a35d-239bdd6223d2",
+  "repo": "pocket-id/pocket-id",
+  "url": "https://github.com/pocket-id/pocket-id",
+  "category": "Other",
+  "summary": "Pocket-ID là một OpenID Connect Certified và OAuth 2.0 provider thân thiện với người dùng, cho phép ứng dụng hỗ trợ đăng nhập qua passkeys với tự-hosting.",
+  "usecases": [
+    "Đăng nhập an toàn cho web và ứng dụng với passkeys",
+    "Cung cấp Identity Provider (IdP) tự-hosted cho doanh nghiệp và dự án mã nguồn mở",
+    "Tích hợp xác thực đa yếu tố và chuẩn OIDC vào các ứng dụng hiện có"
+  ],
+  "ideas": [
+    "Kết hợp Pocket-ID với các framework web Rust để xây dựng hệ thống auth toàn bộ",
+    "Phát triển nền tảng SSO cá nhân kết hợp với các dịch vụ lưu trữ mật khẩu",
+    "Sử dụng làm cơ sở cho hệ thống xác thực phân tán trên nhiều microservice"
+  ],
+  "stars": 10003,
+  "starsToday": 38,
+  "language": "Go",
+  "topics": [
+    "idp",
+    "oidc",
+    "passkeys",
+    "self-hosted"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-05T01:22:27.818Z"
+}

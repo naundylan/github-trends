@@ -1,0 +1,32 @@
+{
+  "id": "c874801e-f099-4e11-84a4-8f3c73aaa7de",
+  "repo": "mermaid-js/mermaid",
+  "url": "https://github.com/mermaid-js/mermaid",
+  "category": "Developer Tool",
+  "summary": "Mermaid là thư viện TypeScript sinh diagram (flowchart, sequence) từ văn bản, thường dùng trong documentation và markdown.",
+  "usecases": [
+    "Tự động tạo flowchart cho tài liệu kỹ thuật và README",
+    "Hiển thị diagram trong web/blog từ text",
+    "Kết hợp CMS để sinh diagram động"
+  ],
+  "ideas": [
+    "Plugin VS Code hiển thị diagram real-time khi edit text",
+    "Tích hợp AI sinh diagram từ mô tả ngôn ngữ tự nhiên",
+    "Dashboard hiển thị diagram Mermaid từ cơ sở dữ liệu"
+  ],
+  "stars": 91012,
+  "starsToday": 23,
+  "language": "TypeScript",
+  "topics": [
+    "documentation",
+    "flowchart",
+    "javascript",
+    "typescript",
+    "uml-diagrams",
+    "diagrams",
+    "diagrams-as-code",
+    "mindmap"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-05T01:22:27.818Z"
+}

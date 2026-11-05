@@ -1,0 +1,31 @@
+{
+  "id": "7a6dc06e-31c8-4658-a9e4-57b3f8442434",
+  "repo": "emilk/egui",
+  "url": "https://github.com/emilk/egui",
+  "category": "UI/Component Library",
+  "summary": "egui là thư viện GUI theo chế độ tức thời (immediate mode) viết bằng Rust, chạy được cả trên web (Wasm) và native, phù hợp cho game development và ứng dụng giao diện nhanh.",
+  "usecases": [
+    "Phát triển giao diện người chơi (HUD) cho game Rust",
+    "Tạo ứng dụng desktop/web nhanh với logic UI đơn giản mà không cần quản lý vòng đời widget",
+    "Prototyping giao diện dùng để kiểm tra logic ứng dụng nhanh chóng"
+  ],
+  "ideas": [
+    "Kết hợp egui với WebGPU để tạo giao diện người dùng hiện đại cho web game",
+    "Sử dụng egui làm overlay tương tác cho các ứng dụng 3D hoặc engine khác",
+    "Xây dựng công cụ cấu hình và tùy chỉnh cho các dự án mã nguồn mở"
+  ],
+  "stars": 31998,
+  "starsToday": 33,
+  "language": "Rust",
+  "topics": [
+    "gui",
+    "rust",
+    "game-development",
+    "wasm",
+    "imgui",
+    "gamedev",
+    "egui"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-11-05T01:22:27.818Z"
+}

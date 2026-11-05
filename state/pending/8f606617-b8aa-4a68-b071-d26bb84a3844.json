@@ -1,0 +1,32 @@
+{
+  "id": "8f606617-b8aa-4a68-b071-d26bb84a3844",
+  "repo": "mcpjungle/MCPJungle",
+  "url": "https://github.com/mcpjungle/MCPJungle",
+  "category": "AI Agent/Automation",
+  "summary": "Một nền tảng trung tâm để quản lý và kết nối các MCP server, cung cấp ngữ cảnh và tự động hóa cho AI agents.",
+  "usecases": [
+    "Quản lý nhiều MCP server từ một giao diện duy nhất cho các dự án AI.",
+    "Kết nối AI agent với các nguồn dữ liệu và tools một cách đồng bộ.",
+    "Triển khai self-hosted MCP infrastructure cho doanh nghiệp."
+  ],
+  "ideas": [
+    "Kết hợp với LangChain và các framework AI agent để mở rộng khả năng tools.",
+    "Phát triển plugin IDE để truy cập và test MCP servers trực tiếp.",
+    "Xây dựng marketplace các MCP server chia sẻ cho cộng đồng phát triển AI."
+  ],
+  "stars": 1589,
+  "starsToday": 51,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "model-context-protocol",
+    "infrastructure",
+    "mcp-gateway",
+    "mcp",
+    "mcp-server",
+    "self-hosted",
+    "mcp-registry"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-05T01:22:27.818Z"
+}

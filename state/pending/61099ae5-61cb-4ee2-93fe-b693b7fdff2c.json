@@ -1,0 +1,32 @@
+{
+  "id": "61099ae5-61cb-4ee2-93fe-b693b7fdff2c",
+  "repo": "Thysrael/Horizon",
+  "url": "https://github.com/Thysrael/Horizon",
+  "category": "AI/LLM",
+  "summary": "Một hệ thống AI tạo bản tin hàng ngày bằng tiếng Anh và Trung文, tự động thu thập và tổng hợp nội dung",
+  "usecases": [
+    "tự động tạo bản tin hàng ngày cho cá nhân hoặc doanh nghiệp",
+    "cung cấp bản tin theo ngôn ngữ kép cho cộng đồng đa어 ngữ",
+    "tích hợp với bot Feishu hoặc webhook để phân phối tin tức"
+  ],
+  "ideas": [
+    "thêm khả năng tùy chọn chủ đề tin tức (kinh tế, công nghệ, thể thao)",
+    "xây dựng ứng dụng di động để nhận bản tin hàng ngày",
+    "kết hợp với phân tích cảm xúc để đánh giá thái độ về các sự kiện"
+  ],
+  "stars": 12497,
+  "starsToday": 121,
+  "language": "Python",
+  "topics": [
+    "aggregator",
+    "news",
+    "llm",
+    "python",
+    "mcp",
+    "openclaw",
+    "feishu-bot",
+    "webhook"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-05T01:22:27.818Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "41f08e56-808d-4709-856e-ad98c10a2fd5",
+  "repo": "egoist/kero",
+  "url": "https://github.com/egoist/kero",
+  "category": "CLI Tool",
+  "summary": "Kero là ứng dụng terminal native cross-platform viết bằng Go, tối ưu hóa cho tác vụ agent, cung giao diện terminal nhanh và nhẹ.",
+  "usecases": [
+    "Terminal cho tự động hóa và quản lý hệ thống",
+    "Giao diện terminal cho ứng dụng AI agent",
+    "Phát triển và debug dự án Go trên nhiều nền tảng"
+  ],
+  "ideas": [
+    "Kết hợp với framework AI agent để terminal có thể điều khiển bằng lệnh hoặc GUI",
+    "Tích hợp plugin hiển thị diagram/markdown trong terminal",
+    "Phát triển phiên bản web-based terminal truy cập từ xa"
+  ],
+  "stars": 1417,
+  "starsToday": 27,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-05T01:22:27.818Z"
+}
