@@ -1,0 +1,37 @@
+{
+  "id": "7435f16c-2fdf-42ae-8265-75fb9aa98d31",
+  "repo": "labmlai/annotated_deep_learning_paper_implementations",
+  "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+  "category": "AI/LLM",
+  "summary": "Triển khai và hướng dẫn cho 60+ bài báo deep learning, bao gồm transformers, optimizers, GANs, reinforcement learning và nhiều chủ đề ML khác, kèm ghi chú song song.",
+  "usecases": [
+    "Học sinh và nghiên cứu dùng để hiểu và triển khai các bài báo deep learning nổi tiếng.",
+    "Nguồn tham khảo để nghiên cứu architectures transformers, optimizers và GANs.",
+    "Dự án nghiên cứu hoặc prototyping nhanh các mô hình deep learning."
+  ],
+  "ideas": [
+    "Kết hợp với một chatbot LLM để giải thích các architecture transformer.",
+    "Sử dụng làm cơ sở cho một course tự học deep learning có tự động đánh giá code.",
+    "Phát triển một công cụ trực quan hóa sự khác biệt giữa các optimizer hoặc architecture."
+  ],
+  "stars": 67697,
+  "starsToday": 18,
+  "language": "Python",
+  "topics": [
+    "deep-learning",
+    "deep-learning-tutorial",
+    "pytorch",
+    "gan",
+    "transformers",
+    "reinforcement-learning",
+    "optimizers",
+    "neural-networks",
+    "transformer",
+    "machine-learning",
+    "attention",
+    "literate-programming",
+    "lora"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-05T10:11:53.803Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "0116a425-cd2d-4910-b9eb-f90f23bf1438",
+  "repo": "m5stack/StackChan",
+  "url": "https://github.com/m5stack/StackChan",
+  "category": "Embedded/IoT",
+  "summary": "Dự án mã nguồn mở từ M5Stack dành cho nền tảng robot và thiết bị nhúng, viết bằng ngôn ngữ Go.",
+  "usecases": [
+    "Xây dựng robot tương tác hoặc chatbot vật lý cho mục đích giáo dục.",
+    "Điều khiển và giám sát thiết bị IoT qua phần cứng M5Stack."
+  ],
+  "ideas": [
+    "Kết hợp mô hình ngôn ngữ lớn để tạo trợ lý robot tự chủ.",
+    "Phát triển trung tâm điều khiển nhà thông minh cục bộ dựa trên StackChan."
+  ],
+  "stars": 1499,
+  "starsToday": 2,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-11-05T10:11:53.803Z"
+}

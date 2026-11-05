@@ -1,0 +1,36 @@
+{
+  "id": "cdad2602-f935-4b12-bce1-4d924aa2fd66",
+  "repo": "gdy666/lucky",
+  "url": "https://github.com/gdy666/lucky",
+  "category": "Other",
+  "summary": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser",
+  "usecases": [
+    "Khám phá và đánh giá gdy666/lucky cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 8340,
+  "starsToday": 7,
+  "language": "Go",
+  "topics": [
+    "ddns",
+    "ipv6",
+    "socat",
+    "stun",
+    "wol",
+    "cron",
+    "acme",
+    "aliyunpan",
+    "filebrowser",
+    "ftp",
+    "webdav",
+    "volcengine",
+    "dynadot",
+    "vercel"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-05T10:11:53.803Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "87961877-960b-436b-a02c-3830b80eb911",
+  "repo": "influxdata/telegraf",
+  "url": "https://github.com/influxdata/telegraf",
+  "category": "Developer Tool",
+  "summary": "Một agent thu thập và xử lý metrics, logs và dữ liệu đa dạng, được viết bằng Go, thường dùng với InfluxDB để theo dõi thời gian thực và giám sát hệ thống.",
+  "usecases": [
+    "Thu thập metrics từ các dịch vụ hệ thống và ứng dụng để theo dõi hiệu năng",
+    "Tổng hợp logs từ nhiều nguồn khác nhau (Modbus, MQTT, Windows Event Log) vào một nơi tập trung",
+    "Cấu hình pipeline dữ liệu để gửi vào InfluxDB hoặc Kafka cho phân tích thời gian thực"
+  ],
+  "ideas": [
+    "Sử dụng làm nền tảng cho hệ thống giám sát năng lượng nhà thông minh",
+    "Kết hợp với các cảm biến IoT để theo dõi môi trường và trực quan hóa dữ liệu qua Grafana",
+    "Triển khai làm agent sidecar trong kiến trúc microservices để thu thập metric tự động"
+  ],
+  "stars": 17895,
+  "starsToday": 3,
+  "language": "Go",
+  "topics": [
+    "telegraf",
+    "monitoring",
+    "time-series",
+    "metrics",
+    "golang",
+    "influxdb",
+    "json",
+    "kafka",
+    "logs",
+    "modbus",
+    "mqtt",
+    "opcua",
+    "windows-eventlog",
+    "xpath",
+    "hacktoberfest",
+    "telemetry-collection"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-05T10:11:53.803Z"
+}

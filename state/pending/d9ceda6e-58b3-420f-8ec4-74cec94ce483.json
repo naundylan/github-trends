@@ -1,0 +1,28 @@
+{
+  "id": "d9ceda6e-58b3-420f-8ec4-74cec94ce483",
+  "repo": "rustdesk/rustdesk-server",
+  "url": "https://github.com/rustdesk/rustdesk-server",
+  "category": "Microservices",
+  "summary": "RustDesk Server là chương trình server self-hosted cho remote desktop, cho phép điều khiển và truy cập máy tính từ xa qua mạng.",
+  "usecases": [
+    "Thiết lập server remote desktop riêng cho doanh nghiệp để nhân viên truy cập máy workstation.",
+    "Cung cấp giải pháp remote-control an toàn cho đội ngũ hỗ trợ kỹ thuật từ xa.",
+    "Cho phép truy cập máy tính cá nhân hoặc server qua mạng nội bộ mà không phụ thuộc vào dịch vụ bên thứ ba."
+  ],
+  "ideas": [
+    "Kết hợp với Zero Trust networking để cung cấp remote access an toàn cho IoT devices.",
+    "Phát triển module tích hợp xác thực biometric để remote desktop có thêm lớp bảo mật.",
+    "Sử dụng RustDesk Server làm nền tảng cho một platform game streaming hoặc virtual desktop công cộng."
+  ],
+  "stars": 10685,
+  "starsToday": 13,
+  "language": "Rust",
+  "topics": [
+    "remote-desktop",
+    "remote-control",
+    "remote-access",
+    "tauri"
+  ],
+  "notePath": "notes/Microservices.md",
+  "createdAt": "2026-11-05T10:11:53.803Z"
+}

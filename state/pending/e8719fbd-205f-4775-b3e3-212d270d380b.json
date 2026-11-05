@@ -1,0 +1,44 @@
+{
+  "id": "e8719fbd-205f-4775-b3e3-212d270d380b",
+  "repo": "Duecki1/CalibRaw",
+  "url": "https://github.com/Duecki1/CalibRaw",
+  "category": "Desktop App",
+  "summary": "Trình chỉnh sửa ảnh RAW mã nguồn mở miễn phí, GPU-accelerated, phi hủy destructure, hỗ trợ mask, HDR merge và AI cục bộ trên Linux, macOS, Windows và Android.",
+  "usecases": [
+    "Sửa và xử lý ảnh RAW từ camera chuyên nghiệp trên các hệ điều hành đa nền tảng.",
+    "Xử lý HDR và tạo mask cho các dự án ảnh chụp địa hình hoặc portrait.",
+    "Sử dụng AI cục bộ để cải thiện chất lượng ảnh mà không cần kết nối internet."
+  ],
+  "ideas": [
+    "Tích hợp các model AI tùy chỉnh để tùy chỉnh phong cách chỉnh sửa tự động.",
+    "Phát triển plugin cho các trình chỉnh sửa ảnh khác để sử dụng engine xử lý RAW của CalibRaw.",
+    "Tạo phiên bản web-based sử dụng WebGPU để truy cập qua trình duyệt mà không cần cài đặt."
+  ],
+  "stars": 298,
+  "starsToday": 16,
+  "language": "Rust",
+  "topics": [
+    "editing",
+    "egui",
+    "image-processing",
+    "photo-editing",
+    "photography",
+    "raw",
+    "raw-editor",
+    "rust",
+    "wgpu",
+    "gpu",
+    "gpu-acceleration",
+    "masks",
+    "android",
+    "android-app",
+    "foss",
+    "linux",
+    "macos",
+    "photo-editor",
+    "photo-management",
+    "windows"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-05T10:11:53.803Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "7b090568-2be3-41d2-9f53-faed1f785f4a",
+  "repo": "ccfos/nightingale",
+  "url": "https://github.com/ccfos/nightingale",
+  "category": "DevOps/CI-CD",
+  "summary": "Hệ thống cảnh báo và giám sát mã nguồn mở, tự lưu trữ cho chỉ số, log và cơ sở dữ liệu, tích hợp sẵn nhân viên AI và máy chủ MCP.",
+  "usecases": [
+    "Giám sát chỉ số hệ thống và kích hoạt cảnh báo khi vượt ngưỡng.",
+    "Quản lý lịch làm việc on-call và phân phối thông báo sự cố cho đội SRE."
+  ],
+  "ideas": [
+    "Kết nối với MCP server để AI agent tự động chẩn đoán và khắc phục sự cố.",
+    "Tổng hợp dữ liệu từ Prometheus, Loki, ClickHouse vào bảng điều khiển thống nhất."
+  ],
+  "stars": 13448,
+  "starsToday": 3,
+  "language": "Go",
+  "topics": [
+    "monitoring",
+    "time-series",
+    "nightingale",
+    "tsdb",
+    "alerting",
+    "metrics",
+    "observability",
+    "logs",
+    "sre",
+    "sre-agent",
+    "alertmanager",
+    "clickhouse",
+    "golang",
+    "loki",
+    "mcp-server",
+    "prometheus",
+    "self-hosted",
+    "victoriametrics",
+    "on-call",
+    "aiops"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-05T10:11:53.803Z"
+}

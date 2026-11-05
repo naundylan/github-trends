@@ -1,0 +1,44 @@
+{
+  "id": "37a33199-f385-48fa-850c-7b2116262a41",
+  "repo": "jo-duchan/tapflow",
+  "url": "https://github.com/jo-duchan/tapflow",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Nền tảng self-hosted streaming mô phỏng iOS và Android, cho phép team xem và tương tác với ứng dụng di động trên trình duyệt.",
+  "usecases": [
+    "Team kiểm tra ứng dụng di động trên nhiều thiết bị và phiên bản OS khác nhau mà không cần cài đặt emulator cục bộ.",
+    "Demo ứng dụng cho bên khách hàng hoặc đồng nghiệp trực tiếp qua link streaming.",
+    "Tích hợp vào quy trình CI/CD để tự động chạy test và stream kết quả."
+  ],
+  "ideas": [
+    "Phát triển dịch vụ mô phỏng đa nền tảng cho các dự án React Native và Flutter tại môi trường production.",
+    "Sử dụng làm基础设施 cho testing farm tự host trên Kubernetes.",
+    "Tích hợp tính năng ghi lại và phân tích tương tác người dùng từ remote emulator."
+  ],
+  "stars": 1597,
+  "starsToday": 10,
+  "language": "TypeScript",
+  "topics": [
+    "appetize-alternative",
+    "android",
+    "ios",
+    "react-native",
+    "android-emulator",
+    "app-testing",
+    "developer-tools",
+    "emulator",
+    "flutter",
+    "ios-simulator",
+    "mcp",
+    "mobile-qa",
+    "mobile-testing",
+    "open-source",
+    "qa-tools",
+    "self-hosted",
+    "simulator",
+    "testing",
+    "browserstack-alternative",
+    "good-first-issue"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-11-05T10:11:53.803Z"
+}
