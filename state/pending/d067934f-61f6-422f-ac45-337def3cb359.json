@@ -1,0 +1,35 @@
+{
+  "id": "d067934f-61f6-422f-ac45-337def3cb359",
+  "repo": "openchoreo/openchoreo",
+  "url": "https://github.com/openchoreo/openchoreo",
+  "category": "DevOps/CI-CD",
+  "summary": "An internal developer platform for Kubernetes that streamlines CI/CD, GitOps, and observability for platform engineering teams.",
+  "usecases": [
+    "Managing Kubernetes cluster lifecycle and GitOps workflows",
+    "Automating CI/CD pipelines for cloud-native applications",
+    "Providing unified observability and developer self-service portals"
+  ],
+  "ideas": [
+    "Integrate with AI agents for automated incident response",
+    "Extend as a multi-cluster management platform for edge computing",
+    "Combine with Terraform/Pulumi for infrastructure-as-code workflows"
+  ],
+  "stars": 1816,
+  "starsToday": 36,
+  "language": "Go",
+  "topics": [
+    "developer-platform",
+    "internal-developer-platform",
+    "ai-agents",
+    "ci-cd",
+    "cncf",
+    "devops",
+    "gitops",
+    "kubernetes",
+    "mcp",
+    "observability",
+    "platform-engineering"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-06T01:22:27.563Z"
+}

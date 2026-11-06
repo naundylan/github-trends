@@ -1,0 +1,40 @@
+{
+  "id": "a9fb4bf9-96e0-4e0b-872c-b08a7c11ed53",
+  "repo": "crmne/spotifast",
+  "url": "https://github.com/crmne/spotifast",
+  "category": "Desktop App",
+  "summary": "Ứng dụng Spotify native và nhẹ dùng Rust, hỗ trợ phát nhạc local và Spotify Connect trên Linux, macOS và Windows.",
+  "usecases": [
+    "Replace heavy Spotify official client on Linux with a faster, lighter alternative",
+    "Enable local music playback and Spotify Connect in environments without official support",
+    "Customize audio experience and UI via Rust/egui for power users"
+  ],
+  "ideas": [
+    "Integrate offline lyrics display and playlist backup features",
+    "Build a cross-platform remote control interface for smart home devices",
+    "Add support for high-res audio streaming and local library metadata enrichment"
+  ],
+  "stars": 9773,
+  "starsToday": 93,
+  "language": "Rust",
+  "topics": [
+    "audio",
+    "cross-platform",
+    "desktop-app",
+    "egui",
+    "gui",
+    "librespot",
+    "linux",
+    "macos",
+    "mpris",
+    "music",
+    "music-player",
+    "rust",
+    "spotify",
+    "spotify-client",
+    "spotify-connect",
+    "windows"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-06T01:22:27.563Z"
+}

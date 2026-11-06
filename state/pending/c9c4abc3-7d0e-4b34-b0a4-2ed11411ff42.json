@@ -1,0 +1,34 @@
+{
+  "id": "c9c4abc3-7d0e-4b34-b0a4-2ed11411ff42",
+  "repo": "Fission-AI/OpenSpec",
+  "url": "https://github.com/Fission-AI/OpenSpec",
+  "category": "AI/LLM",
+  "summary": "Một framework Spec-driven development cho AI coding assistants, giúp định cấu trúc PRD, lên kế hoạch và quản lý SDLC với context engineering.",
+  "usecases": [
+    "AI assistants generate code based on structured specifications",
+    "Teams integrate SDD workflow into existing CI/CD pipelines",
+    "Context engineering for consistent AI coding behavior across projects"
+  ],
+  "ideas": [
+    "Combine with visual spec editors for non-technical stakeholders",
+    "Generate not just code but also test cases and documentation from specs",
+    "Create a marketplace of reusable specs for common AI coding patterns"
+  ],
+  "stars": 74064,
+  "starsToday": 111,
+  "language": "TypeScript",
+  "topics": [
+    "spec",
+    "ai",
+    "context-engineering",
+    "engineering",
+    "planning",
+    "prd",
+    "sdlc",
+    "spec-driven-development",
+    "specification",
+    "sdd"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-06T01:22:27.563Z"
+}

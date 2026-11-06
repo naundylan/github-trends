@@ -1,0 +1,36 @@
+{
+  "id": "93b2f73d-ec45-4297-9557-37565d952bf7",
+  "repo": "juicedata/juicefs",
+  "url": "https://github.com/juicedata/juicefs",
+  "category": "Big Data/Analytics",
+  "summary": "Distributed POSIX file system built on Redis and S3, providing high-performance storage for cloud-native and big data applications.",
+  "usecases": [
+    "Shared file storage for distributed microservices accessing common data across nodes",
+    "Big data analytics pipelines requiring low-latency access to object-stored data",
+    "Hybrid cloud storage bridging on-premises Redis caches with S3 object storage"
+  ],
+  "ideas": [
+    "Use as a distributed cache layer for AI model training datasets stored in S3",
+    "Implement as a global file system for edge computing nodes syncing with central cloud storage",
+    "Integrate with Terraform for automated deployment of scalable file storage infrastructure"
+  ],
+  "stars": 14683,
+  "starsToday": 18,
+  "language": "Go",
+  "topics": [
+    "filesystem",
+    "cloud-native",
+    "golang",
+    "redis",
+    "distributed-systems",
+    "storage",
+    "object-storage",
+    "posix",
+    "hdfs",
+    "s3",
+    "bigdata",
+    "go"
+  ],
+  "notePath": "notes/Big-Data-Analytics.md",
+  "createdAt": "2026-11-06T01:22:27.564Z"
+}

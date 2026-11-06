@@ -1,0 +1,43 @@
+{
+  "id": "8f7906bd-da2c-4dca-8896-521d2c43d443",
+  "repo": "KenKaiii/gg-framework",
+  "url": "https://github.com/KenKaiii/gg-framework",
+  "category": "AI/LLM",
+  "summary": "gg-framework là framework coding agent nhanh và nhẹ giúp tận dụng tối đa subscription AI với tìm kiếm code local vô hạn và hỗ trợ nhiều LLM.",
+  "usecases": [
+    "Giúp developer tự động hoàn thành code và tìm tham chiếu trong codebase lớn",
+    "Tích hợp trong quy trình CI/CD để review code tự động",
+    "Hỗ trợ researcher tìm kiếm và phân tích mã nguồn open-source liên quan"
+  ],
+  "ideas": [
+    "Tạo plugin cho VS Code để gọi gg-framework trực tiếp từ editor",
+    "Kết hợp với local LLM (Ollama) để hoàn toàn offline",
+    "Phát triển hệ thống tự động generate documentation từ codebase"
+  ],
+  "stars": 203,
+  "starsToday": 25,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agent",
+    "anthropic",
+    "claude",
+    "cli",
+    "coding-agent",
+    "llm",
+    "openai",
+    "typescript",
+    "agentic-ai",
+    "ai",
+    "ai-coding-assistant",
+    "claude-code",
+    "desktop-app",
+    "developer-tools",
+    "gemini",
+    "local-llm",
+    "ollama",
+    "rust",
+    "tauri"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-06T01:22:27.563Z"
+}

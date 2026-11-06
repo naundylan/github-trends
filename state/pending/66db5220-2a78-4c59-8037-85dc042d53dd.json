@@ -1,0 +1,27 @@
+{
+  "id": "66db5220-2a78-4c59-8037-85dc042d53dd",
+  "repo": "Leaflet/Leaflet",
+  "url": "https://github.com/Leaflet/Leaflet",
+  "category": "Web Frontend",
+  "summary": "Leaflet la thu vien JavaScript nhat de tao ban do tac dong tren web, ho tro hien thi ban do, overlay va tu chinh de dang.",
+  "usecases": [
+    "Hien thi ban do tac dong trong web ung dung dia ly",
+    "Tao ban do tu chinh cho ung dung di dong va web voi overlay du lieu",
+    "phan tac dinh ban do nhat cho trang web static can hien thi vi tri hoac ban do"
+  ],
+  "ideas": [
+    "Ket hop du lieu thoi thong tai tro de hien thi ban do tac dong",
+    "Phat triển plugin hien thi du lieu IoT tren ban do",
+    "Tich hop voi AR/VIEW de trải nghiệm ban do 3D tac dong"
+  ],
+  "stars": 45860,
+  "starsToday": 24,
+  "language": "JavaScript",
+  "topics": [
+    "javascript",
+    "leaflet",
+    "maps"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-11-06T01:22:27.563Z"
+}

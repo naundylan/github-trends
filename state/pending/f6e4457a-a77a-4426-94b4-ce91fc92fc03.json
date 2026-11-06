@@ -1,0 +1,28 @@
+{
+  "id": "f6e4457a-a77a-4426-94b4-ce91fc92fc03",
+  "repo": "cordiverse/cordis",
+  "url": "https://github.com/cordiverse/cordis",
+  "category": "Web Framework",
+  "summary": "A TypeScript meta-framework for spatiotemporal composability enabling modular plugin-based application development with effect-driven architecture.",
+  "usecases": [
+    "Building modular Node.js web applications with pluggable components",
+    "Creating composable spatiotemporal data workflows or APIs",
+    "Rapid prototyping of effect-driven TypeScript services"
+  ],
+  "ideas": [
+    "Combine with React for full-stack composable UI frameworks",
+    "Use as a base for serverless function composition",
+    "Integrate with effect-ts ecosystem for robust enterprise backends"
+  ],
+  "stars": 9700,
+  "starsToday": 52,
+  "language": "TypeScript",
+  "topics": [
+    "framework",
+    "nodejs",
+    "effect",
+    "plugin"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-11-06T01:22:27.563Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ca19bb90-80ec-4c73-b1fb-a09b6330d1a5",
+  "repo": "zzet/gortex",
+  "url": "https://github.com/zzet/gortex",
+  "category": "Developer Tool",
+  "summary": "Gortex la engine code-intelligence cao toc cho AI agents va IDE, phan tich ma nguon tren 257 nguon go, ho tro da repo qua do thi, va toi uu token usage cho AI agent.",
+  "usecases": [
+    "Giup AI coding assistants hieu context codebase lon khong bi overflow token",
+    "Cho phep developers truy van va tim kiem ma nguon qua CLI hoac API qua nhieu repository",
+    "Tich hop trong IDE de cung cap go y code chinh xac va giam latency"
+  ],
+  "ideas": [
+    "Tao mot knowledge graph nhan dan cho developer, ket hop code history va tai lieu",
+    "Phat triển agent tu dong sua bug qua graph analysis",
+    "Tich hop voi local LLM de thuc hien refactoring code toan bo repo"
+  ],
+  "stars": 2004,
+  "starsToday": 24,
+  "language": "Go",
+  "topics": [
+    "ai-tools",
+    "claude-code",
+    "code-assistant",
+    "copilot",
+    "graphrag",
+    "knowledge-graph",
+    "mcp-server",
+    "tokens",
+    "context-window",
+    "context-window-optimization",
+    "context-window-optimizer",
+    "local-first",
+    "code-analysis",
+    "developer-tools",
+    "codex",
+    "pi"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-06T01:22:27.563Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "89c6ee6b-6957-4d01-9a0c-791890fb22a1",
+  "repo": "blacklanternsecurity/bbot",
+  "url": "https://github.com/blacklanternsecurity/bbot",
+  "category": "Security/Pentest",
+  "summary": "bbot là trình quét internet đệ quy tự động giúp bảo mật chuyên gia thu thập subdomain, thực hiện OSINT và phân tích bề mặt tấn công cho bug bounty và pentest.",
+  "usecases": [
+    "Tự động hóa thu thập subdomain và bản đồ bề mặt tấn công cho các tổ chức",
+    "Hỗ trợ bug bounty hunters nhanh chóng tìm lỗ hổng trên diện rộng",
+    "Tích hợp với Neo4j để visualize và phân tích mối quan hệ giữa các domain/thư mục"
+  ],
+  "ideas": [
+    "Xây dựng dashboard real-time theo dõi bề mặt tấn công thay đổi hàng ngày",
+    "Kết hợp với AI để prioritize các target có nguy cơ khai thác cao",
+    "Tự động tạo báo cáo pentest từ kết quả quét bbot"
+  ],
+  "stars": 10985,
+  "starsToday": 26,
+  "language": "Python",
+  "topics": [
+    "hacking",
+    "neo4j",
+    "osint",
+    "osint-framework",
+    "python",
+    "subdomain-enumeration",
+    "automation",
+    "recon",
+    "cli",
+    "scanner",
+    "bugbounty",
+    "pentesting",
+    "recursion",
+    "subdomain-scanner",
+    "subdomains",
+    "asm",
+    "attack-surface-management",
+    "threat-intelligence",
+    "threatintel",
+    "easm"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-06T01:22:27.563Z"
+}
