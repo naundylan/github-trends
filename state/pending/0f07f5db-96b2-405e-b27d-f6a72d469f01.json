@@ -1,0 +1,28 @@
+{
+  "id": "0f07f5db-96b2-405e-b27d-f6a72d469f01",
+  "repo": "hashicorp/terraform-provider-azurerm",
+  "url": "https://github.com/hashicorp/terraform-provider-azurerm",
+  "category": "Infrastructure as Code",
+  "summary": "Provider Terraform cho Azure Resource Manager cho phép định nghĩa, cung cấp và quản lý các tài nguyên Azure dưới dạng mã.",
+  "usecases": [
+    "Tạo và quản lý các tài nguyên Azure (VM, storage, network) bằng Terraform code cho môi trường phát triển/thử nghiệm.",
+    "Triển khai và cập nhật hạ tầng Azure trong CI/CD pipeline cho các ứng dụng cloud.",
+    "Quản lý đa vùng (multi-region) Azure resources với trạng thái Terraform tập trung."
+  ],
+  "ideas": [
+    "Kết hợp với Terraform Cloud/Enterprise để quản lý lifecycle tài nguyên Azure qua pull requests.",
+    "Tạo mẫu infrastructure-as-code reusable cho các project đa quốc gia trên Azure.",
+    "Sử dụng provider này để tự động migrate tài nguyên giữa các Azure tenant hoặc subscription."
+  ],
+  "stars": 4983,
+  "starsToday": 2,
+  "language": "Go",
+  "topics": [
+    "terraform",
+    "terraform-provider",
+    "azure",
+    "azure-resource-manager"
+  ],
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-11-06T10:14:53.166Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2df76419-5b9a-44c6-9444-96e5448fe34f",
+  "repo": "siderolabs/talos",
+  "url": "https://github.com/siderolabs/talos",
+  "category": "Operating System/Kernel",
+  "summary": "Talos Linux là một bản phân phối Linux hiện đại được thiết kế riêng cho Kubernetes, quản lý toàn bộ hệ điều hành dưới dạng cấu hình declarative và tối ưu cho các cluster K8s.",
+  "usecases": [
+    "Triển khai và quản lý cluster Kubernetes trên vật lý hoặc đám mây với cấu hình duy nhất.",
+    "Tích hợp vào pipeline CI/CD cho provisioning máy chủ K8s tự động.",
+    "Chạy edge computing hoặc môi trường sản xuất cần sự ổn định và an toàn cho K8s."
+  ],
+  "ideas": [
+    "Tạo Talos AMI tùy chỉnh cho các provider đám mây và kết hợp với Terraform Provider.",
+    "Sử dụng Talos cho các cluster K8s on-prem với cập nhật hệ thống tự động qua cấu hình versioned.",
+    "Kết hợp với các tool IaC khác để tự động hóa entire lifecycle của cluster."
+  ],
+  "stars": 11474,
+  "starsToday": 10,
+  "language": "Go",
+  "topics": [
+    "linux",
+    "linux-distribution",
+    "kubernetes",
+    "kubernetes-distribution",
+    "go",
+    "musl",
+    "grpc",
+    "cloud-native",
+    "containerd"
+  ],
+  "notePath": "notes/Operating-System-Kernel.md",
+  "createdAt": "2026-11-06T10:14:53.166Z"
+}

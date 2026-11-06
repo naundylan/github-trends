@@ -1,0 +1,23 @@
+{
+  "id": "eb90b858-4381-4dab-a24c-6e72e159e978",
+  "repo": "aws/agent-toolkit-for-aws",
+  "url": "https://github.com/aws/agent-toolkit-for-aws",
+  "category": "AI Agent/Automation",
+  "summary": "Một bộ công cụ chính thức từ AWS để giúp các AI agent tạo và quản lý các server MCP, skills và plugins trên AWS, nhằm tự động hóa và xây dựng ứng dụng trên đám mây.",
+  "usecases": [
+    "Tự động triển khai và quản lý tài nguyên AWS cho các ứng dụng AI agent.",
+    "Phát triển các skills và plugins tùy chỉnh để mở rộng khả năng của AI agent trên AWS.",
+    "Tích hợp MCP servers vào quy trình CI/CD cho các dự án AI."
+  ],
+  "ideas": [
+    "Tạo bộ mẫu (starter kit) kết hợp giữa AWS Lambda và AI agent để xử lý tác vụ tự động.",
+    "Phát triển plugin giám sát chi phí và hiệu suất cho AI agent trên AWS.",
+    "Kết hợp với Bedrock để tạo các agent có khả năng tương tác với tài nguyên AWS một cách tự nhiên."
+  ],
+  "stars": 3416,
+  "starsToday": 14,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-06T10:14:53.166Z"
+}

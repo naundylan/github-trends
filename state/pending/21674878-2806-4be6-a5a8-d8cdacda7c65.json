@@ -1,0 +1,28 @@
+{
+  "id": "21674878-2806-4be6-a5a8-d8cdacda7c65",
+  "repo": "pydantic/monty",
+  "url": "https://github.com/pydantic/monty",
+  "category": "Security/Pentest",
+  "summary": "Monty là một sandbox an toàn viết bằng Rust, cung cấp môi trường 격離 để chạy code Python do AI tạo ra, đảm bảo bảo mật và kiểm soát đầu ra.",
+  "usecases": [
+    "Chạy và kiểm tra các đoạn code Python do LLM tạo ra trong môi trường cô lập trước đưa vào sản phẩm.",
+    "Tích hợp vào các platform AI để thực hiện code execution an toàn cho người dùng.",
+    "Dùng trong giáo dục hoặc nghiên cứu để test các kịch bản code có thể nguy hiểm."
+  ],
+  "ideas": [
+    "Kết hợp với các agent AI để tự động code review hoặc debugging trong sandbox.",
+    "Phát triển thành service API sandbox chung cho nhiều model AI khác nhau.",
+    "Sử dụng cho các thử nghiệm bảo mật (red team) để phân tích hành vi code độc hại."
+  ],
+  "stars": 8846,
+  "starsToday": 10,
+  "language": "Rust",
+  "topics": [
+    "python",
+    "rust",
+    "sandbox",
+    "sandboxing"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-06T10:14:53.166Z"
+}

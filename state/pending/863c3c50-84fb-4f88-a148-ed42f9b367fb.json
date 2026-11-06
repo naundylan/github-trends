@@ -1,0 +1,25 @@
+{
+  "id": "863c3c50-84fb-4f88-a148-ed42f9b367fb",
+  "repo": "kubernetes-sigs/controller-runtime",
+  "url": "https://github.com/kubernetes-sigs/controller-runtime",
+  "category": "Backend Framework",
+  "summary": "Thư viện runtime cho việc xây dựng Kubernetes controllers và operators bằng Go, là thành phần cốt lõi của kubebuilder.",
+  "usecases": [
+    "Xây dựng các Kubernetes operators tự động cho quản lý cơ sở dữ liệu",
+    "Tạo controllers cho Custom Resource Definitions trong ứng dụng doanh nghiệp",
+    "Phát triển các luồng tự động hóa triển khai hạ tầng trên Kubernetes"
+  ],
+  "ideas": [
+    "Kết hợp với Argo CD tạo ra operator tự chữa lành cho GitOps",
+    "Xây dựng nền tảng quản lý Kubernetes đa tenant sử dụng controller-runtime",
+    "Tích hợp với Prometheus operator để tạo controllers dựa trên metrics tùy chỉnh"
+  ],
+  "stars": 2988,
+  "starsToday": 1,
+  "language": "Go",
+  "topics": [
+    "k8s-sig-api-machinery"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-11-06T10:14:53.166Z"
+}

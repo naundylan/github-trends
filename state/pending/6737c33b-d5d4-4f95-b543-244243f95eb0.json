@@ -1,0 +1,27 @@
+{
+  "id": "6737c33b-d5d4-4f95-b543-244243f95eb0",
+  "repo": "google-gemini/gemini-skills",
+  "url": "https://github.com/google-gemini/gemini-skills",
+  "category": "AI/LLM",
+  "summary": "Như repository kỹ năng cho Gemini API, cung cấp ví dụ và hướng dẫn tương tác với SDK, mô hình và các tác vụ dựa trên agent bằng Python.",
+  "usecases": [
+    "Xây dựng chatbot hoặc trợ lýảo trí bằng API Gemini",
+    "Prototype các quy trình dựa trên agent với gọi hàm và sử dụng công cụ",
+    "Học tập và thử nghiệm các tính năng SDK Gemini cho đầu vào văn bản và đa phương thức"
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu ngoài để tạo pipeline RAG (Retrieval-Augmented Generation)",
+    "Tạo hệ thống nhiều agent chuyên biệt cho các tác vụ như viết code, nghiên cứu, phân tích dữ liệu bằng Gemini",
+    "Xây dựng công cụ phát triển cục bộ tự động tạo chú thích code hoặc tài liệu bằng Gemini"
+  ],
+  "stars": 4411,
+  "starsToday": 12,
+  "language": "Python",
+  "topics": [
+    "gemini",
+    "gemini-api",
+    "skills"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-06T10:14:53.166Z"
+}

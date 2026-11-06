@@ -1,0 +1,28 @@
+{
+  "id": "bbbd1681-7aa9-42db-9874-25d089c6a228",
+  "repo": "mihomo-party-org/clash-party",
+  "url": "https://github.com/mihomo-party-org/clash-party",
+  "category": "Desktop App",
+  "summary": "Một ứng dụng giao diện đồ họa (GUI) cho Mihomo/MetaClash, xây dựng bằng Electron và TypeScript, cung cấp giao diện trực quan để quản lý và cấu hình proxy.",
+  "usecases": [
+    "Quản lý và cấu hình các kết nối proxy Mihomo/MetaClash thông qua giao diện đồ họa.",
+    "Theo dõi và chuyển đổi giữa nhiều cấu hình proxy với một click.",
+    "Tích hợp với Electron để chạy trên nhiều nền tảng desktop (Windows, macOS, Linux)."
+  ],
+  "ideas": [
+    "Thêm hỗ trợ cho các giao thức proxy mới thông qua plugin.",
+    "Tích hợp tính năng đồng bộ cấu hình qua đám mây.",
+    "Phát triển chế độ tối và tùy chỉnh giao diện chủ đề."
+  ],
+  "stars": 27146,
+  "starsToday": 15,
+  "language": "TypeScript",
+  "topics": [
+    "clash-meta",
+    "mihomo",
+    "electron",
+    "clash"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-06T10:14:53.166Z"
+}
