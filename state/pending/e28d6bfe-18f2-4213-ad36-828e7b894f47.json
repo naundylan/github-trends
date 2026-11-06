@@ -1,0 +1,40 @@
+{
+  "id": "e28d6bfe-18f2-4213-ad36-828e7b894f47",
+  "repo": "sherlock-project/sherlock",
+  "url": "https://github.com/sherlock-project/sherlock",
+  "category": "Security/Pentest",
+  "summary": "Công cụ dòng lệnh (CLI) để tra cứu và tìm kiếm tài khoản mạng xã hội bằng username duy nhất trên nhiều nền tảng, hỗ trợ các tác vụ OSINT, kiểm tra an ninh mạng và thu thập thông tin.",
+  "usecases": [
+    "Tìm kiếm tài khoản cá nhân hoặc doanh nghiệp trên các mạng xã hội theo username duy nhất.",
+    "Tái kiểm tra sự tồn tại dữ liệu breached hoặc tài khoản bị đánh cắp trong các cuộc điều tra bảo mật.",
+    "Thu thập thông tin cho các cuộc kiểm tra xâm nhập (penetration testing) hoặc nghiên cứu OSINT."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ phân tích dữ liệu để tạo báo cáo bảo mật tự động dựa trên việc tìm thấy tài khoản liên quan.",
+    "Tích hợp vào pipeline CI/CD để monitor tên dùng户户 có bị trùng lặp hay xuất hiện trên đen không.",
+    "Phát triển plugin cho các nền tảng an ninh mạng để cảnh báo real-time khi username quan trọng được đăng ký trên mạng xã hội mới."
+  ],
+  "stars": 98233,
+  "starsToday": 1696,
+  "language": "Python",
+  "topics": [
+    "osint",
+    "reconnaissance",
+    "linux",
+    "cli",
+    "sherlock",
+    "python3",
+    "redteam",
+    "tools",
+    "information-gathering",
+    "hacktoberfest",
+    "python",
+    "cybersecurity",
+    "cti",
+    "forensics",
+    "infosec",
+    "pentesting"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-06T18:47:06.884Z"
+}

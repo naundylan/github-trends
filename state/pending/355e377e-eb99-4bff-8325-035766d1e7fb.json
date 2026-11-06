@@ -1,0 +1,27 @@
+{
+  "id": "355e377e-eb99-4bff-8325-035766d1e7fb",
+  "repo": "lz4/lz4",
+  "url": "https://github.com/lz4/lz4",
+  "category": "Developer Tool",
+  "summary": "Lz4 là một thuật toán nén dữ liệu cực nhanh được viết bằng C, cung cấp tốc độ nén và giải nén vượt trội cho các ứng dụng đòi hỏi hiệu suất cao.",
+  "usecases": [
+    "Nén dữ liệu trong hệ thống lưu trữ object để tiết kiệm dung lượng",
+    "Tăng tốc độ truyền dữ liệu qua mạng trong các giao thức truyền thống",
+    "Nén log files và dữ liệu thời gian thực trong backend"
+  ],
+  "ideas": [
+    "Kết hợp với Kafka để nén topic streams trên fly và giảm băng thông",
+    "Xây dựng file system nén trong memory cho embedded devices",
+    "Tạo game puzzle tối ưu hóa nén dữ liệu dưới giới hạn nhất"
+  ],
+  "stars": 12605,
+  "starsToday": 313,
+  "language": "C",
+  "topics": [
+    "lz4",
+    "c",
+    "compression"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-06T18:47:06.884Z"
+}

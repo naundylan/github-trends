@@ -1,0 +1,34 @@
+{
+  "id": "d06e1dd6-8b4d-42c9-8501-680b603f4325",
+  "repo": "lobehub/lobehub",
+  "url": "https://github.com/lobehub/lobehub",
+  "category": "AI Agent/Automation",
+  "summary": "LobeHub là một nền tảng cho các siêu-agent (super-agents) có thể thêm vào các trò chuyện mà đội ngũ đang sử dụng, tự nhận việc và cải thiện mỗi tuần.",
+  "usecases": [
+    "Tự động hóa tác vụ trong Slack/Teams cho đội ngũ phát triển và quản lý dự án.",
+    "Trợ lý quản lý dự án tự động theo dõi tiến độ, gán việc và báo cáo trạng thái.",
+    "Tích hợp agent cá nhân vào workflow hàng ngày để tăng năng suất làm việc."
+  ],
+  "ideas": [
+    "Kết hợp agent với CRM để tự động cập nhật và phân loại leads dựa trên tương tác.",
+    "Tạo agent đa ngôn ngữ hỗ trợ khách hàng 24/7 trên nhiều nền tảng chat khác nhau.",
+    "Cho agent tự đào tạo từ feedback của người dùng để trở thành chuyên gia lĩnh vực cụ thể."
+  ],
+  "stars": 84228,
+  "starsToday": 184,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "mcp",
+    "agent-harness",
+    "agent-collaboration",
+    "skills",
+    "loop-engineering",
+    "proactive-agent",
+    "super-agent",
+    "personal-assistant",
+    "task-management"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-06T18:47:06.884Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "3c75fb03-0dde-4fba-81ba-6a49d52a8a69",
+  "repo": "stablyai/orca",
+  "url": "https://github.com/stablyai/orca",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống cho phép chạy và điều phối một đội nhóm các tác nhân code (coding agents) như Claude Code, Codex của riêng bạn, có sẵn trên desktop, mobile và runtime từ xa, nhằm tự động hóa quy trình phát triển phần mềm.",
+  "usecases": [
+    "Tự động hóa việc review code và tạo pull requests trên nhiều repository cùng lúc.",
+    "Phát triển và triển khai các bot tự động thực hiện nhiệm vụ lập trình như viết hàm, sửa bug dựa trên yêu cầu tự nhiên.",
+    "Quản lý tài nguyên compute cho nhiều tác nhân AI cùng lúc trên các môi trường remote hoặc desktop."
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu dự án để tạo ra một 'coding assistant' cá nhân có thể truy cập lịch sử code và conventions của team.",
+    "Tạo ra một hệ thống tự động generate và test code cho micro-services dựa trên spec đầu vào.",
+    "Phát triển marketplace các tác nhân AI có thể giao dịch tài nguyên compute hoặc các task phát triển qua mạng."
+  ],
+  "stars": 117624,
+  "starsToday": 1199,
+  "language": "TypeScript",
+  "topics": [
+    "claude-code",
+    "codex",
+    "ghostty",
+    "terminal",
+    "opencode",
+    "orchestration",
+    "worktrees",
+    "pi",
+    "mobile-app",
+    "agent-ide",
+    "ai-agents",
+    "yc-backed",
+    "automation",
+    "bot",
+    "grok-bot",
+    "hermes-agent",
+    "muse",
+    "openclaw",
+    "runtime",
+    "swarm"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-06T18:47:06.884Z"
+}

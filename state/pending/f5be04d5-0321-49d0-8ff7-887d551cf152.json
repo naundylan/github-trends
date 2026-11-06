@@ -1,0 +1,29 @@
+{
+  "id": "f5be04d5-0321-49d0-8ff7-887d551cf152",
+  "repo": "elder-plinius/T3MP3ST",
+  "url": "https://github.com/elder-plinius/T3MP3ST",
+  "category": "Security/Pentest",
+  "summary": "T3MP3ST là nền tảng red teaming tự động sử dụng nhiều agent AI để thực hiện Offensive Security, kiểm tra và khai thác bảo mật tự động.",
+  "usecases": [
+    "Tự động hóa quy trình kiểm thử xâm nhập (penetration testing).",
+    "Mô phỏng các cuộc tấn công phức tạp để đánh giá khả năng phòng thủ.",
+    "Tích hợp vào workflow an ninh mạng để giám sát và phản ứng tự động."
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM để tạo các payload tấn công thông minh.",
+    "Phát triển plugin cho các platform CI/CD để tự động security scanning.",
+    "Sử dụng trong training exercises an ninh cho đội ngũ bảo mật."
+  ],
+  "stars": 6934,
+  "starsToday": 238,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "ai",
+    "multi-agent",
+    "offensive-security",
+    "redteam"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-06T18:47:06.884Z"
+}

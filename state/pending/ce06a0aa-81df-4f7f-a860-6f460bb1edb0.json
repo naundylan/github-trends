@@ -1,0 +1,28 @@
+{
+  "id": "ce06a0aa-81df-4f7f-a860-6f460bb1edb0",
+  "repo": "denoland/deno",
+  "url": "https://github.com/denoland/deno",
+  "category": "Developer Tool",
+  "summary": "runtime hiện đại cho JavaScript và TypeScript, cung cấp bảo mật mặc định, thực thi trực tiếp và tích hợp liền mạch với TypeScript/WebAssembly",
+  "usecases": [
+    "viết server-side script an toàn mà không cần cài đặt npm thêm",
+    "phát triển API hoặc web service với TypeScript một cách native",
+    "chạy script command-line với quyền truy cập được kiểm soát chặt chẽ"
+  ],
+  "ideas": [
+    "sử dụng Deno Deploy để triển khai full-stack TypeScript từ source đến production",
+    "tạo CLI tool có khả năng chạy trên cả Node và Deno cùng một codebase",
+    "kết hợp với Deno KV để xây dựng ứng dụng serverless có trạng thái ngay lập tức"
+  ],
+  "stars": 108848,
+  "starsToday": 153,
+  "language": "Rust",
+  "topics": [
+    "deno",
+    "typescript",
+    "javascript",
+    "rust"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-06T18:47:06.884Z"
+}

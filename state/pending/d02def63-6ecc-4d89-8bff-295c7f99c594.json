@@ -1,0 +1,23 @@
+{
+  "id": "d02def63-6ecc-4d89-8bff-295c7f99c594",
+  "repo": "meta/astryx",
+  "url": "https://github.com/meta/astryx",
+  "category": "UI/Component Library",
+  "summary": "Astryx là một hệ thống thiết kế mã nguồn mở có thể tùy chỉnh hoàn toàn, được thiết kế sẵn sàng để tích hợp với các agent và giao diện người dùng.",
+  "usecases": [
+    "Tạo giao diện thống nhất cho các ứng dụng web nhanh chóng trong các dự án startup.",
+    "Tích hợp component vào sản phẩm AI/agent để duy trì consistency UI và trải nghiệm người dùng.",
+    "Đơn giản hóa quy trình thiết kế cho các team phát triển đa nền tảng và đa ngôn ngữ."
+  ],
+  "ideas": [
+    "Sử dụng làm foundation cho các dashboard admin AI-powered với theme động.",
+    "Tích hợp component với Tailwind CSS hoặc React để tạo hệ thống design tokens tự động.",
+    "Tạo thư viện component chuyên cho các sản phẩm Web3 hoặc crypto với giao diện hiện đại."
+  ],
+  "stars": 14046,
+  "starsToday": 181,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-11-06T18:47:06.884Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "bd842620-33c3-42e2-b1e4-58e089a7b251",
+  "repo": "rust-lang/rust",
+  "url": "https://github.com/rust-lang/rust",
+  "category": "Developer Tool",
+  "summary": "Rust là ngôn ngữ lập trình hệ thống cho phép phát triển phần mềm đáng tin cậy và hiệu quả, kèm compiler và ecosystem phong phú.",
+  "usecases": [
+    "Phát triển hệ điều hành và trình biên dịch (như đóng góp vào Linux kernel).",
+    "Xây dựng ứng dụng backend cao hiệu năng và an toàn về bộ nhớ.",
+    "Tạo công cụ dòng lệnh và utilitarian scripts với tốc độ và bảo mật cao."
+  ],
+  "ideas": [
+    "Sử dụng Rust để viết trình biên dịch cho ngôn ngữ mới.",
+    "Xây dựng hệ thống file system hoặc đồ họa 3D với performance cao.",
+    "Đóng gói công cụ an ninh mạng để chạy trên nhiều nền tảng (cross-platform)."
+  ],
+  "stars": 121313,
+  "starsToday": 186,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "compiler",
+    "language"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-06T18:47:06.884Z"
+}

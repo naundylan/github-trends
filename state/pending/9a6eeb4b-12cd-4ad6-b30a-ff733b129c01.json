@@ -1,0 +1,30 @@
+{
+  "id": "9a6eeb4b-12cd-4ad6-b30a-ff733b129c01",
+  "repo": "pandas-dev/pandas",
+  "url": "https://github.com/pandas-dev/pandas",
+  "category": "Data Engineering/ETL",
+  "summary": "thư viện Python mạnh mẽ cho thao tác dữ liệu, cung cấp cấu trúc có tên như DataFrame của R, phù hợp cho thống kê, tính toán và phân tích dữ liệu quy mô lớn",
+  "usecases": [
+    "làm sạch và biến đổi dữ liệu trong pipeline ETL",
+    "phân tích thống kê và tính toán trên bảng dữ liệu",
+    "tổng hợp và nhóm dữ liệu cho báo cáo kinh doanh"
+  ],
+  "ideas": [
+    "kết hợp với Streamlit để tạo dashboard dữ liệu tương tác ngay lập tức",
+    "sử dụng trong pipeline Airflow cho tự động hóa dữ liệu hàng ngày",
+    "phát triển plugin ETL cho các ứng dụng serverless xử lý dữ liệu thời gian thực"
+  ],
+  "stars": 50446,
+  "starsToday": 157,
+  "language": "Python",
+  "topics": [
+    "data-analysis",
+    "pandas",
+    "flexible",
+    "alignment",
+    "python",
+    "data-science"
+  ],
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-11-06T18:47:06.884Z"
+}
