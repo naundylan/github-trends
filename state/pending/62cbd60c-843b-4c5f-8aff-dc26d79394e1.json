@@ -1,0 +1,43 @@
+{
+  "id": "62cbd60c-843b-4c5f-8aff-dc26d79394e1",
+  "repo": "Unleash/unleash",
+  "url": "https://github.com/Unleash/unleash",
+  "category": "DevOps/CI-CD",
+  "summary": "Nền tảng mã nguồn mở quản lý tính năng (feature flags), cho phép bật/tắt chức năng ứng dụng mà không cần deploy lại, hỗ trợ deployment liên tục và thử nghiệm A/B.",
+  "usecases": [
+    "Bật/tắt tính năng mới cho nhóm user cụ thể trong môi trường production.",
+    "Quản lý rollout tính năng và khôi phục nhanh nếu phát hiện bug.",
+    "Tích hợp với CI/CD pipelines để tự động hóa deployment dựa trên trạng thái tính năng."
+  ],
+  "ideas": [
+    "Kết hợp với analytics để bật tính năng chỉ khi user thực hiện hành động cụ thể.",
+    "Sử dụng làm cơ sở cho dark launching và canary releases nâng cao.",
+    "Xây dựng UI quản lý tùy chọn cho product team điều chỉnh strategie kích hoạt mà không cần code."
+  ],
+  "stars": 14161,
+  "starsToday": 180,
+  "language": "TypeScript",
+  "topics": [
+    "feature",
+    "feature-toggle",
+    "unleash",
+    "feature-flags",
+    "continuous-deployment",
+    "continuous-delivery",
+    "devops",
+    "feature-toggles",
+    "feature-toggling",
+    "activation-strategies",
+    "variants",
+    "experiments",
+    "toggles",
+    "hacktoberfest",
+    "devtool",
+    "integration",
+    "collaboration",
+    "sdk",
+    "platform-engineering"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-07T17:16:15.415Z"
+}

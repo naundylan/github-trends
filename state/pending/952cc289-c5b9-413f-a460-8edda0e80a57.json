@@ -1,0 +1,44 @@
+{
+  "id": "952cc289-c5b9-413f-a460-8edda0e80a57",
+  "repo": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "category": "AI Agent/Automation",
+  "summary": "Rea là công cụ tự động hóa AI cho phép reverse engineer ứng dụng và bản nhị phân native, từ hành vi app xuống mức底层, hỗ trợ nghiên cứu bảo mật và tự động hóa tác vụ phức tạp.",
+  "usecases": [
+    "Phân tích bảo mật ứng dụng bằng cách tự động hóa reverse engineering xuống native binaries.",
+    "Tạo các AI agent điều khiển ứng dụng để thực hiện testing tự động hoặc tác vụ lặp lại.",
+    "Nghiên cứu tương thích và porting ứng dụng trên nhiều nền tảng như Linux, Android."
+  ],
+  "ideas": [
+    "Kết hợp Rea với các mô hình LLM để tạo ra code assistant hiểu và tương tác với code/binary legacy.",
+    "Phát triển plugin cho các framework testing tự động để thêm khả năng phân tích hành vi ứng dụng.",
+    "Sử dụng trong giáo dục để dạy concepts về cấu trúc ứng dụng và an ninh mạng theo cách hands-on."
+  ],
+  "stars": 440250,
+  "starsToday": 3308,
+  "language": "TypeScript",
+  "topics": [
+    "cli",
+    "mcp",
+    "agent-skills",
+    "dsh-plugin",
+    "claude-code",
+    "rea",
+    "touhou",
+    "android",
+    "javascript",
+    "python",
+    "typescript",
+    "nodejs",
+    "linux",
+    "ai",
+    "security",
+    "java",
+    "cpp",
+    "rust",
+    "react",
+    "html"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-07T17:16:15.415Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a7b6a6e2-189a-47c7-9f62-d276258e1de4",
+  "repo": "tailwindlabs/tailwindcss",
+  "url": "https://github.com/tailwindlabs/tailwindcss",
+  "category": "CSS/Styling",
+  "summary": "Framework CSS utility-first cho phép phát triển giao diện nhanh chóng với các class có sẵn, giảm thiểu viết CSS tùy chỉnh.",
+  "usecases": [
+    "Phát triển giao diện web responsive cho dự án startup nhanh chóng.",
+    "Tạo design system thống nhất across nhiều trang web và ứng dụng.",
+    "Tích hợp với React/Vue để xây dựng giao diện hiện đại mà không cần viết CSS thủ công."
+  ],
+  "ideas": [
+    "Tạo plugin tự động xóa class Tailwind không sử dụng cho production build.",
+    "Kết hợp Tailwind CSS với các framework CSS khác như Bootstrap thông qua customization.",
+    "Sử dụng Tailwind JIT trong các ứng dụng desktop dựa trên Electron hoặc Flutter."
+  ],
+  "stars": 98315,
+  "starsToday": 181,
+  "language": "TypeScript",
+  "topics": [
+    "tailwindcss",
+    "css",
+    "css-framework",
+    "postcss",
+    "functional-css",
+    "utility-classes",
+    "responsive"
+  ],
+  "notePath": "notes/CSS-Styling.md",
+  "createdAt": "2026-11-07T17:16:15.415Z"
+}

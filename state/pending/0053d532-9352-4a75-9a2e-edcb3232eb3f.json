@@ -1,0 +1,34 @@
+{
+  "id": "0053d532-9352-4a75-9a2e-edcb3232eb3f",
+  "repo": "mbillow/localthings",
+  "url": "https://github.com/mbillow/localthings",
+  "category": "Embedded/IoT",
+  "summary": "Mở rộng Home Assistant để điều khiển các thiết bị Samsung thông minh qua mạng nội bộ, không cần tài khoản đám mây.",
+  "usecases": [
+    "Điều khiển tủ lạnh và máy giặt Samsung trong Home Assistant mà không cần dịch vụ đám mây.",
+    "Tích hợp các thiết bị IoT Samsung vào hệ thống tự động hóa nhà thông minh sử dụng giao thức CoAP an toàn.",
+    "Giám sát và điều tiết trạng thái thiết bị qua mạng nội bộ với bảo mật DTLS."
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ cho các thương hiệu điện gia dụng khác cùng giao thức CoAP.",
+    "Kết hợp với Node-RED để tạo các quy tắc tự động dựa trên trạng thái thiết bị.",
+    "Phát triển ứng dụng đồng bộ trạng thái thiết bị với giao diện Home Assistant mobile."
+  ],
+  "stars": 992,
+  "starsToday": 184,
+  "language": "Python",
+  "topics": [
+    "custom-component",
+    "hacs",
+    "hacs-integration",
+    "home-assistant",
+    "home-automation",
+    "samsung",
+    "smartthings",
+    "coap-protocol",
+    "coap-server",
+    "dtls"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-11-07T17:16:15.415Z"
+}

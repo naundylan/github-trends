@@ -1,0 +1,37 @@
+{
+  "id": "850b1e8a-98ab-4c84-aefa-930229da48cc",
+  "repo": "donnemartin/system-design-primer",
+  "url": "https://github.com/donnemartin/system-design-primer",
+  "category": "Documentation/Learning Resource",
+  "summary": "một tài liệu hướng dẫn toàn diện để thiết kế hệ thống quy mô lớn, giúp chuẩn bị cho phỏng vấn thiết kế hệ thống với các mẫu architecture và patterns phổ biến",
+  "usecases": [
+    "chuẩn bị cho phỏng vấn hệ thống design tại các công ty tech lớn",
+    "học cách thiết kế scalable architecture cho ứng dụng web",
+    "tìm hiểu về design patterns và system architecture best practices"
+  ],
+  "ideas": [
+    "tạo flashcards cá nhân từ nội dung repo để review nhanh",
+    "kết hợp với các bài viết thực tế về architecture của các hệ thống lớn",
+    "dùng làm tài liệu tham khảo cho team internal design review"
+  ],
+  "stars": 377223,
+  "starsToday": 190,
+  "language": "Python",
+  "topics": [
+    "programming",
+    "development",
+    "design",
+    "design-system",
+    "system",
+    "design-patterns",
+    "web",
+    "web-application",
+    "webapp",
+    "python",
+    "interview",
+    "interview-questions",
+    "interview-practice"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-11-07T17:16:15.415Z"
+}

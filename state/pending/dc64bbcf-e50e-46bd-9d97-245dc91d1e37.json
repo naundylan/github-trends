@@ -1,0 +1,28 @@
+{
+  "id": "dc64bbcf-e50e-46bd-9d97-245dc91d1e37",
+  "repo": "astral-sh/uv",
+  "url": "https://github.com/astral-sh/uv",
+  "category": "Package Manager",
+  "summary": "Quản lý gói và dự án Python cực nhanh, viết bằng Rust, tối ưu hóa cài đặt và giải quyết phụ thuộc.",
+  "usecases": [
+    "Cài đặt và quản lý phiên bản Python cho các dự án khác nhau.",
+    "Giải quyết phụ thuộc (dependency resolution) nhanh chóng cho CI/CD.",
+    "Thay thế pip/pipenv trong workflow phát triển hàng ngày."
+  ],
+  "ideas": [
+    "Tích hợp vào Docker images làm lightweight Python runtime manager.",
+    "Sử dụng để quản lý môi trường Python trong các project machine learning.",
+    "Tạo script tự động đồng bộ dependencies giữa development và production."
+  ],
+  "stars": 91731,
+  "starsToday": 133,
+  "language": "Rust",
+  "topics": [
+    "packaging",
+    "python",
+    "resolver",
+    "uv"
+  ],
+  "notePath": "notes/Package-Manager.md",
+  "createdAt": "2026-11-07T17:16:15.415Z"
+}

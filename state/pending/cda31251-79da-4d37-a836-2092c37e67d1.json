@@ -1,0 +1,29 @@
+{
+  "id": "cda31251-79da-4d37-a836-2092c37e67d1",
+  "repo": "EbookFoundation/free-programming-books",
+  "url": "https://github.com/EbookFoundation/free-programming-books",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Danh sách nguồn mở chứa hàng ngàn cuốn sách lập trình miễn phí, được duy trì bởi cộng đồng, bao gồm nhiều ngôn ngữ và chủ đề đa dạng.",
+  "usecases": [
+    "Tài liệu học tập cho sinh viên và developer tự học ngôn ngữ/framework mới.",
+    "Nguồn tham khảo nhanh cho các dự án cần tìm sách hoặc tài liệu về ngôn ngữ cụ thể.",
+    "Dùng làm cơ sở cho các bài hướng dẫn hoặc nội dung giáo dục trên blog/course."
+  ],
+  "ideas": [
+    "Tự động hóa việc cập nhật danh sách sách định kỳ và xuất ra PDF/epub cá nhân.",
+    "Kết hợp với AI để tạo tóm tắt nội dung sách hoặc gợi ý sách dựa trên kỹ năng của người học.",
+    "Xây dựng ứng dụng mobile đọc sách lập trình với tính năng bookmark và đánh dấu tiến độ."
+  ],
+  "stars": 401207,
+  "starsToday": 179,
+  "language": "Python",
+  "topics": [
+    "education",
+    "books",
+    "list",
+    "resource",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-11-07T17:16:15.415Z"
+}

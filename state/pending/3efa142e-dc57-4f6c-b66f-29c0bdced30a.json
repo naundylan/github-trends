@@ -1,0 +1,25 @@
+{
+  "id": "3efa142e-dc57-4f6c-b66f-29c0bdced30a",
+  "repo": "ranxianglei/billion-context",
+  "url": "https://github.com/ranxianglei/billion-context",
+  "category": "AI/LLM",
+  "summary": "một plugin TypeScript nén bật context cho các phiên hội thoại dài hạn, cho phép sử dụng window context nhỏ (100K token) nhưng vẫn duy trì khả năng xử lý nội dung months-long, tiết kiệm token lên 5x",
+  "usecases": [
+    "cho phép phiên chat liên tục dài hạn mà không cần tăng context window",
+    "giảm chi phí token cho các ứng dụng LLM dựa trên tiền tệ",
+    "tích hợp vào IDE hoặc tool hỗ trợ LLM để tăng hiệu suất xử lý văn bản dài"
+  ],
+  "ideas": [
+    "kết hợp với retrieval-augmented generation (RAG) để quản lý memory dài hạn",
+    "phát triển phiên bản cho các model local để tối ưu tài nguyên",
+    "sử dụng làm cơ sở cho các hệ thống tự động hóa hội thoại dài ngày"
+  ],
+  "stars": 4514,
+  "starsToday": 185,
+  "language": "TypeScript",
+  "topics": [
+    "dsh-plugin"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-07T17:16:15.415Z"
+}
