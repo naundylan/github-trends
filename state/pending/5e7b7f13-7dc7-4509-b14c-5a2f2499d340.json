@@ -1,0 +1,28 @@
+{
+  "id": "5e7b7f13-7dc7-4509-b14c-5a2f2499d340",
+  "repo": "vuejs/vue",
+  "url": "https://github.com/vuejs/vue",
+  "category": "Web Framework",
+  "summary": "Vue 2 là framework JavaScript dùng để xây dựng giao diện người dùng, cung cấp kiến trúc component-based và reactivity mạnh mẽ.",
+  "usecases": [
+    "Xây dựng các ứng dụng web động single-page (SPA) với tốc độ phát triển cao.",
+    "Tạo giao diện cho các hệ thống quản trị và e-commerce với ecosystem plugin phong phú.",
+    "Kết nối với backend qua RESTful API hoặc GraphQL để xây dựng trải nghiệm full-stack."
+  ],
+  "ideas": [
+    "Backport Composition API cho Vue 2 để modernize codebase cũ mà không cần rewrite toàn bộ.",
+    "Xây dựng plugin SSR tùy chỉnh cho các môi trường hosting nhẹ như Netlify Functions.",
+    "Sử dụng Vue 2 cùng Pinia để xây dựng dashboard quản trị có hiệu năng cao."
+  ],
+  "stars": 212623,
+  "starsToday": 169,
+  "language": "TypeScript",
+  "topics": [
+    "vue",
+    "javascript",
+    "frontend",
+    "framework"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-11-07T00:35:41.615Z"
+}

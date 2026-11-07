@@ -1,0 +1,28 @@
+{
+  "id": "e9a02d8e-d77a-4ec2-9026-15b8c6eab203",
+  "repo": "zed-industries/zed",
+  "url": "https://github.com/zed-industries/zed",
+  "category": "Desktop App",
+  "summary": "Zed là một trình soạn thảo mã nguồn cao hiệu suất, đa người dùng, viết bằng Rust, cung cấp trải nghiệm viết code 'tốc độ suy nghĩ' với giao diện hiện đại và khả năng cộng tác thời gian thực.",
+  "usecases": [
+    "Cộng tác trực tiếp thời gian thực giữa nhiều người trên cùng một file code.",
+    "Soạn thảo mã với độ trễ cực thấp trên các thiết bị mạnh mẽ, phù hợp cho lập trình viên chuyên nghiệp.",
+    "Tích hợp Tree-sitter cho phân tích cú pháp nâng cao và tự động hoàn thành."
+  ],
+  "ideas": [
+    "Sử dụng làm nền tảng cho IDE đồng nghiệp trong các dự án mở nguồn.",
+    "Kết hợp với các dịch vụ đám mây để lưu trữ và đồng bộ trạng thái dự án theo thời gian thực.",
+    "Phát triển plugin cho phép chỉnh sửa code bằng lệnh giọng nói hoặc đầu vào mạch não (tương lai)."
+  ],
+  "stars": 93619,
+  "starsToday": 306,
+  "language": "Rust",
+  "topics": [
+    "text-editor",
+    "zed",
+    "gpui",
+    "rust-lang"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-07T00:35:41.615Z"
+}

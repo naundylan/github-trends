@@ -1,0 +1,28 @@
+{
+  "id": "939e04b9-d7dc-423c-af8a-3ec4a865d109",
+  "repo": "kubernetes/kubernetes",
+  "url": "https://github.com/kubernetes/kubernetes",
+  "category": "Cloud/Hosting",
+  "summary": "Hệ điều hành đám mây mã nguồn mở cho việc lên lịch và quản lý ứng dụng container, tự động hóa deployment, scaling và quản lý hạ tầng container.",
+  "usecases": [
+    "Triển khai và quản lý ứng dụng container ở quy mô lớn trong môi trường production.",
+    "Tích hợp microservices với scaling tự động và load balancing.",
+    "Tạo môi trường đa đám mây (multi-cloud) và hybrid cloud cho các ứng dụng phân tán."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động tối ưu resource allocation dựa trên traffic patterns.",
+    "Sử dụng Kubernetes Edge để triển khai các ứng dụng IoT tại mép mạng.",
+    "Tạo platform self-healing cho các workflow AI/ML training jobs."
+  ],
+  "stars": 128880,
+  "starsToday": 201,
+  "language": "Go",
+  "topics": [
+    "kubernetes",
+    "go",
+    "cncf",
+    "containers"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-11-07T00:35:41.615Z"
+}

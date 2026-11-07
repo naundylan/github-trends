@@ -1,0 +1,33 @@
+{
+  "id": "58a9c690-1bf8-45bd-872b-11e139abc954",
+  "repo": "django/django",
+  "url": "https://github.com/django/django",
+  "category": "Web Framework",
+  "summary": "Framework web cao cấp cho Python, cung cấp các công cụ toàn diện cho xây dựng ứng dụng web nhanh chóng với ORM, template engine và authentication tích hợp.",
+  "usecases": [
+    "Phát triển các ứng dụng web doanh nghiệp (enterprise) với bảo mật và scalability cao.",
+    "Xây dựng API RESTful hoặc GraphQL cho mobile apps và frontend applications.",
+    "Tạo blogging platforms, CMS hoặc các prototype nhanh chóng cho startup."
+  ],
+  "ideas": [
+    "Tích hợp Django với LLMs để xây dựng nội dung động dựa trên user input.",
+    "Sử dụng Django Channels để xây dựng ứng dụng real-time (chat, notifications) cùng WebSockets.",
+    "Tạo boilerplate Django modular cho micro-frontends và serverless deployment."
+  ],
+  "stars": 91671,
+  "starsToday": 169,
+  "language": "Python",
+  "topics": [
+    "python",
+    "django",
+    "web",
+    "framework",
+    "orm",
+    "templates",
+    "models",
+    "views",
+    "apps"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-11-07T00:35:41.615Z"
+}

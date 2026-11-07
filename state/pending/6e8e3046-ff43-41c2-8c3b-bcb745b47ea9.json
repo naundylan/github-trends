@@ -1,0 +1,33 @@
+{
+  "id": "6e8e3046-ff43-41c2-8c3b-bcb745b47ea9",
+  "repo": "sharkdp/fd",
+  "url": "https://github.com/sharkdp/fd",
+  "category": "CLI Tool",
+  "summary": "fd là một thay thế hiện đại và nhanh cho lệnh find, tìm kiếm file trên filesystem bằng regex.",
+  "usecases": [
+    "Tìm file nhanh trong dự án lớn thay vì find truyền thống.",
+    "Tìm file theo pattern regex trong codebase.",
+    "Scripting tự động hóa file management trên terminal."
+  ],
+  "ideas": [
+    "Tích hợp vào scripts shell để tìm và xử lý file hàng loạt.",
+    "Sử dụng trong tìm kiếm file trên local development environment tùy chỉnh.",
+    "Kết hợp với fzf cho preview file tìm được."
+  ],
+  "stars": 45088,
+  "starsToday": 160,
+  "language": "Rust",
+  "topics": [
+    "command-line",
+    "tool",
+    "filesystem",
+    "search",
+    "regex",
+    "rust",
+    "cli",
+    "terminal",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-07T00:35:41.615Z"
+}

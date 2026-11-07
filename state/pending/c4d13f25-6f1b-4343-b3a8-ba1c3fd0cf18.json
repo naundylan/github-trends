@@ -1,0 +1,29 @@
+{
+  "id": "c4d13f25-6f1b-4343-b3a8-ba1c3fd0cf18",
+  "repo": "microsoft/vscode",
+  "url": "https://github.com/microsoft/vscode",
+  "category": "Desktop App",
+  "summary": "Visual Studio Code là trình soạn thảo mã nguồn mở và miễn phí từ Microsoft, dựa trên Electron và TypeScript, cung cấp môi trường phát triển nhẹ nhưng mạnh mẽ với hệ thống mở rộng phong phú.",
+  "usecases": [
+    "Phát triển phần mềm với các ngôn ngữ đa dạng thông qua các mở rộng (extensions).",
+    "Debug và triển khai ứng dụng với tích hợp công cụ DevOps trực tiếp.",
+    "Tùy chỉnh môi trường làm việc bằng giao diện và phím tắt cá nhân hóa."
+  ],
+  "ideas": [
+    "Tạo ra một IDE cá nhân cho từng ngôn ngữ hoặc framework cụ thể bằng cách kết hợp các extension.",
+    "Sử dụng trong đào tạo lập trình viên mới qua môi trường đã cấu hình sẵn.",
+    "Kết hợp với các công cụ AI để tự động hoàn thành code và review."
+  ],
+  "stars": 195023,
+  "starsToday": 301,
+  "language": "TypeScript",
+  "topics": [
+    "editor",
+    "electron",
+    "visual-studio-code",
+    "typescript",
+    "microsoft"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-07T00:35:41.615Z"
+}

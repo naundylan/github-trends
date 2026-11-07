@@ -1,0 +1,31 @@
+{
+  "id": "999f7bf3-dd20-4a2c-ba18-5f810388867f",
+  "repo": "tailwindlabs/tailwindcss",
+  "url": "https://github.com/tailwindlabs/tailwindcss",
+  "category": "CSS/Styling",
+  "summary": "Framework CSS utility-first cho phép phát triển giao diện nhanh chóng và linh hoạt.",
+  "usecases": [
+    "Rapid prototyping of web UI layouts",
+    "Building consistent design systems across multiple projects",
+    "Developing responsive interfaces without writing custom CSS"
+  ],
+  "ideas": [
+    "Combine with React Native for cross-platform styling consistency",
+    "Integrate with design tokens to auto-generate Tailwind configs from Figma designs",
+    "Use as a base for a no-code website builder's styling engine"
+  ],
+  "stars": 98165,
+  "starsToday": 152,
+  "language": "TypeScript",
+  "topics": [
+    "tailwindcss",
+    "css",
+    "css-framework",
+    "postcss",
+    "functional-css",
+    "utility-classes",
+    "responsive"
+  ],
+  "notePath": "notes/CSS-Styling.md",
+  "createdAt": "2026-11-07T00:35:41.615Z"
+}

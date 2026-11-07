@@ -1,0 +1,27 @@
+{
+  "id": "641136b3-9a95-4116-a69a-9ebe9bc1ac7e",
+  "repo": "tokio-rs/tokio",
+  "url": "https://github.com/tokio-rs/tokio",
+  "category": "Backend Framework",
+  "summary": "Runtime cho phép viết các ứng dụng bất đồng bộ tin cậy bằng Rust, cung cấp I/O, networking và scheduling.",
+  "usecases": [
+    "Building high-performance asynchronous TCP/UDP servers and clients",
+    "Developing real-time web applications with low latency",
+    "Creating efficient background task schedulers and service meshes"
+  ],
+  "ideas": [
+    "Build a real-time multiplayer game server with Rust + Tokio",
+    "Create a lightweight async HTTP proxy for network monitoring",
+    "Develop a distributed task queue system using Tokio's actor model"
+  ],
+  "stars": 33701,
+  "starsToday": 149,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "asynchronous",
+    "networking"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-11-07T00:35:41.615Z"
+}
