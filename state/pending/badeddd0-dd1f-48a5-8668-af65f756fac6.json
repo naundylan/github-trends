@@ -1,0 +1,31 @@
+{
+  "id": "badeddd0-dd1f-48a5-8668-af65f756fac6",
+  "repo": "symfony/symfony",
+  "url": "https://github.com/symfony/symfony",
+  "category": "Web Framework",
+  "summary": "Symfony là framework PHP mạnh mẽ, hướng đối tượng, để xây dựng ứng dụng web scalable và maintainable.",
+  "usecases": [
+    "Xây dựng API RESTful cho ứng dụng di động và web.",
+    "Phát triển hệ thống quản lý nội dung (CMS) doanh nghiệp.",
+    "Tạo microservices với tích hợp Doctrine ORM và deployment trên Kubernetes."
+  ],
+  "ideas": [
+    "Kết hợp với Vue.js/React làm backend headless.",
+    "Sử dụng Symfony Flex cho rapid development các dự án startup.",
+    "Triển khai đa-tenant architecture cho các ứng dụng SaaS."
+  ],
+  "stars": 31505,
+  "starsToday": 128,
+  "language": "PHP",
+  "topics": [
+    "framework",
+    "php",
+    "symfony",
+    "symfony-bundle",
+    "bundle",
+    "php-framework",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-11-07T09:31:46.693Z"
+}

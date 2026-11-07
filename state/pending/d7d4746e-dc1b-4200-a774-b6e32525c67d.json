@@ -1,0 +1,31 @@
+{
+  "id": "d7d4746e-dc1b-4200-a774-b6e32525c67d",
+  "repo": "prometheus/prometheus",
+  "url": "https://github.com/prometheus/prometheus",
+  "category": "Database",
+  "summary": "Prometheus là một hệ thống giám sát mã nguồn mở và cơ sở dữ liệu thời gian thực, thu thập và lưu trữ metrics để theo dõi hiệu suất và cảnh báo các vấn đề trong các ứng dụng và infrastructure.",
+  "usecases": [
+    "Giám sát hiệu suất hệ thống và ứng dụng trong môi trường production.",
+    "Cảnh báo tự động (alerting) khi các ngưỡng metrics vượt quá giới hạn.",
+    "Thu thập và lưu trữ metrics thời gian thực cho các nhà cung cấp cloud và container orchestration (Kubernetes)."
+  ],
+  "ideas": [
+    "Kết hợp với Grafana để tạo dashboard giám sát tùy chỉnh cho các dự án microservices.",
+    "Sử dụng Prometheus as Code để tự động cấu hình monitoring cho infrastructure mới deploy.",
+    "Phát triển plugin tùy chỉnh để thu thập metrics từ các dịch vụ nội bộ không hỗ trợ natively."
+  ],
+  "stars": 67264,
+  "starsToday": 148,
+  "language": "Go",
+  "topics": [
+    "monitoring",
+    "metrics",
+    "alerting",
+    "graphing",
+    "time-series",
+    "prometheus",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-11-07T09:31:46.692Z"
+}

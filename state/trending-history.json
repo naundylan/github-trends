@@ -4126,7 +4126,7 @@
   },
   "lz4/lz4": {
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-07",
     "last_saved": "2026-11-06"
   },
   "pandas-dev/pandas": {
@@ -4154,37 +4154,52 @@
     "last_seen": "2026-11-07",
     "last_saved": "2026-11-06"
   },
-  "django/django": {
+  "rails/rails": {
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
     "last_saved": "2026-11-07"
   },
-  "vitejs/vite": {
+  "angular/angular": {
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
     "last_saved": "2026-11-07"
   },
-  "vuejs/vue": {
+  "symfony/symfony": {
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
     "last_saved": "2026-11-07"
   },
-  "tailwindlabs/tailwindcss": {
+  "prometheus/prometheus": {
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
     "last_saved": "2026-11-07"
   },
-  "tokio-rs/tokio": {
+  "nushell/nushell": {
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
     "last_saved": "2026-11-07"
   },
-  "sharkdp/fd": {
+  "python-poetry/poetry": {
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
     "last_saved": "2026-11-07"
   },
-  "rivet-dev/rivet": {
+  "numpy/numpy": {
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "last_saved": "2026-11-07"
+  },
+  "solidjs/solid": {
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "last_saved": "2026-11-07"
+  },
+  "tldraw/tldraw": {
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "last_saved": "2026-11-07"
+  },
+  "sharkdp/bat": {
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
     "last_saved": "2026-11-07"

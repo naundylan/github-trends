@@ -1,0 +1,31 @@
+{
+  "id": "687b0462-a178-4f27-a96c-8a606cd3c2bc",
+  "repo": "rails/rails",
+  "url": "https://github.com/rails/rails",
+  "category": "Web Framework",
+  "summary": "Ruby on Rails là framework web MVC đầy đủ cho Ruby, tập trung vào tốc độ phát triển qua convention over configuration và hệ sinh thái gems phong phú.",
+  "usecases": [
+    "Phát triển nhanh các ứng dụng web thương mại điện tử và API",
+    "Xây dựng hệ thống nội bộ quản lý (CRM/ERP) với ActiveRecord modeling",
+    "Prototyping MVP cho startup trong thời gian ngắn"
+  ],
+  "ideas": [
+    "Kết hợp Rails với Vue/React làm API backend + frontend lightweight",
+    "Sử dụng Rails ActiveJob để xử lý queue tác vụ cho canvas app",
+    "Build CMS headless với Rails, nội dung đưa ra cho các ứng dụng canvas"
+  ],
+  "stars": 59068,
+  "starsToday": 142,
+  "language": "Ruby",
+  "topics": [
+    "rails",
+    "mvc",
+    "html",
+    "activerecord",
+    "activejob",
+    "ruby",
+    "framework"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-11-07T09:31:46.693Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "4686686e-def2-4d32-a1db-5f418d84132e",
+  "repo": "python-poetry/poetry",
+  "url": "https://github.com/python-poetry/poetry",
+  "category": "Package Manager",
+  "summary": "Dự án quản lý gói và phụ thuộc Python, đơn giản hóa quy trình đóng gói, 격리 và phân phối mã nguồn.",
+  "usecases": [
+    "Quản lý phụ thuộc dự án Python trong phát triển phần mềm.",
+    "Tạo 격리 môi trường (virtual environment) nhất quán cho các team.",
+    "Build và publish package Python lên PyPI dễ dàng."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động quản lý phiên bản phụ thuộc.",
+    "Tạo boilerplate project Python có cấu hình Poetry sẵn sàng.",
+    "Sử dụng Poetry trong môi trường đa ngôn ngữ để quản lý Python riêng lẻ."
+  ],
+  "stars": 34430,
+  "starsToday": 133,
+  "language": "Python",
+  "topics": [
+    "python",
+    "dependency-manager",
+    "package-manager",
+    "packaging",
+    "poetry"
+  ],
+  "notePath": "notes/Package-Manager.md",
+  "createdAt": "2026-11-07T09:31:46.693Z"
+}

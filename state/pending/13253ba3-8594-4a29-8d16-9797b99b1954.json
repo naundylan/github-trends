@@ -1,0 +1,32 @@
+{
+  "id": "13253ba3-8594-4a29-8d16-9797b99b1954",
+  "repo": "sharkdp/bat",
+  "url": "https://github.com/sharkdp/bat",
+  "category": "CLI Tool",
+  "summary": "Bat là một bản thay thế cho lệnh cat với highlighting cú pháp và tích hợp git, được viết bằng Rust, cung cấp trải nghiệm terminal hiện đại và trực quan.",
+  "usecases": [
+    "Hiển thị nội dung file với màu sắc trong terminal khi phát triển code.",
+    "Xem file log git với preview trực tiếp và highlighting cú pháp.",
+    "Tích hợp vào scripts tự động hóa cần output có định dạng đẹp."
+  ],
+  "ideas": [
+    "Tích hợp bat làm default pager cho git diff và log trên các hệ thống CI.",
+    "Phát triển plugin cho IDE để preview file qua bat mà không cần leave editor.",
+    "Kết hợp bat với tmux để tạo status line có màu tự động dựa trên ngôn ngữ file."
+  ],
+  "stars": 61211,
+  "starsToday": 138,
+  "language": "Rust",
+  "topics": [
+    "command-line",
+    "tool",
+    "syntax-highlighting",
+    "git",
+    "terminal",
+    "cli",
+    "rust",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-07T09:31:46.693Z"
+}

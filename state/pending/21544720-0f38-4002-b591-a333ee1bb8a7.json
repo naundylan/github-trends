@@ -1,0 +1,31 @@
+{
+  "id": "21544720-0f38-4002-b591-a333ee1bb8a7",
+  "repo": "angular/angular",
+  "url": "https://github.com/angular/angular",
+  "category": "Web Framework",
+  "summary": "Angular là một framework ứng dụng web toàn diện dùng để xây dựng các ứng dụng động và Progressive Web Apps (PWA) với TypeScript, cung cấp ecosystem đầy đủ bao gồm routing, state management và dependency injection.",
+  "usecases": [
+    "Xây dựng dashboard doanh nghiệp nội bộ với dữ liệu real-time.",
+    "Phát triển Progressive Web App (PWA) có khả năng hoạt động offline cho thương mại điện tử.",
+    "Tạo các micro-frontends độc lập có thể kết hợp vào một ứng dụng lớn qua Module Federation."
+  ],
+  "ideas": [
+    "Kết hợp Angular với AI SDK để xây dựng các giao diện tương tác dựa trên prompt người dùng.",
+    "Sử dụng Angular Elements và Module Federation để xây dựng thiết kế micro-frontends cho các dự án đa công ty.",
+    "Tối ưu hiệu suất bằng Angular Signals và server-side rendering (SSR) cho các ứng dụng thời thực."
+  ],
+  "stars": 101454,
+  "starsToday": 135,
+  "language": "TypeScript",
+  "topics": [
+    "angular",
+    "typescript",
+    "web",
+    "javascript",
+    "pwa",
+    "web-framework",
+    "web-performance"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-11-07T09:31:46.693Z"
+}

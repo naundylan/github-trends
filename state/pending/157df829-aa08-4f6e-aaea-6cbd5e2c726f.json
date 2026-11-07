@@ -1,0 +1,36 @@
+{
+  "id": "157df829-aa08-4f6e-aaea-6cbd5e2c726f",
+  "repo": "tldraw/tldraw",
+  "url": "https://github.com/tldraw/tldraw",
+  "category": "UI/Component Library",
+  "summary": "tldraw là SDK React cho canvas vô hạn, cho phép tạo ứng dụng vẽ, diagram và whiteboard với đồng bộ thời gian thực và API trực quan.",
+  "usecases": [
+    "Tạo whiteboard trực tuyến và công cụ vẽ colaborative như Miro hoặc Figma",
+    "Xây dựng ứng dụng diagram/graph design cho thiết kế UX/UI",
+    "Phát triển game hoặc simulator dựa trên canvas vô hạn với logic tương tác"
+  ],
+  "ideas": [
+    "Kết hợp với Rails làm backend để lưu trữ state canvas",
+    "Sử dụng trong giáo dục tạo bảng vẽ tương tác cho remote learning",
+    "Build tool cho architecture design cho phép team vẽ và export diagram tự động"
+  ],
+  "stars": 51393,
+  "starsToday": 139,
+  "language": "TypeScript",
+  "topics": [
+    "drawing",
+    "sketch",
+    "whiteboard",
+    "canvas",
+    "diagram",
+    "infinite",
+    "react",
+    "collaboration",
+    "design",
+    "multiplayer",
+    "sync",
+    "sdk"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-11-07T09:31:46.693Z"
+}

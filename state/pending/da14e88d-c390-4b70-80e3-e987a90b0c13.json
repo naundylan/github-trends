@@ -1,0 +1,26 @@
+{
+  "id": "da14e88d-c390-4b70-80e3-e987a90b0c13",
+  "repo": "numpy/numpy",
+  "url": "https://github.com/numpy/numpy",
+  "category": "Data Engineering/ETL",
+  "summary": "NumPy là thư viện cốt lõi cho tính toán số học trong Python, cung cấp hỗ trợ mảng lớn và các hàm toán học cho khoa học dữ liệu.",
+  "usecases": [
+    "Thực hiện các phép toán mảng số học nhanh trong pipeline xử lý dữ liệu.",
+    "Hỗ trợ tính toán nền tảng cho các mô hình Machine Learning.",
+    "Xử lý và biến đổi dữ liệu số trong ứng dụng ETL."
+  ],
+  "ideas": [
+    "Kết hợp với pandas và matplotlib để xây dựng pipeline phân tích dữ liệu hoàn chỉnh.",
+    "Sử dụng trong tính toán phân tán trên các nền tảng cloud.",
+    "Phát triển thư viện Python riêng cho các ứng dụng khoa học và kỹ thuật."
+  ],
+  "stars": 33378,
+  "starsToday": 131,
+  "language": "Python",
+  "topics": [
+    "numpy",
+    "python"
+  ],
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-11-07T09:31:46.693Z"
+}
