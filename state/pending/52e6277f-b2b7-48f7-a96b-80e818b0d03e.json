@@ -1,0 +1,29 @@
+{
+  "id": "52e6277f-b2b7-48f7-a96b-80e818b0d03e",
+  "repo": "dsx-ai-factory/nvke",
+  "url": "https://github.com/dsx-ai-factory/nvke",
+  "category": "DevOps/CI-CD",
+  "summary": "NVIDIA Kubernetes Engine (NVKE) là một plane quản lý cho Kubernetes trên vật lý nguyên bản, cho phép điều phối và quản lý các cụm GPU một cách hiệu quả.",
+  "usecases": [
+    "Quản lý và phân bổ tài nguyên GPU cho các cluster Kubernetes trên máy chủ vật lý.",
+    "Triển khai và vận hành các khối tính toán AI/ML trên hạ tầng bare metal.",
+    "Tích hợp với Cluster API để tự động hóa lifecycle của cluster GPU."
+  ],
+  "ideas": [
+    "Kết hợp với các orchestrator AI như KubeFlow để tối ưu hóa tài nguyên GPU.",
+    "Phát triển plugin monitoring cho các dashboard Grafana chuyên về hiệu suất GPU.",
+    "Hỗ trợ multi-tenant isolation cho các team khác nhau trên cùng một cluster GPU bare metal."
+  ],
+  "stars": 518,
+  "starsToday": 125,
+  "language": "Go",
+  "topics": [
+    "bare-metal",
+    "cluster-api",
+    "gpu",
+    "kubernetes",
+    "nvidia"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-07T21:18:37.208Z"
+}

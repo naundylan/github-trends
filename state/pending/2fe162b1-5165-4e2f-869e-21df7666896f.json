@@ -1,0 +1,31 @@
+{
+  "id": "2fe162b1-5165-4e2f-869e-21df7666896f",
+  "repo": "angular/angular",
+  "url": "https://github.com/angular/angular",
+  "category": "Web Framework",
+  "summary": "Angular là một framework TypeScript mạnh mẽ cho xây dựng ứng dụng web động, cung cấp toàn bộ các tính năng cần thiết từ routing, state management đến PWA support.",
+  "usecases": [
+    "Xây dựng các ứng dụng web doanh nghiệp quy mô lớn.",
+    "Phát triển Progressive Web Apps (PWA) với hiệu suất cao.",
+    "Tạo các giao diện người dùng động và tương tác phức tạp."
+  ],
+  "ideas": [
+    "Kết hợp Angular với các microservices backend thông qua GraphQL để xây dựng full-stack web app.",
+    "Sử dụng Angular Ivy rendering và SSR (Server-Side Rendering) để tối ưu SEO và tốc độ tải ban đầu.",
+    "Phát triển mobile web app dùng Capacitor để triển khai trên cả iOS và Android."
+  ],
+  "stars": 101466,
+  "starsToday": 358,
+  "language": "TypeScript",
+  "topics": [
+    "angular",
+    "typescript",
+    "web",
+    "javascript",
+    "pwa",
+    "web-framework",
+    "web-performance"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-11-07T21:18:37.208Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1543c6aa-ea10-4334-a1ba-e4a17aadec3a",
+  "repo": "sharkdp/fd",
+  "url": "https://github.com/sharkdp/fd",
+  "category": "CLI Tool",
+  "summary": "A fast, user-friendly command-line alternative to 'find' for searching files and directories.",
+  "usecases": [
+    "Quickly search for files by name, pattern, or type in large directory trees.",
+    "Integrate into shell scripts and automation workflows for file discovery.",
+    "Replace legacy `find` commands in daily development tasks with a simpler syntax."
+  ],
+  "ideas": [
+    "Combine with `fzf` for interactive file selection in terminal.",
+    "Use as a building block in custom DevOps tools for dynamic file filtering.",
+    "Create a cross-platform desktop utility that wraps fd for GUI file browsing."
+  ],
+  "stars": 45109,
+  "starsToday": 106,
+  "language": "Rust",
+  "topics": [
+    "command-line",
+    "tool",
+    "filesystem",
+    "search",
+    "regex",
+    "rust",
+    "cli",
+    "terminal",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-07T21:18:37.208Z"
+}

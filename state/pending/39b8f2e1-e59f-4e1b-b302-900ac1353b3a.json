@@ -1,0 +1,37 @@
+{
+  "id": "39b8f2e1-e59f-4e1b-b302-900ac1353b3a",
+  "repo": "orhun/git-cliff",
+  "url": "https://github.com/orhun/git-cliff",
+  "category": "CLI Tool",
+  "summary": "Git-cliff là một công cụ tạo changelog tự động và tùy chỉnh cao, tuân theo chuẩn Conventional Commit, giúp tạo báo cáo thay đổi phiên bản nhanh chóng và chính xác.",
+  "usecases": [
+    "Tự động tạo file CHANGELOG.md cho dự án open source tuân theo Conventional Commits.",
+    "Tích hợp vào CI/CD pipeline để sinh changelog mỗi lần release.",
+    "Cấu hình tùy chỉnh để phù hợp với quy trình commit và phiên bản semver của team."
+  ],
+  "ideas": [
+    "Kết hợp với bot GitHub Actions để tự động tạo pull request description từ changelog.",
+    "Phát triển plugin cho IDE để preview changelog khi viết commit.",
+    "Tạo dashboard trực quan hóa lịch sử commit và version releases dựa trên output của git-cliff."
+  ],
+  "stars": 12504,
+  "starsToday": 101,
+  "language": "Rust",
+  "topics": [
+    "changelog",
+    "generator",
+    "changelog-generator",
+    "commit",
+    "conventional-commits",
+    "conventional-changelog",
+    "keepachangelog",
+    "semver",
+    "rust",
+    "hacktoberfest",
+    "git-cliff",
+    "conventional-commit",
+    "git"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-07T21:18:37.208Z"
+}

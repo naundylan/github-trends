@@ -1,0 +1,27 @@
+{
+  "id": "5c93ddb3-5c3c-4a32-894b-c71e49923e5a",
+  "repo": "tokio-rs/tokio",
+  "url": "https://github.com/tokio-rs/tokio",
+  "category": "Developer Tool",
+  "summary": "Tokio là runtime cho Rust, cung cấp các tính năng I/O, mạng và lập lịch để xây dựng các ứng dụng bất đồng bộ đáng tin cậy.",
+  "usecases": [
+    "Xây dựng server mạng high-performance và proxy trong Rust.",
+    "Phát triển ứng dụng real-time như chat server hoặc game server.",
+    "Tạo các tool/cli và script automation sử dụng async I/O."
+  ],
+  "ideas": [
+    "Sử dụng Tokio để xây dựng một zero-trust network proxy an toàn.",
+    "Tích hợp Tokio với WebAssembly để chạy runtime di-edge devices.",
+    "Phát triển framework monitoring phân tán sử dụng async streams của Tokio."
+  ],
+  "stars": 33717,
+  "starsToday": 107,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "asynchronous",
+    "networking"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-07T21:18:37.208Z"
+}

@@ -4154,27 +4154,52 @@
     "last_seen": "2026-11-07",
     "last_saved": "2026-11-06"
   },
-  "tailwindlabs/tailwindcss": {
+  "prometheus/prometheus": {
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
     "last_saved": "2026-11-07"
   },
-  "mbillow/localthings": {
+  "dsx-ai-factory/nvke": {
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
     "last_saved": "2026-11-07"
   },
-  "Unleash/unleash": {
+  "spotDL/spotify-downloader": {
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
     "last_saved": "2026-11-07"
   },
-  "BurntSushi/ripgrep": {
+  "django/django": {
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
     "last_saved": "2026-11-07"
   },
-  "astral-sh/uv": {
+  "angular/angular": {
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "last_saved": "2026-11-07"
+  },
+  "moby/moby": {
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "last_saved": "2026-11-07"
+  },
+  "sharkdp/fd": {
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "last_saved": "2026-11-07"
+  },
+  "tokio-rs/tokio": {
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "last_saved": "2026-11-07"
+  },
+  "serde-rs/serde": {
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "last_saved": "2026-11-07"
+  },
+  "orhun/git-cliff": {
     "first_seen": "2026-11-07",
     "last_seen": "2026-11-07",
     "last_saved": "2026-11-07"

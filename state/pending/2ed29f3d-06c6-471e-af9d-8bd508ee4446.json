@@ -1,0 +1,36 @@
+{
+  "id": "2ed29f3d-06c6-471e-af9d-8bd508ee4446",
+  "repo": "spotDL/spotify-downloader",
+  "url": "https://github.com/spotDL/spotify-downloader",
+  "category": "CLI Tool",
+  "summary": "spotDL là công cụ dòng lệnh tải nhạc Spotify, playlist kèm album art và metadata, hỗ trợ tra cứu từ YouTube.",
+  "usecases": [
+    "Tải nhạc Spotify offline cá nhân",
+    "Lưu playlist kèm metadata và ảnh bì",
+    "Phát nhạc từ YouTube khi bài hát không có trên Spotify"
+  ],
+  "ideas": [
+    "Tích hợp với thư nghe nhạc để quản lý thư viện",
+    "Tự động tải playlist mới mỗi ngày",
+    "Tạo script định kỳ cập nhật thư viện nhạc"
+  ],
+  "stars": 26730,
+  "starsToday": 75,
+  "language": "Python",
+  "topics": [
+    "mp3",
+    "spotify",
+    "download-music",
+    "music",
+    "song-lyrics",
+    "song",
+    "youtube-music",
+    "playlists",
+    "spotdl",
+    "spotdl-cli",
+    "hacktoberfest",
+    "python"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-07T21:18:37.208Z"
+}

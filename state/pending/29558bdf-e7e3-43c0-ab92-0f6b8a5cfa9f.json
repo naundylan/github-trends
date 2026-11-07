@@ -1,0 +1,28 @@
+{
+  "id": "29558bdf-e7e3-43c0-ab92-0f6b8a5cfa9f",
+  "repo": "moby/moby",
+  "url": "https://github.com/moby/moby",
+  "category": "Infrastructure as Code",
+  "summary": "Moby là dự án cộng tác tạo nền tảng cho hệ thống container, là nguồn gốc của Docker để xây dựng và quản lý container-based systems.",
+  "usecases": [
+    "Xây dựng và triển khai ứng dụng trong container",
+    "Tạo môi trường phát triển đồng nhất cho đội ngũ",
+    "Triển khai microservices và orchestration"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động build container",
+    "Sử dụng làm nền tảng edge computing",
+    "Tích hợp monitoring vào container do Moby quản lý"
+  ],
+  "stars": 72358,
+  "starsToday": 86,
+  "language": "Go",
+  "topics": [
+    "docker",
+    "containers",
+    "go",
+    "golang"
+  ],
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-11-07T21:18:37.208Z"
+}
