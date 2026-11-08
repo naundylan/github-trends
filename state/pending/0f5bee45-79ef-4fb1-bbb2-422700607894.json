@@ -1,0 +1,44 @@
+{
+  "id": "0f5bee45-79ef-4fb1-bbb2-422700607894",
+  "repo": "hmjz100/LinkSwift",
+  "url": "https://github.com/hmjz100/LinkSwift",
+  "category": "Developer Tool",
+  "summary": "LinkSwift 是一个 JavaScript 用户脚本，可从百度、阿里云、夸克等八大网盘获取直链下载地址，自动化突破下载限制。",
+  "usecases": [
+    "在浏览器中一键获取网盘文件的直接下载链接，绕过会员限速",
+    "自动化下载大文件用于备份或迁移存储空间",
+    "集成到 Tampermonkey 中，为研究人员快速获取资源材料"
+  ],
+  "ideas": [
+    "开发跨平台桌面应用，将脚本功能封装为原生下载工具，支持更多云盘服务",
+    "结合 aria2c 实现多线程并发下载，提升大文件传输速度",
+    "创建 API 服务，让移动端或其他脚本通过接口调用下载链接生成逻辑"
+  ],
+  "stars": 38757,
+  "starsToday": 309,
+  "language": "JavaScript",
+  "topics": [
+    "aliyun-drive",
+    "baidu",
+    "baidu-netdisk",
+    "quark-netdisk",
+    "tianyi-netdisk",
+    "xunlei-netdisk",
+    "yidong-netdisk",
+    "tampermonkey",
+    "tampermonkey-script",
+    "tampermonkey-userscript",
+    "userscript",
+    "baidunetdisk",
+    "baiduyun",
+    "123pan",
+    "uc-netdisk",
+    "motrix",
+    "aria2",
+    "aliyunpan",
+    "baidupan",
+    "guangya-netdisk"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-08T12:35:17.164Z"
+}

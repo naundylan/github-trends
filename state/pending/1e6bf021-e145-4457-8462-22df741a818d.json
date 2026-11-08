@@ -1,0 +1,23 @@
+{
+  "id": "1e6bf021-e145-4457-8462-22df741a818d",
+  "repo": "vercel-labs/json-render",
+  "url": "https://github.com/vercel-labs/json-render",
+  "category": "Web Framework",
+  "summary": "Json-render là một framework Generative UI cho phép phát triển giao diện người dùng bằng cách render dữ liệu JSON thành các component giao diện, giúp tự động hóa việc xây dựng giao web mà không cần viết code thủ công nhiều.",
+  "usecases": [
+    "Rapid prototyping of web interfaces from JSON data",
+    "Generating dynamic UI for admin panels or dashboards from API responses",
+    "Creating consistent design systems across multiple projects"
+  ],
+  "ideas": [
+    "Combine with LLM to auto-generate UI from natural language descriptions",
+    "Integrate with design tools like Figma to convert designs to JSON-render code",
+    "Use as a base for server-side rendered UI in Next.js projects"
+  ],
+  "stars": 19412,
+  "starsToday": 202,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-11-08T12:35:17.164Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "68fd777f-f080-4b14-8fd4-a01741b705f5",
+  "repo": "Albert-Weasker/niubigeo",
+  "url": "https://github.com/Albert-Weasker/niubigeo",
+  "category": "AI/LLM",
+  "summary": "Dự án mã nguồn mở về AI visibility thương hiệu và báo cáo đối thủ cạnh tranh, sử dụng LLM và công nghệ GEO để phân tích hiện diện thương hiệu trên các mô hình ngôn ngữ generative.",
+  "usecases": [
+    "Theo dõi và đánh giá độ видимость thương hiệu trên các mô hình AI như ChatGPT, Gemini, Claude.",
+    "Tối ưu hóa nội dung cho Generative Engine Optimization (GEO) để tăng appearances trong trả lời AI.",
+    "Phân tích chiến lược đối thủ cạnh tranh trong không gian AI-generated content."
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng theo dõi thương hiệu để tạo báo cáo tự động về vị trí thương hiệu trong AI.",
+    "Phát triển plugin cho các trình duyệt hiển thị nguồn tham chiếu AI cho nội dung đang xem.",
+    "Sử dụng dữ liệu thực tế từ người dùng để cải thiện độ chính xác của các mô hình GEO."
+  ],
+  "stars": 10138,
+  "starsToday": 1307,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-08T12:35:17.163Z"
+}

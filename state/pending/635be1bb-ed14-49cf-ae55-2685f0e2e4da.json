@@ -1,0 +1,44 @@
+{
+  "id": "635be1bb-ed14-49cf-ae55-2685f0e2e4da",
+  "repo": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "category": "Documentation/Learning Resource",
+  "summary": "Kho tài liệu và khóa học toàn diện về AI Engineering, hướng dẫn từ con số đến sản phẩm thực tế với các chủ đề LLM, deep learning và các framework hiện đại.",
+  "usecases": [
+    "Học và thực hành AI Engineering từ con số bằng các dự án thực tế và ví dụ code.",
+    "Xây dựng và triển khai các ứng dụng LLM và AI agents từ con số.",
+    "Tạo lộ trình cá nhân từ con số đến sản phẩm AI được sản xuất hóa cho các dự án cá nhân hoặc doanh nghiệp."
+  ],
+  "ideas": [
+    "Tạo roadmap cá nhân hóa từ con số đến chuyên gia AI dựa trên dự án này.",
+    "Kết hợp với các công cụ DevOps để tự động hóa pipeline training và deployment LLM.",
+    "Phát triển bộ bài tập dự án mở nguồn để học sinh thực hành AI Engineering theo lộ trình 'from-scratch'."
+  ],
+  "stars": 77699,
+  "starsToday": 439,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-engineering",
+    "computer-vision",
+    "course",
+    "deep-learning",
+    "from-scratch",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "mcp",
+    "python",
+    "reinforcement-learning",
+    "rust",
+    "transformers",
+    "tutorial",
+    "typescript",
+    "rea",
+    "dsh"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-11-08T12:35:17.164Z"
+}

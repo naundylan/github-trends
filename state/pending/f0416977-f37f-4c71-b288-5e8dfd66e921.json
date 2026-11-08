@@ -1,0 +1,33 @@
+{
+  "id": "f0416977-f37f-4c71-b288-5e8dfd66e921",
+  "repo": "kortix-ai/CompanyOS",
+  "url": "https://github.com/kortix-ai/CompanyOS",
+  "category": "Operating System/Kernel",
+  "summary": "Kortix CompanyOS là một hệ điều hành mã nguồn mở cho doanh nghiệp, cho phép các tác nhân AI đa luồng hoạt động và quản lý công ty như mã nguồn, có thể self-hosted hoặc sử dụng cơ sở hạ tầng của Kortix.",
+  "usecases": [
+    "Quản lý và phối hợp các tác nhân AI để tự động hóa quy trình làm việc doanh nghiệp.",
+    "Triển khai hệ thống AI self-hosted cho các công ty muốn kiểm soát dữ liệu và hạ tầng.",
+    "Xây dựng ứng dụng doanh nghiệp dựa trên khái niệm 'công ty như mã nguồn' với tương tác giữa nhiều AI agent."
+  ],
+  "ideas": [
+    "Tích hợp CompanyOS với các nền tảng CRM/ERP để AI agents tự động thực hiện các tác vụ kinh doanh.",
+    "Tạo hệ thống đa nhân viên AI cùng làm việc trên cùng một dự án với quyền và trách nhiệm được định nghĩa code.",
+    "Sử dụng CompanyOS làm nền tảng cho các doanh nghiệpDAO hoặc tổ chức phi tập trung dựa trên AI."
+  ],
+  "stars": 20553,
+  "starsToday": 92,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "llm",
+    "open-source",
+    "self-hosted",
+    "company-as-code",
+    "company-operating-system",
+    "company-os",
+    "companyos"
+  ],
+  "notePath": "notes/Operating-System-Kernel.md",
+  "createdAt": "2026-11-08T12:35:17.164Z"
+}

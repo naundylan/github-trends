@@ -1,0 +1,23 @@
+{
+  "id": "2c18e588-34ae-4851-8881-32cfad44211d",
+  "repo": "googlecolab/google-colab-cli",
+  "url": "https://github.com/googlecolab/google-colab-cli",
+  "category": "CLI Tool",
+  "summary": "CLI cho phép tương tác và quản lý các runtime Google Colab trực tiếp từ dòng lệnh, tự động hóa quy trình chạy notebook và quản lý tài nguyên",
+  "usecases": [
+    "Tự động chạy training model trên Colab mà không cần can thiệp thủ công",
+    "Tích hợp Colab vào pipeline CI/CD cho machine learning",
+    "Quản lý tài nguyên Colab theo lịch trình cho tác vụ nền"
+  ],
+  "ideas": [
+    "Kết hợp với script Python deploy model tự động",
+    "Tạo giao diện web cho người dùng không chuyên lệnh",
+    "Sử dụng cho nghiên cứu phân tán nhiều runtime cùng lúc"
+  ],
+  "stars": 2056,
+  "starsToday": 139,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-08T12:35:17.164Z"
+}

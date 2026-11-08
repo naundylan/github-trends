@@ -1,0 +1,40 @@
+{
+  "id": "65d05e8e-0ce7-4fe3-b9c5-43b6ab21054b",
+  "repo": "poco-ai/Agentero",
+  "url": "https://github.com/poco-ai/Agentero",
+  "category": "AI Agent/Automation",
+  "summary": "Agentero là một workspace nghiên cứu thống nhất cho con người và Agent, cung cấp tính năng Q&A với PDF kèm trích dẫn, Vault quản lý và hỗ trợ viết bài, nhằm nâng cao hiệu quả nghiên cứu khoa học bằng AI.",
+  "usecases": [
+    "Học sinh/ngiên cứu viên sử dụng để tóm tắt và phân tích các bài báo khoa học PDF",
+    "Tạo ra một kho tài liệu cá nhân có thể tìm kiếm và truy xuất thông qua câu hỏi tự nhiên",
+    "Hỗ trợ viết bài nghiên cứu với các trích dẫn và nguồn tham khảo tự động"
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM cục bộ để đảm bảo quyền riêng tư dữ liệu",
+    "Phát triển plugin cho các trình duyệt để lưu trích dẫn trực tiếp từ web",
+    "Tạo tính năng so sánh nhiều tài liệu cùng lúc để tìm điểm khác biệt"
+  ],
+  "stars": 1952,
+  "starsToday": 175,
+  "language": "TypeScript",
+  "topics": [
+    "research",
+    "academic",
+    "knowledge-base",
+    "literature-review",
+    "llm",
+    "mcp",
+    "pdf",
+    "rag",
+    "tauri",
+    "typescript",
+    "writing-assistant",
+    "ai-agents",
+    "citations",
+    "desktop-app",
+    "research-assistant",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-08T12:35:17.164Z"
+}

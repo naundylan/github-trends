@@ -1,0 +1,29 @@
+{
+  "id": "76622dd3-55ec-453e-8f0f-0c3f882c34f8",
+  "repo": "storytold/artcraft",
+  "url": "https://github.com/storytold/artcraft",
+  "category": "AI/LLM",
+  "summary": "ArtCraft 是一个基于 Rust 的意图生成引擎，专为艺术家、设计师和电影制作人提供 AI 辅助的 3D 图像、视频和图像生成功能。",
+  "usecases": [
+    "利用 AI 自动生成电影分镜脚本的视觉草稿",
+    "为设计师快速创建 3D 场景原型和材质演示",
+    "在电影制作中实现自动化的特效和视频剪辑前处理"
+  ],
+  "ideas": [
+    "将 ArtCraft 与实时渲染引擎（如 Unreal Engine）集成，实现即时 AI 生成的场景可视化",
+    "开发插件让 Blender 或 Maya 艺术家通过文本提示直接生成模型和动画",
+    "创建协作平台，让多位艺术家对同一 AI 生成的素材进行迭代和润色"
+  ],
+  "stars": 39715,
+  "starsToday": 331,
+  "language": "Rust",
+  "topics": [
+    "3d-graphics",
+    "ai",
+    "aivideo",
+    "filmmaking",
+    "imagegeneration"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-08T12:35:17.164Z"
+}
