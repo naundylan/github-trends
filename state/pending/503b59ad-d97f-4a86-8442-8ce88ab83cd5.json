@@ -1,0 +1,40 @@
+{
+  "id": "503b59ad-d97f-4a86-8442-8ce88ab83cd5",
+  "repo": "spf13/cobra",
+  "url": "https://github.com/spf13/cobra",
+  "category": "Developer Tool",
+  "summary": "Cobra là một thư viện phổ biến cho Go giúp phát triển ứng dụng dòng lệnh (CLI) hiện đại, cung cấp cấu trúc quản lý lệnh, flags và subcommands mạch lạc, được sử dụng rộng rãi trong nhiều dự án Go nổi tiếng.",
+  "usecases": [
+    "Xây dựng CLI cho các công cụ quản lý hệ thống hoặc scripts tự động hóa",
+    "Tạo các lệnh subcommand cho ứng dụng phát triển phần mềm như git hoặc Docker wrappers",
+    "Sử dụng trong CI/CD pipelines để thực hiện tác vụ deploy hoặc test qua command line"
+  ],
+  "ideas": [
+    "Kết hợp Cobra với template code để sinh tự động các CLI cho microservices",
+    "Xây dựng framework quản lý cấu hình đa môi trường (dev/staging/prod) thông qua CLI",
+    "Tích hợp Cobra với plugin system để cho phép mở rộng lệnh qua các module bên ngoài"
+  ],
+  "stars": 44845,
+  "starsToday": 64,
+  "language": "Go",
+  "topics": [
+    "cobra",
+    "cobra-library",
+    "cobra-generator",
+    "posix-compliant-flags",
+    "command-cobra",
+    "cli-app",
+    "command-line",
+    "commandline",
+    "command",
+    "cli",
+    "go",
+    "golang",
+    "golang-library",
+    "golang-application",
+    "subcommands",
+    "posix"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-08T03:42:22.201Z"
+}

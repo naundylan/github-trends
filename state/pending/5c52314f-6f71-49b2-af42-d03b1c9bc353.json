@@ -1,0 +1,23 @@
+{
+  "id": "5c52314f-6f71-49b2-af42-d03b1c9bc353",
+  "repo": "elder-plinius/OBLITERATUS",
+  "url": "https://github.com/elder-plinius/OBLITERATUS",
+  "category": "AI Agent/Automation",
+  "summary": "OBLITERATE THE CHAINS THAT BIND YOU 的 Python 项目，致力于通过自动化手段打破系统限制，实现任务链的自由解耦与执行。",
+  "usecases": [
+    "自动化任务链编排与系统解放执行",
+    "AI代理用于批量脚本编排与环境解耦",
+    "可配置的链式操作流程，实现自由度提升"
+  ],
+  "ideas": [
+    "作为跨平台AI代理框架，用于企业级工作流的自动化解耦",
+    "结合区块链实现任务链的可审计与可追溯自动化",
+    "开发可视化链条配置界面，让用户自由定制‘解放’流程"
+  ],
+  "stars": 9288,
+  "starsToday": 57,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-08T03:42:22.201Z"
+}

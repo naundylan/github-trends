@@ -1,0 +1,34 @@
+{
+  "id": "94c2d181-05ff-4d61-8c5b-6d083d0e3f0b",
+  "repo": "mbillow/localthings",
+  "url": "https://github.com/mbillow/localthings",
+  "category": "Embedded/IoT",
+  "summary": "Cho phép kiểm soát các thiết bị Samsung thông qua Home Assistant trên mạng nội bộ mà không cần tài khoản đám mây.",
+  "usecases": [
+    "Kiểm soát tủ lạnh và máy giặt Samsung qua giao diện Home Assistant",
+    "Tự động hóa quy trình dựa trên trạng thái thiết bị gia đình",
+    "Theo dõi và quản lý thiết bị IoT an toàn trong mạng nội bộ"
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ cho các thương hiệu thiết bị thông minh khác cùng giao thức COAP",
+    "Tích hợp với các quy tắc tự động dựa trên thời gian hoặc cảm biến",
+    "Tạo plugin cho Home Assistant hiển thị trạng thái thiết bị trên dashboard cá nhân"
+  ],
+  "stars": 1084,
+  "starsToday": 186,
+  "language": "Python",
+  "topics": [
+    "custom-component",
+    "hacs",
+    "hacs-integration",
+    "home-assistant",
+    "home-automation",
+    "samsung",
+    "smartthings",
+    "coap-protocol",
+    "coap-server",
+    "dtls"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-11-08T03:42:22.201Z"
+}

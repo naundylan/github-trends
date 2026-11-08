@@ -1,0 +1,31 @@
+{
+  "id": "bff84c41-c3d5-4476-9ade-e51df3c5cf38",
+  "repo": "tailwindlabs/tailwindcss",
+  "url": "https://github.com/tailwindlabs/tailwindcss",
+  "category": "CSS/Styling",
+  "summary": "Tailwind CSS là framework CSS theo phương pháp utility-first, giúp phát triển giao diện nhanh chóng bằng các class có sẵn, giảm thiểu CSS tùy chỉnh và hỗ trợ responsive dễ dàng.",
+  "usecases": [
+    "Phát nhanh prototyping và giao diện web hiện đại mà không cần viết CSS tùy từ đầu.",
+    "Xây dựng hệ thống design system thống nhất cho các dự án lớn với các class reusable.",
+    "Tối ưu hiệu suất render và giảm kích thước file CSS trong production thông qua PurgeCSS/Just-In-Time."
+  ],
+  "ideas": [
+    "Kết hợp với React component library để tạo UI nhanh nhất.",
+    "Tạo theme động cho CMS dựa trên Tailwind config.",
+    "Sử dụng trong các framework static site generator (Next, Nuxt) để tối ưu SEO và tốc độ tải."
+  ],
+  "stars": 98523,
+  "starsToday": 122,
+  "language": "TypeScript",
+  "topics": [
+    "tailwindcss",
+    "css",
+    "css-framework",
+    "postcss",
+    "functional-css",
+    "utility-classes",
+    "responsive"
+  ],
+  "notePath": "notes/CSS-Styling.md",
+  "createdAt": "2026-11-08T03:42:22.201Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "23858125-0dab-42db-8142-6467d0e45c84",
+  "repo": "BurntSushi/ripgrep",
+  "url": "https://github.com/BurntSushi/ripgrep",
+  "category": "CLI Tool",
+  "summary": "ripgrep là một công cụ tìm kiếm dòng lệnh cao tốc cho Rust, cho phép tìm kiếm quy mô récursive trong thư mục mà tuân thủ tệp .gitignore, nổi bật với tốc độ nhanh và hiệu quả trong xử lý regex.",
+  "usecases": [
+    "Tìm kiếm nhanh các chuỗi ký tự trong mã nguồn dự án lớn",
+    "Tìm kiếm file và nội dung trong repositories có .gitignore để loại bỏ kết quả không mong muốn",
+    "Tích hợp vào scripts tự động hóa cho CI/CD hoặc kiểm tra code"
+  ],
+  "ideas": [
+    "Xây dựng web UI lightweight để xem kết quả tìm kiếm ripgrep trực tiếp trên browser",
+    "Sử dụng ripgrep làm backend cho các công cụ code analysis hoặc IDE extensions",
+    "Kết hợp với hệ thống monitoring để cảnh báo khi xuất hiện mã hóa không an toàn trong codebase"
+  ],
+  "stars": 69886,
+  "starsToday": 93,
+  "language": "Rust",
+  "topics": [
+    "ripgrep",
+    "recursively-search",
+    "search",
+    "regex",
+    "gitignore",
+    "grep",
+    "command-line-tool",
+    "command-line",
+    "cli",
+    "rust"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-08T03:42:22.201Z"
+}

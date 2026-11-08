@@ -1,0 +1,33 @@
+{
+  "id": "153a8734-515e-42a0-9173-836562c2bc39",
+  "repo": "Marker-Inc-Korea/AutoRAG",
+  "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+  "category": "AI Agent/Automation",
+  "summary": "AutoRAG là agent own librarian tự động, cho phép người dùng hỏi đáp, tổ chức file và nhớ thông tin quan trọng trên máy tính thông qua RAG và LLM.",
+  "usecases": [
+    "Personal knowledge management: ask questions about documents, codebases, or files without manual searching.",
+    "Automated report generation: gather insights from multiple files and generate summaries.",
+    "Cross-file QA for developers: query code documentation, comments, and repositories contextually."
+  ],
+  "ideas": [
+    "Integrate with local LLMs for fully private document querying without sending data externally.",
+    "Build a"
+  ],
+  "stars": 5406,
+  "starsToday": 25,
+  "language": "TypeScript",
+  "topics": [
+    "document-parser",
+    "embeddings",
+    "llm",
+    "open-source",
+    "pipeline",
+    "qa",
+    "rag",
+    "retrieval-augmented-generation",
+    "agent",
+    "librarian"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-08T03:42:22.201Z"
+}
