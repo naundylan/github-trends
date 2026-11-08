@@ -1,0 +1,44 @@
+{
+  "id": "edec1d91-645d-4bdf-911c-f3f59540e8b6",
+  "repo": "neuml/txtai",
+  "url": "https://github.com/neuml/txtai",
+  "category": "AI/LLM",
+  "summary": "txtai là framework AI tất cả-in-one cho phép tìm kiếm ngữ nghĩa, điều phối LLM và xây dựng các workflow ngôn ngữ mô hình, tích hợp vector database và RAG một cách mượt mà.",
+  "usecases": [
+    "Xây dựng tìm kiếm tài liệu nội bộ với kết quả ngữ nghĩa thay vì keyword",
+    "Triển khai RAG (Retrieval-Augmented Generation) cho chatbot doanh nghiệp",
+    "Đồng bộ và tìm kiếm vector embedding cho các mô hình LLM trong production"
+  ],
+  "ideas": [
+    "Kết hợp với voice assistant để tìm kiếm và trả lời câu hỏi dựa trên tài liệu âm thanh hoặc video đã transcribe",
+    "Xây dựng hệ thống đề xuất nội dung cá nhân hóa cho platform giáo dục dựa trên vector embedding của người dùng",
+    "Sử dụng làm layer tìm kiếm cho các ứng dụng đa ngôn ngữ, tự động dịch và trả lời dựa trên ngữ cảnh ngữ nghĩa"
+  ],
+  "stars": 13155,
+  "starsToday": 57,
+  "language": "Python",
+  "topics": [
+    "python",
+    "search",
+    "nlp",
+    "semantic-search",
+    "vector-search",
+    "txtai",
+    "llm",
+    "vector-database",
+    "language-model",
+    "transformers",
+    "sentence-embeddings",
+    "large-language-models",
+    "information-retrieval",
+    "search-engine",
+    "embeddings",
+    "retrieval-augmented-generation",
+    "rag",
+    "ai",
+    "agents",
+    "ai-agents"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-08T19:17:40.503Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bdbed629-51d2-4f0d-954f-3bf581195060",
+  "repo": "mantrakp04/ardia",
+  "url": "https://github.com/mantrakp04/ardia",
+  "category": "Desktop App",
+  "summary": "Trình duyệt Chromium tùy chỉnh cho macOS, kết hợp giao diện sidebar của Arc và polish của Dia để nâng trải nghiệm duyệt web.",
+  "usecases": [
+    "Dùng làm trình duyệt chính cho macOS với giao diện thân thiện và các tiện ích nhanh từ Arc/Dia.",
+    "Phát triển và test web apps trên môi trường macOS với các tính năng sidebar tùy chỉnh.",
+    "Sử dụng cho các tác vụ duyệt web nhẹ cần giao diện mượt mà mà không nặng như Chrome."
+  ],
+  "ideas": [
+    "Tích hợp thêm các extension AI chat trực tiếp vào sidebar để hỗ trợ viết code hoặc tạo nội dung.",
+    "Phát triển chế độ 'focus mode' ẩn các tab không sử dụng, tăng năng suất khi làm việc.",
+    "Đồng bộ trạng thái tab và lưu trữ nhật ký duyệt giữa các thiết bị qua self-hosted sync service."
+  ],
+  "stars": 1458,
+  "starsToday": 85,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-08T19:17:40.503Z"
+}

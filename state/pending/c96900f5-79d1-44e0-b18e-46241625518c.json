@@ -1,0 +1,44 @@
+{
+  "id": "c96900f5-79d1-44e0-b18e-46241625518c",
+  "repo": "ParadevAI/Paradev",
+  "url": "https://github.com/ParadevAI/Paradev",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng mã nguồn mở thay thế cho Codex App và Conductor, điều phối đồng đội các tác giả mã AI song song để tự động hóa công việc lập trình.",
+  "usecases": [
+    "Tự động hóa việc viết code cho nhiều dự án cùng lúc bằng nhiều agent AI.",
+    "Tích hợp vào quy trình CI/CD để sinh code và review tự động.",
+    "Giúp phát triển nhanh MVP bằng cách điều phối các agent có chuyên môn khác nhau."
+  ],
+  "ideas": [
+    "Kết hợp với local LLMs để hoàn toàn không cần API bên ngoài.",
+    "Phát triển giao diện trực quan để theo dõi tiến độ các agent.",
+    "Tạo plugin cho các IDE phổ biến để điều phối agent trực tiếp từ editor."
+  ],
+  "stars": 16099,
+  "starsToday": 35,
+  "language": "TypeScript",
+  "topics": [
+    "claude-code",
+    "codex",
+    "terminal",
+    "ai-agents",
+    "cursor-agent",
+    "opencode",
+    "parallel-agents",
+    "worktrees",
+    "cli",
+    "orchestration",
+    "coding-agents",
+    "developer-tools",
+    "ade",
+    "ide",
+    "agent-orchestration",
+    "ai-coding",
+    "macos",
+    "agent",
+    "devtools",
+    "conductor"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-08T19:17:40.503Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "5c211ce6-169d-4c4d-9b99-42cc251a5c24",
+  "repo": "4ian/GDevelop",
+  "url": "https://github.com/4ian/GDevelop",
+  "category": "Game Engine",
+  "summary": "GDevelop là một engine trò chơi mã nguồn mở và đa nền tảng, cho phép tạo game 2D/3D và multiplayer mà không cần viết code sâu, phù hợp cho người mới và phát triển nhanh.",
+  "usecases": [
+    "Tạo game 2D/3D nhanh cho người không có nền tảng lập trình thông qua giao diện trực quan.",
+    "Phát triển game multiplayer với khả năng mở rộng và tích hợp dễ dàng.",
+    "Làm prototyping và giáo dục lập trình/game development trong môi trường học thuật."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động tạo level hoặc đồ họa game trong GDevelop.",
+    "Phát triển plugin xuất game thành các nền tảng mobile (iOS/Android) một cách xuất khẩu.",
+    "Xây dựng cộng đồng template game giáo dục mở cho giáo viên và sinh viên."
+  ],
+  "stars": 28605,
+  "starsToday": 56,
+  "language": "JavaScript",
+  "topics": [
+    "game",
+    "javascript",
+    "gamedev",
+    "game-development",
+    "game-engine",
+    "html5",
+    "gamemaker",
+    "2d-game",
+    "2d-game-engine",
+    "gdevelop",
+    "html5-game-engine",
+    "hacktoberfest",
+    "open-source",
+    "3d",
+    "3d-game",
+    "3d-game-engine",
+    "multiplayer",
+    "no-code",
+    "vibe-coding"
+  ],
+  "notePath": "notes/Game-Engine.md",
+  "createdAt": "2026-11-08T19:17:40.503Z"
+}

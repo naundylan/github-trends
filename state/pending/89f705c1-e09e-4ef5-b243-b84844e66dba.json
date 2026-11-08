@@ -1,0 +1,31 @@
+{
+  "id": "89f705c1-e09e-4ef5-b243-b84844e66dba",
+  "repo": "tailwindlabs/tailwindcss",
+  "url": "https://github.com/tailwindlabs/tailwindcss",
+  "category": "CSS/Styling",
+  "summary": "Tailwind CSS là framework CSS utility-first giúp phát triển giao diện nhanh chóng thông qua class trực tiếp, thay thế viết CSS tùy chỉnh truyền thống.",
+  "usecases": [
+    "Phát triển nhanh giao diện web responsive cho dự án startup.",
+    "Xây dựng design system thống nhất cho ứng dụng lớn.",
+    "Tạo giao diện tùy chỉnh cho React, Vue mà không cần viết CSS từ đầu."
+  ],
+  "ideas": [
+    "Kết hợp Tailwind CSS với plugin Figma để tự động tạo giao diện.",
+    "Sử dụng Tailwind trong ứng dụng desktop Electron với theme tùy chỉnh.",
+    "Tích hợp Tailwind với CMS headless để render giao diện động."
+  ],
+  "stars": 98648,
+  "starsToday": 465,
+  "language": "TypeScript",
+  "topics": [
+    "tailwindcss",
+    "css",
+    "css-framework",
+    "postcss",
+    "functional-css",
+    "utility-classes",
+    "responsive"
+  ],
+  "notePath": "notes/CSS-Styling.md",
+  "createdAt": "2026-11-08T19:17:40.503Z"
+}

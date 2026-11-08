@@ -1,0 +1,44 @@
+{
+  "id": "6061e5c2-46dd-4e90-8ca8-de46a37796a7",
+  "repo": "TwiN/gatus",
+  "url": "https://github.com/TwiN/gatus",
+  "category": "DevOps/CI-CD",
+  "summary": "Gatus là công cụ tự động theo dõi trạng thái dịch vụ và gửi cảnh báo, hỗ trợ self-hosting với tích hợp Slack/Discord cho developer.",
+  "usecases": [
+    "Giám sát uptime và trạng thái API/microservices trong môi trường phát triển.",
+    "Cảnh báo team khi server hoặc database gặp sự cố qua Slack hoặc email.",
+    "Hiển thị dashboard trạng thái cho project open-source hoặc nội bộ."
+  ],
+  "ideas": [
+    "Kết hợp với Prometheus để thu thập metrics monitoring nâng cao.",
+    "Sử dụng làm health check cho container Docker trong CI/CD pipelines.",
+    "Tự động hóa báo cáo trạng thái hàng tuần gửi về email cho stakeholder."
+  ],
+  "stars": 12632,
+  "starsToday": 88,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "go",
+    "health",
+    "monitor",
+    "monitoring",
+    "dashboard",
+    "alerting",
+    "slack",
+    "devops",
+    "status",
+    "notifications",
+    "statuspage",
+    "uptime",
+    "docker",
+    "self-hosted",
+    "selfhosted",
+    "uptime-monitoring",
+    "monitoring-tool",
+    "status-page",
+    "container"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-08T19:17:40.503Z"
+}

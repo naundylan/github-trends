@@ -1,0 +1,30 @@
+{
+  "id": "26f63b4a-1f11-49af-971a-7a9a5966cfec",
+  "repo": "SWE-agent/mini-swe-agent",
+  "url": "https://github.com/SWE-agent/mini-swe-agent",
+  "category": "AI Agent/Automation",
+  "summary": "mini-swe-agent là agent AI siêu nhẹ (chỉ 100 dòng) có thể tự động giải quyết các issue GitHub hoặc hỗ trợ thao tác qua command line, đạt kết quả >74% trên SWE-bench verified mà không cần cấu hình phức tạp hay monorepo khổng lồ.",
+  "usecases": [
+    "Tự động đóng/gán label và giải quyết issue GitHub dựa trên nội dung",
+    "Giúp dev thực hiện các tác vụ CLI như tạo file, chạy test, deploy một cách tự động",
+    "Tích hợp vào CI/CD pipeline để tự động sửa lỗi hoặc cải thiện code"
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM khác để tạo ra một 'super-agent' quản lý dự án phần mềm hoàn toàn tự động",
+    "Phát triển plugin cho IDE để agent giúp viết code hoặc review pull request trực tiếp từ editor",
+    "Sử dụng agent để tự động hóa báo cáo tiến độ dự án từ các issue và commit"
+  ],
+  "stars": 9400,
+  "starsToday": 84,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "agentic-ai-cli",
+    "ai",
+    "ai-agent",
+    "textual"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-08T19:17:40.503Z"
+}

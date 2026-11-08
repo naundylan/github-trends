@@ -1,0 +1,37 @@
+{
+  "id": "467f5f0f-da05-4d44-a0ed-1bd4bff90944",
+  "repo": "GCWing/OpenBitFun",
+  "url": "https://github.com/GCWing/OpenBitFun",
+  "category": "AI Agent/Automation",
+  "summary": "OpenBitFun là runtime agent cao tốc viết bằng Rust kèm ứng dụng desktop, cung cấp khả năng code agent và tác vụ chung mở rộng ngoài phát triển phần mềm.",
+  "usecases": [
+    "Tự động hóa tác vụ lặp đi lặp lại trong công việc văn phòng và quản lý dự án.",
+    "Trợ lý code AI tích hợp trong IDE để viết và review code tự động.",
+    "Xây dựng hệ thống agent đa nhiệm cho nghiên cứu khoa học và xử lý dữ liệu."
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM để tạo ra hệ thống agent tự quản lý luồng làm việc hàng ngày.",
+    "Phát triển plugin cho VS Code để OpenBitFun thực hiện refactoring và debugging tự động.",
+    "Sử dụng làm nền tảng cho các dự án tự động hóa quy trình (workflow automation) trong DevOps."
+  ],
+  "stars": 3973,
+  "starsToday": 50,
+  "language": "Rust",
+  "topics": [
+    "ai-coding",
+    "ai-ide",
+    "vibe-coding",
+    "cowork",
+    "agent-teams",
+    "openclaw",
+    "agentic-os",
+    "agentic-runtime",
+    "agentic",
+    "ai-sdk",
+    "computer-use-agent",
+    "bitfun",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-08T19:17:40.503Z"
+}
