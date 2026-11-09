@@ -1,0 +1,35 @@
+{
+  "id": "8a2b91e2-8050-475c-b67f-fe5208ca06ad",
+  "repo": "humanlayer/12-factor-agents",
+  "url": "https://github.com/humanlayer/12-factor-agents",
+  "category": "AI Agent/Automation",
+  "summary": "Khung TypeScript triển khai 12-factor principles để xây dựng các agent LLM sản xuất sẵn, tích hợp memory, orchestration và prompt engineering.",
+  "usecases": [
+    "Triển khai agent AI可扩展 trong ứng dụng khách-facing",
+    "Quản lý memory và context LLM cho các workflow phức tạp",
+    "Phối hợp các tác vụ AI đa bước với độ tin cậy cao"
+  ],
+  "ideas": [
+    "Kết hợp với RAG để tạo agent chuyên sâu về lĩnh vực",
+    "Xây dựng nền tảng orchestration multi-agent",
+    "Tích hợp với CI/CD để test tự động cho các hệ thống AI"
+  ],
+  "stars": 27048,
+  "starsToday": 19,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "ai",
+    "context-window",
+    "framework",
+    "llms",
+    "memory",
+    "orchestration",
+    "prompt-engineering",
+    "rag",
+    "12-factor",
+    "12-factor-agents"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-09T00:30:16.099Z"
+}

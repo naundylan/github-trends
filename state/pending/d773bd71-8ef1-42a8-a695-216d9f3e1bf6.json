@@ -1,0 +1,35 @@
+{
+  "id": "d773bd71-8ef1-42a8-a695-216d9f3e1bf6",
+  "repo": "arcsin1/oh-my-ppt",
+  "url": "https://github.com/arcsin1/oh-my-ppt",
+  "category": "Desktop App",
+  "summary": "Oh‑my‑ppt là công cụ desktop tạo các buổi trình bày HTML đẹp mắt từ nội dung, hoạt động offline và không cần kết nối internet.",
+  "usecases": [
+    "Tạo slide cho buổi giảng dạy mà không cần mạng",
+    "Chuẩn bị tài liệu trình bày nhanh cho các dự án AI agents",
+    "Chia sẻ tài liệu học tập offline cho sinh viên"
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động tạo nội dung slide từ văn bản",
+    "Export slide sang PDF hoặc PPTX để dùng trong PowerPoint",
+    "Tích hợp thành extension cho VS Code để tạo slide nhanh từ markdown"
+  ],
+  "stars": 2462,
+  "starsToday": 51,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "ai-ppt",
+    "ai-ppt-generator",
+    "aippt",
+    "desktop-app",
+    "html-ppt",
+    "local-fist",
+    "ppt-generator",
+    "pptx-generator",
+    "ai-tool",
+    "design-systems"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-09T00:30:16.098Z"
+}

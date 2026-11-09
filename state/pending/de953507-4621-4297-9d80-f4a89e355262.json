@@ -1,0 +1,23 @@
+{
+  "id": "de953507-4621-4297-9d80-f4a89e355262",
+  "repo": "kgretzky/evilginx2",
+  "url": "https://github.com/kgretzky/evilginx2",
+  "category": "Security/Pentest",
+  "summary": "Framework tấn công man-in-the-middle dùng để đánh cắp credential và cookie session, cho phép vượt qua xác thực hai yếu tố.",
+  "usecases": [
+    "Nghiên cứu bảo mật phân tích vectơ tấn công man-in-the-middle",
+    "Kiểm tra hiệu quả chính sách 2FA trong doanh nghiệp",
+    "Phân tích an toàn cookie session và lưu lượng mạng"
+  ],
+  "ideas": [
+    "Phát triển công cụ giáo dục an ninh mạng minh họa tấn công MITM",
+    "Tạo script tự động kiểm tra bảo mật chứng chỉ TLS",
+    "Kết hợp với phishing education để nâng cao nhận thức về nguy cơ 2FA bypass"
+  ],
+  "stars": 15870,
+  "starsToday": 25,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-09T00:30:16.099Z"
+}

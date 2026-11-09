@@ -1,0 +1,23 @@
+{
+  "id": "e9847c9c-81a7-408a-941a-fecb288cad23",
+  "repo": "anthropics/claude-quickstarts",
+  "url": "https://github.com/anthropics/claude-quickstarts",
+  "category": "AI/LLM",
+  "summary": "Bộ sưu tập mã giúp developer nhanh chóng bắt đầu xây dựng và triển khai ứng dụng sử dụng Claude API.",
+  "usecases": [
+    "Prototyping nhanh ứng dụng AI sử dụng Claude API",
+    "Tích hợp LLM vào sản phẩm phần mềm với cấu hình sẵn",
+    "Học tập và tham khảo mẫu code triển khai API Claude"
+  ],
+  "ideas": [
+    "Tạo template starter cho các dự án AI-powered sử dụng Claude",
+    "Kết hợp với FastAPI/Flask xây dựng dịch vụ API trí tuệ",
+    "Phát triển quy trình CI/CD tự động triển khai ứng dụng Claude"
+  ],
+  "stars": 19407,
+  "starsToday": 32,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-09T00:30:16.099Z"
+}

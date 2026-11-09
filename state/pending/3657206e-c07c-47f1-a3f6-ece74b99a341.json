@@ -1,0 +1,23 @@
+{
+  "id": "3657206e-c07c-47f1-a3f6-ece74b99a341",
+  "repo": "googlecolab/google-colab-cli",
+  "url": "https://github.com/googlecolab/google-colab-cli",
+  "category": "CLI Tool",
+  "summary": "CLI giúp quản lý và tự động hóa runtime Google Colab trực tiếp từ terminal.",
+  "usecases": [
+    "Tự động chạy và dừng notebook Colab theo lịch trình định kỳ.",
+    "Quản lý tài nguyên Colab cho nhiều project ML cùng lúc.",
+    "Tích hợp Colab vào pipeline CI/CD cho quá trình training model."
+  ],
+  "ideas": [
+    "Kết hợp với MLflow để theo dõi và tự động hóa các experiment trên Colab.",
+    "Tạo giao diện dashboard quản lý trạng thái runtime cho team dữ liệu.",
+    "Sử dụng trong môi trường giáo dục để tự động hóa bài tập ML cho sinh viên."
+  ],
+  "stars": 2082,
+  "starsToday": 104,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-09T00:30:16.098Z"
+}

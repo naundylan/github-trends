@@ -1,0 +1,27 @@
+{
+  "id": "8e7c5f60-3ee2-4e0c-97b3-e8f80864a5bc",
+  "repo": "google-deepmind/mujoco",
+  "url": "https://github.com/google-deepmind/mujoco",
+  "category": "AI/LLM",
+  "summary": "Mujoco là bộ công cụ vật lý đa chiều cho mô phỏng động lực và tương tác, thường dùng trong robotics và nghiên cứu AI.",
+  "usecases": [
+    "Simulate robot arm movements để huấn luyện thuật toán điều khiển",
+    "Thử nghiệm các kịch bản tương tác vật lý trong nghiên cứu AI",
+    "Tạo môi trường test physics cho game hoặc ứng dụng AR/VR"
+  ],
+  "ideas": [
+    "Kết hợp Mujoco với TensorFlow/PyTorch để học policy trong môi trường simulation",
+    "Sử dụng Mujoco làm backend cho ứng dụng AR/VR mô phỏng vật lý",
+    "Tích hợp vào pipeline CI/CD để chạy mô phỏng vật lý tự động"
+  ],
+  "stars": 16406,
+  "starsToday": 41,
+  "language": "C++",
+  "topics": [
+    "robotics",
+    "physics",
+    "mujoco"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-09T00:30:16.099Z"
+}

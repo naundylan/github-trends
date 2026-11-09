@@ -1,0 +1,23 @@
+{
+  "id": "811f1e4e-0a7c-47a5-9b75-721d2c4d014d",
+  "repo": "Albert-Weasker/niubigeo",
+  "url": "https://github.com/Albert-Weasker/niubigeo",
+  "category": "AI/LLM",
+  "summary": "Dự án mã nguồn mở theo dõi tính xuất hiện thương hiệu AI và báo cáo đối thủ cạnh tranh, cung cấp tối ưu hóa GEO và thử nghiệm AI bằng con người thực.",
+  "usecases": [
+    "Theo dõi vị trí và hiệu quả của thương hiệu trong các mô hình LLM",
+    "Báo cáo cạnh tranh tự động cho các doanh nghiệp",
+    "Tối ưu hóa nội dung cho các công cụ tìm kiếm dựa trên AI (Generative Engine Optimization)"
+  ],
+  "ideas": [
+    "Kết hợp dữ liệu thị trường thời thực để điều chỉnh chiến lược branding",
+    "Tạo dashboard cá nhân hóa cho các nhà marketing",
+    "Mở rộng hỗ trợ cho nhiều ngôn ngữ và vùng địa lý"
+  ],
+  "stars": 10137,
+  "starsToday": 228,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-09T00:30:16.098Z"
+}

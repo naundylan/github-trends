@@ -1,0 +1,33 @@
+{
+  "id": "a2db8dbb-631f-4235-8714-2d7cfafdeffc",
+  "repo": "kortix-ai/CompanyOS",
+  "url": "https://github.com/kortix-ai/CompanyOS",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ điều hành mã nguồn mở cho doanh nghiệp, tích hợp AI agent để quản lý operations như code.",
+  "usecases": [
+    "Triển khai các AI agent tự động hóa các department như sales, support, analytics.",
+    "Quản lý infrastructure và dữ liệu công ty như code, deploy self-hosted hoặc cloud.",
+    "Tạo môi trường chung cho nhiều team tương tác với cùng các LLM và agents."
+  ],
+  "ideas": [
+    "Xây dựng hệ thống 'company-as-code' cho startup tự động hóa từ hiring đến báo cáo tài chính.",
+    "Kết hợp sovereign AI agents với blockchain để quản lý quyền riêng tư và dữ liệu doanh nghiệp.",
+    "Triển khai các role-specific AI agents (CEO, dev, designer) giao tiếp để tối ưu quy trình làm việc."
+  ],
+  "stars": 20579,
+  "starsToday": 72,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "llm",
+    "open-source",
+    "self-hosted",
+    "company-as-code",
+    "company-operating-system",
+    "company-os",
+    "companyos"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-09T00:30:16.098Z"
+}

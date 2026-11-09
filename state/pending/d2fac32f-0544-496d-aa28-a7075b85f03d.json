@@ -1,0 +1,40 @@
+{
+  "id": "d2fac32f-0544-496d-aa28-a7075b85f03d",
+  "repo": "poco-ai/Agentero",
+  "url": "https://github.com/poco-ai/Agentero",
+  "category": "AI/LLM",
+  "summary": "Khu vực làm việc nghiên cứu thống nhất cho con người và agent, hỗ trợ Q&A PDF có trích dẫn, Vault và viết văn bằng LLM.",
+  "usecases": [
+    "Xử lý và trích xuất thông tin từ tài liệu nghiên cứu dài bằng LLM",
+    "Hỗ trợ sinh văn học và kiểm tra nguồn trích dẫn cho sinh viên",
+    "Tạo workspace cá nhân cho các nghiên cứu viên AI để quản lý kiến thức"
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu vector để tìm kiếm ngữ nghĩa đa phương thức",
+    "Phát triển plugin cho các trình viết văn phổ biến",
+    "Thêm tính năng cộng tác thời thực cho nhiều agent"
+  ],
+  "stars": 2005,
+  "starsToday": 145,
+  "language": "TypeScript",
+  "topics": [
+    "research",
+    "academic",
+    "knowledge-base",
+    "literature-review",
+    "llm",
+    "mcp",
+    "pdf",
+    "rag",
+    "tauri",
+    "typescript",
+    "writing-assistant",
+    "ai-agents",
+    "citations",
+    "desktop-app",
+    "research-assistant",
+    "dsh-plugin"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-09T00:30:16.098Z"
+}
