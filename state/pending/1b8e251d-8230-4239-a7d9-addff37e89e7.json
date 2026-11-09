@@ -1,0 +1,44 @@
+{
+  "id": "1b8e251d-8230-4239-a7d9-addff37e89e7",
+  "repo": "kdlbs/kandev",
+  "url": "https://github.com/kdlbs/kandev",
+  "category": "AI Agent/Automation",
+  "summary": "Môi trường phát triển Kanban dựa trên AI để điều phối nhiều agent, tự động review code và mở Pull Requests, hỗ trợ self-hosting mà không thu thập telemetry.",
+  "usecases": [
+    "Tự động hóa quy trình review code bằng AI agents.",
+    "Quản lý luồng công việc phát triển với bảng Kanban và agent orchestration.",
+    "Tạo môi trường phát triển self-hosted an toàn cho teams muốn kiểm soát dữ liệu."
+  ],
+  "ideas": [
+    "Kết hợp với Claude Code hoặc GitHub Copilot để tự động sinh code và tạo PRs.",
+    "Sử dụng làm nền tảng cho IDE extension cá nhân theo phong cách 'vibe-coding'.",
+    "Triển khai cho các dự án open-source cần quản lý nhiều contributor cùng lúc."
+  ],
+  "stars": 1097,
+  "starsToday": 9,
+  "language": "Go",
+  "topics": [
+    "acp",
+    "agent-orchestration",
+    "agentic-ai",
+    "ai-agents",
+    "claude-code",
+    "code-review",
+    "coding-agents",
+    "developer-tools",
+    "github-copilot",
+    "golang",
+    "kanban",
+    "nextjs",
+    "open-source",
+    "self-hosted",
+    "task-manager",
+    "tui",
+    "vibe-coding",
+    "workflow-automation",
+    "worktrees",
+    "agentic-development-environment"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-09T10:45:15.923Z"
+}

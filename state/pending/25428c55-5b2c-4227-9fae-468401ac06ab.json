@@ -1,0 +1,23 @@
+{
+  "id": "25428c55-5b2c-4227-9fae-468401ac06ab",
+  "repo": "snarktank/ralph",
+  "url": "https://github.com/snarktank/ralph",
+  "category": "AI Agent/Automation",
+  "summary": "Ralph là vòng lặp AI tự động chạy lặp đi lặp lại cho đến khi hoàn thành tất cả mục PRD, giúp tự động hóa quy trình phát triển sản phẩm.",
+  "usecases": [
+    "Tự động hóa hoàn thành PRD cho dự án phần mềm, giảm công việc thủ công cho nhà phát triển.",
+    "Kết hợp với CI/CD để tự động triển khai khi tất cả mục PRD được đánh dấu xong.",
+    "Chạy như một AI agent quản lý tiến độ dự án mà không cần can thiệp con người."
+  ],
+  "ideas": [
+    "Tích hợp với Slack/Discord báo cáo tiến độ tự động khi mỗi mục PRD xong.",
+    "Sử dụng làm nền tảng cho công cụ quản lý dự án tự động cho startup.",
+    "Kết hợp với các mô hình dự báo thời gian hoàn thành dự án dựa trên tốc độ thực hiện."
+  ],
+  "stars": 22180,
+  "starsToday": 18,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-09T10:45:15.923Z"
+}

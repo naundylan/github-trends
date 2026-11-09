@@ -1,0 +1,44 @@
+{
+  "id": "7f4721c3-8ef6-4d07-9200-c16546e908fb",
+  "repo": "BigBodyCobain/Shadowbroker",
+  "url": "https://github.com/BigBodyCobain/Shadowbroker",
+  "category": "Security/Pentest",
+  "summary": "Shadowbroker là nền tảng OSINT mã nguồn mở tổng hợp theo dõi phương tiện VIP, vệ tinh và sự kiện địa lý, cung cấp giao diện thống nhất để phân tích dữ liệu và tìm correlation ẩn bằng AI.",
+  "usecases": [
+    "Theo dõi và giám sát các phương tiện vận tải VIP toàn cầu trong thời gian thực.",
+    "Phân tích dữ liệu seismic và vệ tinh để dự báo thiên tai hoặc sự kiện địa chính trị.",
+    "Tích hợp AI để phát hiện correlation bất thường giữa các nguồn dữ liệu OSINT đa dạng."
+  ],
+  "ideas": [
+    "Xây dựng dashboard cảnh báo an ninh toàn cấp cho các tổ chức chính phủ.",
+    "Kết hợp với mô hình dự báo tài chính dựa trên chuyển động VIP và hoạt động sát vệ tinh.",
+    "Phát triển ứng dụng riêng cho các cơ quan an ninh tìm kiếm correlation giữa dữ liệuADS-B, CCTV và seismic."
+  ],
+  "stars": 11509,
+  "starsToday": 16,
+  "language": "Python",
+  "topics": [
+    "osint",
+    "osint-resources",
+    "asdb",
+    "cctv",
+    "cctv-cameras",
+    "cctv-surveillance",
+    "earthquake-visualization",
+    "elonjet",
+    "sattelite",
+    "sattelite-imagery",
+    "sdr",
+    "ads-b",
+    "adsb",
+    "aircraft",
+    "aircraft-tracking",
+    "surveillance",
+    "plane",
+    "tracking",
+    "gis",
+    "satellite-tracking"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-09T10:45:15.923Z"
+}

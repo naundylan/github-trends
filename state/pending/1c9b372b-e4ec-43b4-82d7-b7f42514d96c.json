@@ -1,0 +1,31 @@
+{
+  "id": "1c9b372b-e4ec-43b4-82d7-b7f42514d96c",
+  "repo": "woodpecker-ci/woodpecker",
+  "url": "https://github.com/woodpecker-ci/woodpecker",
+  "category": "DevOps/CI-CD",
+  "summary": "Engine CI/CD nhẹ nhưng mạnh mẽ, cho phép tự động hóa quy trình build, test và deploy với khả năng mở rộng trên Docker và Kubernetes.",
+  "usecases": [
+    "Tự động build và test code mỗi khi có push commit.",
+    "Deploy ứng dụng lên Kubernetes hoặc Docker containers.",
+    "Tích hợp pipeline CI/CD tùy chỉnh cho các project đa nền tảng."
+  ],
+  "ideas": [
+    "Tạo pipeline CI/CD cho microservices trên Kubernetes với các step tùy chỉnh.",
+    "Sử dụng làm engine cho các project cần deployment tự động trên các environment khác nhau.",
+    "Tích hợp với các tool monitoring để theo dõi hiệu suất deployment."
+  ],
+  "stars": 8144,
+  "starsToday": 5,
+  "language": "Go",
+  "topics": [
+    "ci",
+    "devops",
+    "docker",
+    "woodpeckerci",
+    "automation",
+    "cicd",
+    "kubernetes"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-09T10:45:15.923Z"
+}

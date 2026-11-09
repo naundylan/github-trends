@@ -1,0 +1,30 @@
+{
+  "id": "9f46ebf8-a77b-4db7-9868-3a90dd386e6b",
+  "repo": "AlistGo/alist",
+  "url": "https://github.com/AlistGo/alist",
+  "category": "Developer Tool",
+  "summary": "Alist là một ứng dụng file list/WebDAV đa nền tảng, cho phép quản lý và truy cập các loại lưu trữ khác nhau (như OneDrive, Google Drive...) thông qua giao diện web nhẹ và nhanh.",
+  "usecases": [
+    "Quản lý và chia sẻ files giữa các dịch vụ cloud storage (OneDrive, Google Drive, S3) qua một giao diện duy nhất.",
+    "Cung cấp WebDAV endpoint để các ứng dụng khách truy cập files trực tiếp như ổ cứng cục bộ.",
+    "Tạo một personal cloud file browser nhẹ cho riêng tư hoặc team nhỏ."
+  ],
+  "ideas": [
+    "Phát triển thành một personal file management hub kết hợp với OAuth2 và encrypted storage.",
+    "Tạo plugin cho phép Alist kết nối trực tiếp với các hệ thống backup tự động.",
+    "Sử dụng SolidJS features để xây dựng một dashboard quản lý storage real-time."
+  ],
+  "stars": 50433,
+  "starsToday": 11,
+  "language": "Go",
+  "topics": [
+    "golang",
+    "gin",
+    "webdav",
+    "solidjs",
+    "file-server",
+    "onedrive"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-09T10:45:15.923Z"
+}
