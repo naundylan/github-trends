@@ -1,0 +1,24 @@
+{
+  "id": "d971ccac-e640-4420-8b3e-c48d5c341f5c",
+  "repo": "ooolabdev/ooosplat",
+  "url": "https://github.com/ooolabdev/ooosplat",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop bằng Rust biến video và ảnh thành 3D Gaussian Splats chỉ một cú click.",
+  "usecases": [
+    "Tạo mô hình 3D từ ảnh/video mà không cần phần mềm chuyên dụng",
+    "Chia sẻ hoặc xem hình ảnh/video dưới dạng phân tán 3D"
+  ],
+  "ideas": [
+    "Hỗ trợ thêm nhiều định dạng video (MP4, AVI) và hiệu ứng ánh sáng",
+    "Cung cấp chế độ xem trực tuyến qua trình duyệt web"
+  ],
+  "stars": 2403,
+  "starsToday": 109,
+  "language": "Rust",
+  "topics": [
+    "gaussian-splatting",
+    "3d"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-09T21:52:11.583Z"
+}

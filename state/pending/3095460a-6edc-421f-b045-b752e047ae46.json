@@ -1,0 +1,27 @@
+{
+  "id": "3095460a-6edc-421f-b045-b752e047ae46",
+  "repo": "OpenCut-app/OpenCut",
+  "url": "https://github.com/OpenCut-app/OpenCut",
+  "category": "Desktop App",
+  "summary": "Dự án video editing mã nguồn mở thay thế CapCut, cung cấp công cụ cắt ghép và hiệu ứng đa nền tảng bằng TypeScript.",
+  "usecases": [
+    "Cắt ghép và xuất video cho các nền tảng mạng xã hội.",
+    "Tạo nội dung video với hiệu ứng chuyên nghiệp và chuyển cảnh tự động.",
+    "Phần mềm miễn phí cho người dùng cá nhân và sáng tạo nội dung video."
+  ],
+  "ideas": [
+    "Tích hợp AI để tự động tạo đoạn video từ text hoặc hình ảnh đầu vào.",
+    "Phát triển plugin cho các nền tảng social media để xuất video trực tiếp.",
+    "Thêm hỗ trợ biên tập đa người dùng thời gian thực cho các dự án cộng đồng."
+  ],
+  "stars": 97928,
+  "starsToday": 201,
+  "language": "TypeScript",
+  "topics": [
+    "editor",
+    "oss",
+    "videoeditor"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-09T21:52:11.583Z"
+}

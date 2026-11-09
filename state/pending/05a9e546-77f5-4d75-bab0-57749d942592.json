@@ -1,0 +1,30 @@
+{
+  "id": "05a9e546-77f5-4d75-bab0-57749d942592",
+  "repo": "opensandbox-group/OpenSandbox",
+  "url": "https://github.com/opensandbox-group/OpenSandbox",
+  "category": "AI Agent/Automation",
+  "summary": "Runtime sandbox an toàn và nhanh cho AI agents, cho phép thực thi và 격리 các công cụ AI bên trong môi trường Kubernetes.",
+  "usecases": [
+    "Thực thi mã AI và code generation trong môi격격리 an toàn.",
+    "Chạy các pipeline AI phức tạp với kiểm soát quyền truy cập và tài nguyên.",
+    "Bảo mật môi trường phát triển AI doanh nghiệp bằng cách隔离 công cụ và dữ liệu nhạy cảm."
+  ],
+  "ideas": [
+    "Sử dụng làm layer an toàn cho AI agents truy cập dữ liệu và dịch vụ nội bộ trong ứng dụng doanh nghiệp.",
+    "Kết hợp với Kubernetes autoscaling để tạo sandbox động theo yêu cầu của từng tác vụ AI.",
+    "Phát triển giao diện quản lý sandbox cho phép theo dõi và kiểm soát quyền thực thi trong thời gian thực."
+  ],
+  "stars": 16883,
+  "starsToday": 159,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ai-infra",
+    "kubernetes",
+    "sandbox",
+    "ai-agent",
+    "aaif"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-09T21:52:11.583Z"
+}

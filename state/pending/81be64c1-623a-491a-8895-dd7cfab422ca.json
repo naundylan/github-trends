@@ -1,0 +1,27 @@
+{
+  "id": "81be64c1-623a-491a-8895-dd7cfab422ca",
+  "repo": "google-deepmind/mujoco",
+  "url": "https://github.com/google-deepmind/mujoco",
+  "category": "Game Engine",
+  "summary": "MuJoCo là mô phỏng vật lý chung mục đích cao hiệu suất, dùng rộng rãi trong nghiên cứu robotics, AI và phát triển game, cho phép mô hình chuyển động đa khớp với tiếp xúc chính xác.",
+  "usecases": [
+    "Mô phỏng môi trường cho thuật toán reinforcement learning trong robotics.",
+    "Test và phát triển hệ điều khiển robot trước khi triển khai vật lý.",
+    "Tạo động lực và chuyển động thựcistice cho trò chơi video hoặc tương tác 3D."
+  ],
+  "ideas": [
+    "Kết hợp với mô hình AI để tự động tối ưuize tư thế robot trong simulation.",
+    "Sử dụng trong đào tạo VR/AR cho kỹ thuật sư phạm vận hành máy móc.",
+    "Phát triển bộ công cụ trực quan hóa chuyển động cho nhà nghiên cứu chuyển động."
+  ],
+  "stars": 16868,
+  "starsToday": 579,
+  "language": "C++",
+  "topics": [
+    "robotics",
+    "physics",
+    "mujoco"
+  ],
+  "notePath": "notes/Game-Engine.md",
+  "createdAt": "2026-11-09T21:52:11.583Z"
+}

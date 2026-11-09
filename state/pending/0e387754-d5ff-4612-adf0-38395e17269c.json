@@ -1,0 +1,31 @@
+{
+  "id": "0e387754-d5ff-4612-adf0-38395e17269c",
+  "repo": "ZhuLinsen/daily_stock_analysis",
+  "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "category": "AI/LLM",
+  "summary": "Hệ thống phân tích chứng khoán đa thị trường LLM-driven, tích hợp dữ liệu đa nguồn, tin tức thời gian thực và bảng điều khiển quyết định, hỗ trợ chạy định kỳ không phí.",
+  "usecases": [
+    "Phân tích xu hướng cổ phiếu đa thị trường tự động",
+    "Tích hợp tin tức tài chính vào quyết định đầu tư LLM",
+    "Cấu hình báo cáo định kỳ và tự động gửi thông báo"
+  ],
+  "ideas": [
+    "Xây bot đầu tư tự động dựa trên tín hiệu LLM",
+    "Kết hợp dữ liệu thời gian thực từ nhiều sàn giao dịch",
+    "Phát triển dashboard cá nhân theo dõi portfolio"
+  ],
+  "stars": 68770,
+  "starsToday": 505,
+  "language": "Python",
+  "topics": [
+    "aigc",
+    "llm",
+    "quant",
+    "quantitative-trading",
+    "a-stock",
+    "ai-agent",
+    "quantitative-finance"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-09T21:52:11.583Z"
+}

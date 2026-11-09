@@ -1,0 +1,25 @@
+{
+  "id": "849a4473-6bd3-49bc-8a90-0c667bfb5cd4",
+  "repo": "anthropics/claude-plugins-official",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "category": "Other",
+  "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+  "usecases": [
+    "Khám phá và đánh giá anthropics/claude-plugins-official cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 46617,
+  "starsToday": 129,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "mcp",
+    "skills"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-09T21:52:11.583Z"
+}

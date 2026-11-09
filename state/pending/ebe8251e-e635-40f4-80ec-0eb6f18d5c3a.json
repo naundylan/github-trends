@@ -1,0 +1,23 @@
+{
+  "id": "ebe8251e-e635-40f4-80ec-0eb6f18d5c3a",
+  "repo": "garrytan/gbrain",
+  "url": "https://github.com/garrytan/gbrain",
+  "category": "AI Agent/Automation",
+  "summary": "Gbrain là bộ não agent AI opinionated cho OpenClaw/Hermes, giúp tự động hóa tác vụ thông qua khả năng xử lý ngôn ngữ tự nhiên.",
+  "usecases": [
+    "Tự động hóa luồng làm việc cho developers như review code và tạo tài liệu",
+    "Trợ lý code thông minh với reasoning và khả năng thực thi lệnh",
+    "Tích hợp với Hermes để thực thi tác vụ hệ thống thông qua lệnh tự nhiên"
+  ],
+  "ideas": [
+    "Tạo agent tự động debug và fix code dựa trên lỗi được báo cáo",
+    "Kết hợp với CLI để quản lý repository và CI/CD thông qua giao diện ngôn ngữ tự nhiên",
+    "Phát triển agent phân tán cho DevOps để tự động monitoring và scaling"
+  ],
+  "stars": 32093,
+  "starsToday": 215,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-09T21:52:11.583Z"
+}

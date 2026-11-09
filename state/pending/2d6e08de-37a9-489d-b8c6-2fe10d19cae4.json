@@ -1,0 +1,23 @@
+{
+  "id": "2d6e08de-37a9-489d-b8c6-2fe10d19cae4",
+  "repo": "anthropics/claude-quickstarts",
+  "url": "https://github.com/anthropics/claude-quickstarts",
+  "category": "AI/LLM",
+  "summary": "Bộ dự án quickstart giúp nhà phát triển nhanh chóng xây dựng ứng dụng deployable sử dụng Claude API, chứa các ví dụ mẫu và cấu hình sẵn để tích hợp AI.",
+  "usecases": [
+    "Tích hợp Claude API vào ứng dụng mới",
+    "Prototyping nhanh cho tính năng AI",
+    "Deploy ứng dụng AI với cấu hình sẵn"
+  ],
+  "ideas": [
+    "Xây chatbot cá nhân",
+    "Tích hợp vào workflow tự động hóa",
+    "Phát triển extension AI cho trình duyệt"
+  ],
+  "stars": 19969,
+  "starsToday": 560,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-09T21:52:11.583Z"
+}
