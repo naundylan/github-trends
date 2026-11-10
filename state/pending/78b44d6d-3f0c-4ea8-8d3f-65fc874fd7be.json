@@ -1,0 +1,30 @@
+{
+  "id": "78b44d6d-3f0c-4ea8-8d3f-65fc874fd7be",
+  "repo": "chinese-poetry/chinese-poetry",
+  "url": "https://github.com/chinese-poetry/chinese-poetry",
+  "category": "Database",
+  "summary": "Cơ sở dữ liệu chứa gần 55.000 bài thơ Tang, 260.000 bài thơ Song và 21.000 bài Ci, tổng hợp tác giả thơ Trung Quốc từ hai triều đại Tang và Song (điểm nổi bật: dữ liệu mở định dạng JSON).",
+  "usecases": [
+    "Tìm kiếm và đọc thơ Tang/Song cho mục đích nghiên cứu hoặc học tập văn học Trung Quốc.",
+    "Xuất dữ liệu JSON để tích hợp vào các ứng dụng giáo dục hoặc trang web giới thiệu văn hóa.",
+    "Phân tích từ vựng và cấu trúc thơ cổ cho các dự án NLP hoặc tạo nội dung tự động."
+  ],
+  "ideas": [
+    "Xây dựng ứng dụng di động đọc thơ với bài viết ngẫu nhiên hàng ngày.",
+    "Kết hợp với AI tạo hình để minh họa cho từng bài thơ.",
+    "Tạo API riêng để cung cấp dữ liệu thơ cho các nhà phát triển ứng dụng giáo dục."
+  ],
+  "stars": 54238,
+  "starsToday": 61,
+  "language": "JavaScript",
+  "topics": [
+    "json",
+    "chinese",
+    "poetry",
+    "ci",
+    "tangshi",
+    "chinese-poetry"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-11-10T21:10:35.243Z"
+}

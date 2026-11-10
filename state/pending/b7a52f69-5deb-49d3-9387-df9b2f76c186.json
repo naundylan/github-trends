@@ -1,0 +1,34 @@
+{
+  "id": "b7a52f69-5deb-49d3-9387-df9b2f76c186",
+  "repo": "sundowndev/phoneinfoga",
+  "url": "https://github.com/sundowndev/phoneinfoga",
+  "category": "Security/Pentest",
+  "summary": "Framework thu thập thông tin về số điện thoại cho mục đích OSINT và kiểm tra bảo mật.",
+  "usecases": [
+    "Thu thập footprint số và reputation của số điện thoại trong các cơ sở dữ liệu mở",
+    "Hỗ trợ kiểm tra an ninh mạng và đánh giá rủi ro liên hệ",
+    "Tích hợp vào quy trình kiểm tra an toàn cho các tổ chức an ninh"
+  ],
+  "ideas": [
+    "Xây dựng dashboard trực quan hóa dữ liệu thu thập theo địa chỉ khu vực",
+    "Kết hợp với API định vị để theo dõi thay đổi số điện thoại theo thời gian thực",
+    "Phát triển plugin cho các công cụ OSINT phổ biến như Maltego hoặc Recon-ng"
+  ],
+  "stars": 18503,
+  "starsToday": 35,
+  "language": "Go",
+  "topics": [
+    "information-gathering",
+    "phone-number",
+    "osint",
+    "open-source-intelligence",
+    "reconnaissance",
+    "footprint",
+    "phone",
+    "investigation",
+    "reputation",
+    "agregation"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-10T21:10:35.244Z"
+}

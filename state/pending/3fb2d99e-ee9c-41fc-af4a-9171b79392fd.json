@@ -1,0 +1,23 @@
+{
+  "id": "3fb2d99e-ee9c-41fc-af4a-9171b79392fd",
+  "repo": "figma/mcp-server-guide",
+  "url": "https://github.com/figma/mcp-server-guide",
+  "category": "Developer Tool",
+  "summary": "Một hướng dẫn sử dụng Figma MCP server để tự động hóa và tích hợp tính năng Figma vào quy trình làm việc, hỗ trợ phát triển và thiết kế đồ họa.",
+  "usecases": [
+    "Automate Figma design file creation and updates in CI/CD pipelines.",
+    "Generate design assets programmatically for marketing and development teams.",
+    "Integrate Figma workflows with AI-powered design tools."
+  ],
+  "ideas": [
+    "Build a Figma bot that generates designs from text prompts using AI.",
+    "Create a middleware that syncs Figma designs with other design tools like Sketch or Adobe XD.",
+    "Develop a dashboard to monitor and manage Figma file changes in real-time."
+  ],
+  "stars": 2170,
+  "starsToday": 6,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-10T21:10:35.244Z"
+}

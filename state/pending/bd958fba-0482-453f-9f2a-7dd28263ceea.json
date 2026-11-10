@@ -1,0 +1,23 @@
+{
+  "id": "bd958fba-0482-453f-9f2a-7dd28263ceea",
+  "repo": "a-ghorbani/pocketpal-ai",
+  "url": "https://github.com/a-ghorbani/pocketpal-ai",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Ứng dụng di động mang mô hình ngôn ngữ trực tiếp lên điện thoại, cho phép tương tác với AI khi di động.",
+  "usecases": [
+    "Tạo nội dung sáng tạo và viết văn trên go",
+    "Trợ lý AI cá nhân không phụ thuộc vào kết nối mạng liên tục",
+    "Học tập và thực hành hội thoại ngôn ngữ mới"
+  ],
+  "ideas": [
+    "Tích hợp xử lý ngôn ngữ trên thiết bị (on-device) để đảm bảo quyền riêng tư",
+    "Phát triển chế độ offline-first với dữ liệu ngôn ngữ cục bộ",
+    "Kết hợp với tính năng nhận dạng giọng đọp cho trải nghiệm tương tác giọng nói"
+  ],
+  "stars": 9178,
+  "starsToday": 50,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-11-10T21:10:35.244Z"
+}

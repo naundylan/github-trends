@@ -1,0 +1,25 @@
+{
+  "id": "f91476f3-5c12-4d81-8b85-2f120f172ea9",
+  "repo": "k0sproject/k0s",
+  "url": "https://github.com/k0sproject/k0s",
+  "category": "Infrastructure as Code",
+  "summary": "k0s là một phân phối Kubernetes nhẹ giúp cài đặt và quản lý cluster Kubernetes một cách đơn giản, đặc biệt phù hợp cho các thiết bị có tài nguyên hạn chế hoặc biên (edge computing).",
+  "usecases": [
+    "Deploy Kubernetes clusters on offline or resource-constrained devices.",
+    "Simplify Kubernetes adoption for development and testing environments.",
+    "Enable edge computing workloads with minimal overhead."
+  ],
+  "ideas": [
+    "Integrate k0s with IoT device management for on-premise AI inference.",
+    "Use k0s as a base for custom embedded Kubernetes distributions.",
+    "Combine k0s with GitOps workflows for automated edge cluster provisioning."
+  ],
+  "stars": 6583,
+  "starsToday": 7,
+  "language": "Go",
+  "topics": [
+    "kubernetes"
+  ],
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-11-10T21:10:35.244Z"
+}

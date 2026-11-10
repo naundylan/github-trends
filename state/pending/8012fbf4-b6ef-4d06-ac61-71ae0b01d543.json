@@ -1,0 +1,29 @@
+{
+  "id": "8012fbf4-b6ef-4d06-ac61-71ae0b01d543",
+  "repo": "alvr-org/ALVR",
+  "url": "https://github.com/alvr-org/ALVR",
+  "category": "Game Dev",
+  "summary": "Phần mềm mã nguồn mở stream game VR từ PC đến headset qua Wi-Fi, cho phép chơi SteamVR và PCVR trên thiết bị độc lập như Oculus Quest.",
+  "usecases": [
+    "Chơi game VR trên headset không dây từ thư viện Steam.",
+    "Trải nghiệm PCVR trên thiết bị độc lập không cần cabling dài.",
+    "Phát triển và test game VR trên máy tính mạnh nhưng chơi trên thiết bị di động/headset."
+  ],
+  "ideas": [
+    "Kết hợp với mạng 5G để stream VR tại nhà ngoài trời.",
+    "Thêm hỗ trợ nén dữ liệu real-time để giảm latency.",
+    "Tích hợp với các nền tảng cloud gaming để stream VR từ xa."
+  ],
+  "stars": 8078,
+  "starsToday": 9,
+  "language": "Rust",
+  "topics": [
+    "vr",
+    "steamvr",
+    "oculus-quest",
+    "pcvr",
+    "oculus-go"
+  ],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-11-10T21:10:35.244Z"
+}

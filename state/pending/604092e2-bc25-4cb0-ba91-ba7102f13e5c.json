@@ -1,0 +1,23 @@
+{
+  "id": "604092e2-bc25-4cb0-ba91-ba7102f13e5c",
+  "repo": "dsx-ai-factory/run-ai",
+  "url": "https://github.com/dsx-ai-factory/run-ai",
+  "category": "AI/LLM",
+  "summary": "Run:ai là nền tảng điều phối tải công việc AI cho Kubernetes, cung cấp operator/controller, thư viện chung và môi trường cài đặt để quản lý và điều phối các workload AI trên cluster.",
+  "usecases": [
+    "Quản lý và phân bổ tài nguyên GPU/CPU cho các training job AI trên Kubernetes.",
+    "Tự động hóa vòng đời các workload AI từ phát triển đến production với các policy và quota.",
+    "Cung cấp dashboard và monitoring cho các AI workloads trên cluster."
+  ],
+  "ideas": [
+    "Kết hợp với các framework LLM để tự động tối ưu hóa tài nguyên inference dựa trên tải thực tế.",
+    "Xây dựng multi-tenant AI platform cho các doanh nghiệp để 격离 tài nguyên giữa các team.",
+    "Tạo plugin cho VS Code để monitor và trigger AI workloads trực tiếp từ editor."
+  ],
+  "stars": 736,
+  "starsToday": 5,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-10T21:10:35.244Z"
+}

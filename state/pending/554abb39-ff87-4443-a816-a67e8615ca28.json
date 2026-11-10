@@ -1,0 +1,39 @@
+{
+  "id": "554abb39-ff87-4443-a816-a67e8615ca28",
+  "repo": "mikefarah/yq",
+  "url": "https://github.com/mikefarah/yq",
+  "category": "CLI Tool",
+  "summary": "yq là công cụ dòng lệnh đa nền tảng cho phép xử lý và trích xuất dữ liệu từ YAML, JSON, XML, CSV, TOML, HCL và properties một cách linh hoạt và tự động hóa.",
+  "usecases": [
+    "Trích xuất hoặc sửa đổi giá trị cấu hình trong file YAML/JSON của Kubernetes manifests.",
+    "Tự động hóa việc xử lý file Terraform/HCL trong CI/CD pipelines.",
+    "Chuyển đổi và validate định dạng dữ liệu giữa YAML, JSON, XML cho các ứng dụng đa nền tảng."
+  ],
+  "ideas": [
+    "Tích hợp yq vào scripts shell để tự động generate config files từ database hoặc API responses.",
+    "Xây dựng custom plugin cho git để tự động validate/format commit messages hoặc config files.",
+    "Sử dụng yq làm foundation cho một 'linter' tùy chỉnh cho các file cấu hình đa định dạng trong monorepo."
+  ],
+  "stars": 16260,
+  "starsToday": 4,
+  "language": "Go",
+  "topics": [
+    "yaml-processor",
+    "yaml",
+    "cli",
+    "golang",
+    "splat",
+    "devops-tools",
+    "portable",
+    "bash",
+    "xml",
+    "json",
+    "csv",
+    "properties",
+    "toml",
+    "hcl",
+    "terraform"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-10T21:10:35.244Z"
+}
