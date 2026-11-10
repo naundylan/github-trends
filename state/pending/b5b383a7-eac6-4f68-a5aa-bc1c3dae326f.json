@@ -1,0 +1,23 @@
+{
+  "id": "b5b383a7-eac6-4f68-a5aa-bc1c3dae326f",
+  "repo": "ViceVerse-cz/Serein",
+  "url": "https://github.com/ViceVerse-cz/Serein",
+  "category": "Desktop App",
+  "summary": "Serein là client Discord nhẹ, hiệu năng cao và hoàn toàn native viết bằng Rust, cung cấp trải nghiệm sử dụng nhanh và ổn định hơn.",
+  "usecases": [
+    "Sử dụng làm client Discord chính trên desktop thay thế các client Electron",
+    "Phù hợp cho các hệ thống có tài nguyên hạn chế nhưng cần liên tục kết nối Discord",
+    "Phát triển bot hoặc tích hợp API Discord với hiệu năng cao"
+  ],
+  "ideas": [
+    "Tích hợp tính năng quản lý kênh và thông báo tùy chỉnh cho các cộng đồng lớn",
+    "Sử dụng làm nền tảng cho các ứng dụng giao tiếp thời thực nhẹ",
+    "Kết hợp với các framework Rust khác để xây dựng các dịch vụ backend liên quan đến Discord"
+  ],
+  "stars": 1192,
+  "starsToday": 34,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-10T05:30:13.509Z"
+}

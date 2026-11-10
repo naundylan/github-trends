@@ -1,0 +1,33 @@
+{
+  "id": "968b0cb1-80b3-47c6-86e9-37b077b87763",
+  "repo": "elie222/rakazo",
+  "url": "https://github.com/elie222/rakazo",
+  "category": "AI Agent/Automation",
+  "summary": "Rakazo là bot AI mã nguồn mở cho phép chọn mô hình tùy chỉnh và sandbox, hỗ trợ desktop qua Electron và mobile qua Expo.",
+  "usecases": [
+    "Tự động hóa tác vụ chat với các mô hình LLM linh hoạt.",
+    "Phát triển bot cá nhân hoặc trợ lý AI có thể triển khai trên desktop hoặc mobile.",
+    "Nghiên cứu và triển khai các ứng dụng AI self-hosted với quyền kiểm soát dữ liệu đầy đủ."
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu vector để tạo ra một knowledge base chatbot cá nhân.",
+    "Triển khai trên các nền tảng messaging như Telegram hoặc Discord qua plugin.",
+    "Phát triển chế độ 'agent' có thể sử dụng tools và tự động thực hiện tác vụ trên desktop."
+  ],
+  "stars": 7726,
+  "starsToday": 143,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "chatgpt",
+    "docker",
+    "electron",
+    "expo",
+    "grok",
+    "llm",
+    "self-hosted",
+    "typescript"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-10T05:30:13.509Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4a36180e-e112-4618-84ac-f298497df544",
+  "repo": "opengeos/GeoLibre",
+  "url": "https://github.com/opengeos/GeoLibre",
+  "category": "Data Visualization",
+  "summary": "GeoLibre là một nền tảng GIS nhẹ, dựa trên đám mây, cho phép trực quan hóa, khám phá và phân tích dữ liệu địa lý trên trình duyệt, desktop, mobile và Jupyter notebooks.",
+  "usecases": [
+    "Hiển thị và phân tích bản đồ địa lý cho ứng dụng dữ liệu địa hình.",
+    "Tích hợp khả năng GIS vào notebooks Jupyter cho khoa học dữ liệu.",
+    "Phân tán ứng dụng GIS trên desktop và mobile với cùng một codebase."
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu thời tiết real-time để tạo bản đồ tương động.",
+    "Phát triển plugin cho QGIS hoặc ArcGIS để tương tác với GeoLibre.",
+    "Sử dụng DuckDB để phân tích địa lý trên tập dữ liệu lớn trực tiếp trong browser."
+  ],
+  "stars": 8530,
+  "starsToday": 63,
+  "language": "TypeScript",
+  "topics": [
+    "data-science",
+    "geospatial",
+    "maplibre",
+    "maplibre-gl-js",
+    "tauri-app",
+    "duckdb",
+    "geolibre",
+    "gis",
+    "cesium",
+    "mapbox"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-11-10T05:30:13.509Z"
+}

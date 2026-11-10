@@ -1,0 +1,32 @@
+{
+  "id": "ae4716e5-2900-448e-a991-af8b6e51dcd4",
+  "repo": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+  "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Universal-Debloater là ứng dụng GUI đa nền tảng viết bằng Rust sử dụng ADB để bloatware removal trên các thiết bị Android không root, giúp cải thiện quyền riêng tư, an ninh và thời lượng pin.",
+  "usecases": [
+    "Triển khai trên máy tính để bàn để người dùng dễ dàng xóa bloatware khỏi thiết bị Android qua giao diện đồ họa.",
+    "Giúp doanh nghiệp quản lý và làm sạch hàng ngàn thiết bị Android trong môi trường doanh nghiệp để tối ưu hiệu năng.",
+    "Sử dụng bởi cá nhân muốn tăng bảo mật và tuổi thọ pin cho thiết bị Android của mình."
+  ],
+  "ideas": [
+    "Thêm khả năng tự động cập nhật danh sách bloatware dựa trên dữ liệu cộng đồng.",
+    "Tích hợp tính năng backup và khôi phục dữ liệu trước khi debloat.",
+    "Mở rộng hỗ trợ cho các thiết bị iOS qua các phương thức tương tự (các hạn chế kỹ thuật đã có)."
+  ],
+  "stars": 9881,
+  "starsToday": 32,
+  "language": "Rust",
+  "topics": [
+    "adb",
+    "android",
+    "bloatware-removal",
+    "debloat",
+    "debloater",
+    "debloating",
+    "privacy",
+    "bloatware-list"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-11-10T05:30:13.509Z"
+}

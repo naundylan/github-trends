@@ -1,0 +1,32 @@
+{
+  "id": "080e99fb-33bd-4190-aa9f-395f4f1ac956",
+  "repo": "snap-stanford/memorilla",
+  "url": "https://github.com/snap-stanford/memorilla",
+  "category": "AI/LLM",
+  "summary": "Memorilla là một framework memory latentsemantic cho Large Language Models, nhằm cải thiện khả năng giữ vững ngữ cảnh, học liên tục và tùy chỉnh thông qua nén ngữ cảnh và retrieval-augmented generation.",
+  "usecases": [
+    "Tăng khả năng ghi nhớ và truy xuất thông tin cho các chatbot dài hạn.",
+    "Hỗ trợ ứng dụng LLM cá nhân hóa với ngữ cảnh người dùng cụ thể.",
+    "Cải thiện hiệu suất cho các mô hình xử lý context dài trong retrieval-augmented generation."
+  ],
+  "ideas": [
+    "Kết hợp Memorilla với các framework RAG hiện tại để tối ưu hóa độ dài context.",
+    "Áp dụng cho các agent AI cần duy trì memory xuyên suốt nhiều tác vụ.",
+    "Phát triển module personalization cho các ứng dụng giáo dục hoặc trợ lý ảo."
+  ],
+  "stars": 770,
+  "starsToday": 62,
+  "language": "Python",
+  "topics": [
+    "continual-learning",
+    "llm",
+    "memory",
+    "context-compression",
+    "long-context",
+    "personalization",
+    "reinforcement-learning",
+    "retrieval-augmented-generation"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-10T05:30:13.509Z"
+}

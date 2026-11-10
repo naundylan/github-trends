@@ -1,0 +1,43 @@
+{
+  "id": "95606425-55d1-45a5-980f-4d0afb51bb22",
+  "repo": "hummingbot/hummingbot",
+  "url": "https://github.com/hummingbot/hummingbot",
+  "category": "AI Agent/Automation",
+  "summary": "Hummingbot là một framework mã nguồn mở giúp tạo và triển khai các bot giao dịch crypto với tần suất cao, hỗ trợ backtesting, market-making và arbitrage trên nhiều sàn giao dịch.",
+  "usecases": [
+    "Tự động hóa giao dịch arbitrage giữa các sàn crypto để khai thác chênh lệch giá.",
+    "Thực hiện market-making để cung cấp thanh khoản và kiếm phí trên các cặp giao dịch.",
+    "Backtest các chiến lược giao dịch sử dụng dữ liệu lịch sử trước khi triển khai thực tế."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động điều chỉnh tham số bot dựa trên biến động thị trường trong thời gian thực.",
+    "Phát triển plugin cho phép bot giao dịch trên các sàn phi tập trung (DEX) bằng cách kết nối với các protocol Layer 2.",
+    "Tạo giao diện quản lý đa sàn để người dùng theo dõi hiệu suất bot trên nhiều sàn cùng lúc."
+  ],
+  "stars": 21134,
+  "starsToday": 45,
+  "language": "Python",
+  "topics": [
+    "arbitrage",
+    "crypto",
+    "trading",
+    "python",
+    "algotrading",
+    "hft",
+    "backtesting",
+    "orderbook",
+    "market-making",
+    "ai-agents",
+    "binance",
+    "bitcoin",
+    "cryptocurrency",
+    "defi",
+    "ethereum",
+    "hyperliquid",
+    "quantitative-finance",
+    "solana",
+    "trading-stategy"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-10T05:30:13.509Z"
+}
