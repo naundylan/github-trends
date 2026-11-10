@@ -1,0 +1,26 @@
+{
+  "id": "02916974-4680-4875-b965-cd8e0edcec59",
+  "repo": "ashishpatel26/500-AI-Agents-Projects",
+  "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+  "category": "AI Agent/Automation",
+  "summary": "Họp thư viện dự án AI agents được curate, cung cấp các trường hợp sử dụng thực tế và mã nguồn mở across y tế, tài chính, giáo dục và bán lẻ, thể hiện tác động thay đổi của AI agents vào các ngành công nghiệp.",
+  "usecases": [
+    "Tự động hóa hỗ trợ khách hàng và trả lời truy vấn trong thời gian thực cho doanh nghiệp.",
+    "Hỗ trợ phân tích y tế và tạo báo cáo sơ bộ từ dữ liệu bệnh án.",
+    "Tự tạo nội dung giáo dục và lộ trình học tập cá nhân hóa cho sinh viên."
+  ],
+  "ideas": [
+    "Xây dựng workforce AI phối hợp để tự động hóa quy trình làm việc đa ngành như tuyển dụng và onboarding.",
+    "Kết hợp với dữ liệu thời tiết và đất đai để hỗ trợ nông nghiệp chính xác và dự báo sản lượng.",
+    "Phát triển AI agent quản lý tài chính cá nhân với tuân thủ ngân sách và mục tiêu dài hạn."
+  ],
+  "stars": 39594,
+  "starsToday": 112,
+  "language": "Python",
+  "topics": [
+    "ai-agents",
+    "genai"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-10T14:08:06.817Z"
+}

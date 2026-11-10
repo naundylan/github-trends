@@ -1,0 +1,35 @@
+{
+  "id": "1ca69e00-c10c-42d0-a60e-7795217bf8fa",
+  "repo": "every-app/open-seo",
+  "url": "https://github.com/every-app/open-seo",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng mã nguồn mở tự động hóa nghiên cứu từ khóa, phân tích backlink và audit SEO, hoạt động như thay thế mã nguồn mở cho các công cụ thương mại Semrush và Ahrefs.",
+  "usecases": [
+    "Tự động theo dõi ranking từ khóa và báo cáo hiệu suất SEO định kỳ.",
+    "Phân tích sâu backlink và theo dõi liên kết cho chiến lược xây dựng link.",
+    "Tích hợp Google Search Console để theo dõi dữ liệu tìm kiếm tự nhiên."
+  ],
+  "ideas": [
+    "Kết hợp LLM để tạo nội dung SEO tự động dựa trên dữ liệu phân tích và từ khóa.",
+    "Phát triển module plug-in cho các nền tảng CMS để tự động tối ưu SEO trên-the-fly.",
+    "Cung cấp API cho các agency SEO để tích hợp vào workflow quản lý khách hàng."
+  ],
+  "stars": 27135,
+  "starsToday": 146,
+  "language": "TypeScript",
+  "topics": [
+    "backlink-analysis",
+    "keyword-research",
+    "mcp",
+    "seo",
+    "seo-tools",
+    "site-audit",
+    "google-search-console-mcp",
+    "seo-agent",
+    "seo-skills",
+    "seo-audit",
+    "seo-automation"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-10T14:08:06.817Z"
+}

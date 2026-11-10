@@ -1,0 +1,35 @@
+{
+  "id": "8f1521d7-74da-4a7b-aa34-78290008b518",
+  "repo": "upscayl/upscayl",
+  "url": "https://github.com/upscayl/upscayl",
+  "category": "Computer Vision",
+  "summary": "Ứng dụng mã nguồn mở免费 sử dụng AI để tăng kích thước và cải thiện chất lượng ảnh, hỗ trợ Linux, macOS và Windows như giải pháp thay thế cho các phần mềm trả phí như Gigapixel.",
+  "usecases": [
+    "Nâng cao độ phân giải ảnh cũ hoặc low-res để in ấn, in to hoặc xuất khẩu.",
+    "Tối ưu hóa ảnh sản phẩm cho thương mại điện tử và thiết kế web mà giữ chân độ nét.",
+    "Xử lý hàng loạt ảnh cho studio ảnh và nội dung sáng tạo để tiết kiệm thời gian."
+  ],
+  "ideas": [
+    "Kết hợp với mô hình tạo ảnh generative (như Stable Diffusion) để tăng khả năng sáng tạo từ ảnh đã upscale.",
+    "Phát triển plugin cho Photoshop/Figma để tích hợp upscale AI trực tiếp trong quy trình thiết kế.",
+    "Tự động hóa pipeline upscale cho các dự án video và animation cần độ phân giải cao."
+  ],
+  "stars": 52161,
+  "starsToday": 89,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "esrgan",
+    "image",
+    "upscale",
+    "electron",
+    "gigapixel",
+    "gigapixel-images",
+    "image-upscaling",
+    "topaz",
+    "upscalerimage",
+    "upscayl"
+  ],
+  "notePath": "notes/Computer-Vision.md",
+  "createdAt": "2026-11-10T14:08:06.817Z"
+}

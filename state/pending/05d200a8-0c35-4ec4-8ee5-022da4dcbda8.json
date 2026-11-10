@@ -1,0 +1,44 @@
+{
+  "id": "05d200a8-0c35-4ec4-8ee5-022da4dcbda8",
+  "repo": "fosrl/pangolin",
+  "url": "https://github.com/fosrl/pangolin",
+  "category": "Networking",
+  "summary": "Nền tảng mạng lưới an ninh zero-trust self-hosted, cung cấp truy cập an toàn, VPN, reverse proxy và gateway cho ứng dụng, hạ tầng và AI workloads.",
+  "usecases": [
+    "Cung cấp truy cập từ xa an toàn cho nhân viên về mạng nội bộ doanh nghiệp thay thế VPN truyền thống.",
+    "Kết nối và bảo vệ AI workloads trên đám mây với mô hình zero-trust networking.",
+    "Triển khai reverse proxy và tunnels WireGuard cho các ứng dụng self-hosted tại các môi trường edge."
+  ],
+  "ideas": [
+    "Kết hợp với SASE framework để cung cấp truy cập an toàn cho các branch office phân tán toàn cầu.",
+    "Sử dụng làm gateway an ninh cho các môi trường edge computing và thiết bị IoT.",
+    "Triển khai zero-trust cho developer workspace truy cập tài nguyên nội bộ một cách linh hoạt."
+  ],
+  "stars": 23545,
+  "starsToday": 125,
+  "language": "TypeScript",
+  "topics": [
+    "reverse-proxy",
+    "wireguard",
+    "single-sign-on",
+    "self-hosted",
+    "oidc",
+    "vpn",
+    "zero-trust",
+    "zero-trust-network-access",
+    "ztna",
+    "pam",
+    "remote-access",
+    "ssh",
+    "tunneling",
+    "nat-traversal",
+    "sase",
+    "sso",
+    "wireguard-vpn",
+    "pangolin",
+    "ai-gateway",
+    "gateway"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-11-10T14:08:06.817Z"
+}

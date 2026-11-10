@@ -1,0 +1,26 @@
+{
+  "id": "7872b28f-5f4d-4c1c-860d-dc677c5d2b1f",
+  "repo": "LadybirdBrowser/ladybird",
+  "url": "https://github.com/LadybirdBrowser/ladybird",
+  "category": "Desktop App",
+  "summary": "Trình duyệt web mã nguồn mở viết bằng Rust, hướng đến sự độc lập và hiệu suất cao thay thế cho các trình duyệt hiện có.",
+  "usecases": [
+    "Duyệt web hàng ngày trên các hệ điều hành không phụ thuộc Chromium",
+    "Test tương thích web cho các dự án SerenityOS",
+    "Nghiên cứu và phát triển công nghệ render web mới"
+  ],
+  "ideas": [
+    "Tích hợp tính năng AI tóm tắt nội dung trang web",
+    "Xây dựng hệ thống mở rộng bảo mật dựa trên trình duyệt",
+    "Động cơ render cho các thiết bị nhúng và IoT"
+  ],
+  "stars": 67015,
+  "starsToday": 76,
+  "language": "Rust",
+  "topics": [
+    "browser",
+    "browser-engine"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-10T14:08:06.817Z"
+}

@@ -1,7 +1,7 @@
 {
   "JuliusBrussee/caveman": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-10",
     "last_saved": "2026-10-28"
   },
   "obra/superpowers": {
@@ -136,7 +136,7 @@
   },
   "mattpocock/skills": {
     "first_seen": "2026-07-04",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-10",
     "last_saved": "2026-10-30"
   },
   "pbakaus/impeccable": {
@@ -301,7 +301,7 @@
   },
   "addyosmani/agent-skills": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
     "last_saved": "2026-10-27"
   },
   "decolua/9router": {
@@ -346,7 +346,7 @@
   },
   "rustdesk/rustdesk": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-10",
     "last_saved": "2026-10-27"
   },
   "SmartlyDressedGames/U3-SDK": {
@@ -546,7 +546,7 @@
   },
   "Tencent/WeKnora": {
     "first_seen": "2026-08-24",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-10",
     "last_saved": "2026-10-31"
   },
   "Shubhamsaboo/awesome-llm-apps": {
@@ -621,8 +621,8 @@
   },
   "DietrichGebert/ponytail": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-11-01",
-    "last_saved": "2026-10-17"
+    "last_seen": "2026-11-10",
+    "last_saved": "2026-11-10"
   },
   "VoltAgent/awesome-agent-skills": {
     "first_seen": "2026-08-26",
@@ -706,7 +706,7 @@
   },
   "bilawalsidhu/gods-eye-view": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-10",
     "last_saved": "2026-10-26"
   },
   "swoole/typephp": {
@@ -721,8 +721,8 @@
   },
   "conorbronsdon/avoid-ai-writing": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-31",
-    "last_saved": "2026-08-28"
+    "last_seen": "2026-11-10",
+    "last_saved": "2026-11-10"
   },
   "HKUDS/AI-Trader": {
     "first_seen": "2026-08-28",
@@ -756,8 +756,8 @@
   },
   "every-app/open-seo": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-10-29",
-    "last_saved": "2026-10-13"
+    "last_seen": "2026-11-10",
+    "last_saved": "2026-11-10"
   },
   "chuspeeism/dashi-ppt-skill": {
     "first_seen": "2026-08-29",
@@ -791,7 +791,7 @@
   },
   "infiniflow/ragflow": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-10",
     "last_saved": "2026-10-23"
   },
   "Lakr233/vphone-cli": {
@@ -896,8 +896,8 @@
   },
   "Imbad0202/academic-research-skills": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-10-20",
-    "last_saved": "2026-10-16"
+    "last_seen": "2026-11-10",
+    "last_saved": "2026-11-10"
   },
   "iv-org/invidious": {
     "first_seen": "2026-09-01",
@@ -1441,8 +1441,8 @@
   },
   "AlexsJones/llmfit": {
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-05",
-    "last_saved": "2026-10-04"
+    "last_seen": "2026-11-10",
+    "last_saved": "2026-11-10"
   },
   "nab138/iloader": {
     "first_seen": "2026-09-12",
@@ -1616,7 +1616,7 @@
   },
   "cloudflare/security-audit-skill": {
     "first_seen": "2026-09-15",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-10",
     "last_saved": "2026-10-27"
   },
   "SnailSploit/Claude-Red": {
@@ -1656,7 +1656,7 @@
   },
   "rlaope/oh-my-hermes": {
     "first_seen": "2026-09-16",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-10",
     "last_saved": "2026-10-29"
   },
   "TencentCloud/Octop": {
@@ -1951,7 +1951,7 @@
   },
   "agent-substrate/substrate": {
     "first_seen": "2026-09-22",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-10",
     "last_saved": "2026-11-07"
   },
   "google/ax": {
@@ -2186,7 +2186,7 @@
   },
   "tokio-rs/topcoat": {
     "first_seen": "2026-09-26",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-11-10",
     "last_saved": "2026-10-25"
   },
   "jdx/mise": {
@@ -2431,7 +2431,7 @@
   },
   "github/gh-aw": {
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-10",
     "last_saved": "2026-10-24"
   },
   "Pumpkin-MC/Pumpkin": {
@@ -2521,8 +2521,8 @@
   },
   "github/github-mcp-server": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-19",
-    "last_saved": "2026-10-03"
+    "last_seen": "2026-11-10",
+    "last_saved": "2026-11-10"
   },
   "rubys/roundhouse": {
     "first_seen": "2026-10-03",
@@ -2656,7 +2656,7 @@
   },
   "gitleaks/gitleaks": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-10",
     "last_saved": "2026-10-29"
   },
   "aquasecurity/trivy": {
@@ -2926,8 +2926,8 @@
   },
   "NomaDamas/k-skill": {
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "last_saved": "2026-10-12"
+    "last_seen": "2026-11-10",
+    "last_saved": "2026-11-10"
   },
   "JoeanAmier/TikTokDownloader": {
     "first_seen": "2026-10-12",
@@ -4011,7 +4011,7 @@
   },
   "DeanChensj/jiangshan-map": {
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-10",
     "last_saved": "2026-11-03"
   },
   "csyangwen/dsh-memory-evolve": {
@@ -4279,47 +4279,37 @@
     "last_seen": "2026-11-10",
     "last_saved": "2026-11-09"
   },
-  "soxoj/maigret": {
+  "we-promise/sure": {
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10",
     "last_saved": "2026-11-10"
   },
-  "hummingbot/hummingbot": {
+  "ashishpatel26/500-AI-Agents-Projects": {
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10",
     "last_saved": "2026-11-10"
   },
-  "snap-stanford/memorilla": {
+  "elder-plinius/OBLITERATUS": {
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10",
     "last_saved": "2026-11-10"
   },
-  "CodebuffAI/freebuff": {
+  "WhiteTowerAI/ohmygame": {
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10",
     "last_saved": "2026-11-10"
   },
-  "opengeos/GeoLibre": {
+  "upscayl/upscayl": {
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10",
     "last_saved": "2026-11-10"
   },
-  "snarktank/ralph": {
+  "fosrl/pangolin": {
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10",
     "last_saved": "2026-11-10"
   },
-  "Universal-Debloater-Alliance/universal-android-debloater-next-generation": {
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-10",
-    "last_saved": "2026-11-10"
-  },
-  "crmne/spotifast": {
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-10",
-    "last_saved": "2026-11-10"
-  },
-  "ViceVerse-cz/Serein": {
+  "LadybirdBrowser/ladybird": {
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-10",
     "last_saved": "2026-11-10"

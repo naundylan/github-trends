@@ -1,0 +1,32 @@
+{
+  "id": "7b72c77b-c574-4275-890e-ba6e33dd36fd",
+  "repo": "Imbad0202/academic-research-skills",
+  "url": "https://github.com/Imbad0202/academic-research-skills",
+  "category": "Documentation/Learning Resource",
+  "summary": "Cung cấp quy trình nghiên cứu học thuật đầy đủ từ tìm tài liệu, viết, review, sửa đổi đến hoàn thiện, tích hợp AI Claude để tự động hóa pipeline nghiên cứu.",
+  "usecases": [
+    "Tự động hóa viết bài nghiên cứu và review bằng AI cho sinh viên/thạc sĩ",
+    "Quản lý literature review và theo dõi tiến độ revises trong dự án nghiên cứu",
+    "Tạo tài liệu hướng dẫn pipeline nghiên cứu AI cho các nhóm nghiên cứu"
+  ],
+  "ideas": [
+    "Kết hợp với công cụ quản lý tham khảo (Zotero/Mendeley) để tự động citation",
+    "Phát triển dashboard theo dõi tiến độ từng bước pipeline nghiên cứu",
+    "Tạo template cho các lĩnh vực nghiên cứu khác (kinh tế, y học, v.v.)"
+  ],
+  "stars": 56320,
+  "starsToday": 242,
+  "language": "Python",
+  "topics": [
+    "academic-writing",
+    "ai-research",
+    "claude",
+    "claude-code",
+    "literature-review",
+    "peer-review",
+    "prompt-engineering",
+    "academic-pipeline"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-11-10T14:08:06.817Z"
+}
