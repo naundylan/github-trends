@@ -1,0 +1,44 @@
+{
+  "id": "4e1a932e-4199-41f2-a905-5ccfb8e88dcb",
+  "repo": "dream-num/univer",
+  "url": "https://github.com/dream-num/univer",
+  "category": "Developer Tool",
+  "summary": "Univer là một Office SDK mã nguồn mở cho phép phát triển các ứng dụng chỉnh sửa tài liệu, tính toán và cộng tác như Excel, Word, PowerPoint trực tiếp trong sản phẩm, hỗ trợ cả người dùng và AI agents.",
+  "usecases": [
+    "Phát triển ứng dụng web chỉnh sửa bảng tính trực tiếp trong trình duyệt",
+    "Tích hợp khả năng xử lý tài liệu và cộng tác thời gian thực vào hệ thống nội bộ doanh nghiệp",
+    "Cho phép AI agents tạo và sửa file Word/Excel thông qua API"
+  ],
+  "ideas": [
+    "Công cụ AI viết báo cáo tự động tạo file Word có định dạng chuyên nghiệp",
+    "Plugin VS Code cho phép chỉnh sửa spreadsheet bằng lệnh tự어",
+    "Nền tảng AI tạo slide PowerPoint từ prompt đơn giản"
+  ],
+  "stars": 23169,
+  "starsToday": 128,
+  "language": "TypeScript",
+  "topics": [
+    "excel",
+    "spreadsheet",
+    "xlsx",
+    "doc",
+    "word",
+    "ppt",
+    "collaboration",
+    "sdk",
+    "sheet",
+    "docx",
+    "pptx",
+    "presentation",
+    "slides",
+    "wordprocessor",
+    "board",
+    "pdf",
+    "offce365",
+    "office",
+    "workspace",
+    "univer"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-11T13:24:15.617Z"
+}

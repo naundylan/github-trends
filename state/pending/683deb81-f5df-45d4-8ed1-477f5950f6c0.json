@@ -1,0 +1,28 @@
+{
+  "id": "683deb81-f5df-45d4-8ed1-477f5950f6c0",
+  "repo": "nab138/iloader",
+  "url": "https://github.com/nab138/iloader",
+  "category": "Developer Tool",
+  "summary": "iloader là công cụ sideloading thân thiện cho iOS, cho phép cài đặt ứng dụng IPA trên thiết bị không cần jailbreak, dựa trên libimobiledevice và các dịch vụ sidestore.",
+  "usecases": [
+    "Cài đặt và thử nghiệm ứng dụng IPA tùy chỉnh cho nhà phát triển iOS.",
+    "Phân phối nội bộ ứng dụng cho doanh nghiệp mà không cần qua App Store.",
+    "Tích hợp vào quy trình CI/CD để cài đặt tự động trên các thiết bị test thực."
+  ],
+  "ideas": [
+    "Tự động làm mới chữ ký cho IPA đã cài qua giao diện quản lý web định kỳ.",
+    "Hỗ trợ đa thiết bị đồng thời cài đặt và quản lý danh sách ứng dụng qua lệnh dòng lệnh.",
+    "Kết hợp với các công cụ tự động hóa khác để tạo ra pipeline hoàn chỉnh cho phát triển iOS bên ngoài App Store."
+  ],
+  "stars": 4769,
+  "starsToday": 76,
+  "language": "TypeScript",
+  "topics": [
+    "idevice",
+    "ios",
+    "sideloading",
+    "sidestore"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-11T13:24:15.617Z"
+}

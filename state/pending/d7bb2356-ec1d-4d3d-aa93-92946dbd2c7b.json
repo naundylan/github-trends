@@ -1,0 +1,23 @@
+{
+  "id": "d7bb2356-ec1d-4d3d-aa93-92946dbd2c7b",
+  "repo": "shadcn/improve",
+  "url": "https://github.com/shadcn/improve",
+  "category": "AI/LLM",
+  "summary": "Sử dụng mô hình AI mạnh để audit codebase, phân tích và tạo kế hoạch tối ưu để các mô hình rẻ hơn thực hiện, giúp giảm chi phí và cải thiện chất lượng code.",
+  "usecases": [
+    "Audit tự động codebase để phát hiện lỗi logic, vấn đề hiệu năng hoặc vi phạm best practices trước khi deploy.",
+    "Tạo kế hoạch tái cấu trúc code và gợi ý tối ưu hóa để các mô hình AI rẻ hơn có thể xử lý, tiết kiệm chi phí API.",
+    "Tích hợp vào pipeline CI/CD để tự động đánh giá chất lượng code và đề xuất improvements trên mỗi commit."
+  ],
+  "ideas": [
+    "Tự động generate tài liệu code và comments dựa trên kết quả audit, giúp team dễ dàng duy trì code.",
+    "Kết hợp với hệ thống tự động sửa lỗi (auto-fix) để cải thiện code ngay lập tức sau khi audit.",
+    "Sử dụng để so sánh hiệu năng và chi phí giữa các generative AI model (GPT-4, Claude, Gemini) trước khi chọn cho sản phẩm thương mại."
+  ],
+  "stars": 10459,
+  "starsToday": 333,
+  "language": "",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-11T13:24:15.617Z"
+}

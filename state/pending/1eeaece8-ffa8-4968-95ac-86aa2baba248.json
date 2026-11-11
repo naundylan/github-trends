@@ -1,0 +1,44 @@
+{
+  "id": "1eeaece8-ffa8-4968-95ac-86aa2baba248",
+  "repo": "shy3130/tick-stock-panel",
+  "url": "https://github.com/shy3130/tick-stock-panel",
+  "category": "AI/LLM",
+  "summary": "TSP là nền tảng tự hosting, zero-maintenance cho giao dịch lượng tử A-stock, tích hợp LLM để tùy chỉnh chiến lược, phân tích mã cổ phiếu và backtesting, cùng hỗ trợ kết nối dữ liệu bên thứ ba và mở rộng cá nhân hóa.",
+  "usecases": [
+    "Tự động hóa phân tích và thực thi giao dịch cổ phiếu A-share dựa trên chiến lược do LLM tạo ra.",
+    "Thực hiện backtesting và theo dõi hiệu suất đầu tư cá nhân với DuckDB/Polars.",
+    "Kết nối và khai thác dữ liệu tài chính bên ngoài để mở rộng khả năng tùy chỉnh mô hình giao dịch."
+  ],
+  "ideas": [
+    "Sử dụng agent LLM để theo dõi tin tức tài chính thời gian thực và điều chỉnh chiến lược giao dịch tự động.",
+    "Triển khai as a service riêng cho các cộng đồng đầu tư cá nhân hoặc hội đồng giao dịch.",
+    "Kết hợp dữ liệu biến số môi trường hoặc thời tiết để tối ưu hóa tín hiệu giao dịch lượng tử."
+  ],
+  "stars": 7597,
+  "starsToday": 108,
+  "language": "Python",
+  "topics": [
+    "a-stock",
+    "ai-agent",
+    "aigc",
+    "backtesting",
+    "duckdb",
+    "fastapi",
+    "llm",
+    "polars",
+    "quant",
+    "quantitative-trading",
+    "react",
+    "screener",
+    "stock-analysis",
+    "tickflow",
+    "daily",
+    "stock",
+    "tsp",
+    "aigc-detection",
+    "trade",
+    "training"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-11T13:24:15.617Z"
+}

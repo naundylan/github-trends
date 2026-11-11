@@ -1,0 +1,32 @@
+{
+  "id": "ffb47243-4576-4ce1-8fa9-23ca08f3fdfc",
+  "repo": "router-for-me/CLIProxyAPI",
+  "url": "https://github.com/router-for-me/CLIProxyAPI",
+  "category": "API/GraphQL",
+  "summary": "CLIProxyAPI là một dịch vụ API tương thích OpenAI/Gemini/Claude, cho phép truy cập các mô hình code AI như Claude Code, Codex, Devin, Grok và Muse miễn phí thông qua một điểm cuối duy nhất.",
+  "usecases": [
+    "Sử dụng Claude Code hoặc Devin qua API trong các dự án tự động hóa viết code",
+    "Tích hợp các mô hình Gemini hoặc GPT vào ứng dụng nội bộ mà không cần thay đổi mã client",
+    "Cho phép team dùng các tool code AI khác nhau thống nhất qua một API tương thích OpenAI"
+  ],
+  "ideas": [
+    "Sàng lọc tự động chọn mô hình code tốt nhất cho từng tác vụ",
+    "Dashboard theo dõi chi phí và hiệu suất sử dụng các model AI khác nhau",
+    "Tích hợp với CI/CD để tự động review code qua AI proxy"
+  ],
+  "stars": 58272,
+  "starsToday": 120,
+  "language": "Go",
+  "topics": [
+    "claude-code",
+    "gemini",
+    "openai",
+    "codex",
+    "antigravity",
+    "devin",
+    "muse",
+    "claude"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-11-11T13:24:15.617Z"
+}

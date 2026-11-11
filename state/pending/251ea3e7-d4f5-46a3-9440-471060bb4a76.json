@@ -1,0 +1,29 @@
+{
+  "id": "251ea3e7-d4f5-46a3-9440-471060bb4a76",
+  "repo": "NapNeko/NapCatQQ",
+  "url": "https://github.com/NapNeko/NapCatQQ",
+  "category": "Developer Tool",
+  "summary": "Framework nguồn mở để xây dựng bot QQ dựa trên giao thức OneBot/NTQQ, cung cấp interface protocol-side hiện đại.",
+  "usecases": [
+    "Xây dựng bot QQ tự động trả lời và tương tác",
+    "Tích hợp với nhiều nền tảng OneBot và dịch vụ bên thứ ba",
+    "Phát triển bot có khả năng xử lý lệnh phức tạp và plugin"
+  ],
+  "ideas": [
+    "Kết hợp mô hình LLM để tạo bot chat thông minh tự học",
+    "Tạo hệ thống plugin đa nền tảng cho bot QQ/OneBot",
+    "Phát triển bot quản lý nhóm với analytics và báo cáo tự động"
+  ],
+  "stars": 12666,
+  "starsToday": 141,
+  "language": "TypeScript",
+  "topics": [
+    "onebot11",
+    "napcat",
+    "ncqq",
+    "onebot",
+    "ntqq"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-11T13:24:15.617Z"
+}

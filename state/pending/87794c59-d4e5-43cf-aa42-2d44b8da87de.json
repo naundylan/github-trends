@@ -1,0 +1,41 @@
+{
+  "id": "87794c59-d4e5-43cf-aa42-2d44b8da87de",
+  "repo": "browser-use/browser-use",
+  "url": "https://github.com/browser-use/browser-use",
+  "category": "AI Agent/Automation",
+  "summary": "Một thư viện Python mã nguồn mở cho các agent AI điều khiển trình duyệt, cung cấp tính năng browser automation và API hosted trên Cloud để tự động hóa web và scraping.",
+  "usecases": [
+    "Tự động hóa tác vụ web như điền form, click, scraping dữ liệu với AI.",
+    "Xây dựng agent AI kiểm thử ứng dụng web hoặc tương tác với trang web phức tạp.",
+    "Tích hợp vào workflow AI để tự động thu thập dữ liệu hoặc thực hiện tác vụ lặp lại trên browser."
+  ],
+  "ideas": [
+    "Tự động hóa báo cáo dữ liệu thị trường bằng cách thu thập thông tin từ nhiều website cùng lúc.",
+    "Xây dựng agent AI giúp người dùng tự động đặt vé, book appointment trên web.",
+    "Kết hợp với LLM để phân tích cấu trúc trang web và tự động tạo script scraping."
+  ],
+  "stars": 120683,
+  "starsToday": 171,
+  "language": "Python",
+  "topics": [
+    "llm",
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "python",
+    "browser-use",
+    "playwright",
+    "browser-agent",
+    "cdp",
+    "cloud-browser",
+    "computer-use",
+    "headless-browser",
+    "mcp",
+    "remote-browser",
+    "stealth-browser",
+    "web-automation",
+    "web-scraping"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-11T13:24:15.617Z"
+}

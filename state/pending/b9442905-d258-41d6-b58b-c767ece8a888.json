@@ -1,0 +1,23 @@
+{
+  "id": "b9442905-d258-41d6-b58b-c767ece8a888",
+  "repo": "GoogleChrome/modern-web-guidance-src",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+  "category": "Documentation/Learning Resource",
+  "summary": "Tài liệu hướng dẫn từ Google Chrome về phát triển web hiện đại, best practices và các tính năng mới của browser.",
+  "usecases": [
+    "Học tập các API và tính năng mới của Chrome",
+    "Tuân thủ best practices cho performance và accessibility",
+    "Train developers trên modern web standards"
+  ],
+  "ideas": [
+    "Build extension tự động kiểm tra project theo guidance",
+    "Tạo curriculum học tập dựa trên tài liệu này",
+    "Develop tool so sánh compliance giữa project và guidelines"
+  ],
+  "stars": 1449,
+  "starsToday": 133,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-11-11T13:24:15.617Z"
+}
