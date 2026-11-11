@@ -1,0 +1,44 @@
+{
+  "id": "a7629d9a-df62-4c3e-8942-5095c5c5495c",
+  "repo": "flipped-aurora/gin-vue-admin",
+  "url": "https://github.com/flipped-aurora/gin-vue-admin",
+  "category": "Developer Tool",
+  "summary": "Nền tảng phát triển 풀스택 AI-assisted kết hợp Gin (Go) và Vue3, cung cấp giải pháp admin panel doanh nghiệp với tạo mã nguồn tự động, quản lý quyền và nhiều tính năng tích hợp.",
+  "usecases": [
+    "Triển khai nhanh admin panel cho hệ thống nội bộ doanh nghiệp bằng Vue3 + Gin.",
+    "Tự động tạo API và giao diện dựa trên schema cơ sở dữ liệu.",
+    "Quản lý quyền truy cập JWT và đa điểm login cho ứng dụng quản trị."
+  ],
+  "ideas": [
+    "Tích hợp AI để tự động hoàn thiện code generator dựa trên phản hồi người dùng.",
+    "Triển khai as a service quản lý admin cho các dự án SaaS nhỏ.",
+    "Kết hợp với mcp (Model Context Protocol) để tự động hóa quy trình development từ yêu cầu đến code."
+  ],
+  "stars": 25128,
+  "starsToday": 4,
+  "language": "Go",
+  "topics": [
+    "gin-vue-admin",
+    "gin",
+    "vue",
+    "golang",
+    "vue-admin",
+    "go-admin",
+    "go",
+    "admin",
+    "gin-admin",
+    "casbin",
+    "vue3",
+    "element-ui",
+    "gorm",
+    "jwt",
+    "i18n",
+    "ai",
+    "mcp",
+    "skills",
+    "vibecoding",
+    "claw"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-11T04:03:31.567Z"
+}

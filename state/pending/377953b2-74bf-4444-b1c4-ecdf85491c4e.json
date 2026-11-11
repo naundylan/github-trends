@@ -1,0 +1,26 @@
+{
+  "id": "377953b2-74bf-4444-b1c4-ecdf85491c4e",
+  "repo": "ashishpatel26/500-AI-Agents-Projects",
+  "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+  "category": "AI Agent/Automation",
+  "summary": "500 AI Agents Projects là bộ sưu tập được chọn lọc các dự án ứng dụng AI Agent trên nhiều ngành công nghiệp như y tế, tài chính, giáo dục và bán lẻ. Dự án cung cấp các ví dụ thực tế và liên kết đến các dự án mã nguồn mở để triển khai, minh họa cách AI Agent thay đổi các lĩnh vực khác nhau.",
+  "usecases": [
+    "Triển khai AI Agent tự động hóa quy trình tư vấn tài chính ban đầu.",
+    "Xây dựng hệ thống hỗ trợ học tập cá nhân hóa cho sinh viên.",
+    "Tích hợp AI Agent vào hệ thống chăm sóc sức khỏe để theo dõi và phân tích dữ liệu bệnh nhân."
+  ],
+  "ideas": [
+    "Sử dụng các dự án này làm foundation để xây dựng AI Agent riêng cho doanh nghiệp nội bộ.",
+    "Kết hợp với dữ liệu thực tế từ API cục bộ để tạo ra các agent chuyên biệt cho ngành logistics.",
+    "Phát triển giao diện quản lý theo dõi hiệu suất hoạt động của nhiều AI Agent cùng lúc."
+  ],
+  "stars": 39657,
+  "starsToday": 126,
+  "language": "Python",
+  "topics": [
+    "ai-agents",
+    "genai"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-11T04:03:31.567Z"
+}

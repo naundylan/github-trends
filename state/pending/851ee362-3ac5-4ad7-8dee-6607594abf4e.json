@@ -1,0 +1,26 @@
+{
+  "id": "851ee362-3ac5-4ad7-8dee-6607594abf4e",
+  "repo": "LadybirdBrowser/ladybird",
+  "url": "https://github.com/LadybirdBrowser/ladybird",
+  "category": "Networking",
+  "summary": "Trình duyệt web độc lập mã nguồn mở viết bằng Rust, tập trung vào sự riêng tư và hiệu năng, cung cấp động cơ browser không phụ thuộc vào Chromium.",
+  "usecases": [
+    "Duyệt web an toàn và riêng tư trên các hệ điều hành khác nhau.",
+    "Phát triển và tùy chỉnh trải nghiệm web cho các nhà nghiên cứu bảo mật.",
+    "Sử dụng làm nền tảng cho các ứng dụng nội bộ cần điều khiển truy cập web."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ phân tích traffic mạng để theo dõi hành vi truy cập.",
+    "Tạo phiên bản mobile của trình duyệt dựa trên engine Ladybird.",
+    "Phát triển extension blocker nâng cấp sử dụng khả năng隔离 của engine Rust."
+  ],
+  "stars": 67047,
+  "starsToday": 74,
+  "language": "Rust",
+  "topics": [
+    "browser",
+    "browser-engine"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-11-11T04:03:31.567Z"
+}

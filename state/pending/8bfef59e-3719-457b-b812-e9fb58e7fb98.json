@@ -1,0 +1,23 @@
+{
+  "id": "8bfef59e-3719-457b-b812-e9fb58e7fb98",
+  "repo": "we-promise/sure",
+  "url": "https://github.com/we-promise/sure",
+  "category": "Productivity/Personal Tool",
+  "summary": "Sure là ứng dụng tài chính cá nhân mã nguồn mở giúp mọi người quản lý tài chính cá nhân một cách dễ dàng và minh bạch.",
+  "usecases": [
+    "Theo dõi và phân loại chi tiêu hàng ngày để quản lý ngân sách cá nhân.",
+    "Tích hợp với tài khoản ngân hàng/API để tự động đồng bộ giao dịch.",
+    "Cung cấp báo cáo và trực quan hóa tài chính để người dùng hiểu rõ tình hình tài chính."
+  ],
+  "ideas": [
+    "Thêm tính năng gợi ý tiết kiệm dựa trên xu hướng chi tiêu bằng AI.",
+    "Tích hợp với các ví tiền mã hóa (crypto wallets) để theo dõi tài sản đa dạng.",
+    "Phát triển phiên bản di động hoặc PWA để truy cập tài chính mọi lúc mọi nơi."
+  ],
+  "stars": 12118,
+  "starsToday": 159,
+  "language": "Ruby",
+  "topics": [],
+  "notePath": "notes/Productivity-Personal-Tool.md",
+  "createdAt": "2026-11-11T04:03:31.567Z"
+}

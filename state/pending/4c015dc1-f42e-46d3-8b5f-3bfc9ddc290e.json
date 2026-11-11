@@ -1,0 +1,35 @@
+{
+  "id": "4c015dc1-f42e-46d3-8b5f-3bfc9ddc290e",
+  "repo": "upscayl/upscayl",
+  "url": "https://github.com/upscayl/upscayl",
+  "category": "AI/LLM",
+  "summary": "Phần mềm mã nguồn mở tự nâng cấp ảnh sử dụng AI, hỗ trợ Linux, macOS và Windows với các mô hình như ESRGAN để tăng độ phân giải hình ảnh tự động.",
+  "usecases": [
+    "Nâng cấp độ phân giải ảnh cũ hoặc low-res cho in ấn chất lượng.",
+    "Tạo ảnh đại diện cao-resolution cho các dự án thiết kế và marketing.",
+    "Tích hợp vào quy trình tự động hóa xử lý ảnh cho các nhà phát triển phần mềm."
+  ],
+  "ideas": [
+    "Kết hợp với công cụ tạo ảnh AI (như Stable Diffusion) để upscale kết quả tạo ra.",
+    "Phát triển plugin cho các trình soạn thảo code để preview ảnh upscaled trực tiếp.",
+    "Tạo dịch vụ cloud đơn giản cho phép user upload ảnh và nhận version upscaled qua API."
+  ],
+  "stars": 52196,
+  "starsToday": 82,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "esrgan",
+    "image",
+    "upscale",
+    "electron",
+    "gigapixel",
+    "gigapixel-images",
+    "image-upscaling",
+    "topaz",
+    "upscalerimage",
+    "upscayl"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-11T04:03:31.567Z"
+}

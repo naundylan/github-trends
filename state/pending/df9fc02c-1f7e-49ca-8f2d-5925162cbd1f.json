@@ -1,0 +1,40 @@
+{
+  "id": "df9fc02c-1f7e-49ca-8f2d-5925162cbd1f",
+  "repo": "WhiteTowerAI/ohmygame",
+  "url": "https://github.com/WhiteTowerAI/ohmygame",
+  "category": "Game Dev",
+  "summary": "WhiteTowerAI/ohmygame là studio mã nguồn mở cho phép tạo game với AI, cung cấp canvas game và toàn bộ công cụ cần thiết để một người phát triển game tự tạo ra game hoàn chỉnh với AI.",
+  "usecases": [
+    "Phát triển game độc lập sử dụng AI để tạo đồ họa, âm thanh và logic chơi game.",
+    "Nghiên cứu và prototyping cơ chế game mới với hỗ trợ AI tạo nội dung tự động.",
+    "Tạo công cụ giáo dục hoặc trải nghiệm tương tác sử dụng AI tạo game trong thời gian thực."
+  ],
+  "ideas": [
+    "Kết hợp với voice AI để điều khiển/gameplay thông qua lệnh thoại.",
+    "Tạo nền tảng cộng đồng chia sẻ các model AI tạo game và assets.",
+    "Phát triển plugin cho engine phổ biến (Unity/Unreal) sử dụng khả năng AI tạo game của repo."
+  ],
+  "stars": 2051,
+  "starsToday": 170,
+  "language": "TypeScript",
+  "topics": [
+    "ai-coding",
+    "ai-coding-agent",
+    "ai-game-design",
+    "ai-game-dev",
+    "ai-game-development",
+    "ai-image",
+    "ai-video",
+    "game-ai",
+    "game-assets",
+    "game-development",
+    "gamedev",
+    "open-game",
+    "pi-agent",
+    "canvas",
+    "pi-coding-agent-theme",
+    "open-google-playground"
+  ],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-11-11T04:03:31.566Z"
+}

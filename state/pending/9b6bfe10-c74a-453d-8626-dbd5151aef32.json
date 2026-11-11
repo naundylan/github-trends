@@ -1,0 +1,29 @@
+{
+  "id": "9b6bfe10-c74a-453d-8626-dbd5151aef32",
+  "repo": "opencode-ai/opencode",
+  "url": "https://github.com/opencode-ai/opencode",
+  "category": "AI Agent/Automation",
+  "summary": "Opencode là một agent AI mạnh mẽ được thiết kế để chạy trong terminal, hỗ trợ tự động hóa viết code và phát triển phần mềm thông qua các mô hình LLM.",
+  "usecases": [
+    "Tự động hoàn thành và sinh code dựa trên yêu cầu tự nhiên",
+    "Trợ lý code trong terminal cho các dự án lớn, giảm thời gian viết code thủ công",
+    "Tích hợp với LLM (Claude, OpenAI) để thực hiện refactoring, debug và tạo tài liệu tự động"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động review và sửa lỗi pull request",
+    "Phát triển plugin cho code editor phổ biến để gọi opencode trực tiếp từ IDE",
+    "Sử dụng để training/customization các model code riêng dựa trên quy trình team"
+  ],
+  "stars": 13885,
+  "starsToday": 3,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "claude",
+    "code",
+    "llm",
+    "openai"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-11T04:03:31.567Z"
+}
