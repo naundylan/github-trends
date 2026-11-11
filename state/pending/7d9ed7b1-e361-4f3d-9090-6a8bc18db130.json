@@ -1,0 +1,34 @@
+{
+  "id": "7d9ed7b1-e361-4f3d-9090-6a8bc18db130",
+  "repo": "TheAlgorithms/Java",
+  "url": "https://github.com/TheAlgorithms/Java",
+  "category": "Developer Tool",
+  "summary": "Kho triển khai toàn diện các thuật toán và cấu trúc dữ liệu phổ biến bằng Java cho mục đích học tập và tham khảo.",
+  "usecases": [
+    "Học tập và rèn luyện kỹ thuật giải thuật cho sinh viên và lập trình viên",
+    "Chuẩn bị phỏng vấn kỹ thuật với các câu hỏi về thuật toán",
+    "Sử dụng làm thư viện tham chiếu cho logic phức tạp trong dự án"
+  ],
+  "ideas": [
+    "Xây dựng website trực quan hiển thị visualizer cho các thuật toán sắp xếp và tìm kiếm",
+    "Tạo phiên bản tương tự cho các ngôn ngữ lập trình khác để so sánh hiệu suất",
+    "Tích hợp vào hệ thống đánh giá năng lực lập trình để test khả năng code"
+  ],
+  "stars": 66975,
+  "starsToday": 108,
+  "language": "Java",
+  "topics": [
+    "java",
+    "algorithms",
+    "algorithms-datastructures",
+    "algorithm-challenges",
+    "sorting-algorithms",
+    "search",
+    "sort",
+    "hacktoberfest",
+    "algorithm",
+    "data-structures"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-11T21:46:32.431Z"
+}

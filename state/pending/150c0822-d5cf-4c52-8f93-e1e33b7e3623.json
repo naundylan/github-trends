@@ -1,0 +1,31 @@
+{
+  "id": "150c0822-d5cf-4c52-8f93-e1e33b7e3623",
+  "repo": "OpenCTI-Platform/opencti",
+  "url": "https://github.com/OpenCTI-Platform/opencti",
+  "category": "Security/Pentest",
+  "summary": "Nền tảng thông minh để thu thập, phân tích và chia sẻ Threat Intelligence (CTI), hỗ trợ OSINT và bảo mật mạng lưới với giao diện hiện đại và API.",
+  "usecases": [
+    "Tổ chức bảo mật thu thập và phân tích dữ liệu đe dọa từ nhiều nguồn OSINT để tăng cường nhận thức tình báo.",
+    "Phân tích mối đe dọa mạng lưới trong thời gian thực để phát hiện và phản ứng nhanh với các cuộc tấn công mục tiêu.",
+    "Tích hợp vào SOC/SIEM hiện có để tự động hóa enrichment và correlational analysis của các chỉ báo đe dọa."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tự động tạo báo cáo phân tích đe dọa từ dữ liệu CTI.",
+    "Xây dựng dashboard tùy chỉnh cho từng ngành nghề hiển thị mối đe dọa theo kiểu trực quan.",
+    "Tự động hóa quy trình phản ứng sự cố (incident response) bằng cách kết nối với công cụ firewall/EDR thông qua API."
+  ],
+  "stars": 10341,
+  "starsToday": 40,
+  "language": "TypeScript",
+  "topics": [
+    "cyber",
+    "cti",
+    "threat-intelligence",
+    "security",
+    "intelligence",
+    "osint",
+    "cybersecurity"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-11T21:46:32.431Z"
+}

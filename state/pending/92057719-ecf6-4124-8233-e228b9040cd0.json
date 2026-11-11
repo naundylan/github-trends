@@ -1,0 +1,35 @@
+{
+  "id": "92057719-ecf6-4124-8233-e228b9040cd0",
+  "repo": "krahets/hello-algo",
+  "url": "https://github.com/krahets/hello-algo",
+  "category": "Documentation/Learning Resource",
+  "summary": "Hello Algor là giáo trình thuật toán tương tác với hình ảnh động và chạy một-click, hỗ trợ nhiều ngôn ngữ để học và thực hành cấu trúc dữ liệu & thuật toán.",
+  "usecases": [
+    "Học sinh sử dụng để hình dung trực quan các thuật toán cho kỳ thi tuyển dụng.",
+    "Giáo viên đưa vào bài giảng trực quan cho sinh viên.",
+    "Developer review logic thuật toán nhanh chóng bằng nhiều ngôn ngữ."
+  ],
+  "ideas": [
+    "Tạo ứng dụng di động tương tác từ nội dung giáo trình này.",
+    "Thêm tính năng chạy test case tự động cho từng thuật toán.",
+    "Phát triển bản mở rộng để so sánh hiệu suất giữa các ngôn ngữ lập trình."
+  ],
+  "stars": 132217,
+  "starsToday": 77,
+  "language": "Python",
+  "topics": [
+    "algorithms",
+    "data-structures",
+    "data-structures-and-algorithms",
+    "dsa",
+    "leetcode",
+    "algo",
+    "algorithm",
+    "data-structure",
+    "book",
+    "education",
+    "programming"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-11-11T21:46:32.431Z"
+}

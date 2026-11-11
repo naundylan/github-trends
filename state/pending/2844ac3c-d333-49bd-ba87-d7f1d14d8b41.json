@@ -1,0 +1,31 @@
+{
+  "id": "2844ac3c-d333-49bd-ba87-d7f1d14d8b41",
+  "repo": "devaccuracy/ledgerforge",
+  "url": "https://github.com/devaccuracy/ledgerforge",
+  "category": "AI Agent/Automation",
+  "summary": "Ledger Forge là mã nguồn mở double-entry ledger cho chuyển tiền AI-native, cung cấp tiền tỉ chính xác, chuỗi audit có thể kiểm chứng, giới hạn chi spending enforce trên server và phê duyệt cho AI agents, phù hợp cho ví, thanh toán, marketplace và billing.",
+  "usecases": [
+    "Xử lý thanh toán do AI agent thực hiện trong các nền tảng fintech.",
+    "Quản lý accounting kép đôi cho marketplace với giới hạn chi spending tự động.",
+    "Cung cấp đường dẫn audit có thể kiểm chứng cho ví hoặc ứng dụng crypto."
+  ],
+  "ideas": [
+    "Kết hợp với AI trading bots để quản lý kho tài chính tự động.",
+    "Xây dựng router thanh toán phi tập trung sử dụng Ledger Forge làm ledger cốt lõi.",
+    "Tạo 'sandbox chi tiêu' cho AI agents trong quy trình doanh nghiệp."
+  ],
+  "stars": 218,
+  "starsToday": 69,
+  "language": "Go",
+  "topics": [
+    "ai-tools",
+    "fintech",
+    "ledger",
+    "billing",
+    "double-entry-accounting",
+    "payout",
+    "wallet"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-11T21:46:32.431Z"
+}

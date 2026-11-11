@@ -1,0 +1,39 @@
+{
+  "id": "ff8d13bb-a7cf-40a8-9677-0c0242134a20",
+  "repo": "PenglongHuang/chinese-novelist-skill",
+  "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
+  "category": "AI/LLM",
+  "summary": "Chinese Novelist Skill là công cụ AI tạo tiểu thuyết sinh ra 10-50 chương truyện Trung Quốc hoàn chỉnh, tích hợp đa tầng hỏi-đáp, ghi nhớ tác phong, cờ bẫy suspense và kiểm tự động, phù hợp cho mạng lướt web novels và sáng tạo nội dung LLM.",
+  "usecases": [
+    "Tạo các chương web novel cho tác giả sử dụng hỗ trợ AI.",
+    "Prototyping cấu trúc câu chuyện và plot cho nhà thiết kế game và viết sáng tạo.",
+    "Tự động sản xuất chương cho các nền tảng nội dung cần lượng lớn tiểu thuyết web Trung Quốc."
+  ],
+  "ideas": [
+    "Xây dựng hệ thống đa-agent kể chuyện nơi các LLM khác nhau xử lý plot, hội thoại và biên tập.",
+    "Phát triển phiên bản địa hóa cho các ngôn ngữ khác (Việt, Hàn) với các trope văn hóa cụ thể.",
+    "Kết hợp với nền tảng fiction tương tác nơi lựa chọn độc giả sinh ra chương tiếp theo động tà."
+  ],
+  "stars": 4793,
+  "starsToday": 67,
+  "language": "JavaScript",
+  "topics": [
+    "agent",
+    "ai-fiction",
+    "ai-novel",
+    "ai-writing",
+    "chinese",
+    "chinese-novel",
+    "claude",
+    "claude-code",
+    "creative-writing",
+    "llm",
+    "novel-writing",
+    "prompt-engineering",
+    "skill",
+    "webnovel",
+    "writing-assistant"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-11T21:46:32.431Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "81a724a3-7503-4778-94a5-87be85822f95",
+  "repo": "unstablebuild/rune",
+  "url": "https://github.com/unstablebuild/rune",
+  "category": "Developer Tool",
+  "summary": "IDE và multiplexer terminal GPU-accelerated viết bằng Go, cung cấp môi trường làm việc văn bản nhanh và phong phú cho cả lập trình thủ công và tự động.",
+  "usecases": [
+    "Lập trình viên sử dụng làm terminal thay thế nhanh với khả năng hiển thị GPU加速 cho visualization phức tạp.",
+    "Tự động hóa quy trình develop-agent sử dụng môi trường CLI phong phú cho các tác vụ orchestration AI.",
+    "Giáo dục và học tập lập trình hệ thống với môi trường text-based có performance cao."
+  ],
+  "ideas": [
+    "Kết hợp với AI coding agents để chạy code snippets trực tiếp trong terminal với GPU加速 cho các tác vụ compute-heavy.",
+    "Xây dựng workspace đa dự án tùy chỉnh cho từng ngôn ngữ/framework với terminal multiplexer riêng.",
+    "Sử dụng làm nền tảng cho các IDE dựa trên terminal trong các môi trường đám mây (cloud IDE) với performance GPU."
+  ],
+  "stars": 1748,
+  "starsToday": 38,
+  "language": "Go",
+  "topics": [
+    "go",
+    "golang",
+    "ide",
+    "rune",
+    "text-editor",
+    "agent-orchestration",
+    "ai",
+    "cli",
+    "coding-agents",
+    "developer-tool",
+    "devtools",
+    "terminal-multiplexer",
+    "tmux",
+    "tui",
+    "workspace-manager"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-11T21:46:32.431Z"
+}

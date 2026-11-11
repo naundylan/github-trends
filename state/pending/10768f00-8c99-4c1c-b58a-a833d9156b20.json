@@ -1,0 +1,44 @@
+{
+  "id": "10768f00-8c99-4c1c-b58a-a833d9156b20",
+  "repo": "Tencent/LoopForge",
+  "url": "https://github.com/Tencent/LoopForge",
+  "category": "AI Agent/Automation",
+  "summary": "LoopForge là nền tảng tự-hosted điều phối quy trình phát triển bằng AI, kết hợp CodeBuddy, Codex và Claude Code với scripts và cổng phê duyệt con người, hỗ trợ workflow cục bộ cho coding assistants.",
+  "usecases": [
+    "Tự động hóa review code và sửa lỗi bằng nhiều AI agent cùng lúc.",
+    "Cung cấp môi trường self-hosted an toàn cho doanh nghiệp kiểm soát dữ liệu code khi dùng AI coding assistants.",
+    "Tích hợp human-in-the-loop để kiểm soát chất lượng tại các bước then chốt của SDLC."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD pipelines để tự động test và deploy code do AI tạo ra.",
+    "Phát triển plugin VS Code giao tiếp trực tiếp với LoopForge workflows.",
+    "Tạo dashboard giám sát hiệu suất và chi phí của AI agent trong dự án lớn."
+  ],
+  "stars": 310,
+  "starsToday": 76,
+  "language": "Go",
+  "topics": [
+    "agent-orchestration",
+    "agentic-workflow",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "code-review",
+    "codebuddy",
+    "codex",
+    "coding-agents",
+    "cursor",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "multi-agent",
+    "sdlc",
+    "self-hosted",
+    "sop",
+    "workflow-automation",
+    "workflow-engine",
+    "human-on-the-loop"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-11T21:46:32.431Z"
+}
