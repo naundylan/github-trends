@@ -1,0 +1,43 @@
+{
+  "id": "53bb1b23-8f98-4bdc-9536-d397ee2dd3b8",
+  "repo": "huggingface/transformers",
+  "url": "https://github.com/huggingface/transformers",
+  "category": "AI/LLM",
+  "summary": "🤗 Transformers: framework cho các mô hình ML state-of-the-art trong text, vision, audio và multimodal, hỗ trợ inference và training.",
+  "usecases": [
+    "Tiền xử lý và fine-tuning mô hình NLP cho ứng dụng chatbot.",
+    "Dịch tự động và trích xuất thông tin từ tài liệu lớn.",
+    "Phát triển mô hình nhận diện giọng nói hoặc xử lý audio."
+  ],
+  "ideas": [
+    "Tích hợp vào extension trình duyệt để cung cấp trợ lý AI trên mọi trang web.",
+    "Xây dựng hệ thống phân tích cảm xúc thời thực cho dữ liệu truyền thông xã hội.",
+    "Kết hợp với đồ họa để tạo nội hình từ mô tả văn bản qua API."
+  ],
+  "stars": 168901,
+  "starsToday": 98,
+  "language": "Python",
+  "topics": [
+    "nlp",
+    "natural-language-processing",
+    "pytorch",
+    "pytorch-transformers",
+    "transformer",
+    "model-hub",
+    "pretrained-models",
+    "speech-recognition",
+    "hacktoberfest",
+    "python",
+    "machine-learning",
+    "deep-learning",
+    "audio",
+    "deepseek",
+    "gemma",
+    "glm",
+    "llm",
+    "qwen",
+    "vlm"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-12T14:32:27.007Z"
+}

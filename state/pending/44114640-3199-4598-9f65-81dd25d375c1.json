@@ -1,0 +1,23 @@
+{
+  "id": "44114640-3199-4598-9f65-81dd25d375c1",
+  "repo": "openai/whisper",
+  "url": "https://github.com/openai/whisper",
+  "category": "AI/LLM",
+  "summary": "Whisper là mô hình nhận dạng giọng nói mã nguồn mở sử dụng siêu dữ liệu yếu trên quy mô lớn, cho khả năng transcribe chính xác tiếng Việt và đa ngôn ngữ.",
+  "usecases": [
+    "Transcribe meetings and lectures into text",
+    "Generate subtitles for videos and media",
+    "Build voice-controlled apps and assistants"
+  ],
+  "ideas": [
+    "Create real-time multilingual transcription platform",
+    "Combine with text-to-speech for voice translation",
+    "Deploy on-device for privacy-focused voice commands"
+  ],
+  "stars": 112566,
+  "starsToday": 118,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-12T14:32:27.007Z"
+}

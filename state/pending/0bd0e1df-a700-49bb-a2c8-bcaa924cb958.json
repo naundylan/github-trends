@@ -1,0 +1,31 @@
+{
+  "id": "0bd0e1df-a700-49bb-a2c8-bcaa924cb958",
+  "repo": "CopilotKit/OpenBot",
+  "url": "https://github.com/CopilotKit/OpenBot",
+  "category": "AI Agent/Automation",
+  "summary": "Dự án cung cấp các đồng nghiệp AI mở source, mỗi người được cấp một không gian làm việc riêng gồm trình duyệt, file và các công cụ, với mọi hành động được định trước và ghi lại chi tiết. Công nghệ này giúp dễ dàng tích hợp bất kỳ agent AG-UI nào để thực hiện các tác vụ tự động hóa thông minh.",
+  "usecases": [
+    "Tự động hóa các quy trình làm việc nội bộ dựa trên file và tương tác qua trình duyệt của các nhân viên hoặc hệ thống.",
+    "Triển khai các AI agent độc lập thực hiện các tác vụ dữ liệu, báo cáo hoặc quản lý dự án mà không cần can thiệp thủ công.",
+    "Phát triển và test các giao diện agent (AG-UI) cùng cơ chế kiểm soát hành động (agent-governance) cho các doanh nghiệp."
+  ],
+  "ideas": [
+    "Tích hợp với các hệ thống CRM hoặc ERP để AI agent tự động cập nhật thông tin khách hàng và tạo báo cáo qua trình duyệt.",
+    "Ứng dụng trong giáo dục để tạo ra các gia sư AI cá nhân, có thể truy cập file học liệu và tìm kiếm thông tin trên web một cách tự động.",
+    "Kết hợp với các công cụ IoT để các agent có thể điều khiển và giám sát các thiết bị thông minh trong không gian làm việc."
+  ],
+  "stars": 11291,
+  "starsToday": 291,
+  "language": "TypeScript",
+  "topics": [
+    "ag-ui",
+    "agent-governance",
+    "ai-agents",
+    "browser-automation",
+    "copilotkit",
+    "generative-ui",
+    "mcp"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-12T14:32:27.007Z"
+}

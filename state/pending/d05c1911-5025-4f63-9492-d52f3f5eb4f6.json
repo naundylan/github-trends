@@ -1,0 +1,23 @@
+{
+  "id": "d05c1911-5025-4f63-9492-d52f3f5eb4f6",
+  "repo": "pookjw/HermesEnabler",
+  "url": "https://github.com/pookjw/HermesEnabler",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Công cụ giúp kích hoạt và sử dụng các mặt đồng hồ Hermès cao cấp trên toàn bộ các thiết bị Apple Watch, vượt qua các giới hạn phần cứng hoặc bản quyền thông thường. Nhờ đó, người dùng có thể trải nghiệm giao diện sang trọng, tinh tế của thương hiệu Hermès trên đồng hồ của mình.",
+  "usecases": [
+    "Tùy biến mặt đồng hồ Apple Watch để sử dụng các mẫu mặt Hermès độc quyền mà không cần mua các phiên bản đồng hồ đặc biệt.",
+    "Trải nghiệm các tính năng hiển thị và giao diện cao cấp của Hermès trên các thiết bị Apple Watch đã qua sử dụng hoặc khác model.",
+    "Hỗ trợ cộng đồng jailbreak hoặc phát triển phần mềm iOS/watchOS trong việc test và tích hợp các bộ mặt đồng hồ mới."
+  ],
+  "ideas": [
+    "Kết hợp với các công cụ cá nhân hóa mặt đồng hồ khác để tạo ra bộ sưu tập các mặt đồng hồ cao cấp kết hợp giữa nhiều thương hiệu luxury.",
+    "Ứng dụng trong việc thiết kế giao diện người dùng (UI) mockup cho các đồng hồ thông minh, test tương thích trên nhiều thiết bị Apple Watch khác nhau.",
+    "Phát triển thành module tích hợp cho các ứng dụng third-party giúp chuyển đổi và áp dụng các bộ mặt đồng hồ đặc trưng của các thương hiệu hàng đầu khác."
+  ],
+  "stars": 1393,
+  "starsToday": 390,
+  "language": "Objective-C",
+  "topics": [],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-11-12T14:32:27.007Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "e2dad303-74d1-4f43-a97b-1835bbd6c2d5",
+  "repo": "supabase/supabase",
+  "url": "https://github.com/supabase/supabase",
+  "category": "Database",
+  "summary": "Nền tảng phát triển Postgres cung cấp database riêng để xây dựng ứng dụng web, mobile và AI với tính năng realtime, authentication và pgvector.",
+  "usecases": [
+    "Xây dựng ứng dụng thời gian thực với cơ sở dữ liệu Postgres và websockets.",
+    "Triển khai authentication và API endpoints nhanh chóng cho web và mobile.",
+    "Sử dụng pgvector và embeddings cho các ứng dụng AI và tìm kiếm vector."
+  ],
+  "ideas": [
+    "Kết hợp với AI agents để tự động hóa truy vấn database và xử lý dữ liệu vector.",
+    "Sử dụng làm backend cho mobile apps với realtime sync và offline support.",
+    "Phát triển platform học tập AI với pgvector cho vector similarity search."
+  ],
+  "stars": 114917,
+  "starsToday": 145,
+  "language": "TypeScript",
+  "topics": [
+    "firebase",
+    "supabase",
+    "realtime",
+    "postgrest",
+    "postgres",
+    "postgresql",
+    "websockets",
+    "deno",
+    "embeddings",
+    "vectors",
+    "alternative",
+    "auth",
+    "database",
+    "example",
+    "nextjs",
+    "oauth2",
+    "pgvector",
+    "postgis",
+    "ai"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-11-12T14:32:27.007Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "172f2360-7df2-4aaa-bfa5-c34b3693b01e",
+  "repo": "ggml-org/llama.cpp",
+  "url": "https://github.com/ggml-org/llama.cpp",
+  "category": "AI/LLM",
+  "summary": "Thư viện C/C++ tối ưu hóa inference các mô hình LLM lớn, cho phép chạy các model ngôn ngữ trên thiết bị cá nhân mà không phụ thuộc vào phần cứng GPU mạnh mẽ.",
+  "usecases": [
+    "Chạy chatbot hoặc trợ lý AI trên laptop/PC tiêu chuẩn không cần card đồ họa.",
+    "Tích hợp khả năng xử lý ngôn ngữ tự nhiên vào các ứng dụng di động hoặc nhúng (embedded systems).",
+    "Nghiên cứu và triển khai các mô hình ngôn ngữ trên các thiết bị có tài nguyên tính toán hạn chế."
+  ],
+  "ideas": [
+    "Phát triển một hệ thống AI phi mạng hoàn toàn chạy trên thiết bị di động (on-device AI).",
+    "Kết hợp với nhận diện giọng nói để tạo ra hệ thống điều khiển bằng giọng nói không cần kết nối internet.",
+    "Sử dụng trong các hệ thống tự động hóa báo cáo hoặc xử lý văn bản cho các ngành y tế/pháp lý tại các vùng có kết nối hạn chế."
+  ],
+  "stars": 134314,
+  "starsToday": 162,
+  "language": "C++",
+  "topics": [
+    "ggml"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-12T14:32:27.007Z"
+}

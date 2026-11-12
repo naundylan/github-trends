@@ -1,0 +1,33 @@
+{
+  "id": "57de1c7d-a505-49ef-bc69-6dc2d942e95c",
+  "repo": "nodejs/node",
+  "url": "https://github.com/nodejs/node",
+  "category": "Developer Tool",
+  "summary": "JavaScript runtime để thực thi code Node.js trên các nền tảng Linux, macOS và Windows, là nền tảng cho các ứng dụng backend và CLI.",
+  "usecases": [
+    "Chạy các ứng dụng server-side và API development với JavaScript.",
+    "Phát triển các công cụ dòng lệnh (CLI) và scripts tự động hóa.",
+    "Hỗ trợ development full-stack với cùng một ngôn ngữ JavaScript."
+  ],
+  "ideas": [
+    "Tích hợp với các framework AI chạy trên Node.js để tạo các AI agent có khả năng thực thi code.",
+    "Sử dụng để build các desktop application với Electron hoặc Tauri.",
+    "Phát triển hệ thống microservices lightweight sử dụng Node.js runtime."
+  ],
+  "stars": 123521,
+  "starsToday": 133,
+  "language": "JavaScript",
+  "topics": [
+    "nodejs",
+    "javascript",
+    "node",
+    "js",
+    "runtime",
+    "mit",
+    "linux",
+    "macos",
+    "windows"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-12T14:32:27.007Z"
+}

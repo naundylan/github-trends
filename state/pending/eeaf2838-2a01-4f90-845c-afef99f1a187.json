@@ -1,0 +1,28 @@
+{
+  "id": "eeaf2838-2a01-4f90-845c-afef99f1a187",
+  "repo": "astral-sh/uv",
+  "url": "https://github.com/astral-sh/uv",
+  "category": "Package Manager",
+  "summary": "uv là trình quản lý gói và dự án Python viết bằng Rust, cung cấp tốc độ thực thi nhanh gấp nhiều lần pip và poetry.",
+  "usecases": [
+    "Manage Python project dependencies faster than pip",
+    "Create and isolate project environments quickly",
+    "Automate package installation in CI/CD pipelines"
+  ],
+  "ideas": [
+    "Replace pip in personal workflows for faster package installs",
+    "Build a project scaffolding tool using uv's speed",
+    "Integrate uv as a backend service for rapid Python environment provisioning"
+  ],
+  "stars": 91943,
+  "starsToday": 99,
+  "language": "Rust",
+  "topics": [
+    "packaging",
+    "python",
+    "resolver",
+    "uv"
+  ],
+  "notePath": "notes/Package-Manager.md",
+  "createdAt": "2026-11-12T14:32:27.007Z"
+}
