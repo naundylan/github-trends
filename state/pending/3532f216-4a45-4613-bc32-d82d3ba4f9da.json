@@ -1,0 +1,44 @@
+{
+  "id": "3532f216-4a45-4613-bc32-d82d3ba4f9da",
+  "repo": "soxoj/maigret",
+  "url": "https://github.com/soxoj/maigret",
+  "category": "Security/Pentest",
+  "summary": "Thu thập thông tin dossier cá nhân theo username từ hơn 6K website, dùng cho OSINT và kiểm tra an ninh mạng.",
+  "usecases": [
+    "Thu thập footprint cá nhân cho mục đích an ninh mạng và kiểm tra rủi ro.",
+    "Giúp tìm kiếm tài khoản liên kết và thông tin chung cho một username trên nhiều nền tảng.",
+    "Dùng cho investigators và bảo mật để theo dõi hoạt động đáng ngờ trên internet."
+  ],
+  "ideas": [
+    "Tích hợp vào các công cụ phishing detection và social engineering assessment.",
+    "Phát triển báo cáo tự động cho doanh nghiệp về tác động thương hiệu từ username bị lạm dụng.",
+    "Kết hợp với AI để phân tích xu hướng và phát hiện các tài khoản gian lận liên quan."
+  ],
+  "stars": 40419,
+  "starsToday": 260,
+  "language": "Python",
+  "topics": [
+    "osint",
+    "social-network",
+    "identification",
+    "socmint",
+    "sherlock",
+    "investigation",
+    "python",
+    "python3",
+    "open-source",
+    "cybersecurity",
+    "scraping",
+    "osint-python",
+    "redteam",
+    "osint-framework",
+    "cli",
+    "reconnaissance",
+    "infosec",
+    "pentesting",
+    "information-gathering",
+    "username"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-12T05:10:51.414Z"
+}

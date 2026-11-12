@@ -1,0 +1,31 @@
+{
+  "id": "dcf695aa-69ff-4d96-812c-3ffe8d9c4d47",
+  "repo": "LibreSpark/LibreTV",
+  "url": "https://github.com/LibreSpark/LibreTV",
+  "category": "Boilerplate/Starter Template",
+  "summary": "Dự án mẫu giúp xây dựng trang web phim/TV chỉ trong 1 phút, hỗ trợ triển khai qua Docker và Next.js",
+  "usecases": [
+    "triển khai nhanh trang web phim cá nhân hoặc thương mại",
+    "học tập và tùy chỉnh Next.js cho ứng dụng truyền thông",
+    "sử dụng làm nền tảng cho các dự án streaming nội bộ"
+  ],
+  "ideas": [
+    "kết hợp với CMS headless để quản lý nội dung phim",
+    "mở rộng thành nền tảng streaming đa nền tảng với tích hợp API",
+    "tạo theme/plugin cho Next.js dựa trên template này"
+  ],
+  "stars": 24501,
+  "starsToday": 198,
+  "language": "TypeScript",
+  "topics": [
+    "css",
+    "html",
+    "movie-web-app",
+    "movies-and-cinemas",
+    "tv",
+    "film",
+    "nextjs"
+  ],
+  "notePath": "notes/Boilerplate-Starter-Template.md",
+  "createdAt": "2026-11-12T05:10:51.414Z"
+}

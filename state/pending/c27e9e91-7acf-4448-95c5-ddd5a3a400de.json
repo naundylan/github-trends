@@ -1,0 +1,37 @@
+{
+  "id": "c27e9e91-7acf-4448-95c5-ddd5a3a400de",
+  "repo": "claration/impactor",
+  "url": "https://github.com/claration/impactor",
+  "category": "Developer Tool",
+  "summary": "Phần mềm sideloading cross-platform cho iOS/iPadOS/tvOS, cho phép cài đặt IPA không cần jailbreak và hỗ trợ ký chữ ký cho ứng dụng bên ngoài App Store.",
+  "usecases": [
+    "Cài đặt ứng dụng IPA trên iPhone/iPad qua máy tính không cần jailbreak",
+    "Quản lý và ký chữ ký cho ứng dụng phát triển/test bên ngoài App Store",
+    "Deploy ứng dụng iOS nhanh chóng trong quy trình CI/CD hoặc phát triển"
+  ],
+  "ideas": [
+    "Tích hợp tự động hóa ký chữ ký với các dịch vụ trusted signer để giảm thao tác thủ công",
+    "Phát triển plugin cho IDE (VS Code, Xcode) để deploy IPA trực tiếp từ môi trường phát triển",
+    "Tạo dashboard web quản lý nhiều phiên bản IPA và trạng thái ký tự cho các dự án khác nhau"
+  ],
+  "stars": 3826,
+  "starsToday": 22,
+  "language": "Rust",
+  "topics": [
+    "altstore",
+    "ios",
+    "ipa",
+    "ipados",
+    "livecontainer",
+    "sideload",
+    "sideloading",
+    "sideloadly",
+    "sidestore",
+    "signature",
+    "signer",
+    "signing",
+    "sideloader"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-12T05:10:51.414Z"
+}

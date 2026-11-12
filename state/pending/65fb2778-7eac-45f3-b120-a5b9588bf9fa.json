@@ -1,0 +1,28 @@
+{
+  "id": "65fb2778-7eac-45f3-b120-a5b9588bf9fa",
+  "repo": "NapNeko/NapCatQQ",
+  "url": "https://github.com/NapNeko/NapCatQQ",
+  "category": "Developer Tool",
+  "summary": "NapCatQQ là một framework hiện đại cho protocol OneBot, giúp phát triển dễ dàng các bot QQ với xử lý tin nhắn và adapter mượt mà.",
+  "usecases": [
+    "Xây dựng bot QQ nhóm/tin nhắn riêng với giao thức OneBot",
+    "Tạo adapter OneBot tùy chỉnh cho các triển khai server khác",
+    "Prototyping nhanh plugin bot và tác vụ tự động hóa cho QQ"
+  ],
+  "ideas": [
+    "Kết hợp dịch vụ AI bên ngoài để trả lời thông minh cho bot QQ",
+    "Phát triển dashboard web quản lý cấu hình bot",
+    "Tạo adapter đa giao thức kết nối QQ với Discord hoặc Telegram"
+  ],
+  "stars": 12723,
+  "starsToday": 129,
+  "language": "",
+  "topics": [
+    "onebot11",
+    "napcat",
+    "ncqq",
+    "onebot"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-12T05:10:51.414Z"
+}

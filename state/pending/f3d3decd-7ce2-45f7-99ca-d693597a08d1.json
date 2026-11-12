@@ -1,0 +1,23 @@
+{
+  "id": "f3d3decd-7ce2-45f7-99ca-d693597a08d1",
+  "repo": "GoogleChrome/modern-web-guidance-src",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+  "category": "Documentation/Learning Resource",
+  "summary": "Nguồn tài liệu hướng dẫn các phương pháp phát triển web hiện đại do Google Chrome cung cấp",
+  "usecases": [
+    "tìm hiểu best practices phát triển web hiện đại",
+    "sử dụng làm tài liệu tham khảo cho dự án TypeScript",
+    "áp dụng vào đào tạo hoặc demo kỹ thuật về web performance"
+  ],
+  "ideas": [
+    "sử dụng làm bài tập thực hành cho khóa học web development",
+    "kết hợp với Chromium DevTools để demo hiệu năng",
+    "phát triển extension hoặc tool hỗ trợ dựa trên hướng dẫn"
+  ],
+  "stars": 1931,
+  "starsToday": 159,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-11-12T05:10:51.414Z"
+}

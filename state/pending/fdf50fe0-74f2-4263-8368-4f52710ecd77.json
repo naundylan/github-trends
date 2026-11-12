@@ -1,0 +1,42 @@
+{
+  "id": "fdf50fe0-74f2-4263-8368-4f52710ecd77",
+  "repo": "saleor/saleor",
+  "url": "https://github.com/saleor/saleor",
+  "category": "API/GraphQL",
+  "summary": "Saleor là nền tảng thương mại điện tử headless cao hiệu suất, cung cấp API GraphQL để xây dựng trải nghiệm mua sắm linh hoạt và khả năng mở rộng.",
+  "usecases": [
+    "Xây dựng cửa hàng trực tuyến tùy chỉnh với quản lý giỏ hàng, thanh toán và đơn hàng qua API.",
+    "Triển khai mô hình đa kênh (multi-channel) bán hàng cho doanh nghiệp với cùng một backend.",
+    "Tích hợp hệ thống logistics và quản lý tồn kho vào ứng dụng thương mại."
+  ],
+  "ideas": [
+    "Sử dụng AI để đề xuất sản phẩm cá nhân hóa dựa trên dữ liệu người dùng.",
+    "Phát triển ứng dụng mạng lưới xã hội (social commerce) dựa trên Saleor.",
+    "Mở rộng Saleor với plugin quản lý phiếu giảm giá và chương trình thành viên."
+  ],
+  "stars": 23552,
+  "starsToday": 24,
+  "language": "Python",
+  "topics": [
+    "python",
+    "store",
+    "commerce",
+    "shop",
+    "ecommerce",
+    "cart",
+    "graphql",
+    "headless",
+    "headless-commerce",
+    "multichannel",
+    "shopping-cart",
+    "composable",
+    "oms",
+    "pim",
+    "checkout",
+    "payments",
+    "order-management",
+    "e-commerce"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-11-12T05:10:51.414Z"
+}
