@@ -1,0 +1,28 @@
+{
+  "id": "9bd88654-a67c-414f-98f8-f4fb011a4748",
+  "repo": "NapNeko/NapCatQQ",
+  "url": "https://github.com/NapNeko/NapCatQQ",
+  "category": "AI Agent/Automation",
+  "summary": "Framework hiện đại cho giao thức OneBot/QQ, hỗ trợ phát triển và triển khai các bot tự động hóa trên các nền tảng chat.",
+  "usecases": [
+    "Tự động hóa tương tác và trả lời trên QQ/QOneBot cho các nhóm trò chơi và cộng đồng.",
+    "Kết nối dịch vụ bên ngoài với QQ thông qua webhook và protocol OneBot.",
+    "Phát triển bot có khả năng xử lý lệnh phức tạp và quản lý trạng thái hội话."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tạo bot chat thông minh tự động hóa tác vụ.",
+    "Xây dựng marketplace plugin bot phân phối qua giao thức OneBot.",
+    "Sử dụng cho tự động hóa quản lý nhóm và thu thập dữ liệu định lượng."
+  ],
+  "stars": 12763,
+  "starsToday": 103,
+  "language": "",
+  "topics": [
+    "onebot11",
+    "napcat",
+    "ncqq",
+    "onebot"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-12T21:45:54.174Z"
+}

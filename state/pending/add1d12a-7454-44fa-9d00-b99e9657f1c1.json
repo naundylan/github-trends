@@ -1,0 +1,31 @@
+{
+  "id": "add1d12a-7454-44fa-9d00-b99e9657f1c1",
+  "repo": "pallets/flask",
+  "url": "https://github.com/pallets/flask",
+  "category": "Web Framework",
+  "summary": "Flask là một micro framework Python nhẹ nhàng để xây dựng ứng dụng web. Nó nổi bật với cấu trúc đơn giản và khả năng mở rộng qua các extension.",
+  "usecases": [
+    "Xây dựng API RESTful cho ứng dụng di động hoặc web.",
+    "Phát triển nhanh prototype web và microservice với cấu trúc гибкий.",
+    "Tạo blog cá nhân hoặc trang web tĩnh sử dụng Jinja2 templates."
+  ],
+  "ideas": [
+    "Kết hợp Flask với Docker và CI/CD để tạo boilerplate web app deploy tự động.",
+    "Sử dụng Flask làm nền tảng cho AI agent, cung cấp endpoints gọi LLM.",
+    "Xây dựng hệ thống plugin động cho phép người dùng thêm chức năng qua extension."
+  ],
+  "stars": 75109,
+  "starsToday": 61,
+  "language": "Python",
+  "topics": [
+    "python",
+    "flask",
+    "wsgi",
+    "web-framework",
+    "werkzeug",
+    "jinja",
+    "pallets"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-11-12T21:45:54.174Z"
+}

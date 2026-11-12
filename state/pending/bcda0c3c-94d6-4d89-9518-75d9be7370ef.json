@@ -1,0 +1,42 @@
+{
+  "id": "bcda0c3c-94d6-4d89-9518-75d9be7370ef",
+  "repo": "NVIDIA/SkillEvaluator",
+  "url": "https://github.com/NVIDIA/SkillEvaluator",
+  "category": "AI Agent/Automation",
+  "summary": "Framework đa tầng đánh giá kỹ năng AI agent với các cổng chất lượng, phát dữ liệu đánh giá tổng hợp và đánh giá live agent.",
+  "usecases": [
+    "Đánh giá và so sánh hiệu suất của các AI agent trong các tác vụ tự động.",
+    "Tạo tiêu chí bảo mật và chất lượng cho plugin-agent.",
+    "Tích hợp vào CI/CD để benchmark tự động cho dự án AI."
+  ],
+  "ideas": [
+    "Sử dụng kết quả đánh giá để tinh chỉnh prompt và fine-tuning model.",
+    "Xây dựng dashboard trực quan theo dõi tiến bộ kỹ năng agent qua thời gian.",
+    "Tự động tạo bài test case dựa trên kết quả phát hiện semantic overlap."
+  ],
+  "stars": 829,
+  "starsToday": 83,
+  "language": "Python",
+  "topics": [
+    "agentic-ai",
+    "evaluation",
+    "agent-evaluation",
+    "agent-security",
+    "skills",
+    "agent-skills",
+    "benchmark",
+    "claude-code",
+    "codex",
+    "evaluate",
+    "security-scanner",
+    "skill-eval",
+    "skill-evals",
+    "skill-evaluation",
+    "skill-evaluator",
+    "agent-plugins",
+    "plugin",
+    "plugin-evaluation"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-12T21:45:54.174Z"
+}

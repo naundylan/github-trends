@@ -1,0 +1,23 @@
+{
+  "id": "f7731aed-bae8-47ea-bf8d-d9b315ddddae",
+  "repo": "GoogleChrome/modern-web-guidance-src",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+  "category": "Developer Tool",
+  "summary": "một dự án cung cấp hướng dẫn thực hành web hiện đại để giúp coding agent tuân thủ các best practice mới nhất",
+  "usecases": [
+    "tích hợp vào quy trình development để validate code theo chuẩn web",
+    "hỗ trợ coding agent tự động tạo code tuân thủ best practice",
+    "dùng làm reference guideline cho team development"
+  ],
+  "ideas": [
+    "phát triển plugin CI/CD tự động kiểm tra compliance web",
+    "kết hợp với các linter để enforce guidelines tùy chỉnh",
+    "sử dụng cho audits bảo mật và performance web"
+  ],
+  "stars": 2757,
+  "starsToday": 799,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-12T21:45:54.174Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ae2b0d8f-f1dd-4020-bd94-afa0abdfd087",
+  "repo": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+  "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+  "category": "Cross-platform Mobile",
+  "summary": "Ứng dụng giao diện đồ họa đa nền tảng viết bằng Rust sử dụng ADB để bloatware Android không cần root, giúp cải thiện quyền riêng tư, bảo mật và thời lượng pin cho thiết bị.",
+  "usecases": [
+    "Loại bỏ ứng dụng hệ thống bloatware trên Android không cần root.",
+    "Cải thiện hiệu suất và thời lượng pin thiết bị Android.",
+    "Tăng cường quyền riêng tư bằng cách vô hiệu hóa các ứng dụng theo dõi."
+  ],
+  "ideas": [
+    "Tích hợp vào các ROM tùy chỉnh để tự động debloat khi cài đặt.",
+    "Phát triển plugin cho các quản lý thiết bị MDM doanh nghiệp.",
+    "Tạo dashboard trực quan theo dõi hiệu suất hệ thống sau khi debloat."
+  ],
+  "stars": 10028,
+  "starsToday": 53,
+  "language": "Rust",
+  "topics": [
+    "adb",
+    "android",
+    "bloatware-removal",
+    "debloat",
+    "debloater",
+    "debloating",
+    "privacy",
+    "bloatware-list"
+  ],
+  "notePath": "notes/Cross-platform-Mobile.md",
+  "createdAt": "2026-11-12T21:45:54.174Z"
+}

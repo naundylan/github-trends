@@ -1,0 +1,28 @@
+{
+  "id": "8f05eae3-148a-4a60-8089-f592bbedad3a",
+  "repo": "expressjs/express",
+  "url": "https://github.com/expressjs/express",
+  "category": "Web Framework",
+  "summary": "Khung web nhanh, không thiên vị và tối thiểu cho Node.js, được sử dụng để xây dựng ứng dụng web và API.",
+  "usecases": [
+    "Xây dựng API RESTful cho ứng dụng di động và web.",
+    "Tạo server web nhanh cho dự án nhỏ đến trung bình.",
+    "Phát triển ứng dụng Node.js với cấu hình linh hoạt và ít opinionated."
+  ],
+  "ideas": [
+    "Kết hợp với TypeScript và Express Generator để scaffold dự án nhanh.",
+    "Sử dụng làm nền tảng cho microservices dựa trên Node.",
+    "Tích hợp với các middleware bảo mật như Helmet và CORS cho production."
+  ],
+  "stars": 69675,
+  "starsToday": 51,
+  "language": "JavaScript",
+  "topics": [
+    "javascript",
+    "nodejs",
+    "express",
+    "server"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-11-12T21:45:54.174Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "df23341d-4e1c-4848-94b5-2cf2b63e8d86",
+  "repo": "RocketChat/Rocket.Chat",
+  "url": "https://github.com/RocketChat/Rocket.Chat",
+  "category": "Web Frontend",
+  "summary": "Rocket.Chat là nền tảng giao tiếp thời gian thực mã nguồn mở an toàn. Nó cung cấp chat, webrtc và collaboration cho các mục tiêu chiến lược.",
+  "usecases": [
+    "Triển khai chat nội bộ an toàn cho công ty hoặc doanh nghiệp.",
+    "Hỗ trợ tư vấn khách hàng real-time qua web hoặc ứng dụng di động.",
+    "Tích hợp webrtc cho video/audio gọi trực tiếp trong ứng dụng."
+  ],
+  "ideas": [
+    "Tích hợp bot AI vào Rocket.Chat để tự động trả lời câu hỏi phổ biến.",
+    "Triển khai làm hệ thống thông báo real-time cho các thiết bị IoT hoặc desktop.",
+    "Kết hợp với các nền tảng CRM để đồng bộ tin nhắn và lịch sử liên hệ."
+  ],
+  "stars": 46498,
+  "starsToday": 54,
+  "language": "TypeScript",
+  "topics": [
+    "chat",
+    "meteor",
+    "javascript",
+    "collaboration",
+    "webrtc",
+    "real-time",
+    "slack",
+    "foss",
+    "free",
+    "mit",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-11-12T21:45:54.174Z"
+}

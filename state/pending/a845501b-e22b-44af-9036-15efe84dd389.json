@@ -1,0 +1,39 @@
+{
+  "id": "a845501b-e22b-44af-9036-15efe84dd389",
+  "repo": "openai/codex-security",
+  "url": "https://github.com/openai/codex-security",
+  "category": "Security/Pentest",
+  "summary": "CLI và SDK TypeScript cho OpenAI Codex để quét, xác thực và sửa lỗ hổng bảo mật trong codebase",
+  "usecases": [
+    "tích hợp vào DevSecOps pipeline để quét bảo mật liên tục",
+    "giúp developers tự động tìm và fix vulnerability trước deploy",
+    "SDK có thể dùng để build các tool an ninh tùy chỉnh"
+  ],
+  "ideas": [
+    "tự động generate patches cho các vulnerability được phát hiện",
+    "kết hợp với AI khác để phân tích sâu và báo cáo an ninh",
+    "phát triển extension IDE real-time cảnh báo security issues"
+  ],
+  "stars": 12336,
+  "starsToday": 663,
+  "language": "TypeScript",
+  "topics": [
+    "ai-security",
+    "application-security",
+    "cli",
+    "code-scanning",
+    "codex",
+    "codex-security",
+    "cybersecurity",
+    "devsecops",
+    "nodejs",
+    "npm",
+    "openai",
+    "sdk",
+    "security",
+    "typescript",
+    "vulnerability-scanning"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-12T21:45:54.174Z"
+}

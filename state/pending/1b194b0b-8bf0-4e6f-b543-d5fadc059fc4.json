@@ -1,0 +1,45 @@
+{
+  "id": "1b194b0b-8bf0-4e6f-b543-d5fadc059fc4",
+  "repo": "appwrite/appwrite",
+  "url": "https://github.com/appwrite/appwrite",
+  "category": "Backend Framework",
+  "summary": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+  "usecases": [
+    "Authentication service",
+    "Database management",
+    "Function-as-a-service",
+    "Real-time messaging"
+  ],
+  "ideas": [
+    "Build custom agent workflows",
+    "Create scalable backend services",
+    "Integrate with other cloud services"
+  ],
+  "stars": 58067,
+  "starsToday": 79,
+  "language": "TypeScript",
+  "topics": [
+    "appwrite",
+    "docker",
+    "backend-as-a-service",
+    "javascript",
+    "flutter",
+    "backend",
+    "firebase",
+    "self-hosted",
+    "selfhosted",
+    "android",
+    "ios",
+    "swift",
+    "web",
+    "nextjs",
+    "react",
+    "reactnative",
+    "react-native",
+    "hosting",
+    "supabase",
+    "firewall"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-11-12T21:45:54.174Z"
+}
