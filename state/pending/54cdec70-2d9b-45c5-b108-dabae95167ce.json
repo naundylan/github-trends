@@ -1,0 +1,23 @@
+{
+  "id": "54cdec70-2d9b-45c5-b108-dabae95167ce",
+  "repo": "pookjw/HermesEnabler",
+  "url": "https://github.com/pookjw/HermesEnabler",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Cho phép đặt mặt đồng hồ Hermès lên Apple Watch, mở khóa các thiết kế độc quyền vượt qua giới hạn chính thức.",
+  "usecases": [
+    "Đặt mặt đồng hồ Hermès lên các mẫu Apple Watch không phải thương hiệu Hermès.",
+    "Tùy chỉnh và chỉnh sửa hành vi mặt đồng hồ cho trải nghiệm cá nhân trên watchOS.",
+    "Tạo nền tảng cho nhà phát triển thứ ba xây dựng tích hợp mặt đồng hồ tùy chỉnh."
+  ],
+  "ideas": [
+    "Kết hợp với các tweak mặt đồng hồ khác để tạo giao diện hoàn toàn tùy chỉnh.",
+    "Đưa các phức tạp Hermès ra các ứng dụng mặt đồng hồ phổ biến để tiếp cận rộng hơn.",
+    "Tự động quay đổi mặt đồng hồ theo thời gian, hoạt động hoặc bối cảnh sử dụng phong cách Hermès."
+  ],
+  "stars": 1602,
+  "starsToday": 218,
+  "language": "Objective-C",
+  "topics": [],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-11-13T04:28:09.097Z"
+}

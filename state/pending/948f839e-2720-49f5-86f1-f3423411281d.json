@@ -1,0 +1,31 @@
+{
+  "id": "948f839e-2720-49f5-86f1-f3423411281d",
+  "repo": "tauri-apps/tauri",
+  "url": "https://github.com/tauri-apps/tauri",
+  "category": "Desktop App",
+  "summary": "Cung cấp khung công cụ để xây dựng ứng dụng desktop và mobile nhanh, nhẹ an toàn sử dụng web frontend kết hợp Rust backend.",
+  "usecases": [
+    "Xây dựng ứng dụng desktop cross-platform với giao diện web nhưng có khả năng truy cập tài nguyên hệ điều hành.",
+    "Phát triển ứng dụng mobile nhẹ với webview và native performance cho các trường hợp cần bảo mật cao.",
+    "Tạo các công cụ nội bộ hoặc dashboard với kích thước nhẹ và khởi động nhanh."
+  ],
+  "ideas": [
+    "Kết hợp với React Server Components để xây dựng ứng dụng hybrid desktop-web hoàn toàn.",
+    "Sử dụng làm nền tảng cho các ứng dụng IoT control panel với Rust backend an toàn.",
+    "Tích hợp tính năng plugin system cho các ứng dụng chuyên ngành cần performance cao."
+  ],
+  "stars": 112866,
+  "starsToday": 90,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "webview",
+    "high-performance",
+    "desktop-app",
+    "mobile-app",
+    "native-app",
+    "web-frontend"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-13T04:28:09.097Z"
+}

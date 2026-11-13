@@ -1,0 +1,23 @@
+{
+  "id": "c4d64271-5c43-4bb6-98a3-e5ce72ed27ad",
+  "repo": "openai/whisper",
+  "url": "https://github.com/openai/whisper",
+  "category": "AI/LLM",
+  "summary": "Whisper là mô hình nhận dạng giọng nói (ASR) mạnh mẽ của OpenAI, sử dụng siêu viễn thông yếu để đạt hiệu suất cao trên nhiều ngôn ngữ và tác vụ âm thanh.",
+  "usecases": [
+    "Transcribe meetings and lectures into text automatically.",
+    "Build voice-controlled interfaces or voice assistants.",
+    "Create subtitles for videos or podcasts automatically."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tạo bản tóm tắt cuộc họp từ bản ghi âm.",
+    "Phát triển ứng dụng học ngôn ngữ theo giọng nói người dùng.",
+    "Sử dụng trong hệ thống giám sát an ninh với phát hiện âm thanh bất thường."
+  ],
+  "stars": 112616,
+  "starsToday": 113,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-13T04:28:09.097Z"
+}

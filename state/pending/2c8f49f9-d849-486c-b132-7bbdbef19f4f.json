@@ -1,0 +1,23 @@
+{
+  "id": "2c8f49f9-d849-486c-b132-7bbdbef19f4f",
+  "repo": "block/buzz-app",
+  "url": "https://github.com/block/buzz-app",
+  "category": "Desktop App",
+  "summary": "Một ứng dụng desktop/web mới mẻ trải nghiệm Buzz, cung cấp giao diện hiện đại và tương tác cho người dùng.",
+  "usecases": [
+    "Dùng như ứng dụngdesktop riêng để theo dõi và tương tác với Buzz mà không cần trình duyệt.",
+    "Cung cấp giao diện thân thiện cho người dùng không quen với web để truy cập dịch vụ.",
+    "Tích hợp thông báo push và tính năng offline cho trải nghiệm liên tục."
+  ],
+  "ideas": [
+    "Phát triển phiên bản mobile tương ứng để đồng bộ dữ liệu giữa desktop và phone.",
+    "Thêm tính năng tùy chỉnh giao diện (themes) và shortcuts cho power users.",
+    "Kết nối với API bên ngoài để hiển thị nội dung Buzz real-time trong app."
+  ],
+  "stars": 227,
+  "starsToday": 41,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-13T04:28:09.097Z"
+}

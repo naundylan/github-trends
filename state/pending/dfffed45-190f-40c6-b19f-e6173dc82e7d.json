@@ -1,0 +1,27 @@
+{
+  "id": "dfffed45-190f-40c6-b19f-e6173dc82e7d",
+  "repo": "zellij-org/zellij",
+  "url": "https://github.com/zellij-org/zellij",
+  "category": "CLI Tool",
+  "summary": "Zellij là terminal workspace mã nguồn mở viết bằng Rust, cung cấp giao diện quản lý nhiều terminal và các tính năng multiplexer phong phú.",
+  "usecases": [
+    "Quản lý nhiều terminal cùng lúc trong một cửa sổ duy nhất để提高 hiệu suất làm việc.",
+    "Tạo workspace tách biệt cho các dự án phát triển phần mềm với cấu hình tùy chỉnh.",
+    "Dùng cho các tác vụ DevOps và hệ thống cần tương tác liên tục với dòng lệnh."
+  ],
+  "ideas": [
+    "Phát triển plugin kết nối AI để hiển thị kết quả lệnh hoặc gợi ý câu lệnh tự động.",
+    "Tạo theme và giao diện cá nhân hóa cho terminal theo sở thích người dùng.",
+    "Sử dụng làm nền tảng cho IDE remote hoặc development môi trường di động."
+  ],
+  "stars": 36044,
+  "starsToday": 37,
+  "language": "Rust",
+  "topics": [
+    "workspace",
+    "terminal",
+    "multiplexer"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-13T04:28:09.097Z"
+}

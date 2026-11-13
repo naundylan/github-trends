@@ -1,0 +1,27 @@
+{
+  "id": "942530d9-590f-417a-a046-8e89e2a0f0eb",
+  "repo": "oaustegard/claude-skills",
+  "url": "https://github.com/oaustegard/claude-skills",
+  "category": "AI/LLM",
+  "summary": "Claude-skills là bộ sưu tập prompt và kỹ năng cho AI Claude, giúp tự động hóa tác vụ và tùy chỉnh hành vi mô hình ngôn ngữ.",
+  "usecases": [
+    "Tự động hóa tác vụ hỗ trợ khách hàng hoặc tạo nội dung bằng prompt Claude tùy chỉnh.",
+    "Mở rộng khả năng AI cho việc viết code, phân tích dữ liệu hoặc tạo văn bản.",
+    "Kết hợp với các công cụ workflow để tạo ra các luồng làm việc AI tự động."
+  ],
+  "ideas": [
+    "Xây dựng marketplace chia sẻ và mua bán các kỹ năng Claude giữa cộng đồng.",
+    "Kết hợp với các nền tảng tự động hóa (như n8n) để tạo luồng làm việc AI đa bước.",
+    "Phát triển AI agent tự hành quản lý dự án, lập lịch hoặc báo cáo tiến độ."
+  ],
+  "stars": 375,
+  "starsToday": 34,
+  "language": "Python",
+  "topics": [
+    "claude",
+    "claude-skill",
+    "claude-skills"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-13T04:28:09.097Z"
+}

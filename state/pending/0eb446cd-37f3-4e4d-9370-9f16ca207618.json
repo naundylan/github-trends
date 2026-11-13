@@ -1,0 +1,38 @@
+{
+  "id": "0eb446cd-37f3-4e4d-9370-9f16ca207618",
+  "repo": "TheAlgorithms/Python",
+  "url": "https://github.com/TheAlgorithms/Python",
+  "category": "Developer Tool",
+  "summary": "Một repository chứa triển khai đầy đủ các thuật toán cơ bản và nâng cao bằng Python, phục vụ cho mục đích học tập, rèn luyện và chuẩn bị phỏng vấn.",
+  "usecases": [
+    "Học sinh và sinh viên sử dụng để nghiên cứu và hiểu cách triển khai các thuật toán phổ biến.",
+    "Dùng trong các buổi phỏng vấn kỹ thuật để rà soát kiến thức về cấu trúc dữ liệu và thuật toán.",
+    "Nhập môn cho người mới bắt đầu vào lập trình để nắm vững logic giải quyết vấn đề."
+  ],
+  "ideas": [
+    "Kết hợp với một ứng dụng web để trực quan hóa quá trình chạy thuật toán.",
+    "Phát triển một extension cho VS Code hiển thị bước-by-step của thuật toán.",
+    "Tạo một gamification nhỏ để người dùng luyện tập sắp xếp và tìm kiếm qua các thử thách."
+  ],
+  "stars": 226068,
+  "starsToday": 43,
+  "language": "Python",
+  "topics": [
+    "python",
+    "algorithm",
+    "algorithms-implemented",
+    "algorithm-competitions",
+    "algos",
+    "sorts",
+    "searches",
+    "sorting-algorithms",
+    "education",
+    "learn",
+    "practice",
+    "community-driven",
+    "interview",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-13T04:28:09.097Z"
+}

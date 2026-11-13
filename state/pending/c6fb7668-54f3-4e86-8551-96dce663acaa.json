@@ -1,0 +1,25 @@
+{
+  "id": "c6fb7668-54f3-4e86-8551-96dce663acaa",
+  "repo": "ggml-org/llama.cpp",
+  "url": "https://github.com/ggml-org/llama.cpp",
+  "category": "AI/LLM",
+  "summary": "Thư viện C/C++ cho inference LLM hiệu quả, cho phép AI trên thiết bị không cần GPU.",
+  "usecases": [
+    "Chạy LLM trên CPU tiêu dùng hoặc Apple Silicon để chatbot/assistant riêng tư.",
+    "Ứng dụng AI ngoại tuyến trong môi trường nhạy cảm về quyền riêng tư, không phụ thuộc đám mây.",
+    "Nhúng AI vào thiết bị IoT hoặc tính toán biên cho inference thời gian thực."
+  ],
+  "ideas": [
+    "Xây dựng trợ lý code AI chạy hoàn toàn trên laptop/desktop CPU để hỗ trợ phát triển ngoại tuyến.",
+    "Tạo chatbot hỗ trợ khách hàng riêng tư cho doanh nghiệp xử lý dữ liệu nhạy cảm.",
+    "Phát triển công cụ tăng năng suất AI đa nền tảng hoạt động trên mọi thiết bị có CPU."
+  ],
+  "stars": 134634,
+  "starsToday": 176,
+  "language": "C++",
+  "topics": [
+    "ggml"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-13T04:28:09.097Z"
+}

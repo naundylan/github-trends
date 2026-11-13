@@ -1,0 +1,29 @@
+{
+  "id": "6b687d36-f3ea-4396-84c8-ea156812abc9",
+  "repo": "axios/axios",
+  "url": "https://github.com/axios/axios",
+  "category": "Developer Tool",
+  "summary": "Client HTTP dựa trên Promise cho browser và node.js, phổ biến để gọi REST APIs và xử lý dữ liệu async.",
+  "usecases": [
+    "Truy cập API REST trong ứng dụng frontend React/Vue để lấy và gửi dữ liệu.",
+    "Xử lý yêu cầu HTTP trên server-side Node.js cho các microservice hoặc backend logic.",
+    "Tương tác với các dịch vụ bên thứ ba như Stripe, GitHub API thông qua HTTP client có tự động chuyển đổi JSON."
+  ],
+  "ideas": [
+    "Sử dụng Axios làm lớp abstractions cho custom HTTP client trong các serverless functions.",
+    "Kết hợp với TypeScript để generate auto-complete API clients cho dự án.",
+    "Tạo wrapper caching layer cho Axios để tối ưu performance trong apps có traffic cao."
+  ],
+  "stars": 109395,
+  "starsToday": 55,
+  "language": "JavaScript",
+  "topics": [
+    "http-client",
+    "javascript",
+    "nodejs",
+    "promise",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-13T04:28:09.097Z"
+}
