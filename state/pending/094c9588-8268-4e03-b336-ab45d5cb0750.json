@@ -1,0 +1,23 @@
+{
+  "id": "094c9588-8268-4e03-b336-ab45d5cb0750",
+  "repo": "tradermonty/claude-trading-skills",
+  "url": "https://github.com/tradermonty/claude-trading-skills",
+  "category": "AI Agent/Automation",
+  "summary": "Một bộ kỹ năng Claude Code cho nhà đầu tư và trader, cung cấp phân tích thị trường, biểu đồ kỹ thuật, lịch tài chính, screeners và phát triển chiến lược giao dịch.",
+  "usecases": [
+    "Tự động tạo báo cáo phân tích kỹ thuật cho cổ phiếu dựa trên dữ liệu lịch sử",
+    "Giúp xây dựng và backtest chiến lược giao dịch sử dụng Claude reasoning",
+    "Tích hợp với dữ liệu thị trường thực thời để đưa ra tín hiệu giao dịch"
+  ],
+  "ideas": [
+    "Kết hợp với API dữ liệu tài chính để tạo bot giao dịch tự động",
+    "Sử dụng làm trợ lý nghiên cứu cho báo cáo đầu tư hàng tuần",
+    "Phát triển dashboard trực quan hóa kết quả chiến lược giao dịch"
+  ],
+  "stars": 4098,
+  "starsToday": 60,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-13T21:10:27.420Z"
+}

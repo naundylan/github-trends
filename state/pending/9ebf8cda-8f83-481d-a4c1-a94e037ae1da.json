@@ -1,0 +1,44 @@
+{
+  "id": "9ebf8cda-8f83-481d-a4c1-a94e037ae1da",
+  "repo": "lidge-jun/opencodex",
+  "url": "https://github.com/lidge-jun/opencodex",
+  "category": "AI/LLM",
+  "summary": "Universal proxy cho phép truy cập nhiều mô hình LLM (Claude, Gemini, Grok, DeepSeek, Ollama...) thông qua Codex CLI, App, SDK và Claude Code, đồng nhất qua một giao diện duy nhất.",
+  "usecases": [
+    "Kết hợp nhiều LLM khác nhau trong cùng một ứng dụng mà không cần thay đổi mã nguồn.",
+    "Cho phép developers sử dụng Codex CLI với các mô hình có phí hoặc mã nguồn mở.",
+    "Tăng tính linh hoạt khi chuyển đổi giữa các provider LLM để tối ưu chi phí và hiệu năng."
+  ],
+  "ideas": [
+    "Tạo một gateway AI cá nhân hóa cho các dự án phát triển phần mềm.",
+    "Kết hợp với các agent tự động hóa code để hỗ trợ debug và viết code đa mô hình.",
+    "Phát triển plugin cho IDE hỗ trợ chuyển đổi LLM trên fly."
+  ],
+  "stars": 18487,
+  "starsToday": 55,
+  "language": "TypeScript",
+  "topics": [
+    "ai-tools",
+    "claude",
+    "codex",
+    "gemini",
+    "llm",
+    "openai",
+    "proxy",
+    "typescript",
+    "anthropic",
+    "codex-cli",
+    "developer-tools",
+    "kiro",
+    "ai-gateway",
+    "chatgpt",
+    "claude-code",
+    "deepseek",
+    "grok",
+    "llm-proxy",
+    "ollama",
+    "openrouter"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-13T21:10:27.420Z"
+}

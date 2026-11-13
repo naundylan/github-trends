@@ -1,0 +1,23 @@
+{
+  "id": "e4ee5c15-2045-4af3-9221-f29be1bba2eb",
+  "repo": "avenoxai/avenoxbeyin",
+  "url": "https://github.com/avenoxai/avenoxbeyin",
+  "category": "AI/LLM",
+  "summary": "avenoxbeyin là hệ thống AI second brain mã nguồn mở kết hợp Obsidian và Claude Code, cung cấp bộ nhớ liên tục xuyên các phiên làm việc.",
+  "usecases": [
+    "Tổng hợp và truy xuất ghi chú cá nhân và thông tin dự án qua nhiều phiên Obsidian",
+    "Tự động hóa viết code và review sử dụng Claude Code với ngữ cảnh dài hạn",
+    "Đồng bộ bộ nhớ AI giữa các thiết bị và session làm việc"
+  ],
+  "ideas": [
+    "Phát triển plugin cho VS Code truy cập trực tiếp vào memory bank của avenoxbeyin",
+    "Sử dụng làm nền tảng cho nghiên cứu AI có khả năng ghi nhớ liên tục",
+    "Kết hợp với công cụ quản lý dự án để tạo roadmap tự động từ ghi chú kỹ thuật"
+  ],
+  "stars": 453,
+  "starsToday": 46,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-13T21:10:27.420Z"
+}

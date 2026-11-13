@@ -1,0 +1,23 @@
+{
+  "id": "afe1d152-cfeb-4c21-9e44-fae1265ea12d",
+  "repo": "abhigyanpatwari/GitNexus",
+  "url": "https://github.com/abhigyanpatwari/GitNexus",
+  "category": "Developer Tool",
+  "summary": "GitNexus là Code Intelligence Engine không cần server dùng TypeScript, cung cấp khả năng phân tích và tìm kiếm mã nguồn sâu cho các dự án lớn.",
+  "usecases": [
+    "Tìm kiếm và truy xuất code nhanh xuyên nhiều repository",
+    "Tự động hóa refactoring và phân tích phụ thuộc code",
+    "Hỗ trợ review code và đánh giá tác động thay đổi trong CI/CD"
+  ],
+  "ideas": [
+    "Kết hợp làm plugin IDE để phân tích code real-time cho developer",
+    "Sử dụng làm backend cho dashboard quản lý kỹ thuật dự án",
+    "Tích hợp với hệ thống ticket để tự động gán task dựa trên mã thay đổi"
+  ],
+  "stars": 48516,
+  "starsToday": 48,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-13T21:10:27.420Z"
+}

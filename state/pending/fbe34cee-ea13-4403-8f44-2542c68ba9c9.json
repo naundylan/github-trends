@@ -1,0 +1,33 @@
+{
+  "id": "fbe34cee-ea13-4403-8f44-2542c68ba9c9",
+  "repo": "aimod-cc/Agent2API",
+  "url": "https://github.com/aimod-cc/Agent2API",
+  "category": "Developer Tool",
+  "summary": "Agent2API là gateway proxy cục bộ cho AI, cho phép tái sử dụng đăng nhập client, gọi 50+ provider AI qua một base URL với API thống nhất OpenAI/Anthropic và quản lý tài khoản, quota và báo cáo.",
+  "usecases": [
+    "Tổng hợp truy cập nhiều provider AI qua một endpoint duy nhất cho ứng dụng nội bộ hoặc sản xuất.",
+    "Quản lý nhiều tài khoản AI và định hướng tự động dựa trên quota, balance và loại model.",
+    "Tích hợp vào pipeline CI/CD để test các tính năng AI với các provider khác nhau mà không cần thay đổi code."
+  ],
+  "ideas": [
+    "Phát triển dashboard quản lý chi phí AI real-time cho startup và doanh nghiệp.",
+    "Kết hợp với hệ thống tự động sign-in và recharge để tối ưu chi phí sử dụng AI.",
+    "Tạo plugin cho IDE (VS Code, JetBrains) để gọi AI models trực tiếp qua gateway này từ code editor."
+  ],
+  "stars": 2252,
+  "starsToday": 56,
+  "language": "Rust",
+  "topics": [
+    "autoclaw",
+    "catpaw",
+    "local-proxy",
+    "openai-compatible",
+    "qoder",
+    "cline",
+    "docker",
+    "accio",
+    "trae"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-13T21:10:27.420Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "f0e6ff1a-fa73-49b3-b261-0845de7380ea",
+  "repo": "langchain-ai/langgraph",
+  "url": "https://github.com/langchain-ai/langgraph",
+  "category": "AI Agent/Automation",
+  "summary": "LangGraph là framework để xây dựng các ứng dụng AI có trạng thái và có hướng agent, enabling tạo agent có khả năng chịu lỗi và có trạng thái qua các graph có hướng, tích hợp sâu với LangChain.",
+  "usecases": [
+    "Xây dựng các agent đa tác vụ có trạng thái cho hỗ trợ khách tự động và trả lời câu hỏi phức tạp.",
+    "Tạo các pipeline RAG có vòng lặp phản hồi và khả năng định hướng giữa các agent.",
+    "Phát triển hệ thống tự động hóa quy trình làm việc (workflow) dựa trên AI với quản lý trạng thái dài hạn."
+  ],
+  "ideas": [
+    "Kết hợp voice recognition để tạo các agent hội thoại có khả năng nhớ ngữ cảnh qua nhiều lượt hội thoại.",
+    "Sử dụng trong code review tự động để agent phân tích và sửa lỗi code dựa trên context dự án.",
+    "Xây dựng mạng lưới agent nghiên cứu tự động tìm, đọc và tổng hợp tài liệu từ nhiều nguồn."
+  ],
+  "stars": 44914,
+  "starsToday": 56,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "chatgpt",
+    "deepagents",
+    "enterprise",
+    "framework",
+    "gemini",
+    "generative-ai",
+    "langchain",
+    "langgraph",
+    "llm",
+    "multiagent",
+    "open-source",
+    "openai",
+    "pydantic",
+    "python",
+    "rag"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-13T21:10:27.420Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "370398f9-5f25-49ca-a167-85a37e551c85",
+  "repo": "tw93/Pake",
+  "url": "https://github.com/tw93/Pake",
+  "category": "Desktop App",
+  "summary": "Pake cho phép chuyển đổi bất kỳ website nào thành ứng dụng desktop nhẹ nhàng trên macOS, Windows và Linux chỉ với một lệnh, sử dụng WebView và Tauri để tạo trải nghiệm native mà không cần Electron.",
+  "usecases": [
+    "Chuyển đổi trang web tin tức thành app desktop riêng để theo dõi nhanh",
+    "Tạo ứng dụng cá nhân cho các dịch vụ web không có bản desktop như YouTube, ChatGPT, Gemini",
+    "Phân phối web app dưới dạng native app cho team hoặc khách hàng mà không cần build complex Electron app"
+  ],
+  "ideas": [
+    "Kết hợp với TTS để app đọc báo tin tức tự động",
+    "Tạo shortcuts cho web apps trên desktop như native apps",
+    "Sử dụng Pake làm nền tảng cho các app nhẹ cho các dịch vụ cloud/local services"
+  ],
+  "stars": 63545,
+  "starsToday": 105,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "tauri",
+    "no-electron",
+    "chatgpt",
+    "youtube",
+    "gemini",
+    "claude",
+    "desktop",
+    "linux",
+    "macos",
+    "windows",
+    "desktop-app",
+    "electron-alternative",
+    "nativefier",
+    "webview",
+    "cli",
+    "web-to-desktop",
+    "website-to-app"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-13T21:10:27.420Z"
+}

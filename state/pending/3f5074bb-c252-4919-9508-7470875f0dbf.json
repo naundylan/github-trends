@@ -1,0 +1,23 @@
+{
+  "id": "3f5074bb-c252-4919-9508-7470875f0dbf",
+  "repo": "adewaskar/jarvis",
+  "url": "https://github.com/adewaskar/jarvis",
+  "category": "AI Agent/Automation",
+  "summary": "Jarvis là một agente tự động hóa tác vụ sử dụng Claude Code, giúp tự động hóa các nhiệm vụ hàng ngày thông qua lệnh ngôn ngữ tự nhiên và tích hợp với quy trình phát triển.",
+  "usecases": [
+    "Tự động hóa việc tạo báo cáo hàng ngày hoặc tổng hợp dữ liệu.",
+    "Quản lý lịch họp và gửi nhắc nhở định kỳ.",
+    "Tự động triển khai code hoặc chạy các lệnh lặp lại trong repo."
+  ],
+  "ideas": [
+    "Kết hợp với Slack/Discord để nhận lệnh tự động hóa qua tin nhắn.",
+    "Tạo chế độ 'học tập tự động' mà Jarvis thu thập kiến thức và tạo tóm tắt.",
+    "Phát triển plugin cho IDE để Jarvis thực hiện refactoring hoặc viết unit test tự động."
+  ],
+  "stars": 888,
+  "starsToday": 36,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-13T21:10:27.420Z"
+}
