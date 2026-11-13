@@ -1,0 +1,35 @@
+{
+  "id": "035c249a-5492-4acd-a544-717dae15525d",
+  "repo": "ahujasid/mcp-for-blender",
+  "url": "https://github.com/ahujasid/mcp-for-blender",
+  "category": "Desktop App",
+  "summary": "Plugin cho Blender cho phép điều khiển phần mềm 3D thông qua các mô hình LLM, hỗ trợ tích hợp Model Context Protocol để tương tác với Claude và các AI khác.",
+  "usecases": [
+    "Tự động tạo và sửa mô hình 3D bằng lệnh văn bản",
+    "Điều khiển animation và rendering thông qua giao diện chat LLM",
+    "Tích hợp vào quy trình thiết kế để tạo nội dung procedural"
+  ],
+  "ideas": [
+    "Kết hợp voice commands để điều khiển Blender tương tác",
+    "Mở rộng plugin cho các DCC khác như Maya hoặc 3ds Max",
+    "Phát triển hệ thống generate scene tự động từ prompt đồ họa"
+  ],
+  "stars": 34281,
+  "starsToday": 140,
+  "language": "Python",
+  "topics": [
+    "3d-modeling",
+    "ai",
+    "blender",
+    "blender-addon",
+    "claude",
+    "generative-ai",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "python",
+    "blender-mcp"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-13T13:48:52.773Z"
+}

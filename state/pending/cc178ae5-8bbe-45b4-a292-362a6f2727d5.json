@@ -1,0 +1,43 @@
+{
+  "id": "cc178ae5-8bbe-45b4-a292-362a6f2727d5",
+  "repo": "farion1231/cc-switch",
+  "url": "https://github.com/farion1231/cc-switch",
+  "category": "Desktop App",
+  "summary": "Ứng dụng desktop cross-platform tất cả-in-one giúp quản lý và chuyển đổi giữa nhiều công cụ AI code (Claude Code, Codex, OpenCode, DeepSeek Harness) một cách mượt mà.",
+  "usecases": [
+    "Cho phép developer chuyển nhanh giữa các provider AI code mà không cần rời desktop.",
+    "Quản lý skills và providers cho các team sử dụng nhiều model code khác nhau.",
+    "Hỗ trợ WSL và môi trường phát triển đa nền tảng để code liên tục."
+  ],
+  "ideas": [
+    "Tích hợp thêm các provider AI mới thông qua plugin system.",
+    "Phát triển tính năng so sánh kết quả giữa các model trên cùng một giao diện.",
+    "Kết hợp với terminal để thực thi commands trực tiếp từ giao diện cc-switch."
+  ],
+  "stars": 154169,
+  "starsToday": 327,
+  "language": "Rust",
+  "topics": [
+    "ai-tools",
+    "claude-code",
+    "desktop-app",
+    "open-source",
+    "rust",
+    "tauri",
+    "codex",
+    "mcp",
+    "provider-management",
+    "wsl-support",
+    "opencode",
+    "skills",
+    "skills-management",
+    "hermes",
+    "grok",
+    "grokbuild",
+    "pi",
+    "deepseek-harness",
+    "kimi-code"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-13T13:48:52.773Z"
+}

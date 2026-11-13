@@ -1,0 +1,23 @@
+{
+  "id": "68b37cae-4210-4f5c-947b-9dcff4dbe459",
+  "repo": "Likely7/Veyra-NRVideo",
+  "url": "https://github.com/Likely7/Veyra-NRVideo",
+  "category": "Desktop App",
+  "summary": "Ứng dụng chơi phim nâng cao trên Windows, giúp GTA6 chạy mượt 120 FPS với DLSS 5 và cung cấp preview thời gian thực cho video, ảnh, card capture.",
+  "usecases": [
+    "Chơi game GTA6 trên PC với tốc độ cao",
+    "Ghi lại và chỉnh sửa video, hình ảnh theo thời gian thực",
+    "Tăng chất lượng hình ảnh bằng AI"
+  ],
+  "ideas": [
+    "Kết hợp hiệu ứng thực tế với engine game",
+    "Phát triển phiên bản cho macOS",
+    "Hỗ trợ streaming trực tuyến"
+  ],
+  "stars": 1442,
+  "starsToday": 245,
+  "language": "C++",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-13T13:48:52.773Z"
+}

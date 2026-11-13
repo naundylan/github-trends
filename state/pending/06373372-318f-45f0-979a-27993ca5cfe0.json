@@ -1,0 +1,35 @@
+{
+  "id": "06373372-318f-45f0-979a-27993ca5cfe0",
+  "repo": "ModernRelay/omnigraph",
+  "url": "https://github.com/ModernRelay/omnigraph",
+  "category": "Database",
+  "summary": "Omnigraph là database đồ thị native object-storage với branching và typed ontology, được xây dựng trên Rust và tích hợp Apache Arrow, DataFusion, S3, phù hợp cho kiến trúc lakehouse và knowledge graph.",
+  "usecases": [
+    "Quản lý knowledge graph với branching và versioning cho thay đổi schema.",
+    "Xử lý dữ liệu lakehouse với truy vấn đồ thị trực tiếp trên object storage.",
+    "Ứng dụng cần context graph phiên bản hóa cao như nghiên cứu khoa học hoặc lập trình dữ liệu."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để cung cấp truy vấn đồ thị có ngữ cảnh và lịch sử phiên bản.",
+    "Xây dựng hệ thống đồ thị phân tán cho nhiều user/org cùng sửa đổi song song qua branching.",
+    "Sử dụng làm layer foundation cho ứng dụng RAG cần reasoning trên đồ thị lớn."
+  ],
+  "stars": 2123,
+  "starsToday": 112,
+  "language": "Rust",
+  "topics": [
+    "apache-arrow",
+    "datafusion",
+    "graph-database",
+    "knowledge-graph",
+    "lakehouse",
+    "lance",
+    "mcp",
+    "rust",
+    "s3",
+    "versioning",
+    "context-graph"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-11-13T13:48:52.773Z"
+}

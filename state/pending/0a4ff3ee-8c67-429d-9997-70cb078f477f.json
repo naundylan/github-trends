@@ -1,0 +1,36 @@
+{
+  "id": "0a4ff3ee-8c67-429d-9997-70cb078f477f",
+  "repo": "a2ui-project/a2ui",
+  "url": "https://github.com/a2ui-project/a2ui",
+  "category": "UI/Component Library",
+  "summary": "Framework generative UI cho phép agent truyền dữ liệu layout, ứng dụng render thành native components trên React, Angular, Flutter, SwiftUI và Jetpack Compose.",
+  "usecases": [
+    "Tự động sinh giao diện cho ứng dụng đa nền tảng từ dữ liệu agent.",
+    "Tăng tốc prototyping cho apps di động và web bằng native components.",
+    "Cho phép LLM trực tiếp tạo cấu trúc UI thay vì viết code thủ công."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để sinh UI từ prompt tự nhiên trong các tools như Figma hoặc ChatGPT.",
+    "Phát triển plugin chuyển đổi design sang code a2ui cho các dự án nhanh.",
+    "Sử dụng trong internal tools cần nhanh chóng tạo giao diện từ backend data."
+  ],
+  "stars": 17277,
+  "starsToday": 121,
+  "language": "TypeScript",
+  "topics": [
+    "a2ui",
+    "generative-ui",
+    "agent",
+    "angular",
+    "flutter",
+    "jetpack-compose",
+    "lit",
+    "llm",
+    "swiftui",
+    "a2a",
+    "mcp",
+    "react"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-11-13T13:48:52.773Z"
+}

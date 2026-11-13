@@ -1,0 +1,44 @@
+{
+  "id": "2734b3db-c4ac-4261-8191-bb562eb00ed7",
+  "repo": "kajisho5/ffmpeg-skill",
+  "url": "https://github.com/kajisho5/ffmpeg-skill",
+  "category": "AI/LLM",
+  "summary": "Bộ công cụ FFmpeg cho các tác giả lập trình, hỗ trợ cắt, phụ đề, chuẩn âm lượng, export nền tảng, không cần đám mây hay API.",
+  "usecases": [
+    "Tạo video ngắn cho agent code",
+    "Chuẩn hóa âm thanh cho dự án",
+    "Tích hợp vào Claude Code, Cursor, Codex"
+  ],
+  "ideas": [
+    "Xây dựng pipeline tự động chuyển đổi định dạng video",
+    "Kết hợp với mô hình ngôn ngữ lớn để tạo caption thông minh",
+    "Mở rộng sang các công cụ mã hóa video"
+  ],
+  "stars": 5375,
+  "starsToday": 224,
+  "language": "Python",
+  "topics": [
+    "audio-processing",
+    "captions",
+    "ffmpeg",
+    "subtitles",
+    "video",
+    "video-editing",
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "cursor",
+    "loudness-normalization",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "transcoding",
+    "whisper",
+    "gemini-cli-extension"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-13T13:48:52.773Z"
+}

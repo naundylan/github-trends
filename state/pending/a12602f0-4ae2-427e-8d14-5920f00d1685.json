@@ -1,0 +1,35 @@
+{
+  "id": "a12602f0-4ae2-427e-8d14-5920f00d1685",
+  "repo": "Leonxlnx/taste-skill",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "category": "AI Agent/Automation",
+  "summary": "Package kỹ năng cho coding agents để có khả năng định hướng nghệ thuật, tham chiếu hình ảnh và kiểm tra trình duyệt, thay thế các trang AI chung chung bằng trải nghiệm thiết kế web.",
+  "usecases": [
+    "Giúp Claude Code/Codex tạo ra các landing page có thiết kế đẹp dựa trên hướng dẫn nghệ thuật.",
+    "Tích hợp khả năng kiểm tra trình duyệt thực tế để validate UI/UX trong quá trình phát triển.",
+    "Cung cấp các reference images để agents tạo code có style nhất quán cho design system."
+  ],
+  "ideas": [
+    "Kết hợp với các design system hiện có (Figma, Tailwind) để auto-generate code từ mockups.",
+    "Tạo một pipeline tự động tạo landing page từ prompt + style references.",
+    "Sử dụng trong các workflow tự động test UI/UX cho các dự án frontend."
+  ],
+  "stars": 114715,
+  "starsToday": 783,
+  "language": "JavaScript",
+  "topics": [
+    "claude-code",
+    "codex",
+    "frontend",
+    "agent-skills",
+    "ai-agents",
+    "anti-slop",
+    "cursor",
+    "design-system",
+    "landing-page",
+    "ui-design",
+    "web-design"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-13T13:48:52.773Z"
+}

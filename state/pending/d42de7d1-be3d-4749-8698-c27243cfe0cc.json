@@ -1,0 +1,44 @@
+{
+  "id": "d42de7d1-be3d-4749-8698-c27243cfe0cc",
+  "repo": "headroomlabs-ai/headroom",
+  "url": "https://github.com/headroomlabs-ai/headroom",
+  "category": "AI/LLM",
+  "summary": "Thư viện nén đầu ra, log, file và chunks RAG trước khi gửi đến LLM, giúp giảm 20% token cho coding agents và 60-95% cho JSON giữ nguyên câu trả lời.",
+  "usecases": [
+    "Giảm chi phí token cho các LLM API trong các trợ lý code như Cursor, Claude Code.",
+    "Tối đa hóa hiệu quả context window cho các pipeline RAG.",
+    "Tăng tốc xử lý prompt trong các AI agent hoạt động với dữ liệu có cấu trúc."
+  ],
+  "ideas": [
+    "Xây dựng middleware tự động nén cho mọi workflow LLM trước khi gửi prompt.",
+    "Phát triển extension VS Code nén mã nguồn trước khi gửi đến LLM.",
+    "Kết hợp với MCP server để tối ưu hóa truyền dữ liệu giữa các agent."
+  ],
+  "stars": 79540,
+  "starsToday": 125,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "anthropic",
+    "compression",
+    "context-engineering",
+    "context-window",
+    "fastapi",
+    "langchain",
+    "llm",
+    "mcp",
+    "openai",
+    "proxy",
+    "python",
+    "rag",
+    "token-optimization",
+    "claude-code",
+    "cursor",
+    "prompt-engineering",
+    "tokens",
+    "typescript"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-13T13:48:52.773Z"
+}
