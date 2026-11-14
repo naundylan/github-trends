@@ -1,0 +1,32 @@
+{
+  "id": "9670d907-083f-44de-8db0-69d351e34914",
+  "repo": "realiti4/claude-swap",
+  "url": "https://github.com/realiti4/claude-swap",
+  "category": "CLI Tool",
+  "summary": "Công cụ CLI Python quản lý nhiều tài khoản Claude Code, hỗ trợ xoay vòng giới hạn tốc độ, bảng điều khiển sử dụng và các phiên chạy song song",
+  "usecases": [
+    "Quản lý nhiều tài khoản Claude Code cho các dự án riêng lẻ",
+    "Chạy song song các phiên Claude Code mà không bị giới hạn tốc độ",
+    "Tự động hóa quy trình sử dụng Claude Code với theo dõi sử dụng và xoay vòng tài khoản"
+  ],
+  "ideas": [
+    "Mở rộng hỗ trợ cho các công cụ LLM khác để quản lý đa nền tảng",
+    "Tích hợp dashboard thời gian thực cho theo dõi đội nhóm",
+    "Tạo plugin cho code editor để chuyển đổi tài khoản trực tiếp"
+  ],
+  "stars": 4701,
+  "starsToday": 25,
+  "language": "Python",
+  "topics": [
+    "claude",
+    "claude-code",
+    "account-manager",
+    "account-switcher",
+    "anthropic",
+    "cli",
+    "multi-account",
+    "tui"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-14T04:23:33.407Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "d0dac059-d017-4368-9ed7-08a418260ae4",
+  "repo": "coreyhaines31/marketingskills",
+  "url": "https://github.com/coreyhaines31/marketingskills",
+  "category": "AI Agent/Automation",
+  "summary": "Một bộ kỹ năng marketing được thiết kế cho các AI agent như Claude Code, giúp thực hiện CRO, copywriting, SEO, analytics và growth engineering thông qua các prompt/markdown skills.",
+  "usecases": [
+    "AI agents tự động tạo nội dung marketing và copywriting.",
+    "Tối ưu hóa tỷ lệ chuyển đổi (CRO) cho các sản phẩm SaaS thông qua AI.",
+    "Phân tích SEO và tối ưu hóa thứ hạng tìm kiếm cho các dự án code."
+  ],
+  "ideas": [
+    "Kết hợp với Claude Code để tự động tạo landing page và campaign marketing.",
+    "Sử dụng làm foundation cho AI marketing assistant cá nhân.",
+    "Mở rộng thành skills cho các agent khác như CodeGPT hay Cursor."
+  ],
+  "stars": 60199,
+  "starsToday": 190,
+  "language": "JavaScript",
+  "topics": [
+    "claude",
+    "codex",
+    "marketing",
+    "agent-skills",
+    "ai-agents",
+    "ai-seo",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-skills",
+    "content-marketing",
+    "conversion-rate-optimization",
+    "copywriting",
+    "cursor",
+    "email-marketing",
+    "generative-engine-optimization",
+    "growth-marketing",
+    "marketing-automation",
+    "saas-marketing",
+    "seo",
+    "skill-md"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-14T04:23:33.407Z"
+}

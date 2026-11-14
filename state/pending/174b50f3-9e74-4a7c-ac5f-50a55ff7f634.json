@@ -1,0 +1,42 @@
+{
+  "id": "174b50f3-9e74-4a7c-ac5f-50a55ff7f634",
+  "repo": "crowdsecurity/crowdsec",
+  "url": "https://github.com/crowdsecurity/crowdsec",
+  "category": "Security/Pentest",
+  "summary": "Hệ thống mã nguồn mở IDS/IPS và WAF, phát hiện và chặn bot với danh sách blocklist tập trung từ cộng đồng cho Linux, Docker và Kubernetes",
+  "usecases": [
+    "Bảo vệ ứng dụng web và API khỏi tấn công bot và thu thập dữ liệu không phép",
+    "Theo dõi và chặn địa chỉ IP độc hại trên nhiều container Docker hoặc cluster Kubernetes",
+    "Tăng cường bảo mật cho hệ điều hành Linux/Windows bằng phát hiện xâm nhập thời gian thực"
+  ],
+  "ideas": [
+    "Kết hợp với SIEM để phân tích bảo mật tập trung",
+    "Tạo feed thông báo đe dọa tự động xuất ra các quy tắc firewall",
+    "Thêm phát hiện bất thường dựa trên AI để nhận diện mẫu bot mới"
+  ],
+  "stars": 15608,
+  "starsToday": 25,
+  "language": "Go",
+  "topics": [
+    "security",
+    "waf",
+    "anti-bot",
+    "blocklist",
+    "bot-detection",
+    "bot-protection",
+    "cybersecurity",
+    "docker",
+    "firewall",
+    "ids-ips",
+    "intrusion-detection",
+    "intrusion-prevention",
+    "kubernetes",
+    "modsecurity",
+    "threat-intelligence",
+    "waap",
+    "web-application-firewall",
+    "web-security"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-14T04:23:33.407Z"
+}

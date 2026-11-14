@@ -1,0 +1,44 @@
+{
+  "id": "778ee2c9-64ed-4fa6-b085-ab5fa460f706",
+  "repo": "kajisho5/ffmpeg-skill",
+  "url": "https://github.com/kajisho5/ffmpeg-skill",
+  "category": "AI Agent/Automation",
+  "summary": "Một bộ 42 công cụ FFmpeg cho coding agents, cho phép cắt, thêm caption, reframe, normalize loudness và xuất platform một cách local, không cần cloud hay API keys, kèm hợp đồng máy-readable và MCP server.",
+  "usecases": [
+    "AI agents tự động cắt và chỉnh sửa video cho các tutorial hoặc demo code.",
+    "Tạo caption và subtitle tự động cho nội dung video sử dụng Whisper.",
+    "Chuẩn hóa âm lượng và xuất video đa nền tảng cho sản phẩm SaaS hoặc nội dung truyền thông."
+  ],
+  "ideas": [
+    "Kết hợp với Claude Code để tự động tạo highlight reel từ code walkthroughs.",
+    "Xây dựng pipeline tự động hóa video cho các channel YouTube hoặc TikTok từ repo code.",
+    "Mở rộng thành plugin cho các IDE để edit video trực tiếp từ codebase."
+  ],
+  "stars": 5458,
+  "starsToday": 168,
+  "language": "Python",
+  "topics": [
+    "audio-processing",
+    "captions",
+    "ffmpeg",
+    "subtitles",
+    "video",
+    "video-editing",
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "cursor",
+    "loudness-normalization",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "transcoding",
+    "whisper",
+    "gemini-cli-extension"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-14T04:23:33.407Z"
+}

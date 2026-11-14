@@ -1,0 +1,41 @@
+{
+  "id": "bd997cde-4af3-487c-9649-e93c7031693a",
+  "repo": "Gentleman-Programming/gentle-ai",
+  "url": "https://github.com/Gentleman-Programming/gentle-ai",
+  "category": "Developer Tool",
+  "summary": "Gentle-AI là công cụ mã nguồn mở cấu hình và quản lý AI coding agents (Claude Code, Cursor, Codex...) với tính năng bộ nhớ dài hạn, Organic-Driven Development và review bounded, loại bỏ lock-in agent.",
+  "usecases": [
+    "Quản lý đồng bộ các AI coding agents cho team phát triển, đảm bảo code style và architecture nhất quán",
+    "Tận dụng bộ nhớ persistent và personas để agent nhớ ngữ cảnh dự án qua nhiều phiên làm việc",
+    "Tự động hóa Code Review với bounded review, cân bằng giữa hiệu suất AI và kiểm soát con người"
+  ],
+  "ideas": [
+    "Phát triển plugin VS Code giao tiếp trực tiếp với Gentle-AI để điều chỉnh parameters trên fly",
+    "Tạo marketplace skills cho cộng đồng đóng các curated skills cho domain hoặc ngôn ngữ cụ thể",
+    "Kết hợp MCP (Model Context Protocol) để agent tự động truy cập tài liệu từ repo GitHub"
+  ],
+  "stars": 9142,
+  "starsToday": 242,
+  "language": "Go",
+  "topics": [
+    "ai-coding",
+    "claude-code",
+    "code-review",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "golang",
+    "llm",
+    "mcp",
+    "opencode",
+    "persistent-memory",
+    "spec-driven-development",
+    "agent-skills",
+    "ai-agents",
+    "codex",
+    "coding-agents",
+    "pi"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-14T04:23:33.407Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "85e19038-f853-4e84-bda3-01353d8947ac",
+  "repo": "OpenWhispr/openwhispr",
+  "url": "https://github.com/OpenWhispr/openwhispr",
+  "category": "AI/LLM",
+  "summary": "Ứng dụng ghi âm giọng nói chuyển thành văn bản đa nền tảng, sử dụng mô hình local (Nvidia Parakeet/Whisper) và cloud, chú trọng bảo mật dữ liệu.",
+  "usecases": [
+    "Ghi chép nhanh và trích xuất văn bản từ âm thanh trên desktop/laptop",
+    "Dịch vụ nhập liệu văn bản cho ứng dụng di động an toàn với mô hình local",
+    "Tích hợp nhận dạng giọng nói vào sản phẩm phần mềm với tùy chọn cloud BYOK"
+  ],
+  "ideas": [
+    "Ứng dụng ghi âm hội thoại tự động tóm tắt và tạo bản án",
+    "Tính năng điều khiển ứng dụng bằng giọng nói với các mô hình AI nhẹ",
+    "Xây dựng công cụ biên tập âm thanh real-time với speech-to-text"
+  ],
+  "stars": 11521,
+  "starsToday": 79,
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "open-source",
+    "whisper",
+    "anthropic",
+    "cross-platform",
+    "gemini",
+    "groq",
+    "linux",
+    "macos",
+    "openai",
+    "speech-to-text",
+    "transcribe",
+    "windows",
+    "nvidia",
+    "parakeet"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-14T04:23:33.407Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "a1dacceb-1481-4a6b-a763-2f529045e931",
+  "repo": "Likely7/Veyra-NRVideo",
+  "url": "https://github.com/Likely7/Veyra-NRVideo",
+  "category": "Desktop App",
+  "summary": "Veyra-NRVideo là ứng dụng video player và capture enhancement cho Windows, tích hợp AI Super Resolution, DLSS 5 và Frame Generation để nâng tường hóa FPS và chất lượng hình ảnh, đặc biệt cho gaming trên console.",
+  "usecases": [
+    "Nâng tường hóa FPS cho game kết nối console (như GTA6 PS5) để trải nghiệm mượt mà trên PC",
+    "Cải thiện chất lượng video livestream/realtime capture với AI Super Resolution cho content creator",
+    "Hỗ trợ xử lý video capture card với DLSS 5 cho các hiệu ứng hình ảnh nâng cao"
+  ],
+  "ideas": [
+    "Phát triển plugin OBS tích hợp DLSS 5 và frame generation cho livestream trực tiếp",
+    "Tạo studio video AI di động kết hợp nhiều capture card và xử lý offline",
+    "Mở API cho phép tích hợp vào các phần mềm editing video khác như Premiere Pro hoặc DaVinci Resolve"
+  ],
+  "stars": 1680,
+  "starsToday": 256,
+  "language": "C++",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-14T04:23:33.407Z"
+}
