@@ -1,0 +1,23 @@
+{
+  "id": "64a339bc-bb77-40b7-bbd4-522cfb882c13",
+  "repo": "actions/checkout",
+  "url": "https://github.com/actions/checkout",
+  "category": "DevOps/CI-CD",
+  "summary": "Action GitHub cho phép checkout repository trong workflows CI/CD, cung cấp mã nguồn cho các action tiếp theo.",
+  "usecases": [
+    "Chạy các action khác trong workflow GitHub Actions cần truy cập mã nguồn.",
+    "Cấu hình CI/CD để các bước kiểm tra, build chạy trên code vừa checkout.",
+    "Isolate môi trường chạy cho các script và công cụ trong pipeline."
+  ],
+  "ideas": [
+    "Kết hợp caching để tối ưu tốc độ workflow lặp lại.",
+    "Tự động hóa checkout đa repository trong cùng một workflow CI.",
+    "Tạo custom action wrapper cho các kịch thuật deploy phức tạp."
+  ],
+  "stars": 9017,
+  "starsToday": 4,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-14T12:49:43.827Z"
+}

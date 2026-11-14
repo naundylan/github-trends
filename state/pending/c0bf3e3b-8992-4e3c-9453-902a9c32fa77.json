@@ -1,0 +1,26 @@
+{
+  "id": "c0bf3e3b-8992-4e3c-9453-902a9c32fa77",
+  "repo": "modelcontextprotocol/go-sdk",
+  "url": "https://github.com/modelcontextprotocol/go-sdk",
+  "category": "AI/LLM",
+  "summary": "SDK Go chính thức cho Model Context Protocol, hỗ trợ xây dựng server/client giao tiếp với AI models theo chuẩn mở.",
+  "usecases": [
+    "Xây dựng server Model Context Protocol để cung cấp context cho các AI model.",
+    "Tích hợp SDK Go vào ứng dụng để quản lý context mô hình một cách đồng nhất.",
+    "Sử dụng trong hệ thống RAG để tối ưu truy xuất context."
+  ],
+  "ideas": [
+    "Kết hợp với LangChain hoặc các framework AI mở rộng khả năng context.",
+    "Xây dựng giao diện quản lý prompt và context cho dự án AI nội bộ.",
+    "Áp dụng trong các hệ thống chatbot cần context dài hạn và đồng nhất."
+  ],
+  "stars": 5345,
+  "starsToday": 2,
+  "language": "Go",
+  "topics": [
+    "go",
+    "mcp"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-14T12:49:43.827Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1c3a26a6-37c4-4489-9db0-102e5f4f325f",
+  "repo": "callstack/agent-device",
+  "url": "https://github.com/callstack/agent-device",
+  "category": "AI Agent/Automation",
+  "summary": "Mô hình thiết bị mã nguồn mở cho AI coding agents, cung cấp CLI, MCP server và API typed để điều khiển ứng dụng mobile, web, TV và desktop trên thiết bị và simulator, cả locally lẫn cloud.",
+  "usecases": [
+    "Tự động hóa kiểm thử E2E trên thiết bị mobile thực và emulator Android/iOS bằng AI agents.",
+    "Điều khiển và tương tác với ứng dụng TV, desktop từ xa thông qua CLI và API cho các quy trình AI.",
+    "Tích hợp MCP server để mở rộng khả năng kiểm soát thiết bị trong các hệ thống automation phức tạp."
+  ],
+  "ideas": [
+    "Phát triển dashboard thống nhất để theo dõi và điều khiển nhiều thiết bị simulators cùng lúc thông qua AI agents.",
+    "Tích hợp ghi màn hình và phân tích hiệu năng để AI tự động tối ưu hiệu suất ứng dụng.",
+    "Tạo mạng lưới phân tán các device layer cho team test AI agents trên các môi trường khác nhau."
+  ],
+  "stars": 5386,
+  "starsToday": 21,
+  "language": "TypeScript",
+  "topics": [
+    "agentic-ai",
+    "agents",
+    "automation",
+    "mobile",
+    "testing",
+    "adb",
+    "android-emulator",
+    "e2e-testing",
+    "expo",
+    "ios-simulator",
+    "mcp",
+    "react-native",
+    "xcuitest",
+    "ai-agents",
+    "flutter",
+    "mobile-testing",
+    "performance-optimization"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-14T12:49:43.826Z"
+}

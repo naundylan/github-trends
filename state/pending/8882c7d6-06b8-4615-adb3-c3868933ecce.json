@@ -1,0 +1,23 @@
+{
+  "id": "8882c7d6-06b8-4615-adb3-c3868933ecce",
+  "repo": "vernette/warpscout",
+  "url": "https://github.com/vernette/warpscout",
+  "category": "Networking",
+  "summary": "Quét và tìm các endpoint Cloudflare WARP hoạt động, hiển thị vùng khu vực thoát và nút edge node mà chúng kết nối.",
+  "usecases": [
+    "Tìm endpoint WARP nhanh chóng để kiểm tra kết nối và vị trí địa lý.",
+    "Giúp debug và tối ưu cấu hình WireGuard/AWS Gateway/Masquerade trong môi trường Cloudflare.",
+    "Theo dõi và xác minh các nút edge Cloudflare đang hoạt động cho traffic đi ra."
+  ],
+  "ideas": [
+    "Kết hợp với dashboard monitoring để hiển thị real-time exit node geography.",
+    "Tạo script tự động chọn endpoint WARP tốt nhất dựa trên latency và vị trí.",
+    "Sử dụng dữ liệu quét để cải thiện cấu hình WireGuard cho doanh nghiệp."
+  ],
+  "stars": 651,
+  "starsToday": 9,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-11-14T12:49:43.826Z"
+}

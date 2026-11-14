@@ -4479,32 +4479,42 @@
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-13"
   },
-  "Likely7/Veyra-NRVideo": {
+  "microsoft/power-platform-skills": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-14"
   },
-  "realiti4/claude-swap": {
+  "elementalsouls/Claude-BugHunter": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-14"
   },
-  "kajisho5/ffmpeg-skill": {
+  "EveryInc/compound-engineering-plugin": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-14"
   },
-  "a2ui-project/a2ui": {
+  "callstack/agent-device": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-14"
   },
-  "crowdsecurity/crowdsec": {
+  "actions/checkout": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-14"
   },
-  "cli/cli": {
+  "modelcontextprotocol/go-sdk": {
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "last_saved": "2026-11-14"
+  },
+  "vernette/warpscout": {
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "last_saved": "2026-11-14"
+  },
+  "kubescape/kubescape": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-14"
