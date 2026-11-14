@@ -1,0 +1,23 @@
+{
+  "id": "833a9506-bba7-4f20-8100-42fb4113b24a",
+  "repo": "Likely7/Veyra-NRVideo",
+  "url": "https://github.com/Likely7/Veyra-NRVideo",
+  "category": "AI/LLM",
+  "summary": "Veyra-NRVideo là ứng dụng video nâng cấp Windows sử dụng AI và DLSS 5 để tăng fps, cung cấp siêu phân giải và enhancement hình ảnh thời gian thực cho video, ảnh và capture card.",
+  "usecases": [
+    "Tăng fps cho game GTA6 trên PC để đạt 120fps",
+    "Nâng cao chất lượng video livestream từ capture card trong thời gian thực",
+    "Phát triển siêu phân giải cho video low-resolution trên Windows"
+  ],
+  "ideas": [
+    "Kết hợp với driver GPU để tối ưu hiệu suất chơi game trên màn hình cao tần số refresh",
+    "Mở rộng hỗ trợ cho Linux và macOS để nâng cấp trải nghiệm multimedia toàn cầu",
+    "Tùy chỉnh mức tăng fps dựa trên cấu hình phần cứng người dùng"
+  ],
+  "stars": 2074,
+  "starsToday": 423,
+  "language": "C++",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-14T19:41:24.304Z"
+}

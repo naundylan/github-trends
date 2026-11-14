@@ -1,0 +1,29 @@
+{
+  "id": "90d4a448-df85-4ef8-a8de-72bdc58e2357",
+  "repo": "LibreTranslate/LibreTranslate",
+  "url": "https://github.com/LibreTranslate/LibreTranslate",
+  "category": "NLP",
+  "summary": "LibreTranslate là API dịch máy mã nguồn mở và tự-hosted, cho phép dịch văn bản chính xác ngoại tuyến và tích hợp dễ dàng vào ứng dụng cần hỗ trợ đa ngôn ngữ.",
+  "usecases": [
+    "Dịch nội dung cho ứng dụng web và di động không phụ thuộc dịch vụ bên ngoài",
+    "Hỗ trợ dịch cho hệ thống nội bộ công ty trong môi trường an toàn",
+    "Dùng làm dịch máy cho dự án học tập và nghiên cứu NLP"
+  ],
+  "ideas": [
+    "Triển khai trên thiết bị IoT để dịch ngôn ngữ tức thì không cần internet",
+    "Kết hợp với tự động hóa tạo caption video đa ngôn ngữ",
+    "Mở rộng hỗ trợ cho nhiều cặp ngôn ngữ và tùy chỉnh mô hình cho ngành nghề cụ thể"
+  ],
+  "stars": 17706,
+  "starsToday": 130,
+  "language": "Python",
+  "topics": [
+    "translation",
+    "translate",
+    "api",
+    "machine",
+    "translator"
+  ],
+  "notePath": "notes/NLP.md",
+  "createdAt": "2026-11-14T19:41:24.304Z"
+}

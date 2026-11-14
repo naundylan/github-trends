@@ -1,0 +1,28 @@
+{
+  "id": "9e43126e-a4a9-4290-b5c8-629ee1fe79ba",
+  "repo": "aaif-goose/goose",
+  "url": "https://github.com/aaif-goose/goose",
+  "category": "AI Agent/Automation",
+  "summary": "AI agent mã nguồn mở có thể cài đặt, thực thi, sửa đổi và kiểm tra với bất kỳ LLM nào, mở rộng khả năng tự động hóa vượt quá gợi ý code.",
+  "usecases": [
+    "Tự động hóa quy trình phát triển phần mềm bằng thực thi và sửa đổi code thông qua LLM",
+    "Quản trị hệ thống và triển khai tự động với các agent AI",
+    "Tích hợp trong pipeline CI/CD để review code và sửa bug tự động"
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu vector để tạo hệ thống tìm kiếm thông minh và tự động hóa quy trình",
+    "Xây dựng đa-agent hệ thống phân tán giải quyết vấn đề phức tạp",
+    "Phát triển giao diện quản lý agent cho các đội ngũ không có kỹ thuật"
+  ],
+  "stars": 56613,
+  "starsToday": 72,
+  "language": "Rust",
+  "topics": [
+    "mcp",
+    "acp",
+    "ai",
+    "ai-agents"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-14T19:41:24.304Z"
+}

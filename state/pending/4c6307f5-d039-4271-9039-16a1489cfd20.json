@@ -1,0 +1,32 @@
+{
+  "id": "4c6307f5-d039-4271-9039-16a1489cfd20",
+  "repo": "pnnbao97/VieNeu-TTS",
+  "url": "https://github.com/pnnbao97/VieNeu-TTS",
+  "category": "Machine Learning",
+  "summary": "VieNeu-TTS là mô hình Text-to-speech tiếng Việt dựa trên deep learning, hỗ trợ clone giọng nói tức instant và inference trên CPU thực thời với chất lượng audio 48kHz.",
+  "usecases": [
+    "Instant Vietnamese voice cloning for content creation and virtual assistants.",
+    "On-device real-time TTS for privacy-focused apps without cloud dependency.",
+    "Real-time audio generation for interactive apps, education, or accessibility tools."
+  ],
+  "ideas": [
+    "Build a local Vietnamese TTS keyboard extension for messaging apps.",
+    "Create a real-time language learning platform with AI-generated pronunciation.",
+    "Combine with speech-to-text for a closed-loop Vietnamese voice assistant system."
+  ],
+  "stars": 3331,
+  "starsToday": 37,
+  "language": "Python",
+  "topics": [
+    "deep-learning",
+    "text-to-speech",
+    "on-device-ml",
+    "real-time",
+    "speech-synthesis",
+    "tts",
+    "vietnamese-language",
+    "vietnamese"
+  ],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-11-14T19:41:24.304Z"
+}

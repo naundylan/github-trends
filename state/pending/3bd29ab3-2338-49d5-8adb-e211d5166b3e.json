@@ -1,0 +1,30 @@
+{
+  "id": "3bd29ab3-2338-49d5-8adb-e211d5166b3e",
+  "repo": "dreammis/social-auto-upload",
+  "url": "https://github.com/dreammis/social-auto-upload",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ tự động hóa Python để tải video lên các nền tảng xã hội như TikTok, YouTube, Bilibili, Douyin, Xiaohongshu và Video Channel.",
+  "usecases": [
+    "Tự động lên video cho các kênh nội dung đa nền tảng mà không cần can thiệp thủ công.",
+    "Lên lịch và xuất video đồng thời đến nhiều nền tảng từ một nguồn gốc.",
+    "Tích hợp với pipeline tạo video AI để tự động hoàn thiện và đăng tải nội dung."
+  ],
+  "ideas": [
+    "Thêm khả năng tối ưu thẻ và mô tả cho từng nền tảng dựa trên thuật toán nền tảng.",
+    "Xây dựng dashboard theo dõi trạng thái tải và hiệu suất video trên các nền tảng.",
+    "Hỗ trợ tải lên video dài dạng phách (shorts/reels) với tự động crop và định dạng chuyển đổi."
+  ],
+  "stars": 16543,
+  "starsToday": 43,
+  "language": "Python",
+  "topics": [
+    "bilibili",
+    "douyin",
+    "tiktok",
+    "xiaohongshu",
+    "youtube",
+    "agent-skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-14T19:41:24.304Z"
+}

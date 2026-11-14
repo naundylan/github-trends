@@ -1,7 +1,7 @@
 {
   "JuliusBrussee/caveman": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-10-28"
   },
   "obra/superpowers": {
@@ -326,7 +326,7 @@
   },
   "dream-num/univer": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-11-11"
   },
   "charmbracelet/crush": {
@@ -571,7 +571,7 @@
   },
   "moeru-ai/airi": {
     "first_seen": "2026-08-25",
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-10-25"
   },
   "oblien/openship": {
@@ -1906,7 +1906,7 @@
   },
   "juliangarnier/anime": {
     "first_seen": "2026-09-21",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-10-27"
   },
   "paperless-ngx/paperless-ngx": {
@@ -2256,7 +2256,7 @@
   },
   "ashhart/TensorFold": {
     "first_seen": "2026-09-28",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-11-12"
   },
   "microsoft/SkillOpt": {
@@ -2301,7 +2301,7 @@
   },
   "vllm-project/semantic-router": {
     "first_seen": "2026-09-29",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-10-29"
   },
   "temporalio/temporal": {
@@ -2371,8 +2371,8 @@
   },
   "bmad-code-org/BMAD-METHOD": {
     "first_seen": "2026-09-30",
-    "last_seen": "2026-10-18",
-    "last_saved": "2026-09-30"
+    "last_seen": "2026-11-14",
+    "last_saved": "2026-11-14"
   },
   "qbittorrent/search-plugins": {
     "first_seen": "2026-09-30",
@@ -2421,8 +2421,8 @@
   },
   "ag-ui-protocol/ag-ui": {
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-02",
-    "last_saved": "2026-10-01"
+    "last_seen": "2026-11-14",
+    "last_saved": "2026-11-14"
   },
   "Gaurav-Gosain/tuios": {
     "first_seen": "2026-10-01",
@@ -2531,7 +2531,7 @@
   },
   "zeronsh/zeron": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-10-27"
   },
   "FalkorDB/FalkorDB": {
@@ -2661,7 +2661,7 @@
   },
   "aquasecurity/trivy": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-11-03"
   },
   "ys-ll/uniterm": {
@@ -2761,7 +2761,7 @@
   },
   "martin-olivier/airgorah": {
     "first_seen": "2026-10-08",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-11-04"
   },
   "microsoft/mxc": {
@@ -3561,8 +3561,8 @@
   },
   "aaif-goose/goose": {
     "first_seen": "2026-10-24",
-    "last_seen": "2026-10-26",
-    "last_saved": "2026-10-24"
+    "last_seen": "2026-11-14",
+    "last_saved": "2026-11-14"
   },
   "xingkongliang/skills-manager": {
     "first_seen": "2026-10-24",
@@ -3651,7 +3651,7 @@
   },
   "Narcooo/inkos": {
     "first_seen": "2026-10-26",
-    "last_seen": "2026-10-27",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-10-26"
   },
   "nicobailon/pi-subagents": {
@@ -3706,7 +3706,7 @@
   },
   "kopia/kopia": {
     "first_seen": "2026-10-27",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-10-27"
   },
   "ShayanAbbas1/dbdelve": {
@@ -3766,7 +3766,7 @@
   },
   "trymirai/uzu": {
     "first_seen": "2026-10-28",
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-10-28"
   },
   "JetBrains/thinkrail": {
@@ -3841,7 +3841,7 @@
   },
   "tailscale/tailscale": {
     "first_seen": "2026-10-30",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-10-30"
   },
   "fatedier/frp": {
@@ -3891,7 +3891,7 @@
   },
   "0x0funky/agent-sprite-forge": {
     "first_seen": "2026-10-31",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-10-31"
   },
   "MemPalace/mempalace": {
@@ -4341,7 +4341,7 @@
   },
   "PenglongHuang/chinese-novelist-skill": {
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-11-11"
   },
   "krahets/hello-algo": {
@@ -4401,7 +4401,7 @@
   },
   "NVIDIA/SkillEvaluator": {
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-14",
     "last_saved": "2026-11-12"
   },
   "appwrite/appwrite": {
@@ -4479,42 +4479,47 @@
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-13"
   },
-  "microsoft/power-platform-skills": {
+  "Likely7/Veyra-NRVideo": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-14"
   },
-  "elementalsouls/Claude-BugHunter": {
+  "andrewyng/openworker": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-14"
   },
-  "EveryInc/compound-engineering-plugin": {
+  "pnnbao97/VieNeu-TTS": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-14"
   },
-  "callstack/agent-device": {
+  "mukul975/Anthropic-Cybersecurity-Skills": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-14"
   },
-  "actions/checkout": {
+  "dreammis/social-auto-upload": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-14"
   },
-  "modelcontextprotocol/go-sdk": {
+  "LibreTranslate/LibreTranslate": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-14"
   },
-  "vernette/warpscout": {
+  "FujiwaraChoki/supoclip": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-14"
   },
-  "kubescape/kubescape": {
+  "a2ui-project/a2ui": {
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "last_saved": "2026-11-14"
+  },
+  "projectdiscovery/nuclei": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-14",
     "last_saved": "2026-11-14"

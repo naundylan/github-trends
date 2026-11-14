@@ -1,0 +1,44 @@
+{
+  "id": "55204ae6-8926-4feb-957c-ecb0fd788951",
+  "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+  "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+  "category": "Security/Pentest",
+  "summary": "Bộ kỹ năng cybersecurity có cấu trúc 817 kỹ năng mapping 6 khung tiêu chuẩn, hỗ trợ AI agents trong an ninh mạng, phán hồi và kiểm tra xâm nhập.",
+  "usecases": [
+    "Tự động hóa phán hồi sự cố an ninh mạng với kỹ năng đã chuẩn hóa cho AI agents",
+    "Tích hợp với Claude Code/GitHub Copilot để thực hiện kiểm tra xâm nhập và phân tích mã độc",
+    "Đào tạo và đánh giá năng lực an ninh cho hệ thống LLM dựa trên MITRE ATT&CK và NIST CSF"
+  ],
+  "ideas": [
+    "Tạo dashboard trực quan hóa mối đe dọa thời thực dựa trên kỹ năng này",
+    "Phát triển plugin IDE cảnh báo bảo mật khi code dựa trên 29 domain an ninh",
+    "Xây hệ thống tự động tuân compliance báo cáo sử dụng NIST AI RMF mapping kỹ năng"
+  ],
+  "stars": 36140,
+  "starsToday": 66,
+  "language": "Python",
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "cybersecurity",
+    "incident-response",
+    "mitre-attack",
+    "penetration-testing",
+    "red-team",
+    "security",
+    "cloud-security",
+    "malware-analysis",
+    "devsecops",
+    "ethical-hacking",
+    "infosec",
+    "llm",
+    "mcp",
+    "osint",
+    "security-automation",
+    "threat-intelligence",
+    "nist-csf",
+    "threat-hunting"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-14T19:41:24.304Z"
+}

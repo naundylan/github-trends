@@ -1,0 +1,23 @@
+{
+  "id": "20b05dba-9154-48b7-903d-fc5078ade1ab",
+  "repo": "FujiwaraChoki/supoclip",
+  "url": "https://github.com/FujiwaraChoki/supoclip",
+  "category": "AI/LLM",
+  "summary": "Phần mềm mã nguồn mở thay thế OpusClip, cho phép tạo dựng tự động video ngắn và tái sử dụng video dài.",
+  "usecases": [
+    "Tạo các đoạn video ngắn cho mạng xã hội từ video dài",
+    "Trích xuất tự động điểm nhấn cho tác giả nội dung",
+    "Xử lý hàng loạt file video để tái sử dụng"
+  ],
+  "ideas": [
+    "Thêm tạo phụ đề đa ngôn ngữ",
+    "Kết nối với lưu trữ đám mây cho quy trình tự động",
+    "Hỗ trợ các mô hình AI tùy chỉnh để chọn đoạn"
+  ],
+  "stars": 3089,
+  "starsToday": 91,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-14T19:41:24.304Z"
+}

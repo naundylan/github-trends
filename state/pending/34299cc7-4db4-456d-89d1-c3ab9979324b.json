@@ -1,0 +1,23 @@
+{
+  "id": "34299cc7-4db4-456d-89d1-c3ab9979324b",
+  "repo": "andrewyng/openworker",
+  "url": "https://github.com/andrewyng/openworker",
+  "category": "AI Agent/Automation",
+  "summary": "Khung công cụ Python để xây dựng và quản lý các worker OpenAI-compatible và các đường ống tự động hóa.",
+  "usecases": [
+    "Thực thi tác vụ tự động qua các AI agent",
+    "Xử lý hàng loạt yêu cầu AI",
+    "Hoành hành công việc cho các ứng dụng LLM"
+  ],
+  "ideas": [
+    "Kết hợp với local LLMs để tự động hóa riêng tư",
+    "Xây dựng giao diện web để quản lý AI workers",
+    "Tạo marketplace cho các script worker tái sử dụng"
+  ],
+  "stars": 19198,
+  "starsToday": 94,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-14T19:41:24.304Z"
+}
