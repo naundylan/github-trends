@@ -1,0 +1,31 @@
+{
+  "id": "c2698453-1952-4c1d-a690-336019fa688e",
+  "repo": "antithesishq/bombadil",
+  "url": "https://github.com/antithesishq/bombadil",
+  "category": "Testing/QA",
+  "summary": "Thư viện property-based testing cho phép tự động tạo và kiểm thử đầu vào cho giao diện web và terminal, giúp phát hiện lỗi hành vi mà test truyền thống dễ bỏ lỡ.",
+  "usecases": [
+    "Tự động test tương tác UI trong trình duyệt với Playwright",
+    "Kiểm thử regressions cho các lệnh terminal và CLI",
+    "Integrate vào CI/CD để phát hiện lỗi hành vi sớm"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình AI để test đầu vào tự động cho chatbot UI",
+    "Tạo property-based test cho các component đồ họa terminal",
+    "Phát triển DSL riêng để định nghĩa properties cho UI behavior"
+  ],
+  "stars": 1937,
+  "starsToday": 189,
+  "language": "Rust",
+  "topics": [
+    "antithesis",
+    "pbt",
+    "playwright",
+    "property-based-testing",
+    "testing",
+    "ui",
+    "web"
+  ],
+  "notePath": "notes/Testing-QA.md",
+  "createdAt": "2026-11-15T18:19:57.360Z"
+}

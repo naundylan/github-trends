@@ -1,0 +1,40 @@
+{
+  "id": "ebdb0ed4-3d9f-49ec-b9ef-4f33143bfe53",
+  "repo": "elementalsouls/Claude-BugHunter",
+  "url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "category": "Security/Pentest",
+  "summary": "Một bundle kỹ năng cho Claude Code gồm 82 kỹ năng, 15 lệnh slash và 681 mẫu pattern vulnerability được curate across 24 lớp chính, dùng cho bug hunting, red-team và báo cáo bảo mật doanh nghiệp.",
+  "usecases": [
+    "Tự động pentest web applications bằng các pattern vulnerability đã披露.",
+    "Sinh báo cáo cấu trúc cho submissions bug bounty.",
+    "Kết nối vào CI/CD pipelines để scan code và infrastructure cho dấu hiệu vulnerability biết."
+  ],
+  "ideas": [
+    "Tạo dashboard trực quan ánh xạ vulnerability tìm được đến framework ATT&CK.",
+    "Mở rộng bundle để include heuristics pattern zero-day dựa trên xu hướng CVE.",
+    "Xây dựng platform cộng tác cho nhiều agent pooling findings vào database threat intelligence chung."
+  ],
+  "stars": 6139,
+  "starsToday": 221,
+  "language": "Python",
+  "topics": [
+    "ai-security",
+    "anthropic",
+    "application-security",
+    "bug-bounty",
+    "bugbounty",
+    "bugcrowd",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "ethical-hacking",
+    "hackerone",
+    "offensive-security",
+    "pentesting",
+    "red-team",
+    "security-tools",
+    "web-security"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-15T18:19:57.360Z"
+}

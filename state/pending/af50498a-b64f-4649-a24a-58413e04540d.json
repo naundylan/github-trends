@@ -1,0 +1,39 @@
+{
+  "id": "af50498a-b64f-4649-a24a-58413e04540d",
+  "repo": "bojieli/ai-infra-book",
+  "url": "https://github.com/bojieli/ai-infra-book",
+  "category": "AI/LLM",
+  "summary": "Sách mở源详细量化分析 hệ thống AI, từ giới hạn phần cứng đến kiến trúc mô hình, hướng dẫn xây dựng hệ thống inference và training LLM.",
+  "usecases": [
+    "Hiểu và tham khảo thiết kế hệ thống inference LLM cho sản xuất",
+    "Tối ưu hóa kv-cache và distributed training dựa trên nội dung sách",
+    "Giáo reference cho kiến trúc datacenter-network và performance engineering cho AI"
+  ],
+  "ideas": [
+    "Xây dựng dashboard giám sát hiệu suất inference theo hướng sách",
+    "Tích hợp các kỹ thuật MoE vào dự án LLM cá nhân",
+    "Tạo series bài viết hoặc video설명 các章节 cho developer"
+  ],
+  "stars": 7813,
+  "starsToday": 151,
+  "language": "Python",
+  "topics": [
+    "accelerator",
+    "ai-infra",
+    "ai-infrastructure",
+    "book",
+    "datacenter-network",
+    "deepseek",
+    "distributed-systems",
+    "gpu",
+    "kv-cache",
+    "llm",
+    "llm-inference",
+    "llm-serving",
+    "llm-training",
+    "mixture-of-experts",
+    "performance-engineering"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-15T18:19:57.360Z"
+}

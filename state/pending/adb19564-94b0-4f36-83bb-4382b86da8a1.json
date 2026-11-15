@@ -1,0 +1,26 @@
+{
+  "id": "adb19564-94b0-4f36-83bb-4382b86da8a1",
+  "repo": "fqscfqj/Y2A-Auto",
+  "url": "https://github.com/fqscfqj/Y2A-Auto",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ tự động hóa Python để cross-post video giữa YouTube, AcFun và Bilibili, tích hợp AI dịch thuật, sinh tự động phụ đề và kiểm tra nội dung.",
+  "usecases": [
+    "Tự động搬运 video nội dung đa nền tảng cho creator và MCN.",
+    "Tạo phụ đề đa ngôn ngữ cho video để mở rộng khán giả quốc tế.",
+    "Giám sát và lọc nội dung vi phạm tự động cho các nền tảng video."
+  ],
+  "ideas": [
+    "Kết hợp với API nhận diện giọng nói để tạo phụ đề chính xác hơn và hỗ trợ nhiều ngôn ngữ.",
+    "Tự động hóa lịch trình đăng tải và tối ưu hóa metadata cho từng nền tảng.",
+    "Phát triển module phân tích hiệu suất video cross-platform và đề xuất cải thiện."
+  ],
+  "stars": 5009,
+  "starsToday": 99,
+  "language": "Python",
+  "topics": [
+    "acfun",
+    "bilibili"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-15T18:19:57.360Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "76063c03-1317-48e8-ae96-de86e2379f59",
+  "repo": "kajisho5/ffmpeg-skill",
+  "url": "https://github.com/kajisho5/ffmpeg-skill",
+  "category": "AI Agent/Automation",
+  "summary": "Một bộ công cụ FFmpeg dựa trên Python với 42 lệnh xử lý video/audio, hợp đồng máy-readable và MCP server, cho phép các coding agent như Claude Code, Cursor và Codex thực hiện cắt, phụ đề, điều chỉnh âm lượng và xuất nền tảng hoàn toàn cục bộ, không cần API hay đám mây.",
+  "usecases": [
+    "Tự động tạo phụ đề và caption cho nội dung video AI-generated.",
+    "Batch transcoding và reformatting video cho nhiều nền tảng xuất khẩu.",
+    "Chuẩn hóa loudness real-time cho podcast và sản xuất âm thanh."
+  ],
+  "ideas": [
+    "Bọc thành CLI nhận lệnh tự nhiên để sửa video (ví dụ: 'cắt 5 giây đầu và thêm caption').",
+    "Kết hợp Whisper để sinh phụ đề đa ngôn ngữ rồi xử lý qua FFmpeg.",
+    "Tích hợp với local LLMs để tự động tạo báo cáo chỉnh sửa video từ phân tích nội dung."
+  ],
+  "stars": 5916,
+  "starsToday": 285,
+  "language": "Python",
+  "topics": [
+    "audio-processing",
+    "captions",
+    "ffmpeg",
+    "subtitles",
+    "video",
+    "video-editing",
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "cursor",
+    "loudness-normalization",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "transcoding",
+    "whisper",
+    "gemini-cli-extension"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-15T18:19:57.360Z"
+}

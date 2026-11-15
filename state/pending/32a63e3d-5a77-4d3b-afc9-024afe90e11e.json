@@ -1,0 +1,34 @@
+{
+  "id": "32a63e3d-5a77-4d3b-afc9-024afe90e11e",
+  "repo": "HKUDS/Vibe-Trading",
+  "url": "https://github.com/HKUDS/Vibe-Trading",
+  "category": "AI Agent/Automation",
+  "summary": "Trading agent AI cá nhân sử dụng LLM và đa tác nhân cho backtesting và giao dịch thuật toán.",
+  "usecases": [
+    "Automate crypto or stock trading strategies with LLM-driven decision making",
+    "Perform backtesting of multi-agent trading strategies on historical market data",
+    "Prototype quantitative finance workflows for fintech product development"
+  ],
+  "ideas": [
+    "Integrate real-time market data feeds for live trading execution",
+    "Add risk management modules with position sizing and stop-loss controls",
+    "Deploy as a serverless trading bot on cloud platforms like AWS or GCP"
+  ],
+  "stars": 38309,
+  "starsToday": 83,
+  "language": "Python",
+  "topics": [
+    "backtesting",
+    "multi-agent",
+    "quantitative-finance",
+    "trading",
+    "ai-agent",
+    "algorithmic-trading",
+    "fintech",
+    "llm",
+    "mcp",
+    "python"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-15T18:19:57.360Z"
+}

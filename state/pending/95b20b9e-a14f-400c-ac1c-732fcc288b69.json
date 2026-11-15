@@ -1,0 +1,34 @@
+{
+  "id": "95b20b9e-a14f-400c-ac1c-732fcc288b69",
+  "repo": "assistant-ui/assistant-ui",
+  "url": "https://github.com/assistant-ui/assistant-ui",
+  "category": "UI/Component Library",
+  "summary": "Thư viện React/TypeScript cung cấp các component sẵn dùng để xây dựng giao diện chat AI tương tác.",
+  "usecases": [
+    "Build AI-powered chat interfaces for web applications",
+    "Integrate conversational AI assistants into customer support portals",
+    "Rapid prototype chatbot UIs using Radix UI and Shadcn components"
+  ],
+  "ideas": [
+    "Combine with LangChain to create autonomous AI agents",
+    "Add voice input/output support for multimodal conversational chats",
+    "Deploy as a Vercel AI SDK starter template for rapid SaaS development"
+  ],
+  "stars": 13231,
+  "starsToday": 92,
+  "language": "TypeScript",
+  "topics": [
+    "conversational-ai",
+    "radix-ui",
+    "shadcn",
+    "ui-components",
+    "copilot",
+    "chatbot",
+    "vercel-ai-sdk",
+    "ai-chatbot",
+    "react-chatbot",
+    "base-ui"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-11-15T18:19:57.360Z"
+}

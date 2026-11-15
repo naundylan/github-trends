@@ -1,0 +1,32 @@
+{
+  "id": "25956444-9c15-4c8e-a871-895d56e856fc",
+  "repo": "nolly-studio/cult-ui",
+  "url": "https://github.com/nolly-studio/cult-ui",
+  "category": "UI/Component Library",
+  "summary": "Thư viện thành phần UI được động và miễn phí, cung cấp hơn 150 component dựa trên shadcn/ui, Tailwind CSS và Motion cho các kỹ sư thiết kế.",
+  "usecases": [
+    "Nhanh chóng xây dựng giao diện người dùng trong dự án Next.js sử dụng các component đã có sẵn.",
+    "Tạo giao diện động và tương tác cao cho thiết kế web hiện đại.",
+    "Tích hợp component vào hệ thống design system tùy chỉnh cho team phát triển."
+  ],
+  "ideas": [
+    "Sử dụng làm foundation cho hệ thống design system nội bộ của công ty.",
+    "Kết hợp với Figma API để tự động đồng bộ component giữa thiết kế và code.",
+    "Phát triển theme động cho ứng dụng dựa trên các component có motion effect."
+  ],
+  "stars": 7450,
+  "starsToday": 120,
+  "language": "TypeScript",
+  "topics": [
+    "components",
+    "design-engineering",
+    "framer-motion",
+    "nextjs",
+    "react",
+    "shadcn-ui",
+    "tailwindcss",
+    "typescript"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-11-15T18:19:57.360Z"
+}

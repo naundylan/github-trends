@@ -1,0 +1,27 @@
+{
+  "id": "8c649282-df4c-43f3-a8b4-14aded1a740f",
+  "repo": "motion-canvas/motion-canvas",
+  "url": "https://github.com/motion-canvas/motion-canvas",
+  "category": "Data Visualization",
+  "summary": "Một thư viện TypeScript cho phép tạo trực quan hóa tương tác và trình chiếu động học ý tưởng qua code, hỗ trợ animation và presentation trên web.",
+  "usecases": [
+    "Tạo bài thuyết trình động học cho giáo dục và training.",
+    "Thiết kế animation cho website và ứng dụng web.",
+    "Phản hồi trực quan cho dữ liệu hoặc quy trình phức tạp."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tự động tạo animation từ văn bản mô tả.",
+    "Sử dụng làm nền tảng cho dashboard trực quan tương tác.",
+    "Phát triển plugin cho code editor để preview animation trực tiếp."
+  ],
+  "stars": 19942,
+  "starsToday": 112,
+  "language": "TypeScript",
+  "topics": [
+    "animation",
+    "presentation",
+    "visualization"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-11-15T18:19:57.360Z"
+}
