@@ -1,0 +1,40 @@
+{
+  "id": "6083dc83-1a48-46a7-956d-ab5d90ca17e0",
+  "repo": "lance-format/lance",
+  "url": "https://github.com/lance-format/lance",
+  "category": "Data Engineering/ETL",
+  "summary": "Lance là định dạng Lakehouse mở cho AI đa phương thức, chuyển đổi file Parquet chỉ bằng 2 dòng mã nguồn, tăng tốc truy cập ngẫu nhiên, vector index và version dữ liệu; tương thích với Pandas, DuckDB, Polars, Pyarrow, PyTorch.",
+  "usecases": [
+    "Xử lý dữ liệu multimodal cho mô hình AI cần truy cập nhanh.",
+    "Chuyển đổi dữ liệu từ Parquet sang format Lakehouse với hiệu suất cao.",
+    "Hỗ trợ vector database và versioning dữ liệu."
+  ],
+  "ideas": [
+    "Tích hợp trực tiếp với Polars và PyTorch để tối ưu suy luận.",
+    "Mở rộng hỗ trợ cho các loại dữ liệu nhúng (embeddings) và LLM.",
+    "Thiết kế CLI đơn giản để tải và xử lý dữ liệu."
+  ],
+  "stars": 7311,
+  "starsToday": 4,
+  "language": "Rust",
+  "topics": [
+    "machine-learning",
+    "computer-vision",
+    "data-format",
+    "deep-learning",
+    "python",
+    "apache-arrow",
+    "duckdb",
+    "mlops",
+    "data-analysis",
+    "data-analytics",
+    "data-science",
+    "dataops",
+    "data-centric",
+    "embeddings",
+    "rust",
+    "llms"
+  ],
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-11-15T10:17:20.190Z"
+}

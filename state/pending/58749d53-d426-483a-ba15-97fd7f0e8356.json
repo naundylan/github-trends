@@ -1,0 +1,26 @@
+{
+  "id": "58749d53-d426-483a-ba15-97fd7f0e8356",
+  "repo": "rust-lang/rust-clippy",
+  "url": "https://github.com/rust-lang/rust-clippy",
+  "category": "Developer Tool",
+  "summary": "Rust-clippy là bộ linter cho Rust, giúp phát hiện lỗi và cải thiện chất lượng code theo các chuẩn mực của cộng đồng.",
+  "usecases": [
+    "Phát hiện và sửa lỗi phổ biến trong code Rust trước khi triển khai sản xuất.",
+    "Tích hợp trong CI/CD để đảm bảo chất lượng code tuân thủ chuẩn mực trước khi merge.",
+    "Giúp người mới học Rust nhanh chóng làm quen với phong cách code idiomatic thông qua các cảnh báo hướng dẫn."
+  ],
+  "ideas": [
+    "Tự động sửa lỗi được phát hiện thông qua custom lints và scripts hook vào quy trình build.",
+    "Kết hợp với Large Language Models để giải thích và tự động sửa các cảnh báo của Clippy.",
+    "Tạo báo cáo chất lượng code định kỳ để theo dõi tiến triển của team trong thời gian."
+  ],
+  "stars": 13656,
+  "starsToday": 5,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "lint"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-15T10:17:20.190Z"
+}

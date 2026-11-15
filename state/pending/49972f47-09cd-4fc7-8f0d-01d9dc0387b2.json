@@ -1,0 +1,33 @@
+{
+  "id": "49972f47-09cd-4fc7-8f0d-01d9dc0387b2",
+  "repo": "LodyAI/Lody",
+  "url": "https://github.com/LodyAI/Lody",
+  "category": "AI Agent/Automation",
+  "summary": "Cho phép chia sẻ và collaboration coding agents giữa team trên desktop và mobile, hỗ trợ agentic workflow, orchestration và vibe-coding đa nền tảng.",
+  "usecases": [
+    "Phân phối coding agents cho nhiều thành viên team trên các thiết bị khác nhau.",
+    "Hỗ trợ orchestration agentic workflow trong dự án phát triển phần mềm.",
+    "Kết hợp với local-first để đảm bảo dữ liệu và trạng thái agent được đồng bộ an toàn."
+  ],
+  "ideas": [
+    "Xây dựng marketplace agent cho phép bán/shared coding agents.",
+    "Phát triển VS Code extension tích hợp Lody agent cho coding trực tiếp.",
+    "Tạo hệ thống điểm danh và theo track tiến độ qua nhiều project agent."
+  ],
+  "stars": 1773,
+  "starsToday": 9,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "agentic-workflow",
+    "coding-agent",
+    "collaboration",
+    "local-first",
+    "multi-agent",
+    "multiplayer",
+    "orchestration",
+    "vibe-coding"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-15T10:17:20.190Z"
+}

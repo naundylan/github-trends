@@ -1,0 +1,23 @@
+{
+  "id": "5fd561d3-eb40-4c43-a9fc-e80fbcfaa94a",
+  "repo": "opentofu/opentofu",
+  "url": "https://github.com/opentofu/opentofu",
+  "category": "Infrastructure as Code",
+  "summary": "OpenTofu là công cụ infrastructure as code mã nguồn mở, fork từ Terraform, cho phép quản lý hạ tầng đám mây theo cách khai báo. Điểm nổi bật là hoàn toàn open-source, tương thích ngược với cấu hình Terraform và có cộng đồng phát triển mạnh mẽ.",
+  "usecases": [
+    "Provision và quản lý hạ tầng multi-cloud (AWS, Azure, GCP) bằng code",
+    "Tự động hóa infrastructure deployment với version control",
+    "Tái sử dụng infrastructure modules cho các dự án khác nhau"
+  ],
+  "ideas": [
+    "Tích hợp vào CI/CD pipeline để tự động apply infrastructure changes",
+    "Kết hợp với policy as code tools để enforce compliance và security",
+    "Sử dụng cho GitOps workflow quản lý hạ tầng quy mô lớn"
+  ],
+  "stars": 30869,
+  "starsToday": 14,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Infrastructure-as-Code.md",
+  "createdAt": "2026-11-15T10:17:20.190Z"
+}

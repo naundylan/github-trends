@@ -1,0 +1,34 @@
+{
+  "id": "7bd7d9f9-6949-429b-9a8d-13b53eac0420",
+  "repo": "totec448-spec/chat-on-steroids",
+  "url": "https://github.com/totec448-spec/chat-on-steroids",
+  "category": "AI Agent/Automation",
+  "summary": "Cung cấp khả năng MCP cục bộ cross-platform cho ChatGPT với tích hợp Chrome/Electron, hỗ trợ quy trình đa tác nhân bền vững và tính năng Goal, Compact & Resume trên nhiều hệ điều hành.",
+  "usecases": [
+    "Tự động hóa tương tác ChatGPT và quản lý workflow đa tác nhân trên desktop.",
+    "Chạy cục bộ an toàn cho dữ liệu nhạy cảm mà không phụ thuộc cloud.",
+    "Tích hợp với Chrome extension để mở rộng khả năng ChatGPT trong môi trường làm việc."
+  ],
+  "ideas": [
+    "Sử dụng làm nền tảng cho ứng dụng AI desktop riêng với khả năng offline.",
+    "Kết hợp với n8n hoặc Zapier để tạo các automation workflow phức tạp.",
+    "Triển khai cho doanh nghiệp cần xử lý dữ liệu nhạy cảm cục bộ."
+  ],
+  "stars": 5190,
+  "starsToday": 10,
+  "language": "TypeScript",
+  "topics": [
+    "automation",
+    "chatgpt",
+    "chrome-extension",
+    "electron",
+    "linux",
+    "local-first",
+    "macos",
+    "mcp",
+    "multi-agent",
+    "windows"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-15T10:17:20.190Z"
+}

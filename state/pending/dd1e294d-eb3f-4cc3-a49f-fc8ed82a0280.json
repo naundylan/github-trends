@@ -1,0 +1,31 @@
+{
+  "id": "dd1e294d-eb3f-4cc3-a49f-fc8ed82a0280",
+  "repo": "kubescape/kubescape",
+  "url": "https://github.com/kubescape/kubescape",
+  "category": "DevOps/CI-CD",
+  "summary": "Kubescape là nền tảng bảo mật mã nguồn mở cho Kubernetes, cung cấp quét rủi ro, tuân compliance và phát hiện cấu hình sai trên IDE, pipeline CI/CD và clusters.",
+  "usecases": [
+    "Quét bảo mật Kubernetes trong pipeline CI/CD để phát hiện lỗ hổng và vi phạm compliance trước khi deploy.",
+    "Tích hợp vào IDE để developers kiểm tra cấu hình cluster trong thời gian thực.",
+    "Tuân thủ các chuẩn mực NSA MITRE ATT&CK cho Kubernetes clusters."
+  ],
+  "ideas": [
+    "Kết hợp với GitOps tools như ArgoCD để tự động khắc phục các lỗi cấu hình khi phát hiện.",
+    "Phát triển plugin cho VS Code hiển thị risk score trực tiếp trên code Kubernetes manifests.",
+    "Sử dụng kết quả quét để tự động điều chỉnh policy compliance trong các cluster multi-tenant."
+  ],
+  "stars": 11908,
+  "starsToday": 13,
+  "language": "Go",
+  "topics": [
+    "kubernetes",
+    "security",
+    "nsa",
+    "mitre-attack",
+    "devops",
+    "best-practice",
+    "vulnerability-detection"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-15T10:17:20.190Z"
+}

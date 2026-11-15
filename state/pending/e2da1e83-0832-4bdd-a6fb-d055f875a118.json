@@ -1,0 +1,36 @@
+{
+  "id": "e2da1e83-0832-4bdd-a6fb-d055f875a118",
+  "repo": "zulip/zulip",
+  "url": "https://github.com/zulip/zulip",
+  "category": "Web Frontend",
+  "summary": "Zulip là ứng dụng trò chuyện nhóm mã nguồn mở, cung cấp luồng tin nhắn có cấu trúc để teams giao tiếp hiệu quả và tập trung.",
+  "usecases": [
+    "Giao tiếp nội bộ và phối hợp dự án cho các đội ngũ phát triển phần mềm.",
+    "Thay thế các nền tảng chat thương mại với giải pháp mã nguồn mở, hỗ trợ tin nhắn theo chủ đề (threaded messages).",
+    "Tích hợp bot tự động để xử lý các luồng thông báo và tự động hóa quy trình làm việc."
+  ],
+  "ideas": [
+    "Áp dụng AI để tóm tắt các luồng tin nhắn dài và đề xuất các hành động tiếp theo.",
+    "Phát triển plugin cho IDEs để tạo và quản lý luồng chat trực tiếp từ môi trường lập trình.",
+    "Sử dụng làm nền tảng cho hệ thống hỗ trợ kỹ thuật tự phục vụ với phân loại chủ đề thông minh."
+  ],
+  "stars": 26230,
+  "starsToday": 8,
+  "language": "Python",
+  "topics": [
+    "zulip",
+    "python",
+    "python3",
+    "chat",
+    "javascript",
+    "collaboration",
+    "slack",
+    "foss",
+    "free",
+    "apache",
+    "react-native",
+    "electron"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-11-15T10:17:20.190Z"
+}

@@ -4524,47 +4524,52 @@
     "last_seen": "2026-11-15",
     "last_saved": "2026-11-14"
   },
-  "hanliang97/MatrixMedia": {
+  "microsoft/power-platform-skills": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-15",
     "last_saved": "2026-11-15"
   },
-  "GoogleChrome/lighthouse": {
+  "NginxProxyManager/nginx-proxy-manager": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-15",
     "last_saved": "2026-11-15"
   },
-  "elementalsouls/Claude-BugHunter": {
+  "SigmaHQ/sigma": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-15",
     "last_saved": "2026-11-15"
   },
-  "microsoft/PyRIT": {
+  "zulip/zulip": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-15",
     "last_saved": "2026-11-15"
   },
-  "CherryHQ/cherry-studio": {
+  "totec448-spec/chat-on-steroids": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-15",
     "last_saved": "2026-11-15"
   },
-  "restic/restic": {
+  "LodyAI/Lody": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-15",
     "last_saved": "2026-11-15"
   },
-  "getlago/lago": {
+  "kubescape/kubescape": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-15",
     "last_saved": "2026-11-15"
   },
-  "wailsapp/wails": {
+  "opentofu/opentofu": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-15",
     "last_saved": "2026-11-15"
   },
-  "verus-lang/verus": {
+  "rust-lang/rust-clippy": {
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15",
+    "last_saved": "2026-11-15"
+  },
+  "lance-format/lance": {
     "first_seen": "2026-11-15",
     "last_seen": "2026-11-15",
     "last_saved": "2026-11-15"

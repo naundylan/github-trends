@@ -1,0 +1,33 @@
+{
+  "id": "f4d57aa6-37b9-4ffd-8902-129374267c97",
+  "repo": "SigmaHQ/sigma",
+  "url": "https://github.com/SigmaHQ/sigma",
+  "category": "Security/Pentest",
+  "summary": "Sigma là kho lưu trữ quy tắc bảo mật chuẩn hóa, cho phép normalize log và chuyển đổi dễ dàng cho SIEM như Elasticsearch, Splunk để phát hiện mối đe dọa.",
+  "usecases": [
+    "Tạo ký hiệu bảo mật cho logs hệ thống firewall và antivirus để phân tích an ninh trong thời gian thực.",
+    "Chuyển đổi rules sang định dạng Elasticsearch/Splunk để hunt mối đe dọa trên SIEM.",
+    "Tiêu chuẩn hóa logs từ các cloud provider (AWS, Azure, GCP) để phát hiện hành vi đáng ngờ."
+  ],
+  "ideas": [
+    "Tự động tạo dashboard bảo mật trên Elastic Stack từ Sigma rules để visualizar trends.",
+    "Kết hợp với SOAR platforms để tự động phản ứng khi có alert phù hợp với Sigma rules.",
+    "Phát triển bộ rules Sigma chuyên cho container security và Kubernetes audit logs."
+  ],
+  "stars": 11512,
+  "starsToday": 10,
+  "language": "Python",
+  "topics": [
+    "security",
+    "monitoring",
+    "siem",
+    "logging",
+    "signatures",
+    "elasticsearch",
+    "splunk",
+    "ids",
+    "sysmon"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-15T10:17:20.190Z"
+}

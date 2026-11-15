@@ -1,0 +1,26 @@
+{
+  "id": "688a367c-ea85-4adc-8326-05d84a6c033d",
+  "repo": "NginxProxyManager/nginx-proxy-manager",
+  "url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+  "category": "Networking",
+  "summary": "Container Docker cung cấp giao diện web trực quan để quản lý Nginx reverse proxy, proxy hosts và SSL certificates. Điểm nổi bật là loại bỏ việc chỉnh sửa file cấu hình thủ công, hỗ trợ tự động cấp và renew SSL từ Let's Encrypt.",
+  "usecases": [
+    "Quản lý reverse proxy cho nhiều domain/subdomain với SSL tự động",
+    "Expose các service Docker nội bộ ra internet một cách an toàn",
+    "Cấu hình access lists và authentication cho các proxied services"
+  ],
+  "ideas": [
+    "Kết hợp với Docker Compose để xây dựng self-hosted stack hoàn chỉnh",
+    "Dùng làm entry point bảo mật cho homelab với authentication tích hợp",
+    "Tích hợp monitoring tools để phân tích traffic đi qua proxy"
+  ],
+  "stars": 34717,
+  "starsToday": 14,
+  "language": "JavaScript",
+  "topics": [
+    "nginx",
+    "nginx-proxy"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-11-15T10:17:20.190Z"
+}
