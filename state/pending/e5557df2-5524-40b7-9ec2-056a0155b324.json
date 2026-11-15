@@ -1,0 +1,42 @@
+{
+  "id": "e5557df2-5524-40b7-9ec2-056a0155b324",
+  "repo": "getlago/lago",
+  "url": "https://github.com/getlago/lago",
+  "category": "API/GraphQL",
+  "summary": "Nền tảng mã nguồn mở cho việc đo lường sử dụng và tính phí dựa trên consumption, hỗ trợ quản lý subscription và analytics doanh thu.",
+  "usecases": [
+    "Tính phí dịch vụ dựa trên lượng thực tế sử dụng cho ứng dụng SaaS.",
+    "Quản lý vòng đời subscription và tái định giá giá cho sản phẩm digital.",
+    "Tích hợp hệ thống thanh toán và tạo hóa đơn tự động cho nền tảng e-commerce."
+  ],
+  "ideas": [
+    "Kết hợp AI để tự động tối ưu hóa cấu trúc pricing dựa trên dữ liệu sử dụng.",
+    "Xây dựng dashboard real-time consumption cho dịch vụ điện/ước dựa trên ingestion dữ liệu.",
+    "Tạo hệ thống billing đa-tenant cho micro-SaaS với ClickHouse backend."
+  ],
+  "stars": 10856,
+  "starsToday": 20,
+  "language": "Go",
+  "topics": [
+    "billing",
+    "fintech",
+    "invoices",
+    "payments",
+    "usage-based-billing",
+    "subscriptions",
+    "metering",
+    "pricing",
+    "analytics",
+    "open-source",
+    "pricing-data-science",
+    "self-hosted",
+    "clickhouse",
+    "react",
+    "ruby",
+    "go",
+    "events",
+    "ingestion"
+  ],
+  "notePath": "notes/API-GraphQL.md",
+  "createdAt": "2026-11-15T00:36:43.984Z"
+}

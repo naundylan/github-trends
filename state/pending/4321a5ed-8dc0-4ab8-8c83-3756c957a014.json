@@ -1,0 +1,21 @@
+{
+  "id": "4321a5ed-8dc0-4ab8-8c83-3756c957a014",
+  "repo": "verus-lang/verus",
+  "url": "https://github.com/verus-lang/verus",
+  "category": "Developer Tool",
+  "summary": "Verus là ngôn ngữ/con công cụ xác minh chính thức (formal verification) cho Rust, cho phép chứng minh tính đúng đắn của code hệ thống cấp thấp mà không cần runtime overhead.",
+  "usecases": [
+    "Chứng minh an toàn bộ nhớ và tính đúng logic cho driver kernel, embedded firmware",
+    "Thay thế C/C++ trong hệ thống critical bằng Rust đã được verify chính thức"
+  ],
+  "ideas": [
+    "Tích hợp vào Rust compiler như một lint/type-checker mạnh mẽ cho safe systems programming",
+    "Xây dựng thư viện verified components (allocator, scheduler, crypto primitives) dùng chung cho OS kernel viết bằng Rust"
+  ],
+  "stars": 3787,
+  "starsToday": 23,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-15T00:36:43.984Z"
+}

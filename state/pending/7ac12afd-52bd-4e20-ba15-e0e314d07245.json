@@ -1,0 +1,42 @@
+{
+  "id": "7ac12afd-52bd-4e20-ba15-e0e314d07245",
+  "repo": "microsoft/PyRIT",
+  "url": "https://github.com/microsoft/PyRIT",
+  "category": "Security/Pentest",
+  "summary": "PyRIT là toolkit red teaming AI mã nguồn mở của Microsoft, tự động hóa quét và tấn công đa lượt (multi-turn) để kiểm thử an ninh các hệ thống AI sinh tạo.",
+  "usecases": [
+    "Đánh giá lỗ hổng bảo mật trên mô hình LLM trước khi triển khai production",
+    "Tự động hóa quy trình red teaming AI để tuân thủ các tiêu chuẩn AI an toàn"
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để chạy quét bảo mật AI tự động mỗi lần deploy model mới",
+    "Mở rộng thành platform đánh giá an toàn AI đa mô hình (LLM, diffusion, multimodal) cho enterprise"
+  ],
+  "stars": 4842,
+  "starsToday": 26,
+  "language": "Python",
+  "topics": [
+    "ai-red-team",
+    "generative-ai",
+    "red-team-tools",
+    "responsible-ai",
+    "ai-attacks",
+    "ai-evals",
+    "ai-evaluation",
+    "ai-evaluation-tools",
+    "ai-red-team-tool",
+    "ai-red-teaming",
+    "ai-safety",
+    "ai-safety-research",
+    "ai-security",
+    "ai-security-testing",
+    "ai-security-tool",
+    "ai-security-toolkit",
+    "red-team",
+    "red-teaming-tools",
+    "safety-testing",
+    "security"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-15T00:36:43.984Z"
+}

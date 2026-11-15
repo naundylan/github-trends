@@ -1,0 +1,32 @@
+{
+  "id": "446dc2fb-e1f2-4a58-ab50-d27f617830ce",
+  "repo": "GoogleChrome/lighthouse",
+  "url": "https://github.com/GoogleChrome/lighthouse",
+  "category": "Developer Tool",
+  "summary": "Công cụ audit tự động giúp đánh giá hiệu suất, tính khả truy cập và best practices cho web pages.",
+  "usecases": [
+    "Đo lường hiệu suất tải trang và tìm bottleneck cho developers.",
+    "Kiểm tra tính tương thích PWA và best practices trước khi deploy.",
+    "Tự động hóa audit CI/CD pipeline để đảm bảo chất lượng web."
+  ],
+  "ideas": [
+    "Tích hợp Lighthouse metrics vào visual monitoring cho Progressive Web Apps.",
+    "Sử dụng Lighthouse data để tự động generate báo cáo SEO và accessibility cho agencies.",
+    "Kết hợp AI chatbot giải thích audit results và đề xuất fix tự động."
+  ],
+  "stars": 31093,
+  "starsToday": 17,
+  "language": "JavaScript",
+  "topics": [
+    "audit",
+    "best-practices",
+    "performance-metrics",
+    "pwa",
+    "web",
+    "performance-analysis",
+    "developer-tools",
+    "chrome-devtools"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-15T00:36:43.984Z"
+}

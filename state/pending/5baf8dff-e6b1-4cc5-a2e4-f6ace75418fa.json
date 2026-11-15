@@ -1,0 +1,37 @@
+{
+  "id": "5baf8dff-e6b1-4cc5-a2e4-f6ace75418fa",
+  "repo": "CherryHQ/cherry-studio",
+  "url": "https://github.com/CherryHQ/cherry-studio",
+  "category": "AI Agent/Automation",
+  "summary": "CherryHQ/cherry-studio là workspace AI tích hợp quản lý mô hình, agent và sản năng, hỗ trợ tương tác máy tính, RAG và nhiều kỹ năng LLM.",
+  "usecases": [
+    "Triển khai và quản lý nhiều agent LLM trên cùng một workspace.",
+    "Tự động hóa tác vụ sử dụng máy tính (computer-use) cho các ứng dụng AI.",
+    "Tích hợp RAG và Ollama để tăng khả năng trả lời dựa trên dữ liệu nội bộ."
+  ],
+  "ideas": [
+    "Kết hợp với voice assistant để tạo personal AI assistant điều khiển ứng dụng.",
+    "Sử dụng làm nền tảng AI debugging hoặc automated code review workflow.",
+    "Triển khai multi-agent collaboration cho dự án phức tạp phân công tác vụ."
+  ],
+  "stars": 53519,
+  "starsToday": 36,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "agent-workspace",
+    "agentic-workspace",
+    "ai-models",
+    "ai-productivity",
+    "ai-workspace",
+    "agent-skills",
+    "llm",
+    "mcp-client",
+    "ollama",
+    "computer-use",
+    "mcp",
+    "rag"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-15T00:36:43.984Z"
+}

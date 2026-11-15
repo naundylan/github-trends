@@ -1,0 +1,35 @@
+{
+  "id": "112f3e73-20ba-4722-81ca-9155e368c3bc",
+  "repo": "moeru-ai/airi",
+  "url": "https://github.com/moeru-ai/airi",
+  "category": "AI Agent/Automation",
+  "summary": "companion AI self-hosted có thể trò chuyện giọng nói realtime, chơi game Minecraft/Factorio và hỗ trợ VRM/Vtuber, mang trải nghiệm AI bạn bè cá nhân trên web/macOS/Windows",
+  "usecases": [
+    "tạo ra AI companion cá nhân tương tác qua giọng nói và đồ họa cho người dùng",
+    "sử dụng trong trò chơi để tạo NPCs có hành vi động và chơi game cùng người dùng",
+    "triển khai self-hosted AI cho các ứng dụng riêng tư an toàn dữ liệu"
+  ],
+  "ideas": [
+    "kết hợp với VR/AR để tạo nhân vật ảo tương tác trong không thể ảo",
+    "phát triển plugin cho nền tảng livestream AI tương tác realtime với khán giả",
+    "tạo hệ thống giám sát và điều khiển thiết bị nhà thông minh qua lệnh giọng nói AI"
+  ],
+  "stars": 51430,
+  "starsToday": 46,
+  "language": "TypeScript",
+  "topics": [
+    "ai-vtuber",
+    "live2d",
+    "neuro-sama",
+    "neurosama",
+    "vrm",
+    "vtuber",
+    "grok-companion",
+    "ai-companion",
+    "digital-life",
+    "openclaw",
+    "airi"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-15T00:36:43.984Z"
+}

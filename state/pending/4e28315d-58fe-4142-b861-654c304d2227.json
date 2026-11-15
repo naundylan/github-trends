@@ -1,0 +1,29 @@
+{
+  "id": "4e28315d-58fe-4142-b861-654c304d2227",
+  "repo": "hanliang97/MatrixMedia",
+  "url": "https://github.com/hanliang97/MatrixMedia",
+  "category": "CLI Tool",
+  "summary": "MatrixMedia là công cụ CLI tự động hóa xuất video hàng loạt đến các nền tảng xã hội (Douyin, Xiaohongshu, TikTok...) dựa trên Vue + Electron + Puppeteer.",
+  "usecases": [
+    "Tự động xuất video cho kênh tự truyền thông hàng ngày trên nhiều nền tảng cùng lúc.",
+    "Quản lý và điều phối matrix video cho chiến dịch quảng cáo hoặc nội dung đa nền tảng.",
+    "Tích hợp Puppeteer để trích xuất và đăng tải nội dung từ web tự động."
+  ],
+  "ideas": [
+    "Phát triển thành nền tảng quản lý nội dung đa nền tảng (multi-platform CMS) cho các thương hiệu.",
+    "Kết hợp AI tạo nội dung (text-to-video) để tự động hoàn thiện video trước khi đăng tải.",
+    "Tạo dashboard theo dõi hiệu quả phát hành video trên các nền tảng theo thời gian thực."
+  ],
+  "stars": 1322,
+  "starsToday": 34,
+  "language": "JavaScript",
+  "topics": [
+    "video",
+    "autovideo",
+    "dsh-plugin",
+    "hermes-skill",
+    "workbuddy-skill"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-15T00:36:43.984Z"
+}

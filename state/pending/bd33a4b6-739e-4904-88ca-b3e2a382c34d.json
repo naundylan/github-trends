@@ -1,0 +1,30 @@
+{
+  "id": "bd33a4b6-739e-4904-88ca-b3e2a382c34d",
+  "repo": "restic/restic",
+  "url": "https://github.com/restic/restic",
+  "category": "CLI Tool",
+  "summary": "Dự án backup mã nguồn mở sử dụng Go, cung cấp mã hóa end-to-end và deduplication dữ liệu hiệu quả.",
+  "usecases": [
+    "Sao lưu tự động cho máy tính cá nhân và server",
+    "Phục hồi dữ liệu sau sự cố với lịch sử bản sao mã hóa",
+    "Đồng bộ và backup cho team developer với chi phí lưu trữ thấp do deduplication"
+  ],
+  "ideas": [
+    "Kết hợp với cloud storage (S3, Backblaze) để tạo giải pháp backup toàn cầu tự động",
+    "Tạo dashboard giám sát trạng thái backup real-time cho các thiết bị",
+    "Sử dụng restic làm layer lưu trữ an toàn cho CI/CD pipeline"
+  ],
+  "stars": 37228,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "go",
+    "restic",
+    "backup",
+    "deduplication",
+    "dedupe",
+    "secure-by-default"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-15T00:36:43.984Z"
+}
