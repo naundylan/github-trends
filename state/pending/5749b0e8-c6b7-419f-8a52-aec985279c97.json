@@ -1,0 +1,33 @@
+{
+  "id": "5749b0e8-c6b7-419f-8a52-aec985279c97",
+  "repo": "vernesong/OpenClash",
+  "url": "https://github.com/vernesong/OpenClash",
+  "category": "Networking",
+  "summary": "OpenClash là client proxy cho OpenWrt, cho phép định tuyến và quản lý lưu lượng mạng qua nhiều giao thức proxy như Shadowsocks, V2Ray, VMess và Snell trên router.",
+  "usecases": [
+    "Cấu hình proxy cho router gia đình hoặc doanh nghiệp để truy cập nội dung toàn cầu an toàn và ổn định",
+    "Chuyển đổi giữa các rule sets và giao thức khác nhau tùy theo yêu cầu tốc độ hoặc khu vực truy cập",
+    "Tích hợp với giao diện LuCI của OpenWrt để quản lý proxy dễ dàng qua web browser mà không cần CLI"
+  ],
+  "ideas": [
+    "Phát triển tính năng chọn đường ray tự động dựa trên tốc độ thực thời và độ trễ giữa các giao thức",
+    "Tích hợp danh sách rule proxy tự động cập nhật từ cộng đồng để duy trì bảo mật và truy cập mượt mà",
+    "Mở rộng hỗ trợ cho các firmware router khác như DD-WRT hoặc firmware tùy chỉnh OpenSource"
+  ],
+  "stars": 28217,
+  "starsToday": 26,
+  "language": "JavaScript",
+  "topics": [
+    "clash",
+    "openwrt",
+    "openclash",
+    "luci",
+    "shadowsocks",
+    "v2ray",
+    "vmess",
+    "snell",
+    "mihomo"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-11-16T00:35:21.659Z"
+}

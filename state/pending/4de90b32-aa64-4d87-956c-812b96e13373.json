@@ -1,0 +1,23 @@
+{
+  "id": "4de90b32-aa64-4d87-956c-812b96e13373",
+  "repo": "elder-plinius/G0DM0D3",
+  "url": "https://github.com/elder-plinius/G0DM0D3",
+  "category": "AI/LLM",
+  "summary": "Ứng dụng chat AI mã nguồn mở, mang lại trải nghiệm hội thoại tự do và linh hoạt.",
+  "usecases": [
+    "Assistant AI cá nhân cho câu hỏi và tác vụ hàng ngày",
+    "Phần mềm mã nguồn mở thay thế các nền tảng chat AI quyền sở hữu",
+    "Công cụ giáo dục để học cách giao diện chat và LLMs hoạt động"
+  ],
+  "ideas": [
+    "Xây dựng nền tảng chat đa ngôn ngữ với dịch vụ dịch thực thời",
+    "Tạo chat ưu tiên quyền riêng tư chạy hoàn toàn trên thiết bị người dùng",
+    "Kết nối với thiết bị IoT để điều khiển nhà thông minh bằng giọng nói"
+  ],
+  "stars": 12438,
+  "starsToday": 66,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-16T00:35:21.659Z"
+}

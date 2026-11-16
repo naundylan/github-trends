@@ -1,0 +1,33 @@
+{
+  "id": "f2372487-4007-4a53-b674-87dfaa887f96",
+  "repo": "PrefectHQ/fastmcp",
+  "url": "https://github.com/PrefectHQ/fastmcp",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ Python nhanh để xây dựng server và client MCP, giúp kết nối LLMs với ngữ cảnh và công cụ một cách dễ dàng.",
+  "usecases": [
+    "Xây dựng các AI agent có thể sử dụng công cụ và nguồn dữ liệu bên ngoài",
+    "Prototyping nhanh các ứng dụng LLM tích hợp tính năng",
+    "Deploy server MCP cho AI assistant doanh nghiệp có nhận biết ngữ cảnh"
+  ],
+  "ideas": [
+    "Kết hợp với voice assistant tạo ra agent giọng nói có ngữ cảnh",
+    "Tích hợp với local knowledge base để tạo AI tutor chuyên ngành",
+    "Sử dụng trong multi-agent system giải quyết tác vụ cộng tác"
+  ],
+  "stars": 28534,
+  "starsToday": 82,
+  "language": "Python",
+  "topics": [
+    "model-context-protocol",
+    "fastmcp",
+    "mcp",
+    "agents",
+    "llms",
+    "mcp-clients",
+    "mcp-servers",
+    "mcp-tools",
+    "python"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-16T00:35:21.659Z"
+}

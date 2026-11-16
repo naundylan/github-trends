@@ -1,0 +1,44 @@
+{
+  "id": "40e227d9-9ea9-4726-b3e3-2c68fe31604c",
+  "repo": "huytieu/COG-second-brain",
+  "url": "https://github.com/huytieu/COG-second-brain",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống second brain tự phát triển tích hợp 35 kỹ năng AI và 10 tác nhân, sử dụng vòng lặp đóng (closed-loop) để kiểm tra tự động, kết hợp CRM con người và kỹ năng thiết kế UI/UX chống 'slop' cho marketing và sản phẩm.",
+  "usecases": [
+    "Tự động hóa quy trình nghiên cứu, tổng hợp và quản lý kiến thức cho dự án phát triển phần mềm",
+    "Quản lý CRM và tạo nội dung marketing/UI-design thông qua các tác nhân AI có kỹ năng paired anti-slop",
+    "Vòng lặp verification tự động cho code generation với các công cụ như Claude Code, Cursor và Gemini CLI"
+  ],
+  "ideas": [
+    "Kết hợp với Obsidian hoặc các nền tảng knowledge graph để tạo ra bản đồ kiến thức AI tự động cập nhật",
+    "Triển khai làm AI assistant cá nhân có khả năng lập kế hoạch đa bước và thực thi qua các agent loop",
+    "Sử dụng trong doanh nghiệp để tự động hóa onboarding, đánh giá hiệu suất và quản lý lộ trình phát triển nhân viên"
+  ],
+  "stars": 1480,
+  "starsToday": 37,
+  "language": "Python",
+  "topics": [
+    "agentic",
+    "ai-agents",
+    "claude-code",
+    "cursor",
+    "garry-tan",
+    "gbrain",
+    "gstack",
+    "knowledge-management",
+    "obsidian",
+    "productivity",
+    "second-brain",
+    "self-evolving",
+    "worker-agents",
+    "people-crm",
+    "agent-loop",
+    "loop-engineering",
+    "closed-loop",
+    "verification-harness",
+    "agent-plugins",
+    "agent-skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-16T00:35:21.659Z"
+}

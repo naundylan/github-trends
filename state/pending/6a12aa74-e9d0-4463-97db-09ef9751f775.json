@@ -1,0 +1,29 @@
+{
+  "id": "6a12aa74-e9d0-4463-97db-09ef9751f775",
+  "repo": "ManimCommunity/manim",
+  "url": "https://github.com/ManimCommunity/manim",
+  "category": "Developer Tool",
+  "summary": "Framework Python cho cộng đồng tạo hoạt hình toán học, cho phép tạo video giải thích khái niệm toán học phức tạp thông qua code.",
+  "usecases": [
+    "Tạo video giải thích động cho khái niệm toán học và vật lý trong giáo dục trực tuyến",
+    "Sinh hoạt hình cho bài giảng tương tác hoặc nghiên cứu khoa học",
+    "Tự động hóa tạo nội dung video minh họa cho bài toán tính toán"
+  ],
+  "ideas": [
+    "Kết hợp với LLMs để tự động sinh script Manim từ mô tả lý thuyết toán học",
+    "Xây dựng web app cho phép người dùng nhập công thức và xuất video hoạt hình tùy chỉnh",
+    "Sử dụng trong презентации tự động cho các bài báo khoa học"
+  ],
+  "stars": 42585,
+  "starsToday": 83,
+  "language": "Python",
+  "topics": [
+    "math",
+    "python",
+    "manim",
+    "animations",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-16T00:35:21.659Z"
+}

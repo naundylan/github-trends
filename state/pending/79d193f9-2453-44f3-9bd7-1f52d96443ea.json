@@ -1,0 +1,23 @@
+{
+  "id": "79d193f9-2453-44f3-9bd7-1f52d96443ea",
+  "repo": "HKUDS/AutoSwarm",
+  "url": "https://github.com/HKUDS/AutoSwarm",
+  "category": "AI Agent/Automation",
+  "summary": "AutoSwarm là một framework Python thống nhất các AI agent, phá vỡ rào cản ngữ cảnh để cho phép các agent hợp tác cùng nhau làm việc cho bạn.",
+  "usecases": [
+    "Coordinating multiple specialized AI agents for complex task automation.",
+    "Enabling context-aware multi-agent workflows for research and development.",
+    "Facilitating seamless handoffs and communication between disparate LLM-powered agents."
+  ],
+  "ideas": [
+    "Creating a unified orchestration layer for autonomous agents in software development pipelines.",
+    "Combining with memory systems to enable long-horizon agent planning across tool boundaries.",
+    "Developing context-preserving agent swarms for real-time data processing tasks."
+  ],
+  "stars": 2538,
+  "starsToday": 64,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-16T00:35:21.659Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "63ac360c-3775-4ef0-945e-40429955b28c",
+  "repo": "Canner/WrenAI",
+  "url": "https://github.com/Canner/WrenAI",
+  "category": "AI/LLM",
+  "summary": "WrenAI là GenBI mã nguồn mở cho AI agent, cho phép chuyển câu hỏi tự nhiên thành các bảng điều khiển, biểu đồ và SQL tin cậy trên hơn 20 nguồn dữ liệu như BigQuery, Snowflake, PostgreSQL v.v.",
+  "usecases": [
+    "Allowing business users to query databases using natural language to get instant charts and dashboards.",
+    "Integrating with data warehouses (Snowflake, BigQuery, PostgreSQL) to provide governed text-to-SQL analytics.",
+    "Embedding generative BI capabilities into internal tools or customer-facing analytics platforms."
+  ],
+  "ideas": [
+    "Building a multi-modal interface where users get SQL, charts, and narrative explanations simultaneously from natural-language questions.",
+    "Extending the open context layer to support real-time data streaming sources like Kafka or vector databases.",
+    "Combining with data catalog tools to auto-generate semantic layers from existing documentation and metadata."
+  ],
+  "stars": 18264,
+  "starsToday": 46,
+  "language": "Python",
+  "topics": [
+    "bigquery",
+    "duckdb",
+    "llm",
+    "postgresql",
+    "rag",
+    "text-to-sql",
+    "sql",
+    "text2sql",
+    "charts",
+    "context-engineering",
+    "genbi",
+    "ai-agents",
+    "business-intelligence",
+    "clickhouse",
+    "dashboard",
+    "databricks",
+    "generative-ai",
+    "mcp",
+    "semantic-layer",
+    "snowflake"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-16T00:35:21.659Z"
+}

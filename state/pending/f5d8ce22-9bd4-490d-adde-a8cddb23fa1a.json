@@ -1,0 +1,23 @@
+{
+  "id": "f5d8ce22-9bd4-490d-adde-a8cddb23fa1a",
+  "repo": "qist/tvbox",
+  "url": "https://github.com/qist/tvbox",
+  "category": "Other",
+  "summary": "Tập hợp cấu hình TVBox cho ứng dụng streaming, cho phép người dùng tùy nguồn phát và cài đặt trên Smart TV/Android TV.",
+  "usecases": [
+    "Cấu hình nguồn TV cho Smart TV không có ứng dụng chính thức",
+    "Đồng bộ và chia sẻ danh sách kênh xem giữa nhiều thiết bị",
+    "Tùy chỉnh danh sách phát và nguồn truy cập cá nhân"
+  ],
+  "ideas": [
+    "Tự động hóa cập nhật cấu hình qua script định kỳ",
+    "Kết hợp API để tạo dashboard cá nhân hóa nội dung xem",
+    "Phát triển plugin trình duyệt quản lý nhiều cấu hình TVBox cùng lúc"
+  ],
+  "stars": 12958,
+  "starsToday": 38,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-16T00:35:21.659Z"
+}

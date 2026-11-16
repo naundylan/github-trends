@@ -1,0 +1,25 @@
+{
+  "id": "e1b3b17f-0806-434a-b184-8897bfb13bea",
+  "repo": "ggml-org/ggml",
+  "url": "https://github.com/ggml-org/ggml",
+  "category": "Machine Learning",
+  "summary": "Thư viện tensor C++ cao hiệu suất cho machine learning, là nền tảng cho inference và training các mô hình LLM trên nhiều nền tảng phần cứng.",
+  "usecases": [
+    "Chạy inference mô hình LLM trên CPU/GPU mà không phụ thuộc framework nặng",
+    "Tối ưu inference cho thiết bị edge và IoT có tài nguyên hạn chế",
+    "Hỗ trợ training và fine-tuning trong các dự án nghiên cứu ML"
+  ],
+  "ideas": [
+    "Kết hợp WebGPU để inference trực tiếp trên trình duyệt",
+    "Xây dựng AI Agent local tự động hóa tác vụ sử dụng ggml",
+    "Tích hợp vào hệ thống embedded inference cho thiết bị IoT"
+  ],
+  "stars": 15904,
+  "starsToday": 43,
+  "language": "C++",
+  "topics": [
+    "machine-learning"
+  ],
+  "notePath": "notes/Machine-Learning.md",
+  "createdAt": "2026-11-16T00:35:21.659Z"
+}

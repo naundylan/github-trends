@@ -1,0 +1,23 @@
+{
+  "id": "20156d46-4d05-44dc-9688-0f7888ce1699",
+  "repo": "tashfeenahmed/freellmapi",
+  "url": "https://github.com/tashfeenahmed/freellmapi",
+  "category": "AI/LLM",
+  "summary": "API thống nhất cung cấp truy cập 87 nhà cung cấp LLM miễn phí và 1.313 endpoint model, hỗ trợ định tuyến thông minh và failover tự động qua một endpoint /v1 duy nhất.",
+  "usecases": [
+    "Prototyping nhanh với nhiều model LLM khác nhau mà không cần quản lý nhiều API keys",
+    "Phát triển ứng dụng AI với khả năng chuyển đổi provider tự động dựa trên hiệu suất hoặc chi phí",
+    "Học tập và thử nghiệm model LLM miễn phí trong môi trường sản xuất"
+  ],
+  "ideas": [
+    "Tạo dashboard theo dõi hiệu suất và chi phí sử dụng model LLM theo thời gian thực",
+    "Xây dựng AI agent tự động chuyển đổi provider khi gặp lỗi hoặc tăng giá",
+    "Phát triển plugin cho code editor hỗ trợ auto-complete sử dụng các model miễn phí qua API"
+  ],
+  "stars": 52906,
+  "starsToday": 579,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-16T00:35:21.659Z"
+}
