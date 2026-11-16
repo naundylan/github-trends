@@ -1,0 +1,44 @@
+{
+  "id": "21204ea9-deb8-4491-98e2-b1871e1251c6",
+  "repo": "vstorm-co/agenticos",
+  "url": "https://github.com/vstorm-co/agenticos",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng AI agent mã nguồn mở, self-hosted, cho phép xây dựng và quản lý đồng nghiệp AI với RAG, browser automation và kiểm soát chi phí.",
+  "usecases": [
+    "Triển khai AI assistant nội bộ truy cập dữ liệu doanh nghiệp qua RAG",
+    "Tự động hóa quy trình browser-based cho công việc hành chính và báo cáo",
+    "Cung cấp môi trường kiểm soát và audit trail cho các ứng dụng LLM doanh nghiệp"
+  ],
+  "ideas": [
+    "Kết hợp voice recognition để tạo AI companion đa tác vụ",
+    "Tạo marketplace skills cho các AI agent độc lập",
+    "Sử dụng cho các tình huống đòi hỏi compliance nghiêm ngặt trong y tế hoặc tài chính"
+  ],
+  "stars": 360,
+  "starsToday": 56,
+  "language": "Python",
+  "topics": [
+    "agentic-ai",
+    "agents",
+    "pydantic-ai",
+    "python",
+    "agentic-os",
+    "fastapi",
+    "local-llm",
+    "mcp",
+    "on-premise",
+    "rag",
+    "self-hosted",
+    "ai-agents",
+    "ai-governance",
+    "llm",
+    "open-source",
+    "ai-assistant",
+    "ai-teammates",
+    "browser-automation",
+    "mcp-server",
+    "model-context-protocol"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-16T21:30:35.159Z"
+}

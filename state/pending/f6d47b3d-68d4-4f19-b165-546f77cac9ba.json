@@ -1,0 +1,29 @@
+{
+  "id": "f6d47b3d-68d4-4f19-b165-546f77cac9ba",
+  "repo": "openbkn-ai/bkn-foundry",
+  "url": "https://github.com/openbkn-ai/bkn-foundry",
+  "category": "Backend Framework",
+  "summary": "Nền tảng backend Ontology-driven của OpenBKN, chuyển đổi ngữ nghĩa kinh doanh thành runtime services với dữ liệu, logic, hành vi, bảo mật và khả quan quan sát.",
+  "usecases": [
+    "Generating runtime services from ontology models for enterprise applications.",
+    "Providing semantic security governance and observability for context-aware microservices.",
+    "Enabling automated data logic generation from knowledge graphs."
+  ],
+  "ideas": [
+    "Combining with LLM agents for semantic reasoning over enterprise data.",
+    "Deploying as a decentralized ontology layer for Web3 semantic networks.",
+    "Exposing as a universal API gateway for ontology-driven application development."
+  ],
+  "stars": 1399,
+  "starsToday": 48,
+  "language": "Go",
+  "topics": [
+    "ontology",
+    "ontology-engineering",
+    "ontology-platform",
+    "opensource-ontology-platform",
+    "context-enginnering"
+  ],
+  "notePath": "notes/Backend-Framework.md",
+  "createdAt": "2026-11-16T21:30:35.159Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "3a4e66f7-8e9f-4002-a580-50dcd6125b7c",
+  "repo": "bilawalsidhu/gods-eye-view",
+  "url": "https://github.com/bilawalsidhu/gods-eye-view",
+  "category": "Data Visualization",
+  "summary": "Ứng dụng web 3D trực quan hóa dữ liệu địa lý thực tế, mô phỏng vệ tinh trên toàn cầu photorealistic bằng WebGL và Cesium.",
+  "usecases": [
+    "Theo dõi chuyển động phi vụ thực thời cho mục vụ quân sự hoặc an ninh",
+    "Phân tích ảnh vệ sát và dữ liệu địa lý cho báo cáo tin tức hoặc nghiên cứu",
+    "Giáo dục và đào tạo về nhận diện địa hình và trí tuệ địa lý (GEOINT)"
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu thời tiết để hiển thị tương tác biến đổi khí hậu",
+    "Phát triển nền tảng OSINT cho báo chí độc lập theo dõi các sự kiện toàn cầu",
+    "Sử dụng cho trò chơi chiến thuật hoặc mô phỏng phi vụ không cần kết nối thực"
+  ],
+  "stars": 65284,
+  "starsToday": 257,
+  "language": "JavaScript",
+  "topics": [
+    "3d-globe",
+    "cesium",
+    "flight-tracking",
+    "geospatial",
+    "geospatial-intelligence",
+    "gis",
+    "osint",
+    "photogrammetry",
+    "satellite-tracking",
+    "spatial-intelligence",
+    "webgl",
+    "worldview"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-11-16T21:30:35.159Z"
+}

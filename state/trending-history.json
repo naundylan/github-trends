@@ -76,7 +76,7 @@
   },
   "affaan-m/ECC": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-11-14",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-10-28"
   },
   "langflow-ai/langflow": {
@@ -186,7 +186,7 @@
   },
   "mvanhorn/last30days-skill": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-11-14",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-11-03"
   },
   "openclaw/openclaw": {
@@ -246,7 +246,7 @@
   },
   "rust-lang/rust": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-11-06"
   },
   "MadsLorentzen/ai-job-search": {
@@ -311,7 +311,7 @@
   },
   "byoungd/up": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-10-27"
   },
   "fastapi/fastapi": {
@@ -706,8 +706,8 @@
   },
   "bilawalsidhu/gods-eye-view": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-11-11",
-    "last_saved": "2026-10-26"
+    "last_seen": "2026-11-16",
+    "last_saved": "2026-11-16"
   },
   "swoole/typephp": {
     "first_seen": "2026-08-28",
@@ -841,7 +841,7 @@
   },
   "kubernetes/kubernetes": {
     "first_seen": "2026-08-30",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-11-07"
   },
   "k1tbyte/Wand-Enhancer": {
@@ -891,7 +891,7 @@
   },
   "hieunc229/mailflare": {
     "first_seen": "2026-08-31",
-    "last_seen": "2026-11-05",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-11-02"
   },
   "Imbad0202/academic-research-skills": {
@@ -926,7 +926,7 @@
   },
   "golang/go": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-11-06"
   },
   "rtk-ai/rtk": {
@@ -1476,8 +1476,8 @@
   },
   "dagucloud/dagu": {
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-29",
-    "last_saved": "2026-09-12"
+    "last_seen": "2026-11-16",
+    "last_saved": "2026-11-16"
   },
   "raine/workmux": {
     "first_seen": "2026-09-12",
@@ -1506,7 +1506,7 @@
   },
   "huggingface/transformers": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-11-12"
   },
   "sherlock-project/sherlock": {
@@ -1681,7 +1681,7 @@
   },
   "koala73/worldmonitor": {
     "first_seen": "2026-09-16",
-    "last_seen": "2026-11-03",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-11-02"
   },
   "openobserve/openobserve": {
@@ -1941,7 +1941,7 @@
   },
   "xai-org/x-algorithm": {
     "first_seen": "2026-09-21",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-10-27"
   },
   "anthropics/financial-services": {
@@ -1951,7 +1951,7 @@
   },
   "agent-substrate/substrate": {
     "first_seen": "2026-09-22",
-    "last_seen": "2026-11-14",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-11-07"
   },
   "google/ax": {
@@ -1996,8 +1996,8 @@
   },
   "superdesigndev/treg": {
     "first_seen": "2026-09-23",
-    "last_seen": "2026-11-01",
-    "last_saved": "2026-10-18"
+    "last_seen": "2026-11-16",
+    "last_saved": "2026-11-16"
   },
   "DeusData/codebase-memory-mcp": {
     "first_seen": "2026-09-23",
@@ -2316,7 +2316,7 @@
   },
   "Billionmail/BillionMail": {
     "first_seen": "2026-09-29",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-10-31"
   },
   "keploy/keploy": {
@@ -2361,7 +2361,7 @@
   },
   "ifixai-ai/iFixAi": {
     "first_seen": "2026-09-30",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-11-01"
   },
   "HunxByts/GhostTrack": {
@@ -2646,7 +2646,7 @@
   },
   "sveltejs/svelte": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-11-06"
   },
   "backnotprop/plannotator": {
@@ -3036,8 +3036,8 @@
   },
   "nestjs/nest": {
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-15",
-    "last_saved": "2026-10-14"
+    "last_seen": "2026-11-16",
+    "last_saved": "2026-11-16"
   },
   "apify/apify-mcp-server": {
     "first_seen": "2026-10-14",
@@ -3341,7 +3341,7 @@
   },
   "elie222/rakazo": {
     "first_seen": "2026-10-20",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-11-10"
   },
   "strelov1/freehire": {
@@ -3396,8 +3396,8 @@
   },
   "Asymptote-Labs/agent-beacon": {
     "first_seen": "2026-10-21",
-    "last_seen": "2026-11-05",
-    "last_saved": "2026-10-21"
+    "last_seen": "2026-11-16",
+    "last_saved": "2026-11-16"
   },
   "hashicorp/vault": {
     "first_seen": "2026-10-21",
@@ -3881,7 +3881,7 @@
   },
   "mrdoob/three.js": {
     "first_seen": "2026-10-31",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-10-31"
   },
   "maillab/cloud-mail": {
@@ -4011,7 +4011,7 @@
   },
   "DeanChensj/jiangshan-map": {
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-11",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-11-03"
   },
   "csyangwen/dsh-memory-evolve": {
@@ -4176,7 +4176,7 @@
   },
   "angular/angular": {
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-11-07"
   },
   "moby/moby": {
@@ -4511,7 +4511,7 @@
   },
   "FujiwaraChoki/supoclip": {
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-16",
     "last_saved": "2026-11-14"
   },
   "a2ui-project/a2ui": {
@@ -4564,52 +4564,42 @@
     "last_seen": "2026-11-16",
     "last_saved": "2026-11-15"
   },
-  "simonlin1212/Vibe-Research": {
+  "google-research/paper-orchestra": {
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "last_saved": "2026-11-16"
   },
-  "kubescape/kubescape": {
+  "hanliang97/MatrixMedia": {
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "last_saved": "2026-11-16"
   },
-  "HuskerMinion/techo5": {
+  "openai/whisper": {
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "last_saved": "2026-11-16"
   },
-  "getlago/lago": {
+  "vstorm-co/agenticos": {
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "last_saved": "2026-11-16"
   },
-  "meshery/meshery": {
+  "esengine/estella": {
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "last_saved": "2026-11-16"
   },
-  "gohugoio/hugo": {
+  "openbkn-ai/bkn-foundry": {
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "last_saved": "2026-11-16"
   },
-  "tree-sitter/tree-sitter": {
+  "docker/compose": {
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "last_saved": "2026-11-16"
   },
-  "lance-format/lance": {
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-16",
-    "last_saved": "2026-11-16"
-  },
-  "qdrant/qdrant": {
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-16",
-    "last_saved": "2026-11-16"
-  },
-  "ratatui/ratatui": {
+  "astral-sh/uv": {
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "last_saved": "2026-11-16"

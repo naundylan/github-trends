@@ -1,0 +1,26 @@
+{
+  "id": "7410be7a-22a4-40a7-9953-492675ec8893",
+  "repo": "google-research/paper-orchestra",
+  "url": "https://github.com/google-research/paper-orchestra",
+  "category": "AI Agent/Automation",
+  "summary": "PaperOrchestra là framework đa tác nhân tự động hóa viết bài nghiên cứu AI, tạo nội dung khoa học có cấu trúc và tham khảo tự động.",
+  "usecases": [
+    "Tự động tạo bài báo cáo nghiên cứu cho các dự án AI",
+    "Giúp nghiên cứu sinh tổ chức và viết lý thuyết từ nhiều nguồn",
+    "Tạo nội dung giáo dục khoa học nhanh chóng cho nền tảng học trực tuyến"
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu bài nghiên cứu để tự động trích xuất và tổng hợp kết quả",
+    "Phát triển agent review tự động để đánh giá tính mới mẻ của bài viết",
+    "Sử dụng trong chuỗi CI/CD cho các dự án AI để tự động cập nhật tài liệu"
+  ],
+  "stars": 1380,
+  "starsToday": 306,
+  "language": "Python",
+  "topics": [
+    "ai-research-assistant",
+    "multi-agent-systems"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-16T21:30:35.159Z"
+}

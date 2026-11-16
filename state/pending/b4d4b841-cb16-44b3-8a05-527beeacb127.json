@@ -1,0 +1,39 @@
+{
+  "id": "b4d4b841-cb16-44b3-8a05-527beeacb127",
+  "repo": "esengine/estella",
+  "url": "https://github.com/esengine/estella",
+  "category": "Game Engine",
+  "summary": "Trình engine game 2D/3D nhanh với SDK TypeScript và lõi C++/WebAssembly, hỗ trợ xuất ra web, desktop, WeChat MiniGames và mobile native.",
+  "usecases": [
+    "Building cross-platform 2D/3D games deployable to web, desktop, and mobile from a single codebase.",
+    "Creating lightweight playable ads and WeChat MiniGames using WebAssembly execution.",
+    "Prototyping ECS-based games with TypeScript logic and C++ performance."
+  ],
+  "ideas": [
+    "Integrating WebGPU support for high-performance browser-based 3D graphics.",
+    "Using as a foundation for educational game development tools teaching TS + Wasm.",
+    "Combining with Firebase/Supabase for serverless multiplayer game backends."
+  ],
+  "stars": 938,
+  "starsToday": 37,
+  "language": "TypeScript",
+  "topics": [
+    "2d-game-engine",
+    "ecs",
+    "game-engine",
+    "typescript",
+    "webassembly",
+    "webgl",
+    "wechat-minigame",
+    "android",
+    "cpp",
+    "game-editor",
+    "gamedev",
+    "ios",
+    "webgpu",
+    "3d",
+    "3d-game-engine"
+  ],
+  "notePath": "notes/Game-Engine.md",
+  "createdAt": "2026-11-16T21:30:35.159Z"
+}

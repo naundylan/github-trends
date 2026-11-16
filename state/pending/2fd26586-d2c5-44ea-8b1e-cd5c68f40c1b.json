@@ -1,0 +1,29 @@
+{
+  "id": "2fd26586-d2c5-44ea-8b1e-cd5c68f40c1b",
+  "repo": "hanliang97/MatrixMedia",
+  "url": "https://github.com/hanliang97/MatrixMedia",
+  "category": "Desktop App",
+  "summary": "MatrixMedia là ứng dụng desktop được xây dựng bằng Vue Electron, cho phép tự động đăng tải và quản lý video hàng loạt đến nhiều nền tảng tự媒体 như Douyin, Xiaohongshu, Video Number, Kuaishou và hơn thế nữa.",
+  "usecases": [
+    "Tự động đăng video lên nhiều nền tảng xã hội đồng thời cho các kênh tự媒体 để tăng alcance",
+    "Quản lý và lên lịch đăng video cho các bài viết quảng cáo hoặc nội dung đa nền tảng mà không cần thủ công",
+    "Sử dụng AI để tối ưu hóa tiêu đề, thẻ mô tả khi xuất video đến các nền tảng khác nhau"
+  ],
+  "ideas": [
+    "Kết hợp nhận diện hình ảnh AI để tự động cắt đoạn video ngắn phù hợp với từng nền tảng",
+    "Tạo hệ thống đa luồng để đăng tải hàng chục video cùng lúc với tốc độ tối đa",
+    "Phát triển module plugin cho phép người dùng tùy chỉnh kịch tự động cho từng nền tảng dựa trên quy tắc riêng"
+  ],
+  "stars": 1444,
+  "starsToday": 68,
+  "language": "JavaScript",
+  "topics": [
+    "video",
+    "autovideo",
+    "dsh-plugin",
+    "hermes-skill",
+    "workbuddy-skill"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-16T21:30:35.159Z"
+}

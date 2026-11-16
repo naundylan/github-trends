@@ -1,0 +1,29 @@
+{
+  "id": "0feb78b7-3f7f-4331-b352-852e3ca83c41",
+  "repo": "docker/compose",
+  "url": "https://github.com/docker/compose",
+  "category": "DevOps/CI-CD",
+  "summary": "Docker Compose là công cụ cho phép định nghĩa và chạy ứng dụng Docker multi-container, nổi bật trong việc đơn giản hóa orchestration service, network và volumes qua file cấu hình duy nhất.",
+  "usecases": [
+    "Thiết lập môi trường phát triển local với nhiều service cùng lúc",
+    "Chạy integration test trên các container tách biệt trong CI/CD",
+    "Deploy microservices với network 격리 và dependency management"
+  ],
+  "ideas": [
+    "Kết hợp với Terraform để quản lý infrastructure as code cho container orchestration",
+    "Tạo môi trường staging chính xác giống production cho AI/ML pipelines",
+    "Sử dụng trong development local cho các dự án đa framework"
+  ],
+  "stars": 38899,
+  "starsToday": 90,
+  "language": "Go",
+  "topics": [
+    "docker",
+    "docker-compose",
+    "orchestration",
+    "go",
+    "golang"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-16T21:30:35.159Z"
+}

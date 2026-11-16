@@ -1,0 +1,23 @@
+{
+  "id": "59d928a1-3963-4dfd-8600-c185d7392a52",
+  "repo": "openai/whisper",
+  "url": "https://github.com/openai/whisper",
+  "category": "AI/LLM",
+  "summary": "Whisper là mô hình nhận dạng giọng nói của OpenAI, nổi bật với khả năng chuyển đổi giọng nói thành văn bản chính xác qua giám sát yếu trên quy mô lớn.",
+  "usecases": [
+    "Chuyển đổi podcast/video thành văn bản",
+    "Tạo subtitle tự động cho nội dung video",
+    "Transcription cho voice assistant và chatbot"
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tóm tắt cuộc họp từ ghi âm",
+    "Xây dựng ứng dụng ghi chú giọng có thời điểm đánh dấu",
+    "Sử dụng trong giáo dục để đánh giá phát âm"
+  ],
+  "stars": 112839,
+  "starsToday": 123,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-16T21:30:35.159Z"
+}
