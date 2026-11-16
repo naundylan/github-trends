@@ -1,0 +1,42 @@
+{
+  "id": "f586a9c4-0403-4d02-8ddf-f411277281a4",
+  "repo": "simonlin1212/Vibe-Research",
+  "url": "https://github.com/simonlin1212/Vibe-Research",
+  "category": "Data Visualization",
+  "summary": "Bảng điều khiển nghiên cứu đầu tư cho cổ phiếu A-share, US và HK, tích hợp 168 điểm dữ liệu, hỗ trợ LLM và tự động hóa nghiên cứu.",
+  "usecases": [
+    "Theo dõi hàng ngày và quản lý danh mục cổ phiếu A-share, US và HK trong một giao diện duy nhất.",
+    "Sử dụng LLM để tự động trích xuất và tóm tắt tin tức tài chính, báo cáo sản nghiệp.",
+    "Thực hiện phân tích xu hướng và backtest cơ bản dựa trên 168 điểm dữ liệu đã cung cấp."
+  ],
+  "ideas": [
+    "Tích hợp dữ liệu thời gian thực từ nhiều sàn giao dịch để cảnh báo động giá dựa trên AI.",
+    "Phát triển tính năng 'cỗ bút nghiên cứu' tự động tạo báo cáo định kỳ từ dữ liệu đầu tư.",
+    "Cho phép người dùng tùy chỉnh các chỉ số 168 điểm dữ liệu để so sánh hiệu suất giữa các khu vực/ngành hàng."
+  ],
+  "stars": 3741,
+  "starsToday": 23,
+  "language": "TypeScript",
+  "topics": [
+    "a-stock",
+    "ai-agent",
+    "dashboard",
+    "fintech",
+    "hk-stocks",
+    "investment-research",
+    "llm",
+    "mcp",
+    "python",
+    "react",
+    "stock-market",
+    "trading",
+    "us-stocks",
+    "codex",
+    "financial-research",
+    "local-agent",
+    "claude-code",
+    "workbuddy"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-11-16T10:27:27.572Z"
+}

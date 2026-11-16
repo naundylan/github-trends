@@ -1,0 +1,41 @@
+{
+  "id": "f0a435ac-63bb-49c2-ab08-912ce998a1f9",
+  "repo": "HuskerMinion/techo5",
+  "url": "https://github.com/HuskerMinion/techo5",
+  "category": "Embedded/IoT",
+  "summary": "Dự án firmware mở cho Echo Show 5/1/2Gen, thay thế Android bằng Alpine Linux, loại bỏ Alexa và cho phép điều khiển Home Assistant cục bộ với màn hình chạm, wake word trên thiết bị và cập nhật OTA A/B.",
+  "usecases": [
+    "Sử dụng làm satellite voice cục bộ với touchscreen cho Home Assistant",
+    "Triển khai làm smart display không phụ thuộc đám mây, bảo mật cao",
+    "Phát triển các thiết bị IoT tùy chỉnh có wake word trên thiết bị và OTA"
+  ],
+  "ideas": [
+    "Kết nối với các endpoint voice Home Assistant khác để tạo mạng địa phương đa phòng",
+    "Điều chỉnh firmware cho các thiết bị Amazon display khác hoặc panel nhúng tùy chỉnh",
+    "Xây dựng nền tảng smart display mã nguồn mở cho các mô hình AI cục bộ"
+  ],
+  "stars": 709,
+  "starsToday": 22,
+  "language": "Go",
+  "topics": [
+    "cronos",
+    "echo-show",
+    "esphome",
+    "home-assistant",
+    "mt8163",
+    "voice-assistant",
+    "alexa-alternative",
+    "alpine-linux",
+    "echo-show-5",
+    "firmware",
+    "linux",
+    "local-first",
+    "microwakeword",
+    "ota-updates",
+    "privacy",
+    "wake-word",
+    "checkers"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-11-16T10:27:27.572Z"
+}

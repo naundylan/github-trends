@@ -1,0 +1,44 @@
+{
+  "id": "02a2d818-f057-428a-9105-02894743a647",
+  "repo": "meshery/meshery",
+  "url": "https://github.com/meshery/meshery",
+  "category": "DevOps/CI-CD",
+  "summary": "Meshery là quản lý đám mây nguồn mở cho Kubernetes, cung cấp mặt trận quản lý và hỗ trợ GitOps để trực quan hóa và vận hành hạ tầng ứng dụng.",
+  "usecases": [
+    "Quản lý và trực quan hóa tài nguyên Kubernetes trong môi trường phát triển lớn.",
+    "Triển khai quy trình GitOps tự động cho các cluster Kubernetes.",
+    "Cung cấp giao diện duy nhất cho nhà phát triển và vận hành viên theo dõi trạng thái ứng dụng."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tự động tạo bản đồ dịch vụ và đề xuất tối ưu hóa架构。",
+    "Phát triển plugin cho VS Code để quản lý cluster trực tiếp từ trình soạn thảo code.",
+    "Sử dụng Meshery làm nền tảng cho internal developer platform nội bộ của doanh nghiệp."
+  ],
+  "stars": 12218,
+  "starsToday": 14,
+  "language": "Go",
+  "topics": [
+    "meshery",
+    "management-plane",
+    "hacktoberfest",
+    "kubernetes",
+    "gsoc",
+    "control-plane",
+    "cloud-native",
+    "golang",
+    "cncf",
+    "reactjs",
+    "gitops",
+    "infrastructure-as-code",
+    "visualization",
+    "kubernetes-operator",
+    "opa",
+    "internal-developer-platform",
+    "platform-engineering",
+    "webassembly",
+    "kanvas",
+    "support-official"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-16T10:27:27.572Z"
+}

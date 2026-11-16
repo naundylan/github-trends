@@ -1,0 +1,31 @@
+{
+  "id": "830596ac-3287-4026-b557-614f413b3d4f",
+  "repo": "ratatui/ratatui",
+  "url": "https://github.com/ratatui/ratatui",
+  "category": "UI/Component Library",
+  "summary": "Ratatui là một crate Rust cho phép phát triển các giao diện người dùng terminal (TUI) mượt mà và hiện đại, cung cấp bộ widget phong phú để xây dựng các ứng dụng dòng lệnh trực quan.",
+  "usecases": [
+    "Xây dựng các giao diện terminal chuyên nghiệp cho các công cụ dòng lệnh.",
+    "Tạo các báo cáo và dashboard trực tiếp trong terminal cho các hệ thống giám sát.",
+    "Phát triển các game hoặc ứng trí tương tác chạy hoàn toàn trong terminal."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tạo ra terminal AI assistant có giao diện đồ họa riêng.",
+    "Phát triển theme động cho TUI dựa trên thời tiết hoặc sở thích người dùng.",
+    "Sử dụng ratatui làm nền tảng cho các trình quản lý hệ thống đa nền tảng với giao diện hiện đại."
+  ],
+  "stars": 23322,
+  "starsToday": 18,
+  "language": "Rust",
+  "topics": [
+    "rust",
+    "terminal",
+    "tui",
+    "cli",
+    "widgets",
+    "ratatui",
+    "terminal-user-interface"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-11-16T10:27:27.572Z"
+}

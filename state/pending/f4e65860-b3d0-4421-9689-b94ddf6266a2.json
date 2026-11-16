@@ -1,0 +1,40 @@
+{
+  "id": "f4e65860-b3d0-4421-9689-b94ddf6266a2",
+  "repo": "lance-format/lance",
+  "url": "https://github.com/lance-format/lance",
+  "category": "Database",
+  "summary": "Dự án định dạng lakehouse mã nguồn mở cho AI đa phương tiện, cho phép chuyển đổi từ Parquet chỉ trong 2 dòng code với truy cập ngẫu nhiên 100x nhanh hơn, chỉ mục vector và phiên bản dữ liệu.",
+  "usecases": [
+    "Tăng tốc truy cập dữ liệu và xử lý vector cho mô hình AI đa phương tiện trong DuckDB/Polars",
+    "Thay thế Parquet trong pipeline ETL để giảm latency và cải thiện hiệu suất query",
+    "Lưu trữ và phiên bản dữ liệu cho các ứng dụng MLOps và training mô hình PyTorch"
+  ],
+  "ideas": [
+    "Sử dụng Lance làm backend storage cho các framework AI trên edge devices",
+    "Xây công cụ chuyển đổi tự động từ CSV/JSON sang Lance cho các dự án dữ liệu cá nhân",
+    "Kết hợp Lance với vector database để truy tìm similarity gần đúng trong ứng dụng real-time"
+  ],
+  "stars": 7326,
+  "starsToday": 18,
+  "language": "Rust",
+  "topics": [
+    "machine-learning",
+    "computer-vision",
+    "data-format",
+    "deep-learning",
+    "python",
+    "apache-arrow",
+    "duckdb",
+    "mlops",
+    "data-analysis",
+    "data-analytics",
+    "data-science",
+    "dataops",
+    "data-centric",
+    "embeddings",
+    "rust",
+    "llms"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-11-16T10:27:27.572Z"
+}

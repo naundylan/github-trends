@@ -1,0 +1,31 @@
+{
+  "id": "38a2a214-9c95-4200-b983-1b4e10904e50",
+  "repo": "tree-sitter/tree-sitter",
+  "url": "https://github.com/tree-sitter/tree-sitter",
+  "category": "Developer Tool",
+  "summary": "Tree-sitter là hệ thống phân tích cú pháp tăng dần, cung cấp parser chính xác cho các ngôn ngữ lập trình, được dùng trong các công cụ phát triển phần mềm.",
+  "usecases": [
+    "Phân tích mã nguồn trong IDE để highlight cú pháp và hoàn thành código.",
+    "Xây dựng linter hoặc kiểm tra chất lượng code tự động.",
+    "Hỗ trợ refactoring và tìm kiếm mã nguồn thông minh trong các dự án lớn."
+  ],
+  "ideas": [
+    "Tích hợp Tree-sitter vào trình soạn thảo code riêng để hỗ trợ ngôn ngữ lập trình mới tùy chỉnh.",
+    "Sử dụng Tree-sitter để tạo đồ thị phụ thuộc code (code graph) cho các công cụ visualizing code structure.",
+    "Phát triển automation script dùng Tree-sitter để sửa đổi mã theo quy tắc nhất quán toàn dự án."
+  ],
+  "stars": 27482,
+  "starsToday": 10,
+  "language": "Rust",
+  "topics": [
+    "incremental",
+    "parsing",
+    "c",
+    "tree-sitter",
+    "rust",
+    "parser",
+    "wasm"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-16T10:27:27.572Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0192dcd2-4de8-453f-a08e-5fb8b524a691",
+  "repo": "qdrant/qdrant",
+  "url": "https://github.com/qdrant/qdrant",
+  "category": "Database",
+  "summary": "Qdrant là cơ sở dữ liệu vector hiệu suất cao cho phép tìm kiếm tương đồng và ứng dụng AI/ML, hỗ trợ quy mô lớn và có sẵn trên đám mây.",
+  "usecases": [
+    "Tìm kiếm tài liệu tương đồng cho hệ thống retrieval-augmented generation (RAG).",
+    "Xây dựng hệ thống gợi ý sản phẩm hoặc nội dung dựa trên vector embedding.",
+    "Triển khai tìm kiếm vector cho các ứng dụng nhận diện hình ảnh hoặc video."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tạo chatbot tìm kiếm tài liệu tự động từ cơ sở dữ liệu vector.",
+    "Xây dựng hệ thống phishing detection dựa trên vectơ hành vi mạng.",
+    "Phát triển nền tảng phân tích cảm xúc đa ngôn ngữ bằng vector embedding."
+  ],
+  "stars": 35586,
+  "starsToday": 15,
+  "language": "Rust",
+  "topics": [
+    "neural-network",
+    "search-engine",
+    "knn-algorithm",
+    "hnsw",
+    "vector-search",
+    "nearest-neighbor-search",
+    "image-search",
+    "embeddings-similarity",
+    "recommender-system",
+    "vector-search-engine",
+    "mlops",
+    "search-engines",
+    "neural-search",
+    "similarity-search",
+    "vector-database",
+    "machine-learning",
+    "search",
+    "ai-search",
+    "ai-search-engine",
+    "hybrid-search"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-11-16T10:27:27.572Z"
+}
