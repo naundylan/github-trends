@@ -1,0 +1,33 @@
+{
+  "id": "d5aedc98-8801-4f1c-8778-a3777839d182",
+  "repo": "backnotprop/plannotator",
+  "url": "https://github.com/backnotprop/plannotator",
+  "category": "AI Agent/Automation",
+  "summary": "Plannotator là workspace cho phép định hình, lên kế hoạch, annotate và review code với AI agents, đồng bộ feedback một click. Dự án tích hợp Claude-code, opencode, obsidian và plan-mode để hỗ trợ quy trình phát triển với agents.",
+  "usecases": [
+    "Tự động hóa quy trình review code với AI agents",
+    "Quản lý luồng làm việc dự án cho team sử dụng nhiều AI coding tools",
+    "Gửi annotations từ developer đến agents để cải thiện kết quả tiếp theo"
+  ],
+  "ideas": [
+    "Kết hợp với Obsidian để tạo knowledge base từ annotations code",
+    "Tự động generate test cases dựa trên feedback của agents",
+    "Sử dụng làm dashboard cho monitoring AI agent performance"
+  ],
+  "stars": 12734,
+  "starsToday": 696,
+  "language": "TypeScript",
+  "topics": [
+    "claude-code",
+    "opencode",
+    "obsidian",
+    "pi-mono",
+    "plan-mode",
+    "codex",
+    "agents",
+    "code-review",
+    "skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-17T05:56:51.160Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "28600a02-d68d-4ead-a024-97c4327b3156",
+  "repo": "HuskerMinion/techo5",
+  "url": "https://github.com/HuskerMinion/techo5",
+  "category": "Embedded/IoT",
+  "summary": "Firmware thay thế cho Echo Show 5, cài Alpine Linux biến thiết bị thành voice satellite Home Assistant với touch screen, wake word trên thiết bị và OTA A/B.",
+  "usecases": [
+    "Triển khai làm satellite giọng nói cục bộ điều khiển thiết bị thông minh trong hệ sinh thái Home Assistant.",
+    "Sử dụng làm nền tảng phát triển firmware tùy chỉnh cho Echo Show, thêm tính năng privateness và cập nhật không dây.",
+    "Hoạt động như thiết bị voice assistant độc lập cho môi trường không có Alexa nhưng vẫn cần tương tác giọng nói."
+  ],
+  "ideas": [
+    "Tái sử dụng firmware cho các thiết bị IoT khác cùng chipset MT8163, mở rộng hỗ trợ cho các nền tảng smart home khác.",
+    "Xây dựng hệ thống cảnh báo khẩn cấp và thời tiết tích hợp với touchscreen cho người cao tuổi hoặc khuyết tật.",
+    "Tích hợp thêm cảm biến bên ngoài để biến Echo Show thành terminal điều khiển cho các dự án maker nâng cao."
+  ],
+  "stars": 725,
+  "starsToday": 25,
+  "language": "Go",
+  "topics": [
+    "cronos",
+    "echo-show",
+    "esphome",
+    "home-assistant",
+    "mt8163",
+    "voice-assistant",
+    "alexa-alternative",
+    "alpine-linux",
+    "echo-show-5",
+    "firmware",
+    "linux",
+    "local-first",
+    "microwakeword",
+    "ota-updates",
+    "privacy",
+    "wake-word",
+    "checkers"
+  ],
+  "notePath": "notes/Embedded-IoT.md",
+  "createdAt": "2026-11-17T05:56:51.160Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "29a1a9e1-e929-4a30-8ce7-e90cb9305a97",
+  "repo": "axios/axios",
+  "url": "https://github.com/axios/axios",
+  "category": "Developer Tool",
+  "summary": "Axios là thư viện HTTP dựa trên Promise chạy trên trình duyệt và Node.js, đơn giản hóa gửi yêu cầu mạng và xử lý phản hồi.",
+  "usecases": [
+    "Gửi yêu cầu API từ ứng dụng frontend đến backend",
+    "Lấy dữ liệu từ API bên thứ ba trong môi trường Node.js",
+    "Quản lý tải yêu cầu và hủy request trong ứng dụng thời gian thực"
+  ],
+  "ideas": [
+    "Kết hợp với React Query để quản lý state caching",
+    "Sử dụng trong Electron app để giao tiếp với backend cục bộ",
+    "Tạo wrapper tự động thêm auth token cho mọi request"
+  ],
+  "stars": 109366,
+  "starsToday": 28,
+  "language": "JavaScript",
+  "topics": [
+    "http-client",
+    "javascript",
+    "nodejs",
+    "promise",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-17T05:56:51.160Z"
+}

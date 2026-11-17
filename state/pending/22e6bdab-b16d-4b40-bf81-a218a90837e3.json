@@ -1,0 +1,31 @@
+{
+  "id": "22e6bdab-b16d-4b40-bf81-a218a90837e3",
+  "repo": "byoungd/up",
+  "url": "https://github.com/byoungd/up",
+  "category": "Documentation/Learning Resource",
+  "summary": "Hướng dẫn tiếng Trung-Anh toàn diện về AI, học tập, khởi nghiệp, tài chính, tình cảm và cuộc sống, tập trung vào AI literacy và tự học suốt đời.",
+  "usecases": [
+    "Truy cập và tìm kiếm tài liệu về AI và kỹ năng mềm theo hai ngôn ngữ tiếng Trung và Anh.",
+    "Hỗ trợ tự-directed learning với lộ trình cá nhân hóa cho phát triển bản thân.",
+    "Kết nối nguồn mở giáo dục và AI literacy cho người dùng toàn cầu."
+  ],
+  "ideas": [
+    "Thêm tính năng chatbot AI tư vấn học tập cá nhân hóa dựa trên sở thích người dùng.",
+    "Phát triển ứng dụng di động theo dõi tiến độ và nhắc nhở học tập hàng ngày.",
+    "Xây dựng cộng đồng người dùng chia sẻ dự án AI và nguồn học tập."
+  ],
+  "stars": 70639,
+  "starsToday": 58,
+  "language": "JavaScript",
+  "topics": [
+    "chinese",
+    "tutorial",
+    "english-learning",
+    "ai-literacy",
+    "lifelong-learning",
+    "open-education",
+    "self-directed-learning"
+  ],
+  "notePath": "notes/Documentation-Learning-Resource.md",
+  "createdAt": "2026-11-17T05:56:51.160Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cdf29ee3-5f1a-4232-9fc2-9843cbcbcb3f",
+  "repo": "juliangarnier/anime",
+  "url": "https://github.com/juliangarnier/anime",
+  "category": "Web Frontend",
+  "summary": "Anime là engine animation JavaScript cho SVG, canvas và CSS animations. Được sử dụng để tạo các hoạt hình động mượt mà cho web và ứng dụng tương tác.",
+  "usecases": [
+    "Tạo animation cho web pages và landing pages",
+    "Hoạt hình SVG và canvas trong data visualization",
+    "Animation cho interactive ads và game canvas"
+  ],
+  "ideas": [
+    "Kết hợp với Three.js để animation 3D trên web",
+    "Sử dụng cho storytelling interactive trong articles",
+    "Tạo hiệu ứng cho dashboard analytics real-time"
+  ],
+  "stars": 74826,
+  "starsToday": 79,
+  "language": "JavaScript",
+  "topics": [
+    "animation",
+    "anime",
+    "javascript-library",
+    "svg",
+    "canvas",
+    "css",
+    "javascript"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-11-17T05:56:51.160Z"
+}

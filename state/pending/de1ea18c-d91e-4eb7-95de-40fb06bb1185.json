@@ -1,0 +1,35 @@
+{
+  "id": "de1ea18c-d91e-4eb7-95de-40fb06bb1185",
+  "repo": "getarcaneapp/arcane",
+  "url": "https://github.com/getarcaneapp/arcane",
+  "category": "DevOps/CI-CD",
+  "summary": "Nền tảng quản lý Docker self-hosted hiện đại, cung cấp giao diện web để kiểm soát container, docker-compose và tài nguyên container.",
+  "usecases": [
+    "Quản lý lifecycle container Docker trên máy chủ cá nhân hoặc doanh nghiệp.",
+    "Giám sát và cấu hình docker-compose cho môi trường phát triển và sản xuất.",
+    "Cung cấp dashboard trực quan cho team DevOps theo dõi tài nguyên và hiệu suất container."
+  ],
+  "ideas": [
+    "Tích hợp cảnh báo tự động khi sử dụng tài nguyên container vượt quá ngưỡng đặt.",
+    "Phát triển plugin kết nối Kubernetes để đồng bộ hóa container giữa Docker và K8s.",
+    "Mở API cho phép tích hợp với các công cụ monitoring và CI/CD hiện có."
+  ],
+  "stars": 8884,
+  "starsToday": 46,
+  "language": "Go",
+  "topics": [
+    "docker",
+    "docker-management",
+    "self-hosted",
+    "sveltekit",
+    "typescript",
+    "go",
+    "compose",
+    "docker-compose",
+    "container-management",
+    "containers",
+    "web-ui"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-17T05:56:51.160Z"
+}

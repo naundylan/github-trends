@@ -1,0 +1,38 @@
+{
+  "id": "dae85f27-929a-4e62-8d3f-8a7a9ae73b97",
+  "repo": "isair/jarvis",
+  "url": "https://github.com/isair/jarvis",
+  "category": "AI/LLM",
+  "summary": "AI trợ lýdesktop riêng tư chạy hoàn toàn địa phương, hỗ trợ dictation, memori vô hạn và tích hợp MCP trên macOS, Windows và Linux.",
+  "usecases": [
+    "Tạo trợ lý giọng nói riêng tư cho quản lý lịch, nhắc dậy và tìm kiếm thông tin mà không cần kết nối internet.",
+    "Tích hợp với các công cụ MCP để tự động hóa tác vụ như theo dõi dinh dưỡng, sức khỏe và trả lời câu hỏi chuyên ngành.",
+    "Chạy offline hoàn toàn với khả năng học tự động, phù hợp cho người dùng cao độ về bảo mật dữ liệu."
+  ],
+  "ideas": [
+    "Kết hợp nhiều mô hình LLM cục bộ để tạo ra siêu trợ lý đa nhiệm với bộ nhớ dài hạn.",
+    "Phát triển plugin cho ứng dụng văn phòng để tự động hóa tạo báo cáo và tóm tắt dựa trên dữ liệu cá nhân.",
+    "Đồng bộ trạng thái hội thoại giữa desktop và thiết bị di động qua cloud riêng hoặc P2P."
+  ],
+  "stars": 2329,
+  "starsToday": 25,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "privacy",
+    "mcp",
+    "nutrition",
+    "ai-assistant",
+    "local-ai",
+    "voice-assistant",
+    "assistant",
+    "health",
+    "machine-learning",
+    "private",
+    "search",
+    "searching",
+    "voice"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-17T05:56:51.160Z"
+}

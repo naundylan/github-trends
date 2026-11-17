@@ -1,0 +1,31 @@
+{
+  "id": "8ce5fe50-d163-4f50-8b81-7e248ba4bba4",
+  "repo": "kubescape/kubescape",
+  "url": "https://github.com/kubescape/kubescape",
+  "category": "Security/Pentest",
+  "summary": "Kubescape là nền tảng bảo mật mã nguồn mở cho Kubernetes, cung cấp quét risk, tuân thủ NSA/MITRE và phát hiện lỗ hổng trong IDE, CI/CD và clusters.",
+  "usecases": [
+    "Quét cluster Kubernetes trước deploy để phát hiện cấu hình sai bảo mật",
+    "Tích hợp vào pipeline CI/CD để kiểm tra tuân thủ chính sách an ninh tự động",
+    "Theo dõi và báo cáo các lỗ hổng CVEs trong cluster Kubernetes"
+  ],
+  "ideas": [
+    "Kết hợp với Argo CD để tự động sửa lỗi cấu hình khi phát hiện",
+    "Sử dụng trong môi trường multi-cluster để tổng hợp báo cáo bảo mật toàn cục",
+    "Phát triển plugin VS Code để quét file manifest Kubernetes cục bộ"
+  ],
+  "stars": 11946,
+  "starsToday": 27,
+  "language": "Go",
+  "topics": [
+    "kubernetes",
+    "security",
+    "nsa",
+    "mitre-attack",
+    "devops",
+    "best-practice",
+    "vulnerability-detection"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-17T05:56:51.160Z"
+}

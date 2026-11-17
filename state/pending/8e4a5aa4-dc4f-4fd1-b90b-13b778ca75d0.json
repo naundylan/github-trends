@@ -1,0 +1,39 @@
+{
+  "id": "8e4a5aa4-dc4f-4fd1-b90b-13b778ca75d0",
+  "repo": "s0ld13rr/pentestcode",
+  "url": "https://github.com/s0ld13rr/pentestcode",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống kiểm tra xâm nhập đa-agent AI với trạng thái liên tục, phối hợp chiến lược và các hoạt động độc lập song song, nhằm tự động hóa các cuộc tấn công bảo mật.",
+  "usecases": [
+    "Tự động hóa quy trình kiểm tra xâm nhập (penetration testing) cho doanh nghiệp.",
+    "Giám sát và phát hiện các điểm yếu bảo mật trong mạng nội bộ.",
+    "Hỗ trợ các đội an ninh mạng trong việc mô phỏng các cuộc tấn công phức tạp."
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình LLM cục bộ để đảm bảo dữ liệu nhạy cảm không rời khỏi môi trường nội bộ.",
+    "Phát triển module báo cáo tự động tuân thủ với các chuẩn như PTES hoặc OWASP.",
+    "Sử dụng hệ thống này để tạo ra các bài tập thi đua an ninh mạng (cyber range) động."
+  ],
+  "stars": 1092,
+  "starsToday": 35,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "ai-security",
+    "ai-security-tool",
+    "anthropic",
+    "gpt",
+    "openai",
+    "penetration-testing",
+    "security-testing",
+    "autonomous-agents",
+    "multi-agent-system",
+    "security-automation",
+    "autonomous-agents-system",
+    "offensive-security",
+    "penetration-testing-tools",
+    "pentest"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-17T05:56:51.160Z"
+}

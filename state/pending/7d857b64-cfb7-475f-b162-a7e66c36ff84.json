@@ -1,0 +1,38 @@
+{
+  "id": "7d857b64-cfb7-475f-b162-a7e66c36ff84",
+  "repo": "gnacho/netpulse",
+  "url": "https://github.com/gnacho/netpulse",
+  "category": "Networking",
+  "summary": "PWA dashboard giám sát mạng OpenWrt/GL.iNet, theo dõi trạng thái bộ lọc, sức khỏe router, thiết bị, peer WireGuard và thống kê AdGuard Home theo thời gian thực.",
+  "usecases": [
+    "Quản lý và theo dõi toàn bộ mạng lưới thiết bị cho các doanh nghiệp có nhiều chi nhánh.",
+    "Giám sát sức khỏe và hiệu suất router OpenWrt trong môi trường gia đình hoặc văn phòng.",
+    "Cảnh báo tức thời về các mối đe dọa mạng hoặc sự cố kết nối WireGuard."
+  ],
+  "ideas": [
+    "Tích hợp cảnh báo push qua Telegram hoặc Email cho các sự kiện mạng quan trọng.",
+    "Phát triển ứng dụng di động đồng bộ trạng thái network với dashboard PWA.",
+    "Thêm tính năng phân tích lưu lượng mạng và trực quan hóa đồ thị thời gian thực."
+  ],
+  "stars": 358,
+  "starsToday": 33,
+  "language": "Go",
+  "topics": [
+    "adguard-home",
+    "dashboard",
+    "glinet",
+    "go",
+    "golang",
+    "network-monitoring",
+    "openwrt",
+    "pwa",
+    "react",
+    "selfhosted",
+    "sqlite",
+    "tailwindcss",
+    "vite",
+    "wireguard"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-11-17T05:56:51.160Z"
+}
