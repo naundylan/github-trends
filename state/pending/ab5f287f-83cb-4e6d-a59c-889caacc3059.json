@@ -1,0 +1,29 @@
+{
+  "id": "ab5f287f-83cb-4e6d-a59c-889caacc3059",
+  "repo": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "category": "AI Agent/Automation",
+  "summary": "Impeccable cung cấp từ vựng thiết kế cho coding agent, cho phép steer code chất lượng, review qua critique và audit, cũng như bắt AI slop trước khi ship.",
+  "usecases": [
+    "Sử dụng từ vựng để steering agent tạo code tuân thủ chuẩn mực phong cách.",
+    "Tích hợp vào review code để tự động loại bỏ AI slop.",
+    "Duy trì tính nhất quán code khi dùng nhiều agent cùng lúc."
+  ],
+  "ideas": [
+    "Phát triển extension VS Code hiển thị đánh giá impeccable trực tiếp trong editor.",
+    "Tạo dashboard giám sát chất lượng code theo thời gian thực từ agent.",
+    "Kết hợp với prompt engineering để tinh chỉnh behavior agent dựa trên feedback."
+  ],
+  "stars": 111909,
+  "starsToday": 693,
+  "language": "Rust",
+  "topics": [
+    "agent-skills",
+    "ai",
+    "anti-slop",
+    "design",
+    "slop"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-17T15:18:47.413Z"
+}

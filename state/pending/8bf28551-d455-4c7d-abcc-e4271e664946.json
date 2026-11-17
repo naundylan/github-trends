@@ -1,0 +1,32 @@
+{
+  "id": "8bf28551-d455-4c7d-abcc-e4271e664946",
+  "repo": "anomalyco/hex",
+  "url": "https://github.com/anomalyco/hex",
+  "category": "NLP",
+  "summary": "Ứng dụng dictation giọng nói cục bộ cho đa nền tảng (macOS, Windows, Linux) sử dụng Rust để nhận dạng giọng nói và chuyển đổi thành văn bản với độ trễ thấp và bảo mật dữ liệu trên thiết bị.",
+  "usecases": [
+    "Ghi chép văn bản bằng giọng nói cho lập trình viên và writers trên desktop",
+    "Điều khiển ứng dụng hoặc hệ thống bằng lệnh giọng nói ngoại tuyến (offline/local-first)",
+    "Tích hợp vào công cụ năng suất để nhập liệu nhanh mà không lo về quyền riêng tư"
+  ],
+  "ideas": [
+    "Kết hợp với mô hình AI cục bộ (local LLMs) để voice commands context-aware",
+    "Phát triển ứng dụng voice-controlled cho hệ thống nhúng hoặc IoT",
+    "Tạo giao diện voice UI cho ứng dụng desktop hiện có mà không cần sửa code"
+  ],
+  "stars": 7233,
+  "starsToday": 198,
+  "language": "Rust",
+  "topics": [
+    "dictation",
+    "linux",
+    "local-first",
+    "macos",
+    "rust",
+    "speech-recognition",
+    "speech-to-text",
+    "voice-control"
+  ],
+  "notePath": "notes/NLP.md",
+  "createdAt": "2026-11-17T15:18:47.414Z"
+}

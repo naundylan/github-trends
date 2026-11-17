@@ -1,0 +1,32 @@
+{
+  "id": "6c6eb608-b013-40a0-b011-9a5acd7795e2",
+  "repo": "nightly-labs/openbot",
+  "url": "https://github.com/nightly-labs/openbot",
+  "category": "AI Agent/Automation",
+  "summary": "Workspace desktop local-first cho đồng đội AI mãi mãi, cho phép chạy Codex, Claude, Grok với workspace riêng, hàng đợi tác vụ, file sharing, browser control và collaboration giữa agent.",
+  "usecases": [
+    "Tạo ragi AI giữ context xuyên suốt giữa các phiên làm việc và các máy khác",
+    "Quản lý và phối hợp nhiều AI agent thực hiện tác vụ phức tạp với browser control và file sharing",
+    "Phát triển và test workflow tự động giữa các LLM trong môi trườngdesktop an toàn"
+  ],
+  "ideas": [
+    "Kết hợp voice interface điều khiển desktop và ứng dụng qua AI agent",
+    "Xây dựng ecosystem plugin cho agent tương tác với các tool cụ thể (Slack, IDE, v.v.)",
+    "Sử dụng cho nghiên cứu AI alignment và multi-agent collaboration có giám sát"
+  ],
+  "stars": 8478,
+  "starsToday": 343,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "bun",
+    "codex",
+    "electron",
+    "local-first",
+    "macos",
+    "solidjs",
+    "typescript"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-17T15:18:47.414Z"
+}

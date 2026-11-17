@@ -1,0 +1,37 @@
+{
+  "id": "5c872681-e2e6-4035-9fab-9306940f2a46",
+  "repo": "virgiliojr94/book-to-skill",
+  "url": "https://github.com/virgiliojr94/book-to-skill",
+  "category": "AI Agent/Automation",
+  "summary": "Chuyển sách kỹ thuật PDF thành các kỹ năng AI sẵn dùng, tận dụng RAG và AI agents để hỗ trợ tự học, tham khảo và làm việc từ nội dung tài liệu.",
+  "usecases": [
+    "Tự động tạo ra các 'skills' AI từ sách giáo khoa hoặc tài liệu kỹ thuật, giúp sinh viên học tập nhanh hơn.",
+    "Xây dựng knowledge base cá nhân tương tác với AI agents để trả lời câu hỏi dựa trên nội dung sách.",
+    "Tích hợp vào workflow làm việc để trợ lý AI tham chiếu tài liệu kỹ thuật tức thời."
+  ],
+  "ideas": [
+    "Mở rộng để chuyển đổi các loại tài liệu khác (video, audio) thành các kỹ năng AI tương tự.",
+    "Tạo mạng lưới kiến thức liên kết các sách và tài liệu qua các AI agents tương tác.",
+    "Phát triển plugin cho IDE nơi developers có thể hỏi và nhận câu trả lời dựa trên nội dung sách đã chuyển đổi."
+  ],
+  "stars": 38243,
+  "starsToday": 161,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "context-engineering",
+    "document-processing",
+    "edtech",
+    "knowledge-base",
+    "knowledge-management",
+    "llm",
+    "pdf-to-markdown",
+    "rag",
+    "self-study",
+    "study-tools",
+    "book-to-skill"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-17T15:18:47.414Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "c012881b-7969-4f5d-8b0a-64c433afeedd",
+  "repo": "usestrix/strix",
+  "url": "https://github.com/usestrix/strix",
+  "category": "Security/Pentest",
+  "summary": "Công cụ mã nguồn mở sử dụng AI để tự động tìm và sửa lỗ hổng bảo mật trong ứng dụng, hỗ trợ kiểm tra xâm nhập và bảo vệ an toàn code.",
+  "usecases": [
+    "Tự động quét và phát hiện lỗ hổng bảo mật trong ứng dụng web và API.",
+    "Hỗ trợ kiểm tra xâm nhập (pentest) bằng AI cho các dự án CTF và bug bounty.",
+    "Tích hợp vào CI/CD để giám sát bảo mật liên tục."
+  ],
+  "ideas": [
+    "Kết hợp với các framework AI agent để tự động tạo payload và phân tích kết quả.",
+    "Phát triển module mở để tùy chỉnh theo từng loại lỗ hổng cụ thể.",
+    "Sử dụng để tạo báo cáo bảo mật tự động cho các doanh nghiệp."
+  ],
+  "stars": 76246,
+  "starsToday": 325,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "artificial-intelligence",
+    "cybersecurity",
+    "penetration-testing",
+    "ai-penetration-testing",
+    "ai-pentesting",
+    "ai-security",
+    "bug-bounty",
+    "ctf-tools",
+    "cybersecurity-tools",
+    "ethical-hacking",
+    "llm-security",
+    "offensive-security",
+    "pentesting-tools",
+    "red-teaming",
+    "security-automation",
+    "security",
+    "code-quality",
+    "ai-hacking",
+    "hacking"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-17T15:18:47.414Z"
+}

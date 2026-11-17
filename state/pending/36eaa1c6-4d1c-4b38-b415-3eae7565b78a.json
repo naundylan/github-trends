@@ -1,0 +1,26 @@
+{
+  "id": "36eaa1c6-4d1c-4b38-b415-3eae7565b78a",
+  "repo": "jingyaogong/minimind",
+  "url": "https://github.com/jingyaogong/minimind",
+  "category": "AI/LLM",
+  "summary": "Cho phép huấn luyện mô hình LLM 64M parameter từ scratch chỉ trong 2 giờ, cung cấp mã nguồn đơn giản và hiệu quả cho nghiên cứu và phát triển AI.",
+  "usecases": [
+    "Huấn luyện mô hình ngôn ngữ nhỏ cho các dự án nghiên cứu hoặc giáo dục.",
+    "Tạo ra LLM cá nhân hóa cho ứng dụng nội bộ với dữ liệu riêng.",
+    "Sử dụng làm baseline so sánh với các framework LLM lớn hơn."
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu cá nhân để tạo ra một 'tôi' AI có thể trò chuyện về chuyên môn hoặc sở thích.",
+    "Phát triển nền tảng huấn luyện LLM trên thiết bị edge hoặc di động.",
+    "Sử dụng distillation để tạo ra các phiên bản nhẹ hơn từ mô hình lớn."
+  ],
+  "stars": 65740,
+  "starsToday": 188,
+  "language": "Python",
+  "topics": [
+    "artificial-intelligence",
+    "large-language-model"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-17T15:18:47.414Z"
+}
