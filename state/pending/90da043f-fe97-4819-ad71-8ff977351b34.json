@@ -1,0 +1,35 @@
+{
+  "id": "90da043f-fe97-4819-ad71-8ff977351b34",
+  "repo": "getarcaneapp/arcane",
+  "url": "https://github.com/getarcaneapp/arcane",
+  "category": "DevOps/CI-CD",
+  "summary": "Arcane là nền tảng quản lý Docker hiện đại, self-hosted, cung cấp giao diện web để quản lý container và docker compose.",
+  "usecases": [
+    "Quản lý và theo dõi nhiều container Docker Compose trên máy chủ cá nhân.",
+    "Triển khai và kiểm soát trạng thái ứng dụng đã container hóa.",
+    "Theo dõi log, health check và trạng thái container qua giao diện web."
+  ],
+  "ideas": [
+    "Thêm RBAC và phân quyền cho nhiều người dùng trên cùng một hệ thống.",
+    "Tích hợp Kubernetes hoặc orchestration để quản lý nhiều cluster.",
+    "Kết nối monitoring và alerting cho container."
+  ],
+  "stars": 9738,
+  "starsToday": 547,
+  "language": "Go",
+  "topics": [
+    "docker",
+    "docker-management",
+    "self-hosted",
+    "sveltekit",
+    "typescript",
+    "go",
+    "compose",
+    "docker-compose",
+    "container-management",
+    "containers",
+    "web-ui"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-18T19:50:31.244Z"
+}

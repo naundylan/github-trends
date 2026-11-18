@@ -1,0 +1,43 @@
+{
+  "id": "1793b643-4fb6-4f4a-9565-84478d0d60f8",
+  "repo": "JCodesMore/ai-website-cloner-template",
+  "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+  "category": "Boilerplate/Starter Template",
+  "summary": "Mẫu boilerplate cho phép clone website tự động bằng AI coding agents, tích hợp Next.js, React và TailwindCSS.",
+  "usecases": [
+    "Phát triển nhanh các dự án web dựa trên giao diện website hiện có.",
+    "Học tập và phân tích cấu trúc code của các dự án open-source nổi tiếng.",
+    "Tự động hóa tạo prototype web từ thiết kế hình ảnh hoặc mockup."
+  ],
+  "ideas": [
+    "Kết hợp với Figma API để clone website trực tiếp từ thiết kế đồ họa.",
+    "Tạo CLI tùy chỉnh cho phép chọn stack tech (React, Vue, Svelte) khi clone.",
+    "Dùng làm nền tảng cho AI agents tự viết code, test và deploy website."
+  ],
+  "stars": 39454,
+  "starsToday": 95,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "automation",
+    "boilerplate",
+    "claude",
+    "claude-code",
+    "clone",
+    "developer-tools",
+    "nextjs",
+    "react",
+    "reverse-engineering",
+    "shadcn-ui",
+    "skills",
+    "tailwindcss",
+    "template",
+    "typescript",
+    "web-scraping",
+    "website-clone"
+  ],
+  "notePath": "notes/Boilerplate-Starter-Template.md",
+  "createdAt": "2026-11-18T19:50:31.244Z"
+}

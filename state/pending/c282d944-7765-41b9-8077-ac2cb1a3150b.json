@@ -1,0 +1,44 @@
+{
+  "id": "c282d944-7765-41b9-8077-ac2cb1a3150b",
+  "repo": "pugarte7/spanish-top-tech-companies",
+  "url": "https://github.com/pugarte7/spanish-top-tech-companies",
+  "category": "AI Agent/Automation",
+  "summary": "MCP tự động tìm và nộp ứng tuyển các công việc tech tại Spain, giúp agents tìm việc và nộp đơn tự động.",
+  "usecases": [
+    "Tự động tìm kiếm công việc tech tại Spain dựa trên dữ liệu lương và cấp bậc",
+    "Agent AI tự động nộp đơn ứng tuyển qua các nền tảng tuyển dụng",
+    "Tổng hợp và phân tích dữ liệu lương tech tại Tây Ban Nha"
+  ],
+  "ideas": [
+    "Mở rộng dữ liệu lương đến các quốc gia Latin America",
+    "Tích hợp với nền tảng remote work toàn cầu",
+    "Phát triển báo cáo tự động về xu hướng tuyển dụng tech"
+  ],
+  "stars": 601,
+  "starsToday": 66,
+  "language": "JavaScript",
+  "topics": [
+    "open-data",
+    "salaries",
+    "spain",
+    "tech-jobs",
+    "levels-fyi",
+    "mcp-server",
+    "salarios",
+    "ai-agents",
+    "auto-apply",
+    "job-search",
+    "tech-salaries",
+    "ats",
+    "claude",
+    "codex",
+    "cursor",
+    "job-applications",
+    "mcp",
+    "model-context-protocol",
+    "remote-jobs",
+    "ofertas-de-empleo"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-18T19:50:31.244Z"
+}

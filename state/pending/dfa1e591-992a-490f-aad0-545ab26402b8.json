@@ -1,0 +1,34 @@
+{
+  "id": "dfa1e591-992a-490f-aad0-545ab26402b8",
+  "repo": "BurntSushi/ripgrep",
+  "url": "https://github.com/BurntSushi/ripgrep",
+  "category": "CLI Tool",
+  "summary": "ripgrep là công cụ tìm kiếm dòng lệnh nhanh tìm regex trong thư mục, tự động respecte .gitignore để loại bỏ file không cần thiết.",
+  "usecases": [
+    "Tìm kiếm mã nguồn nhanh trong dự án lớn dựa trên pattern hoặc từ khóa.",
+    "Thay thế nội dung trong nhiều file cùng lúc mà không scan file bị ignore.",
+    "Tích hợp vào CI/CD để check code pattern hoặc tìm lỗi nhanh."
+  ],
+  "ideas": [
+    "Build CLI cá nhân hiển thị kết quả search có màu và đường dẫn file trực tiếp trong terminal.",
+    "Kết hợp ripgrep với sed/awk để tự động refactor code theo quy tắc nhất định.",
+    "Sử dụng ripgrep monitor log file để detect pattern lỗi hoặc bảo mật trong thời gian thực."
+  ],
+  "stars": 70058,
+  "starsToday": 36,
+  "language": "Rust",
+  "topics": [
+    "ripgrep",
+    "recursively-search",
+    "search",
+    "regex",
+    "gitignore",
+    "grep",
+    "command-line-tool",
+    "command-line",
+    "cli",
+    "rust"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-18T19:50:31.244Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "12881223-6690-40b7-9eec-eb627ec026d6",
+  "repo": "Vincentwei1021/video-shotcraft",
+  "url": "https://github.com/Vincentwei1021/video-shotcraft",
+  "category": "AI/LLM",
+  "summary": "Video Shotcraft là AI video skill cho Claude Code và Codex để tạo video quảng sản phẩm cinematic bằng Remotion.",
+  "usecases": [
+    "Tạo video promo ngắn cho sản phẩm từ ý tưởng và script.",
+    "Tự động xây dựng storyboard, animation, beat sync và sound design.",
+    "Xuất video phù hợp cho Motion Workbench và JianYing/CapCut."
+  ],
+  "ideas": [
+    "Kết hợp LLM sinh nội dung video với Remotion để tạo pipeline tự động.",
+    "Mở rộng template video cho nhiều ngành và ngôn ngữ.",
+    "Thêm API để tạo và xuất video từ ứng dụng ngoài Claude Code/Codex."
+  ],
+  "stars": 21248,
+  "starsToday": 225,
+  "language": "TypeScript",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-video",
+    "claude-code",
+    "claude-code-skills",
+    "claude-skills",
+    "codex",
+    "motion-design",
+    "motion-graphics",
+    "product-video",
+    "promo-video",
+    "remotion",
+    "video-generation",
+    "video-production"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-18T19:50:31.244Z"
+}

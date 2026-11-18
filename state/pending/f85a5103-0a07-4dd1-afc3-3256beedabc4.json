@@ -1,0 +1,33 @@
+{
+  "id": "f85a5103-0a07-4dd1-afc3-3256beedabc4",
+  "repo": "vercel/eve",
+  "url": "https://github.com/vercel/eve",
+  "category": "AI Agent/Automation",
+  "summary": "Framework mở cho xây dựng AI agents, hỗ trợ markdown, workflows và môi trường thực thi sandbox.",
+  "usecases": [
+    "Rapid prototyping of AI agents processing markdown documents and executing tool-based workflows.",
+    "Building multi-agent systems with shared sandboxes and defined workflows.",
+    "Developing agentic applications requiring persistent state, markdown instructions, and Vercel deployment."
+  ],
+  "ideas": [
+    "Combine Eve with a vector database for agents retrieving and reasoning over external knowledge bases.",
+    "Use Eve as orchestration layer for a personal AI assistant managing calendars, emails, and code generation.",
+    "Deploy Eve-based agents on Vercel Edge Functions for low-latency, user-specific AI interactions."
+  ],
+  "stars": 5980,
+  "starsToday": 38,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "framework",
+    "harness",
+    "javascript",
+    "markdown",
+    "typescript",
+    "vercel",
+    "sandbox",
+    "workflows"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-18T19:50:31.244Z"
+}

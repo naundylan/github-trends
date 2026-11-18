@@ -1,0 +1,26 @@
+{
+  "id": "d8d8de32-c7c5-410b-80fa-2a74931540e3",
+  "repo": "Minglink/dsh-infinite-gen-5",
+  "url": "https://github.com/Minglink/dsh-infinite-gen-5",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ harness DeepSeek v4.1 flash cho phép tương tác và khai thác mô hình AI với khả năng mở rộng.",
+  "usecases": [
+    "Tự động hóa tương tác với DeepSeek API",
+    "Khai thác khả năng generation mô hình v4.1",
+    "Phát triển agent AI sử dụng harness"
+  ],
+  "ideas": [
+    "Kết hợp với AI agents để tạo worker không giới hạn",
+    "Phát triển plugin code editor để generate code",
+    "Tạo dashboard theo dõi hiệu suất và chi phí sử dụng DeepSeek v4.1"
+  ],
+  "stars": 4532,
+  "starsToday": 69,
+  "language": "JavaScript",
+  "topics": [
+    "deepseek",
+    "deepseek-harness"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-18T19:50:31.244Z"
+}

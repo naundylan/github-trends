@@ -1,0 +1,32 @@
+{
+  "id": "430b6471-f2c7-47c8-a97b-22612cafc573",
+  "repo": "solidjs/solid",
+  "url": "https://github.com/solidjs/solid",
+  "category": "Web Framework",
+  "summary": "Solid là thư viện JavaScript deklarative cao hiệu suất để xây dựng giao diện người dùng, nổi bật với reactivity fine-grained và tối ưu render tối thiểu.",
+  "usecases": [
+    "Xây dựng ứng dụng web nhanh và phản hồi tốt với dữ liệu thay đổi động.",
+    "Phát triển giao diện real-time với quản lý trạng thái hiệu quả.",
+    "Deploy full-stack static site sử dụng SolidStart với logic phía client nhẹ."
+  ],
+  "ideas": [
+    "Tạo dashboard thời thực-time với cập nhật dữ liệu mượt mà và chi phí thấp.",
+    "Kết hợp Solid với Service Workers để xây ứng dụng offline-first.",
+    "Build micro-frontend architecture với Solid Module Federation."
+  ],
+  "stars": 36513,
+  "starsToday": 37,
+  "language": "TypeScript",
+  "topics": [
+    "javascript",
+    "performance",
+    "solid",
+    "proxies",
+    "declarative",
+    "fine-grained",
+    "jsx",
+    "reactive"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-11-18T19:50:31.244Z"
+}

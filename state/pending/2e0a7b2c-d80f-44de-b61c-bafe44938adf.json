@@ -1,0 +1,44 @@
+{
+  "id": "2e0a7b2c-d80f-44de-b61c-bafe44938adf",
+  "repo": "qwdwqfwq/topconf-paper-figure-gallery",
+  "url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Kho sưu tầm 3.500+ hình Figure 1/trailer từ các hội nghị ML hàng đầu (ICLR, ICML, NeurIPS, CVPR, ACL, AAAI 2023-2026), kèm badges phân hạng và công cụ FigureForge hỗ trợ vẽ figure RAG.",
+  "usecases": [
+    "Tìm nhanh hình minh họa tiêu biểu khi viết hoặc trình bày bài báo ML.",
+    "Mục nguồn tham khảo cho việc thiết kế figure và biểu đồ trong nghiên cứu khoa học.",
+    "Hỗ trợ đào tạo và khám phá các tiến bộ thịnh hành trong ML/CV thông qua các figure tiêu biểu."
+  ],
+  "ideas": [
+    "Kết hợp với LLM để tự động tạo đoạn văn mô tả figure dựa trên nội dung bài báo.",
+    "Phát triển browser extension hiển thị figure tương ứng khi đọc bài trên arXiv hoặc trang công bố.",
+    "Sử dụng làm dữ liệu đánh giá cho các hệ thống generate figure hoặc tự động viết paper."
+  ],
+  "stars": 1889,
+  "starsToday": 84,
+  "language": "JavaScript",
+  "topics": [
+    "aaai",
+    "acl",
+    "awesome-list",
+    "cvpr",
+    "iclr",
+    "icml",
+    "machine-learning",
+    "neurips",
+    "paper-figures",
+    "academic-writing",
+    "computer-vision",
+    "nlp",
+    "paper-writing",
+    "scientific-figures",
+    "figure-gallery",
+    "research-tool",
+    "teaser",
+    "deep-learning",
+    "github-pages",
+    "research-tools"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-11-18T19:50:31.244Z"
+}

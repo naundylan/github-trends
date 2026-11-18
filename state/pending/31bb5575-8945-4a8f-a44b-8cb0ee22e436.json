@@ -1,0 +1,26 @@
+{
+  "id": "31bb5575-8945-4a8f-a44b-8cb0ee22e436",
+  "repo": "punkpeye/awesome-mcp-servers",
+  "url": "https://github.com/punkpeye/awesome-mcp-servers",
+  "category": "Awesome List/Curated Resource",
+  "summary": "Bộ sưu tập MCP servers được curate, cung cấp trung tâm tham khảo cho các triển khai server và hệ sinh thái AI Model Control Protocol.",
+  "usecases": [
+    "Discovering and evaluating MCP server implementations for AI agent development.",
+    "Comparing features and architectures of different MCP servers for research or production use.",
+    "Contributing to or tracking the evolution of MCP server standards and ecosystems."
+  ],
+  "ideas": [
+    "Build a dashboard visualizing MCP server capabilities and performance metrics.",
+    "Create a starter kit scaffolding a new MCP server based on collection best practices.",
+    "Integrate the list into an AI agent framework for auto-discovery of available servers."
+  ],
+  "stars": 97975,
+  "starsToday": 52,
+  "language": "",
+  "topics": [
+    "ai",
+    "mcp"
+  ],
+  "notePath": "notes/Awesome-List-Curated-Resource.md",
+  "createdAt": "2026-11-18T19:50:31.244Z"
+}
