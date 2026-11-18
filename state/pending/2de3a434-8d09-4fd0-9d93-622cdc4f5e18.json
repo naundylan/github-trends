@@ -1,0 +1,38 @@
+{
+  "id": "2de3a434-8d09-4fd0-9d93-622cdc4f5e18",
+  "repo": "ethanplusai/sellbird",
+  "url": "https://github.com/ethanplusai/sellbird",
+  "category": "AI Agent/Automation",
+  "summary": "Sellbird là nền tảng outreach tự động AI, tìm kiếm quyết định, xác minh email, viết và gửi email cold, đồng thời xử lý phản hồi trên nền Claude/ChatGPT",
+  "usecases": [
+    "Tự động hóa tìm leads và gửi email cold cho các doanh nghiệp bán B2B",
+    "Quản lý toàn bộ quy trình outreach từ prospecting đến follow-up bằng AI",
+    "Tích hợp dữ liệu CRM để tùy chỉnh nội dung email dựa trên lịch sử tương tác"
+  ],
+  "ideas": [
+    "Phát triển module đa ngôn ngữ cho email cold tự động dựa trên khu vực khách hàng",
+    "Tạo dashboard phân tích hiệu suất outreach theo thời gian thực",
+    "Kết hợp với LinkedIn automation để đa kênh outreach"
+  ],
+  "stars": 6407,
+  "starsToday": 358,
+  "language": "Python",
+  "topics": [
+    "ai-agent",
+    "autonomous-agent",
+    "claude",
+    "cold-email",
+    "prospecting",
+    "python",
+    "sales-automation",
+    "claude-code",
+    "codex",
+    "email-verification",
+    "harvey",
+    "lead-generation",
+    "outreach",
+    "sellbird"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-18T10:58:00.709Z"
+}

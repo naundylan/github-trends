@@ -1,0 +1,29 @@
+{
+  "id": "6e9684ee-c55b-44c8-92a3-965e316ae9b7",
+  "repo": "axios/axios",
+  "url": "https://github.com/axios/axios",
+  "category": "Developer Tool",
+  "summary": "HTTP client dựa trên Promise cho browser và node.js, dùng để gửi yêu cầu mạng đến server hoặc API một cách dễ dàng.",
+  "usecases": [
+    "Lấy dữ liệu từ API bên ngoài trong ứng dụng web frontend.",
+    "Gửi yêu cầu POST/PUT đến server Node.js backend.",
+    "Communicate với RESTful services trong các ứng dụng đa nền tảng."
+  ],
+  "ideas": [
+    "Kết hợp với React Query để quản lý server state và caching.",
+    "Sử dụng trong Electron apps để gọi API backend an toàn.",
+    "Tích hợp với interceptors để tự động refresh token xử lý auth."
+  ],
+  "stars": 109384,
+  "starsToday": 202,
+  "language": "JavaScript",
+  "topics": [
+    "http-client",
+    "javascript",
+    "nodejs",
+    "promise",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-18T10:58:00.709Z"
+}

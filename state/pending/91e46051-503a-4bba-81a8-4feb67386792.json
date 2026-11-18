@@ -1,0 +1,25 @@
+{
+  "id": "91e46051-503a-4bba-81a8-4feb67386792",
+  "repo": "jquery/jquery",
+  "url": "https://github.com/jquery/jquery",
+  "category": "Web Frontend",
+  "summary": "Thư viện JavaScript jQuery, được thiết kế để đơn giản hóa việc truy cập và thao tác trên cây DOM HTML, xử lý sự kiện và Ajax cho phát triển web nhanh chóng.",
+  "usecases": [
+    "Prototyping nhanh các giao diện web tương tác với ít code, khai thác tương thích đa trình duyệt jQuery cho DOM events và AJAX.",
+    "Xây dựng ứng dụng web legacy hoặc plugin yêu cầu một tiện ích JavaScript nhẹ, không phụ thuộc cho thao tác DOM và xử lý sự kiện.",
+    "Nâng cấp các nền tảng CMS như WordPress với widget tùy chỉnh, tải nội dung động và cải thiện UI qua AJAX."
+  ],
+  "ideas": [
+    "Tạo micro-thư viện jQuery cho thời đại hiện đại cung cấp chỉ các phương thức DOM và AJAX cần thiết dưới dạng utilities native JavaScript, đóngként thay thế drop-in.",
+    "Xây dựng customizer giao diện trực quan dựa trên jQuery cho static site generators, cho phép xem trước thay đổi màu sắc và layout theo thời gian thực.",
+    "Phát triển bộ tool giáo dục cho thao tác DOM và lập trình dựa trên sự kiện sử dụng API trực quan jQuery làm giới thiệu nhẹ trước các framework hiện đại."
+  ],
+  "stars": 59962,
+  "starsToday": 268,
+  "language": "JavaScript",
+  "topics": [
+    "jquery"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-11-18T10:58:00.709Z"
+}

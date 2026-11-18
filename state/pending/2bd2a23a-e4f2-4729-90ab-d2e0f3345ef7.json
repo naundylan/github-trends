@@ -1,0 +1,23 @@
+{
+  "id": "2bd2a23a-e4f2-4729-90ab-d2e0f3345ef7",
+  "repo": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "category": "AI Agent/Automation",
+  "summary": "CLI-Anything là framework giúp biến các ứng dụng CLI truyền thống trở nên agent-native, cho phép tự động hóa và tương tác thông qua các AI agent",
+  "usecases": [
+    "Tự động hóa quản lý dịch vụ hệ thống qua các lệnh CLI có khả năng reasoning của AI",
+    "Tạo script tự sửa chữa code hoặc cấu hình dựa trên ngữ cảnh agent",
+    "Kết hợp với CI/CD để thực hiện tự động deploy và rollback thông qua agent"
+  ],
+  "ideas": [
+    "Phát triển giao diện voice-controlled để điều khiển máy tính qua CLI-Anything",
+    "Tạo hệ thống tự động báo cáo lỗi và fix code liên tục thông qua agent",
+    "Tích hợp với các nền tảng IoT để điều khiển thiết bị thông qua lệnh CLI thông minh"
+  ],
+  "stars": 59300,
+  "starsToday": 384,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-18T10:58:00.709Z"
+}

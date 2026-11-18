@@ -1,0 +1,44 @@
+{
+  "id": "a5186a17-9cf8-4e14-9936-1b553f2c20a3",
+  "repo": "n8n-io/n8n",
+  "url": "https://github.com/n8n-io/n8n",
+  "category": "AI Agent/Automation",
+  "summary": "Nền tảng tự động hóa workflow mã nguồn công bằng với khả năng AI tích hợp sẵn, cho phép xây dựng trực quan kết hợp với code tùy chỉnh, self-host hoặc cloud, có hơn 400 tích hợp cho các quy trình dữ liệu và API phức tạp.",
+  "usecases": [
+    "Tự động hóa các quy trình nội bộ như định hướng lead, phân loại ticket và tạo báo cáo qua 400+ dịch vụ kết nối.",
+    "Xây dựng API và đường ống dữ liệu AI tùy chỉnh nơi con người xem xét và phê duyệt đầu ra AI qua các workflow trực quan.",
+    "Tạo nền tảng tự động hóa nội bộ self-hosted cho CI/CD-like, giám sát hệ thống và phối coordinatedịch vụ mà không có ràng buộc với nhà cung cấp."
+  ],
+  "ideas": [
+    "Kết hợp n8n với LLMs cục bộ để tạo ra automation copilot riêng tư thực hiện workflow dựa trên lệnh ngôn ngữ tự nhiên.",
+    "Sử dụng webhook và MCP của n8n để xây dựng hệ thống thông báo real-time liên kết Slack, email và thay đổi database do các sự kiện AI kích hoạt.",
+    "Kết hợp n8n với tính toán biên để kích hoạt workflow tự động dựa trên dữ liệu cảm biến IoT, cho ra quyết định trên thiết bị với lưu lượng đám mây."
+  ],
+  "stars": 210811,
+  "starsToday": 315,
+  "language": "TypeScript",
+  "topics": [
+    "automation",
+    "ipaas",
+    "n8n",
+    "workflow",
+    "typescript",
+    "self-hosted",
+    "integrations",
+    "workflow-automation",
+    "cli",
+    "development",
+    "low-code",
+    "data-flow",
+    "integration-framework",
+    "apis",
+    "low-code-platform",
+    "no-code",
+    "ai",
+    "mcp",
+    "mcp-client",
+    "mcp-server"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-18T10:58:00.709Z"
+}

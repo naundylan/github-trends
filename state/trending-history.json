@@ -41,8 +41,8 @@
   },
   "TencentCloud/CubeSandbox": {
     "first_seen": "2026-07-02",
-    "last_seen": "2026-10-24",
-    "last_saved": "2026-10-09"
+    "last_seen": "2026-11-18",
+    "last_saved": "2026-11-18"
   },
   "ogulcancelik/herdr": {
     "first_seen": "2026-07-02",
@@ -151,7 +151,7 @@
   },
   "Leonxlnx/taste-skill": {
     "first_seen": "2026-07-05",
-    "last_seen": "2026-11-14",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-13"
   },
   "CoplayDev/unity-mcp": {
@@ -246,7 +246,7 @@
   },
   "rust-lang/rust": {
     "first_seen": "2026-07-06",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-06"
   },
   "MadsLorentzen/ai-job-search": {
@@ -281,12 +281,12 @@
   },
   "n8n-io/n8n": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-11-13",
-    "last_saved": "2026-10-28"
+    "last_seen": "2026-11-18",
+    "last_saved": "2026-11-18"
   },
   "Wei-Shaw/sub2api": {
     "first_seen": "2026-07-07",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-10-30"
   },
   "tonhowtf/omniget": {
@@ -336,7 +336,7 @@
   },
   "vxcontrol/pentagi": {
     "first_seen": "2026-07-08",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-03"
   },
   "tinyhumansai/openhuman": {
@@ -751,8 +751,8 @@
   },
   "p-e-w/heretic": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-11-04",
-    "last_saved": "2026-10-28"
+    "last_seen": "2026-11-18",
+    "last_saved": "2026-11-18"
   },
   "every-app/open-seo": {
     "first_seen": "2026-08-29",
@@ -841,7 +841,7 @@
   },
   "kubernetes/kubernetes": {
     "first_seen": "2026-08-30",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-07"
   },
   "k1tbyte/Wand-Enhancer": {
@@ -926,7 +926,7 @@
   },
   "golang/go": {
     "first_seen": "2026-09-01",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-06"
   },
   "rtk-ai/rtk": {
@@ -1101,7 +1101,7 @@
   },
   "nvm-sh/nvm": {
     "first_seen": "2026-09-05",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-12"
   },
   "vercel-labs/agent-skills": {
@@ -1341,8 +1341,8 @@
   },
   "Automattic/harper": {
     "first_seen": "2026-09-09",
-    "last_seen": "2026-10-20",
-    "last_saved": "2026-10-15"
+    "last_seen": "2026-11-18",
+    "last_saved": "2026-11-18"
   },
   "armory3d/armorpaint": {
     "first_seen": "2026-09-10",
@@ -1421,8 +1421,8 @@
   },
   "bojieli/ai-agent-book": {
     "first_seen": "2026-09-11",
-    "last_seen": "2026-10-16",
-    "last_saved": "2026-10-09"
+    "last_seen": "2026-11-18",
+    "last_saved": "2026-11-18"
   },
   "volcengine/OpenViking": {
     "first_seen": "2026-09-11",
@@ -1506,7 +1506,7 @@
   },
   "huggingface/transformers": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-12"
   },
   "sherlock-project/sherlock": {
@@ -1951,7 +1951,7 @@
   },
   "agent-substrate/substrate": {
     "first_seen": "2026-09-22",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-07"
   },
   "google/ax": {
@@ -2006,7 +2006,7 @@
   },
   "github/awesome-copilot": {
     "first_seen": "2026-09-23",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-04"
   },
   "poloclub/transformer-explainer": {
@@ -2056,8 +2056,8 @@
   },
   "HKUDS/CLI-Anything": {
     "first_seen": "2026-09-24",
-    "last_seen": "2026-10-21",
-    "last_saved": "2026-10-15"
+    "last_seen": "2026-11-18",
+    "last_saved": "2026-11-18"
   },
   "strands-agents/harness-sdk": {
     "first_seen": "2026-09-24",
@@ -2211,8 +2211,8 @@
   },
   "vercel/next.js": {
     "first_seen": "2026-09-27",
-    "last_seen": "2026-11-05",
-    "last_saved": "2026-10-18"
+    "last_seen": "2026-11-18",
+    "last_saved": "2026-11-18"
   },
   "darkzOGx/youtube-automation-agent": {
     "first_seen": "2026-09-27",
@@ -2341,8 +2341,8 @@
   },
   "colbymchenry/codegraph": {
     "first_seen": "2026-09-30",
-    "last_seen": "2026-10-03",
-    "last_saved": "2026-09-30"
+    "last_seen": "2026-11-18",
+    "last_saved": "2026-11-18"
   },
   "WesselKroos/youtube-ambilight": {
     "first_seen": "2026-09-30",
@@ -2491,8 +2491,8 @@
   },
   "pingdotgg/t3code": {
     "first_seen": "2026-10-03",
-    "last_seen": "2026-11-06",
-    "last_saved": "2026-10-27"
+    "last_seen": "2026-11-18",
+    "last_saved": "2026-11-18"
   },
   "jamwithai/production-agentic-rag-course": {
     "first_seen": "2026-10-03",
@@ -2661,7 +2661,7 @@
   },
   "aquasecurity/trivy": {
     "first_seen": "2026-10-06",
-    "last_seen": "2026-11-15",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-03"
   },
   "ys-ll/uniterm": {
@@ -2701,8 +2701,8 @@
   },
   "trycua/cua": {
     "first_seen": "2026-10-07",
-    "last_seen": "2026-10-23",
-    "last_saved": "2026-10-07"
+    "last_seen": "2026-11-18",
+    "last_saved": "2026-11-18"
   },
   "eolix/photosuite": {
     "first_seen": "2026-10-07",
@@ -2906,8 +2906,8 @@
   },
   "gtsteffaniak/filebrowser": {
     "first_seen": "2026-10-11",
-    "last_seen": "2026-10-16",
-    "last_saved": "2026-10-11"
+    "last_seen": "2026-11-18",
+    "last_saved": "2026-11-18"
   },
   "0xJacky/nginx-ui": {
     "first_seen": "2026-10-11",
@@ -2941,8 +2941,8 @@
   },
   "home-assistant/core": {
     "first_seen": "2026-10-12",
-    "last_seen": "2026-10-27",
-    "last_saved": "2026-10-12"
+    "last_seen": "2026-11-18",
+    "last_saved": "2026-11-18"
   },
   "CopilotKit/OpenIntelligentUI": {
     "first_seen": "2026-10-12",
@@ -2981,7 +2981,7 @@
   },
   "XiaoYouChR/Ghost-Downloader-3": {
     "first_seen": "2026-10-13",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-08"
   },
   "sgl-project/sglang-omni": {
@@ -3036,7 +3036,7 @@
   },
   "nestjs/nest": {
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-16"
   },
   "apify/apify-mcp-server": {
@@ -3061,7 +3061,7 @@
   },
   "astral-sh/ruff": {
     "first_seen": "2026-10-14",
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-06"
   },
   "lbjlaq/Antigravity-Manager": {
@@ -3131,8 +3131,8 @@
   },
   "odoo/odoo": {
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-17",
-    "last_saved": "2026-10-16"
+    "last_seen": "2026-11-18",
+    "last_saved": "2026-11-18"
   },
   "google/artemis": {
     "first_seen": "2026-10-16",
@@ -3511,8 +3511,8 @@
   },
   "stalwartlabs/stalwart": {
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-29",
-    "last_saved": "2026-10-23"
+    "last_seen": "2026-11-18",
+    "last_saved": "2026-11-18"
   },
   "anomalyco/hex": {
     "first_seen": "2026-10-23",
@@ -3816,7 +3816,7 @@
   },
   "screenpipe/screenpipe": {
     "first_seen": "2026-10-29",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-10-29"
   },
   "IamRamgarhia/Free-GST-Billing-Software": {
@@ -4176,7 +4176,7 @@
   },
   "angular/angular": {
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-07"
   },
   "moby/moby": {
@@ -4271,7 +4271,7 @@
   },
   "opensandbox-group/OpenSandbox": {
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-09"
   },
   "ooolabdev/ooosplat": {
@@ -4406,7 +4406,7 @@
   },
   "appwrite/appwrite": {
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-12"
   },
   "shanliuling/dsh-image-gen": {
@@ -4576,7 +4576,7 @@
   },
   "openai/whisper": {
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-16"
   },
   "vstorm-co/agenticos": {
@@ -4596,50 +4596,35 @@
   },
   "docker/compose": {
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-16"
   },
   "astral-sh/uv": {
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "last_saved": "2026-11-16"
   },
-  "getarcaneapp/arcane": {
+  "jquery/jquery": {
     "first_seen": "2026-11-18",
     "last_seen": "2026-11-18",
     "last_saved": "2026-11-18"
   },
-  "lodash/lodash": {
+  "axios/axios": {
     "first_seen": "2026-11-18",
     "last_seen": "2026-11-18",
     "last_saved": "2026-11-18"
   },
-  "Minglink/dsh-infinite-gen-5": {
+  "ansible/ansible": {
     "first_seen": "2026-11-18",
     "last_seen": "2026-11-18",
     "last_saved": "2026-11-18"
   },
-  "aliyun/ai-agent-handbook": {
+  "ethanplusai/sellbird": {
     "first_seen": "2026-11-18",
     "last_seen": "2026-11-18",
     "last_saved": "2026-11-18"
   },
-  "3441293738/creatorhub": {
-    "first_seen": "2026-11-18",
-    "last_seen": "2026-11-18",
-    "last_saved": "2026-11-18"
-  },
-  "elder-plinius/G0DM0D3": {
-    "first_seen": "2026-11-18",
-    "last_seen": "2026-11-18",
-    "last_saved": "2026-11-18"
-  },
-  "lnkiai/m3e-canvas": {
-    "first_seen": "2026-11-18",
-    "last_seen": "2026-11-18",
-    "last_saved": "2026-11-18"
-  },
-  "BurntSushi/jiff": {
+  "tauri-apps/tauri": {
     "first_seen": "2026-11-18",
     "last_seen": "2026-11-18",
     "last_saved": "2026-11-18"

@@ -1,0 +1,32 @@
+{
+  "id": "94607829-2245-456a-9339-e81fbe0e41e6",
+  "repo": "pingdotgg/t3code",
+  "url": "https://github.com/pingdotgg/t3code",
+  "category": "AI Agent/Automation",
+  "summary": "Cho phép kiểm soát và điều phối Claude Code, Codex từ mọi thiết bị để tự động hóa quy trình phát triển code bằng AI.",
+  "usecases": [
+    "Tự động hóa review code và sinh code từ điện thoại hoặc máy tính.",
+    "Điều phối nhiều AI agent cùng lúc cho các dự án phức tạp.",
+    "Tích hợp vào quy trình CI/CD để sinh code tự động."
+  ],
+  "ideas": [
+    "Kết hợp với lệnh voice control để điều khiển code bằng giọng nói.",
+    "Tạo dashboard quản lý nhiều agent AI cho các team phát triển.",
+    "Hỗ trợ xuất code sang các framework khác thông qua agent orchestration."
+  ],
+  "stars": 64668,
+  "starsToday": 1264,
+  "language": "TypeScript",
+  "topics": [
+    "agent-orchestration",
+    "agents",
+    "ai",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "code",
+    "vibe-coding"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-18T10:58:00.709Z"
+}

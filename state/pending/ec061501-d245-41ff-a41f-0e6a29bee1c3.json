@@ -1,0 +1,31 @@
+{
+  "id": "ec061501-d245-41ff-a41f-0e6a29bee1c3",
+  "repo": "p-e-w/heretic",
+  "url": "https://github.com/p-e-w/heretic",
+  "category": "AI/LLM",
+  "summary": "Cung cấp sửa đổi training-free cho LLM để loại bỏ kiểm duyệt, giảm slop và tăng kháng chế censorship.",
+  "usecases": [
+    "Loại bỏ kiểm duyệt không mong muốn từ LLM trong ứng dụng nội bộ.",
+    "Điều chỉnh hành vi mô hình để phù hợp với phong cách hoặc giá trị riêng.",
+    "Nghiên cứu và cải thiện tính trung lập của các mô hình ngôn ngữ."
+  ],
+  "ideas": [
+    "Sử dụng để tạo các phiên bản LLM 'trung lập' cho nghiên cứu khoa học.",
+    "Kết hợp với prompt engineering để tạo mô hình phục vụ mục đích cụ thể.",
+    "Phát triển extension cho browser để tự động làm sạch output LLM khi duyệt web."
+  ],
+  "stars": 41783,
+  "starsToday": 620,
+  "language": "Python",
+  "topics": [
+    "abliteration",
+    "llm",
+    "transformer",
+    "censorship-resistance",
+    "censorship",
+    "anti-censorship",
+    "anticensorship"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-18T10:58:00.709Z"
+}
