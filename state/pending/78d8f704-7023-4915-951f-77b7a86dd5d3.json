@@ -1,0 +1,32 @@
+{
+  "id": "78d8f704-7023-4915-951f-77b7a86dd5d3",
+  "repo": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "category": "AI Agent/Automation",
+  "summary": "Hệ thống tối ưu hiệu năng cho agent AI, cung cấp kỹ năng, trí nhớ, bảo mật và nghiên cứu cho Claude Code, Codex, Opencode và Cursor",
+  "usecases": [
+    "Accelerate software development workflows with AI agent automation",
+    "Persist and manage AI agent skills and memory across projects",
+    "Enhance security and research capabilities for LLM-based tools"
+  ],
+  "ideas": [
+    "Integrate into IDEs for real-time code assistance and refactoring",
+    "Support multi-model AI agent orchestration ecosystems",
+    "Provide analytics for AI task performance and cost tracking"
+  ],
+  "stars": 305488,
+  "starsToday": 883,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "productivity"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-18T00:19:20.998Z"
+}

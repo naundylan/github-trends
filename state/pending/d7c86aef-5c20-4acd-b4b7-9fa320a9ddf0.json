@@ -1,0 +1,35 @@
+{
+  "id": "d7c86aef-5c20-4acd-b4b7-9fa320a9ddf0",
+  "repo": "getarcaneapp/arcane",
+  "url": "https://github.com/getarcaneapp/arcane",
+  "category": "Developer Tool",
+  "summary": "Công cụ quản lý Docker hiện đại với giao diện web, giúp mọi người dùng dễ dàng quản lý container và docker compose",
+  "usecases": [
+    "Simplify local Docker container management without relying on command-line",
+    "Enable self-hosted Docker dashboards for team collaboration and monitoring",
+    "Streamline testing and deployment of containerized applications"
+  ],
+  "ideas": [
+    "Integrate with cloud APIs for hybrid on-premise and cloud container management",
+    "Add resource usage analytics and performance visualizations for containers",
+    "Extend support for Kubernetes orchestration alongside Docker"
+  ],
+  "stars": 9313,
+  "starsToday": 618,
+  "language": "Go",
+  "topics": [
+    "docker",
+    "docker-management",
+    "self-hosted",
+    "sveltekit",
+    "typescript",
+    "go",
+    "compose",
+    "docker-compose",
+    "container-management",
+    "containers",
+    "web-ui"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-18T00:19:20.998Z"
+}

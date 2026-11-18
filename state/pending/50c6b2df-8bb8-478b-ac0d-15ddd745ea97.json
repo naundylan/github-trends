@@ -1,0 +1,38 @@
+{
+  "id": "50c6b2df-8bb8-478b-ac0d-15ddd745ea97",
+  "repo": "3441293738/creatorhub",
+  "url": "https://github.com/3441293738/creatorhub",
+  "category": "Web Frontend",
+  "summary": "một bảng điều khiển web Python dùng để theo dõi, thu thập và chuyển nội dung đa nền tảng như TikTok, Douyin, Xiaohongshu và Kuaishou",
+  "usecases": [
+    "tự động theo dõi và thu thập nội dung từ nhiều nền tảng xã hội trực tiếp",
+    "tự động搬运 nội dung giữa TikTok, Douyin, Xiaohongshu",
+    "giám sát và phân tích hiệu quả nội dung trên các nền tảng khác nhau theo thời gian thực"
+  ],
+  "ideas": [
+    "kết hợp AI để tạo bản tóm tắt nội dung tự động",
+    "phát triển plugin cho phép người dùng định nghĩa quy tắc crawl tùy chỉnh",
+    "tích hợp dashboard phân tích xu hướng đa nền tảng"
+  ],
+  "stars": 3636,
+  "starsToday": 100,
+  "language": "Python",
+  "topics": [
+    "automation",
+    "content-monitoring",
+    "crawler",
+    "douyin",
+    "fastapi",
+    "kuaishou",
+    "playwright",
+    "python",
+    "rednote",
+    "tiktok",
+    "web-scraping",
+    "xiaohongshu",
+    "shipinhao",
+    "tiktok-api"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-11-18T00:19:20.999Z"
+}

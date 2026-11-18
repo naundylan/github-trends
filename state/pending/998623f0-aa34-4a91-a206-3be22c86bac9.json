@@ -1,0 +1,44 @@
+{
+  "id": "998623f0-aa34-4a91-a206-3be22c86bac9",
+  "repo": "BurntSushi/jiff",
+  "url": "https://github.com/BurntSushi/jiff",
+  "category": "Developer Tool",
+  "summary": "Jiff là thư viện datetime cho Rust, hướng dẫn phát triển theo hướng pit of success giúp xử lý ngày giờ theo chuẩn ISO8601 một cách an toàn và hiệu quả.",
+  "usecases": [
+    "Xử lý chuyển đổi và định dạng ngày giờ trong ứng dụng backend Rust.",
+    "Tính toán khoảng thời gian và lịch lịch trình cho hệ thống tài chính.",
+    "Tích hợp vào CLI tools cần xử lý múi giờ và lịch sự."
+  ],
+  "ideas": [
+    "Tạo middleware tự động chuẩn hóa múi giờ cho API services Rust.",
+    "Phát triển bot định lịch cho các ứng dụng đa quốc gia sử dụng jiff.",
+    "Kết hợp với thư viện serialization để tự động chuyển đổi datetime trong JSON API."
+  ],
+  "stars": 3164,
+  "starsToday": 81,
+  "language": "Rust",
+  "topics": [
+    "calendar",
+    "civil",
+    "date",
+    "date-time",
+    "datetime",
+    "duration",
+    "iana",
+    "iso8601",
+    "jiff",
+    "local",
+    "rfc2822",
+    "rust",
+    "strftime",
+    "strptime",
+    "time",
+    "timezone",
+    "tzdb",
+    "utc",
+    "zone",
+    "temporal"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-18T00:19:20.999Z"
+}

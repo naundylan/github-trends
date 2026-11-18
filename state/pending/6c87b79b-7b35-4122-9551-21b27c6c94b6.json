@@ -1,0 +1,23 @@
+{
+  "id": "6c87b79b-7b35-4122-9551-21b27c6c94b6",
+  "repo": "aliyun/ai-agent-handbook",
+  "url": "https://github.com/aliyun/ai-agent-handbook",
+  "category": "AI Agent/Automation",
+  "summary": "AI Agent Handbook là hướng dẫn thực tế để xây dựng các AI agent doanh nghiệp theo suốt vòng đời, từ thiết kế đến triển khai và vận hành.",
+  "usecases": [
+    "Xây dựng AI agent hỗ trợ khách hàng tự động trả lời truy vấn phức tạp.",
+    "Triển khai agent tự động hóa quy trình nội bộ như nhập liệu, tổng hợp báo cáo.",
+    "Phát triển agent đa bước cho các kịch bản marketing và bán hàng tự động."
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu vector để tạo agent có khả năng truy cứu thông tin thực thời.",
+    "Xây dựng hệ thống agent phối hợp nhau để giải quyết các tác vụ phức tạp (multi-agent system).",
+    "Sử dụng làm tài liệu tham khảo để xây dựng internal platform AI cho doanh nghiệp."
+  ],
+  "stars": 3442,
+  "starsToday": 69,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-18T00:19:20.999Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "9023db5f-8c41-4255-808a-d5978aaff5db",
+  "repo": "lnkiai/m3e-canvas",
+  "url": "https://github.com/lnkiai/m3e-canvas",
+  "category": "UI/Component Library",
+  "summary": "Thư viện React/Next.js tạo ra các giao diện Material 3 Expressive trong trình duyệt và tự động chuyển đổi thành prompt vibe-coding cho phát triển ứng dụng nhanh.",
+  "usecases": [
+    "Thiết kế nhanh giao diện UI Material 3 cho web apps bằng cách visual và nhận prompt code.",
+    "Hỗ trợ workflow design-to-code chuyển từ thiết kế thành code nhanh hơn.",
+    "Tạo prompt cho vibe-coding hoặc AI coding assistants sinh component React/Next.js."
+  ],
+  "ideas": [
+    "Xây dựng plugin Figma-to-code xuất Material 3 designs thành vibe-coding prompts.",
+    "Tạo design system tự động cập nhật React components theo xu hướng Material 3.",
+    "Phát triển nền tảng creative coding người dùng vẽ UI nhận code prompt từ AI."
+  ],
+  "stars": 10553,
+  "starsToday": 103,
+  "language": "TypeScript",
+  "topics": [
+    "design-tool",
+    "material-3-expressive",
+    "material-design",
+    "material3",
+    "nextjs",
+    "prompt",
+    "react",
+    "vibe-coding"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-11-18T00:19:20.999Z"
+}

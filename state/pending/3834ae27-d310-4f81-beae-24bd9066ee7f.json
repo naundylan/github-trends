@@ -1,0 +1,28 @@
+{
+  "id": "3834ae27-d310-4f81-beae-24bd9066ee7f",
+  "repo": "lodash/lodash",
+  "url": "https://github.com/lodash/lodash",
+  "category": "Developer Tool",
+  "summary": "Thư viện tiện ích JavaScript mô-đun hóa giúp tăng performance và modularity cho codebase.",
+  "usecases": [
+    "Giúp developers xử lý các tác vụ phổ biến như flatten, debounce, throttle một cách modular.",
+    "Cung cấp các utility function cho manipulation objects/arrays trong cả frontend và backend JavaScript.",
+    "Giảm bớt phụ thuộc vào framework bên ngoài cho các hàm utility cơ bản."
+  ],
+  "ideas": [
+    "Bundle làm plugin cho các framework JS như React hoặc Vue để cung cấp các helper function nhanh.",
+    "Tích hợp vào các môi trường serverless để giảm kích thước bundle thông qua tree-shaking.",
+    "Sử dụng làm基础 (foundation) cho các thư viện tiện ích tùy chỉnh trong các project nội bộ."
+  ],
+  "stars": 61466,
+  "starsToday": 178,
+  "language": "JavaScript",
+  "topics": [
+    "lodash",
+    "utilities",
+    "javascript",
+    "modules"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-18T00:19:20.998Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "69fa7a4a-3208-4878-8c39-41e3ed2435c9",
+  "repo": "elder-plinius/G0DM0D3",
+  "url": "https://github.com/elder-plinius/G0DM0D3",
+  "category": "AI/LLM",
+  "summary": "một ứng dụng chat AI mã nguồn mở tự do, cung cấp giao diện tương tác cho các mô hình ngôn ngữ",
+  "usecases": [
+    "trợ lý AI cá nhân cho viết code, viết văn và trả lời câu hỏi",
+    "nền tảng thử nghiệm và triển khai mô hình ngôn ngữ cục bộ",
+    "giao diện chat thay thế cho dịch vụ AI thương mại với kiểm soát dữ liệu cao hơn"
+  ],
+  "ideas": [
+    "tích hợp RAG để truy cập tài liệu nội bộ",
+    "chế độ phản hồi kép so sánh nhiều mô hình LLM cùng lúc",
+    "phát triển ứng dụng desktop/hình thức nhẹ cho truy cập nhanh"
+  ],
+  "stars": 12639,
+  "starsToday": 91,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-18T00:19:20.999Z"
+}

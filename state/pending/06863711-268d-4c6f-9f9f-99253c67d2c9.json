@@ -1,0 +1,26 @@
+{
+  "id": "06863711-268d-4c6f-9f9f-99253c67d2c9",
+  "repo": "Minglink/dsh-infinite-gen-5",
+  "url": "https://github.com/Minglink/dsh-infinite-gen-5",
+  "category": "AI/LLM",
+  "summary": "Công cụ JavaScript reverse-engineering tích hợp DeepSeek v4.1 flash, cho phép tương tác không giới hạn với phiên bản DeepSeek 5 và tối ưu hiệu suất truy vấn.",
+  "usecases": [
+    "Tích hợp DeepSeek v4.1 flash vào ứng dụng cần tốc độ phản hồi nhanh mà không bị giới hạn quota.",
+    "Phân tích và reverse-engineer luồng yêu cầu/câu trả lời DeepSeek để tối ưu prompt.",
+    "Tự động hóa test các phiên bản model DeepSeek trong môi trường phát triển."
+  ],
+  "ideas": [
+    "Xây dựng extension trình duyệt tự động tối ưu prompt DeepSeek bằng tool này.",
+    "Tạo dashboard so sánh hiệu suất DeepSeek v4.1 vs v5 thông qua harness.",
+    "Kết hợp với local LLMs tạo trải nghiệm DeepSeek riêng tư."
+  ],
+  "stars": 4473,
+  "starsToday": 108,
+  "language": "JavaScript",
+  "topics": [
+    "deepseek",
+    "deepseek-harness"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-18T00:19:20.999Z"
+}
