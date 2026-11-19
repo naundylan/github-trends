@@ -1,0 +1,43 @@
+{
+  "id": "7ee7d008-cf11-4e4d-8855-f1bdd164f405",
+  "repo": "openvinotoolkit/openvino",
+  "url": "https://github.com/openvinotoolkit/openvino",
+  "category": "AI/LLM",
+  "summary": "Bộ công cụ mã nguồn mở giúp tối ưu hóa và triển khai inference AI, hỗ trợ computer vision, LLM, generative AI và đa dạng mô hình deep learning trên nhiều nền tảng phần cứng.",
+  "usecases": [
+    "Triển khai inference LLM và generative AI trên thiết bị edge với latency thấp.",
+    "Tối ưu hóa inference computer vision (nhận diện đối tượng, phân đoạn) cho ứng dụng thực thời.",
+    "Chuyển đổi và chạy mô hình YOLO, transformers trên CPU, GPU, VPU, NPU với hiệu suất cao."
+  ],
+  "ideas": [
+    "Kết hợp OpenVINO với các framework mobile (React Native, Flutter) để triển khai AI inference trực tiếp trên ứng dụng di động.",
+    "Tạo pipeline tự động tối ưu hóa mô hình từ training đến production cho các doanh nghiệp AI và startup.",
+    "Sử dụng OpenVINO để enable tính năng AI trong các ứng dụng desktop nhẹ như video editing, conferencing hoặc productivity tools."
+  ],
+  "stars": 11347,
+  "starsToday": 24,
+  "language": "C++",
+  "topics": [
+    "inference",
+    "deep-learning",
+    "openvino",
+    "ai",
+    "computer-vision",
+    "diffusion-models",
+    "generative-ai",
+    "llm-inference",
+    "natural-language-processing",
+    "nlp",
+    "performance-boost",
+    "speech-recognition",
+    "stable-diffusion",
+    "deploy-ai",
+    "optimize-ai",
+    "transformers",
+    "yolo",
+    "recommendation-system",
+    "good-first-issue"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-19T02:11:51.883Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ab4de4ed-b322-49d8-8bfa-78f21f8b0da7",
+  "repo": "jquery/jquery",
+  "url": "https://github.com/jquery/jquery",
+  "category": "Web Frontend",
+  "summary": "jQuery là thư viện JavaScript nhanh và nhẹ nhàng, giúp thao tác DOM, xử lý sự kiện và gửi AJAX dễ dàng cho các trang web tương tác.",
+  "usecases": [
+    "Thêm hiệu ứng động và tương tác vào trang web cũ không dùng framework hiện đại.",
+    "Tích hợp AJAX để tải nội dung động mà không cần reload trang.",
+    "Giúp tương thích đa trình duyệt cho các tính năng JavaScript cơ bản."
+  ],
+  "ideas": [
+    "Sử dụng jQuery làm lớp nền cho plugin UI trong các dự án WordPress.",
+    "Kết hợp với Tailwind CSS để tạo các component tương tác nhanh.",
+    "Đào tạo mới cho developers học JavaScript cơ bản trước khi chuyển sang frameworks hiện đại."
+  ],
+  "stars": 60020,
+  "starsToday": 266,
+  "language": "JavaScript",
+  "topics": [
+    "jquery"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-11-19T02:11:51.883Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fb653656-f198-4eca-a5d0-1ee33f8960f5",
+  "repo": "Dodaios/Dodaios",
+  "url": "https://github.com/Dodaios/Dodaios",
+  "category": "AI Agent/Automation",
+  "summary": "Workspace tích hợp cho phép chạy đồng thời nhiều AI coding agents (như Claude Code, Codex) kèm hỗ trợ giọng nói và quản lý tài liệu, hoạt động local-first trên máy cá nhân.",
+  "usecases": [
+    "So sánh và phối hợp nhiều AI agents song song để hoàn thành tác vụ code phức tạp.",
+    "Tự động hóa quy trình phát triển phần mềm bằng lệnh giọng nói và điều khiển desktop.",
+    "Quản lý và chuyển đổi giữa các dự án code với các agent AI tùy chỉnh."
+  ],
+  "ideas": [
+    "Kết hợp với các nền tảng voice assistant để điều khiển code bằng giọng nói toàn cảnh.",
+    "Tạo dashboard thống kê hiệu suất của các agent AI khác nhau trong cùng một session.",
+    "Hỗ trợ import/export các cấu hình agent để chuyển đổi giữa các môi trường development."
+  ],
+  "stars": 421,
+  "starsToday": 19,
+  "language": "Python",
+  "topics": [
+    "ai-agent",
+    "desktop-app",
+    "voice-assistant",
+    "claude-code",
+    "computer-use",
+    "mcp",
+    "agent-orchestration",
+    "ai-coding-assistant",
+    "coding-agent",
+    "voice-coding",
+    "local-first",
+    "personal-jarvis"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-19T02:11:51.883Z"
+}

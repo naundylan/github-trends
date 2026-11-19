@@ -1,0 +1,26 @@
+{
+  "id": "dea74719-5165-4cfd-a6c3-d5a13d38de65",
+  "repo": "ansible/ansible",
+  "url": "https://github.com/ansible/ansible",
+  "category": "DevOps/CI-CD",
+  "summary": "Nền tảng tự động hóa IT để cấu hình hệ thống, triển khai phần mềm và phối hợp hạ tầng cloud sử dụng playbook YAML đơn giản và SSH.",
+  "usecases": [
+    "Tự động hóa cung cấp server và quản lý cấu hình trên các môi trường đa dạng",
+    "Triển khai ứng dụng và quản lý infrastructure as code trong pipelines CI/CD",
+    "Đơn giản hóa cấu hình thiết bị mạng và phối hợp tài nguyên cloud"
+  ],
+  "ideas": [
+    "Kết hợp Ansible với Terraform để tự động hóa hạbrid infrastructure",
+    "Sử dụng playbook Ansible để tự động hóa môi trường phát triển local (dotfiles, cấu hình IDE)",
+    "Xây dựng các automation agent tùy chỉnh cho quản lý lưới thiết bị IoT"
+  ],
+  "stars": 71464,
+  "starsToday": 133,
+  "language": "Python",
+  "topics": [
+    "python",
+    "ansible"
+  ],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-19T02:11:51.883Z"
+}

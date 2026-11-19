@@ -1,0 +1,44 @@
+{
+  "id": "8387aeab-5a0f-4355-9573-7dfbbccadc00",
+  "repo": "screenpipe/screenpipe",
+  "url": "https://github.com/screenpipe/screenpipe",
+  "category": "AI Agent/Automation",
+  "summary": "Công cụ record màn hình và hoạt động máy tính liên tục, phát hiện quy trình làm việc lặp lại và xuất dữ liệu cho agent AI ưa thích, chú trọng tính local-first và quyền riêng tư.",
+  "usecases": [
+    "Tự động ghi lại và tóm tắt các cuộc họp hoặc phiên làm việc để phân tích năng suất.",
+    "Phát hiện và tái tạo quy trình làm việc lặp lại để cung cấp cho các agent AI tự động hóa.",
+    "Lưu trữ an toàn hoạt động máy tính local cho mục đích training hoặc phân tích behavior với LLM."
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình local-first LLM để tạo ra 'digital twin' của behavior người dùng.",
+    "Sử dụng dữ liệu record để train các model personal assistant tùy chỉnh.",
+    "Phát triển hệ thống cảnh báo khi phát hiện quy trình bất thường hoặc rủi ro bảo mật."
+  ],
+  "stars": 22448,
+  "starsToday": 18,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "computer-vision",
+    "llm",
+    "machine-learning",
+    "multimodal",
+    "agents",
+    "agi",
+    "audio-recording",
+    "local-ai",
+    "local-first",
+    "privacy",
+    "screen-recording",
+    "speech-to-text",
+    "ycombinator",
+    "hermes",
+    "hermes-agent",
+    "openclaw",
+    "ai-memory",
+    "mcp",
+    "rewind"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-19T02:11:51.883Z"
+}

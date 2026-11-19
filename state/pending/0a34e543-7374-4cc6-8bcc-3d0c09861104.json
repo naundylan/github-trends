@@ -1,0 +1,44 @@
+{
+  "id": "0a34e543-7374-4cc6-8bcc-3d0c09861104",
+  "repo": "storybookjs/storybook",
+  "url": "https://github.com/storybookjs/storybook",
+  "category": "UI/Component Library",
+  "summary": "Workshop chuẩn ngành để xây dựng, tài liệu hóa và test UI components theo cách격격 lập, giúp cải thiện hiệu suất và consistency trong phát triển giao diện user.",
+  "usecases": [
+    "Xây dựng và 격격 lập UI components để phát triển độc lập, giảm phụ thuộc giữa các team.",
+    "Tự động tạo document cho component library, đảm bảo consistency giao diện across frameworks.",
+    "Test UI components với various states và frameworks (React, Vue, Angular) trong isolation."
+  ],
+  "ideas": [
+    "Kết hợp Storybook với design system Figma để tạo một living component library tự động đồng bộ giao diện.",
+    "Sử dụng Storybook để develop và test UI components cho Chrome extensions hoặc browser-based tools.",
+    "Xây dựng automation CI/CD pipeline để test visual regression trên Storybook builds, đảm bảo không có breaking change giao diện."
+  ],
+  "stars": 91638,
+  "starsToday": 23,
+  "language": "TypeScript",
+  "topics": [
+    "storybook",
+    "styleguide",
+    "testing",
+    "components",
+    "webpack",
+    "ui",
+    "react",
+    "vue",
+    "react-native",
+    "design-systems",
+    "javascript",
+    "angular",
+    "svelte",
+    "web-components",
+    "typescript",
+    "html",
+    "vite",
+    "workshop",
+    "documentation",
+    "stories"
+  ],
+  "notePath": "notes/UI-Component-Library.md",
+  "createdAt": "2026-11-19T02:11:51.883Z"
+}

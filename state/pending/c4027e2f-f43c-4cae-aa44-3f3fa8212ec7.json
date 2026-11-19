@@ -1,0 +1,21 @@
+{
+  "id": "c4027e2f-f43c-4cae-aa44-3f3fa8212ec7",
+  "repo": "ViceVerse-cz/Serein",
+  "url": "https://github.com/ViceVerse-cz/Serein",
+  "category": "Other",
+  "summary": "Tiny, Performant & 100% Native client for Discord made in Rust",
+  "usecases": [
+    "Khám phá và đánh giá ViceVerse-cz/Serein cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 1434,
+  "starsToday": 33,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-19T02:11:51.883Z"
+}
