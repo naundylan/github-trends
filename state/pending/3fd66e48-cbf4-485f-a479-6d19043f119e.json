@@ -1,0 +1,25 @@
+{
+  "id": "3fd66e48-cbf4-485f-a479-6d19043f119e",
+  "repo": "jquery/jquery",
+  "url": "https://github.com/jquery/jquery",
+  "category": "Web Frontend",
+  "summary": "Thư viện JavaScript nổi tiếng để đơn giản hóa thao tác DOM, xử lý sự kiện và yêu cầu AJAX trong phát triển web.",
+  "usecases": [
+    "Tương tác với DOM và xử lý sự kiện trong các trang web",
+    "Gửi và nhận dữ liệu từ server thông qua AJAX với cú pháp ngắn gọn",
+    "Cung cấp hỗ trợ cross-browser cho các tính năng JavaScript cơ bản"
+  ],
+  "ideas": [
+    "Sử dụng làm nền tảng cho các plugin lightweight trong WordPress",
+    "Kết hợp với các framework hiện đại thông qua compatibility layer",
+    "Dành cho các dự án legacy cần duy trì mà không cần modern build setup"
+  ],
+  "stars": 60105,
+  "starsToday": 173,
+  "language": "JavaScript",
+  "topics": [
+    "jquery"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-11-19T19:50:28.801Z"
+}

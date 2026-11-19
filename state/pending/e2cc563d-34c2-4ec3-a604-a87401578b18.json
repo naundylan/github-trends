@@ -1,0 +1,43 @@
+{
+  "id": "e2cc563d-34c2-4ec3-a604-a87401578b18",
+  "repo": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "category": "AI/LLM",
+  "summary": "Cơ sở hạ tầng AI cung cấp API thống nhất để scrape, tìm kiếm và truy cập 550+ nguồn dữ liệu, giúp xây dựng các agent thông minh.",
+  "usecases": [
+    "AI agents tự động trích xuất dữ liệu cấu trúc từ web để training hoặc RAG.",
+    "Scrape web nhanh cho nghiên cứu thị trường hoặc sinh leads được hỗ trợ LLM.",
+    "Kết hợp nhiều nhà cung cấp dữ liệu vào một workflow duy nhất mà không cần quản lý API riêng."
+  ],
+  "ideas": [
+    "Kết hợp với vector database để xây dựng agent nghiên cứu tự động tổng hợp dữ liệu web.",
+    "Tạo giao diện no-code cho người dùng không chuyên xây dựng scraper tùy chỉnh cho training AI.",
+    "Sử dụng làm lớp ingestion dữ liệu cho knowledge base AI doanh nghiệp, tự động cập nhật từ nguồn web live."
+  ],
+  "stars": 203988,
+  "starsToday": 795,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "crawler",
+    "markdown",
+    "scraper",
+    "html-to-markdown",
+    "llm",
+    "scraping",
+    "web-crawler",
+    "ai-scraping",
+    "webscraping",
+    "web-scraping",
+    "web-data",
+    "web-data-extraction",
+    "ai-agents",
+    "data-extraction",
+    "ai-crawler",
+    "ai-search",
+    "web-scraper",
+    "web-search"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-19T19:50:28.801Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "740a6c01-6a8e-4f3f-803b-4889f140ae73",
+  "repo": "microsoft/markitdown",
+  "url": "https://github.com/microsoft/markitdown",
+  "category": "CLI Tool",
+  "summary": "Công cụ Python tự động chuyển đổi các tệp Office và đa phương tiện sang định dạng Markdown, hỗ trợ tích hợp với các framework AI như LangChain và AutoGen.",
+  "usecases": [
+    "Chuyển đổi tài liệu Word, Excel, PowerPoint sang Markdown để xuất bản và chia sẻ.",
+    "Tích hợp vào quy trình CI/CD để tự động hóa xử lý tài liệu văn bản.",
+    "Cung cấp đầu vào Markdown cho các ứng dụng AI như LangChain và AutoGen."
+  ],
+  "ideas": [
+    "Tạo plugin chuyển đổi tài liệu cho các nền tảng AI viết code và tự động hóa.",
+    "Kết hợp với Ollama hoặc local LLMs để xử lý tài liệu văn bản trên thiết bị.",
+    "Phát triển giao diện web đơn giản để preview và chỉnh sửa Markdown từ tệp Office."
+  ],
+  "stars": 196989,
+  "starsToday": 526,
+  "language": "Python",
+  "topics": [
+    "langchain",
+    "openai",
+    "autogen-extension",
+    "autogen",
+    "markdown",
+    "microsoft-office",
+    "pdf"
+  ],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-19T19:50:28.801Z"
+}

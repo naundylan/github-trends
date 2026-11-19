@@ -1,0 +1,31 @@
+{
+  "id": "88237b93-2a15-49a0-8a19-bec7fa518f23",
+  "repo": "github/spec-kit",
+  "url": "https://github.com/github/spec-kit",
+  "category": "Developer Tool",
+  "summary": "Spec-kit là bộ công cụ (toolkit) cho Python giúp bắt đầu nhanh với Spec-Driven Development (SDD) và tự động hóa quy trình tạo PRD, hỗ trợ cho các bước phát triển phần mềm dựa trên spec.",
+  "usecases": [
+    "Tạo tài liệu PRD (Product Requirement Document) tự động từ các yêu cầu dự án.",
+    "Tiêu chuẩn hóa quy trình phát triển theo Spec-Driven Development cho đội ngũ phần mềm.",
+    "Tích hợp với AI (Copilot) để tạo code hoặc thiết kế architecture dựa trên spec."
+  ],
+  "ideas": [
+    "Kết hợp với CI/CD để tự động generate spec và document mỗi khi merge code.",
+    "Phát triển extension cho VS Code để hỗ trợ edit spec trực tiếp trong code editor.",
+    "Sử dụng spec-kit để đồng bộ requirement giữa product team và dev team trên cùng một nền tảng."
+  ],
+  "stars": 150672,
+  "starsToday": 230,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "copilot",
+    "development",
+    "engineering",
+    "prd",
+    "spec",
+    "spec-driven"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-19T19:50:28.801Z"
+}

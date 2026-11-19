@@ -1,0 +1,44 @@
+{
+  "id": "9a4ba81d-2b5e-4d9f-85da-3cbd291c373d",
+  "repo": "mjmirza/app-store-compliance",
+  "url": "https://github.com/mjmirza/app-store-compliance",
+  "category": "Mobile (iOS/Android)",
+  "summary": "Hỗ trợ tuân thủ App Store/Google Play với 117 mẫu từ chối, kiểm tra riêng tư và Data safety, theo dõi 95 deadline pháp lý như EU AI Act và COPPA.",
+  "usecases": [
+    "Lập trình viên mobile kiểm tra tuân thủ trước khi submit App Store/Google Play để tránh từ chối.",
+    "Agent AI coding (như Claude Code) tự động thực hiện kiểm tra compliance trước khi submit.",
+    "Đội luật/quản lý tuân thủ theo dõi 95 deadline như EU AI Act, DSA, COPPA cho ứng dụng mobile."
+  ],
+  "ideas": [
+    "Chuyển vào CI/CD pipeline để test compliance tự động trên mỗi pull request.",
+    "Mở rộng hỗ trợ cho các quy định mới như luật chủ quyền dữ liệu địa phương cho launch app toàn cầu.",
+    "Xây dashboard cho publisher trực quan hóa trạng thái compliance và tiến độ khắc phục cho nhiều app."
+  ],
+  "stars": 1718,
+  "starsToday": 542,
+  "language": "Shell",
+  "topics": [
+    "android",
+    "app-store-review",
+    "google-play",
+    "ios",
+    "app-review-guidelines",
+    "app-store-rejection",
+    "accessibility",
+    "ai-agents",
+    "app-store",
+    "app-store-connect",
+    "claude-code",
+    "coppa",
+    "data-safety",
+    "eu-ai-act",
+    "gdpr",
+    "google-play-policy",
+    "mobile-compliance",
+    "play-console",
+    "privacy-manifest",
+    "pre-submission-checklist"
+  ],
+  "notePath": "notes/Mobile-iOS-Android.md",
+  "createdAt": "2026-11-19T19:50:28.801Z"
+}

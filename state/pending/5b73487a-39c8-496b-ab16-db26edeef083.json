@@ -1,0 +1,23 @@
+{
+  "id": "5b73487a-39c8-496b-ab16-db26edeef083",
+  "repo": "earendil-works/pi",
+  "url": "https://github.com/earendil-works/pi",
+  "category": "AI Agent/Automation",
+  "summary": "Một bộ công cụ AI agent tích hợp API LLM thống nhất, vòng lặp agent, TUI và CLI coding agent để tự động hóa phát triển phần mềm.",
+  "usecases": [
+    "Tự động viết và review code qua CLI",
+    "Tích hợp với các mô hình LLM để tạo ra các agent tự hành các tác vụ phức tạp",
+    "Cung cấp giao diện dòng lệnh (TUI) để theo dõi và điều khiển luồng làm việc của agent"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống CI/CD để tự động tạo pull request",
+    "Sử dụng làm nền tảng cho IDE extension tự viết code",
+    "Triển khai agent tự học và tối ưu hóa quy trình phát triển"
+  ],
+  "stars": 122906,
+  "starsToday": 191,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-19T19:50:28.801Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ed255093-a96b-4e80-be91-1cab0bd63a8b",
+  "repo": "rustdesk/rustdesk",
+  "url": "https://github.com/rustdesk/rustdesk",
+  "category": "Desktop App",
+  "summary": "Rustdesk là ứng dụng remote desktop mã nguồn mở, cho phép điều khiển máy tính từ xa và tự host, là thay thế miễn phí cho TeamViewer với hỗ trợ P2P và đa nền tảng.",
+  "usecases": [
+    "Truy cập và điều khiển máy tính từ xa trong công việc hoặc hỗ trợ kỹ thuật.",
+    "Kết nối và làm việc trên các thiết bị di động (Android/iOS) từ xa.",
+    "Tự host server remote desktop cho doanh nghiệp với chi phí thấp."
+  ],
+  "ideas": [
+    "Kết hợp với VPN riêng để tăng bảo mật cho remote desktop nội bộ.",
+    "Phát triển plugin cho các trình quản lý hệ thống để tự động hóa việc remote vào máy chủ.",
+    "Sử dụng tính năng P2P để tạo mạng remote desktop giữa các thiết bị không có IP cố định."
+  ],
+  "stars": 130273,
+  "starsToday": 237,
+  "language": "Rust",
+  "topics": [
+    "remote-control",
+    "remote-desktop",
+    "teamviewer",
+    "anydesk",
+    "vnc",
+    "rdp",
+    "rust",
+    "p2p",
+    "flutter",
+    "flutter-apps",
+    "dart",
+    "rust-lang",
+    "wayland",
+    "linux",
+    "android",
+    "flatpak",
+    "ios",
+    "macos",
+    "windows"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-19T19:50:28.801Z"
+}

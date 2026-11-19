@@ -1,0 +1,32 @@
+{
+  "id": "71607ebc-6d69-48ee-a87e-8427f85f6d46",
+  "repo": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "category": "Data Visualization",
+  "summary": "Bộ sưu tập 45 kiểu đồ họa diagram được thiết kế cho các trợ lý AI như Claude Code, Codex, GitHub Copilot, với định dạng HTML + SVG self-contained, không bóng đổ và không phụ thuộc Mermaid.",
+  "usecases": [
+    "Hiển thị flowchart và diagram trong kết quả trả lời từ AI code để giải thích logic.",
+    "Tích hợp vào tài liệu kỹ thuật và README để minh họa quy trình phát triển phần mềm.",
+    "Sử dụng làm mẫu thiết kế diagram cho các ứng dụng web và công cụ trực quan hóa dữ liệu."
+  ],
+  "ideas": [
+    "Tự động sinh diagram SVG dựa trên yêu cầu của người dùng thông qua AI.",
+    "Kết hợp với các trình biên dịch Markdown để render diagram tùy chỉnh và tương tác.",
+    "Phát triển extension cho VS Code hiển thị diagram chuyên nghiệp cho code và dự án."
+  ],
+  "stars": 68535,
+  "starsToday": 332,
+  "language": "HTML",
+  "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "data-visualization",
+    "diagrams",
+    "drawio",
+    "mermaid",
+    "svg"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-11-19T19:50:28.801Z"
+}
