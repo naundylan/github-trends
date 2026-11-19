@@ -1,0 +1,32 @@
+{
+  "id": "c5a5e30e-9013-4aa7-984f-2324ab327830",
+  "repo": "louis-e/arnis",
+  "url": "https://github.com/louis-e/arnis",
+  "category": "Desktop App",
+  "summary": "Arnis là một công cụ tạo thế giới Minecraft dựa trên dữ liệu OpenStreetMap, sử dụng Rust và Tauri để tạo ra các bản đồ địa thực với chi tiết cao từ các vị trí thực tế.",
+  "usecases": [
+    "Tạo bản đồ Minecraft mô phỏng chính xác các thành phố/thành phố thực tế cho mục đích giáo dục hoặc giải trí.",
+    "Phát triển các bản đồ Minecraft cho các dự án xây dựng hoặc kiến trúc dựa trên địa hình thực tế.",
+    "Sử dụng trong các dự án mod Minecraft hoặc server cần bản đồ chi tiết không tạo bằng tay."
+  ],
+  "ideas": [
+    "Kết hợp với dữ liệu thời tiết/thời gian thực để tạo các ngày/tháng trong Minecraft phù hợp với thực tế.",
+    "Tạo plugin cho Minecraft server tự động tải và tạo khu vực mới khi người chơi di chuyển đến vị trí mới.",
+    "Sử dụng dữ liệu OSM để tạo các bản đồ 3D tương tác không chỉ cho Minecraft mà còn cho các nền tảng khác."
+  ],
+  "stars": 18726,
+  "starsToday": 18,
+  "language": "Rust",
+  "topics": [
+    "minecraft",
+    "openstreetmap",
+    "osm",
+    "rust",
+    "tauri",
+    "overpass-turbo",
+    "procedural-generation",
+    "minecraft-world-generator"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-19T10:59:12.540Z"
+}

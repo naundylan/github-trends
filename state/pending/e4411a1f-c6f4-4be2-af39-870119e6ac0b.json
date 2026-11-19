@@ -1,0 +1,31 @@
+{
+  "id": "e4411a1f-c6f4-4be2-af39-870119e6ac0b",
+  "repo": "gohugoio/hugo",
+  "url": "https://github.com/gohugoio/hugo",
+  "category": "Web Framework",
+  "summary": "Hugo là framework static site generator nhanh nhất thế giới, cho phép xây dựng website, blog và CMS nhanh chóng bằng Go.",
+  "usecases": [
+    "Xây dựng blog cá nhân hoặc doanh nghiệp với tốc độ tải trang cực nhanh",
+    "Tạo website tĩnh cho các dự án tài liệu hoặc CMS nội bộ",
+    "Deploy nhanh đến các nền tảng hosting tĩnh như Netlify, Vercel"
+  ],
+  "ideas": [
+    "Tích hợp headless CMS như Contentful hoặc Strapi để quản lý nội dung động",
+    "Phát triển theme tùy chỉnh với hỗ trợ đa ngôn ngữ và i18n",
+    "Tạo plugin Hugo để sinh mã boilerplate cho các loại website cụ thể"
+  ],
+  "stars": 90514,
+  "starsToday": 15,
+  "language": "Go",
+  "topics": [
+    "go",
+    "hugo",
+    "static-site-generator",
+    "blog-engine",
+    "cms",
+    "content-management-system",
+    "documentation-tool"
+  ],
+  "notePath": "notes/Web-Framework.md",
+  "createdAt": "2026-11-19T10:59:12.541Z"
+}

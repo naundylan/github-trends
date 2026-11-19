@@ -1,0 +1,32 @@
+{
+  "id": "87fb7a54-93cd-4c7f-bd7d-95db7eb77824",
+  "repo": "vllm-project/vllm-ascend",
+  "url": "https://github.com/vllm-project/vllm-ascend",
+  "category": "AI/LLM",
+  "summary": "Mở rộng vLLM để hỗ trợ triển khai và phục vụ mô hình LLM trên phần cứng Huawei Ascend, giúp tối ưu hóa inference cho các ứng dụng AI quy mô lớn.",
+  "usecases": [
+    "Triển khai serving LLM trên cluster Ascend với hiệu suất cao.",
+    "Tích hợp vLLM vào quy trình MLOps cho các mô hình transformer.",
+    "Tối ưu hóa latency và throughput cho inference trên hardware Ascend."
+  ],
+  "ideas": [
+    "Kết hợp với các framework LLM khác để hỗ trợ đa nền tảng hardware.",
+    "Phát triển plugin tự động hóa quantization cho Ascend.",
+    "Tạo benchmark so sánh hiệu suất giữa Ascend và GPU cho cùng các mô hình LLM."
+  ],
+  "stars": 3119,
+  "starsToday": 14,
+  "language": "Python",
+  "topics": [
+    "inference",
+    "llm",
+    "llm-serving",
+    "llmops",
+    "mlops",
+    "model-serving",
+    "transformer",
+    "vllm"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-19T10:59:12.541Z"
+}

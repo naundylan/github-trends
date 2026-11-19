@@ -1,0 +1,28 @@
+{
+  "id": "c541042b-011e-496b-b4b0-f9587757bbbd",
+  "repo": "microsoft/edit",
+  "url": "https://github.com/microsoft/edit",
+  "category": "Code Editor/IDE Extension",
+  "summary": "Một trình soạn thảo text hiện đại viết bằng Rust, chạy trong terminal, tập trung vào trải nghiệm edit mượt mà và hiệu suất.",
+  "usecases": [
+    "Sử dụng làm trình soạn thảo nhẹ cho các máy có tài nguyên hạn chế.",
+    "Tích hợp vào quy trình làm việc terminal-based cho developers.",
+    "Nhập làm nền tảng cho các script tự động hóa xử lý text."
+  ],
+  "ideas": [
+    "Thêm hỗ trợ cho các ngôn ngữ lập trình thông qua language server protocol.",
+    "Tích hợp AI code completion trực tiếp trong terminal.",
+    "Phát triển chế độ collaboration real-time cho editing cùng lúc."
+  ],
+  "stars": 14788,
+  "starsToday": 8,
+  "language": "Rust",
+  "topics": [
+    "editor",
+    "rust",
+    "text-editor",
+    "terminal"
+  ],
+  "notePath": "notes/Code-Editor-IDE-Extension.md",
+  "createdAt": "2026-11-19T10:59:12.541Z"
+}

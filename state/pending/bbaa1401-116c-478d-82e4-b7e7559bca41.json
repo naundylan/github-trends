@@ -1,0 +1,23 @@
+{
+  "id": "bbaa1401-116c-478d-82e4-b7e7559bca41",
+  "repo": "anthropics/claude-code-security-review",
+  "url": "https://github.com/anthropics/claude-code-security-review",
+  "category": "DevOps/CI-CD",
+  "summary": "GitHub Action sử dụng Claude AI để phân tích thay đổi code và phát hiện các lỗ hổng bảo mật, giúp team kiểm soát chất lượng an ninh sớm trong quy trình CI/CD.",
+  "usecases": [
+    "Tự động quét code mới push lên repository để báo cáo các lỗ hổng SQL injection, XSS và các lỗ hổng khác.",
+    "Tích hợp trong pipeline CI để chặn merge code có vấn đề bảo mật nghiêm trọng trước khi nhập repository.",
+    "Giúp review code nhanh chóng cho các dự án có yêu cầu tuân thủ an ninh cao và quy chuẩn compliance."
+  ],
+  "ideas": [
+    "Mở rộng để phân tích các dependency/package cho các lỗ hổng biết đến và cập nhật tự động.",
+    "Kết hợp với các báo cáo bảo mật định kỳ để tạo dashboard an ninh cho tổ chức.",
+    "Sử dụng để train model an ninh code nội bộ dựa trên feedback từ Action."
+  ],
+  "stars": 7014,
+  "starsToday": 17,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/DevOps-CI-CD.md",
+  "createdAt": "2026-11-19T10:59:12.541Z"
+}
