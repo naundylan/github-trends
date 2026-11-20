@@ -1,0 +1,28 @@
+{
+  "id": "727f2531-c7d5-4e86-876b-494851d5e1b0",
+  "repo": "FlashML-org/FreeVideo",
+  "url": "https://github.com/FlashML-org/FreeVideo",
+  "category": "AI/LLM",
+  "summary": "FreeVideo cho phép sinh video bằng mô hình MiniMax H3 trên máy cá nhân với yêu cầu VRAM/RAM thấp, mở tạo video generative AI cho mọi người.",
+  "usecases": [
+    "Sinh video promotional hoặc nội dung mạng xã hội trên máy tính cá nhân mà không thuê dịch vụ đám mây.",
+    "Tạo nội dung video cho giáo dục hoặc nghiên cứu khoa học với hardware tiêu dùng.",
+    "Các nhà phát triển AI test và tối ưu hóa mô hình diffusion trên thiết bị cá nhân mà không cần GPU cao cấp."
+  ],
+  "ideas": [
+    "Tạo ra một dịch vụ tự hosting cho nội dung video generative AI hoàn toàn riêng tư.",
+    "Kết hợp với các mô hình âm thanh để tạo video có kèm voiceover tự động.",
+    "Phát triển ứng dụng desktop cho creators để sinh video nhanh chóng từ prompt bằng hardware máy mình."
+  ],
+  "stars": 3739,
+  "starsToday": 304,
+  "language": "Python",
+  "topics": [
+    "diffusion-models",
+    "inference",
+    "minimax-h3",
+    "video-generation"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-20T19:29:59.595Z"
+}

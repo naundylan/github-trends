@@ -1,0 +1,34 @@
+{
+  "id": "4981ace4-e521-4cbc-9d5a-5005f8a7644f",
+  "repo": "0xPlaygrounds/rig",
+  "url": "https://github.com/0xPlaygrounds/rig",
+  "category": "AI/LLM",
+  "summary": "rig là một thư viện Rust giúp xây dựng các ứng dụng LLM mô-đun và mở rộng, cung cấp các công cụ để tạo agent, tự động hóa và quản lý mô hình ngôn ngữ một cách hiệu quả.",
+  "usecases": [
+    "Xây dựng agent AI tự động thực hiện tác vụ trên desktop",
+    "Tạo pipeline xử lý và tùy chỉnh LLM cho doanh nghiệp",
+    "Phát triển hệ thống tự động hóa với ngôn ngữ Rust để hiệu năng cao"
+  ],
+  "ideas": [
+    "Kết hợp rig với nats-server để tạo messaging system cho các AI agent",
+    "Xây dựng LLM-powered CLI tool tự động quản lý repository",
+    "Phát triển hệ thống monitoring real-time cho LLM inference using Rust"
+  ],
+  "stars": 9201,
+  "starsToday": 15,
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "llm",
+    "agent",
+    "artificial-intelligence",
+    "automation",
+    "large-language-model",
+    "rust",
+    "scalable-ai",
+    "generative-ai",
+    "llmops"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-20T19:29:59.595Z"
+}

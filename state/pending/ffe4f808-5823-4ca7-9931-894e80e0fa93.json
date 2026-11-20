@@ -1,0 +1,28 @@
+{
+  "id": "ffe4f808-5823-4ca7-9931-894e80e0fa93",
+  "repo": "babygoton/WorkDaddy",
+  "url": "https://github.com/babygoton/WorkDaddy",
+  "category": "Desktop App",
+  "summary": "WorkDaddy là ứng dụng desktop kết hợp WorkBuddy và CodeBuddy, cung cấp tự động sign-in, quản lý nhiều tài khoản độc lập, chế độ không phiền cho AI chạy tác vụ dài, và giao diện毛玻璃.",
+  "usecases": [
+    "Tự động ký check-in và theo dõi kế hoạch tăng trưởng cho nhiều tài khoản.",
+    "Chạy tác vụ AI dài hạn trong chế độ không phiền với tự động tiếp tục sau khi bị ngắt.",
+    "Di chuyển phiên làm việc giữa tài khoản và sao lưu dữ liệu riêng biệt."
+  ],
+  "ideas": [
+    "Tích hợp thêm các nền tảng AI để tự động hóa tác vụ phức tạp trên desktop.",
+    "Phát triển plugin tùy chỉnh cho CodeBuddy/WorkBuddy để mở rộng chức năng.",
+    "Đồng bộ dữ liệu qua đám mây an toàn cho nhiều thiết bị."
+  ],
+  "stars": 3305,
+  "starsToday": 30,
+  "language": "JavaScript",
+  "topics": [
+    "workbuddy",
+    "workbuddy-ai",
+    "codebuddy",
+    "codebuddy-cn"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-20T19:29:59.595Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "c434e07e-d096-4bf6-a9fc-7c9845c735ce",
+  "repo": "tianma-if/edgeever",
+  "url": "https://github.com/tianma-if/edgeever",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "Edgeever là ứng dụng ghi chú AI-native đa nền tplatform, thay thế Evernote/Obsidian với đồng bộ tức thì, nội phức phong phú và clip web miễn phí trên Cloudflare hoặc Docker.",
+  "usecases": [
+    "Ghi chú học tập và quản lý kiến thức với bản đồ tư duy, sơ đồ và bảng tích hợp.",
+    "Clip nội dung từ web và tạo tóm tắt bằng AI hỗ trợ.",
+    "Self-hosted knowledge base cho đội ngũ sử dụng Docker hoặc Cloudflare Workers."
+  ],
+  "ideas": [
+    "Kết hợp agent AI để tự động hóa việc liên kết và phân loại thông tin thành second brain.",
+    "Phát triển plugin xuất nội phức thành định dạng trình bày tương tác.",
+    "Tối ưu hiệu suất offline-first và sync linh hoạt cho ứng dụng di động."
+  ],
+  "stars": 3457,
+  "starsToday": 26,
+  "language": "TypeScript",
+  "topics": [
+    "cloudflare-workers",
+    "evernote",
+    "knowledge-base",
+    "mcp",
+    "self-hosted",
+    "cloudflare",
+    "evernote-alternative",
+    "note-taking",
+    "ai-agent",
+    "docker",
+    "offline-first",
+    "sqlite",
+    "web-clipper",
+    "obsidian-alternative",
+    "diagrams",
+    "mindmap",
+    "markdown",
+    "obsidian",
+    "pkm",
+    "second-brain"
+  ],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-11-20T19:29:59.595Z"
+}

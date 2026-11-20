@@ -1,0 +1,37 @@
+{
+  "id": "b7809d52-b679-487f-b81d-a61c72c7b29e",
+  "repo": "mastra-ai/mastra",
+  "url": "https://github.com/mastra-ai/mastra",
+  "category": "AI Agent/Automation",
+  "summary": "Mastra là framework TypeScript hiện đại để xây dựng AI-powered applications và agents, hỗ trợ LLM, workflows, evals và tích hợp TTS.",
+  "usecases": [
+    "Phát triển chatbot AI hỗ trợ hiểu ngôn ngữ tự nhiên và sinh phản hồi",
+    "Tạo workflow tự động hóa cho xử lý tài liệu và đánh giá dựa trên LLM",
+    "Xây dựng agente AI cho tự động hóa tác vụ với tích hợp TypeScript"
+  ],
+  "ideas": [
+    "Kết hợp với RAG (Retrieval-Augmented Generation) để xây dựng tìm kiếm doanh nghiệp",
+    "Xây dựng nền tảng orchestration multi-agent cho việc phân解 tác vụ phức tạp",
+    "Tạo designer workflow trực quan cho pipeline tự động hóa dựa trên LLM"
+  ],
+  "stars": 29700,
+  "starsToday": 44,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "ai",
+    "chatbots",
+    "javascript",
+    "llm",
+    "nextjs",
+    "nodejs",
+    "reactjs",
+    "typescript",
+    "workflows",
+    "evals",
+    "mcp",
+    "tts"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-20T19:29:59.595Z"
+}

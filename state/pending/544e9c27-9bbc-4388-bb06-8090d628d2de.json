@@ -1,0 +1,42 @@
+{
+  "id": "544e9c27-9bbc-4388-bb06-8090d628d2de",
+  "repo": "datazip-inc/olake-go",
+  "url": "https://github.com/datazip-inc/olake-go",
+  "category": "Data Engineering/ETL",
+  "summary": "OLake Go cung cấp replication mã nguồn mở từ database, Kafka và S3 sang Apache Iceberg/Parquet, hỗ trợ CDC để xây dựng pipeline dữ liệu cho lakehouse.",
+  "usecases": [
+    "Replicate thay đổi dữ liệu từ PostgreSQL sang Iceberg theo thời gian thực để phân tích",
+    "Xây dựng pipeline ETL từ nhiều nguồn database (MySQL, MongoDB, Oracle) vào data lake mà không cần code tùy chỉnh",
+    "Tích hợp ingestion dữ liệu từ S3 vào workflow lakehouse để lưu trữ thống nhất"
+  ],
+  "ideas": [
+    "Kết hợp với Apache Flink để xây dựng kiến trúc data mesh thời gian thực",
+    "Thêm hỗ trợ CDC để migrate dữ liệu sang Snowflake/BigQuery như một công cụ chuyển đổi",
+    "Cung cấp dashboard Grafana cho sức khỏe pipeline và theo dõi thay đổi dữ liệu"
+  ],
+  "stars": 2123,
+  "starsToday": 59,
+  "language": "Go",
+  "topics": [
+    "cdc",
+    "change-data-capture",
+    "data-pipeline",
+    "database",
+    "elt",
+    "lakehouse",
+    "replication",
+    "apache-iceberg",
+    "parquet",
+    "s3",
+    "hacktoberfest",
+    "kafka",
+    "data-ingestion",
+    "etl",
+    "golang",
+    "iceberg",
+    "olake",
+    "olake-go"
+  ],
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-11-20T19:29:59.595Z"
+}

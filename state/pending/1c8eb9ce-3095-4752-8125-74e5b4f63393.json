@@ -1,0 +1,39 @@
+{
+  "id": "1c8eb9ce-3095-4752-8125-74e5b4f63393",
+  "repo": "nginx/nginx",
+  "url": "https://github.com/nginx/nginx",
+  "category": "Networking",
+  "summary": "Dự án web server và reverse proxy mã nguồn mở cao hiệu suất cho HTTP/HTTPS, cân bằng tải và kết thúc TLS.",
+  "usecases": [
+    "Làm server web phục vụ nội dung tĩnh và động với kết thúc TLS.",
+    "Làm reverse proxy và cân bằng tải phân phối lưu lượng đến các backend.",
+    "Proxy TCP/UDP an toàn cho ứng dụng không phải HTTP như mail và gaming."
+  ],
+  "ideas": [
+    "Deploy làm Kubernetes Ingress controller quản lý lưu lượng microservices.",
+    "Dùng làm global load balancer với Anycast DNS để định tuyến theo địa lý.",
+    "Làm sidecar trong service meshes cho giao tiếp giữa các dịch vụ an toàn."
+  ],
+  "stars": 32522,
+  "starsToday": 246,
+  "language": "C",
+  "topics": [
+    "content-cache",
+    "load-balancer",
+    "reverse-proxy",
+    "web-server",
+    "http",
+    "https",
+    "quic",
+    "tls",
+    "tcp-proxy-server",
+    "mail-proxy-server",
+    "udp-proxy-server",
+    "http2",
+    "http3",
+    "nginx",
+    "security"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-11-20T19:29:59.595Z"
+}
