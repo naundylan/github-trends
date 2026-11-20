@@ -1,0 +1,39 @@
+{
+  "id": "e2598e36-7b49-442e-bc78-a13dc082317f",
+  "repo": "nginx/nginx",
+  "url": "https://github.com/nginx/nginx",
+  "category": "Networking",
+  "summary": "Web server và reverse proxy mã nguồn mở cung cấp hỗ trợ HTTP/HTTPS, cân bằng tải và giao thức TCP/UDP/QUIC hiệu suất cao.",
+  "usecases": [
+    "Serving static and dynamic web content as a front-end web server",
+    "Acting as a reverse proxy to route client requests to backend application servers",
+    "Load balancing traffic across multiple servers to improve availability and scalability"
+  ],
+  "ideas": [
+    "Integrate NGINX as a TLS termination point for microservices architecture securing internal HTTP services",
+    "Utilize NGINX's QUIC/HTTP3 support to reduce latency in real-time web applications",
+    "Configure NGINX as a TCP proxy for database connection pooling and failover in high-traffic systems"
+  ],
+  "stars": 32350,
+  "starsToday": 73,
+  "language": "C",
+  "topics": [
+    "content-cache",
+    "load-balancer",
+    "reverse-proxy",
+    "web-server",
+    "http",
+    "https",
+    "quic",
+    "tls",
+    "tcp-proxy-server",
+    "mail-proxy-server",
+    "udp-proxy-server",
+    "http2",
+    "http3",
+    "nginx",
+    "security"
+  ],
+  "notePath": "notes/Networking.md",
+  "createdAt": "2026-11-20T01:59:23.298Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "392db0da-a380-4a1b-a745-6ff44b96804f",
+  "repo": "mastra-ai/mastra",
+  "url": "https://github.com/mastra-ai/mastra",
+  "category": "AI/LLM",
+  "summary": "Mastra là framework TypeScript hiện đại để xây dựng ứng dụng và agent AI, cung cấp workflow, evals, TTS và tích hợp Next.js, Node.js, React.",
+  "usecases": [
+    "Xây dựng chatbot doanh nghiệp với các workflow phức tạp và đánh giá hiệu suất LLM",
+    "Tích hợp TTS và AI agents vào ứng dụng web Next.js/React cho đa phương tiện",
+    "Tự động hóa quy trình đánh giá và so sánh các mô hình LLM trong môi trường TypeScript"
+  ],
+  "ideas": [
+    "Kết hợp với vector database để tạo RAG system toàn bộ trong ecosystem TypeScript",
+    "Phát triển agent tự động hóa tác vụ văn phòng (email, scheduling) thông qua TypeScript workflows",
+    "Sử dụng làm framework cho ứng dụng AI đa phương tiện kết hợp text, voice và image generation"
+  ],
+  "stars": 29671,
+  "starsToday": 49,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "ai",
+    "chatbots",
+    "javascript",
+    "llm",
+    "nextjs",
+    "nodejs",
+    "reactjs",
+    "typescript",
+    "workflows",
+    "evals",
+    "mcp",
+    "tts"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-20T01:59:23.298Z"
+}

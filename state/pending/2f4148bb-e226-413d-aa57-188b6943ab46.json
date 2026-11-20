@@ -1,0 +1,28 @@
+{
+  "id": "2f4148bb-e226-413d-aa57-188b6943ab46",
+  "repo": "FlashML-org/FreeVideo",
+  "url": "https://github.com/FlashML-org/FreeVideo",
+  "category": "AI/LLM",
+  "summary": "FreeVideo cho phép tạo video sử dụng mô hình MiniMax H3 trên máy tính cá nhân với nhu cầu VRAM/RAM thấp, tự điều chỉnh đường tăng tốc phần cứng.",
+  "usecases": [
+    "Tạo video nhanh trên máy tính cá nhân không có GPU cao cấp.",
+    "Nghiên cứu và triển khai diffusion models cho video generation với ràng buộc tài nguyên.",
+    "Tích hợp vào các pipeline sáng tạo nội dung tự động."
+  ],
+  "ideas": [
+    "Kết hợp với các mô hình âm thanh để tạo video có kèm theo nhạc/voice tự động.",
+    "Triển khai trên edge devices với quantization để tạo video real-time tại chỗ.",
+    "Sử dụng cho tạo dữ liệu huấn luyện cho các mô hình video generation khác."
+  ],
+  "stars": 3442,
+  "starsToday": 118,
+  "language": "Python",
+  "topics": [
+    "diffusion-models",
+    "inference",
+    "minimax-h3",
+    "video-generation"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-20T01:59:23.298Z"
+}

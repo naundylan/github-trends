@@ -1,0 +1,36 @@
+{
+  "id": "e1c3e134-dcce-45b3-bc24-56faca85fb3d",
+  "repo": "agentscope-ai/agentscope",
+  "url": "https://github.com/agentscope-ai/agentscope",
+  "category": "AI Agent/Automation",
+  "summary": "Python framework để xây dựng, trực quan hóa và quản lý các hệ thống multi-agent được cấp bởi LLM với hỗ trợ real-time, voice và multimodal.",
+  "usecases": [
+    "Developing collaborative multi-agent workflows for automated research or report generation",
+    "Building voice-enabled AI assistants with real-time agent reasoning and response",
+    "Creating modular LLM agent pipelines for enterprise automation tasks like customer support triage"
+  ],
+  "ideas": [
+    "Combine agentscope with a knowledge base to build an autonomous AI research assistant that iteratively queries sources and synthesizes findings",
+    "Deploy agentscope agents as edge computing workers for on-device AI personalization without cloud dependency",
+    "Use agentscope's multi-modal capabilities to build a unified assistant processing text, voice, and images simultaneously for accessibility tools"
+  ],
+  "stars": 36312,
+  "starsToday": 67,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "chatbot",
+    "large-language-models",
+    "llm",
+    "llm-agent",
+    "multi-agent",
+    "multi-modal",
+    "mcp",
+    "react-agent",
+    "realtime-agent",
+    "voice-agent",
+    "voice-assistant"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-20T01:59:23.298Z"
+}

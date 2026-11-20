@@ -1,0 +1,32 @@
+{
+  "id": "e0e96885-1066-40ef-8cff-68c510edd73f",
+  "repo": "janhq/jan",
+  "url": "https://github.com/janhq/jan",
+  "category": "AI/LLM",
+  "summary": "Jan là ứng dụng ChatGPT nguồn mở chạy hoàn toàn ngoại tuyến trên máy tính, cho phép tương tác với mô hình LLM cục bộ qua giao diện Tauri.",
+  "usecases": [
+    "Tương tác riêng tư an toàn với mô hình LLM trên máy local mà không cần kết nối internet",
+    "Phát triển và test ứng dụng AI offline trên desktop",
+    "Chạy và quản lý các mô hình llama.cpp hoặc localai như một ứng dụng desktop"
+  ],
+  "ideas": [
+    "Kết hợp với cơ sở dữ liệu vector cục bộ để tạo trợ lý AI cá nhân hoàn toàn offline",
+    "Phát triển plugin IDE để hoàn thành code và hỗ trợ AI trong môi trường không có mạng",
+    "Sử dụng làm nền tảng AI cho các ứng dụng cross-platform trên desktop và mobile qua Tauri"
+  ],
+  "stars": 45877,
+  "starsToday": 54,
+  "language": "Rust",
+  "topics": [
+    "llamacpp",
+    "localai",
+    "self-hosted",
+    "gpt",
+    "tauri",
+    "chatgpt",
+    "llm",
+    "open-source"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-20T01:59:23.298Z"
+}

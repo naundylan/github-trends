@@ -1,0 +1,42 @@
+{
+  "id": "57934446-d673-4231-bdde-e2263f023264",
+  "repo": "toeverything/AFFiNE",
+  "url": "https://github.com/toeverything/AFFiNE",
+  "category": "Note-taking/Knowledge Management",
+  "summary": "AFFiNE là ứng dụng nguồn mở, chú trọng quyền riêng tư, kết hợp ghi chú, trắng trắng và quản lý kiến thức như một thay thế hiện đại cho Notion và Miro.",
+  "usecases": [
+    "Tổ chức và lưu trữ tài liệu dự án cá nhân hoặc nhóm với cấu trúc linh hoạt",
+    "Tạo bản đồ tư duy và trắng trắng trực tiếp trong môi trường làm việc duy nhất",
+    "Synchronize ghi chú đa thiết bị an toàn nhờ mô hình CRDT và lưu trữ địa phương"
+  ],
+  "ideas": [
+    "Phát triển plugin kết nối AFFiNE với các công cụ quản lý dự án bên ngoài thông qua API mở",
+    "Sử dụng khả năng CRDT để xây dựng ứng dụng ghi chú phi tuyến giữa nhiều người dùng thời gian thực",
+    "Tích hợp xuất tự động sang PowerPoint hoặc PDF cho các buổi trình bày kiến thức"
+  ],
+  "stars": 75205,
+  "starsToday": 182,
+  "language": "TypeScript",
+  "topics": [
+    "editor",
+    "crdt",
+    "knowledge-base",
+    "markdown",
+    "miro",
+    "notion",
+    "rust",
+    "rust-lang",
+    "whiteboard",
+    "wiki",
+    "workspace",
+    "notion-alternative",
+    "rust-language",
+    "table",
+    "tableview",
+    "app",
+    "notes",
+    "electron"
+  ],
+  "notePath": "notes/Note-taking-Knowledge-Management.md",
+  "createdAt": "2026-11-20T01:59:23.298Z"
+}

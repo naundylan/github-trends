@@ -1,0 +1,28 @@
+{
+  "id": "a45a8849-ca31-4dd0-a086-9e6515e8010f",
+  "repo": "babygoton/WorkDaddy",
+  "url": "https://github.com/babygoton/WorkDaddy",
+  "category": "Desktop App",
+  "summary": "WorkDaddy是一款JavaScript-based桌面AI助手，集签到、多账号备份、AI免打扰长任务运行、会话迁移及毛玻璃主题于一体，旨在提升工作与学习效率。",
+  "usecases": [
+    "自动化签到与旅行成长计划查询",
+    "多账号独立备份与跨账号会话迁移",
+    "AI免打扰模式下的长时间任务自动运行与异常续接"
+  ],
+  "ideas": [
+    "集成至主流IDE作为开发插件",
+    "扩展支持更多在线服务的自动化任务调度",
+    "开发跨平台移动端同步版本实现随时随地管理"
+  ],
+  "stars": 3287,
+  "starsToday": 46,
+  "language": "JavaScript",
+  "topics": [
+    "workbuddy",
+    "workbuddy-ai",
+    "codebuddy",
+    "codebuddy-cn"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-20T01:59:23.298Z"
+}
