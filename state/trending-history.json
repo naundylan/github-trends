@@ -4664,42 +4664,52 @@
     "last_seen": "2026-11-20",
     "last_saved": "2026-11-19"
   },
-  "nginx/nginx": {
+  "wonderwhy-er/DesktopCommanderMCP": {
     "first_seen": "2026-11-20",
     "last_seen": "2026-11-20",
     "last_saved": "2026-11-20"
   },
-  "toeverything/AFFiNE": {
+  "wshobson/agents": {
     "first_seen": "2026-11-20",
     "last_seen": "2026-11-20",
     "last_saved": "2026-11-20"
   },
-  "babygoton/WorkDaddy": {
+  "apache/airflow": {
     "first_seen": "2026-11-20",
     "last_seen": "2026-11-20",
     "last_saved": "2026-11-20"
   },
-  "FlashML-org/FreeVideo": {
+  "awslabs/cli-agent-orchestrator": {
     "first_seen": "2026-11-20",
     "last_seen": "2026-11-20",
     "last_saved": "2026-11-20"
   },
-  "agentscope-ai/agentscope": {
+  "vllm-project/vllm-ascend": {
     "first_seen": "2026-11-20",
     "last_seen": "2026-11-20",
     "last_saved": "2026-11-20"
   },
-  "mastra-ai/mastra": {
+  "phone-harness/phone-harness": {
     "first_seen": "2026-11-20",
     "last_seen": "2026-11-20",
     "last_saved": "2026-11-20"
   },
-  "tianma-if/edgeever": {
+  "pola-rs/polars": {
     "first_seen": "2026-11-20",
     "last_seen": "2026-11-20",
     "last_saved": "2026-11-20"
   },
-  "datazip-inc/olake-go": {
+  "SaladDay/cc-switch-cli": {
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "last_saved": "2026-11-20"
+  },
+  "perspective-dev/perspective": {
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "last_saved": "2026-11-20"
+  },
+  "louis-e/arnis": {
     "first_seen": "2026-11-20",
     "last_seen": "2026-11-20",
     "last_saved": "2026-11-20"

@@ -1,0 +1,33 @@
+{
+  "id": "e8d40611-9470-41c8-bebe-098e5156b211",
+  "repo": "wonderwhy-er/DesktopCommanderMCP",
+  "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+  "category": "AI Agent/Automation",
+  "summary": "MCP server cho phép Claude kiểm soát terminal, tìm kiếm file và sửa đổi code qua diff, tự động hóa tác vụ phát triển và phân tích mã thông qua AI.",
+  "usecases": [
+    "Tự động hóa sửa đổi code và refactoring thông qua lệnh terminal",
+    "Phân tích mã nguồn và tạo báo cáo tự động bằng AI",
+    "Tích hợp với Claude hoặc các model khác để thực hiện tác vụ phát triển phức tạp"
+  ],
+  "ideas": [
+    "Kết hợp với hệ thống ticket management để tự động sửa bug dựa trên đề xuất AI",
+    "Tạo plugin cho IDE để agent điều khiển terminal trực tiếp từ môi trường phát triển",
+    "Phát triển hệ thống tự học từ feedback của người dùng để cải thiện các tác vụ code sau này"
+  ],
+  "stars": 10374,
+  "starsToday": 14,
+  "language": "JavaScript",
+  "topics": [
+    "agent",
+    "ai",
+    "code-analysis",
+    "code-generation",
+    "mcp",
+    "terminal-ai",
+    "terminal-automation",
+    "vibe-coding",
+    "gemini-cli-extension"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-20T10:47:56.057Z"
+}

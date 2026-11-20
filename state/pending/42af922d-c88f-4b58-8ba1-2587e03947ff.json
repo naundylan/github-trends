@@ -1,0 +1,32 @@
+{
+  "id": "42af922d-c88f-4b58-8ba1-2587e03947ff",
+  "repo": "pola-rs/polars",
+  "url": "https://github.com/pola-rs/polars",
+  "category": "Data Engineering/ETL",
+  "summary": "Engine truy vấn siêu nhanh cho DataFrames, viết bằng Rust, thay thế pandas với hiệu suất cao hơn và xử lý dữ liệu out-of-core.",
+  "usecases": [
+    "Xử lý và làm sạch dữ liệu lớn (big data) với latency thấp.",
+    "ETL pipelines thay thế Pandas cho các tác vụ performance-critical.",
+    "Phân tích dữ liệu khoa học và báo cáo với khả năng out-of-core."
+  ],
+  "ideas": [
+    "Kết hợp với Apache Arrow ecosystem để real-time data streaming.",
+    "Phát triển plugin cho Python data science workflows thay thế pandas.",
+    "Sử dụng trong các ứng dụng IoT/edge computing cho data processing local."
+  ],
+  "stars": 40395,
+  "starsToday": 10,
+  "language": "Rust",
+  "topics": [
+    "dataframe-library",
+    "dataframe",
+    "dataframes",
+    "rust",
+    "arrow",
+    "python",
+    "out-of-core",
+    "polars"
+  ],
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-11-20T10:47:56.057Z"
+}

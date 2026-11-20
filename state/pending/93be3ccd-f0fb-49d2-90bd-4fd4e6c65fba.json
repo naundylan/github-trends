@@ -1,0 +1,44 @@
+{
+  "id": "93be3ccd-f0fb-49d2-90bd-4fd4e6c65fba",
+  "repo": "apache/airflow",
+  "url": "https://github.com/apache/airflow",
+  "category": "Data Engineering/ETL",
+  "summary": "Apache Airflow là nền tảng mã nguồn mở dùng để lập trình, lên lịch và theo dõi các workflow dữ liệu, thường được ứng dụng trong tự động hóa ETL/ELT, orchestrator dữ liệu và các pipeline Machine Learning.",
+  "usecases": [
+    "Lên lịch và tự động chạy các pipeline ETL hàng ngày từ cơ sở dữ liệu sang kho dữ liệu.",
+    "Tối ưu hóa các workflow Machine Learning bằng cách tự động hóa training, evaluation và deployment.",
+    "Theo dõi và quản lý các tác vụ định kỳ trong hệ thống dữ liệu lớn (Big Data)."
+  ],
+  "ideas": [
+    "Kết hợp với Apache Spark để tạo pipeline ETL phân tán tự động theo yêu cầu.",
+    "Phát triển UI tùy chỉnh để trực quan hóa DAGs và theo tiến độ thực-time cho các nhà dữ liệu.",
+    "Sử dụng Airflow làm nền tảng cho các hệ thống automation nội bộ như backup, report generation, và hệ thống cảnh báo."
+  ],
+  "stars": 47570,
+  "starsToday": 23,
+  "language": "Python",
+  "topics": [
+    "airflow",
+    "apache",
+    "apache-airflow",
+    "python",
+    "scheduler",
+    "workflow",
+    "automation",
+    "dag",
+    "data-engineering",
+    "data-integration",
+    "data-orchestrator",
+    "data-pipelines",
+    "data-science",
+    "elt",
+    "etl",
+    "machine-learning",
+    "mlops",
+    "orchestration",
+    "workflow-engine",
+    "workflow-orchestration"
+  ],
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-11-20T10:47:56.057Z"
+}

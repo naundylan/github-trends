@@ -1,0 +1,32 @@
+{
+  "id": "cba2ab40-7503-4772-a941-47a549ce90ba",
+  "repo": "vllm-project/vllm-ascend",
+  "url": "https://github.com/vllm-project/vllm-ascend",
+  "category": "AI/LLM",
+  "summary": "Plugin phần cứng cho vLLM trên Huawei Ascend, cho phép inference và serving LLM trên hardware Ascend.",
+  "usecases": [
+    "Chạy inference LLM trên hardware Huawei Ascend với vLLM.",
+    "Serving model LLM trong production trên infrastructure Ascend.",
+    "Tối ưu hóa throughput và latency cho các mô hình transformer trên Ascend."
+  ],
+  "ideas": [
+    "Kết hợp với các framework ML Ops khác để monitoring Ascend.",
+    "Phát triển adapter cho các hardware khác (NVidia, AMD) dựa trên plugin này.",
+    "Sử dụng trong các ứng dụng AI edge computing trên Ascend."
+  ],
+  "stars": 3124,
+  "starsToday": 12,
+  "language": "Python",
+  "topics": [
+    "inference",
+    "llm",
+    "llm-serving",
+    "llmops",
+    "mlops",
+    "model-serving",
+    "transformer",
+    "vllm"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-20T10:47:56.057Z"
+}

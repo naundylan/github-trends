@@ -1,0 +1,32 @@
+{
+  "id": "100986bd-3901-436b-89f6-15d2ac3387ef",
+  "repo": "louis-e/arnis",
+  "url": "https://github.com/louis-e/arnis",
+  "category": "Game Dev",
+  "summary": "Arnis là một công cụ viết bằng Rust để tạo tự động thế giới Minecraft chi tiết từ dữ liệu địa thực OpenStreetMap, cho phép sinh procedural các khu vực thực tế trong game.",
+  "usecases": [
+    "Tạo bản đồ Minecraft thực tế từ dữ liệu địa chính xác cho máy chủ chơi.",
+    "Phục vụ các dự án xây dựng hoặc giáo dục cần mô phỏng địa hình thực tế.",
+    "Tích hợp với modpack hoặc server automation để sinh world tự động."
+  ],
+  "ideas": [
+    "Kết hợp với AI để tạo mô tả địa hình và tự động sinh cấu trúc và건물을.",
+    "Phát triển plugin cho các engine game khác (Unity, Godot) sử dụng cùng nguyên lý sinh địa hình từ OSM.",
+    "Tạo dịch vụ cloud sinh world Minecraft cá nhân hóa dựa trên tọa độ người dùng."
+  ],
+  "stars": 18750,
+  "starsToday": 26,
+  "language": "Rust",
+  "topics": [
+    "minecraft",
+    "openstreetmap",
+    "osm",
+    "rust",
+    "tauri",
+    "overpass-turbo",
+    "procedural-generation",
+    "minecraft-world-generator"
+  ],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-11-20T10:47:56.057Z"
+}

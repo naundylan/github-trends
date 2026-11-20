@@ -1,0 +1,44 @@
+{
+  "id": "24d6ca21-3519-41bd-9d80-0174a52103e0",
+  "repo": "perspective-dev/perspective",
+  "url": "https://github.com/perspective-dev/perspective",
+  "category": "Data Visualization",
+  "summary": "Một component trực quan hóa dữ liệu và analytics chuyên cho dữ liệu lớn/lưu lượng streaming, hỗ trợ WebAssembly, Python, Rust và tích hợp Jupyter, Apache Arrow, DuckDB.",
+  "usecases": [
+    "Xây dựng dashboard trực quan hóa dữ liệu lớn trong ứng dụng web real-time.",
+    "Phân tích luồng dữ liệu streaming với latency thấp thông qua WebAssembly component.",
+    "Tích hợp vào Jupyter notebooks hoặc BI tools để hiển thị pivot tables và charts trên dữ liệu lớn."
+  ],
+  "ideas": [
+    "Xây dựng ứng dụng analytics real-time cho IoT sensors dữ liệu lớn sử dụng component này.",
+    "Kết hợp với Apache Arrow pipeline để tự động cập nhật charts khi dữ liệu mới lưu vào.",
+    "Phát triển component tương tác cho desktop app hiển thị dữ liệu lớn mà không cần backend nặng."
+  ],
+  "stars": 11617,
+  "starsToday": 36,
+  "language": "Rust",
+  "topics": [
+    "webassembly",
+    "data-visualization",
+    "real-time",
+    "analytics",
+    "javascript",
+    "python",
+    "bi",
+    "jupyter",
+    "apache-arrow",
+    "business-intelligence",
+    "charts",
+    "dashboard",
+    "datagrid",
+    "duckdb",
+    "pivot-table",
+    "react",
+    "rust",
+    "streaming",
+    "wasm",
+    "web-components"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-11-20T10:47:56.057Z"
+}
