@@ -1,0 +1,23 @@
+{
+  "id": "88713f70-51f4-4d12-9538-23a8328c74e5",
+  "repo": "SaladDay/cc-switch-cli",
+  "url": "https://github.com/SaladDay/cc-switch-cli",
+  "category": "CLI Tool",
+  "summary": "Công cụ CLI đa nền tảng tổng hợp giúp chuyển đổi và hỗ trợ tác vụ giữa Claude Code, Codex và Gemini CLI.",
+  "usecases": [
+    "Chuyển đổi giữa các CLI AI code assistant khác nhau trong cùng một terminal",
+    "Tối ưu quy trình phát triển code bằng cách sử dụng các model phù hợp theo tác vụ",
+    "Quản lý và gọi API cho các công cụ AI code trên nhiều hệ điều hành"
+  ],
+  "ideas": [
+    "Thêm hỗ trợ cho các CLI AI assistant khác như CodeLlama hoặc Tabnine",
+    "Tích hợp chế độ tự động review code và sửa lỗi",
+    "Phát triển chế độ đa tài khoản với chọn model dựa trên chi phí/performance"
+  ],
+  "stars": 5549,
+  "starsToday": 7,
+  "language": "Rust",
+  "topics": [],
+  "notePath": "notes/CLI-Tool.md",
+  "createdAt": "2026-11-21T10:30:37.149Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "f21fdf31-374d-4b8c-9d2d-6edfc05a3359",
+  "repo": "pytorch/torchtitan",
+  "url": "https://github.com/pytorch/torchtitan",
+  "category": "AI/LLM",
+  "summary": "Nền tảng PyTorch cho training generative AI models, cung cấp infrastructure và tools tối ưu hóa huấn luyện model AI lớn.",
+  "usecases": [
+    "Huấn luyện mô hình generative AI (LLM, diffusion) trên nhiều GPU/cluster với ít boilerplate code.",
+    "Quản lý experiment, checkpointing và distributed training cho các project AI lớn.",
+    "Cung cấp pipeline ready-to-use cho fine-tuning và inference của generative models."
+  ],
+  "ideas": [
+    "Tích hợp với Hugging Face Transformers để dễ dàng fine-tuning các model generative.",
+    "Triển khai training trên cloud (AWS, GCP, Azure) với cấu hình tối thiểu cục bộ.",
+    "Phát triển hệ thống monitoring và auto-scaling cho distributed training workloads."
+  ],
+  "stars": 5936,
+  "starsToday": 4,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-21T10:30:37.149Z"
+}

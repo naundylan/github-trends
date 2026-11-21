@@ -1,0 +1,43 @@
+{
+  "id": "78100ab8-145e-4e7c-b1cc-f5ebc3b5513e",
+  "repo": "HaD0Yun/CozyClay",
+  "url": "https://github.com/HaD0Yun/CozyClay",
+  "category": "Web Frontend",
+  "summary": "Phần mềm previs mã nguồn mở chạy trên trình duyệt, cho phép block scene, pose characters, author camera moves và cuts, sau đó xuất shot để đưa vào AI video model.",
+  "usecases": [
+    "Block và pose nhân vật cho phim hoạt hình hoặc video AI trực tiếp trên web.",
+    "Tự động hóa camera moves và cuts cho previsualization sản xuất phim ảo.",
+    "Xuất dữ liệu shot tương thích với các AI video generation model như Runway, Pika, v.v."
+  ],
+  "ideas": [
+    "Kết hợp với AI text-to-video model để tạo storyboard từ prompt text trực tiếp trong browser.",
+    "Phát triển plugin cho Blender hoặc Unreal Engine để import kết quả previs một-click.",
+    "Tạo dashboard quản lý camera angle và shot sequence cho production ảo real-time."
+  ],
+  "stars": 2026,
+  "starsToday": 5,
+  "language": "JavaScript",
+  "topics": [
+    "3d",
+    "ai",
+    "animation",
+    "blender",
+    "llm-agent",
+    "python",
+    "typescript",
+    "3d-animation",
+    "motion-generation",
+    "previz",
+    "react-three-fiber",
+    "threejs",
+    "webgl",
+    "ai-video",
+    "camera-control",
+    "previs",
+    "previsualization",
+    "storyboard",
+    "virtual-production"
+  ],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-11-21T10:30:37.149Z"
+}

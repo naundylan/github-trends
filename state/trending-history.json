@@ -4714,52 +4714,27 @@
     "last_seen": "2026-11-21",
     "last_saved": "2026-11-20"
   },
-  "wonderwhy-er/DesktopCommanderMCP": {
+  "micromatch/picomatch": {
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "last_saved": "2026-11-21"
   },
-  "wshobson/agents": {
+  "HaD0Yun/CozyClay": {
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "last_saved": "2026-11-21"
   },
-  "apache/airflow": {
+  "pytorch/torchtitan": {
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "last_saved": "2026-11-21"
   },
-  "awslabs/cli-agent-orchestrator": {
+  "vllm-project/vllm-ascend": {
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "last_saved": "2026-11-21"
   },
-  "phone-harness/phone-harness": {
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "last_saved": "2026-11-21"
-  },
-  "visgl/deck.gl": {
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "last_saved": "2026-11-21"
-  },
-  "pola-rs/polars": {
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "last_saved": "2026-11-21"
-  },
-  "perspective-dev/perspective": {
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "last_saved": "2026-11-21"
-  },
-  "louis-e/arnis": {
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "last_saved": "2026-11-21"
-  },
-  "ruffle-rs/ruffle": {
+  "SaladDay/cc-switch-cli": {
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "last_saved": "2026-11-21"

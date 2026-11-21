@@ -1,0 +1,40 @@
+{
+  "id": "a2ca9ce3-6dd0-481a-9b6a-4b5f4d3ddc85",
+  "repo": "micromatch/picomatch",
+  "url": "https://github.com/micromatch/picomatch",
+  "category": "Developer Tool",
+  "summary": "PicoMatch là một thư viện matcher glob blazing fast cho JavaScript với zero dependencies, hỗ trợ đầy đủ cú pháp Bash glob và regex, được dùng bởi Jest, Astro, Rollup và nhiều framework khác.",
+  "usecases": [
+    "Dùng trong Jest làm matcher mặc định cho đường dẫn file và lựa chọn test.",
+    "Sử dụng trong Rollup và Snowpack để xác định các mẫu file include/exclude.",
+    "Áp dụng trong Astro và Nuxt cho routing components và import tài nguyên dựa trên mẫu glob."
+  ],
+  "ideas": [
+    "Tích hợp vào một CLI tùy chỉnh để lọc file theo mẫu nâng cao.",
+    "Kết hợp với một công cụ tạo documentation để tự động lọc và hiển thị các thành phần dự án.",
+    "Sử dụng trong một hệ thống quy tắc bảo mật để kiểm tra và xác minh đường dẫn file."
+  ],
+  "stars": 1332,
+  "starsToday": 0,
+  "language": "JavaScript",
+  "topics": [
+    "micromatch",
+    "match",
+    "glob",
+    "matcher",
+    "node-glob",
+    "minimatch",
+    "multimatch",
+    "globber",
+    "regex",
+    "regexp",
+    "regular-expression",
+    "glob-pattern",
+    "matching",
+    "find",
+    "fast-glob",
+    "fdir"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-21T10:30:37.149Z"
+}
