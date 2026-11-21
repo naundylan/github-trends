@@ -1,0 +1,32 @@
+{
+  "id": "14fb23a7-2373-4837-b502-4fa267b04148",
+  "repo": "pola-rs/polars",
+  "url": "https://github.com/pola-rs/polars",
+  "category": "Data Engineering/ETL",
+  "summary": "Polars là engine truy vấn DataFrame tốc độ cao viết Rust, hỗ trợ xử lý dữ liệu out-of-core và tích hợp Python cho phân tích dữ liệu lớn.",
+  "usecases": [
+    "Xây dựng pipeline ETL xử lý dữ liệu khổng lồ nhanh hơn Pandas.",
+    "Phân tích dữ liệu thời gian thực trong tài chính hoặc IoT.",
+    "Tự động tạo báo cáo và dashboard dữ liệu định kỳ."
+  ],
+  "ideas": [
+    "Sử dụng làm engine tính toán bên trong ứng dụng BI nhúng.",
+    "Kết hợp Apache Arrow để truyền dữ liệu zero-copy giữa các dịch vụ.",
+    "Phát triển extension cho spreadsheet hoặc công cụ phân tích dữ liệu."
+  ],
+  "stars": 40405,
+  "starsToday": 17,
+  "language": "Rust",
+  "topics": [
+    "dataframe-library",
+    "dataframe",
+    "dataframes",
+    "rust",
+    "arrow",
+    "python",
+    "out-of-core",
+    "polars"
+  ],
+  "notePath": "notes/Data-Engineering-ETL.md",
+  "createdAt": "2026-11-21T01:55:22.671Z"
+}

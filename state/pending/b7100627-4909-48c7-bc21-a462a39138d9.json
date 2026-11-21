@@ -1,0 +1,31 @@
+{
+  "id": "b7100627-4909-48c7-bc21-a462a39138d9",
+  "repo": "visgl/deck.gl",
+  "url": "https://github.com/visgl/deck.gl",
+  "category": "Data Visualization",
+  "summary": "Khung visualization WebGL2 cho phép hiển thị và phân tích dữ liệu lớn, hỗ trợ bản đồ và trực quan hóa dữ liệu địa lý trên trình duyệt.",
+  "usecases": [
+    "Hiển thị dữ liệu khí tượng hoặc bản đồ tương tác trên web với hiệu suất cao.",
+    "Phân tích dữ liệu địa lý lớn trong các ứng dụng web real-time.",
+    "Tạo bản đồ 3D và trực quan hóa dữ liệu spatial trong dashboard doanh nghiệp."
+  ],
+  "ideas": [
+    "Xây dựng ứng dụng theo dõi chuyển đổi khí hậu thời thực với dữ liệu live và 3D visualization.",
+    "Kết hợp deck.gl với LLM để tự động tạo các biểu đồ trực quan từ mô tả văn bản.",
+    "Phát triển trải nghiệm VR/AR cho dữ liệu địa lý sử dụng WebGL2 backend của deck.gl."
+  ],
+  "stars": 14785,
+  "starsToday": 11,
+  "language": "TypeScript",
+  "topics": [
+    "webgl",
+    "data-visualization",
+    "javascript",
+    "visualization",
+    "python",
+    "geospatial-analysis",
+    "maps"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-11-21T01:55:22.671Z"
+}

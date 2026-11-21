@@ -1,0 +1,30 @@
+{
+  "id": "11b82b2d-4749-41ad-b916-3ae52304a068",
+  "repo": "ruffle-rs/ruffle",
+  "url": "https://github.com/ruffle-rs/ruffle",
+  "category": "Other",
+  "summary": "Emulator Flash viết bằng Rust, cho phép chạy lại các nội dung Flash và game SWF trên các thiết bị hiện đại, bảo tồn lịch sử web.",
+  "usecases": [
+    "Phát triển lại hoặc chạy lại các game và ứng dụng Flash cũ trên hệ điều hành hiện đại không cần plugin gốc.",
+    "Sử dụng trong bảo mật nghiên cứu để phân tích mã Flash cũ và vectơ tấn công cũ trong môi trường kiểm격离.",
+    "Tích hợp vào các nền tảng học tập web để giáo dục sinh viên về lịch sử phát triển web và công nghệ animation cũ."
+  ],
+  "ideas": [
+    "Mở rộng emulator để hỗ trợ các định dạng tương tự cũ (như Shockwave) và tạo ra bộ công cụ bảo tồn nội dung web đa phương tiện.",
+    "Kết hợp với WebGPU/WebGL để tối ưu hiệu suất chạy Flash trên trình duyệt hiện đại.",
+    "Tạo ra một 'museum virtual' nội tuyến cho phép người dùng tương tác với các tác phẩm Flash điển hình trực tiếp qua web."
+  ],
+  "stars": 18898,
+  "starsToday": 9,
+  "language": "Rust",
+  "topics": [
+    "swf",
+    "flash",
+    "rust",
+    "emulator",
+    "reimplementation",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-21T01:55:22.671Z"
+}

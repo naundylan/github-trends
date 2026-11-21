@@ -1,0 +1,30 @@
+{
+  "id": "0f212b2c-defa-4915-a1c0-193788321656",
+  "repo": "phone-harness/phone-harness",
+  "url": "https://github.com/phone-harness/phone-harness",
+  "category": "AI Agent/Automation",
+  "summary": "Cho phép agent AI điều khiển và tự động hóa tác vụ trên thiết bị di động bằng Python.",
+  "usecases": [
+    "Tự động hóa kiểm thử và tương tác ứng dụng di động",
+    "Tạo agent AI thực hiện các tác vụ lặp trên hệ điều hành mobile",
+    "Tích hợp khả năng AI với thiết bị IoT thông qua kết nối phone"
+  ],
+  "ideas": [
+    "Agent điều khiển phone để thu thập dữ liệu môi trường tự động",
+    "Kết hợp LLM để thực hiện voice-controlled operations trên phone",
+    "Tạo nền tảng tự động hóa CI/CD cho ứng dụng di động thông qua agent"
+  ],
+  "stars": 5379,
+  "starsToday": 198,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "automation",
+    "developer-tools",
+    "mobile-ai",
+    "mobile-development"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-21T01:55:22.671Z"
+}

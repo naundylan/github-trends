@@ -1,0 +1,44 @@
+{
+  "id": "e2eb5181-bdab-413d-8f54-f877e7fdad50",
+  "repo": "wshobson/agents",
+  "url": "https://github.com/wshobson/agents",
+  "category": "AI Agent/Automation",
+  "summary": "Một thư viện mã nguồn mở cung cấp các plugin, kỹ năng và lệnh cho các công cụ AI code như Claude Code, Codex CLI, Cursor và GitHub Copilot, cho phép viết một lần và tự động thích nghi cho từng công cụ thông qua generator với validation và evals.",
+  "usecases": [
+    "Tự động hóa tác vụ code và quản lý đa-agent cho các dự án phát triển phần mềm",
+    "Tích hợp khả năng AI agent vào các IDE, CLI và công cụ workflow hiện có",
+    "Phát triển và chia sẻ các skill/plugin agent tùy chỉnh cho các kịch bản tự động hóa cụ thể"
+  ],
+  "ideas": [
+    "Tạo hệ thống agent tự học và tối ưu hóa code dựa trên feedback thực tế từ môi trường sản xuất",
+    "Kết hợp với Apache Airflow để tự động hóa pipeline development và deployment của các agent",
+    "Phát triển 'super-agent' có thể chuyển đổi giữa các công cụ code AI tùy theo yêu cầu tác vụ và khả năng hiện tại"
+  ],
+  "stars": 42744,
+  "starsToday": 41,
+  "language": "Python",
+  "topics": [
+    "anthropic",
+    "agent-skills",
+    "agentic-ai",
+    "ai-agents",
+    "cursor",
+    "cursor-rules",
+    "mcp",
+    "multi-agent",
+    "opencode",
+    "claude-code",
+    "antigravity",
+    "claude",
+    "claude-skills",
+    "subagents",
+    "codex",
+    "claude-code-marketplace",
+    "claude-code-plugin",
+    "github-copilot",
+    "pi-coding-agent",
+    "coding-agents"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-21T01:55:22.671Z"
+}

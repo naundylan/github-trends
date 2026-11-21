@@ -1,0 +1,32 @@
+{
+  "id": "e708a14f-9eb3-492d-9c02-11b05e4e5c7c",
+  "repo": "louis-e/arnis",
+  "url": "https://github.com/louis-e/arnis",
+  "category": "Game Dev",
+  "summary": "Arnis tạo thế giới Minecraft chi tiết từ dữ liệu OpenStreetMap sử dụng tạo procedural, tái tạo vị trí thực tế trong trò chơi.",
+  "usecases": [
+    "Tự động tạo bản đồ Minecraft cho khu vực thành phố hoặc địa danh cụ thể.",
+    "Dùng trong giáo dục địa lý hoặc trải nghiệm tương tác về bản đồ thực tế.",
+    "Cung cấp bản đồ Minecraft chân thực cho server cá nhân hoặc cộng đồng."
+  ],
+  "ideas": [
+    "Kết hợp dữ liệu thời tiết để thay đổi môi trường game động.",
+    "Xuất bản sang định dạng 3D khác cho kiến trúc ảo.",
+    "Tự động cập nhật bản đồ định kỳ cho server survival."
+  ],
+  "stars": 18756,
+  "starsToday": 27,
+  "language": "Rust",
+  "topics": [
+    "minecraft",
+    "openstreetmap",
+    "osm",
+    "rust",
+    "tauri",
+    "overpass-turbo",
+    "procedural-generation",
+    "minecraft-world-generator"
+  ],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-11-21T01:55:22.671Z"
+}
