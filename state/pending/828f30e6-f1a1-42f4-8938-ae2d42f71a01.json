@@ -1,0 +1,42 @@
+{
+  "id": "828f30e6-f1a1-42f4-8938-ae2d42f71a01",
+  "repo": "apache/airflow",
+  "url": "https://github.com/apache/airflow",
+  "category": "Other",
+  "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+  "usecases": [
+    "Khám phá và đánh giá apache/airflow cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 47584,
+  "starsToday": 16,
+  "language": "Python",
+  "topics": [
+    "airflow",
+    "apache",
+    "apache-airflow",
+    "python",
+    "scheduler",
+    "workflow",
+    "automation",
+    "dag",
+    "data-engineering",
+    "data-integration",
+    "data-orchestrator",
+    "data-pipelines",
+    "data-science",
+    "elt",
+    "etl",
+    "machine-learning",
+    "mlops",
+    "orchestration",
+    "workflow-engine",
+    "workflow-orchestration"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-21T18:32:01.298Z"
+}

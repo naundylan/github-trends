@@ -1,0 +1,43 @@
+{
+  "id": "1d54fa16-3bf3-4dba-b6f9-7d71b07b9fab",
+  "repo": "awslabs/cli-agent-orchestrator",
+  "url": "https://github.com/awslabs/cli-agent-orchestrator",
+  "category": "AI Agent/Automation",
+  "summary": "Hỗ trợ điều phối và phối hợp nhiều AI coding assistant (như Claude Code, Kiro, Codex) trong các session tmux riêng lẻ để tự động hóa tác vụ phát triển phần mềm.",
+  "usecases": [
+    "Tự động hóa viết code cho dự án lớn bằng phối hợp nhiều AI assistant cùng lúc.",
+    "Quản lý và phân phối tác vụ giữa các model AI khác nhau trong môi trường phát triển.",
+    "Tích hợp vào quy trình CI/CD để tự động review code hoặc generate PRs."
+  ],
+  "ideas": [
+    "Phát triển hệ thống tự học từ phản hồi người dùng để ưu tiên AI assistant phù hợp với phong cách code.",
+    "Kết hợp Model Context Protocol (MCP) để chia sẻ context thông minh giữa các agent.",
+    "Tạo dashboard theo dõi hiệu suất và chi phí sử dụng của từng agent trong các session tmux."
+  ],
+  "stars": 1618,
+  "starsToday": 14,
+  "language": "Python",
+  "topics": [
+    "agent-orchestration",
+    "ai-agents",
+    "ai-coding-assistant",
+    "antigravity",
+    "claude-code",
+    "codex",
+    "copilot-cli",
+    "cursor-cli",
+    "developer-tools",
+    "hermes",
+    "kimi-cli",
+    "kiro",
+    "mcp",
+    "model-context-protocol",
+    "multi-agent-systems",
+    "opencode",
+    "orchestration",
+    "python",
+    "tmux"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-21T18:32:01.298Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "fae73c36-10dc-4836-ad59-d95509675cf4",
+  "repo": "louis-e/arnis",
+  "url": "https://github.com/louis-e/arnis",
+  "category": "Game Dev",
+  "summary": "Dự án sử dụng Rust và Tauri để tự động tạo các thế giới Minecraft chi tiết từ dữ liệu OpenStreetMap thực tế.",
+  "usecases": [
+    "Tạo bản đồ Minecraft tự động từ dữ liệu địa lý cho mục đích xây dựng hoặc giải trí.",
+    "Phát triển các thế giới Minecraft phục vụ cho kiến trúc ảo và dự án đô thị.",
+    "Hỗ trợ tạo nội dung map tùy chỉnh cho server Minecraft."
+  ],
+  "ideas": [
+    "Kết hợp dữ liệu thời tiết thời gian thực để tạo thế giới Minecraft thay đổi theo mùa.",
+    "Tạo plugin server Minecraft để tải và hiển thị khu vực địa lý trên request.",
+    "Sử dụng AI để tối ưu hóa bố cục và cấu trúc trong thế giới đã tạo."
+  ],
+  "stars": 18769,
+  "starsToday": 15,
+  "language": "Rust",
+  "topics": [
+    "minecraft",
+    "openstreetmap",
+    "osm",
+    "rust",
+    "tauri",
+    "overpass-turbo",
+    "procedural-generation",
+    "minecraft-world-generator"
+  ],
+  "notePath": "notes/Game-Dev.md",
+  "createdAt": "2026-11-21T18:32:01.298Z"
+}

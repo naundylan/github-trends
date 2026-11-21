@@ -1,0 +1,30 @@
+{
+  "id": "1cbbbc48-4a51-4b1f-901e-a9cd25cc4631",
+  "repo": "ruffle-rs/ruffle",
+  "url": "https://github.com/ruffle-rs/ruffle",
+  "category": "Desktop App",
+  "summary": "Ruffle là trình mô phỏng Flash Player mã nguồn mở viết bằng Rust, cho phép chạy các file SWF trên các nền tảng hiện đại không cần plugin Flash.",
+  "usecases": [
+    "Chạy lại trò chơi và hoạt hình Flash cũ trên các thiết bị hiện đại",
+    "Phục hồi nội dung Flash cho dự án bảo tồn web và nghiên cứu lịch sử internet",
+    "Phân phối nội dung multimedia tương tác an toàn mà không phụ thuộc vào plugin cũ"
+  ],
+  "ideas": [
+    "Kết hợp Ruffle với framework web hiện đại để tạo trải nghiệm Flash tích hợp vào website hiện tại",
+    "Phát triển ứng dụng di động hiển thị animation Flash trên iOS/Android",
+    "Sử dụng Ruffle làm nền tảng cho giáo dục tương tác dựa trên nội dung Flash cũ"
+  ],
+  "stars": 18905,
+  "starsToday": 10,
+  "language": "Rust",
+  "topics": [
+    "swf",
+    "flash",
+    "rust",
+    "emulator",
+    "reimplementation",
+    "hacktoberfest"
+  ],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-21T18:32:01.298Z"
+}

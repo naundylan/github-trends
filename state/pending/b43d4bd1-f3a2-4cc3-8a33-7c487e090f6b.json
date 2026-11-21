@@ -1,0 +1,31 @@
+{
+  "id": "b43d4bd1-f3a2-4cc3-8a33-7c487e090f6b",
+  "repo": "visgl/deck.gl",
+  "url": "https://github.com/visgl/deck.gl",
+  "category": "Data Visualization",
+  "summary": "Framework WebGL2 cho phép trực quan hóa dữ liệu quy mô lớn, đặc biệt là dữ liệu địa lý và bản đồ, với hiệu suất cao trên web.",
+  "usecases": [
+    "Hiển thị bản đồ và dữ liệu địa lý quy mô lớn trong ứng dụng web",
+    "Tạo dashboard trực quan hóa dữ liệu thời gian thực",
+    "Xây dựng ứng dụng GIS tích hợp trực tiếp trên trình duyệt"
+  ],
+  "ideas": [
+    "Kết hợp dữ liệu IoT real-time để hiển thị bản đồ chuyển động",
+    "Tích hợp với mô hình AI để trực quan hóa kết quả dự đoán",
+    "Phát triển plugin cho hệ thống thương mại điện tử hiển thị bản đồ phân phối khách hàng"
+  ],
+  "stars": 14794,
+  "starsToday": 6,
+  "language": "TypeScript",
+  "topics": [
+    "webgl",
+    "data-visualization",
+    "javascript",
+    "visualization",
+    "python",
+    "geospatial-analysis",
+    "maps"
+  ],
+  "notePath": "notes/Data-Visualization.md",
+  "createdAt": "2026-11-21T18:32:01.298Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "4ddeb637-86a6-40c9-a166-50af15eeb1cd",
+  "repo": "pola-rs/polars",
+  "url": "https://github.com/pola-rs/polars",
+  "category": "Other",
+  "summary": "Extremely fast Query Engine for DataFrames, written in Rust",
+  "usecases": [
+    "Khám phá và đánh giá pola-rs/polars cho các dự án phần mềm phù hợp.",
+    "Tham khảo cách dự án được tổ chức và triển khai."
+  ],
+  "ideas": [
+    "Kết hợp dự án này với các công cụ AI hoặc automation để xây dựng workflow mới.",
+    "Phân tích source code để tìm các thành phần có thể tái sử dụng trong dự án khác."
+  ],
+  "stars": 40419,
+  "starsToday": 23,
+  "language": "Rust",
+  "topics": [
+    "dataframe-library",
+    "dataframe",
+    "dataframes",
+    "rust",
+    "arrow",
+    "python",
+    "out-of-core",
+    "polars"
+  ],
+  "notePath": "notes/Other.md",
+  "createdAt": "2026-11-21T18:32:01.298Z"
+}
