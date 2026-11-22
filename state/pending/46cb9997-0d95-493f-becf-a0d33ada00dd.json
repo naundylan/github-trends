@@ -1,0 +1,43 @@
+{
+  "id": "46cb9997-0d95-493f-becf-a0d33ada00dd",
+  "repo": "HaD0Yun/CozyClay",
+  "url": "https://github.com/HaD0Yun/CozyClay",
+  "category": "AI/LLM",
+  "summary": "CozyClay là phần mềm previs mã nguồn mở chạy trên trình duyệt, cho phép block cảnh 3D, pose nhân vật, điều khiển camera và cuts, sau đó chuyển cảnh sang mô hình AI tạo video.",
+  "usecases": [
+    "Tạo tiềnvisualization (previs) cho sản xuất phim và quảng cáo 3D",
+    "Chuyển đổi các shot camera để đưa vào các mô hình AI sinh video như Runway hay Pika",
+    "Giúp animator và director iterates nhanh chóng các kịch bản hình ảnh mà không cần phần mềm desktop heavy"
+  ],
+  "ideas": [
+    "Kết hợp với local LLM để tự động gợi ý camera move và lighting dựa trên kịch bản văn bản",
+    "Export cảnh sang format USD/ZIP để import vào Unreal Engine real-time",
+    "Thêm tính năng collaborative editing cho nhiều user cùng soạn thảo cảnh trong browser"
+  ],
+  "stars": 2080,
+  "starsToday": 12,
+  "language": "JavaScript",
+  "topics": [
+    "3d",
+    "ai",
+    "animation",
+    "blender",
+    "llm-agent",
+    "python",
+    "typescript",
+    "3d-animation",
+    "motion-generation",
+    "previz",
+    "react-three-fiber",
+    "threejs",
+    "webgl",
+    "ai-video",
+    "camera-control",
+    "previs",
+    "previsualization",
+    "storyboard",
+    "virtual-production"
+  ],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-22T18:54:20.139Z"
+}
