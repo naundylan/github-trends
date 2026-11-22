@@ -1,0 +1,44 @@
+{
+  "id": "ffcf69ef-c832-4c64-a211-42161b1bcb23",
+  "repo": "wshobson/agents",
+  "url": "https://github.com/wshobson/agents",
+  "category": "AI Agent/Automation",
+  "summary": "Một bộ plugins, agents và skills viết bằng Markdown, cung cấp các lệnh và khả năng cho các công cụ AI code như Claude Code, Codex CLI, Cursor và GitHub Copilot, cho phép tạo và điều phối các agent AI một cách đồng nhất.",
+  "usecases": [
+    "Tự động hóa quy trình viết code và review thông qua các agent AI",
+    "Xây dựng multi-agent system cho các dự án phức tạp",
+    "Tích hợp AI vào workflow development CLI và IDE hiện có"
+  ],
+  "ideas": [
+    "Phát triển marketplace skills cho các agent AI theo mô-đun",
+    "Kết hợp với CI/CD để tự động tạo code và tạo pull request",
+    "Tạo personal coding assistant có thể tùy chỉnh theo phong cách developer"
+  ],
+  "stars": 42782,
+  "starsToday": 39,
+  "language": "Python",
+  "topics": [
+    "anthropic",
+    "agent-skills",
+    "agentic-ai",
+    "ai-agents",
+    "cursor",
+    "cursor-rules",
+    "mcp",
+    "multi-agent",
+    "opencode",
+    "claude-code",
+    "antigravity",
+    "claude",
+    "claude-skills",
+    "subagents",
+    "codex",
+    "claude-code-marketplace",
+    "claude-code-plugin",
+    "github-copilot",
+    "pi-coding-agent",
+    "coding-agents"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-22T10:34:00.437Z"
+}
