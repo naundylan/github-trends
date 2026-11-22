@@ -1,0 +1,23 @@
+{
+  "id": "7dd69580-659e-4ee5-ae84-df59b1da625d",
+  "repo": "pytorch/torchtitan",
+  "url": "https://github.com/pytorch/torchtitan",
+  "category": "AI/LLM",
+  "summary": "Nền tảng PyTorch native cho huấn luyện mô hình AI sinh tạo, cung cấp các công cụ tối ưu hóa quy trình training các mô hình generative.",
+  "usecases": [
+    "Huấn luyện mô hình ngôn ngữ hoặc hình ảnh quy mô lớn như GPT hay diffusion",
+    "Nghiên cứu và thử nghiệm training phân tán hiệu quả",
+    "Prototyping nhanh các kiến trúc generative mới"
+  ],
+  "ideas": [
+    "Điều chỉnh cho training multimodal kết hợp văn hình và video",
+    "Tích hợp với orchestration GPU đám mây cho pipeline training on-demand",
+    "Thêm hỗ trợ fine-tuning LoRA/adapter tùy chỉnh"
+  ],
+  "stars": 5938,
+  "starsToday": 9,
+  "language": "Python",
+  "topics": [],
+  "notePath": "notes/AI-LLM.md",
+  "createdAt": "2026-11-22T00:50:07.195Z"
+}

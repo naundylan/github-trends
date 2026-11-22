@@ -1,0 +1,40 @@
+{
+  "id": "22c76894-24c6-4d2a-8984-95452288e91b",
+  "repo": "micromatch/picomatch",
+  "url": "https://github.com/micromatch/picomatch",
+  "category": "Developer Tool",
+  "summary": "Picomatch là một trình matcher glob blazing fast và chính xác cho JavaScript, có zero dependencies và hỗ trợ đầy đủ các tính năng glob Bash chuẩn và mở rộng như ngoặc, extglobs, cặp dấu [] POSIX và regex.",
+  "usecases": [
+    "Dùng trong Jest để match tên file trong test cases.",
+    "Match pattern cho build tools như Rollup hoặc Webpack để lọc file.",
+    "Filter file trong scripts deployment hoặc CI/CD pipelines."
+  ],
+  "ideas": [
+    "Kết hợp với AST parser để tự động import components dựa trên tên file.",
+    "Tạo tự động hóa tìm và thay đổi tên file theo pattern trong monorepo.",
+    "Build một CLI tool nhỏ để tìm file theo pattern phức tạp hơn so với ls."
+  ],
+  "stars": 1332,
+  "starsToday": 1,
+  "language": "JavaScript",
+  "topics": [
+    "micromatch",
+    "match",
+    "glob",
+    "matcher",
+    "node-glob",
+    "minimatch",
+    "multimatch",
+    "globber",
+    "regex",
+    "regexp",
+    "regular-expression",
+    "glob-pattern",
+    "matching",
+    "find",
+    "fast-glob",
+    "fdir"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-22T00:50:07.195Z"
+}
