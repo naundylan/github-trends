@@ -1,0 +1,31 @@
+{
+  "id": "5234e003-55c3-4770-aa7f-39fdfe6a2ad7",
+  "repo": "samuelgursky/davinci-resolve-mcp",
+  "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+  "category": "Developer Tool",
+  "summary": "MCP server tích hợp cho DaVinci Resolve Studio, cho phép tự động hóa và điều khiển quy trình dựng màu qua giao thức MCP.",
+  "usecases": [
+    "Automated color grading workflows for post-production pipelines",
+    "Integration between DaVinci Resolve and custom AI/ML tools for frame-by-frame analysis",
+    "Batch processing and rendering automation for large-scale video projects"
+  ],
+  "ideas": [
+    "Build a web dashboard to monitor and trigger Resolve operations remotely via MCP",
+    "Combine with NLP models to generate edit suggestions based on metadata",
+    "Create a plugin ecosystem where multiple developers can extend MCP actions for Resolve"
+  ],
+  "stars": 4312,
+  "starsToday": 19,
+  "language": "Python",
+  "topics": [
+    "blackmagic",
+    "blackmagic-design",
+    "blackmagicdesign",
+    "davinci-resolve",
+    "davinciresolve",
+    "mcp",
+    "mcp-server"
+  ],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-23T23:08:42.244Z"
+}
