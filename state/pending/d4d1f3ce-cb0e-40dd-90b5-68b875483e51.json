@@ -1,0 +1,27 @@
+{
+  "id": "d4d1f3ce-cb0e-40dd-90b5-68b875483e51",
+  "repo": "hieunc229/mailflare",
+  "url": "https://github.com/hieunc229/mailflare",
+  "category": "Cloud/Hosting",
+  "summary": "Mailflare là một dịch vụ email cho chuyên gia và đội ngũ, xây dựng trên Cloudflare Workers để cung cấp gửi nhận email nhanh, đáng tin cậy và chi phí thấp.",
+  "usecases": [
+    "Gửi email xác nhận cho ứng dụng web và dịch vụ",
+    "Thông báo định kỳ và newsletter cho đội ngũ",
+    "Xử lý giao dịch email trong môi trường serverless"
+  ],
+  "ideas": [
+    "Kết hợp AI để tạo nội dung email tự động dựa trên ngữ cảnh",
+    "Xây dựng dashboard theo dõi metrics gửi mail real-time",
+    "Tích hợp với CRM để đồng bộ liên hệ và lịch sử correspondence"
+  ],
+  "stars": 7461,
+  "starsToday": 42,
+  "language": "TypeScript",
+  "topics": [
+    "cloudflare",
+    "cloudflare-workers",
+    "email"
+  ],
+  "notePath": "notes/Cloud-Hosting.md",
+  "createdAt": "2026-11-23T01:17:06.324Z"
+}
