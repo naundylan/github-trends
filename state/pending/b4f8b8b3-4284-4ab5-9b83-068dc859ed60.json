@@ -1,0 +1,42 @@
+{
+  "id": "b4f8b8b3-4284-4ab5-9b83-068dc859ed60",
+  "repo": "vxcontrol/pentagi",
+  "url": "https://github.com/vxcontrol/pentagi",
+  "category": "Security/Pentest",
+  "summary": "Hệ thống AI tự chủ thực hiện các tác vụ kiểm thử xâm nhập phức tạp, tự động hóa các bước đánh giá bảo mật.",
+  "usecases": [
+    "Đánh giá lỗ hổng: Quét và khai thác tự động các lỗ hổng trong hệ thống web hoặc mạng.",
+    "Phân tích bảo mật: Tự động tạo báo cáo kiểm tra xâm nhập sau khi mô phỏng tấn công.",
+    "Luyện tập an ninh mạng: Giúp đội nhóm an ninh luyện tập phản ứng với các cuộc tấn công thực tế."
+  ],
+  "ideas": [
+    "Kết hợp với môi trường sandbox an toàn để thực hiện kiểm thử mà không ảnh hưởng sản phẩm thật.",
+    "Phát triển plugin cho các công cụ bảo mật hiện có (như Metasploit, Burp Suite).",
+    "Tạo dashboard trực quan hóa kết quả kiểm thử xâm nhập theo thời gian thực."
+  ],
+  "stars": 34900,
+  "starsToday": 65,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "ai-security-tool",
+    "autonomous-agents",
+    "golang",
+    "graphql",
+    "multi-agent-system",
+    "penetration-testing-tools",
+    "react",
+    "security-automation",
+    "security-testing",
+    "security-tools",
+    "anthropic",
+    "gpt",
+    "offensive-security",
+    "open-source",
+    "openai",
+    "penetration-testing",
+    "self-hosted"
+  ],
+  "notePath": "notes/Security-Pentest.md",
+  "createdAt": "2026-11-24T07:47:25.511Z"
+}

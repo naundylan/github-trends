@@ -1,0 +1,44 @@
+{
+  "id": "d3dfa9c8-16c5-4342-bf98-35e28deb402e",
+  "repo": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "category": "AI Agent/Automation",
+  "summary": "Trợ lý AI tự động thu thập và tổng hợp thông tin từ nhiều nguồn (Reddit, X, YouTube, HN, Polymarket, web) để tạo bản tóm tắt có cơ sở.",
+  "usecases": [
+    "Nghiên cứu thị trường: Thu thập tin tức, ý kiến người dùng từ nhiều nền tảng để phân tích xu hướng.",
+    "Tìm hiểu sự kiện hiện tại: Tổng hợp thông tin từ mạng xã hội và báo chí về một chủ đề cụ thể.",
+    "Tự động hóa báo cáo: Tạo bản tóm tắt định kỳ cho team hoặc cá nhân."
+  ],
+  "ideas": [
+    "Kết hợp với email/notifications để gửi bản tóm tắt hàng ngày vào mailbox.",
+    "Mở rộng hỗ trợ cho các nền tảng khác như LinkedIn hoặc các diễn đàn chuyên ngành.",
+    "Thêm khả năng đánh giá nguồn tin để ưu tiên thông tin uy tín."
+  ],
+  "stars": 73673,
+  "starsToday": 797,
+  "language": "Python",
+  "topics": [
+    "reddit",
+    "twitter",
+    "polymarket",
+    "youtube",
+    "instagram",
+    "tiktok",
+    "agent-skills",
+    "artificial-intelligence",
+    "bot",
+    "command-line",
+    "data-science",
+    "dsh-plugin",
+    "golang",
+    "llms",
+    "nlp",
+    "osint",
+    "python3",
+    "dsh",
+    "automation",
+    "terminal"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-24T07:47:25.511Z"
+}
