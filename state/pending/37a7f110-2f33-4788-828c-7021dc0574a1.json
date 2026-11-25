@@ -1,0 +1,23 @@
+{
+  "id": "37a7f110-2f33-4788-828c-7021dc0574a1",
+  "repo": "qqxpee/antigravity2-cn",
+  "url": "https://github.com/qqxpee/antigravity2-cn",
+  "category": "Developer Tool",
+  "summary": "Antigravity 2.0 là bộ gói localization không phụ thuộc cho Electron 2.0, sử dụng cơ chế inject ASAR ở cấp độ vật lý để localize giao diện, menu hệ thống, thanh tác vụ và cài đặt, hỗ trợ cài đặt một nút và khôi phục trạng thái ban đầu.",
+  "usecases": [
+    "Localize existing Electron apps to Vietnamese or Chinese without source code changes",
+    "Deploy multi-language support instantly during application distribution",
+    "Test language packs with one-click injection and seamless rollback"
+  ],
+  "ideas": [
+    "Automate language pack injection in CI/CD pipelines for Electron releases",
+    "Create a web-based dashboard for translators to manage and preview Electron app localizations",
+    "Adapt the ASAR injection technique to support other desktop frameworks like Tauri"
+  ],
+  "stars": 2452,
+  "starsToday": 219,
+  "language": "JavaScript",
+  "topics": [],
+  "notePath": "notes/Developer-Tool.md",
+  "createdAt": "2026-11-25T16:34:17.008Z"
+}
