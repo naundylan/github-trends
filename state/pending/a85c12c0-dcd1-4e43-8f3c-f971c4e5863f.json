@@ -1,0 +1,44 @@
+{
+  "id": "a85c12c0-dcd1-4e43-8f3c-f971c4e5863f",
+  "repo": "michael-denyer/pstack-claude",
+  "url": "https://github.com/michael-denyer/pstack-claude",
+  "category": "AI Agent/Automation",
+  "summary": "Harness và kỹ năng cho Claude Code và các agent AI, cung cấp các quy trình làm việc tương tự Codex, Copilot và Gemini.",
+  "usecases": [
+    "Tạo và tùy chỉnh quy trình làm việc cho Claude Code trong các dự án phát triển phần mềm phức tạp.",
+    "Tích hợp khả năng agentic-ai vào IDE hoặc công cụ dòng lệnh để tự động hóa code review và sinh code.",
+    "So sánh và chuyển đổi giữa các harness AI khác (Codex, Copilot, Gemini) với cùng một set kỹ năng pstack."
+  ],
+  "ideas": [
+    "Xây dựng platform quản lý agent AI riêng cho team phát triển, đồng bộ giữa Claude, Codex, Gemini.",
+    "Tích hợp vào pipeline CI/CD để tự động code review và sinh test cases.",
+    "Tạo giao diện đồ họa visualizing agent workflows để dễ dàng debug và tối ưu luồng làm việc."
+  ],
+  "stars": 4836,
+  "starsToday": 59,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "agentic-ai",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-code-skills",
+    "claude-skills",
+    "code-review",
+    "codex",
+    "gemini-cli",
+    "opencode",
+    "pstack",
+    "chatgpt",
+    "codex-cli",
+    "codex-plugin",
+    "codex-skills",
+    "agent-plugin",
+    "claude-plugin",
+    "muse-plugin",
+    "antigravity-skills"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-25T03:53:44.078Z"
+}

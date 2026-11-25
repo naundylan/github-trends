@@ -1,0 +1,42 @@
+{
+  "id": "6dc19ad5-1b26-45fe-9610-8a1eceff28bb",
+  "repo": "t8y2/dbx",
+  "url": "https://github.com/t8y2/dbx",
+  "category": "Database",
+  "summary": "Client cơ sở dữ liệu đa nền tảng nhẹ hỗ trợ 100+ loại cơ sở dữ liệu, tích hợp AI, CLI và Docker.",
+  "usecases": [
+    "Quản lý và truy vấn nhiều loại cơ sở dữ liệu (MySQL, PostgreSQL, MongoDB, DuckDB,...) từ một giao diện duy nhất.",
+    "Phát triển và debug cơ sở dữ liệu trên desktop hoặc thông qua Docker container trong môi trường đa nền tảng.",
+    "Sử dụng AI tích hợp để hỗ trợ viết câu truy vấn, tối ưu hiệu suất và tạo mã SQL tự động."
+  ],
+  "ideas": [
+    "Tích hợp báo cáo tự động và trực quan hóa dữ liệu trực tiếp trong client cho dữ liệu analysts.",
+    "Phát triển plugin cho IDE phổ biến (VS Code, IntelliJ) để truy cập cơ sở dữ liệu nhanh mà không rời editor.",
+    "Tạo chế độ offline/local-first sync cho DuckDB/SQLite trong các ứng dụng edge computing."
+  ],
+  "stars": 31351,
+  "starsToday": 108,
+  "language": "Rust",
+  "topics": [
+    "clickhouse",
+    "database",
+    "database-client",
+    "database-management",
+    "gui",
+    "mongodb",
+    "mysql",
+    "postgresql",
+    "redis",
+    "rust",
+    "sql-server",
+    "sqlite",
+    "tauri",
+    "vue",
+    "ai",
+    "cli",
+    "docker",
+    "mcp"
+  ],
+  "notePath": "notes/Database.md",
+  "createdAt": "2026-11-25T03:53:44.078Z"
+}
