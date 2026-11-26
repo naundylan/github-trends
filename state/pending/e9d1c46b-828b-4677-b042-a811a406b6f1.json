@@ -1,0 +1,23 @@
+{
+  "id": "e9d1c46b-828b-4677-b042-a811a406b6f1",
+  "repo": "egoist/mygo",
+  "url": "https://github.com/egoist/mygo",
+  "category": "Desktop App",
+  "summary": "Thư viện Go cho phép xây dựng ứng dụng desktop sử dụng giao diện web (HTML/JS/CSS), kết hợp hiệu suất Go với trải nghiệm hiện đại của web.",
+  "usecases": [
+    "Xây dựng ứng dụng desktop cross-platform với backend Go và giao diện web",
+    "Tạo các công cụdesktop nhẹ thay thế Electron cho các dự án nhỏ",
+    "Prototyping nhanh các ứng dụngdesktop sử dụng kỹ năng web đã biết"
+  ],
+  "ideas": [
+    "Kết hợp với Go's GUI libraries để tạo ứng dụng hybrid native/web",
+    "Phát triển một bộ công cụ quản lý dự án cá nhân hoàn toàn bằng Go+Web",
+    "Build một desktop client cho dịch vụ có API với giao diện tùy chỉnh"
+  ],
+  "stars": 6916,
+  "starsToday": 52,
+  "language": "Go",
+  "topics": [],
+  "notePath": "notes/Desktop-App.md",
+  "createdAt": "2026-11-26T20:45:41.206Z"
+}
