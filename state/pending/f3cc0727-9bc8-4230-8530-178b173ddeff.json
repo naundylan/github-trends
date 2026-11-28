@@ -1,0 +1,27 @@
+{
+  "id": "f3cc0727-9bc8-4230-8530-178b173ddeff",
+  "repo": "agent-substrate/substrate",
+  "url": "https://github.com/agent-substrate/substrate",
+  "category": "AI Agent/Automation",
+  "summary": "Agent Substrate là hệ thống lõi dùng để xây dựng và quản lý các ứng dụng agent, cung cấp sandboxing và tích hợp CNCF bằng Go.",
+  "usecases": [
+    "Triển khai các agent tự động hóa doanh nghiệp với隔离 an toàn",
+    "Xây dựng hệ thống xử lý tác vụ phức tạp qua nhiều agent cùng làm việc",
+    "Tích hợp vào quy trình CI/CD để tự động hóa phát triển và kiểm thử"
+  ],
+  "ideas": [
+    "Kết hợp với LLM tạo ra agent có khả năng tự học và điều chỉnh hành vi trong sandbox",
+    "Phát triển nền tảng đa-agent phối hợp giải quyết bài toán phân tán",
+    "Tạo plugin IDE cho phép tương tác trực tiếp với agent qua Substrate"
+  ],
+  "stars": 8530,
+  "starsToday": 119,
+  "language": "Go",
+  "topics": [
+    "agents",
+    "cncf",
+    "sandboxing"
+  ],
+  "notePath": "notes/AI-Agent-Automation.md",
+  "createdAt": "2026-11-28T00:54:33.245Z"
+}
