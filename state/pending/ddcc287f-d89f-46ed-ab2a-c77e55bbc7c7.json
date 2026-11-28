@@ -1,0 +1,23 @@
+{
+  "id": "ddcc287f-d89f-46ed-ab2a-c77e55bbc7c7",
+  "repo": "NYLLON-SOFTWARE/SignuDoc",
+  "url": "https://github.com/NYLLON-SOFTWARE/SignuDoc",
+  "category": "Web Frontend",
+  "summary": "SignuDoc là nền tảng mã nguồn mở cho ký điện tử tài liệu, cho phép người dùng ký và quản lý tài liệu an toàn mà không phụ thuộc vào DocuSign, được xây dựng bằng TypeScript.",
+  "usecases": [
+    "Ký hợp đồng doanh nghiệp trực tuyến mà không cần phần mềm thương mại",
+    "Tích hợp khả năng ký tài liệu vào ứng dụng nội bộ doanh nghiệp",
+    "Phân phối bản self-hosted để tuân thủ chính sách dữ liệu riêng"
+  ],
+  "ideas": [
+    "Kết hợp xác thực hai yếu tố (2FA) cho các giao dịch ký",
+    "Phát triển plugin cho các nền tảng quản lý dự án như Jira hoặc Notion",
+    "Tạo API công khai cho phép các bên thứ ba tích hợp ký tài liệu vào quy trình của họ"
+  ],
+  "stars": 3625,
+  "starsToday": 197,
+  "language": "TypeScript",
+  "topics": [],
+  "notePath": "notes/Web-Frontend.md",
+  "createdAt": "2026-11-28T11:13:08.044Z"
+}
